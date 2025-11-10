@@ -6,6 +6,3 @@ remote_theme: jekyll-theme-cayman #pages-themes/minimal
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
-# --- Pagination Settings ---
-paginate: 20           # How many posts to show per page
-paginate_path: "/page:num/" # The URL structure for subsequent pages
