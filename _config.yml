@@ -1,4 +1,5 @@
 title: Derby City Watch Real-Time Feed
+timezone: America/Kentucky/Louisville
 description: Public safety updates processed from scanner traffic.
 # Use a mobile-friendly theme supported by GitHub Pages
 remote_theme: dirkfabisch/mediator #pages-themes/minimal
