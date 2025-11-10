@@ -5,13 +5,15 @@ title: Derby City Watch Live Feed
 
 <p>Live updates are below. Check back often!</p>
 
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <div class="full-post-card">
+    <span class="post-meta">{{ post.date | date: "%B %-d, %Y at %I:%M %p EST" }}</span>
+    <h2>{{ post.title }}</h2>
+    
+    <div class="post-content">
+      {{ post.content }}
+    </div>
+    
+  </div>
+  <hr style="margin: 25px 0; border-top: 1px dashed #ccc;">
+{% endfor %}
