@@ -1,0 +1,7 @@
+title: Derby City Watch Real-Time Feed
+description: Public safety updates processed from scanner traffic.
+# Use a mobile-friendly theme supported by GitHub Pages
+remote_theme: pages-themes/minimal
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
