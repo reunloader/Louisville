@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derby City Watch - Scanner Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🚨 Derby City Watch</h1>
+            <p class="subtitle">Real-time Louisville Scanner Updates Chatbot</p>
+            <div class="stats" id="stats">
+                <span id="incident-count">Loading...</span>
+                <span id="ai-provider"></span>
+            </div>
+        </header>
+
+        <div class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>👋 Hi! I'm your Derby City Watch assistant. I can help you find information about recent emergency incidents, traffic, and public safety events in Louisville, KY.</p>
+                        <p><strong>Try asking me:</strong></p>
+                        <ul>
+                            <li>"What's happening around Bardstown Road?"</li>
+                            <li>"Any traffic incidents on I-65?"</li>
+                            <li>"Are there any recent fire calls in downtown?"</li>
+                            <li>"What incidents happened today?"</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-container">
+                <form id="chatForm" class="chat-form">
+                    <input
+                        type="text"
+                        id="messageInput"
+                        class="message-input"
+                        placeholder="Ask about locations, incidents, or traffic..."
+                        autocomplete="off"
+                        required
+                    >
+                    <button type="submit" class="send-button" id="sendButton">
+                        <span id="buttonText">Send</span>
+                        <span id="buttonLoader" class="loader" style="display: none;"></span>
+                    </button>
+                </form>
+                <div class="quick-actions">
+                    <button class="action-btn" onclick="clearChat()">Clear Chat</button>
+                    <button class="action-btn" onclick="reloadData()">Reload Data</button>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>Data from live Louisville police, fire, and EMS scanner traffic. Updates may not be comprehensive. For emergencies, call 911.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
