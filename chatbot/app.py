@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 import os
 from scanner_parser import ScannerParser
 from ai_service import AIService
+from auto_reload import AutoReloader
 import secrets
 
 # Load environment variables
@@ -21,13 +22,22 @@ CORS(app)
 # Initialize services
 posts_dir = os.getenv('POSTS_DIRECTORY', '../_posts')
 ai_provider = os.getenv('AI_PROVIDER', 'gemini')
+auto_reload_enabled = os.getenv('AUTO_RELOAD', 'true').lower() == 'true'
+auto_reload_interval = int(os.getenv('AUTO_RELOAD_INTERVAL', '60'))  # seconds
 
 print(f"Initializing Derby City Watch Chatbot...")
 print(f"Posts directory: {posts_dir}")
 print(f"AI Provider: {ai_provider}")
+print(f"Auto-reload: {auto_reload_enabled} (every {auto_reload_interval}s)")
 
 scanner_parser = ScannerParser(posts_dir)
 ai_service = AIService(provider=ai_provider)
+
+# Initialize auto-reloader
+auto_reloader = None
+if auto_reload_enabled:
+    auto_reloader = AutoReloader(scanner_parser, posts_dir, auto_reload_interval)
+    auto_reloader.start()
 
 
 @app.route('/')
@@ -130,6 +140,22 @@ def clear_conversation():
     """Clear conversation history."""
     session['conversation'] = []
     return jsonify({'success': True, 'message': 'Conversation cleared'})
+
+
+@app.route('/api/auto-reload-status', methods=['GET'])
+def auto_reload_status():
+    """Get auto-reload status."""
+    if auto_reloader:
+        return jsonify({
+            'success': True,
+            'enabled': True,
+            **auto_reloader.get_status()
+        })
+    else:
+        return jsonify({
+            'success': True,
+            'enabled': False
+        })
 
 
 @app.route('/health', methods=['GET'])

@@ -144,6 +144,19 @@ async function loadStats() {
             document.getElementById('ai-provider').textContent =
                 `AI: ${data.ai_provider.toUpperCase()}`;
         }
+
+        // Check auto-reload status
+        const reloadResponse = await fetch('/api/auto-reload-status');
+        const reloadData = await reloadResponse.json();
+
+        if (reloadData.success && reloadData.enabled) {
+            const statsDiv = document.getElementById('stats');
+            const autoReloadSpan = document.createElement('span');
+            autoReloadSpan.id = 'auto-reload-status';
+            autoReloadSpan.textContent = '🔄 Auto-update ON';
+            autoReloadSpan.title = `Checking for new files every ${reloadData.check_interval}s`;
+            statsDiv.appendChild(autoReloadSpan);
+        }
     } catch (error) {
         console.error('Failed to load stats:', error);
     }
