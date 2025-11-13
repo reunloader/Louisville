@@ -2,8 +2,8 @@ title: Derby City Watch
 name: Derby City Watch Feed
 timezone: America/New_York
 description: Public safety updates processed from scanner traffic in Louisville, Kentucky.
-# Use minima theme for multi-page navigation
-theme: minima
+# Use a mobile-friendly theme supported by GitHub Pages
+remote_theme: jekyll/minima #jekyll-theme-cayman & pages-themes/minimal
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
