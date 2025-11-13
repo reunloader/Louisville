@@ -7,16 +7,12 @@ title: Live Feed
 
 Live updates from public Louisville Metro safety feeds. Check back often for the latest incidents and responses.
 
-<div class="posts-list">
-{% for post in site.posts limit:50 %}
-  <div class="post-card">
-    <span class="post-meta">{{ post.date | date: "%B %-d, %Y at %I:%M %p EST" }}</span>
-    <h3>{{ post.title }}</h3>
-
-    <div class="post-content">
-      {{ post.content }}
-    </div>
-  </div>
-  <hr style="margin: 25px 0; border-top: 1px dashed #ccc;">
-{% endfor %}
+<div id="posts-list" class="posts-list">
+  <!-- Posts will be loaded dynamically via infinite scroll -->
 </div>
+
+<div id="loading-indicator" style="text-align: center; padding: 20px; display: none;">
+  <p style="color: #666;">Loading more posts...</p>
+</div>
+
+<script src="{{ '/assets/js/infinite-scroll.js' | relative_url }}"></script>
