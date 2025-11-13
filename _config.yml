@@ -2,27 +2,7 @@ title: Derby City Watch Real-Time Feed
 timezone: America/New_York
 description: Public safety updates processed from scanner traffic.
 # Use a mobile-friendly theme supported by GitHub Pages
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+remote_theme: jekyll-theme-cayman #pages-themes/minimal
 markdown: kramdown
-
-# Include pages from _pages directory
-include:
-  - _pages
-
-# Defaults for pages
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: true
-
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
