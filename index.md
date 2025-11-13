@@ -3,7 +3,7 @@ layout: home
 title: Live Feed
 ---
 
-## Real-Time Scanner Updates
+## Near Real-Time Scanner Updates
 
 Live updates from Louisville Metro public safety scanner traffic. Check back often for the latest incidents and responses.
 
