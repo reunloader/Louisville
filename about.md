@@ -10,7 +10,7 @@ Derby City Watch provides near real-time public safety updates for the Louisvill
 
 ### What We Do
 
-We publicly information to create timely updates about incidents, emergency responses, and public safety activities happening across our community.
+We provide publicly available information to create timely updates about incidents, emergency responses, and public safety activities happening across our community.
 
 ### Why It Matters
 
