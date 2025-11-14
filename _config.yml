@@ -8,7 +8,7 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
-paginate: 100 # Number of posts to show per page
+paginate: 500 # Number of posts to show per page
 paginate_path: "/page/:num/"
 
 # Configure navigation menu
