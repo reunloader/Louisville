@@ -21,15 +21,6 @@ Staying informed about public safety activity in your neighborhood helps you:
 - **Understand patterns** in emergency response and community safety trends
 - **Stay connected** to what's happening in Louisville in near real-time
 
-### How It Works
-
-Our automated system:
-
-1. Monitors Louisville Metro public safety radio frequencies
-2. Processes scanner traffic using automated transcription
-3. Filters and categorizes relevant incidents
-4. Posts updates to this feed automatically throughout the day and night
-
 ### Coverage Area
 
 We cover Louisville Metro and surrounding areas in Jefferson County, Kentucky, including:
