@@ -7,6 +7,9 @@ remote_theme: jekyll/minima #jekyll-theme-cayman & pages-themes/minimal
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+paginate: 100 # Number of posts to show per page
+paginate_path: "/page/:num/"
 
 # Configure navigation menu
 header_pages:
