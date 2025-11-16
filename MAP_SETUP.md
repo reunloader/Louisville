@@ -1,3 +1,8 @@
+---
+layout: null
+exclude: true
+---
+
 # Event Map Setup Instructions
 
 ## Overview
@@ -105,8 +110,8 @@ Same line as above - the third parameter:
 ### Change Number of Events Shown
 Edit line 135 in `_layouts/map.html`:
 
-```javascript
-{% for post in site.posts limit:500 %}
+```liquid
+{% raw %}{% for post in site.posts limit:500 %}{% endraw %}
 //                              ↑ change this number
 ```
 
@@ -148,8 +153,8 @@ L.tileLayer('https://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
 If geocoding takes too long, you can:
 
 1. **Limit the number of posts** (line 135):
-   ```javascript
-   {% for post in site.posts limit:200 %}  // Reduced from 500
+   ```liquid
+   {% raw %}{% for post in site.posts limit:200 %}{% endraw %}  // Reduced from 500
    ```
 
 2. **Pre-cache coordinates**: Add lat/lng to post frontmatter:
