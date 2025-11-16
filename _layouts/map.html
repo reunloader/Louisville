@@ -12,9 +12,6 @@
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin="anonymous"/>
 
-  <!-- Flatpickr CSS for date range picker -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
-
   <style>
     body {
       margin: 0;
@@ -85,13 +82,12 @@
       font-weight: 500;
       font-size: 14px;
     }
-    .map-controls input {
+    .map-controls input[type="date"] {
       padding: 8px 12px;
       border: 1px solid #ddd;
       border-radius: 4px;
       font-size: 14px;
-      min-width: 250px;
-      cursor: pointer;
+      min-width: 150px;
     }
     .map-controls input:hover {
       border-color: #999;
@@ -199,8 +195,10 @@
 
           <div class="map-controls">
             <div class="date-picker-row">
-              <label for="dateRange">Date Range:</label>
-              <input type="text" id="dateRange" placeholder="Select date or date range...">
+              <label for="startDate">From:</label>
+              <input type="date" id="startDate">
+              <label for="endDate">To:</label>
+              <input type="date" id="endDate">
             </div>
             <button onclick="resetFilters()">Show All</button>
           </div>
@@ -217,9 +215,6 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin="anonymous"></script>
-
-  <!-- Flatpickr JS for date range picker -->
-  <script src="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.js"></script>
 
   <script>
     // Store all events data
@@ -243,7 +238,6 @@
     let map;
     let markers = [];
     let markerLayer;
-    let dateRangePicker;
 
     // Extract addresses from event content
     function extractAddresses(content) {
@@ -577,69 +571,36 @@
         updateStats();
       }, uncachedItems.length > 0 ? 1000 : 100);
 
-      // Initialize date range picker after map is ready
-      setTimeout(() => {
-        const today = new Date();
-        const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
+      // Set default date range (yesterday to today)
+      const today = new Date();
+      const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
 
-        if (typeof flatpickr === 'undefined') {
-          console.error('Flatpickr library not loaded');
-          return;
-        }
+      document.getElementById('endDate').valueAsDate = today;
+      document.getElementById('startDate').valueAsDate = yesterday;
 
-        dateRangePicker = flatpickr("#dateRange", {
-          mode: "range",
-          dateFormat: "M j, Y",
-          defaultDate: [yesterday, today],
-          maxDate: "today",
-          allowInput: false,
-          clickOpens: true,
-          onChange: function(selectedDates, dateStr, instance) {
-            applyFilters();
-          }
-        });
+      // Add event listeners to date inputs
+      document.getElementById('startDate').addEventListener('change', applyFilters);
+      document.getElementById('endDate').addEventListener('change', applyFilters);
 
-        console.log('Date picker initialized:', dateRangePicker);
-
-        // Initial filter application
-        applyFilters();
-      }, 500);
+      // Apply initial filters
+      applyFilters();
     }
 
     // Filter markers based on date range
     function applyFilters() {
-      if (!dateRangePicker) return;
-
-      const selectedDates = dateRangePicker.selectedDates;
+      const startDate = document.getElementById('startDate').value;
+      const endDate = document.getElementById('endDate').value;
 
       markers.forEach(marker => {
         const event = marker.eventData;
         let show = true;
 
-        // Date filter - handle both range and single day selection
-        if (selectedDates.length > 0) {
-          const eventDate = new Date(event.date);
-
-          if (selectedDates.length === 1) {
-            // Single day selected
-            const selectedDay = new Date(selectedDates[0]);
-            selectedDay.setHours(0, 0, 0, 0);
-            const nextDay = new Date(selectedDay);
-            nextDay.setDate(nextDay.getDate() + 1);
-
-            if (eventDate < selectedDay || eventDate >= nextDay) {
-              show = false;
-            }
-          } else if (selectedDates.length === 2) {
-            // Date range selected
-            const startDate = new Date(selectedDates[0]);
-            const endDate = new Date(selectedDates[1]);
-            endDate.setHours(23, 59, 59, 999); // Include the end date
-
-            if (eventDate < startDate || eventDate > endDate) {
-              show = false;
-            }
-          }
+        // Date filter
+        if (startDate && event.date < startDate) {
+          show = false;
+        }
+        if (endDate && event.date > endDate) {
+          show = false;
         }
 
         if (show) {
@@ -654,9 +615,9 @@
 
     // Reset all filters
     function resetFilters() {
-      if (dateRangePicker) {
-        dateRangePicker.clear();
-      }
+      // Clear date inputs
+      document.getElementById('startDate').value = '';
+      document.getElementById('endDate').value = '';
 
       // Show all markers
       markers.forEach(marker => {
