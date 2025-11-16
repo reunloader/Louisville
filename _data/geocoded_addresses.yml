@@ -1228,6 +1228,9 @@
 1700 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
+1700 Richmond Dr, Louisville, KY:
+  lat: 38.222074
+  lng: -85.707066
 1700 Shady Villa Ct, Louisville, KY:
   lat: 38.1632086
   lng: -85.6804864
@@ -2166,6 +2169,13 @@
   scene to safely manage the animals. The owner was present and attempting to secure
   the dogs., Louisville, KY
 : null
+2800 Eddy St, Louisville, KY:
+  lat: 38.256079
+  lng: -85.797282
+? 2800 Eddy St. Upon their arrival, responders detected unusual smells within the
+  hallway. The incident was located between South 29th and South 28th Streets., Louisville,
+  KY
+: null
 2800 Frankfort Ave, Louisville, KY:
   lat: 38.2541178
   lng: -85.690105
@@ -2569,6 +2579,9 @@
   lat: 38.2184385
   lng: -85.6180141
 3100 Wayside Dr, Louisville, KY: null
+3100 Winkler Ave, Louisville, KY:
+  lat: 38.2109077
+  lng: -85.7697939
 3100 [Street Name Not Provided], Louisville, KY: null
 3100 [Street Name] 7:00 a.m.AM, Louisville, KY: null
 314 Longview Park Place, Louisville, KY:
@@ -2683,6 +2696,9 @@
 3400 Vermont Ave, Louisville, KY:
   lat: 38.2554064
   lng: -85.8075985
+3400 W Jefferson St, Louisville, KY:
+  lat: 38.259772
+  lng: -85.8073335
 3400 Warner Ave, Louisville, KY: null
 3400 West Broadway, Louisville, KY:
   lat: 38.2496303
