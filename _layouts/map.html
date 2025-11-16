@@ -12,6 +12,9 @@
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin="anonymous"/>
 
+  <!-- Flatpickr CSS for date range picker -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
   <style>
     body {
       margin: 0;
@@ -68,28 +71,37 @@
       padding: 15px;
       background: #f5f5f5;
       border-radius: 5px;
+      display: flex;
+      align-items: center;
+      gap: 15px;
     }
     .map-controls label {
-      margin-right: 15px;
-      display: inline-block;
+      font-weight: 500;
+      font-size: 14px;
     }
-    .map-controls select, .map-controls input {
-      margin-right: 20px;
-      padding: 5px;
+    .map-controls input {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+      min-width: 250px;
+      cursor: pointer;
+    }
+    .map-controls input:hover {
+      border-color: #999;
     }
     .map-controls button {
-      padding: 5px 15px;
+      padding: 8px 20px;
       background: #333;
       color: white;
       border: none;
-      border-radius: 3px;
+      border-radius: 4px;
       cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
     }
     .map-controls button:hover {
       background: #555;
-    }
-    .map-controls input[type="checkbox"] {
-      margin-right: 5px;
     }
     .popup-content {
       max-width: 300px;
@@ -180,30 +192,9 @@
           {{ content }}
 
           <div class="map-controls">
-            <label>
-              Category:
-              <select id="categoryFilter">
-                <option value="all">All Categories</option>
-                <option value="fire-&-rescue">Fire & Rescue</option>
-                <option value="medical">Medical</option>
-                <option value="Police">Police</option>
-              </select>
-            </label>
-
-            <label>
-              Date Range:
-              <input type="date" id="startDate">
-              to
-              <input type="date" id="endDate">
-            </label>
-
-            <label>
-              <input type="checkbox" id="viewportFilter" checked>
-              Show only events in current view
-            </label>
-
-            <button onclick="applyFilters()">Apply Filters</button>
-            <button onclick="resetFilters()">Reset</button>
+            <label for="dateRange">Date Range:</label>
+            <input type="text" id="dateRange" placeholder="Select date or date range...">
+            <button onclick="resetFilters()">Show All</button>
           </div>
 
           <div id="stats" class="map-stats" style="display:none;"></div>
@@ -218,6 +209,9 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin="anonymous"></script>
+
+  <!-- Flatpickr JS for date range picker -->
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 
   <script>
     // Store all events data
@@ -241,6 +235,7 @@
     let map;
     let markers = [];
     let markerLayer;
+    let dateRangePicker;
 
     // Extract addresses from event content
     function extractAddresses(content) {
@@ -513,13 +508,6 @@
       // Create a layer group for markers
       markerLayer = L.layerGroup().addTo(map);
 
-      // Add map move/zoom event listener for viewport filtering
-      map.on('moveend', function() {
-        if (document.getElementById('viewportFilter').checked) {
-          applyFilters();
-        }
-      });
-
       // Process all events
       let allItems = [];
 
@@ -547,9 +535,6 @@
       console.log(`Cached: ${cachedItems.length}, Need to geocode: ${uncachedItems.length}`);
 
       // Process cached addresses immediately (no API calls needed)
-      document.getElementById('loading').innerHTML =
-        `Loading ${cachedItems.length} cached locations...`;
-
       cachedItems.forEach(item => {
         const coords = geocodeCache[item.address];
         if (coords) {
@@ -562,10 +547,6 @@
 
       // Process uncached addresses with delay (respecting rate limits)
       if (uncachedItems.length > 0) {
-        document.getElementById('loading').innerHTML =
-          `Loaded ${cachedItems.length} cached. Geocoding ${uncachedItems.length} new addresses...`;
-
-        let geocodedCount = 0;
         for (let i = 0; i < uncachedItems.length; i++) {
           const item = uncachedItems[i];
 
@@ -574,10 +555,6 @@
 
           if (coords) {
             createMarkerWithCoords(item.event, item.address, coords);
-            geocodedCount++;
-
-            document.getElementById('loading').innerHTML =
-              `Cached: ${cachedItems.length}, Geocoded: ${geocodedCount}/${uncachedItems.length}`;
 
             // Apply filters after each new marker
             applyFilters();
@@ -592,41 +569,59 @@
         updateStats();
       }, uncachedItems.length > 0 ? 1000 : 100);
 
-      // Set date range defaults
+      // Initialize date range picker
       const today = new Date();
       const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
-      document.getElementById('endDate').valueAsDate = today;
-      document.getElementById('startDate').valueAsDate = weekAgo;
+
+      dateRangePicker = flatpickr("#dateRange", {
+        mode: "range",
+        dateFormat: "Y-m-d",
+        defaultDate: [weekAgo, today],
+        maxDate: "today",
+        onChange: function(selectedDates, dateStr, instance) {
+          applyFilters();
+        },
+        onReady: function(selectedDates, dateStr, instance) {
+          // Allow single day selection by clicking the same day twice
+          instance.config.allowInput = true;
+        }
+      });
     }
 
-    // Filter markers based on controls
+    // Filter markers based on date range
     function applyFilters() {
-      const category = document.getElementById('categoryFilter').value;
-      const startDate = document.getElementById('startDate').value;
-      const endDate = document.getElementById('endDate').value;
-      const viewportFilter = document.getElementById('viewportFilter').checked;
-      const bounds = map.getBounds();
+      if (!dateRangePicker) return;
+
+      const selectedDates = dateRangePicker.selectedDates;
 
       markers.forEach(marker => {
         const event = marker.eventData;
         let show = true;
 
-        // Category filter
-        if (category !== 'all' && !event.categories.includes(category)) {
-          show = false;
-        }
+        // Date filter - handle both range and single day selection
+        if (selectedDates.length > 0) {
+          const eventDate = new Date(event.date);
 
-        // Date filter
-        if (startDate && event.date < startDate) {
-          show = false;
-        }
-        if (endDate && event.date > endDate) {
-          show = false;
-        }
+          if (selectedDates.length === 1) {
+            // Single day selected
+            const selectedDay = new Date(selectedDates[0]);
+            selectedDay.setHours(0, 0, 0, 0);
+            const nextDay = new Date(selectedDay);
+            nextDay.setDate(nextDay.getDate() + 1);
 
-        // Viewport filter
-        if (viewportFilter && !bounds.contains(marker.getLatLng())) {
-          show = false;
+            if (eventDate < selectedDay || eventDate >= nextDay) {
+              show = false;
+            }
+          } else if (selectedDates.length === 2) {
+            // Date range selected
+            const startDate = new Date(selectedDates[0]);
+            const endDate = new Date(selectedDates[1]);
+            endDate.setHours(23, 59, 59, 999); // Include the end date
+
+            if (eventDate < startDate || eventDate > endDate) {
+              show = false;
+            }
+          }
         }
 
         if (show) {
@@ -641,14 +636,16 @@
 
     // Reset all filters
     function resetFilters() {
-      document.getElementById('categoryFilter').value = 'all';
-      const today = new Date();
-      const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
-      document.getElementById('endDate').valueAsDate = today;
-      document.getElementById('startDate').valueAsDate = weekAgo;
-      document.getElementById('viewportFilter').checked = true;
+      if (dateRangePicker) {
+        dateRangePicker.clear();
+      }
 
-      applyFilters();
+      // Show all markers
+      markers.forEach(marker => {
+        marker.addTo(markerLayer);
+      });
+
+      updateStats();
     }
 
     // Initialize map when page loads
