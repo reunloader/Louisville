@@ -129,6 +129,31 @@
       line-height: 1;
       margin-bottom: 20px;
     }
+    .legend {
+      background: white;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      line-height: 24px;
+      font-size: 14px;
+    }
+    .legend h4 {
+      margin: 0 0 8px 0;
+      font-size: 14px;
+      font-weight: bold;
+    }
+    .legend i {
+      width: 18px;
+      height: 18px;
+      float: left;
+      margin-right: 8px;
+      border-radius: 50%;
+    }
+    .legend .legend-item {
+      margin-bottom: 5px;
+      display: flex;
+      align-items: center;
+    }
   </style>
 </head>
 <body>
@@ -271,8 +296,8 @@
         popupAnchor: [1, -34],
         shadowSize: [41, 41]
       }),
-      orange: L.icon({
-        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
+      yellow: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
         iconSize: [25, 41],
         iconAnchor: [12, 41],
@@ -408,10 +433,10 @@
     // Create marker for event with coordinates
     function createMarkerWithCoords(event, address, coords) {
       // Determine marker color based on category
-      let markerIcon = markerIcons.red; // default
-      if (event.categories.includes('medical')) markerIcon = markerIcons.blue;
-      else if (event.categories.includes('fire-&-rescue')) markerIcon = markerIcons.orange;
-      else if (event.categories.includes('Police')) markerIcon = markerIcons.red;
+      let markerIcon = markerIcons.blue; // default (police)
+      if (event.categories.includes('medical')) markerIcon = markerIcons.yellow;
+      else if (event.categories.includes('fire-&-rescue')) markerIcon = markerIcons.red;
+      else if (event.categories.includes('Police')) markerIcon = markerIcons.blue;
 
       const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
 
@@ -461,6 +486,29 @@
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         maxZoom: 19
       }).addTo(map);
+
+      // Add legend
+      const legend = L.control({position: 'bottomright'});
+      legend.onAdd = function(map) {
+        const div = L.DomUtil.create('div', 'legend');
+        div.innerHTML = `
+          <h4>Event Categories</h4>
+          <div class="legend-item">
+            <i style="background: #2A81CB"></i>
+            <span>Police</span>
+          </div>
+          <div class="legend-item">
+            <i style="background: #CB2B3E"></i>
+            <span>Fire & Rescue</span>
+          </div>
+          <div class="legend-item">
+            <i style="background: #FFD326"></i>
+            <span>Medical</span>
+          </div>
+        `;
+        return div;
+      };
+      legend.addTo(map);
 
       // Create a layer group for markers
       markerLayer = L.layerGroup().addTo(map);
