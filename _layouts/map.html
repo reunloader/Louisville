@@ -575,17 +575,18 @@
 
       dateRangePicker = flatpickr("#dateRange", {
         mode: "range",
-        dateFormat: "Y-m-d",
+        dateFormat: "M j, Y",
         defaultDate: [weekAgo, today],
         maxDate: "today",
+        allowInput: false,
+        clickOpens: true,
         onChange: function(selectedDates, dateStr, instance) {
           applyFilters();
-        },
-        onReady: function(selectedDates, dateStr, instance) {
-          // Allow single day selection by clicking the same day twice
-          instance.config.allowInput = true;
         }
       });
+
+      // Initial filter application
+      applyFilters();
     }
 
     // Filter markers based on date range
