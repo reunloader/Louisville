@@ -13,6 +13,49 @@
     crossorigin="anonymous"/>
 
   <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    .site-header {
+      border-top: 5px solid #424242;
+      border-bottom: 1px solid #e8e8e8;
+      min-height: 55px;
+      padding: 10px 0;
+    }
+    .site-header .wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .site-title {
+      font-size: 26px;
+      font-weight: 300;
+      line-height: 54px;
+      margin-bottom: 0;
+      text-decoration: none;
+      color: #424242;
+    }
+    .site-nav {
+      display: flex;
+      gap: 20px;
+    }
+    .site-nav a {
+      color: #424242;
+      text-decoration: none;
+      line-height: 54px;
+    }
+    .site-nav a:hover {
+      text-decoration: underline;
+    }
+    .wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 30px 20px;
+    }
     #map {
       height: 600px;
       width: 100%;
@@ -44,6 +87,9 @@
     }
     .map-controls button:hover {
       background: #555;
+    }
+    .map-controls input[type="checkbox"] {
+      margin-right: 5px;
     }
     .popup-content {
       max-width: 300px;
@@ -77,12 +123,28 @@
       border-left: 4px solid #0066cc;
       font-size: 14px;
     }
+    .post-title {
+      font-size: 42px;
+      letter-spacing: -1px;
+      line-height: 1;
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
-  {% include header.html %}
+  <header class="site-header">
+    <div class="wrapper">
+      <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="{{ "/" | relative_url }}">Live Feed</a>
+        <a href="{{ "/digest/" | relative_url }}">Digest</a>
+        <a href="{{ "/map/" | relative_url }}">Map</a>
+        <a href="{{ "/about/" | relative_url }}">About</a>
+      </nav>
+    </div>
+  </header>
 
-  <main class="page-content" aria-label="Content">
+  <main class="page-content">
     <div class="wrapper">
       <article class="post">
         <header class="post-header">
@@ -110,6 +172,11 @@
               <input type="date" id="endDate">
             </label>
 
+            <label>
+              <input type="checkbox" id="viewportFilter" checked>
+              Show only events in current view
+            </label>
+
             <button onclick="applyFilters()">Apply Filters</button>
             <button onclick="resetFilters()">Reset</button>
           </div>
@@ -121,8 +188,6 @@
       </article>
     </div>
   </main>
-
-  {% include footer.html %}
 
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -276,13 +341,15 @@
         marker.eventData = event;
         marker.eventAddress = address;
 
-        marker.addTo(markerLayer);
         markers.push(marker);
 
         // Update progress
         const processed = markers.length;
         document.getElementById('loading').innerHTML =
           `Geocoding addresses: ${processed} of ${total} locations mapped...`;
+
+        // Apply filters to this new marker
+        applyFilters();
       }
 
       // Hide loading when done
@@ -290,10 +357,16 @@
         setTimeout(() => {
           document.getElementById('loading').style.display = 'none';
           document.getElementById('stats').style.display = 'block';
-          document.getElementById('stats').innerHTML =
-            `<strong>Map loaded:</strong> ${markers.length} locations from ${eventsData.length} events`;
+          updateStats();
         }, 1000);
       }
+    }
+
+    // Update stats display
+    function updateStats() {
+      const visibleMarkers = markers.filter(marker => markerLayer.hasLayer(marker));
+      document.getElementById('stats').innerHTML =
+        `<strong>Showing:</strong> ${visibleMarkers.length} of ${markers.length} locations`;
     }
 
     // Initialize map
@@ -309,6 +382,13 @@
 
       // Create a layer group for markers
       markerLayer = L.layerGroup().addTo(map);
+
+      // Add map move/zoom event listener for viewport filtering
+      map.on('moveend', function() {
+        if (document.getElementById('viewportFilter').checked) {
+          applyFilters();
+        }
+      });
 
       // Process all events
       let geocodeQueue = [];
@@ -340,8 +420,8 @@
       const category = document.getElementById('categoryFilter').value;
       const startDate = document.getElementById('startDate').value;
       const endDate = document.getElementById('endDate').value;
-
-      let visibleCount = 0;
+      const viewportFilter = document.getElementById('viewportFilter').checked;
+      const bounds = map.getBounds();
 
       markers.forEach(marker => {
         const event = marker.eventData;
@@ -360,16 +440,19 @@
           show = false;
         }
 
+        // Viewport filter
+        if (viewportFilter && !bounds.contains(marker.getLatLng())) {
+          show = false;
+        }
+
         if (show) {
           marker.addTo(markerLayer);
-          visibleCount++;
         } else {
           markerLayer.removeLayer(marker);
         }
       });
 
-      document.getElementById('stats').innerHTML =
-        `<strong>Showing:</strong> ${visibleCount} of ${markers.length} locations`;
+      updateStats();
     }
 
     // Reset all filters
@@ -379,11 +462,9 @@
       const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
       document.getElementById('endDate').valueAsDate = today;
       document.getElementById('startDate').valueAsDate = weekAgo;
+      document.getElementById('viewportFilter').checked = true;
 
-      markers.forEach(marker => marker.addTo(markerLayer));
-
-      document.getElementById('stats').innerHTML =
-        `<strong>Map loaded:</strong> ${markers.length} locations from ${eventsData.length} events`;
+      applyFilters();
     }
 
     // Initialize map when page loads
