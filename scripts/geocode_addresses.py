@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Geocode addresses from Jekyll posts and save to _data/geocoded_addresses.json
+Geocode addresses from Jekyll posts and save to _data/geocoded_addresses.yml
 
 This script:
 1. Reads all posts from _posts/
 2. Extracts addresses using the same patterns as the JavaScript
 3. Geocodes new/missing addresses using Nominatim
-4. Saves results to _data/geocoded_addresses.json
+4. Saves results to _data/geocoded_addresses.yml
 5. Respects rate limits (1 request per second)
 """
 
@@ -19,9 +19,17 @@ from typing import Dict, Set, Tuple
 import urllib.request
 import urllib.parse
 
+try:
+    import yaml
+except ImportError:
+    print("PyYAML not found, installing...")
+    import subprocess
+    subprocess.check_call(['pip', 'install', '--quiet', 'pyyaml'])
+    import yaml
+
 # Configuration
 POSTS_DIR = "_posts"
-DATA_FILE = "_data/geocoded_addresses.json"
+DATA_FILE = "_data/geocoded_addresses.yml"
 RATE_LIMIT_DELAY = 1.0  # seconds between geocoding requests
 USER_AGENT = "Derby City Watch Event Map"
 
@@ -87,7 +95,7 @@ def load_geocode_cache() -> Dict[str, Dict]:
     if data_file.exists():
         try:
             with open(data_file, 'r', encoding='utf-8') as f:
-                return json.load(f)
+                return yaml.safe_load(f) or {}
         except Exception as e:
             print(f"Error loading {DATA_FILE}: {e}")
 
@@ -99,7 +107,7 @@ def save_geocode_cache(cache: Dict[str, Dict]):
     data_file.parent.mkdir(parents=True, exist_ok=True)
 
     with open(data_file, 'w', encoding='utf-8') as f:
-        json.dump(cache, f, indent=2, sort_keys=True)
+        yaml.dump(cache, f, default_flow_style=False, allow_unicode=True, sort_keys=True)
 
     print(f"Saved {len(cache)} geocoded addresses to {DATA_FILE}")
 
