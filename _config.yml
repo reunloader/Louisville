@@ -15,4 +15,5 @@ paginate_path: "/page/:num/"
 header_pages:
   - index.md
   - digest.md
+  - map.md
   - about.md

@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="anonymous"/>
+
+  <style>
+    #map {
+      height: 600px;
+      width: 100%;
+      margin: 20px 0;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .map-controls {
+      margin: 20px 0;
+      padding: 15px;
+      background: #f5f5f5;
+      border-radius: 5px;
+    }
+    .map-controls label {
+      margin-right: 15px;
+      display: inline-block;
+    }
+    .map-controls select, .map-controls input {
+      margin-right: 20px;
+      padding: 5px;
+    }
+    .map-controls button {
+      padding: 5px 15px;
+      background: #333;
+      color: white;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    .map-controls button:hover {
+      background: #555;
+    }
+    .popup-content {
+      max-width: 300px;
+    }
+    .popup-content h3 {
+      margin: 0 0 10px 0;
+      font-size: 14px;
+      color: #333;
+    }
+    .popup-content p {
+      margin: 5px 0;
+      font-size: 12px;
+    }
+    .popup-content a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    .popup-content a:hover {
+      text-decoration: underline;
+    }
+    .loading {
+      text-align: center;
+      padding: 20px;
+      font-size: 16px;
+      color: #666;
+    }
+    .map-stats {
+      margin: 10px 0;
+      padding: 10px;
+      background: #e8f4f8;
+      border-left: 4px solid #0066cc;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="post">
+        <header class="post-header">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+
+        <div class="post-content">
+          {{ content }}
+
+          <div class="map-controls">
+            <label>
+              Category:
+              <select id="categoryFilter">
+                <option value="all">All Categories</option>
+                <option value="fire-&-rescue">Fire & Rescue</option>
+                <option value="medical">Medical</option>
+                <option value="Police">Police</option>
+              </select>
+            </label>
+
+            <label>
+              Date Range:
+              <input type="date" id="startDate">
+              to
+              <input type="date" id="endDate">
+            </label>
+
+            <button onclick="applyFilters()">Apply Filters</button>
+            <button onclick="resetFilters()">Reset</button>
+          </div>
+
+          <div id="stats" class="map-stats" style="display:none;"></div>
+          <div id="loading" class="loading">Loading map and geocoding addresses...</div>
+          <div id="map"></div>
+        </div>
+      </article>
+    </div>
+  </main>
+
+  {% include footer.html %}
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin="anonymous"></script>
+
+  <script>
+    // Store all events data
+    const eventsData = [
+      {% for post in site.posts limit:500 %}
+      {% unless post.categories contains 'daily-digest' %}
+      {
+        title: {{ post.title | jsonify }},
+        date: "{{ post.date | date: '%Y-%m-%d' }}",
+        datetime: "{{ post.date | date: '%Y-%m-%d %H:%M' }}",
+        categories: {{ post.categories | jsonify }},
+        tags: {{ post.tags | jsonify }},
+        status: {{ post.status | jsonify }},
+        content: {{ post.content | strip_html | jsonify }},
+        url: "{{ post.url | relative_url }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endunless %}
+      {% endfor %}
+    ];
+
+    let map;
+    let markers = [];
+    let markerLayer;
+
+    // Extract addresses from event content
+    function extractAddresses(content) {
+      const addresses = [];
+
+      // Pattern 1: "block of Street Name" (e.g., "100 block of Sears Ave")
+      const blockPattern = /(\d+)\s+block\s+of\s+([^–\n]+?)(?=\s*–|\s*\n|$)/gi;
+
+      // Pattern 2: "Street and Street" intersections
+      const intersectionPattern = /([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\s+and\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))/gi;
+
+      // Pattern 3: Full addresses (e.g., "4512 Tray Place")
+      const fullAddressPattern = /\b(\d+)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Place|Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\b/g;
+
+      let match;
+
+      // Extract block addresses
+      while ((match = blockPattern.exec(content)) !== null) {
+        addresses.push(`${match[1]} ${match[2].trim()}, Louisville, KY`);
+      }
+
+      // Extract intersections
+      while ((match = intersectionPattern.exec(content)) !== null) {
+        addresses.push(`${match[1].trim()} and ${match[2].trim()}, Louisville, KY`);
+      }
+
+      // Extract full addresses (if not already captured)
+      while ((match = fullAddressPattern.exec(content)) !== null) {
+        const addr = `${match[1]} ${match[2].trim()}, Louisville, KY`;
+        if (!addresses.some(a => a.includes(match[2].trim()))) {
+          addresses.push(addr);
+        }
+      }
+
+      return [...new Set(addresses)]; // Remove duplicates
+    }
+
+    // Custom marker icons
+    const markerIcons = {
+      red: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      }),
+      blue: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      }),
+      orange: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      })
+    };
+
+    // Geocode using Nominatim (OpenStreetMap)
+    async function geocodeAddress(address) {
+      try {
+        const response = await fetch(
+          `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(address)}&limit=1`,
+          {
+            headers: {
+              'User-Agent': 'Derby City Watch Event Map'
+            }
+          }
+        );
+        const data = await response.json();
+
+        if (data && data.length > 0) {
+          return {
+            lat: parseFloat(data[0].lat),
+            lng: parseFloat(data[0].lon)
+          };
+        }
+        return null;
+      } catch (error) {
+        console.error(`Geocoding error for ${address}:`, error);
+        return null;
+      }
+    }
+
+    // Create marker for event
+    async function createMarker(event, address, index, total) {
+      // Add delay to respect Nominatim usage policy (max 1 request per second)
+      await new Promise(resolve => setTimeout(resolve, index * 1000));
+
+      const coords = await geocodeAddress(address);
+
+      if (coords) {
+        // Determine marker color based on category
+        let markerIcon = markerIcons.red; // default
+        if (event.categories.includes('medical')) markerIcon = markerIcons.blue;
+        else if (event.categories.includes('fire-&-rescue')) markerIcon = markerIcons.orange;
+        else if (event.categories.includes('Police')) markerIcon = markerIcons.red;
+
+        const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
+
+        // Create popup content
+        const popupContent = `
+          <div class="popup-content">
+            <h3>${event.datetime}</h3>
+            <p><strong>Location:</strong> ${address}</p>
+            <p><strong>Category:</strong> ${event.categories.join(', ')}</p>
+            <p><strong>Status:</strong> ${event.status || 'N/A'}</p>
+            <p><strong>Details:</strong> ${event.content.substring(0, 200)}...</p>
+            <p><a href="${event.url}" target="_blank">View Full Report</a></p>
+          </div>
+        `;
+
+        marker.bindPopup(popupContent);
+
+        // Store event data with marker
+        marker.eventData = event;
+        marker.eventAddress = address;
+
+        marker.addTo(markerLayer);
+        markers.push(marker);
+
+        // Update progress
+        const processed = markers.length;
+        document.getElementById('loading').innerHTML =
+          `Geocoding addresses: ${processed} of ${total} locations mapped...`;
+      }
+
+      // Hide loading when done
+      if (index === total - 1) {
+        setTimeout(() => {
+          document.getElementById('loading').style.display = 'none';
+          document.getElementById('stats').style.display = 'block';
+          document.getElementById('stats').innerHTML =
+            `<strong>Map loaded:</strong> ${markers.length} locations from ${eventsData.length} events`;
+        }, 1000);
+      }
+    }
+
+    // Initialize map
+    async function initMap() {
+      // Center on Louisville, KY
+      map = L.map('map').setView([38.2527, -85.7585], 12);
+
+      // Add OpenStreetMap tiles
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 19
+      }).addTo(map);
+
+      // Create a layer group for markers
+      markerLayer = L.layerGroup().addTo(map);
+
+      // Process all events
+      let geocodeQueue = [];
+
+      eventsData.forEach(event => {
+        const addresses = extractAddresses(event.content);
+        addresses.forEach(address => {
+          geocodeQueue.push({ event, address });
+        });
+      });
+
+      console.log(`Found ${geocodeQueue.length} addresses to geocode from ${eventsData.length} events`);
+
+      // Start geocoding (with delay to respect rate limits)
+      for (let i = 0; i < geocodeQueue.length; i++) {
+        const item = geocodeQueue[i];
+        createMarker(item.event, item.address, i, geocodeQueue.length);
+      }
+
+      // Set date range defaults
+      const today = new Date();
+      const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+      document.getElementById('endDate').valueAsDate = today;
+      document.getElementById('startDate').valueAsDate = weekAgo;
+    }
+
+    // Filter markers based on controls
+    function applyFilters() {
+      const category = document.getElementById('categoryFilter').value;
+      const startDate = document.getElementById('startDate').value;
+      const endDate = document.getElementById('endDate').value;
+
+      let visibleCount = 0;
+
+      markers.forEach(marker => {
+        const event = marker.eventData;
+        let show = true;
+
+        // Category filter
+        if (category !== 'all' && !event.categories.includes(category)) {
+          show = false;
+        }
+
+        // Date filter
+        if (startDate && event.date < startDate) {
+          show = false;
+        }
+        if (endDate && event.date > endDate) {
+          show = false;
+        }
+
+        if (show) {
+          marker.addTo(markerLayer);
+          visibleCount++;
+        } else {
+          markerLayer.removeLayer(marker);
+        }
+      });
+
+      document.getElementById('stats').innerHTML =
+        `<strong>Showing:</strong> ${visibleCount} of ${markers.length} locations`;
+    }
+
+    // Reset all filters
+    function resetFilters() {
+      document.getElementById('categoryFilter').value = 'all';
+      const today = new Date();
+      const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+      document.getElementById('endDate').valueAsDate = today;
+      document.getElementById('startDate').valueAsDate = weekAgo;
+
+      markers.forEach(marker => marker.addTo(markerLayer));
+
+      document.getElementById('stats').innerHTML =
+        `<strong>Map loaded:</strong> ${markers.length} locations from ${eventsData.length} events`;
+    }
+
+    // Initialize map when page loads
+    document.addEventListener('DOMContentLoaded', initMap);
+  </script>
+</body>
+</html>
