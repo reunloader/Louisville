@@ -219,7 +219,7 @@
     crossorigin="anonymous"></script>
 
   <!-- Flatpickr JS for date range picker -->
-  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.js"></script>
 
   <script>
     // Store all events data
@@ -577,24 +577,33 @@
         updateStats();
       }, uncachedItems.length > 0 ? 1000 : 100);
 
-      // Initialize date range picker
-      const today = new Date();
-      const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+      // Initialize date range picker after map is ready
+      setTimeout(() => {
+        const today = new Date();
+        const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
 
-      dateRangePicker = flatpickr("#dateRange", {
-        mode: "range",
-        dateFormat: "M j, Y",
-        defaultDate: [weekAgo, today],
-        maxDate: "today",
-        allowInput: false,
-        clickOpens: true,
-        onChange: function(selectedDates, dateStr, instance) {
-          applyFilters();
+        if (typeof flatpickr === 'undefined') {
+          console.error('Flatpickr library not loaded');
+          return;
         }
-      });
 
-      // Initial filter application
-      applyFilters();
+        dateRangePicker = flatpickr("#dateRange", {
+          mode: "range",
+          dateFormat: "M j, Y",
+          defaultDate: [weekAgo, today],
+          maxDate: "today",
+          allowInput: false,
+          clickOpens: true,
+          onChange: function(selectedDates, dateStr, instance) {
+            applyFilters();
+          }
+        });
+
+        console.log('Date picker initialized:', dateRangePicker);
+
+        // Initial filter application
+        applyFilters();
+      }, 500);
     }
 
     // Filter markers based on date range
