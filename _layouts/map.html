@@ -281,7 +281,10 @@
       })
     };
 
-    // Geocode cache using localStorage
+    // Server-side geocoded addresses (pre-computed during build)
+    const serverGeocodeData = {{ site.data.geocoded_addresses | jsonify }};
+
+    // Geocode cache using localStorage (fallback for new addresses)
     const GEOCODE_CACHE_KEY = 'derby_city_watch_geocode_cache';
     const CACHE_VERSION = '1';
 
@@ -312,7 +315,9 @@
       }
     }
 
-    let geocodeCache = getGeocodeCache();
+    // Merge server-side and browser-side caches
+    let geocodeCache = { ...serverGeocodeData, ...getGeocodeCache() };
+    console.log(`Loaded ${Object.keys(serverGeocodeData).length} server-cached and ${Object.keys(getGeocodeCache()).length} browser-cached addresses`);
 
     // Geocode using Nominatim (OpenStreetMap) with caching
     async function geocodeAddress(address) {
