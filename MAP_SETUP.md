@@ -1,41 +1,50 @@
 # Event Map Setup Instructions
 
 ## Overview
-The Event Map feature displays all Derby City Watch events on an interactive Google Map. Events are automatically geocoded from their address information and displayed with color-coded markers.
+The Event Map feature displays all Derby City Watch events on an interactive map using **OpenStreetMap** and **Leaflet.js** - completely free and open source with no API keys required!
 
-## Google Maps API Key Setup
+## Features
 
-To enable the map functionality, you need to add a Google Maps API key:
+### 100% Free & Open Source
+- ✅ No API keys needed
+- ✅ No credit card required
+- ✅ No usage limits or quotas
+- ✅ No billing setup
+- ✅ Uses OpenStreetMap data and Nominatim geocoding
 
-### 1. Get a Google Maps API Key
+### Map Markers
+- **Red markers**: Police events
+- **Blue markers**: Medical emergencies
+- **Orange markers**: Fire & Rescue
 
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create a new project or select an existing one
-3. Enable the following APIs:
-   - Maps JavaScript API
-   - Geocoding API
-4. Go to "Credentials" and create an API key
-5. (Recommended) Restrict the API key to:
-   - HTTP referrers (websites): `*.github.io/*` or your domain
-   - API restrictions: Maps JavaScript API and Geocoding API
+### Filtering Options
+- **Category filter**: Show only specific event types (Police, Medical, Fire & Rescue)
+- **Date range filter**: Display events within a specific timeframe
+- Default view shows the last 7 days of events
 
-### 2. Add the API Key to Your Site
+### Interactive Features
+Click any marker to see:
+- Event date and time
+- Location address
+- Category and status
+- Brief description
+- Link to full event report
 
-Edit `_layouts/map.html` and replace `YOUR_API_KEY` on line 247:
+## No Setup Required!
 
-```html
-<!-- Replace this line -->
-<script async defer
-  src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-</script>
+The map works out of the box with no configuration needed. Just deploy your Jekyll site and the map will be available at `/map/`.
 
-<!-- With your actual key -->
-<script async defer
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbc123YourActualKeyHere&callback=initMap">
-</script>
+### Deploy to GitHub Pages
+
+```bash
+git add .
+git commit -m "Add OpenStreetMap event visualization"
+git push
 ```
 
-### 3. Test Locally (Optional)
+GitHub Pages will automatically rebuild your site and the map will be live!
+
+### Test Locally (Optional)
 
 To test the map locally before deploying:
 
@@ -46,92 +55,174 @@ bundle exec jekyll serve
 
 Then visit `http://localhost:4000/map/`
 
-### 4. Deploy
-
-Commit your changes and push to GitHub. GitHub Pages will automatically rebuild your site.
-
-```bash
-git add _layouts/map.html map.md _config.yml
-git commit -m "Add event map feature with Google Maps integration"
-git push
-```
-
-## Features
-
-### Map Markers
-- **Red markers**: Police events
-- **Blue markers**: Medical emergencies
-- **Orange markers**: Fire & Rescue
-
-### Filtering
-- **Category filter**: Show only specific event types
-- **Date range filter**: Display events within a specific timeframe
-- Default view shows the last 7 days of events
-
-### Event Details
-Click any marker to see:
-- Event date and time
-- Location address
-- Category and status
-- Brief description
-- Link to full event report
-
 ## How It Works
 
-1. **Data Extraction**: The layout uses Jekyll Liquid templating to extract the 500 most recent non-digest posts
-2. **Address Parsing**: JavaScript parses event content to find:
-   - Block addresses (e.g., "100 block of Sears Ave")
-   - Intersections (e.g., "30th Street and Market Street")
-   - Full addresses (e.g., "4512 Tray Place")
-3. **Geocoding**: The Google Geocoding API converts addresses to latitude/longitude coordinates
-4. **Mapping**: Markers are placed on the map with info windows containing event details
+### 1. Data Extraction
+The layout uses Jekyll Liquid templating to extract the 500 most recent non-digest posts at build time.
 
-## Rate Limiting
+### 2. Address Parsing
+JavaScript parses event content to find:
+- **Block addresses**: "100 block of Sears Ave"
+- **Intersections**: "30th Street and Market Street"
+- **Full addresses**: "4512 Tray Place"
 
-The free Google Maps API tier includes:
-- 28,000 map loads per month
-- 40,000 geocoding requests per month
+### 3. Geocoding
+Uses **Nominatim** (OpenStreetMap's free geocoding service) to convert addresses to coordinates.
 
-The implementation includes a 100ms delay between geocoding requests to avoid rate limiting. If you have many events, consider:
-- Caching geocoded coordinates in post frontmatter
-- Reducing the number of posts processed (currently limited to 500)
-- Upgrading to a paid Google Maps plan
+### 4. Mapping
+**Leaflet.js** library creates interactive markers with popups containing event details.
+
+## Usage Policy
+
+### Nominatim Fair Use
+The map uses OpenStreetMap's Nominatim geocoding service, which requires:
+- Maximum 1 request per second (already implemented in the code)
+- User-Agent header (already included: "Derby City Watch Event Map")
+
+These requirements are already built into the implementation, so no action is needed on your part.
+
+### What This Means
+- Geocoding happens in the visitor's browser when they load the page
+- There's a 1-second delay between each address lookup
+- For 100 addresses, expect ~100 seconds of loading time
+- Progress indicator shows geocoding status
 
 ## Customization
 
 ### Change the Map Center
-Edit line 193 in `_layouts/map.html`:
+Edit line 302 in `_layouts/map.html`:
 
 ```javascript
-const louisville = { lat: 38.2527, lng: -85.7585 };
+map = L.map('map').setView([38.2527, -85.7585], 12);
+//                           ↑ latitude  ↑ longitude  ↑ zoom level
 ```
 
 ### Change Default Zoom Level
-Edit line 196 in `_layouts/map.html`:
+Same line as above - the third parameter:
+- Lower number = more zoomed out (e.g., 10 shows wider area)
+- Higher number = more zoomed in (e.g., 14 shows street level)
+
+### Change Number of Events Shown
+Edit line 135 in `_layouts/map.html`:
 
 ```javascript
-zoom: 12,  // Lower number = more zoomed out
+{% for post in site.posts limit:500 %}
+//                              ↑ change this number
 ```
 
-### Modify Address Patterns
-Edit the regex patterns in the `extractAddresses()` function (lines 140-153) to match different address formats.
+### Modify Address Extraction Patterns
+Edit the regex patterns in the `extractAddresses()` function (lines 160-166) to match different address formats specific to your area.
+
+### Change Marker Colors
+Edit the `markerIcons` object (lines 192-217) to use different colors. Available colors:
+- red, blue, orange, green, yellow, violet, grey, black, gold
+
+Color marker URLs:
+```
+https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-{color}.png
+```
+
+### Change Map Tiles
+Edit line 305 in `_layouts/map.html` to use different map styles:
+
+```javascript
+// Current (default OpenStreetMap):
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+// Alternative: Humanitarian map style
+L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+// Alternative: Black and white
+L.tileLayer('https://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+```
+
+## Performance Optimization
+
+### Reduce Loading Time
+If geocoding takes too long, you can:
+
+1. **Limit the number of posts** (line 135):
+   ```javascript
+   {% for post in site.posts limit:200 %}  // Reduced from 500
+   ```
+
+2. **Pre-cache coordinates**: Add lat/lng to post frontmatter:
+   ```yaml
+   ---
+   title: "Derby City Watch"
+   location:
+     lat: 38.2527
+     lng: -85.7585
+   ---
+   ```
+   Then modify the code to read coordinates instead of geocoding.
+
+### Browser Caching
+Browsers will cache the Leaflet library and map tiles, so subsequent page loads will be faster.
 
 ## Troubleshooting
 
-### Map doesn't load
-- Check browser console for API key errors
-- Verify APIs are enabled in Google Cloud Console
-- Check API key restrictions
+### Map doesn't appear
+- Check browser console (F12) for JavaScript errors
+- Ensure your site is properly deployed to GitHub Pages
+- Verify the page is accessible at `yoursite.github.io/map/`
 
-### Addresses not geocoding
-- Some addresses may be ambiguous (intersections, block addresses)
-- Check browser console for geocoding errors
-- Louisville, KY is automatically appended to all addresses
+### Addresses not geocoding correctly
+- Some addresses may be ambiguous (especially intersections and block addresses)
+- Nominatim automatically adds "Louisville, KY" to improve accuracy
+- Check browser console for specific geocoding errors
+- Consider adding more context to addresses in the regex patterns
 
-### Performance issues
-- Reduce the post limit in line 68: `{% for post in site.posts limit:500 %}`
-- Increase geocoding delay in line 165: `}, index * 100);`
+### Slow loading
+- This is expected with many addresses (1 second delay per address)
+- Progress indicator shows geocoding status
+- Consider reducing the post limit or pre-caching coordinates
+
+### Markers not showing
+- Ensure events have properly formatted addresses in their content
+- Check that categories match exactly (case-sensitive)
+- Use browser console to debug address extraction
+
+## Technical Details
+
+### Libraries Used
+- **Leaflet.js 1.9.4**: Open-source JavaScript library for interactive maps
+- **OpenStreetMap**: Free, editable map of the world
+- **Nominatim**: Free geocoding service by OpenStreetMap
+
+### CDN Resources
+All resources are loaded from trusted CDNs with integrity checks:
+- Leaflet CSS/JS: unpkg.com (with SRI hashes)
+- Map tiles: tile.openstreetmap.org
+- Marker icons: GitHub raw content (pointhi/leaflet-color-markers)
+
+### Browser Compatibility
+Works in all modern browsers:
+- Chrome/Edge 90+
+- Firefox 88+
+- Safari 14+
+- Opera 76+
+
+## Benefits Over Google Maps
+
+✅ **No cost**: Completely free, no billing required
+✅ **No API key**: No registration or key management
+✅ **Privacy**: No tracking or user data collection
+✅ **Open source**: Full control over the implementation
+✅ **Community-driven**: Data maintained by OpenStreetMap contributors
+✅ **No quotas**: No monthly limits or usage restrictions (within fair use)
 
 ## Support
 
-For issues or questions, please open an issue on the GitHub repository.
+For issues or questions about the map implementation, check:
+- [Leaflet.js Documentation](https://leafletjs.com/)
+- [OpenStreetMap Wiki](https://wiki.openstreetmap.org/)
+- [Nominatim Usage Policy](https://operations.osmfoundation.org/policies/nominatim/)
+
+For issues specific to this Derby City Watch implementation, please open an issue on the GitHub repository.

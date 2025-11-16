@@ -6,11 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="anonymous"/>
+
   <style>
     #map {
       height: 600px;
       width: 100%;
       margin: 20px 0;
+      border: 1px solid #ddd;
+      border-radius: 5px;
     }
     .map-controls {
       margin: 20px 0;
@@ -26,22 +34,48 @@
       margin-right: 20px;
       padding: 5px;
     }
-    .info-window {
+    .map-controls button {
+      padding: 5px 15px;
+      background: #333;
+      color: white;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    .map-controls button:hover {
+      background: #555;
+    }
+    .popup-content {
       max-width: 300px;
     }
-    .info-window h3 {
+    .popup-content h3 {
       margin: 0 0 10px 0;
       font-size: 14px;
+      color: #333;
     }
-    .info-window p {
+    .popup-content p {
       margin: 5px 0;
       font-size: 12px;
+    }
+    .popup-content a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    .popup-content a:hover {
+      text-decoration: underline;
     }
     .loading {
       text-align: center;
       padding: 20px;
       font-size: 16px;
       color: #666;
+    }
+    .map-stats {
+      margin: 10px 0;
+      padding: 10px;
+      background: #e8f4f8;
+      border-left: 4px solid #0066cc;
+      font-size: 14px;
     }
   </style>
 </head>
@@ -80,6 +114,7 @@
             <button onclick="resetFilters()">Reset</button>
           </div>
 
+          <div id="stats" class="map-stats" style="display:none;"></div>
           <div id="loading" class="loading">Loading map and geocoding addresses...</div>
           <div id="map"></div>
         </div>
@@ -88,6 +123,11 @@
   </main>
 
   {% include footer.html %}
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin="anonymous"></script>
 
   <script>
     // Store all events data
@@ -110,8 +150,7 @@
 
     let map;
     let markers = [];
-    let geocoder;
-    let infoWindow;
+    let markerLayer;
 
     // Extract addresses from event content
     function extractAddresses(content) {
@@ -149,70 +188,127 @@
       return [...new Set(addresses)]; // Remove duplicates
     }
 
-    // Geocode address and create marker
-    function geocodeAndCreateMarker(event, address, index, total) {
-      // Add delay to avoid rate limiting (Google's free tier limit)
-      setTimeout(() => {
-        geocoder.geocode({ address: address }, (results, status) => {
-          if (status === 'OK') {
-            const location = results[0].geometry.location;
+    // Custom marker icons
+    const markerIcons = {
+      red: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      }),
+      blue: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      }),
+      orange: L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      })
+    };
 
-            // Determine marker color based on category
-            let markerColor = 'red'; // default
-            if (event.categories.includes('medical')) markerColor = 'blue';
-            else if (event.categories.includes('fire-&-rescue')) markerColor = 'orange';
-            else if (event.categories.includes('Police')) markerColor = 'red';
-
-            const marker = new google.maps.Marker({
-              position: location,
-              map: map,
-              title: `${event.datetime} - ${address}`,
-              icon: `http://maps.google.com/mapfiles/ms/icons/${markerColor}-dot.png`,
-              eventData: event,
-              eventAddress: address
-            });
-
-            // Create info window content
-            const contentString = `
-              <div class="info-window">
-                <h3>${event.datetime}</h3>
-                <p><strong>Location:</strong> ${address}</p>
-                <p><strong>Category:</strong> ${event.categories.join(', ')}</p>
-                <p><strong>Status:</strong> ${event.status || 'N/A'}</p>
-                <p><strong>Details:</strong> ${event.content.substring(0, 200)}...</p>
-                <p><a href="${event.url}" target="_blank">View Full Report</a></p>
-              </div>
-            `;
-
-            marker.addListener('click', () => {
-              infoWindow.setContent(contentString);
-              infoWindow.open(map, marker);
-            });
-
-            markers.push(marker);
+    // Geocode using Nominatim (OpenStreetMap)
+    async function geocodeAddress(address) {
+      try {
+        const response = await fetch(
+          `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(address)}&limit=1`,
+          {
+            headers: {
+              'User-Agent': 'Derby City Watch Event Map'
+            }
           }
+        );
+        const data = await response.json();
 
-          // Update loading message
-          if (index === total - 1) {
-            document.getElementById('loading').style.display = 'none';
-          }
-        });
-      }, index * 100); // 100ms delay between each geocoding request
+        if (data && data.length > 0) {
+          return {
+            lat: parseFloat(data[0].lat),
+            lng: parseFloat(data[0].lon)
+          };
+        }
+        return null;
+      } catch (error) {
+        console.error(`Geocoding error for ${address}:`, error);
+        return null;
+      }
+    }
+
+    // Create marker for event
+    async function createMarker(event, address, index, total) {
+      // Add delay to respect Nominatim usage policy (max 1 request per second)
+      await new Promise(resolve => setTimeout(resolve, index * 1000));
+
+      const coords = await geocodeAddress(address);
+
+      if (coords) {
+        // Determine marker color based on category
+        let markerIcon = markerIcons.red; // default
+        if (event.categories.includes('medical')) markerIcon = markerIcons.blue;
+        else if (event.categories.includes('fire-&-rescue')) markerIcon = markerIcons.orange;
+        else if (event.categories.includes('Police')) markerIcon = markerIcons.red;
+
+        const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
+
+        // Create popup content
+        const popupContent = `
+          <div class="popup-content">
+            <h3>${event.datetime}</h3>
+            <p><strong>Location:</strong> ${address}</p>
+            <p><strong>Category:</strong> ${event.categories.join(', ')}</p>
+            <p><strong>Status:</strong> ${event.status || 'N/A'}</p>
+            <p><strong>Details:</strong> ${event.content.substring(0, 200)}...</p>
+            <p><a href="${event.url}" target="_blank">View Full Report</a></p>
+          </div>
+        `;
+
+        marker.bindPopup(popupContent);
+
+        // Store event data with marker
+        marker.eventData = event;
+        marker.eventAddress = address;
+
+        marker.addTo(markerLayer);
+        markers.push(marker);
+
+        // Update progress
+        const processed = markers.length;
+        document.getElementById('loading').innerHTML =
+          `Geocoding addresses: ${processed} of ${total} locations mapped...`;
+      }
+
+      // Hide loading when done
+      if (index === total - 1) {
+        setTimeout(() => {
+          document.getElementById('loading').style.display = 'none';
+          document.getElementById('stats').style.display = 'block';
+          document.getElementById('stats').innerHTML =
+            `<strong>Map loaded:</strong> ${markers.length} locations from ${eventsData.length} events`;
+        }, 1000);
+      }
     }
 
     // Initialize map
-    function initMap() {
+    async function initMap() {
       // Center on Louisville, KY
-      const louisville = { lat: 38.2527, lng: -85.7585 };
+      map = L.map('map').setView([38.2527, -85.7585], 12);
 
-      map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 12,
-        center: louisville,
-        mapTypeId: 'roadmap'
-      });
+      // Add OpenStreetMap tiles
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 19
+      }).addTo(map);
 
-      geocoder = new google.maps.Geocoder();
-      infoWindow = new google.maps.InfoWindow();
+      // Create a layer group for markers
+      markerLayer = L.layerGroup().addTo(map);
 
       // Process all events
       let geocodeQueue = [];
@@ -226,10 +322,11 @@
 
       console.log(`Found ${geocodeQueue.length} addresses to geocode from ${eventsData.length} events`);
 
-      // Start geocoding
-      geocodeQueue.forEach((item, index) => {
-        geocodeAndCreateMarker(item.event, item.address, index, geocodeQueue.length);
-      });
+      // Start geocoding (with delay to respect rate limits)
+      for (let i = 0; i < geocodeQueue.length; i++) {
+        const item = geocodeQueue[i];
+        createMarker(item.event, item.address, i, geocodeQueue.length);
+      }
 
       // Set date range defaults
       const today = new Date();
@@ -243,6 +340,8 @@
       const category = document.getElementById('categoryFilter').value;
       const startDate = document.getElementById('startDate').value;
       const endDate = document.getElementById('endDate').value;
+
+      let visibleCount = 0;
 
       markers.forEach(marker => {
         const event = marker.eventData;
@@ -261,8 +360,16 @@
           show = false;
         }
 
-        marker.setVisible(show);
+        if (show) {
+          marker.addTo(markerLayer);
+          visibleCount++;
+        } else {
+          markerLayer.removeLayer(marker);
+        }
       });
+
+      document.getElementById('stats').innerHTML =
+        `<strong>Showing:</strong> ${visibleCount} of ${markers.length} locations`;
     }
 
     // Reset all filters
@@ -273,13 +380,14 @@
       document.getElementById('endDate').valueAsDate = today;
       document.getElementById('startDate').valueAsDate = weekAgo;
 
-      markers.forEach(marker => marker.setVisible(true));
-    }
-  </script>
+      markers.forEach(marker => marker.addTo(markerLayer));
 
-  <!-- Load Google Maps API - Replace YOUR_API_KEY with actual key -->
-  <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+      document.getElementById('stats').innerHTML =
+        `<strong>Map loaded:</strong> ${markers.length} locations from ${eventsData.length} events`;
+    }
+
+    // Initialize map when page loads
+    document.addEventListener('DOMContentLoaded', initMap);
   </script>
 </body>
 </html>
