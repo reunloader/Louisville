@@ -281,8 +281,46 @@
       })
     };
 
-    // Geocode using Nominatim (OpenStreetMap)
+    // Geocode cache using localStorage
+    const GEOCODE_CACHE_KEY = 'derby_city_watch_geocode_cache';
+    const CACHE_VERSION = '1';
+
+    function getGeocodeCache() {
+      try {
+        const cached = localStorage.getItem(GEOCODE_CACHE_KEY);
+        if (cached) {
+          const data = JSON.parse(cached);
+          if (data.version === CACHE_VERSION) {
+            return data.cache || {};
+          }
+        }
+      } catch (e) {
+        console.warn('Failed to load geocode cache:', e);
+      }
+      return {};
+    }
+
+    function saveGeocodeCache(cache) {
+      try {
+        localStorage.setItem(GEOCODE_CACHE_KEY, JSON.stringify({
+          version: CACHE_VERSION,
+          cache: cache,
+          updated: new Date().toISOString()
+        }));
+      } catch (e) {
+        console.warn('Failed to save geocode cache:', e);
+      }
+    }
+
+    let geocodeCache = getGeocodeCache();
+
+    // Geocode using Nominatim (OpenStreetMap) with caching
     async function geocodeAddress(address) {
+      // Check cache first
+      if (geocodeCache[address]) {
+        return geocodeCache[address];
+      }
+
       try {
         const response = await fetch(
           `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(address)}&limit=1`,
@@ -295,11 +333,18 @@
         const data = await response.json();
 
         if (data && data.length > 0) {
-          return {
+          const coords = {
             lat: parseFloat(data[0].lat),
             lng: parseFloat(data[0].lon)
           };
+          // Cache the result
+          geocodeCache[address] = coords;
+          saveGeocodeCache(geocodeCache);
+          return coords;
         }
+        // Cache null results too to avoid re-trying failed addresses
+        geocodeCache[address] = null;
+        saveGeocodeCache(geocodeCache);
         return null;
       } catch (error) {
         console.error(`Geocoding error for ${address}:`, error);
@@ -337,60 +382,43 @@
       return 'Event details available in full report';
     }
 
-    // Create marker for event
-    async function createMarker(event, address, index, total) {
-      // Add delay to respect Nominatim usage policy (max 1 request per second)
-      await new Promise(resolve => setTimeout(resolve, index * 1000));
+    // Create marker for event with coordinates
+    function createMarkerWithCoords(event, address, coords) {
+      // Determine marker color based on category
+      let markerIcon = markerIcons.red; // default
+      if (event.categories.includes('medical')) markerIcon = markerIcons.blue;
+      else if (event.categories.includes('fire-&-rescue')) markerIcon = markerIcons.orange;
+      else if (event.categories.includes('Police')) markerIcon = markerIcons.red;
 
-      const coords = await geocodeAddress(address);
+      const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
 
-      if (coords) {
-        // Determine marker color based on category
-        let markerIcon = markerIcons.red; // default
-        if (event.categories.includes('medical')) markerIcon = markerIcons.blue;
-        else if (event.categories.includes('fire-&-rescue')) markerIcon = markerIcons.orange;
-        else if (event.categories.includes('Police')) markerIcon = markerIcons.red;
+      // Extract specific event detail for this location
+      const eventDetail = extractEventDetail(event.content, address);
 
-        const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
+      // Create popup content
+      const popupContent = `
+        <div class="popup-content">
+          <h3>${event.datetime}</h3>
+          <p><strong>Location:</strong> ${address}</p>
+          <p>${eventDetail}</p>
+          <p><a href="${event.url}" target="_blank">View Full Report</a></p>
+        </div>
+      `;
 
-        // Extract specific event detail for this location
-        const eventDetail = extractEventDetail(event.content, address);
+      marker.bindPopup(popupContent);
 
-        // Create popup content
-        const popupContent = `
-          <div class="popup-content">
-            <h3>${event.datetime}</h3>
-            <p><strong>Location:</strong> ${address}</p>
-            <p>${eventDetail}</p>
-            <p><a href="${event.url}" target="_blank">View Full Report</a></p>
-          </div>
-        `;
+      // Store event data with marker
+      marker.eventData = event;
+      marker.eventAddress = address;
 
-        marker.bindPopup(popupContent);
+      markers.push(marker);
+      marker.addTo(markerLayer);
+    }
 
-        // Store event data with marker
-        marker.eventData = event;
-        marker.eventAddress = address;
-
-        markers.push(marker);
-
-        // Update progress
-        const processed = markers.length;
-        document.getElementById('loading').innerHTML =
-          `Geocoding addresses: ${processed} of ${total} locations mapped...`;
-
-        // Apply filters to this new marker
-        applyFilters();
-      }
-
-      // Hide loading when done
-      if (index === total - 1) {
-        setTimeout(() => {
-          document.getElementById('loading').style.display = 'none';
-          document.getElementById('stats').style.display = 'block';
-          updateStats();
-        }, 1000);
-      }
+    // Geocode a single address with delay
+    async function geocodeWithDelay(address, delayMs) {
+      await new Promise(resolve => setTimeout(resolve, delayMs));
+      return await geocodeAddress(address);
     }
 
     // Update stats display
@@ -422,22 +450,76 @@
       });
 
       // Process all events
-      let geocodeQueue = [];
+      let allItems = [];
 
       eventsData.forEach(event => {
         const addresses = extractAddresses(event.content);
         addresses.forEach(address => {
-          geocodeQueue.push({ event, address });
+          allItems.push({ event, address });
         });
       });
 
-      console.log(`Found ${geocodeQueue.length} addresses to geocode from ${eventsData.length} events`);
+      console.log(`Found ${allItems.length} addresses from ${eventsData.length} events`);
 
-      // Start geocoding (with delay to respect rate limits)
-      for (let i = 0; i < geocodeQueue.length; i++) {
-        const item = geocodeQueue[i];
-        createMarker(item.event, item.address, i, geocodeQueue.length);
+      // Separate cached and uncached addresses
+      const cachedItems = [];
+      const uncachedItems = [];
+
+      allItems.forEach(item => {
+        if (geocodeCache[item.address]) {
+          cachedItems.push(item);
+        } else {
+          uncachedItems.push(item);
+        }
+      });
+
+      console.log(`Cached: ${cachedItems.length}, Need to geocode: ${uncachedItems.length}`);
+
+      // Process cached addresses immediately (no API calls needed)
+      document.getElementById('loading').innerHTML =
+        `Loading ${cachedItems.length} cached locations...`;
+
+      cachedItems.forEach(item => {
+        const coords = geocodeCache[item.address];
+        if (coords) {
+          createMarkerWithCoords(item.event, item.address, coords);
+        }
+      });
+
+      // Apply initial filters to cached markers
+      applyFilters();
+
+      // Process uncached addresses with delay (respecting rate limits)
+      if (uncachedItems.length > 0) {
+        document.getElementById('loading').innerHTML =
+          `Loaded ${cachedItems.length} cached. Geocoding ${uncachedItems.length} new addresses...`;
+
+        let geocodedCount = 0;
+        for (let i = 0; i < uncachedItems.length; i++) {
+          const item = uncachedItems[i];
+
+          // Add delay only for new geocoding requests (1 per second)
+          const coords = await geocodeWithDelay(item.address, i * 1000);
+
+          if (coords) {
+            createMarkerWithCoords(item.event, item.address, coords);
+            geocodedCount++;
+
+            document.getElementById('loading').innerHTML =
+              `Cached: ${cachedItems.length}, Geocoded: ${geocodedCount}/${uncachedItems.length}`;
+
+            // Apply filters after each new marker
+            applyFilters();
+          }
+        }
       }
+
+      // Hide loading and show stats when done
+      setTimeout(() => {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('stats').style.display = 'block';
+        updateStats();
+      }, uncachedItems.length > 0 ? 1000 : 100);
 
       // Set date range defaults
       const today = new Date();
