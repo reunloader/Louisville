@@ -434,6 +434,7 @@
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
+10900 Jackson Way, Louisville, KY: null
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
   lng: -85.5550366
@@ -736,6 +737,9 @@
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
   lng: -85.7171011
+12500 Saxony Park Cir, Louisville, KY:
+  lat: 38.1856818
+  lng: -85.5224806
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
@@ -2337,6 +2341,9 @@
 300 North 35th Street, Louisville, KY:
   lat: 38.2651038
   lng: -85.8081363
+300 North 36th Street, Louisville, KY:
+  lat: 38.2652391
+  lng: -85.8095068
 300 North35th Street, Louisville, KY: null
 300 North36th Street, Louisville, KY: null
 300 Old Dixie Hwy, investigating the source of the CO alarms., Louisville, KY: null
@@ -2523,6 +2530,9 @@
   available., Louisville, KY
 : null
 3100 I 65 South, Louisville, KY: null
+3100 Mid Dale Ln, Louisville, KY:
+  lat: 38.2110134
+  lng: -85.6360004
 3100 North31st Street, Louisville, KY: null
 ? 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched
   for a 53-year-old female who was found unresponsive. Engine 6 confirmed they were
