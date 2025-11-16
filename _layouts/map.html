@@ -307,6 +307,36 @@
       }
     }
 
+    // Extract specific event detail for an address
+    function extractEventDetail(content, address) {
+      // Remove the ", Louisville, KY" suffix for matching
+      const searchAddr = address.replace(', Louisville, KY', '');
+
+      // Split content into lines
+      const lines = content.split('\n');
+
+      // Find the line containing this address
+      for (let line of lines) {
+        if (line.includes(searchAddr)) {
+          // Remove emoji and clean up the line
+          let detail = line.replace(/[🔥🏥🚨🚔🚑⚠️📍]/g, '').trim();
+          // Remove markdown bold markers
+          detail = detail.replace(/\*\*/g, '');
+          return detail;
+        }
+      }
+
+      // If no specific line found, return first non-empty line
+      for (let line of lines) {
+        const cleaned = line.replace(/[🔥🏥🚨🚔🚑⚠️📍]/g, '').replace(/\*\*/g, '').trim();
+        if (cleaned.length > 10) {
+          return cleaned.substring(0, 150) + (cleaned.length > 150 ? '...' : '');
+        }
+      }
+
+      return 'Event details available in full report';
+    }
+
     // Create marker for event
     async function createMarker(event, address, index, total) {
       // Add delay to respect Nominatim usage policy (max 1 request per second)
@@ -323,14 +353,15 @@
 
         const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
 
+        // Extract specific event detail for this location
+        const eventDetail = extractEventDetail(event.content, address);
+
         // Create popup content
         const popupContent = `
           <div class="popup-content">
             <h3>${event.datetime}</h3>
             <p><strong>Location:</strong> ${address}</p>
-            <p><strong>Category:</strong> ${event.categories.join(', ')}</p>
-            <p><strong>Status:</strong> ${event.status || 'N/A'}</p>
-            <p><strong>Details:</strong> ${event.content.substring(0, 200)}...</p>
+            <p>${eventDetail}</p>
             <p><a href="${event.url}" target="_blank">View Full Report</a></p>
           </div>
         `;
