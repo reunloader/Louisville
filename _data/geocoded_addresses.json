@@ -163,6 +163,10 @@
     "lng": -85.777096
   },
   "1000 Colm's Lane, prompting a welfare check by responding units. The exact nature of the situation requiring the check was not specified., Louisville, KY": null,
+  "1000 E W Liberty St, Louisville, KY": {
+    "lat": 38.2534676,
+    "lng": -85.7663705
+  },
   "1000 Euclid Avenue following a report of a domestic situation. Officers were on scene to investigate and attempt to make contact with individuals inside the residence. The situation involved a caller who had reported a male subject was present at the location., Louisville, KY": null,
   "1000 Euclid Avenue, [Date] Evening, Louisville, KY": null,
   "1000 Great Hunter Ct for a welfare check. The initial call reported a person sleeping, and police were requested but later canceled. The situation was resolved without further incident., Louisville, KY": null,
@@ -205,6 +209,10 @@
   "1000 Rescue, Louisville, KY": null,
   "1000 Ringing Bell Ln, Louisville, KY": null,
   "1000 S Lamar Jackson Way, Louisville, KY": null,
+  "1000 S Shelby St, Louisville, KY": {
+    "lat": 38.236829,
+    "lng": -85.740971
+  },
   "1000 South 1st Street, Louisville, KY": {
     "lat": 38.23828,
     "lng": -85.754787
@@ -231,6 +239,7 @@
     "lat": 38.237651,
     "lng": -85.748955
   },
+  "1000 South Third Street, Louisville, KY": null,
   "1000 South2nd Street, Louisville, KY": null,
   "1000 Stonehouse Lane following a report of a person suspected of driving under the influence. The individual was reportedly parked in an SUV in the area. A K-9 unit was requested to assist officers at the scene. Authorities investigated the situation to ensure public safety., Louisville, KY": null,
   "1000 Tennessee Ave, Louisville, KY": {
@@ -368,6 +377,7 @@
   },
   "1100 South 4th Street, near West Oakland and St. Catherine. Responders were able to clear the scene and return to service shortly thereafter., Louisville, KY": null,
   "1100 South 4th Street. The alarm was actively sounding when units arrived on scene., Louisville, KY": null,
+  "1100 South First Street, Louisville, KY": null,
   "1100 South Forest Street, Louisville, KY": null,
   "1100 South4th Street, Louisville, KY": null,
   "1100 Southwestern Pky, Louisville, KY": {
@@ -401,6 +411,10 @@
   "11400 Crosswinds Dr, Louisville, KY": null,
   "11400 Willow Pond Dr, Louisville, KY": null,
   "116 Weiser Avenue, Louisville, KY": null,
+  "11600 Creek Road, Louisville, KY": {
+    "lat": 38.2282869,
+    "lng": -85.4306933
+  },
   "11700 Bluegrass Ave, Louisville, KY": {
     "lat": 38.1793257,
     "lng": -85.7749547
@@ -867,6 +881,11 @@
   "1600 Moore Hill Pl., Louisville, KY": null,
   "1600 Patent Court, Louisville, KY": null,
   "1600 Patent Court, specifically in Building 39, Apartment H. Responders were alerted to a 54-year-old male who was potentially experiencing a stroke. Engine 16 was dispatched to the scene to assess and treat the patient., Louisville, KY": null,
+  "1600 Poplar Level Rd, Louisville, KY": {
+    "lat": 38.21745,
+    "lng": -85.72667
+  },
+  "1600 Poplar Level Rd. Fire units were present and actively managing the situation. Other units were en route and available to assist if needed., Louisville, KY": null,
   "1600 Rosewood Ct. The caller indicated that some items may have been left behind at the scene. Communication with the caller was reportedly difficult., Louisville, KY": null,
   "1600 Sale Ave, Louisville, KY": {
     "lat": 38.19768,
@@ -901,6 +920,10 @@
     "lat": 38.2433686,
     "lng": -85.7810275
   },
+  "1700 Bardstown Rd, Louisville, KY": {
+    "lat": 38.230002,
+    "lng": -85.7037117
+  },
   "1700 Brentmoor Ln, Louisville, KY": null,
   "1700 Gardiner Ln, Louisville, KY": {
     "lat": 38.204756,
@@ -932,6 +955,7 @@
     "lat": 38.2564101,
     "lng": -85.8150421
   },
+  "1700 W W W Gaulbert Ave, Louisville, KY": null,
   "1700 West Broadway, Louisville, KY": {
     "lat": 38.248647,
     "lng": -85.780022
@@ -1023,6 +1047,10 @@
   },
   "1800 South 7th Street following a report of a female being thrown from a vehicle. Units 4-13 Charlie and 4-14 Adam, along with EMS, were dispatched to the scene., Louisville, KY": null,
   "1800 South3rd Street, Louisville, KY": null,
+  "1800 W W Muhammad Ali Blvd, Louisville, KY": {
+    "lat": 38.2563581,
+    "lng": -85.8046069
+  },
   "1800 Woodfield Rd, Louisville, KY": null,
   "1800 Zuma-Nom, Louisville, KY": null,
   "18200 Bridgemore Ln, Louisville, KY": {
@@ -1351,6 +1379,7 @@
     "lat": 38.2290712,
     "lng": -85.6992452
   },
+  "2100 Wally and Court, Louisville, KY": null,
   "2100 West Broadway [Date & Time], Louisville, KY": null,
   "2100 West Broadway to address the situation. Officers worked to secure the vehicle and ensure the safety of the area., Louisville, KY": null,
   "2112 Duncan St, Louisville, KY": {
@@ -1695,6 +1724,7 @@
     "lat": 38.249486,
     "lng": -85.798435
   },
+  "2800 West Broadway. A request was made for the license plate of a vehicle associated with the incident., Louisville, KY": null,
   "2800 West Chest Down, Louisville, KY": null,
   "2900 Bon Air, Louisville, KY": {
     "lat": 38.2083483,
@@ -1702,6 +1732,10 @@
   },
   "2900 Breckenridge Lane, [Date] 5:00 p.m.AM, Louisville, KY": null,
   "2900 Breckenridge Lane. Responding officers were sent to investigate the situation. Further details on the nature of the alarm or any findings are not immediately available., Louisville, KY": null,
+  "2900 Brinkey Way, Louisville, KY": {
+    "lat": 38.2088086,
+    "lng": -85.6419181
+  },
   "2900 Brownsboro Hill Rd. The incident involved a subject banging on a car window following an argument related to parking. The suspect was reportedly driving a maroon Ram pickup truck and was chasing a victim in a tan Impala., Louisville, KY": null,
   "2900 Buechel Bank Rd, Louisville, KY": {
     "lat": 38.1786229,
@@ -1723,6 +1757,12 @@
     "lat": 38.1472696,
     "lng": -85.8152738
   },
+  "2900 Thistlewood Dr, Louisville, KY": {
+    "lat": 38.2627321,
+    "lng": -85.694773
+  },
+  "2900 Thistlewood Dr. Responding officers conducted a search of the area but were unable to locate anyone involved. The incident was subsequently cleared., Louisville, KY": null,
+  "2900 Thistlewood Dr. The vehicle, a red truck, was observed to be leaking fluid from its bed, and two individuals were inside. Police units took over the investigation at the scene., Louisville, KY": null,
   "2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY": null,
   "2945 Breckenridge Lane, Louisville, KY": {
     "lat": 38.221172,
@@ -1759,6 +1799,7 @@
     "lat": 38.2390446,
     "lng": -85.4485653
   },
+  "300 Charlie and 800 block of Charlie, Louisville, KY": null,
   "300 East Market Street, within the Nucleus Innovation Park, for a medical emergency. An 8th-floor resident, a 60-year-old female, was reportedly experiencing stroke-like symptoms, including speech difficulties and unresponsiveness. Personnel were directed to the lobby to meet the patient., Louisville, KY": null,
   "300 East St. Catherine Street following a report of a female threatening to jump in front of a train. Officers responded to de-escalate the situation and ensure the individual's safety., Louisville, KY": null,
   "300 East St. Catherine Street, Louisville, KY": {
@@ -2035,6 +2076,11 @@
     "lng": -85.5765828
   },
   "350 [Street Name Missing], Louisville, KY": null,
+  "3500 Capri Dr, between Gladden Dr and Elba Dr, for a medical call concerning a 40-year-old male experiencing significant nosebleeds., Louisville, KY": null,
+  "3500 Charmane Dr, Louisville, KY": {
+    "lat": 38.1412532,
+    "lng": -85.6626633
+  },
   "3500 Craig Ave, Louisville, KY": {
     "lat": 38.19568,
     "lng": -85.789656
@@ -2068,6 +2114,7 @@
     "lat": 38.1961144,
     "lng": -85.7833672
   },
+  "3500 W W Market St, Louisville, KY": null,
   "3500 Warner Ave. The call involved a female who had fallen inside a red Jeep in the driveway., Louisville, KY": null,
   "3500 Woodmont Park Ln. The situation was quickly brought under control and reported as clear within minutes. Fire units were involved in the response., Louisville, KY": null,
   "3600 Bardstown Rd, Louisville, KY": {
@@ -2130,6 +2177,7 @@
     "lat": 38.2566163,
     "lng": -85.6644273
   },
+  "3700 Klein Dight Lane for a medical emergency involving a 23-year-old female who had just delivered her baby. The patient was in her third trimester, and the newborn was reported as delivered and healthy., Louisville, KY": null,
   "3700 Klondike Ln, Louisville, KY": {
     "lat": 38.209512,
     "lng": -85.6397607
@@ -2802,6 +2850,7 @@
   },
   "500 South 7th 3Rd Street Rd to conduct a welfare check, with concerns of a possible medical issue., Louisville, KY": null,
   "500 South 7th 3Rd Street Rd, Louisville, KY": null,
+  "500 South Churchway, Louisville, KY": null,
   "500 Wayne Rd to attend to a person experiencing a medical complaint., Louisville, KY": null,
   "500 Wayne Rd, Louisville, KY": {
     "lat": 38.2007912,
@@ -3078,11 +3127,21 @@
     "lng": -85.7924364
   },
   "600 Parthenia, with indications of related evidence. Further details regarding the nature of the activity and the police response were not specified., Louisville, KY": null,
+  "600 South 16th Street, Louisville, KY": {
+    "lat": 38.251021,
+    "lng": -85.777865
+  },
+  "600 South 16th Street, near Magazine St and Plymouth Ct, for an automobile fire that appeared to be the result of a motor vehicle accident. The incident involved a gray Nissan and a black Lexus at the intersection., Louisville, KY": null,
   "600 South 29th Street to investigate a report of suspicious activity or to conduct a welfare check. The situation was resolved, and units cleared the scene shortly after., Louisville, KY": null,
   "600 South 29th Street, Louisville, KY": {
     "lat": 38.252119,
     "lng": -85.7996
   },
+  "600 South 2nd Street, Louisville, KY": {
+    "lat": 38.24847,
+    "lng": -85.754691
+  },
+  "600 South 2nd Street, between West Broadway and West Chester Street, for a 69-year-old female experiencing shortness of breath, clammy skin, and paint on her person., Louisville, KY": null,
   "600 South 41st Street, Louisville, KY": {
     "lat": 38.25563,
     "lng": -85.819148
@@ -3218,6 +3277,11 @@
   },
   "6500 Renate Road [Date & Time], Louisville, KY": null,
   "6500 Renate Road to assist a 68-year-old female experiencing chest pains. The patient also reported a high heart rate and has a history of diabetes. An ambulance arrived on scene to provide immediate care., Louisville, KY": null,
+  "6500 Signature Dr following a report of a self-inflicted injury. A male individual reportedly shot himself in the head with a BB gun. The patient was described as wearing specific clothing., Louisville, KY": null,
+  "6500 Signature Dr, Louisville, KY": {
+    "lat": 38.1566,
+    "lng": -85.714532
+  },
   "6500 South 7th Street, Louisville, KY": {
     "lat": 38.2231367,
     "lng": -85.7727441
@@ -3465,6 +3529,7 @@
     "lat": 38.275523,
     "lng": -85.6976287
   },
+  "7100 Bungan Avenue, Louisville, KY": null,
   "7100 Cedar Springs reported shoplifting involving three juveniles. The suspects were described as young females, with one wearing a black jacket and backpack. Unit 6-11 Adam was involved in the response., Louisville, KY": null,
   "7100 Cedar Springs, Louisville, KY": {
     "lat": 38.1436823,
@@ -3543,6 +3608,13 @@
     "lat": 38.1459084,
     "lng": -85.6232417
   },
+  "7400 Stablecrest, Louisville, KY": null,
+  "7400 Stablecrest. Initial observations from the exterior did not show any visible flames. A drone was later utilized, which observed individuals on a \"CharlieSat.\" Some responding units were subsequently canceled from the scene., Louisville, KY": null,
+  "7400 Steeplecrest Cir, Louisville, KY": {
+    "lat": 38.2423011,
+    "lng": -85.6162566
+  },
+  "7400 Steeplecrest Cir, between Oxmoor Ln and Steeplecrest Ct, for a medical situation involving an autistic male threatening to jump from a railing. Units on scene reported no visible signs of distress from the exterior, and drone surveillance located the subject on an outside railing., Louisville, KY": null,
   "7400 Steeplecrest Cir. Water was observed coming from under a door, and the alarm was sounding. A neighbor alerted authorities after receiving no response when knocking. Fire units were dispatched to assess and manage the situation., Louisville, KY": null,
   "7400 W W Manslick Rd, Louisville, KY": null,
   "7500 Chanel Ct to assist a 75-year-old male. The individual was reportedly experiencing shortness of breath and signs of dehydration. Responders worked to provide necessary care and support., Louisville, KY": null,
@@ -3746,6 +3818,10 @@
     "lat": 38.189261,
     "lng": -85.602595
   },
+  "8400 Independence School Rd, Louisville, KY": {
+    "lat": 38.104545,
+    "lng": -85.607266
+  },
   "8400 Oxford Woods Corp., Louisville, KY": null,
   "8400 River Crest Ct, Cedar Crest Ln, Louisville, KY": null,
   "8400 Roseboro Road, an area near Cross Meadows Cir, Warfield, and Bainbridge. EMS provided care to the patient., Louisville, KY": null,
@@ -3774,6 +3850,10 @@
   "8600 Locklee Rd, Louisville, KY": {
     "lat": 38.1462326,
     "lng": -85.8248355
+  },
+  "8600 Timber Hollow Ct, Louisville, KY": {
+    "lat": 38.1244283,
+    "lng": -85.6989229
   },
   "8700 Highview Dr, Louisville, KY": {
     "lat": 38.1414982,
@@ -4073,6 +4153,8 @@
   "Farshtown Road and Eastern Parkway, Louisville, KY": null,
   "Frankfort Ave and Hillcrest Ave, Louisville, KY": null,
   "Frankfort Ave and North Bardstown Rd, Louisville, KY": null,
+  "Frohlich Rd and Cedar Creek Rd, Louisville, KY": null,
+  "Gladden Dr and Elba Dr, Louisville, KY": null,
   "Gray St and Crittenden Dr, Louisville, KY": null,
   "Halifax Dr and Lunenburg Dr, Louisville, KY": null,
   "Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY": null,
@@ -4099,6 +4181,7 @@
   "North Bardstown Rd and Fern Valley Rd, Louisville, KY": null,
   "North Bardstown Rd and Mount Holly Ave, Louisville, KY": null,
   "North Bardstown Rd and Treyport Drive, Louisville, KY": null,
+  "Oak St and Webster St, Louisville, KY": null,
   "Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY": null,
   "Peel Avenue and Dartmouth Ave, Louisville, KY": null,
   "Phillips Ln and Cribden Road, Louisville, KY": null,
