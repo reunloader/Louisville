@@ -3818,6 +3818,9 @@
 5100 W W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
+5100 Zane St, Louisville, KY:
+  lat: 38.2385867
+  lng: -85.7618566
 512 North Birchwood Avenue, Louisville, KY:
   lat: 38.2645395
   lng: -85.6970665
@@ -5130,6 +5133,7 @@
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
   lng: -85.4388263
+9500 Crescent Highway, Louisville, KY: null
 9500 Hiss Road, Louisville, KY: null
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
