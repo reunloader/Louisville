@@ -535,9 +535,6 @@
       console.log(`Cached: ${cachedItems.length}, Need to geocode: ${uncachedItems.length}`);
 
       // Process cached addresses immediately (no API calls needed)
-      document.getElementById('loading').innerHTML =
-        `Loading ${cachedItems.length} cached locations...`;
-
       cachedItems.forEach(item => {
         const coords = geocodeCache[item.address];
         if (coords) {
@@ -550,10 +547,6 @@
 
       // Process uncached addresses with delay (respecting rate limits)
       if (uncachedItems.length > 0) {
-        document.getElementById('loading').innerHTML =
-          `Loaded ${cachedItems.length} cached. Geocoding ${uncachedItems.length} new addresses...`;
-
-        let geocodedCount = 0;
         for (let i = 0; i < uncachedItems.length; i++) {
           const item = uncachedItems[i];
 
@@ -562,10 +555,6 @@
 
           if (coords) {
             createMarkerWithCoords(item.event, item.address, coords);
-            geocodedCount++;
-
-            document.getElementById('loading').innerHTML =
-              `Cached: ${cachedItems.length}, Geocoded: ${geocodedCount}/${uncachedItems.length}`;
 
             // Apply filters after each new marker
             applyFilters();
