@@ -1261,6 +1261,9 @@
 1700 Wibble Hill Rd, Louisville, KY:
   lat: 38.2166528
   lng: -85.4806891
+17200 Richmond Dr, Louisville, KY:
+  lat: 38.2223031
+  lng: -85.7068691
 18 Village West Drive, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -2385,6 +2388,9 @@
   any potential conflict. The goal was to resolve the disturbance peacefully., Louisville,
   KY
 : null
+300 Winkler Ave, Louisville, KY:
+  lat: 38.210081
+  lng: -85.763149
 300 Winkler, Louisville, KY:
   lat: 38.210081
   lng: -85.763149
@@ -2754,6 +2760,7 @@
   lat: 38.1961144
   lng: -85.7833672
 3500 W W Market St, Louisville, KY: null
+3500 W W Muhammad Ali Blvd, Louisville, KY: null
 3500 Warner Ave. The call involved a female who had fallen inside a red Jeep in the driveway., Louisville, KY: null
 ? 3500 Woodmont Park Ln. The situation was quickly brought under control and reported
   as clear within minutes. Fire units were involved in the response., Louisville,
@@ -5252,6 +5259,7 @@ Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
+Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
@@ -5283,6 +5291,7 @@ Sears Ave and Oshley Avenue, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
+Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
