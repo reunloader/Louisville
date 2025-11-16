@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <style>
+    #map {
+      height: 600px;
+      width: 100%;
+      margin: 20px 0;
+    }
+    .map-controls {
+      margin: 20px 0;
+      padding: 15px;
+      background: #f5f5f5;
+      border-radius: 5px;
+    }
+    .map-controls label {
+      margin-right: 15px;
+      display: inline-block;
+    }
+    .map-controls select, .map-controls input {
+      margin-right: 20px;
+      padding: 5px;
+    }
+    .info-window {
+      max-width: 300px;
+    }
+    .info-window h3 {
+      margin: 0 0 10px 0;
+      font-size: 14px;
+    }
+    .info-window p {
+      margin: 5px 0;
+      font-size: 12px;
+    }
+    .loading {
+      text-align: center;
+      padding: 20px;
+      font-size: 16px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="post">
+        <header class="post-header">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+
+        <div class="post-content">
+          {{ content }}
+
+          <div class="map-controls">
+            <label>
+              Category:
+              <select id="categoryFilter">
+                <option value="all">All Categories</option>
+                <option value="fire-&-rescue">Fire & Rescue</option>
+                <option value="medical">Medical</option>
+                <option value="Police">Police</option>
+              </select>
+            </label>
+
+            <label>
+              Date Range:
+              <input type="date" id="startDate">
+              to
+              <input type="date" id="endDate">
+            </label>
+
+            <button onclick="applyFilters()">Apply Filters</button>
+            <button onclick="resetFilters()">Reset</button>
+          </div>
+
+          <div id="loading" class="loading">Loading map and geocoding addresses...</div>
+          <div id="map"></div>
+        </div>
+      </article>
+    </div>
+  </main>
+
+  {% include footer.html %}
+
+  <script>
+    // Store all events data
+    const eventsData = [
+      {% for post in site.posts limit:500 %}
+      {% unless post.categories contains 'daily-digest' %}
+      {
+        title: {{ post.title | jsonify }},
+        date: "{{ post.date | date: '%Y-%m-%d' }}",
+        datetime: "{{ post.date | date: '%Y-%m-%d %H:%M' }}",
+        categories: {{ post.categories | jsonify }},
+        tags: {{ post.tags | jsonify }},
+        status: {{ post.status | jsonify }},
+        content: {{ post.content | strip_html | jsonify }},
+        url: "{{ post.url | relative_url }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endunless %}
+      {% endfor %}
+    ];
+
+    let map;
+    let markers = [];
+    let geocoder;
+    let infoWindow;
+
+    // Extract addresses from event content
+    function extractAddresses(content) {
+      const addresses = [];
+
+      // Pattern 1: "block of Street Name" (e.g., "100 block of Sears Ave")
+      const blockPattern = /(\d+)\s+block\s+of\s+([^–\n]+?)(?=\s*–|\s*\n|$)/gi;
+
+      // Pattern 2: "Street and Street" intersections
+      const intersectionPattern = /([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\s+and\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))/gi;
+
+      // Pattern 3: Full addresses (e.g., "4512 Tray Place")
+      const fullAddressPattern = /\b(\d+)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Place|Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\b/g;
+
+      let match;
+
+      // Extract block addresses
+      while ((match = blockPattern.exec(content)) !== null) {
+        addresses.push(`${match[1]} ${match[2].trim()}, Louisville, KY`);
+      }
+
+      // Extract intersections
+      while ((match = intersectionPattern.exec(content)) !== null) {
+        addresses.push(`${match[1].trim()} and ${match[2].trim()}, Louisville, KY`);
+      }
+
+      // Extract full addresses (if not already captured)
+      while ((match = fullAddressPattern.exec(content)) !== null) {
+        const addr = `${match[1]} ${match[2].trim()}, Louisville, KY`;
+        if (!addresses.some(a => a.includes(match[2].trim()))) {
+          addresses.push(addr);
+        }
+      }
+
+      return [...new Set(addresses)]; // Remove duplicates
+    }
+
+    // Geocode address and create marker
+    function geocodeAndCreateMarker(event, address, index, total) {
+      // Add delay to avoid rate limiting (Google's free tier limit)
+      setTimeout(() => {
+        geocoder.geocode({ address: address }, (results, status) => {
+          if (status === 'OK') {
+            const location = results[0].geometry.location;
+
+            // Determine marker color based on category
+            let markerColor = 'red'; // default
+            if (event.categories.includes('medical')) markerColor = 'blue';
+            else if (event.categories.includes('fire-&-rescue')) markerColor = 'orange';
+            else if (event.categories.includes('Police')) markerColor = 'red';
+
+            const marker = new google.maps.Marker({
+              position: location,
+              map: map,
+              title: `${event.datetime} - ${address}`,
+              icon: `http://maps.google.com/mapfiles/ms/icons/${markerColor}-dot.png`,
+              eventData: event,
+              eventAddress: address
+            });
+
+            // Create info window content
+            const contentString = `
+              <div class="info-window">
+                <h3>${event.datetime}</h3>
+                <p><strong>Location:</strong> ${address}</p>
+                <p><strong>Category:</strong> ${event.categories.join(', ')}</p>
+                <p><strong>Status:</strong> ${event.status || 'N/A'}</p>
+                <p><strong>Details:</strong> ${event.content.substring(0, 200)}...</p>
+                <p><a href="${event.url}" target="_blank">View Full Report</a></p>
+              </div>
+            `;
+
+            marker.addListener('click', () => {
+              infoWindow.setContent(contentString);
+              infoWindow.open(map, marker);
+            });
+
+            markers.push(marker);
+          }
+
+          // Update loading message
+          if (index === total - 1) {
+            document.getElementById('loading').style.display = 'none';
+          }
+        });
+      }, index * 100); // 100ms delay between each geocoding request
+    }
+
+    // Initialize map
+    function initMap() {
+      // Center on Louisville, KY
+      const louisville = { lat: 38.2527, lng: -85.7585 };
+
+      map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 12,
+        center: louisville,
+        mapTypeId: 'roadmap'
+      });
+
+      geocoder = new google.maps.Geocoder();
+      infoWindow = new google.maps.InfoWindow();
+
+      // Process all events
+      let geocodeQueue = [];
+
+      eventsData.forEach(event => {
+        const addresses = extractAddresses(event.content);
+        addresses.forEach(address => {
+          geocodeQueue.push({ event, address });
+        });
+      });
+
+      console.log(`Found ${geocodeQueue.length} addresses to geocode from ${eventsData.length} events`);
+
+      // Start geocoding
+      geocodeQueue.forEach((item, index) => {
+        geocodeAndCreateMarker(item.event, item.address, index, geocodeQueue.length);
+      });
+
+      // Set date range defaults
+      const today = new Date();
+      const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+      document.getElementById('endDate').valueAsDate = today;
+      document.getElementById('startDate').valueAsDate = weekAgo;
+    }
+
+    // Filter markers based on controls
+    function applyFilters() {
+      const category = document.getElementById('categoryFilter').value;
+      const startDate = document.getElementById('startDate').value;
+      const endDate = document.getElementById('endDate').value;
+
+      markers.forEach(marker => {
+        const event = marker.eventData;
+        let show = true;
+
+        // Category filter
+        if (category !== 'all' && !event.categories.includes(category)) {
+          show = false;
+        }
+
+        // Date filter
+        if (startDate && event.date < startDate) {
+          show = false;
+        }
+        if (endDate && event.date > endDate) {
+          show = false;
+        }
+
+        marker.setVisible(show);
+      });
+    }
+
+    // Reset all filters
+    function resetFilters() {
+      document.getElementById('categoryFilter').value = 'all';
+      const today = new Date();
+      const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+      document.getElementById('endDate').valueAsDate = today;
+      document.getElementById('startDate').valueAsDate = weekAgo;
+
+      markers.forEach(marker => marker.setVisible(true));
+    }
+  </script>
+
+  <!-- Load Google Maps API - Replace YOUR_API_KEY with actual key -->
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+  </script>
+</body>
+</html>
