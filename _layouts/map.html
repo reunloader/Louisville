@@ -580,7 +580,7 @@
       // Initialize date range picker after map is ready
       setTimeout(() => {
         const today = new Date();
-        const weekAgo = new Date(today.getTime() - 7 * 24 * 60 * 60 * 1000);
+        const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
 
         if (typeof flatpickr === 'undefined') {
           console.error('Flatpickr library not loaded');
@@ -590,7 +590,7 @@
         dateRangePicker = flatpickr("#dateRange", {
           mode: "range",
           dateFormat: "M j, Y",
-          defaultDate: [weekAgo, today],
+          defaultDate: [yesterday, today],
           maxDate: "today",
           allowInput: false,
           clickOpens: true,
