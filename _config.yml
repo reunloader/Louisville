@@ -17,3 +17,9 @@ header_pages:
   - digest.md
   - map.md
   - about.md
+
+# Exclude directories from Jekyll build
+exclude:
+  - scripts/
+  - .github/
+  - README.md
