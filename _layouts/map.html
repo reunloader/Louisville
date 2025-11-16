@@ -357,17 +357,35 @@
       // Remove the ", Louisville, KY" suffix for matching
       const searchAddr = address.replace(', Louisville, KY', '');
 
+      // Extract just the street number and first few words of street name for flexible matching
+      // e.g., "1800 South 3rd" from "1800 South 3rd Street"
+      const addrMatch = searchAddr.match(/^(\d+)\s+(.+?)(?:\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln|Place))?$/i);
+
+      let searchPatterns = [searchAddr];
+      if (addrMatch) {
+        const streetNum = addrMatch[1];
+        const streetName = addrMatch[2];
+        // Add pattern with "block of"
+        searchPatterns.push(`${streetNum} block of ${streetName}`);
+        // Add just street number + first word of street
+        searchPatterns.push(`${streetNum} ${streetName.split(' ')[0]}`);
+      }
+
       // Split content into lines
       const lines = content.split('\n');
 
-      // Find the line containing this address
+      // Find the line containing this address using any of our search patterns
       for (let line of lines) {
-        if (line.includes(searchAddr)) {
-          // Remove emoji and clean up the line
-          let detail = line.replace(/[🔥🏥🚨🚔🚑⚠️📍]/g, '').trim();
-          // Remove markdown bold markers
-          detail = detail.replace(/\*\*/g, '');
-          return detail;
+        for (let pattern of searchPatterns) {
+          if (line.toLowerCase().includes(pattern.toLowerCase())) {
+            // Remove emoji and clean up the line
+            let detail = line.replace(/[🔥🏥🚨🚔🚑⚠️📍]/g, '').trim();
+            // Remove markdown bold markers
+            detail = detail.replace(/\*\*/g, '');
+            // Remove leading/trailing dashes
+            detail = detail.replace(/^–\s*|\s*–$/g, '').trim();
+            return detail;
+          }
         }
       }
 
