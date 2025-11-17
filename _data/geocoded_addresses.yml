@@ -134,6 +134,9 @@
   fleeing the scene. The suspect reportedly headed towards a nearby alleyway after
   the theft., Louisville, KY
 : null
+100 Royer Ct, Louisville, KY:
+  lat: 38.258948
+  lng: -85.687745
 100 Sears Ave, Louisville, KY: null
 100 South 12th Street. The officer requested backup as they prepared to pull the vehicle over., Louisville, KY: null
 100 South 2nd Street, Louisville, KY:
@@ -553,6 +556,13 @@
   lat: 38.2455998
   lng: -85.8299446
 1100 St. Catharines Court, Louisville, KY: null
+1100 West Broadway, Louisville, KY:
+  lat: 38.247268
+  lng: -85.770111
+? 1100 West Broadway, near South 11th Street, to assist a 62-year-old female. The
+  individual was experiencing symptoms related to a low blood count due to an infection.
+  She was located near a bus stop and was wearing white clothing., Louisville, KY
+: null
 ? 11000 Hill Rd on a report of a possible break-in in progress. Two subjects were
   observed near a structure after working hours, prompting the investigation., Louisville,
   KY
@@ -847,6 +857,7 @@
   personnel were positioned nearby, ready to provide assistance if needed. The situation
   required a careful and coordinated response from law enforcement., Louisville, KY
 : null
+1300 Sail, Louisville, KY: null
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -1378,6 +1389,14 @@
 : null
 1800 I 64 West, Louisville, KY: null
 1800 Jalen Road, Louisville, KY: null
+1800 Marina's Edgeway, Louisville, KY: null
+? 1800 Marina's Edgeway, situated between River Rd and River Shore Dr. The call involved
+  a 21-year-old female who reported experiencing a sensation of warmth and freezing
+  in her abdomen, below the sternum. This incident occurred at the same location where
+  she had previously suffered a heart attack approximately three weeks earlier., Louisville,
+  KY
+: null
+1800 Marinus Edgeway, Louisville, KY: null
 1800 McCloskey Avenue, Evening, Louisville, KY: null
 1800 Millwood Ct to investigate and manage the situation., Louisville, KY: null
 1800 Millwood Ct, Louisville, KY:
@@ -1701,6 +1720,10 @@
   lat: 38.2436686
   lng: -85.7558736
 200 and120, Louisville, KY: null
+200 eastbound to Newberg off ramp, Louisville, KY: null
+? 200 eastbound to Newberg. Emergency medical services were already on scene and requested
+  additional support from fire and police units., Louisville, KY
+: null
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
 2000 3Rd Street Rd, Louisville, KY:
@@ -1996,6 +2019,13 @@
 2300 West Jefferson, Louisville, KY:
   lat: 38.2574167
   lng: -85.7900164
+2300 Woodbourne Ave, Louisville, KY:
+  lat: 38.2269034
+  lng: -85.6851901
+? 2300 Woodbourne Ave, between Talbott Ave and LRB Avenue, following a report of a
+  potential gas leak. The odor was described by the caller as similar to gas or skunk
+  spray near the apartment building's entrance., Louisville, KY
+: null
 2300 block of Line Kill, Louisville, KY: null
 2300 block of Line Kill. Police units were dispatched to investigate the activation., Louisville, KY: null
 2319 Brownsboro Road, Louisville, KY:
@@ -2966,6 +2996,9 @@
 3621 Wheeler Avenue, Louisville, KY:
   lat: 38.1933635
   lng: -85.7881541
+37 Euclid Ave, Louisville, KY:
+  lat: 38.2146706
+  lng: -85.7748283
 3700 Chalk and Cedar Crest Ln, Louisville, KY: null
 ? 3700 Chamberlain Lane. The initial report indicated a gas grill had been on fire,
   but it was already extinguished by the time of the call. Firefighters were requested
@@ -5399,6 +5432,7 @@ Christian Merrick Road and Hempstead Rd, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
+Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
@@ -5454,6 +5488,7 @@ Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Rolling St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
+River Rd and River Shore Dr, Louisville, KY: null
 Rodman St and Atwood St, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
