@@ -1037,6 +1037,7 @@
 : null
 1400 I 64 West, Louisville, KY: null
 1400 I64 East, Louisville, KY: null
+1400 Knight and Gale, Louisville, KY: null
 1400 Larchmont Ave, Louisville, KY:
   lat: 38.2102913
   lng: -85.7809949
@@ -2382,6 +2383,9 @@
 ? 2600 South 42nd Street. Police units were dispatched to the scene to manage traffic
   and ensure the area was safe., Louisville, KY
 : null
+2600 South 6th Street, Louisville, KY:
+  lat: 38.211481
+  lng: -85.767931
 ? 2600 South Forth Street following a report of an assault. A victim was found to
   have been struck with a pistol. Paramedics were called to the scene to assess and
   treat the injured individual. Authorities were searching for a suspect described
