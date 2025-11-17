@@ -16,6 +16,7 @@ header_pages:
   - index.md
   - digest.md
   - map.md
+  - chatbot.md
   - about.md
 
 # Exclude directories from Jekyll build
