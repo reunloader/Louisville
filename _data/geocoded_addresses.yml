@@ -830,6 +830,7 @@
   have been attempting to gain unauthorized access to the scrap yard. Authorities
   investigated the incident., Louisville, KY
 : null
+12300 Forest School Ln, Louisville, KY: null
 124 West Oak Street, Louisville, KY:
   lat: 38.2345255
   lng: -85.7567626
@@ -2998,6 +2999,9 @@
 3200 L Drive (March 10, 7:16 a.m.AM), Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
+3200 Taylor Blvd, Louisville, KY:
+  lat: 38.2051349
+  lng: -85.7786368
 3200 Timmons Way, Louisville, KY:
   lat: 38.2839473
   lng: -85.4731984
@@ -5217,6 +5221,9 @@
 7800 Apple Valley Dr, Louisville, KY:
   lat: 38.1351054
   lng: -85.6214767
+7800 Appleview Ln, Louisville, KY:
+  lat: 38.133612
+  lng: -85.61895
 ? 7800 Finley Avenue following a report of a medical emergency. A 78-year-old female,
   who had recently returned home from the hospital, was experiencing severe difficulty
   breathing and was unable to speak. Paramedics and Engine 4 responded to provide
@@ -5852,6 +5859,7 @@ Farshtown Road and Eastern Parkway, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
+Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
