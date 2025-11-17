@@ -3491,6 +3491,9 @@
 4100 Sunrise Way, Louisville, KY:
   lat: 38.2139627
   lng: -85.6207901
+4100 Towne Center Dr, Louisville, KY:
+  lat: 38.2990939
+  lng: -85.553818
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
@@ -5558,6 +5561,7 @@ Russell Ave and Grenade Ave, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
+Shelbyville Rd and Bircham Rd, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
@@ -5591,5 +5595,6 @@ Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Wolfpin Branch Road and Springdale Road, Louisville, KY: null
 Woodgate Lane and Manor Hill Drive, Louisville, KY: null
+Worthington Ln and Elder Ln, Louisville, KY: null
 Zane St and Western Ave, Louisville, KY: null
 Zorn Avenue and Country Club Road, Louisville, KY: null
