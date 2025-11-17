@@ -95,6 +95,7 @@
   lat: 38.2289024
   lng: -85.7017791
 100 North Bardstown Rd/ 100 block of North Bel Air, Louisville, KY: null
+100 North Hirshhorn Parkway, Louisville, KY: null
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
   specified. The outcome of the police response to this location is also unclear at
@@ -2470,6 +2471,9 @@
 ? 2700 South 3rd Street. Responding units were sent to assess the situation. The incident
   remained active at the time the transcript ended., Louisville, KY
 : null
+2700 South 4th Street, Louisville, KY:
+  lat: 38.210219
+  lng: -85.764784
 2700 South Center Street, Louisville, KY: null
 2700 South Third, Louisville, KY: null
 ? 2700 South Third. Their presence was scheduled to continue until 8:00 a.m., with
@@ -2560,6 +2564,9 @@
   lng: -85.798435
 2800 West Broadway. A request was made for the license plate of a vehicle associated with the incident., Louisville, KY: null
 2800 West Chest Down, Louisville, KY: null
+2900 Bank St, Louisville, KY:
+  lat: 38.2708858
+  lng: -85.7957115
 2900 Bon Air, Louisville, KY:
   lat: 38.2083483
   lng: -85.6587646
@@ -3772,6 +3779,7 @@
 ? 4200 Hale Ave. Specific details regarding the nature of the emergency or the patient's
   condition were not immediately available., Louisville, KY
 : null
+4200 High Stoneway, Louisville, KY: null
 4200 Lambert Rd, Louisville, KY: null
 ? 4200 Lambert Rd, near Cross Meadows Cir. A specific unit was monitoring the situation
   and was subsequently canceled, suggesting the incident was resolved or no longer
@@ -4389,6 +4397,9 @@
 5500 Bardstown Rd, Louisville, KY:
   lat: 38.166274
   lng: -85.601225
+5500 Euclid Ave, Louisville, KY:
+  lat: 38.1192754
+  lng: -85.863372
 5500 Fern Valley Rd, Louisville, KY:
   lat: 38.1556056
   lng: -85.6590131
@@ -5130,6 +5141,9 @@
 7300 Greenlawn Rd, Louisville, KY:
   lat: 38.2791822
   lng: -85.618336
+7300 Home Park Dr, Louisville, KY:
+  lat: 38.1681008
+  lng: -85.890145
 7300 Jefferson Blvd, Louisville, KY:
   lat: 38.1448032
   lng: -85.6756623
