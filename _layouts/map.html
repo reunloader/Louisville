@@ -620,47 +620,131 @@
       return null;
     }
 
-    // Create marker for event with coordinates
-    function createMarkerWithCoords(event, address, coords) {
-      // Extract specific event detail for this location
+    // Store for grouping events by location
+    const locationGroups = {};
+
+    // Add event to location group
+    function addEventToLocationGroup(event, address, coords) {
+      const locationKey = `${coords.lat},${coords.lng}`;
+
+      if (!locationGroups[locationKey]) {
+        locationGroups[locationKey] = {
+          address: address,
+          coords: coords,
+          events: []
+        };
+      }
+
+      locationGroups[locationKey].events.push(event);
+    }
+
+    // Create event content HTML for carousel
+    function createEventContent(event, address, index, total) {
       const eventDetail = extractEventDetail(event.content, address);
+      const parsed = parseEventDetail(eventDetail);
+      const description = extractDescription(event.content, address);
 
-      // Detect category from content
-      const detectedCategory = detectCategory(eventDetail);
+      return `
+        <div class="event-carousel-item">
+          ${total > 1 ? `<div style="background: #e3f2fd; padding: 8px; margin: -10px -10px 10px -10px; border-bottom: 2px solid #2196f3; text-align: center; font-weight: bold; color: #1976d2;">Event ${index + 1} of ${total}</div>` : ''}
+          <h3 style="margin-top: ${total > 1 ? '10px' : '0'}; margin-bottom: 8px;">${parsed.eventType}</h3>
+          ${parsed.time ? `<p style="margin: 5px 0;"><strong>Time:</strong> ${parsed.time}</p>` : ''}
+          <p style="margin: 5px 0;"><strong>Date:</strong> ${event.date}</p>
+          <p style="margin: 5px 0;"><strong>Location:</strong> ${address}</p>
+          ${description ? `<p style="margin: 10px 0; line-height: 1.4;">${description}</p>` : ''}
+          <p style="margin: 10px 0 0 0;"><a href="${event.url}" target="_blank" style="color: #2196f3; text-decoration: none; font-weight: 500;">View Full Report →</a></p>
+        </div>
+      `;
+    }
 
-      // Determine marker color based on detected category
-      let markerIcon = markerIcons.blue; // default (police)
+    // Create marker for a location with potentially multiple events
+    function createMarkerForLocation(locationKey, locationData) {
+      const { address, coords, events } = locationData;
+
+      // Sort events by datetime (most recent first)
+      events.sort((a, b) => b.datetime.localeCompare(a.datetime));
+
+      // Use the most recent event to determine marker color
+      const firstEventDetail = extractEventDetail(events[0].content, address);
+      const detectedCategory = detectCategory(firstEventDetail);
+
+      let markerIcon = markerIcons.blue;
       if (detectedCategory === 'medical') {
         markerIcon = markerIcons.yellow;
       } else if (detectedCategory === 'fire') {
         markerIcon = markerIcons.red;
-      } else {
-        markerIcon = markerIcons.blue; // police
       }
 
       const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
 
-      // Parse event detail to extract type and time
-      const parsed = parseEventDetail(eventDetail);
+      // Create carousel popup content
+      let currentIndex = 0;
 
-      // Extract descriptive text (not the summary line)
-      const description = extractDescription(event.content, address);
+      function updatePopupContent() {
+        const event = events[currentIndex];
+        const eventContent = createEventContent(event, address, currentIndex, events.length);
 
-      // Create popup content with full details
-      const popupContent = `
-        <div class="popup-content">
-          <h3>${parsed.eventType}</h3>
-          ${parsed.time ? `<p><strong>Time:</strong> ${parsed.time}</p>` : ''}
-          <p><strong>Location:</strong> ${address}</p>
-          ${description ? `<p>${description}</p>` : ''}
-          <p><a href="${event.url}" target="_blank">View Full Report</a></p>
-        </div>
-      `;
+        let popupHTML = `<div class="popup-content" style="min-width: 280px;">`;
 
-      marker.bindPopup(popupContent);
+        // Navigation buttons (only show if multiple events)
+        if (events.length > 1) {
+          popupHTML += `
+            <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+              <button
+                onclick="window.navigateCarousel('${marker._leaflet_id}', -1)"
+                style="flex: 1; padding: 8px; background: ${currentIndex === 0 ? '#ccc' : '#2196f3'}; color: white; border: none; border-radius: 4px; cursor: ${currentIndex === 0 ? 'not-allowed' : 'pointer'}; font-weight: 500;"
+                ${currentIndex === 0 ? 'disabled' : ''}>
+                ← Previous
+              </button>
+              <button
+                onclick="window.navigateCarousel('${marker._leaflet_id}', 1)"
+                style="flex: 1; padding: 8px; background: ${currentIndex === events.length - 1 ? '#ccc' : '#2196f3'}; color: white; border: none; border-radius: 4px; cursor: ${currentIndex === events.length - 1 ? 'not-allowed' : 'pointer'}; font-weight: 500;"
+                ${currentIndex === events.length - 1 ? 'disabled' : ''}>
+                Next →
+              </button>
+            </div>
+          `;
+        }
 
-      // Store event data with marker
-      marker.eventData = event;
+        popupHTML += eventContent + `</div>`;
+
+        marker.setPopupContent(popupHTML);
+      }
+
+      // Setup carousel navigation
+      if (!window.carouselStates) {
+        window.carouselStates = {};
+        window.navigateCarousel = function(markerId, direction) {
+          const state = window.carouselStates[markerId];
+          if (!state) return;
+
+          state.currentIndex += direction;
+          if (state.currentIndex < 0) state.currentIndex = 0;
+          if (state.currentIndex >= state.events.length) state.currentIndex = state.events.length - 1;
+
+          state.updateFn();
+        };
+      }
+
+      window.carouselStates[marker._leaflet_id] = {
+        currentIndex: currentIndex,
+        events: events,
+        updateFn: updatePopupContent
+      };
+
+      marker.on('popupopen', function() {
+        window.carouselStates[marker._leaflet_id].currentIndex = 0;
+        currentIndex = 0;
+        updatePopupContent();
+      });
+
+      // Initial popup content
+      updatePopupContent();
+      marker.bindPopup(marker.getPopup() || L.popup({ maxWidth: 350 }));
+
+      // Store all event data with marker
+      marker.eventData = events[0]; // Store most recent for filtering
+      marker.allEvents = events;
       marker.eventAddress = address;
 
       markers.push(marker);
@@ -767,12 +851,17 @@
         console.log('Date filters initialized:', startDateEl.value, 'to', endDateEl.value);
       }
 
-      // Process cached addresses immediately (no API calls needed)
+      // Process cached addresses immediately - add to location groups
       cachedItems.forEach(item => {
         const coords = geocodeCache[item.address];
         if (coords) {
-          createMarkerWithCoords(item.event, item.address, coords);
+          addEventToLocationGroup(item.event, item.address, coords);
         }
+      });
+
+      // Create markers from grouped locations
+      Object.keys(locationGroups).forEach(locationKey => {
+        createMarkerForLocation(locationKey, locationGroups[locationKey]);
       });
 
       // Apply initial filters to cached markers (dates are now set)
@@ -787,7 +876,20 @@
           const coords = await geocodeWithDelay(item.address, i * 1000);
 
           if (coords) {
-            createMarkerWithCoords(item.event, item.address, coords);
+            addEventToLocationGroup(item.event, item.address, coords);
+
+            // Create/update marker for this location
+            const locationKey = `${coords.lat},${coords.lng}`;
+            if (locationGroups[locationKey]) {
+              // Remove old marker if exists
+              const oldMarker = markers.find(m => m.eventAddress === item.address && m._latlng.lat === coords.lat && m._latlng.lng === coords.lng);
+              if (oldMarker) {
+                markerLayer.removeLayer(oldMarker);
+                markers = markers.filter(m => m !== oldMarker);
+              }
+              // Create new marker with all events
+              createMarkerForLocation(locationKey, locationGroups[locationKey]);
+            }
 
             // Apply filters after each new marker
             applyFilters();
