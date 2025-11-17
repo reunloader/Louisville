@@ -51,6 +51,46 @@
     .site-nav a:hover {
       text-decoration: underline;
     }
+    /* Mobile hamburger menu */
+    .menu-icon {
+      display: none;
+      cursor: pointer;
+      flex-direction: column;
+      gap: 5px;
+    }
+    .menu-icon span {
+      width: 25px;
+      height: 3px;
+      background-color: #424242;
+      transition: all 0.3s;
+    }
+    @media screen and (max-width: 768px) {
+      .menu-icon {
+        display: flex;
+      }
+      .site-nav {
+        position: absolute;
+        top: 60px;
+        right: 0;
+        background: white;
+        flex-direction: column;
+        width: 200px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        display: none;
+        gap: 0;
+        padding: 10px 0;
+      }
+      .site-nav.active {
+        display: flex;
+      }
+      .site-nav a {
+        padding: 10px 20px;
+        line-height: normal;
+      }
+      .site-header .wrapper {
+        position: relative;
+      }
+    }
     .wrapper {
       max-width: 1200px;
       margin: 0 auto;
@@ -168,7 +208,12 @@
   <header class="site-header">
     <div class="wrapper">
       <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
-      <nav class="site-nav">
+      <div class="menu-icon" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <nav class="site-nav" id="navMenu">
         <a href="{{ "/" | relative_url }}">Live Feed</a>
         <a href="{{ "/digest/" | relative_url }}">Digest</a>
         <a href="{{ "/map/" | relative_url }}">Map</a>
@@ -213,6 +258,27 @@
     crossorigin="anonymous"></script>
 
   <script>
+    // Toggle mobile menu
+    function toggleMenu() {
+      const navMenu = document.getElementById('navMenu');
+      navMenu.classList.toggle('active');
+    }
+
+    // Close menu when clicking outside
+    document.addEventListener('click', function(event) {
+      const navMenu = document.getElementById('navMenu');
+      const menuIcon = document.querySelector('.menu-icon');
+
+      if (navMenu && menuIcon) {
+        const isClickInsideNav = navMenu.contains(event.target);
+        const isClickOnIcon = menuIcon.contains(event.target);
+
+        if (!isClickInsideNav && !isClickOnIcon && navMenu.classList.contains('active')) {
+          navMenu.classList.remove('active');
+        }
+      }
+    });
+
     // Store all events data
     const eventsData = [
       {% for post in site.posts limit:500 %}
