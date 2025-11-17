@@ -45,7 +45,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet _data/geocoded_addresses.yml; then
+          if git diff --quiet _data/geocoded_addresses.yml _data/geocoding_success_metrics.yml; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -56,8 +56,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add _data/geocoded_addresses.yml
-          git commit -m "Auto-update geocoded addresses [skip ci]"
+          git add _data/geocoded_addresses.yml _data/geocoding_success_metrics.yml
+          git commit -m "Auto-update geocoded addresses and success metrics [skip ci]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

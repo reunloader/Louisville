@@ -13,6 +13,7 @@ This script:
 import json
 import os
 import re
+import sys
 import time
 from pathlib import Path
 from typing import Dict, Set, Tuple
@@ -299,6 +300,26 @@ def main():
     print(f"  Failed: {len(new_addresses) - geocoded_count}")
     print(f"  Total in cache: {len(cache)}")
     print("=" * 60)
+
+    # Track success metrics
+    try:
+        import subprocess
+        print("\n6. Updating success metrics...")
+        result = subprocess.run(
+            [sys.executable, "scripts/track_geocoding_success.py"],
+            capture_output=True,
+            text=True,
+            timeout=30
+        )
+        if result.returncode == 0:
+            # Print just the summary from the tracker
+            if "SUMMARY" in result.stdout:
+                summary_section = result.stdout.split("SUMMARY")[1]
+                print(summary_section)
+        else:
+            print(f"   Warning: Could not update metrics: {result.stderr}")
+    except Exception as e:
+        print(f"   Warning: Could not update metrics: {e}")
 
 if __name__ == "__main__":
     main()
