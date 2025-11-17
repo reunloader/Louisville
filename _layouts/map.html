@@ -504,6 +504,14 @@
         if (eventLineIndex !== -1) break;
       }
 
+      // Generic closing phrases to exclude
+      const excludePhrases = [
+        'we will post our full 24-hour summary',
+        'look out for one another',
+        'stay safe',
+        'stay vigilant'
+      ];
+
       // If we found the event line, look for description lines right after it
       if (eventLineIndex !== -1) {
         const descriptionLines = [];
@@ -517,6 +525,12 @@
 
           // Stop if we hit another event summary (contains " – " pattern)
           if (cleaned.includes(' – ')) break;
+
+          // Skip generic closing phrases
+          const cleanedLower = cleaned.toLowerCase();
+          if (excludePhrases.some(phrase => cleanedLower.includes(phrase))) {
+            continue;
+          }
 
           // Add this description line
           descriptionLines.push(cleaned);
