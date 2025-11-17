@@ -2571,6 +2571,9 @@
   KY
 : null
 300 Baker and 300 block of Charlie, Louisville, KY: null
+300 Baker, Louisville, KY:
+  lat: 38.1417259
+  lng: -85.7685179
 300 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -2596,6 +2599,9 @@
   lng: -85.4485653
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 800 block of Charlie, Louisville, KY: null
+300 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -5621,6 +5627,9 @@
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
+9600 Hudson Ln, Louisville, KY:
+  lat: 38.1701356
+  lng: -85.5768994
 9600 Lamborne Blvd, Louisville, KY:
   lat: 38.1134765
   lng: -85.8144594
