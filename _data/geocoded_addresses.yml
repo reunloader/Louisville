@@ -802,6 +802,9 @@
   smoke or fire. The alarm was ultimately determined to be a malfunction., Louisville,
   KY
 : null
+12100 LaGrange Road, Louisville, KY:
+  lat: 38.2804338
+  lng: -85.5167542
 ? 12200 Ridgecrest Drive. The resident reported hearing someone attempting to tamper
   with the locks of their home. Officers arrived to investigate the suspicious activity.,
   Louisville, KY
@@ -974,6 +977,7 @@
   caller was screaming, prompting a swift response. Further details confirmed the
   presence of a weapon and the involvement of a brother., Louisville, KY
 : null
+1400 Boca Ridge, Louisville, KY: null
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -4171,6 +4175,9 @@
   lat: 38.3190024
   lng: -85.5348563
 5200 Greenwood at High Spirit Liquors, Louisville, KY: null
+5200 Laurel Grove Ct, Louisville, KY:
+  lat: 38.1289808
+  lng: -85.6279894
 5200 Russett Blvd, Louisville, KY:
   lat: 38.1655538
   lng: -85.6661966
@@ -4237,6 +4244,9 @@
 5500 Pikewood Field Way, Louisville, KY:
   lat: 38.1438756
   lng: -85.6544274
+5500 Robinwood Rd, Louisville, KY:
+  lat: 38.1697708
+  lng: -85.6684397
 5600 Greenbluff Rd, Louisville, KY:
   lat: 38.14866
   lng: -85.6559586
