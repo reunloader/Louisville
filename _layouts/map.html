@@ -430,8 +430,12 @@
     function detectCategory(content) {
       const contentLower = content.toLowerCase();
 
-      // Medical keywords
-      const medicalKeywords = ['medical', 'ems', 'ambulance', 'overdose', 'cardiac', 'stroke', 'injury', 'injured', 'sick'];
+      // Medical keywords (including mental health)
+      const medicalKeywords = [
+        'medical', 'ems', 'ambulance', 'overdose', 'cardiac', 'stroke',
+        'injury', 'injured', 'sick', 'mental health', 'crisis', 'suicide',
+        'unconscious', 'breathing', 'chest pain', 'seizure', 'fall victim'
+      ];
       if (medicalKeywords.some(keyword => contentLower.includes(keyword))) {
         return 'medical';
       }
