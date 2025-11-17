@@ -526,6 +526,9 @@
   and the emergency was canceled. The responding units were then able to return to
   service., Louisville, KY
 : null
+1100 South 17th Street, Louisville, KY:
+  lat: 38.238336
+  lng: -85.783811
 1100 South 1st Street, Louisville, KY:
   lat: 38.2366045
   lng: -85.7552072
@@ -1256,6 +1259,9 @@
 1600 a street with a net rate of16, Louisville, KY: null
 16100 Crisswind Road, Louisville, KY: null
 16100 Eastwood Bluff Rd, Louisville, KY: null
+16200 Shelbyville Rd, Louisville, KY:
+  lat: 38.233555
+  lng: -85.453095
 1661 Garland Avenue, Louisville, KY:
   lat: 38.2433686
   lng: -85.7810275
