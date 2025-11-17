@@ -1125,6 +1125,13 @@
   lat: 38.1996606
   lng: -85.7865926
 1500 Cypress Street 8:00 a.m.AM, Louisville, KY: null
+1500 Cypress, Louisville, KY:
+  lat: 38.2302114
+  lng: -85.7988776
+? 1500 Cypress. The incident happened approximately ten minutes before the report
+  was taken. A woman present at the scene declined to file a formal report with responding
+  officers., Louisville, KY
+: null
 ? 1500 Gallagher Street due to a report of a 19-year-old black female threatening
   self-harm. The individual was initially reported to be armed with a sword, but it
   was later stated she no longer had the weapon. The location of the sword was unknown
@@ -3105,6 +3112,13 @@
 3700 Rouge Way, Louisville, KY:
   lat: 38.204316
   lng: -85.648926
+3700 Stratton Ave, Louisville, KY:
+  lat: 38.2294728
+  lng: -85.8166836
+? 3700 Stratton Ave, near 38th Street and Russell E Drive, due to a report of property
+  damage. The caller stated that their ex-girlfriend was allegedly damaging property
+  outside the residence., Louisville, KY
+: null
 3700 Taylor, Louisville, KY:
   lat: 38.1910205
   lng: -85.7836633
@@ -4341,6 +4355,10 @@
   that appeared to be the result of a motor vehicle accident. The incident involved
   a gray Nissan and a black Lexus at the intersection., Louisville, KY
 : null
+? 600 South 29th Street to address a report of two females engaged in a physical altercation.
+  The area of the disturbance also involved Carlson Magazine and Chestnut., Louisville,
+  KY
+: null
 ? 600 South 29th Street to investigate a report of suspicious activity or to conduct
   a welfare check. The situation was resolved, and units cleared the scene shortly
   after., Louisville, KY
@@ -5085,6 +5103,12 @@
   lat: 38.1536611
   lng: -85.7652516
 800 Sub Cliff Avenue 7:30 p.m.PM, Louisville, KY: null
+800 W W Market St, Louisville, KY: null
+? 800 W W Market St, involving two young women, a 17-year-old and an 18-year-old.
+  Reports indicated that both individuals were armed with knives, bats, and frying
+  pans during the altercation., Louisville, KY
+: null
+800 W W Market St. The location was near Carlson and Roy Wilkins., Louisville, KY: null
 ? 800 West Main Street. Several fire units responded to investigate the situation.
   Upon arrival, crews assessed the scene to determine the cause of the alarm. The
   incident was resolved without further complications., Louisville, KY
