@@ -214,6 +214,7 @@
   and evaluation. The incident was handled efficiently by the responding engine company.,
   Louisville, KY
 : null
+100 West Orange V Ave, Louisville, KY: null
 100 West, at Langland Pl, Louisville, KY: null
 ? 100 West, near Langland Pl. The fire was reported to be small and was extinguished
   by Engine 187. All units were cleared of service shortly after., Louisville, KY
@@ -293,6 +294,9 @@
 : null
 1000 I 65 South, Louisville, KY: null
 1000 I-64 West, Louisville, KY: null
+1000 Lincoln Ave, Louisville, KY:
+  lat: 38.2110801
+  lng: -85.7736033
 1000 Mulberry St, Louisville, KY:
   lat: 38.2257994
   lng: -85.7382232
@@ -1350,6 +1354,12 @@
   lat: 38.1764542
   lng: -85.812257
 1600 Eastward Cutoff Road, Louisville, KY: null
+? 1600 Evanwood Dr to investigate a report of suspicious activity. This call prompted
+  a police response to check on the situation., Louisville, KY
+: null
+1600 Evanwood Dr, Louisville, KY:
+  lat: 38.105421
+  lng: -85.6103431
 1600 Frankfort Ave, Louisville, KY:
   lat: 38.257914
   lng: -85.720076
@@ -1474,6 +1484,9 @@
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
   lng: -85.707066
+1700 Rosewood Ave, Louisville, KY:
+  lat: 38.2336943
+  lng: -85.7166782
 1700 Shady Villa Ct, Louisville, KY:
   lat: 38.1632086
   lng: -85.6804864
