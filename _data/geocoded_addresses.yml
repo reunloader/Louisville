@@ -3664,6 +3664,9 @@
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
+4200 Bardstown Rd, Louisville, KY:
+  lat: 38.1882665
+  lng: -85.6406943
 4200 Browns Ln, Louisville, KY:
   lat: 38.2212774
   lng: -85.6217664
@@ -3892,6 +3895,9 @@
   to provide assistance., Louisville, KY
 : null
 4600 Dome Road, Louisville, KY: null
+4600 Dover Rd, Louisville, KY:
+  lat: 38.183401
+  lng: -85.840082
 ? 4600 East Indian Trail. Review of security footage indicated an individual had entered
   the store's rear garage area. Responding units determined the alarm to be false,
   and no further action was required., Louisville, KY
@@ -5509,6 +5515,9 @@
 900 South 4th Street, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
+900 South 5th Street, Louisville, KY:
+  lat: 38.241573
+  lng: -85.7608634
 900 South I-65, Louisville, KY: null
 900 Southgate Manor Dr, Louisville, KY:
   lat: 38.0893129
