@@ -5325,9 +5325,14 @@
 700 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
+700 S S S Brook St, Louisville, KY: null
 ? 700 S S S Brook St. It was determined that individuals experiencing homelessness
   had started a fire and were gathered around it. The situation was managed by responding
   personnel., Louisville, KY
+: null
+? 700 S S S Brook St. The incident involved a large garbage fire in a dumpster, with
+  several individuals present at the scene. Firefighters worked to manage the situation.,
+  Louisville, KY
 : null
 700 Shiloh Trail, Louisville, KY: null
 700 South 24th Street, Louisville, KY:
@@ -5540,6 +5545,10 @@
 7500 Nottoway Cir, Louisville, KY:
   lat: 38.1600021
   lng: -85.8075365
+? 7500 Pompouse for a medical emergency. A 67-year-old female was experiencing difficulty
+  breathing. Responders provided care to the patient., Louisville, KY
+: null
+7500 Pompouse, Louisville, KY: null
 ? 7500 Winstead Dr, near Jean Cain Pl, to assist a 48-year-old male. The individual
   was reportedly experiencing sudden weakness on one side of his body, along with
   numbness., Louisville, KY
@@ -6140,6 +6149,14 @@
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
+9500 Pond Station Rd, Louisville, KY:
+  lat: 38.1072784
+  lng: -85.8230991
+? 9500 Pond Station Rd. Upon arrival, smoke was observed emanating from the first-floor
+  elevator shaft. Firefighters worked to investigate and address the source of the
+  smoke., Louisville, KY
+: lat: 38.1072784
+  lng: -85.8230991
 ? 9500 Thor Ave to assist a 76-year-old male who had sustained a head injury a couple
   of days prior and was now experiencing shortness of breath. The patient was reported
   to be approximately 300 pounds., Louisville, KY
@@ -6154,6 +6171,13 @@
   lat: 38.1134765
   lng: -85.8144594
 9600 Leopold Wood Loop, Louisville, KY: null
+9600 [Street Name Missing], Louisville, KY:
+  lat: 38.1449244
+  lng: -85.5799095
+? 9600 an unlisted road near Keys Ferry Rd. A 90-year-old male had fallen and sustained
+  a head injury, and was found to be unresponsive. Medical personnel attended to the
+  patient., Louisville, KY
+: null
 9700 3rd 3Rd Street Rd at Circle K, Louisville, KY: null
 9700 3rd 3Rd Street Rd, Louisville, KY: null
 9700 Boxford Way, Louisville, KY: null
