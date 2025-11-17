@@ -472,47 +472,63 @@
       return { eventType: detail, time: null };
     }
 
-    // Extract descriptive text from content (not the summary line)
+    // Extract descriptive text that appears after the specific event summary line
     function extractDescription(content, address) {
       // Remove the ", Louisville, KY" suffix for matching
       const searchAddr = address.replace(', Louisville, KY', '');
 
+      // Build search patterns to find the event summary line
+      const addrMatch = searchAddr.match(/^(\d+)\s+(.+?)(?:\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln|Place))?$/i);
+
+      let searchPatterns = [searchAddr];
+      if (addrMatch) {
+        const streetNum = addrMatch[1];
+        const streetName = addrMatch[2];
+        searchPatterns.push(`${streetNum} block of ${streetName}`);
+        searchPatterns.push(`${streetNum} ${streetName.split(' ')[0]}`);
+      }
+
       // Split content into lines
       const lines = content.split('\n');
 
-      // Find lines that are NOT the event summary (don't contain address patterns)
-      const descriptionLines = [];
-
-      for (let line of lines) {
-        const cleaned = removeEmojis(line).replace(/\*\*/g, '').trim();
-
-        // Skip empty lines
-        if (cleaned.length < 10) continue;
-
-        // Skip lines that look like event summaries (contain " – " pattern)
-        if (cleaned.includes(' – ')) continue;
-
-        // Skip lines that contain the address
-        let containsAddress = false;
-        const addrWords = searchAddr.split(' ');
-        if (addrWords.length >= 2) {
-          const streetNum = addrWords[0];
-          const streetName = addrWords.slice(1).join(' ');
-          if (cleaned.toLowerCase().includes(streetNum) &&
-              cleaned.toLowerCase().includes(streetName.toLowerCase().split(' ')[0])) {
-            containsAddress = true;
+      // Find the index of the event summary line
+      let eventLineIndex = -1;
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
+        for (let pattern of searchPatterns) {
+          if (line.toLowerCase().includes(pattern.toLowerCase())) {
+            eventLineIndex = i;
+            break;
           }
         }
-
-        if (containsAddress) continue;
-
-        // This looks like a description line
-        descriptionLines.push(cleaned);
+        if (eventLineIndex !== -1) break;
       }
 
-      // Return the first few description lines (up to 2 sentences or 200 chars)
-      if (descriptionLines.length > 0) {
-        return descriptionLines.slice(0, 2).join(' ').substring(0, 200);
+      // If we found the event line, look for description lines right after it
+      if (eventLineIndex !== -1) {
+        const descriptionLines = [];
+
+        // Start looking from the line after the event summary
+        for (let i = eventLineIndex + 1; i < lines.length; i++) {
+          const cleaned = removeEmojis(lines[i]).replace(/\*\*/g, '').trim();
+
+          // Skip empty lines
+          if (cleaned.length < 10) continue;
+
+          // Stop if we hit another event summary (contains " – " pattern)
+          if (cleaned.includes(' – ')) break;
+
+          // Add this description line
+          descriptionLines.push(cleaned);
+
+          // Stop after collecting 2-3 lines or ~200 chars
+          const combined = descriptionLines.join(' ');
+          if (descriptionLines.length >= 2 || combined.length >= 200) break;
+        }
+
+        if (descriptionLines.length > 0) {
+          return descriptionLines.join(' ').substring(0, 250);
+        }
       }
 
       return null;
