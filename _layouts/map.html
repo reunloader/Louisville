@@ -540,6 +540,26 @@
 
       console.log(`Cached: ${cachedItems.length}, Need to geocode: ${uncachedItems.length}`);
 
+      // Set default date range BEFORE adding markers (yesterday to today)
+      const today = new Date();
+      const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
+
+      const startDateEl = document.getElementById('startDate');
+      const endDateEl = document.getElementById('endDate');
+
+      if (startDateEl && endDateEl) {
+        startDateEl.valueAsDate = yesterday;
+        endDateEl.valueAsDate = today;
+
+        // Add event listeners to date inputs
+        startDateEl.addEventListener('change', applyFilters);
+        startDateEl.addEventListener('input', applyFilters);
+        endDateEl.addEventListener('change', applyFilters);
+        endDateEl.addEventListener('input', applyFilters);
+
+        console.log('Date filters initialized:', startDateEl.value, 'to', endDateEl.value);
+      }
+
       // Process cached addresses immediately (no API calls needed)
       cachedItems.forEach(item => {
         const coords = geocodeCache[item.address];
@@ -548,7 +568,7 @@
         }
       });
 
-      // Apply initial filters to cached markers
+      // Apply initial filters to cached markers (dates are now set)
       applyFilters();
 
       // Process uncached addresses with delay (respecting rate limits)
@@ -574,29 +594,6 @@
         document.getElementById('stats').style.display = 'block';
         updateStats();
       }, uncachedItems.length > 0 ? 1000 : 100);
-
-      // Set default date range (yesterday to today)
-      const today = new Date();
-      const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
-
-      const startDateEl = document.getElementById('startDate');
-      const endDateEl = document.getElementById('endDate');
-
-      if (startDateEl && endDateEl) {
-        startDateEl.valueAsDate = yesterday;
-        endDateEl.valueAsDate = today;
-
-        // Add event listeners to date inputs (use both 'change' and 'input' for better compatibility)
-        startDateEl.addEventListener('change', applyFilters);
-        startDateEl.addEventListener('input', applyFilters);
-        endDateEl.addEventListener('change', applyFilters);
-        endDateEl.addEventListener('input', applyFilters);
-
-        console.log('Date filters initialized:', startDateEl.value, 'to', endDateEl.value);
-
-        // Apply initial filters
-        applyFilters();
-      }
     }
 
     // Filter markers based on date range
