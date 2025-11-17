@@ -535,6 +535,10 @@
 1100 South 43rd Street, Louisville, KY:
   lat: 38.2425962
   lng: -85.8254794
+? 1100 South 4th Street in response to a commercial alarm activation. Officers investigated
+  the premises to determine the cause of the alarm and ensure the security of the
+  business., Louisville, KY
+: null
 1100 South 4th Street, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -1533,6 +1537,12 @@
 200 East near mile marker 8.5, Louisville, KY: null
 200 East onto I-71 South, Louisville, KY: null
 200 East onto I-71 South. This action was likely in response to another ongoing incident in the area., Louisville, KY: null
+? 200 East to Newburg Rd following a report of a chemical mitigation incident. The
+  nature of the chemical substance and the extent of the mitigation required were
+  not immediately clear, but fire department resources were requested to manage the
+  situation., Louisville, KY
+: null
+200 East to Newburg Rd, Louisville, KY: null
 200 East, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -1757,6 +1767,13 @@
   searches of the property to ensure no one was experiencing illness from the detected
   levels. The alarm was located in the basement., Louisville, KY
 : null
+? 2000 West Broadway to attend to a male individual in a gray hoodie and dark pants.
+  The patient was described as intoxicated and unresponsive, found in front of the
+  subway. This was categorized as a medical Delta incident., Louisville, KY
+: null
+2000 West Broadway, Louisville, KY:
+  lat: 38.2487881
+  lng: -85.7851987
 ? 2000 West Market Street to conduct a welfare check. The call concerned multiple
   juveniles who were believed to be experiencing neglect and lacked essential utilities.
   Responders aimed to assess the situation and ensure the safety of the children involved.,
@@ -1893,6 +1910,12 @@
 : null
 2200 Regal Springs Dr and Grand Lake Straus, Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
+? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
+  and showing signs of facial drooping. This was classified as a medical Delta call,
+  and responders were directed to use a specific route entrance to reach the patient.,
+  Louisville, KY
+: null
+2200 West Mahomali Boulevard, Louisville, KY: null
 2200 West Market Street, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
@@ -2091,6 +2114,11 @@
   that no individuals were in danger or trapped within the building., Louisville,
   KY
 : null
+? 2500 St. St Xavier St to address a medical emergency. This incident was classified
+  as a medical Charlie call, indicating a need for immediate medical attention., Louisville,
+  KY
+: null
+2500 St. St Xavier St, Louisville, KY: null
 2500 Terra Crossing Blvd, Louisville, KY:
   lat: 38.272571
   lng: -85.498393
