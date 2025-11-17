@@ -307,7 +307,7 @@
       const addresses = [];
 
       // Pattern 1: "block of Street Name" (e.g., "100 block of Sears Ave")
-      const blockPattern = /(\d+)\s+block\s+of\s+([^–\n,]+?)(?=\s*,|\s*–|\s*\n|$)/gi;
+      const blockPattern = /(\d+)\s+block\s+of\s+([^–\n,.]+?)(?=\s*[,.]|\s*–|\s*\n|$)/gi;
 
       // Pattern 2: "Street and Street" intersections
       const intersectionPattern = /([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\s+and\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))/gi;
