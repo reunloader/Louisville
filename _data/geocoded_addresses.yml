@@ -606,6 +606,9 @@
 11100 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+11300 Blue Lick Rd, Louisville, KY:
+  lat: 38.0869317
+  lng: -85.6997833
 11300 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
@@ -3552,6 +3555,9 @@
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+4100 Pinecroft Dr, Louisville, KY:
+  lat: 38.1335452
+  lng: -85.686208
 4100 River Park Dr, Louisville, KY:
   lat: 38.255476
   lng: -85.8193028
@@ -3750,6 +3756,7 @@
   regarding the circumstances or resolution of this alarm was not provided., Louisville,
   KY
 : null
+4500 Sheldes Drive, Louisville, KY: null
 4500 South 3rd Street near W W Southern Heights Ave, Louisville, KY: null
 4500 South 6th Street, Louisville, KY:
   lat: 38.1881447
