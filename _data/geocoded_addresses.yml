@@ -1379,6 +1379,9 @@
 : null
 1700 I 64 West, Louisville, KY: null
 1700 Meadow Lane Ct, Louisville, KY: null
+1700 Meyers Ln, Louisville, KY:
+  lat: 38.162729
+  lng: -85.826053
 ? 1700 Newberg to conduct a welfare check. A male individual had called for assistance
   but was unable to clearly state the reason for his distress, prompting officers
   to investigate the situation., Louisville, KY
@@ -2698,6 +2701,9 @@
   Intervention Team call., Louisville, KY
 : null
 300 Foxy Poise Rd, Louisville, KY: null
+300 Hatcher Ave, Louisville, KY:
+  lat: 38.153733
+  lng: -85.765394
 300 Hillcrest, Louisville, KY:
   lat: 38.2582682
   lng: -85.6850962
@@ -3927,6 +3933,9 @@
   inside the structure, prompting occupants to evacuate. Firefighters arrived to investigate
   the source of the odor and ensure the safety of the area., Louisville, KY
 : null
+4500 Crittenden Dr, Louisville, KY:
+  lat: 38.188406
+  lng: -85.750811
 ? 4500 Georgia Ln for a medical emergency involving a 68-year-old male. The incident
   occurred near Billy Goat Strut Alley., Louisville, KY
 : null
@@ -4259,6 +4268,9 @@
 5000 South 4th Street, Louisville, KY:
   lat: 38.1747426
   lng: -85.7691808
+5000 Southside Dr, Louisville, KY:
+  lat: 38.1742795
+  lng: -85.7648749
 ? 5000 Southside Drive. Upon arrival, responders found no signs of fire or any other
   emergency. It was determined that the alarm was likely a false activation. The scene
   was cleared and services were made available for any further needs., Louisville,
@@ -5802,6 +5814,9 @@
   them with their guardian., Louisville, KY
 : null
 9800 Blue Caray, Louisville, KY: null
+9800 Brownsboro Rd, Louisville, KY:
+  lat: 38.3125224
+  lng: -85.5668407
 9800 Bucharest Road, Louisville, KY: null
 ? 9800 Cedar Garden Drive. Responding officers arrived to investigate the cause of
   the alarm. The situation was addressed by the units on scene., Louisville, KY
