@@ -472,6 +472,52 @@
       return { eventType: detail, time: null };
     }
 
+    // Extract descriptive text from content (not the summary line)
+    function extractDescription(content, address) {
+      // Remove the ", Louisville, KY" suffix for matching
+      const searchAddr = address.replace(', Louisville, KY', '');
+
+      // Split content into lines
+      const lines = content.split('\n');
+
+      // Find lines that are NOT the event summary (don't contain address patterns)
+      const descriptionLines = [];
+
+      for (let line of lines) {
+        const cleaned = removeEmojis(line).replace(/\*\*/g, '').trim();
+
+        // Skip empty lines
+        if (cleaned.length < 10) continue;
+
+        // Skip lines that look like event summaries (contain " – " pattern)
+        if (cleaned.includes(' – ')) continue;
+
+        // Skip lines that contain the address
+        let containsAddress = false;
+        const addrWords = searchAddr.split(' ');
+        if (addrWords.length >= 2) {
+          const streetNum = addrWords[0];
+          const streetName = addrWords.slice(1).join(' ');
+          if (cleaned.toLowerCase().includes(streetNum) &&
+              cleaned.toLowerCase().includes(streetName.toLowerCase().split(' ')[0])) {
+            containsAddress = true;
+          }
+        }
+
+        if (containsAddress) continue;
+
+        // This looks like a description line
+        descriptionLines.push(cleaned);
+      }
+
+      // Return the first few description lines (up to 2 sentences or 200 chars)
+      if (descriptionLines.length > 0) {
+        return descriptionLines.slice(0, 2).join(' ').substring(0, 200);
+      }
+
+      return null;
+    }
+
     // Create marker for event with coordinates
     function createMarkerWithCoords(event, address, coords) {
       // Extract specific event detail for this location
@@ -495,13 +541,16 @@
       // Parse event detail to extract type and time
       const parsed = parseEventDetail(eventDetail);
 
+      // Extract descriptive text (not the summary line)
+      const description = extractDescription(event.content, address);
+
       // Create popup content with full details
       const popupContent = `
         <div class="popup-content">
           <h3>${parsed.eventType}</h3>
           ${parsed.time ? `<p><strong>Time:</strong> ${parsed.time}</p>` : ''}
           <p><strong>Location:</strong> ${address}</p>
-          <p>${eventDetail}</p>
+          ${description ? `<p>${description}</p>` : ''}
           <p><a href="${event.url}" target="_blank">View Full Report</a></p>
         </div>
       `;
