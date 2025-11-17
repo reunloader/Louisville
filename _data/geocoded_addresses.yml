@@ -625,6 +625,10 @@
 1200 East Broadway, Louisville, KY:
   lat: 38.2437332
   lng: -85.7296723
+? 1200 East Broadway, involving a guest and the property management. The guest had
+  requested police intervention. Units from the 500 block of Baker and the 500 block
+  of Charlie responded to the scene., Louisville, KY
+: null
 ? 1200 East Broadway. Responding units arrived at the three-story brick complex and
   found no immediate signs of a fire., Louisville, KY
 : null
@@ -1243,6 +1247,9 @@
 1700 Gardiner Ln, Louisville, KY:
   lat: 38.204756
   lng: -85.686595
+? 1700 Griffin Gate. Responding units investigated the activation. The specific nature
+  of the alarm was not detailed in the initial report., Louisville, KY
+: null
 1700 I 64 West, Louisville, KY: null
 1700 Meadow Lane Ct, Louisville, KY: null
 ? 1700 Newberg to conduct a welfare check. A male individual had called for assistance
@@ -3100,6 +3107,7 @@
 : null
 400 Charlie and 400 block of David, Louisville, KY: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
+400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
 400 Charter, Louisville, KY: null
 400 Christian Village Cir, Louisville, KY: null
 400 Christopher Place., Louisville, KY:
@@ -3111,6 +3119,7 @@
 400 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
+400 David. The relative in question was not found to be on the premises., Louisville, KY: null
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
