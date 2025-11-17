@@ -785,6 +785,7 @@
 1200 South 4th Street, Louisville, KY:
   lat: 38.234898
   lng: -85.7606273
+1200 South 4th Street. Responders were dispatched to investigate the source of the alarm., Louisville, KY: null
 1200 South 4th Street. Responding units were dispatched to investigate the activation., Louisville, KY: null
 ? 1200 South 4th Street. The alarm originated within the caller's unit, who reported
   smelling and seeing smoke. Upon arrival, initial reports indicated no visible smoke
@@ -2299,6 +2300,8 @@
   Louisville, KY
 : null
 2400 Constant Comet Place 9:00 a.m.AM, Louisville, KY: null
+2400 Glen Eagle Dr, Louisville, KY: null
+2400 Glen Eagle Dr., Louisville, KY: null
 2400 Griffiths Ave, Louisville, KY:
   lat: 38.2652399
   lng: -85.7883019
@@ -2382,6 +2385,9 @@
   available, but crews were on scene to assess and aid the individual., Louisville,
   KY
 : null
+2500 Kings Hwy, Louisville, KY:
+  lat: 38.2232204
+  lng: -85.67661
 2500 Lejean Drive to handle an eviction., Louisville, KY: null
 2500 Martin Ave, Louisville, KY:
   lat: 38.1793459
@@ -3110,6 +3116,10 @@
 3200 Kimmins Drive, near Bishop Ln. Fire units were dispatched to the scene to address the situation., Louisville, KY: null
 3200 Kimmon Strives, Louisville, KY: null
 3200 L Drive (March 10, 7:16 a.m.AM), Louisville, KY: null
+3200 Marion Ct, Louisville, KY:
+  lat: 38.2500716
+  lng: -85.6917161
+3200 Marion Ct. Police units responded to the scene to assess the situation., Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
@@ -3810,6 +3820,7 @@
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
+4000 W W W Market St, Louisville, KY: null
 4000 Woodruff Ave to investigate a report of assault by harassment., Louisville, KY: null
 401 East Chestnut Street, Louisville, KY:
   lat: 38.2481221
@@ -4151,6 +4162,10 @@
 4600 Greenwood Rd, Louisville, KY:
   lat: 38.1434841
   lng: -85.8415387
+4600 S S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
+4600 S S Jackson St. Officers were sent to address the situation and ensure public safety., Louisville, KY: null
 ? 4600 Shenandoah Dr for a 68-year-old male experiencing symptoms consistent with
   a possible stroke. Responders were on the scene to provide assistance., Louisville,
   KY
@@ -4642,6 +4657,10 @@
 5900 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+5900 Cooper Chapel Rd, Louisville, KY:
+  lat: 38.1028594
+  lng: -85.6520742
+5900 Cooper Chapel Rd, and responding units began an investigation., Louisville, KY: null
 ? 5900 Toby Lane, prompting a response from emergency services. A 42-year-old female
   was experiencing significant abdominal pain, and responders were dispatched to provide
   assistance., Louisville, KY
@@ -5847,6 +5866,10 @@
   party, no smoke or fire was found, and the units cleared the scene., Louisville,
   KY
 : null
+? 900 W W W Liberty St prompted a response from emergency services. The situation
+  was being assessed by units on scene., Louisville, KY
+: null
+900 W W W Liberty St, Louisville, KY: null
 900 West Broadway [Date & Time], Louisville, KY: null
 ? 900 West Broadway. Officers approached the vehicle as part of routine safety checks
   to ensure compliance with traffic regulations. Such stops are crucial for maintaining
@@ -6021,6 +6044,12 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+9900 Cedar Center Way, Louisville, KY:
+  lat: 38.1450686
+  lng: -85.5879341
+? 9900 Cedar Center Way. The collision involved a black Honda, and police units were
+  dispatched to the location., Louisville, KY
+: null
 9900 Corporate Campus Dr, Louisville, KY: null
 9900 Forest Green Blvd, Louisville, KY: null
 ? 9900 Forest Green Blvd. The deputy reported they would be clear of the scene after
