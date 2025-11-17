@@ -1595,6 +1595,9 @@
 1800 Millwood Ct, Louisville, KY:
   lat: 38.1674751
   lng: -85.5765149
+1800 Newburg Rd., Louisville, KY:
+  lat: 38.222825
+  lng: -85.7113475
 1800 Northwestern Pky, Louisville, KY:
   lat: 38.2658758
   lng: -85.7767241
@@ -3223,6 +3226,7 @@
   condition. The call was handled by Quint 52, who confirmed they were responding
   to the medical emergency., Louisville, KY
 : null
+3400 Dutchman's Lane, Louisville, KY: null
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
   lng: -85.8093039
@@ -3567,6 +3571,7 @@
 3900 Iron Horse Way, Louisville, KY:
   lat: 38.1000305
   lng: -85.8328339
+3900 Nappany Road, Louisville, KY: null
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062

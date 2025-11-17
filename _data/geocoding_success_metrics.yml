@@ -25,4 +25,17 @@ history:
     Other/Unknown: 250
     Contains extra sentences/context: 159
     Intersection format: 194
-last_updated: '2025-11-17T22:11:18.986845'
+- timestamp: '2025-11-17T22:24:30.811233'
+  total_addresses: 2568
+  successful: 877
+  failed: 1691
+  success_rate: 34.15
+  failure_rate: 65.85
+  failure_patterns:
+    Contains location qualifiers (near/at): 831
+    Incomplete/vague address: 255
+    Police phonetic codes: 2
+    Other/Unknown: 250
+    Contains extra sentences/context: 159
+    Intersection format: 194
+last_updated: '2025-11-17T22:24:30.811321'
