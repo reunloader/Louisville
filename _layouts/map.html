@@ -495,8 +495,8 @@
       // Parse event detail to extract type and time
       const parsed = parseEventDetail(eventDetail);
 
-      // Create popup content
-      const popupContent = `
+      // Create tooltip content (shows on hover)
+      const tooltipContent = `
         <div class="popup-content">
           <h3>${parsed.eventType}</h3>
           ${parsed.time ? `<p><strong>Time:</strong> ${parsed.time}</p>` : ''}
@@ -505,7 +505,11 @@
         </div>
       `;
 
-      marker.bindPopup(popupContent);
+      marker.bindTooltip(tooltipContent, {
+        permanent: false,
+        direction: 'top',
+        offset: [0, -35]
+      });
 
       // Store event data with marker
       marker.eventData = event;
