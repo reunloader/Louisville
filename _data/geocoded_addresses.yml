@@ -904,6 +904,9 @@
   required a careful and coordinated response from law enforcement., Louisville, KY
 : null
 1300 Sail, Louisville, KY: null
+1300 Sale Ave, Louisville, KY:
+  lat: 38.197432
+  lng: -85.78302
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -3327,6 +3330,7 @@
 : null
 400 Baker Aly STREET, Louisville, KY: null
 400 Baker Aly STREET., Louisville, KY: null
+400 Baker and 400 block of Charlie, Louisville, KY: null
 400 Baker to manage the scene and gather information., Louisville, KY: null
 400 Baker, 400 block of David, and 400 block of Charlie, Louisville, KY: null
 400 Baker, Louisville, KY:
@@ -5012,6 +5016,9 @@
 7300 Greenlawn Rd, Louisville, KY:
   lat: 38.2791822
   lng: -85.618336
+7300 Leisure Ct, Louisville, KY:
+  lat: 38.1003047
+  lng: -85.6389932
 7300 Lucille Ave, Louisville, KY:
   lat: 38.145253
   lng: -85.8458288
@@ -5668,6 +5675,8 @@
   lng: -85.8819062
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
+Amy Ave and Vermont St, Louisville, KY: null
+Amy Ave and Vermont Street, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
 Bardstown Rd and Churchman Ave, Louisville, KY: null
