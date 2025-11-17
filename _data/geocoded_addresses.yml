@@ -1134,6 +1134,7 @@
 1400 North 4th Street, Louisville, KY:
   lat: 38.2580132
   lng: -85.7562005
+1400 North Harrisborne Parkway, Louisville, KY: null
 ? 1400 Old Dixie Hwy. The caller observed that the windows appeared to be broken and
   a garbage can was positioned near them, raising concerns about potential ongoing
   activity inside., Louisville, KY
@@ -3820,6 +3821,7 @@
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
+4000 W W Market St, Louisville, KY: null
 4000 W W W Market St, Louisville, KY: null
 4000 Woodruff Ave to investigate a report of assault by harassment., Louisville, KY: null
 401 East Chestnut Street, Louisville, KY:
@@ -5432,6 +5434,9 @@
 ? 7600 South Hancock. The individual was described as possibly having been evicted
   and was reportedly using drugs and alcohol., Louisville, KY
 : null
+7600 St Andrews Church Rd, Louisville, KY:
+  lat: 38.1574351
+  lng: -85.8105138
 7700 Chelsea Gardens, Louisville, KY:
   lat: 38.1590824
   lng: -85.6193102
@@ -5842,6 +5847,9 @@
 900 South 41st Street, Louisville, KY:
   lat: 38.246655
   lng: -85.81959
+900 South 47th Street, Louisville, KY:
+  lat: 38.2477935
+  lng: -85.8325847
 ? 900 South 4th St following a report of an individual who had fallen. Assistance
   was provided to the person at the scene., Louisville, KY
 : null
@@ -5866,6 +5874,9 @@
   party, no smoke or fire was found, and the units cleared the scene., Louisville,
   KY
 : null
+900 W W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 ? 900 W W W Liberty St prompted a response from emergency services. The situation
   was being assessed by units on scene., Louisville, KY
 : null
