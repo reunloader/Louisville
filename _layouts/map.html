@@ -372,6 +372,12 @@
       }
     }
 
+    // Remove all emojis and special characters from text
+    function removeEmojis(text) {
+      // Remove all emoji characters using comprehensive regex
+      return text.replace(/[\u{1F000}-\u{1F9FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}\u{1F300}-\u{1F5FF}\u{1F600}-\u{1F64F}\u{1F680}-\u{1F6FF}\u{1F900}-\u{1F9FF}\u{1FA70}-\u{1FAFF}\u{FE00}-\u{FE0F}\u{200D}]/gu, '');
+    }
+
     // Extract specific event detail for an address
     function extractEventDetail(content, address) {
       // Remove the ", Louisville, KY" suffix for matching
@@ -398,8 +404,8 @@
       for (let line of lines) {
         for (let pattern of searchPatterns) {
           if (line.toLowerCase().includes(pattern.toLowerCase())) {
-            // Remove emoji and clean up the line
-            let detail = line.replace(/[🔥🏥🚨🚔🚑⚠️📍]/g, '').trim();
+            // Remove all emojis and clean up the line
+            let detail = removeEmojis(line).trim();
             // Remove markdown bold markers
             detail = detail.replace(/\*\*/g, '');
             // Remove leading/trailing dashes
@@ -411,7 +417,7 @@
 
       // If no specific line found, return first non-empty line
       for (let line of lines) {
-        const cleaned = line.replace(/[🔥🏥🚨🚔🚑⚠️📍]/g, '').replace(/\*\*/g, '').trim();
+        const cleaned = removeEmojis(line).replace(/\*\*/g, '').trim();
         if (cleaned.length > 10) {
           return cleaned.substring(0, 150) + (cleaned.length > 150 ? '...' : '');
         }
