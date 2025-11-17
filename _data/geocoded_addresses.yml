@@ -748,6 +748,9 @@
   lng: -85.7774103
 1200 Southbrook Street, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
+1200 Springdale, Louisville, KY:
+  lat: 38.191809
+  lng: -85.726961
 ? 1200 Triple Crown Ct to assist a clinic patient experiencing a significant nosebleed.
   The patient was reportedly waiting for assistance in a white vehicle., Louisville,
   KY
@@ -2383,6 +2386,9 @@
   Louisville, KY
 : null
 2800 South 8th Street at Cardinal Stadium, Louisville, KY: null
+2800 Taylor Blvd, Louisville, KY:
+  lat: 38.2097891
+  lng: -85.7722465
 2800 West Broadway, Louisville, KY:
   lat: 38.249486
   lng: -85.798435
@@ -3699,6 +3705,7 @@
 ? 4600 South 5th Street. Police units were dispatched to assess the situation and
   ensure the safety of those involved., Louisville, KY
 : null
+4600 South 63rd Street, Louisville, KY: null
 4600 W W Southern Heights Ave, Louisville, KY: null
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
