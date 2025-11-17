@@ -194,7 +194,10 @@
               <label for="endDate">To:</label>
               <input type="date" id="endDate">
             </div>
-            <button onclick="resetFilters()">Show All</button>
+            <div style="display: flex; gap: 10px;">
+              <button onclick="resetFilters()">Show All</button>
+              <button onclick="showMyLocation()">📍 My Location</button>
+            </div>
           </div>
 
           <div id="stats" class="map-stats" style="display:none;"></div>
@@ -782,6 +785,78 @@
       });
 
       updateStats();
+    }
+
+    // Track user location marker
+    let userLocationMarker = null;
+
+    // Show user's current location on the map
+    function showMyLocation() {
+      // Check if geolocation is available
+      if (!navigator.geolocation) {
+        alert('Geolocation is not supported by your browser');
+        return;
+      }
+
+      // Request user's location
+      navigator.geolocation.getCurrentPosition(
+        // Success callback
+        function(position) {
+          const lat = position.coords.latitude;
+          const lng = position.coords.longitude;
+
+          console.log('User location:', lat, lng);
+
+          // Create a custom green marker for user location
+          const userIcon = L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+          });
+
+          // Remove existing user location marker if it exists
+          if (userLocationMarker) {
+            map.removeLayer(userLocationMarker);
+          }
+
+          // Add new marker at user's location
+          userLocationMarker = L.marker([lat, lng], { icon: userIcon })
+            .addTo(map)
+            .bindPopup('<div class="popup-content"><h3>📍 Your Location</h3></div>')
+            .openPopup();
+
+          // Pan and zoom to user's location
+          map.setView([lat, lng], 14);
+        },
+        // Error callback
+        function(error) {
+          let errorMsg = 'Unable to retrieve your location';
+
+          switch(error.code) {
+            case error.PERMISSION_DENIED:
+              errorMsg = 'Location access denied. Please enable location permissions.';
+              break;
+            case error.POSITION_UNAVAILABLE:
+              errorMsg = 'Location information is unavailable.';
+              break;
+            case error.TIMEOUT:
+              errorMsg = 'Location request timed out.';
+              break;
+          }
+
+          alert(errorMsg);
+          console.error('Geolocation error:', error);
+        },
+        // Options
+        {
+          enableHighAccuracy: true,
+          timeout: 5000,
+          maximumAge: 0
+        }
+      );
     }
 
     // Initialize map when page loads
