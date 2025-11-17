@@ -124,12 +124,6 @@
     .popup-content a:hover {
       text-decoration: underline;
     }
-    .loading {
-      text-align: center;
-      padding: 20px;
-      font-size: 16px;
-      color: #666;
-    }
     .map-stats {
       margin: 10px 0;
       padding: 10px;
@@ -204,7 +198,6 @@
           </div>
 
           <div id="stats" class="map-stats" style="display:none;"></div>
-          <div id="loading" class="loading">Loading map and geocoding addresses...</div>
           <div id="map"></div>
         </div>
       </article>
@@ -588,9 +581,8 @@
         }
       }
 
-      // Hide loading and show stats when done
+      // Show stats when done
       setTimeout(() => {
-        document.getElementById('loading').style.display = 'none';
         document.getElementById('stats').style.display = 'block';
         updateStats();
       }, uncachedItems.length > 0 ? 1000 : 100);
