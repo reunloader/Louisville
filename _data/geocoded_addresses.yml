@@ -233,6 +233,8 @@
 : null
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 and 100 block of, Louisville, KY: null
+100 at65 South, Louisville, KY: null
+100 at65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
 ? 100 for a medical emergency. Details regarding the specific nature of the medical
   issue were not immediately available. Responders were on the scene to provide assistance.,
   Louisville, KY
@@ -1670,6 +1672,9 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Newburg Rd, Louisville, KY:
+  lat: 38.221707
+  lng: -85.710457
 ? 1900 Newburgh Road. Engine 20 and Quint 7 were dispatched to investigate the alarm
   at the multi-story church building. Upon arrival, crews began their assessment of
   the situation. The alarm was investigated thoroughly by the responding fire units.
@@ -2924,6 +2929,8 @@
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
   lng: -85.6245297
+300 W W W Cardinal Blvd, Louisville, KY: null
+300 W W W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY: null
 300 West Broadway, Louisville, KY:
   lat: 38.2457716
   lng: -85.7569119
@@ -5160,6 +5167,10 @@
 6800 Southside Dr, Louisville, KY:
   lat: 38.1590857
   lng: -85.7646433
+? 6800 Southside Dr. Fortunately, no one was inside the car when the fire broke out.
+  Firefighters worked to extinguish the blaze., Louisville, KY
+: lat: 38.1590857
+  lng: -85.7646433
 6800 [Street Name Missing], Louisville, KY: null
 6900 Arbor Creek Dr, Louisville, KY:
   lat: 38.122131
@@ -5356,6 +5367,7 @@
   the responding engine company to extinguish it without further incident., Louisville,
   KY
 : null
+700 South Grove Street, Louisville, KY: null
 700 South Hancock, Apartment C23, Louisville, KY: null
 ? 700 South Hancock, Apartment C23. A young man reported being shot by his brother.
   Responding units included the 4th Division and 2 Baker. The suspect, who was believed
