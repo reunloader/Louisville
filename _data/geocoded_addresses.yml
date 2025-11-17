@@ -1327,6 +1327,13 @@
   on the circumstances of the retrieval are not immediately available., Louisville,
   KY
 : null
+1600 Berea Dr, Louisville, KY:
+  lat: 38.1228956
+  lng: -85.607913
+? 1600 Berea Dr. The specific circumstances leading to the stop were not detailed
+  in the initial report. The outcome of this interaction has not been specified.,
+  Louisville, KY
+: null
 ? 1600 Brashear Dr, near Big Boulder Dr and South 13th Street, due to a medical emergency.
   The patient, a 50-year-old male, was reported to be unconscious, experiencing shortness
   of breath, and bleeding from an unspecified location. A police officer was already
@@ -1719,6 +1726,10 @@
 : null
 200 Cumberland Lake Cir, Louisville, KY: null
 200 Dickinson Dr following the activation of a general alarm., Louisville, KY: null
+200 Dixie Hwy to address the situation., Louisville, KY: null
+200 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 200 Dorchester Rd, Louisville, KY: null
 200 Dorsey Pointe Cir, Louisville, KY:
   lat: 38.2459214
@@ -3999,6 +4010,10 @@
   by the responding medical teams., Louisville, KY
 : null
 4300 Norbrook Dr, Louisville, KY: null
+4300 Park Blvd, Louisville, KY:
+  lat: 38.1926269
+  lng: -85.7552465
+4300 Park Blvd. Details regarding the nature of the incident were not immediately available., Louisville, KY: null
 4300 Preston Hwy, Louisville, KY:
   lat: 38.1818344
   lng: -85.7204275
@@ -6029,6 +6044,13 @@
   lng: -85.4388263
 9500 Crescent Highway, Louisville, KY: null
 9500 Hiss Road, Louisville, KY: null
+9500 Hunters Trail Ct, Louisville, KY:
+  lat: 38.1173771
+  lng: -85.6048029
+? 9500 Hunters Trail Ct. As with the previous stop, the exact reason for this enforcement
+  action was not provided. Further information regarding the conclusion of this stop
+  is also unavailable., Louisville, KY
+: null
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
@@ -6198,6 +6220,7 @@ Main Street and Second Street, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
+Mid Dale Ln and Kena Ln, Louisville, KY: null
 Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
