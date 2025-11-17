@@ -1684,6 +1684,7 @@
   lng: -85.8105746
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
+200 North Hubbard's Lane, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, just past Old Henry, Louisville, KY: null
@@ -2996,6 +2997,9 @@
 3500 Fenwick Park Pl, Louisville, KY:
   lat: 38.200581
   lng: -85.602288
+3500 Georgetown Cir, Louisville, KY:
+  lat: 38.1957374
+  lng: -85.7950925
 3500 Herb Ln, Louisville, KY:
   lat: 38.2166005
   lng: -85.6539282
@@ -5724,6 +5728,7 @@ South Second Street and Ellington Ave, Louisville, KY: null
 Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
+Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
 Taylor Springs Dr and Central Ave, Louisville, KY: null
