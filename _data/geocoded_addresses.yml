@@ -1527,6 +1527,7 @@
 20 Welby Rd, Louisville, KY:
   lat: 38.1560283
   lng: -85.8308502
+200 Adam to investigate., Louisville, KY: null
 200 Adams St, Louisville, KY:
   lat: 38.258738
   lng: -85.726232
@@ -2298,6 +2299,10 @@
 2600 West Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
+? 2600 West Broadway, specifically at the front door of the Laundry Connection of
+  Kentucky. Responding units checked the premises and determined the area to be secure.,
+  Louisville, KY
+: null
 2700 Bagby Way, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
@@ -2470,6 +2475,7 @@
   from its bed, and two individuals were inside. Police units took over the investigation
   at the scene., Louisville, KY
 : null
+2900 W W Market St., Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY: null
 2945 Breckenridge Lane, Louisville, KY:
   lat: 38.221172
@@ -2482,6 +2488,7 @@
   lng: -85.7642889
 300 Adam were dispatched to investigate the situation and secure the premises., Louisville, KY: null
 300 Adam were dispatched to investigate the suspicious vehicle., Louisville, KY: null
+300 Adam. Responding officers found no signs of forced entry or any individuals present at the location., Louisville, KY: null
 300 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
@@ -3321,6 +3328,7 @@
 : null
 400 James Rae Pl, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
+400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
 400 North S S Hite Ave, Louisville, KY: null
 ? 400 Regency Quarter following reports of a vehicle striking a building. A white
   Honda Pilot was involved in the incident, impacting the building's patio area. Fire
@@ -3503,6 +3511,9 @@
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+? 4100 River Park Dr, with questions about the specific classification of the incident.
+  Police units responded to the scene., Louisville, KY
+: null
 4100 South 2nd Street (Morning), Louisville, KY: null
 ? 4100 South 2nd Street following a report of a domestic dispute involving violence.
   The situation reportedly involved a grandson and his girlfriend, with the caller
@@ -4100,6 +4111,7 @@
 5300 Red Fern Rd, Louisville, KY:
   lat: 38.1729657
   lng: -85.663581
+5300 Torrentian Court to assess the situation., Louisville, KY: null
 5300 Torrington Ct, Louisville, KY:
   lat: 38.0929513
   lng: -85.8645476
