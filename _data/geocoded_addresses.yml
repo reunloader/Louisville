@@ -1675,6 +1675,7 @@
 : null
 200 Cumberland Lake Cir, Louisville, KY: null
 200 Dickinson Dr following the activation of a general alarm., Louisville, KY: null
+200 Dorchester Rd, Louisville, KY: null
 200 Dorsey Pointe Cir, Louisville, KY:
   lat: 38.2459214
   lng: -85.565646
@@ -2620,6 +2621,9 @@
 2900 Bank St, Louisville, KY:
   lat: 38.2708858
   lng: -85.7957115
+2900 Bardstown Rd, Louisville, KY:
+  lat: 38.2161315
+  lng: -85.6764774
 2900 Bon Air, Louisville, KY:
   lat: 38.2083483
   lng: -85.6587646
@@ -4488,6 +4492,7 @@
 5400 Catalina, Louisville, KY:
   lat: 38.117892
   lng: -85.867117
+5400 Governor's Way, Louisville, KY: null
 5400 I 65 South, Louisville, KY: null
 5400 I-65 South, Louisville, KY: null
 5400 Indian Oaks Cir, Louisville, KY:
@@ -5655,6 +5660,9 @@
   lat: 38.1221027
   lng: -85.6361054
 8700 Windridge Creekway near Twin Ridge Rd, Louisville, KY: null
+8800 Eli Dr, Louisville, KY:
+  lat: 38.1199267
+  lng: -85.5994283
 8800 Hudson Ave, Louisville, KY:
   lat: 38.2221493
   lng: -85.8141208
@@ -5804,6 +5812,9 @@
 9200 Blankenbaker Pky PARKWAY, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
+9200 Dixie Hwy, Louisville, KY:
+  lat: 38.1209842
+  lng: -85.8564961
 9200 Dixie Hwy. Officers investigated the vehicle and the individual within., Louisville, KY: null
 9200 Earlham Dr, Louisville, KY: null
 9200 Marlboro Cir, Louisville, KY: null
