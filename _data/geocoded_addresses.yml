@@ -622,6 +622,7 @@
 11300 Blue Lick Rd, Louisville, KY:
   lat: 38.0869317
   lng: -85.6997833
+11300 Pheasant Hill Cir. Responding units investigated the alarm activation., Louisville, KY: null
 11300 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
@@ -1416,6 +1417,10 @@
   lat: 38.2219877
   lng: -85.585648
 1700 South 35th Street [Date & Time], Louisville, KY: null
+? 1700 Stallings Ave to assist a 65-year-old male who was experiencing difficulty
+  breathing. Crews arrived on scene within minutes to assess the situation., Louisville,
+  KY
+: null
 1700 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
@@ -2596,6 +2601,7 @@
   lng: -85.798435
 2800 West Broadway. A request was made for the license plate of a vehicle associated with the incident., Louisville, KY: null
 2800 West Chest Down, Louisville, KY: null
+2900 Alford Ave. However, the emergency medical services response was later cancelled., Louisville, KY: null
 2900 Bank St, Louisville, KY:
   lat: 38.2708858
   lng: -85.7957115
@@ -3046,6 +3052,11 @@
 3200 L Drive (March 10, 7:16 a.m.AM), Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
+? 3200 Stratford Ave following reports of a trash fire. Neighbors were reportedly
+  burning trash and leaves in the area. Upon arrival, fire units observed a four-story
+  commercial building with no visible smoke or flames from the exterior. A secondary
+  fire run was assigned., Louisville, KY
+: null
 3200 Taylor Blvd, Louisville, KY:
   lat: 38.2051349
   lng: -85.7786368
@@ -4980,6 +4991,10 @@
   lat: 38.2563581
   lng: -85.8046069
 700 East Jefferson Street 8:00 a.m.AM, Louisville, KY: null
+? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
+  response was cancelled, and another unit was assigned to investigate., Louisville,
+  KY
+: null
 700 Exmoor, Louisville, KY:
   lat: 38.255781
   lng: -85.5677801
@@ -5825,6 +5840,10 @@
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
+? 9500 Thor Ave to assist a 76-year-old male who had sustained a head injury a couple
+  of days prior and was now experiencing shortness of breath. The patient was reported
+  to be approximately 300 pounds., Louisville, KY
+: null
 9600 Hudson Ln, Louisville, KY:
   lat: 38.1701356
   lng: -85.5768994
