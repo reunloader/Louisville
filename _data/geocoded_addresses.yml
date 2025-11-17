@@ -61,6 +61,10 @@
 ? 100 I64 East, reporting that she had just been robbed or assaulted. Police units
   responded to investigate the situation., Louisville, KY
 : null
+100 Indian Legends Dr, Louisville, KY:
+  lat: 38.294999
+  lng: -85.5519612
+100 Indian Legends Dr. Responding units were assigned to manage the scene and clear the roadway., Louisville, KY: null
 100 Lindsey Springs, Louisville, KY:
   lat: 38.0974135
   lng: -85.5685619
@@ -1041,6 +1045,9 @@
   KY
 : null
 1400 East Burnet Head, with instructions to reset the alarm if building personnel were unable to., Louisville, KY: null
+1400 Gardiner Ln, Louisville, KY:
+  lat: 38.2035036
+  lng: -85.6889673
 1400 Hadley Place, Louisville, KY: null
 1400 Hemlock St, Louisville, KY:
   lat: 38.234176
@@ -3112,6 +3119,9 @@
   condition. The call was handled by Quint 52, who confirmed they were responding
   to the medical emergency., Louisville, KY
 : null
+3400 Garland Ave, Louisville, KY:
+  lat: 38.2456389
+  lng: -85.8093039
 3400 Lexington Rd, Louisville, KY:
   lat: 38.2494671
   lng: -85.6665808
@@ -3734,6 +3744,10 @@
 4020 Mapleton Avenue, Louisville, KY:
   lat: 38.1847673
   lng: -85.7796505
+4100 Bardstown Rd, Louisville, KY:
+  lat: 38.192235
+  lng: -85.647479
+4100 Bardstown Rd. The suspect was described as a male wearing a black leather jacket., Louisville, KY: null
 4100 Boulevard, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
@@ -3879,6 +3893,9 @@
 ? 4300 River Park Drive to investigate the packages left on the porch. The delivery
   was noted to have occurred earlier in the day., Louisville, KY
 : null
+4300 Silver Oaks Ct, Louisville, KY:
+  lat: 38.1212724
+  lng: -85.8403176
 4300 South 1st Street, Louisville, KY:
   lat: 38.193892
   lng: -85.761591
@@ -5959,6 +5976,7 @@ Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
 Christian Merrick Road and Hempstead Rd, Louisville, KY: null
+Clarks Ln and Mayer Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
