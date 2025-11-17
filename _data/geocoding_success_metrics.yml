@@ -12,6 +12,9 @@ history:
     Other/Unknown: 249
     Contains extra sentences/context: 159
     Intersection format: 193
+  batch_success_rate: 34.05
+  batch_new_addresses: 2558
+  batch_new_successes: 871
 - timestamp: '2025-11-17T22:11:18.986786'
   total_addresses: 2565
   successful: 876
@@ -25,4 +28,7 @@ history:
     Other/Unknown: 250
     Contains extra sentences/context: 159
     Intersection format: 194
-last_updated: '2025-11-17T22:28:57.710077'
+  batch_success_rate: 71.43
+  batch_new_addresses: 7
+  batch_new_successes: 5
+last_updated: '2025-11-17T22:34:50.342846'
