@@ -27,6 +27,7 @@
 100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+100 Crop St, near Croft Ct. The activation indicated that one round had been discharged., Louisville, KY: null
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
@@ -1301,6 +1302,7 @@
   lat: 38.230002
   lng: -85.7037117
 1700 Brentmoor Ln, Louisville, KY: null
+1700 Cowling Ave. The system indicated that three rounds were discharged in this area., Louisville, KY: null
 1700 Gardiner Ln, Louisville, KY:
   lat: 38.204756
   lng: -85.686595
@@ -1873,6 +1875,7 @@
   lat: 38.2221645
   lng: -85.795784
 2100 Duncan St to investigate a suspicious incident. Officers were on scene to address the situation., Louisville, KY: null
+2100 East Collin Street to check on individuals who were unsheltered in an outdoor area., Louisville, KY: null
 2100 I 64 West to conduct a welfare check on an individual., Louisville, KY: null
 2100 I 64 West, Louisville, KY: null
 2100 I-64 West, Louisville, KY: null
@@ -1892,6 +1895,10 @@
 2100 Payne St, Louisville, KY:
   lat: 38.252398
   lng: -85.707627
+? 2100 Payne St, at Sacred Heart Village, for a medical emergency. The patient was
+  identified as a 60-year-old male experiencing a heart arrhythmia and with a known
+  cardiac history., Louisville, KY
+: null
 2100 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -2723,6 +2730,7 @@
   Burton and Lillian., Louisville, KY
 : null
 3000 Taylor's Old Mill Rd, Louisville, KY: null
+3000 W W Market St. The activation indicated that a single round was fired., Louisville, KY: null
 ? 3000 Wedgewood Way. Reports indicated a female individual was allegedly armed with
   a knife and a taser, and also possessed mace, while a 16-year-old was reportedly
   hiding in a bedroom., Louisville, KY
@@ -4508,6 +4516,10 @@
   lat: 38.1621073
   lng: -85.8353823
 6300 River Beauty Loop ROAD, Louisville, KY: null
+? 6300 Sidney Way following a report of a domestic dispute. The situation involved
+  a son and his girlfriend who were reportedly fighting, arguing, and throwing objects.,
+  Louisville, KY
+: null
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
   lng: -85.6031247
