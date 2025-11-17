@@ -70,6 +70,11 @@
   lat: 38.294999
   lng: -85.5519612
 100 Indian Legends Dr. Responding units were assigned to manage the scene and clear the roadway., Louisville, KY: null
+? 100 Lincoln Ave, near the German American Club, for a medical incident. A 66-year-old
+  male had fallen and was found to be unresponsive. Medical teams provided immediate
+  attention to the patient., Louisville, KY
+: lat: 38.2139917
+  lng: -85.7756194
 100 Lindsey Springs, Louisville, KY:
   lat: 38.0974135
   lng: -85.5685619
@@ -214,6 +219,7 @@
   and evaluation. The incident was handled efficiently by the responding engine company.,
   Louisville, KY
 : null
+100 West Orange Beach Avenue to provide care and transport., Louisville, KY: null
 100 West Orange V Ave, Louisville, KY: null
 100 West, at Langland Pl, Louisville, KY: null
 ? 100 West, near Langland Pl. The fire was reported to be small and was extinguished
@@ -2148,6 +2154,11 @@
   lat: 38.2290712
   lng: -85.6992452
 2100 St. St Xavier St, Louisville, KY: null
+? 2100 Wally and Corn to attend to a patient experiencing concerning symptoms. The
+  individual reported feeling lightheaded, having difficulty breathing, and experiencing
+  abdominal pain. Medical personnel assessed the situation and provided necessary
+  care., Louisville, KY
+: null
 2100 Wally and Court, Louisville, KY: null
 2100 West Broadway [Date & Time], Louisville, KY: null
 ? 2100 West Broadway to address the situation. Officers worked to secure the vehicle
@@ -5091,6 +5102,11 @@
 ? 6700 Strawberry Ln. The patient, a 51-year-old female, was experiencing chest pain
   and shortness of breath., Louisville, KY
 : null
+? 6700 Wynde Manor Dr. While the specific nature of the suspicious activity was not
+  detailed in the report, the area was noted. No specific units were dispatched to
+  this particular call., Louisville, KY
+: lat: 38.1526012
+  lng: -85.6377444
 6800 Beard Ct, Louisville, KY:
   lat: 38.1293675
   lng: -85.6344442
@@ -5291,6 +5307,10 @@
 700 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
+? 700 S S S Brook St. It was determined that individuals experiencing homelessness
+  had started a fire and were gathered around it. The situation was managed by responding
+  personnel., Louisville, KY
+: null
 700 Shiloh Trail, Louisville, KY: null
 700 South 24th Street, Louisville, KY:
   lat: 38.248538
