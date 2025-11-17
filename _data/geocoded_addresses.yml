@@ -2802,6 +2802,7 @@
 3200 Kimmon Strives, Louisville, KY: null
 3200 L Drive (March 10, 7:16 a.m.AM), Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
+3200 Sheehan Landing Dr, Louisville, KY: null
 3200 Timmons Way, Louisville, KY:
   lat: 38.2839473
   lng: -85.4731984
@@ -2889,6 +2890,7 @@
   lat: 38.2496303
   lng: -85.8087791
 3400 West Broadway. Further details on the incident and response were being gathered., Louisville, KY: null
+3400 Westhill Cir, Louisville, KY: null
 3409 Box Elder Road, Louisville, KY: null
 341 Bardstown Rd, Louisville, KY:
   lat: 38.1291902
@@ -3658,6 +3660,7 @@
   lat: 38.1875744
   lng: -85.8309235
 4500 Waco Ct. The patient was experiencing symptoms of lightheadedness and abdominal pain., Louisville, KY: null
+4500 West Fort Worth Lane, Louisville, KY: null
 4512 Tray Place, Louisville, KY: null
 4600 Beech Tree Ct, Louisville, KY:
   lat: 38.2133319
@@ -4229,6 +4232,7 @@
   and feeling faint. Medical personnel attended to the individual. The patient's condition
   was assessed and appropriate care was provided., Louisville, KY
 : null
+600 Mallard Creek Rd, Louisville, KY: null
 600 Parthenia, Louisville, KY:
   lat: 38.191647
   lng: -85.7924364
@@ -5378,6 +5382,9 @@
 9700 Polaris Dr, Louisville, KY:
   lat: 38.10888
   lng: -85.695595
+9700 Woodway, Louisville, KY:
+  lat: 38.2450204
+  lng: -85.8232687
 98 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.2661874
   lng: -85.6585606
@@ -5488,6 +5495,7 @@ Lexington Rd and Frankfort Ave, Louisville, KY: null
 Lexington Rd and Grand St, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
+Locust Ave and Canterbury Dr, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
