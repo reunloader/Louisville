@@ -22,6 +22,9 @@
   The specific cause of the alarm and its resolution were not immediately available.,
   Louisville, KY
 : null
+100 Brownsboro Rd, Louisville, KY:
+  lat: 38.2661875
+  lng: -85.6585602
 100 Colm's Lane, Louisville, KY: null
 100 Colonial Oaks Ct near South 1st Street, Louisville, KY: null
 100 Colonial Oaks Ct, Louisville, KY:
@@ -809,6 +812,9 @@
   KY
 : null
 1200 Triple Crown Ct, Louisville, KY: null
+1200 W Jefferson St, Louisville, KY:
+  lat: 38.255227
+  lng: -85.770416
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -2739,6 +2745,9 @@
 300 Buckland Trace, Louisville, KY:
   lat: 38.2390446
   lng: -85.4485653
+300 Camden Ave, Louisville, KY:
+  lat: 38.1928396
+  lng: -85.7877594
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 800 block of Charlie, Louisville, KY: null
 300 Charlie, Louisville, KY:
