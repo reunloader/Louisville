@@ -2307,6 +2307,9 @@
   KY
 : null
 300 Baker and 300 block of Charlie, Louisville, KY: null
+300 Becker, Louisville, KY:
+  lat: 38.1720002
+  lng: -85.708019
 300 Blair Creek Ct, Louisville, KY:
   lat: 38.0914922
   lng: -85.6437538
@@ -2320,6 +2323,7 @@
 300 Buckland Trace, Louisville, KY:
   lat: 38.2390446
   lng: -85.4485653
+300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 800 block of Charlie, Louisville, KY: null
 ? 300 East Market Street, within the Nucleus Innovation Park, for a medical emergency.
   An 8th-floor resident, a 60-year-old female, was reportedly experiencing stroke-like
@@ -4712,6 +4716,9 @@
 8 Haskin Ave, Louisville, KY:
   lat: 38.1728722
   lng: -85.7861501
+800 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 800 Adam. Another unit was en route to help with this call., Louisville, KY: null
 800 Adam/800 block of Baker, Louisville, KY: null
 800 Baker and 800 block of Adams, Louisville, KY: null
@@ -4724,6 +4731,9 @@
 800 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
+800 Becker, Louisville, KY:
+  lat: 38.1720002
+  lng: -85.708019
 800 Camden Ave, Louisville, KY:
   lat: 38.192851
   lng: -85.772801
@@ -4732,6 +4742,9 @@
   the responding units upon their arrival., Louisville, KY
 : null
 800 Cantaloupe Court, Louisville, KY: null
+800 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 800 Denmark St, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
