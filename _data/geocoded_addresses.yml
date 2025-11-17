@@ -437,6 +437,7 @@
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+10300 West4 Road, Louisville, KY: null
 1035 South Crescent Street, Louisville, KY: null
 10400 Got It Court, Louisville, KY: null
 10400 Shall Leave The Road, Louisville, KY: null
@@ -3482,6 +3483,7 @@
 4200 Simcoe Ln, Louisville, KY:
   lat: 38.3065995
   lng: -85.5719938
+4200 South2nd Street, Louisville, KY: null
 4200 Westport Ridge Ct in response to a traffic accident., Louisville, KY: null
 4200 Westport Ridge, Louisville, KY:
   lat: 38.3058348
@@ -3981,6 +3983,9 @@
 5100 Terry Rd, Louisville, KY:
   lat: 38.172376
   lng: -85.866125
+5100 Valley Dr, Louisville, KY:
+  lat: 38.2070098
+  lng: -85.7217495
 5100 W W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -5046,6 +5051,9 @@
 8200 Greenwood Rd, Louisville, KY:
   lat: 38.1474857
   lng: -85.900493
+8200 St. St Andrews Village Dr, Louisville, KY:
+  lat: 38.2957056
+  lng: -85.5975753
 821 Winclair Avenue, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
 8300 Rest of Lane, Louisville, KY: null
