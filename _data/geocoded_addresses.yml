@@ -792,6 +792,12 @@
   caused by smoke from a microwave, and the situation was quickly resolved. All other
   responding units were cleared and returned to service., Louisville, KY
 : null
+? 1200 South 6th Street appeared to be experiencing confusion, possibly due to a spice
+  overdose, and was not responding to questions., Louisville, KY
+: null
+1200 South 6th Street, Louisville, KY:
+  lat: 38.235228
+  lng: -85.7640084
 1200 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -2152,6 +2158,9 @@
   out and was experiencing chest pain., Louisville, KY
 : null
 2200 Regal Springs Dr and Grand Lake Straus, Louisville, KY: null
+2200 W W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
   and showing signs of facial drooping. This was classified as a medical Delta call,
@@ -3095,6 +3104,8 @@
 3200 L Drive (March 10, 7:16 a.m.AM), Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
+3200 South Hampton Rd, Louisville, KY: null
+3200 South Hampton Rd., Louisville, KY: null
 ? 3200 Stratford Ave following reports of a trash fire. Neighbors were reportedly
   burning trash and leaves in the area. Upon arrival, fire units observed a four-story
   commercial building with no visible smoke or flames from the exterior. A secondary
@@ -3158,6 +3169,9 @@
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
   lng: -85.8093039
+3400 Glendale Ave, Louisville, KY:
+  lat: 38.200984
+  lng: -85.791169
 3400 Lexington Rd, Louisville, KY:
   lat: 38.2494671
   lng: -85.6665808
@@ -3584,6 +3598,9 @@
 400 E Main St, Louisville, KY:
   lat: 38.2552731
   lng: -85.7457421
+400 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
@@ -4329,6 +4346,12 @@
 500 South 7th 3Rd Street Rd to conduct a welfare check, with concerns of a possible medical issue., Louisville, KY: null
 500 South 7th 3Rd Street Rd, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
+500 W W Ashland Ave, Louisville, KY:
+  lat: 38.1861535
+  lng: -85.7756446
+500 W W Ashland Ave., Louisville, KY:
+  lat: 38.1861535
+  lng: -85.7756446
 500 Wayne Rd to attend to a person experiencing a medical complaint., Louisville, KY: null
 500 Wayne Rd, Louisville, KY:
   lat: 38.2007912
@@ -4763,6 +4786,9 @@
   lat: 38.2273201
   lng: -85.7034553
 600 Sun Beam Ct, Louisville, KY: null
+600 Valley College Dr, Louisville, KY:
+  lat: 38.119945
+  lng: -85.842729
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
