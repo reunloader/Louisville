@@ -7,6 +7,11 @@ on:
       - 'scripts/geocode_addresses.py'
   workflow_dispatch:  # Allow manual triggering
 
+# Prevent multiple geocoding runs from interfering with each other
+concurrency:
+  group: geocode-${{ github.ref }}
+  cancel-in-progress: false  # Let current run finish, queue the new one
+
 jobs:
   geocode:
     runs-on: ubuntu-latest
