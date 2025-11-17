@@ -884,6 +884,9 @@
 1300 Flat Rock Rd, Louisville, KY:
   lat: 38.256266
   lng: -85.429926
+1300 Gardiner Ln, Louisville, KY:
+  lat: 38.2034383
+  lng: -85.6890866
 ? 1300 Homeview Dr due to a reported gas leak. Upon arrival, a strong odor was detected
   both inside and outside the residence, though it was not definitively identified
   as natural gas. The situation was deemed manageable by the responding units, and
@@ -2741,6 +2744,9 @@
 300 Winkler, Louisville, KY:
   lat: 38.210081
   lng: -85.763149
+300 York St, Louisville, KY:
+  lat: 38.243983
+  lng: -85.757233
 ? 300 York Street following a report of a disorderly individual. The person, described
   as a black male wearing a black jacket over a red hoodie and blue jeans, was reportedly
   intoxicated and refusing to leave the premises. He was last seen near the north
@@ -2837,6 +2843,9 @@
   lat: 38.2063275
   lng: -85.7657394
 3000 Springtown Avenue, Louisville, KY: null
+3000 Taylor Blvd, Louisville, KY:
+  lat: 38.2075565
+  lng: -85.7751685
 ? 3000 Taylor Springs Dr to assist an 80-year-old female experiencing lightheadedness
   and who was not alert due to a diabetic condition. An initial response was made,
   and a second ambulance was requested but later canceled., Louisville, KY
@@ -5927,6 +5936,7 @@ Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
+Westport Rd and Goose Creek Rd, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Wolfpin Branch Road and Springdale Road, Louisville, KY: null
 Woodgate Lane and Manor Hill Drive, Louisville, KY: null
