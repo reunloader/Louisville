@@ -804,6 +804,13 @@
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
 12000 East Joe Railroad, Louisville, KY: null
+12000 Halifax Dr, Louisville, KY:
+  lat: 38.313663
+  lng: -85.529676
+? 12000 Halifax Dr. The incident occurred near the intersection of Northumberland
+  and West Third Place. Responders confirmed they were on the scene to provide the
+  necessary assistance., Louisville, KY
+: null
 12000 Park2 Trace, Louisville, KY: null
 12000 Plantsides Rav, Louisville, KY: null
 ? 12000 Plantsides Rav. Initial reports suggested the possibility of smoke and flames,
@@ -3390,6 +3397,13 @@
   lat: 38.2066421
   lng: -85.6738206
 400 David. The relative in question was not found to be on the premises., Louisville, KY: null
+? 400 E Main St at Slugger Field following reports of individuals refusing to leave
+  the premises. The individuals were described as a black male wearing a blue hoodie
+  and blue jeans., Louisville, KY
+: null
+400 E Main St, Louisville, KY:
+  lat: 38.2552731
+  lng: -85.7457421
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
@@ -5492,6 +5506,11 @@
   lng: -85.6606492
 900 I 65 South, Louisville, KY: null
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
+? 900 N S S English Station Rd due to a report of a chemical odor. The smell was described
+  as toxic fumes, prompting occupants of a K&P roofing unit to evacuate. The location
+  is near Old Henry Rd and Aiken Rd., Louisville, KY
+: null
+900 N S S English Station Rd, Louisville, KY: null
 900 Philadelphia Street, Louisville, KY: null
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
@@ -5799,6 +5818,7 @@ North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
+Old Henry Rd and Aiken Rd, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
