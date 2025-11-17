@@ -509,6 +509,12 @@
 ? 1100 King Arthur Ln to evaluate an 80-year-old male suspected of having a stroke.
   The medical response was subsequently canceled., Louisville, KY
 : null
+? 1100 March 1 Avenue following a report of a medical emergency originating from a
+  shed. The nature of the medical issue was described as a 10-86, indicating a need
+  for medical assistance. Police units were also present at the scene., Louisville,
+  KY
+: null
+1100 March 1 Avenue, Louisville, KY: null
 1100 Markwell Ln, Louisville, KY:
   lat: 38.137936
   lng: -85.693924
@@ -3047,6 +3053,13 @@
   set up camps on the property. They were reportedly asked to leave but refused, leading
   to the call for assistance., Louisville, KY
 : null
+3700 Taylor, Louisville, KY:
+  lat: 38.1910205
+  lng: -85.7836633
+? 3700 Taylor. This type of call can involve various situations, including disturbances
+  or individuals acting suspiciously. Police units were assigned to the area to assess
+  the situation., Louisville, KY
+: null
 3700 Warren Ave, Louisville, KY:
   lat: 38.190927
   lng: -85.77663
@@ -3208,6 +3221,7 @@
 ? 400 Charlie Vettiner Park Rd and the 400 block of Baker Aly STREET to investigate
   and manage the unfolding situation., Louisville, KY
 : null
+400 Charlie and 400 block of Adam, Louisville, KY: null
 400 Charlie and 400 block of David, Louisville, KY: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
@@ -5539,6 +5553,7 @@ South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Minden Lane and Shelbyville Road, Louisville, KY: null
+South Second Street and Ellington Ave, Louisville, KY: null
 Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
