@@ -966,6 +966,7 @@
   KY
 : null
 1400 East Burnet Head, with instructions to reset the alarm if building personnel were unable to., Louisville, KY: null
+1400 Hadley Place, Louisville, KY: null
 1400 Hemlock St, Louisville, KY:
   lat: 38.234176
   lng: -85.803411
@@ -2618,6 +2619,9 @@
   a homeless individual was on the property without permission. Authorities addressed
   the situation to ensure the property was secure., Louisville, KY
 : null
+3000 Eagle Pass, Louisville, KY:
+  lat: 38.2126508
+  lng: -85.7253292
 3000 Furman Blvd, Louisville, KY:
   lat: 38.220686
   lng: -85.646409
@@ -2788,6 +2792,9 @@
   of the alarm and ensure the property's security., Louisville, KY
 : null
 3200 Ansel Way, Louisville, KY: null
+3200 Bardstown Rd, Louisville, KY:
+  lat: 38.209554
+  lng: -85.670014
 3200 Bills Wrench Road, Louisville, KY: null
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
@@ -4074,6 +4081,9 @@
 5300 Red Fern Rd, Louisville, KY:
   lat: 38.1729657
   lng: -85.663581
+5300 Torrington Ct, Louisville, KY:
+  lat: 38.0929513
+  lng: -85.8645476
 5301 Milner Rd, Louisville, KY:
   lat: 38.1621035
   lng: -85.8350295
