@@ -469,8 +469,12 @@
     // Update stats display
     function updateStats() {
       const visibleMarkers = markers.filter(marker => markerLayer.hasLayer(marker));
-      document.getElementById('stats').innerHTML =
-        `<strong>Showing:</strong> ${visibleMarkers.length} of ${markers.length} locations`;
+      const statsEl = document.getElementById('stats');
+      if (statsEl) {
+        statsEl.innerHTML =
+          `<strong>Showing:</strong> ${visibleMarkers.length} of ${markers.length} locations`;
+        console.log('Stats updated:', visibleMarkers.length, 'of', markers.length, 'visible');
+      }
     }
 
     // Initialize map
@@ -575,27 +579,43 @@
       const today = new Date();
       const yesterday = new Date(today.getTime() - 24 * 60 * 60 * 1000);
 
-      document.getElementById('endDate').valueAsDate = today;
-      document.getElementById('startDate').valueAsDate = yesterday;
+      const startDateEl = document.getElementById('startDate');
+      const endDateEl = document.getElementById('endDate');
 
-      // Add event listeners to date inputs
-      document.getElementById('startDate').addEventListener('change', applyFilters);
-      document.getElementById('endDate').addEventListener('change', applyFilters);
+      if (startDateEl && endDateEl) {
+        startDateEl.valueAsDate = yesterday;
+        endDateEl.valueAsDate = today;
 
-      // Apply initial filters
-      applyFilters();
+        // Add event listeners to date inputs (use both 'change' and 'input' for better compatibility)
+        startDateEl.addEventListener('change', applyFilters);
+        startDateEl.addEventListener('input', applyFilters);
+        endDateEl.addEventListener('change', applyFilters);
+        endDateEl.addEventListener('input', applyFilters);
+
+        console.log('Date filters initialized:', startDateEl.value, 'to', endDateEl.value);
+
+        // Apply initial filters
+        applyFilters();
+      }
     }
 
     // Filter markers based on date range
     function applyFilters() {
-      const startDate = document.getElementById('startDate').value;
-      const endDate = document.getElementById('endDate').value;
+      const startDateInput = document.getElementById('startDate');
+      const endDateInput = document.getElementById('endDate');
+
+      if (!startDateInput || !endDateInput) return;
+
+      const startDate = startDateInput.value;
+      const endDate = endDateInput.value;
+
+      console.log('Filtering with dates:', startDate, 'to', endDate);
 
       markers.forEach(marker => {
         const event = marker.eventData;
         let show = true;
 
-        // Date filter
+        // Date filter - use string comparison (works with YYYY-MM-DD format)
         if (startDate && event.date < startDate) {
           show = false;
         }
@@ -604,9 +624,13 @@
         }
 
         if (show) {
-          marker.addTo(markerLayer);
+          if (!markerLayer.hasLayer(marker)) {
+            marker.addTo(markerLayer);
+          }
         } else {
-          markerLayer.removeLayer(marker);
+          if (markerLayer.hasLayer(marker)) {
+            markerLayer.removeLayer(marker);
+          }
         }
       });
 
