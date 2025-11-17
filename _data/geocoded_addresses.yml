@@ -234,6 +234,9 @@
 1000 Dixie Hwy, Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
+1000 E Jefferson St, Louisville, KY:
+  lat: 38.2511061
+  lng: -85.7341176
 1000 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -326,6 +329,9 @@
 1000 Rescue, Louisville, KY: null
 1000 Ringing Bell Ln, Louisville, KY: null
 1000 S Lamar Jackson Way, Louisville, KY: null
+1000 S S Preston St, Louisville, KY:
+  lat: 38.2144909
+  lng: -85.7430152
 1000 S Shelby St, Louisville, KY:
   lat: 38.236829
   lng: -85.740971
