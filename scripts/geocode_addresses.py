@@ -176,6 +176,34 @@ def format_highway_address(address: str) -> str:
 
     return address
 
+def extract_landmark(address: str) -> str:
+    """Extract landmark from 'near X' or 'at X' patterns for landmark-based geocoding."""
+    if not address:
+        return ""
+
+    # Remove ", Louisville, KY" suffix to work with address part
+    suffix = ", Louisville, KY"
+    addr_part = address[:-len(suffix)] if address.endswith(suffix) else address
+
+    # Try to extract landmark after "at", "near", or "adjacent to"
+    # Pattern: "address at/near/adjacent to landmark"
+    landmark_patterns = [
+        r'\s+at\s+(?:the\s+)?([^,\.]+)',  # "100 River Rd at Joe's Crab Shack" or "at the Walgreens"
+        r'\s+near\s+(?:the\s+)?([^,\.]+)', # "100 Pluto Dr near Astro Court"
+        r'\s+adjacent\s+to\s+(?:the\s+)?([^,\.]+)', # "1800 Lincoln Ave adjacent to the German American Club"
+    ]
+
+    for pattern in landmark_patterns:
+        match = re.search(pattern, addr_part, re.IGNORECASE)
+        if match:
+            landmark = match.group(1).strip()
+            # Clean up any trailing context
+            landmark = re.sub(r'\s+(to|for|due to|following).*$', '', landmark, flags=re.IGNORECASE)
+            if landmark and len(landmark) > 3:  # Avoid very short/useless landmarks
+                return f"{landmark}, Louisville, KY"
+
+    return ""
+
 def try_geocode_query(query: str) -> Dict:
     """Single geocoding attempt with Nominatim."""
     if not query or not query.strip():
@@ -231,7 +259,16 @@ def geocode_address(address: str) -> Tuple[float, float, None]:
             print(f"           -> {highway[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
             return result
 
-    # Strategy 4: For intersections, try with "&" instead of "and"
+    # Strategy 4: Try landmark-based geocoding
+    landmark = extract_landmark(address)
+    if landmark and landmark != address:
+        result = try_geocode_query(landmark)
+        if result:
+            print(f"  ✓ [Landmark] {address[:60]}...")
+            print(f"            -> {landmark[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
+            return result
+
+    # Strategy 5: For intersections, try with "&" instead of "and"
     if " and " in address.lower():
         alt_intersection = address.replace(" and ", " & ").replace(" And ", " & ")
         result = try_geocode_query(alt_intersection)
