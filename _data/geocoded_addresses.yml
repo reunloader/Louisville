@@ -1203,6 +1203,7 @@
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
 : null
+1500 W W Ormsby Ave, Louisville, KY: null
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
@@ -1496,6 +1497,9 @@
 18200 Bridgemore Ln, Louisville, KY:
   lat: 38.2500333
   lng: -85.4167314
+1900 Bishop Ln, Louisville, KY:
+  lat: 38.201155
+  lng: -85.685638
 1900 Bluegrass Avenue, Morning, Louisville, KY: null
 1900 Crimson Dr, Louisville, KY: null
 1900 Englewood Ave, Louisville, KY:
@@ -2399,6 +2403,7 @@
   met online when the suspect brandished a weapon and stole their shoes. Police are
   investigating the incident., Louisville, KY
 : null
+2700 W W Kentucky St, Louisville, KY: null
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -3793,6 +3798,9 @@
 4500 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4500 Poplar Level Rd, Louisville, KY:
+  lat: 38.1878872
+  lng: -85.7034767
 4500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -4902,6 +4910,10 @@
 ? 7000 Old Mill Rd to assist with a suspected overdose. EMS was already on the scene
   providing care when additional units arrived., Louisville, KY
 : null
+7000 Osprey Ridge, Louisville, KY:
+  lat: 38.1724035
+  lng: -85.6371845
+7000 Osprey Ridge. The alarm was triggered by a motion detector in the kitchen area., Louisville, KY: null
 ? 7000 Preston Highway this evening. Upon arrival, crews observed smoke emanating
   from the building. They quickly initiated an interior attack to suppress the flames.
   The fire was brought under control, and crews began overhaul operations to ensure
@@ -5379,6 +5391,9 @@
 8900 Novel Street, Louisville, KY: null
 8900 Talon Ridge Jog, Louisville, KY: null
 8900 US Highway 42, Louisville, KY: null
+8900 Willowcreek Dr, Louisville, KY:
+  lat: 38.121161
+  lng: -85.6991967
 900 Baxter Ave at Walgreens, Louisville, KY: null
 900 Baxter Ave, Louisville, KY:
   lat: 38.2424865
