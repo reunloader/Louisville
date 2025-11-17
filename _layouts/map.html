@@ -450,6 +450,28 @@
       return 'police';
     }
 
+    // Extract event type and time from detail string
+    function parseEventDetail(detail) {
+      // Pattern: "Event Type – address – time"
+      // We want to extract just the event type and time, removing the address
+
+      // Split by " – " to get parts
+      const parts = detail.split(' – ');
+
+      if (parts.length >= 3) {
+        // First part is event type, last part is time
+        const eventType = parts[0].trim();
+        const time = parts[parts.length - 1].trim();
+        return { eventType, time };
+      } else if (parts.length === 2) {
+        // Just event type and either address or time
+        return { eventType: parts[0].trim(), time: null };
+      }
+
+      // Fallback: return as-is
+      return { eventType: detail, time: null };
+    }
+
     // Create marker for event with coordinates
     function createMarkerWithCoords(event, address, coords) {
       // Extract specific event detail for this location
@@ -470,10 +492,14 @@
 
       const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
 
-      // Create popup content
+      // Parse event detail to extract type and time
+      const parsed = parseEventDetail(eventDetail);
+
+      // Create popup content with full details
       const popupContent = `
         <div class="popup-content">
-          <h3>${event.datetime}</h3>
+          <h3>${parsed.eventType}</h3>
+          ${parsed.time ? `<p><strong>Time:</strong> ${parsed.time}</p>` : ''}
           <p><strong>Location:</strong> ${address}</p>
           <p>${eventDetail}</p>
           <p><a href="${event.url}" target="_blank">View Full Report</a></p>
