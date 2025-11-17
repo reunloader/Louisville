@@ -700,6 +700,9 @@
       // Create popup content with ALL events at this location
       let popupContent = `<div class="popup-content">`;
 
+      // Location at the top
+      popupContent += `<p style="background: #f0f0f0; padding: 8px; margin: -10px -10px 10px -10px; border-bottom: 2px solid #666; font-weight: bold;"><strong>📍 Location:</strong> ${address}</p>`;
+
       if (events.length > 1) {
         popupContent += `<p style="background: #fffbcc; padding: 5px; margin: 0 0 10px 0; font-weight: bold;">${events.length} events at this location</p>`;
       }
@@ -722,7 +725,7 @@
         `;
       });
 
-      popupContent += `<p><strong>Location:</strong> ${address}</p></div>`;
+      popupContent += `</div>`;
 
       marker.bindPopup(popupContent, { maxHeight: 400 });
 
