@@ -14,8 +14,8 @@ paginate_path: "/page/:num/"
 # Configure navigation menu
 header_pages:
   - index.md
-  - digest.md
   - map.md
+  - digest.md
   - chatbot.md
   - about.md
 
