@@ -2129,6 +2129,7 @@
 2400 Tesserick Boulevard, Louisville, KY: null
 2400 Tesserick Boulevard. Officers were dispatched to investigate the source of the prolonged barking., Louisville, KY: null
 2400 Varshtown Road, Louisville, KY: null
+2400 W W Market St, Louisville, KY: null
 2407 Cornwall St, Louisville, KY:
   lat: 38.2722009
   lng: -85.7865247
@@ -2215,6 +2216,9 @@
 ? 2500 Wilson Ave. The caller stated that approximately sixteen rounds were heard.
   Police units were dispatched to investigate the incident., Louisville, KY
 : null
+2500 Woodland Ave, Louisville, KY:
+  lat: 38.2334341
+  lng: -85.796038
 ? 2522 Main St, where medics arrived quickly to assess her condition. They provided
   necessary medical support and determined if further treatment was required. It's
   a reminder to be aware of our health and to seek help when needed. Local residents
@@ -3514,6 +3518,9 @@
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+4100 River Park Dr, Louisville, KY:
+  lat: 38.255476
+  lng: -85.8193028
 ? 4100 River Park Dr, with questions about the specific classification of the incident.
   Police units responded to the scene., Louisville, KY
 : null
