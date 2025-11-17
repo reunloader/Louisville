@@ -791,6 +791,13 @@
   lng: -85.7774103
 1200 Southbrook Street, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
+? 1200 Spring Ridge Dr for assistance with lifting a patient. Police units were also
+  sent to support EMS. The call was resolved with the patient being attended to.,
+  Louisville, KY
+: null
+1200 Spring Ridge Dr, Louisville, KY:
+  lat: 38.2502174
+  lng: -85.571059
 1200 Springdale, Louisville, KY:
   lat: 38.191809
   lng: -85.726961
@@ -3393,6 +3400,11 @@
   lat: 38.1627856
   lng: -85.8496073
 3800 I 64 West, Louisville, KY: null
+? 3800 Little Bend Rd who may have fallen. EMS requested a rapid response to reach
+  the patient. Units were on scene to assess the situation and provide medical attention.,
+  Louisville, KY
+: null
+3800 Little Bend Rd, Louisville, KY: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
   The caller indicated they were attempting to control the flames with water. Firefighters
   arrived to assess and extinguish the brush fire., Louisville, KY
@@ -3888,6 +3900,11 @@
   and the roof. The incident was managed by the responding fire units., Louisville,
   KY
 : null
+? 4300 Norbrook Dr to assist a 47-year-old female experiencing chest pain. EMS arrived
+  on the scene to provide care and transport if necessary. The situation was managed
+  by the responding medical teams., Louisville, KY
+: null
+4300 Norbrook Dr, Louisville, KY: null
 4300 Preston Hwy, Louisville, KY:
   lat: 38.1818344
   lng: -85.7204275
