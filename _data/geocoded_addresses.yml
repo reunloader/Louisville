@@ -1576,6 +1576,7 @@
 200 Paradise Ln, Louisville, KY:
   lat: 38.1374
   lng: -85.8723473
+200 Pennsylvania Ave in connection with the call., Louisville, KY: null
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
@@ -1987,6 +1988,7 @@
 2400 Nelson Miller Pky, Louisville, KY:
   lat: 38.2779807
   lng: -85.5126309
+2400 Osborne Dr. Fire and EMS units were on scene and prepared to provide assistance as needed., Louisville, KY: null
 2400 Rockford Ln, Louisville, KY:
   lat: 38.1833115
   lng: -85.8539547
@@ -2196,6 +2198,10 @@
 2700 South Third, Louisville, KY: null
 ? 2700 South Third. Their presence was scheduled to continue until 8:00 a.m., with
   no further status checks required., Louisville, KY
+: null
+? 2700 Terra Crossing Blvd. The victim was attempting to sell items to a buyer they
+  met online when the suspect brandished a weapon and stole their shoes. Police are
+  investigating the incident., Louisville, KY
 : null
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
@@ -5061,6 +5067,10 @@
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
+? 900 Schiller Ct. The caller expressed concern that a subject was attempting to take
+  her children. Police units were dispatched to investigate and de-escalate the situation.,
+  Louisville, KY
+: null
 900 South 2nd Street., Louisville, KY:
   lat: 38.240765
   lng: -85.756042
@@ -5288,6 +5298,7 @@ Cedar Creek Rd and Barchshund Road, Louisville, KY: null
 Cedar Creek Rd and Bardstown Rd, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
+Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
 Christian Merrick Road and Hempstead Rd, Louisville, KY: null
@@ -5384,6 +5395,7 @@ Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
+Winkler Ave and Montana Ave, Louisville, KY: null
 Wolfpin Branch Road and Springdale Road, Louisville, KY: null
 Woodgate Lane and Manor Hill Drive, Louisville, KY: null
 Zane St and Western Ave, Louisville, KY: null
