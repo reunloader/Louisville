@@ -453,8 +453,8 @@
       // Remove the ", Louisville, KY" suffix for matching
       const searchAddr = address.replace(', Louisville, KY', '');
 
-      // Extract just the street number and first few words of street name for flexible matching
-      // e.g., "1800 South 3rd" from "1800 South 3rd Street"
+      // Extract just the street name for broader matching
+      // e.g., "East Broadway" from "1200 East Broadway"
       const addrMatch = searchAddr.match(/^(\d+)\s+(.+?)(?:\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln|Place))?$/i);
 
       let searchPatterns = [searchAddr];
@@ -465,12 +465,31 @@
         searchPatterns.push(`${streetNum} block of ${streetName}`);
         // Add just street number + first word of street
         searchPatterns.push(`${streetNum} ${streetName.split(' ')[0]}`);
+        // Add just street name (without number) for summary lines like "– East Broadway –"
+        searchPatterns.push(streetName);
       }
 
       // Split content into lines
       const lines = content.split('\n');
 
-      // Find the line containing this address using any of our search patterns
+      // First pass: Look for summary lines (containing " – ") that match the address
+      for (let line of lines) {
+        if (line.includes(' – ')) {  // This is likely a summary line
+          for (let pattern of searchPatterns) {
+            if (line.toLowerCase().includes(pattern.toLowerCase())) {
+              // Remove all emojis and clean up the line
+              let detail = removeEmojis(line).trim();
+              // Remove markdown bold markers
+              detail = detail.replace(/\*\*/g, '');
+              // Remove leading/trailing dashes
+              detail = detail.replace(/^–\s*|\s*–$/g, '').trim();
+              return detail;
+            }
+          }
+        }
+      }
+
+      // Second pass: Look for any line containing the address (fallback)
       for (let line of lines) {
         for (let pattern of searchPatterns) {
           if (line.toLowerCase().includes(pattern.toLowerCase())) {
