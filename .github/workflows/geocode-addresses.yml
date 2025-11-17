@@ -19,6 +19,9 @@ jobs:
       contents: write  # Need write permission to commit changes
 
     steps:
+      - name: Wait for pages deployment to complete
+        run: sleep 60
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
