@@ -230,6 +230,9 @@
 ? 1000 Colm's Lane, prompting a welfare check by responding units. The exact nature
   of the situation requiring the check was not specified., Louisville, KY
 : null
+1000 Dixie Hwy, Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
 1000 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
