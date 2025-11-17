@@ -2269,6 +2269,13 @@
 2600 Conklin Parkway, Louisville, KY: null
 2600 Fijing Avenue, Louisville, KY: null
 2600 Fijing Avenue. The incident involved a black male with facial tattoos and a potential female victim., Louisville, KY: null
+2600 Howard St, Louisville, KY:
+  lat: 38.245806
+  lng: -85.795471
+? 2600 Howard St, identified as Cypress Tech, a metal warehouse. Fire units responded
+  to investigate the alarm. It was subsequently determined that the alarm was false,
+  and all responding units cleared the scene., Louisville, KY
+: null
 ? 2600 I-64 West. CPR was reportedly in progress upon arrival. Additional units were
   later taken out of service to assist with transporting firefighters., Louisville,
   KY
@@ -5168,6 +5175,9 @@
   lat: 38.1536611
   lng: -85.7652516
 800 Sub Cliff Avenue 7:30 p.m.PM, Louisville, KY: null
+? 800 Varble Ave, near a state drop, and there was a possibility of a second vehicle
+  being involved. EMS units were on the scene., Louisville, KY
+: null
 800 W W Market St, Louisville, KY: null
 ? 800 W W Market St, involving two young women, a 17-year-old and an 18-year-old.
   Reports indicated that both individuals were armed with knives, bats, and frying
@@ -5660,6 +5670,7 @@ Dover Road and Looker Avenue, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
+Estate Dr and Gagel Ave, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
@@ -5683,6 +5694,7 @@ Locust Ave and Canterbury Dr, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
+Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
