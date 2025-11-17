@@ -1157,6 +1157,9 @@
   in the search. Emergency medical services were requested to the scene. The individual
   was ultimately transported for an involuntary commitment., Louisville, KY
 : null
+14700 Forbes Cir, Louisville, KY:
+  lat: 38.2705998
+  lng: -85.4872947
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
 ? 1500 Anna Ln following a report of a medical emergency. A 64-year-old female was
   experiencing rectal bleeding. The caller was reportedly in a white Chevrolet Equinox
@@ -1937,6 +1940,10 @@
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
+2000 W W Market St, Louisville, KY: null
+? 2000 W W Market St, with allegations of child abuse. Police units were dispatched
+  to investigate the circumstances., Louisville, KY
+: null
 2000 W W Muhammad Ali Blvd, Louisville, KY: null
 2000 W W Southern Heights Ave, Louisville, KY: null
 ? 2000 Weiser Avenue due to a carbon monoxide alarm sounding. Firefighters conducted
@@ -3382,6 +3389,9 @@
   the conflict., Louisville, KY
 : null
 3900 Barks, Louisville, KY: null
+3900 Bishop Ln, Louisville, KY:
+  lat: 38.1871224
+  lng: -85.6950539
 ? 3900 Craig Ave who had allegedly disrespected a caller. The individuals, described
   as four females dressed in black, had left the area approximately 30 minutes prior,
   heading towards Bicknell. Police were asked to be aware of their presence., Louisville,
@@ -5288,6 +5298,9 @@
   a 55-year-old female experiencing shortness of breath and high blood pressure. She
   was alert. Engine 88 arrived on scene to assist., Louisville, KY
 : null
+78600 Burrice Ct, Louisville, KY:
+  lat: 38.1422513
+  lng: -85.8933393
 7900 Barksdale Dr, Louisville, KY:
   lat: 38.1270133
   lng: -85.8613751
@@ -5706,6 +5719,7 @@
   lat: 38.2435378
   lng: -85.547026
 9200 Dixie Hwy. Officers investigated the vehicle and the individual within., Louisville, KY: null
+9200 Earlham Dr, Louisville, KY: null
 9200 Marlboro Cir, Louisville, KY: null
 ? 9200 Marlboro Cir. The specific details regarding what prompted the call for a welfare
   check or the nature of the suspicious activity were not immediately available. Unit
@@ -5975,6 +5989,7 @@ South Second Street and Ellington Ave, Louisville, KY: null
 Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
+Springtime Ave and Westport Rd, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
