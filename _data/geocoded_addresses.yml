@@ -561,6 +561,13 @@
   call., Louisville, KY
 : null
 11400 Crosswinds Dr, Louisville, KY: null
+11400 Deering Rd, Louisville, KY:
+  lat: 38.088173
+  lng: -85.866483
+? 11400 Deering Rd. Specific details regarding the circumstances or any injuries were
+  not immediately available. The 3rd Division was noted as not responding to this
+  particular incident., Louisville, KY
+: null
 11400 Willow Pond Dr, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
@@ -2042,6 +2049,10 @@
 2500 Terra Crossing Blvd, Louisville, KY:
   lat: 38.272571
   lng: -85.498393
+? 2500 Terra Crossing Blvd. It was later clarified that the alarm was related to a
+  "crit of an individual," suggesting a potential personal crisis rather than a typical
+  robbery. The 8th Division was not dispatched to this call., Louisville, KY
+: null
 ? 2500 Terra Crossing Blvd. The alarms were associated with a parts delivery door
   and another area within the facility., Louisville, KY
 : null
