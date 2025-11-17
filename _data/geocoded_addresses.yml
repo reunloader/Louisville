@@ -840,6 +840,7 @@
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
+12700 Bay Tree Way near Bay Cove Ct, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12900 East Pharrell, Louisville, KY: null
 12900 East Railroad, Louisville, KY: null
@@ -3218,6 +3219,7 @@
   lat: 38.1910665
   lng: -85.7849485
 3700 Woods Green Court, Louisville, KY: null
+3800 Boynton Lane near Mills Dr, Louisville, KY: null
 3800 Brody Ln, Louisville, KY:
   lat: 38.193015
   lng: -85.609294
@@ -3513,6 +3515,9 @@
   a search of the area and established a perimeter to ensure public safety., Louisville,
   KY
 : null
+400 W W Oak St, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
   was then transported to a local hospital for further evaluation and treatment.,
@@ -3532,6 +3537,7 @@
   41 and 47 responded to the scene to investigate the cause of the alarm and ensure
   the safety of the building., Louisville, KY
 : null
+4000 Future Bank Road near Progress Blvd, Louisville, KY: null
 4000 Laurelwood Ave, Louisville, KY:
   lat: 38.226391
   lng: -85.634019
