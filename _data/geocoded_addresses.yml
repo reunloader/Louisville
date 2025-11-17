@@ -1637,6 +1637,9 @@
 200 Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+? 200 Bridgemore Ln. Responding units found no immediate signs of fire or other issues
+  at the two-story home., Louisville, KY
+: null
 200 Brown Plain, Louisville, KY: null
 200 Chariot Court 5:00 a.m., Louisville, KY: null
 ? 200 Chariot Court. A maroon vehicle was observed parked within a designated fire
@@ -4831,6 +4834,7 @@
 6700 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+6700 Bay and Reed Ave to assess a 45-year-old male experiencing difficulty breathing., Louisville, KY: null
 6700 Broadhale Dr, Louisville, KY:
   lat: 38.1493268
   lng: -85.6140702
@@ -5410,6 +5414,13 @@
   pans during the altercation., Louisville, KY
 : null
 800 W W Market St. The location was near Carlson and Roy Wilkins., Louisville, KY: null
+? 800 W W W Whitney Ave to assist a 72-year-old female experiencing concerning symptoms
+  including chills, low oxygen, and elevated blood pressure. Simultaneously, a high
+  angle rescue was initiated on I-64 West due to a report of an individual on an overpass
+  who may have intended to jump. Police units, including a drone, searched the Cochran
+  Hill Tunnel and nearby overpasses, but the individual was not immediately located.,
+  Louisville, KY
+: null
 ? 800 West Main Street. Several fire units responded to investigate the situation.
   Upon arrival, crews assessed the scene to determine the cause of the alarm. The
   incident was resolved without further complications., Louisville, KY
@@ -5943,6 +5954,7 @@ Liberty St and Jeff Commerce Dr, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Locust Ave and Canterbury Dr, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
+Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
