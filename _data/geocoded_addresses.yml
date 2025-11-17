@@ -3174,6 +3174,7 @@
 : null
 400 James Rae Pl, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
+400 North S S Hite Ave, Louisville, KY: null
 ? 400 Regency Quarter following reports of a vehicle striking a building. A white
   Honda Pilot was involved in the incident, impacting the building's patio area. Fire
   and police units responded to assess the scene and manage the situation., Louisville,
@@ -4221,6 +4222,9 @@
   alarm. The specific cause of the activation and the outcome of the response were
   not immediately available., Louisville, KY
 : null
+6100 Port Rd, Louisville, KY:
+  lat: 38.1551601
+  lng: -85.647905
 6100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
