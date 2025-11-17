@@ -1983,6 +1983,7 @@
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
+2000 Newburg Rd, where a patient was found to be having a seizure., Louisville, KY: null
 2000 Newburg Rd. Further information about the cause of the alarm was not provided., Louisville, KY: null
 ? 2000 Newburg Rd. The facility is described as a four-story building. While responding
   to the alarm, Engine 10 was also diverted to a separate medical call., Louisville,
@@ -5199,6 +5200,10 @@
 700 Magazine St, Louisville, KY:
   lat: 38.248125
   lng: -85.763242
+? 700 Marsha Eddes Road, with the nature of the incident unclear but potentially involving
+  suspicious circumstances or a need to check on someone's well-being., Louisville,
+  KY
+: null
 700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -6180,6 +6185,7 @@ Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
+Newburg Rd and Bellarmine Blvd, Louisville, KY: null
 Newburg Rd and Bishop Ln, Louisville, KY: null
 Newburg Rd and Speed Ave, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
