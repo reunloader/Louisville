@@ -620,47 +620,76 @@
       return null;
     }
 
-    // Create marker for event with coordinates
-    function createMarkerWithCoords(event, address, coords) {
-      // Extract specific event detail for this location
-      const eventDetail = extractEventDetail(event.content, address);
+    // Store for grouping events by location
+    const locationGroups = {};
 
-      // Detect category from content
-      const detectedCategory = detectCategory(eventDetail);
+    // Add event to location group
+    function addEventToLocationGroup(event, address, coords) {
+      const locationKey = `${coords.lat},${coords.lng}`;
 
-      // Determine marker color based on detected category
-      let markerIcon = markerIcons.blue; // default (police)
+      if (!locationGroups[locationKey]) {
+        locationGroups[locationKey] = {
+          address: address,
+          coords: coords,
+          events: []
+        };
+      }
+
+      locationGroups[locationKey].events.push(event);
+    }
+
+    // Create marker for a location with potentially multiple events
+    function createMarkerForLocation(locationKey, locationData) {
+      const { address, coords, events } = locationData;
+
+      // Sort events by datetime (most recent first)
+      events.sort((a, b) => b.datetime.localeCompare(a.datetime));
+
+      // Use the most recent event to determine marker color
+      const firstEventDetail = extractEventDetail(events[0].content, address);
+      const detectedCategory = detectCategory(firstEventDetail);
+
+      let markerIcon = markerIcons.blue;
       if (detectedCategory === 'medical') {
         markerIcon = markerIcons.yellow;
       } else if (detectedCategory === 'fire') {
         markerIcon = markerIcons.red;
-      } else {
-        markerIcon = markerIcons.blue; // police
       }
 
       const marker = L.marker([coords.lat, coords.lng], { icon: markerIcon });
 
-      // Parse event detail to extract type and time
-      const parsed = parseEventDetail(eventDetail);
+      // Create popup content with ALL events at this location
+      let popupContent = `<div class="popup-content">`;
 
-      // Extract descriptive text (not the summary line)
-      const description = extractDescription(event.content, address);
+      if (events.length > 1) {
+        popupContent += `<p style="background: #fffbcc; padding: 5px; margin: 0 0 10px 0; font-weight: bold;">${events.length} events at this location</p>`;
+      }
 
-      // Create popup content with full details
-      const popupContent = `
-        <div class="popup-content">
-          <h3>${parsed.eventType}</h3>
+      events.forEach((event, index) => {
+        const eventDetail = extractEventDetail(event.content, address);
+        const parsed = parseEventDetail(eventDetail);
+        const description = extractDescription(event.content, address);
+
+        if (index > 0) {
+          popupContent += `<hr style="margin: 15px 0; border: none; border-top: 1px solid #ddd;">`;
+        }
+
+        popupContent += `
+          <h3 style="margin-top: ${index > 0 ? '0' : '10px'};">${parsed.eventType}</h3>
           ${parsed.time ? `<p><strong>Time:</strong> ${parsed.time}</p>` : ''}
-          <p><strong>Location:</strong> ${address}</p>
+          <p><strong>Date:</strong> ${event.date}</p>
           ${description ? `<p>${description}</p>` : ''}
           <p><a href="${event.url}" target="_blank">View Full Report</a></p>
-        </div>
-      `;
+        `;
+      });
 
-      marker.bindPopup(popupContent);
+      popupContent += `<p><strong>Location:</strong> ${address}</p></div>`;
 
-      // Store event data with marker
-      marker.eventData = event;
+      marker.bindPopup(popupContent, { maxHeight: 400 });
+
+      // Store all event data with marker
+      marker.eventData = events[0]; // Store most recent for filtering
+      marker.allEvents = events;
       marker.eventAddress = address;
 
       markers.push(marker);
@@ -767,12 +796,17 @@
         console.log('Date filters initialized:', startDateEl.value, 'to', endDateEl.value);
       }
 
-      // Process cached addresses immediately (no API calls needed)
+      // Process cached addresses immediately - add to location groups
       cachedItems.forEach(item => {
         const coords = geocodeCache[item.address];
         if (coords) {
-          createMarkerWithCoords(item.event, item.address, coords);
+          addEventToLocationGroup(item.event, item.address, coords);
         }
+      });
+
+      // Create markers from grouped locations
+      Object.keys(locationGroups).forEach(locationKey => {
+        createMarkerForLocation(locationKey, locationGroups[locationKey]);
       });
 
       // Apply initial filters to cached markers (dates are now set)
@@ -787,7 +821,20 @@
           const coords = await geocodeWithDelay(item.address, i * 1000);
 
           if (coords) {
-            createMarkerWithCoords(item.event, item.address, coords);
+            addEventToLocationGroup(item.event, item.address, coords);
+
+            // Create/update marker for this location
+            const locationKey = `${coords.lat},${coords.lng}`;
+            if (locationGroups[locationKey]) {
+              // Remove old marker if exists
+              const oldMarker = markers.find(m => m.eventAddress === item.address && m._latlng.lat === coords.lat && m._latlng.lng === coords.lng);
+              if (oldMarker) {
+                markerLayer.removeLayer(oldMarker);
+                markers = markers.filter(m => m !== oldMarker);
+              }
+              // Create new marker with all events
+              createMarkerForLocation(locationKey, locationGroups[locationKey]);
+            }
 
             // Apply filters after each new marker
             applyFilters();
