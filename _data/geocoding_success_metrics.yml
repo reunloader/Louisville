@@ -12,6 +12,9 @@ history:
     Other/Unknown: 249
     Contains extra sentences/context: 159
     Intersection format: 193
+  batch_success_rate: 34.05
+  batch_new_addresses: 2558
+  batch_new_successes: 871
 - timestamp: '2025-11-17T22:11:18.986786'
   total_addresses: 2565
   successful: 876
@@ -25,17 +28,7 @@ history:
     Other/Unknown: 250
     Contains extra sentences/context: 159
     Intersection format: 194
-- timestamp: '2025-11-17T22:35:44.554843'
-  total_addresses: 2573
-  successful: 880
-  failed: 1693
-  success_rate: 34.2
-  failure_rate: 65.8
-  failure_patterns:
-    Contains location qualifiers (near/at): 832
-    Incomplete/vague address: 255
-    Police phonetic codes: 2
-    Other/Unknown: 251
-    Contains extra sentences/context: 159
-    Intersection format: 194
-last_updated: '2025-11-17T22:35:44.554921'
+  batch_success_rate: 71.43
+  batch_new_addresses: 7
+  batch_new_successes: 5
+last_updated: '2025-11-17T22:34:50.342846'

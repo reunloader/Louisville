@@ -116,14 +116,23 @@ def calculate_improvements(current: Dict, previous: Dict = None) -> Dict:
         return {
             'new_addresses': current['total_addresses'],
             'new_successes': current['successful'],
-            'new_failures': current['failed']
+            'new_failures': current['failed'],
+            'batch_success_rate': current['success_rate']  # First run = overall rate
         }
 
+    new_addresses = current['total_addresses'] - previous.get('total_addresses', 0)
+    new_successes = current['successful'] - previous.get('successful', 0)
+    new_failures = current['failed'] - previous.get('failed', 0)
+
+    # Calculate success rate for just this batch
+    batch_success_rate = (new_successes / new_addresses * 100) if new_addresses > 0 else 0
+
     improvements = {
-        'new_addresses': current['total_addresses'] - previous.get('total_addresses', 0),
-        'new_successes': current['successful'] - previous.get('successful', 0),
-        'new_failures': current['failed'] - previous.get('failed', 0),
-        'success_rate_change': round(current['success_rate'] - previous.get('success_rate', 0), 2)
+        'new_addresses': new_addresses,
+        'new_successes': new_successes,
+        'new_failures': new_failures,
+        'batch_success_rate': round(batch_success_rate, 2),
+        'cumulative_rate_change': round(current['success_rate'] - previous.get('success_rate', 0), 2)
     }
 
     return improvements
@@ -159,9 +168,14 @@ def generate_report(metrics: Dict, improvements: Dict, history: List[Dict]) -> s
         report += f"- **{improvements['new_successes']}** successfully geocoded\n"
         report += f"- **{improvements['new_failures']}** failed to geocode\n"
 
-        if 'success_rate_change' in improvements and improvements['success_rate_change'] != 0:
-            change_symbol = "📈" if improvements['success_rate_change'] > 0 else "📉"
-            report += f"- Success rate changed by **{improvements['success_rate_change']:+.2f}%** {change_symbol}\n"
+        # Show batch success rate prominently
+        batch_rate = improvements.get('batch_success_rate', 0)
+        batch_symbol = "🎯" if batch_rate >= 50 else "⚡" if batch_rate >= 30 else "⚠️"
+        report += f"- **This batch success rate: {batch_rate:.2f}%** {batch_symbol}\n"
+
+        if 'cumulative_rate_change' in improvements and improvements['cumulative_rate_change'] != 0:
+            change_symbol = "📈" if improvements['cumulative_rate_change'] > 0 else "📉"
+            report += f"- Overall rate changed by **{improvements['cumulative_rate_change']:+.2f}%** {change_symbol}\n"
     else:
         report += "*No new addresses since last run*\n"
 
@@ -184,16 +198,23 @@ def generate_report(metrics: Dict, improvements: Dict, history: List[Dict]) -> s
     # Historical trend
     if len(history) > 1:
         report += "## Historical Trend\n\n"
-        report += "| Date | Total | Successful | Success Rate |\n"
-        report += "|------|-------|-----------|-------------|\n"
+        report += "| Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |\n"
+        report += "|------|-----------|--------------|------------|-----------------|-------------|\n"
 
         # Show last 10 entries
         for entry in history[-10:]:
             date = entry.get('timestamp', '')[:10]  # Just the date part
+            batch_size = entry.get('batch_new_addresses', 0)
+            batch_success = entry.get('batch_new_successes', 0)
+            batch_rate = entry.get('batch_success_rate', 0)
             total = entry.get('total_addresses', 0)
-            successful = entry.get('successful', 0)
-            rate = entry.get('success_rate', 0)
-            report += f"| {date} | {total:,} | {successful:,} | {rate:.2f}% |\n"
+            overall_rate = entry.get('success_rate', 0)
+
+            # Format batch rate with indicator
+            batch_indicator = "🎯" if batch_rate >= 50 else "⚡" if batch_rate >= 30 else "⚠️" if batch_size > 0 else ""
+            batch_rate_str = f"{batch_rate:.1f}% {batch_indicator}" if batch_size > 0 else "—"
+
+            report += f"| {date} | {batch_size:,} | {batch_success:,} | {batch_rate_str} | {total:,} | {overall_rate:.2f}% |\n"
 
         report += "\n---\n\n"
 
@@ -258,6 +279,10 @@ def main():
             should_update = False
 
     if should_update:
+        # Add batch success rate to the metrics before storing
+        current_metrics['batch_success_rate'] = improvements.get('batch_success_rate', 0)
+        current_metrics['batch_new_addresses'] = improvements.get('new_addresses', 0)
+        current_metrics['batch_new_successes'] = improvements.get('new_successes', 0)
         history.append(current_metrics)
 
     # Save updated history (always save to update last_updated timestamp)
@@ -276,17 +301,22 @@ def main():
     print("\n" + "=" * 70)
     print("SUMMARY")
     print("=" * 70)
-    print(f"Total Addresses:     {current_metrics['total_addresses']:,}")
-    print(f"Successfully Geocoded: {current_metrics['successful']:,}")
-    print(f"Failed:              {current_metrics['failed']:,}")
-    print(f"Success Rate:        {current_metrics['success_rate']:.2f}%")
+    print(f"Overall Total:       {current_metrics['total_addresses']:,} addresses")
+    print(f"Overall Success:     {current_metrics['successful']:,} ({current_metrics['success_rate']:.2f}%)")
+    print(f"Overall Failed:      {current_metrics['failed']:,} ({current_metrics['failure_rate']:.2f}%)")
 
     if improvements['new_addresses'] > 0:
-        print(f"\nNew this run:        +{improvements['new_addresses']} addresses")
-        print(f"  Successes:         +{improvements['new_successes']}")
-        print(f"  Failures:          +{improvements['new_failures']}")
-        if 'success_rate_change' in improvements:
-            print(f"  Rate change:       {improvements['success_rate_change']:+.2f}%")
+        batch_rate = improvements.get('batch_success_rate', 0)
+        batch_symbol = "🎯" if batch_rate >= 50 else "⚡" if batch_rate >= 30 else "⚠️"
+        print(f"\n--- This Batch ---")
+        print(f"New addresses:       {improvements['new_addresses']}")
+        print(f"Batch successes:     {improvements['new_successes']}")
+        print(f"Batch failures:      {improvements['new_failures']}")
+        print(f"Batch success rate:  {batch_rate:.2f}% {batch_symbol}")
+
+        if 'cumulative_rate_change' in improvements and improvements['cumulative_rate_change'] != 0:
+            change_symbol = "↑" if improvements['cumulative_rate_change'] > 0 else "↓"
+            print(f"Overall rate change: {improvements['cumulative_rate_change']:+.2f}% {change_symbol}")
 
     print("=" * 70)
 
