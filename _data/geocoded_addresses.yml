@@ -437,6 +437,9 @@
 : null
 10000 Oak Bridge Cir, Louisville, KY: null
 10000 Oak Oak Bridge Cir, Louisville, KY: null
+10000 Silverwood Ln, Louisville, KY:
+  lat: 38.107928
+  lng: -85.8317157
 10000 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
@@ -1241,6 +1244,9 @@
 1500 Longfield Ave, Louisville, KY:
   lat: 38.1985284
   lng: -85.786642
+1500 Longfield Ave., Louisville, KY:
+  lat: 38.1985284
+  lng: -85.786642
 1500 Lytle St between North 15th and 17th Streets, Louisville, KY: null
 1500 Lytle St, Louisville, KY:
   lat: 38.261211
@@ -1332,6 +1338,12 @@
   lng: -85.6875526
 1600 I65 South, Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call for service., Louisville, KY: null
+1600 Moore Ct, Louisville, KY:
+  lat: 38.2251564
+  lng: -85.7748253
+1600 Moore Ct., Louisville, KY:
+  lat: 38.2251564
+  lng: -85.7748253
 1600 Moore Hill Pl, Louisville, KY: null
 1600 Moore Hill Pl., Louisville, KY: null
 1600 Patent Court, Louisville, KY: null
@@ -1553,6 +1565,9 @@
   a known history of diabetes and COPD and was utilizing oxygen therapy. Emergency
   medical services responded to provide assistance., Louisville, KY
 : null
+1800 Outer Loop, Louisville, KY:
+  lat: 38.1280358
+  lng: -85.7393457
 1800 Shady Ln, Louisville, KY:
   lat: 38.2278163
   lng: -85.7088915
