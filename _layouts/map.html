@@ -282,7 +282,7 @@
 
     // Store all events data
     const eventsData = [
-      {% for post in site.posts limit:1000 %}
+      {% for post in site.posts limit:500 %}
       {% unless post.categories contains 'daily-digest' %}
       {
         title: {{ post.title | jsonify }},
