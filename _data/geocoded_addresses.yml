@@ -240,9 +240,18 @@
 1000 E Jefferson St, Louisville, KY:
   lat: 38.2511061
   lng: -85.7341176
+1000 E W Breckinridge St, Louisville, KY:
+  lat: 38.2418164
+  lng: -85.758428
 1000 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+1000 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
+1000 East Broadway, Louisville, KY:
+  lat: 38.2440573
+  lng: -85.7351137
 ? 1000 Euclid Avenue following a report of a domestic situation. Officers were on
   scene to investigate and attempt to make contact with individuals inside the residence.
   The situation involved a caller who had reported a male subject was present at the
@@ -338,6 +347,9 @@
 1000 S Shelby St, Louisville, KY:
   lat: 38.236829
   lng: -85.740971
+1000 South 15th Street, Louisville, KY:
+  lat: 38.241236
+  lng: -85.777725
 1000 South 1st Street, Louisville, KY:
   lat: 38.23828
   lng: -85.754787
@@ -762,6 +774,9 @@
   KY
 : null
 1200 Triple Crown Ct, Louisville, KY: null
+1200 W W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 1200 West Kentucky at State Products, Louisville, KY: null
 ? 1200 Westhill Cir for a 67-year-old male experiencing significant shortness of breath
   and dizziness. Emergency medical services were observed in the vicinity of Furman
