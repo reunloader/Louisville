@@ -2403,6 +2403,7 @@
 ? 2700 South 3rd Street. Responding units were sent to assess the situation. The incident
   remained active at the time the transcript ended., Louisville, KY
 : null
+2700 South Center Street, Louisville, KY: null
 2700 South Third, Louisville, KY: null
 ? 2700 South Third. Their presence was scheduled to continue until 8:00 a.m., with
   no further status checks required., Louisville, KY
@@ -4056,6 +4057,9 @@
   but the alarm company confirmed they were still receiving signals from the location.,
   Louisville, KY
 : null
+500 S S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 500 South 18th Street, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
