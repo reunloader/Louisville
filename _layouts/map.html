@@ -575,22 +575,42 @@
         const streetName = addrMatch[2];
         searchPatterns.push(`${streetNum} block of ${streetName}`);
         searchPatterns.push(`${streetNum} ${streetName.split(' ')[0]}`);
+        // Add just street name (without number) for summary lines like "– East Broadway –"
+        searchPatterns.push(streetName);
       }
 
       // Split content into lines
       const lines = content.split('\n');
 
-      // Find the index of the event summary line
+      // Find the index of the event summary line (prioritize lines with " – ")
       let eventLineIndex = -1;
+
+      // First pass: Look for summary lines (containing " – ")
       for (let i = 0; i < lines.length; i++) {
         const line = lines[i];
-        for (let pattern of searchPatterns) {
-          if (line.toLowerCase().includes(pattern.toLowerCase())) {
-            eventLineIndex = i;
-            break;
+        if (line.includes(' – ')) {
+          for (let pattern of searchPatterns) {
+            if (line.toLowerCase().includes(pattern.toLowerCase())) {
+              eventLineIndex = i;
+              break;
+            }
           }
+          if (eventLineIndex !== -1) break;
         }
-        if (eventLineIndex !== -1) break;
+      }
+
+      // Second pass: Look for any line with the address (fallback)
+      if (eventLineIndex === -1) {
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i];
+          for (let pattern of searchPatterns) {
+            if (line.toLowerCase().includes(pattern.toLowerCase())) {
+              eventLineIndex = i;
+              break;
+            }
+          }
+          if (eventLineIndex !== -1) break;
+        }
       }
 
       // Generic closing phrases to exclude
