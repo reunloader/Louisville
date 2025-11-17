@@ -135,6 +135,7 @@
   seen on foot, reportedly heading towards Liberty Street. Authorities are actively
   searching for the missing individual., Louisville, KY
 : null
+100 River Rd at Joe's Crab Shack, Louisville, KY: null
 ? 100 Royal Court. The incident occurred in the evening, and the suspect was seen
   fleeing the scene. The suspect reportedly headed towards a nearby alleyway after
   the theft., Louisville, KY
@@ -2595,6 +2596,9 @@
   lng: -85.4485653
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 800 block of Charlie, Louisville, KY: null
+300 E W Oak St, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 ? 300 East Market Street, within the Nucleus Innovation Park, for a medical emergency.
   An 8th-floor resident, a 60-year-old female, was reportedly experiencing stroke-like
   symptoms, including speech difficulties and unresponsiveness. Personnel were directed
@@ -5396,6 +5400,7 @@
 8700 William Penn Way, Louisville, KY:
   lat: 38.1221027
   lng: -85.6361054
+8700 Windridge Creekway near Twin Ridge Rd, Louisville, KY: null
 8800 Hudson Ave, Louisville, KY:
   lat: 38.2221493
   lng: -85.8141208
@@ -5680,6 +5685,7 @@ Amy Ave and Vermont Street, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
 Bardstown Rd and Churchman Ave, Louisville, KY: null
+Bardstown Rd and Deerwood Ave, Louisville, KY: null
 Bardstown Rd and Eastern Pky, Louisville, KY: null
 Bardstown Rd and Grimstad Road, Louisville, KY: null
 Bargetown Road and Baxter Ave, Louisville, KY: null
