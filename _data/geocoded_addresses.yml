@@ -1605,6 +1605,10 @@
 : null
 1800 I 64 West, Louisville, KY: null
 1800 Jalen Road, Louisville, KY: null
+? 1800 Lincoln Ave, adjacent to the German American Club, to attend to a 66-year-old
+  male who had fallen. The individual was unresponsive upon their arrival. EMS provided
+  necessary medical care., Louisville, KY
+: null
 1800 Marina's Edgeway, Louisville, KY: null
 ? 1800 Marina's Edgeway, situated between River Rd and River Shore Dr. The call involved
   a 21-year-old female who reported experiencing a sensation of warmth and freezing
@@ -2154,6 +2158,10 @@
   lat: 38.2290712
   lng: -85.6992452
 2100 St. St Xavier St, Louisville, KY: null
+? 2100 Wallie Ann Ct to assist a 26-year-old male. The individual was experiencing
+  symptoms including lightheadedness, shortness of breath, and abdominal pain. Medical
+  treatment was provided at the scene., Louisville, KY
+: null
 ? 2100 Wally and Corn to attend to a patient experiencing concerning symptoms. The
   individual reported feeling lightheaded, having difficulty breathing, and experiencing
   abdominal pain. Medical personnel assessed the situation and provided necessary
@@ -4565,6 +4573,11 @@
   lng: -85.6623684
 5100 Arbor Oak Ct, near Arbor Oak Dr. The crew was later instructed to disregard the call., Louisville, KY: null
 5100 Barshawn Road, Louisville, KY: null
+? 5100 Dixie Hwy. Evacuations of the affected area were underway as a precautionary
+  measure. Responders were on scene and managed to bring the situation under control.,
+  Louisville, KY
+: lat: 38.1681545
+  lng: -85.8297235
 5100 East Mojave Lee Boulevard, Louisville, KY: null
 5100 Greenwood Rd, Louisville, KY:
   lat: 38.14391
@@ -5297,6 +5310,11 @@
   assault that reportedly took place shortly after. A red Buick was also noted in
   connection with the incident., Louisville, KY
 : null
+? 700 S S Brook St, near East Jacob and E W College St, for a fire that had been intentionally
+  set. Homeless individuals were present at the scene when the controlled burn was
+  initiated. Firefighters worked to extinguish the blaze., Louisville, KY
+: lat: 38.2141519
+  lng: -85.7572545
 700 S S Hancock St, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
@@ -5924,6 +5942,10 @@
   lat: 38.239093
   lng: -85.728107
 900 Finchley Ct, Louisville, KY: null
+? 900 Frankfort Ave following reports of a fire. The flames were observed spreading
+  to a fence and nearby dry leaves. Responders arrived to assess the situation and
+  begin suppression efforts., Louisville, KY
+: null
 900 Goss Ave, Louisville, KY:
   lat: 38.230112
   lng: -85.740178
@@ -6323,6 +6345,7 @@ Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
+Shingo Ave and Lonsdale Ave, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
