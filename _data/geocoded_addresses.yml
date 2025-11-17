@@ -735,6 +735,9 @@
 1200 I-64 West, Louisville, KY: null
 1200 I-65 South, Louisville, KY: null
 1200 I65 South, Louisville, KY: null
+1200 La Grange Rd, Louisville, KY:
+  lat: 38.2786316
+  lng: -85.5174174
 1200 Larchmont Ave, Louisville, KY:
   lat: 38.2069983
   lng: -85.7785835
@@ -3791,6 +3794,9 @@
   to the situation. The details of the medical issue were addressed by the attending
   personnel. The call was resolved by the responding unit., Louisville, KY
 : null
+4000 Outer Loop, Louisville, KY:
+  lat: 38.1381387
+  lng: -85.6882058
 ? 4000 Peachtree Ave following a report of a possible death. The caller indicated
   that one individual might be deceased and that several people had fled the scene
   in a yellow Ford Mustang., Louisville, KY
@@ -5203,6 +5209,9 @@
 700 S S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
+700 S S Preston St, Louisville, KY:
+  lat: 38.2144909
+  lng: -85.7430152
 700 Shiloh Trail, Louisville, KY: null
 700 South 24th Street, Louisville, KY:
   lat: 38.248538
@@ -6191,6 +6200,7 @@ Sears Ave and Oshley Avenue, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
 Shelbyville Rd and Bircham Rd, Louisville, KY: null
+Shelbyville Rd and Dorset Rd, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
