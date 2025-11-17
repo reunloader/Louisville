@@ -123,6 +123,7 @@
 : null
 100 Pearl, Louisville, KY: null
 100 Pearl. Responding officers were en route to the location., Louisville, KY: null
+100 Pertle Terrace, Louisville, KY: null
 100 Pluto Dr, near Astro and Lenton Court, to provide assistance., Louisville, KY: null
 100 Pope Street, [Date] 4:00 a.m., Louisville, KY: null
 ? 100 Pope Street. The individual is described as a 35-year-old female. She was last
@@ -397,6 +398,9 @@
 : null
 10000 Oak Bridge Cir, Louisville, KY: null
 10000 Oak Oak Bridge Cir, Louisville, KY: null
+10000 Taylorsville Rd, Louisville, KY:
+  lat: 38.1881064
+  lng: -85.5511519
 ? 10000 Taylorsville Rd. Police units were sent to the area to investigate the vehicle
   and its presence. The outcome of the investigation was not immediately available.,
   Louisville, KY
@@ -412,6 +416,9 @@
   lat: 38.0762726
   lng: -85.8819062
 10100 Old Dixie Hwy. Further details on the nature and extent of the incident are pending., Louisville, KY: null
+10200 Eve Adam Dr, Louisville, KY:
+  lat: 38.1056407
+  lng: -85.8434894
 10200 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
@@ -2633,6 +2640,9 @@
   lat: 38.204435
   lng: -85.763317
 3100 South Second Street, Louisville, KY: null
+3100 Springfield Dr, Louisville, KY:
+  lat: 38.1474972
+  lng: -85.8158609
 3100 Star Hill Dr, Louisville, KY:
   lat: 38.1605786
   lng: -85.6170069
@@ -3095,6 +3105,7 @@
 400 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
+400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
   lng: -85.7474066
