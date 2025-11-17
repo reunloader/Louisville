@@ -431,6 +431,7 @@
 10700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10800 Dartford Pl, Louisville, KY: null
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
@@ -1242,6 +1243,7 @@
   lat: 38.2564101
   lng: -85.8150421
 1700 W W W Gaulbert Ave, Louisville, KY: null
+1700 W W W Kentucky St, Louisville, KY: null
 1700 West Broadway, Louisville, KY:
   lat: 38.248647
   lng: -85.780022
@@ -2335,6 +2337,9 @@
   Intervention Team call., Louisville, KY
 : null
 300 Foxy Poise Rd, Louisville, KY: null
+300 Hillcrest, Louisville, KY:
+  lat: 38.2582682
+  lng: -85.6850962
 300 Home to Course, Louisville, KY: null
 ? 300 Home to Course. Responding units attempted to make contact at the location by
   knocking, but no one answered. The alarm was later determined to be false., Louisville,
