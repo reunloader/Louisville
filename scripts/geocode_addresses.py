@@ -111,26 +111,137 @@ def save_geocode_cache(cache: Dict[str, Dict]):
 
     print(f"Saved {len(cache)} geocoded addresses to {DATA_FILE}")
 
-def geocode_address(address: str) -> Tuple[float, float, None]:
-    """Geocode an address using Nominatim API."""
-    url = f"https://nominatim.openstreetmap.org/search?format=json&q={urllib.parse.quote(address)}&limit=1"
+def clean_address(address: str) -> str:
+    """Clean and normalize an address for better geocoding."""
+    if not address or not address.strip():
+        return ""
+
+    # Remove ", Louisville, KY" suffix temporarily to work with address part
+    original = address
+    suffix = ", Louisville, KY"
+    if address.endswith(suffix):
+        address = address[:-len(suffix)]
+
+    # Remove everything after first period (extra context/sentences)
+    if '.' in address:
+        address = address.split('.')[0]
+
+    # Remove bracketed content like [Date], [Time], [Street Name Redacted]
+    address = re.sub(r'\[.*?\]', '', address)
+
+    # Remove extra location qualifiers
+    address = re.sub(r',?\s+near\s+.*$', '', address, flags=re.IGNORECASE)
+    address = re.sub(r',?\s+at\s+.*$', '', address, flags=re.IGNORECASE)
+
+    # Fix missing spaces before street numbers (e.g., "North45th" -> "North 45th")
+    address = re.sub(r'([A-Za-z])(\d)', r'\1 \2', address)
+
+    # Normalize multiple spaces
+    address = re.sub(r'\s+', ' ', address).strip()
+
+    # Filter out obviously bad extractions
+    bad_patterns = [
+        r'^\s*$',  # Empty
+        r'ground plane',
+        r'mile marker',
+        r'Bravo Papa',  # Police codes
+        r'an unspecified location',
+        r'^\d+\s+and\s+\d+\s+block\s+of\s*$',  # Malformed block
+    ]
+
+    for pattern in bad_patterns:
+        if re.search(pattern, address, re.IGNORECASE):
+            return ""
+
+    return address + suffix if address else ""
+
+def format_highway_address(address: str) -> str:
+    """Convert highway addresses to a format Nominatim understands better."""
+    if not address:
+        return ""
+
+    # Match patterns like "100 I 64 East" or "1000 I-71 South"
+    highway_match = re.search(r'(\d+)\s+I-?\s*(\d+)\s+(North|South|East|West)?', address, re.IGNORECASE)
+
+    if highway_match:
+        highway_num = highway_match.group(2)
+        direction = highway_match.group(3)
+
+        # Try simplified format: "I-64, Louisville, KY"
+        if direction:
+            return f"Interstate {highway_num} {direction}, Louisville, KY"
+        else:
+            return f"Interstate {highway_num}, Louisville, KY"
+
+    return address
+
+def try_geocode_query(query: str) -> Dict:
+    """Single geocoding attempt with Nominatim."""
+    if not query or not query.strip():
+        return None
+
+    url = f"https://nominatim.openstreetmap.org/search?format=json&q={urllib.parse.quote(query)}&limit=1"
 
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': USER_AGENT})
+        req = urllib.request.Request(url, headers={
+            'User-Agent': USER_AGENT,
+            'Accept': 'application/json'
+        })
         with urllib.request.urlopen(req, timeout=10) as response:
             data = json.loads(response.read().decode())
 
             if data and len(data) > 0:
                 lat = float(data[0]['lat'])
                 lng = float(data[0]['lon'])
-                print(f"  ✓ Geocoded: {address[:50]}... -> ({lat:.4f}, {lng:.4f})")
                 return {'lat': lat, 'lng': lng}
-            else:
-                print(f"  ✗ No results for: {address[:50]}...")
-                return None
+    except urllib.error.HTTPError as e:
+        if e.code == 403 or e.code == 429:
+            # Rate limit hit - wait and let caller handle
+            time.sleep(2)
     except Exception as e:
-        print(f"  ✗ Error geocoding {address[:50]}...: {e}")
-        return None
+        pass  # Silent fail, will be logged at higher level
+
+    return None
+
+def geocode_address(address: str) -> Tuple[float, float, None]:
+    """Geocode an address using Nominatim API with fallback strategies."""
+
+    # Strategy 1: Try original address
+    result = try_geocode_query(address)
+    if result:
+        print(f"  ✓ [Original] {address[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
+        return result
+
+    # Strategy 2: Try cleaned address
+    cleaned = clean_address(address)
+    if cleaned and cleaned != address:
+        result = try_geocode_query(cleaned)
+        if result:
+            print(f"  ✓ [Cleaned] {address[:60]}...")
+            print(f"           -> {cleaned[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
+            return result
+
+    # Strategy 3: Try highway-formatted address
+    highway = format_highway_address(address)
+    if highway and highway != address and highway != cleaned:
+        result = try_geocode_query(highway)
+        if result:
+            print(f"  ✓ [Highway] {address[:60]}...")
+            print(f"           -> {highway[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
+            return result
+
+    # Strategy 4: For intersections, try with "&" instead of "and"
+    if " and " in address.lower():
+        alt_intersection = address.replace(" and ", " & ").replace(" And ", " & ")
+        result = try_geocode_query(alt_intersection)
+        if result:
+            print(f"  ✓ [Intersection] {address[:60]}...")
+            print(f"                -> {alt_intersection[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
+            return result
+
+    # All strategies failed
+    print(f"  ✗ Failed all strategies: {address[:70]}...")
+    return None
 
 def main():
     """Main function to geocode addresses from posts."""
