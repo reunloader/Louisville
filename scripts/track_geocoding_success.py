@@ -249,14 +249,22 @@ def main():
     previous_metrics = history[-1] if history else None
     improvements = calculate_improvements(current_metrics, previous_metrics)
 
-    # Add to history
-    history.append(current_metrics)
+    # Only add to history if something changed
+    should_update = True
+    if previous_metrics:
+        # Skip if total addresses unchanged
+        if current_metrics['total_addresses'] == previous_metrics.get('total_addresses', 0):
+            print("   ℹ️  No new addresses since last run - skipping history update")
+            should_update = False
 
-    # Save updated history
+    if should_update:
+        history.append(current_metrics)
+
+    # Save updated history (always save to update last_updated timestamp)
     print("\n4. Saving metrics...")
     save_metrics_history(history)
 
-    # Generate report
+    # Generate report (always regenerate for freshness)
     print("\n5. Generating report...")
     report = generate_report(current_metrics, improvements, history)
 
