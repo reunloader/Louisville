@@ -1673,6 +1673,12 @@
   Louisville, KY
 : null
 200 West. One unit was dispatched to assess and address the situation., Louisville, KY: null
+200 William, Louisville, KY:
+  lat: 38.1201135
+  lng: -85.638166
+? 200 William. Further details regarding the circumstances or the individuals involved
+  were not immediately available., Louisville, KY
+: null
 200 Woodridge-Dravina, Louisville, KY: null
 200 Woodridge-Dravina. Fire units were dispatched to address the situation., Louisville, KY: null
 200 York St, Louisville, KY:
@@ -2039,6 +2045,13 @@
 ? 2500 Artisan Way Way, near Imperial Ct and Terrace Hill Dr Hill Rd Dr, for a female
   in her 70s experiencing shortness of breath and requiring oxygen due to COPD and
   emphysema., Louisville, KY
+: null
+2500 Briscoe Ridge Ln, Louisville, KY:
+  lat: 38.1411426
+  lng: -85.6528318
+? 2500 Briscoe Ridge Ln, involving neighbors engaged in a loud argument outside, accompanied
+  by barking dogs. It was noted that the residents have a history of issues with their
+  daughter. Police units responded to the scene., Louisville, KY
 : null
 2500 Buechel Bank Rd to investigate the situation., Louisville, KY: null
 2500 Buechel Bank Rd, Louisville, KY:
@@ -5146,6 +5159,10 @@
 : null
 900 Westwood Camp, Louisville, KY: null
 900 Westwood Camp. Further details regarding the nature of the collision were not immediately available., Louisville, KY: null
+? 900 where the line was answered and then abruptly disconnected. Responding units
+  were unable to determine the caller's location, as no further information was provided.,
+  Louisville, KY
+: null
 9000 Linden Dr, Louisville, KY: null
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
