@@ -566,6 +566,9 @@
   lat: 38.2235747
   lng: -85.7032029
 1100 Apex View Dr, Louisville, KY: null
+1100 Berthstown Road at Speedway, Louisville, KY:
+  lat: 38.1588919
+  lng: -85.764448
 ? 1100 Carabao Way. Paramedics responded to provide assistance for a reported medical
   emergency. The nature of the medical issue required immediate attention from the
   dispatched unit., Louisville, KY
@@ -4496,6 +4499,9 @@
   lat: 38.0911177
   lng: -85.8518001
 4200 Seabiscuit Way. The altercation was reportedly occurring in the area above the street level., Louisville, KY: null
+4200 Simcoe Ln near Brownsboro Rd, Louisville, KY:
+  lat: 38.3065995
+  lng: -85.5719938
 4200 Simcoe Ln, Louisville, KY:
   lat: 38.3065995
   lng: -85.5719938
@@ -5386,6 +5392,7 @@
 600 Craigs Creek Dr, Louisville, KY:
   lat: 38.3146036
   lng: -85.5527639
+600 E W Oak St, Number 4, Louisville, KY: null
 ? 600 East Broadway following a report of an individual down. Upon arrival, responders
   found the person covered by a blanket. Emergency medical services assessed the situation
   to provide necessary care. The incident highlights the ongoing need for vigilance
@@ -6835,6 +6842,9 @@
   fluctuating consciousness. An 8-year-old child was present with the individual.,
   Louisville, KY
 : null
+9300 Civic Way near Dayflower St, Louisville, KY:
+  lat: 38.3199891
+  lng: -85.5689659
 9300 Civic Way, Louisville, KY:
   lat: 38.3199891
   lng: -85.5689659
@@ -7037,6 +7047,7 @@ Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
+Brighton Dr and Boxley Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
