@@ -1755,6 +1755,9 @@
   information regarding the reason for the stop or any resulting actions was immediately
   available., Louisville, KY
 : null
+1900 Wemberley Hill Blvd, Louisville, KY:
+  lat: 38.2916137
+  lng: -85.5553487
 1900 West Broadway at KFC, Louisville, KY: null
 1900 West Broadway, Louisville, KY:
   lat: 38.2490002
@@ -2043,6 +2046,7 @@
 : null
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
+200 westbound, Louisville, KY: null
 2000 3Rd Street Rd, Louisville, KY:
   lat: 38.1453565
   lng: -85.7758564
@@ -2546,6 +2550,9 @@
   that no individuals were in danger or trapped within the building., Louisville,
   KY
 : null
+2500 Slate Dr, Louisville, KY:
+  lat: 38.1049283
+  lng: -85.7204367
 ? 2500 St. St Xavier St to address a medical emergency. This incident was classified
   as a medical Charlie call, indicating a need for immediate medical attention., Louisville,
   KY
@@ -4015,6 +4022,9 @@
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
+4000 Parkway, Louisville, KY:
+  lat: 38.1966062
+  lng: -85.7673687
 ? 4000 Peachtree Ave following a report of a possible death. The caller indicated
   that one individual might be deceased and that several people had fled the scene
   in a yellow Ford Mustang., Louisville, KY
@@ -4438,6 +4448,9 @@
   lat: 38.1898343
   lng: -85.7883132
 4600 W W Southern Heights Ave, Louisville, KY: null
+4600 Wattbourne Ln, Louisville, KY:
+  lat: 38.1849936
+  lng: -85.6053241
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
   lng: -85.7594126
