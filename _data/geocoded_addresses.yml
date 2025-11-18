@@ -608,6 +608,12 @@
 1100 Euclid Ave, Louisville, KY:
   lat: 38.214775
   lng: -85.7750256
+1100 Garvin Pl, Louisville, KY:
+  lat: 38.2371411
+  lng: -85.7618045
+1100 Garvin Pl., Louisville, KY:
+  lat: 38.2371411
+  lng: -85.7618045
 1100 Hathaway Ave, Louisville, KY:
   lat: 38.1951035
   lng: -85.7797139
@@ -1932,6 +1938,13 @@
   lng: -85.726232
 200 Adams St. The reporting officer indicated that they were not harmed during the stop., Louisville, KY: null
 200 Albany Ave alley, Louisville, KY: null
+200 Bardstown Rd, Louisville, KY:
+  lat: 38.2289024
+  lng: -85.7017791
+? 200 Bardstown Rd. The vehicle, a gold Honda Accord, was described as potentially
+  being driven by an intoxicated individual., Louisville, KY
+: lat: 38.2289024
+  lng: -85.7017791
 200 Bardstown Road 10:00 a.m., Louisville, KY: null
 ? 200 Bardstown Road. Several gallons of oil were reported to be on the roadway, creating
   a hazardous condition. Queens 52, 51, Engine 54, and Queen 31 were dispatched to
@@ -2850,6 +2863,9 @@
   later taken out of service to assist with transporting firefighters., Louisville,
   KY
 : null
+2600 Kings Hwy, Louisville, KY:
+  lat: 38.2219672
+  lng: -85.672165
 ? 2600 Lindsay Ct following a report that a grandmother was allegedly violating a
   custody order. Officers investigated the situation., Louisville, KY
 : null
@@ -3699,6 +3715,12 @@
 3400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+3400 Taylor, Louisville, KY:
+  lat: 38.1995175
+  lng: -85.7829642
+3400 Taylor., Louisville, KY:
+  lat: 38.1995175
+  lng: -85.7829642
 3400 Tile Factory Ln, Louisville, KY:
   lat: 38.1833591
   lng: -85.7032498
@@ -4118,6 +4140,8 @@
 : null
 400 Charlie and 400 block of Adam, Louisville, KY: null
 400 Charlie and 400 block of David, Louisville, KY: null
+400 Charlie and 6 David, Louisville, KY: null
+400 Charlie and 6 David., Louisville, KY: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
 400 Charlie, Louisville, KY:
@@ -4936,6 +4960,12 @@
   lat: 38.3046014
   lng: -85.5175142
 4900 Dixie Highway, Evening, Louisville, KY: null
+4900 Manslick Rd, Louisville, KY:
+  lat: 38.1751656
+  lng: -85.7981771
+4900 Manslick Rd. The incident involved a smashed window, and a credit card was found at the scene., Louisville, KY:
+  lat: 38.1751656
+  lng: -85.7981771
 4900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -5372,6 +5402,12 @@
 5700 Russett Blvd, Louisville, KY:
   lat: 38.1656675
   lng: -85.6667647
+5700 Southern Pky, Louisville, KY:
+  lat: 38.1712571
+  lng: -85.7794468
+5700 Southern Pky., Louisville, KY:
+  lat: 38.1712571
+  lng: -85.7794468
 5700 Tommy Tucker Way, Louisville, KY:
   lat: 38.1762335
   lng: -85.8621885
