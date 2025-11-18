@@ -64,6 +64,8 @@
   lat: 38.172667
   lng: -85.762656
 100 I 64 East, Louisville, KY: null
+100 I-65 South, Louisville, KY: null
+100 I-65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
 100 I64 East, Louisville, KY: null
 ? 100 I64 East, reporting that she had just been robbed or assaulted. Police units
   responded to investigate the situation., Louisville, KY
@@ -2988,6 +2990,12 @@
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
   lng: -85.6245297
+300 W Cardinal Blvd, Louisville, KY:
+  lat: 38.220488
+  lng: -85.761346
+300 W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY:
+  lat: 38.220488
+  lng: -85.761346
 300 W W W Cardinal Blvd, Louisville, KY: null
 300 W W W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY: null
 300 West Broadway, Louisville, KY:
@@ -3861,6 +3869,7 @@
 400 James Rae Pl, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
 400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
+400 Merritt Avenue, Louisville, KY: null
 400 North S Hite Ave, Louisville, KY:
   lat: 38.2517615
   lng: -85.6932303
@@ -5466,6 +5475,24 @@
   assault that reportedly took place shortly after. A red Buick was also noted in
   connection with the incident., Louisville, KY
 : null
+700 S Brook St, Louisville, KY:
+  lat: 38.244898
+  lng: -85.751927
+? 700 S Brook St, near East Jacob and E W College St, for a fire that had been intentionally
+  set. Homeless individuals were present at the scene when the controlled burn was
+  initiated. Firefighters worked to extinguish the blaze., Louisville, KY
+: lat: 38.244898
+  lng: -85.751927
+? 700 S Brook St. It was determined that individuals experiencing homelessness had
+  started a fire and were gathered around it. The situation was managed by responding
+  personnel., Louisville, KY
+: lat: 38.244898
+  lng: -85.751927
+? 700 S Brook St. The incident involved a large garbage fire in a dumpster, with several
+  individuals present at the scene. Firefighters worked to manage the situation.,
+  Louisville, KY
+: lat: 38.244898
+  lng: -85.751927
 700 S Hancock St, Louisville, KY:
   lat: 38.243717
   lng: -85.743892
