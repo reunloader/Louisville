@@ -2041,6 +2041,7 @@
   units were dispatched to the location to address the situation., Louisville, KY
 : null
 200 South Newcote Road, Louisville, KY: null
+200 South and New Cut Rd, Louisville, KY: null
 200 South at Spurn, Louisville, KY: null
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
@@ -2129,6 +2130,9 @@
 200 York Street, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
+200 and Taylor Blvd, Louisville, KY:
+  lat: 38.2079291
+  lng: -85.7741776
 200 and120, Louisville, KY: null
 200 and301. The situation was addressed by responding officers., Louisville, KY: null
 200 at I-15, Louisville, KY: null
