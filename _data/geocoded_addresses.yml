@@ -816,6 +816,10 @@
 1200 Produce Rd, Louisville, KY:
   lat: 38.1819184
   lng: -85.6870954
+? 1200 Quest Dr, which had occurred approximately 30 minutes prior to the report.
+  The suspect vehicle was described as a red Ford Fusion, believed to be from the
+  2000 block and possibly bearing Kentucky plates., Louisville, KY
+: null
 ? 1200 Raven Rd. Upon arrival, it was determined that the incident was related to
   a past barbecue and no active fire suppression was needed. Fire services were cleared
   from the scene., Louisville, KY
@@ -4213,6 +4217,12 @@
 ? 4100 Firmely Road to assess the situation. The details surrounding the incident
   are currently being determined by law enforcement., Louisville, KY
 : null
+? 4100 Flintlock Dr for a 75-year-old male experiencing potential stroke symptoms,
+  including difficulty speaking and reduced alertness. The patient was awaiting assistance
+  near the location. After consulting with EMS, the call was ultimately disregarded.,
+  Louisville, KY
+: lat: 38.2187858
+  lng: -85.7607146
 4100 Hazelwood Rd, Louisville, KY: null
 4100 Hazelwood, Louisville, KY:
   lat: 38.183023
@@ -6713,6 +6723,10 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+? 9900 Brownsboro Rd, with indications that the front door was the point of entry.
+  Responding police units investigated and determined it to be a false alarm., Louisville,
+  KY
+: null
 9900 Bucharest, Louisville, KY: null
 ? 9900 Bucharest. Further details regarding the specifics of the incident or the response
   were not immediately available., Louisville, KY
