@@ -2871,6 +2871,12 @@
 ? 2700 South Third. Their presence was scheduled to continue until 8:00 a.m., with
   no further status checks required., Louisville, KY
 : null
+2700 Taylorsville Rd, Louisville, KY:
+  lat: 38.2227341
+  lng: -85.6695319
+2700 Taylorsville Rd. The incident was reported as resolved, with officers clearing the scene., Louisville, KY:
+  lat: 38.2227341
+  lng: -85.6695319
 ? 2700 Terra Crossing Blvd. The victim was attempting to sell items to a buyer they
   met online when the suspect brandished a weapon and stole their shoes. Police are
   investigating the incident., Louisville, KY
@@ -6962,6 +6968,7 @@ Gagel Ave and Manslick Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
+Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
