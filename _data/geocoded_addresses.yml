@@ -2090,6 +2090,14 @@
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, just past Old Henry, Louisville, KY: null
+200 North35th Street, Louisville, KY:
+  lat: 38.2637287
+  lng: -85.8083072
+? 200 North35th Street, near Duncan and Rowan, following a complaint about a controlled
+  burn. A neighbor reportedly was burning plastic in their backyard, causing concern.,
+  Louisville, KY
+: lat: 38.2637287
+  lng: -85.8083072
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
 200 Northbound, Louisville, KY: null
 200 Paradise Ln, Louisville, KY:
@@ -2686,6 +2694,11 @@
   lat: 38.2779807
   lng: -85.5126309
 2400 Osborne Dr. Fire and EMS units were on scene and prepared to provide assistance as needed., Louisville, KY: null
+? 2400 Rockford Ln following a report of an unconscious male. First responders administered
+  one dose of Narcan upon arrival, as the individual was breathing but unresponsive,
+  with suspected drug use. This incident was associated with a two-car accident.,
+  Louisville, KY
+: null
 2400 Rockford Ln, Louisville, KY:
   lat: 38.1833115
   lng: -85.8539547
@@ -3274,6 +3287,8 @@
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
   lng: -85.6245297
+300 Victor King William, Louisville, KY: null
+300 Victor King William. No injuries or contact were reported in connection with this incident., Louisville, KY: null
 300 W Cardinal Blvd, Louisville, KY:
   lat: 38.220488
   lng: -85.761346
@@ -3577,6 +3592,9 @@
   burning trash and leaves in the area. Upon arrival, fire units observed a four-story
   commercial building with no visible smoke or flames from the exterior. A secondary
   fire run was assigned., Louisville, KY
+: null
+? 3200 Taylor Blvd to attend to a possible overdose. EMS personnel were on scene to
+  provide necessary medical assistance., Louisville, KY
 : null
 3200 Taylor Blvd, Louisville, KY:
   lat: 38.2051349
@@ -3907,6 +3925,7 @@
 3700 Rouge Way, Louisville, KY:
   lat: 38.204316
   lng: -85.648926
+3700 St. Louis Boulevard, Louisville, KY: null
 3700 Stratton Ave, Louisville, KY:
   lat: 38.2294728
   lng: -85.8166836
