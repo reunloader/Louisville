@@ -6204,6 +6204,9 @@
   The responding officer investigated the circumstances surrounding the vehicle's
   presence., Louisville, KY
 : null
+8900 Maple Rd near Crest Street, Louisville, KY:
+  lat: 38.1197316
+  lng: -85.6481369
 8900 Novel Street, Louisville, KY: null
 8900 Talon Ridge Jog, Louisville, KY: null
 8900 US Highway 42, Louisville, KY: null
@@ -6497,6 +6500,12 @@
 9700 Polaris Dr, Louisville, KY:
   lat: 38.10888
   lng: -85.695595
+? 9700 Turnpike View Dr and found no signs of fire or any other issues. The alarm
+  was determined to be false., Louisville, KY
+: null
+9700 Turnpike View Dr, Louisville, KY:
+  lat: 38.1086595
+  lng: -85.7004356
 9700 Woodway, Louisville, KY:
   lat: 38.2450204
   lng: -85.8232687
