@@ -2176,6 +2176,10 @@
 2000 Jefferson Hill Rd, Louisville, KY:
   lat: 38.0939475
   lng: -85.7902493
+? 2000 Lincoln Nautilus. The reporting party believed the vehicle might be present
+  at the Walmart location. Police units were dispatched to investigate the suspicious
+  activity and the possibility of a stolen vehicle., Louisville, KY
+: null
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -5380,6 +5384,7 @@
 600 Valley College Dr, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
+600 Vernis Avenue, Louisville, KY: null
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
@@ -6707,6 +6712,9 @@
   details regarding the nature of the alarm were not immediately available. The incident
   was handled by responding law enforcement., Louisville, KY
 : null
+9400 Amber Ridge Ct, Louisville, KY:
+  lat: 38.1181052
+  lng: -85.8399305
 9400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1065975
   lng: -85.5001371
