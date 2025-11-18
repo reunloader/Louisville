@@ -570,6 +570,7 @@
 10600 Grecian Rd, Louisville, KY:
   lat: 38.099744
   lng: -85.852204
+10600 Taylor-Hill Rd, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
 10700 Eagle Ridge Pl, near Century Division Way, due to a residential alarm activation., Louisville, KY: null
 10700 Harrison Ln, Louisville, KY:
@@ -4234,6 +4235,10 @@
   lat: 38.1410492
   lng: -85.7716085
 400 Banker and the 400 block of Charlie., Louisville, KY: null
+400 Beaver St near Robert Deer Tom Road, Louisville, KY: null
+400 Beaver St. Additional units were also involved in the response to this incident., Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 400 Becker, 400 block of Adam Becker, and 400 block of Charlie were involved in monitoring the situation., Louisville, KY: null
 400 Bermuda Ct, Louisville, KY: null
 400 Bring Me The Lane, Louisville, KY: null
