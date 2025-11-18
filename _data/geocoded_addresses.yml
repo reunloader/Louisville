@@ -2985,6 +2985,9 @@
 ? 2700 South Third. Their presence was scheduled to continue until 8:00 a.m., with
   no further status checks required., Louisville, KY
 : null
+2700 Taylor Blvd, Louisville, KY:
+  lat: 38.2108939
+  lng: -85.7708483
 2700 Taylorsville Rd, Louisville, KY:
   lat: 38.2227341
   lng: -85.6695319
@@ -5727,6 +5730,9 @@
   were requested to the scene to file a report., Louisville, KY
 : lat: 38.0796483
   lng: -85.8768468
+6400 Dawson Hill Rd, Louisville, KY:
+  lat: 38.1187659
+  lng: -85.5025766
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
   lng: -85.6031247
@@ -6675,6 +6681,9 @@
 ? 8500 Blue Lick Road. The suspect was described as a white male in a blue shirt,
   possibly under the influence of medication., Louisville, KY
 : null
+8500 Coco Ct, Louisville, KY:
+  lat: 38.1269748
+  lng: -85.6933449
 8500 South 28th Street, Louisville, KY:
   lat: 38.2549234
   lng: -85.7973288
@@ -6860,6 +6869,7 @@
   medical situation involving an unresponsive 90-year-old individual., Louisville,
   KY
 : null
+900 Stoke-on-Trent, Louisville, KY: null
 900 Vine St, Louisville, KY:
   lat: 38.239276
   lng: -85.732806
@@ -7025,6 +7035,9 @@
 9600 Cedar Heights Ct, Louisville, KY:
   lat: 38.133585
   lng: -85.59457
+9600 Dock Rd, Louisville, KY:
+  lat: 38.1312704
+  lng: -85.5931443
 9600 Highway 60., Louisville, KY:
   lat: 38.1174114
   lng: -85.8594242
