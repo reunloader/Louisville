@@ -69,6 +69,7 @@
 100 Hartwell Ct, Louisville, KY:
   lat: 38.172667
   lng: -85.762656
+100 Huntington Ridge Dr, Louisville, KY: null
 100 I 64 East, Louisville, KY: null
 100 I-65 South, Louisville, KY: null
 100 I-65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
@@ -229,6 +230,14 @@
   it was determined that the alarm was triggered by a vape pen. The responding team
   was able to reset the alarm panel, resolving the situation., Louisville, KY
 : null
+100 West Market, Louisville, KY:
+  lat: 38.2544972
+  lng: -85.7522553
+? 100 West Market. Officers were dispatched to investigate the nature of the activity
+  and ensure public safety. The details of what was observed and the subsequent actions
+  are not yet known., Louisville, KY
+: lat: 38.2544972
+  lng: -85.7522553
 ? 100 West Oak Street this morning following a report of a fall. A 46-year-old male
   was found to have slipped and fallen in his shower. Responders arrived on scene
   to assess the individual's condition. Medical personnel provided necessary care
@@ -237,6 +246,14 @@
 : null
 100 West Orange Beach Avenue to provide care and transport., Louisville, KY: null
 100 West Orange V Ave, Louisville, KY: null
+100 West W. W Ashland Ave, Louisville, KY:
+  lat: 38.2575113
+  lng: -85.7629961
+? 100 West W. W Ashland Ave. The vehicle, a black Hyundai Sonata, was noted to have
+  three flat tires and was missing its license plate, raising concerns for police.,
+  Louisville, KY
+: lat: 38.2575113
+  lng: -85.7629961
 100 West, at Langland Pl, Louisville, KY: null
 ? 100 West, near Langland Pl. The fire was reported to be small and was extinguished
   by Engine 187. All units were cleared of service shortly after., Louisville, KY
@@ -893,6 +910,7 @@
   lng: -85.68899
 1200 Markstown Road, Louisville, KY: null
 1200 Monticello Forest Cir, Louisville, KY: null
+1200 Moore Ct and Elliott Park, Louisville, KY: null
 1200 Moore Hill Pl, Louisville, KY: null
 1200 Parish Down Road and the 400 block of Adam were involved in the communication., Louisville, KY: null
 1200 Parish Down Road, Louisville, KY: null
@@ -993,6 +1011,14 @@
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+1200 West Broadway, Louisville, KY:
+  lat: 38.247499
+  lng: -85.771798
+? 1200 West Broadway. This type of police activity is common and involves officers
+  interacting with individuals or vehicles for investigative purposes. No additional
+  information about this stop was provided., Louisville, KY
+: lat: 38.247499
+  lng: -85.771798
 1200 West Kentucky at State Products, Louisville, KY: null
 ? 1200 Westhill Cir for a 67-year-old male experiencing significant shortness of breath
   and dizziness. Emergency medical services were observed in the vicinity of Furman
@@ -1544,6 +1570,9 @@
 1600 Clarice Way, Louisville, KY:
   lat: 38.1764542
   lng: -85.812257
+1600 Clover St, Louisville, KY:
+  lat: 38.170317
+  lng: -85.8234769
 1600 Eastern Parkway, Louisville, KY:
   lat: 38.2287209
   lng: -85.7148597
@@ -1561,6 +1590,7 @@
   due to a dog and cat being left behind. The dog was described as a medium-sized
   beagle., Louisville, KY
 : null
+1600 Gallagher St to assist a 30-year-old male suspected of an overdose., Louisville, KY: null
 1600 Gallagher St, Louisville, KY:
   lat: 38.2384839
   lng: -85.7808333
@@ -1721,6 +1751,7 @@
   lat: 38.2219877
   lng: -85.585648
 1700 South 35th Street [Date & Time], Louisville, KY: null
+1700 South Second Street, Louisville, KY: null
 ? 1700 Stallings Ave to assist a 65-year-old male who was experiencing difficulty
   breathing. Crews arrived on scene within minutes to assess the situation., Louisville,
   KY
@@ -2047,6 +2078,9 @@
 ? 200 Duncan. Police units were involved in the stop, which was later cleared with
   no further reported issues., Louisville, KY
 : null
+200 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 200 East Broadway, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -3754,6 +3788,9 @@
 3300 Schneiter Ave, Louisville, KY:
   lat: 38.201681
   lng: -85.78528
+3300 Taylor Blvd, Louisville, KY:
+  lat: 38.2022323
+  lng: -85.7817945
 3300 Terrier Ct, Louisville, KY:
   lat: 38.207331
   lng: -85.665427
@@ -4169,6 +4206,7 @@
 3900 Craig Ave, Louisville, KY:
   lat: 38.18484
   lng: -85.789937
+3900 Dutchman's Lane, Louisville, KY: null
 ? 3900 Flans Avenue to assist a 44-year-old female who was complaining of chest pain.
   The individual was reportedly waiting outside for responders to arrive., Louisville,
   KY
@@ -5030,6 +5068,12 @@
 4700 Flushing Way, Louisville, KY:
   lat: 38.099864
   lng: -85.849893
+? 4700 Hunter's Dupont Cir following a report of a 65-year-old female who had fallen
+  and was feeling faint. Upon arrival, responders determined that the patient was
+  stable and no longer required transport. EMS was canceled, and the patient was left
+  in the care of those present., Louisville, KY
+: null
+4700 Hunter's Dupont Cir, Louisville, KY: null
 ? 4700 Mill Trace Place. The caller indicated that family members were attempting
   to harm them and refused to provide a specific apartment number. Responding units
   were dispatched to investigate the situation and ensure the safety of those involved.,
@@ -5273,6 +5317,9 @@
 500 W Ashland Ave., Louisville, KY:
   lat: 38.1852278
   lng: -85.7691524
+500 W Liberty St, Louisville, KY:
+  lat: 38.253265
+  lng: -85.759729
 500 W W Ashland Ave, Louisville, KY:
   lat: 38.1861535
   lng: -85.7756446
@@ -5719,6 +5766,10 @@
   nature of the activity and the police response were not specified., Louisville,
   KY
 : null
+? 600 Roseville Avenue, close to the intersection with West Portland and LaGrange.
+  Responding units arrived on the scene and indicated that there was no visible fire
+  or smoke upon their arrival., Louisville, KY
+: null
 600 Rubel Ave, Louisville, KY:
   lat: 38.2456192
   lng: -85.7311427
@@ -5967,6 +6018,14 @@
   lat: 38.0757648
   lng: -85.8753075
 658 South Point Street, Louisville, KY: null
+6600 Dixie Hwy, Louisville, KY:
+  lat: 38.1548215
+  lng: -85.8366977
+? 6600 Dixie Hwy. Emergency units responded to investigate the source of the leak.
+  Further details on the outcome of the response were not immediately available.,
+  Louisville, KY
+: lat: 38.1548215
+  lng: -85.8366977
 ? 6600 Jixie Highway. Responders encountered a female individual who appeared to be
   suffering from cold exposure. The individual also seemed to be in distress. Medical
   personnel provided assistance and evaluated the situation., Louisville, KY
@@ -6155,6 +6214,9 @@
 700 Dresden, Louisville, KY:
   lat: 38.1974565
   lng: -85.771628
+700 E Main St, Louisville, KY:
+  lat: 38.254691
+  lng: -85.739665
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
@@ -6620,6 +6682,9 @@
   lng: -85.4690983
 7800 Royalty Ave, Louisville, KY: null
 7800 Royalty Ave. Responding units were dispatched to the location to check on an individual., Louisville, KY: null
+7800 Sanders, Louisville, KY:
+  lat: 38.1552943
+  lng: -85.7919287
 7800 St. St Andrews Church Rd, Louisville, KY: null
 ? 7800 St. St Andrews Church Rd, across from Arnold Town and St. Anthony Church, for
   a 55-year-old female experiencing shortness of breath and high blood pressure. She
@@ -6675,6 +6740,9 @@
   the responding units upon their arrival., Louisville, KY
 : null
 800 Cantaloupe Court, Louisville, KY: null
+800 Carnation Dr, Louisville, KY:
+  lat: 38.1393644
+  lng: -85.8610486
 800 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -7372,6 +7440,7 @@ Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
 Bardstown Rd and Churchman Ave, Louisville, KY: null
 Bardstown Rd and Deerwood Ave, Louisville, KY: null
 Bardstown Rd and Eastern Pky, Louisville, KY: null
+Bardstown Rd and Gladstone Ave, Louisville, KY: null
 Bardstown Rd and Grimstad Road, Louisville, KY: null
 Bargetown Road and Baxter Ave, Louisville, KY: null
 Bargetown Road and Heather Ln, Louisville, KY: null
@@ -7406,6 +7475,7 @@ Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
+Chase Rd and Steffan Drive, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
@@ -7444,8 +7514,10 @@ Grade Ln and Don Hutson Blvd, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
+Grinstead Dr and Ray Ave, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
+Height Avenue and Frankfort Ave, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
@@ -7528,6 +7600,7 @@ Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
+Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
 Taylor Springs Dr and Central Ave, Louisville, KY: null
 Taylor Springs Dr and Holly Berry Dr, Louisville, KY: null
