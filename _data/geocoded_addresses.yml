@@ -818,6 +818,9 @@
   lng: -85.8173786
 1200 Conservatory Ln, Louisville, KY: null
 1200 Cypress Pt STREET, Louisville, KY: null
+1200 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 1200 East Broadway, Louisville, KY:
   lat: 38.2437332
   lng: -85.7296723
@@ -5899,6 +5902,9 @@
 6800 Deering Rd, Louisville, KY:
   lat: 38.0906197
   lng: -85.8735398
+6800 Dixie Hwy, Louisville, KY:
+  lat: 38.1519038
+  lng: -85.8370427
 ? 6800 Hollow Creek Ct, near Hollow Creek Rd, for an elderly woman who had fallen.
   The 68-year-old female required assistance., Louisville, KY
 : null
@@ -6336,6 +6342,9 @@
 7300 Ticonderoga Dr, Louisville, KY:
   lat: 38.1514364
   lng: -85.7902881
+7400 Bardstown Rd, Louisville, KY:
+  lat: 38.1388505
+  lng: -85.5817755
 7400 Bayhurst Route, Louisville, KY: null
 7400 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
