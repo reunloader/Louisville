@@ -645,6 +645,9 @@
   observed near a structure after working hours, prompting the investigation., Louisville,
   KY
 : null
+11000 Oliverda Dr, Louisville, KY:
+  lat: 38.0975935
+  lng: -85.8806153
 11000 Pheasant Hill Cir., Louisville, KY:
   lat: 38.0867241
   lng: -85.6461039
@@ -2887,8 +2890,15 @@
 30 Industry Rd, Louisville, KY:
   lat: 38.2139783
   lng: -85.7642889
+? 300 Adam in response to a medical situation. One unit was with a subject and appeared
+  to be investigating the location of a prior incident. Additional assistance was
+  requested to help manage the situation., Louisville, KY
+: null
 300 Adam were dispatched to investigate the situation and secure the premises., Louisville, KY: null
 300 Adam were dispatched to investigate the suspicious vehicle., Louisville, KY: null
+300 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 300 Adam. Responding officers found no signs of forced entry or any individuals present at the location., Louisville, KY: null
 300 Artisan Way, Louisville, KY:
   lat: 38.154511
@@ -3806,6 +3816,13 @@
 400 Charlie and 400 block of David, Louisville, KY: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
+400 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
+? 400 Charlie. The reporting party stated they had been shoved by another individual.
+  Officers responded to assess the situation., Louisville, KY
+: lat: 38.1686412
+  lng: -85.5627268
 400 Charter, Louisville, KY: null
 400 Christian Village Cir, Louisville, KY: null
 400 Christopher Place., Louisville, KY:
@@ -4168,6 +4185,11 @@
 4200 Dover Rd, Louisville, KY:
   lat: 38.1901425
   lng: -85.832833
+4200 Glen Eagle Dr, Louisville, KY: null
+? 4200 Glen Eagle Dr. Further checks revealed the van was registered to a company
+  in Indianapolis, Indiana. The investigation involved multiple police units., Louisville,
+  KY
+: null
 ? 4200 Hale Ave. Specific details regarding the nature of the emergency or the patient's
   condition were not immediately available., Louisville, KY
 : null
@@ -4593,6 +4615,11 @@
   lng: -85.768479
 500 Charlie, Louisville, KY:
   lat: 38.1686412
+  lng: -85.5627268
+? 500 Charlie. Upon arrival, it was determined that the person in question was a postal
+  service worker. The situation was resolved, and officers cleared the scene., Louisville,
+  KY
+: lat: 38.1686412
   lng: -85.5627268
 500 Clay Hill Ln, Louisville, KY:
   lat: 38.2262119
