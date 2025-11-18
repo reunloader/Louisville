@@ -2264,6 +2264,9 @@
 2100 Rowan St, Louisville, KY:
   lat: 38.26102
   lng: -85.784589
+2100 Smith Rd, Louisville, KY:
+  lat: 38.095091
+  lng: -85.726537
 2100 Speed Ave, Louisville, KY:
   lat: 38.2290712
   lng: -85.6992452
@@ -4855,6 +4858,7 @@
   because the caller's ex-boyfriend was present at the location during the scheduled
   retrieval time. Police units were assigned to the incident., Louisville, KY
 : null
+5000 Triple Tilt Row, Louisville, KY: null
 5000 Wabash, Louisville, KY:
   lat: 38.175764
   lng: -85.7592524
@@ -5894,6 +5898,10 @@
 7300 Southside Dr, Louisville, KY:
   lat: 38.148666
   lng: -85.7722225
+7300 St. Andrew's Church Rd, Louisville, KY: null
+? 7300 St. Andrew's Church Rd. Upon arrival, the incident was determined to be a small
+  fire contained to a dumpster., Louisville, KY
+: null
 ? 7300 Supremist Drive following a report of a fall. A 101-year-old female had fallen
   and sustained an arm injury. Medical assistance was provided to the resident., Louisville,
   KY
@@ -5948,6 +5956,13 @@
 76 Abbey Rd, Louisville, KY:
   lat: 38.0714152
   lng: -85.8950484
+? 7600 Chelsea Gardens Cir following a report of a stolen vehicle. Officers successfully
+  located and recovered a black Dodge Challenger that had been reported stolen. The
+  scene was cleared without further incident., Louisville, KY
+: null
+7600 Chelsea Gardens Cir, Louisville, KY:
+  lat: 38.1590824
+  lng: -85.6193102
 ? 7600 Chelsea Gardens Cir. Two young girls, believed to be between the ages of 3-8,
   were reportedly not dressed appropriately for the weather. Police units were dispatched
   to ensure the children's safety., Louisville, KY
