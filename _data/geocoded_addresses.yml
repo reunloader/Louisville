@@ -1772,6 +1772,13 @@
 ? 1800 Bluegrass, near Crustle Mill Trace and Churchman. Upon investigation, the alarm
   was found to be false., Louisville, KY
 : null
+1800 Bonnycastle Ave, Louisville, KY:
+  lat: 38.2284934
+  lng: -85.7094927
+? 1800 Bonnycastle Ave. South St. Matthews Fire and EMS were responding to the scene.
+  The nature of the alarm was not immediately specified., Louisville, KY
+: lat: 38.2284934
+  lng: -85.7094927
 ? 1800 Bowling Blvd for a 79-year-old male experiencing shortness of breath and potential
   chest pain. The individual had reportedly taken nitroglycerin and has a history
   of heart issues. Responders were on the scene to provide assistance., Louisville,
@@ -2044,6 +2051,7 @@
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near exit 19A, Louisville, KY: null
 200 East near mile marker 8.5, Louisville, KY: null
+200 East off-ramp, Louisville, KY: null
 200 East onto I-71 South, Louisville, KY: null
 200 East onto I-71 South. This action was likely in response to another ongoing incident in the area., Louisville, KY: null
 ? 200 East to Newburg Rd following a report of a chemical mitigation incident. The
@@ -2062,6 +2070,10 @@
   the scene. The patient was transported, and responders had to travel into Indiana
   to make a U-turn to reach the location., Louisville, KY
 : null
+? 200 East. An ambulance was dispatched to the scene, along with St. Matthews Fire
+  and EMS. The incident was categorized as non-injury., Louisville, KY
+: lat: 38.1861148
+  lng: -85.7582215
 ? 200 East. The driver of a Chevy pickup truck was observed operating the vehicle
   erratically across multiple lanes before exiting at exit 17A., Louisville, KY
 : null
