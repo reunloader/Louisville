@@ -1669,6 +1669,10 @@
 1700 Old Bluegrass Ave, Louisville, KY:
   lat: 38.1797125
   lng: -85.7939212
+? 1700 Patent Court following a report of a suspicious person. The individual was
+  described as a 49-year-old black female, reportedly intoxicated and carrying a taser.,
+  Louisville, KY
+: null
 ? 1700 Patent Court for a medical emergency. A 30-year-old female reportedly had a
   finger stuck in a door, and there was concern for a possible fracture. The specific
   building number was not available at the location., Louisville, KY
@@ -5363,6 +5367,9 @@
   Louisville, KY
 : null
 5200 Citrus Circle, Louisville, KY: null
+5200 Craigs Creek Dr, Louisville, KY:
+  lat: 38.313667
+  lng: -85.552038
 5200 Cynthia Dr, Louisville, KY:
   lat: 38.170965
   lng: -85.574905
@@ -5790,6 +5797,11 @@
 62400 New Cub Road at Taco Bell, Louisville, KY: null
 6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
 6300 Commerce Park Ct, Louisville, KY: null
+6300 Fern Valley Way, Louisville, KY: null
+? 6300 Fern Valley Way, across from Fern Valley Cir, for a possible stroke. The patient,
+  a 15-year-old male, was reportedly not alert. Responders were en route to assess
+  the situation., Louisville, KY
+: null
 ? 6300 Greenwood Rd following a hold-up alarm. The incident was reported as a commercial
   panic alarm activation., Louisville, KY
 : null
@@ -7406,6 +7418,7 @@ Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
+Six Mile Road and South Hirshborn Road, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
@@ -7418,6 +7431,7 @@ Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
+Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
 Taylor Springs Dr and Central Ave, Louisville, KY: null
