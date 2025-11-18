@@ -541,6 +541,13 @@
 10500 Fairview Ave, Louisville, KY:
   lat: 38.2098788
   lng: -85.775154
+10500 Seatonville Rd, Louisville, KY:
+  lat: 38.145184
+  lng: -85.566692
+? 10500 Seatonville Rd. Responding units arrived to find that the individual responsible
+  for the alarm had already departed the scene., Louisville, KY
+: lat: 38.145184
+  lng: -85.566692
 10600 Grecian Rd, Louisville, KY:
   lat: 38.099744
   lng: -85.852204
@@ -3707,6 +3714,9 @@
   female who was found unconscious and not breathing. Emergency personnel arrived
   on scene and immediately began CPR., Louisville, KY
 : null
+3500 Outer Loop, Louisville, KY:
+  lat: 38.1361718
+  lng: -85.6985653
 3500 Peach Tree, Louisville, KY: null
 3500 Pinecroft Dr, Louisville, KY:
   lat: 38.1345391
@@ -6290,6 +6300,12 @@
   response. Officers made entry to ensure the individual was safe and sound., Louisville,
   KY
 : null
+7800 Routt Rd, Louisville, KY:
+  lat: 38.1257208
+  lng: -85.4690983
+7800 Routt Rd. No contact was made at the location, and units were requested to patrol the area., Louisville, KY:
+  lat: 38.1257208
+  lng: -85.4690983
 7800 Royalty Ave, Louisville, KY: null
 7800 Royalty Ave. Responding units were dispatched to the location to check on an individual., Louisville, KY: null
 7800 St. St Andrews Church Rd, Louisville, KY: null
@@ -7091,6 +7107,7 @@ Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
+Grade Ln and Don Hutson Blvd, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
