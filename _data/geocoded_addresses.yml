@@ -3527,6 +3527,10 @@
 3600 Taylor Blvd, Louisville, KY:
   lat: 38.1940133
   lng: -85.7834587
+? 3600 Taylor Blvd. Concerns were raised as the individual was not returning calls
+  and reportedly expressed suicidal thoughts., Louisville, KY
+: lat: 38.1940133
+  lng: -85.7834587
 3600 Village West, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -6537,6 +6541,7 @@ Farshtown Road and Eastern Parkway, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
+Gagel Ave and Manslick Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
