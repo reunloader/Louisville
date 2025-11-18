@@ -1045,6 +1045,11 @@
 1300 Lydia, Louisville, KY:
   lat: 38.2203172
   lng: -85.7332412
+? 1300 Plantside Dr. Responders were dispatched for a 22-year-old female experiencing
+  seizures and fluctuating consciousness. Security was expected to guide emergency
+  personnel to the patient upon arrival., Louisville, KY
+: lat: 38.2114937
+  lng: -85.5241319
 ? 1300 Ramers Avenue following a report of a domestic disturbance. The initial call
   indicated that a caller had been assaulted by her boyfriend. Further details from
   the caller suggested that another woman had also been subjected to violence. Medical
@@ -4395,6 +4400,9 @@
   lng: -85.5213483
 4300 Canoran Road, Louisville, KY: null
 4300 Catalpa Leaf Way, Louisville, KY: null
+4300 Charlotte Dr, near Raydale Dr and South Crump Lane., Louisville, KY:
+  lat: 38.194219
+  lng: -85.840404
 4300 Clarinet Dr, Louisville, KY:
   lat: 38.1934042
   lng: -85.8490719
@@ -4798,6 +4806,11 @@
   lat: 38.192895
   lng: -85.768479
 500 Camden Ave, with support from the 400 block of Baker., Louisville, KY: null
+? 500 Charles St. A subsequent report indicated a possible burglary alarm in the same
+  vicinity. All units were eventually cleared from the scene after the situation was
+  resolved., Louisville, KY
+: lat: 38.2296897
+  lng: -85.734991
 500 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -6876,6 +6889,7 @@ Cedar Creek Rd and Bardstown Rd, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
+Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
@@ -6946,10 +6960,12 @@ Old Henry Rd and Aiken Rd, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
+Plantside Dr and Ardenia Ln, Louisville, KY: null
 Poplar Level Rd and Heather Heath Ln, Louisville, KY: null
 Poplar Level Rd and Hess Ln, Louisville, KY: null
 Poplar Level Rd and Quail Hollow Rd, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
+Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
 Rd Street Rd and Euclid Ave, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
