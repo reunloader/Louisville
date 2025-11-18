@@ -3956,6 +3956,9 @@
 : null
 400 James Rae Pl, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
+400 Lindsay Ct, Louisville, KY:
+  lat: 38.260237
+  lng: -85.705844
 400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
 400 North S Hite Ave, Louisville, KY:
@@ -4244,6 +4247,9 @@
   condition were not immediately available., Louisville, KY
 : null
 4200 High Stoneway, Louisville, KY: null
+4200 Jean Ave, Louisville, KY:
+  lat: 38.1758497
+  lng: -85.8431384
 4200 Lambert Rd, Louisville, KY: null
 ? 4200 Lambert Rd, near Cross Meadows Cir. A specific unit was monitoring the situation
   and was subsequently canceled, suggesting the incident was resolved or no longer
@@ -6168,6 +6174,9 @@
 8200 Greenwood Rd, Louisville, KY:
   lat: 38.1474857
   lng: -85.900493
+8200 South 36th Street, Louisville, KY:
+  lat: 38.2305239
+  lng: -85.8144957
 8200 Spring Glade Pl, Louisville, KY:
   lat: 38.318654
   lng: -85.596426
