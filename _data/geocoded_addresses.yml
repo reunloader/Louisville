@@ -279,6 +279,10 @@
 1000 E Jefferson St, Louisville, KY:
   lat: 38.2511061
   lng: -85.7341176
+1000 E Main St, Louisville, KY: null
+1000 E Main St. The nature of the medical assist was not specified. This paragraph is NOT indented., Louisville, KY:
+  lat: 38.253895
+  lng: -85.7332168
 1000 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
@@ -288,6 +292,9 @@
 1000 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+1000 E W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2563581
+  lng: -85.8046069
 1000 East Broadway, Louisville, KY:
   lat: 38.2440573
   lng: -85.7351137
@@ -472,6 +479,10 @@
   potential conflict. The incident was handled by responding officers., Louisville,
   KY
 : null
+1000 W Market St, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
+1000 W Oak St, Louisville, KY: null
 1000 West Broadway, Louisville, KY:
   lat: 38.24673
   lng: -85.7687534
@@ -659,6 +670,9 @@
   and the emergency was canceled. The responding units were then able to return to
   service., Louisville, KY
 : null
+1100 S Preston St, Louisville, KY:
+  lat: 38.236101
+  lng: -85.749224
 1100 Silvercrest Ln, Louisville, KY: null
 ? 1100 Silvercrest Ln. Further details on the nature of the alarm or any subsequent
   actions were not immediately available., Louisville, KY
