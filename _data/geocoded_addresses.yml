@@ -1575,6 +1575,14 @@
   lng: -85.7037117
 1700 Brentmoor Ln, Louisville, KY: null
 1700 Cowling Ave. The system indicated that three rounds were discharged in this area., Louisville, KY: null
+1700 Gallagher St, Louisville, KY:
+  lat: 38.238873
+  lng: -85.783778
+? 1700 Gallagher St. A caller also reported that someone was shooting at their house
+  in the same area, though no suspect was described. Police units were dispatched
+  to investigate., Louisville, KY
+: lat: 38.238873
+  lng: -85.783778
 1700 Gardiner Ln, Louisville, KY:
   lat: 38.204756
   lng: -85.686595
@@ -5066,6 +5074,8 @@
   and assistance to the individual. The patient was transported for further medical
   attention., Louisville, KY
 : null
+5100 Steffen Drive, Louisville, KY: null
+5100 Steffen Drive. Police units were dispatched to investigate the theft., Louisville, KY: null
 5100 Terry Rd, Louisville, KY:
   lat: 38.172376
   lng: -85.866125
