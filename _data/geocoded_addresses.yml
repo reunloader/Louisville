@@ -1178,6 +1178,7 @@
   four individuals, with one possibly armed. Police and EMS were dispatched to the
   scene to manage the situation and provide medical assistance., Louisville, KY
 : null
+1300 South Second Street, before officers ceased pursuit., Louisville, KY: null
 1300 South Second [Morning], Louisville, KY: null
 1300 Southgate Ave, Louisville, KY:
   lat: 38.2003885
@@ -1509,6 +1510,12 @@
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
+1500 Rangeland Rd, Louisville, KY:
+  lat: 38.167218
+  lng: -85.681561
+1500 Rangeland Rd, near Thomas Jefferson Middle School. Responding units investigated the activation., Louisville, KY:
+  lat: 38.167218
+  lng: -85.681561
 1500 South 11th Street, Louisville, KY:
   lat: 38.227182
   lng: -85.774088
@@ -2292,6 +2299,7 @@
   lng: -85.757169
 200 West Penny Avenue, Louisville, KY: null
 200 West Ragniglia, Louisville, KY: null
+200 West Stolemsby, North Alley, Louisville, KY: null
 ? 200 West Street. The vehicle in question was observed to be a black car lacking
   any license plates. Officers initiated the stop to address the equipment violation.
   The outcome of this interaction is currently being reviewed., Louisville, KY
@@ -6434,6 +6442,12 @@
 700 West Broadway, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
+? 700 Winkler Ave following a report of domestic trouble. The individual involved
+  was described as a black male wearing all black clothing., Louisville, KY
+: null
+700 Winkler Ave, Louisville, KY:
+  lat: 38.210803
+  lng: -85.769792
 7000 Bear Creek Dr, Louisville, KY: null
 7000 Foxcroft Pl, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
@@ -7583,6 +7597,7 @@ Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
 Rd Street Rd and Euclid Ave, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
+Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Rolling St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
