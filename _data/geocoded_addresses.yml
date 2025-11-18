@@ -2106,6 +2106,7 @@
 2000 Goldsmith Ln, Louisville, KY:
   lat: 38.2042665
   lng: -85.6765066
+2000 Greenhaven Dr, Louisville, KY: null
 ? 2000 High Flame following a report of a stabbing. A 56-year-old male sustained a
   serious injury to his hand, with part of a finger reportedly severed. Officers were
   requested to investigate the circumstances of the incident., Louisville, KY
@@ -2142,6 +2143,9 @@
 2000 Sanic Lake Strubb, Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
+2000 Terril Ln, Louisville, KY:
+  lat: 38.204566
+  lng: -85.677962
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
 2000 W Market St, Louisville, KY:
   lat: 38.2579596
@@ -3338,6 +3342,9 @@
   ensure the area was safe. The cause of the fire is currently under investigation.,
   Louisville, KY
 : null
+3200 Greendale Dr, Louisville, KY:
+  lat: 38.181352
+  lng: -85.849077
 3200 Hoover Barton Rd, Louisville, KY: null
 3200 Kevin's Drive, Louisville, KY: null
 3200 Kimmins Drive, Louisville, KY: null
@@ -3504,6 +3511,7 @@
   lat: 38.2166005
   lng: -85.6539282
 3500 Herb Ln. Medical evaluation and care were provided to the individual., Louisville, KY: null
+3500 Lodge Line, Louisville, KY: null
 ? 3500 Moir Circle this morning. They responded to a call concerning a 71-year-old
   female who was found unconscious and not breathing. Emergency personnel arrived
   on scene and immediately began CPR., Louisville, KY
@@ -6128,6 +6136,9 @@
 8000 Glimmer Way, Louisville, KY:
   lat: 38.1326257
   lng: -85.7787905
+8000 Heights Dr, Louisville, KY:
+  lat: 38.1303796
+  lng: -85.5939161
 8000 North Bardstown Rd, Louisville, KY: null
 ? 8000 Preston Highway. Paramedics arrived on scene to provide care for an individual
   experiencing a medical emergency. The patient was assessed and treated by the medical
