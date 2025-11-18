@@ -3778,6 +3778,10 @@
   from a previous call on Forest Way Dr, indicating a need for police presence in
   this area., Louisville, KY
 : null
+? 3600 Oakdale Ave. A 20-year-old rider was reported to have been thrown from a horse
+  and may have sustained head injuries., Louisville, KY
+: lat: 38.2029202
+  lng: -85.7651796
 3600 Parchetown Road, Louisville, KY: null
 ? 3600 Parthenia Ave to address a call related to an Emergency Protective Order. The
   nature of the incident and the outcome of the police response were not specified.
@@ -3813,6 +3817,12 @@
 3600 W Manslick Rd, Louisville, KY:
   lat: 38.1083742
   lng: -85.762655
+? 3600 West Broadway. At the same time, EMS was responding to a separate medical call
+  for a 51-year-old female experiencing breathing difficulties due to COPD in the
+  800 block of West Bahama Valley Boulevard. The medical call was later canceled.,
+  Louisville, KY
+: lat: 38.2496687
+  lng: -85.8109978
 3600 West Homeland, Louisville, KY: null
 ? 3600 Wheeler Avenue. The patient was reported to be suffering from abdominal pain.
   Responders attended to the individual's medical needs., Louisville, KY
@@ -4284,6 +4294,7 @@
   lat: 38.226391
   lng: -85.634019
 4000 Lisa Ln, Louisville, KY: null
+4000 Longview Rd. Responders were on scene and cleared by 7:21 a.m., Louisville, KY: null
 4000 Mapleton Ave, Louisville, KY:
   lat: 38.186389
   lng: -85.779155
@@ -5688,6 +5699,11 @@
 6700 Elmcroft Cir., Louisville, KY:
   lat: 38.3158928
   lng: -85.6236773
+? 6700 Enterprise Dr. Smoke was reported above a large warehouse, but upon arrival,
+  responders found no visible signs of fire. The incident was resolved, and units
+  were back in service by 7:36 a.m., Louisville, KY
+: lat: 38.1563129
+  lng: -85.7513915
 6700 Green Manor Dr, Louisville, KY:
   lat: 38.1470389
   lng: -85.6361939
