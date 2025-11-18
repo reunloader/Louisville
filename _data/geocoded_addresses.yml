@@ -36,6 +36,11 @@
   lng: -85.7605676
 100 E W Kingston Ave, Louisville, KY: null
 100 E W W Kingston Ave, Louisville, KY: null
+? 100 East 10th Avenue. The individual is reportedly suffering from a spinal infection
+  and has expressed a desire for drugs, possibly indicating intravenous use, before
+  agreeing to go to the hospital. The location was described as condemned with plexiglass
+  on the door, which may have required removal for access., Louisville, KY
+: null
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
@@ -1162,6 +1167,9 @@
 1300 Trinity Park Dr, Louisville, KY:
   lat: 38.1889622
   lng: -85.7174663
+? 1300 Winter Ave. Officers checked on the vehicle, and it was cleared as non-suspicious
+  approximately ten minutes before the report was logged., Louisville, KY
+: null
 13000 Ash1, Louisville, KY: null
 13000 Hinchbrook Blvd, Louisville, KY:
   lat: 38.0632925
@@ -1567,6 +1575,9 @@
   lng: -85.7748253
 1600 Moore Hill Pl, Louisville, KY: null
 1600 Moore Hill Pl., Louisville, KY: null
+? 1600 North Ln. The mail carrier had not observed any mail being collected, and the
+  vehicles at the residence had not moved, prompting the concern., Louisville, KY
+: null
 1600 Patent Court, Louisville, KY: null
 ? 1600 Patent Court, specifically in Building 39, Apartment H. Responders were alerted
   to a 54-year-old male who was potentially experiencing a stroke. Engine 16 was dispatched
@@ -1986,6 +1997,7 @@
   manage the spill. Their efforts focused on containing the oil and cleaning the affected
   area to prevent further hazards., Louisville, KY
 : null
+200 Berkman Edge Lane. The outcome of this alert was not specified in the reports., Louisville, KY: null
 200 Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
@@ -4252,6 +4264,10 @@
   lat: 38.2066421
   lng: -85.6738206
 400 David. The relative in question was not found to be on the premises., Louisville, KY: null
+? 400 Davis Street and the 400 block of Adams St. The disagreement centered on tenants
+  reportedly running an electrical cord between units. The situation was resolved
+  with police presence., Louisville, KY
+: null
 ? 400 E Main St at Slugger Field following reports of individuals refusing to leave
   the premises. The individuals were described as a black male wearing a blue hoodie
   and blue jeans., Louisville, KY
@@ -4312,6 +4328,10 @@
 400 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+? 400 Gunn Ct for a welfare check. The call was initiated due to concerns for a scientist
+  experiencing memory loss who might require medical evaluation. The patient is described
+  as a white female., Louisville, KY
+: null
 400 I 64 East, Louisville, KY: null
 400 I 64 East., Louisville, KY: null
 400 I 64 West, Louisville, KY: null
@@ -7329,6 +7349,7 @@ Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
+Davis Street and Adams St, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
