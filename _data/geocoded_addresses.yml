@@ -553,6 +553,9 @@
   lng: -85.852204
 10700 Bell Tucker Ln, Louisville, KY: null
 10700 Eagle Ridge Pl, near Century Division Way, due to a residential alarm activation., Louisville, KY: null
+10700 Harrison Ln, Louisville, KY:
+  lat: 38.094388
+  lng: -85.7379631
 10700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -727,6 +730,7 @@
 11100 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+11100 Vista Greens Dr, Louisville, KY: null
 11300 Blue Lick Rd, Louisville, KY:
   lat: 38.0869317
   lng: -85.6997833
@@ -2068,6 +2072,9 @@
 200 North 18th Street, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North 26th Street, Louisville, KY:
+  lat: 38.262213
+  lng: -85.793497
 ? 200 North 35th Street for a fire involving burning plastic. Engine 22 confirmed
   they were on the scene and had the situation under control., Louisville, KY
 : null
@@ -4709,6 +4716,7 @@
 4500 Poplar Level Rd, Louisville, KY:
   lat: 38.1878872
   lng: -85.7034767
+4500 Quintus Court, Louisville, KY: null
 4500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
