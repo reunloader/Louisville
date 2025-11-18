@@ -3902,6 +3902,9 @@
   lng: -85.7924737
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
+3600 Stanton Blvd. Officers were assigned to check the area., Louisville, KY:
+  lat: 38.210443
+  lng: -85.643923
 3600 Taylor Blvd, Louisville, KY:
   lat: 38.1940133
   lng: -85.7834587
@@ -4077,6 +4080,10 @@
 3900 Barks, Louisville, KY: null
 3900 Bishop Ln, Louisville, KY:
   lat: 38.1871224
+  lng: -85.6950539
+? 3900 Bishop Ln. Units from the 6th Division were assigned to process the recovered
+  vehicle and file the report., Louisville, KY
+: lat: 38.1871224
   lng: -85.6950539
 ? 3900 Craig Ave who had allegedly disrespected a caller. The individuals, described
   as four females dressed in black, had left the area approximately 30 minutes prior,
