@@ -1085,6 +1085,9 @@
 1300 Sale Ave, Louisville, KY:
   lat: 38.197432
   lng: -85.78302
+1300 South 11th Street, Louisville, KY:
+  lat: 38.2331073
+  lng: -85.7731685
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -2078,6 +2081,9 @@
   lat: 38.1374
   lng: -85.8723473
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
+200 Rockford Ln, Louisville, KY:
+  lat: 38.1833115
+  lng: -85.8539547
 ? 200 Roland St. Police units were dispatched to investigate the area for any evidence
   of a shooting or related incidents., Louisville, KY
 : lat: 38.236924
@@ -6194,6 +6200,9 @@
   and sustained an arm injury. Medical assistance was provided to the resident., Louisville,
   KY
 : null
+7300 Ticonderoga Dr, Louisville, KY:
+  lat: 38.1514364
+  lng: -85.7902881
 7400 Bayhurst Route, Louisville, KY: null
 7400 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
