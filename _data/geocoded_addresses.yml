@@ -3852,6 +3852,9 @@
   the front door and a window., Louisville, KY
 : null
 3600 Fern Valley Road, [Date] 8:00 a.m.AM, Louisville, KY: null
+3600 Gateview Cir, Louisville, KY:
+  lat: 38.118823
+  lng: -85.828332
 3600 Glenview Ave, Louisville, KY:
   lat: 38.2984672
   lng: -85.6443492
@@ -4101,6 +4104,7 @@
   units were dispatched to investigate the situation., Louisville, KY
 : null
 3900 St. Edward's Drive, Louisville, KY: null
+3900 Stonyrun Dr, Louisville, KY: null
 3900 Summit Plaza Dr, Louisville, KY:
   lat: 38.307126
   lng: -85.5761462
@@ -4805,6 +4809,9 @@
 4500 Waco Ct. The patient was experiencing symptoms of lightheadedness and abdominal pain., Louisville, KY: null
 4500 West Fort Worth Lane, Louisville, KY: null
 4512 Tray Place, Louisville, KY: null
+46 Stonyrun Dr, Louisville, KY:
+  lat: 38.1955282
+  lng: -85.6150739
 4600 Beech Tree Ct, Louisville, KY:
   lat: 38.2133319
   lng: -85.6176999
@@ -6234,6 +6241,7 @@
   lat: 38.0856484
   lng: -85.6676088
 7100 North Bardstown Rd, Louisville, KY: null
+7100 Ode Floydsburg Road, Louisville, KY: null
 7100 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
