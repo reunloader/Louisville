@@ -1566,6 +1566,10 @@
   building number was not available at the location., Louisville, KY
 : null
 1700 Patent Court, Louisville, KY: null
+? 1700 Patton Ct Apartments following a report of a domestic dispute. The argument
+  involved a child's father, his girlfriend, and his mother., Louisville, KY
+: null
+1700 Patton Ct Apartments, Louisville, KY: null
 1700 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
@@ -2295,6 +2299,10 @@
 2100 Speed Ave, Louisville, KY:
   lat: 38.2290712
   lng: -85.6992452
+2100 St. Louise Ave, Louisville, KY:
+  lat: 38.2518042
+  lng: -85.786227
+2100 St. Louise Ave. Child services were notified., Louisville, KY: null
 2100 St. St Xavier St, Louisville, KY: null
 ? 2100 Wallie Ann Ct to assist a 26-year-old male. The individual was experiencing
   symptoms including lightheadedness, shortness of breath, and abdominal pain. Medical
@@ -2525,6 +2533,12 @@
   Louisville, KY
 : null
 2400 Constant Comet Place 9:00 a.m.AM, Louisville, KY: null
+2400 Elliott Ave, Louisville, KY:
+  lat: 38.250247
+  lng: -85.791556
+2400 Elliott Ave. Two individuals were reported as detainees., Louisville, KY:
+  lat: 38.250247
+  lng: -85.791556
 2400 Glen Eagle Dr near Line Killam Lane, Louisville, KY: null
 2400 Glen Eagle Dr, Louisville, KY: null
 2400 Glen Eagle Dr., Louisville, KY: null
@@ -5395,6 +5409,8 @@
   KY
 : null
 62400 New Cub Road at Taco Bell, Louisville, KY: null
+6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
+6300 Commerce Park Ct, Louisville, KY: null
 ? 6300 Greenwood Rd following a hold-up alarm. The incident was reported as a commercial
   panic alarm activation., Louisville, KY
 : null
@@ -6030,6 +6046,12 @@
   medical personnel were on scene to provide care., Louisville, KY
 : null
 7600 Glacier Lane, Louisville, KY: null
+7600 Port Rd, Louisville, KY:
+  lat: 38.1631998
+  lng: -85.8943245
+7600 Port Rd. The alarm indicated a potential fire and a low air volume issue., Louisville, KY:
+  lat: 38.1631998
+  lng: -85.8943245
 7600 South Hancock, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
