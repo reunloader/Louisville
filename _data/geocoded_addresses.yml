@@ -4924,6 +4924,9 @@
 500 Lester Ave, Louisville, KY:
   lat: 38.1979096
   lng: -85.7865422
+500 Meeting St, Louisville, KY:
+  lat: 38.3251652
+  lng: -85.5667177
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
@@ -5305,6 +5308,7 @@
 600 Auburn Place Court, Louisville, KY:
   lat: 38.1421654
   lng: -85.778253
+600 B Street, Louisville, KY: null
 600 Baker following a report of a suspicious person. One female was detained by officers at the scene., Louisville, KY: null
 600 Baker, Louisville, KY:
   lat: 38.1412684
@@ -7119,6 +7123,7 @@ Tosler Road and Stonenberg Drive, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
+Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Wolfpin Branch Road and Springdale Road, Louisville, KY: null
