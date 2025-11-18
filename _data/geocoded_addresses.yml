@@ -687,6 +687,10 @@
 1100 South 4th Street. The alarm was actively sounding when units arrived on scene., Louisville, KY: null
 1100 South First Street, Louisville, KY: null
 1100 South Forest Street, Louisville, KY: null
+1100 South Fourth Street, Louisville, KY: null
+1100 South Second Street, Louisville, KY:
+  lat: 38.2627168
+  lng: -85.7518467
 1100 South, Louisville, KY: null
 1100 South4th Street, Louisville, KY: null
 1100 Southwestern Pky, Louisville, KY:
@@ -2067,6 +2071,9 @@
 ? 200 North 35th Street for a fire involving burning plastic. Engine 22 confirmed
   they were on the scene and had the situation under control., Louisville, KY
 : null
+200 North 35th Street, Louisville, KY:
+  lat: 38.2637287
+  lng: -85.8083072
 200 North 37th Street, Louisville, KY:
   lat: 38.2653079
   lng: -85.8105746
@@ -2133,6 +2140,7 @@
   lat: 38.2546697
   lng: -85.7537855
 200 West Market. Police units were sent to investigate the circumstances., Louisville, KY: null
+200 West Mohammed I'll read Boulevard, Louisville, KY: null
 200 West Oak, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
@@ -6061,6 +6069,9 @@
   Louisville, KY
 : null
 700 St. St Michael Church Dr, Louisville, KY: null
+700 Stanton Blvd, Louisville, KY:
+  lat: 38.2154873
+  lng: -85.6409203
 700 Top Reston Street, Louisville, KY: null
 ? 700 West Broadway to attend to a 37-year-old male experiencing severe abdominal
   pain. Medical personnel evaluated the patient and provided care., Louisville, KY
@@ -7129,6 +7140,7 @@ Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
+Jean Ave and Van Hoose Rd, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
