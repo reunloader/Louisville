@@ -284,6 +284,11 @@
 1000 East Broadway, Louisville, KY:
   lat: 38.2440573
   lng: -85.7351137
+? 1000 East Broadway. Upon reaching the scene, responders observed no signs of smoke
+  or fire. After a thorough investigation, it was determined to be a false alarm,
+  and no one answered the door., Louisville, KY
+: lat: 38.2440573
+  lng: -85.7351137
 1000 East Kentucky Drive, Louisville, KY: null
 ? 1000 East Kentucky Drive. After an investigation by responding units, it was determined
   that no break-in had occurred., Louisville, KY
