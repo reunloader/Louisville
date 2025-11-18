@@ -1563,6 +1563,13 @@
 16800 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+1700 Algonquin, Louisville, KY:
+  lat: 38.222776
+  lng: -85.788141
+? 1700 Algonquin, with reports indicating a break in the front glass. However, the
+  key holder was confirmed to be on the premises, and the alarm company was instructed
+  to cancel the dispatch of emergency services., Louisville, KY
+: null
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
@@ -6462,6 +6469,11 @@
 8600 Locklee Rd, Louisville, KY:
   lat: 38.1462326
   lng: -85.8248355
+8600 Standing Oaks, Louisville, KY: null
+? 8600 Standing Oaks. The vehicle's Vehicle Identification Number (VIN) could not
+  be verified, prompting concern and investigation by responding units., Louisville,
+  KY
+: null
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
