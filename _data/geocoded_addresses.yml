@@ -5839,6 +5839,9 @@
 6700 I 65 South, Louisville, KY: null
 6700 I-65 South, Louisville, KY: null
 6700 I-65 South. Further information about this call was not provided in the scanner traffic., Louisville, KY: null
+6700 Musket Dr, Louisville, KY:
+  lat: 38.1215876
+  lng: -85.6387087
 6700 Overlook Acres DRIVE at Sunrise at Woolville, Louisville, KY: null
 6700 Strawberry Ln, Louisville, KY:
   lat: 38.1596246
@@ -6114,6 +6117,9 @@
 700 South 45th Street, Louisville, KY:
   lat: 38.250442
   lng: -85.827117
+700 South 5th Street, Louisville, KY:
+  lat: 38.24609
+  lng: -85.760171
 700 South Brook Street 1:30 p.m., Louisville, KY: null
 700 South Brook Street 7:00 a.m., Louisville, KY: null
 700 South Brook Street 8:00 a.m.AM, Louisville, KY: null
