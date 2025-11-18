@@ -1495,6 +1495,9 @@
 1661 Garland Avenue, Louisville, KY:
   lat: 38.2433686
   lng: -85.7810275
+16800 Arbor Creek Dr, Louisville, KY:
+  lat: 38.1228132
+  lng: -85.6168763
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
@@ -4911,6 +4914,13 @@
 5300 Devers Ave, Louisville, KY:
   lat: 38.171182
   lng: -85.77444
+5300 Dixie Hwy, Louisville, KY:
+  lat: 38.1604699
+  lng: -85.832593
+? 5300 Dixie Hwy. Further details regarding the nature or severity of the accident
+  were not immediately available., Louisville, KY
+: lat: 38.1604699
+  lng: -85.832593
 5300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
