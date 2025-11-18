@@ -2010,6 +2010,9 @@
   The circumstances leading to the accident are being investigated by authorities.,
   Louisville, KY
 : null
+200 West. One of the vehicles was partially blocking traffic. Police units responded to the scene., Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West. One unit was dispatched to assess and address the situation., Louisville, KY: null
 200 William, Louisville, KY:
   lat: 38.1201135
@@ -4284,6 +4287,12 @@
   lat: 38.2308789
   lng: -85.6205219
 4400 South2nd Street, Louisville, KY: null
+4400 Southbridge Ct, Louisville, KY:
+  lat: 38.1154744
+  lng: -85.8440418
+4400 Southbridge Ct. Additional information on the outcome or responding units was not provided., Louisville, KY:
+  lat: 38.1154744
+  lng: -85.8440418
 4400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -6203,6 +6212,7 @@
 900 Great Hunter Ct, Louisville, KY:
   lat: 38.1072977
   lng: -85.6606492
+900 Hang-up**, Louisville, KY: null
 900 I 65 South, Louisville, KY: null
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
 ? 900 N S English Station Rd due to a report of a chemical odor. The smell was described
@@ -6474,6 +6484,10 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+9900 Bucharest, Louisville, KY: null
+? 9900 Bucharest. Further details regarding the specifics of the incident or the response
+  were not immediately available., Louisville, KY
+: null
 9900 Cedar Center Way, Louisville, KY:
   lat: 38.1450686
   lng: -85.5879341
