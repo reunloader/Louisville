@@ -5087,6 +5087,9 @@
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
   lng: -85.7594126
+4700 Bardstown Rd, Louisville, KY:
+  lat: 38.1787602
+  lng: -85.623961
 4700 Crescent Highway, Louisville, KY: null
 4700 East Indian Trail, Louisville, KY:
   lat: 38.1794745
@@ -5160,6 +5163,7 @@
   Fire and other departments responded to the scene to provide advanced life support.,
   Louisville, KY
 : null
+4800 Dixie Hwy and 8800 block of Big Tree Way, Louisville, KY: null
 4800 Fern Valley Rd. Police units were responding to investigate the activation., Louisville, KY: null
 4800 Oak Pointe Dr, Louisville, KY:
   lat: 38.3127927
@@ -5170,6 +5174,9 @@
 ? 4800 Old Dixie Hwy. Responding units were dispatched to the scene to address the
   situation and restore peace., Louisville, KY
 : null
+4800 Paramount Dr, Louisville, KY:
+  lat: 38.134542
+  lng: -85.845222
 4800 Paramount Park Dr, Louisville, KY:
   lat: 38.1552702
   lng: -85.7125852
