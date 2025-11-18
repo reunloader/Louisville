@@ -863,6 +863,9 @@
 1200 W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+1200 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2524203
+  lng: -85.7709853
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -5288,6 +5291,12 @@
   $35,000. Responding units began assessing the scene and gathering initial information.
   Investigations into the missing property are now underway., Louisville, KY
 : null
+6700 Elmcroft Cir, Louisville, KY:
+  lat: 38.3158928
+  lng: -85.6236773
+6700 Elmcroft Cir., Louisville, KY:
+  lat: 38.3158928
+  lng: -85.6236773
 6700 I 65 South, Louisville, KY: null
 6700 I-65 South, Louisville, KY: null
 6700 I-65 South. Further information about this call was not provided in the scanner traffic., Louisville, KY: null
