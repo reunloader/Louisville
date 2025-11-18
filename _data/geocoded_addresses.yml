@@ -4600,6 +4600,12 @@
 4400 Southbridge Ct. Additional information on the outcome or responding units was not provided., Louisville, KY:
   lat: 38.1154744
   lng: -85.8440418
+4400 Starks Dr, Louisville, KY:
+  lat: 38.1870877
+  lng: -85.6712805
+4400 Starks Dr. Police units were dispatched to investigate the reported alarm., Louisville, KY:
+  lat: 38.1870877
+  lng: -85.6712805
 4400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -4779,6 +4785,9 @@
   were limited at the time of the report. Emergency services were dispatched to the
   scene to assess the situation., Louisville, KY
 : null
+4700 Preston Hwy, Louisville, KY:
+  lat: 38.179942
+  lng: -85.718437
 4700 South 3rd Street, Louisville, KY:
   lat: 38.1810652
   lng: -85.766787
