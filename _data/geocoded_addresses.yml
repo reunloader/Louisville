@@ -748,6 +748,9 @@
   lat: 38.1228132
   lng: -85.6168763
 1200 Atomic Place., Louisville, KY: null
+1200 Bardstown Rd, Louisville, KY:
+  lat: 38.236869
+  lng: -85.7184884
 1200 Barr Ln, Louisville, KY:
   lat: 38.2392151
   lng: -85.6840872
@@ -2199,6 +2202,9 @@
 ? 2000 River Park following an accident that required chemical mitigation. Responders
   were on the scene and successfully cleared the area., Louisville, KY
 : null
+2000 S Shelby St, Louisville, KY:
+  lat: 38.219263
+  lng: -85.743946
 2000 Sanic Lake Strubb, Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
@@ -4160,6 +4166,9 @@
   KY
 : lat: 38.1728488
   lng: -85.7658685
+400 W Market St, Louisville, KY:
+  lat: 38.2549259
+  lng: -85.7571981
 400 W Oak St, Louisville, KY:
   lat: 38.234946
   lng: -85.760492
