@@ -3119,6 +3119,13 @@
   lng: -85.798435
 2800 West Broadway. A request was made for the license plate of a vehicle associated with the incident., Louisville, KY: null
 2800 West Chest Down, Louisville, KY: null
+2900 Alford Ave, Louisville, KY:
+  lat: 38.2653078
+  lng: -85.7987596
+? 2900 Alford Ave, near North 30th Street and North 29th Street. Firefighting units
+  were en route to address the situation., Louisville, KY
+: lat: 38.2653078
+  lng: -85.7987596
 2900 Alford Ave. However, the emergency medical services response was later cancelled., Louisville, KY: null
 2900 Bank St, Louisville, KY:
   lat: 38.2708858
@@ -3218,6 +3225,10 @@
 300 Baker, Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
+? 300 Baker, with additional units responding to the 300 block of or300 block of and
+  the 800 block of Baker. The nature of the subject's presence was unclear., Louisville,
+  KY
+: null
 300 Baker., Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
@@ -4400,6 +4411,9 @@
 400 W W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+400 West Chestnut, Louisville, KY:
+  lat: 38.248881
+  lng: -85.758042
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
   was then transported to a local hospital for further evaluation and treatment.,
@@ -4636,6 +4650,8 @@
 4200 Westport Ridge, Louisville, KY:
   lat: 38.3058348
   lng: -85.5213483
+4300 Barchetown Road, Louisville, KY: null
+4300 Barchetown Road. Police units were involved in responding to the situation., Louisville, KY: null
 4300 Canoran Road, Louisville, KY: null
 4300 Catalpa Leaf Way, Louisville, KY: null
 4300 Charlotte Dr, near Raydale Dr and South Crump Lane., Louisville, KY:
@@ -5504,6 +5520,9 @@
 600 B Street, Louisville, KY: null
 600 Baker following a report of a suspicious person. One female was detained by officers at the scene., Louisville, KY: null
 600 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
+600 Baker., Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
 600 Barrett Ln, Louisville, KY:
@@ -7115,6 +7134,11 @@
   lat: 38.1134765
   lng: -85.8144594
 9600 Leopold Wood Loop, Louisville, KY: null
+9600 Leopold Woods Loop, Louisville, KY: null
+? 9600 Leopold Woods Loop. An employee found the child and brought her into their
+  office, unsure of her residence. Police units responded to investigate., Louisville,
+  KY
+: null
 9600 [Street Name Missing], Louisville, KY:
   lat: 38.1449244
   lng: -85.5799095
@@ -7263,6 +7287,7 @@ Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
+Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
@@ -7305,6 +7330,7 @@ Mid Dale Ln and Kena Ln, Louisville, KY: null
 Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Mockingbird Valley Rd and Glen Hill Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
+Moser Rd and Helmsdale Ln, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
@@ -7349,6 +7375,7 @@ Shingo Ave and Lonsdale Ave, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
+South Fourth Street and South Fifth Street, Louisville, KY: null
 South Minden Lane and Shelbyville Road, Louisville, KY: null
 South Second Street and Ellington Ave, Louisville, KY: null
 Southbrook Street and East Liberty Street, Louisville, KY: null
