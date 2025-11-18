@@ -1773,6 +1773,9 @@
 1800 Millwood Ct, Louisville, KY:
   lat: 38.1674751
   lng: -85.5765149
+1800 Newburg Rd, Louisville, KY:
+  lat: 38.222825
+  lng: -85.7113475
 1800 Newburg Rd., Louisville, KY:
   lat: 38.222825
   lng: -85.7113475
@@ -2247,6 +2250,9 @@
 ? 2000 River Park following an accident that required chemical mitigation. Responders
   were on the scene and successfully cleared the area., Louisville, KY
 : null
+2000 S Preston St, Louisville, KY:
+  lat: 38.2195706
+  lng: -85.7480574
 2000 S Shelby St, Louisville, KY:
   lat: 38.219263
   lng: -85.743946
@@ -4277,6 +4283,9 @@
   lat: 38.243999
   lng: -85.487748
 400 and 400 block of Charlie were dispatched to the area., Louisville, KY: null
+4000 Bardstown Rd, Louisville, KY:
+  lat: 38.1927348
+  lng: -85.6491734
 4000 Bardstown Road 10:45 a.m.AM, Louisville, KY: null
 4000 Buechel Bank Rd, Louisville, KY:
   lat: 38.1775482
@@ -5211,6 +5220,7 @@
 5300 Torrington Ct, Louisville, KY:
   lat: 38.0929513
   lng: -85.8645476
+5300 Youthwood Avenue, Louisville, KY: null
 5301 Milner Rd, Louisville, KY:
   lat: 38.1621035
   lng: -85.8350295
