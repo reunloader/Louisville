@@ -1393,6 +1393,10 @@
   lat: 38.2316448
   lng: -85.7088797
 1500 Bellamy Pl, Louisville, KY: null
+? 1500 Bellamy Pl. Concerns were raised after she was reportedly followed home the
+  previous night and had not been heard from since. She is described as short and
+  pregnant with a distinctive haircut., Louisville, KY
+: null
 1500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
@@ -2101,6 +2105,10 @@
 ? 200 Nog Hill Lane. The incident involved a 17-year-old male who required medical
   attention. First responders were able to provide aid and assess the situation.,
   Louisville, KY
+: null
+? 200 Nola Dr following a report of a medical emergency. A 64-year-old female was
+  found to have fallen and was unresponsive. Medical personnel assessed the patient,
+  who may have been experiencing a serious medical event., Louisville, KY
 : null
 200 North 18th Street, Louisville, KY:
   lat: 38.2607234
@@ -4832,6 +4840,11 @@
   KY
 : null
 4500 Sheldes Drive, Louisville, KY: null
+? 4500 South 3rd Street due to concerns about a potential break-in. The caller discovered
+  both the front and back doors of a duplex standing open and feared someone might
+  still be inside. The property owner's boyfriend is believed to be the owner of the
+  residence., Louisville, KY
+: null
 4500 South 3rd Street near W Southern Heights Ave, Louisville, KY:
   lat: 38.1889361
   lng: -85.7656325
@@ -6147,6 +6160,11 @@
 700 S Preston St, Louisville, KY:
   lat: 38.244129
   lng: -85.747842
+? 700 S Preston St, near the Franciscan Kitchen, to assist an individual who was found
+  down. EMS and fire units were on the scene to provide medical attention to a female
+  patient., Louisville, KY
+: lat: 38.244129
+  lng: -85.747842
 700 S S Hancock St, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
@@ -7275,6 +7293,7 @@ Christian Merrick Road and Hempstead Rd, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
 Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
+Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
