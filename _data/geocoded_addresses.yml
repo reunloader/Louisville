@@ -1207,6 +1207,9 @@
   lat: 38.2210553
   lng: -85.7295099
 1400 Popperridge Road, Louisville, KY: null
+1400 River Crest Ct, Louisville, KY:
+  lat: 38.2697405
+  lng: -85.701988
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -1328,6 +1331,9 @@
 1500 Longfield Ave., Louisville, KY:
   lat: 38.1985284
   lng: -85.786642
+1500 Lou Gene Ave, Louisville, KY:
+  lat: 38.1777302
+  lng: -85.8088167
 1500 Lytle St between North 15th and 17th Streets, Louisville, KY: null
 1500 Lytle St, Louisville, KY:
   lat: 38.261211
@@ -6711,6 +6717,7 @@ Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
+Lexington Ave and Payne St, Louisville, KY: null
 Lexington Rd and Frankfort Ave, Louisville, KY: null
 Lexington Rd and Grand St, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
