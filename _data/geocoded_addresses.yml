@@ -616,6 +616,10 @@
 1100 South 43rd Street, Louisville, KY:
   lat: 38.2425962
   lng: -85.8254794
+? 1100 South 4th Street found the premises closed with no lights on. Police units
+  were involved in the investigation, including those assigned to the 400 block of
+  David., Louisville, KY
+: null
 ? 1100 South 4th Street in response to a commercial alarm activation. Officers investigated
   the premises to determine the cause of the alarm and ensure the security of the
   business., Louisville, KY
@@ -2915,6 +2919,9 @@
 300 Baker, Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
+300 Baker., Louisville, KY:
+  lat: 38.1417259
+  lng: -85.7685179
 300 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -3823,6 +3830,9 @@
   Officers responded to assess the situation., Louisville, KY
 : lat: 38.1686412
   lng: -85.5627268
+400 Charlie., Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 400 Charter, Louisville, KY: null
 400 Christian Village Cir, Louisville, KY: null
 400 Christopher Place., Louisville, KY:
@@ -4613,6 +4623,7 @@
 500 Camden Ave, Louisville, KY:
   lat: 38.192895
   lng: -85.768479
+500 Camden Ave, with support from the 400 block of Baker., Louisville, KY: null
 500 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -5317,6 +5328,10 @@
 ? 6600 St. St Matthews Ave for a medical situation involving a 70-year-old male. The
   family indicated the individual was beyond health., Louisville, KY
 : null
+? 6600 Sylvania Rd, apartment number 4. Police units were dispatched to search for
+  the individual, with assistance from the 300 block of Adam and the 300 block of
+  David., Louisville, KY
+: null
 ? 6700 Barn Rd to investigate a report of a potential skimming device. Officers took
   a report regarding the suspicious item found on an ATM., Louisville, KY
 : null
@@ -5911,6 +5926,7 @@
 800 Adam. Another unit was en route to help with this call., Louisville, KY: null
 800 Adam/800 block of Baker, Louisville, KY: null
 800 Baker and 800 block of Adams, Louisville, KY: null
+800 Baker and the 800 block of Adam., Louisville, KY: null
 ? 800 Baker, 800 block of Adam, and 3 David were engaged in managing the stop and
   the resulting traffic disruption., Louisville, KY
 : null
