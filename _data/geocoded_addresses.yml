@@ -318,6 +318,7 @@
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
+1000 Margetown Road, Louisville, KY: null
 1000 Mulberry St, Louisville, KY:
   lat: 38.2257994
   lng: -85.7382232
@@ -3603,6 +3604,7 @@
   lng: -85.6539282
 3500 Herb Ln. Medical evaluation and care were provided to the individual., Louisville, KY: null
 3500 Lodge Line, Louisville, KY: null
+3500 Lynch Avenue, Louisville, KY: null
 ? 3500 Moir Circle this morning. They responded to a call concerning a 71-year-old
   female who was found unconscious and not breathing. Emergency personnel arrived
   on scene and immediately began CPR., Louisville, KY
@@ -5196,6 +5198,7 @@
 5900 Worthington Ln, Louisville, KY:
   lat: 38.32875
   lng: -85.5591466
+6 East Wheaton Ward Drive, Louisville, KY: null
 60 Autumn Lake Dr, Louisville, KY:
   lat: 38.0716654
   lng: -85.8774197
@@ -6730,6 +6733,9 @@
 9600 Hudson Ln, Louisville, KY:
   lat: 38.1701356
   lng: -85.5768994
+9600 Hunting Ground Ct, Louisville, KY:
+  lat: 38.1183636
+  lng: -85.6075096
 9600 Lamborne Blvd, Louisville, KY:
   lat: 38.1134765
   lng: -85.8144594

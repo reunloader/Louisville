@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-11-18 07:33:57
+**Generated:** 2025-11-18 07:38:18
 
 ---
 
@@ -8,21 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 2,799 |
-| **Successfully Geocoded** | 1,021 |
-| **Failed to Geocode** | 1,778 |
-| **Success Rate** | 36.48% |
-| **Failure Rate** | 63.52% |
+| **Total Addresses** | 2,803 |
+| **Successfully Geocoded** | 1,022 |
+| **Failed to Geocode** | 1,781 |
+| **Success Rate** | 36.46% |
+| **Failure Rate** | 63.54% |
 
 ---
 
 ## Recent Changes
 
-- **5** new addresses processed
-- **5** successfully geocoded
-- **0** failed to geocode
-- **This batch success rate: 100.00%** 🎯
-- Overall rate changed by **+0.12%** 📈
+- **4** new addresses processed
+- **1** successfully geocoded
+- **3** failed to geocode
+- **This batch success rate: 25.00%** ⚠️
+- Overall rate changed by **-0.02%** 📉
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 876 | 49.3% |
-| Incomplete/vague address | 270 | 15.2% |
+| Contains location qualifiers (near/at) | 877 | 49.2% |
+| Incomplete/vague address | 272 | 15.3% |
 | Other/Unknown | 262 | 14.7% |
 | Intersection format | 198 | 11.1% |
-| Contains extra sentences/context | 170 | 9.6% |
+| Contains extra sentences/context | 170 | 9.5% |
 | Police phonetic codes | 2 | 0.1% |
 
 ---
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-11-18 | 3 | 1 | 33.3% ⚡ | 2,772 | 36.15% |
 | 2025-11-18 | 2 | 1 | 50.0% 🎯 | 2,774 | 36.16% |
 | 2025-11-18 | 3 | 2 | 66.7% 🎯 | 2,777 | 36.19% |
 | 2025-11-18 | 2 | 2 | 100.0% 🎯 | 2,779 | 36.24% |
@@ -53,6 +52,7 @@
 | 2025-11-18 | 1 | 1 | 100.0% 🎯 | 2,793 | 36.38% |
 | 2025-11-18 | 1 | 0 | 0.0% ⚠️ | 2,794 | 36.36% |
 | 2025-11-18 | 5 | 5 | 100.0% 🎯 | 2,799 | 36.48% |
+| 2025-11-18 | 4 | 1 | 25.0% ⚠️ | 2,803 | 36.46% |
 
 ---
 
