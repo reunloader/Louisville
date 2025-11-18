@@ -2309,6 +2309,9 @@
 20200 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+2100 Arnold Palmer Blvd, Louisville, KY:
+  lat: 38.2683483
+  lng: -85.4851725
 2100 Bowling Blvd, Louisville, KY: null
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
@@ -4734,6 +4737,7 @@
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
   lng: -85.7594126
+4700 Crescent Highway, Louisville, KY: null
 4700 East Indian Trail, Louisville, KY:
   lat: 38.1794745
   lng: -85.6735927
