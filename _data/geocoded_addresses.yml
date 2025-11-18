@@ -2716,6 +2716,13 @@
   units investigated the cause of the alarm. The situation was assessed by personnel
   on site., Louisville, KY
 : null
+? 2400 Mellwood Ave, Building 9. The call concerned a disorderly person, described
+  as a homeless, intoxicated female. She was reportedly on the first floor of the
+  building., Louisville, KY
+: null
+2400 Mellwood Ave, Louisville, KY:
+  lat: 38.2676236
+  lng: -85.7033014
 2400 Millers Meadow Dr, Louisville, KY: null
 2400 Nelson Miller Pky, Louisville, KY:
   lat: 38.2779807
@@ -3967,6 +3974,13 @@
 3700 Rouge Way, Louisville, KY:
   lat: 38.204316
   lng: -85.648926
+3700 Southern Pky, Louisville, KY:
+  lat: 38.1836068
+  lng: -85.7677003
+? 3700 Southern Pky. The caller indicated the suspect might be in the garage area.
+  Police units responded to investigate the incident., Louisville, KY
+: lat: 38.1836068
+  lng: -85.7677003
 3700 St. Louis Boulevard, Louisville, KY: null
 3700 Stratton Ave, Louisville, KY:
   lat: 38.2294728
@@ -5566,6 +5580,9 @@
   nature of the activity and the police response were not specified., Louisville,
   KY
 : null
+600 Rubel Ave, Louisville, KY:
+  lat: 38.2456192
+  lng: -85.7311427
 600 South 16th Street, Louisville, KY:
   lat: 38.251021
   lng: -85.777865
@@ -7140,6 +7157,9 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+9900 Appollo Ln, Louisville, KY:
+  lat: 38.111966
+  lng: -85.866851
 ? 9900 Brownsboro Rd, with indications that the front door was the point of entry.
   Responding police units investigated and determined it to be a false alarm., Louisville,
   KY
@@ -7334,6 +7354,7 @@ Texas Ave and Milton St, Louisville, KY: null
 Thickston Lane and Independence School Rd, Louisville, KY: null
 Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
+Tyler Ave and Thornberry Ave, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
