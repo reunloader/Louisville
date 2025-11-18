@@ -1824,6 +1824,9 @@
 : null
 1900 Bluegrass Avenue, Morning, Louisville, KY: null
 1900 Crimson Dr, Louisville, KY: null
+1900 Deerwood Ave, Louisville, KY:
+  lat: 38.2278705
+  lng: -85.7054914
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
@@ -3736,6 +3739,9 @@
   the front door and a window., Louisville, KY
 : null
 3600 Fern Valley Road, [Date] 8:00 a.m.AM, Louisville, KY: null
+3600 Glenview Ave, Louisville, KY:
+  lat: 38.2984672
+  lng: -85.6443492
 ? 3600 Green Meadows Straws to handle a report of domestic trouble. Officers were
   dispatched to the scene to manage the situation. No additional details about the
   outcome were provided., Louisville, KY
@@ -4690,6 +4696,7 @@
 4600 Greenwood Rd, Louisville, KY:
   lat: 38.1434841
   lng: -85.8415387
+4600 Jo Lynn Dr, Louisville, KY: null
 4600 S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
@@ -4714,6 +4721,9 @@
   ensure the safety of those involved., Louisville, KY
 : null
 4600 South 63rd Street, Louisville, KY: null
+4600 Taylorsville Rd, Louisville, KY:
+  lat: 38.1731815
+  lng: -85.4590633
 4600 W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -5441,6 +5451,7 @@
   lat: 38.119945
   lng: -85.842729
 600 Vernis Avenue, Louisville, KY: null
+600 W Main St and 66 W Main St, Morton, Louisville, KY: null
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
@@ -5641,6 +5652,9 @@
 6700 Elmcroft Cir., Louisville, KY:
   lat: 38.3158928
   lng: -85.6236773
+6700 Green Manor Dr, Louisville, KY:
+  lat: 38.1470389
+  lng: -85.6361939
 6700 I 65 South, Louisville, KY: null
 6700 I-65 South, Louisville, KY: null
 6700 I-65 South. Further information about this call was not provided in the scanner traffic., Louisville, KY: null
@@ -6808,6 +6822,7 @@
   lat: 38.2670204
   lng: -85.4388263
 9500 Crescent Highway, Louisville, KY: null
+9500 Fong Hand Drive, Louisville, KY: null
 9500 Hiss Road, Louisville, KY: null
 9500 Hunters Trail Ct, Louisville, KY:
   lat: 38.1173771
@@ -6882,6 +6897,7 @@
   to the child. Their primary concern was ensuring the child's well-being and reuniting
   them with their guardian., Louisville, KY
 : null
+9800 Balloons For A Lane, Louisville, KY: null
 9800 Blue Caray, Louisville, KY: null
 9800 Brownsboro Rd, Louisville, KY:
   lat: 38.3125224
