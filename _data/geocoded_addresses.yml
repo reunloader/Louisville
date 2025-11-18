@@ -34,6 +34,7 @@
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
+100 E W Kingston Ave, Louisville, KY: null
 100 E W W Kingston Ave, Louisville, KY: null
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
@@ -47,6 +48,7 @@
   near a pink door. Officers were dispatched to investigate the disturbance., Louisville,
   KY
 : null
+100 East W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
 100 East W W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
 100 Egypt Ln, Louisville, KY:
   lat: 38.1457881
@@ -62,6 +64,8 @@
   lat: 38.172667
   lng: -85.762656
 100 I 64 East, Louisville, KY: null
+100 I-65 South, Louisville, KY: null
+100 I-65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
 100 I64 East, Louisville, KY: null
 ? 100 I64 East, reporting that she had just been robbed or assaulted. Police units
   responded to investigate the situation., Louisville, KY
@@ -376,6 +380,9 @@
 1000 Rescue, Louisville, KY: null
 1000 Ringing Bell Ln, Louisville, KY: null
 1000 S Lamar Jackson Way, Louisville, KY: null
+1000 S Preston St, Louisville, KY:
+  lat: 38.237651
+  lng: -85.748955
 1000 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
@@ -531,6 +538,9 @@
 1100 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+1100 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 1100 E W W Market St, Louisville, KY: null
 ? 1100 Eastern Pky for a report of a combative patient. The individual, described
   as a female with a history of schizophrenia, was reportedly agitated and striking
@@ -787,6 +797,9 @@
   a past barbecue and no active fire suppression was needed. Fire services were cleared
   from the scene., Louisville, KY
 : null
+1200 S Preston St, Louisville, KY:
+  lat: 38.233888
+  lng: -85.7496363
 1200 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
@@ -847,6 +860,9 @@
 1200 W Jefferson St, Louisville, KY:
   lat: 38.255227
   lng: -85.770416
+1200 W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -1328,6 +1344,9 @@
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
 : null
+1500 W Ormsby Ave, Louisville, KY:
+  lat: 38.2342436
+  lng: -85.77928
 1500 W W Ormsby Ave, Louisville, KY: null
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
@@ -1513,6 +1532,12 @@
 1700 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
+1700 W Gaulbert Ave, Louisville, KY:
+  lat: 38.2269643
+  lng: -85.7849963
+1700 W Kentucky St, Louisville, KY:
+  lat: 38.241855
+  lng: -85.783285
 1700 W W W Gaulbert Ave, Louisville, KY: null
 1700 W W W Kentucky St, Louisville, KY: null
 1700 West Broadway, Louisville, KY:
@@ -1649,6 +1674,12 @@
   Louisville, KY
 : null
 1800 South3rd Street, Louisville, KY: null
+1800 W Hill St, Louisville, KY:
+  lat: 38.228248
+  lng: -85.790658
+1800 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2535809
+  lng: -85.7808488
 1800 W W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
@@ -2068,6 +2099,18 @@
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
+2000 W Market St, Louisville, KY:
+  lat: 38.2579596
+  lng: -85.783445
+? 2000 W Market St, with allegations of child abuse. Police units were dispatched
+  to investigate the circumstances., Louisville, KY
+: null
+2000 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.254076
+  lng: -85.784886
+2000 W Southern Heights Ave, Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
 2000 W W Market St, Louisville, KY: null
 ? 2000 W W Market St, with allegations of child abuse. Police units were dispatched
   to investigate the circumstances., Louisville, KY
@@ -2241,6 +2284,9 @@
   out and was experiencing chest pain., Louisville, KY
 : null
 2200 Regal Springs Dr and Grand Lake Straus, Louisville, KY: null
+2200 W Market St, Louisville, KY:
+  lat: 38.2581443
+  lng: -85.7870316
 2200 W W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -2254,6 +2300,10 @@
 2200 West Market Street, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
+? 2200 West W Market St, near the Blue Store, following a report of an individual
+  down on the side of the building, suspected of overdosing. The patient, a male,
+  was reportedly confused and unresponsive., Louisville, KY
+: null
 ? 2200 West W W Market St, near the Blue Store, following a report of an individual
   down on the side of the building, suspected of overdosing. The patient, a male,
   was reportedly confused and unresponsive., Louisville, KY
@@ -2415,6 +2465,7 @@
 2400 Tesserick Boulevard, Louisville, KY: null
 2400 Tesserick Boulevard. Officers were dispatched to investigate the source of the prolonged barking., Louisville, KY: null
 2400 Varshtown Road, Louisville, KY: null
+2400 W Market St, Louisville, KY: null
 2400 W W Market St, Louisville, KY: null
 2407 Cornwall St, Louisville, KY:
   lat: 38.2722009
@@ -2657,6 +2708,13 @@
   met online when the suspect brandished a weapon and stole their shoes. Police are
   investigating the incident., Louisville, KY
 : null
+2700 W Kentucky St, Louisville, KY:
+  lat: 38.2432335
+  lng: -85.7975556
+? 2700 W Kentucky St. Details indicated a subject with a "red code," and police units
+  were dispatched to the scene., Louisville, KY
+: lat: 38.2432335
+  lng: -85.7975556
 2700 W W Kentucky St, Louisville, KY: null
 ? 2700 W W Kentucky St. Details indicated a subject with a "red code," and police
   units were dispatched to the scene., Louisville, KY
@@ -2796,6 +2854,9 @@
   from its bed, and two individuals were inside. Police units took over the investigation
   at the scene., Louisville, KY
 : null
+2900 W Market St., Louisville, KY:
+  lat: 38.2600523
+  lng: -85.7996489
 2900 W W Market St., Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY: null
 2945 Breckenridge Lane, Louisville, KY:
@@ -2929,6 +2990,12 @@
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
   lng: -85.6245297
+300 W Cardinal Blvd, Louisville, KY:
+  lat: 38.220488
+  lng: -85.761346
+300 W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY:
+  lat: 38.220488
+  lng: -85.761346
 300 W W W Cardinal Blvd, Louisville, KY: null
 300 W W W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY: null
 300 West Broadway, Louisville, KY:
@@ -3060,6 +3127,7 @@
   Burton and Lillian., Louisville, KY
 : null
 3000 Taylor's Old Mill Rd, Louisville, KY: null
+3000 W Market St. The activation indicated that a single round was fired., Louisville, KY: null
 3000 W W Market St. The activation indicated that a single round was fired., Louisville, KY: null
 ? 3000 Wedgewood Way. Reports indicated a female individual was allegedly armed with
   a knife and a taser, and also possessed mace, while a 16-year-old was reportedly
@@ -3295,6 +3363,11 @@
   store for EMS arrival., Louisville, KY
 : null
 3400 N N Preston Hwy, Louisville, KY: null
+? 3400 N Preston Hwy to attend to a 41-year-old male. The patient presented with symptoms
+  including weakness, lightheadedness, slurred speech, and clammy skin, raising concerns
+  for a potential stroke. The caller indicated they were waiting inside the store
+  for EMS arrival., Louisville, KY
+: null
 3400 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
@@ -3380,6 +3453,12 @@
 3500 Taylor Blvd, Louisville, KY:
   lat: 38.1961144
   lng: -85.7833672
+3500 W Market St, Louisville, KY:
+  lat: 38.261023
+  lng: -85.80852
+3500 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.256762
+  lng: -85.808968
 3500 W W Market St, Louisville, KY: null
 3500 W W Muhammad Ali Blvd, Louisville, KY: null
 3500 Warner Ave. The call involved a female who had fallen inside a red Jeep in the driveway., Louisville, KY: null
@@ -3748,6 +3827,14 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+? 400 East W Kentucky St due to complaints of chest pain and a cough. Responders were
+  back in service shortly after 2:17 p.m., Louisville, KY
+: null
+? 400 East W Muhammad Ali Blvd to investigate a fire department connection. Upon arrival
+  and initial assessment, there were no visible signs of fire from the exterior of
+  the structure., Louisville, KY
+: null
+400 East W Muhammad Ali Blvd, Louisville, KY: null
 ? 400 East W W Kentucky St due to complaints of chest pain and a cough. Responders
   were back in service shortly after 2:17 p.m., Louisville, KY
 : null
@@ -3783,6 +3870,9 @@
 400 Kohler Dr, Louisville, KY: null
 400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
+400 North S Hite Ave, Louisville, KY:
+  lat: 38.2517615
+  lng: -85.6932303
 400 North S S Hite Ave, Louisville, KY: null
 ? 400 Regency Quarter following reports of a vehicle striking a building. A white
   Honda Pilot was involved in the incident, impacting the building's patio area. Fire
@@ -3849,6 +3939,18 @@
   These incidents often require sensitive handling and community support., Louisville,
   KY
 : null
+400 W Kingston Ave, Louisville, KY:
+  lat: 38.1728488
+  lng: -85.7658685
+? 400 W Kingston Ave. The person was described as a black male with braids, wearing
+  a tan hoodie and black pants, and was reportedly carrying a handgun. Officers conducted
+  a search of the area and established a perimeter to ensure public safety., Louisville,
+  KY
+: lat: 38.1728488
+  lng: -85.7658685
+400 W Oak St, Louisville, KY:
+  lat: 38.234946
+  lng: -85.760492
 400 W W Kingston Ave, Louisville, KY: null
 ? 400 W W Kingston Ave. The person was described as a black male with braids, wearing
   a tan hoodie and black pants, and was reportedly carrying a handgun. Officers conducted
@@ -3923,6 +4025,9 @@
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
+4000 W Market St, Louisville, KY:
+  lat: 38.2623671
+  lng: -85.8155151
 4000 W W Market St, Louisville, KY: null
 4000 W W W Market St, Louisville, KY: null
 4000 Woodruff Ave to investigate a report of assault by harassment., Louisville, KY: null
@@ -4105,6 +4210,12 @@
   lat: 38.3010535
   lng: -85.556485
 4300 Towne Center Dr. Officers arrived on scene to investigate the reported incident., Louisville, KY: null
+4300 W Southern Heights Ave, Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
+4300 W Southern Heights Ave. Units were dispatched to the scene to facilitate the process., Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
 4300 W W Southern Heights Ave, Louisville, KY: null
 4300 W W Southern Heights Ave. Units were dispatched to the scene to facilitate the process., Louisville, KY: null
 432 East Jefferson Street, Louisville, KY:
@@ -4216,6 +4327,9 @@
   KY
 : null
 4500 Sheldes Drive, Louisville, KY: null
+4500 South 3rd Street near W Southern Heights Ave, Louisville, KY:
+  lat: 38.1889361
+  lng: -85.7656325
 4500 South 3rd Street near W W Southern Heights Ave, Louisville, KY: null
 4500 South 6th Street, Louisville, KY:
   lat: 38.1881447
@@ -4270,6 +4384,12 @@
 4600 Greenwood Rd, Louisville, KY:
   lat: 38.1434841
   lng: -85.8415387
+4600 S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
+4600 S Jackson St. Officers were sent to address the situation and ensure public safety., Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 4600 S S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
@@ -4288,6 +4408,9 @@
   ensure the safety of those involved., Louisville, KY
 : null
 4600 South 63rd Street, Louisville, KY: null
+4600 W Southern Heights Ave, Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
 4600 W W Southern Heights Ave, Louisville, KY: null
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
@@ -4331,6 +4454,13 @@
   site., Louisville, KY
 : null
 4700 Spindly Road, Louisville, KY: null
+4700 W Southern Heights Ave, Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
+? 4700 W Southern Heights Ave. Responding units were dispatched to the location to
+  assess and manage the situation., Louisville, KY
+: lat: 38.1898343
+  lng: -85.7883132
 4700 W W Southern Heights Ave, Louisville, KY: null
 ? 4700 W W Southern Heights Ave. Responding units were dispatched to the location
   to assess and manage the situation., Louisville, KY
@@ -4464,6 +4594,9 @@
   but the alarm company confirmed they were still receiving signals from the location.,
   Louisville, KY
 : null
+500 S Jackson St, Louisville, KY:
+  lat: 38.249645
+  lng: -85.744921
 500 S S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
@@ -4490,6 +4623,12 @@
 500 South 7th 3Rd Street Rd to conduct a welfare check, with concerns of a possible medical issue., Louisville, KY: null
 500 South 7th 3Rd Street Rd, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
+500 W Ashland Ave, Louisville, KY:
+  lat: 38.1852278
+  lng: -85.7691524
+500 W Ashland Ave., Louisville, KY:
+  lat: 38.1852278
+  lng: -85.7691524
 500 W W Ashland Ave, Louisville, KY:
   lat: 38.1861535
   lng: -85.7756446
@@ -4625,6 +4764,9 @@
 5100 Valley Dr, Louisville, KY:
   lat: 38.2070098
   lng: -85.7217495
+5100 W Southern Heights Ave, Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
 5100 W W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -5067,6 +5209,9 @@
   or the patient's condition were not immediately available., Louisville, KY
 : null
 6500 N N Preston Hwy, Louisville, KY: null
+6500 N Preston Hwy, Louisville, KY:
+  lat: 38.0856484
+  lng: -85.6676088
 6500 Oak Village Dr, Louisville, KY:
   lat: 38.1328577
   lng: -85.6396122
@@ -5317,6 +5462,7 @@
   suspicious circumstances or a need to check on someone's well-being., Louisville,
   KY
 : null
+700 North S Hite Ave, Louisville, KY: null
 700 North S S Hite Ave, Louisville, KY: null
 700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
@@ -5329,11 +5475,36 @@
   assault that reportedly took place shortly after. A red Buick was also noted in
   connection with the incident., Louisville, KY
 : null
-? 700 S S Brook St, near East Jacob and E W College St, for a fire that had been intentionally
+700 S Brook St, Louisville, KY:
+  lat: 38.244898
+  lng: -85.751927
+? 700 S Brook St, near East Jacob and E W College St, for a fire that had been intentionally
   set. Homeless individuals were present at the scene when the controlled burn was
   initiated. Firefighters worked to extinguish the blaze., Louisville, KY
-: lat: 38.2141519
-  lng: -85.7572545
+: lat: 38.244898
+  lng: -85.751927
+? 700 S Brook St. It was determined that individuals experiencing homelessness had
+  started a fire and were gathered around it. The situation was managed by responding
+  personnel., Louisville, KY
+: lat: 38.244898
+  lng: -85.751927
+? 700 S Brook St. The incident involved a large garbage fire in a dumpster, with several
+  individuals present at the scene. Firefighters worked to manage the situation.,
+  Louisville, KY
+: lat: 38.244898
+  lng: -85.751927
+700 S Hancock St, Louisville, KY:
+  lat: 38.243717
+  lng: -85.743892
+700 S Hancock St. A resident requested to speak with officers regarding the situation., Louisville, KY:
+  lat: 38.243717
+  lng: -85.743892
+700 S Jackson St, Louisville, KY:
+  lat: 38.243285
+  lng: -85.74602
+700 S Preston St, Louisville, KY:
+  lat: 38.244129
+  lng: -85.747842
 700 S S Hancock St, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
@@ -5466,6 +5637,10 @@
   Responding units staged in the parking lot while Metro PD secured the scene., Louisville,
   KY
 : null
+? 7100 N Preston Hwy regarding a stabbing incident. A 24-year-old male was the victim.
+  Responding units staged in the parking lot while Metro PD secured the scene., Louisville,
+  KY
+: null
 7100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
@@ -5519,6 +5694,9 @@
 7300 Monsley's Circle, Louisville, KY: null
 7300 Monsley's Circle. Police units responded to investigate the incident., Louisville, KY: null
 7300 N N Preston Hwy, Louisville, KY: null
+7300 N Preston Hwy, Louisville, KY:
+  lat: 38.0856484
+  lng: -85.6676088
 7300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -5554,6 +5732,9 @@
   was sounding. A neighbor alerted authorities after receiving no response when knocking.
   Fire units were dispatched to assess and manage the situation., Louisville, KY
 : null
+7400 W Manslick Rd, Louisville, KY:
+  lat: 38.1083742
+  lng: -85.762655
 7400 W W Manslick Rd, Louisville, KY: null
 ? 7500 Chanel Ct to assist a 75-year-old male. The individual was reportedly experiencing
   shortness of breath and signs of dehydration. Responders worked to provide necessary
@@ -5732,6 +5913,16 @@
 ? 800 Varble Ave, near a state drop, and there was a possibility of a second vehicle
   being involved. EMS units were on the scene., Louisville, KY
 : null
+800 W Market St, Louisville, KY:
+  lat: 38.2557045
+  lng: -85.7637682
+? 800 W Market St, involving two young women, a 17-year-old and an 18-year-old. Reports
+  indicated that both individuals were armed with knives, bats, and frying pans during
+  the altercation., Louisville, KY
+: null
+800 W Market St. The location was near Carlson and Roy Wilkins., Louisville, KY:
+  lat: 38.2557045
+  lng: -85.7637682
 800 W W Market St, Louisville, KY: null
 ? 800 W W Market St, involving two young women, a 17-year-old and an 18-year-old.
   Reports indicated that both individuals were armed with knives, bats, and frying
@@ -5739,6 +5930,13 @@
 : null
 800 W W Market St. The location was near Carlson and Roy Wilkins., Louisville, KY: null
 ? 800 W W W Whitney Ave to assist a 72-year-old female experiencing concerning symptoms
+  including chills, low oxygen, and elevated blood pressure. Simultaneously, a high
+  angle rescue was initiated on I-64 West due to a report of an individual on an overpass
+  who may have intended to jump. Police units, including a drone, searched the Cochran
+  Hill Tunnel and nearby overpasses, but the individual was not immediately located.,
+  Louisville, KY
+: null
+? 800 W Whitney Ave to assist a 72-year-old female experiencing concerning symptoms
   including chills, low oxygen, and elevated blood pressure. Simultaneously, a high
   angle rescue was initiated on I-64 West due to a report of an individual on an overpass
   who may have intended to jump. Police units, including a drone, searched the Cochran
@@ -5989,6 +6187,13 @@
   lng: -85.6606492
 900 I 65 South, Louisville, KY: null
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
+? 900 N S English Station Rd due to a report of a chemical odor. The smell was described
+  as toxic fumes, prompting occupants of a K&P roofing unit to evacuate. The location
+  is near Old Henry Rd and Aiken Rd., Louisville, KY
+: null
+900 N S English Station Rd, Louisville, KY:
+  lat: 38.2185921
+  lng: -85.4896674
 ? 900 N S S English Station Rd due to a report of a chemical odor. The smell was described
   as toxic fumes, prompting occupants of a K&P roofing unit to evacuate. The location
   is near Old Henry Rd and Aiken Rd., Louisville, KY
@@ -6039,6 +6244,12 @@
   party, no smoke or fire was found, and the units cleared the scene., Louisville,
   KY
 : null
+? 900 W Liberty St prompted a response from emergency services. The situation was
+  being assessed by units on scene., Louisville, KY
+: null
+900 W Liberty St, Louisville, KY:
+  lat: 38.253341
+  lng: -85.765696
 900 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705

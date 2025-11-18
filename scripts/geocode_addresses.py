@@ -34,6 +34,29 @@ DATA_FILE = "_data/geocoded_addresses.yml"
 RATE_LIMIT_DELAY = 1.0  # seconds between geocoding requests
 USER_AGENT = "Derby City Watch Event Map"
 
+def normalize_address(address: str) -> str:
+    """Normalize extracted addresses to fix common extraction issues."""
+    if not address:
+        return address
+
+    # Remove ", Louisville, KY" suffix to work with address part
+    suffix = ", Louisville, KY"
+    addr_part = address[:-len(suffix)] if address.endswith(suffix) else address
+
+    # Fix common OCR/typo errors for highways
+    # "at65" or "at64" → "I-65", "I-64"
+    addr_part = re.sub(r'\bat(\d{2,3})\b', r'I-\1', addr_part, flags=re.IGNORECASE)
+
+    # Fix repeated letter prefixes (W W W Cardinal → W Cardinal)
+    # Match patterns like "W W W" or "S S S" or "E E E"
+    addr_part = re.sub(r'\b([A-Z])\s+\1\s+\1\b', r'\1', addr_part)
+    addr_part = re.sub(r'\b([A-Z])\s+\1\b', r'\1', addr_part)
+
+    # Normalize multiple spaces
+    addr_part = re.sub(r'\s+', ' ', addr_part).strip()
+
+    return addr_part + suffix if addr_part else ""
+
 def extract_addresses_from_content(content: str) -> Set[str]:
     """Extract addresses from post content using same patterns as JavaScript."""
     addresses = set()
@@ -42,13 +65,17 @@ def extract_addresses_from_content(content: str) -> Set[str]:
     block_pattern = r'(\d+)\s+block\s+of\s+([^–\n]+?)(?=\s*–|\s*\n|$)'
     for match in re.finditer(block_pattern, content, re.IGNORECASE):
         addr = f"{match.group(1)} {match.group(2).strip()}, Louisville, KY"
-        addresses.add(addr)
+        addr = normalize_address(addr)
+        if addr:
+            addresses.add(addr)
 
     # Pattern 2: "Street and Street" intersections
     intersection_pattern = r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\s+and\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))'
     for match in re.finditer(intersection_pattern, content):
         addr = f"{match.group(1).strip()} and {match.group(2).strip()}, Louisville, KY"
-        addresses.add(addr)
+        addr = normalize_address(addr)
+        if addr:
+            addresses.add(addr)
 
     # Pattern 3: Full addresses (e.g., "4512 Tray Place")
     full_address_pattern = r'\b(\d+)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Place|Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\b'
@@ -56,7 +83,9 @@ def extract_addresses_from_content(content: str) -> Set[str]:
         addr = f"{match.group(1)} {match.group(2).strip()}, Louisville, KY"
         # Avoid duplicates from block addresses
         if not any(addr.split(',')[0] in existing for existing in addresses):
-            addresses.add(addr)
+            addr = normalize_address(addr)
+            if addr:
+                addresses.add(addr)
 
     return addresses
 

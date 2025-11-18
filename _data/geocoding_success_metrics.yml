@@ -31,100 +31,36 @@ history:
   batch_success_rate: 71.43
   batch_new_addresses: 7
   batch_new_successes: 5
-- timestamp: '2025-11-17T22:55:31.282203'
-  total_addresses: 2579
-  successful: 882
-  failed: 1697
-  success_rate: 34.2
-  failure_rate: 65.8
+- timestamp: '2025-11-18T00:04:51.188244'
+  total_addresses: 2627
+  successful: 922
+  failed: 1705
+  success_rate: 35.1
+  failure_rate: 64.9
   failure_patterns:
-    Contains location qualifiers (near/at): 834
-    Incomplete/vague address: 257
-    Police phonetic codes: 2
-    Other/Unknown: 251
-    Contains extra sentences/context: 159
-    Intersection format: 194
-  batch_success_rate: 42.86
-  batch_new_addresses: 14
-  batch_new_successes: 6
-- timestamp: '2025-11-17T23:02:00.716016'
-  total_addresses: 2584
-  successful: 884
-  failed: 1700
-  success_rate: 34.21
-  failure_rate: 65.79
-  failure_patterns:
-    Contains location qualifiers (near/at): 836
-    Incomplete/vague address: 257
-    Police phonetic codes: 2
-    Other/Unknown: 251
-    Contains extra sentences/context: 160
-    Intersection format: 194
-  batch_success_rate: 40.0
-  batch_new_addresses: 5
-  batch_new_successes: 2
-- timestamp: '2025-11-17T23:25:19.928452'
-  total_addresses: 2590
-  successful: 886
-  failed: 1704
-  success_rate: 34.21
-  failure_rate: 65.79
-  failure_patterns:
-    Contains location qualifiers (near/at): 839
-    Incomplete/vague address: 257
-    Police phonetic codes: 2
-    Other/Unknown: 251
-    Contains extra sentences/context: 160
-    Intersection format: 195
-  batch_success_rate: 33.33
-  batch_new_addresses: 6
-  batch_new_successes: 2
-- timestamp: '2025-11-17T23:32:18.502268'
-  total_addresses: 2598
-  successful: 889
-  failed: 1709
-  success_rate: 34.22
-  failure_rate: 65.78
-  failure_patterns:
-    Contains location qualifiers (near/at): 842
-    Incomplete/vague address: 258
-    Police phonetic codes: 2
-    Other/Unknown: 252
-    Contains extra sentences/context: 160
-    Intersection format: 195
-  batch_success_rate: 37.5
-  batch_new_addresses: 8
-  batch_new_successes: 3
-- timestamp: '2025-11-17T23:49:56.915363'
-  total_addresses: 2605
-  successful: 891
-  failed: 1714
-  success_rate: 34.2
-  failure_rate: 65.8
-  failure_patterns:
-    Contains location qualifiers (near/at): 845
-    Incomplete/vague address: 258
+    Contains location qualifiers (near/at): 841
+    Incomplete/vague address: 253
     Police phonetic codes: 2
     Other/Unknown: 254
-    Contains extra sentences/context: 160
-    Intersection format: 195
-  batch_success_rate: 28.57
-  batch_new_addresses: 7
-  batch_new_successes: 2
-- timestamp: '2025-11-18T00:06:51.529095'
-  total_addresses: 2607
-  successful: 893
-  failed: 1714
-  success_rate: 34.25
-  failure_rate: 65.75
+    Contains extra sentences/context: 161
+    Intersection format: 194
+  batch_success_rate: 74.19
+  batch_new_addresses: 62
+  batch_new_successes: 46
+- timestamp: '2025-11-18T00:10:03.355372'
+  total_addresses: 2676
+  successful: 944
+  failed: 1732
+  success_rate: 35.28
+  failure_rate: 64.72
   failure_patterns:
-    Contains location qualifiers (near/at): 845
-    Incomplete/vague address: 258
+    Contains location qualifiers (near/at): 855
+    Incomplete/vague address: 259
     Police phonetic codes: 2
-    Other/Unknown: 254
-    Contains extra sentences/context: 160
+    Other/Unknown: 258
+    Contains extra sentences/context: 163
     Intersection format: 195
-  batch_success_rate: 100.0
-  batch_new_addresses: 2
-  batch_new_successes: 2
-last_updated: '2025-11-18T00:06:51.529157'
+  batch_success_rate: 44.9
+  batch_new_addresses: 49
+  batch_new_successes: 22
+last_updated: '2025-11-18T00:10:03.355472'
