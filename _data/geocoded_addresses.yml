@@ -2234,6 +2234,11 @@
 2200 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
+? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
+  on the extent of the fire and the response are not immediately available., Louisville,
+  KY
+: lat: 38.1749451
+  lng: -85.8334687
 2200 Envoy Cir, Louisville, KY: null
 2200 Farnsley Rd, Louisville, KY:
   lat: 38.201802
@@ -3243,6 +3248,10 @@
   of the alarm and ensure the property's security., Louisville, KY
 : null
 3200 Ansel Way, Louisville, KY: null
+? 3200 Bardstown Rd to assist a 46-year-old male experiencing what appeared to be
+  a seizure and showing a decreased level of consciousness. Fire and EMS units responded
+  to the scene to provide care and transport if necessary., Louisville, KY
+: null
 3200 Bardstown Rd, Louisville, KY:
   lat: 38.209554
   lng: -85.670014
@@ -6161,6 +6170,11 @@
   lng: -85.7750404
 900 Eastern Star Ct, Louisville, KY:
   lat: 38.242879
+  lng: -85.723559
+? 900 Eastern Star Ct. The alarm was located in an area bordered by Crop St, Highland
+  Ave, and Eastern Star Dr. The cause of the alarm was being investigated by responding
+  personnel., Louisville, KY
+: lat: 38.242879
   lng: -85.723559
 ? 900 Eastern Star Ct. Upon arrival at the 1900 block of Eastern Star Ct, Engine 9
   reported that the one-story nursing home showed no signs of fire., Louisville, KY
