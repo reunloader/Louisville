@@ -60,6 +60,7 @@
 ? 100 Fairfax. Responding units determined that employees had accidentally triggered
   the alarm, and all units were cleared from the scene., Louisville, KY
 : null
+100 Fort Lillian Avenue. A silver Honda HRV was noted in connection with this incident., Louisville, KY: null
 100 Hartwell Ct, Louisville, KY:
   lat: 38.172667
   lng: -85.762656
@@ -458,6 +459,12 @@
   and the scene was cleared without further incident., Louisville, KY
 : null
 1000 West Market Street 10:15 a.m.AM, Louisville, KY: null
+1000 [Street Name Unclear], Louisville, KY:
+  lat: 38.1394402
+  lng: -85.7834796
+? 1000 a street. A silver Dodge Caliber was observed in the area, and four individuals,
+  three males and one female, were reportedly seen nearby., Louisville, KY
+: null
 ? 10000 Ashby Farm Dr. The individual sought was no longer at the location, and the
   service could not be completed., Louisville, KY
 : null
@@ -3963,7 +3970,15 @@
   necessary medical attention at the scene., Louisville, KY
 : null
 400 James Rae Pl, Louisville, KY: null
+? 400 Jean Ave for a pregnant woman in labor. The 37-year-old patient, who is nine
+  months pregnant and experiencing bleeding, was reportedly in active labor., Louisville,
+  KY
+: null
 400 Kohler Dr, Louisville, KY: null
+? 400 Lindsay Ct following a report of an unresponsive male found in a bathtub. Responders
+  encountered difficulty accessing the individual due to a locked door., Louisville,
+  KY
+: null
 400 Lindsay Ct, Louisville, KY:
   lat: 38.260237
   lng: -85.705844
@@ -6055,6 +6070,12 @@
   17 was cleared from their call and returned to service by 2:30 p.m.PM., Louisville,
   KY
 : null
+? 800 South 36th Street to assist a 40-year-old female experiencing difficulty breathing.
+  The patient was located on the porch when responders arrived., Louisville, KY
+: null
+800 South 36th Street, Louisville, KY:
+  lat: 38.2479228
+  lng: -85.8111376
 800 South 3rd Street 1:30 p.m.AM, Louisville, KY: null
 ? 800 South 3rd Street. The alarm indicated motion detected in a family room, prompting
   a response to investigate the potential for a burglary or other incident. Officers
