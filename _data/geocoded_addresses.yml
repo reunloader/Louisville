@@ -3178,6 +3178,11 @@
 3200 Bardstown Rd, Louisville, KY:
   lat: 38.209554
   lng: -85.670014
+? 3200 Bardstown Rd. EMS and police units responded to the scene. The patient was
+  found inside near the door and later exhibited a decreased level of consciousness,
+  reportedly disoriented., Louisville, KY
+: lat: 38.209554
+  lng: -85.670014
 3200 Bills Wrench Road, Louisville, KY: null
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
@@ -3641,6 +3646,9 @@
   lat: 38.307126
   lng: -85.5761462
 3900 Taylor's Hole Road, Louisville, KY: null
+3900 Vermont Ave. Responders assessed the patient and provided necessary care., Louisville, KY:
+  lat: 38.2562961
+  lng: -85.8156449
 3965 Tattersville Road, Louisville, KY: null
 40 Rieser Place, Louisville, KY: null
 400 Adam and 1 Adam to address the situation. The outcome of the police response was not specified., Louisville, KY: null
