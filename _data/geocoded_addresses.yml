@@ -1535,6 +1535,9 @@
 1600 Clarice Way, Louisville, KY:
   lat: 38.1764542
   lng: -85.812257
+1600 Eastern Parkway, Louisville, KY:
+  lat: 38.2287209
+  lng: -85.7148597
 1600 Eastward Cutoff Road, Louisville, KY: null
 ? 1600 Evanwood Dr to investigate a report of suspicious activity. This call prompted
   a police response to check on the situation., Louisville, KY
@@ -3995,6 +3998,9 @@
 ? 3600 Wheeler Avenue. The patient was reported to be suffering from abdominal pain.
   Responders attended to the individual's medical needs., Louisville, KY
 : null
+3600 Woodruff Ave, Louisville, KY:
+  lat: 38.1940497
+  lng: -85.784751
 3621 Wheeler Avenue, Louisville, KY:
   lat: 38.1933635
   lng: -85.7881541
@@ -5111,6 +5117,9 @@
   situation was being assessed for further action, including a potential "knock and
   talk" approach., Louisville, KY
 : null
+4900 Ronwood Dr, Louisville, KY:
+  lat: 38.143694
+  lng: -85.669167
 4900 South 1st Street, Louisville, KY:
   lat: 38.176142
   lng: -85.7635837
@@ -5667,6 +5676,12 @@
   checks in surrounding areas to ensure the well-being of any individuals involved.,
   Louisville, KY
 : null
+? 600 Mix Ave had been broken into. Police units were dispatched to the facility,
+  and the caller was waiting on-site for their arrival., Louisville, KY
+: null
+600 Mix Ave, Louisville, KY:
+  lat: 38.221921
+  lng: -85.77027
 600 Parthenia, Louisville, KY:
   lat: 38.191647
   lng: -85.7924364
@@ -5892,6 +5907,9 @@
 6500 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+6500 Oak Valley Dr, Louisville, KY:
+  lat: 38.1590271
+  lng: -85.8188659
 6500 Oak Village Dr, Louisville, KY:
   lat: 38.1328577
   lng: -85.6396122
