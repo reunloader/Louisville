@@ -2966,6 +2966,14 @@
 300 Baker., Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
+300 Bardstown Rd, Louisville, KY:
+  lat: 38.2289024
+  lng: -85.7017791
+? 300 Bardstown Rd, near Thornton, in response to a disturbance involving a male individual
+  who was heard screaming and refusing to leave the premises. The situation was being
+  handled by responding police units., Louisville, KY
+: lat: 38.2289024
+  lng: -85.7017791
 300 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -5350,6 +5358,15 @@
   a son and his girlfriend who were reportedly fighting, arguing, and throwing objects.,
   Louisville, KY
 : null
+6300 Sydney Renee Way, Louisville, KY:
+  lat: 38.0796483
+  lng: -85.8768468
+? 6300 Sydney Renee Way, near Astor Rd, following a report of a vehicle that had collided
+  with a structure. Although the vehicle was no longer present, damage to a carport
+  and car parts found in the driveway indicated the incident had occurred. Police
+  were requested to the scene to file a report., Louisville, KY
+: lat: 38.0796483
+  lng: -85.8768468
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
   lng: -85.6031247
