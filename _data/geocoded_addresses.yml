@@ -579,6 +579,7 @@
   KY
 : null
 1100 March 1 Avenue, Louisville, KY: null
+1100 March1 Avenue, Louisville, KY: null
 1100 Markwell Ln, Louisville, KY:
   lat: 38.137936
   lng: -85.693924
@@ -1099,6 +1100,9 @@
   situation. Upon arrival, they determined the cause of the alarm. Fortunately, there
   was no indication of any emergency or hazard at the residence., Louisville, KY
 : null
+1400 Delmar Ln, Louisville, KY:
+  lat: 38.1825441
+  lng: -85.8055398
 1400 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -2750,6 +2754,9 @@
   lng: -85.796749
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
+2800 Brownsboro Rd, Louisville, KY:
+  lat: 38.25991
+  lng: -85.688803
 ? 2800 Cleveland Boulevard. The caller reported that the dogs, described as two Shepherd-type
   breeds, were loose and aggressive. Animal control was requested to respond to the
   scene to safely manage the animals. The owner was present and attempting to secure
@@ -3765,6 +3772,7 @@
 ? 3900 South Sioux Point Square. The alarm was reported as silent, and responding
   units were dispatched to investigate the situation., Louisville, KY
 : null
+3900 St. Edward's Drive, Louisville, KY: null
 3900 Summit Plaza Dr, Louisville, KY:
   lat: 38.307126
   lng: -85.5761462
@@ -6620,6 +6628,7 @@ Cedar Creek Rd and Barchshund Road, Louisville, KY: null
 Cedar Creek Rd and Bardstown Rd, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
+Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
