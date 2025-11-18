@@ -72,6 +72,11 @@
   lat: 38.294999
   lng: -85.5519612
 100 Indian Legends Dr. Responding units were assigned to manage the scene and clear the roadway., Louisville, KY: null
+? 100 Lincoln Ave, near the German American Club, for a medical incident. A 66-year-old
+  male had fallen and was found to be unresponsive. Medical teams provided immediate
+  attention to the patient., Louisville, KY
+: lat: 38.2139917
+  lng: -85.7756194
 100 Lindsey Springs, Louisville, KY:
   lat: 38.0974135
   lng: -85.5685619
@@ -216,6 +221,8 @@
   and evaluation. The incident was handled efficiently by the responding engine company.,
   Louisville, KY
 : null
+100 West Orange Beach Avenue to provide care and transport., Louisville, KY: null
+100 West Orange V Ave, Louisville, KY: null
 100 West, at Langland Pl, Louisville, KY: null
 ? 100 West, near Langland Pl. The fire was reported to be small and was extinguished
   by Engine 187. All units were cleared of service shortly after., Louisville, KY
@@ -228,6 +235,8 @@
 : null
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 and 100 block of, Louisville, KY: null
+100 at65 South, Louisville, KY: null
+100 at65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
 ? 100 for a medical emergency. Details regarding the specific nature of the medical
   issue were not immediately available. Responders were on the scene to provide assistance.,
   Louisville, KY
@@ -295,6 +304,9 @@
 : null
 1000 I 65 South, Louisville, KY: null
 1000 I-64 West, Louisville, KY: null
+1000 Lincoln Ave, Louisville, KY:
+  lat: 38.2110801
+  lng: -85.7736033
 1000 Mulberry St, Louisville, KY:
   lat: 38.2257994
   lng: -85.7382232
@@ -508,6 +520,9 @@
   heading towards Braves Ln. Police units were alerted to search for the vehicle.,
   Louisville, KY
 : null
+11 Rosedale Ave, Louisville, KY:
+  lat: 38.2235747
+  lng: -85.7032029
 1100 Apex View Dr, Louisville, KY: null
 ? 1100 Carabao Way. Paramedics responded to provide assistance for a reported medical
   emergency. The nature of the medical issue required immediate attention from the
@@ -1017,6 +1032,7 @@
   They responded to assist a 54-year-old male who had reportedly coded., Louisville,
   KY
 : null
+1300 Tafloid Street, Louisville, KY: null
 1300 Trinity Park Dr, Louisville, KY:
   lat: 38.1889622
   lng: -85.7174663
@@ -1367,6 +1383,12 @@
   lat: 38.1764542
   lng: -85.812257
 1600 Eastward Cutoff Road, Louisville, KY: null
+? 1600 Evanwood Dr to investigate a report of suspicious activity. This call prompted
+  a police response to check on the situation., Louisville, KY
+: null
+1600 Evanwood Dr, Louisville, KY:
+  lat: 38.105421
+  lng: -85.6103431
 1600 Frankfort Ave, Louisville, KY:
   lat: 38.257914
   lng: -85.720076
@@ -1491,6 +1513,9 @@
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
   lng: -85.707066
+1700 Rosewood Ave, Louisville, KY:
+  lat: 38.2336943
+  lng: -85.7166782
 1700 Shady Villa Ct, Louisville, KY:
   lat: 38.1632086
   lng: -85.6804864
@@ -1605,6 +1630,10 @@
 : null
 1800 I 64 West, Louisville, KY: null
 1800 Jalen Road, Louisville, KY: null
+? 1800 Lincoln Ave, adjacent to the German American Club, to attend to a 66-year-old
+  male who had fallen. The individual was unresponsive upon their arrival. EMS provided
+  necessary medical care., Louisville, KY
+: null
 1800 Marina's Edgeway, Louisville, KY: null
 ? 1800 Marina's Edgeway, situated between River Rd and River Shore Dr. The call involved
   a 21-year-old female who reported experiencing a sensation of warmth and freezing
@@ -1618,6 +1647,9 @@
 1800 Millwood Ct, Louisville, KY:
   lat: 38.1674751
   lng: -85.5765149
+1800 Newburg Rd., Louisville, KY:
+  lat: 38.222825
+  lng: -85.7113475
 1800 Northwestern Pky, Louisville, KY:
   lat: 38.2658758
   lng: -85.7767241
@@ -1669,6 +1701,9 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Newburg Rd, Louisville, KY:
+  lat: 38.221707
+  lng: -85.710457
 ? 1900 Newburgh Road. Engine 20 and Quint 7 were dispatched to investigate the alarm
   at the multi-story church building. Upon arrival, crews began their assessment of
   the situation. The alarm was investigated thoroughly by the responding fire units.
@@ -2169,6 +2204,15 @@
   lat: 38.2290712
   lng: -85.6992452
 2100 St. St Xavier St, Louisville, KY: null
+? 2100 Wallie Ann Ct to assist a 26-year-old male. The individual was experiencing
+  symptoms including lightheadedness, shortness of breath, and abdominal pain. Medical
+  treatment was provided at the scene., Louisville, KY
+: null
+? 2100 Wally and Corn to attend to a patient experiencing concerning symptoms. The
+  individual reported feeling lightheaded, having difficulty breathing, and experiencing
+  abdominal pain. Medical personnel assessed the situation and provided necessary
+  care., Louisville, KY
+: null
 2100 Wally and Court, Louisville, KY: null
 2100 West Broadway [Date & Time], Louisville, KY: null
 ? 2100 West Broadway to address the situation. Officers worked to secure the vehicle
@@ -2383,6 +2427,7 @@
   Louisville, KY
 : null
 2400 Constant Comet Place 9:00 a.m.AM, Louisville, KY: null
+2400 Glen Eagle Dr near Line Killam Lane, Louisville, KY: null
 2400 Glen Eagle Dr, Louisville, KY: null
 2400 Glen Eagle Dr., Louisville, KY: null
 2400 Griffiths Ave, Louisville, KY:
@@ -2943,6 +2988,8 @@
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
   lng: -85.6245297
+300 W W W Cardinal Blvd, Louisville, KY: null
+300 W W W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY: null
 300 West Broadway, Louisville, KY:
   lat: 38.2457716
   lng: -85.7569119
@@ -3191,6 +3238,11 @@
 3200 Bardstown Rd, Louisville, KY:
   lat: 38.209554
   lng: -85.670014
+? 3200 Bardstown Rd. EMS and police units responded to the scene. The patient was
+  found inside near the door and later exhibited a decreased level of consciousness,
+  reportedly disoriented., Louisville, KY
+: lat: 38.209554
+  lng: -85.670014
 3200 Bills Wrench Road, Louisville, KY: null
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
@@ -3283,6 +3335,7 @@
   condition. The call was handled by Quint 52, who confirmed they were responding
   to the medical emergency., Louisville, KY
 : null
+3400 Dutchman's Lane, Louisville, KY: null
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
   lng: -85.8093039
@@ -3638,6 +3691,7 @@
 3900 Iron Horse Way, Louisville, KY:
   lat: 38.1000305
   lng: -85.8328339
+3900 Nappany Road, Louisville, KY: null
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -3663,6 +3717,9 @@
   lat: 38.307126
   lng: -85.5761462
 3900 Taylor's Hole Road, Louisville, KY: null
+3900 Vermont Ave. Responders assessed the patient and provided necessary care., Louisville, KY:
+  lat: 38.2562961
+  lng: -85.8156449
 3965 Tattersville Road, Louisville, KY: null
 40 Rieser Place, Louisville, KY: null
 400 Adam and 1 Adam to address the situation. The outcome of the police response was not specified., Louisville, KY: null
@@ -4661,6 +4718,11 @@
   lng: -85.6623684
 5100 Arbor Oak Ct, near Arbor Oak Dr. The crew was later instructed to disregard the call., Louisville, KY: null
 5100 Barshawn Road, Louisville, KY: null
+? 5100 Dixie Hwy. Evacuations of the affected area were underway as a precautionary
+  measure. Responders were on scene and managed to bring the situation under control.,
+  Louisville, KY
+: lat: 38.1681545
+  lng: -85.8297235
 5100 East Mojave Lee Boulevard, Louisville, KY: null
 5100 Greenwood Rd, Louisville, KY:
   lat: 38.14391
@@ -4765,6 +4827,7 @@
 5400 Indian Oaks Cir, Louisville, KY:
   lat: 38.169814
   lng: -85.687108
+5400 Marlborough Court near Lilly Ln, Louisville, KY: null
 ? 5400 Valley Station Road. Reports indicated that motion was detected at the front
   door, raising immediate concerns for the safety of the occupants and property. Officers
   were dispatched to investigate the situation and secure the scene. This incident
@@ -5203,6 +5266,11 @@
 ? 6700 Strawberry Ln. The patient, a 51-year-old female, was experiencing chest pain
   and shortness of breath., Louisville, KY
 : null
+? 6700 Wynde Manor Dr. While the specific nature of the suspicious activity was not
+  detailed in the report, the area was noted. No specific units were dispatched to
+  this particular call., Louisville, KY
+: lat: 38.1526012
+  lng: -85.6377444
 6800 Beard Ct, Louisville, KY:
   lat: 38.1293675
   lng: -85.6344442
@@ -5242,6 +5310,10 @@
   lng: -85.5706899
 6800 Southside Dr, Louisville, KY:
   lat: 38.1590857
+  lng: -85.7646433
+? 6800 Southside Dr. Fortunately, no one was inside the car when the fire broke out.
+  Firefighters worked to extinguish the blaze., Louisville, KY
+: lat: 38.1590857
   lng: -85.7646433
 6800 [Street Name Missing], Louisville, KY: null
 6900 Arbor Creek Dr, Louisville, KY:
@@ -5416,6 +5488,15 @@
 700 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
+700 S S S Brook St, Louisville, KY: null
+? 700 S S S Brook St. It was determined that individuals experiencing homelessness
+  had started a fire and were gathered around it. The situation was managed by responding
+  personnel., Louisville, KY
+: null
+? 700 S S S Brook St. The incident involved a large garbage fire in a dumpster, with
+  several individuals present at the scene. Firefighters worked to manage the situation.,
+  Louisville, KY
+: null
 700 Shiloh Trail, Louisville, KY: null
 700 South 24th Street, Louisville, KY:
   lat: 38.248538
@@ -5438,6 +5519,7 @@
   the responding engine company to extinguish it without further incident., Louisville,
   KY
 : null
+700 South Grove Street, Louisville, KY: null
 700 South Hancock, Apartment C23, Louisville, KY: null
 ? 700 South Hancock, Apartment C23. A young man reported being shot by his brother.
   Responding units included the 4th Division and 2 Baker. The suspect, who was believed
@@ -5546,6 +5628,9 @@
 7200 Scenic Trail, Louisville, KY:
   lat: 38.0781228
   lng: -85.8965335
+7200 Tangelo Dr near Disparque Way, Louisville, KY:
+  lat: 38.1470556
+  lng: -85.626619
 7200 Whipple Rd, Louisville, KY:
   lat: 38.0702634
   lng: -85.8958562
@@ -5634,6 +5719,10 @@
 7500 Nottoway Cir, Louisville, KY:
   lat: 38.1600021
   lng: -85.8075365
+? 7500 Pompouse for a medical emergency. A 67-year-old female was experiencing difficulty
+  breathing. Responders provided care to the patient., Louisville, KY
+: null
+7500 Pompouse, Louisville, KY: null
 ? 7500 Winstead Dr, near Jean Cain Pl, to assist a 48-year-old male. The individual
   was reportedly experiencing sudden weakness on one side of his body, along with
   numbness., Louisville, KY
@@ -6053,6 +6142,10 @@
   lat: 38.239093
   lng: -85.728107
 900 Finchley Ct, Louisville, KY: null
+? 900 Frankfort Ave following reports of a fire. The flames were observed spreading
+  to a fence and nearby dry leaves. Responders arrived to assess the situation and
+  begin suppression efforts., Louisville, KY
+: null
 900 Goss Ave, Louisville, KY:
   lat: 38.230112
   lng: -85.740178
@@ -6260,6 +6353,14 @@
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
+9500 Pond Station Rd, Louisville, KY:
+  lat: 38.1072784
+  lng: -85.8230991
+? 9500 Pond Station Rd. Upon arrival, smoke was observed emanating from the first-floor
+  elevator shaft. Firefighters worked to investigate and address the source of the
+  smoke., Louisville, KY
+: lat: 38.1072784
+  lng: -85.8230991
 ? 9500 Thor Ave to assist a 76-year-old male who had sustained a head injury a couple
   of days prior and was now experiencing shortness of breath. The patient was reported
   to be approximately 300 pounds., Louisville, KY
@@ -6274,6 +6375,13 @@
   lat: 38.1134765
   lng: -85.8144594
 9600 Leopold Wood Loop, Louisville, KY: null
+9600 [Street Name Missing], Louisville, KY:
+  lat: 38.1449244
+  lng: -85.5799095
+? 9600 an unlisted road near Keys Ferry Rd. A 90-year-old male had fallen and sustained
+  a head injury, and was found to be unresponsive. Medical personnel attended to the
+  patient., Louisville, KY
+: null
 9700 3rd 3Rd Street Rd at Circle K, Louisville, KY: null
 9700 3rd 3Rd Street Rd, Louisville, KY: null
 9700 Boxford Way, Louisville, KY: null
@@ -6465,6 +6573,7 @@ Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
+Shingo Ave and Lonsdale Ave, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
