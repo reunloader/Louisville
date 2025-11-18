@@ -526,6 +526,9 @@
   lng: -85.5623389
 10400 Got It Court, Louisville, KY: null
 10400 Shall Leave The Road, Louisville, KY: null
+10500 Bay Pointe Ct, Louisville, KY:
+  lat: 38.3026745
+  lng: -85.5549039
 10500 Fairview Ave, Louisville, KY:
   lat: 38.2098788
   lng: -85.775154
@@ -730,6 +733,7 @@
 11700 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+11800 Duane Point Cir, Louisville, KY: null
 11900 Standford Plaza, Louisville, KY: null
 ? 11900 Standford Plaza. The situation was later reclassified as a suspicious person,
   and police units were dispatched., Louisville, KY
@@ -898,6 +902,9 @@
 1200 Springdale, Louisville, KY:
   lat: 38.191809
   lng: -85.726961
+1200 Story Ave, Louisville, KY:
+  lat: 38.2551819
+  lng: -85.7280531
 ? 1200 Triple Crown Ct to assist a clinic patient experiencing a significant nosebleed.
   The patient was reportedly waiting for assistance in a white vehicle., Louisville,
   KY
@@ -5684,6 +5691,9 @@
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+700 East Broadway, Louisville, KY:
+  lat: 38.244448
+  lng: -85.7414498
 700 East Jefferson Street 8:00 a.m.AM, Louisville, KY: null
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned to investigate., Louisville,
