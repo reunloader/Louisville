@@ -2432,6 +2432,11 @@
 2200 Hale Ave, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
+2200 Holiday Manor Center, Louisville, KY: null
+? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
+  main door. Fire units were dispatched to investigate the cause of the alarm., Louisville,
+  KY
+: null
 2200 Magazine St, Louisville, KY:
   lat: 38.25087
   lng: -85.78807
@@ -4147,6 +4152,9 @@
   KY
 : null
 400 Kohler Dr, Louisville, KY: null
+400 Landis Lakes Ct, Louisville, KY:
+  lat: 38.2348065
+  lng: -85.4928995
 ? 400 Lindsay Ct following a report of an unresponsive male found in a bathtub. Responders
   encountered difficulty accessing the individual due to a locked door., Louisville,
   KY
