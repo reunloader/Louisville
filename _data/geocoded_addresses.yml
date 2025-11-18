@@ -419,6 +419,9 @@
 : null
 1000 Rescue, Louisville, KY: null
 1000 Ringing Bell Ln, Louisville, KY: null
+1000 S Clay St, Louisville, KY:
+  lat: 38.237038
+  lng: -85.742991
 1000 S Lamar Jackson Way, Louisville, KY: null
 1000 S Preston St, Louisville, KY:
   lat: 38.237651
@@ -1920,6 +1923,7 @@
   the situation. The alarm was investigated thoroughly by the responding fire units.
   The incident was managed by the fire department., Louisville, KY
 : null
+1900 Owen St & 1700 block of O'Odaniel Ave, Louisville, KY: null
 ? 1900 Payne St to address a medical emergency. The patient, a 68-year-old male who
   recently underwent open heart surgery, was experiencing difficulties maintaining
   stable blood pressure and oxygen levels when he stood up. EMS provided care at the
