@@ -1904,6 +1904,10 @@
 200 Garfield., Louisville, KY:
   lat: 38.2675142
   lng: -85.7972311
+? 200 Garland Ave. This incident appears to be related to a previous report and involved
+  a subject named Jayvon Rattleman., Louisville, KY
+: lat: 38.2472111
+  lng: -85.8243903
 200 Granvil Dr, Louisville, KY:
   lat: 38.1895335
   lng: -85.6350403
@@ -1949,6 +1953,10 @@
   lat: 38.1374
   lng: -85.8723473
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
+? 200 Roland St. Police units were dispatched to investigate the area for any evidence
+  of a shooting or related incidents., Louisville, KY
+: lat: 38.236924
+  lng: -85.750085
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
