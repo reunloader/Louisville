@@ -671,6 +671,11 @@
 10600 Moraine Cir, Louisville, KY: null
 10600 Taylor-Hill Rd, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
+? 10700 Colonial Woods Way regarding a 68-year-old female who had fallen and was experiencing
+  significant pain. This was initially treated as a medical assist call, but the situation
+  was later resolved without the need for further specialized medical intervention.,
+  Louisville, KY
+: null
 10700 Eagle Ridge Pl, near Century Division Way, due to a residential alarm activation., Louisville, KY: null
 10700 Harrison Ln, Louisville, KY:
   lat: 38.094388
@@ -4428,6 +4433,12 @@
   allegedly threatened to retrieve a weapon., Louisville, KY
 : null
 3700 I64 West, Louisville, KY: null
+? 3700 Johnson Hall Dr to assist an 80-year-old female who was found unconscious but
+  breathing. Simultaneously, fire units responded to a report of a possible fire alarm
+  at the same location. It was determined that workers cleaning a smoke detector accidentally
+  triggered the alarm, and the medical call was handled without further incident.,
+  Louisville, KY
+: null
 3700 Johnson Hall Dr, Louisville, KY:
   lat: 38.2566163
   lng: -85.6644273
@@ -5426,6 +5437,10 @@
   lat: 38.1889361
   lng: -85.7656325
 4500 South 3rd Street near W W Southern Heights Ave, Louisville, KY: null
+? 4500 South 6th Street to attend to a patient experiencing symptoms that suggested
+  a possible stroke. This call highlights the critical nature of rapid response for
+  neurological emergencies., Louisville, KY
+: null
 4500 South 6th Street, Louisville, KY:
   lat: 38.1881447
   lng: -85.7704769
@@ -7354,6 +7369,10 @@
 800 Denmark St, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
+? 800 East Muhammad Alley following a report of a possible robbery or assault. The
+  initial call was classified as a medical emergency, but upon arrival, responders
+  confirmed the more serious nature of the incident., Louisville, KY
+: null
 800 Edith Rose and the 400 block of Baker., Louisville, KY: null
 800 Edith Rose, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
@@ -8254,6 +8273,7 @@ Poplar Level Rd and Heather Heath Ln, Louisville, KY: null
 Poplar Level Rd and Hess Ln, Louisville, KY: null
 Poplar Level Rd and Quail Hollow Rd, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
+Preston St and Roselane St, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
