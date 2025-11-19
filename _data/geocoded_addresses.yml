@@ -1324,6 +1324,7 @@
 1300 Lydia, Louisville, KY:
   lat: 38.2203172
   lng: -85.7332412
+1300 Pine Tar Ct, Louisville, KY: null
 ? 1300 Plantside Dr. Responders were dispatched for a 22-year-old female experiencing
   seizures and fluctuating consciousness. Security was expected to guide emergency
   personnel to the patient upon arrival., Louisville, KY
@@ -6622,6 +6623,9 @@
   lng: -85.842729
 600 Vernis Avenue, Louisville, KY: null
 600 W Main St and 66 W Main St, Morton, Louisville, KY: null
+600 W Main St, Louisville, KY:
+  lat: 38.256721
+  lng: -85.7601786
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
@@ -7834,6 +7838,9 @@
   lng: -85.5975753
 821 Winclair Avenue, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
+8300 Lindsay Ct, Louisville, KY:
+  lat: 38.2605244
+  lng: -85.7054888
 8300 Rest of Lane, Louisville, KY: null
 ? 8400 Fieldcrest Ct due to a significant water leak. Reports indicated that water
   was flowing from a hydrant and causing flooding in the street., Louisville, KY
