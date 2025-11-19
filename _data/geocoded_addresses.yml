@@ -1143,6 +1143,7 @@
 124 West Oak Street, Louisville, KY:
   lat: 38.2345255
   lng: -85.7567626
+12400 Crosswinds Dr, Louisville, KY: null
 12400 Lower River Rd, Louisville, KY:
   lat: 38.075494
   lng: -85.902606
@@ -2390,6 +2391,9 @@
 : null
 200 South Newcote Road, Louisville, KY: null
 200 South and New Cut Rd, Louisville, KY: null
+200 South at Interstate 64, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South at Spurn, Louisville, KY: null
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
@@ -2906,6 +2910,9 @@
 2300 Payne St, Louisville, KY:
   lat: 38.251984
   lng: -85.7028108
+2300 Portland Ave, Louisville, KY:
+  lat: 38.2696938
+  lng: -85.7864005
 ? 2300 South 4th Street. The incident also involved a blue vehicle that had struck
   a sidewall. Police units were requested to assist at the scene., Louisville, KY
 : null
@@ -3342,6 +3349,9 @@
 2800 Magazine St, Louisville, KY:
   lat: 38.251978
   lng: -85.798005
+2800 Newburg Rd, Louisville, KY:
+  lat: 38.2099142
+  lng: -85.694737
 2800 North Hurst-Bourne Parkway, Louisville, KY: null
 2800 Northwestern Pky to address a medical emergency., Louisville, KY: null
 2800 Northwestern Pky, Louisville, KY:
