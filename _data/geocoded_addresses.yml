@@ -1325,6 +1325,7 @@
   lat: 38.2203172
   lng: -85.7332412
 1300 Pine Tar Ct, Louisville, KY: null
+1300 Pine Tar Ct, near Betty Ray. Responding units were dispatched to investigate the cause of the alarm., Louisville, KY: null
 ? 1300 Plantside Dr. Responders were dispatched for a 22-year-old female experiencing
   seizures and fluctuating consciousness. Security was expected to guide emergency
   personnel to the patient upon arrival., Louisville, KY
@@ -1894,6 +1895,10 @@
   units attending to the situation., Louisville, KY
 : null
 1600 Shelby Station Dr, Louisville, KY: null
+? 1600 South 39th Street and West Market. Upon arrival, the fire department was informed
+  that their assistance was no longer required as the owner could manage the minor
+  electrical overheat., Louisville, KY
+: null
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
@@ -2255,6 +2260,15 @@
 1900 Rowan St, Louisville, KY:
   lat: 38.2605375
   lng: -85.7813194
+1900 South 3rd Street, Louisville, KY:
+  lat: 38.2203444
+  lng: -85.7616989
+? 1900 South 3rd Street, near the Patrick Henry Hughes Fields, to assist a patient
+  experiencing abdominal pain and who had lost consciousness. The precise location
+  was identified as being under the S Brook St connector, close to the new Speed Art
+  Museum. EMS arrived and attended to the patient., Louisville, KY
+: lat: 38.2203444
+  lng: -85.7616989
 ? 1900 South 6th Street for a 33-year-old male experiencing issues with infected hands
   and a bleeding disorder. The initial request for EMS was later canceled., Louisville,
   KY
@@ -5036,6 +5050,14 @@
 400 South 2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South 38th Street, Louisville, KY:
+  lat: 38.2593522
+  lng: -85.8122752
+? 400 South 38th Street. The patient, a 33-year-old male, was reported to have ingested
+  a significant amount of pills and might be alone. The caller was en route to the
+  location to provide further assistance., Louisville, KY
+: lat: 38.2593522
+  lng: -85.8122752
 400 South 41st Street, Louisville, KY:
   lat: 38.2589103
   lng: -85.8186315
@@ -5678,6 +5700,10 @@
   to provide assistance., Louisville, KY
 : null
 4600 Dome Road, Louisville, KY: null
+? 4600 Dover Rd to attend to a "medical Delta" call involving a 41-year-old female
+  who was having difficulty breathing. Responders arrived on the scene to provide
+  medical assistance., Louisville, KY
+: null
 4600 Dover Rd, Louisville, KY:
   lat: 38.183401
   lng: -85.840082
@@ -7814,6 +7840,12 @@
 : lat: 38.1371078
   lng: -85.8976921
 8200 Catalpa Fields Pl, Louisville, KY: null
+8200 Delton Rd, Louisville, KY:
+  lat: 38.136959
+  lng: -85.8751794
+? 8200 Delton Rd, an area near St. Michael Ray Dr and Valley Pine Dr. The caller reported
+  the alarm activation., Louisville, KY
+: null
 8200 ECHO, Louisville, KY:
   lat: 38.2093889
   lng: -85.4688351
@@ -8512,6 +8544,7 @@ Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mary Catherine Dr and Ecton Ln, Louisville, KY: null
+Michael Ray Dr and Valley Pine Dr, Louisville, KY: null
 Mid Dale Ln and Kena Ln, Louisville, KY: null
 Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Mockingbird Valley Rd and Glen Hill Rd, Louisville, KY: null
