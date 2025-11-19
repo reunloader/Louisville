@@ -22,6 +22,11 @@
   The specific cause of the alarm and its resolution were not immediately available.,
   Louisville, KY
 : null
+? 100 Breckham Ridge Square who was reportedly threatening suicide. The call-taker
+  reported hearing yelling and someone screaming "get off me" before the line disconnected
+  without further response., Louisville, KY
+: null
+100 Breckham Ridge Square, Louisville, KY: null
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
@@ -5731,6 +5736,15 @@
 5500 Robinwood Rd, Louisville, KY:
   lat: 38.1697708
   lng: -85.6684397
+? 5600 Baird St to assist a 32-year-old female who was reportedly experiencing a mental
+  health crisis and contemplating suicide. The individual was described as wearing
+  a black shirt and gray sweatpants. There were no immediate indications of violence
+  reported at the scene., Louisville, KY
+: lat: 38.2570741
+  lng: -85.7584952
+5600 Baird St, Louisville, KY:
+  lat: 38.2644959
+  lng: -85.7785887
 5600 Greenbluff Rd, Louisville, KY:
   lat: 38.14866
   lng: -85.6559586
@@ -6680,6 +6694,10 @@
 7200 Tangelo Dr near Disparque Way, Louisville, KY:
   lat: 38.1470556
   lng: -85.626619
+? 7200 Whipple Rd to conduct a welfare check on a 32-year-old female. The initial
+  report indicated she was experiencing a mental episode and contemplating suicide,
+  and was described as wearing a black shirt and gray sweatpants., Louisville, KY
+: null
 7200 Whipple Rd, Louisville, KY:
   lat: 38.0702634
   lng: -85.8958562
@@ -7183,6 +7201,14 @@
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
+? 8700 Gary Way requested assistance after reporting that his brother was screaming
+  at him and making threats of physical assault. Police units were dispatched to the
+  location to de-escalate the situation and ensure the safety of those involved.,
+  Louisville, KY
+: null
+8700 Gary Way, Louisville, KY:
+  lat: 38.122853
+  lng: -85.755907
 8700 Highview Dr, Louisville, KY:
   lat: 38.1414982
   lng: -85.6249975
@@ -7218,6 +7244,12 @@
   lat: 38.1216922
   lng: -85.6442708
 8900 Bobrader Ct, Louisville, KY: null
+? 8900 Covey Meadow Pl following reports of a 30-year-old female experiencing a severe
+  mental breakdown. The individual was reportedly harming herself by punching walls
+  and her own face. The reporting party, who was waiting at Oak Grove Church on Dixon
+  Lane, expressed fear of returning to the residence., Louisville, KY
+: null
+8900 Covey Meadow Pl, Louisville, KY: null
 8900 Cromwell Hill Rd, Louisville, KY: null
 8900 Cromwell Hill Rd. Upon arrival, they investigated the source of the alarm and confirmed their status., Louisville, KY: null
 8900 Elks Bluff Drive, Louisville, KY: null
