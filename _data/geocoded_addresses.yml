@@ -1609,6 +1609,9 @@
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
+? 14700 Stable Gate Pl to investigate the disturbance. The outcome of the police response
+  has not been released., Louisville, KY
+: null
 14700 Stable Gate Pl, Louisville, KY: null
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
@@ -6135,6 +6138,10 @@
 5100 Terry Rd, Louisville, KY:
   lat: 38.172376
   lng: -85.866125
+? 5100 Terry Rd, near the intersections of Murray Ln and Raggard Rd. Medical personnel
+  were on site to provide immediate care., Louisville, KY
+: lat: 38.172376
+  lng: -85.866125
 5100 Valley Dr, Louisville, KY:
   lat: 38.2070098
   lng: -85.7217495
@@ -7730,6 +7737,15 @@
 8100 entrance road, Louisville, KY:
   lat: 38.133816
   lng: -85.855557
+8200 Cane Run Rd, Louisville, KY:
+  lat: 38.1371078
+  lng: -85.8976921
+? 8200 Cane Run Rd. This was reportedly the second activation of the alarm within
+  a short period, with a previous alert occurring approximately five minutes before
+  the main call. Responding units were dispatched to investigate the cause of the
+  alarm., Louisville, KY
+: lat: 38.1371078
+  lng: -85.8976921
 8200 Catalpa Fields Pl, Louisville, KY: null
 8200 ECHO, Louisville, KY:
   lat: 38.2093889
@@ -8432,6 +8448,7 @@ Mockingbird Valley Rd and Glen Hill Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
+Murray Ln and Raggard Rd, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Park Rd, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
