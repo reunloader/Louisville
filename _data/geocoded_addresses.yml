@@ -1488,6 +1488,7 @@
 1400 South41st Street, Louisville, KY: null
 1400 St. James Rae Pl, Louisville, KY: null
 1400 St. James Rae Pl. Police units were dispatched to assess the situation., Louisville, KY: null
+1400 St. St James Ct., Louisville, KY: null
 ? 1400 Tucker Rd to assist a 71-year-old female who had fallen and was reportedly
   stuck on or under her wheelchair. She had difficulty getting help., Louisville,
   KY
@@ -4782,6 +4783,12 @@
 400 West Chestnut, Louisville, KY:
   lat: 38.248881
   lng: -85.758042
+400 West Hill, Louisville, KY:
+  lat: 38.225932
+  lng: -85.762077
+400 West Hill. Police units responded to the area to assess the situation and gather information., Louisville, KY:
+  lat: 38.225932
+  lng: -85.762077
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
   was then transported to a local hospital for further evaluation and treatment.,
@@ -5511,6 +5518,7 @@
   lat: 38.2458103
   lng: -85.6862081
 500 Baker and 12-45 were dispatched to the location., Louisville, KY: null
+500 Baker and 400 block of Baker, Louisville, KY: null
 ? 500 Baker to conduct a welfare check on an individual and their child. After making
   contact and assessing the situation, both individuals were found to be safe and
   in good condition. The responding unit was subsequently cleared from the call.,
