@@ -195,6 +195,9 @@
 100 South 2nd Street, Louisville, KY:
   lat: 38.2558105
   lng: -85.7536001
+100 South 30th Street, Louisville, KY:
+  lat: 38.261375
+  lng: -85.8009286
 100 South 37th Street, Louisville, KY:
   lat: 38.2627627
   lng: -85.8109002
@@ -3014,6 +3017,9 @@
 ? 2300 South 4th Street. The incident also involved a blue vehicle that had struck
   a sidewall. Police units were requested to assist at the scene., Louisville, KY
 : null
+2300 Taylorsville Rd, Louisville, KY:
+  lat: 38.2233603
+  lng: -85.6813009
 2300 Tuckaho Rd, Louisville, KY:
   lat: 38.2855111
   lng: -85.6491928
@@ -6965,6 +6971,9 @@
   Louisville, KY
 : null
 700 Shiloh Trail, Louisville, KY: null
+700 South 11th Street, Louisville, KY:
+  lat: 38.247204
+  lng: -85.770042
 700 South 24th Street, Louisville, KY:
   lat: 38.248538
   lng: -85.791802
