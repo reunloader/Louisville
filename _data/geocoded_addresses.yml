@@ -818,6 +818,9 @@
   lat: 38.1023548
   lng: -85.8678332
 11100 Vista Greens Dr, Louisville, KY: null
+11200 New Stone Ct, Louisville, KY:
+  lat: 38.2491364
+  lng: -85.549344
 11300 Blue Lick Rd, Louisville, KY:
   lat: 38.0869317
   lng: -85.6997833
@@ -1121,6 +1124,10 @@
   are seeking information on its whereabouts., Louisville, KY
 : null
 12900 Easter Railroad, Louisville, KY: null
+1300 Algonquin in response to a reported disturbance., Louisville, KY: null
+1300 Algonquin, Louisville, KY:
+  lat: 38.2195376
+  lng: -85.7771032
 1300 Bates Ave. This was a welfare-related assist., Louisville, KY: null
 1300 Bridget Dr, Louisville, KY:
   lat: 38.1090508
@@ -3473,6 +3480,11 @@
 300 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+300 Charlie-Santos Black Dogs, Louisville, KY: null
+? 300 Charlie-Santos Black Dogs. Authorities were informed that the vehicle did not
+  stop for observation, and no pursuit was initiated. A report was requested for documentation.,
+  Louisville, KY
+: null
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -4376,6 +4388,7 @@
 3900 Summit Plaza Dr, Louisville, KY:
   lat: 38.307126
   lng: -85.5761462
+3900 Swarted Drive, Louisville, KY: null
 3900 Taylor's Hole Road, Louisville, KY: null
 3900 Vermont Ave. Responders assessed the patient and provided necessary care., Louisville, KY:
   lat: 38.2562961
@@ -5215,6 +5228,8 @@
   lat: 38.1898343
   lng: -85.7883132
 4600 W W Southern Heights Ave, Louisville, KY: null
+4600 Watt Burn to address the situation., Louisville, KY: null
+4600 Watt Burn, Louisville, KY: null
 4600 Wattbourne Ln, Louisville, KY:
   lat: 38.1849936
   lng: -85.6053241
