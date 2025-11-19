@@ -117,6 +117,11 @@
 100 Maple St, Louisville, KY:
   lat: 38.246353
   lng: -85.7799264
+? 100 Mayo Dr, near Damascus, was experiencing breathing difficulties. Medical responders
+  were sent to the location to evaluate and treat the elderly woman., Louisville,
+  KY
+: lat: 38.2014671
+  lng: -85.6715278
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
@@ -665,6 +670,11 @@
   lat: 38.2960989
   lng: -85.5623389
 10400 Got It Court, Louisville, KY: null
+? 10400 S Dodge Ln, near Silver Creek and South Ridge, where a white car had driven
+  into a ditch. Two individuals involved in the accident reported facial injuries,
+  prompting a response from emergency services., Louisville, KY
+: lat: 38.101684
+  lng: -85.846312
 10400 Shall Leave The Road, Louisville, KY: null
 10500 Bay Pointe Ct, Louisville, KY:
   lat: 38.3026745
@@ -1943,6 +1953,18 @@
   of the alarm was not detailed in the initial report., Louisville, KY
 : null
 1700 I 64 West, Louisville, KY: null
+? 1700 Magazine St concerning a person who was both short of breath and unconscious.
+  Responding medical units were able to cancel other units that were en route, and
+  the scene was cleared., Louisville, KY
+: null
+? 1700 Magazine St to attend to an individual who was reportedly short of breath and
+  unconscious. However, the call was later canceled by EMS personnel, indicating the
+  situation was resolved or no longer required their immediate assistance., Louisville,
+  KY
+: null
+1700 Magazine St, Louisville, KY:
+  lat: 38.2498828
+  lng: -85.7798115
 1700 Meadow Lane Ct, Louisville, KY: null
 1700 Meyers Ln, Louisville, KY:
   lat: 38.162729
@@ -2372,6 +2394,9 @@
 200 East at the 12.4, Louisville, KY: null
 200 East at the 17-mile marker, Louisville, KY: null
 200 East at the 17.8 mile marker, Louisville, KY: null
+200 East at the 65 South on-ramp, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near exit 19A, Louisville, KY: null
@@ -2404,6 +2429,11 @@
 : null
 200 East. The individual was located near mile marker 17.6 and received assistance., Louisville, KY: null
 200 East. The vehicle, a black Jeep with a covered license plate, was reportedly speeding., Louisville, KY: null
+? 200 East. The vehicles involved were a gray Buick and a blue Ford, and they were
+  positioned on the shoulder of the roadway. No injuries were reported., Louisville,
+  KY
+: lat: 38.1861148
+  lng: -85.7582215
 ? 200 Elm Street. Officers investigated the circumstances surrounding the vehicle.
   The situation was resolved, and the vehicle was cleared from the area., Louisville,
   KY
@@ -2630,6 +2660,9 @@
 200 eastbound to Newberg off ramp, Louisville, KY: null
 ? 200 eastbound to Newberg. Emergency medical services were already on scene and requested
   additional support from fire and police units., Louisville, KY
+: null
+? 200 involving a black Jeep with a temporary Kentucky license plate. The stop involved
+  multiple police units., Louisville, KY
 : null
 ? 200 near the I-15 interchange. Authorities were alerted to monitor the vehicle's
   behavior to prevent potential accidents., Louisville, KY
@@ -4710,6 +4743,10 @@
   lat: 38.18484
   lng: -85.789937
 3900 Dutchman's Lane, Louisville, KY: null
+? 3900 Fairdale Rd, near National Turnpike and Timberlake at Ovec Fairdale. EMS units
+  were dispatched to provide critical care to the young patient., Louisville, KY
+: lat: 38.1123715
+  lng: -85.7482461
 ? 3900 Flans Avenue to assist a 44-year-old female who was complaining of chest pain.
   The individual was reportedly waiting outside for responders to arrive., Louisville,
   KY
@@ -5452,6 +5489,18 @@
 4400 Dixie Highway., Louisville, KY:
   lat: 38.0952898
   lng: -85.8741069
+? 4400 Dixie Hwy to assist a person experiencing chest pain. Further details regarding
+  the patient's condition or the outcome of the call were not immediately available.,
+  Louisville, KY
+: null
+4400 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
+? 4400 Dixie Hwy, at Roosters, to assist a patient experiencing chest pain. The nature
+  of the medical issue required immediate attention from the responding team., Louisville,
+  KY
+: lat: 38.1125665
+  lng: -85.8631151
 ? 4400 Donarail Drive after residents reported smelling an odor. Upon arrival, firefighters
   investigated the source of the smell but did not observe any visible fire or smoke.
   The situation was assessed for potential electrical issues., Louisville, KY
@@ -6398,6 +6447,16 @@
 600 Baker., Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+? 600 Ballard St to aid a 68-year-old female experiencing difficulty breathing. Medical
+  units arrived on scene to assess and provide care to the individual., Louisville,
+  KY
+: null
+? 600 Ballard St was experiencing shortness of breath. Medical responders were dispatched
+  to assess and provide care to the elderly patient., Louisville, KY
+: null
+600 Ballard St, Louisville, KY:
+  lat: 38.251414
+  lng: -85.741989
 600 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
@@ -6957,6 +7016,10 @@
 700 Denmark St, Louisville, KY:
   lat: 38.1956685
   lng: -85.7712003
+? 700 Douglas Park following a report of a vehicle striking a building. One individual
+  inside the car sustained hip pain. Fire department personnel were on the scene to
+  manage the situation., Louisville, KY
+: null
 700 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
