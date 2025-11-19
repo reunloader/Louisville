@@ -1239,6 +1239,7 @@
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
+13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
 1400 Ackermack Drive, Louisville, KY: null
 1400 Aiken Ridge Dr, Louisville, KY: null
@@ -5340,6 +5341,9 @@
   but the alarm company confirmed they were still receiving signals from the location.,
   Louisville, KY
 : null
+? 500 Quails Run in response to a residential alarm. The alarm was later canceled
+  and determined to be technical in nature., Louisville, KY
+: null
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
@@ -5563,6 +5567,10 @@
 ? 5200 Russett Blvd, near Robinwood and Revere, for a 50-year-old male who had fallen
   and sustained a head injury. He was bleeding and later reported to be unconscious
   but breathing. Engine 100 block of responded to the scene., Louisville, KY
+: null
+? 5300 Albuway, at the intersection of Crusher-Hi View Ln and Sale Ave, to assist
+  a 51-year-old female experiencing chest pain. The call was later canceled by responding
+  units, and the situation was marked as service., Louisville, KY
 : null
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
@@ -7266,6 +7274,11 @@
   Louisville, KY
 : null
 9000 Linden Dr, Louisville, KY: null
+? 9000 Salisbury Road, near the intersection of Parkway and Game Exchange Parkway,
+  following a report of a gas leak inside a commercial building. While the initial
+  address could not be precisely located, responders confirmed the presence of a commercial
+  structure., Louisville, KY
+: null
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
   lng: -85.81775
@@ -7593,8 +7606,10 @@ Halifax Dr and Lunenburg Dr, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
+Hi View Ln and Sale Ave, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
+Hurstport Parkway and Westport Rd, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
