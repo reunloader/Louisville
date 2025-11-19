@@ -654,6 +654,7 @@
 10600 Grecian Rd, Louisville, KY:
   lat: 38.099744
   lng: -85.852204
+10600 Moraine Cir, Louisville, KY: null
 10600 Taylor-Hill Rd, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
 10700 Eagle Ridge Pl, near Century Division Way, due to a residential alarm activation., Louisville, KY: null
@@ -2205,6 +2206,7 @@
 200 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+200 Don Allen Rd, Louisville, KY: null
 200 Dorchester Rd, Louisville, KY: null
 200 Dorsey Pointe Cir, Louisville, KY:
   lat: 38.2459214
@@ -2352,6 +2354,7 @@
 200 North Hubbard's Lane, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
+200 North, First Point Parkway, Louisville, KY: null
 200 North, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -5166,6 +5169,9 @@
   manage traffic flow, and provide assistance to those involved in the collision.,
   Louisville, KY
 : null
+4400 Preston Hwy, Louisville, KY:
+  lat: 38.1847879
+  lng: -85.7228748
 4400 Rockwood Dr, Louisville, KY:
   lat: 38.2308789
   lng: -85.6205219
@@ -6180,6 +6186,9 @@
 ? 600 South Shelby. The caller indicated a disturbance was occurring, and officers
   were dispatched to assess and manage the situation., Louisville, KY
 : null
+600 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 600 South73, Louisville, KY: null
 600 Speed Ave, Louisville, KY:
   lat: 38.2273201
