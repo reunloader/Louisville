@@ -1014,6 +1014,12 @@
 1200 Moore Hill Pl, Louisville, KY: null
 1200 Parish Down Road and the 400 block of Adam were involved in the communication., Louisville, KY: null
 1200 Parish Down Road, Louisville, KY: null
+? 1200 Payne St in response to a report of a subject causing a disturbance. Officers
+  were tasked with de-escalating the situation., Louisville, KY
+: null
+1200 Payne St, Louisville, KY:
+  lat: 38.2469586
+  lng: -85.7270574
 1200 Picknill Avenue 7:00 a.m., Louisville, KY: null
 ? 1200 Picknill Avenue. Upon arrival, they found a 29-year-old female experiencing
   alcohol poisoning. Emergency medical services were also present to provide care.
@@ -2421,6 +2427,9 @@
   units were dispatched to the location to address the situation., Louisville, KY
 : null
 200 South Newcote Road, Louisville, KY: null
+200 South [Street Name Missing], Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South and New Cut Rd, Louisville, KY: null
 200 South at Interstate 64, Louisville, KY:
   lat: 38.2526488
@@ -7204,6 +7213,9 @@
 800 Becker, Louisville, KY:
   lat: 38.1720002
   lng: -85.708019
+800 Brentwood Ave, Louisville, KY:
+  lat: 38.1946055
+  lng: -85.7727962
 800 Camden Ave, Louisville, KY:
   lat: 38.192851
   lng: -85.772801
@@ -7271,6 +7283,13 @@
   were dispatched to the location to check on the property and ensure no criminal
   activity was occurring., Louisville, KY
 : null
+800 South Jackson, Louisville, KY:
+  lat: 38.24185
+  lng: -85.746268
+? 800 South Jackson. There were concerns about a possible unattended child, and authorities
+  were dispatched to investigate., Louisville, KY
+: lat: 38.24185
+  lng: -85.746268
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
