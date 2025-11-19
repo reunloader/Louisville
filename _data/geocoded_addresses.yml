@@ -4,6 +4,9 @@
 01 Cedar Springs Boulevard, Louisville, KY:
   lat: 38.1432222
   lng: -85.5848863
+01 Goldsmith Ln, Louisville, KY:
+  lat: 38.2063146
+  lng: -85.6509363
 ? 100 13th Street at Chestnut View Ct. A VIN check was requested, which revealed the
   vehicle was a Lincoln MKX sedan registered in Maryland. The stop was cleared a few
   minutes later., Louisville, KY
@@ -2683,6 +2686,14 @@
   KY
 : null
 2000 Newburgh, Three Lords area, Louisville, KY: null
+? 2000 Newport Rd where a man was found in distress in the bushes. The individual,
+  described as a 40-year-old male, appeared to have overdosed after ingesting a bottle
+  of prescription medication. EMS and fire department units provided immediate medical
+  attention., Louisville, KY
+: null
+2000 Newport Rd, Louisville, KY:
+  lat: 38.1783192
+  lng: -85.641542
 2000 Pantry, Louisville, KY: null
 2000 Payne St. Responding units assessed the scene and managed the situation., Louisville, KY: null
 2000 Purdle Street (Morning), Louisville, KY: null
@@ -4035,6 +4046,14 @@
   driveway and later fled into the backyard. Police units were involved in the response
   to investigate the situation., Louisville, KY
 : null
+3100 Evans St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
+? 3100 Evans St, near the intersection of W St Catherine St. Emergency personnel were
+  dispatched to the scene to investigate the cause of the alarm and ensure the property
+  was secure., Louisville, KY
+: lat: 38.2298984
+  lng: -85.7515509
 3100 Franklin Farmer's Way, Louisville, KY: null
 ? 3100 Franklin Farmer's Way. Police units were on scene to address the situation.
   The responding officer reported the situation was cleared without further incident.,
