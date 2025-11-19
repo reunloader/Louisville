@@ -2100,6 +2100,9 @@
 1900 W Main St, Louisville, KY:
   lat: 38.2590525
   lng: -85.7816717
+1900 W Market St, Louisville, KY:
+  lat: 38.2575145
+  lng: -85.7818456
 1900 Walbrook, Louisville, KY:
   lat: 38.2883026
   lng: -85.6276049
@@ -2432,6 +2435,9 @@
 : null
 200 Woodridge-Dravina, Louisville, KY: null
 200 Woodridge-Dravina. Fire units were dispatched to address the situation., Louisville, KY: null
+200 Yew Ln, Louisville, KY:
+  lat: 38.1762196
+  lng: -85.6718083
 200 York St, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
@@ -5390,6 +5396,9 @@
   lat: 38.3046014
   lng: -85.5175142
 4900 Dixie Highway, Evening, Louisville, KY: null
+4900 Dixie Hwy, Louisville, KY:
+  lat: 38.1710866
+  lng: -85.8271051
 4900 Manslick Rd, Louisville, KY:
   lat: 38.1751656
   lng: -85.7981771
@@ -5805,6 +5814,9 @@
 5500 Fern Valley Rd, Louisville, KY:
   lat: 38.1556056
   lng: -85.6590131
+5500 Grandel Blvd, Louisville, KY:
+  lat: 38.1570219
+  lng: -85.8577378
 5500 Knobview Ln, Louisville, KY:
   lat: 38.1349358
   lng: -85.6580689
