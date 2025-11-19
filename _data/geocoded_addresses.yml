@@ -4054,6 +4054,7 @@
 3600 Indian Falls Dr, Louisville, KY:
   lat: 38.1059864
   lng: -85.6604842
+3600 Kailard Avenue, Louisville, KY: null
 3600 Mall Rd, Louisville, KY: null
 3600 Monticello Forest Cir, Louisville, KY: null
 ? 3600 Monticello Forest Cir. This appears to be a correction or a separate incident
@@ -4527,6 +4528,9 @@
 400 South 2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South 41st Street, Louisville, KY:
+  lat: 38.2589103
+  lng: -85.8186315
 400 South 6th Street, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
@@ -5242,6 +5246,9 @@
 ? 4800 South Side. The alarm was reportedly a duress alarm, indicating a potential
   robbery in progress. Officers were responding to the scene., Louisville, KY
 : null
+4900 Axtell Ave, Louisville, KY:
+  lat: 38.138207
+  lng: -85.850053
 4900 Burkhead Ave near Cross Meadows Cir, Louisville, KY: null
 4900 Burkhead Ave., Louisville, KY:
   lat: 38.1378955
@@ -7245,6 +7252,9 @@
   her children. Police units were dispatched to investigate and de-escalate the situation.,
   Louisville, KY
 : null
+900 South 2nd Street, Louisville, KY:
+  lat: 38.240765
+  lng: -85.756042
 900 South 2nd Street., Louisville, KY:
   lat: 38.240765
   lng: -85.756042
