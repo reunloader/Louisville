@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Wait for pages deployment to complete
-        run: sleep 60
+        run: sleep 120
 
       - name: Checkout repository
         uses: actions/checkout@v4
