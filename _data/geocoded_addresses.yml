@@ -4304,6 +4304,9 @@
 3700 Powell Ave, Louisville, KY:
   lat: 38.191346
   lng: -85.7914159
+3700 Rock Bay Dr, Louisville, KY:
+  lat: 38.2923418
+  lng: -85.5052562
 3700 Rouge Way, Louisville, KY:
   lat: 38.204316
   lng: -85.648926
@@ -4540,6 +4543,10 @@
 400 Clarice Way, Louisville, KY:
   lat: 38.1767399
   lng: -85.8132973
+? 400 David Street. The person, described as a black male in a blue jacket and dark
+  pants, was reportedly seen locking up houses and banging on windows. The individual
+  was last seen heading northbound on Vine St., Louisville, KY
+: null
 400 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
@@ -4638,6 +4645,9 @@
   months pregnant and experiencing bleeding, was reportedly in active labor., Louisville,
   KY
 : null
+400 Jefferson Hill, Louisville, KY:
+  lat: 38.0939475
+  lng: -85.7902493
 400 Kohler Dr, Louisville, KY: null
 400 Landis Lakes Ct, Louisville, KY:
   lat: 38.2348065
