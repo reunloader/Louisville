@@ -3195,6 +3195,7 @@
   call underscores the importance of accessible emergency medical care for our community
   members., Louisville, KY
 : null
+2500 Data Dr, Louisville, KY: null
 2500 Eastpoint Centre Dr, Louisville, KY:
   lat: 38.2802299
   lng: -85.5098075
@@ -4545,6 +4546,7 @@
   or individuals acting suspiciously. Police units were assigned to the area to assess
   the situation., Louisville, KY
 : null
+3700 Tie In Place, Louisville, KY: null
 3700 Warren Ave, Louisville, KY:
   lat: 38.190927
   lng: -85.77663
@@ -6829,6 +6831,9 @@
 ? 6900 North Bardstown Rd. Responding officers conducted a thorough check of the property
   and determined the alarm was a false activation., Louisville, KY
 : null
+6900 Riverport Dr, Louisville, KY:
+  lat: 38.1609416
+  lng: -85.8835365
 6900 Rutledge Rd, Louisville, KY:
   lat: 38.1520188
   lng: -85.8779635
