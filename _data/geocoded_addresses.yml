@@ -10,6 +10,9 @@
 : null
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
+100 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
@@ -5322,6 +5325,10 @@
 4400 Outer Loop. Responding units investigated the alarm activation., Louisville, KY:
   lat: 38.1380709
   lng: -85.6792728
+? 4400 Outer Loop. Responding units investigated the alarm, and it was subsequently
+  cleared, indicating no immediate danger., Louisville, KY
+: lat: 38.1380709
+  lng: -85.6792728
 ? 4400 Poplar Road following a report of a significant traffic accident. The incident
   involved an estimated five vehicles. Emergency personnel worked to assess the situation,
   manage traffic flow, and provide assistance to those involved in the collision.,
@@ -5751,6 +5758,11 @@
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
+500 Perby, Louisville, KY: null
+? 500 Perby. The exact nature of the alarm activation was not specified in the initial
+  report. Further information regarding the resolution of this alarm is pending.,
+  Louisville, KY
+: null
 500 Port Rd, Louisville, KY:
   lat: 38.1641544
   lng: -85.897011
@@ -8301,6 +8313,7 @@ University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
+West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
