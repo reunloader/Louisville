@@ -780,6 +780,9 @@
 ? 1100 King Arthur Ln to evaluate an 80-year-old male suspected of having a stroke.
   The medical response was subsequently canceled., Louisville, KY
 : null
+1100 Logan St., Louisville, KY:
+  lat: 38.2351031
+  lng: -85.7398515
 ? 1100 March 1 Avenue following a report of a medical emergency originating from a
   shed. The nature of the medical issue was described as a 10-86, indicating a need
   for medical assistance. Police units were also present at the scene., Louisville,
@@ -1734,6 +1737,11 @@
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
+? 15100 W Woodlawn Ave, near Allmond Ave and South First Street, following a report
+  of a two-vehicle collision. Fortunately, no injuries were reported as a result of
+  this incident., Louisville, KY
+: lat: 38.1824297
+  lng: -85.7737331
 1529 Gallagher Street, Louisville, KY:
   lat: 38.2387489
   lng: -85.7794693
@@ -2623,6 +2631,9 @@
 2000 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
+2000 Brownsboro Rd., Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
 2000 Duncan Street, [Date] Evening, Louisville, KY: null
 2000 Fern Valley Rd, Louisville, KY:
   lat: 38.154705
@@ -3607,6 +3618,11 @@
   male exhibiting signs of a brain aneurysm and complaining of a headache. EMS personnel
   were on site to provide care., Louisville, KY
 : null
+? 2900 South 4th Street, near Elquisit Hall, to investigate a report of counterfeit
+  checks. The total value of the fraudulent checks was reported to be over $10,000.,
+  Louisville, KY
+: lat: 38.2075282
+  lng: -85.7654809
 2900 South District Number Fivember Five One Six, Louisville, KY: null
 2900 Springfield Dr, Louisville, KY:
   lat: 38.1472696
@@ -4616,6 +4632,9 @@
   was no immediate danger. The situation was resolved without incident., Louisville,
   KY
 : null
+3800 West Muhammad Ali., Louisville, KY:
+  lat: 38.2570567
+  lng: -85.8125636
 ? 3800 Willis Avenue to investigate a suspicious item. A caller reported finding a
   black tote box on the ground on the property, which contained a bullet. Officers
   were requested to assess the situation and determine the nature of the item., Louisville,
@@ -6856,6 +6875,10 @@
 700 Baker., Louisville, KY:
   lat: 38.240435
   lng: -85.740403
+? 700 Barret Ave in response to a CIT caller who had reportedly refused assistance.
+  The situation was later updated, indicating the caller had returned., Louisville,
+  KY
+: null
 700 Caldwell St, Louisville, KY:
   lat: 38.238567
   lng: -85.742462
@@ -8225,6 +8248,7 @@
   lat: 38.0762726
   lng: -85.8819062
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
+Allmond Ave and South First Street, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
