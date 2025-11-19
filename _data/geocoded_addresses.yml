@@ -2613,6 +2613,9 @@
   lat: 38.2683483
   lng: -85.4851725
 2100 Bowling Blvd, Louisville, KY: null
+2100 Cardinal Woods Dr, Louisville, KY:
+  lat: 38.1531234
+  lng: -85.8025178
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
   lng: -85.795784
@@ -5192,6 +5195,9 @@
   KY
 : null
 4500 Sheldes Drive, Louisville, KY: null
+4500 Shenandoah Dr, Louisville, KY:
+  lat: 38.3095763
+  lng: -85.5398338
 ? 4500 South 3rd Street due to concerns about a potential break-in. The caller discovered
   both the front and back doors of a duplex standing open and feared someone might
   still be inside. The property owner's boyfriend is believed to be the owner of the
@@ -7561,6 +7567,9 @@
   address could not be precisely located, responders confirmed the presence of a commercial
   structure., Louisville, KY
 : null
+9000 Teak Dr, Louisville, KY:
+  lat: 38.109217
+  lng: -85.609447
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
   lng: -85.81775
@@ -7807,6 +7816,7 @@ Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
+Archtown Road and Southhurstman Parkway, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Brighton Dr, Louisville, KY: null
 Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
