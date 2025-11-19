@@ -2089,6 +2089,9 @@
   Louisville, KY
 : null
 1800 South3rd Street, Louisville, KY: null
+1800 Story Ave, Louisville, KY:
+  lat: 38.2556205
+  lng: -85.7288269
 1800 W Hill St, Louisville, KY:
   lat: 38.228248
   lng: -85.790658
@@ -2392,6 +2395,7 @@
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
 200 North Hubbard's Lane, Louisville, KY: null
+200 North Westport Road, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, First Point Parkway, Louisville, KY: null
@@ -4299,6 +4303,7 @@
 3600 Lentz Ave, Louisville, KY:
   lat: 38.1941382
   lng: -85.7860515
+3600 Linth Avenue, Louisville, KY: null
 3600 Mall Rd, Louisville, KY: null
 3600 Monticello Forest Cir, Louisville, KY: null
 ? 3600 Monticello Forest Cir. This appears to be a correction or a separate incident
@@ -7148,6 +7153,9 @@
 ? 7600 Cousin Currier's Way. The call indicated a possible heart attack, and emergency
   medical personnel were on scene to provide care., Louisville, KY
 : null
+7600 Deer Meadow Dr, Louisville, KY:
+  lat: 38.3166393
+  lng: -85.6065727
 7600 Fort Rose, Louisville, KY: null
 7600 Glacier Lane, Louisville, KY: null
 7600 Port Rd, Louisville, KY:
@@ -7429,6 +7437,9 @@
 8100 Denmark St, Louisville, KY:
   lat: 38.1957419
   lng: -85.7727344
+8100 Dixie Hwy, Louisville, KY:
+  lat: 38.134534
+  lng: -85.845217
 8100 I 64 East, Louisville, KY: null
 ? 8100 N Preston Hwy near Pachino's Ice Cream. Fortunately, no injuries were reported
   in this collision. Responding units assessed the scene and cleared once the situation
@@ -8043,6 +8054,7 @@ Baxter Ave and Ellwood Ave, Louisville, KY: null
 Baxter Ave and Elmwood Ave, Louisville, KY: null
 Baxter Ave and Grimstad Drive, Louisville, KY: null
 Baxter Ave and Hepburn Ave, Louisville, KY: null
+Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
