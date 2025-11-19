@@ -69,6 +69,9 @@
 100 Hartwell Ct, Louisville, KY:
   lat: 38.172667
   lng: -85.762656
+? 100 Hartwell Ct, an area near Terry Pl and Teresa Pl. Further details on the patient's
+  condition or transport were not immediately available., Louisville, KY
+: null
 100 Huntington Ridge Dr, Louisville, KY: null
 100 I 64 East, Louisville, KY: null
 100 I-65 South, Louisville, KY: null
@@ -5727,6 +5730,11 @@
 : null
 5700 Revere Dr, Louisville, KY:
   lat: 38.1666547
+  lng: -85.6674876
+? 5700 Revere Dr. The location is situated near the intersection of Revere Pl and
+  Level Road. Upon arrival, responding units reported no visible signs of smoke or
+  fire at the premises., Louisville, KY
+: lat: 38.1666547
   lng: -85.6674876
 5700 Russett Blvd due to suspicious activity. However, the address provided was found to be invalid., Louisville, KY: null
 5700 Russett Blvd, Louisville, KY:
