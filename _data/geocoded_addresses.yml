@@ -3067,6 +3067,12 @@
   units investigated the cause of the alarm. The situation was assessed by personnel
   on site., Louisville, KY
 : null
+2400 Marymount Ct, Louisville, KY:
+  lat: 38.2850585
+  lng: -85.6178338
+2400 Marymount Ct. This was described as a general alarm activation., Louisville, KY:
+  lat: 38.2850585
+  lng: -85.6178338
 ? 2400 Mellwood Ave, Building 9. The call concerned a disorderly person, described
   as a homeless, intoxicated female. She was reportedly on the first floor of the
   building., Louisville, KY
@@ -4833,6 +4839,9 @@
 400 South 1st Street., Louisville, KY:
   lat: 38.2522941
   lng: -85.7525422
+400 South 28th Street, Louisville, KY:
+  lat: 38.2575152
+  lng: -85.7971377
 400 South 2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
@@ -5307,6 +5316,12 @@
 4400 Newport Rd, Louisville, KY:
   lat: 38.1781854
   lng: -85.6404616
+4400 Outer Loop, Louisville, KY:
+  lat: 38.1380709
+  lng: -85.6792728
+4400 Outer Loop. Responding units investigated the alarm activation., Louisville, KY:
+  lat: 38.1380709
+  lng: -85.6792728
 ? 4400 Poplar Road following a report of a significant traffic accident. The incident
   involved an estimated five vehicles. Emergency personnel worked to assess the situation,
   manage traffic flow, and provide assistance to those involved in the collision.,
@@ -5578,6 +5593,9 @@
   lat: 38.1730709
   lng: -85.8254585
 4800 Fern Valley Rd. Police units were responding to investigate the activation., Louisville, KY: null
+4800 Maryman Rd, Louisville, KY:
+  lat: 38.132716
+  lng: -85.846392
 4800 Oak Pointe Dr, Louisville, KY:
   lat: 38.3127927
   lng: -85.538888
@@ -6963,6 +6981,9 @@
 700 Winkler Ave, Louisville, KY:
   lat: 38.210803
   lng: -85.769792
+700 Woodmore Ave, Louisville, KY:
+  lat: 38.149501
+  lng: -85.770284
 7000 Bear Creek Dr, Louisville, KY: null
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
@@ -7370,6 +7391,12 @@
   were dispatched to the location to check on the property and ensure no criminal
   activity was occurring., Louisville, KY
 : null
+800 South 42nd Street, Louisville, KY:
+  lat: 38.2483151
+  lng: -85.8224985
+800 South 42nd Street. Neighbors had indicated that trash may have been burning in a backyard., Louisville, KY:
+  lat: 38.2483151
+  lng: -85.8224985
 800 South Jackson, Louisville, KY:
   lat: 38.24185
   lng: -85.746268
