@@ -686,6 +686,9 @@
 1100 Berthstown Road at Speedway, Louisville, KY:
   lat: 38.1588919
   lng: -85.764448
+1100 Brentlinger Ln, Louisville, KY:
+  lat: 38.1344575
+  lng: -85.5565498
 ? 1100 Carabao Way. Paramedics responded to provide assistance for a reported medical
   emergency. The nature of the medical issue required immediate attention from the
   dispatched unit., Louisville, KY
@@ -2864,6 +2867,7 @@
 2300 Frankfort Ave, Louisville, KY:
   lat: 38.2531342
   lng: -85.7030766
+2300 Friend and Business Corps Way, Louisville, KY: null
 2300 Greenwood Ave, Louisville, KY:
   lat: 38.2412212
   lng: -85.7921946
