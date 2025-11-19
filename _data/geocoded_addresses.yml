@@ -568,6 +568,9 @@
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
+10200 Valley Farms Blvd, Louisville, KY:
+  lat: 38.1090936
+  lng: -85.8572627
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -3755,6 +3758,9 @@
 : lat: 38.209554
   lng: -85.670014
 3200 Bills Wrench Road, Louisville, KY: null
+3200 Brightside Ct, Louisville, KY:
+  lat: 38.2003115
+  lng: -85.6081245
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
   lng: -85.6844039
@@ -3900,6 +3906,9 @@
   lat: 38.2666702
   lng: -85.7894902
 3400 Poliski Drive, Louisville, KY: null
+3400 Susanna Dr, Louisville, KY:
+  lat: 38.169793
+  lng: -85.698532
 3400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -5532,6 +5541,9 @@
   lng: -85.5705455
 5100 Norton Healthcare Blvd. The driver indicated they would be taking the vehicle in for service., Louisville, KY: null
 5100 Olde Creek Way, Louisville, KY: null
+5100 Princewood Pl, Louisville, KY:
+  lat: 38.163559
+  lng: -85.818091
 ? 5100 Red Oak Lane. The patient, a male weighing over 400 pounds, was experiencing
   leg swelling and was unable to walk. Emergency responders provided immediate care
   and assistance to the individual. The patient was transported for further medical
@@ -6938,6 +6950,7 @@
   Hill Tunnel and nearby overpasses, but the individual was not immediately located.,
   Louisville, KY
 : null
+800 Washburn Ave, Louisville, KY: null
 ? 800 West Main Street. Several fire units responded to investigate the situation.
   Upon arrival, crews assessed the scene to determine the cause of the alarm. The
   incident was resolved without further complications., Louisville, KY
@@ -7283,6 +7296,7 @@
   was being assessed by units on scene., Louisville, KY
 : null
 900 W W W Liberty St, Louisville, KY: null
+900 Walterson Trail, Louisville, KY: null
 900 West Broadway [Date & Time], Louisville, KY: null
 ? 900 West Broadway. Officers approached the vehicle as part of routine safety checks
   to ensure compliance with traffic regulations. Such stops are crucial for maintaining
