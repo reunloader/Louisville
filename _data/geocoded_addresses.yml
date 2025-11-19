@@ -3910,6 +3910,9 @@
 3200 Timmons Way, Louisville, KY:
   lat: 38.2839473
   lng: -85.4731984
+3200 Utah Ave, Louisville, KY:
+  lat: 38.208629
+  lng: -85.781133
 ? 3200 Utah Avenue following a report of a medical emergency. Upon arrival, fire and
   EMS units attended to a very young child. The incident involved a four-month-old
   male who had sustained a dislocated arm. The response included Engine 18 and EMS
@@ -7925,6 +7928,7 @@ Springtime Ave and Westport Rd, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
+Taylor Ave and Winkler Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
@@ -7943,8 +7947,10 @@ Thickston Lane and Independence School Rd, Louisville, KY: null
 Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
+University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
+West Oak Lane and North Oak Lane, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
