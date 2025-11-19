@@ -2557,6 +2557,9 @@
   any license plates. Officers initiated the stop to address the equipment violation.
   The outcome of this interaction is currently being reviewed., Louisville, KY
 : null
+? 200 West Vine Street. Footage from a doorbell camera captured the activity, and
+  it was being monitored for any potential patterns of behavior., Louisville, KY
+: null
 200 West [Evening], Louisville, KY: null
 200 West [Unspecified Street] at River Park Dr, Louisville, KY: null
 ? 200 West [Unspecified Street] near River Park Dr. Police units were involved in
@@ -3299,6 +3302,9 @@
 2600 Duncan St, Louisville, KY:
   lat: 38.263334
   lng: -85.793424
+2600 Duncan St. Paramedics assessed the patient at the scene., Louisville, KY:
+  lat: 38.263334
+  lng: -85.793424
 2600 Fijing Avenue, Louisville, KY: null
 2600 Fijing Avenue. The incident involved a black male with facial tattoos and a potential female victim., Louisville, KY: null
 ? 2600 Frankfort Ave. Nearby, another operation was underway involving the towing
@@ -3734,6 +3740,11 @@
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+? 300 East Broadway near the Norton Health Care Pavilion, where a pedestrian was struck
+  by a vehicle. The pedestrian was found to be unconscious but was still breathing.
+  The striking vehicle was described as a black Jeep Wrangler., Louisville, KY
+: lat: 38.245346
+  lng: -85.749534
 ? 300 East Market Street, within the Nucleus Innovation Park, for a medical emergency.
   An 8th-floor resident, a 60-year-old female, was reportedly experiencing stroke-like
   symptoms, including speech difficulties and unresponsiveness. Personnel were directed
@@ -5801,6 +5812,7 @@
 5 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+500 Adam and the 500 block of Baker., Louisville, KY: null
 500 Adams were involved in assessing the scene., Louisville, KY: null
 500 Altagate Rd, Louisville, KY:
   lat: 38.2458103
