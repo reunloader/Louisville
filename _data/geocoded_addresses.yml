@@ -963,6 +963,9 @@
   Louisville, KY
 : null
 1200 Cypress Pt STREET, Louisville, KY: null
+1200 Dixie Hwy, Louisville, KY:
+  lat: 38.236285
+  lng: -85.787342
 1200 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -1575,6 +1578,7 @@
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
+14700 Stable Gate Pl, Louisville, KY: null
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -2456,6 +2460,9 @@
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+200 South 1st Street, Louisville, KY:
+  lat: 38.253941
+  lng: -85.75204
 200 South Forest, Louisville, KY: null
 ? 200 South Forest. The individual, a male, was observed sitting near an elevator
   on the sixth floor, exhibiting unusual behavior and calling out to people. Police
