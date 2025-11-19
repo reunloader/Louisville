@@ -869,6 +869,11 @@
 11300 Main St, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
+? 11300 Main St. The alarm was reportedly triggered at a building identified as Teller
+  3. Details regarding the specific circumstances or the resolution of the alarm were
+  not immediately available., Louisville, KY
+: lat: 38.2570952
+  lng: -85.7609073
 11300 Pheasant Hill Cir. Responding units investigated the alarm activation., Louisville, KY: null
 11300 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
@@ -932,6 +937,12 @@
   lat: 38.2641926
   lng: -85.8173786
 1200 Conservatory Ln, Louisville, KY: null
+1200 Cypher St, Louisville, KY: null
+? 1200 Cypher Street. This incident had been ongoing for an extended period, approximately
+  11.5 hours. No new calls related to this situation had been received for about 4.5
+  hours, suggesting it had reached a resolution or was no longer an active concern.,
+  Louisville, KY
+: null
 1200 Cypress Pt STREET, Louisville, KY: null
 1200 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
@@ -2088,6 +2099,14 @@
 18200 Bridgemore Ln, Louisville, KY:
   lat: 38.2500333
   lng: -85.4167314
+1900 Baird St, Louisville, KY:
+  lat: 38.2653168
+  lng: -85.7799118
+? 1900 Baird St. The call involved an ex-partner who was alleged to have violated
+  an Emergency Protective Order. Further information on the outcome of this incident
+  was not provided., Louisville, KY
+: lat: 38.2653168
+  lng: -85.7799118
 1900 Bishop Ln, Louisville, KY:
   lat: 38.201155
   lng: -85.685638
