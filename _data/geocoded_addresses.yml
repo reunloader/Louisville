@@ -1107,6 +1107,7 @@
 1200 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+1200 South Third Street, Louisville, KY: null
 1200 Southbrook Street, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
 ? 1200 Spring Ridge Dr for assistance with lifting a patient. Police units were also
@@ -3770,6 +3771,9 @@
 300 W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY:
   lat: 38.220488
   lng: -85.761346
+300 W Liberty St, Louisville, KY:
+  lat: 38.2527337
+  lng: -85.755867
 300 W W W Cardinal Blvd, Louisville, KY: null
 300 W W W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY: null
 300 West Broadway, Louisville, KY:
