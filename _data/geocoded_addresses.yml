@@ -405,6 +405,11 @@
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
+? 1000 Magazine St following a report of a dispute between a male and a female. The
+  situation was described as an ongoing issue, with the male reportedly selling items
+  before returning to the residence. Responding police units were tasked with de-escalating
+  the situation and addressing the disturbance., Louisville, KY
+: null
 1000 Magazine St, Louisville, KY:
   lat: 38.2484525
   lng: -85.7680848
@@ -3367,6 +3372,8 @@
 2800 Taylor Blvd, Louisville, KY:
   lat: 38.2097891
   lng: -85.7722465
+2800 Timber Hills Rd to investigate the suspicious activity and ensure the property's safety., Louisville, KY: null
+2800 Timber Hills Rd, Louisville, KY: null
 2800 West Broadway, Louisville, KY:
   lat: 38.249486
   lng: -85.798435
@@ -7571,6 +7578,10 @@
   were unable to determine the caller's location, as no further information was provided.,
   Louisville, KY
 : null
+9000 Fawn Ct to conduct a welfare check and ascertain the safety of the individual heard., Louisville, KY: null
+9000 Fawn Ct, Louisville, KY:
+  lat: 38.2761227
+  lng: -85.5866771
 9000 Linden Dr, Louisville, KY: null
 ? 9000 Salisbury Road, near the intersection of Parkway and Game Exchange Parkway,
   following a report of a gas leak inside a commercial building. While the initial
@@ -7995,6 +8006,7 @@ Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
+Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
