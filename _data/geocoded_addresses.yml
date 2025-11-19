@@ -140,6 +140,7 @@
   lat: 38.2289024
   lng: -85.7017791
 100 North Bardstown Rd/ 100 block of North Bel Air, Louisville, KY: null
+100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
@@ -642,6 +643,9 @@
 10200 Valley Farms Blvd, Louisville, KY:
   lat: 38.1090936
   lng: -85.8572627
+10300 Gageland Rd, Louisville, KY:
+  lat: 38.1485446
+  lng: -85.8528443
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -4038,6 +4042,9 @@
   vehicle. Medical personnel are on scene to provide care. The circumstances leading
   to the injury are being investigated., Louisville, KY
 : null
+3200 Fordhaven Rd, Louisville, KY:
+  lat: 38.147965
+  lng: -85.8178207
 3200 Golden Turtle Cir, Louisville, KY: null
 ? 3200 Golden Turtle Circle early this morning. Upon arrival, they found a silver
   Toyota RAV4 engulfed in flames. Crews worked quickly to extinguish the blaze and
@@ -7309,6 +7316,7 @@
   a 55-year-old female experiencing shortness of breath and high blood pressure. She
   was alert. Engine 88 arrived on scene to assist., Louisville, KY
 : null
+7800 Thorobred Lane, Louisville, KY: null
 78600 Burrice Ct, Louisville, KY:
   lat: 38.1422513
   lng: -85.8933393
