@@ -880,6 +880,9 @@
 1108 Bardstown Road, Louisville, KY:
   lat: 38.2380298
   lng: -85.7209845
+11100 Ballardsville Rd. Responders worked to bring the situation under control., Louisville, KY:
+  lat: 38.3174365
+  lng: -85.5417331
 11100 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
@@ -3009,6 +3012,9 @@
   was seen looking into vehicles parked in the area. Officers responded to investigate
   the suspicious activity., Louisville, KY
 : null
+2300 Oregon Ave. Further details and investigation into this serious incident are underway., Louisville, KY:
+  lat: 38.2211453
+  lng: -85.7981096
 2300 Parkway Gardens Ct. Responding units investigated the alarm, which was indicated as a door alarm., Louisville, KY: null
 ? 2300 Payne St to attend to a medical emergency. The patient, a 73-year-old female,
   was reportedly experiencing symptoms including diarrhea, vomiting, weakness, and
@@ -3866,6 +3872,11 @@
   lat: 38.220686
   lng: -85.646409
 3000 Grand Avenue, [Date] Evening, Louisville, KY: null
+? 3000 Greenup Rd. Searches were performed in both county and Jefferson County databases,
+  but no matches or relevant information were found regarding the vehicles., Louisville,
+  KY
+: lat: 38.2107264
+  lng: -85.7306204
 ? 3000 Hathaway Avenue following a report of a patient experiencing bleeding from
   both the nose and mouth. Fire Department Engine 10 was assigned to this incident.
   However, before responders could fully assess the situation, the call was canceled
@@ -4884,6 +4895,9 @@
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+? 400 Sherburn Ln. The reporting party indicated they would handle the situation and
+  requested no further dispatch., Louisville, KY
+: null
 ? 400 South 11th Street to assist a 5-year-old child who was experiencing an ear bleed.
   Responders arrived on scene to provide care for the young patient., Louisville,
   KY
@@ -8189,6 +8203,7 @@ Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
 Archtown Road and Southhurstman Parkway, Louisville, KY: null
+Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Brighton Dr, Louisville, KY: null
 Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
