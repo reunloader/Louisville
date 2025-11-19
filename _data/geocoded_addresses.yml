@@ -298,7 +298,22 @@
 ? 1000 Colm's Lane, prompting a welfare check by responding units. The exact nature
   of the situation requiring the check was not specified., Louisville, KY
 : null
+1000 Dixie Hwy to investigate the vehicle and its presence in the area., Louisville, KY: null
 1000 Dixie Hwy, Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
+1000 Dixie Hwy. Further details regarding the circumstances or outcome of this stop were not provided., Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
+? 1000 Dixie Hwy. Police units were dispatched to investigate the vehicle's activity
+  and ensure public safety., Louisville, KY
+: lat: 38.2416641
+  lng: -85.7852707
+? 1000 Dixie Hwy. Responding units were tasked with investigating the vehicle and
+  determining if any further action was required., Louisville, KY
+: lat: 38.2416641
+  lng: -85.7852707
+1000 Dixie Hwy. The specific reason for the stop was not detailed in the available information., Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
 1000 E Jefferson St, Louisville, KY:
