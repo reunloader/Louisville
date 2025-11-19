@@ -439,6 +439,13 @@
 1000 S Clay St, Louisville, KY:
   lat: 38.237038
   lng: -85.742991
+1000 S Hancock St, Louisville, KY:
+  lat: 38.237243
+  lng: -85.745008
+? 1000 S Hancock St. Responders were dispatched to assess the situation and determine
+  the cause of the alarm., Louisville, KY
+: lat: 38.237243
+  lng: -85.745008
 1000 S Lamar Jackson Way, Louisville, KY: null
 1000 S Preston St, Louisville, KY:
   lat: 38.237651
@@ -2996,6 +3003,9 @@
   experiencing diarrhea, and had not been eating. This incident was located between
   Hoskins Beach Rd and Piper Ct., Louisville, KY
 : null
+2600 Bank St, Louisville, KY:
+  lat: 38.2692147
+  lng: -85.7914568
 ? 2600 Conklin Parkway to attend to a 67-year-old male who was reportedly feeling
   unwell with symptoms including weakness, diarrhea, and a lack of appetite. Units
   reached the location within minutes to provide medical attention., Louisville, KY
@@ -3208,6 +3218,9 @@
   lat: 38.2723649
   lng: -85.7938489
 2800 Riedling Dr, Louisville, KY:
+  lat: 38.2605231
+  lng: -85.6930161
+2800 Riedling, Louisville, KY:
   lat: 38.2605231
   lng: -85.6930161
 2800 Rodman St, Louisville, KY:
@@ -4481,6 +4494,9 @@
 400 Roberts Ave, Louisville, KY:
   lat: 38.157521
   lng: -85.764105
+400 Roselane St, Louisville, KY:
+  lat: 38.242731
+  lng: -85.747338
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
@@ -6283,6 +6299,9 @@
 700 Dresden, Louisville, KY:
   lat: 38.1974565
   lng: -85.771628
+700 E Jefferson St, Louisville, KY:
+  lat: 38.251917
+  lng: -85.740147
 700 E Main St, Louisville, KY:
   lat: 38.254691
   lng: -85.739665
@@ -6297,6 +6316,9 @@
   response was cancelled, and another unit was assigned to investigate., Louisville,
   KY
 : null
+700 Evergreen Rd, Louisville, KY:
+  lat: 38.2792505
+  lng: -85.5469034
 700 Exmoor, Louisville, KY:
   lat: 38.255781
   lng: -85.5677801
