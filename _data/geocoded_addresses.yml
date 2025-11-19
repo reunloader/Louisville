@@ -687,6 +687,13 @@
   was later resolved without the need for further specialized medical intervention.,
   Louisville, KY
 : null
+10700 Colonial Woods Way, Louisville, KY:
+  lat: 38.2501443
+  lng: -85.5576258
+? 10700 Colonial Woods Way. Emergency services were dispatched to the scene to assess
+  the situation and provide any necessary assistance., Louisville, KY
+: lat: 38.2501443
+  lng: -85.5576258
 10700 Eagle Ridge Pl, near Century Division Way, due to a residential alarm activation., Louisville, KY: null
 10700 Harrison Ln, Louisville, KY:
   lat: 38.094388
@@ -887,6 +894,9 @@
   lat: 38.1023548
   lng: -85.8678332
 11100 Vista Greens Dr, Louisville, KY: null
+11200 Deham Dr, Louisville, KY:
+  lat: 38.3231294
+  lng: -85.5413907
 11200 New Stone Ct, Louisville, KY:
   lat: 38.2491364
   lng: -85.549344
@@ -2006,6 +2016,7 @@
 17200 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
+17500 McWay, Louisville, KY: null
 18 Village West Drive, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -8238,6 +8249,7 @@ Baxter Ave and Grimstad Drive, Louisville, KY: null
 Baxter Ave and Hepburn Ave, Louisville, KY: null
 Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
+Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
@@ -8342,6 +8354,7 @@ North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
+Oxmoor Ln and Black Road, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
