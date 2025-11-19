@@ -297,6 +297,9 @@
   the 10-33 update is not specified, but it indicated a potential problem or a need
   for backup., Louisville, KY
 : null
+1000 Bardstown Rd, Louisville, KY:
+  lat: 38.240016
+  lng: -85.724091
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -802,6 +805,7 @@
 1100 South Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
+1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
 1100 South4th Street, Louisville, KY: null
 1100 Southwestern Pky, Louisville, KY:
@@ -6771,6 +6775,9 @@
   all hot spots were extinguished. The cause of the fire is currently under investigation.,
   Louisville, KY
 : null
+7000 Preston Hwy, Louisville, KY:
+  lat: 38.1504308
+  lng: -85.6940618
 7000 Trade Port Dr, Louisville, KY:
   lat: 38.121097
   lng: -85.88142
