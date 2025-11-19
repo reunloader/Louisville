@@ -43,6 +43,9 @@
   lat: 38.1784089
   lng: -85.7605676
 100 E W Kingston Ave, Louisville, KY: null
+100 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 100 E W W Kingston Ave, Louisville, KY: null
 ? 100 East 10th Avenue. The individual is reportedly suffering from a spinal infection
   and has expressed a desire for drugs, possibly indicating intravenous use, before
@@ -140,6 +143,7 @@
   lat: 38.2289024
   lng: -85.7017791
 100 North Bardstown Rd/ 100 block of North Bel Air, Louisville, KY: null
+100 North First Blom Parkway, Louisville, KY: null
 100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
@@ -2453,6 +2457,9 @@
   lng: -85.8083072
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
 200 Northbound, Louisville, KY: null
+200 Overlook Dr, Louisville, KY:
+  lat: 38.2950987
+  lng: -85.6250602
 200 Paradise Ln, Louisville, KY:
   lat: 38.1374
   lng: -85.8723473
@@ -4014,6 +4021,9 @@
 ? 3100 Star Hill Dr. Police units were dispatched to investigate the situation and
   ensure the safety of the area., Louisville, KY
 : null
+3100 Taylor Blvd, Louisville, KY:
+  lat: 38.2064352
+  lng: -85.7768145
 3100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -5829,6 +5839,9 @@
 500 S S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
+500 School Way, Louisville, KY:
+  lat: 38.172603
+  lng: -85.772021
 500 Selma Ave, Louisville, KY: null
 500 South 18th Street, Louisville, KY:
   lat: 38.2535374
@@ -7664,6 +7677,9 @@
   KY
 : null
 8500 South28th Street, Louisville, KY: null
+8500 Tolls Ln, Louisville, KY:
+  lat: 38.1271732
+  lng: -85.7578555
 ? 8600 Ambrose Lane following reports of three aggressive pit bulls. Animal control
   services were contacted to assist with the situation and ensure public safety.,
   Louisville, KY
@@ -7960,6 +7976,7 @@
 9200 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+9200 Westmore Road, Louisville, KY: null
 9200 Westport, [Date] 8:00 a.m.AM, Louisville, KY: null
 921 Barrett Ln, Louisville, KY:
   lat: 38.1023548
