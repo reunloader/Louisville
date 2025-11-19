@@ -1643,6 +1643,9 @@
   lng: -85.6875526
 1600 I65 South, Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call for service., Louisville, KY: null
+1600 Lucia Ave, Louisville, KY:
+  lat: 38.2356966
+  lng: -85.720509
 1600 Moore Ct, Louisville, KY:
   lat: 38.2251564
   lng: -85.7748253
@@ -2454,6 +2457,7 @@
   lng: -85.743946
 2000 Sanic Lake Strubb, Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
+2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
 2000 TSO, Louisville, KY: null
 2000 Terril Ln, Louisville, KY:
@@ -4494,6 +4498,10 @@
   lng: -85.705844
 400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
+400 North Height Ave, Louisville, KY: null
+? 400 North Height Avenue to attend to a 35-year-old female who was experiencing symptoms
+  consistent with a possible overdose of an unknown substance., Louisville, KY
+: null
 400 North S Hite Ave, Louisville, KY:
   lat: 38.2517615
   lng: -85.6932303
@@ -4863,6 +4871,7 @@
 : null
 4300 Cranet Way, [Date] 8:00 a.m.AM, Louisville, KY: null
 4300 Donarell Run Drive, Louisville, KY: null
+4300 Down A Donerail Run Dr, Louisville, KY: null
 4300 I 64 East, Louisville, KY: null
 ? 4300 Nanin, responders observed light smoke showing from the rear of the property
   and the roof. The incident was managed by the responding fire units., Louisville,
