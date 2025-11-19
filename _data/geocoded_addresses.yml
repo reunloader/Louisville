@@ -4280,6 +4280,11 @@
   lat: 38.1059864
   lng: -85.6604842
 3600 Kailard Avenue, Louisville, KY: null
+? 3600 Lentz Ave due to a lockout situation where a patient was reported down. The
+  call also indicated a hoarding situation, necessitating assistance with entry. Several
+  specialized units responded to gain access and address the medical and environmental
+  concerns., Louisville, KY
+: null
 ? 3600 Lentz Ave for a lockout situation. Upon arrival, responders discovered the
   incident also involved a patient who was down and a hoarding condition within the
   home. Entry assistance was required to access the situation. Fire units were available
@@ -4988,6 +4993,13 @@
 ? 4100 Cameron Road. The nature of the incident involved active lights, indicating
   a public safety concern requiring immediate attention. Further details on the specific
   nature of this call are still being assessed., Louisville, KY
+: null
+4100 Craig Ave, Louisville, KY:
+  lat: 38.183126
+  lng: -85.790151
+? 4100 Craig Ave, between Crop St and Alma Ave, for a medical emergency. A 63-year-old
+  female was reportedly experiencing chest pain. Responders were dispatched to assess
+  and provide care to the patient., Louisville, KY
 : null
 4100 Cumberland Lake Cir, Louisville, KY: null
 4100 Dellafay Dr, Louisville, KY:
@@ -8036,6 +8048,7 @@ Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
+Crop St and Alma Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
