@@ -3206,6 +3206,9 @@
 2800 Portland Ave, Louisville, KY:
   lat: 38.2723649
   lng: -85.7938489
+2800 Riedling Dr, Louisville, KY:
+  lat: 38.2605231
+  lng: -85.6930161
 2800 Rodman St, Louisville, KY:
   lat: 38.209019
   lng: -85.770048
@@ -4519,6 +4522,10 @@
   Louisville, KY
 : null
 400 South 8th Street. Medical assistance was provided to the patient., Louisville, KY: null
+400 South Hubbard, Louisville, KY: null
+? 400 South Hubbard. The specific circumstances leading to the check were not detailed
+  in the initial report., Louisville, KY
+: null
 ? 400 South Jackson Street to assist an individual experiencing a medical issue. Fire
   Department Engine 5 was dispatched to the scene to provide immediate care. The nature
   of the medical emergency was not specified, but crews were able to attend to the
