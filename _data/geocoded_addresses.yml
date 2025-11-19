@@ -5672,6 +5672,9 @@
   lat: 38.3197551
   lng: -85.5710444
 5000 Chamberlain Ln. Police units responded to the scene to investigate the alarm., Louisville, KY: null
+5000 Community Way. Emergency medical services were on scene to provide care and transport., Louisville, KY:
+  lat: 38.0906032
+  lng: -85.604389
 5000 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
@@ -7128,6 +7131,7 @@
   lng: -85.8688161
 7900 Shelby Grove Road, Louisville, KY: null
 7900 Westford Loop, Louisville, KY: null
+7900 Westport Loop. Responders were dispatched to help her regain entry., Louisville, KY: null
 7910 Brice Bramble Ln, Louisville, KY:
   lat: 38.155595
   lng: -85.6643683
@@ -8095,6 +8099,7 @@ Tosler Road and Stonenberg Drive, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
+Washburn Ave and Seton Hill Dr, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
