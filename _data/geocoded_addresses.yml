@@ -2332,6 +2332,9 @@
 200 North Hubbard's Lane, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
+200 North, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North, just past Old Henry, Louisville, KY: null
 200 North35th Street, Louisville, KY:
   lat: 38.2637287
@@ -6919,6 +6922,12 @@
 7500 Chanel Ct, Louisville, KY:
   lat: 38.2078236
   lng: -85.6476949
+7500 Maria Ave, Louisville, KY:
+  lat: 38.2832
+  lng: -85.614435
+7500 Maria Ave. The vehicle was identified as a taxi., Louisville, KY:
+  lat: 38.2832
+  lng: -85.614435
 7500 Nottoway Cir, Louisville, KY:
   lat: 38.1600021
   lng: -85.8075365
@@ -7915,6 +7924,7 @@ Moza Road and Whiteheath Ln, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
 Newburg Rd and Bishop Ln, Louisville, KY: null
+Newburg Rd and Gold Street, Louisville, KY: null
 Newburg Rd and Speed Ave, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
