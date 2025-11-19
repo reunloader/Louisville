@@ -863,6 +863,8 @@
 11200 New Stone Ct, Louisville, KY:
   lat: 38.2491364
   lng: -85.549344
+11200 Vista Greens Dr, Louisville, KY: null
+11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
 11300 Blue Lick Rd, Louisville, KY:
   lat: 38.0869317
   lng: -85.6997833
@@ -4213,6 +4215,10 @@
 : null
 3500 Seneca Valley Rd (Four Winds Dr), Louisville, KY: null
 3500 Sheehan Landing Dr, Louisville, KY: null
+? 3500 Sheehan Landing Dr. Concerns were raised after he was discharged from the hospital
+  with internal bleeding and had not been heard from, with no response to calls or
+  the door. Police units were dispatched to assess his well-being., Louisville, KY
+: null
 3500 Springhurst Commons Dr, Louisville, KY:
   lat: 38.2968249
   lng: -85.5616267
@@ -5139,6 +5145,14 @@
   lng: -85.5213483
 4300 Barchetown Road, Louisville, KY: null
 4300 Barchetown Road. Police units were involved in responding to the situation., Louisville, KY: null
+4300 Bishop Ln, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
+? 4300 Bishop Ln. This incident was categorized as a public assist, specifically a
+  lift assist, indicating the individual needed help getting up. The response was
+  handled by responding units., Louisville, KY
+: lat: 38.1883
+  lng: -85.693746
 4300 Cane Run Rd, Louisville, KY:
   lat: 38.200352
   lng: -85.836173
@@ -6634,6 +6648,11 @@
 6900 Fahers, Louisville, KY: null
 6900 Lanspar, Louisville, KY: null
 6900 Lanspar. They were working to verify details about a vehicle with a third-party company., Louisville, KY: null
+? 6900 Lethbridge Road to provide assistance to a 41-year-old female who had fallen.
+  The nature of the fall and the individual's condition required a public assist response.,
+  Louisville, KY
+: null
+6900 Lethbridge Road, Louisville, KY: null
 6900 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
@@ -7762,6 +7781,13 @@
 9200 Blankenbaker Pky PARKWAY, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
+? 9200 Cornflower Rd to assist a 31-year-old female experiencing shortness of breath.
+  EMS was on the scene to provide medical attention and transport if necessary., Louisville,
+  KY
+: null
+9200 Cornflower Rd, Louisville, KY:
+  lat: 38.119772
+  lng: -85.872334
 9200 Dixie Hwy, Louisville, KY:
   lat: 38.1209842
   lng: -85.8564961
@@ -7834,6 +7860,10 @@
 ? 9400 Fairground Rd. A female was found slumped over inside a vehicle, prompting
   the call for support. EMS was on scene to assess and provide care., Louisville,
   KY
+: null
+9400 Gutenberg Rd, Louisville, KY: null
+? 9400 Gutenberg Rd. Responding units investigated the activation to ensure the safety
+  and security of the property., Louisville, KY
 : null
 9400 Hurst Blonde Trace, Louisville, KY: null
 9400 King William Ct, Louisville, KY:
