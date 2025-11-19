@@ -1458,6 +1458,9 @@
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
+15 Newburg Rd, Louisville, KY:
+  lat: 38.2137922
+  lng: -85.7014096
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
 ? 1500 Anna Ln following a report of a medical emergency. A 64-year-old female was
   experiencing rectal bleeding. The caller was reportedly in a white Chevrolet Equinox
@@ -3464,6 +3467,9 @@
   Intervention Team call., Louisville, KY
 : null
 300 Foxy Poise Rd, Louisville, KY: null
+300 Graves End Dr, Louisville, KY:
+  lat: 38.255761
+  lng: -85.775666
 300 Hatcher Ave, Louisville, KY:
   lat: 38.153733
   lng: -85.765394
@@ -4702,6 +4708,9 @@
 ? 4000 Produce Rd. Responding units included elements from the 600 block of division
   B3 and 600 block of Baker., Louisville, KY
 : null
+4000 Serene Way, Louisville, KY:
+  lat: 38.159645
+  lng: -85.6881029
 4000 Shelbyville Rd, Louisville, KY:
   lat: 38.2524981
   lng: -85.6528922
@@ -5764,6 +5773,9 @@
   fire at the premises., Louisville, KY
 : lat: 38.1666547
   lng: -85.6674876
+5700 Revere Pl, Louisville, KY:
+  lat: 38.166472
+  lng: -85.667414
 5700 Russett Blvd due to suspicious activity. However, the address provided was found to be invalid., Louisville, KY: null
 5700 Russett Blvd, Louisville, KY:
   lat: 38.1656675
