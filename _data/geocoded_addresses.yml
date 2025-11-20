@@ -2154,6 +2154,11 @@
   lat: 38.2219877
   lng: -85.585648
 1700 South 35th Street [Date & Time], Louisville, KY: null
+1700 South Forth, Louisville, KY: null
+? 1700 South Forth. The incident occurred shortly before 11:02 a.m. Police units were
+  involved in managing the situation and arranging for the vehicle's removal., Louisville,
+  KY
+: null
 1700 South Second Street, Louisville, KY: null
 ? 1700 Stallings Ave to assist a 65-year-old male who was experiencing difficulty
   breathing. Crews arrived on scene within minutes to assess the situation., Louisville,
@@ -4144,6 +4149,14 @@
 300 North 36th Street, Louisville, KY:
   lat: 38.2652391
   lng: -85.8095068
+300 North Birchwood, Louisville, KY:
+  lat: 38.259626
+  lng: -85.69278
+? 300 North Birchwood. Fortunately, there were no reports of sparking or any immediate
+  danger. The situation was assessed and determined to be clear without further hazard.,
+  Louisville, KY
+: lat: 38.259626
+  lng: -85.69278
 300 North35th Street, Louisville, KY: null
 300 North36th Street, Louisville, KY: null
 300 Old Dixie Hwy, investigating the source of the CO alarms., Louisville, KY: null
