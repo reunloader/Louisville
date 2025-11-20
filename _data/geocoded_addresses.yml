@@ -2142,6 +2142,9 @@
   breathing. Crews arrived on scene within minutes to assess the situation., Louisville,
   KY
 : null
+1700 Stevens Ave, Louisville, KY:
+  lat: 38.228573
+  lng: -85.7110967
 1700 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
@@ -4569,6 +4572,9 @@
 3300 Northwestern Pky, Louisville, KY:
   lat: 38.2747331
   lng: -85.8012113
+3300 Old Outer Loop, Louisville, KY:
+  lat: 38.135797
+  lng: -85.697776
 3300 Portage8 Place, Louisville, KY: null
 ? 3300 Portage8 Place, near Vendetta Way, to assist EMS with a lock-in situation.
   Reports indicated a resident at a nearby address was unable to provide a key, and
@@ -4655,6 +4661,7 @@
 3400 Taylor., Louisville, KY:
   lat: 38.1995175
   lng: -85.7829642
+3400 Tevis Dr, Louisville, KY: null
 3400 Tile Factory Ln, Louisville, KY:
   lat: 38.1833591
   lng: -85.7032498
@@ -6452,6 +6459,7 @@
 5000 Old Heady Rd, Louisville, KY:
   lat: 38.171212
   lng: -85.5265319
+5000 Old Hetty, Louisville, KY: null
 ? 5000 Outer Loop in response to a reported disturbance. The incident involved a verbal
   dispute between individuals. Officers arrived to address the situation and work
   towards a peaceful resolution., Louisville, KY
@@ -7860,6 +7868,9 @@
 7400 Beechview Way, Louisville, KY:
   lat: 38.1425656
   lng: -85.6785558
+7400 Colt Dr, Louisville, KY:
+  lat: 38.149494
+  lng: -85.807791
 7400 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
