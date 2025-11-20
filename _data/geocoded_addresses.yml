@@ -1050,10 +1050,16 @@
   one on the fourth floor of building D. Responding units were on the scene to assess
   the situation., Louisville, KY
 : null
+1200 Euclid Ave, Louisville, KY:
+  lat: 38.2170962
+  lng: -85.7768264
 ? 1200 Euclid Ave, near the House of Prayer Ministries. The vehicle was described
   as a grey Shelby Malibu, and there were concerns it may have been stolen., Louisville,
   KY
 : null
+1200 Euclid Ave. Dispatch confirmed there were no active medical runs in that area., Louisville, KY:
+  lat: 38.2170962
+  lng: -85.7768264
 1200 Fairdale Rd, Louisville, KY:
   lat: 38.113428
   lng: -85.7444855
@@ -5396,6 +5402,8 @@
   who were reportedly pushing each other outside of a building., Louisville, KY
 : lat: 38.1980524
   lng: -85.765329
+4000 South Fifth Street, Louisville, KY: null
+4000 South Fifth Street. EMS was involved in the response, and the situation was cleared by dispatch., Louisville, KY: null
 4000 Summit Positive Drive, Louisville, KY: null
 ? 4000 Taylor Boulevard. The call was related to the service of an Emergency Protective
   Order. Unit 136 responded to the location to handle the situation. Officers worked
