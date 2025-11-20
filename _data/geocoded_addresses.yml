@@ -298,6 +298,9 @@
   officer. The situation was being actively managed by law enforcement., Louisville,
   KY
 : null
+100 [Street Name Unspecified], Louisville, KY:
+  lat: 38.2397699
+  lng: -85.7540073
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 and 100 block of, Louisville, KY: null
 100 at65 South, Louisville, KY: null
@@ -867,6 +870,7 @@
 1100 South 4th Street. The alarm was actively sounding when units arrived on scene., Louisville, KY: null
 1100 South First Street, Louisville, KY: null
 1100 South Forest Street, Louisville, KY: null
+1100 South Forster Street, Louisville, KY: null
 1100 South Fourth Street, Louisville, KY: null
 1100 South Second Street, Louisville, KY:
   lat: 38.2627168
@@ -1369,6 +1373,13 @@
 : null
 1300 South Second Street, before officers ceased pursuit., Louisville, KY: null
 1300 South Second [Morning], Louisville, KY: null
+? 1300 South St following reports of individuals sleeping in a hallway. The subjects
+  were described as three homeless individuals, both male and female. Officers were
+  sent to investigate the situation., Louisville, KY
+: null
+1300 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 1300 Southgate Ave, Louisville, KY:
   lat: 38.2003885
   lng: -85.7836267
@@ -3993,6 +4004,9 @@
   lat: 38.2651038
   lng: -85.8081363
 300 was dispatched to investigate the activation., Louisville, KY: null
+3000 Autumn Lake Dr, Louisville, KY:
+  lat: 38.0718916
+  lng: -85.8775827
 3000 Bardstown Rd, Louisville, KY:
   lat: 38.2150181
   lng: -85.6748027
@@ -4348,6 +4362,9 @@
   as non-injury, and police units responded to manage the scene., Louisville, KY
 : null
 3300 Vector Avenue, Louisville, KY: null
+3300 Woodland Dr, Louisville, KY:
+  lat: 38.176862
+  lng: -85.873196
 3400 Barton Road 9:37 a.m.AM, Louisville, KY: null
 ? 3400 Barton Road to assist a 40-year-old female experiencing a possible fainting
   spell and shortness of breath. Responders arrived on the scene to assess the patient's
@@ -6740,6 +6757,9 @@
 : null
 6100 135th Street, Louisville, KY: null
 6100 Airport Hotels Blvd, Louisville, KY: null
+6100 Applegate Ln, Louisville, KY:
+  lat: 38.133509
+  lng: -85.6490481
 ? 6100 Atwood St. The incident involved a dark Ford sedan that reportedly struck a
   parked vehicle, and a grey Chrysler sedan. This was reported as a non-injury collision.,
   Louisville, KY
@@ -8616,6 +8636,7 @@ Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
+Malin Lane and Ballardsville Rd, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
