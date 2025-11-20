@@ -887,6 +887,7 @@
   lat: 38.2455998
   lng: -85.8299446
 1100 St. Catharines Court, Louisville, KY: null
+1100 Telford Street, Louisville, KY: null
 1100 West Broadway, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
@@ -2426,6 +2427,9 @@
 ? 200 Duncan. Police units were involved in the stop, which was later cleared with
   no further reported issues., Louisville, KY
 : null
+200 E W College St, Louisville, KY:
+  lat: 38.2432243
+  lng: -85.7546559
 200 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -3699,6 +3703,9 @@
 2800 Round Top Pl, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+2800 Shannon Dr, Louisville, KY:
+  lat: 38.2149804
+  lng: -85.6576064
 ? 2800 South 4th Street, where a one-story residence showed signs of smoke emanating
   from the rear. Upon arrival, Engine 18 found the smoke was coming from a trash fire,
   which they then managed. Other responding units were released once the situation
@@ -6599,6 +6606,10 @@
   lat: 38.1421654
   lng: -85.778253
 600 B Street, Louisville, KY: null
+? 600 Baker and the 700 block of Baker to investigate the situation. The duration
+  of the response was approximately ten minutes. The final outcome of this incident
+  has not been specified., Louisville, KY
+: null
 600 Baker following a report of a suspicious person. One female was detained by officers at the scene., Louisville, KY: null
 600 Baker, Louisville, KY:
   lat: 38.1412684
@@ -7058,6 +7069,15 @@
   lat: 38.1293675
   lng: -85.6344442
 6800 Coast Gate 1, near the 5800 block of Coast Gate, to provide care., Louisville, KY: null
+6800 Creston Dr, Louisville, KY:
+  lat: 38.1429095
+  lng: -85.8786775
+? 6800 Creston Dr, near the intersection of Westbrook Rd and Fox Ave, in response
+  to a call for assistance. The nature of the call was initially unclear, possibly
+  involving a vehicle lockout or a request for general help. The caller disconnected
+  before providing complete details., Louisville, KY
+: lat: 38.1429095
+  lng: -85.8786775
 ? 6800 Daisy Ave to conduct a welfare check. The reason for the check and the status
   of the individual involved were not specified in the available information., Louisville,
   KY
@@ -7577,6 +7597,9 @@
   lat: 38.1388505
   lng: -85.5817755
 7400 Bayhurst Route, Louisville, KY: null
+7400 Beechview Way, Louisville, KY:
+  lat: 38.1425656
+  lng: -85.6785558
 7400 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
@@ -8672,6 +8695,7 @@ Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
 Fern Valley Rd and Jefferson Blvd, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
+Fox Ave and Fort St, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
@@ -8806,6 +8830,7 @@ West Main Street and South Second Street, Louisville, KY: null
 West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
+Westbrook Rd and Fox Ave, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
