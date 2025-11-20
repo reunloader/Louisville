@@ -5778,6 +5778,10 @@
 4400 Rockwood Dr, Louisville, KY:
   lat: 38.2308789
   lng: -85.6205219
+? 4400 Rockwood Dr, described as wearing a black hoodie and pants. The caller expressed
+  worry about potential vehicle break-ins in the area. Police units were dispatched
+  to investigate the report., Louisville, KY
+: null
 4400 South2nd Street, Louisville, KY: null
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
@@ -6315,6 +6319,7 @@
   No further details were immediately available regarding the nature of the stop.
   The roadway was clear shortly after., Louisville, KY
 : null
+5000 Marge Town Road, Louisville, KY: null
 5000 N Preston Hwy at Circle K, Louisville, KY: null
 ? 5000 North Bardstown Rd. Upon arrival, it was determined that a female at the scene
   had provided an incorrect passcode., Louisville, KY
@@ -8585,6 +8590,9 @@
 9400 Mossy Creek Way, Louisville, KY:
   lat: 38.092765
   lng: -85.604401
+9400 Norton Commons Blvd, Louisville, KY:
+  lat: 38.3239664
+  lng: -85.5671626
 9400 an unspecified street, Louisville, KY: null
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
