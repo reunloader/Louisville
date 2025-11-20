@@ -225,6 +225,9 @@
   lng: -85.687745
 100 Sears Ave, Louisville, KY: null
 100 South 12th Street. The officer requested backup as they prepared to pull the vehicle over., Louisville, KY: null
+100 South 17th Street, Louisville, KY:
+  lat: 38.258883
+  lng: -85.778171
 100 South 2nd Street, Louisville, KY:
   lat: 38.2558105
   lng: -85.7536001
@@ -3846,6 +3849,9 @@
   was cleared without further issue., Louisville, KY
 : null
 2700 Charleston Road, Louisville, KY: null
+2700 Greenwood Ave, Louisville, KY:
+  lat: 38.2418797
+  lng: -85.7978144
 ? 2700 Greenwood Rd to aid a 69-year-old female who was having significant trouble
   breathing and experiencing dizziness. The patient also reported an inability to
   get up, with a history of high blood pressure, diabetes, and hypertension., Louisville,
@@ -5134,6 +5140,7 @@
 3700 Mamaroneck Rd, Louisville, KY:
   lat: 38.207964
   lng: -85.643813
+3700 Miniaturist, Louisville, KY: null
 ? 3700 Momoronic Road involving a young child. Initially, the child was reported as
   not breathing, but upon dispatch, it was confirmed the child was breathing. EMS
   responded to assess and provide care., Louisville, KY
@@ -8317,6 +8324,9 @@
   lat: 38.142368
   lng: -85.8688161
 7900 Shelby Grove Road, Louisville, KY: null
+7900 Shelbyville Rd, Louisville, KY:
+  lat: 38.2472183
+  lng: -85.6103014
 7900 Westford Loop, Louisville, KY: null
 7900 Westport Loop. Responders were dispatched to help her regain entry., Louisville, KY: null
 7910 Brice Bramble Ln, Louisville, KY:
@@ -9441,6 +9451,7 @@ Taylor Ave and Central Ave, Louisville, KY:
   lng: -85.7764181
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
+Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
