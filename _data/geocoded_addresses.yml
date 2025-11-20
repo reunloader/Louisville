@@ -690,6 +690,9 @@
   and the scene was cleared without further incident., Louisville, KY
 : null
 1000 West Market Street 10:15 a.m.AM, Louisville, KY: null
+1000 Zorn Ave, Louisville, KY:
+  lat: 38.2769083
+  lng: -85.6987274
 1000 [Street Name Unclear], Louisville, KY:
   lat: 38.1394402
   lng: -85.7834796
@@ -4551,6 +4554,7 @@
 3100 Poplar Level Rd, Louisville, KY:
   lat: 38.2114486
   lng: -85.7209123
+3100 Popple Lover Road, Louisville, KY: null
 ? 3100 Quinn following a report of an overdose. There was concern that the incident
   might also involve a suicide attempt, given the individual's known history of mental
   health challenges., Louisville, KY
@@ -5661,6 +5665,7 @@
   Louisville, KY
 : null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
+400 West W Oak St, Louisville, KY: null
 ? 400 Winkler Ave to conduct a welfare check. The call was also noted as a potential
   subject assist. After an assessment, the situation was resolved, and all parties
   involved were cleared, leading to the cancellation of the call., Louisville, KY
@@ -7486,6 +7491,9 @@
   suffering from cold exposure. The individual also seemed to be in distress. Medical
   personnel provided assistance and evaluated the situation., Louisville, KY
 : null
+6600 Preston Hwy, Louisville, KY:
+  lat: 38.156696
+  lng: -85.696994
 ? 6600 Rutledge Rd following a report. While the specific reason for the call was
   not detailed in the scanner feed, officers were sent to address the situation.,
   Louisville, KY
@@ -7714,6 +7722,9 @@
 700 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+700 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
