@@ -767,8 +767,27 @@
 
     // Initialize map
     async function initMap() {
-      // Center on Louisville, KY
-      map = L.map('map').setView([38.2527, -85.7585], 12);
+      // Check for URL parameters for deep linking
+      const urlParams = new URLSearchParams(window.location.search);
+      const centerParam = urlParams.get('center');
+      const zoomParam = urlParams.get('zoom');
+
+      let initialCenter = [38.2527, -85.7585]; // Default: Louisville, KY
+      let initialZoom = 12; // Default zoom
+
+      if (centerParam) {
+        const coords = centerParam.split(',');
+        if (coords.length === 2) {
+          const lat = parseFloat(coords[0]);
+          const lng = parseFloat(coords[1]);
+          if (!isNaN(lat) && !isNaN(lng)) {
+            initialCenter = [lat, lng];
+            initialZoom = zoomParam ? parseInt(zoomParam) : 16; // Closer zoom for specific location
+          }
+        }
+      }
+
+      map = L.map('map').setView(initialCenter, initialZoom);
 
       // Add OpenStreetMap tiles
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
