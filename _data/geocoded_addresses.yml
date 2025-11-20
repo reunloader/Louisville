@@ -2099,6 +2099,9 @@
   lng: -85.7830138
 1700 W W W Gaulbert Ave, Louisville, KY: null
 1700 W W W Kentucky St, Louisville, KY: null
+1700 Webster St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 1700 West Broadway, Louisville, KY:
   lat: 38.248647
   lng: -85.780022
@@ -3484,6 +3487,9 @@
   scene., Louisville, KY
 : lat: 38.2527733
   lng: -85.7932062
+2500 W Madison St, Louisville, KY:
+  lat: 38.2538718
+  lng: -85.7930556
 2500 West Alley, Louisville, KY: null
 2500 Wilson Ave, Louisville, KY:
   lat: 38.2343368
@@ -3608,6 +3614,9 @@
   Kentucky. Responding units checked the premises and determined the area to be secure.,
   Louisville, KY
 : null
+2700 Alford Ave, Louisville, KY:
+  lat: 38.2648935
+  lng: -85.7955173
 2700 Bagby Way, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
@@ -3843,6 +3852,9 @@
 2900 Goose Creek Rd, Brownsboro Park Retirement Center, Louisville, KY: null
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
 2900 Montgomery St. Responders encountered an aggressive adult male experiencing high blood pressure., Louisville, KY: null
+2900 Patton Ct, Louisville, KY:
+  lat: 38.2237734
+  lng: -85.778564
 2900 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
@@ -4632,6 +4644,10 @@
 3500 Pinecroft Dr, Louisville, KY:
   lat: 38.1345391
   lng: -85.6993569
+3500 River Park Dr to investigate the report., Louisville, KY: null
+3500 River Park Dr, Louisville, KY:
+  lat: 38.254392
+  lng: -85.8093836
 ? 3500 Rogue Way. The individual was experiencing diabetic issues, and responders
   faced a challenge gaining access to her as she was reportedly unable to exit the
   bathroom. A young child, a four-year-old, was also present at the scene. Emergency
