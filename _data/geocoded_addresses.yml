@@ -2395,6 +2395,9 @@
   on scene to provide the requested assistance., Louisville, KY
 : null
 1800 I 64 West, Louisville, KY: null
+1800 Integrity Way, Louisville, KY:
+  lat: 38.22319
+  lng: -85.592193
 1800 Jalen Road, Louisville, KY: null
 ? 1800 Lincoln Ave, adjacent to the German American Club, to attend to a 66-year-old
   male who had fallen. The individual was unresponsive upon their arrival. EMS provided
@@ -7323,6 +7326,12 @@
   female experiencing shortness of breath, clammy skin, and paint on her person.,
   Louisville, KY
 : null
+? 600 South 40th Street for a 64-year-old male experiencing a seizure. Responders
+  arrived on scene to provide assistance and transport., Louisville, KY
+: null
+600 South 40th Street, Louisville, KY:
+  lat: 38.255478
+  lng: -85.817791
 600 South 41st Street, Louisville, KY:
   lat: 38.25563
   lng: -85.819148
