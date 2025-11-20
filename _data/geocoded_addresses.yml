@@ -1775,6 +1775,9 @@
 15900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+16 Compton St, Louisville, KY:
+  lat: 38.2139206
+  lng: -85.7691121
 1600 Arthur St, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
@@ -2629,6 +2632,9 @@
 ? 200 West at Cane Run Rd. The fire was located on the left side of the roadway. Engine
   21, Engine 9, and Quinn 25 responded to the scene., Louisville, KY
 : null
+200 West at Dixie Hwy, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West at I-265, Louisville, KY: null
 200 West at Virginia Ave, Louisville, KY: null
 ? 200 West at Virginia Ave. There were indications of possible injuries resulting
@@ -3156,6 +3162,9 @@
   potential gas leak. The odor was described by the caller as similar to gas or skunk
   spray near the apartment building's entrance., Louisville, KY
 : null
+2300 Woodland Ave, Louisville, KY:
+  lat: 38.233421
+  lng: -85.79377
 2300 block of Line Kill, Louisville, KY: null
 2300 block of Line Kill. Police units were dispatched to investigate the activation., Louisville, KY: null
 2319 Brownsboro Road, Louisville, KY:
@@ -8113,6 +8122,9 @@
 900 South 2nd Street., Louisville, KY:
   lat: 38.240765
   lng: -85.756042
+900 South 40th Street, Louisville, KY:
+  lat: 38.246544
+  lng: -85.818323
 ? 900 South 41st Street to attend to a medical emergency. Details regarding the nature
   of the call or the patient's condition were not immediately available., Louisville,
   KY
