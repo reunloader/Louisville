@@ -1339,6 +1339,9 @@
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+1200 Waycross Ave, Louisville, KY:
+  lat: 38.0938159
+  lng: -85.6538909
 1200 West Broadway, Louisville, KY:
   lat: 38.247499
   lng: -85.771798
@@ -4154,6 +4157,9 @@
 : lat: 38.2075282
   lng: -85.7654809
 2900 South District Number Fivember Five One Six, Louisville, KY: null
+2900 Southern Pky, Louisville, KY:
+  lat: 38.1747458
+  lng: -85.7745966
 2900 Springfield Dr, Louisville, KY:
   lat: 38.1472696
   lng: -85.8152738
@@ -5295,6 +5301,7 @@
   Louisville, KY
 : null
 3800 Little Bend Rd, Louisville, KY: null
+3800 Poplova Road, Louisville, KY: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
   The caller indicated they were attempting to control the flames with water. Firefighters
   arrived to assess and extinguish the brush fire., Louisville, KY
