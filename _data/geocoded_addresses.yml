@@ -2943,6 +2943,15 @@
 ? 200 near the I-15 interchange. Authorities were alerted to monitor the vehicle's
   behavior to prevent potential accidents., Louisville, KY
 : null
+200 overpass, Louisville, KY:
+  lat: 38.2039503
+  lng: -85.7607432
+200 overpass. The vehicle was later associated with the 1300 block of Breckenridge Road., Louisville, KY:
+  lat: 38.2039503
+  lng: -85.7607432
+200 overpass. This vehicle was linked to the 1300 block of Breckenridge Road., Louisville, KY:
+  lat: 38.2039503
+  lng: -85.7607432
 200 southbound at the 24.1 mile marker, Louisville, KY: null
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
@@ -9136,6 +9145,12 @@
   dispatched to the location., Louisville, KY
 : null
 9900 Corporate Campus Dr, Louisville, KY: null
+9900 Dixie Hwy, Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
+9900 Dixie Hwy. This call may have been initiated to confirm a status or as a potential welfare check., Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
 9900 Forest Green Blvd, Louisville, KY: null
 ? 9900 Forest Green Blvd. The deputy reported they would be clear of the scene after
   completing their assessment., Louisville, KY
