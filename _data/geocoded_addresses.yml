@@ -3233,6 +3233,9 @@
 227 Browns Lane, Louisville, KY:
   lat: 38.2332318
   lng: -85.6274014
+23 Stanley Ave, Louisville, KY:
+  lat: 38.1891921
+  lng: -85.7789464
 ? 2300 44th Street at the time of the report. This indicates a routine check-in and
   confirmation of availability., Louisville, KY
 : lat: 38.2534329
@@ -8536,6 +8539,9 @@
   medical situation involving an unresponsive 90-year-old individual., Louisville,
   KY
 : null
+900 Starlet Ct, Louisville, KY:
+  lat: 38.1067862
+  lng: -85.7642196
 900 Stoke-on-Trent, Louisville, KY: null
 900 Varble Ave, Louisville, KY:
   lat: 38.24953
