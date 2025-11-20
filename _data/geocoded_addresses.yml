@@ -659,6 +659,9 @@
   lng: -85.748955
 1000 South Third Street, Louisville, KY: null
 1000 South2nd Street, Louisville, KY: null
+1000 Southern Ave, Louisville, KY:
+  lat: 38.198171
+  lng: -85.639367
 ? 1000 Stonehouse Lane following a report of a person suspected of driving under the
   influence. The individual was reportedly parked in an SUV in the area. A K-9 unit
   was requested to assist officers at the scene. Authorities investigated the situation
@@ -701,6 +704,10 @@
 : null
 10000 Oak Bridge Cir, Louisville, KY: null
 10000 Oak Oak Bridge Cir, Louisville, KY: null
+10000 Place John, Louisville, KY: null
+? 10000 Place John. Specific details regarding the patient's condition or the nature
+  of the emergency were not immediately available., Louisville, KY
+: null
 10000 Silverwood Ln, Louisville, KY:
   lat: 38.107928
   lng: -85.8317157
@@ -1026,6 +1033,12 @@
 : lat: 38.2570952
   lng: -85.7609073
 11300 Pheasant Hill Cir. Responding units investigated the alarm activation., Louisville, KY: null
+? 11300 South 17th Street in response to a medical call. Further information about
+  the incident or the patient's condition was not provided., Louisville, KY
+: null
+11300 South 17th Street, Louisville, KY:
+  lat: 38.2569092
+  lng: -85.7784113
 11300 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
@@ -4531,6 +4544,13 @@
   for a 53-year-old female who was found unresponsive. Engine 6 confirmed they were
   en route to the location., Louisville, KY
 : null
+? 3100 Poplar Level Rd to attend to a 77-year-old male experiencing low blood sugar
+  and low blood pressure. The patient's condition required immediate medical attention.,
+  Louisville, KY
+: null
+3100 Poplar Level Rd, Louisville, KY:
+  lat: 38.2114486
+  lng: -85.7209123
 ? 3100 Quinn following a report of an overdose. There was concern that the incident
   might also involve a suicide attempt, given the individual's known history of mental
   health challenges., Louisville, KY
@@ -8037,6 +8057,7 @@
   the situation and address any potential issues., Louisville, KY
 : null
 7300 Beechhorns, Louisville, KY: null
+7300 E W Market St, Louisville, KY: null
 7300 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
