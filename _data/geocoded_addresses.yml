@@ -2683,6 +2683,13 @@
   the initial report. The details of this traffic stop are being processed., Louisville,
   KY
 : null
+200 East at Breckenridge, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+? 200 East at Breckenridge, also involving a white Honda SCRV and two black vehicles.
+  This incident also resulted in no reported injuries., Louisville, KY
+: lat: 38.1861148
+  lng: -85.7582215
 200 East at Southern Pky, Louisville, KY: null
 200 East at mile marker 17.6, Louisville, KY: null
 ? 200 East at mile marker 17.6. The vehicle, described as a blue TSO, had a flat tire,
@@ -2973,6 +2980,13 @@
 200 and120, Louisville, KY: null
 200 and301. The situation was addressed by responding officers., Louisville, KY: null
 200 at I-15, Louisville, KY: null
+? 200 at exit 18 involving a white Honda SCRV and two black vehicles. No injuries
+  were reported in this collision., Louisville, KY
+: lat: 38.2505653
+  lng: -85.722615
+200 at exit 18, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 200 eastbound to Newberg off ramp, Louisville, KY: null
 ? 200 eastbound to Newberg. Emergency medical services were already on scene and requested
   additional support from fire and police units., Louisville, KY
@@ -3995,6 +4009,8 @@
 2800 Riedling, Louisville, KY:
   lat: 38.2605231
   lng: -85.6930161
+2800 Rio Red Avenue, Louisville, KY: null
+2800 Rio Red Avenue, experiencing an unknown medical issue. EMS was dispatched to assess the situation., Louisville, KY: null
 2800 Rodman St, Louisville, KY:
   lat: 38.209019
   lng: -85.770048
@@ -5104,6 +5120,9 @@
 : lat: 38.2496687
   lng: -85.8109978
 3600 West Homeland, Louisville, KY: null
+3600 Wheeler Ave, Louisville, KY:
+  lat: 38.1942564
+  lng: -85.7886117
 ? 3600 Wheeler Avenue. The patient was reported to be suffering from abdominal pain.
   Responders attended to the individual's medical needs., Louisville, KY
 : null
@@ -5196,6 +5215,13 @@
   the situation., Louisville, KY
 : null
 3700 Tie In Place, Louisville, KY: null
+? 3700 W Wheatmore Dr for a 63-year-old male complaining of foot pain. The patient
+  had recently experienced an incident that may have contributed to his discomfort.,
+  Louisville, KY
+: null
+3700 W Wheatmore Dr, Louisville, KY:
+  lat: 38.1905624
+  lng: -85.7999149
 3700 Warren Ave, Louisville, KY:
   lat: 38.190927
   lng: -85.77663
@@ -8353,6 +8379,9 @@
 7900 Shelbyville Rd, Louisville, KY:
   lat: 38.2472183
   lng: -85.6103014
+7900 Shepard Road at Oxmoor Mall, Louisville, KY:
+  lat: 38.2465306
+  lng: -85.6101327
 7900 Westford Loop, Louisville, KY: null
 7900 Westport Loop. Responders were dispatched to help her regain entry., Louisville, KY: null
 7910 Brice Bramble Ln, Louisville, KY:
