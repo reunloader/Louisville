@@ -1167,6 +1167,11 @@
   caused by smoke from a microwave, and the situation was quickly resolved. All other
   responding units were cleared and returned to service., Louisville, KY
 : null
+? 1200 South 4th Street. Upon arrival, responders found that a smoke detector on the
+  second floor had been activated. Units were in the vicinity of West Horsby Avenue
+  and W Oak St., Louisville, KY
+: lat: 38.234898
+  lng: -85.7606273
 ? 1200 South 6th Street appeared to be experiencing confusion, possibly due to a spice
   overdose, and was not responding to questions., Louisville, KY
 : null
@@ -2294,6 +2299,10 @@
 1900 Integrity Way, Louisville, KY:
   lat: 38.224783
   lng: -85.592353
+? 1900 Muncie Ave in response to a domestic disturbance call. The reporting party
+  expressed concern that her ex-partner, who was speaking with her in her vehicle,
+  might be in possession of a firearm., Louisville, KY
+: null
 ? 1900 Muncie Ave. The petitioner indicated that the subject involved had departed
   the scene in a blue Honda vehicle, reportedly traveling through an alleyway. Police
   units were dispatched to investigate and potentially locate the vehicle., Louisville,
@@ -4557,6 +4566,11 @@
 3500 Fenwick Park Pl, Louisville, KY:
   lat: 38.200581
   lng: -85.602288
+? 3500 Georgetown Cir following a report of a possible suicide attempt. The caller
+  indicated that an argument was taking place and that the individual had attempted
+  to harm themselves. Responders staged in the vicinity while assessing the situation.,
+  Louisville, KY
+: null
 3500 Georgetown Cir, Louisville, KY:
   lat: 38.1957374
   lng: -85.7950925
@@ -8246,6 +8260,10 @@
 900 Eastern Star Ct, Louisville, KY:
   lat: 38.242879
   lng: -85.723559
+? 900 Eastern Star Ct. The alarm prompted an investigation into the cause, with units
+  crossing Highland Ave and Eastern Star Dr., Louisville, KY
+: lat: 38.242879
+  lng: -85.723559
 ? 900 Eastern Star Ct. The alarm was located in an area bordered by Crop St, Highland
   Ave, and Eastern Star Dr. The cause of the alarm was being investigated by responding
   personnel., Louisville, KY
@@ -8755,6 +8773,7 @@ Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
+Highland Ave and Eastern Star Dr, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
