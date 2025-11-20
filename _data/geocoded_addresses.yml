@@ -3119,6 +3119,13 @@
 227 Browns Lane, Louisville, KY:
   lat: 38.2332318
   lng: -85.6274014
+? 2300 44th Street at the time of the report. This indicates a routine check-in and
+  confirmation of availability., Louisville, KY
+: lat: 38.2534329
+  lng: -85.8250528
+2300 44th Street, Louisville, KY:
+  lat: 38.2534329
+  lng: -85.8250528
 2300 Brixton Rd, Louisville, KY: null
 2300 Brownsboro Road, Louisville, KY:
   lat: 38.2580757
