@@ -2738,6 +2738,13 @@
   The situation was resolved, and the vehicle was cleared from the area., Louisville,
   KY
 : null
+? 200 Fairlawn Rd where a 71-year-old female had fallen. Fortunately, she did not
+  appear to have sustained any injuries, and EMS was offered as a precautionary measure.,
+  Louisville, KY
+: null
+200 Fairlawn Rd, Louisville, KY:
+  lat: 38.252434
+  lng: -85.667052
 200 Fitzgerald Rd at Buckner Ave, Louisville, KY: null
 200 Garfield, Louisville, KY:
   lat: 38.2675142
@@ -4208,6 +4215,9 @@
   stop for observation, and no pursuit was initiated. A report was requested for documentation.,
   Louisville, KY
 : null
+300 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -5140,6 +5150,11 @@
 3700 Mamaroneck Rd, Louisville, KY:
   lat: 38.207964
   lng: -85.643813
+? 3700 Mena Terrace to attend to a medical emergency. The specific nature of the medical
+  issue and the patient's condition were not detailed in the initial report., Louisville,
+  KY
+: null
+3700 Mena Terrace, Louisville, KY: null
 3700 Miniaturist, Louisville, KY: null
 ? 3700 Momoronic Road involving a young child. Initially, the child was reported as
   not breathing, but upon dispatch, it was confirmed the child was breathing. EMS
@@ -5562,6 +5577,11 @@
   and police units responded to assess the scene and manage the situation., Louisville,
   KY
 : null
+? 400 River Hill Rd to investigate and manage a traffic accident. Further details
+  on the extent of the incident or any injuries were not immediately available., Louisville,
+  KY
+: null
+400 River Hill Rd, Louisville, KY: null
 400 Roberts Ave, Louisville, KY:
   lat: 38.157521
   lng: -85.764105
@@ -7460,6 +7480,7 @@
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
   lng: -85.5025766
+6400 Greten Ln, Louisville, KY: null
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
   lng: -85.6031247
