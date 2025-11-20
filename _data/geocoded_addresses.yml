@@ -134,6 +134,13 @@
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
+? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
+  both chest and abdominal pain, and medical personnel provided care., Louisville,
+  KY
+: null
+100 North 19th Street, Louisville, KY:
+  lat: 38.259502
+  lng: -85.781427
 100 North 35th Street, Louisville, KY:
   lat: 38.2624675
   lng: -85.808437
@@ -1168,6 +1175,9 @@
 1200 Monticello Forest Cir, Louisville, KY: null
 1200 Moore Ct and Elliott Park, Louisville, KY: null
 1200 Moore Hill Pl, Louisville, KY: null
+1200 North 19th Street, Louisville, KY:
+  lat: 38.2617759
+  lng: -85.7809235
 1200 Parish Down Road and the 400 block of Adam were involved in the communication., Louisville, KY: null
 1200 Parish Down Road, Louisville, KY: null
 ? 1200 Payne St in response to a report of a subject causing a disturbance. Officers
@@ -1590,6 +1600,13 @@
   KY
 : null
 1400 East Burnet Head, with instructions to reset the alarm if building personnel were unable to., Louisville, KY: null
+? 1400 Frankfort Ave to assist with an investigation. Officers were requested to access
+  the interior of a vehicle as part of their inquiry into a "Cisple East" incident.,
+  Louisville, KY
+: null
+1400 Frankfort Ave, Louisville, KY:
+  lat: 38.261073
+  lng: -85.723486
 1400 Gardiner Ln, Louisville, KY:
   lat: 38.2035036
   lng: -85.6889673
@@ -4942,6 +4959,9 @@
   no lingering hazards. The situation was resolved without further incident., Louisville,
   KY
 : null
+3700 Chatham Rd, Louisville, KY:
+  lat: 38.2060302
+  lng: -85.6382272
 ? 3700 Crest Ct Ct, with one resident reporting that their daughter was having her
   parking spot taken by a neighbor. The situation became more serious when the neighbor
   allegedly threatened to retrieve a weapon., Louisville, KY
@@ -5445,6 +5465,7 @@
   Louisville, KY
 : null
 400 South 8th Street. Medical assistance was provided to the patient., Louisville, KY: null
+400 South A Trent Ave Plaza, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
 ? 400 South Hubbard. The specific circumstances leading to the check were not detailed
   in the initial report., Louisville, KY
@@ -5590,6 +5611,9 @@
   who were reportedly pushing each other outside of a building., Louisville, KY
 : lat: 38.1980524
   lng: -85.765329
+4000 South 8th Street at Avenue Plaza, Louisville, KY:
+  lat: 38.247257
+  lng: -85.7649186
 4000 South Fifth Street, Louisville, KY: null
 4000 South Fifth Street. EMS was involved in the response, and the situation was cleared by dispatch., Louisville, KY: null
 4000 Summit Plaza Dr, Louisville, KY:
@@ -5613,6 +5637,9 @@
   lng: -85.8155151
 4000 W W Market St, Louisville, KY: null
 4000 W W W Market St, Louisville, KY: null
+4000 West Broadway, Louisville, KY:
+  lat: 38.2498825
+  lng: -85.8179864
 4000 Woodruff Ave to investigate a report of assault by harassment., Louisville, KY: null
 401 East Chestnut Street, Louisville, KY:
   lat: 38.2481221
@@ -6455,6 +6482,9 @@
 500 W Ashland Ave., Louisville, KY:
   lat: 38.1852278
   lng: -85.7691524
+500 W Jefferson St, Louisville, KY:
+  lat: 38.2538197
+  lng: -85.7591668
 500 W Liberty St, Louisville, KY:
   lat: 38.253265
   lng: -85.759729
@@ -6471,6 +6501,7 @@
 500 Wayne Rd, Louisville, KY:
   lat: 38.2007912
   lng: -85.8304039
+500 Wayne Wright, Louisville, KY: null
 500 Wood Valley Ln, Louisville, KY: null
 5000 Academy Park Cir, Louisville, KY: null
 5000 Chamberlain Ln, Louisville, KY:
@@ -9011,6 +9042,7 @@ Bridge Tracer Road and Crop St, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
+Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
 Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
@@ -9156,6 +9188,7 @@ Sears Ave and Oshley Avenue, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
 Shelby St and Eastern Parkway, Louisville, KY: null
+Shelbyville Rd and Beckley Creek Pky, Louisville, KY: null
 Shelbyville Rd and Bircham Rd, Louisville, KY: null
 Shelbyville Rd and Dorset Rd, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
