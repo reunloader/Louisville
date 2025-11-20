@@ -755,6 +755,10 @@
 10300 Gageland Rd, Louisville, KY:
   lat: 38.1485446
   lng: -85.8528443
+? 10300 King Oak Street Court. The call was for a 56-year-old female experiencing
+  difficulty breathing. She was reportedly waiting by the back door in a wheelchair
+  for assistance., Louisville, KY
+: null
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -770,6 +774,11 @@
 : lat: 38.101684
   lng: -85.846312
 10400 Shall Leave The Road, Louisville, KY: null
+? 10400 Shelbyville Rd. The collision involved a black Jeep and a silver Mercury,
+  with one report indicating a Mercedes. A concerned individual reported her husband
+  was in distress and requested immediate medical attention., Louisville, KY
+: lat: 38.2346744
+  lng: -85.4583861
 10500 Bay Pointe Ct, Louisville, KY:
   lat: 38.3026745
   lng: -85.5549039
@@ -2100,6 +2109,11 @@
   that their assistance was no longer required as the owner could manage the minor
   electrical overheat., Louisville, KY
 : null
+? 1600 South Hirsborne Parkway for a patient experiencing wheezing and shortness of
+  air. The individual, a 66-year-old female, was potentially suffering from pneumonia.
+  The location is near the I-64 ramp., Louisville, KY
+: lat: 38.2621141
+  lng: -85.7378387
 1600 South Third Street, Louisville, KY: null
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
@@ -6931,6 +6945,10 @@
   lat: 38.1349358
   lng: -85.6580689
 5500 Limits Street, Louisville, KY: null
+? 5500 New Cut Rd. The incident involved a person experiencing shortness of air, exacerbated
+  by heavy rain, with symptoms possibly related to asthma., Louisville, KY
+: lat: 38.14538
+  lng: -85.775274
 ? 5500 New Cut Road, near the Kroger store, following a report of a possible overdose.
   A 30-year-old female was found in a restroom, prompting a response from multiple
   units to provide medical assistance., Louisville, KY
@@ -9264,6 +9282,7 @@ Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
+Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
