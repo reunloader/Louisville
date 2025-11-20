@@ -4551,6 +4551,9 @@
 : null
 3300 Ducart, Louisville, KY: null
 3300 Fargotown Road, Louisville, KY: null
+3300 Hikes Ln, Louisville, KY:
+  lat: 38.218158
+  lng: -85.628398
 ? 3300 I-64 East. The individual, described as wearing a black jacket and pink leggings,
   was located near South Crest and I-65 South. EMS assessed the patient at the scene.,
   Louisville, KY
@@ -6443,6 +6446,9 @@
 ? 5000 North Bardstown Rd. Upon arrival, it was determined that a female at the scene
   had provided an incorrect passcode., Louisville, KY
 : null
+5000 Old Heady Rd, Louisville, KY:
+  lat: 38.171212
+  lng: -85.5265319
 ? 5000 Outer Loop in response to a reported disturbance. The incident involved a verbal
   dispute between individuals. Officers arrived to address the situation and work
   towards a peaceful resolution., Louisville, KY
@@ -8473,6 +8479,9 @@
 900 Denmark St, Louisville, KY:
   lat: 38.1954766
   lng: -85.7750404
+900 East Ali, Louisville, KY:
+  lat: 38.248781
+  lng: -85.736592
 900 Eastern Star Ct, Louisville, KY:
   lat: 38.242879
   lng: -85.723559
@@ -8782,6 +8791,9 @@
 9600 Cedar Heights Ct, Louisville, KY:
   lat: 38.133585
   lng: -85.59457
+9600 Dixie Hwy, Louisville, KY:
+  lat: 38.1174114
+  lng: -85.8594242
 9600 Dock Rd, Louisville, KY:
   lat: 38.1312704
   lng: -85.5931443
