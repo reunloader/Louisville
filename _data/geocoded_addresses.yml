@@ -662,6 +662,7 @@
 1000 West Broadway, Louisville, KY:
   lat: 38.24673
   lng: -85.7687534
+1000 West Chess Street, Louisville, KY: null
 ? 1000 West Main Street. Upon arrival, firefighters began their investigation to determine
   the cause of the activation. They systematically checked the premises to ensure
   there was no immediate danger. The alarm was ultimately found to be a false alarm,
@@ -8896,6 +8897,7 @@ Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
+Cain Ln and Tiny Ln, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
 Cane Run Road and Ralph Avenue, Louisville, KY: null
 Cannons Ln and Old Cannons Ln, Louisville, KY: null
@@ -9060,6 +9062,9 @@ Stone School Rd and Kilner Drive, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
+Taylor Ave and Central Ave, Louisville, KY:
+  lat: 38.2064205
+  lng: -85.7764181
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
