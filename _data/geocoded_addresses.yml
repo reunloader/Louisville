@@ -2443,6 +2443,9 @@
   KY
 : lat: 38.260796
   lng: -85.715043
+1900 Muncie, Louisville, KY:
+  lat: 38.260796
+  lng: -85.715043
 1900 Newburg Rd, Louisville, KY:
   lat: 38.221707
   lng: -85.710457
@@ -2926,6 +2929,15 @@
 2000 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
+2000 Brownsboro Rd at Thorntons, Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
+? 2000 Brownsboro Rd. A person being picked up for a job interview reportedly refused
+  to exit a vehicle and made alarming statements, claiming to possess a knife, gun,
+  and cocaine. Police units were dispatched to the scene to address the situation.,
+  Louisville, KY
+: lat: 38.259507
+  lng: -85.707085
 2000 Brownsboro Rd., Louisville, KY:
   lat: 38.259507
   lng: -85.707085
@@ -7667,6 +7679,13 @@
   under the influence of alcohol., Louisville, KY
 : null
 700 I-65 South, Louisville, KY: null
+? 700 Iowa Ave following a request for a death notification. Responders were sent
+  to the location to provide support and deliver sensitive news to the affected individuals.,
+  Louisville, KY
+: null
+700 Iowa Ave, Louisville, KY:
+  lat: 38.208257
+  lng: -85.770815
 700 Lakeheath Dr, Louisville, KY:
   lat: 38.1714069
   lng: -85.701805
