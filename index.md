@@ -5,67 +5,40 @@ title: Live Feed
 
 <style>
   .post-card {
-    display: flex;
-    gap: 20px;
     margin-bottom: 20px;
   }
 
-  .post-main-content {
-    flex: 1;
-  }
-
-  .post-map-preview {
-    flex-shrink: 0;
-    width: 180px;
-    height: 180px;
-  }
-
-  .map-thumbnail {
-    width: 100%;
-    height: 100%;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    display: block;
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-
-  .map-thumbnail:hover {
-    transform: scale(1.05);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
-  }
-
-  .location-pending {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background: #f5f5f5;
-    border-radius: 8px;
-    border: 2px dashed #ccc;
+  .location-links {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #eee;
     font-size: 14px;
+  }
+
+  .location-links strong {
     color: #666;
-    text-align: center;
-    padding: 10px;
+    margin-right: 8px;
   }
 
-  .location-pending .icon {
-    font-size: 32px;
-    margin-bottom: 8px;
+  .location-link {
+    display: inline-block;
+    margin-right: 12px;
+    margin-bottom: 6px;
+    color: #2A81CB;
+    text-decoration: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background: #f0f7ff;
+    transition: background 0.2s;
   }
 
-  /* Mobile responsive */
-  @media screen and (max-width: 768px) {
-    .post-card {
-      flex-direction: column;
-    }
+  .location-link:hover {
+    background: #d4ebff;
+    text-decoration: underline;
+  }
 
-    .post-map-preview {
-      width: 100%;
-      height: 200px;
-      order: -1; /* Show map on top on mobile */
-    }
+  .location-link::before {
+    content: "📍 ";
   }
 </style>
 
@@ -79,18 +52,14 @@ Live updates from public Louisville Metro safety feeds. Check back often for the
   {% unless post.categories contains 'daily-digest' %}
     {% if counter < 150 %}
       <div class="post-card" data-post-index="{{ counter }}">
-        <div class="post-main-content">
-          <span class="post-meta">{{ post.date | date: "%B %-d, %Y at %I:%M %p EST" }}</span>
-          <h3>{{ post.title }}</h3>
+        <span class="post-meta">{{ post.date | date: "%B %-d, %Y at %I:%M %p EST" }}</span>
+        <h3>{{ post.title }}</h3>
 
-          <div class="post-content" data-content="{{ post.content | strip_html | escape }}">
-            {{ post.content }}
-          </div>
+        <div class="post-content" data-content="{{ post.content | strip_html | escape }}">
+          {{ post.content }}
         </div>
 
-        <div class="post-map-preview" id="map-preview-{{ counter }}">
-          <!-- Map preview will be injected here by JavaScript -->
-        </div>
+        <div class="location-links" id="location-links-{{ counter }}"></div>
       </div>
       <hr style="margin: 25px 0; border-top: 1px dashed #ccc;">
       {% assign counter = counter | plus: 1 %}
@@ -107,7 +76,7 @@ Live updates from public Louisville Metro safety feeds. Check back often for the
   function extractAddresses(content) {
     const addresses = [];
 
-    // Pattern 1: "block of Street Name" (e.g., "100 block of Sears Ave")
+    // Pattern 1: "block of Street Name" (e.g., "2400 block of Broadway")
     const blockPattern = /(\d+)\s+block\s+of\s+([^–\n,.]+?)(?=\s*[,.]|\s*–|\s*\n|$)/gi;
 
     // Pattern 2: "Street and Street" intersections
@@ -139,23 +108,15 @@ Live updates from public Louisville Metro safety feeds. Check back often for the
     return [...new Set(addresses)]; // Remove duplicates
   }
 
-  // Generate static map URL using OpenStreetMap tiles
-  function generateStaticMapUrl(lat, lng, zoom = 15) {
-    // Using OpenStreetMap Static Map API
-    const width = 360;
-    const height = 360;
-    return `https://staticmap.openstreetmap.de/staticmap.php?center=${lat},${lng}&zoom=${zoom}&size=${width}x${height}&markers=${lat},${lng},red`;
-  }
-
-  // Process each post and add map previews
+  // Process each post and add clickable location links
   document.addEventListener('DOMContentLoaded', function() {
     const postCards = document.querySelectorAll('.post-card');
 
     postCards.forEach((card, index) => {
       const contentEl = card.querySelector('.post-content');
-      const mapPreviewEl = card.querySelector('.post-map-preview');
+      const locationLinksEl = card.querySelector('.location-links');
 
-      if (!contentEl || !mapPreviewEl) return;
+      if (!contentEl || !locationLinksEl) return;
 
       // Get the content text
       const content = contentEl.getAttribute('data-content') || contentEl.textContent;
@@ -164,51 +125,34 @@ Live updates from public Louisville Metro safety feeds. Check back often for the
       const addresses = extractAddresses(content);
 
       if (addresses.length === 0) {
-        // No address found
-        mapPreviewEl.innerHTML = `
-          <div class="location-pending">
-            <div class="icon">📍</div>
-            <div>No location detected</div>
-          </div>
-        `;
+        locationLinksEl.style.display = 'none';
         return;
       }
 
-      // Try to find coordinates for the first address
-      let coords = null;
-      let matchedAddress = null;
+      // Find all geocoded addresses for this post
+      const geocodedLinks = [];
 
       for (const address of addresses) {
         if (geocodedAddresses[address] && geocodedAddresses[address] !== null) {
-          coords = geocodedAddresses[address];
-          matchedAddress = address;
-          break;
+          const coords = geocodedAddresses[address];
+          const displayAddress = address.replace(', Louisville, KY', '');
+          const mapUrl = `/map/?center=${coords.lat},${coords.lng}&zoom=16`;
+
+          geocodedLinks.push({
+            address: displayAddress,
+            url: mapUrl
+          });
         }
       }
 
-      if (coords && coords.lat && coords.lng) {
-        // We have coordinates! Show map thumbnail
-        const mapUrl = `/map/?center=${coords.lat},${coords.lng}&zoom=16`;
-        const staticMapUrl = generateStaticMapUrl(coords.lat, coords.lng, 15);
+      if (geocodedLinks.length > 0) {
+        const linksHtml = geocodedLinks.map(link =>
+          `<a href="${link.url}" class="location-link" title="View ${link.address} on map">${link.address}</a>`
+        ).join('');
 
-        mapPreviewEl.innerHTML = `
-          <a href="${mapUrl}" title="View on interactive map: ${matchedAddress}">
-            <img src="${staticMapUrl}"
-                 alt="Map preview of ${matchedAddress}"
-                 class="map-thumbnail"
-                 loading="lazy">
-          </a>
-        `;
+        locationLinksEl.innerHTML = `<strong>Location${geocodedLinks.length > 1 ? 's' : ''}:</strong> ${linksHtml}`;
       } else {
-        // Address found but not geocoded yet
-        const displayAddress = addresses[0].replace(', Louisville, KY', '');
-        mapPreviewEl.innerHTML = `
-          <div class="location-pending">
-            <div class="icon">📍</div>
-            <div>${displayAddress}</div>
-            <div style="font-size: 11px; margin-top: 5px; opacity: 0.7;">Geocoding pending</div>
-          </div>
-        `;
+        locationLinksEl.style.display = 'none';
       }
     });
   });
