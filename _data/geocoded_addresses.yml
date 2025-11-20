@@ -2418,6 +2418,9 @@
 200 East at the 65 South on-ramp, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at the off-ramp to I-64, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near exit 19A, Louisville, KY: null
@@ -2981,6 +2984,9 @@
   frame structure, with smoke visible. The occupant reported the fire spreading up
   the walls., Louisville, KY
 : null
+2200 Gerald Ct, Louisville, KY:
+  lat: 38.200334
+  lng: -85.661724
 2200 Hale Ave, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
@@ -6758,6 +6764,7 @@
   lat: 38.1613928
   lng: -85.7001322
 6200 Preston. Further assistance was requested by officers already on the scene to manage the situation., Louisville, KY: null
+6200 Richiewayne Dr, Louisville, KY: null
 6200 South 36th Street, Louisville, KY: null
 6200 South 36th Street. The status of this call was subject to suspension., Louisville, KY:
   lat: 38.2305239
