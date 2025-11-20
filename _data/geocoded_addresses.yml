@@ -4094,6 +4094,9 @@
 300 W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY:
   lat: 38.220488
   lng: -85.761346
+300 W Chestnut St, Louisville, KY:
+  lat: 38.2486683
+  lng: -85.7563843
 300 W Jefferson St, Louisville, KY:
   lat: 38.25359
   lng: -85.755541
@@ -5453,6 +5456,9 @@
 4000 South Fifth Street, Louisville, KY: null
 4000 South Fifth Street. EMS was involved in the response, and the situation was cleared by dispatch., Louisville, KY: null
 4000 Summit Positive Drive, Louisville, KY: null
+4000 Taylor Ave, Louisville, KY:
+  lat: 38.2016802
+  lng: -85.7027508
 ? 4000 Taylor Boulevard. The call was related to the service of an Emergency Protective
   Order. Unit 136 responded to the location to handle the situation. Officers worked
   to ensure the safety of all parties involved according to the order., Louisville,
@@ -7348,6 +7354,9 @@
 700 E Main St, Louisville, KY:
   lat: 38.254691
   lng: -85.739665
+700 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
