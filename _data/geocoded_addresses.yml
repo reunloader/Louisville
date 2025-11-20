@@ -2902,6 +2902,9 @@
 200 W Jefferson St, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
+200 W Oak St, Louisville, KY:
+  lat: 38.234647
+  lng: -85.757169
 200 West Broadway, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
@@ -4480,6 +4483,9 @@
 3000 Hikes Lane 8:00 a.m.AM, Louisville, KY: null
 3000 Hunsinger Blvd, Louisville, KY: null
 3000 I 65 South, Louisville, KY: null
+3000 Industrial Blvd, Louisville, KY:
+  lat: 38.1544975
+  lng: -85.7088219
 3000 K long drive, Louisville, KY: null
 ? 3000 Kersel Road. Responding units arrived to investigate the alarm at Honey Brothers.
   The situation was assessed by responding personnel., Louisville, KY
@@ -8459,6 +8465,9 @@
 : null
 800 Edith Rose and the 400 block of Baker., Louisville, KY: null
 800 Edith Rose, Louisville, KY: null
+800 Foxgate Rd, Louisville, KY:
+  lat: 38.252958
+  lng: -85.552025
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
 800 I 64 East, Louisville, KY: null
 800 I 64 West, Louisville, KY: null
