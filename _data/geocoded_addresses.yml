@@ -2986,6 +2986,9 @@
 2100 Pleasure Walk Cir, Louisville, KY:
   lat: 38.1420312
   lng: -85.8676603
+2100 Railroad Ave, Louisville, KY:
+  lat: 38.147278
+  lng: -85.8504609
 2100 River Hill Rd, Louisville, KY: null
 ? 2100 River Hill Rd, at the intersection of Woodhill Ln, for a public assist call.
   A 75-year-old male had fallen and required assistance to get back up. Engine 41
@@ -7719,6 +7722,10 @@
   was sounding. A neighbor alerted authorities after receiving no response when knocking.
   Fire units were dispatched to assess and manage the situation., Louisville, KY
 : null
+7400 Steve Cross Circle, Louisville, KY: null
+? 7400 Steve Cross Circle. Responding units were dispatched to the area to assess
+  the situation and ensure public safety., Louisville, KY
+: null
 7400 W Manslick Rd, Louisville, KY:
   lat: 38.1083742
   lng: -85.762655
@@ -8773,6 +8780,7 @@ Cedar Creek Rd and Cedar Garden Dr, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
+Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
@@ -8823,6 +8831,7 @@ Grinstead Dr and Ray Ave, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
+Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
@@ -8830,6 +8839,7 @@ Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
+Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
@@ -8914,6 +8924,8 @@ South Second Street and Ellington Ave, Louisville, KY: null
 Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
+Spring Dr and Rock Bay Dr, Louisville, KY: null
+Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
 Stone School Rd and Kilner Drive, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null

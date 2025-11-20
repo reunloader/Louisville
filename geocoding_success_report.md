@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-11-20 09:13:41
+**Generated:** 2025-11-20 09:22:25
 
 ---
 
@@ -8,21 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 3,545 |
-| **Successfully Geocoded** | 1,423 |
-| **Failed to Geocode** | 2,122 |
-| **Success Rate** | 40.14% |
-| **Failure Rate** | 59.86% |
+| **Total Addresses** | 3,553 |
+| **Successfully Geocoded** | 1,424 |
+| **Failed to Geocode** | 2,129 |
+| **Success Rate** | 40.08% |
+| **Failure Rate** | 59.92% |
 
 ---
 
 ## Recent Changes
 
-- **3** new addresses processed
-- **3** successfully geocoded
-- **0** failed to geocode
-- **This batch success rate: 100.00%** 🎯
-- Overall rate changed by **+0.05%** 📈
+- **8** new addresses processed
+- **1** successfully geocoded
+- **7** failed to geocode
+- **This batch success rate: 12.50%** ⚠️
+- Overall rate changed by **-0.06%** 📉
 
 ---
 
@@ -30,10 +30,10 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 996 | 46.9% |
-| Incomplete/vague address | 337 | 15.9% |
-| Other/Unknown | 320 | 15.1% |
-| Intersection format | 274 | 12.9% |
+| Contains location qualifiers (near/at) | 999 | 46.9% |
+| Incomplete/vague address | 337 | 15.8% |
+| Other/Unknown | 321 | 15.1% |
+| Intersection format | 277 | 13.0% |
 | Contains extra sentences/context | 193 | 9.1% |
 | Police phonetic codes | 2 | 0.1% |
 
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-11-20 | 3 | 2 | 66.7% 🎯 | 3,517 | 40.03% |
 | 2025-11-20 | 1 | 1 | 100.0% 🎯 | 3,518 | 40.05% |
 | 2025-11-20 | 5 | 2 | 40.0% ⚡ | 3,523 | 40.05% |
 | 2025-11-20 | 1 | 0 | 0.0% ⚠️ | 3,524 | 40.04% |
@@ -53,6 +52,7 @@
 | 2025-11-20 | 5 | 4 | 80.0% 🎯 | 3,536 | 40.10% |
 | 2025-11-20 | 6 | 2 | 33.3% ⚡ | 3,542 | 40.09% |
 | 2025-11-20 | 3 | 3 | 100.0% 🎯 | 3,545 | 40.14% |
+| 2025-11-20 | 8 | 1 | 12.5% ⚠️ | 3,553 | 40.08% |
 
 ---
 
