@@ -4366,6 +4366,9 @@
 3200 Young Ave, Louisville, KY:
   lat: 38.229848
   lng: -85.8087546
+3200 Zilma Dr, Louisville, KY:
+  lat: 38.1869231
+  lng: -85.8574824
 3201 East Indian Trail, Evening, Louisville, KY: null
 ? 3300 Bardstown Road due to reports of smoke in the area. The smoke was observed
   in the rear of the property, near an area where individuals often gather. Upon arrival,
@@ -6127,6 +6130,7 @@
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
+500 Nottingham Pky, Louisville, KY: null
 500 Perby, Louisville, KY: null
 ? 500 Perby. The exact nature of the alarm activation was not specified in the initial
   report. Further information regarding the resolution of this alarm is pending.,
@@ -8406,6 +8410,9 @@
 9400 Amber Ridge Ct, Louisville, KY:
   lat: 38.1181052
   lng: -85.8399305
+9400 Chambers Way, Louisville, KY:
+  lat: 38.1117849
+  lng: -85.6496184
 9400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1065975
   lng: -85.5001371
