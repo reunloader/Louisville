@@ -7,6 +7,10 @@
 01 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
+03 Arlington Ave, Louisville, KY:
+  lat: 38.2545625
+  lng: -85.7142596
+04 Knoblet Drive, Louisville, KY: null
 ? 100 13th Street at Chestnut View Ct. A VIN check was requested, which revealed the
   vehicle was a Lincoln MKX sedan registered in Maryland. The stop was cleared a few
   minutes later., Louisville, KY
@@ -1804,6 +1808,13 @@
 16 Compton St, Louisville, KY:
   lat: 38.2139206
   lng: -85.7691121
+? 1600 Arlington Ave to address a medical emergency. Further information regarding
+  the patient's condition or the cause of the emergency was not immediately available.,
+  Louisville, KY
+: null
+1600 Arlington Ave, Louisville, KY:
+  lat: 38.25511
+  lng: -85.718685
 1600 Arthur St, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
@@ -6928,6 +6939,14 @@
   a son and his girlfriend who were reportedly fighting, arguing, and throwing objects.,
   Louisville, KY
 : null
+6300 Summer Lake Dr, Louisville, KY:
+  lat: 38.0763892
+  lng: -85.874707
+? 6300 Summer Lake Dr, near Autumn Lake, for a medical emergency. The specific details
+  of the medical situation were not provided in the dispatch information., Louisville,
+  KY
+: lat: 38.0763892
+  lng: -85.874707
 6300 Sydney Renee Way, Louisville, KY:
   lat: 38.0796483
   lng: -85.8768468
