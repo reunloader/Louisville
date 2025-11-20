@@ -8,37 +8,20 @@ title: Live Feed
     margin-bottom: 20px;
   }
 
-  .location-links {
-    margin-top: 12px;
-    padding-top: 12px;
-    border-top: 1px solid #eee;
-    font-size: 14px;
-  }
-
-  .location-links strong {
-    color: #666;
-    margin-right: 8px;
-  }
-
-  .location-link {
-    display: inline-block;
-    margin-right: 12px;
-    margin-bottom: 6px;
+  .inline-location-link {
     color: #2A81CB;
-    text-decoration: none;
-    padding: 4px 8px;
-    border-radius: 4px;
-    background: #f0f7ff;
-    transition: background 0.2s;
-  }
-
-  .location-link:hover {
-    background: #d4ebff;
     text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    cursor: pointer;
+    transition: all 0.2s;
   }
 
-  .location-link::before {
-    content: "📍 ";
+  .inline-location-link:hover {
+    color: #1a5a8a;
+    text-decoration-style: solid;
+    text-decoration-thickness: 2px;
   }
 </style>
 
@@ -55,11 +38,9 @@ Live updates from public Louisville Metro safety feeds. Check back often for the
         <span class="post-meta">{{ post.date | date: "%B %-d, %Y at %I:%M %p EST" }}</span>
         <h3>{{ post.title }}</h3>
 
-        <div class="post-content" data-content="{{ post.content | strip_html | escape }}">
+        <div class="post-content">
           {{ post.content }}
         </div>
-
-        <div class="location-links" id="location-links-{{ counter }}"></div>
       </div>
       <hr style="margin: 25px 0; border-top: 1px dashed #ccc;">
       {% assign counter = counter | plus: 1 %}
@@ -72,88 +53,140 @@ Live updates from public Louisville Metro safety feeds. Check back often for the
   // Inject geocoded addresses data from Jekyll
   const geocodedAddresses = {{ site.data.geocoded_addresses | jsonify }};
 
-  // Extract addresses from event content (same logic as map.html)
-  function extractAddresses(content) {
-    const addresses = [];
+  // Extract addresses and their positions from content
+  function findAddressesInContent(content) {
+    const found = [];
 
     // Pattern 1: "block of Street Name" (e.g., "2400 block of Broadway")
-    const blockPattern = /(\d+)\s+block\s+of\s+([^–\n,.]+?)(?=\s*[,.]|\s*–|\s*\n|$)/gi;
+    const blockPattern = /(\d+\s+block\s+of\s+[^–\n,.]+?)(?=\s*[,.]|\s*–|\s*\n|$)/gi;
 
     // Pattern 2: "Street and Street" intersections
     const intersectionPattern = /([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\s+and\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))/gi;
 
     // Pattern 3: Full addresses (e.g., "4512 Tray Place")
-    const fullAddressPattern = /\b(\d+)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Place|Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\b/g;
+    const fullAddressPattern = /\b(\d+\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Place|Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\b/g;
 
     let match;
 
-    // Extract block addresses
+    // Find block addresses
     while ((match = blockPattern.exec(content)) !== null) {
-      addresses.push(`${match[1]} ${match[2].trim()}, Louisville, KY`);
+      const addressText = match[1].trim();
+      const normalizedAddress = addressText + ', Louisville, KY';
+      found.push({
+        text: addressText,
+        normalized: normalizedAddress,
+        index: match.index,
+        length: addressText.length
+      });
     }
 
-    // Extract intersections
+    // Reset regex
+    blockPattern.lastIndex = 0;
+    intersectionPattern.lastIndex = 0;
+    fullAddressPattern.lastIndex = 0;
+
+    // Find intersections
     while ((match = intersectionPattern.exec(content)) !== null) {
-      addresses.push(`${match[1].trim()} and ${match[2].trim()}, Louisville, KY`);
-    }
-
-    // Extract full addresses (if not already captured)
-    while ((match = fullAddressPattern.exec(content)) !== null) {
-      const addr = `${match[1]} ${match[2].trim()}, Louisville, KY`;
-      if (!addresses.some(a => a.includes(match[2].trim()))) {
-        addresses.push(addr);
+      const addressText = match[0].trim();
+      const normalizedAddress = addressText + ', Louisville, KY';
+      // Check if we haven't already found this position
+      if (!found.some(f => Math.abs(f.index - match.index) < 5)) {
+        found.push({
+          text: addressText,
+          normalized: normalizedAddress,
+          index: match.index,
+          length: addressText.length
+        });
       }
     }
 
-    return [...new Set(addresses)]; // Remove duplicates
+    intersectionPattern.lastIndex = 0;
+
+    // Find full addresses
+    while ((match = fullAddressPattern.exec(content)) !== null) {
+      const addressText = match[1].trim();
+      const normalizedAddress = addressText + ', Louisville, KY';
+      // Check if we haven't already found this position
+      if (!found.some(f => Math.abs(f.index - match.index) < 5)) {
+        found.push({
+          text: addressText,
+          normalized: normalizedAddress,
+          index: match.index,
+          length: addressText.length
+        });
+      }
+    }
+
+    // Sort by index (position in text)
+    found.sort((a, b) => a.index - b.index);
+
+    return found;
   }
 
-  // Process each post and add clickable location links
+  // Make addresses clickable inline
+  function makeAddressesClickable(element) {
+    // Get all text nodes
+    const walker = document.createTreeWalker(
+      element,
+      NodeFilter.SHOW_TEXT,
+      null,
+      false
+    );
+
+    const textNodes = [];
+    let node;
+    while (node = walker.nextNode()) {
+      // Skip if parent is already a link or script
+      if (node.parentElement && !['A', 'SCRIPT', 'STYLE'].includes(node.parentElement.tagName)) {
+        textNodes.push(node);
+      }
+    }
+
+    // Process each text node
+    textNodes.forEach(textNode => {
+      const content = textNode.textContent;
+      const addresses = findAddressesInContent(content);
+
+      if (addresses.length === 0) return;
+
+      // Check which addresses are geocoded
+      const geocodedAddresses_local = addresses.filter(addr => {
+        const coords = geocodedAddresses[addr.normalized];
+        return coords && coords !== null;
+      });
+
+      if (geocodedAddresses_local.length === 0) return;
+
+      // Build replacement HTML
+      let html = content;
+      let offset = 0;
+
+      // Replace addresses with links (in reverse order to maintain indices)
+      geocodedAddresses_local.reverse().forEach(addr => {
+        const coords = geocodedAddresses[addr.normalized];
+        const mapUrl = `/map/?center=${coords.lat},${coords.lng}&zoom=16`;
+
+        const before = html.substring(0, addr.index);
+        const after = html.substring(addr.index + addr.text.length);
+
+        const link = `<a href="${mapUrl}" class="inline-location-link" title="View on map: ${addr.text}">${addr.text}</a>`;
+
+        html = before + link + after;
+      });
+
+      // Replace the text node with the new HTML
+      const span = document.createElement('span');
+      span.innerHTML = html;
+      textNode.parentNode.replaceChild(span, textNode);
+    });
+  }
+
+  // Process all posts
   document.addEventListener('DOMContentLoaded', function() {
-    const postCards = document.querySelectorAll('.post-card');
+    const postContents = document.querySelectorAll('.post-content');
 
-    postCards.forEach((card, index) => {
-      const contentEl = card.querySelector('.post-content');
-      const locationLinksEl = card.querySelector('.location-links');
-
-      if (!contentEl || !locationLinksEl) return;
-
-      // Get the content text
-      const content = contentEl.getAttribute('data-content') || contentEl.textContent;
-
-      // Extract addresses
-      const addresses = extractAddresses(content);
-
-      if (addresses.length === 0) {
-        locationLinksEl.style.display = 'none';
-        return;
-      }
-
-      // Find all geocoded addresses for this post
-      const geocodedLinks = [];
-
-      for (const address of addresses) {
-        if (geocodedAddresses[address] && geocodedAddresses[address] !== null) {
-          const coords = geocodedAddresses[address];
-          const displayAddress = address.replace(', Louisville, KY', '');
-          const mapUrl = `/map/?center=${coords.lat},${coords.lng}&zoom=16`;
-
-          geocodedLinks.push({
-            address: displayAddress,
-            url: mapUrl
-          });
-        }
-      }
-
-      if (geocodedLinks.length > 0) {
-        const linksHtml = geocodedLinks.map(link =>
-          `<a href="${link.url}" class="location-link" title="View ${link.address} on map">${link.address}</a>`
-        ).join('');
-
-        locationLinksEl.innerHTML = `<strong>Location${geocodedLinks.length > 1 ? 's' : ''}:</strong> ${linksHtml}`;
-      } else {
-        locationLinksEl.style.display = 'none';
-      }
+    postContents.forEach(contentEl => {
+      makeAddressesClickable(contentEl);
     });
   });
 </script>
