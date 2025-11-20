@@ -224,6 +224,7 @@
   assistance. A critical update was relayed that CPR was in progress, indicating the
   severity of the patient's condition., Louisville, KY
 : null
+100 South Second Street Courtyard, Louisville, KY: null
 100 Spring Creek Ct., Louisville, KY: null
 100 Stanley Ave, Louisville, KY:
   lat: 38.1891921
@@ -4322,6 +4323,7 @@
   condition. The call was handled by Quint 52, who confirmed they were responding
   to the medical emergency., Louisville, KY
 : null
+3400 Dill Park Terrace, Louisville, KY: null
 3400 Dutchman's Lane, Louisville, KY: null
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
@@ -6339,6 +6341,7 @@
 5500 Bardstown Rd, Louisville, KY:
   lat: 38.166274
   lng: -85.601225
+5500 Down Maria Way, Louisville, KY: null
 5500 Euclid Ave, Louisville, KY:
   lat: 38.1192754
   lng: -85.863372
@@ -7558,6 +7561,7 @@
 7700 Outer Loop, Louisville, KY:
   lat: 38.1370967
   lng: -85.6184393
+7700 St. St Anthony Church Rd, Louisville, KY: null
 77600 Bryce Quartz, Louisville, KY: null
 7800 Apple Valley Dr, Louisville, KY:
   lat: 38.1351054
@@ -8017,6 +8021,11 @@
   lat: 38.1197316
   lng: -85.6481369
 8900 Novel Street, Louisville, KY: null
+? 8900 St. St Anthony Church Rd. Shortly after, a single-vehicle accident was reported
+  in the 7700 block of St. St Anthony Church Rd, where a utility pole appeared to
+  have been pulled down. EMS was dispatched to assess for injuries., Louisville, KY
+: lat: 38.1253447
+  lng: -85.868006
 8900 Talon Ridge Jog, Louisville, KY: null
 8900 US Highway 42, Louisville, KY: null
 8900 Willowcreek Dr, Louisville, KY:
