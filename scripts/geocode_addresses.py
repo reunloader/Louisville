@@ -43,6 +43,35 @@ def normalize_address(address: str) -> str:
     suffix = ", Louisville, KY"
     addr_part = address[:-len(suffix)] if address.endswith(suffix) else address
 
+    # Remove extra text after the address by stopping at common separators
+    # These words typically indicate the address has ended and context has begun
+    separators = [
+        r'\s+for\s+',         # "600 South 40th Street for a 64-year-old"
+        r'\s+to\s+',          # "100 Main St to investigate"
+        r'\s+where\s+',       # "100 Main St where officers found"
+        r'\s+following\s+',   # "100 Main St following a report"
+        r'\s+after\s+',       # "100 Main St after receiving"
+        r'\s+regarding\s+',   # "100 Main St regarding an incident"
+        r'\s+on\s+',          # "100 Main St on a report" (but keep "on Street")
+        r'\s+in\s+response\s+', # "100 Main St in response to"
+        r'\s+due\s+to\s+',    # "100 Main St due to"
+        r'\.',                # Stop at periods (likely new sentence)
+    ]
+
+    for sep_pattern in separators:
+        match = re.search(sep_pattern, addr_part, re.IGNORECASE)
+        if match:
+            # Special case: don't split on "on" if it's part of a street name like "Main on Street"
+            if sep_pattern == r'\s+on\s+':
+                # Check if "on" is followed by a street type (Street, Ave, etc)
+                after_on = addr_part[match.end():]
+                if not re.match(r'^(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln)\b', after_on, re.IGNORECASE):
+                    addr_part = addr_part[:match.start()]
+                    break
+            else:
+                addr_part = addr_part[:match.start()]
+                break
+
     # Fix common OCR/typo errors for highways
     # "at65" or "at64" → "I-65", "I-64"
     addr_part = re.sub(r'\bat(\d{2,3})\b', r'I-\1', addr_part, flags=re.IGNORECASE)
