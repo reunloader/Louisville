@@ -225,6 +225,9 @@
   severity of the patient's condition., Louisville, KY
 : null
 100 South Second Street Courtyard, Louisville, KY: null
+100 South Shelby, Louisville, KY:
+  lat: 38.254461
+  lng: -85.737913
 100 Spring Creek Ct., Louisville, KY: null
 100 Stanley Ave, Louisville, KY:
   lat: 38.1891921
@@ -2993,6 +2996,9 @@
 2200 Gerald Ct, Louisville, KY:
   lat: 38.200334
   lng: -85.661724
+2200 Greenbelt Hwy, Louisville, KY:
+  lat: 38.1635691
+  lng: -85.8795608
 2200 Hale Ave, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
@@ -3690,6 +3696,9 @@
 2900 Bon Air, Louisville, KY:
   lat: 38.2083483
   lng: -85.6587646
+2900 Bowman Ave, Louisville, KY:
+  lat: 38.2230556
+  lng: -85.6555702
 2900 Breckenridge Lane, [Date] 5:00 p.m.AM, Louisville, KY: null
 ? 2900 Breckenridge Lane. Responding officers were sent to investigate the situation.
   Further details on the nature of the alarm or any findings are not immediately available.,
@@ -6308,6 +6317,9 @@
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
   lng: -85.773438
+5300 Citation Rd, Louisville, KY:
+  lat: 38.113786
+  lng: -85.863865
 5300 Devers Ave, Louisville, KY:
   lat: 38.171182
   lng: -85.77444
@@ -6839,6 +6851,9 @@
   lng: -85.6031247
 65 South First Gethsemane Ave, Louisville, KY: null
 6500 Brattleview Circle, Louisville, KY: null
+6500 Downs Branch Rd, Louisville, KY:
+  lat: 38.154654
+  lng: -85.628487
 6500 Hunters Creek Blvd, Louisville, KY:
   lat: 38.1644536
   lng: -85.8701997
@@ -7845,6 +7860,9 @@
   team. Following their evaluation, the individual was transported to a local hospital
   for further medical attention., Louisville, KY
 : null
+8000 Wooded Ridge Dr, Louisville, KY:
+  lat: 38.1433838
+  lng: -85.809036
 810 River Crest Drive, Louisville, KY:
   lat: 38.2681906
   lng: -85.7003404
@@ -7871,6 +7889,9 @@
   Louisville, KY
 : null
 8100 Pandaria Drive, Louisville, KY: null
+8100 Smithton Rd, Louisville, KY:
+  lat: 38.1349905
+  lng: -85.677208
 8100 entrance road, Louisville, KY:
   lat: 38.133816
   lng: -85.855557
@@ -8546,6 +8567,7 @@ Crest Street and Heights Dr, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Crop St and Alma Ave, Louisville, KY: null
+Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
@@ -8626,6 +8648,7 @@ Poplar Level Rd and Heather Heath Ln, Louisville, KY: null
 Poplar Level Rd and Hess Ln, Louisville, KY: null
 Poplar Level Rd and Quail Hollow Rd, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
+Potter Lane and Dalton Dr, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
