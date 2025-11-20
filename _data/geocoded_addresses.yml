@@ -1231,8 +1231,17 @@
   shelter area. It was understood that a dispute was occurring between residents and
   a staff member., Louisville, KY
 : null
+? 1200 South 3rd Street to assist with a medical emergency. A 60-year-old male was
+  found to have overdosed and required immediate medical intervention. EMS provided
+  treatment at the scene before transporting the individual., Louisville, KY
+: null
 1200 South 3rd Street, Louisville, KY:
   lat: 38.234755
+  lng: -85.758791
+? 1200 South 3rd Street. A young six-year-old male was found unresponsive on the ground,
+  with indications of a possible overdose. The child received immediate medical attention
+  and was transported for further care., Louisville, KY
+: lat: 38.234755
   lng: -85.758791
 1200 South 4th St, Louisville, KY:
   lat: 38.234898
@@ -1472,6 +1481,11 @@
   lng: -85.78302
 1300 South 11th Street, Louisville, KY:
   lat: 38.2331073
+  lng: -85.7731685
+? 1300 South 11th Street. Upon arrival, they confirmed that water flow had been initiated
+  within the building. The specific cause of the alarm and the extent of any water
+  damage are being assessed., Louisville, KY
+: lat: 38.2331073
   lng: -85.7731685
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
@@ -1843,6 +1857,14 @@
 1500 Hemlock St, Louisville, KY:
   lat: 38.2318358
   lng: -85.8039888
+? 1500 Highland Ave to conduct a welfare check at a business. The purpose of the check
+  was to ensure the safety and well-being of individuals at the location. The outcome
+  of the welfare check was not specified., Louisville, KY
+: lat: 38.1338206
+  lng: -85.8846707
+1500 Highland Ave, Louisville, KY:
+  lat: 38.2392908
+  lng: -85.7256648
 ? 1500 Highland Preserve Way after receiving a report of a suspicious person. The
   area was checked by responding units., Louisville, KY
 : null
@@ -3402,6 +3424,13 @@
 2300 Portland Ave, Louisville, KY:
   lat: 38.2696938
   lng: -85.7864005
+? 2300 Rockford Ln to serve a summons. Officers proceeded to the identified address
+  to complete the legal service. Further details regarding the nature of the summons
+  were not immediately available., Louisville, KY
+: null
+2300 Rockford Ln, Louisville, KY:
+  lat: 38.1757512
+  lng: -85.8351718
 ? 2300 South 4th Street. The incident also involved a blue vehicle that had struck
   a sidewall. Police units were requested to assist at the scene., Louisville, KY
 : null
@@ -3852,6 +3881,11 @@
 2701 East Point Parkway, Louisville, KY: null
 2800 Brownsboro Rd, Louisville, KY:
   lat: 38.25991
+  lng: -85.688803
+? 2800 Brownsboro Rd. The incident involved a vehicle that left the scene after striking
+  another vehicle or property. Police units responded to investigate the accident
+  and search for the fleeing driver., Louisville, KY
+: lat: 38.25991
   lng: -85.688803
 ? 2800 Cleveland Boulevard. The caller reported that the dogs, described as two Shepherd-type
   breeds, were loose and aggressive. Animal control was requested to respond to the
@@ -4878,6 +4912,11 @@
   findings have not been released at this time., Louisville, KY
 : null
 3600 Barshawn Road, Louisville, KY: null
+3600 Barthinian, Louisville, KY: null
+? 3600 Barthinian. Police took statements and gathered information related to the
+  disturbance. The investigation into the circumstances of the domestic report is
+  ongoing., Louisville, KY
+: null
 ? 3600 Canterbury Ct to assist a patient experiencing severe symptoms, including uncontrollable
   shaking, nausea, and shortness of breath. These symptoms arose after the individual
   had undergone a medical procedure., Louisville, KY
@@ -4954,6 +4993,14 @@
   lng: -85.7924737
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
+3600 Southern Ave, Louisville, KY:
+  lat: 38.232516
+  lng: -85.814369
+? 3600 Southern Ave. Public safety officials were dispatched to secure the area and
+  ensure the wires were no longer a hazard to the public. Utility crews were notified
+  to address the situation., Louisville, KY
+: lat: 38.232516
+  lng: -85.814369
 3600 Stanton Blvd. Officers were assigned to check the area., Louisville, KY:
   lat: 38.210443
   lng: -85.643923
