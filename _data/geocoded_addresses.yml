@@ -147,6 +147,11 @@
 100 North 46th Street, Louisville, KY:
   lat: 38.2662485
   lng: -85.8227499
+? 100 North 46th Street. This type of call typically involves helping someone who
+  has fallen and needs assistance to get back on their feet. Responders were able
+  to resolve the situation and return to service., Louisville, KY
+: lat: 38.2662485
+  lng: -85.8227499
 100 North 6th Street, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
@@ -974,6 +979,13 @@
 1108 Bardstown Road, Louisville, KY:
   lat: 38.2380298
   lng: -85.7209845
+? 11100 Ballardsville Rd in connection with an ongoing investigation into a homicide.
+  Traffic control measures were put in place to manage the area, and pollution control
+  units were also present., Louisville, KY
+: null
+11100 Ballardsville Rd, Louisville, KY:
+  lat: 38.3174365
+  lng: -85.5417331
 11100 Ballardsville Rd. Responders worked to bring the situation under control., Louisville, KY:
   lat: 38.3174365
   lng: -85.5417331
@@ -4650,6 +4662,9 @@
   lat: 38.2666702
   lng: -85.7894902
 3400 Poliski Drive, Louisville, KY: null
+3400 Powell Ave, Louisville, KY:
+  lat: 38.199848
+  lng: -85.7902684
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
@@ -4934,6 +4949,9 @@
 3700 Klondike Ln, Louisville, KY:
   lat: 38.209512
   lng: -85.6397607
+3700 Mamaroneck Rd, Louisville, KY:
+  lat: 38.207964
+  lng: -85.643813
 ? 3700 Parchant Road to investigate an issue involving homeless individuals who had
   set up camps on the property. They were reportedly asked to leave but refused, leading
   to the call for assistance., Louisville, KY
@@ -6630,6 +6648,7 @@
   but breathing. Engine 100 block of responded to the scene., Louisville, KY
 : null
 5200 St. Gambriel Ct, Louisville, KY: null
+5200 St. St Gabriel Ln, Louisville, KY: null
 5200 W Main St, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
