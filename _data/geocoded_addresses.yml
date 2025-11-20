@@ -458,6 +458,9 @@
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
+1000 Longboat Ct, Louisville, KY:
+  lat: 38.1015598
+  lng: -85.687306
 ? 1000 Magazine St following a report of a dispute between a male and a female. The
   situation was described as an ongoing issue, with the male reportedly selling items
   before returning to the residence. Responding police units were tasked with de-escalating
@@ -1361,6 +1364,7 @@
   lat: 38.1856818
   lng: -85.5224806
 12600 Bay Arbor Pl, Louisville, KY: null
+12600 Charles Farm Cir, Louisville, KY: null
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
@@ -2889,6 +2893,7 @@
 ? 200 William. Further details regarding the circumstances or the individuals involved
   were not immediately available., Louisville, KY
 : null
+200 Woodcleft Rd, Louisville, KY: null
 200 Woodridge-Dravina, Louisville, KY: null
 200 Woodridge-Dravina. Fire units were dispatched to address the situation., Louisville, KY: null
 200 Yew Ln, Louisville, KY:
@@ -6763,6 +6768,9 @@
   a 51-year-old female experiencing chest pain. The call was later canceled by responding
   units, and the situation was marked as service., Louisville, KY
 : null
+5300 Alicante Ln, Louisville, KY:
+  lat: 38.0844505
+  lng: -85.862775
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
   lng: -85.773438
@@ -8798,6 +8806,12 @@
   the community. Drivers are reminded to follow all traffic laws and remain vigilant
   on the road., Louisville, KY
 : null
+900 West near Gene Snyder Freeway, Louisville, KY:
+  lat: 38.1859494
+  lng: -85.7759231
+900 West, near the Gene Snyder Freeway. Following the stop, a citation was issued., Louisville, KY:
+  lat: 38.1859494
+  lng: -85.7759231
 900 Westwood Camp, Louisville, KY: null
 900 Westwood Camp. Further details regarding the nature of the collision were not immediately available., Louisville, KY: null
 ? 900 where the line was answered and then abruptly disconnected. Responding units
