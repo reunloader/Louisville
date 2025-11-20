@@ -4527,84 +4527,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-- timestamp: '2025-11-20T22:30:03.843536'
-  total_addresses: 3778
-  successful: 1560
-  failed: 2218
-  success_rate: 41.29
-  failure_rate: 58.71
+- timestamp: '2025-11-20T23:36:49.315238'
+  total_addresses: 4850
+  successful: 2053
+  failed: 2797
+  success_rate: 42.33
+  failure_rate: 57.67
   failure_patterns:
-    Incomplete/vague address: 355
-    Contains location qualifiers (near/at): 1033
+    Incomplete/vague address: 411
+    Contains location qualifiers (near/at): 1270
     Police phonetic codes: 2
-    Other/Unknown: 338
-    Contains extra sentences/context: 197
-    Intersection format: 293
-  batch_success_rate: 100.0
-  batch_new_addresses: 3
-  batch_new_successes: 3
-- timestamp: '2025-11-20T22:40:09.595233'
-  total_addresses: 3781
-  successful: 1563
-  failed: 2218
-  success_rate: 41.34
-  failure_rate: 58.66
-  failure_patterns:
-    Incomplete/vague address: 355
-    Contains location qualifiers (near/at): 1033
-    Police phonetic codes: 2
-    Other/Unknown: 338
-    Contains extra sentences/context: 197
-    Intersection format: 293
-  batch_success_rate: 100.0
-  batch_new_addresses: 3
-  batch_new_successes: 3
-- timestamp: '2025-11-20T23:03:05.362067'
-  total_addresses: 3784
-  successful: 1565
-  failed: 2219
-  success_rate: 41.36
-  failure_rate: 58.64
-  failure_patterns:
-    Incomplete/vague address: 356
-    Contains location qualifiers (near/at): 1033
-    Police phonetic codes: 2
-    Other/Unknown: 338
-    Contains extra sentences/context: 197
-    Intersection format: 293
-  batch_success_rate: 66.67
-  batch_new_addresses: 3
-  batch_new_successes: 2
-- timestamp: '2025-11-20T23:16:43.737918'
-  total_addresses: 3787
-  successful: 1565
-  failed: 2222
-  success_rate: 41.33
-  failure_rate: 58.67
-  failure_patterns:
-    Incomplete/vague address: 356
-    Contains location qualifiers (near/at): 1036
-    Police phonetic codes: 2
-    Other/Unknown: 338
-    Contains extra sentences/context: 197
-    Intersection format: 293
-  batch_success_rate: 0.0
-  batch_new_addresses: 3
-  batch_new_successes: 0
-- timestamp: '2025-11-20T23:39:43.270418'
-  total_addresses: 3790
-  successful: 1567
-  failed: 2223
-  success_rate: 41.35
-  failure_rate: 58.65
-  failure_patterns:
-    Incomplete/vague address: 356
-    Contains location qualifiers (near/at): 1036
-    Police phonetic codes: 2
-    Other/Unknown: 338
-    Contains extra sentences/context: 197
-    Intersection format: 294
-  batch_success_rate: 66.67
-  batch_new_addresses: 3
-  batch_new_successes: 2
-last_updated: '2025-11-20T23:39:43.270482'
+    Other/Unknown: 487
+    Contains extra sentences/context: 296
+    Intersection format: 331
+  batch_success_rate: 46.14
+  batch_new_addresses: 1075
+  batch_new_successes: 496
+last_updated: '2025-11-20T23:36:49.315344'
