@@ -721,6 +721,9 @@
 10200 Valley Farms Blvd, Louisville, KY:
   lat: 38.1090936
   lng: -85.8572627
+10200 W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 10300 Gageland Rd, Louisville, KY:
   lat: 38.1485446
   lng: -85.8528443
@@ -5302,6 +5305,9 @@
   lng: -85.705844
 400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
+400 Mount Holly Ave, Louisville, KY:
+  lat: 38.2608215
+  lng: -85.703864
 400 North Height Ave, Louisville, KY: null
 ? 400 North Height Avenue to attend to a 35-year-old female who was experiencing symptoms
   consistent with a possible overdose of an unknown substance., Louisville, KY
@@ -6592,6 +6598,9 @@
   and sustained a head injury. He was bleeding and later reported to be unconscious
   but breathing. Engine 100 block of responded to the scene., Louisville, KY
 : null
+5200 W Main St, Louisville, KY:
+  lat: 38.2570952
+  lng: -85.7609073
 ? 5300 Albuway, at the intersection of Crusher-Hi View Ln and Sale Ave, to assist
   a 51-year-old female experiencing chest pain. The call was later canceled by responding
   units, and the situation was marked as service., Louisville, KY
@@ -7053,6 +7062,7 @@
 ? 6100 Dunevigan Road. There were indications of glass breaking, prompting a dispatch
   of units to investigate the potential burglary., Louisville, KY
 : null
+6100 E W Kentucky St, Louisville, KY: null
 ? 6100 Fern Valley Road, near the L&P Wellness Center. Initial reports indicated a
   gray Infinity was involved in the collision. Responding units worked to gather information
   and assess the scene. Further details about the circumstances of the hit and run
@@ -8209,6 +8219,7 @@
 8000 Wooded Ridge Dr, Louisville, KY:
   lat: 38.1433838
   lng: -85.809036
+80200 Old Westport Rd, Louisville, KY: null
 810 River Crest Drive, Louisville, KY:
   lat: 38.2681906
   lng: -85.7003404
@@ -8285,6 +8296,9 @@
   lat: 38.2605244
   lng: -85.7054888
 8300 Rest of Lane, Louisville, KY: null
+8400 Aspen Glen Way, Louisville, KY:
+  lat: 38.1269489
+  lng: -85.6129346
 ? 8400 Fieldcrest Ct due to a significant water leak. Reports indicated that water
   was flowing from a hydrant and causing flooding in the street., Louisville, KY
 : null
@@ -8935,6 +8949,7 @@ Crest Street and Heights Dr, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Crop St and Alma Ave, Louisville, KY: null
+Crop St and Aspen Glen Dr, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
@@ -9105,6 +9120,7 @@ Westbrook Rd and Fox Ave, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
+Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Wolfpin Branch Road and Springdale Road, Louisville, KY: null
