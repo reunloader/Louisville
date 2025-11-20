@@ -2137,6 +2137,9 @@
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
+13800 Poplar Level Rd, Louisville, KY:
+  lat: 38.1670132
+  lng: -85.6814696
 13900 Promenade Greenway in the 2nd office area, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
@@ -2936,6 +2939,9 @@
   male wearing specific clothing. Further details on the circumstances or any injuries
   were not immediately available., Louisville, KY
 : null
+? 1700 Patton Ct, specifically in building 45. The report mentioned a 17-year-old
+  male wearing specific clothing. Further details, Louisville, KY
+: null
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
   lng: -85.707066
@@ -3016,6 +3022,7 @@
   lat: 38.257543
   lng: -85.778452
 1700 West Market. Responding units investigated the activation at the Amp Tech and Learning Center., Louisville, KY: null
+1700 West W Oak St, Louisville, KY: null
 ? 1700 West W Oak St. The nature of the incident and any resulting injuries or vehicle
   damage were not specified., Louisville, KY
 : null
@@ -9444,6 +9451,7 @@
   door requested EMS. Responders were dispatched to assess the situation., Louisville,
   KY
 : null
+600 North Hyde Avenue. A female was heard screaming, Louisville, KY: null
 600 Parthenia, Louisville, KY:
   lat: 38.191647
   lng: -85.7924364
@@ -10900,6 +10908,9 @@
 800 Edith Rose and the 400 block of Baker, Louisville, KY: null
 800 Edith Rose and the 400 block of Baker., Louisville, KY: null
 800 Edith Rose, Louisville, KY: null
+800 Foxgate Rd, Louisville, KY:
+  lat: 38.252958
+  lng: -85.552025
 800 Grintwood Avenue 05:20 p, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
 800 I 64 East, Louisville, KY: null
