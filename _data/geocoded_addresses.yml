@@ -362,6 +362,7 @@
 ? 1000 Colm's Lane, prompting a welfare check by responding units. The exact nature
   of the situation requiring the check was not specified., Louisville, KY
 : null
+1000 Cresthorn Road, Louisville, KY: null
 1000 Dixie Hwy to investigate the vehicle and its presence in the area., Louisville, KY: null
 1000 Dixie Hwy, Louisville, KY:
   lat: 38.2416641
@@ -1929,6 +1930,9 @@
 1500 Rangeland Rd, near Thomas Jefferson Middle School. Responding units investigated the activation., Louisville, KY:
   lat: 38.167218
   lng: -85.681561
+1500 Raydale Dr, Louisville, KY:
+  lat: 38.1225
+  lng: -85.670996
 1500 Shingo Ave, Louisville, KY:
   lat: 38.1744846
   lng: -85.7865232
@@ -3633,6 +3637,9 @@
 2400 Varshtown Road, Louisville, KY: null
 2400 W Market St, Louisville, KY: null
 2400 W W Market St, Louisville, KY: null
+2400 West Ali, Louisville, KY:
+  lat: 38.2546408
+  lng: -85.7917199
 2400 West Market, Louisville, KY:
   lat: 38.2589016
   lng: -85.7903761
@@ -6967,6 +6974,9 @@
 5400 Bardstown Rd, Louisville, KY:
   lat: 38.1701301
   lng: -85.6079258
+5400 Bungalow Dr, Louisville, KY:
+  lat: 38.156796
+  lng: -85.842318
 5400 Caroway, Louisville, KY: null
 ? 5400 Caroway, near Crestline Rd and Sierra Trail, for a 70-year-old female experiencing
   shortness of breath and weakness. Police units were initially dispatched but were
