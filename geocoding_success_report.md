@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-11-20 03:59:21
+**Generated:** 2025-11-20 04:04:30
 
 ---
 
@@ -8,21 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 3,474 |
-| **Successfully Geocoded** | 1,387 |
-| **Failed to Geocode** | 2,087 |
-| **Success Rate** | 39.93% |
-| **Failure Rate** | 60.07% |
+| **Total Addresses** | 3,478 |
+| **Successfully Geocoded** | 1,388 |
+| **Failed to Geocode** | 2,090 |
+| **Success Rate** | 39.91% |
+| **Failure Rate** | 60.09% |
 
 ---
 
 ## Recent Changes
 
-- **2** new addresses processed
+- **4** new addresses processed
 - **1** successfully geocoded
-- **1** failed to geocode
-- **This batch success rate: 50.00%** 🎯
-- Overall rate changed by **+0.01%** 📈
+- **3** failed to geocode
+- **This batch success rate: 25.00%** ⚠️
+- Overall rate changed by **-0.02%** 📉
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 980 | 47.0% |
-| Incomplete/vague address | 333 | 16.0% |
+| Contains location qualifiers (near/at) | 981 | 46.9% |
+| Incomplete/vague address | 333 | 15.9% |
 | Other/Unknown | 318 | 15.2% |
-| Intersection format | 263 | 12.6% |
-| Contains extra sentences/context | 191 | 9.2% |
+| Intersection format | 265 | 12.7% |
+| Contains extra sentences/context | 191 | 9.1% |
 | Police phonetic codes | 2 | 0.1% |
 
 ---
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-11-19 | 5 | 2 | 40.0% ⚡ | 3,434 | 39.69% |
 | 2025-11-19 | 2 | 2 | 100.0% 🎯 | 3,436 | 39.73% |
 | 2025-11-20 | 5 | 1 | 20.0% ⚠️ | 3,441 | 39.70% |
 | 2025-11-20 | 4 | 4 | 100.0% 🎯 | 3,445 | 39.77% |
@@ -53,6 +52,7 @@
 | 2025-11-20 | 9 | 7 | 77.8% 🎯 | 3,464 | 39.87% |
 | 2025-11-20 | 8 | 5 | 62.5% 🎯 | 3,472 | 39.92% |
 | 2025-11-20 | 2 | 1 | 50.0% 🎯 | 3,474 | 39.93% |
+| 2025-11-20 | 4 | 1 | 25.0% ⚠️ | 3,478 | 39.91% |
 
 ---
 
