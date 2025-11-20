@@ -2131,6 +2131,9 @@
   lat: 38.2223031
   lng: -85.7068691
 17500 McWay, Louisville, KY: null
+17500 Stallion Way, Louisville, KY:
+  lat: 38.2721699
+  lng: -85.4380326
 18 Village West Drive, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -4430,6 +4433,7 @@
   lat: 38.2500716
   lng: -85.6917161
 3200 Marion Ct. Police units responded to the scene to assess the situation., Louisville, KY: null
+3200 Northwestern Avenue, Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
@@ -4588,6 +4592,9 @@
   lat: 38.259772
   lng: -85.8073335
 3400 Warner Ave, Louisville, KY: null
+3400 Warren Ave, Louisville, KY:
+  lat: 38.197522
+  lng: -85.777079
 3400 West Broadway, Louisville, KY:
   lat: 38.2496303
   lng: -85.8087791
@@ -5609,6 +5616,9 @@
 4200 Jean Ave, Louisville, KY:
   lat: 38.1758497
   lng: -85.8431384
+4200 Lambert Ave, Louisville, KY:
+  lat: 38.1830823
+  lng: -85.6451288
 4200 Lambert Rd, Louisville, KY: null
 ? 4200 Lambert Rd, near Cross Meadows Cir. A specific unit was monitoring the situation
   and was subsequently canceled, suggesting the incident was resolved or no longer
@@ -7998,6 +8008,9 @@
 800 South 28th Street, Louisville, KY:
   lat: 38.2470453
   lng: -85.7988198
+800 South 2nd Street, Louisville, KY:
+  lat: 38.243198
+  lng: -85.755616
 ? 800 South 36th Street to assist a 40-year-old female experiencing difficulty breathing.
   The patient was located on the porch when responders arrived., Louisville, KY
 : null
