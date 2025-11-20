@@ -3974,6 +3974,19 @@
 300 East St. Catherine Street, Louisville, KY:
   lat: 38.236346
   lng: -85.750781
+300 Eastern Parkway, Louisville, KY:
+  lat: 38.213048
+  lng: -85.755212
+? 300 Eastern Parkway. Records indicated the vehicle was registered to an individual
+  named Perry Johnson. This information was passed along to responding units, and
+  no further police action was deemed necessary at that time., Louisville, KY
+: lat: 38.213048
+  lng: -85.755212
+? 300 Eastern Parkway. The reporting party indicated the vehicle was no longer present.
+  No further details were immediately available regarding the circumstances of the
+  theft or recovery., Louisville, KY
+: lat: 38.213048
+  lng: -85.755212
 ? 300 Foxy Poise Rd by a concerned sister. This incident may be connected to a Crisis
   Intervention Team call., Louisville, KY
 : null
