@@ -1334,6 +1334,8 @@
 12100 LaGrange Road, Louisville, KY:
   lat: 38.2804338
   lng: -85.5167542
+12100 Winding Spring Ct to take the report and investigate the alleged behavior., Louisville, KY: null
+12100 Winding Spring Ct, Louisville, KY: null
 ? 12200 Ridgecrest Drive. The resident reported hearing someone attempting to tamper
   with the locks of their home. Officers arrived to investigate the suspicious activity.,
   Louisville, KY
@@ -4368,6 +4370,13 @@
   lng: -85.7657394
 3000 South Number 4, Louisville, KY: null
 3000 Springtown Avenue, Louisville, KY: null
+3000 St. St Anthony Gardens Dr, Louisville, KY:
+  lat: 38.1472056
+  lng: -85.8143902
+? 3000 St. St Anthony Gardens Dr. The individual making the report stated they were
+  experiencing harassment through online channels. Police units were dispatched to
+  handle the situation., Louisville, KY
+: null
 3000 Taylor Blvd, Louisville, KY:
   lat: 38.2075565
   lng: -85.7751685
@@ -5660,6 +5669,14 @@
 4020 Mapleton Avenue, Louisville, KY:
   lat: 38.1847673
   lng: -85.7796505
+4100 Autumn Way, Louisville, KY:
+  lat: 38.0735818
+  lng: -85.8729266
+? 4100 Autumn Way. A hospital social worker needed to contact a man named Todd, who
+  was reportedly not answering his phone. Todd is the boyfriend of a patient who is
+  critically ill and scheduled to be removed from life support., Louisville, KY
+: lat: 38.0735818
+  lng: -85.8729266
 4100 Bardstown Rd, Louisville, KY:
   lat: 38.192235
   lng: -85.647479
@@ -9057,6 +9074,7 @@ Brock Bay Drive and Remers Road, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
 Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
+Brownsboro Rd and Simcoe Ln, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
