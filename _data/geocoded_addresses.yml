@@ -1718,6 +1718,9 @@
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
+14700 Oxford Hill Ct., Louisville, KY:
+  lat: 38.2303805
+  lng: -85.4826698
 ? 14700 Stable Gate Pl to investigate the disturbance. The outcome of the police response
   has not been released., Louisville, KY
 : null
@@ -3362,6 +3365,9 @@
 ? 2400 Blankenbaker Pky PARKWAY. Police units were involved in the stop. The incident
   was cleared without further issue., Louisville, KY
 : null
+2400 Broadway, Louisville, KY:
+  lat: 38.249256
+  lng: -85.791726
 2400 Bustown Road, Louisville, KY: null
 ? 2400 Concord Dr, near the intersection of Cross Meadows Cir and Eastman Parkway,
   for a medical emergency. A 39-year-old female was experiencing difficulty breathing.,
@@ -4173,6 +4179,9 @@
   lat: 38.210081
   lng: -85.763149
 300 York St, Louisville, KY:
+  lat: 38.243983
+  lng: -85.757233
+300 York St., Louisville, KY:
   lat: 38.243983
   lng: -85.757233
 ? 300 York Street following a report of a disorderly individual. The person, described
@@ -6632,6 +6641,9 @@
 5400 Ripple Ln, Louisville, KY:
   lat: 38.171621
   lng: -85.670246
+5400 Shepherdsville Rd., Louisville, KY:
+  lat: 38.170756
+  lng: -85.6595
 ? 5400 Valley Station Road. Reports indicated that motion was detected at the front
   door, raising immediate concerns for the safety of the occupants and property. Officers
   were dispatched to investigate the situation and secure the scene. This incident
