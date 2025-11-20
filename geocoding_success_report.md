@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-11-20 23:36:49
+**Generated:** 2025-11-20 23:49:38
 
 ---
 
@@ -8,21 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 4,850 |
-| **Successfully Geocoded** | 2,053 |
-| **Failed to Geocode** | 2,797 |
-| **Success Rate** | 42.33% |
-| **Failure Rate** | 57.67% |
+| **Total Addresses** | 4,868 |
+| **Successfully Geocoded** | 2,063 |
+| **Failed to Geocode** | 2,805 |
+| **Success Rate** | 42.38% |
+| **Failure Rate** | 57.62% |
 
 ---
 
 ## Recent Changes
 
-- **1075** new addresses processed
-- **496** successfully geocoded
-- **579** failed to geocode
-- **This batch success rate: 46.14%** ⚡
-- Overall rate changed by **+1.08%** 📈
+- **18** new addresses processed
+- **10** successfully geocoded
+- **8** failed to geocode
+- **This batch success rate: 55.56%** 🎯
+- Overall rate changed by **+0.05%** 📈
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 1270 | 45.4% |
-| Other/Unknown | 487 | 17.4% |
-| Incomplete/vague address | 411 | 14.7% |
-| Intersection format | 331 | 11.8% |
-| Contains extra sentences/context | 296 | 10.6% |
+| Contains location qualifiers (near/at) | 1274 | 45.4% |
+| Other/Unknown | 488 | 17.4% |
+| Incomplete/vague address | 412 | 14.7% |
+| Intersection format | 332 | 11.8% |
+| Contains extra sentences/context | 297 | 10.6% |
 | Police phonetic codes | 2 | 0.1% |
 
 ---
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-11-20 | 5 | 3 | 60.0% 🎯 | 3,741 | 41.17% |
 | 2025-11-20 | 8 | 2 | 25.0% ⚠️ | 3,749 | 41.13% |
 | 2025-11-20 | 1 | 0 | 0.0% ⚠️ | 3,750 | 41.12% |
 | 2025-11-20 | 3 | 1 | 33.3% ⚡ | 3,753 | 41.11% |
@@ -53,6 +52,7 @@
 | 2025-11-20 | 4 | 1 | 25.0% ⚠️ | 3,772 | 41.22% |
 | 2025-11-20 | 3 | 2 | 66.7% 🎯 | 3,775 | 41.25% |
 | 2025-11-20 | 1,075 | 496 | 46.1% ⚡ | 4,850 | 42.33% |
+| 2025-11-20 | 18 | 10 | 55.6% 🎯 | 4,868 | 42.38% |
 
 ---
 
