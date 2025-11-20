@@ -249,6 +249,9 @@
 100 South Shelby, Louisville, KY:
   lat: 38.254461
   lng: -85.737913
+100 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 100 Spring Creek Ct., Louisville, KY: null
 100 Stanley Ave, Louisville, KY:
   lat: 38.1891921
@@ -2369,6 +2372,12 @@
 1800 W Hill St, Louisville, KY:
   lat: 38.228248
   lng: -85.790658
+1800 W Kentucky St, Louisville, KY:
+  lat: 38.241746
+  lng: -85.785851
+1800 W Kentucky St. Further details about the nature of the investigation were not immediately available., Louisville, KY:
+  lat: 38.241746
+  lng: -85.785851
 1800 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2535809
   lng: -85.7808488
@@ -2576,6 +2585,7 @@
 ? 200 Duncan. Police units were involved in the stop, which was later cleared with
   no further reported issues., Louisville, KY
 : null
+200 Dutchman's Parkway, Louisville, KY: null
 200 E W College St, Louisville, KY:
   lat: 38.2432243
   lng: -85.7546559
@@ -4485,6 +4495,9 @@
 3100 Virginia Ave, Louisville, KY:
   lat: 38.2384897
   lng: -85.8055617
+3100 W Jefferson St, Louisville, KY:
+  lat: 38.259411
+  lng: -85.803356
 3100 Wayside Dr, Louisville, KY: null
 3100 Winkler Ave, Louisville, KY:
   lat: 38.2109077
