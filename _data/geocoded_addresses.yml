@@ -1406,6 +1406,9 @@
   lng: -85.5224806
 12600 Bay Arbor Pl, Louisville, KY: null
 12600 Charles Farm Cir, Louisville, KY: null
+12600 Goss Ave, Louisville, KY:
+  lat: 38.2240623
+  lng: -85.7301563
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
@@ -1609,6 +1612,9 @@
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
+13800 Poplar Level Rd, Louisville, KY:
+  lat: 38.1670132
+  lng: -85.6814696
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
 1400 Ackermack Drive, Louisville, KY: null
@@ -4129,6 +4135,9 @@
 2900 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
+2900 Pomeroy Dr, Louisville, KY:
+  lat: 38.199453
+  lng: -85.635417
 2900 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
