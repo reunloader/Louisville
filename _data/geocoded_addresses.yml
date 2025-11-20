@@ -842,6 +842,9 @@
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
   lng: -85.749224
+1100 S. 3rd St, Louisville, KY:
+  lat: 38.237136
+  lng: -85.758543
 1100 Silvercrest Ln, Louisville, KY: null
 ? 1100 Silvercrest Ln. Further details on the nature of the alarm or any subsequent
   actions were not immediately available., Louisville, KY
@@ -3422,6 +3425,9 @@
 2500 Slate Dr, Louisville, KY:
   lat: 38.1049283
   lng: -85.7204367
+2500 South 4th St, Louisville, KY:
+  lat: 38.2128532
+  lng: -85.7644902
 ? 2500 St. St Xavier St to address a medical emergency. This incident was classified
   as a medical Charlie call, indicating a need for immediate medical attention., Louisville,
   KY
@@ -5845,6 +5851,9 @@
 4600 Dover Rd, Louisville, KY:
   lat: 38.183401
   lng: -85.840082
+4600 East Indian Trail, Louisville, KY:
+  lat: 38.1780034
+  lng: -85.676566
 ? 4600 East Indian Trail. Review of security footage indicated an individual had entered
   the store's rear garage area. Responding units determined the alarm to be false,
   and no further action was required., Louisville, KY
