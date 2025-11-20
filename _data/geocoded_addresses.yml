@@ -1116,6 +1116,9 @@
 1200 Place, Louisville, KY:
   lat: 38.1519435
   lng: -85.7912292
+1200 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 1200 Produce Rd, Louisville, KY:
   lat: 38.1819184
   lng: -85.6870954
@@ -4353,6 +4356,7 @@
   lng: -85.6642191
 3200 Hoover Barton Rd, Louisville, KY: null
 3200 Kevin's Drive, Louisville, KY: null
+3200 Kevin's Drive. Further details about this incident are not yet available., Louisville, KY: null
 3200 Kimmins Drive, Louisville, KY: null
 3200 Kimmins Drive, near Bishop Ln. Fire units were dispatched to the scene to address the situation., Louisville, KY: null
 3200 Kimmon Strives, Louisville, KY: null
@@ -7973,6 +7977,9 @@
 ? 8000 Chapman Rd Rd. The caller expressed concern that the children might be in danger
   as they were not answering their phones., Louisville, KY
 : null
+8000 Chapman Way, Louisville, KY:
+  lat: 38.131707
+  lng: -85.624458
 8000 Columbine Dr, Louisville, KY:
   lat: 38.1373907
   lng: -85.8651361
