@@ -162,6 +162,9 @@
 100 Maple St, Louisville, KY:
   lat: 38.246353
   lng: -85.7799264
+100 Masonic Home Dr, Louisville, KY:
+  lat: 38.253606
+  lng: -85.662238
 ? 100 Mayo Dr, near Damascus, was experiencing breathing difficulties. Medical responders
   were sent to the location to evaluate and treat the elderly woman., Louisville,
   KY
@@ -1959,6 +1962,10 @@
 1300 Clear Meadow Ct, Louisville, KY:
   lat: 38.2558623
   lng: -85.4945443
+1300 Dixie Hwy was attended to by first responders, Louisville, KY: null
+1300 Dixie Hwy, Louisville, KY:
+  lat: 38.235232
+  lng: -85.787774
 1300 Donard Park Ave, Louisville, KY:
   lat: 38.2018157
   lng: -85.6695817
@@ -3427,6 +3434,10 @@
   not observe any other immediate issues. The units cleared the scene, Louisville,
   KY
 : null
+1900 W Chestnut St experiencing a severe cough and fits, which were suspected, Louisville, KY: null
+1900 W Chestnut St, Louisville, KY:
+  lat: 38.2514824
+  lng: -85.7828934
 1900 W Main St, Louisville, KY:
   lat: 38.2590525
   lng: -85.7816717
@@ -3819,6 +3830,9 @@
 200 Northbound at Mile Marker 5, Louisville, KY: null
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
 200 Northbound, Louisville, KY: null
+200 Olde English Ct, Louisville, KY:
+  lat: 38.1157978
+  lng: -85.8113074
 200 Overlook Dr, Louisville, KY:
   lat: 38.2950987
   lng: -85.6250602
@@ -5460,6 +5474,10 @@
   lng: -85.7722465
 2800 Timber Hills Rd to investigate the suspicious activity and ensure the property's safety., Louisville, KY: null
 2800 Timber Hills Rd, Louisville, KY: null
+? 2800 West Broadway to assist a 65-year-old female. The individual was reportedly
+  experiencing leg numbness and a headache, making her unable to walk, and was assessed,
+  Louisville, KY
+: null
 2800 West Broadway, Louisville, KY:
   lat: 38.249486
   lng: -85.798435
@@ -10821,6 +10839,8 @@
 7300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+7300 Right-hand Way, Louisville, KY: null
+7300 Right-hand Way. A 66-year-old female had reportedly fallen out of her chair and needed assistance, Louisville, KY: null
 7300 South41st Street, Louisville, KY: null
 7300 Southside Dr, Louisville, KY:
   lat: 38.148666
