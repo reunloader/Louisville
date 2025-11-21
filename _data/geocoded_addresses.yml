@@ -319,6 +319,9 @@
 100 South 17th Street, Louisville, KY:
   lat: 38.258883
   lng: -85.778171
+100 South 22nd Street at West Market and Pearl, Louisville, KY:
+  lat: 38.259118
+  lng: -85.786561
 100 South 2nd Street, Louisville, KY:
   lat: 38.2558105
   lng: -85.7536001
@@ -11899,6 +11902,9 @@
 900 N S S English Station Rd, Louisville, KY: null
 900 Open Line**, Louisville, KY: null
 900 Philadelphia Street, Louisville, KY: null
+900 Phillips Ln near Mission and Stanford, Louisville, KY:
+  lat: 38.193672
+  lng: -85.739235
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
