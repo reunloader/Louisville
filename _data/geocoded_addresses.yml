@@ -381,6 +381,10 @@
 100 US 42, Louisville, KY:
   lat: 38.2632527
   lng: -85.6770561
+100 W Kentucky St regarding a 40-year-old male who was unresponsive due, Louisville, KY: null
+100 W Kentucky St, Louisville, KY:
+  lat: 38.238326
+  lng: -85.754831
 100 West Adairmber, Louisville, KY: null
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
@@ -4638,6 +4642,12 @@
 2300 Garland Ave, Louisville, KY:
   lat: 38.2440697
   lng: -85.791688
+2300 Goldsmith Ln, Louisville, KY:
+  lat: 38.210198
+  lng: -85.665576
+2300 Goldsmith Ln, near Willow Way and Heather Ln,, Louisville, KY:
+  lat: 38.210198
+  lng: -85.665576
 2300 Greenwood Ave, Louisville, KY:
   lat: 38.2412212
   lng: -85.7921946
@@ -5123,6 +5133,8 @@
   cab F-100 with damage to its front end. Responding units were dispatched to search
   the vicinity, Louisville, KY
 : null
+2600 Neblick Ave, Louisville, KY: null
+2600 Neblick Avenue, near Hampstead Dr and Ralph Ave,, Louisville, KY: null
 2600 New LaGrange Road, Louisville, KY: null
 2600 Outer Loop, Louisville, KY:
   lat: 38.1342654
@@ -5997,6 +6009,10 @@
   to investigate the area., Louisville, KY
 : null
 3000 Magazine St, indicating that shots may have been fired. Police units were dispatched, Louisville, KY: null
+3000 Penway Ave with a patient, Louisville, KY: null
+3000 Penway Ave, Louisville, KY:
+  lat: 38.2230502
+  lng: -85.8066104
 3000 Pine Way, Louisville, KY:
   lat: 38.3081076
   lng: -85.5625953
@@ -6816,6 +6832,9 @@
 3600 Wheeler Ave, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
+3600 Wheeler Ave, near Strader Ave and Camden Ave,, Louisville, KY:
+  lat: 38.1942564
+  lng: -85.7886117
 ? 3600 Wheeler Avenue. The patient was reported to be suffering from abdominal pain.
   Responders attended to the individual's medical needs., Louisville, KY
 : null
@@ -6854,6 +6873,12 @@
   parking spot taken by a neighbor. The situation became more serious when the neighbor
   allegedly threatened, Louisville, KY
 : null
+3700 Hillsdale Rd, Louisville, KY:
+  lat: 38.3063205
+  lng: -85.6396081
+3700 Hillsdale Rd, near John Wood,, Louisville, KY:
+  lat: 38.3063205
+  lng: -85.6396081
 3700 I64 West, Louisville, KY: null
 ? 3700 Johnson Hall Dr to assist an 80-year-old female who was found unconscious but
   breathing. Simultaneously, fire units responded to a report of a possible fire alarm
@@ -11998,6 +12023,12 @@
 9500 Thor Ave, Louisville, KY:
   lat: 38.110791
   lng: -85.693392
+9600 A, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
+9600 A, near Tree and Balsam,, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 9600 Cedar Heights Ct, Louisville, KY:
   lat: 38.133585
   lng: -85.59457
@@ -12277,6 +12308,7 @@ Gresham Rd and Goldsmith Ln, Louisville, KY: null
 Grinstead Dr and Bardstown Rd, Louisville, KY: null
 Grinstead Dr and Ray Ave, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
+Hampstead Dr and Ralph Ave, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
 Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
@@ -12384,6 +12416,7 @@ Springtime Ave and Westport Rd, Louisville, KY: null
 Stone School Rd and Kilner Drive, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
+Strader Ave and Camden Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
