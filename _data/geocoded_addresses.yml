@@ -2028,6 +2028,9 @@
 1300 Beech Ave, Louisville, KY:
   lat: 38.1849238
   lng: -85.7942714
+1300 Bluegrass Ave, Louisville, KY:
+  lat: 38.179503
+  lng: -85.783403
 1300 Bridget Dr, Louisville, KY:
   lat: 38.1090508
   lng: -85.7421424
@@ -2246,6 +2249,9 @@
 13100 Magisterial Dr. Unit 800 requested to be held on the scene, indicating they would be occupied, Louisville, KY:
   lat: 38.2676169
   lng: -85.5093974
+13200 Cain Ln, Louisville, KY:
+  lat: 38.2932179
+  lng: -85.513383
 13300 Shelterville Road, Louisville, KY: null
 ? 13300 Vernetta Way due to ongoing reports of loud yelling from the parking lot.
   The disturbance appeared to involve an argument between a male and his girlfriend,
@@ -9535,6 +9541,7 @@
 5100 Princewood Pl, Louisville, KY:
   lat: 38.163559
   lng: -85.818091
+5100 Quentin Place, Louisville, KY: null
 ? 5100 Red Oak Lane. The patient, a male weighing over 400 pounds, was experiencing
   leg swelling and was unable to walk. Emergency responders provided immediate care
   and assistance to the individual. The patient was transported for further medical
@@ -11246,6 +11253,9 @@
 7100 Train Station Way, Louisville, KY:
   lat: 38.0795787
   lng: -85.8955746
+7200 Billtown Rd, Louisville, KY:
+  lat: 38.1398214
+  lng: -85.5402269
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
@@ -11558,6 +11568,7 @@
   lat: 38.1318501
   lng: -85.7919277
 7800 Thorobred Lane, Louisville, KY: null
+7800 Wolfton Branch, Louisville, KY: null
 78600 Burrice Ct, Louisville, KY:
   lat: 38.1422513
   lng: -85.8933393
