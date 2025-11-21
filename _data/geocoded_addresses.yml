@@ -8103,6 +8103,10 @@
 4200 Falls Creek, Louisville, KY:
   lat: 38.3049677
   lng: -85.6247008
+4200 Flintlock Dr, Louisville, KY:
+  lat: 38.160267
+  lng: -85.835033
+4200 Flintlock Dr, between Doughline Road and Milner Rd,, Louisville, KY: null
 4200 Glen Eagle Dr, Louisville, KY: null
 ? 4200 Glen Eagle Dr. Further checks revealed the van was registered to a company
   in Indianapolis, Indiana. The investigation involved multiple police units., Louisville,
@@ -11166,6 +11170,9 @@
 7700 Manslick Rd, near Carol Way and Park Ridge Parkway. The call was, Louisville, KY:
   lat: 38.140092
   lng: -85.79391
+7700 Manslick Rd. Responders were on the scene, Louisville, KY:
+  lat: 38.140092
+  lng: -85.79391
 7700 Outer Loop, Louisville, KY:
   lat: 38.1370967
   lng: -85.6184393
@@ -12541,6 +12548,7 @@ Davis Street and Adams St, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
+Doughline Road and Milner Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
