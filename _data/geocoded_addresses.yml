@@ -2507,6 +2507,14 @@
 1400 St. James Rae Pl. Police units were dispatched to assess the situation., Louisville, KY: null
 1400 St. James Rae Pl. Police units were dispatched, Louisville, KY: null
 1400 St. St James Ct., Louisville, KY: null
+1400 Thornberry, Louisville, KY:
+  lat: 38.206006
+  lng: -85.7807193
+? 1400 Thornberry. The location was described as possibly an outbuilding, noted as
+  the fourth building past the address 1441. Police units were dispatched, Louisville,
+  KY
+: lat: 38.206006
+  lng: -85.7807193
 ? 1400 Tucker Rd to assist a 71-year-old female who had fallen and was reportedly
   stuck on or under her wheelchair. She had difficulty getting help., Louisville,
   KY
@@ -5141,6 +5149,10 @@
 2500 Kings Hwy, Louisville, KY:
   lat: 38.2232204
   lng: -85.67661
+2500 Lamborne Blvd, Louisville, KY:
+  lat: 38.1140319
+  lng: -85.810123
+2500 Lamborne Blvd, located across from Hassock Ct, Louisville, KY: null
 2500 Lejean Drive to handle an eviction., Louisville, KY: null
 2500 Lejean Drive, Louisville, KY: null
 2500 Leona Dr, Louisville, KY:
