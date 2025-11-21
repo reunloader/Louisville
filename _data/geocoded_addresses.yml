@@ -2559,6 +2559,7 @@
 1500 Lytle St, Louisville, KY:
   lat: 38.261211
   lng: -85.774435
+1500 Maple St following another fire alarm activation. The alarm was determined, Louisville, KY: null
 1500 Maple St, Louisville, KY:
   lat: 38.245983
   lng: -85.777035
@@ -4559,6 +4560,9 @@
   lat: 38.2534329
   lng: -85.8250528
 2300 Boulevard Napoleon, Louisville, KY:
+  lat: 38.221638
+  lng: -85.694698
+2300 Boulevard Napoleon. Responders were on scene, Louisville, KY:
   lat: 38.221638
   lng: -85.694698
 2300 Brixton Rd, Louisville, KY: null
