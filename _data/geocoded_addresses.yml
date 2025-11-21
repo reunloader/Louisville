@@ -108,6 +108,9 @@
 ? 100 Fairfax. Responding units determined that employees had accidentally triggered
   the alarm, and all units were cleared from the scene., Louisville, KY
 : null
+100 Fenley Ave, Louisville, KY:
+  lat: 38.2546069
+  lng: -85.6711865
 100 Fort Lillian Avenue, Louisville, KY: null
 100 Fort Lillian Avenue. A silver Honda HRV was noted in connection with this incident., Louisville, KY: null
 100 Goss Ave, Louisville, KY:
@@ -6379,6 +6382,12 @@
 3200 Kimmon Strives, Louisville, KY: null
 3200 L Drive (March 10, 7:16 a, Louisville, KY: null
 3200 L Drive (March 10, 7:16 a.m.AM), Louisville, KY: null
+3200 Lena Ln, Louisville, KY:
+  lat: 38.1065676
+  lng: -85.5036462
+3200 Lena Ln. Previous calls had been associated with this location, and a review was conducted, Louisville, KY:
+  lat: 38.1065676
+  lng: -85.5036462
 3200 Marion Ct, Louisville, KY:
   lat: 38.2500716
   lng: -85.6917161
@@ -12313,6 +12322,7 @@ Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
 Archtown Road and Southhurstman Parkway, Louisville, KY: null
+Ash Ave and South Central Ave, Louisville, KY: null
 Audubon Parkway and Chickadee Rd, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
@@ -12452,6 +12462,7 @@ Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
 Malin Lane and Ballardsville Rd, Louisville, KY: null
+Mallet Hill Dr and Calderon Park Lane, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
