@@ -2957,6 +2957,9 @@
 1700 Somerset Pl, Louisville, KY:
   lat: 38.2219877
   lng: -85.585648
+1700 South 26th Street, Louisville, KY:
+  lat: 38.241277
+  lng: -85.7958157
 1700 South 35th Street [Date & Time], Louisville, KY: null
 1700 South 36th Street, Louisville, KY:
   lat: 38.2293696
@@ -10411,6 +10414,9 @@
 700 W Main St, Louisville, KY:
   lat: 38.2568019
   lng: -85.7618553
+700 W Oak St, Louisville, KY:
+  lat: 38.235384
+  lng: -85.765257
 700 W Ormsby Ave, Louisville, KY:
   lat: 38.2331931
   lng: -85.7653948
