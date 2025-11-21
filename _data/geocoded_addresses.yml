@@ -1985,6 +1985,10 @@
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
   lng: -85.7171011
+12500 Pedlarsville Road, Louisville, KY: null
+12500 Pedlarsville Road, near Harmony at Tucker Station,, Louisville, KY:
+  lat: 38.1873509
+  lng: -85.5238503
 12500 Saxony Park Cir, Louisville, KY:
   lat: 38.1856818
   lng: -85.5224806
@@ -4284,6 +4288,7 @@
 200 near the I-15 interchange. Authorities were alerted, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 northbound, Louisville, KY: null
 200 overpass, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
@@ -4673,6 +4678,9 @@
 2200 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
+2200 Date St, Louisville, KY:
+  lat: 38.2429123
+  lng: -85.7894705
 ? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
   on the extent of the fire and the response are not immediately available., Louisville,
   KY
@@ -12066,6 +12074,9 @@
 8400 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
+85 Ambrosse Ln, Louisville, KY:
+  lat: 38.1957296
+  lng: -85.6033485
 ? 850 I 64 West, near the Planton House, to assist a 65-year-old female who was found
   unconscious. Responders worked to assess her condition and provide necessary medical
   care., Louisville, KY
