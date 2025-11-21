@@ -1186,6 +1186,10 @@
 1100 Eastern Pky, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
+1100 Easton Parkway, Louisville, KY: null
+? 1100 Easton Parkway. The patient had reportedly vomited three times throughout the
+  day. EMS and police units were dispatched, Louisville, KY
+: null
 1100 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
@@ -3724,6 +3728,13 @@
   who may have been experiencing a serious medical event., Louisville, KY
 : null
 200 Nola Dr following a report of a medical emergency. A 64-year-old female was found, Louisville, KY: null
+? 200 North 17th Street following a complaint about smoke and a barbecue smell. The
+  incident was reported at a three-story building. Upon arrival, responders were unable,
+  Louisville, KY
+: null
+200 North 17th Street, Louisville, KY:
+  lat: 38.2606552
+  lng: -85.7779157
 200 North 18th Street, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -4150,6 +4161,10 @@
   lat: 38.204566
   lng: -85.677962
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
+? 2000 Unity Pl after a residential alarm was activated. The location was noted as
+  being associated with U of L fraternities. Responding officers were later cancelled
+  as the alarm was determined, Louisville, KY
+: null
 2000 Unity Pl, Louisville, KY:
   lat: 38.2189265
   lng: -85.7621807
@@ -7523,6 +7538,7 @@
 400 West Hill. Police units responded, Louisville, KY:
   lat: 38.225932
   lng: -85.762077
+400 West Kenny Avenue, Louisville, KY: null
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
   was then transported to a local hospital for further evaluation and treatment.,
