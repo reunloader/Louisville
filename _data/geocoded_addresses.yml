@@ -1864,6 +1864,7 @@
 1200 South 6th Street, Louisville, KY:
   lat: 38.235228
   lng: -85.7640084
+1200 South Orchard, Louisville, KY: null
 1200 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -8032,6 +8033,7 @@
   lng: -85.7571981
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
+400 West Penny Avenue, Louisville, KY: null
 400 West W Oak St, Louisville, KY: null
 ? 400 Winkler Ave to conduct a welfare check. The call was also noted as a potential
   subject assist. After an assessment, the situation was resolved, and all parties
@@ -11327,6 +11329,9 @@
   lat: 38.2471058
   lng: -85.6070451
 7300 E W Market St, Louisville, KY: null
+7300 Fairhill Dr, Louisville, KY:
+  lat: 38.2691938
+  lng: -85.6916813
 7300 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
