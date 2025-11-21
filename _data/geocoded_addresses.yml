@@ -1199,6 +1199,9 @@
 1100 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+1100 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 1100 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -5808,6 +5811,9 @@
 300 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+300 E W Chestnut St, Louisville, KY:
+  lat: 38.2506816
+  lng: -85.7736056
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -9040,6 +9046,9 @@
 500 W Main St, Louisville, KY:
   lat: 38.2566397
   lng: -85.7583684
+500 W Market St, Louisville, KY:
+  lat: 38.2552875
+  lng: -85.7588431
 500 W W Ashland Ave, Louisville, KY:
   lat: 38.1861535
   lng: -85.7756446
