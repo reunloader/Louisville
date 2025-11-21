@@ -3163,6 +3163,9 @@
 1700 W Gaulbert Ave, Louisville, KY:
   lat: 38.2269643
   lng: -85.7849963
+1700 W Jefferson St, Louisville, KY:
+  lat: 38.256146
+  lng: -85.778703
 1700 W Kentucky St, Louisville, KY:
   lat: 38.241855
   lng: -85.783285
@@ -7663,6 +7666,7 @@
   lat: 38.2267297
   lng: -85.6284189
 400 Fairway Park Dr, Louisville, KY: null
+400 Golden Gate Ct, Louisville, KY: null
 400 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
