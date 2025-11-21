@@ -3423,6 +3423,11 @@
 20 Welby Rd, Louisville, KY:
   lat: 38.1560283
   lng: -85.8308502
+? 200 Adam and 200 block of Charlie following a report of a fight involving several
+  juveniles. It was indicated that one of the juveniles may have brandished a weapon
+  during the altercation. Police units arrived on scene, Louisville, KY
+: null
+200 Adam and 200 block of Charlie, Louisville, KY: null
 200 Adam to investigate., Louisville, KY: null
 200 Adam, Louisville, KY:
   lat: 38.1049397
@@ -10423,6 +10428,10 @@
 700 W Main St, Louisville, KY:
   lat: 38.2568019
   lng: -85.7618553
+? 700 W Main St, was the scene of a fire that was reportedly set by a homeless individual.
+  The fire was ignited in the rear parking lot beneath the I-64 overpass. Fire Department
+  units responded, Louisville, KY
+: null
 700 W Oak St, Louisville, KY:
   lat: 38.235384
   lng: -85.765257
