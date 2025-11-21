@@ -6514,6 +6514,8 @@
   lat: 38.212799
   lng: -85.62431
 3300 Burstells Lane, Louisville, KY: null
+3300 Davis, Louisville, KY: null
+3300 Davis. Police units were dispatched, Louisville, KY: null
 3300 Ducart involving a neighbor at the door, Louisville, KY:
   lat: 38.1516133
   lng: -85.8405499
@@ -9545,6 +9547,9 @@
 5700 Midnight Ln. Specific details, Louisville, KY:
   lat: 38.1150976
   lng: -85.655771
+5700 New Cut Rd, Louisville, KY:
+  lat: 38.1372198
+  lng: -85.7735363
 5700 Revere Dr, Louisville, KY:
   lat: 38.1666547
   lng: -85.6674876
@@ -12292,6 +12297,12 @@
 9500 Thor Ave, Louisville, KY:
   lat: 38.110791
   lng: -85.693392
+9500 Westport Rd, Louisville, KY:
+  lat: 38.2909338
+  lng: -85.5653666
+9500 Westport Rd. Police units responded, Louisville, KY:
+  lat: 38.2909338
+  lng: -85.5653666
 9600 A, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
