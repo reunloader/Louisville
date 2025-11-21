@@ -27,6 +27,9 @@
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+100 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 100 Baker, were dispatched, Louisville, KY: null
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
@@ -439,6 +442,9 @@
   was able, Louisville, KY
 : lat: 38.2000313
   lng: -85.7618272
+100 West Jefferson, Louisville, KY:
+  lat: 38.253226
+  lng: -85.752219
 100 West Kentucky, Louisville, KY:
   lat: 38.2575113
   lng: -85.7629961
@@ -3648,6 +3654,9 @@
 200 Albany Ave alley, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
+200 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 200 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -3683,6 +3692,9 @@
   at the two-story home., Louisville, KY
 : null
 200 Brown Plain, Louisville, KY: null
+200 Cecil Ave, Louisville, KY:
+  lat: 38.262957
+  lng: -85.81776
 200 Chariot Court 5:00 a, Louisville, KY: null
 200 Chariot Court 5:00 a.m., Louisville, KY: null
 ? 200 Chariot Court. A maroon vehicle was observed parked within a designated fire
@@ -3694,6 +3706,9 @@
   zone. This placement can impede access, Louisville, KY
 : lat: 38.1265148
   lng: -85.6664806
+200 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 200 Crescent Ave, Louisville, KY:
   lat: 38.2593424
   lng: -85.6883421
@@ -9577,6 +9592,9 @@
 5200 Russett Blvd, near Robinwood and Revere,, Louisville, KY:
   lat: 38.1655538
   lng: -85.6661966
+5200 Second Street, Louisville, KY:
+  lat: 38.2627168
+  lng: -85.7518467
 5200 St, Louisville, KY:
   lat: 38.171309
   lng: -85.602422
