@@ -4525,6 +4525,9 @@
 2200 Amboy Dr, Louisville, KY: null
 2200 Ansel Way, Louisville, KY: null
 2200 Bardstown Rd and Grimstad Road, Louisville, KY: null
+2200 Bardstown Rd, Louisville, KY:
+  lat: 38.2242801
+  lng: -85.6937899
 2200 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
@@ -8385,6 +8388,9 @@
   investigated the source of the smell but did not observe any visible fire or smoke.
   The situation was assessed, Louisville, KY
 : null
+4400 Highway, Louisville, KY:
+  lat: 38.1847879
+  lng: -85.7228748
 ? 4400 Lewis Underwood Way, responding to a general fire alarm and a smoke alarm in
   the living room. Upon arrival, Engine 12 reported nothing showing from the single-story
   wood frame assisted living facility. The alarm was determined to be false, and Engine
@@ -8691,6 +8697,9 @@
 4600 Wattbourne Ln, Louisville, KY:
   lat: 38.1849936
   lng: -85.6053241
+4600 a highway, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
   lng: -85.7594126
