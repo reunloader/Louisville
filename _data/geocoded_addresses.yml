@@ -4054,6 +4054,9 @@
   lng: -85.656442
 200 Utah Avenue 3:00 a, Louisville, KY: null
 200 Utah Avenue 3:00 a.m., Louisville, KY: null
+200 Virginia Ave, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 200 W Jefferson St, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
@@ -4366,6 +4369,9 @@
 2000 River Rd, Louisville, KY:
   lat: 38.268671
   lng: -85.714684
+2000 Rowan, Louisville, KY:
+  lat: 38.260834
+  lng: -85.782933
 2000 S Preston St, Louisville, KY:
   lat: 38.2195706
   lng: -85.7480574
