@@ -6268,6 +6268,12 @@
 3100 Quinn, Louisville, KY:
   lat: 38.2549362
   lng: -85.7831337
+3100 Rock Creek Dr, Louisville, KY:
+  lat: 38.2417271
+  lng: -85.6710602
+3100 Rock Creek Dr. Emergency units responded, Louisville, KY:
+  lat: 38.2417271
+  lng: -85.6710602
 ? 3100 Running Deer Cir for a medical emergency involving a 74-year-old female who
   had fallen and was not alert. Engine 41 reported being on scene and ready with the
   patient., Louisville, KY
@@ -6481,6 +6487,9 @@
 : null
 3300 Ducart, Louisville, KY: null
 3300 Fargotown Road, Louisville, KY: null
+3300 Frankfort Ave, Louisville, KY:
+  lat: 38.2539302
+  lng: -85.6728829
 3300 Hikes Ln, Louisville, KY:
   lat: 38.218158
   lng: -85.628398
