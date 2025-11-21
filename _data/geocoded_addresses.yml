@@ -1512,6 +1512,9 @@
 ? 11900 Standford Plaza. The situation was later reclassified as a suspicious person,
   and police units were dispatched., Louisville, KY
 : null
+12 Howard St, Louisville, KY:
+  lat: 38.1875275
+  lng: -85.7155388
 120 Magazine Street, Louisville, KY:
   lat: 38.2496514
   lng: -85.7763551
@@ -3753,6 +3756,12 @@
   lng: -85.6350403
 200 Headnote Place. Police units were assigned to this case., Louisville, KY: null
 200 Headnote Place. Police units were assigned, Louisville, KY: null
+200 Howard St, Louisville, KY:
+  lat: 38.1875275
+  lng: -85.7155388
+200 Howard St. Responding units were dispatched, Louisville, KY:
+  lat: 38.1875275
+  lng: -85.7155388
 ? 200 I 64 East following a report of a female down, with the nature of her condition
   unknown. EMS was en route to the scene., Louisville, KY
 : null
@@ -5110,6 +5119,9 @@
 26 Ash Street, Louisville, KY:
   lat: 38.2255898
   lng: -85.7351074
+26 Howard St, Louisville, KY:
+  lat: 38.1875275
+  lng: -85.7155388
 ? 2600 Algonquin Pky to attend to a 67-year-old male who was feeling unwell, weak,
   experiencing diarrhea, and had not been eating. This incident was located between
   Hoskins Beach Rd and Piper Ct., Louisville, KY
@@ -11824,6 +11836,7 @@
 900 Great Hunter Ct, Louisville, KY:
   lat: 38.1072977
   lng: -85.6606492
+900 Greten Ln. Further details, Louisville, KY: null
 900 Hang-up (Motel Six), Louisville, KY: null
 900 Hang-up**, Louisville, KY: null
 900 I 65 South, Louisville, KY: null
@@ -12567,6 +12580,7 @@ Spring Dr and Rock Bay Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
+Stallings Ave and Cliggs Avenue, Louisville, KY: null
 Stone School Rd and Kilner Drive, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
