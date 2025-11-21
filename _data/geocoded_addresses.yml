@@ -653,6 +653,10 @@
   lat: 38.2484525
   lng: -85.7680848
 1000 Margetown Road, Louisville, KY: null
+1000 Mockshire Dr, Louisville, KY: null
+1000 Mockshire Dr, near Mistflower Cir. Fire personnel responded, Louisville, KY:
+  lat: 38.3303026
+  lng: -85.5632085
 1000 Mulberry St, Louisville, KY:
   lat: 38.2257994
   lng: -85.7382232
@@ -1313,6 +1317,9 @@
   to clear the scene and return to service shortly thereafter., Louisville, KY
 : null
 1100 South 4th Street, near West Oakland and St. Catherine. Responders were able, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
+1100 South 4th Street. Responding officers checked the premises, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
 1100 South 4th Street. The alarm was actively sounding when units arrived on scene., Louisville, KY: null
@@ -4143,6 +4150,9 @@
   lat: 38.204566
   lng: -85.677962
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
+2000 Unity Pl, Louisville, KY:
+  lat: 38.2189265
+  lng: -85.7621807
 2000 W Market St, Louisville, KY:
   lat: 38.2579596
   lng: -85.783445
@@ -4414,6 +4424,9 @@
   available., Louisville, KY
 : null
 2200 Main St as multiple units are responding, Louisville, KY: null
+2200 North 17th Street, Louisville, KY:
+  lat: 38.262859
+  lng: -85.7768541
 2200 North 37th Street, Louisville, KY:
   lat: 38.2649272
   lng: -85.810404
@@ -9192,6 +9205,9 @@
   to clear the animal from the road., Louisville, KY
 : null
 5600 Herr Ln, posing a potential traffic hazard. Responding units managed the situation, Louisville, KY: null
+5600 Jessamine, Louisville, KY:
+  lat: 38.1389913
+  lng: -85.8602314
 5600 Lana Dr, Louisville, KY:
   lat: 38.1045116
   lng: -85.6949665
