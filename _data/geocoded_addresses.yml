@@ -371,6 +371,7 @@
 100 South 42nd Street. The situation involved an 88-year-old female who was found, Louisville, KY:
   lat: 38.2649095
   lng: -85.8179133
+100 South 65th Street, Louisville, KY: null
 100 South Second Street Courtyard, Louisville, KY: null
 100 South Shelby, Louisville, KY:
   lat: 38.254461
@@ -7612,6 +7613,7 @@
 : null
 400 Charlie Vettiner Park Rd and the 400 block of Baker Aly STREET, Louisville, KY: null
 400 Charlie and 400 block of Adam, Louisville, KY: null
+400 Charlie and 400 block of Baker were on scene, Louisville, KY: null
 400 Charlie and 400 block of David, Louisville, KY: null
 400 Charlie and 6 David, Louisville, KY: null
 400 Charlie and 6 David., Louisville, KY: null
@@ -9181,6 +9183,12 @@
   lng: -85.768479
 500 Camden Ave, with support from the 400 block of Baker, Louisville, KY: null
 500 Camden Ave, with support from the 400 block of Baker., Louisville, KY: null
+500 Caton Ave, Louisville, KY:
+  lat: 38.1088196
+  lng: -85.7710151
+500 Caton Ave], Louisville, KY:
+  lat: 38.1088196
+  lng: -85.7710151
 ? 500 Charles St. A subsequent report indicated a possible burglary alarm in the same
   vicinity. All units were eventually cleared from the scene after the situation was
   resolved., Louisville, KY
