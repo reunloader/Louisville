@@ -1799,6 +1799,9 @@
   and was transported, Louisville, KY
 : lat: 38.234755
   lng: -85.758791
+1200 South 3rd Street. Fire units were dispatched, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
 1200 South 4th St, Louisville, KY:
   lat: 38.234898
   lng: -85.7606273
@@ -2266,6 +2269,9 @@
 13800 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
+13900 Darwin Blvd. Responders were sent, Louisville, KY:
+  lat: 38.055186
+  lng: -85.894178
 13900 Promenade Greenway in the 2nd office area, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
@@ -6442,6 +6448,9 @@
 3100 Radiance Rd, Louisville, KY:
   lat: 38.2167108
   lng: -85.6498046
+3100 Radiance Rd. Responders were dispatched, Louisville, KY:
+  lat: 38.2167108
+  lng: -85.6498046
 3100 Rock Creek Dr, Louisville, KY:
   lat: 38.2417271
   lng: -85.6710602
@@ -8159,6 +8168,9 @@
 4100 Dellafay Dr, Louisville, KY:
   lat: 38.1587447
   lng: -85.6857415
+4100 Fern Valley Rd, Louisville, KY:
+  lat: 38.1571885
+  lng: -85.6857729
 ? 4100 Firmely Road to assess the situation. The details surrounding the incident
   are currently being determined by law enforcement., Louisville, KY
 : null
@@ -9339,6 +9351,9 @@
   lat: 38.172359
   lng: -85.6696273
 5000 Shelbyville Rd, Louisville, KY:
+  lat: 38.247028
+  lng: -85.6228127
+5000 Shelbyville Rd. EMS personnel were dispatched, Louisville, KY:
   lat: 38.247028
   lng: -85.6228127
 ? 5000 South 4th Street in response to a serious medical situation. A 57-year-old
