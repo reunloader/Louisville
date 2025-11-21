@@ -1112,6 +1112,11 @@
   for assistance., Louisville, KY
 : null
 10300 King Oak Street Court. The call was, Louisville, KY: null
+10300 Metal View Drive, Louisville, KY: null
+? 10300 Metal View Drive. Information suggested an individual at this location may
+  have outstanding warrants, though the specifics were unclear. Police units were
+  dispatched, Louisville, KY
+: null
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -9788,6 +9793,10 @@
 5600 Lana Dr, Louisville, KY:
   lat: 38.1045116
   lng: -85.6949665
+5600 Merriman Rd, Louisville, KY: null
+? 5600 Merriman Rd, involving a dark gray SUV. Fortunately, no injuries were reported
+  as a result of this incident. Police units responded, Louisville, KY
+: null
 5600 New Cut Rd, Louisville, KY:
   lat: 38.142499
   lng: -85.774598
@@ -10306,6 +10315,12 @@
 6200 Brownsboro Rd, Louisville, KY:
   lat: 38.2835684
   lng: -85.6287332
+6200 Mistflower Cir, Louisville, KY:
+  lat: 38.3303026
+  lng: -85.5632085
+6200 Mistflower Cir. The occupant, a male, was believed, Louisville, KY:
+  lat: 38.3303026
+  lng: -85.5632085
 6200 Preston, Louisville, KY:
   lat: 38.1613928
   lng: -85.7001322
@@ -11167,6 +11182,12 @@
   lat: 38.275523
   lng: -85.6976287
 7100 Bungan Avenue, Louisville, KY: null
+7100 Cedar Springs Blvd, Louisville, KY:
+  lat: 38.1436823
+  lng: -85.5849157
+7100 Cedar Springs Blvd. This activity was logged, Louisville, KY:
+  lat: 38.1436823
+  lng: -85.5849157
 7100 Cedar Springs reported shoplifting involving three juveniles, Louisville, KY: null
 ? 7100 Cedar Springs reported shoplifting involving three juveniles. The suspects
   were described as young females, with one wearing a black jacket and backpack. Unit
@@ -11877,6 +11898,8 @@
 8000 Heights Dr, Louisville, KY:
   lat: 38.1303796
   lng: -85.5939161
+8000 Merriman Rd, Louisville, KY: null
+8000 Merriman Rd. Responding units were dispatched, Louisville, KY: null
 8000 North Bardstown Rd, Louisville, KY: null
 ? 8000 Preston Highway. Paramedics arrived on scene to provide care for an individual
   experiencing a medical emergency. The patient was assessed and treated by the medical
@@ -12094,6 +12117,12 @@
   intervention., Louisville, KY
 : null
 8700 Lizam Lane, Louisville, KY: null
+8700 Manslick Rd, Louisville, KY:
+  lat: 38.125069
+  lng: -85.796299
+8700 Manslick Rd. An individual in a black Chevy Tahoe at a local gas station needed help, Louisville, KY:
+  lat: 38.125069
+  lng: -85.796299
 8700 Michael Way, Louisville, KY: null
 8700 Nottingham Parkway 11:00 a, Louisville, KY: null
 8700 Nottingham Parkway 11:00 a.m., Louisville, KY: null
@@ -12953,6 +12982,7 @@ Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
 Murray Ln and Raggard Rd, Louisville, KY: null
+Nanka Rd and Valley Station Rd, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Park Rd, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
