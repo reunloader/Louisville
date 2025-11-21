@@ -902,6 +902,9 @@
 1000 South 15th Street, Louisville, KY:
   lat: 38.241236
   lng: -85.777725
+1000 South 15th Street, near West Lee and West Hill at the Healing Place, Louisville, KY:
+  lat: 38.241236
+  lng: -85.777725
 1000 South 1st Street, Louisville, KY:
   lat: 38.23828
   lng: -85.754787
@@ -2166,6 +2169,12 @@
 1300 Trinity Park Dr, Louisville, KY:
   lat: 38.1889622
   lng: -85.7174663
+1300 W Market St, Louisville, KY:
+  lat: 38.256806
+  lng: -85.771833
+1300 W Market St, near Dismas Charities,, Louisville, KY:
+  lat: 38.256806
+  lng: -85.771833
 ? 1300 Winter Ave. Officers checked on the vehicle, and it was cleared as non-suspicious
   approximately ten minutes before the report was logged., Louisville, KY
 : null
@@ -3405,6 +3414,10 @@
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
   lng: -85.7054914
+1900 Dubarque Avenue, Louisville, KY: null
+? 1900 Dubarque Avenue, near Fitzgerald and Wartell. The alarm was identified as a
+  smoke detector. Responders investigated the activation, Louisville, KY
+: null
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
@@ -7114,6 +7127,9 @@
 3700 Rouge Way, Louisville, KY:
   lat: 38.204316
   lng: -85.648926
+3700 Sourwood Ct, Louisville, KY:
+  lat: 38.214216
+  lng: -85.629305
 3700 Southern Pky, Louisville, KY:
   lat: 38.1836068
   lng: -85.7677003
@@ -10109,6 +10125,9 @@
   hearing activity inside but was hesitant, Louisville, KY
 : null
 6200 Baker Aly STREET, Louisville, KY: null
+6200 Brownsboro Rd, Louisville, KY:
+  lat: 38.2835684
+  lng: -85.6287332
 6200 Preston, Louisville, KY:
   lat: 38.1613928
   lng: -85.7001322
@@ -12809,6 +12828,7 @@ Taylor Ave and Central Ave, Louisville, KY:
   lng: -85.7764181
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
+Taylor Blvd and Bicknell Ave, Louisville, KY: null
 Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
