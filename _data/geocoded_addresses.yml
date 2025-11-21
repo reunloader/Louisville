@@ -2575,6 +2575,9 @@
 1500 Dixie Hwy, Louisville, KY:
   lat: 38.227527
   lng: -85.790903
+1500 Dixie Hwy, near Galbert and West Hill at Thorntons,, Louisville, KY:
+  lat: 38.227527
+  lng: -85.790903
 ? 1500 Gallagher Street due to a report of a 19-year-old black female threatening
   self-harm. The individual was initially reported to be armed with a sword, but it
   was later stated she no longer had the weapon. The location of the sword was unknown
@@ -9143,6 +9146,9 @@
   retrieval time. Police units were assigned, Louisville, KY
 : null
 5000 Triple Tilt Row, Louisville, KY: null
+5000 Wabash Pl, Louisville, KY:
+  lat: 38.175764
+  lng: -85.7592524
 5000 Wabash, Louisville, KY:
   lat: 38.175764
   lng: -85.7592524
@@ -10426,6 +10432,9 @@
 700 Algonquin Pky, Louisville, KY:
   lat: 38.2113098
   lng: -85.7705003
+700 Algonquin Pky, near Compton and Rodman,, Louisville, KY:
+  lat: 38.2113098
+  lng: -85.7705003
 700 Baird St, B2, Louisville, KY: null
 700 Baker and Fort Charlie, Louisville, KY: null
 ? 700 Baker responded to the scene. After an assessment, the individual was reported
@@ -11142,6 +11151,12 @@
   lat: 38.1590824
   lng: -85.6193102
 7700 I-65 South, Louisville, KY: null
+7700 Manslick Rd, Louisville, KY:
+  lat: 38.140092
+  lng: -85.79391
+7700 Manslick Rd, near Carol Way and Park Ridge Parkway. The call was, Louisville, KY:
+  lat: 38.140092
+  lng: -85.79391
 7700 Outer Loop, Louisville, KY:
   lat: 38.1370967
   lng: -85.6184393
@@ -12170,6 +12185,12 @@
 9400 Amber Ridge Ct, Louisville, KY:
   lat: 38.1181052
   lng: -85.8399305
+9400 Bronzeridge Pl, Louisville, KY:
+  lat: 38.1128554
+  lng: -85.6502558
+9400 Bronzeridge Pl, near Crop St and Chambers Way, Louisville, KY:
+  lat: 38.1128554
+  lng: -85.6502558
 9400 Chambers Way, Louisville, KY:
   lat: 38.1117849
   lng: -85.6496184
