@@ -53,6 +53,9 @@
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
+100 Central Ave, Louisville, KY:
+  lat: 38.202901
+  lng: -85.75091
 100 Colm's Lane, Louisville, KY: null
 100 Colonial Oaks Ct near South 1st Street, Louisville, KY: null
 100 Colonial Oaks Ct, Louisville, KY:
@@ -3599,6 +3602,9 @@
 20 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+20 Southern Pky, Louisville, KY:
+  lat: 38.1747458
+  lng: -85.7745966
 20 Welby Rd, Louisville, KY:
   lat: 38.1560283
   lng: -85.8308502
@@ -5541,6 +5547,7 @@
   lat: 38.2541178
   lng: -85.690105
 2800 I 64 West, Louisville, KY: null
+2800 Lane, Louisville, KY: null
 ? 2800 Lexington Rd due to a residential alarm at a two-story home. Upon investigation,
   there were no indications of a fire or any other emergency., Louisville, KY
 : null
@@ -10811,6 +10818,9 @@
 700 Phillips Ln. A male was detained by officers. The detention was related, Louisville, KY:
   lat: 38.1902756
   lng: -85.7443853
+700 Preston, Louisville, KY:
+  lat: 38.244129
+  lng: -85.747842
 700 S Brook St, Louisville, KY:
   lat: 38.244898
   lng: -85.751927
@@ -12786,6 +12796,7 @@ Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
+Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
