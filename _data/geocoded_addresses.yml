@@ -2008,6 +2008,7 @@
 1300 Algonquin, Louisville, KY:
   lat: 38.2195376
   lng: -85.7771032
+1300 Avenue, Louisville, KY: null
 1300 B Lane, Louisville, KY: null
 1300 Bardstown Rd, Louisville, KY:
   lat: 38.2348669
@@ -11103,6 +11104,9 @@
 7000 Foxcroft Pl, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
+7000 Masonic Home Dr, Louisville, KY:
+  lat: 38.2542653
+  lng: -85.6624316
 7000 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
