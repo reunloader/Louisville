@@ -517,6 +517,7 @@
 1000 Bardstown Rd, Louisville, KY:
   lat: 38.240016
   lng: -85.724091
+1000 Barrenness, Louisville, KY: null
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -8254,6 +8255,9 @@
 4300 Cranet Way, [Date] 8:00 a.m.AM, Louisville, KY: null
 4300 Donarell Run Drive, Louisville, KY: null
 4300 Down A Donerail Run Dr, Louisville, KY: null
+4300 Estate Dr, Louisville, KY:
+  lat: 38.1824941
+  lng: -85.80531
 4300 Exterior Landing Circle, Louisville, KY: null
 4300 Exterior Landing Circle. Responders were dispatched, Louisville, KY: null
 4300 Fagan Bush, Louisville, KY: null
@@ -8645,6 +8649,9 @@
   KY
 : lat: 38.1780034
   lng: -85.676566
+4600 Glenbrook, Louisville, KY:
+  lat: 38.1911382
+  lng: -85.8730729
 4600 Greenwood Rd, Louisville, KY:
   lat: 38.1434841
   lng: -85.8415387
