@@ -9696,6 +9696,9 @@
 6100 135th Street this morning due, Louisville, KY: null
 6100 135th Street, Louisville, KY: null
 6100 Airport Hotels Blvd, Louisville, KY: null
+? 6100 Airport Hotels Blvd. The alarm was specifically triggered in zone 247. Upon
+  arrival, the alarm was confirmed, Louisville, KY
+: null
 6100 Applegate Ln, Louisville, KY:
   lat: 38.133509
   lng: -85.6490481
@@ -11539,6 +11542,10 @@
 900 Denmark St, Louisville, KY:
   lat: 38.1954766
   lng: -85.7750404
+900 Des Moines Avenue, Louisville, KY: null
+900 Des Moines Avenue, near Alford Ave,, Louisville, KY:
+  lat: 38.2661152
+  lng: -85.8051111
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
