@@ -2175,6 +2175,7 @@
 1300 W Market St, near Dismas Charities,, Louisville, KY:
   lat: 38.256806
   lng: -85.771833
+1300 West Markridge Street, Louisville, KY: null
 ? 1300 Winter Ave. Officers checked on the vehicle, and it was cleared as non-suspicious
   approximately ten minutes before the report was logged., Louisville, KY
 : null
@@ -2536,6 +2537,9 @@
 14800 James Madison Ct, Louisville, KY:
   lat: 38.0666176
   lng: -85.8940384
+15 Audubon Plaza Dr, Louisville, KY:
+  lat: 38.2145905
+  lng: -85.716453
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -3414,6 +3418,7 @@
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
   lng: -85.7054914
+1900 DuBorg Avenue, Louisville, KY: null
 1900 Dubarque Avenue, Louisville, KY: null
 ? 1900 Dubarque Avenue, near Fitzgerald and Wartell. The alarm was identified as a
   smoke detector. Responders investigated the activation, Louisville, KY
