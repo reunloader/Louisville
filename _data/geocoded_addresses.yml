@@ -4069,6 +4069,9 @@
 200 York Street, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
+200 [Street Name Unclear], Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 200 and Taylor Blvd, Louisville, KY:
   lat: 38.2079291
   lng: -85.7741776
@@ -8977,6 +8980,7 @@
 500 South 7th 3Rd Street Rd to conduct a welfare check, with concerns of a possible medical issue., Louisville, KY: null
 500 South 7th 3Rd Street Rd, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
+500 South, Louisville, KY: null
 500 Village West Dr, Louisville, KY:
   lat: 38.2519645
   lng: -85.7665279
