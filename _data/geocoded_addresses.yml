@@ -6652,6 +6652,9 @@
 3200 Northwestern Avenue, Louisville, KY: null
 3200 Patricia Drive 4:00 a, Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
+3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
+  lat: 38.20267
+  lng: -85.7352633
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
 3200 South Hampton Rd., Louisville, KY: null
@@ -8726,6 +8729,9 @@
 4500 Poplar Level Rd, Louisville, KY:
   lat: 38.1878872
   lng: -85.7034767
+4500 Preston Hwy. Police units responded, Louisville, KY:
+  lat: 38.1836507
+  lng: -85.7219049
 4500 Quintus Court, Louisville, KY: null
 4500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
@@ -9741,6 +9747,9 @@
 5500 Grandel Blvd, Louisville, KY:
   lat: 38.1570219
   lng: -85.8577378
+5500 Indian Oaks Cir, Louisville, KY:
+  lat: 38.1695373
+  lng: -85.6869482
 5500 Knobview Ln, Louisville, KY:
   lat: 38.1349358
   lng: -85.6580689
@@ -11490,6 +11499,9 @@
 7600 St Andrews Church Rd, Louisville, KY:
   lat: 38.1574351
   lng: -85.8105138
+7700 Bardstown Rd, Louisville, KY:
+  lat: 38.1354405
+  lng: -85.5803445
 7700 Brookview Dr, Louisville, KY: null
 7700 Chelsea Gardens, Louisville, KY:
   lat: 38.1590824
@@ -12930,6 +12942,7 @@ Estate Dr and Gagel Ave, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
 Fern Valley Rd and Jefferson Blvd, Louisville, KY: null
+Fern Valley Rd and Paramount Park Dr, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
