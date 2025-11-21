@@ -6747,6 +6747,9 @@
   lat: 38.1291902
   lng: -85.5765828
 350 [Street Name Missing], Louisville, KY: null
+3500 10 Run Road, Louisville, KY:
+  lat: 38.1972047
+  lng: -85.8401448
 ? 3500 Capri Dr, between Gladden Dr and Elba Dr, for a medical call concerning a 40-year-old
   male experiencing significant nosebleeds., Louisville, KY
 : null
@@ -10646,6 +10649,10 @@
   lng: -85.7414498
 700 East Jefferson Street 8:00 a, Louisville, KY: null
 700 East Jefferson Street 8:00 a.m.AM, Louisville, KY: null
+700 East Jefferson when they observed suspicious circumstances, Louisville, KY: null
+700 East Jefferson, Louisville, KY:
+  lat: 38.251917
+  lng: -85.740147
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned to investigate., Louisville,
   KY
