@@ -1505,6 +1505,9 @@
 11400 Ridge Rd, Louisville, KY:
   lat: 38.2184913
   lng: -85.7015596
+11400 Westport Rd, Louisville, KY:
+  lat: 38.2990576
+  lng: -85.5393666
 11400 Willow Pond Dr, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
@@ -2210,6 +2213,9 @@
 13600 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
+13600 Pinnacle Gardens Cir, Louisville, KY:
+  lat: 38.2862898
+  lng: -85.5069324
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
@@ -11611,6 +11617,7 @@
   responding units were able, Louisville, KY
 : lat: 38.1373907
   lng: -85.8651361
+8000 Glimmer Drive, Louisville, KY: null
 8000 Glimmer Way, Louisville, KY:
   lat: 38.1326257
   lng: -85.7787905
