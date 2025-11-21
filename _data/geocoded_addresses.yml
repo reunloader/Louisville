@@ -1412,6 +1412,9 @@
 11200 New Stone Ct, Louisville, KY:
   lat: 38.2491364
   lng: -85.549344
+11200 Preston Hwy near Antle Dr, Louisville, KY:
+  lat: 38.087364
+  lng: -85.667759
 11200 Vista Greens Dr, Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched, Louisville, KY: null
@@ -8711,6 +8714,7 @@
   lat: 38.2444725
   lng: -85.7544415
 500 Eagle Pond Plain, Louisville, KY: null
+500 Fountain Ave near Warwick Ave, Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
 ? 500 Jim Noway to oversee an eviction process. Following the procedure, the deputy
@@ -9070,6 +9074,9 @@
   lat: 38.3190024
   lng: -85.5348563
 5200 Greenwood at High Spirit Liquors, Louisville, KY: null
+5200 Jenny June Dr near Nellie Bly Dr, Louisville, KY:
+  lat: 38.17453
+  lng: -85.695848
 5200 Laurel Grove Ct, Louisville, KY:
   lat: 38.1289808
   lng: -85.6279894
@@ -9838,6 +9845,7 @@
   KY
 : lat: 38.0796483
   lng: -85.8768468
+6400 Avenue near Warwick Ave, Louisville, KY: null
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
   lng: -85.5025766
