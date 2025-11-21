@@ -9533,6 +9533,9 @@
 5600 Lana Dr, Louisville, KY:
   lat: 38.1045116
   lng: -85.6949665
+5600 New Cut Rd, Louisville, KY:
+  lat: 38.142499
+  lng: -85.774598
 5600 Nuka, Louisville, KY: null
 5600 Nuka. Police units were dispatched to investigate the vehicle's status., Louisville, KY: null
 5600 Nuka. Police units were dispatched, Louisville, KY: null
@@ -11826,6 +11829,7 @@
 8800 Hudson Ave, Louisville, KY:
   lat: 38.2221493
   lng: -85.8141208
+8800 Malvern Hill Rd, Louisville, KY: null
 8800 National Turnpike, Louisville, KY:
   lat: 38.1220474
   lng: -85.7484539
