@@ -3172,6 +3172,12 @@
   on scene, Louisville, KY
 : lat: 38.2565197
   lng: -85.7166551
+1800 Hardesty Ave, Louisville, KY:
+  lat: 38.216758
+  lng: -85.795876
+1800 Hardesty Ave. Further details, Louisville, KY:
+  lat: 38.216758
+  lng: -85.795876
 1800 I 64 West, Louisville, KY: null
 1800 Integrity Way, Louisville, KY:
   lat: 38.22319
@@ -6144,6 +6150,10 @@
   lat: 38.2191858
   lng: -85.7614601
 3100 South Second Street, Louisville, KY: null
+3100 South2nd Street following a report of a medical emergency. The specific reason, Louisville, KY: null
+3100 South2nd Street, Louisville, KY:
+  lat: 38.204435
+  lng: -85.763317
 3100 Springfield Dr, Louisville, KY:
   lat: 38.1474972
   lng: -85.8158609
