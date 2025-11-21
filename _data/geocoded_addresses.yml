@@ -24,6 +24,7 @@
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+100 Baker, were dispatched, Louisville, KY: null
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
@@ -1926,6 +1927,9 @@
   lat: 38.1407464
   lng: -85.6853949
 1300 Bates Ave. This was a welfare-related assist., Louisville, KY: null
+1300 Beech Ave, Louisville, KY:
+  lat: 38.1849238
+  lng: -85.7942714
 1300 Bridget Dr, Louisville, KY:
   lat: 38.1090508
   lng: -85.7421424
@@ -6743,6 +6747,9 @@
   lng: -85.7860515
 3600 Linth Avenue, Louisville, KY: null
 3600 Mall Rd, Louisville, KY: null
+3600 Manslick Rd, Louisville, KY:
+  lat: 38.1953487
+  lng: -85.7996467
 3600 Monticello Forest Cir, Louisville, KY: null
 ? 3600 Monticello Forest Cir. This appears to be a correction or a separate incident
   from a previous call on Forest Way Dr, indicating a need for police presence in
@@ -9939,6 +9946,9 @@
   lng: -85.5025766
 6400 Gatehouse Ln, Louisville, KY: null
 6400 Greten Ln, Louisville, KY: null
+6400 Regal Rd, Louisville, KY:
+  lat: 38.2953843
+  lng: -85.6313995
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
   lng: -85.6031247
@@ -10746,6 +10756,9 @@
   lat: 38.256087
   lng: -85.7509255
 7300 Beechhorns, Louisville, KY: null
+7300 Christian Way, Louisville, KY:
+  lat: 38.2471058
+  lng: -85.6070451
 7300 E W Market St, Louisville, KY: null
 7300 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
