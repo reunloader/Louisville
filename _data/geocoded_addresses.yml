@@ -1411,6 +1411,9 @@
 1100 West Broadway, near South 11th Street,, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
+11000 Brooksong Ct, Louisville, KY:
+  lat: 38.2942719
+  lng: -85.503212
 11000 Decimal Dr, Louisville, KY: null
 11000 Decimal Dr. Responding units were unable to make contact, and the call was left in a pending status., Louisville, KY: null
 11000 Decimal Dr. Responding units were unable, Louisville, KY: null
@@ -6761,6 +6764,9 @@
 3500 10 Run Road, Louisville, KY:
   lat: 38.1972047
   lng: -85.8401448
+3500 Cane Run Rd, Louisville, KY:
+  lat: 38.2225867
+  lng: -85.8114477
 ? 3500 Capri Dr, between Gladden Dr and Elba Dr, for a medical call concerning a 40-year-old
   male experiencing significant nosebleeds., Louisville, KY
 : null
@@ -8615,6 +8621,7 @@
 4500 South 6th Street, Louisville, KY:
   lat: 38.1881447
   lng: -85.7704769
+4500 South Harris Farm Parkway, Louisville, KY: null
 4500 South Side, Louisville, KY: null
 4500 South6th Street, Louisville, KY: null
 ? 4500 Swaco Lane for a medical emergency involving an 82-year-old female. Upon arrival,
@@ -8886,6 +8893,9 @@
 4800 Old Dixie Hwy. Responding units were dispatched, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4800 Outer Loop, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Paramount Dr, Louisville, KY:
   lat: 38.134542
   lng: -85.845222
@@ -12300,6 +12310,9 @@
 9200 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+9200 Preston Hwy, Louisville, KY:
+  lat: 38.1174315
+  lng: -85.6779117
 9200 Westmore Road, Louisville, KY: null
 9200 Westport Rd, Louisville, KY:
   lat: 38.2909338
@@ -12880,6 +12893,7 @@ Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
+Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
