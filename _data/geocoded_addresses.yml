@@ -2189,6 +2189,9 @@
 1400 Clover Trace Place. Engine 12 and Truck 8 were dispatched, Louisville, KY:
   lat: 38.1765171
   lng: -85.7984715
+1400 Clover Trace, Louisville, KY:
+  lat: 38.1766443
+  lng: -85.7992227
 1400 Delmar Ln, Louisville, KY:
   lat: 38.1825441
   lng: -85.8055398
@@ -2244,6 +2247,9 @@
   arrived to investigate the situation., Louisville, KY
 : null
 1400 Hepburn Avenue following reports of a possible domestic disturbance. Neighbors had alerted dispatch, Louisville, KY: null
+1400 Homeview Dr, Louisville, KY:
+  lat: 38.2097542
+  lng: -85.7821284
 ? 1400 I 64 East following a report of a medical emergency. A 20-year-old female experienced
   a seizure episode but was alert after recently donating plasma., Louisville, KY
 : null
@@ -2371,6 +2377,7 @@
 1400 South 8th Street, Louisville, KY:
   lat: 38.229071
   lng: -85.769064
+1400 South Forth Street, Louisville, KY: null
 1400 South Hancock to investigate the incident., Louisville, KY: null
 1400 South Hancock, Louisville, KY:
   lat: 38.226711
@@ -11095,6 +11102,9 @@
 800 Phillips Ln, Louisville, KY:
   lat: 38.1908906
   lng: -85.7431851
+800 Riedley Ct, Louisville, KY:
+  lat: 38.2020181
+  lng: -85.8286747
 800 River Crest Dr, Louisville, KY:
   lat: 38.268037
   lng: -85.7001384
