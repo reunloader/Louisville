@@ -3475,6 +3475,8 @@
   lng: -85.726232
 200 Adams St. The reporting officer indicated that they were not harmed during the stop., Louisville, KY: null
 200 Albany Ave alley, Louisville, KY: null
+200 Baker and 2 Adam in response, Louisville, KY: null
+200 Baker and 2 Adam, Louisville, KY: null
 200 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -10160,6 +10162,7 @@
 6900 Arbor Creek Dr. Responding units were dispatched, Louisville, KY:
   lat: 38.122131
   lng: -85.616247
+6900 Bradley Square Road, Louisville, KY: null
 6900 Brooklawn Dr, Louisville, KY:
   lat: 38.1538637
   lng: -85.8195569
@@ -11173,6 +11176,11 @@
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+800 Style Up, Louisville, KY: null
+? 800 Style Up, at the intersection of Kimberlake and Foxboro. The specific nature
+  of the medical issue was not detailed, but the call was categorized as "Medical
+  Charlie," indicating a need, Louisville, KY
+: null
 800 Sub Cliff Avenue 7:30 p, Louisville, KY: null
 800 Sub Cliff Avenue 7:30 p.m.PM, Louisville, KY: null
 ? 800 Varble Ave, near a state drop, and there was a possibility of a second vehicle
@@ -12127,6 +12135,11 @@
   lat: 38.1450686
   lng: -85.5879341
 9900 Corporate Campus Dr, Louisville, KY: null
+? 9900 Daniel Drivember 2 following a report of an individual who had fallen and sustained
+  injuries. The extent of the injuries was described as "unknown," and EMS was en
+  route, Louisville, KY
+: null
+9900 Daniel Drivember 2, Louisville, KY: null
 9900 Dixie Hwy, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
