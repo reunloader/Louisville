@@ -331,6 +331,9 @@
 100 South 37th Street, Louisville, KY:
   lat: 38.2627627
   lng: -85.8109002
+100 South 3rd Street near Webster St, Louisville, KY:
+  lat: 38.256328
+  lng: -85.754983
 100 South 3rd Street, Louisville, KY:
   lat: 38.256328
   lng: -85.754983
@@ -1932,6 +1935,9 @@
 12600 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
+12600 Taylorsville Rd near Bittenberg Road, Louisville, KY:
+  lat: 38.1871839
+  lng: -85.5214147
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
@@ -6544,6 +6550,9 @@
   Louisville, KY
 : null
 3300 Mary O'Connor Way, Louisville, KY: null
+3300 North 33rd Street near Flawns Avenue, Louisville, KY:
+  lat: 38.2737912
+  lng: -85.8008349
 ? 3300 Northwestern Pky to investigate a water leak inside the structure. Responders
   worked to locate the source of the leak and the shut-off valve. Engine 6 concluded
   their response and returned to service a few minutes later., Louisville, KY
@@ -8634,6 +8643,9 @@
   lat: 38.184921
   lng: -85.769193
 4600 South 63rd Street, Louisville, KY: null
+4600 Stony Brook Dr near Bittenberg Road, Louisville, KY:
+  lat: 38.180045
+  lng: -85.597056
 4600 Stony Brook Dr, Louisville, KY:
   lat: 38.180045
   lng: -85.597056
