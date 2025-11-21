@@ -661,6 +661,9 @@
   lat: 38.2484525
   lng: -85.7680848
 1000 Margetown Road, Louisville, KY: null
+1000 Milton St, Louisville, KY:
+  lat: 38.224234
+  lng: -85.7397443
 1000 Mockshire Dr, Louisville, KY: null
 1000 Mockshire Dr, near Mistflower Cir. Fire personnel responded, Louisville, KY:
   lat: 38.3303026
@@ -5021,6 +5024,9 @@
 ? 2500 Terra Crossing Blvd. The alarms were associated with a parts delivery door
   and another area within the facility., Louisville, KY
 : null
+2500 Trubart Ln, Louisville, KY:
+  lat: 38.181441
+  lng: -85.839505
 2500 W Chestnut St, Louisville, KY:
   lat: 38.2527733
   lng: -85.7932062
@@ -5503,6 +5509,9 @@
   Louisville, KY
 : null
 2900 Breckenridge Lane. Responding officers were sent, Louisville, KY:
+  lat: 38.224051
+  lng: -85.634089
+2900 Breckenridge Ln near Hikes Ln, Louisville, KY:
   lat: 38.224051
   lng: -85.634089
 2900 Brinkey Way, Louisville, KY:
@@ -9120,6 +9129,7 @@
 5100 South 5th Street, Louisville, KY:
   lat: 38.2098564
   lng: -85.7664245
+5100 South First Street, Louisville, KY: null
 5100 Steffen Drive, Louisville, KY: null
 5100 Steffen Drive. Police units were dispatched to investigate the theft., Louisville, KY: null
 5100 Steffen Drive. Police units were dispatched, Louisville, KY: null
@@ -10013,6 +10023,7 @@
 6500 Renate Road, Louisville, KY:
   lat: 38.1535268
   lng: -85.6040821
+6500 Ridge Crest Dr, Louisville, KY: null
 ? 6500 Signature Dr following a report of a self-inflicted injury. A male individual
   reportedly shot himself in the head with a BB gun. The patient was described as
   wearing specific clothing., Louisville, KY
