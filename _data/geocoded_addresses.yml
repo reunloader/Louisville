@@ -10,6 +10,9 @@
 03 Arlington Ave, Louisville, KY:
   lat: 38.2545625
   lng: -85.7142596
+03 Brownsboro Rd, Louisville, KY:
+  lat: 38.3167721
+  lng: -85.5616302
 04 Knoblet Drive, Louisville, KY: null
 100 13th Street at Chestnut View Ct, Louisville, KY:
   lat: 38.258148
@@ -235,6 +238,11 @@
 100 North Hirshhorn Parkway, Louisville, KY: null
 100 North James Street in Sycamore, Louisville, KY: null
 100 North James Street, Louisville, KY: null
+? 100 North of S Jane St involving a 59-year-old female who was found unconscious.
+  Initial reports indicated she may have been experiencing a seizure and showed signs
+  of bleeding and foam from her mouth. EMS was on scene, Louisville, KY
+: null
+100 North of S Jane St, Louisville, KY: null
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
   specified. The outcome of the police response to this location is also unclear at
@@ -4019,6 +4027,9 @@
   lat: 38.234647
   lng: -85.757169
 200 Webster St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
+200 Webster St. W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
 200 West Broadway, Louisville, KY:
@@ -11756,6 +11767,7 @@
 8100 entrance road, Louisville, KY:
   lat: 38.133816
   lng: -85.855557
+8200 Broccolo Court, Louisville, KY: null
 8200 Cane Run Rd, Louisville, KY:
   lat: 38.1371078
   lng: -85.8976921
