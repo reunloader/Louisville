@@ -2633,6 +2633,7 @@
 1500 Lewis Coleman Jr. Drive, Louisville, KY: null
 1500 Lewis Ln at Immaculate Heart of Mary, Louisville, KY: null
 1500 Lincoln Hill Way, Louisville, KY: null
+1500 Longfield Ave in the 4th Division, Louisville, KY: null
 1500 Longfield Ave, Louisville, KY:
   lat: 38.1985284
   lng: -85.786642
@@ -4949,6 +4950,7 @@
 2400 Marymount Ct. This was described as a general alarm activation., Louisville, KY:
   lat: 38.2850585
   lng: -85.6178338
+2400 Mellwood Ave in response, Louisville, KY: null
 ? 2400 Mellwood Ave, Building 9. The call concerned a disorderly person, described
   as a homeless, intoxicated female. She was reportedly on the first floor of the
   building., Louisville, KY
@@ -8464,6 +8466,9 @@
 4400 Towne Center Dr, Louisville, KY:
   lat: 38.3020332
   lng: -85.55784
+4400 W Market St, Louisville, KY:
+  lat: 38.263696
+  lng: -85.8211188
 4404 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
@@ -8631,6 +8636,9 @@
   lat: 38.1434841
   lng: -85.8415387
 4600 Jo Lynn Dr, Louisville, KY: null
+4600 Lynnbrook Dr, Louisville, KY:
+  lat: 38.2329773
+  lng: -85.6162877
 4600 S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
