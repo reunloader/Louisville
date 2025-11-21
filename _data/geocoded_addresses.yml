@@ -6980,6 +6980,7 @@
   not breathing, but upon dispatch, it was confirmed the child was breathing. EMS
   responded, Louisville, KY
 : null
+3700 Pamela Bray, Louisville, KY: null
 ? 3700 Parchant Road to investigate an issue involving homeless individuals who had
   set up camps on the property. They were reportedly asked to leave but refused, leading
   to the call for assistance., Louisville, KY
@@ -8560,6 +8561,9 @@
   lat: 38.1787602
   lng: -85.623961
 4700 Crescent Highway, Louisville, KY: null
+4700 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 4700 East Indian Trail, Louisville, KY:
   lat: 38.1794745
   lng: -85.6735927
@@ -11210,6 +11214,7 @@
 800 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+800 David Street, Louisville, KY: null
 800 Denmark St, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
