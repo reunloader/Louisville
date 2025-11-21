@@ -1550,6 +1550,9 @@
   lat: 38.2990576
   lng: -85.5393666
 11400 Willow Pond Dr, Louisville, KY: null
+11500 Maple Brook Dr, Louisville, KY:
+  lat: 38.3020407
+  lng: -85.541966
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
@@ -2383,6 +2386,7 @@
 1400 I 64 East. Reports indicated a stepson was refusing, Louisville, KY: null
 1400 I 64 West, Louisville, KY: null
 1400 I64 East, Louisville, KY: null
+1400 Kentucky Mills Dr, Louisville, KY: null
 1400 Knight and Gale, Louisville, KY: null
 1400 Larchmont Ave, Louisville, KY:
   lat: 38.2102913
@@ -2806,6 +2810,9 @@
 16 Compton St, Louisville, KY:
   lat: 38.2139206
   lng: -85.7691121
+16 Crafty Dr, Louisville, KY:
+  lat: 38.1748202
+  lng: -85.7106431
 16 Edenwood Dr, Louisville, KY: null
 ? 1600 Arlington Ave to address a medical emergency. Further information regarding
   the patient's condition or the cause of the emergency was not immediately available.,
@@ -3487,6 +3494,9 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Hikes Ln, Louisville, KY:
+  lat: 38.2061085
+  lng: -85.6488189
 ? 1900 Integrity Way involving a suspect described as a black male wearing a black
   face mask and carrying a gray backpack. The pursuit extended through several streets,
   including Bunsen and across Hurstborn, with the suspect heading towards O'Charlie's
@@ -8693,6 +8703,9 @@
 4500 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4500 Outer Loop, Louisville, KY:
+  lat: 38.1380208
+  lng: -85.6781078
 4500 Poplar Level Rd, Louisville, KY:
   lat: 38.1878872
   lng: -85.7034767
