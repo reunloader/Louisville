@@ -233,6 +233,8 @@
 100 North First Blom Parkway, Louisville, KY: null
 100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
+100 North James Street in Sycamore, Louisville, KY: null
+100 North James Street, Louisville, KY: null
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
   specified. The outcome of the police response to this location is also unclear at
@@ -4016,6 +4018,9 @@
 200 W Oak St, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
+200 Webster St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 200 West Broadway, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
