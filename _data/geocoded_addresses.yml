@@ -1873,6 +1873,9 @@
 1200 Waycross Ave, Louisville, KY:
   lat: 38.0938159
   lng: -85.6538909
+1200 Weller Ave, Louisville, KY:
+  lat: 38.2098187
+  lng: -85.7755746
 1200 West Ali, Louisville, KY:
   lat: 38.2524203
   lng: -85.7709853
@@ -6676,6 +6679,9 @@
   lat: 38.200984
   lng: -85.791169
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
+3400 Larkwood Ave, Louisville, KY:
+  lat: 38.257727
+  lng: -85.80767
 3400 Lexington Rd, Louisville, KY:
   lat: 38.2494671
   lng: -85.6665808
@@ -12630,6 +12636,7 @@
 9900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+Adams St and Weller Ave, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
