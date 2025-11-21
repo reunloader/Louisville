@@ -3109,6 +3109,9 @@
 ? 1700 Wilson Ave, an area bordered by Baldwin and South 17th Street. Medical personnel
   assessed and treated the individual., Louisville, KY
 : null
+17100 Green Crest Ln, Louisville, KY:
+  lat: 38.242077
+  lng: -85.451934
 17200 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
@@ -11189,6 +11192,10 @@
   lat: 38.2075051
   lng: -85.6171438
 800 Adam/800 block of Baker, Louisville, KY: null
+800 Adams and the 300 block of Adams, Louisville, KY: null
+800 Adams, Louisville, KY:
+  lat: 38.2592106
+  lng: -85.7264871
 800 Baker and 800 block of Adams, Louisville, KY: null
 800 Baker and the 800 block of Adam, Louisville, KY: null
 800 Baker and the 800 block of Adam., Louisville, KY: null
