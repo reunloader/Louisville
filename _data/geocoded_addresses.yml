@@ -2164,6 +2164,9 @@
   lat: 38.0861158
   lng: -85.5865049
 13300 an unspecified street, Louisville, KY: null
+13400 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 ? 13400 Spring Villa Court following a report of a fall. A 67-year-old male was found
   to have fallen on his bathroom floor. Responders from unit 300 block of were sent
   to assess the situation and provide necessary medical attention. The individual
@@ -3814,6 +3817,9 @@
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
 200 North Hubbard's Lane, Louisville, KY: null
+200 North I near Smyrna Parkway, Louisville, KY:
+  lat: 38.1304
+  lng: -85.6425666
 200 North Westport Road, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
@@ -3872,6 +3878,9 @@
 ? 200 South Forest. The individual, a male, was observed sitting near an elevator
   on the sixth floor, exhibiting unusual behavior and calling out, Louisville, KY
 : null
+200 South KY near Shelbyville Rd, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South Newcote Road, Louisville, KY: null
 200 South Second Street, Louisville, KY: null
 200 South [Street Name Missing], Louisville, KY:
@@ -9998,6 +10007,9 @@
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
+6400 Montego Bay, Louisville, KY:
+  lat: 38.155313
+  lng: -85.640974
 6400 Regal Rd, Louisville, KY:
   lat: 38.2953843
   lng: -85.6313995
@@ -10734,6 +10746,9 @@
 7100 Cedar Springs, Louisville, KY:
   lat: 38.1436823
   lng: -85.5849157
+7100 Donard Park Ave, Louisville, KY:
+  lat: 38.2030398
+  lng: -85.6707763
 7100 Global Dr due to suspicious activity. Units were dispatched to investigate., Louisville, KY: null
 7100 Global Dr due, Louisville, KY: null
 7100 Global Dr, Louisville, KY:
@@ -10778,6 +10793,9 @@
   lat: 38.1373124
   lng: -85.630066
 7100 Schnibble Circle, Louisville, KY: null
+7100 Train Station Way, Louisville, KY:
+  lat: 38.0795787
+  lng: -85.8955746
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
@@ -11367,6 +11385,7 @@
   Responders arrived on scene and provided care to the patient. The individual was
   subsequently transported to a local hospital, Louisville, KY
 : null
+8000 Cedar Meadows Ln, Louisville, KY: null
 8000 Chapman Rd Rd, Louisville, KY:
   lat: 38.1623407
   lng: -85.4285494
@@ -11507,6 +11526,7 @@
   lat: 38.2605244
   lng: -85.7054888
 8300 Rest of Lane, Louisville, KY: null
+8300 Scarlet Rose Ct, Louisville, KY: null
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
   lng: -85.6129346
