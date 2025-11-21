@@ -182,6 +182,13 @@
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
+100 N S Jane St, Louisville, KY:
+  lat: 38.2518397
+  lng: -85.7030962
+? 100 N S Jane St. Concerns were raised because the tenant had not been heard from
+  in several days. Responding officers were, Louisville, KY
+: lat: 38.2518397
+  lng: -85.7030962
 ? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
   both chest and abdominal pain, and medical personnel provided care., Louisville,
   KY
@@ -12046,6 +12053,10 @@
   lng: -85.7264428
 900 Baxter Ave, which was described as a potential overdose situation, Louisville, KY: null
 900 Baxter Ave, which was described as a potential overdose situation., Louisville, KY: null
+? 900 Baxter Ave. The incident involved the theft of a wallet, and a vehicle was also
+  taken. The suspect was believed, Louisville, KY
+: lat: 38.2424865
+  lng: -85.7264428
 900 Cherokee Ridge Way, Louisville, KY:
   lat: 38.230709
   lng: -85.6858975
@@ -12778,6 +12789,7 @@ Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
+Jane St and Frankfort Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
@@ -12819,6 +12831,7 @@ Newburg Rd and Speed Ave, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
+Oak St and Barret Ave, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
@@ -12866,6 +12879,7 @@ South English Station Road and Poplar Street, Louisville, KY: null
 South Fifth Street and Cedar Road, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
+South Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 South Minden Lane and Shelbyville Road, Louisville, KY: null
 South Park Rd and Blue Lick Rd, Louisville, KY: null
 South Second Street and Ellington Ave, Louisville, KY: null
