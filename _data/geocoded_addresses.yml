@@ -4210,6 +4210,9 @@
 200 at exit 18, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 eastbound I-64 at the east end, Louisville, KY:
+  lat: 38.3405064
+  lng: -85.6410214
 200 eastbound to Newberg off ramp, Louisville, KY: null
 ? 200 eastbound to Newberg. Emergency medical services were already on scene and requested
   additional support from fire and police units., Louisville, KY
