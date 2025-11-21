@@ -7662,6 +7662,9 @@
 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines 41 and 47 responded, Louisville, KY: null
 4000 Cresskey Way, Louisville, KY: null
 4000 Future Bank Road near Progress Blvd, Louisville, KY: null
+4000 James Rd, Louisville, KY:
+  lat: 38.1920024
+  lng: -85.7436865
 4000 Laurelwood Ave, Louisville, KY:
   lat: 38.226391
   lng: -85.634019
@@ -9021,6 +9024,9 @@
 : lat: 38.1681545
   lng: -85.8297235
 5100 East Mojave Lee Boulevard, Louisville, KY: null
+5100 Firwood Ln, Louisville, KY:
+  lat: 38.1724036
+  lng: -85.5800918
 5100 Greenwood Rd, Louisville, KY:
   lat: 38.14391
   lng: -85.850898
@@ -9376,6 +9382,7 @@
   of the stop were not elaborated upon., Louisville, KY
 : lat: 38.16515
   lng: -85.688011
+5800 Lion's Paris Dr, Louisville, KY: null
 5800 William Park Road, Louisville, KY: null
 5900 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
@@ -9893,6 +9900,7 @@
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
   lng: -85.5025766
+6400 Gatehouse Ln, Louisville, KY: null
 6400 Greten Ln, Louisville, KY: null
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
