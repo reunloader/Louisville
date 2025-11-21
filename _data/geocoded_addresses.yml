@@ -1305,6 +1305,9 @@
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
   lng: -85.749224
+1100 S Shelby St, Louisville, KY:
+  lat: 38.2346162
+  lng: -85.7415027
 1100 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -3205,6 +3208,9 @@
   lat: 38.2392151
   lng: -85.6840872
 1800 Blankenbaker Pky PARKWAY, Louisville, KY:
+  lat: 38.2435378
+  lng: -85.547026
+1800 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
 1800 Bluegrass Ave, Louisville, KY:
@@ -7021,6 +7027,7 @@
 37 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
+37 Tevis Dr, Louisville, KY: null
 3700 Chalk and Cedar Crest Ln, Louisville, KY: null
 ? 3700 Chamberlain Lane. The initial report indicated a gas grill had been on fire,
   but it was already extinguished by the time of the call. Firefighters were requested
@@ -10247,6 +10254,9 @@
 6500 Preston, Louisville, KY:
   lat: 38.1577894
   lng: -85.6982025
+6500 Renate Rd, Louisville, KY:
+  lat: 38.1535268
+  lng: -85.6040821
 6500 Renate Road [Date & Time], Louisville, KY: null
 ? 6500 Renate Road to assist a 68-year-old female experiencing chest pains. The patient
   also reported a high heart rate and has a history of diabetes. An ambulance arrived
