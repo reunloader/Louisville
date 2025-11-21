@@ -10933,6 +10933,7 @@
 7500 Chanel Ct, Louisville, KY:
   lat: 38.2078236
   lng: -85.6476949
+7500 King Run Road, Louisville, KY: null
 7500 Maria Ave, Louisville, KY:
   lat: 38.2832
   lng: -85.614435
@@ -11375,6 +11376,9 @@
 8000 Chapman Way, Louisville, KY:
   lat: 38.131707
   lng: -85.624458
+8000 Christian Ct at Oxmore Lodge, Louisville, KY:
+  lat: 38.246161
+  lng: -85.606886
 8000 Columbine Dr, Louisville, KY:
   lat: 38.1373907
   lng: -85.8651361
@@ -11935,6 +11939,9 @@
 9200 Cornflower Rd, Louisville, KY:
   lat: 38.119772
   lng: -85.872334
+9200 Dixie Hwy at Circle K, Louisville, KY:
+  lat: 38.1209842
+  lng: -85.8564961
 9200 Dixie Hwy, Louisville, KY:
   lat: 38.1209842
   lng: -85.8564961
@@ -12395,6 +12402,7 @@ Highland Ave and Eastern Star Dr, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
+Jackson Ave and Taylor Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
