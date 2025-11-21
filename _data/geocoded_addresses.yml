@@ -1313,6 +1313,9 @@
 1100 South 1st Street, Louisville, KY:
   lat: 38.2366045
   lng: -85.7552072
+1100 South 22nd Street, Louisville, KY:
+  lat: 38.240155
+  lng: -85.789897
 1100 South 26th Street, Louisville, KY:
   lat: 38.2403792
   lng: -85.7963793
@@ -2206,6 +2209,9 @@
 13900 South41st Street, Louisville, KY: null
 1400 Ackermack Drive, Louisville, KY: null
 1400 Aiken Ridge Dr, Louisville, KY: null
+1400 Arcade Ave, Louisville, KY:
+  lat: 38.2054726
+  lng: -85.7841289
 1400 Avoca Ridge Dr, Louisville, KY: null
 ? 1400 Avoco Ridge Drive. The purpose of the response was to serve the legal order.
   Officers managed the situation to uphold the terms of the EPO., Louisville, KY
@@ -9628,6 +9634,9 @@
 600 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+600 Bay Tree Way, Louisville, KY:
+  lat: 38.3075343
+  lng: -85.5194924
 600 Candlelight Ln, Louisville, KY:
   lat: 38.1308475
   lng: -85.7763439
@@ -12134,6 +12143,9 @@
 9300 Longhorn Ct, Louisville, KY:
   lat: 38.11634
   lng: -85.764177
+9300 Phillips Ln near the fairgrounds, Louisville, KY:
+  lat: 38.1901008
+  lng: -85.7477013
 9300 Pinto Court, [Date] 6:00 p, Louisville, KY: null
 9300 Pinto Court, [Date] 6:00 p.m., Louisville, KY: null
 ? 9300 Pinto Court. Officers responded to the location to investigate the alarm. Further
@@ -12655,6 +12667,7 @@ Tosler Road and Stonenberg Drive, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
+Villa Church Road and Bardstown Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
