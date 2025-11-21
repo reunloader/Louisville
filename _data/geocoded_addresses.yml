@@ -1832,6 +1832,9 @@
 1200 Waycross Ave, Louisville, KY:
   lat: 38.0938159
   lng: -85.6538909
+1200 West Ali, Louisville, KY:
+  lat: 38.2524203
+  lng: -85.7709853
 1200 West Broadway, Louisville, KY:
   lat: 38.247499
   lng: -85.771798
@@ -5360,6 +5363,9 @@
 ? 2700 W W Kentucky St. Details indicated a subject with a "red code," and police
   units were dispatched to the scene., Louisville, KY
 : null
+2700 West Ali, Louisville, KY:
+  lat: 38.2550784
+  lng: -85.795778
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -7243,6 +7249,9 @@
 3900 Vermont Ave. Responders assessed the patient and provided necessary care., Louisville, KY:
   lat: 38.2562961
   lng: -85.8156449
+3900 West Broadway, Louisville, KY:
+  lat: 38.2498353
+  lng: -85.8167762
 3965 Tattersville Road, Louisville, KY: null
 40 Rieser Place, Louisville, KY: null
 400 Adam and 1 Adam to address the situation. The outcome of the police response was not specified., Louisville, KY: null
