@@ -2963,6 +2963,9 @@
 ? 1700 Griffin Gate. Responding units investigated the activation. The specific nature
   of the alarm was not detailed in the initial report., Louisville, KY
 : null
+1700 Hale Ave, Louisville, KY:
+  lat: 38.2377007
+  lng: -85.7839822
 1700 I 64 West, Louisville, KY: null
 ? 1700 Magazine St concerning a person who was both short of breath and unconscious.
   Responding medical units were able to cancel other units that were en route, and
@@ -7619,6 +7622,9 @@
 ? 400 Sherburn Ln. The reporting party indicated they would handle the situation and
   requested no further dispatch., Louisville, KY
 : null
+400 South 10th Street, Louisville, KY:
+  lat: 38.2540801
+  lng: -85.7673115
 ? 400 South 11th Street to assist a 5-year-old child who was experiencing an ear bleed.
   Responders arrived on scene to provide care for the young patient., Louisville,
   KY
