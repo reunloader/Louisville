@@ -4607,6 +4607,13 @@
 2200 West Market Street, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
+2200 West Market, Louisville, KY:
+  lat: 38.2581443
+  lng: -85.7870316
+? 2200 West Market, impacting I-64 East. Two vehicles were obstructing the left and
+  right lanes, leaving only the middle lane passable. EMS was given permission, Louisville,
+  KY
+: null
 ? 2200 West W Market St, near the Blue Store, following a report of an individual
   down on the side of the building, suspected of overdosing. The patient, a male,
   was reportedly confused and unresponsive., Louisville, KY
@@ -6451,6 +6458,9 @@
 3200 Utah Ave, Louisville, KY:
   lat: 38.208629
   lng: -85.781133
+3200 Utah Ave. The patient required a lift assist, and EMS requested additional fire support due, Louisville, KY:
+  lat: 38.208629
+  lng: -85.781133
 ? 3200 Utah Avenue following a report of a medical emergency. Upon arrival, fire and
   EMS units attended to a very young child. The incident involved a four-month-old
   male who had sustained a dislocated arm. The response included Engine 18 and EMS
@@ -6732,6 +6742,7 @@
   with internal bleeding and had not been heard from, with no response, Louisville,
   KY
 : null
+3500 South Horsborne Parkway, Louisville, KY: null
 3500 Springhurst Commons Dr, Louisville, KY:
   lat: 38.2968249
   lng: -85.5616267
