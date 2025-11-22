@@ -5191,6 +5191,9 @@
 2400 Broadway, Louisville, KY:
   lat: 38.249256
   lng: -85.791726
+2400 Brownsboro Rd. Responding units were dispatched, Louisville, KY:
+  lat: 38.2579999
+  lng: -85.7015076
 2400 Bustown Road, Louisville, KY: null
 ? 2400 Concord Dr, near the intersection of Cross Meadows Cir and Eastman Parkway,
   for a medical emergency. A 39-year-old female was experiencing difficulty breathing.,
@@ -10540,6 +10543,9 @@
   lat: 38.256721
   lng: -85.7601786
 600 W Oak St and 600 block of Owen St, Louisville, KY: null
+600 W Oak St, Louisville, KY:
+  lat: 38.235252
+  lng: -85.763814
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
