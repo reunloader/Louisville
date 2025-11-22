@@ -2284,6 +2284,10 @@
   lat: 38.256806
   lng: -85.771833
 1300 West Markridge Street, Louisville, KY: null
+1300 William St as part of a welfare check. The purpose of the check was, Louisville, KY: null
+1300 William St, Louisville, KY:
+  lat: 38.2580859
+  lng: -85.7172366
 ? 1300 Winter Ave. Officers checked on the vehicle, and it was cleared as non-suspicious
   approximately ten minutes before the report was logged., Louisville, KY
 : null
@@ -7598,6 +7602,9 @@
 3800 an unspecified street. The situation involved a dispute where one party was reportedly refusing, Louisville, KY: null
 3900 Barks, Louisville, KY: null
 3900 Bishop Ln, Louisville, KY:
+  lat: 38.1871224
+  lng: -85.6950539
+3900 Bishop Ln. Police units were sent, Louisville, KY:
   lat: 38.1871224
   lng: -85.6950539
 ? 3900 Bishop Ln. Units from the 6th Division were assigned to process the recovered
