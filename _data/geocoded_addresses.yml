@@ -2852,6 +2852,7 @@
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
+1500 black over root for, Louisville, KY: null
 ? 15100 W Woodlawn Ave, near Allmond Ave and South First Street, following a report
   of a two-vehicle collision. Fortunately, no injuries were reported as a result of
   this incident., Louisville, KY
@@ -8587,6 +8588,9 @@
 4300 Crittenden Dr, Louisville, KY:
   lat: 38.1929302
   lng: -85.751498
+4300 Dohn Ave, Louisville, KY:
+  lat: 38.187969
+  lng: -85.834418
 4300 Donarell Run Drive, Louisville, KY: null
 4300 Down A Donerail Run Dr, Louisville, KY: null
 4300 Estate Dr, Louisville, KY:
@@ -12065,6 +12069,8 @@
 800 West Main Street. Several fire units responded, Louisville, KY:
   lat: 38.2568585
   lng: -85.7637124
+800 Winclair Avenue, Louisville, KY: null
+800 Winclair Avenue. Responding units were dispatched, Louisville, KY: null
 ? 800 Winkler Ave Ave, near Montana Ave and Taylor Ct Ct, for a 33-year-old female
   experiencing vaginal bleeding., Louisville, KY
 : null
@@ -13160,6 +13166,7 @@ Crums Lane and Sunflower Avenue, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dockby Drive and Wenderspoon Street, Louisville, KY: null
+Dohn Ave and Veronica Dr, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
@@ -13172,6 +13179,7 @@ Eastern Parkway and Arta Street, Louisville, KY: null
 Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
+Egypt Ln and Meridian Ave, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
@@ -13220,6 +13228,7 @@ Lexington Rd and Grand St, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Locust Ave and Canterbury Dr, Louisville, KY: null
+Longfield Ave and Bellevue Ave, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
