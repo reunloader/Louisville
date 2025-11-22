@@ -4439,6 +4439,9 @@
   lng: -85.707085
 2000 Chadwick Glen Pl, Louisville, KY: null
 2000 Duncan Street, [Date] Evening, Louisville, KY: null
+2000 E W Lee St, Louisville, KY:
+  lat: 38.2232049
+  lng: -85.7607107
 2000 Fern Valley Rd, Louisville, KY:
   lat: 38.154705
   lng: -85.7254323
@@ -6157,6 +6160,12 @@
 300 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
+300 E W Lee St, Louisville, KY:
+  lat: 38.2232049
+  lng: -85.7607107
+300 E W Lee St. Further details, Louisville, KY:
+  lat: 38.2232049
+  lng: -85.7607107
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -8229,6 +8238,9 @@
   lng: -85.487748
 400 and 400 block of Charlie were dispatched to the area., Louisville, KY: null
 400 and 400 block of Charlie were dispatched, Louisville, KY: null
+? 400 and 400 block of. At the time of the report, the vehicle had not been located,
+  and units were beginning, Louisville, KY
+: null
 400 and 500 block of Baker were part of the response, Louisville, KY: null
 400 and 500 block of Baker were part of the response., Louisville, KY: null
 400 the area to de-escalate and resolve the situation., Louisville, KY: null
