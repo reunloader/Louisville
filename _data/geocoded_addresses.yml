@@ -442,6 +442,9 @@
   lat: 38.238326
   lng: -85.754831
 100 West Adairmber, Louisville, KY: null
+100 West Breckenridge, Louisville, KY:
+  lat: 38.1988391
+  lng: -85.6228053
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -2763,6 +2766,9 @@
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+1500 Algonquin Pky, Louisville, KY:
+  lat: 38.2205411
+  lng: -85.7800817
 1500 Alliant Avenue 9:00 a, Louisville, KY: null
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
 ? 1500 Anna Ln following a report of a medical emergency. A 64-year-old female was
@@ -7984,6 +7990,9 @@
   lng: -85.7716085
 400 Banker and the 400 block of Charlie, Louisville, KY: null
 400 Banker and the 400 block of Charlie., Louisville, KY: null
+400 Bardstown Rd, Louisville, KY:
+  lat: 38.2289024
+  lng: -85.7017791
 400 Beaver St near Robert Deer Tom Road, Louisville, KY: null
 400 Beaver St. Additional units were also involved in the response to this incident., Louisville, KY:
   lat: 38.185675
@@ -9157,6 +9166,9 @@
 4400 W Market St, Louisville, KY:
   lat: 38.263696
   lng: -85.8211188
+4400 West Broadway, Louisville, KY:
+  lat: 38.250399
+  lng: -85.825479
 4404 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
@@ -9766,6 +9778,9 @@
 500 Mount Holly Rd, Louisville, KY:
   lat: 38.1037287
   lng: -85.7576846
+500 North 22nd Street, Louisville, KY:
+  lat: 38.266703
+  lng: -85.783596
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
@@ -13265,6 +13280,7 @@
 9300 Fiesta Way, Louisville, KY:
   lat: 38.11629
   lng: -85.861528
+9300 Galene Dr, Louisville, KY: null
 9300 Longhorn Ct, Louisville, KY:
   lat: 38.11634
   lng: -85.764177
