@@ -37,7 +37,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet assets/data/crime_data.json; then
+          if git diff --quiet _data/crime_data.json; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -48,8 +48,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add assets/data/crime_data.json
-          git commit -m "Auto-update crime data [skip ci]"
+          git add _data/crime_data.json
+          git commit -m "Auto-update crime data (last 14 days) [skip ci]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -58,7 +58,7 @@ jobs:
         run: |
           if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
             echo "✅ Crime data updated and committed"
-          elif [ -f "assets/data/crime_data.json" ]; then
+          elif [ -f "_data/crime_data.json" ]; then
             echo "✅ Crime data file exists (no changes)"
           else
             echo "⚠️ Crime data could not be fetched automatically"

@@ -317,7 +317,9 @@
     let markerLayer;
     let crimeMarkers = [];
     let crimeLayer;
-    let crimeData = null;
+
+    // Load crime data (pre-filtered to last 14 days for fast loading)
+    const crimeData = {{ site.data.crime_data | jsonify }};
 
     // Extract addresses from event content
     function extractAddresses(content) {
@@ -781,25 +783,13 @@
     }
 
     // Load crime data markers
-    async function loadCrimeData() {
-      try {
-        // Fetch crime data asynchronously
-        console.log('Fetching crime data...');
-        const response = await fetch('{{ "/assets/data/crime_data.json" | relative_url }}');
+    function loadCrimeData() {
+      if (!crimeData || !crimeData.features || crimeData.features.length === 0) {
+        console.log('No crime data available');
+        return;
+      }
 
-        if (!response.ok) {
-          console.error('Failed to load crime data:', response.status);
-          return;
-        }
-
-        crimeData = await response.json();
-
-        if (!crimeData || !crimeData.features || crimeData.features.length === 0) {
-          console.log('No crime data available');
-          return;
-        }
-
-        console.log(`Loading ${crimeData.features.length} crime incidents...`);
+      console.log(`Loading ${crimeData.features.length} crime incidents (last ${crimeData.metadata?.days_included || 14} days)...`);
 
       crimeData.features.forEach(feature => {
         if (!feature.geometry || !feature.geometry.coordinates) {
@@ -845,10 +835,7 @@
         marker.addTo(crimeLayer);
       });
 
-        console.log(`✓ Loaded ${crimeMarkers.length} crime markers`);
-      } catch (error) {
-        console.error('Error loading crime data:', error);
-      }
+      console.log(`✓ Loaded ${crimeMarkers.length} crime markers`);
     }
 
     // Toggle crime data layer visibility
