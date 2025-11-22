@@ -434,6 +434,9 @@
 100 US 42, Louisville, KY:
   lat: 38.2632527
   lng: -85.6770561
+100 W Burnett Ave, Louisville, KY:
+  lat: 38.2266025
+  lng: -85.7569082
 100 W Kentucky St regarding a 40-year-old male who was unresponsive due, Louisville, KY: null
 100 W Kentucky St, Louisville, KY:
   lat: 38.238326
@@ -2081,6 +2084,7 @@
   lat: 38.2345255
   lng: -85.7567626
 12400 Crosswinds Dr, Louisville, KY: null
+12400 Glengrove Cir, Louisville, KY: null
 12400 Lower River Rd, Louisville, KY:
   lat: 38.075494
   lng: -85.902606
@@ -3356,6 +3360,9 @@
 1700 Stevens Ave, Louisville, KY:
   lat: 38.228573
   lng: -85.7110967
+1700 Tempest Way, Louisville, KY:
+  lat: 38.1642333
+  lng: -85.8253597
 1700 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
@@ -12709,6 +12716,7 @@
   stroke. Medical personnel were en route, Louisville, KY
 : null
 8400 Splendid Point, Louisville, KY: null
+8400 Tapestry Cir, Louisville, KY: null
 8400 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
