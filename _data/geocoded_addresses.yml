@@ -2293,6 +2293,7 @@
   lat: 38.0861158
   lng: -85.5865049
 13300 an unspecified street, Louisville, KY: null
+13400 Imperial Line, Louisville, KY: null
 13400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -11327,6 +11328,12 @@
 7000 Preston Hwy, Louisville, KY:
   lat: 38.1504308
   lng: -85.6940618
+7000 Sugarwood Ct, Louisville, KY:
+  lat: 38.2958207
+  lng: -85.6197931
+7000 Sugarwood Ct. Responders were on scene, Louisville, KY:
+  lat: 38.2958207
+  lng: -85.6197931
 7000 Trade Port Dr, Louisville, KY:
   lat: 38.121097
   lng: -85.88142
@@ -11410,6 +11417,9 @@
 7200 Billtown Rd, Louisville, KY:
   lat: 38.1398214
   lng: -85.5402269
+7200 Green Oak Dr, Louisville, KY:
+  lat: 38.173509
+  lng: -85.881229
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
@@ -13273,6 +13283,7 @@ Taylor Springs Dr and Weller Ave, Louisville, KY: null
 Taylor Springs Dr and Willer Avenue, Louisville, KY: null
 Taylorsville Rd and Peel Street, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
+Terry Rd and Raggard Rd, Louisville, KY: null
 Terry Rd and Theresa Ave, Louisville, KY: null
 Terry Road and Greenwood Road, Louisville, KY: null
 Texas Ave and Milton St, Louisville, KY: null
