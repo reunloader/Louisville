@@ -52,30 +52,33 @@ def download_geojson(dataset_id: str, year: int) -> Optional[Dict]:
 
     # Try multiple download methods
     download_urls = [
-        # Method 1: CSV download (often less restricted)
-        f"https://opendata.arcgis.com/api/v3/datasets/{dataset_id}_0/downloads/data?format=csv&spatialRefId=4326",
+        # Method 1: FeatureServer REST API with query (most reliable for programmatic access)
+        f"https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Crime_Data_{year}/FeatureServer/0/query?where=1%3D1&outFields=*&returnGeometry=true&f=geojson&resultRecordCount=5000",
 
-        # Method 2: Direct GeoJSON export
-        f"https://opendata.arcgis.com/api/v3/datasets/{dataset_id}_0/downloads/data?format=geojson&spatialRefId=4326",
-
-        # Method 3: FeatureServer query
-        f"https://services1.arcgis.com/79kfd2K6fskCAkyg/arcgis/rest/services/Louisville_Metro_KY_Crime_Data_{year}/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson",
-
-        # Method 4: Alternative open data CDN
+        # Method 2: Data.gov API (if available)
         f"https://opendata.arcgis.com/datasets/{dataset_id}_0.geojson",
 
-        # Method 5: Hub API
+        # Method 3: Hub download endpoint
+        f"https://opendata.arcgis.com/api/v3/datasets/{dataset_id}_0/downloads/data?format=geojson&spatialRefId=4326",
+
+        # Method 4: Louisville Hub
         f"https://louisville-metro-opendata-lojic.hub.arcgis.com/datasets/{dataset_id}.geojson",
+
+        # Method 5: Alternative Hub API
+        f"https://data-lojic.opendata.arcgis.com/datasets/{dataset_id}_0.geojson",
     ]
 
     for i, url in enumerate(download_urls, 1):
         try:
             print(f"    Method {i}: ", end='', flush=True)
 
+            # Use more realistic browser headers to avoid blocking
             req = urllib.request.Request(url, headers={
-                'User-Agent': USER_AGENT,
-                'Accept': 'application/json, application/geo+json',
-                'Referer': 'https://data.louisvilleky.gov/'
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'application/json, application/geo+json, */*',
+                'Accept-Language': 'en-US,en;q=0.9',
+                'Referer': 'https://data.louisvilleky.gov/',
+                'Origin': 'https://data.louisvilleky.gov'
             })
 
             print("Downloading...", end='', flush=True)
