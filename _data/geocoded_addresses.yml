@@ -5527,6 +5527,9 @@
 2700 Cedar St near South 28th Street, Louisville, KY:
   lat: 38.2564951
   lng: -85.795525
+2700 Cedar St, Louisville, KY:
+  lat: 38.2564951
+  lng: -85.795525
 2700 Charleston Road, Louisville, KY: null
 2700 Grand Ave, obstructing access. A request was made, Louisville, KY: null
 2700 Greenwood Ave, Louisville, KY:
@@ -9596,6 +9599,7 @@
 5100 Keegan Way, Louisville, KY:
   lat: 38.1728993
   lng: -85.5739001
+5100 Miller's Court, Louisville, KY: null
 5100 Norton Healthcare Blvd, Louisville, KY:
   lat: 38.3134112
   lng: -85.5705455
@@ -10096,6 +10100,7 @@
 600 Greta, Louisville, KY:
   lat: 38.1376681
   lng: -85.8502438
+600 Highland Springs Dr, Louisville, KY: null
 ? 600 Highwood Dr following repeated false reports from neighbors. The caller wished
   to speak with officers about the ongoing issue, but there were no indications of
   any immediate danger or active trouble. Units from the 400 block of Becker and 500
@@ -10799,6 +10804,9 @@
 : null
 6900 Copperfield Ct, resulting in a shoulder injury, Louisville, KY: null
 6900 Fahers, Louisville, KY: null
+6900 Kerry Dr, Louisville, KY:
+  lat: 38.2013276
+  lng: -85.6726345
 6900 Lanspar, Louisville, KY: null
 6900 Lanspar. They were working to verify details about a vehicle with a third-party company., Louisville, KY: null
 6900 Lanspar. They were working, Louisville, KY: null
@@ -11684,6 +11692,7 @@
 7900 Shepard Road at Oxmoor Mall, Louisville, KY:
   lat: 38.2465306
   lng: -85.6101327
+7900 Stonemill Ct, Louisville, KY: null
 7900 Westford Loop, Louisville, KY: null
 7900 Westport Loop. Responders were dispatched to help her regain entry., Louisville, KY: null
 7900 Westport Loop. Responders were dispatched, Louisville, KY: null
@@ -12873,6 +12882,7 @@
 9800 Preston, near Deer Crossing Trl BOULEVARD. Emergency services were dispatched, Louisville, KY:
   lat: 38.1064109
   lng: -85.6721115
+9800 Somerford Rd, Louisville, KY: null
 9801 Gateway Drive, Louisville, KY: null
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
