@@ -3320,6 +3320,9 @@
 1700 South 13th Street, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South 13th Street. Responders were dispatched, Louisville, KY:
+  lat: 38.2244068
+  lng: -85.7775916
 1700 South 26th Street, Louisville, KY:
   lat: 38.241277
   lng: -85.7958157
@@ -4846,6 +4849,9 @@
 2100 Rowan St, Louisville, KY:
   lat: 38.26102
   lng: -85.784589
+2100 Shepherdsville Rd, Louisville, KY:
+  lat: 38.1495553
+  lng: -85.6598797
 2100 Smith Rd, Louisville, KY:
   lat: 38.095091
   lng: -85.726537
@@ -9514,6 +9520,7 @@
   lat: 38.249284
   lng: -85.7672405
 4800 Redstart Rd, Louisville, KY: null
+4800 Sherburn Ln, Louisville, KY: null
 4800 South 3rd Street, Louisville, KY:
   lat: 38.1784756
   lng: -85.7671303
