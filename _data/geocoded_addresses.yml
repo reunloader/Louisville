@@ -274,6 +274,9 @@
   The nature of the suspicious activity or the reason, Louisville, KY
 : null
 100 North45th Street, Louisville, KY: null
+100 North4th Street, Louisville, KY:
+  lat: 38.256754
+  lng: -85.756584
 ? 100 Norwood Dr following a request from a concerned third party. The caller reported
   that a service person was allegedly being unkind to a family at the residence. No
   specific details about the service person were provided., Louisville, KY
@@ -13582,6 +13585,7 @@ Blast On Road and Engine Drive, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
+Breckinridge St and Southbrook Street, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
