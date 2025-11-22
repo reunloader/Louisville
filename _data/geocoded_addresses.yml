@@ -1562,6 +1562,7 @@
 11300 Bold Forbes Blvd, Louisville, KY:
   lat: 38.0909727
   lng: -85.8522426
+11300 Decimal Drop Road, Louisville, KY: null
 11300 Main St, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
@@ -5231,6 +5232,7 @@
   lng: -85.7900164
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
+2300 West Gobert Avenue, Louisville, KY: null
 2300 West Jefferson, Louisville, KY:
   lat: 38.2574167
   lng: -85.7900164
@@ -12247,6 +12249,9 @@
 800 Denmark St, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
+800 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 ? 800 East Muhammad Alley following a report of a possible robbery or assault. The
   initial call was classified as a medical emergency, but upon arrival, responders
   confirmed the more serious nature of the incident., Louisville, KY
