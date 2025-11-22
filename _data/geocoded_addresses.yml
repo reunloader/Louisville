@@ -1249,6 +1249,9 @@
 : null
 1100 Carabao Way. Paramedics responded to provide assistance, Louisville, KY: null
 1100 Chamberlain Hill Rd, Louisville, KY: null
+1100 Cherokee Rd, Louisville, KY:
+  lat: 38.2389519
+  lng: -85.7196515
 1100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
@@ -4449,6 +4452,7 @@
 2000 Highland Ave, Louisville, KY:
   lat: 38.240267
   lng: -85.724083
+2000 Honda HRV, Louisville, KY: null
 2000 Jefferson Hill Rd, Louisville, KY:
   lat: 38.0939475
   lng: -85.7902493
@@ -7792,6 +7796,9 @@
 400 Clarice Way, Louisville, KY:
   lat: 38.1767399
   lng: -85.8132973
+400 Creel Ave, Louisville, KY:
+  lat: 38.212873
+  lng: -85.764369
 ? 400 David Street. The person, described as a black male in a blue jacket and dark
   pants, was reportedly seen locking up houses and banging on windows. The individual
   was last seen heading northbound on Vine St., Louisville, KY
@@ -11387,6 +11394,9 @@
   lng: -85.7653948
 700 W Whitney Ave to assist a resident who was reportedly seeking an officer and looking, Louisville, KY: null
 700 W Whitney Ave, Louisville, KY: null
+700 West Broadway near South 8th Street, Louisville, KY:
+  lat: 38.246384
+  lng: -85.76354
 ? 700 West Broadway to attend to a 37-year-old male experiencing severe abdominal
   pain. Medical personnel evaluated the patient and provided care., Louisville, KY
 : null
@@ -12028,6 +12038,9 @@
 800 South 2nd Street, Louisville, KY:
   lat: 38.243198
   lng: -85.755616
+800 South 31st Street near West Broadway, Louisville, KY:
+  lat: 38.2475166
+  lng: -85.8039944
 800 South 31st Street, Louisville, KY:
   lat: 38.2475166
   lng: -85.8039944
