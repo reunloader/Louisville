@@ -1040,6 +1040,8 @@
 ? 1000 a street. A silver Dodge Caliber was observed in the area, and four individuals,
   three males and one female, were reportedly seen nearby., Louisville, KY
 : null
+1000 an unspecified street, Louisville, KY: null
+1000 unspecified street, Louisville, KY: null
 10000 Ashby Farm Dr, Louisville, KY:
   lat: 38.1122843
   lng: -85.8958289
@@ -8612,6 +8614,9 @@
   lng: -85.834418
 4300 Donarell Run Drive, Louisville, KY: null
 4300 Down A Donerail Run Dr, Louisville, KY: null
+4300 East Kentucky, Louisville, KY:
+  lat: 38.2361113
+  lng: -85.7383171
 4300 Estate Dr, Louisville, KY:
   lat: 38.1824941
   lng: -85.80531
