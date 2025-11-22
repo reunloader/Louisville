@@ -2278,6 +2278,9 @@
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
+1300 South 2nd Street at Mag Bar, Louisville, KY:
+  lat: 38.232443
+  lng: -85.757511
 1300 South 2nd Street, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -5141,6 +5144,9 @@
   lat: 38.2195788
   lng: -85.6982881
 2300 Carton Dr, Louisville, KY: null
+2300 Cedar St, Louisville, KY:
+  lat: 38.2559502
+  lng: -85.7891852
 2300 Deer Crossing Trail, Louisville, KY:
   lat: 38.1986449
   lng: -85.4359493
@@ -7058,6 +7064,9 @@
   building., Louisville, KY
 : null
 3300 Bardstown Road due, Louisville, KY: null
+3300 Bass Creek Dr, Louisville, KY:
+  lat: 38.2058857
+  lng: -85.6782739
 3300 Breaux Dr, Louisville, KY:
   lat: 38.212799
   lng: -85.62431
@@ -9056,6 +9065,9 @@
   service., Louisville, KY
 : null
 4400 Lewis Underwood Way, responding, Louisville, KY: null
+4400 Lonsdale Ave, Louisville, KY:
+  lat: 38.1758287
+  lng: -85.7866281
 4400 Main St, Louisville, KY: null
 ? 4400 Main St, near the intersection of North 44 and West Main. The burgundy GMC
   Cadillac had reportedly been parked in the same location for several months. Officers
@@ -10033,6 +10045,9 @@
   lat: 38.1728993
   lng: -85.5739001
 5100 Miller's Court, Louisville, KY: null
+5100 New Cut Rd, Louisville, KY:
+  lat: 38.1682714
+  lng: -85.7809312
 5100 Norton Healthcare Blvd, Louisville, KY:
   lat: 38.3134112
   lng: -85.5705455
