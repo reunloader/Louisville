@@ -3978,6 +3978,7 @@
 200 Linden Ln, Louisville, KY:
   lat: 38.257169
   lng: -85.694641
+200 Lysander Dr, Louisville, KY: null
 200 Masonic Home Dr, Louisville, KY:
   lat: 38.2574552
   lng: -85.6633936
@@ -4406,6 +4407,7 @@
 ? 2000 Lincoln Nautilus. The reporting party believed the vehicle might be present
   at the Walmart location. Police units were dispatched, Louisville, KY
 : null
+2000 Lindley Road, Louisville, KY: null
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -9752,6 +9754,7 @@
 5300 Citation Rd, Louisville, KY:
   lat: 38.113786
   lng: -85.863865
+5300 Crescent Highway, Louisville, KY: null
 5300 Devers Ave, Louisville, KY:
   lat: 38.171182
   lng: -85.77444
@@ -9876,6 +9879,9 @@
 5500 Robinwood Rd, Louisville, KY:
   lat: 38.1697708
   lng: -85.6684397
+5500 Zane St, Louisville, KY:
+  lat: 38.2385867
+  lng: -85.7618566
 ? 5600 Baird St to assist a 32-year-old female who was reportedly experiencing a mental
   health crisis and contemplating suicide. The individual was described as wearing
   a black shirt and gray sweatpants. There were no immediate indications of violence
@@ -12236,6 +12242,9 @@
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
+8700 Cotswold Dr, Louisville, KY:
+  lat: 38.126506
+  lng: -85.869914
 ? 8700 Gary Way requested assistance after reporting that his brother was screaming
   at him and making threats of physical assault. Police units were dispatched to the
   location to de-escalate the situation and ensure the safety of those involved.,
@@ -12999,6 +13008,7 @@ Baxter Ave and Grimstad Drive, Louisville, KY: null
 Baxter Ave and Hepburn Ave, Louisville, KY: null
 Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
+Becker Ave and Park Brook Ln, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Bignol Street and Parthenia Ave, Louisville, KY: null
@@ -13054,6 +13064,7 @@ Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
+Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
