@@ -7051,6 +7051,8 @@
   lat: 38.114744
   lng: -85.8695175
 3400 Dill Park Terrace, Louisville, KY: null
+3400 Dr, Louisville, KY: null
+3400 Dr. William G. Weathers Drive. This stop was reportedly connected, Louisville, KY: null
 3400 Dutchman's Lane, Louisville, KY: null
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
@@ -13539,6 +13541,9 @@ Longfield Ave and Bellevue Ave, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
+Mae St and Kidd Avenue, Louisville, KY:
+  lat: 38.2296677
+  lng: -85.8193981
 Main Street and Second Street, Louisville, KY: null
 Malin Lane and Ballardsville Rd, Louisville, KY: null
 Mallet Hill Dr and Calderon Park Lane, Louisville, KY: null
