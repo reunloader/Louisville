@@ -4583,6 +4583,9 @@
 2000 White Oak Ln, Louisville, KY:
   lat: 38.15827
   lng: -85.8413922
+2000 [Street Name Not Fully Provided], Louisville, KY:
+  lat: 38.2274949
+  lng: -85.6953702
 2000 four-door Nissan Xterra, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
 2009 Crums Ln, Louisville, KY:
@@ -11376,6 +11379,9 @@
   lat: 38.149501
   lng: -85.770284
 7000 Bear Creek Dr, Louisville, KY: null
+7000 Billie Ln, Louisville, KY:
+  lat: 38.1485385
+  lng: -85.6584966
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
   lng: -85.5439541
