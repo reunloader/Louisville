@@ -1189,6 +1189,7 @@
   lng: -85.852204
 10600 Moraine Cir, Louisville, KY: null
 10600 Taylor-Hill Rd, Louisville, KY: null
+10700 Alberta Dr, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
 ? 10700 Colonial Woods Way regarding a 68-year-old female who had fallen and was experiencing
   significant pain. This was initially treated as a medical assist call, but the situation
@@ -8356,6 +8357,9 @@
 400 Taylor Blvd, Louisville, KY:
   lat: 38.2079291
   lng: -85.7741776
+400 Virginia Ave, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 400 W Chestnut St, Louisville, KY:
   lat: 38.248881
   lng: -85.758042
@@ -13407,6 +13411,9 @@
 9700 Turnpike View Dr, Louisville, KY:
   lat: 38.1086595
   lng: -85.7004356
+9700 Westport Rd, Louisville, KY:
+  lat: 38.287983
+  lng: -85.571271
 9700 Woodway, Louisville, KY:
   lat: 38.2450204
   lng: -85.8232687
