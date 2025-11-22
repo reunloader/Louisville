@@ -1279,6 +1279,9 @@
   lat: 38.2555218
   lng: -85.7594798
 1100 E W W Market St, Louisville, KY: null
+1100 East Broadway, Louisville, KY:
+  lat: 38.2440101
+  lng: -85.7337642
 1100 Eastern Parkway, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
@@ -2195,6 +2198,12 @@
   lat: 38.2203172
   lng: -85.7332412
 1300 Miller's Lane, Louisville, KY: null
+1300 Old Fern Valley Rd, Louisville, KY:
+  lat: 38.1554819
+  lng: -85.6901603
+1300 Old Fern Valley Rd. The individual had initially gone, Louisville, KY:
+  lat: 38.1554819
+  lng: -85.6901603
 1300 Pine Tar Ct, Louisville, KY: null
 1300 Pine Tar Ct, near Betty Ray. Responding units were dispatched to investigate the cause of the alarm., Louisville, KY: null
 1300 Pine Tar Ct, near Betty Ray. Responding units were dispatched, Louisville, KY: null
@@ -8710,6 +8719,12 @@
   handled by responding units., Louisville, KY
 : lat: 38.1883
   lng: -85.693746
+4300 Brighton Dr, Louisville, KY:
+  lat: 38.2165253
+  lng: -85.6694432
+4300 Brighton Dr. Police units responded, Louisville, KY:
+  lat: 38.2165253
+  lng: -85.6694432
 4300 Cane Run Rd, Louisville, KY:
   lat: 38.200352
   lng: -85.836173
@@ -13264,6 +13279,9 @@
 9800 Cedar Garden Drive. Responding officers arrived, Louisville, KY:
   lat: 38.1280545
   lng: -85.5923599
+9800 El Prado St, Louisville, KY:
+  lat: 38.1106382
+  lng: -85.8556918
 9800 Michael Edward Dr, Louisville, KY:
   lat: 38.1710806
   lng: -85.5767795
@@ -13549,6 +13567,7 @@ Poplar Level Rd and Quail Hollow Rd, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
+Produce Rd and Fern Valley Rd, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
