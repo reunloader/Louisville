@@ -1,0 +1,66 @@
+name: Fetch Crime Data
+
+on:
+  schedule:
+    # Run weekly on Mondays at 6 AM UTC (1 AM EST / 2 AM EDT)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:  # Allow manual triggering
+
+# Prevent multiple runs from interfering
+concurrency:
+  group: fetch-crime-data-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  fetch-crime-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Need write permission to commit changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run crime data fetch script
+        run: |
+          cd $GITHUB_WORKSPACE
+          python scripts/fetch_crime_data.py
+        continue-on-error: true  # Don't fail if download fails (might need manual download)
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet _data/crime_data.geojson; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add _data/crime_data.geojson
+          git commit -m "Auto-update crime data [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Summary
+        run: |
+          if [ "${{ steps.check_changes.outputs.changed }}" == "true" ]; then
+            echo "✅ Crime data updated and committed"
+          elif [ -f "_data/crime_data.geojson" ]; then
+            echo "✅ Crime data file exists (no changes)"
+          else
+            echo "⚠️ Crime data could not be fetched automatically"
+            echo "   Manual download may be required - see scripts/fetch_crime_data.py"
+          fi

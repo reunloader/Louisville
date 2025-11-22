@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "Louisville Metro KY - LOJIC (Sample Data)",
+    "year": 2025,
+    "fetched_at": "2025-11-22T00:00:00",
+    "total_features": 10
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7585, 38.2527]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001234",
+        "DATE_REPORTED": "2025-11-20",
+        "DATE_OCCURRED": "2025-11-20",
+        "NIBRS_CODE": "13A",
+        "NIBRS_GROUP": "Assault Offenses",
+        "OFFENSE_CLASSIFICATION": "Aggravated Assault",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7412, 38.2410]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001235",
+        "DATE_REPORTED": "2025-11-21",
+        "DATE_OCCURRED": "2025-11-21",
+        "NIBRS_CODE": "23A",
+        "NIBRS_GROUP": "Larceny/Theft Offenses",
+        "OFFENSE_CLASSIFICATION": "Theft From Building",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7298, 38.2345]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001236",
+        "DATE_REPORTED": "2025-11-21",
+        "DATE_OCCURRED": "2025-11-21",
+        "NIBRS_CODE": "220",
+        "NIBRS_GROUP": "Burglary/Breaking & Entering",
+        "OFFENSE_CLASSIFICATION": "Burglary",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7180, 38.2598]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001237",
+        "DATE_REPORTED": "2025-11-19",
+        "DATE_OCCURRED": "2025-11-19",
+        "NIBRS_CODE": "23D",
+        "NIBRS_GROUP": "Larceny/Theft Offenses",
+        "OFFENSE_CLASSIFICATION": "Theft From Motor Vehicle",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7634, 38.2701]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001238",
+        "DATE_REPORTED": "2025-11-22",
+        "DATE_OCCURRED": "2025-11-22",
+        "NIBRS_CODE": "90A",
+        "NIBRS_GROUP": "Drug/Narcotic Offenses",
+        "OFFENSE_CLASSIFICATION": "Drug/Narcotic Violations",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7523, 38.2456]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001239",
+        "DATE_REPORTED": "2025-11-20",
+        "DATE_OCCURRED": "2025-11-20",
+        "NIBRS_CODE": "240",
+        "NIBRS_GROUP": "Motor Vehicle Theft",
+        "OFFENSE_CLASSIFICATION": "Motor Vehicle Theft",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7389, 38.2612]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001240",
+        "DATE_REPORTED": "2025-11-21",
+        "DATE_OCCURRED": "2025-11-21",
+        "NIBRS_CODE": "290",
+        "NIBRS_GROUP": "Destruction/Damage/Vandalism of Property",
+        "OFFENSE_CLASSIFICATION": "Vandalism",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7456, 38.2523]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001241",
+        "DATE_REPORTED": "2025-11-19",
+        "DATE_OCCURRED": "2025-11-19",
+        "NIBRS_CODE": "13B",
+        "NIBRS_GROUP": "Assault Offenses",
+        "OFFENSE_CLASSIFICATION": "Simple Assault",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7667, 38.2389]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001242",
+        "DATE_REPORTED": "2025-11-22",
+        "DATE_OCCURRED": "2025-11-22",
+        "NIBRS_CODE": "23H",
+        "NIBRS_GROUP": "Larceny/Theft Offenses",
+        "OFFENSE_CLASSIFICATION": "All Other Larceny",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.7545, 38.2678]
+      },
+      "properties": {
+        "INCIDENT_NUMBER": "2025-001243",
+        "DATE_REPORTED": "2025-11-20",
+        "DATE_OCCURRED": "2025-11-20",
+        "NIBRS_CODE": "120",
+        "NIBRS_GROUP": "Robbery",
+        "OFFENSE_CLASSIFICATION": "Robbery",
+        "WAS_OFFENSE_COMPLETED": "Completed"
+      }
+    }
+  ]
+}
