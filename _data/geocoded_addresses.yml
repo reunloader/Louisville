@@ -335,6 +335,7 @@
   lat: 38.258948
   lng: -85.687745
 100 Sears Ave, Louisville, KY: null
+100 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 100 South 12th Street. The officer requested backup as they prepared to pull the vehicle over., Louisville, KY: null
 100 South 12th Street. The officer requested backup as they prepared, Louisville, KY:
   lat: 38.257963
@@ -7651,6 +7652,7 @@
   lng: -85.6547827
 3900 St. Edward's Drive, Louisville, KY: null
 3900 Stonyrun Dr, Louisville, KY: null
+3900 Sugar Road near Meridian Ave and Breckenridge Ln, Louisville, KY: null
 3900 Summit Plaza Dr, Louisville, KY:
   lat: 38.307126
   lng: -85.5761462
@@ -9935,6 +9937,10 @@
   lat: 38.1349358
   lng: -85.6580689
 5500 Limits Street, Louisville, KY: null
+? 5500 New Cut Rd near Raleigh, Crestridge, Century Rd, Incident Road Drive, Course
+  62, Phoenix, and Crosstown Boulevard, Louisville, KY
+: lat: 38.14538
+  lng: -85.775274
 ? 5500 New Cut Rd. The incident involved a person experiencing shortness of air, exacerbated
   by heavy rain, with symptoms possibly related to asthma., Louisville, KY
 : lat: 38.14538
@@ -9953,6 +9959,9 @@
 : lat: 38.14538
   lng: -85.775274
 5500 Nicott Road, Louisville, KY: null
+5500 O Drive near Crestridge, Robinwood Rd, and Regal Dr, Louisville, KY:
+  lat: 38.1043536
+  lng: -85.8346944
 5500 Pico Ln, Louisville, KY:
   lat: 38.144416
   lng: -85.658973
@@ -9974,6 +9983,7 @@
 5600 Baird St, Louisville, KY:
   lat: 38.2644959
   lng: -85.7785887
+5600 Green Grove Road near Crestridge and Bushman's Trove, Louisville, KY: null
 5600 Greenbluff Rd, Louisville, KY:
   lat: 38.14866
   lng: -85.6559586
@@ -12308,6 +12318,7 @@
 8500 National Turnpike, Louisville, KY:
   lat: 38.1263001
   lng: -85.7493103
+8500 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 8500 South 28th Street, Louisville, KY:
   lat: 38.2549234
   lng: -85.7973288
@@ -13243,6 +13254,7 @@ Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mary Catherine Dr and Ecton Ln, Louisville, KY: null
 Mellwood Ave and Lake Ave, Louisville, KY: null
+Meridian Ave and Breckenridge Ln, Louisville, KY: null
 Michael Ray Dr and Valley Pine Dr, Louisville, KY: null
 Mid Dale Ln and Kena Ln, Louisville, KY: null
 Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
