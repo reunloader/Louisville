@@ -1960,6 +1960,7 @@
 1200 Story Ave, Louisville, KY:
   lat: 38.2551819
   lng: -85.7280531
+1200 Taylor's Road, Louisville, KY: null
 ? 1200 Triple Crown Ct to assist a clinic patient experiencing a significant nosebleed.
   The patient was reportedly waiting for assistance in a white vehicle., Louisville,
   KY
@@ -12551,6 +12552,9 @@
 8300 Rest of Lane, Louisville, KY: null
 8300 Round Hill Rd, Louisville, KY: null
 8300 Scarlet Rose Ct, Louisville, KY: null
+8300 Zelma Fields Ave, Louisville, KY:
+  lat: 38.1309086
+  lng: -85.6078912
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
   lng: -85.6129346
