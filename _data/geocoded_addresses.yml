@@ -31,6 +31,9 @@
   lat: 38.1412684
   lng: -85.7716218
 100 Baker, were dispatched, Louisville, KY: null
+100 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
@@ -2204,6 +2207,9 @@
   damage are being assessed., Louisville, KY
 : lat: 38.2331073
   lng: -85.7731685
+1300 South 20th Street, Louisville, KY:
+  lat: 38.234707
+  lng: -85.789281
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -4976,6 +4982,9 @@
 2300 44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+2300 Ashwood Dr, Louisville, KY:
+  lat: 38.214895
+  lng: -85.70161
 2300 Boulevard Napoleon, Louisville, KY:
   lat: 38.221638
   lng: -85.694698
@@ -6179,6 +6188,9 @@
 300 East St. Catherine Street, Louisville, KY:
   lat: 38.236346
   lng: -85.750781
+300 East W Lee St, Louisville, KY:
+  lat: 38.2232049
+  lng: -85.7607107
 300 Eastern Parkway, Louisville, KY:
   lat: 38.213048
   lng: -85.755212
