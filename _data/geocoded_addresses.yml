@@ -234,6 +234,9 @@
   has fallen and needs assistance, Louisville, KY
 : lat: 38.2662485
   lng: -85.8227499
+100 North 4th Street, Louisville, KY:
+  lat: 38.256754
+  lng: -85.756584
 100 North 6th Street, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
@@ -2844,6 +2847,9 @@
 1500 Raydale Dr, Louisville, KY:
   lat: 38.1225
   lng: -85.670996
+1500 River Shore Dr, Louisville, KY:
+  lat: 38.264544
+  lng: -85.7264337
 1500 Rowan St, Louisville, KY:
   lat: 38.259949
   lng: -85.775002
@@ -2987,6 +2993,7 @@
 1600 Evanwood Dr, Louisville, KY:
   lat: 38.105421
   lng: -85.6103431
+1600 Folger Court, Louisville, KY: null
 1600 Frankfort Ave, Louisville, KY:
   lat: 38.257914
   lng: -85.720076
