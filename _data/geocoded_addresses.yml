@@ -12565,6 +12565,9 @@
   lat: 38.2622602
   lng: -85.7765678
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
+900 Longfield Ave, Louisville, KY:
+  lat: 38.1984115
+  lng: -85.7749882
 900 Magazine St, Louisville, KY:
   lat: 38.2496514
   lng: -85.7763551
@@ -12846,6 +12849,9 @@
 9400 Chambers Way, Louisville, KY:
   lat: 38.1117849
   lng: -85.6496184
+9400 Darrell Ct, Louisville, KY:
+  lat: 38.1635967
+  lng: -85.8478704
 9400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1065975
   lng: -85.5001371
@@ -12942,6 +12948,9 @@
 9600 Cedar Heights Ct, Louisville, KY:
   lat: 38.133585
   lng: -85.59457
+9600 Cooper Church, Louisville, KY:
+  lat: 38.1055553
+  lng: -85.6754329
 9600 Dixie Hwy, Louisville, KY:
   lat: 38.1174114
   lng: -85.8594242
