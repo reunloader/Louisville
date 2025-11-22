@@ -2100,6 +2100,9 @@
 12700 Bay Tree Way near Bay Cove Ct, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
+12800 Lower River Rd, Louisville, KY:
+  lat: 38.0679453
+  lng: -85.9054493
 12900 East Pharrell, Louisville, KY: null
 12900 East Railroad, Louisville, KY: null
 ? 12900 Easter Railroad and has distinctive stickers in the rear windshield. Authorities
@@ -2390,6 +2393,9 @@
   received care at the scene., Louisville, KY
 : null
 13400 Spring Villa Court following a report of a fall. A 67-year-old male was found, Louisville, KY: null
+13500 Oliver Station Ct, Louisville, KY:
+  lat: 38.2941483
+  lng: -85.5072369
 ? 13500 Sheehan Landing Dr. Emergency medical services were already en route to the
   scene. The situation was classified as a Code 13501., Louisville, KY
 : null
@@ -4934,6 +4940,9 @@
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched, Louisville, KY
 : null
+2200 Lower Hunters Trace, Louisville, KY:
+  lat: 38.158219
+  lng: -85.848738
 2200 Magazine St, Louisville, KY:
   lat: 38.25087
   lng: -85.78807
@@ -12671,6 +12680,7 @@
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
+8700 Bayberry Pl, Louisville, KY: null
 8700 Cotswold Dr, Louisville, KY:
   lat: 38.126506
   lng: -85.869914
