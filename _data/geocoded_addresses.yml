@@ -8290,6 +8290,9 @@
   lng: -85.7649186
 4000 South Fifth Street, Louisville, KY: null
 4000 South Fifth Street. EMS was involved in the response, and the situation was cleared by dispatch., Louisville, KY: null
+4000 Southern Pky, Louisville, KY:
+  lat: 38.1966062
+  lng: -85.7673687
 4000 Summit Plaza Dr, Louisville, KY:
   lat: 38.3081143
   lng: -85.577641
@@ -10417,6 +10420,9 @@
 600 South 7th Street. Police units were dispatched, Louisville, KY:
   lat: 38.2492082
   lng: -85.7632171
+600 South 8th Street, Louisville, KY:
+  lat: 38.248258
+  lng: -85.764852
 600 South Shelby, Louisville, KY:
   lat: 38.246802
   lng: -85.739251
