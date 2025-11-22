@@ -3563,6 +3563,8 @@
   lat: 38.2563581
   lng: -85.8046069
 1800 W W W Hill St, Louisville, KY: null
+1800 Walling Street, Louisville, KY: null
+1800 Walling Street, near its intersections with 19th and 18th Streets. Emergency personnel worked, Louisville, KY: null
 1800 West Broadway, Louisville, KY:
   lat: 38.248977
   lng: -85.783331
@@ -7299,6 +7301,7 @@
 3600 Lentz Ave, Louisville, KY:
   lat: 38.1941382
   lng: -85.7860515
+3600 Lentz Ave, between Schrader and Camden Streets, Louisville, KY: null
 3600 Linth Avenue, Louisville, KY: null
 3600 Mall Rd, Louisville, KY: null
 3600 Manslick Rd, Louisville, KY:
@@ -7720,6 +7723,7 @@
 3900 Shelbyville Rd, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
+3900 Sherbrooke's Hill Rd, Louisville, KY: null
 3900 South 1st Street, Louisville, KY:
   lat: 38.19901
   lng: -85.761719
@@ -8962,6 +8966,10 @@
   was experiencing chest pain and vomiting. Responders arrived on scene, Louisville,
   KY
 : null
+4500 Chillyville Road, Louisville, KY: null
+4500 Chillyville Road, near Thornton, Louisville, KY:
+  lat: 38.252431
+  lng: -85.545554
 4500 Commerce Crossings Dr, Louisville, KY:
   lat: 38.0938983
   lng: -85.6839204
@@ -9918,6 +9926,12 @@
 5200 Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
+5200 Skylight Dr, Louisville, KY:
+  lat: 38.1530572
+  lng: -85.8525377
+5200 Skylight Dr, near Gabriel Dr and Sky Blue Ave,, Louisville, KY:
+  lat: 38.1530572
+  lng: -85.8525377
 5200 St, Louisville, KY:
   lat: 38.171309
   lng: -85.602422
@@ -13388,6 +13402,7 @@ Fox Ave and Fort St, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
+Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
