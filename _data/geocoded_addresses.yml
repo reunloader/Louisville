@@ -1840,6 +1840,9 @@
 1200 South 4th Street, Louisville, KY:
   lat: 38.234898
   lng: -85.7606273
+1200 South 4th Street, near W Ormsby Ave and W Oak St. The medical team was able, Louisville, KY:
+  lat: 38.234898
+  lng: -85.7606273
 1200 South 4th Street. Responders were dispatched to investigate the source of the alarm., Louisville, KY: null
 1200 South 4th Street. Responders were dispatched, Louisville, KY:
   lat: 38.234898
@@ -3931,6 +3934,9 @@
 ? 200 East. The driver of a Chevy pickup truck was observed operating the vehicle
   erratically across multiple lanes before exiting at exit 17A., Louisville, KY
 : null
+200 East. The incident was initially reported on I-54 East but was later confirmed, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East. The individual was located near mile marker 17.6 and received assistance., Louisville, KY: null
 200 East. The vehicle, a black Jeep with a covered license plate, was reportedly speeding., Louisville, KY: null
 ? 200 East. The vehicles involved were a gray Buick and a blue Ford, and they were
@@ -6805,6 +6811,8 @@
   lat: 38.212799
   lng: -85.62431
 3300 Burstells Lane, Louisville, KY: null
+3300 Can't Ground Road, Louisville, KY: null
+3300 Can't Ground Road, near Crusherad,, Louisville, KY: null
 3300 Davis, Louisville, KY: null
 3300 Davis. Police units were dispatched, Louisville, KY: null
 3300 Ducart involving a neighbor at the door, Louisville, KY:
@@ -13128,6 +13136,7 @@ Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
+Dockby Drive and Wenderspoon Street, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
