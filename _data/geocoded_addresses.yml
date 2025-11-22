@@ -6298,6 +6298,9 @@
 300 Rowland Ave, Louisville, KY:
   lat: 38.2514912
   lng: -85.6949532
+300 Royer Ct, Louisville, KY:
+  lat: 38.2590233
+  lng: -85.6871544
 300 S Hancock St, Louisville, KY:
   lat: 38.252127
   lng: -85.742432
@@ -10527,6 +10530,7 @@
 600 W Main St, Louisville, KY:
   lat: 38.256721
   lng: -85.7601786
+600 W Oak St and 600 block of Owen St, Louisville, KY: null
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
@@ -13413,6 +13417,7 @@ North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
 Oak St and Barret Ave, Louisville, KY: null
+Oak St and Owen St, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
