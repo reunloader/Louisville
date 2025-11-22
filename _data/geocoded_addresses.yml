@@ -2095,6 +2095,9 @@
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
   lng: -85.7171011
+12500 Lucas Ln, Louisville, KY:
+  lat: 38.2778735
+  lng: -85.522517
 12500 Pedlarsville Road, Louisville, KY: null
 12500 Pedlarsville Road, near Harmony at Tucker Station,, Louisville, KY:
   lat: 38.1873509
@@ -3563,6 +3566,9 @@
   on scene, Louisville, KY
 : lat: 38.2565197
   lng: -85.7166551
+1800 Greenwood Ave, Louisville, KY:
+  lat: 38.240824
+  lng: -85.786221
 1800 Hardesty Ave, Louisville, KY:
   lat: 38.216758
   lng: -85.795876
@@ -7841,6 +7847,7 @@
   from the 400 block of Baker were dispatched, Louisville, KY
 : null
 3900 Barks, Louisville, KY: null
+3900 Belltower Rd, Louisville, KY: null
 3900 Bishop Ln, Louisville, KY:
   lat: 38.1871224
   lng: -85.6950539
@@ -11318,6 +11325,9 @@
 6800 Southside Dr. Fortunately, no one was inside the car when the fire broke out. Firefighters worked, Louisville, KY:
   lat: 38.1590857
   lng: -85.7646433
+6800 Yuma Way, Louisville, KY:
+  lat: 38.1176974
+  lng: -85.885696
 6800 [Street Name Missing], Louisville, KY: null
 6900 Arbor Creek Dr, Louisville, KY:
   lat: 38.122131
