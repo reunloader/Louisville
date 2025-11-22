@@ -49,7 +49,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add _data/crime_data.json
-          git commit -m "Auto-update crime data [skip ci]"
+          git commit -m "Auto-update crime data (last 14 days) [skip ci]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

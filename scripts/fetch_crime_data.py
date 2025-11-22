@@ -156,13 +156,72 @@ def find_and_download_crime_data() -> Optional[tuple]:
     print("\n  No crime data could be downloaded")
     return None
 
+def filter_recent_crimes(geojson: Dict, days: int = 14) -> Dict:
+    """Filter crime data to only recent incidents (last N days)."""
+    from datetime import datetime, timedelta
+
+    cutoff_date = datetime.now() - timedelta(days=days)
+    original_count = len(geojson.get('features', []))
+
+    filtered_features = []
+    for feature in geojson.get('features', []):
+        props = feature.get('properties', {})
+        date_reported = props.get('DATE_REPORTED') or props.get('date_reported')
+
+        if date_reported:
+            try:
+                # Parse date (handle various formats)
+                date_str = str(date_reported)
+
+                if 'GMT' in date_str or 'UTC' in date_str:
+                    # RFC 2822 format: "Sun, 09 Nov 2025 10:15:00 GMT"
+                    from email.utils import parsedate_to_datetime
+                    crime_date = parsedate_to_datetime(date_str)
+                elif 'T' in date_str:
+                    # ISO format: "2025-11-09T10:15:00Z"
+                    crime_date = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                else:
+                    # Simple date: "2025-11-09"
+                    crime_date = datetime.strptime(date_str[:10], '%Y-%m-%d')
+
+                # Only include if within last N days (make timezone-aware for comparison)
+                if crime_date.tzinfo:
+                    cutoff_aware = cutoff_date.replace(tzinfo=crime_date.tzinfo)
+                    if crime_date >= cutoff_aware:
+                        filtered_features.append(feature)
+                else:
+                    if crime_date >= cutoff_date:
+                        filtered_features.append(feature)
+            except Exception as e:
+                # If date parsing fails, include it (better to show than hide)
+                filtered_features.append(feature)
+
+    # Update geojson with filtered features
+    filtered_geojson = geojson.copy()
+    filtered_geojson['features'] = filtered_features
+    filtered_geojson['metadata'] = filtered_geojson.get('metadata', {})
+    filtered_geojson['metadata']['filtered'] = True
+    filtered_geojson['metadata']['days_included'] = days
+    filtered_geojson['metadata']['original_count'] = original_count
+    filtered_geojson['metadata']['filtered_count'] = len(filtered_features)
+
+    print(f"\n  Filtered to last {days} days:")
+    print(f"    Original: {original_count:,} crimes")
+    print(f"    Filtered: {len(filtered_features):,} crimes")
+    print(f"    Reduction: {(1 - len(filtered_features)/original_count)*100:.1f}%")
+
+    return filtered_geojson
+
 def save_geojson(geojson: Dict):
     """Save GeoJSON data to file."""
     data_file = Path(DATA_FILE)
     data_file.parent.mkdir(parents=True, exist_ok=True)
 
+    # Filter to recent crimes only (last 14 days)
+    filtered_geojson = filter_recent_crimes(geojson, days=14)
+
     with open(data_file, 'w', encoding='utf-8') as f:
-        json.dump(geojson, f, indent=2, ensure_ascii=False)
+        json.dump(filtered_geojson, f, indent=2, ensure_ascii=False)
 
     # Calculate file size
     file_size = data_file.stat().st_size

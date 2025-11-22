@@ -32,6 +32,7 @@ If GitHub Actions cannot download automatically, you have two options:
 # Visit: https://data.louisvilleky.gov/maps/LOJIC::louisville-metro-ky-crime-data-2025
 # Click "Download" → "GeoJSON"
 # Save to: _data/crime_data.json
+# Note: The script will automatically filter to last 14 days
 
 # Then commit and push
 git add _data/crime_data.json

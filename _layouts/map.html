@@ -318,7 +318,7 @@
     let crimeMarkers = [];
     let crimeLayer;
 
-    // Load crime data from GeoJSON
+    // Load crime data (pre-filtered to last 14 days for fast loading)
     const crimeData = {{ site.data.crime_data | jsonify }};
 
     // Extract addresses from event content
@@ -789,7 +789,7 @@
         return;
       }
 
-      console.log(`Loading ${crimeData.features.length} crime incidents...`);
+      console.log(`Loading ${crimeData.features.length} crime incidents (last ${crimeData.metadata?.days_included || 14} days)...`);
 
       crimeData.features.forEach(feature => {
         if (!feature.geometry || !feature.geometry.coordinates) {
