@@ -3582,6 +3582,12 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Grand Ridge Rd, Louisville, KY:
+  lat: 38.141355
+  lng: -85.798928
+1900 Grand Ridge Rd. The vehicle was last seen heading north away from the area. Police units were alerted, Louisville, KY:
+  lat: 38.141355
+  lng: -85.798928
 1900 Hikes Ln, Louisville, KY:
   lat: 38.2061085
   lng: -85.6488189
@@ -7057,6 +7063,9 @@
 3500 Dutchman's Lane, Louisville, KY: null
 3500 Dutchman's Lane. Responding units were dispatched to investigate the cause of the activation., Louisville, KY: null
 3500 Dutchman's Lane. Responding units were dispatched, Louisville, KY: null
+3500 Endeavor Way, Louisville, KY:
+  lat: 38.12986
+  lng: -85.698034
 ? 3500 Fenwick Park Pl in response to a report of domestic trouble. The situation
   required police intervention to address the disturbance. The transcript did not
   specify how the incident was resolved., Louisville, KY
@@ -10077,6 +10086,9 @@
 : null
 5600 pound tree drive, Louisville, KY: null
 5700 Bruns Dr, Louisville, KY:
+  lat: 38.171284
+  lng: -85.8186862
+5700 Bruns Dr], Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
 5700 Midnight Ln, Louisville, KY:
