@@ -1602,6 +1602,9 @@
 11500 Maple Brook Dr, Louisville, KY:
   lat: 38.3020407
   lng: -85.541966
+11500 Maple Forest Dr, Louisville, KY:
+  lat: 38.3025646
+  lng: -85.5161777
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
@@ -3178,6 +3181,7 @@
   lat: 38.231231
   lng: -85.698696
 1700 Cowling Ave. The system indicated that three rounds were discharged in this area., Louisville, KY: null
+1700 Doomsdale Street, Louisville, KY: null
 1700 Gallagher St, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
@@ -8827,6 +8831,9 @@
   lng: -85.7883132
 4300 W W Southern Heights Ave, Louisville, KY: null
 4300 W W Southern Heights Ave. Units were dispatched to the scene to facilitate the process., Louisville, KY: null
+4300 W Woodlawn Ave, Louisville, KY:
+  lat: 38.1824297
+  lng: -85.7737331
 4300 West Area View Lane, Louisville, KY: null
 4300 York St, Louisville, KY:
   lat: 38.243908
@@ -12670,6 +12677,7 @@
 8800 National Turnpike. The reason, Louisville, KY:
   lat: 38.1220474
   lng: -85.7484539
+8800 Perry Rd, Louisville, KY: null
 8800 Sanctuary Ln, Louisville, KY:
   lat: 38.122357
   lng: -85.577885
@@ -13651,6 +13659,7 @@ Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
+Warren Ave and Carlisle Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
