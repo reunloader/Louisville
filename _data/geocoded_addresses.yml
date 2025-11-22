@@ -1226,6 +1226,9 @@
 1100 Bardstown Rd, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Berry Blvd, Louisville, KY:
+  lat: 38.1959315
+  lng: -85.7797207
 1100 Berthstown Road at Speedway, Louisville, KY:
   lat: 38.1588919
   lng: -85.764448
@@ -1629,6 +1632,7 @@
   lat: 38.2641926
   lng: -85.8173786
 1200 Conservatory Ln, Louisville, KY: null
+1200 Crop St or Preston Hwy, Louisville, KY: null
 1200 Cypher St, Louisville, KY: null
 ? 1200 Cypher Street. This incident had been ongoing for an extended period, approximately
   11.5 hours. No new calls related to this situation had been received for about 4.5
@@ -3991,6 +3995,9 @@
 200 Granvil Dr, Louisville, KY:
   lat: 38.1895335
   lng: -85.6350403
+200 Harlan Ave, Louisville, KY:
+  lat: 38.201371
+  lng: -85.762913
 200 Headnote Place. Police units were assigned to this case., Louisville, KY: null
 200 Headnote Place. Police units were assigned, Louisville, KY: null
 200 Howard St, Louisville, KY:
@@ -9819,6 +9826,9 @@
 5200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+5200 Wainwright Ave, Louisville, KY:
+  lat: 38.2127452
+  lng: -85.749325
 ? 5300 Albuway, at the intersection of Crusher-Hi View Ln and Sale Ave, to assist
   a 51-year-old female experiencing chest pain. The call was later canceled by responding
   units, and the situation was marked as service., Louisville, KY
@@ -13344,6 +13354,7 @@ Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
   lng: -85.7764181
 Taylor Ave and Popplevel Road, Louisville, KY: null
+Taylor Ave and Sale Ave, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
 Taylor Blvd and Bicknell Ave, Louisville, KY: null
 Taylor Blvd and Central Ave, Louisville, KY: null
