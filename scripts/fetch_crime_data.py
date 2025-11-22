@@ -28,7 +28,7 @@ from pathlib import Path
 from typing import Dict, List, Optional
 
 # Configuration
-DATA_FILE = "_data/crime_data.geojson"
+DATA_FILE = "_data/crime_data.json"
 USER_AGENT = "Derby City Watch Event Map"
 
 # Dataset item IDs for different years (from data.louisvilleky.gov)
