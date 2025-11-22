@@ -1908,6 +1908,12 @@
   The patient was reportedly waiting, Louisville, KY
 : null
 1200 Triple Crown Ct, Louisville, KY: null
+? 1200 W Hill St where a 50-year-old male was found unresponsive and exhibiting signs
+  of distress. Responders worked, Louisville, KY
+: null
+1200 W Hill St, Louisville, KY:
+  lat: 38.2272936
+  lng: -85.775801
 1200 W Jefferson St, Louisville, KY:
   lat: 38.255227
   lng: -85.770416
@@ -5518,6 +5524,12 @@
 2700 Bagby Way, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
+? 2700 Bank St involving a 23-year-old male experiencing a seizure. Emergency medical
+  services were on scene to provide care, Louisville, KY
+: null
+2700 Bank St, Louisville, KY:
+  lat: 38.2701717
+  lng: -85.7938796
 2700 Carling Ct, Louisville, KY:
   lat: 38.081925
   lng: -85.8640965
@@ -5529,6 +5541,10 @@
   lng: -85.795525
 2700 Cedar St, Louisville, KY:
   lat: 38.2564951
+  lng: -85.795525
+? 2700 Cedar St. Reports indicated a female had shot her boyfriend in the face, leaving
+  him unconscious. Police units and EMS were dispatched, Louisville, KY
+: lat: 38.2564951
   lng: -85.795525
 2700 Charleston Road, Louisville, KY: null
 2700 Grand Ave, obstructing access. A request was made, Louisville, KY: null
@@ -8144,6 +8160,12 @@
 4000 Parkway, Louisville, KY:
   lat: 38.1966062
   lng: -85.7673687
+? 4000 Parthenia Ave regarding a domestic disturbance. A 22-year-old female sustained
+  injuries to her head and face, prompting a request, Louisville, KY
+: null
+4000 Parthenia Ave, Louisville, KY:
+  lat: 38.1864292
+  lng: -85.7932322
 ? 4000 Peachtree Ave following a report of a possible death. The caller indicated
   that one individual might be deceased and that several people had fled the scene
   in a yellow Ford Mustang., Louisville, KY
