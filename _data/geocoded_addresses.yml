@@ -4077,6 +4077,12 @@
 200 East. The vehicles involved were a gray Buick and a blue Ford, and they were positioned, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 Eldorado Ave, Louisville, KY:
+  lat: 38.189499
+  lng: -85.634899
+200 Eldorado Ave, near Orville Dr,, Louisville, KY:
+  lat: 38.189499
+  lng: -85.634899
 200 Elm Street, Louisville, KY: null
 ? 200 Elm Street. Officers investigated the circumstances surrounding the vehicle.
   The situation was resolved, and the vehicle was cleared from the area., Louisville,
@@ -6097,6 +6103,12 @@
   a Battalion Chief were dispatched, Louisville, KY
 : null
 2900 Goose Creek Rd, Brownsboro Park Retirement Center, Louisville, KY: null
+2900 Goose Creek Rd, Louisville, KY:
+  lat: 38.289674
+  lng: -85.580507
+2900 Goose Creek Rd. The call was, Louisville, KY:
+  lat: 38.289674
+  lng: -85.580507
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
 2900 Montgomery St, Louisville, KY:
   lat: 38.2739749
@@ -7192,6 +7204,12 @@
 3500 10 Run Road, Louisville, KY:
   lat: 38.1972047
   lng: -85.8401448
+3500 Algonquin Pky, Louisville, KY:
+  lat: 38.2245619
+  lng: -85.8144583
+3500 Algonquin Pky, near Russell Lee and 35th Street,, Louisville, KY:
+  lat: 38.2245619
+  lng: -85.8144583
 3500 Blue Park Ln, Louisville, KY: null
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
@@ -13381,6 +13399,14 @@
 9800 Preston, near Deer Crossing Trl BOULEVARD. Emergency services were dispatched, Louisville, KY:
   lat: 38.1064109
   lng: -85.6721115
+9800 Seville Dr, Louisville, KY:
+  lat: 38.1140967
+  lng: -85.8526359
+? 9800 Seville Dr, near Scrim Ave and Libby Ln. The incident involved a 52-year-old
+  male. Emergency medical personnel were dispatched and arrived on location promptly,
+  Louisville, KY
+: lat: 38.1140967
+  lng: -85.8526359
 9800 Somerford Rd, Louisville, KY: null
 9801 Gateway Drive, Louisville, KY: null
 9815 Cedar Garden Drive, Louisville, KY:
@@ -13669,6 +13695,7 @@ Rodman St and Atwood St, Louisville, KY: null
 Rodman St and Winkler Ave, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
+Scrim Ave and Libby Ln, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
