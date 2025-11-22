@@ -1739,6 +1739,12 @@
   KY
 : null
 1200 Largetown Road, Louisville, KY: null
+1200 Lillian Ave, Louisville, KY:
+  lat: 38.2091684
+  lng: -85.7769126
+1200 Lillian Ave. After arriving and assessing the situation, officers found the area, Louisville, KY:
+  lat: 38.2091684
+  lng: -85.7769126
 1200 Lipps Ln, Louisville, KY:
   lat: 38.142833
   lng: -85.68899
@@ -1793,6 +1799,9 @@
   from the scene., Louisville, KY
 : null
 1200 Raven Rd. Upon arrival, it was determined that the incident was related, Louisville, KY: null
+1200 S Brook St, Louisville, KY:
+  lat: 38.2343
+  lng: -85.753799
 1200 S Preston St, Louisville, KY:
   lat: 38.233888
   lng: -85.7496363
@@ -4061,6 +4070,9 @@
   lng: -85.6425666
 200 North Westport Road, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
+200 North at Wilhenry Road, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, Albert H Near St. The reason, Louisville, KY: null
 200 North, First Point Parkway, Louisville, KY: null
