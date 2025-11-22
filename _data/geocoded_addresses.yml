@@ -1491,6 +1491,9 @@
 11000 Oliverda Dr, Louisville, KY:
   lat: 38.0975935
   lng: -85.8806153
+11000 Pebble Creek Dr, Louisville, KY:
+  lat: 38.3203181
+  lng: -85.5451451
 11000 Pepperdine Ct required medical assistance after fainting. EMS responded, Louisville, KY: null
 11000 Pheasant Hill Cir, Louisville, KY:
   lat: 38.0867241
@@ -1618,6 +1621,9 @@
 11700 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
+11700 Pierce Way, Louisville, KY:
+  lat: 38.086173
+  lng: -85.871034
 11700 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -5518,6 +5524,9 @@
   Police units were dispatched, Louisville, KY
 : lat: 38.2343368
   lng: -85.7962538
+2500 Windsor Forest Dr, Louisville, KY:
+  lat: 38.1280093
+  lng: -85.8173383
 2500 Woodland Ave, Louisville, KY:
   lat: 38.2334341
   lng: -85.796038
@@ -6132,6 +6141,7 @@
   lat: 38.2139783
   lng: -85.7642889
 300 Adam and 300 block of Charlie were not fully detailed in the initial reports, Louisville, KY: null
+300 Adam and 300 block of Charlie, Louisville, KY: null
 ? 300 Adam in response to a medical situation. One unit was with a subject and appeared
   to be investigating the location of a prior incident. Additional assistance was
   requested to help manage the situation., Louisville, KY
