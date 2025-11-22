@@ -1608,6 +1608,7 @@
 11500 Maple Forest Dr, Louisville, KY:
   lat: 38.3025646
   lng: -85.5161777
+11500 Maple Grove, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
@@ -3094,6 +3095,9 @@
   at the scene. Communication with the caller was reportedly difficult., Louisville,
   KY
 : null
+1600 Rowan St, Louisville, KY:
+  lat: 38.2599339
+  lng: -85.7763331
 1600 Sale Ave, Louisville, KY:
   lat: 38.19768
   lng: -85.790838
@@ -6219,6 +6223,9 @@
 300 Camden Ave, Louisville, KY:
   lat: 38.1928396
   lng: -85.7877594
+300 Cecil Ave, Louisville, KY:
+  lat: 38.260751
+  lng: -85.818803
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 800 block of Charlie, Louisville, KY: null
 300 Charlie and the 300 block of David, Louisville, KY: null
@@ -9620,6 +9627,9 @@
   Louisville, KY
 : null
 500 Meridian Hills Dr, Louisville, KY: null
+500 Mount Holly Rd, Louisville, KY:
+  lat: 38.1037287
+  lng: -85.7576846
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
@@ -12848,6 +12858,9 @@
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
+900 S Brook St, Louisville, KY:
+  lat: 38.241061
+  lng: -85.752613
 ? 900 Schiller Ct. The caller expressed concern that a subject was attempting to take
   her children. Police units were dispatched to investigate and de-escalate the situation.,
   Louisville, KY
