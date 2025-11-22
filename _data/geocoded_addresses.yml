@@ -541,6 +541,7 @@
 100, Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
+1000 Arrowhead Rd, Louisville, KY: null
 1000 Bardstown Rd, Louisville, KY:
   lat: 38.240016
   lng: -85.724091
@@ -9753,6 +9754,9 @@
   lat: 38.169814
   lng: -85.687108
 5400 Marlborough Court near Lilly Ln, Louisville, KY: null
+5400 Poplar Level Rd, Louisville, KY:
+  lat: 38.1670132
+  lng: -85.6814696
 5400 Ripple Ln, Louisville, KY:
   lat: 38.171621
   lng: -85.670246
@@ -9772,6 +9776,9 @@
   door, raising immediate concerns, Louisville, KY
 : lat: 38.1049991
   lng: -85.8644365
+5400 Ward Ave, Louisville, KY:
+  lat: 38.2556496
+  lng: -85.5536202
 5400 Yield Close Road, Louisville, KY: null
 5500 Bardstown Rd, Louisville, KY:
   lat: 38.166274
