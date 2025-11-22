@@ -1655,6 +1655,9 @@
 1200 Belmar Dr, Louisville, KY:
   lat: 38.194685
   lng: -85.729476
+1200 Bicknell Ave, Louisville, KY:
+  lat: 38.1831819
+  lng: -85.781116
 1200 Boston Ct, Louisville, KY:
   lat: 38.2641926
   lng: -85.8173786
@@ -2074,6 +2077,7 @@
   lng: -85.8951203
 12700 Bay Tree Way near Bay Cove Ct, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
+12700 East Oro, Louisville, KY: null
 12900 East Pharrell, Louisville, KY: null
 12900 East Railroad, Louisville, KY: null
 ? 12900 Easter Railroad and has distinctive stickers in the rear windshield. Authorities
@@ -3805,6 +3809,9 @@
 200 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+200 Bank St, Louisville, KY:
+  lat: 38.272279
+  lng: -85.7991803
 200 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -8590,6 +8597,9 @@
 4100 Towne Center Dr, Louisville, KY:
   lat: 38.2990939
   lng: -85.553818
+4100 W Kentucky St, Louisville, KY:
+  lat: 38.24534
+  lng: -85.819777
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
@@ -9372,6 +9382,7 @@
 ? 4800 South Side. The alarm was reportedly a duress alarm, indicating a potential
   robbery in progress. Officers were responding, Louisville, KY
 : null
+4800 South Works Street, Louisville, KY: null
 4900 Axtell Ave, Louisville, KY:
   lat: 38.138207
   lng: -85.850053
