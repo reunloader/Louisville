@@ -2843,6 +2843,9 @@
 1500 Raydale Dr, Louisville, KY:
   lat: 38.1225
   lng: -85.670996
+1500 Rowan St, Louisville, KY:
+  lat: 38.259949
+  lng: -85.775002
 1500 Shingo Ave, Louisville, KY:
   lat: 38.1744846
   lng: -85.7865232
@@ -4634,6 +4637,10 @@
 2009 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
+201 Adam, Louisville, KY:
+  lat: 38.1049397
+  lng: -85.8430902
+201 Adam, which was subsequently cleared, Louisville, KY: null
 ? 2010 Duncan Street. Officers were dispatched to the scene to gather information
   and begin the investigation into the stolen vehicle., Louisville, KY
 : null
@@ -10938,6 +10945,12 @@
   lat: 38.1215876
   lng: -85.6387087
 6700 Overlook Acres DRIVE at Sunrise at Woolville, Louisville, KY: null
+6700 Sappenfield, Louisville, KY:
+  lat: 38.059685
+  lng: -85.8894115
+6700 Sappenfield. Responding units were dispatched, Louisville, KY:
+  lat: 38.059685
+  lng: -85.8894115
 6700 Strawberry Ln, Louisville, KY:
   lat: 38.1596246
   lng: -85.763096
@@ -11635,6 +11648,9 @@
 7200 Green Oak Dr, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
+7200 Lentz Ave, Louisville, KY:
+  lat: 38.1922412
+  lng: -85.7859322
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
