@@ -1292,6 +1292,11 @@
 1100 East Broadway, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
+1100 East W Market St, Louisville, KY: null
+? 1100 East W Market St, near S Johnson St. The patient was a 24-year-old female experiencing
+  a bleeding issue related, Louisville, KY
+: lat: 38.253828
+  lng: -85.7314324
 1100 Eastern Parkway, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
@@ -3489,6 +3494,9 @@
 1800 Barr Ln, Louisville, KY:
   lat: 38.2392151
   lng: -85.6840872
+1800 Bicknell Ave. A firefighter on scene assessed the situation and determined it, Louisville, KY:
+  lat: 38.183708
+  lng: -85.792353
 1800 Blankenbaker Pky PARKWAY, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -7879,6 +7887,13 @@
 3900 Craig Ave, Louisville, KY:
   lat: 38.18484
   lng: -85.789937
+3900 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
+? 3900 Dixie Hwy, near Crums Ln and Schmitts Ln. The incident involved a 51-year-old
+  male who had fallen and sustained a chest injury, leading, Louisville, KY
+: lat: 38.1125665
+  lng: -85.8631151
 3900 Dutchman's Lane, Louisville, KY: null
 ? 3900 Fairdale Rd, near National Turnpike and Timberlake at Ovec Fairdale. EMS units
   were dispatched to provide critical care to the young patient., Louisville, KY
@@ -13690,6 +13705,7 @@ Cherokee Rd and Valley Station Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
 Christian Merrick Road and Hempstead Rd, Louisville, KY: null
+Churchman Ave and Bicknell Ave, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
 Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
@@ -13707,6 +13723,7 @@ Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
+Crums Ln and Schmitts Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dockby Drive and Wenderspoon Street, Louisville, KY: null
