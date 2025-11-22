@@ -3594,6 +3594,12 @@
   reaction. EMS units were sent, Louisville, KY
 : null
 1900 Bluegrass Avenue, Morning, Louisville, KY: null
+1900 Brownsboro Rd, Louisville, KY:
+  lat: 38.2588516
+  lng: -85.7125223
+1900 Brownsboro Rd. Responding units arrived on scene, but the alarm company later provided a cancellation, Louisville, KY:
+  lat: 38.2588516
+  lng: -85.7125223
 1900 Crimson Dr, Louisville, KY: null
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
@@ -5404,6 +5410,10 @@
 2500 Nichols View Ct, Louisville, KY:
   lat: 38.1934133
   lng: -85.7960886
+2500 Paris Road Drive, Louisville, KY: null
+? 2500 Paris Road Drive, with the event having occurred the prior evening. Information
+  regarding previous police responses, Louisville, KY
+: null
 2500 Rowan St, Louisville, KY:
   lat: 38.261638
   lng: -85.7912404
@@ -9013,6 +9023,7 @@
 4500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+4500 Shelbyville Rd, specifically concerning register 2. Law enforcement units were dispatched, Louisville, KY: null
 ? 4500 Shelbyville Rd. Police units responded promptly to the location. Further information
   regarding the circumstances or resolution of this alarm was not provided., Louisville,
   KY
@@ -9547,6 +9558,10 @@
   lat: 38.272324
   lng: -85.798924
 500 Nottingham Pky, Louisville, KY: null
+500 Park Ave and concluded their assessment, Louisville, KY: null
+500 Park Ave, Louisville, KY:
+  lat: 38.231717
+  lng: -85.764438
 500 Perby, Louisville, KY: null
 ? 500 Perby. The exact nature of the alarm activation was not specified in the initial
   report. Further information regarding the resolution of this alarm is pending.,
