@@ -6778,6 +6778,9 @@
 : null
 3100 Grand Teton Dr, responders proceeded, Louisville, KY: null
 3100 I 65 South, Louisville, KY: null
+3100 Jennifer Way, Louisville, KY:
+  lat: 38.1696995
+  lng: -85.8727228
 3100 Mid Dale Ln, Louisville, KY:
   lat: 38.2110134
   lng: -85.6360004
@@ -9128,6 +9131,9 @@
 4500 Crittenden Dr, Louisville, KY:
   lat: 38.188406
   lng: -85.750811
+4500 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 ? 4500 Georgia Ln for a medical emergency involving a 68-year-old male. The incident
   occurred near Billy Goat Strut Alley., Louisville, KY
 : null
@@ -13531,6 +13537,7 @@ Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
 Becker Ave and Park Brook Ln, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
+Bells Ln and Gibson Ln, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Beulah Church Rd and Farnsley Rd, Louisville, KY: null
 Bignol Street and Parthenia Ave, Louisville, KY: null
