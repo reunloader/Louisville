@@ -3461,6 +3461,7 @@
 1800 Outer Loop, Louisville, KY:
   lat: 38.1280358
   lng: -85.7393457
+1800 San Jose Ave, Louisville, KY: null
 1800 Shady Ln, Louisville, KY:
   lat: 38.2278163
   lng: -85.7088915
@@ -6510,6 +6511,9 @@
   driveway and later fled into the backyard. Police units were involved in the response,
   Louisville, KY
 : null
+3100 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 3100 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
@@ -7638,7 +7642,9 @@
 400 Baker Aly STREET following a report of an assault. A 42-year-old male sought medical attention, Louisville, KY: null
 400 Baker Aly STREET, Louisville, KY: null
 400 Baker Aly STREET., Louisville, KY: null
+400 Baker and 200 block of, Louisville, KY: null
 400 Baker and 400 block of Charlie, Louisville, KY: null
+400 Baker and the 200 block of. Responding units worked, Louisville, KY: null
 400 Baker to manage the scene and gather information., Louisville, KY: null
 400 Baker, 400 block of David, and 400 block of Charlie, Louisville, KY: null
 400 Baker, Louisville, KY:
@@ -9236,6 +9242,9 @@
   lng: -85.6180141
 500 Adam and the 500 block of Baker, Louisville, KY: null
 500 Adam and the 500 block of Baker., Louisville, KY: null
+500 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 500 Adams were involved in assessing the scene, Louisville, KY: null
 500 Adams were involved in assessing the scene., Louisville, KY: null
 500 Altagate Rd, Louisville, KY:
@@ -10236,6 +10245,9 @@
   KY
 : null
 600 Parthenia, with indications of related evidence. Further details, Louisville, KY: null
+600 Rawlings St, Louisville, KY:
+  lat: 38.2212322
+  lng: -85.7464948
 ? 600 Roseville Avenue, close to the intersection with West Portland and LaGrange.
   Responding units arrived on the scene and indicated that there was no visible fire
   or smoke upon their arrival., Louisville, KY
