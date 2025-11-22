@@ -1484,6 +1484,7 @@
 1100 West Broadway, near South 11th Street,, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
+1100 block, Louisville, KY: null
 11000 Brooksong Ct, Louisville, KY:
   lat: 38.2942719
   lng: -85.503212
@@ -2374,6 +2375,7 @@
 13200 Cain Ln, Louisville, KY:
   lat: 38.2932179
   lng: -85.513383
+13200 block, Louisville, KY: null
 13300 North Tetland, Louisville, KY: null
 13300 North Tetland, though it was believed, Louisville, KY: null
 13300 Shelterville Road, Louisville, KY: null
@@ -2853,6 +2855,7 @@
 : null
 1500 Highland Preserve Way, Louisville, KY: null
 1500 I65 South at Veterans Dr and 3rd 3Rd Street Rd, Louisville, KY: null
+1500 Ladle3, Louisville, KY: null
 1500 Lewis Coleman Jr, Louisville, KY: null
 1500 Lewis Coleman Jr. Drive, Louisville, KY: null
 1500 Lewis Ln at Immaculate Heart of Mary, Louisville, KY: null
@@ -3466,6 +3469,14 @@
 1800 Bluegrass Ave, Louisville, KY:
   lat: 38.179474
   lng: -85.792768
+1800 Bluegrass at St, Louisville, KY:
+  lat: 38.1826348
+  lng: -85.7948645
+? 1800 Bluegrass at St. Mary's. An off-duty deputy was already present at the scene
+  when police units, including those from the 400 block of Baker and the 400 block
+  of Adam, arrived, Louisville, KY
+: lat: 38.1826348
+  lng: -85.7948645
 1800 Bluegrass, Louisville, KY:
   lat: 38.1826348
   lng: -85.7948645
@@ -5311,6 +5322,9 @@
   lng: -85.791556
 2400 Glen Eagle Dr near Line Killam Lane, Louisville, KY: null
 2400 Glen Eagle Dr, Louisville, KY: null
+2400 Glen Eagle Dr, near 6th Street. The specific reasons, Louisville, KY:
+  lat: 38.1792341
+  lng: -85.7734909
 2400 Glen Eagle Dr., Louisville, KY: null
 2400 Glenmary Ave, Louisville, KY:
   lat: 38.2399277
@@ -7784,6 +7798,9 @@
   the conflict., Louisville, KY
 : null
 3800 an unspecified street. The situation involved a dispute where one party was reportedly refusing, Louisville, KY: null
+? 3900 7th St Rene Rd. Metro Security personnel found the child, and responding units
+  from the 400 block of Baker were dispatched, Louisville, KY
+: null
 3900 Barks, Louisville, KY: null
 3900 Bishop Ln, Louisville, KY:
   lat: 38.1871224
@@ -7899,6 +7916,9 @@
 400 Adam and 400 block of Adam were dispatched, Louisville, KY: null
 400 Adam and 400 block of Adam were dispatched., Louisville, KY: null
 400 Adam and 400 block of Baker, Louisville, KY: null
+? 400 Adam and the 1300 block, provided assistance with traffic control as the vehicle
+  was being removed from the roadway, Louisville, KY
+: null
 400 Adam were involved in addressing the situation, Louisville, KY: null
 400 Adam were involved in addressing the situation., Louisville, KY: null
 400 Adam, Louisville, KY:
@@ -7920,8 +7940,10 @@
 400 Baker Aly STREET, Louisville, KY: null
 400 Baker Aly STREET., Louisville, KY: null
 400 Baker and 200 block of, Louisville, KY: null
+400 Baker and 400 block of Baker, Louisville, KY: null
 400 Baker and 400 block of Charlie, Louisville, KY: null
 400 Baker and the 200 block of. Responding units worked, Louisville, KY: null
+400 Baker and the 500 block of David were sent, Louisville, KY: null
 400 Baker to manage the scene and gather information., Louisville, KY: null
 400 Baker, 400 block of David, and 400 block of Charlie, Louisville, KY: null
 400 Baker, Louisville, KY:
