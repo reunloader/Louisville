@@ -31,10 +31,10 @@ If GitHub Actions cannot download automatically, you have two options:
 # Download the file once manually
 # Visit: https://data.louisvilleky.gov/maps/LOJIC::louisville-metro-ky-crime-data-2025
 # Click "Download" → "GeoJSON"
-# Save to: _data/crime_data.json
+# Save to: assets/data/crime_data.json
 
 # Then commit and push
-git add _data/crime_data.json
+git add assets/data/crime_data.json
 git commit -m "Add crime data"
 git push
 ```
