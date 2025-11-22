@@ -1128,6 +1128,7 @@
   for assistance., Louisville, KY
 : null
 10300 King Oak Street Court. The call was, Louisville, KY: null
+10300 Lower River Rd regarding a request, Louisville, KY: null
 10300 Metal View Drive, Louisville, KY: null
 ? 10300 Metal View Drive. Information suggested an individual at this location may
   have outstanding warrants, though the specifics were unclear. Police units were
@@ -1429,6 +1430,10 @@
 1100 South 4th Street. The alarm was actively sounding when units arrived on scene., Louisville, KY: null
 1100 South 4th Street. The alarm was actively sounding when units arrived, Louisville, KY:
   lat: 38.237298
+  lng: -85.760025
+? 1100 South 4th Street. Upon arrival, there were no visible signs of fire from the
+  exterior of the multi-story building. The alarm was related, Louisville, KY
+: lat: 38.237298
   lng: -85.760025
 1100 South First Street, Louisville, KY: null
 1100 South Forest Street, Louisville, KY: null
@@ -11595,6 +11600,9 @@
 7200 Billtown Rd, Louisville, KY:
   lat: 38.1398214
   lng: -85.5402269
+7200 Cooper Chapel Rd, Louisville, KY:
+  lat: 38.1097984
+  lng: -85.6319967
 7200 Green Oak Dr, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
@@ -13447,6 +13455,7 @@ Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
+Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South Fifth Street and Cedar Road, Louisville, KY: null
