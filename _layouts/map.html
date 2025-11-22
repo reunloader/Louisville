@@ -253,10 +253,6 @@
             <div style="display: flex; gap: 10px; flex-wrap: wrap;">
               <button onclick="resetFilters()">Show All</button>
               <button onclick="showMyLocation()">📍 My Location</button>
-              <label style="display: flex; align-items: center; gap: 5px; cursor: pointer;">
-                <input type="checkbox" id="crimeDataToggle" onchange="toggleCrimeData()" checked>
-                <span>Show Crime Data</span>
-              </label>
             </div>
           </div>
 
@@ -315,11 +311,6 @@
     let map;
     let markers = [];
     let markerLayer;
-    let crimeMarkers = [];
-    let crimeLayer;
-
-    // Load crime data (pre-filtered to last 14 days for fast loading)
-    const crimeData = {{ site.data.crime_data | jsonify }};
 
     // Extract addresses from event content
     function extractAddresses(content) {
@@ -377,14 +368,6 @@
       }),
       yellow: L.icon({
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
-        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
-        iconSize: [25, 41],
-        iconAnchor: [12, 41],
-        popupAnchor: [1, -34],
-        shadowSize: [41, 41]
-      }),
-      violet: L.icon({
-        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-violet.png',
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
         iconSize: [25, 41],
         iconAnchor: [12, 41],
@@ -782,73 +765,6 @@
       }
     }
 
-    // Load crime data markers
-    function loadCrimeData() {
-      if (!crimeData || !crimeData.features || crimeData.features.length === 0) {
-        console.log('No crime data available');
-        return;
-      }
-
-      console.log(`Loading ${crimeData.features.length} crime incidents (last ${crimeData.metadata?.days_included || 14} days)...`);
-
-      crimeData.features.forEach(feature => {
-        if (!feature.geometry || !feature.geometry.coordinates) {
-          return;
-        }
-
-        const coords = feature.geometry.coordinates;
-        const props = feature.properties || {};
-
-        // GeoJSON uses [lng, lat], Leaflet uses [lat, lng]
-        const lat = coords[1];
-        const lng = coords[0];
-
-        // Create marker with violet icon
-        const marker = L.marker([lat, lng], { icon: markerIcons.violet });
-
-        // Create popup content
-        const incidentNumber = props.INCIDENT_NUMBER || props.incident_number || 'N/A';
-        const dateReported = props.DATE_REPORTED || props.date_reported || 'N/A';
-        const dateOccurred = props.DATE_OCCURRED || props.date_occurred || 'N/A';
-        const nibrsGroup = props.NIBRS_GROUP || props.nibrs_group || 'N/A';
-        const offenseClassification = props.OFFENSE_CLASSIFICATION || props.offense_classification || 'N/A';
-        const offenseCompleted = props.WAS_OFFENSE_COMPLETED || props.was_offense_completed || 'N/A';
-
-        const popupContent = `
-          <div class="popup-content">
-            <h3 style="color: #9C27B0; margin-top: 0;">🚨 Crime Report</h3>
-            <p><strong>Incident:</strong> ${incidentNumber}</p>
-            <p><strong>Type:</strong> ${offenseClassification}</p>
-            <p><strong>Category:</strong> ${nibrsGroup}</p>
-            <p><strong>Reported:</strong> ${dateReported}</p>
-            <p><strong>Occurred:</strong> ${dateOccurred}</p>
-            <p><strong>Status:</strong> ${offenseCompleted}</p>
-            <p style="font-size: 11px; color: #666; margin-top: 10px;">
-              Source: Louisville Metro PD (LOJIC)
-            </p>
-          </div>
-        `;
-
-        marker.bindPopup(popupContent);
-
-        crimeMarkers.push(marker);
-        marker.addTo(crimeLayer);
-      });
-
-      console.log(`✓ Loaded ${crimeMarkers.length} crime markers`);
-    }
-
-    // Toggle crime data layer visibility
-    function toggleCrimeData() {
-      const checkbox = document.getElementById('crimeDataToggle');
-      if (checkbox.checked) {
-        crimeLayer.addTo(map);
-        console.log('Crime data layer enabled');
-      } else {
-        map.removeLayer(crimeLayer);
-        console.log('Crime data layer disabled');
-      }
-    }
 
     // Initialize map
     async function initMap() {
@@ -898,10 +814,6 @@
             <i style="background: #FFD326"></i>
             <span>Medical</span>
           </div>
-          <div class="legend-item">
-            <i style="background: #9C27B0"></i>
-            <span>Crime Data</span>
-          </div>
         `;
         return div;
       };
@@ -909,12 +821,6 @@
 
       // Create a layer group for markers
       markerLayer = L.layerGroup().addTo(map);
-
-      // Create a layer group for crime data
-      crimeLayer = L.layerGroup().addTo(map);
-
-      // Load crime data markers
-      loadCrimeData();
 
       // Process all events
       let allItems = [];
