@@ -2035,6 +2035,7 @@
 : null
 1225 South Fifth Street in response, Louisville, KY: null
 12300 Forest School Ln, Louisville, KY: null
+12300 Ridge Crest Dr, Louisville, KY: null
 124 West Oak Street, Louisville, KY:
   lat: 38.2345255
   lng: -85.7567626
@@ -6179,6 +6180,7 @@
   lng: -85.7877594
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 800 block of Charlie, Louisville, KY: null
+300 Charlie and the 300 block of David, Louisville, KY: null
 300 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -9376,6 +9378,9 @@
 4900 Dixie Hwy, Louisville, KY:
   lat: 38.1710866
   lng: -85.8271051
+4900 Hanses Dr, Louisville, KY:
+  lat: 38.1601786
+  lng: -85.6794729
 4900 Manslick Rd, Louisville, KY:
   lat: 38.1751656
   lng: -85.7981771
@@ -9976,6 +9981,9 @@
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
   lng: -85.773438
+5300 Camden Ave, Louisville, KY:
+  lat: 38.1928396
+  lng: -85.7877594
 5300 Citation Rd, Louisville, KY:
   lat: 38.113786
   lng: -85.863865
@@ -10738,6 +10746,9 @@
   the situation., Louisville, KY
 : null
 6300 Fern Valley Way, across from Fern Valley Cir,, Louisville, KY: null
+6300 Ferncliff Ln near Ferndale Rd, Louisville, KY:
+  lat: 38.1556282
+  lng: -85.6023088
 ? 6300 Greenwood Rd following a hold-up alarm. The incident was reported as a commercial
   panic alarm activation., Louisville, KY
 : null
@@ -11778,6 +11789,7 @@
 7300 Ticonderoga Dr, Louisville, KY:
   lat: 38.1514364
   lng: -85.7902881
+7400 3rd St Rene Rd, Louisville, KY: null
 7400 Bardstown Rd, Louisville, KY:
   lat: 38.1388505
   lng: -85.5817755
@@ -12659,6 +12671,7 @@
   have been pulled down. EMS was dispatched to assess, Louisville, KY
 : lat: 38.1253447
   lng: -85.868006
+8900 Staraway near Gone, Windrub, and Stoney Farm, Louisville, KY: null
 8900 Talon Ridge Jog, Louisville, KY: null
 8900 US Highway 42, Louisville, KY: null
 8900 Willowcreek Dr, Louisville, KY:
