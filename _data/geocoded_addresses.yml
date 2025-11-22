@@ -5548,6 +5548,9 @@
 ? 2500 Rowan St, where a structure appeared compromised and was obstructed by debris
   and damaged stairwells. Units were sent, Louisville, KY
 : null
+2500 Six Mile Ln, Louisville, KY:
+  lat: 38.1987182
+  lng: -85.6042955
 2500 Slate Dr, Louisville, KY:
   lat: 38.1049283
   lng: -85.7204367
@@ -7318,6 +7321,9 @@
   on scene and immediately began CPR., Louisville, KY
 : null
 3500 Moir Circle this morning. They responded, Louisville, KY: null
+3500 Moyers Cir, Louisville, KY:
+  lat: 38.257301
+  lng: -85.6685408
 3500 Newburg Rd near Abernathy Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -8941,6 +8947,9 @@
 4300 River Park Drive, Louisville, KY:
   lat: 38.2559385
   lng: -85.8233035
+4300 Sadie Ln, Louisville, KY:
+  lat: 38.1806477
+  lng: -85.8101697
 4300 Silver Oaks Ct, Louisville, KY:
   lat: 38.1212724
   lng: -85.8403176
@@ -10473,6 +10482,9 @@
   lng: -85.6520742
 5900 Cooper Chapel Rd, and responding units began an investigation, Louisville, KY: null
 5900 Cooper Chapel Rd, and responding units began an investigation., Louisville, KY: null
+5900 Full Moon Ct, Louisville, KY:
+  lat: 38.16863
+  lng: -85.848698
 5900 Outer Loop near St, Louisville, KY:
   lat: 38.1381377
   lng: -85.652542
@@ -12702,6 +12714,7 @@
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
   lng: -85.6129346
+8400 Dr, Louisville, KY: null
 ? 8400 Fieldcrest Ct due to a significant water leak. Reports indicated that water
   was flowing from a hydrant and causing flooding in the street., Louisville, KY
 : null
