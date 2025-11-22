@@ -2504,6 +2504,9 @@
   the reported fight. University of Louisville Police were, Louisville, KY
 : lat: 38.2046618
   lng: -85.7202292
+1400 Nightingale Rd. The person, described as a shirtless white male with tattoos and blue jeans, appeared, Louisville, KY:
+  lat: 38.2046618
+  lng: -85.7202292
 1400 North 4th Street, Louisville, KY:
   lat: 38.2580132
   lng: -85.7562005
@@ -4258,6 +4261,7 @@
   lat: 38.2000005
   lng: -85.7636078
 200 West near mile marker 3.8, Louisville, KY: null
+200 West onto I-64 East Bound, Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor for the vehicle., Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor, Louisville, KY: null
 200 West, Louisville, KY:
@@ -4321,6 +4325,9 @@
 200 and301, Louisville, KY: null
 200 and301. The situation was addressed by responding officers., Louisville, KY: null
 200 at I-15, Louisville, KY: null
+200 at O'Henry, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 200 at exit 18 involving a white Honda SCRV and two black vehicles, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
