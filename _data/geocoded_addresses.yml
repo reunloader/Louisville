@@ -2405,6 +2405,9 @@
 1400 Gardiner Ln, Louisville, KY:
   lat: 38.2035036
   lng: -85.6889673
+1400 Glengarry Dr, Louisville, KY:
+  lat: 38.123922
+  lng: -85.740662
 1400 Hadley Place, Louisville, KY: null
 1400 Hemlock St, Louisville, KY:
   lat: 38.234176
@@ -2519,6 +2522,9 @@
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+1400 South 3rd Street, Louisville, KY:
+  lat: 38.2289234
+  lng: -85.7602103
 1400 South 41st Street at Foster Traditional Academy, Louisville, KY: null
 1400 South 5th Street, near East Burnett and the 65-Ramp, Louisville, KY:
   lat: 38.2098564
@@ -3291,6 +3297,9 @@
 17200 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
+17200 Shakes Creek Dr, Louisville, KY:
+  lat: 38.205848
+  lng: -85.435965
 17500 McWay, Louisville, KY: null
 17500 Stallion Way, Louisville, KY:
   lat: 38.2721699
@@ -4711,6 +4720,9 @@
   lng: -85.70143
 2200 Amboy Dr, Louisville, KY: null
 2200 Ansel Way, Louisville, KY: null
+2200 Arthur St, Louisville, KY:
+  lat: 38.2154945
+  lng: -85.7528626
 2200 Bardstown Rd and Grimstad Road, Louisville, KY: null
 2200 Bardstown Rd, Louisville, KY:
   lat: 38.2242801
@@ -10201,6 +10213,9 @@
 ? 600 Lampton St, with the caller also noting damage to their home. Law enforcement
   units were sent to investigate the area, Louisville, KY
 : null
+600 Locust Ln, Louisville, KY:
+  lat: 38.207093
+  lng: -85.745201
 600 Logsdon Ct, Louisville, KY: null
 600 Louisville Ave, Louisville, KY:
   lat: 38.2112021
