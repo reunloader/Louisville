@@ -6891,6 +6891,9 @@
 3300 Burstells Lane, Louisville, KY: null
 3300 Can't Ground Road, Louisville, KY: null
 3300 Can't Ground Road, near Crusherad,, Louisville, KY: null
+3300 Clarinet Dr, Louisville, KY:
+  lat: 38.1922651
+  lng: -85.8473475
 3300 Davis, Louisville, KY: null
 3300 Davis. Police units were dispatched, Louisville, KY: null
 3300 Ducart involving a neighbor at the door, Louisville, KY:
@@ -9941,6 +9944,9 @@
 5300 Red Fern Rd, Louisville, KY:
   lat: 38.1729657
   lng: -85.663581
+5300 Robinwood Rd near Crop St Red Fern Rd and Rookwood Ave, Louisville, KY:
+  lat: 38.1741629
+  lng: -85.6677301
 5300 Torrentian Court to assess the situation., Louisville, KY: null
 5300 Torrentian Court, Louisville, KY: null
 5300 Torrington Ct, Louisville, KY:
@@ -11341,6 +11347,12 @@
 700 South 24th Street, Louisville, KY:
   lat: 38.248538
   lng: -85.791802
+700 South 37th Street near Dora Hofer and West Broadway, Louisville, KY:
+  lat: 38.249929
+  lng: -85.812787
+700 South 37th Street near West Broadway, Louisville, KY:
+  lat: 38.249929
+  lng: -85.812787
 700 South 37th Street, Louisville, KY:
   lat: 38.249929
   lng: -85.812787
@@ -13286,6 +13298,7 @@ Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
+Crop St Red Fern Rd and Rookwood Ave, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Crop St and Alma Ave, Louisville, KY: null
 Crop St and Aspen Glen Dr, Louisville, KY: null
