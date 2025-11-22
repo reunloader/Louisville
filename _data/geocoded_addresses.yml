@@ -3947,6 +3947,9 @@
   lat: 38.2452031
   lng: -85.7513354
 200 East Burnet, Louisville, KY: null
+200 East Burnett, Louisville, KY:
+  lat: 38.2263813
+  lng: -85.7546332
 200 East Chesapeake Street to a local club due to a medical status requiring transport., Louisville, KY: null
 200 East Chesapeake Street, Louisville, KY: null
 200 East Chestnut 7:00 p, Louisville, KY: null
@@ -6880,6 +6883,7 @@
 3200 Brightside Ct, Louisville, KY:
   lat: 38.2003115
   lng: -85.6081245
+3200 Cramsway and Crossroad, Louisville, KY: null
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
   lng: -85.6844039
@@ -11606,6 +11610,9 @@
   lng: -85.6409203
 700 Stauber's Road, Louisville, KY: null
 700 Stivers Rd, Louisville, KY: null
+700 Tarrytowne Dr, Louisville, KY:
+  lat: 38.1012113
+  lng: -85.8493291
 700 Top Reston Street, Louisville, KY: null
 700 W Main St, Louisville, KY:
   lat: 38.2568019
@@ -12703,6 +12710,9 @@
   lat: 38.1221027
   lng: -85.6361054
 8700 Windridge Creekway near Twin Ridge Rd, Louisville, KY: null
+8800 Dixie Hwy, Louisville, KY:
+  lat: 38.125443
+  lng: -85.8527303
 8800 Eli Dr, Louisville, KY:
   lat: 38.1199267
   lng: -85.5994283
@@ -13563,6 +13573,7 @@ Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
+Kinglan Rd and Poppy Ave, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
