@@ -2257,6 +2257,9 @@
 1300 Clear Meadow Ct, Louisville, KY:
   lat: 38.2558623
   lng: -85.4945443
+1300 Cypress St, Louisville, KY:
+  lat: 38.236412
+  lng: -85.797861
 1300 Dixie Hwy was attended to by first responders, Louisville, KY: null
 1300 Dixie Hwy, Louisville, KY:
   lat: 38.235232
@@ -3547,12 +3550,18 @@
 1700 Tempest Way, Louisville, KY:
   lat: 38.1642333
   lng: -85.8253597
+1700 Tyler Parkway, Louisville, KY:
+  lat: 38.2319909
+  lng: -85.7149129
 1700 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
 1700 W Breckinridge St, Louisville, KY:
   lat: 38.2440011
   lng: -85.781842
+1700 W Chestnut St, Louisville, KY:
+  lat: 38.2511195
+  lng: -85.7796115
 1700 W Gaulbert Ave, Louisville, KY:
   lat: 38.2269643
   lng: -85.7849963
@@ -9107,6 +9116,9 @@
 4100 Flintlock Dr, Louisville, KY:
   lat: 38.1598709
   lng: -85.8336846
+4100 Gingerwood Dr, Louisville, KY:
+  lat: 38.2014872
+  lng: -85.6276294
 4100 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.093486
   lng: -85.8578124
@@ -13904,6 +13916,9 @@
   lng: -85.8564961
 9200 Dixie Hwy. Officers investigated the vehicle and the individual within., Louisville, KY: null
 9200 Earlham Dr, Louisville, KY: null
+9200 Fawnridge Pl, Louisville, KY:
+  lat: 38.1142957
+  lng: -85.6550298
 9200 Hi View Ln, Louisville, KY: null
 9200 Marlboro Cir, Louisville, KY: null
 ? 9200 Marlboro Cir. The specific details regarding what prompted the call for a welfare
