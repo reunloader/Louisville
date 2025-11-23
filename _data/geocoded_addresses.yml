@@ -11272,6 +11272,9 @@
 6000 Golden Rule Way, Louisville, KY:
   lat: 38.2426387
   lng: -85.7597853
+6000 Jeanine Dr, Louisville, KY:
+  lat: 38.162622
+  lng: -85.6884649
 6000 Mount Washington Rd, Louisville, KY:
   lat: 38.0832292
   lng: -85.627986
@@ -13363,6 +13366,7 @@
   lat: 38.1221027
   lng: -85.6361054
 8700 Windridge Creekway near Twin Ridge Rd, Louisville, KY: null
+8700 Wolflor Branchway, Louisville, KY: null
 8800 Dixie Hwy, Louisville, KY:
   lat: 38.125443
   lng: -85.8527303
