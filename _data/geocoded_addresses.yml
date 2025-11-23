@@ -1704,6 +1704,9 @@
   lat: 38.1474903
   lng: -85.5550043
 11800 Duane Point Cir, Louisville, KY: null
+11800 Electron Dr, Louisville, KY:
+  lat: 38.2046267
+  lng: -85.5373667
 11900 Standford Plaza, Louisville, KY: null
 ? 11900 Standford Plaza. The situation was later reclassified as a suspicious person,
   and police units were dispatched., Louisville, KY
@@ -6492,6 +6495,7 @@
 300 Adam were dispatched to investigate the situation and secure the premises., Louisville, KY: null
 300 Adam were dispatched to investigate the suspicious vehicle., Louisville, KY: null
 300 Adam were dispatched, Louisville, KY: null
+300 Adam, 300 block of Baker, and 300 block of Charlie, Louisville, KY: null
 300 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -8287,6 +8291,7 @@
 400 Baker Aly STREET, Louisville, KY: null
 400 Baker Aly STREET., Louisville, KY: null
 400 Baker and 200 block of, Louisville, KY: null
+400 Baker and 400 block of Adam, Louisville, KY: null
 400 Baker and 400 block of Baker, Louisville, KY: null
 400 Baker and 400 block of Charlie, Louisville, KY: null
 400 Baker and 400 block of David, Louisville, KY: null
@@ -12793,6 +12798,7 @@
 8 Haskin Ave, Louisville, KY:
   lat: 38.1728722
   lng: -85.7861501
+800 Adam and 800 block of Baker, Louisville, KY: null
 800 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
