@@ -5107,6 +5107,9 @@
 2100 Unity Pl, Louisville, KY:
   lat: 38.2178409
   lng: -85.7622826
+2100 Village Dr, Louisville, KY:
+  lat: 38.2272717
+  lng: -85.6944416
 2100 W Hill St, Louisville, KY:
   lat: 38.2287537
   lng: -85.7930659
@@ -9588,6 +9591,8 @@
 4500 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+4500 Lunenburg Dr, Louisville, KY: null
+4500 Lunenburg Dr, near Pulaski Ct and Northumberland Dr,, Louisville, KY: null
 4500 Meyer on I-65 South, Louisville, KY: null
 4500 Meyer, Louisville, KY:
   lat: 38.2549117
@@ -9724,6 +9729,8 @@
   KY
 : lat: 38.1780034
   lng: -85.676566
+4600 Fagan Bush Lane, Louisville, KY: null
+4600 Fagan Bush Lane, near Belrad Dr and Norbrook Dr. EMS was dispatched, Louisville, KY: null
 4600 Glenbrook, Louisville, KY:
   lat: 38.1911382
   lng: -85.8730729
@@ -11550,6 +11557,9 @@
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
+6400 Marina Dr, near Marina Cove, Louisville, KY:
+  lat: 38.330943
+  lng: -85.6276684
 6400 Montego Bay, Louisville, KY:
   lat: 38.155313
   lng: -85.640974
@@ -12530,6 +12540,8 @@
   lng: -85.8819062
 7300 Right-hand Way, Louisville, KY: null
 7300 Right-hand Way. A 66-year-old female had reportedly fallen out of her chair and needed assistance, Louisville, KY: null
+7300 Six Mile Lanex, Louisville, KY: null
+7300 Six Mile Lanex. Police units were involved in responding, Louisville, KY: null
 7300 South41st Street, Louisville, KY: null
 7300 Southside Dr, Louisville, KY:
   lat: 38.148666
@@ -14231,6 +14243,7 @@ Beaver St and Adams St, Louisville, KY: null
 Becker Ave and Park Brook Ln, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
+Belrad Dr and Norbrook Dr, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Beulah Church Rd and Farnsley Rd, Louisville, KY: null
 Bignol Street and Parthenia Ave, Louisville, KY: null
@@ -14347,6 +14360,10 @@ Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
+Hikes Ln and Breckenridge Ln, Louisville, KY:
+  lat: 38.2186174
+  lng: -85.6291173
+Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
