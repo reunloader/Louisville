@@ -2344,6 +2344,12 @@
 1300 Sale Ave, Louisville, KY:
   lat: 38.197432
   lng: -85.78302
+1300 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
+1300 Shelbyville Rd. The call was, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 1300 South 11th Street, Louisville, KY:
   lat: 38.2331073
   lng: -85.7731685
@@ -8884,6 +8890,8 @@
 4000 Laurelwood Ave, Louisville, KY:
   lat: 38.226391
   lng: -85.634019
+4000 Lisa Ave, Louisville, KY: null
+4000 Lisa Ave. Medical units were on scene, Louisville, KY: null
 4000 Lisa Ln, Louisville, KY: null
 4000 Longview Rd. Responders were on scene and cleared by 7:21 a.m., Louisville, KY: null
 4000 Longview Rd. Responders were, Louisville, KY: null
@@ -9169,6 +9177,12 @@
 4200 Dover Rd, Louisville, KY:
   lat: 38.1901425
   lng: -85.832833
+4200 East Indian Trail, Louisville, KY:
+  lat: 38.1729806
+  lng: -85.6826783
+4200 East Indian Trail, near the church. Responders were on scene quickly, Louisville, KY:
+  lat: 38.1729806
+  lng: -85.6826783
 4200 Falls Creek, Louisville, KY:
   lat: 38.3049677
   lng: -85.6247008
@@ -11318,6 +11332,8 @@
   lng: -85.7726792
 6000 Bristol Bluff Circle, Louisville, KY: null
 6000 Bristol Bluffs Cir, Louisville, KY: null
+6000 Bristol-Blessed Circle, Louisville, KY: null
+6000 Bristol-Blessed Circle. Units arrived, Louisville, KY: null
 6000 Eastlawn Ave due, Louisville, KY: null
 6000 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
@@ -11767,6 +11783,9 @@
 6800 Beard Ct, Louisville, KY:
   lat: 38.1293675
   lng: -85.6344442
+6800 Brook Bend Way, Louisville, KY:
+  lat: 38.09811
+  lng: -85.6505997
 6800 Coast Gate 1, near the 5800 block of Coast Gate, to provide care., Louisville, KY: null
 6800 Coast Gate 1, near the 5800 block of Coast Gate,, Louisville, KY: null
 6800 Creston Dr, Louisville, KY:
