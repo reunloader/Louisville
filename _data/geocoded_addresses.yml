@@ -250,6 +250,9 @@
 100 North 6th Street, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
+100 North 6th Street, near Washington and Main St, close, Louisville, KY:
+  lat: 38.2573689
+  lng: -85.7599314
 ? 100 North Bardstown Rd and North Bel Air, near Emerald and Frankfort. The alarm
   was triggered by a smoke detector in a vacant property. Upon arrival, responders
   found no visible smoke or flames and confirmed the structure was secure. The incident
@@ -1726,6 +1729,8 @@
 11800 Electron Dr, Louisville, KY:
   lat: 38.2046267
   lng: -85.5373667
+11900 Sanford Plaza in response, Louisville, KY: null
+11900 Sanford Plaza, Louisville, KY: null
 11900 Standford Plaza, Louisville, KY: null
 ? 11900 Standford Plaza. The situation was later reclassified as a suspicious person,
   and police units were dispatched., Louisville, KY
@@ -2389,6 +2394,9 @@
   police units were sent, Louisville, KY
 : null
 1300 South 2nd Street, Louisville, KY:
+  lat: 38.232443
+  lng: -85.757511
+1300 South 2nd Street, near the intersection of West Orangeby and Magnolia,, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
 ? 1300 South 2nd Street. The individual appeared to be suffering from dehydration
@@ -12919,6 +12927,10 @@
 7900 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+7900 Loft Ct due, Louisville, KY: null
+7900 Loft Ct, Louisville, KY:
+  lat: 38.1320351
+  lng: -85.5949417
 7900 Moss Creek Dr, Louisville, KY:
   lat: 38.142368
   lng: -85.8688161
@@ -14449,6 +14461,7 @@ Gagel Ave and Manslick Rd, Louisville, KY: null
 Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
+Goldsmith Ln and Bardstown Rd, Louisville, KY: null
 Grade Ln and Don Hutson Blvd, Louisville, KY: null
 Grafton Hall Rd and Cherokee Rd, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
