@@ -4359,6 +4359,7 @@
 200 St. Matthews Avenue, Louisville, KY:
   lat: 38.260205
   lng: -85.656442
+200 Tomorrow Night, Louisville, KY: null
 200 Utah Avenue 3:00 a, Louisville, KY: null
 200 Utah Avenue 3:00 a.m., Louisville, KY: null
 200 Virginia Ave, Louisville, KY:
@@ -6043,6 +6044,8 @@
 2800 Round Top Pl, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+2800 Seventh Street due, Louisville, KY: null
+2800 Seventh Street, Louisville, KY: null
 2800 Shannon Dr, Louisville, KY:
   lat: 38.2149804
   lng: -85.6576064
@@ -6078,6 +6081,10 @@
   lng: -85.7722465
 2800 Timber Hills Rd to investigate the suspicious activity and ensure the property's safety., Louisville, KY: null
 2800 Timber Hills Rd, Louisville, KY: null
+2800 W Market St to conduct a welfare check. The specific reason, Louisville, KY: null
+2800 W Market St, Louisville, KY:
+  lat: 38.259563
+  lng: -85.7966655
 ? 2800 West Broadway to assist a 65-year-old female. The individual was reportedly
   experiencing leg numbness and a headache, making her unable to walk, and was assessed,
   Louisville, KY
