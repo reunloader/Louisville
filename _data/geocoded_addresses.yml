@@ -8580,6 +8580,10 @@
   AP3 and was directed to gate 3, Louisville, KY
 : lat: 38.1775482
   lng: -85.6514538
+? 4000 Burrell Dr concerning a 59-year-old male experiencing symptoms consistent with
+  a possible heart attack. However, the call was later canceled before any units arrived,
+  Louisville, KY
+: null
 4000 Burrell Dr, Louisville, KY: null
 4000 Burrell Dr. Fortunately, another responding unit was able, Louisville, KY: null
 ? 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines
@@ -9612,6 +9616,12 @@
   lat: 38.1569645
   lng: -85.7038308
 4800 Fingrish Lane and surrounding areas, Louisville, KY: null
+4800 Granada Dr, Louisville, KY:
+  lat: 38.113167
+  lng: -85.8506804
+4800 Granada Dr. She was last seen wearing pajamas and is believed, Louisville, KY:
+  lat: 38.113167
+  lng: -85.8506804
 4800 Maryman Rd, Louisville, KY:
   lat: 38.132716
   lng: -85.846392
@@ -10452,6 +10462,10 @@
 5600 Fox Horn Cir, Louisville, KY:
   lat: 38.1624896
   lng: -85.8562396
+? 5600 Fox1 Circle following reports of a disturbance involving an active assault.
+  Sounds of a male screaming threats and a female screaming, Louisville, KY
+: null
+5600 Fox1 Circle, Louisville, KY: null
 5600 Green Grove Road near Crestridge and Bushman's Trove, Louisville, KY: null
 5600 Greenbluff Rd, Louisville, KY:
   lat: 38.14866
@@ -10944,6 +10958,10 @@
   lng: -85.7726792
 6000 Bristol Bluff Circle, Louisville, KY: null
 6000 Bristol Bluffs Cir, Louisville, KY: null
+6000 Eastlawn Ave due, Louisville, KY: null
+6000 Eastlawn Ave, Louisville, KY:
+  lat: 38.2508906
+  lng: -85.8053504
 6000 Golden Rule Way, Louisville, KY:
   lat: 38.2426387
   lng: -85.7597853
