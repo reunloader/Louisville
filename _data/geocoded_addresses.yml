@@ -4567,6 +4567,9 @@
 200 Olde English Ct, Louisville, KY:
   lat: 38.1157978
   lng: -85.8113074
+200 Outer Loop, Louisville, KY:
+  lat: 38.1272584
+  lng: -85.7520033
 200 Overlook Dr, Louisville, KY:
   lat: 38.2950987
   lng: -85.6250602
@@ -7499,6 +7502,9 @@
   lat: 38.1869231
   lng: -85.8574824
 3201 East Indian Trail, Evening, Louisville, KY: null
+3300 Bardstown Rd, Louisville, KY:
+  lat: 38.2076242
+  lng: -85.6693366
 ? 3300 Bardstown Road due to reports of smoke in the area. The smoke was observed
   in the rear of the property, near an area where individuals often gather. Upon arrival,
   crews found no visible smoke or fire from the exterior of the one-story commercial
