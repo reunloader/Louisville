@@ -2564,6 +2564,10 @@
 13900 South41st Street, Louisville, KY: null
 1400 Ackermack Drive, Louisville, KY: null
 1400 Aiken Ridge Dr, Louisville, KY: null
+1400 Anna Ln where a male had left a motorcycle in his driveway. The motorcycle was noted, Louisville, KY: null
+1400 Anna Ln, Louisville, KY:
+  lat: 38.1810181
+  lng: -85.7996003
 1400 Arcade Ave, Louisville, KY:
   lat: 38.2054726
   lng: -85.7841289
@@ -5669,6 +5673,9 @@
   Louisville, KY
 : lat: 38.2864212
   lng: -85.629189
+2400 Lower Hunters Trace, Louisville, KY:
+  lat: 38.1604042
+  lng: -85.8554373
 2400 Marymount Ct, Louisville, KY:
   lat: 38.2850585
   lng: -85.6178338
@@ -7279,6 +7286,7 @@
   KY
 : null
 32 Mall Road in response, Louisville, KY: null
+32 Varks Road, Louisville, KY: null
 ? 3200 7th Street Road. Responding units were dispatched to investigate the cause
   of the alarm and ensure the property's security., Louisville, KY
 : null
@@ -11900,6 +11908,9 @@
 6800 Creston Dr, near the intersection of Westbrook Rd and Fox Ave, in response to a call, Louisville, KY:
   lat: 38.1429095
   lng: -85.8786775
+6800 Currington Cir, Louisville, KY:
+  lat: 38.1270782
+  lng: -85.8787027
 ? 6800 Daisy Ave to conduct a welfare check. The reason for the check and the status
   of the individual involved were not specified in the available information., Louisville,
   KY
