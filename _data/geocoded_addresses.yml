@@ -3799,6 +3799,14 @@
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent, Louisville, KY
 : null
+1800 Euclid Ave, Louisville, KY:
+  lat: 38.2146706
+  lng: -85.7748283
+? 1800 Euclid Ave, where a beeping sound was heard coming from the ceiling. No smoke
+  or flames were observed at the location. Responding units investigated the alarm
+  and determined it, Louisville, KY
+: lat: 38.2187858
+  lng: -85.7607146
 1800 Farnsley Rd and observed smoke coming from the rear of a single-family home, Louisville, KY: null
 1800 Farnsley Rd and observed smoke coming from the rear of a single-family home., Louisville, KY: null
 ? 1800 Farnsley Rd reported experiencing chest pain and generalized pain. Responders
@@ -4960,6 +4968,7 @@
 2000 Newport Rd, Louisville, KY:
   lat: 38.1783192
   lng: -85.641542
+2000 Nistle Miller Parkway, Louisville, KY: null
 2000 Pantry, Louisville, KY: null
 2000 Payne St, Louisville, KY:
   lat: 38.2522388
@@ -12590,6 +12599,7 @@
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
   lng: -85.5439541
+7000 Crossroads, Louisville, KY: null
 7000 Foxcroft Pl, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
@@ -13661,6 +13671,12 @@
 8600 Locklee Rd, Louisville, KY:
   lat: 38.1462326
   lng: -85.8248355
+8600 River Terrace Dr, Louisville, KY:
+  lat: 38.1521349
+  lng: -85.8671784
+8600 River Terrace Dr. Emergency responders were dispatched, Louisville, KY:
+  lat: 38.1521349
+  lng: -85.8671784
 8600 Standing Oaks, Louisville, KY: null
 ? 8600 Standing Oaks. The vehicle's Vehicle Identification Number (VIN) could not
   be verified, prompting concern and investigation by responding units., Louisville,
