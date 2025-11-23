@@ -5522,6 +5522,9 @@
   call underscores the importance of accessible emergency medical care, Louisville,
   KY
 : null
+2500 Cross Hill Ct, Louisville, KY:
+  lat: 38.2691454
+  lng: -85.7012304
 2500 Data Dr, Louisville, KY: null
 2500 Eastpoint Centre Dr, Louisville, KY:
   lat: 38.2802299
@@ -11982,6 +11985,9 @@
 7100 Train Station Way, Louisville, KY:
   lat: 38.0795787
   lng: -85.8955746
+7200 Apple Mill Dr, Louisville, KY:
+  lat: 38.1357462
+  lng: -85.6281739
 7200 Billtown Rd, Louisville, KY:
   lat: 38.1398214
   lng: -85.5402269
