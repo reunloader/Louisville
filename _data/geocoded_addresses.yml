@@ -62,6 +62,9 @@
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
+100 Cambridge Dr, Louisville, KY:
+  lat: 38.161304
+  lng: -85.764989
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
@@ -3790,6 +3793,7 @@
 1800 Fleming Rd, Louisville, KY:
   lat: 38.2154376
   lng: -85.6930789
+1800 Fonsi Road, Louisville, KY: null
 1800 Frankfort Ave, Louisville, KY:
   lat: 38.2565197
   lng: -85.7166551
@@ -13127,6 +13131,7 @@
 800 Foxgate Rd, Louisville, KY:
   lat: 38.252958
   lng: -85.552025
+800 Granite Dr, Louisville, KY: null
 800 Grintwood Avenue 05:20 p, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
 800 I 64 East, Louisville, KY: null
