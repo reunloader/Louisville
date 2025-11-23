@@ -1159,6 +1159,9 @@
 10200 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+10200 Judith Ct, Louisville, KY:
+  lat: 38.2504593
+  lng: -85.5658386
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
@@ -9638,6 +9641,7 @@
 4500 South 6th Street, Louisville, KY:
   lat: 38.1881447
   lng: -85.7704769
+4500 South First One Parkway, Louisville, KY: null
 4500 South Harris Farm Parkway, Louisville, KY: null
 4500 South Side, Louisville, KY: null
 4500 South Third Street, Louisville, KY: null
@@ -11709,6 +11713,9 @@
   lat: 38.1215876
   lng: -85.6387087
 6700 Overlook Acres DRIVE at Sunrise at Woolville, Louisville, KY: null
+6700 Overlook Dr, Louisville, KY:
+  lat: 38.2935174
+  lng: -85.6274407
 6700 Sappenfield, Louisville, KY:
   lat: 38.059685
   lng: -85.8894115
@@ -11767,6 +11774,9 @@
   The 68-year-old female required assistance., Louisville, KY
 : null
 6800 Hollow Creek Ct, near Hollow Creek Rd,, Louisville, KY: null
+6800 Holly Lake Dr, Louisville, KY:
+  lat: 38.148553
+  lng: -85.583379
 ? 6800 Myers Circle. The child, described as a 45-year-old black male wearing a green
   shirt and tan pants, was seen running around the location for about ten minutes
   without any adult supervision. Emergency services were dispatched to investigate
@@ -11978,6 +11988,9 @@
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned, Louisville, KY
 : null
+700 Eastern Parkway, Louisville, KY:
+  lat: 38.213507
+  lng: -85.745319
 700 Evergreen Rd, Louisville, KY:
   lat: 38.2792505
   lng: -85.5469034
@@ -14243,6 +14256,7 @@ Cedar Creek Rd and Cedar Garden Dr, Louisville, KY: null
 Cedar Creek Rd and Heights Dr, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
+Cedarwood Dr and Elm Lake Dr, Louisville, KY: null
 Central Ave and Taylor Blvd, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
 Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
