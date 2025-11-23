@@ -3044,8 +3044,14 @@
 1500 South 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
+1500 South Gate in response to a flagged vehicle. The vehicle, a black Chevrolet Malibu, was noted, Louisville, KY: null
 1500 South Gate, Louisville, KY: null
 1500 South Gate. Police units were sent, Louisville, KY: null
+? 1500 South Gate. The initial calls came in just after 6:00 a.m. Later, a vehicle
+  was found wrecked in the 1800 block of Berry Blvd, with casings discovered in front
+  of the 1700 block of Berry Blvd. The incident was ultimately focused on the 1700
+  block of Berry Blvd,, Louisville, KY
+: null
 1500 South11th Street, Louisville, KY: null
 1500 South15 Street, Louisville, KY: null
 1500 South15th Street, Louisville, KY: null
@@ -3334,6 +3340,9 @@
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
+1700 Berry Blvd, Louisville, KY:
+  lat: 38.1962903
+  lng: -85.793759
 1700 Brentmoor Ln, Louisville, KY: null
 1700 Cowling Ave, Louisville, KY:
   lat: 38.231231
