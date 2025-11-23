@@ -2988,6 +2988,9 @@
 1500 Maple St, Louisville, KY:
   lat: 38.245983
   lng: -85.777035
+1500 Mellwood Ave, Louisville, KY:
+  lat: 38.255527
+  lng: -85.722051
 1500 Norton's Whistle, Louisville, KY: null
 1500 Norton's Whistle. This call appears, Louisville, KY: null
 1500 Old Dixie Hwy, Louisville, KY:
@@ -4845,6 +4848,7 @@
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
+2000 St, Louisville, KY: null
 2000 TSO, Louisville, KY: null
 2000 Terril Ln, Louisville, KY:
   lat: 38.204566
@@ -10634,6 +10638,9 @@
 5500 Indian Oaks Cir, Louisville, KY:
   lat: 38.1695373
   lng: -85.6869482
+5500 Johnsontown Rd, Louisville, KY:
+  lat: 38.1212828
+  lng: -85.8702268
 5500 Knobview Ln, Louisville, KY:
   lat: 38.1349358
   lng: -85.6580689
@@ -11842,6 +11849,9 @@
 700 Dresden, Louisville, KY:
   lat: 38.1974565
   lng: -85.771628
+700 E Gray St, Louisville, KY:
+  lat: 38.245726
+  lng: -85.741227
 700 E Jefferson St, Louisville, KY:
   lat: 38.251917
   lng: -85.740147
