@@ -62,6 +62,9 @@
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
+100 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 100 Colm's Lane, Louisville, KY: null
 100 Colonial Oaks Ct near South 1st Street, Louisville, KY: null
 100 Colonial Oaks Ct, Louisville, KY:
@@ -546,6 +549,7 @@
 100 ground plane due, Louisville, KY: null
 100 ground plane, Louisville, KY: null
 100 mile marker, Louisville, KY: null
+100 radio, Louisville, KY: null
 ? 100 was called to assist EMS with a lift assist for a 66-year-old male on Eagle's
   Cedar Crest Ln, near Mercury Dr., Louisville, KY
 : null
@@ -13721,6 +13725,7 @@ Breckenridge Road and Meadow Drive, Louisville, KY: null
 Breckinridge St and Southbrook Street, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
+Brinson Dr and Highland Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
@@ -13799,6 +13804,7 @@ Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
+Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Grade Ln and Don Hutson Blvd, Louisville, KY: null
