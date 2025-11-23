@@ -77,6 +77,9 @@
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
+100 E Jefferson St, Louisville, KY:
+  lat: 38.2528794
+  lng: -85.7515837
 ? 100 E W Kingston Ave following a report of gunshots. The caller indicated a woman
   was outside holding a gun and had a history of domestic issues. Police units from
   the 500 block of Adam and the 400 block of Baker were involved in the response.,
@@ -4234,6 +4237,7 @@
   was also complaining of a medical issue., Louisville, KY
 : null
 200 Mervin Avenue, Louisville, KY: null
+200 Niles Hill Lane, Louisville, KY: null
 200 Nob Hill Ln, Louisville, KY:
   lat: 38.2594642
   lng: -85.702128
@@ -6334,6 +6338,7 @@
 300 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
+300 Atom, Louisville, KY: null
 300 Autumn Lake Dr, Louisville, KY:
   lat: 38.0716654
   lng: -85.8774197
@@ -7367,6 +7372,7 @@
   male experiencing significant nosebleeds., Louisville, KY
 : null
 3500 Capri Dr, between Gladden Dr and Elba Dr,, Louisville, KY: null
+3500 Carrigan Road, Louisville, KY: null
 3500 Charmane Dr, Louisville, KY:
   lat: 38.1412532
   lng: -85.6626633
@@ -10958,6 +10964,9 @@
   lat: 38.2182659
   lng: -85.7774103
 600 South73, Louisville, KY: null
+600 Sparrow Cir, Louisville, KY:
+  lat: 38.1133627
+  lng: -85.7605488
 600 Speed Ave, Louisville, KY:
   lat: 38.2273201
   lng: -85.7034553
