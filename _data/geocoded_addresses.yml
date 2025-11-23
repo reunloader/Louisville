@@ -581,6 +581,9 @@
 1000 Caldwell St, Louisville, KY:
   lat: 38.2381521
   lng: -85.7366708
+1000 Cherokee Rd, Louisville, KY:
+  lat: 38.2406458
+  lng: -85.723027
 1000 Clove Tree Ct, Louisville, KY:
   lat: 38.1120328
   lng: -85.6133925
@@ -10594,6 +10597,7 @@
   lat: 38.32875
   lng: -85.5591466
 6 East Wheaton Ward Drive, Louisville, KY: null
+6 address not specified, Louisville, KY: null
 60 Autumn Lake Dr, Louisville, KY:
   lat: 38.0716654
   lng: -85.8774197
