@@ -1154,6 +1154,9 @@
   lat: 38.1935843
   lng: -85.7773013
 10100 Beulah Vista Way, Louisville, KY: null
+10100 Dixie Hwy, Louisville, KY:
+  lat: 38.1092544
+  lng: -85.8662683
 ? 10100 Laurent Way. The location was described as a complex situated near a pond.
   Responding officers experienced some initial difficulty pinpointing the exact building
   number and received guidance to locate it., Louisville, KY
@@ -2600,6 +2603,9 @@
   lat: 38.226677
   lng: -85.743198
 1400 Boca Ridge, Louisville, KY: null
+1400 Browns Ln,, Louisville, KY:
+  lat: 38.2342628
+  lng: -85.6295356
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -5327,6 +5333,9 @@
   available., Louisville, KY
 : null
 2200 Main St as multiple units are responding, Louisville, KY: null
+2200 N. Similar Parkway. While one unit was responding, the alarm company contacted the call taker, Louisville, KY:
+  lat: 38.1428812
+  lng: -85.7612518
 2200 North 17th Street, Louisville, KY:
   lat: 38.262859
   lng: -85.7768541
@@ -6262,6 +6271,10 @@
   lng: -85.7975556
 2700 W Kentucky St. Details indicated a subject with a "red code," and police units were dispatched, Louisville, KY:
   lat: 38.2432335
+  lng: -85.7975556
+? 2700 W Kentucky St. The report indicated a person was down in an alleyway behind
+  the location, situated near a trash receptacle. Further details, Louisville, KY
+: lat: 38.2432335
   lng: -85.7975556
 2700 W W Kentucky St, Louisville, KY: null
 ? 2700 W W Kentucky St. Details indicated a subject with a "red code," and police
@@ -10152,6 +10165,9 @@
 4900 Cedar Brook Ct, Louisville, KY:
   lat: 38.1352213
   lng: -85.6682961
+4900 Cedar Brook Ct. Specifics, Louisville, KY:
+  lat: 38.1352213
+  lng: -85.6682961
 4900 Cherry Forest Cir, Louisville, KY:
   lat: 38.3046014
   lng: -85.5175142
@@ -10332,6 +10348,9 @@
   lng: -85.6738206
 500 Davis Ct, Louisville, KY: null
 500 Davis Ct. Responding units were involved in managing the situation., Louisville, KY: null
+? 500 Denmark St following a report of an individual found slumped behind a residence.
+  The 35-year-old male was described as unresponsive and appeared, Louisville, KY
+: null
 500 Denmark St, Louisville, KY:
   lat: 38.1955906
   lng: -85.7685576
@@ -10837,6 +10856,9 @@
   lat: 38.1604699
   lng: -85.832593
 5300 East W Ormsby Ave, Louisville, KY: null
+5300 Layne Rd. Responding units arrived, Louisville, KY:
+  lat: 38.142111
+  lng: -85.6624541
 5300 New Cut Rd, Louisville, KY:
   lat: 38.154173
   lng: -85.77726
