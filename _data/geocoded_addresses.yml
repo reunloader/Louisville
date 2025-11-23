@@ -2706,6 +2706,11 @@
 1400 Rufer Ave, Louisville, KY:
   lat: 38.235498
   lng: -85.7249555
+? 1400 S Shelby St, near the intersection of Lydia and Mulberry. Further details about
+  the medical situation were not immediately available, but the response indicated
+  a need, Louisville, KY
+: lat: 38.2283837
+  lng: -85.7420897
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -7260,6 +7265,9 @@
   lat: 38.2384543
   lng: -85.8071574
 3200 Young Ave, Louisville, KY:
+  lat: 38.229848
+  lng: -85.8087546
+3200 Young Ave. Responders were able, Louisville, KY:
   lat: 38.229848
   lng: -85.8087546
 3200 Zilma Dr, Louisville, KY:
@@ -14268,6 +14276,7 @@ Sears Ave and Oshley Avenue, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
 Shelby St and Eastern Parkway, Louisville, KY: null
+Shelby St and Lydia St, Louisville, KY: null
 Shelbyville Rd and Beckley Creek Pky, Louisville, KY: null
 Shelbyville Rd and Bircham Rd, Louisville, KY: null
 Shelbyville Rd and Dorset Rd, Louisville, KY: null
