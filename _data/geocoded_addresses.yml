@@ -8969,6 +8969,7 @@
 400 and 500 block of Baker were part of the response, Louisville, KY: null
 400 and 500 block of Baker were part of the response., Louisville, KY: null
 400 and429, Louisville, KY: null
+400 or400 block of, Louisville, KY: null
 400 the area to de-escalate and resolve the situation., Louisville, KY: null
 400 the area, Louisville, KY: null
 400 the location to address the welfare check., Louisville, KY: null
@@ -10318,6 +10319,9 @@
   lng: -85.6738206
 500 Davis Ct, Louisville, KY: null
 500 Davis Ct. Responding units were involved in managing the situation., Louisville, KY: null
+500 Denmark St, Louisville, KY:
+  lat: 38.1955906
+  lng: -85.7685576
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
@@ -12448,6 +12452,7 @@
   lng: -85.74602
 700 South Jackson, and EMS response was canceled, Louisville, KY: null
 700 South Jackson, and EMS response was canceled., Louisville, KY: null
+700 South Second Street, Louisville, KY: null
 700 South33rd Street, Louisville, KY: null
 700 South42nd Street, Louisville, KY: null
 700 South42nd Street. LG&E was on scene and reported that a gas line had been struck, leading to the leak., Louisville, KY: null
@@ -13877,6 +13882,9 @@
   lat: 38.241573
   lng: -85.7608634
 900 South Boyd Street, Louisville, KY: null
+900 South Brook, Louisville, KY:
+  lat: 38.241061
+  lng: -85.752613
 900 South Fifth Street, Louisville, KY: null
 ? 900 South Fifth Street. A 36-year-old male victim sustained injuries including a
   broken elbow and head trauma. EMS was dispatched to provide medical attention and
