@@ -4507,6 +4507,9 @@
   lat: 38.2453628
   lng: -85.7555236
 200 West Early Morning, Louisville, KY: null
+200 West Jefferson, Louisville, KY:
+  lat: 38.253409
+  lng: -85.753877
 ? 200 West Kennymber 2 following a report of an individual down. Units from the 4th
   Division were involved in the response. Further details regarding the individual's
   condition or the circumstances of the incident were not provided., Louisville, KY
@@ -10057,6 +10060,9 @@
   Louisville, KY
 : null
 500 Jim Noway, Louisville, KY: null
+500 Kaufman Ln, Louisville, KY:
+  lat: 38.180849
+  lng: -85.8620818
 500 Lester Ave, Louisville, KY:
   lat: 38.1979096
   lng: -85.7865422
