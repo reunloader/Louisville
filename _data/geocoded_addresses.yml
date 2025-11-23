@@ -586,6 +586,7 @@
   lat: 38.240016
   lng: -85.724091
 1000 Barrenness, Louisville, KY: null
+1000 Beaver St, but the pursuit was later canceled, Louisville, KY: null
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -2288,6 +2289,7 @@
   they returned to service., Louisville, KY
 : null
 1300 Homeview Dr due, Louisville, KY: null
+1300 Huntoon Ave suggested as a possible location, Louisville, KY: null
 1300 I 64 East, Louisville, KY: null
 1300 I 64 East., Louisville, KY: null
 1300 I 64 West, Louisville, KY: null
@@ -8292,6 +8294,9 @@
 400 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+400 Adams, Louisville, KY:
+  lat: 38.26009
+  lng: -85.734743
 ? 400 Amarillo where the owner of a vehicle was experiencing tire issues. The individual
   indicated they planned to move the vehicle out of the roadway., Louisville, KY
 : null
@@ -9221,6 +9226,9 @@
 4200 South 28th Street, Louisville, KY:
   lat: 38.2549234
   lng: -85.7973288
+4200 South 3rd Street, Louisville, KY:
+  lat: 38.1951223
+  lng: -85.7653057
 4200 South Second Street, Louisville, KY: null
 4200 South2nd Street, Louisville, KY: null
 4200 Stony Brook Dr, Louisville, KY:
@@ -14366,6 +14374,7 @@ Hikes Ln and Breckenridge Ln, Louisville, KY:
 Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
+Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
@@ -14504,6 +14513,7 @@ Taylor Ave and Berry Blvd, Louisville, KY: null
 Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
   lng: -85.7764181
+Taylor Ave and Huntoon Ave, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Sale Ave, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
