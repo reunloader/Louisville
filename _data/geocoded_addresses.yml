@@ -1543,6 +1543,12 @@
 1100 St, Louisville, KY: null
 1100 St. Catharines Court, Louisville, KY: null
 1100 Telford Street, Louisville, KY: null
+1100 W Liberty St, Louisville, KY:
+  lat: 38.253688
+  lng: -85.769004
+1100 W Market St, Louisville, KY:
+  lat: 38.2560592
+  lng: -85.7686409
 1100 West Broadway, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
@@ -11052,6 +11058,9 @@
 600 Bay Tree Way, Louisville, KY:
   lat: 38.3075343
   lng: -85.5194924
+600 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 600 Candlelight Ln, Louisville, KY:
   lat: 38.1308475
   lng: -85.7763439
@@ -13421,6 +13430,7 @@
 : null
 8600 Ambrose Lane following reports of three aggressive pit bulls. Animal control services were contacted, Louisville, KY: null
 8600 Ambrose Lane, Evening, Louisville, KY: null
+8600 Bluebell Dr, Louisville, KY: null
 8600 Forest Way Dr, Louisville, KY: null
 ? 8600 Forest Way Dr, specifically near a duplex. This type of call often involves
   concerns for someone's well-being or unusual activity that has drawn attention.
@@ -14041,6 +14051,9 @@
   elevator shaft. Firefighters worked, Louisville, KY
 : lat: 38.1072784
   lng: -85.8230991
+9500 Portland Ave, Louisville, KY:
+  lat: 38.2721361
+  lng: -85.7929587
 9500 South 1st Street, Louisville, KY:
   lat: 38.2450485
   lng: -85.7534965
