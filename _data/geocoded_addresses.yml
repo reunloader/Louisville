@@ -12422,6 +12422,9 @@
 7600 Eagle Pines Ln, Louisville, KY: null
 7600 Fort Rose, Louisville, KY: null
 7600 Glacier Lane, Louisville, KY: null
+7600 Outer Loop, Louisville, KY:
+  lat: 38.1369944
+  lng: -85.6197042
 7600 Port Rd, Louisville, KY:
   lat: 38.1631998
   lng: -85.8943245
@@ -12624,6 +12627,9 @@
 800 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
+800 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
 ? 800 East Muhammad Alley following a report of a possible robbery or assault. The
   initial call was classified as a medical emergency, but upon arrival, responders
   confirmed the more serious nature of the incident., Louisville, KY
@@ -13980,6 +13986,7 @@ Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
+Cliff Ave and Denmark St, Louisville, KY: null
 Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
