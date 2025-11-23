@@ -665,6 +665,9 @@
 1000 Dixie Hwy. Units arrived on scene, Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
+1000 Dudley Ave, Louisville, KY:
+  lat: 38.24242
+  lng: -85.720084
 1000 E Jefferson St, Louisville, KY:
   lat: 38.2511061
   lng: -85.7341176
@@ -9176,6 +9179,9 @@
 4300 South 1st Street, Louisville, KY:
   lat: 38.193892
   lng: -85.761591
+4300 South 3rd Street, Louisville, KY:
+  lat: 38.193839
+  lng: -85.765056
 4300 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
