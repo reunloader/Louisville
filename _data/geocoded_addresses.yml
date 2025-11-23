@@ -529,6 +529,9 @@
   lng: -85.759407
 100 [Street Name Redacted] 6:15 a, Louisville, KY: null
 100 [Street Name Redacted] 6:15 a.m.AM, Louisville, KY: null
+100 [Street Name Redacted], Louisville, KY:
+  lat: 38.2397699
+  lng: -85.7540073
 ? 100 [Street Name Redacted]. Details surrounding the nature of the firearms call
   were not immediately available. Further units were dispatched to support the initial
   officer. The situation was being actively managed by law enforcement., Louisville,
@@ -3996,6 +3999,7 @@
 200 Cecil Ave, Louisville, KY:
   lat: 38.262957
   lng: -85.81776
+200 Cecil Street, Louisville, KY: null
 200 Chadwick Glen Pl and intersection of Blast On Road and Engine Drives, Louisville, KY: null
 200 Chariot Court 5:00 a, Louisville, KY: null
 200 Chariot Court 5:00 a.m., Louisville, KY: null
@@ -9160,6 +9164,9 @@
 4300 Towne Center Dr. Officers arrived on scene, Louisville, KY:
   lat: 38.3010535
   lng: -85.556485
+4300 W Market St, Louisville, KY:
+  lat: 38.263543
+  lng: -85.819932
 4300 W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -9419,6 +9426,9 @@
   lat: 38.1836507
   lng: -85.7219049
 4500 Quintus Court, Louisville, KY: null
+4500 River Rd, Louisville, KY:
+  lat: 38.2995204
+  lng: -85.6655884
 4500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -14077,6 +14087,7 @@ Lyman Street and Reed Road, Louisville, KY: null
 Mae St and Kidd Avenue, Louisville, KY:
   lat: 38.2296677
   lng: -85.8193981
+Main St and Cecil St, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
 Malin Lane and Ballardsville Rd, Louisville, KY: null
 Mallet Hill Dr and Calderon Park Lane, Louisville, KY: null
