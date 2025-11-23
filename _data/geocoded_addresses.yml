@@ -2319,6 +2319,11 @@
 1300 South 2nd Street at Mag Bar, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
+? 1300 South 2nd Street following a report of an assault. The dispatcher received
+  information that a bartender, described as a tall white male with a large build,
+  was allegedly assaulting her boyfriend and may have been armed with a hammer. Multiple
+  police units were sent, Louisville, KY
+: null
 1300 South 2nd Street, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -3786,6 +3791,9 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Goldsmith Ln, Louisville, KY:
+  lat: 38.20016
+  lng: -85.684587
 1900 Grand Ridge Rd, Louisville, KY:
   lat: 38.141355
   lng: -85.798928
@@ -8160,6 +8168,7 @@
 400 Baker and 200 block of, Louisville, KY: null
 400 Baker and 400 block of Baker, Louisville, KY: null
 400 Baker and 400 block of Charlie, Louisville, KY: null
+400 Baker and 400 block of David, Louisville, KY: null
 400 Baker and the 200 block of. Responding units worked, Louisville, KY: null
 400 Baker and the 500 block of David were sent, Louisville, KY: null
 400 Baker to manage the scene and gather information., Louisville, KY: null
@@ -11085,6 +11094,9 @@
   and resolve the situation., Louisville, KY
 : null
 600 Woodruff Ave in response, Louisville, KY: null
+600 [Street Name Redacted], Louisville, KY:
+  lat: 38.2502401
+  lng: -85.7231987
 600 a gas station, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation., Louisville, KY: null
@@ -12331,6 +12343,10 @@
 7400 Beechview Way, Louisville, KY:
   lat: 38.1425656
   lng: -85.6785558
+? 7400 Colson Dr, as well as near the intersection of Silver Springs Dr and Raintree
+  Dr. Witnesses indicated that approximately twenty rounds were fired. Police units
+  responded, Louisville, KY
+: null
 7400 Colt Dr, Louisville, KY:
   lat: 38.149494
   lng: -85.807791
@@ -14184,6 +14200,7 @@ Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
+Silver Springs Dr and Raintree Dr, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
 Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
