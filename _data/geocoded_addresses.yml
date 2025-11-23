@@ -3634,6 +3634,9 @@
 1800 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
+1800 Carl Ct, Louisville, KY:
+  lat: 38.19116
+  lng: -85.802221
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent to the scene to assist with the situation.
   The fire was quickly brought under control., Louisville, KY
@@ -4113,6 +4116,9 @@
 200 East Chestnut 7:00 p, Louisville, KY: null
 200 East Chestnut 7:00 p.m.AM, Louisville, KY: null
 200 East Chestnut Street, Louisville, KY:
+  lat: 38.2477668
+  lng: -85.7499296
+200 East Chestnut, Louisville, KY:
   lat: 38.2477668
   lng: -85.7499296
 200 East Early Morning, Louisville, KY: null
@@ -8719,6 +8725,7 @@
 : null
 400 and 500 block of Baker were part of the response, Louisville, KY: null
 400 and 500 block of Baker were part of the response., Louisville, KY: null
+400 and429, Louisville, KY: null
 400 the area to de-escalate and resolve the situation., Louisville, KY: null
 400 the area, Louisville, KY: null
 400 the location to address the welfare check., Louisville, KY: null
