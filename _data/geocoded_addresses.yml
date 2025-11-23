@@ -2883,6 +2883,9 @@
   was taken. A woman present at the scene declined, Louisville, KY
 : lat: 38.2302114
   lng: -85.7988776
+1500 Dellwood Dr, Louisville, KY:
+  lat: 38.1761663
+  lng: -85.8036433
 1500 Dixie Hwy, Louisville, KY:
   lat: 38.227527
   lng: -85.790903
@@ -3496,6 +3499,9 @@
 17100 Green Crest Ln, Louisville, KY:
   lat: 38.242077
   lng: -85.451934
+17100 Mallet Hill Dr, near Calgary Park Lane and Shetford Grove Court, and required assistance, Louisville, KY:
+  lat: 38.25985
+  lng: -85.437033
 17200 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
@@ -10147,6 +10153,9 @@
 5000 Shelbyville Rd. EMS personnel were dispatched, Louisville, KY:
   lat: 38.247028
   lng: -85.6228127
+5000 South 3rd Street. Police units were sent, Louisville, KY:
+  lat: 38.174602
+  lng: -85.767556
 ? 5000 South 4th Street in response to a serious medical situation. A 57-year-old
   female was found unconscious with irregular breathing. Due to the circumstances,
   police were also sent to the scene, as there was a possibility of an overdose. Fire
@@ -13997,6 +14006,7 @@ Clay St and Shelby St, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cliff Ave and Denmark St, Louisville, KY: null
+Colson Dr and Silver Springs Dr, Louisville, KY: null
 Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
