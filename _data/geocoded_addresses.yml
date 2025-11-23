@@ -272,6 +272,9 @@
   of bleeding and foam from her mouth. EMS was on scene, Louisville, KY
 : null
 100 North of S Jane St, Louisville, KY: null
+100 North35th Street, Louisville, KY:
+  lat: 38.2624675
+  lng: -85.808437
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
   specified. The outcome of the police response to this location is also unclear at
@@ -2527,6 +2530,9 @@
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
+13700 Windy Haven Way, Louisville, KY:
+  lat: 38.1825073
+  lng: -85.5175986
 13800 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
@@ -5792,6 +5798,9 @@
 ? 2500 Paris Road Drive, with the event having occurred the prior evening. Information
   regarding previous police responses, Louisville, KY
 : null
+2500 Portland Ave, Louisville, KY:
+  lat: 38.2703586
+  lng: -85.7892425
 2500 Rowan St, Louisville, KY:
   lat: 38.261638
   lng: -85.7912404
@@ -10123,6 +10132,9 @@
   lng: -85.768479
 500 Camden Ave, with support from the 400 block of Baker, Louisville, KY: null
 500 Camden Ave, with support from the 400 block of Baker., Louisville, KY: null
+500 Camden, Louisville, KY:
+  lat: 38.192895
+  lng: -85.768479
 500 Caton Ave, Louisville, KY:
   lat: 38.1088196
   lng: -85.7710151
@@ -11320,6 +11332,7 @@
 : null
 600 Walnut Ridge following a report of a medical emergency connected, Louisville, KY: null
 600 Walnut Ridge, Louisville, KY: null
+600 Wimbleton Ct, Louisville, KY: null
 ? 600 Woodruff Ave in response to a fire. The incident was reported as a trash fire
   located on the side porch of a vacant house. The responding units were able to manage
   and resolve the situation., Louisville, KY
