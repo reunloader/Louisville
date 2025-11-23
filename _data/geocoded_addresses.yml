@@ -304,6 +304,9 @@
   were then able, Louisville, KY
 : lat: 38.0762726
   lng: -85.8819062
+100 Outer Loop, Louisville, KY:
+  lat: 38.12637
+  lng: -85.7935486
 100 Painted Stone Pl, Louisville, KY: null
 ? 100 Painted Stone Pl. The location was initially reported and then updated to the
   same block. Further details on the outcome of this check were not immediately available.,
@@ -4470,6 +4473,9 @@
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+200 S Hancock St, Louisville, KY:
+  lat: 38.2531474
+  lng: -85.7426966
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
@@ -8569,6 +8575,7 @@
   lng: -85.7600753
 400 North Hight Avenue in response, Louisville, KY: null
 400 North Hight Avenue, Louisville, KY: null
+400 North Hyde Avenue, Louisville, KY: null
 400 North S Hite Ave, Louisville, KY:
   lat: 38.2517615
   lng: -85.6932303
@@ -9111,6 +9118,9 @@
 4200 Bardstown Rd, Louisville, KY:
   lat: 38.1882665
   lng: -85.6406943
+4200 Breckenridge Ln, Louisville, KY:
+  lat: 38.1872603
+  lng: -85.6266798
 4200 Browns Ln, Louisville, KY:
   lat: 38.2212774
   lng: -85.6217664
