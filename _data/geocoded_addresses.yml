@@ -2593,6 +2593,9 @@
 1400 Lexington Rd, Louisville, KY:
   lat: 38.25048
   lng: -85.720565
+1400 Longfield Ave, Louisville, KY:
+  lat: 38.1985704
+  lng: -85.7850056
 ? 1400 Masonic Home Dr. The nature of the emergency was classified as a Delta medical
   situation, indicating a significant level of need. Responders arrived on scene to
   assess and provide care., Louisville, KY
@@ -11064,6 +11067,11 @@
   parked vehicle, and a grey Chrysler sedan. This was reported as a non-injury collision.,
   Louisville, KY
 : null
+? 6100 Atwood St. Upon arrival, they observed a black Ford Fusion with several individuals
+  nearby, though no fighting was apparent. The individuals did not seem, Louisville,
+  KY
+: lat: 38.2155748
+  lng: -85.7485557
 6100 Billtown Rd, Louisville, KY:
   lat: 38.1563744
   lng: -85.561275
