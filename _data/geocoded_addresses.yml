@@ -5712,6 +5712,9 @@
 2600 Bank St, Louisville, KY:
   lat: 38.2692147
   lng: -85.7914568
+2600 Beulah Church Rd, Louisville, KY:
+  lat: 38.1315529
+  lng: -85.6140436
 ? 2600 Conklin Parkway to attend to a 67-year-old male who was reportedly feeling
   unwell with symptoms including weakness, diarrhea, and a lack of appetite. Units
   reached the location within minutes to provide medical attention., Louisville, KY
@@ -7091,6 +7094,9 @@
 3200 Northwestern Avenue, Louisville, KY: null
 3200 Patricia Drive 4:00 a, Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
+3200 Poplar Level, Louisville, KY:
+  lat: 38.2109965
+  lng: -85.7194148
 3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
   lat: 38.20267
   lng: -85.7352633
@@ -11103,6 +11109,8 @@
 6300 Bula Church, Louisville, KY: null
 6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
 6300 Commerce Park Ct, Louisville, KY: null
+6300 Cottage Field Cir, Louisville, KY: null
+6300 Cottage Field Cir. The driver was reportedly revving the engine and speeding, prompting a request, Louisville, KY: null
 6300 Fern Valley Way, Louisville, KY: null
 ? 6300 Fern Valley Way, across from Fern Valley Cir, for a possible stroke. The patient,
   a 15-year-old male, was reportedly not alert. Responders were en route to assess
@@ -11121,6 +11129,8 @@
 6300 Hackberry Way, Louisville, KY:
   lat: 38.1050749
   lng: -85.6454543
+6300 Hans's Drive due, Louisville, KY: null
+6300 Hans's Drive, Louisville, KY: null
 6300 Hunters Grove, Louisville, KY:
   lat: 38.161341
   lng: -85.84161
@@ -12846,6 +12856,9 @@
   lat: 38.1474857
   lng: -85.900493
 8200 Jenny Lindrob near D Road, Louisville, KY: null
+8200 Preston Hwy, Louisville, KY:
+  lat: 38.1332639
+  lng: -85.6846969
 8200 South 36th Street, Louisville, KY:
   lat: 38.2305239
   lng: -85.8144957
