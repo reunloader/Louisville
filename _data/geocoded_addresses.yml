@@ -761,6 +761,9 @@
 1000 Lyndon Ln, Louisville, KY:
   lat: 38.2445845
   lng: -85.6015977
+1000 Madison. They were looking, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
 ? 1000 Magazine St following a report of a dispute between a male and a female. The
   situation was described as an ongoing issue, with the male reportedly selling items
   before returning to the residence. Responding police units were tasked with de-escalating
@@ -5999,6 +6002,9 @@
   of a vehicle in the 2400 block of Frankfort Ave., Louisville, KY
 : lat: 38.2538627
   lng: -85.6962344
+2600 Garland Ave, Louisville, KY:
+  lat: 38.2442419
+  lng: -85.7956355
 2600 Howard St, Louisville, KY:
   lat: 38.245806
   lng: -85.795471
@@ -6044,6 +6050,9 @@
   cab F-100 with damage to its front end. Responding units were dispatched to search
   the vicinity, Louisville, KY
 : null
+2600 Madison, Louisville, KY:
+  lat: 38.2540077
+  lng: -85.7945055
 2600 Neblick Ave, Louisville, KY: null
 2600 Neblick Avenue, near Hampstead Dr and Ralph Ave,, Louisville, KY: null
 2600 New LaGrange Road, Louisville, KY: null
@@ -7376,6 +7385,12 @@
 3200 Greendale Dr, Louisville, KY:
   lat: 38.181352
   lng: -85.849077
+3200 Greenview Dr, Louisville, KY:
+  lat: 38.1627856
+  lng: -85.8496073
+3200 Greenview Dr. Responding units were dispatched, Louisville, KY:
+  lat: 38.1627856
+  lng: -85.8496073
 3200 Heather Ln, Louisville, KY:
   lat: 38.2076133
   lng: -85.6642191
