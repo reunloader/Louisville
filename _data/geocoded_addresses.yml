@@ -6260,6 +6260,9 @@
 2800 Frankfort Ave, Louisville, KY:
   lat: 38.2541178
   lng: -85.690105
+2800 Garland Ave. The caller expressed concern after not hearing from the individual, Louisville, KY:
+  lat: 38.244897
+  lng: -85.799254
 2800 I 64 West, Louisville, KY: null
 2800 Lane, Louisville, KY: null
 ? 2800 Lexington Rd due to a residential alarm at a two-story home. Upon investigation,
@@ -6760,6 +6763,9 @@
 300 I65 South near Cliffwood Hill Way, Louisville, KY: null
 300 I65 South near Cliffwood and Caledonia, Louisville, KY: null
 300 Keaton Avenue, Louisville, KY: null
+300 Limewood Cir, Louisville, KY:
+  lat: 38.2928899
+  lng: -85.6333594
 ? 300 Midfield Access Rd due to suspicious activity. Further police units were dispatched
   to investigate the situation., Louisville, KY
 : null
