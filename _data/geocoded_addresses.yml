@@ -578,6 +578,9 @@
 1000 Brookline Ave, Louisville, KY:
   lat: 38.175395
   lng: -85.777096
+1000 Caldwell St, Louisville, KY:
+  lat: 38.2381521
+  lng: -85.7366708
 1000 Clove Tree Ct, Louisville, KY:
   lat: 38.1120328
   lng: -85.6133925
@@ -3336,6 +3339,9 @@
 ? 1700 Patton Ct, specifically in building 45. The report mentioned a 17-year-old
   male wearing specific clothing. Further details, Louisville, KY
 : null
+1700 Pear Ln, Louisville, KY:
+  lat: 38.1925635
+  lng: -85.6192137
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
   lng: -85.707066
@@ -4801,6 +4807,9 @@
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
   lng: -85.4851725
+2100 Baringer Ave, Louisville, KY:
+  lat: 38.234191
+  lng: -85.707928
 ? 2100 Bashford Manor Ln, near the intersection of Crosswood Bards and Town and Adele.
   The call was for a 25-year-old female who sustained an injury after falling while
   cleaning gutters., Louisville, KY
@@ -9707,6 +9716,9 @@
 5 Sale Avenue, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
+5 Sunnyside Dr, Louisville, KY:
+  lat: 38.2448901
+  lng: -85.675932
 5 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
