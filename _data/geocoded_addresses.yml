@@ -733,6 +733,9 @@
 1000 I 64 West, involving an individual who was reportedly refusing, Louisville, KY: null
 1000 I 65 South, Louisville, KY: null
 1000 I-64 West, Louisville, KY: null
+1000 Kaiser Ct, Louisville, KY:
+  lat: 38.244535
+  lng: -85.82644
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
@@ -2523,6 +2526,9 @@
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
+1400 Clover Trace Pl, Louisville, KY:
+  lat: 38.1765171
+  lng: -85.7984715
 ? 1400 Clover Trace Place. Engine 12 and Truck 8 were dispatched to investigate the
   situation. Upon arrival, they determined the cause of the alarm. Fortunately, there
   was no indication of any emergency or hazard at the residence., Louisville, KY
@@ -3997,8 +4003,10 @@
   lng: -85.726232
 200 Adams St. The reporting officer indicated that they were not harmed during the stop., Louisville, KY: null
 200 Albany Ave alley, Louisville, KY: null
+200 Baker and 100 block of Baker, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
+200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -12905,6 +12913,10 @@
   lat: 38.1936934
   lng: -85.7728077
 800 Washburn Ave, Louisville, KY: null
+? 800 Washburn Ave, initially reported in the Stonemill Dr area. Police units responded
+  to investigate the vehicle's presence. The call was later transferred to St. Matthews,
+  Louisville, KY
+: null
 800 West Lee, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
