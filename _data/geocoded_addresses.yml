@@ -1228,6 +1228,9 @@
   lat: 38.099744
   lng: -85.852204
 10600 Moraine Cir, Louisville, KY: null
+10600 Sparrow Cir, Louisville, KY:
+  lat: 38.112718
+  lng: -85.761711
 10600 Taylor-Hill Rd, Louisville, KY: null
 10700 Alberta Dr, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
@@ -10811,6 +10814,9 @@
   and required medical attention., Louisville, KY
 : null
 5600 pound tree drive, Louisville, KY: null
+5700 Bardstown Rd, Louisville, KY:
+  lat: 38.1628763
+  lng: -85.5970273
 5700 Bruns Dr, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
@@ -12744,6 +12750,12 @@
 78600 Burrice Ct, Louisville, KY:
   lat: 38.1422513
   lng: -85.8933393
+7900 Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
+7900 Bardstown Rd, Louisville, KY:
+  lat: 38.134
+  lng: -85.579647
 7900 Barksdale Dr, Louisville, KY:
   lat: 38.1270133
   lng: -85.8613751
