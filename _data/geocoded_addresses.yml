@@ -8434,6 +8434,7 @@
 400 Taylor Blvd, Louisville, KY:
   lat: 38.2079291
   lng: -85.7741776
+400 Trinity Hills Ln, Louisville, KY: null
 400 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
@@ -10524,6 +10525,7 @@
 : lat: 38.16515
   lng: -85.688011
 5800 Lion's Paris Dr, Louisville, KY: null
+5800 Taylor's Little Lake Road, Louisville, KY: null
 5800 William Park Road, Louisville, KY: null
 5900 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
@@ -10637,6 +10639,9 @@
 600 Craigs Creek Dr, Louisville, KY:
   lat: 38.3146036
   lng: -85.5527639
+600 Creel Ave, Louisville, KY:
+  lat: 38.2126824
+  lng: -85.7676642
 600 David were involved in this stop, Louisville, KY: null
 600 David were involved in this stop., Louisville, KY: null
 600 E W Oak St, Number 4, Louisville, KY: null
@@ -12917,6 +12922,9 @@
   lng: -85.8141208
 8800 Legendary Ln, Louisville, KY: null
 8800 Malvern Hill Rd, Louisville, KY: null
+8800 Michael Edward Dr, Louisville, KY:
+  lat: 38.1728852
+  lng: -85.5953497
 8800 National Turnpike, Louisville, KY:
   lat: 38.1220474
   lng: -85.7484539
@@ -13168,6 +13176,9 @@
   was being assessed by units on scene., Louisville, KY
 : null
 900 W W W Liberty St, Louisville, KY: null
+900 W Whitney Ave, Louisville, KY:
+  lat: 38.1936757
+  lng: -85.7749487
 900 Walterson Trail, Louisville, KY: null
 900 West Broadway [Date & Time], Louisville, KY: null
 ? 900 West Broadway. Officers approached the vehicle as part of routine safety checks
