@@ -3292,6 +3292,9 @@
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
+1600 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2531319
+  lng: -85.7775215
 ? 1600 West Ln concerning a 14-year-old male who was reportedly acting out of control
   and stealing belongings. The teenager was described as a black male wearing a green
   sweater and was noted to be on probation., Louisville, KY
@@ -5858,6 +5861,7 @@
 2600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
+2600 Birkenridge, Louisville, KY: null
 ? 2600 Conklin Parkway to attend to a 67-year-old male who was reportedly feeling
   unwell with symptoms including weakness, diarrhea, and a lack of appetite. Units
   reached the location within minutes to provide medical attention., Louisville, KY
@@ -5869,6 +5873,9 @@
 2600 Duncan St. Paramedics assessed the patient at the scene., Louisville, KY:
   lat: 38.263334
   lng: -85.793424
+2600 East, Louisville, KY:
+  lat: 38.213339
+  lng: -85.730459
 2600 Fijing Avenue, Louisville, KY: null
 2600 Fijing Avenue. The incident involved a black male with facial tattoos and a potential female victim., Louisville, KY: null
 2600 Frankfort Ave, Louisville, KY:
@@ -8550,6 +8557,9 @@
 : null
 400 North Height Street, Louisville, KY: null
 400 North Height Street. Officers were dispatched, Louisville, KY: null
+400 North Heights Avenue, Louisville, KY:
+  lat: 38.1891563
+  lng: -85.7600753
 400 North Hight Avenue in response, Louisville, KY: null
 400 North Hight Avenue, Louisville, KY: null
 400 North S Hite Ave, Louisville, KY:
