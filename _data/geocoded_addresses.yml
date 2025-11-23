@@ -2160,6 +2160,9 @@
 12600 Taylorsville Rd near Bittenberg Road, Louisville, KY:
   lat: 38.1871839
   lng: -85.5214147
+12600 Valley Pine Dr, Louisville, KY:
+  lat: 38.172095
+  lng: -85.5388022
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
@@ -9730,6 +9733,7 @@
 4700 Bardstown Rd, Louisville, KY:
   lat: 38.1787602
   lng: -85.623961
+4700 Barsham Road, Louisville, KY: null
 4700 Crescent Highway, Louisville, KY: null
 4700 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
