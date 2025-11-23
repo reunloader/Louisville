@@ -4262,6 +4262,9 @@
 200 North at Wilhenry Road, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at mile marker 29, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, Albert H Near St. The reason, Louisville, KY: null
 200 North, First Point Parkway, Louisville, KY: null
@@ -4269,6 +4272,9 @@
   lat: 38.2607234
   lng: -85.7797189
 200 North, just past Old Henry, Louisville, KY: null
+200 North, near mile marker 29, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North35th Street, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
@@ -4505,6 +4511,7 @@
 200 [Street Name Unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 and Old Shelbyville Rd, Louisville, KY: null
 200 and Taylor Blvd, Louisville, KY:
   lat: 38.2079291
   lng: -85.7741776
@@ -11937,6 +11944,7 @@
 7100 Global Dr. Responding units were sent, Louisville, KY:
   lat: 38.1381438
   lng: -85.8905994
+7100 Green Spring Dr, Louisville, KY: null
 7100 Greengate Ct, Louisville, KY: null
 7100 I 64 East, Louisville, KY: null
 7100 I-64 East, Louisville, KY: null
@@ -12718,6 +12726,9 @@
 8100 entrance road, Louisville, KY:
   lat: 38.133816
   lng: -85.855557
+8200 Bigelow Dr, Louisville, KY:
+  lat: 38.1922251
+  lng: -85.5888379
 8200 Broccolo Court, Louisville, KY: null
 8200 Cane Run Rd, Louisville, KY:
   lat: 38.1371078
@@ -13307,6 +13318,7 @@
 9200 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
+9200 Westport Rd, specifically at the Harbor Freight location. A unit was assigned, Louisville, KY: null
 9200 Westport, [Date] 8:00 a, Louisville, KY: null
 9200 Westport, [Date] 8:00 a.m.AM, Louisville, KY: null
 921 Barrett Ln, Louisville, KY:
