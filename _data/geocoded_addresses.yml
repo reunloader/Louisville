@@ -1294,6 +1294,14 @@
   dispatched unit., Louisville, KY
 : null
 1100 Carabao Way. Paramedics responded to provide assistance, Louisville, KY: null
+1100 Central Ave, Louisville, KY:
+  lat: 38.206357
+  lng: -85.776375
+? 1100 Central Ave. The subjects were observed walking between residences, looking
+  into basement windows, and knocking on doors, prompting a police response, Louisville,
+  KY
+: lat: 38.206357
+  lng: -85.776375
 1100 Chamberlain Hill Rd, Louisville, KY: null
 1100 Cherokee Rd, Louisville, KY:
   lat: 38.2389519
@@ -2245,6 +2253,13 @@
 1300 Gardiner Ln, Louisville, KY:
   lat: 38.2034383
   lng: -85.6890866
+1300 Greenwich Rd, Louisville, KY:
+  lat: 38.2065974
+  lng: -85.642936
+? 1300 Greenwich Rd. The specific nature of the medical emergency was not detailed,
+  but the fire department provided support, Louisville, KY
+: lat: 38.2065974
+  lng: -85.642936
 ? 1300 Homeview Dr due to a reported gas leak. Upon arrival, a strong odor was detected
   both inside and outside the residence, though it was not definitively identified
   as natural gas. The situation was deemed manageable by the responding units, and
@@ -5246,6 +5261,12 @@
 2300 Ashwood Dr, Louisville, KY:
   lat: 38.214895
   lng: -85.70161
+2300 Bardstown Rd, Louisville, KY:
+  lat: 38.223761
+  lng: -85.6901595
+2300 Bardstown Rd. The alarm was triggered by a front motion sensor. Upon investigation, it was determined, Louisville, KY:
+  lat: 38.223761
+  lng: -85.6901595
 2300 Boulevard Napoleon, Louisville, KY:
   lat: 38.221638
   lng: -85.694698
@@ -13426,6 +13447,11 @@
   lat: 38.241573
   lng: -85.7608634
 900 South Boyd Street, Louisville, KY: null
+900 South Fifth Street, Louisville, KY: null
+? 900 South Fifth Street. A 36-year-old male victim sustained injuries including a
+  broken elbow and head trauma. EMS was dispatched to provide medical attention and
+  transport, Louisville, KY
+: null
 900 South I-65, Louisville, KY: null
 900 South Second Street, Louisville, KY: null
 900 Southgate Manor Dr, Louisville, KY:
