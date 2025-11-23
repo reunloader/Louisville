@@ -353,6 +353,10 @@
 100 Royer Ct, Louisville, KY:
   lat: 38.258948
   lng: -85.687745
+100 S Jackson St, Louisville, KY:
+  lat: 38.255118
+  lng: -85.743963
+100 S Jackson St, prompting a police response, Louisville, KY: null
 100 Sears Ave, Louisville, KY: null
 100 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 100 Shelby Station Dr, Louisville, KY: null
@@ -5998,6 +6002,8 @@
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
+27600 Smithfield Greene Ln, Louisville, KY: null
+27600 Smithfield Greene Ln. Responding units were en route, Louisville, KY: null
 2800 Brownsboro Rd, Louisville, KY:
   lat: 38.25991
   lng: -85.688803
@@ -10425,6 +10431,9 @@
 5400 Ripple Ln, Louisville, KY:
   lat: 38.171621
   lng: -85.670246
+5400 S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 5400 Shepherdsville Rd, Louisville, KY:
   lat: 38.170756
   lng: -85.6595
