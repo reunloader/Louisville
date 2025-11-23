@@ -1193,6 +1193,9 @@
 10400 Champion Farms Dr, Louisville, KY:
   lat: 38.2960989
   lng: -85.5623389
+10400 Courage Village Boulevard near Woodspring Suites, Louisville, KY:
+  lat: 38.2228823
+  lng: -85.5433653
 10400 Got It Court, Louisville, KY: null
 ? 10400 S Dodge Ln, near Silver Creek and South Ridge, where a white car had driven
   into a ditch. Two individuals involved in the accident reported facial injuries,
@@ -2448,6 +2451,9 @@
 1300 Winter Ave. Officers checked, Louisville, KY:
   lat: 38.235724
   lng: -85.727464
+1300 [Street Name Not Fully Provided], Louisville, KY:
+  lat: 38.2325507
+  lng: -85.7594371
 13000 Ash1, Louisville, KY: null
 13000 Hinchbrook Blvd, Louisville, KY:
   lat: 38.0632925
@@ -9825,6 +9831,7 @@
 4700 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+4700 Peach St, Louisville, KY: null
 4700 Poplar View Dr, Louisville, KY:
   lat: 38.1819668
   lng: -85.8489961
