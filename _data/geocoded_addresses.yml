@@ -104,6 +104,9 @@
 ? 100 East 10th Avenue. The individual is reportedly suffering from a spinal infection
   and has expressed a desire, Louisville, KY
 : null
+100 East Adair, Louisville, KY:
+  lat: 38.190304
+  lng: -85.761257
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
@@ -3524,6 +3527,9 @@
   lat: 38.222074
   lng: -85.707066
 1700 Rosewood Ave, Louisville, KY:
+  lat: 38.2336943
+  lng: -85.7166782
+1700 Rosewood, Louisville, KY:
   lat: 38.2336943
   lng: -85.7166782
 1700 Shady Villa Ct, Louisville, KY:
@@ -13646,6 +13652,9 @@
   The responding officer investigated the circumstances surrounding the vehicle's
   presence., Louisville, KY
 : null
+8900 Independence School Rd, Louisville, KY:
+  lat: 38.1008283
+  lng: -85.5989559
 8900 Maple Rd near Crest Street, Louisville, KY:
   lat: 38.1197316
   lng: -85.6481369
