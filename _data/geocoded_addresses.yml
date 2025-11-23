@@ -3295,6 +3295,7 @@
 1600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2531319
   lng: -85.7775215
+1600 West L, Louisville, KY: null
 ? 1600 West Ln concerning a 14-year-old male who was reportedly acting out of control
   and stealing belongings. The teenager was described as a black male wearing a green
   sweater and was noted to be on probation., Louisville, KY
@@ -6674,6 +6675,9 @@
 : null
 300 Midfield Access Rd due, Louisville, KY: null
 300 Midfield Access Rd, Louisville, KY: null
+300 Modern Way, Louisville, KY:
+  lat: 38.2040002
+  lng: -85.8365628
 300 New Cut Rd, Louisville, KY:
   lat: 38.1574318
   lng: -85.7779933
