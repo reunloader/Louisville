@@ -3808,6 +3808,10 @@
 1800 West Broadway, Louisville, KY:
   lat: 38.248977
   lng: -85.783331
+? 1800 West Valley. The alarm was specifically noted as coming from a metal utility
+  room. Police units were dispatched, Louisville, KY
+: lat: 38.1533993
+  lng: -85.6971709
 1800 Woodfield Rd, Louisville, KY: null
 1800 Zuma-Nom, Louisville, KY: null
 18200 Bridgemore Ln, Louisville, KY:
@@ -5099,6 +5103,10 @@
   lng: -85.7867975
 2100 West Broadway. Responding units investigated, Louisville, KY:
   lat: 38.2488055
+  lng: -85.7867975
+? 2100 West Broadway. The alarm was associated with the air conditioning unit. Multiple
+  police units responded, Louisville, KY
+: lat: 38.2488055
   lng: -85.7867975
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
@@ -10376,6 +10384,19 @@
   measure. Responders were on scene and managed, Louisville, KY
 : lat: 38.1681545
   lng: -85.8297235
+? 5100 East Jefferson. Initial reports indicated the alarm was a Berkeley alarm at
+  a specific address, with updates, Louisville, KY
+: lat: 38.2516
+  lng: -85.7364656
+? 5100 East Jefferson. The caller alleged an assault by an ex-partner who was described
+  as driving a specific vehicle and potentially armed. The caller declined medical
+  assistance, and the suspect reportedly left the area. Several police units were
+  assigned, Louisville, KY
+: lat: 38.2516
+  lng: -85.7364656
+5100 East Jefferson. This incident occurred in the same area as other calls, Louisville, KY:
+  lat: 38.2516
+  lng: -85.7364656
 5100 East Mojave Lee Boulevard, Louisville, KY: null
 5100 Firwood Ln, Louisville, KY:
   lat: 38.1724036
