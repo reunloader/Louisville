@@ -3132,6 +3132,10 @@
 15300 Phyllis Ave, Louisville, KY:
   lat: 38.2053882
   lng: -85.7811774
+15700 Beckley Hills Dr due, Louisville, KY: null
+15700 Beckley Hills Dr, Louisville, KY:
+  lat: 38.2237634
+  lng: -85.4784293
 15700 an unspecified street, Louisville, KY: null
 15900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
@@ -4746,6 +4750,9 @@
   additional support from fire and police units., Louisville, KY
 : null
 200 eastbound, Louisville, KY: null
+200 interchange, Louisville, KY:
+  lat: 38.0989549
+  lng: -85.6793839
 200 involving a black Jeep with a temporary Kentucky license plate, Louisville, KY: null
 ? 200 involving a black Jeep with a temporary Kentucky license plate. The stop involved
   multiple police units., Louisville, KY
@@ -7742,6 +7749,9 @@
 3600 Canterbury Ct, Louisville, KY:
   lat: 38.1308366
   lng: -85.7593277
+3600 Crown Ave, Louisville, KY:
+  lat: 38.2329994
+  lng: -85.7280197
 3600 Dutchman's Lane, Louisville, KY: null
 ? 3600 Dutchman's Lane. Fire units arrived and conducted an exterior check, reporting
   no visible signs of fire from the north and west sides of the building. The alarm
