@@ -56,6 +56,9 @@
   without further response., Louisville, KY
 : null
 100 Breckham Ridge Square, Louisville, KY: null
+100 Brick Kiln Ln, Louisville, KY:
+  lat: 38.1694246
+  lng: -85.8241258
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
@@ -7291,6 +7294,9 @@
 ? 3200 Ellis Way following a report of a known injury. The incident involved an unknown
   vehicle. Medical personnel are on scene, Louisville, KY
 : null
+3200 Fern Valley Rd, Louisville, KY:
+  lat: 38.1562221
+  lng: -85.7059979
 3200 Fordhaven Rd, Louisville, KY:
   lat: 38.147965
   lng: -85.8178207
@@ -7464,6 +7470,9 @@
 3300 Terrier Ct, Louisville, KY:
   lat: 38.207331
   lng: -85.665427
+3300 Utah Ave, Louisville, KY:
+  lat: 38.2062816
+  lng: -85.7851095
 ? 3300 Vector Avenue following a report of a traffic accident. The incident was classified
   as non-injury, and police units responded to manage the scene., Louisville, KY
 : null
@@ -11383,6 +11392,9 @@
 6000 Jeanine Dr, Louisville, KY:
   lat: 38.162622
   lng: -85.6884649
+6000 Loretta St, Louisville, KY:
+  lat: 38.1629754
+  lng: -85.709896
 6000 Mount Washington Rd, Louisville, KY:
   lat: 38.0832292
   lng: -85.627986
