@@ -2718,8 +2718,16 @@
   lat: 38.2289234
   lng: -85.7602103
 1400 South 41st Street at Foster Traditional Academy, Louisville, KY: null
+1400 South 4th Street, Louisville, KY:
+  lat: 38.2289095
+  lng: -85.7617931
 1400 South 4th Street. After a thorough investigation, the situation was determined, Louisville, KY:
   lat: 38.2289095
+  lng: -85.7617931
+? 1400 South 4th Street. The incident involved two individuals who were possibly intoxicated.
+  Separately, a call was received about loud music in the area of Frankfort Ave and
+  Holbergen Avenue that had been ongoing, Louisville, KY
+: lat: 38.2289095
   lng: -85.7617931
 1400 South 5th Street, near East Burnett and the 65-Ramp, Louisville, KY:
   lat: 38.2098564
@@ -3033,6 +3041,8 @@
 1500 South 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
+1500 South Gate, Louisville, KY: null
+1500 South Gate. Police units were sent, Louisville, KY: null
 1500 South11th Street, Louisville, KY: null
 1500 South15 Street, Louisville, KY: null
 1500 South15th Street, Louisville, KY: null
@@ -14044,6 +14054,7 @@ Allmond Ave and South First Street, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
+Arcade Ave and Utah Ave, Louisville, KY: null
 Archtown Road and Southhurstman Parkway, Louisville, KY: null
 Ash Ave and South Central Ave, Louisville, KY: null
 Audubon Parkway and Chickadee Rd, Louisville, KY: null
@@ -14168,6 +14179,7 @@ Fern Valley Rd and Popolo Road, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
+Frankfort Ave and Holbergen Avenue, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
@@ -14326,6 +14338,7 @@ Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Strader Ave and Camden Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
+Taylor Ave and Barret Ave, Louisville, KY: null
 Taylor Ave and Berry Blvd, Louisville, KY: null
 Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
