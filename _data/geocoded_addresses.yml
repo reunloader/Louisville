@@ -3286,6 +3286,9 @@
   lng: -85.698696
 1700 Cowling Ave. The system indicated that three rounds were discharged in this area., Louisville, KY: null
 1700 Doomsdale Street, Louisville, KY: null
+1700 Frankfort Ave, Louisville, KY:
+  lat: 38.257593
+  lng: -85.719367
 1700 Gallagher St, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
@@ -6123,6 +6126,12 @@
 2800 Slevin St, Louisville, KY:
   lat: 38.2662458
   lng: -85.7965365
+2800 South 3rd Street, Louisville, KY:
+  lat: 38.2087192
+  lng: -85.7635772
+2800 South 3rd Street. Officers were sent, Louisville, KY:
+  lat: 38.2087192
+  lng: -85.7635772
 ? 2800 South 4th Street, where a one-story residence showed signs of smoke emanating
   from the rear. Upon arrival, Engine 18 found the smoke was coming from a trash fire,
   which they then managed. Other responding units were released once the situation
@@ -6437,6 +6446,10 @@
 : null
 300 Charlie-Santos Black Dogs. Authorities were informed that the vehicle did not stop, Louisville, KY: null
 300 Closet Drive, Louisville, KY: null
+300 Crescent Ct following a complaint about excessively loud music. Officers were dispatched, Louisville, KY: null
+300 Crescent Ct, Louisville, KY:
+  lat: 38.252644
+  lng: -85.6863047
 300 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -11241,6 +11254,9 @@
 6300 Milner Rd, Louisville, KY:
   lat: 38.1621073
   lng: -85.8353823
+6300 Mount Everest Dr, Louisville, KY:
+  lat: 38.1635493
+  lng: -85.8544906
 6300 River Beauty Loop ROAD, Louisville, KY: null
 ? 6300 Sidney Way following a report of a domestic dispute. The situation involved
   a son and his girlfriend who were reportedly fighting, arguing, and throwing objects.,
@@ -11335,6 +11351,9 @@
 6500 Oak Village Dr, Louisville, KY:
   lat: 38.1328577
   lng: -85.6396122
+6500 Paramount Park Dr near Fern Valley Rd, Louisville, KY:
+  lat: 38.1552702
+  lng: -85.7125852
 6500 Preston, Louisville, KY:
   lat: 38.1577894
   lng: -85.6982025
