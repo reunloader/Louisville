@@ -1083,6 +1083,9 @@
 1000 W Market St, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 W Market St. Further details, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
 1000 W Oak St, Louisville, KY: null
 1000 West Broadway this morning. The specific reasons, Louisville, KY: null
 1000 West Broadway, Louisville, KY:
@@ -5133,6 +5136,8 @@
 2100 I 64 West to conduct a welfare check on an individual., Louisville, KY: null
 2100 I 64 West, Louisville, KY: null
 2100 I-64 West, Louisville, KY: null
+2100 Middle Ln was found, Louisville, KY: null
+2100 Middle Ln, Louisville, KY: null
 2100 Millvale Rd, Louisville, KY:
   lat: 38.2309189
   lng: -85.6867508
@@ -6289,6 +6294,10 @@
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
+? 2700 West Broadway. He was described as wearing a blue jacket and black pants. Emergency
+  medical services were dispatched, Louisville, KY
+: lat: 38.249441
+  lng: -85.796749
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
@@ -6431,6 +6440,9 @@
 2800 South 5th Street, near Iowa Ave and M Street,, Louisville, KY:
   lat: 38.2091084
   lng: -85.7668187
+2800 South 6th Street, Louisville, KY:
+  lat: 38.208805
+  lng: -85.768399
 2800 South 7th Street, Louisville, KY:
   lat: 38.2231367
   lng: -85.7727441
@@ -12348,6 +12360,10 @@
   lng: -85.8819062
 700 Oldbury Pl, Louisville, KY: null
 700 Outer Loop and 700 block of Grade, Louisville, KY: null
+700 Palatka Rd was determined, Louisville, KY: null
+700 Palatka Rd, Louisville, KY:
+  lat: 38.1470473
+  lng: -85.7670725
 700 Phillips Ln under unusual circumstances, Louisville, KY: null
 ? 700 Phillips Ln under unusual circumstances. The car, a red Buick, had all its tires
   up and the keys were left inside. Police units were involved in assessing the situation.,
@@ -14365,6 +14381,7 @@
 9700 Woodway, Louisville, KY:
   lat: 38.2450204
   lng: -85.8232687
+9700 an unspecified location. Police units were dispatched, Louisville, KY: null
 98 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.2661874
   lng: -85.6585606
