@@ -2194,6 +2194,7 @@
 12500 Lucas Ln, Louisville, KY:
   lat: 38.2778735
   lng: -85.522517
+12500 Pasadena Park Circle, Louisville, KY: null
 12500 Pedlarsville Road, Louisville, KY: null
 12500 Pedlarsville Road, near Harmony at Tucker Station,, Louisville, KY:
   lat: 38.1873509
@@ -3171,6 +3172,9 @@
 15300 Phyllis Ave, Louisville, KY:
   lat: 38.2053882
   lng: -85.7811774
+15400 Shelbyville Rd, Louisville, KY:
+  lat: 38.2356193
+  lng: -85.4755389
 15700 Beckley Hills Dr due, Louisville, KY: null
 15700 Beckley Hills Dr, Louisville, KY:
   lat: 38.2237634
@@ -3578,6 +3582,9 @@
   involved in managing the situation and arranging, Louisville, KY
 : null
 1700 South Second Street, Louisville, KY: null
+1700 Southcrest Dr, Louisville, KY:
+  lat: 38.185411
+  lng: -85.7724711
 ? 1700 Stallings Ave to assist a 65-year-old male who was experiencing difficulty
   breathing. Crews arrived on scene within minutes to assess the situation., Louisville,
   KY
@@ -10142,6 +10149,9 @@
 4900 Burkhead Ave., Louisville, KY:
   lat: 38.1378955
   lng: -85.8468636
+4900 Cedar Brook Ct, Louisville, KY:
+  lat: 38.1352213
+  lng: -85.6682961
 4900 Cherry Forest Cir, Louisville, KY:
   lat: 38.3046014
   lng: -85.5175142
@@ -12679,6 +12689,7 @@
   lat: 38.1428729
   lng: -85.7563021
 7200 National Turnpike, specifically at the Brady SPC,, Louisville, KY: null
+7200 Quindaren Vaughan Mill Road, Louisville, KY: null
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
@@ -14784,6 +14795,7 @@ West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westbrook Rd and Fox Ave, Louisville, KY: null
+Westport Rd and Deuce Creek Road, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
