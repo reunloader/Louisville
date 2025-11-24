@@ -4902,7 +4902,26 @@
 200 West. One unit was dispatched, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 Westbound at Southern Pky, Louisville, KY:
+  lat: 38.1747458
+  lng: -85.7745966
+? 200 Westbound at Southern Pky, specifically on the right-hand shoulder, involving
+  a possible dark SUV and individuals fighting. Responding units checked both westbound
+  and eastbound lanes in the area but found no immediate signs of the reported activity.
+  Later, a white Hyundai SUV was observed in the 200 block of Eastbound before exit
+  14, but it was determined not, Louisville, KY
+: lat: 38.1747458
+  lng: -85.7745966
+200 Westbound near Southern Pky, Louisville, KY:
+  lat: 38.1747458
+  lng: -85.7745966
 200 Westbound ramp, Louisville, KY: null
+? 200 Westbound, an area between the airport and Southern Pky. The male was described
+  as wearing a black and yellow jacket. Later, a related incident involving a possible
+  stranded vehicle was investigated in the 200 block of Eastbound near the airport,
+  which was connected, Louisville, KY
+: lat: 38.1716962
+  lng: -85.7354076
 200 William, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
@@ -13869,6 +13888,10 @@
   who may have intended to jump. Police units, including a drone, searched the Cochran
   Hill Tunnel and nearby overpasses, but the individual was not immediately located.,
   Louisville, KY
+: null
+? 800 W Whitney Ave to attend to a medical emergency. The patient was described as
+  a 72-year-old female who was unresponsive. Responders were assigned to assess and
+  provide care, Louisville, KY
 : null
 800 W Whitney Ave, Louisville, KY:
   lat: 38.1936934
