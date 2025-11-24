@@ -13532,6 +13532,9 @@
 7600 Port Rd. The alarm indicated a potential fire and a low air volume issue., Louisville, KY:
   lat: 38.1631998
   lng: -85.8943245
+7600 Preston Hwy, Louisville, KY:
+  lat: 38.1413049
+  lng: -85.6888429
 7600 South Hancock, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
@@ -15273,6 +15276,7 @@ Eastern Parkway and Arta Street, Louisville, KY: null
 Eastern Parkway and Bradley Ave, Louisville, KY:
   lat: 38.2126547
   lng: -85.7470694
+Eastern Parkway and Cranston Dr, Louisville, KY: null
 Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
