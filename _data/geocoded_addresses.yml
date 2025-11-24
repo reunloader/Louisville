@@ -696,6 +696,10 @@
 1000 Donau Ln, Louisville, KY:
   lat: 38.1089806
   lng: -85.8751233
+1000 Doric Cir, Louisville, KY:
+  lat: 38.240263
+  lng: -85.686278
+1000 Doric Cir, with the alarm sounding near a water heater. Fire units responded, Louisville, KY: null
 1000 Dudley Ave, Louisville, KY:
   lat: 38.24242
   lng: -85.720084
@@ -8128,6 +8132,12 @@
 3600 Elderwood Way. A resident reported hearing someone trying, Louisville, KY:
   lat: 38.194307
   lng: -85.800852
+3600 Fern Valley Rd, Louisville, KY:
+  lat: 38.1566234
+  lng: -85.6954991
+3600 Fern Valley Rd. Police units were dispatched, Louisville, KY:
+  lat: 38.1566234
+  lng: -85.6954991
 3600 Fern Valley Road, [Date] 8:00 a, Louisville, KY: null
 3600 Fern Valley Road, [Date] 8:00 a.m.AM, Louisville, KY: null
 3600 Gateview Cir, Louisville, KY:
@@ -10114,6 +10124,8 @@
   lng: -85.7704769
 4500 South First One Parkway, Louisville, KY: null
 4500 South Harris Farm Parkway, Louisville, KY: null
+4500 South Hurstport, Louisville, KY: null
+4500 South Hurstport, with their belongings scattered around them. Police units responded, Louisville, KY: null
 4500 South Side, Louisville, KY: null
 4500 South Third Street, Louisville, KY: null
 4500 South6th Street, Louisville, KY: null
@@ -11083,6 +11095,12 @@
 5200 Cynthia Dr, Louisville, KY:
   lat: 38.170965
   lng: -85.574905
+5200 Fern Valley Rd, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
+5200 Fern Valley Rd. This vehicle was believed, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
 5200 Firwood Ln, Louisville, KY:
   lat: 38.171301
   lng: -85.579589
@@ -12937,6 +12955,12 @@
   lat: 38.1521511
   lng: -85.5439541
 7000 Crossroads, Louisville, KY: null
+7000 Fern Valley Rd, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
+7000 Fern Valley Rd. Emergency personnel responded, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
 7000 Foxcroft Pl, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
@@ -15019,6 +15043,9 @@ Cherokee Rd and Valley Station Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
 Christian Merrick Road and Hempstead Rd, Louisville, KY: null
+Church Rd and Cooper Chapel Rd, Louisville, KY:
+  lat: 38.1100122
+  lng: -85.6424154
 Churchman Ave and Bicknell Ave, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
 Clarks Ln and Minoma Ave, Louisville, KY: null
