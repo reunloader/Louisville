@@ -428,6 +428,9 @@
   lng: -85.7774103
 100 Spring Creek Ct, Louisville, KY: null
 100 Spring Creek Ct., Louisville, KY: null
+100 Spring Meadow Ln, Louisville, KY:
+  lat: 38.247384
+  lng: -85.553056
 100 Stanley Ave, Louisville, KY:
   lat: 38.1891921
   lng: -85.7789464
@@ -1143,6 +1146,7 @@
 ? 10000 Ashby Farm Dr. The individual sought was no longer at the location, and the
   service could not be completed., Louisville, KY
 : null
+10000 Donna E, Louisville, KY: null
 ? 10000 Oak Bridge Cir to assist a 66-year-old female. The patient was reportedly
   suffering from shortness of breath and weakness on her left side., Louisville, KY
 : null
@@ -1912,6 +1916,9 @@
 1200 Gilmore Industrial Blvd. Fire units were dispatched, Louisville, KY:
   lat: 38.1783943
   lng: -85.6997887
+1200 Global Dr, Louisville, KY:
+  lat: 38.1397231
+  lng: -85.8923691
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
@@ -12772,6 +12779,7 @@
 700 West Broadway, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
+700 Westport Rd and Stonehurst Dr, Louisville, KY: null
 ? 700 Winkler Ave following a report of domestic trouble. The individual involved
   was described as a black male wearing all black clothing., Louisville, KY
 : null
@@ -15076,6 +15084,7 @@ Westport Rd and Deuce Creek Road, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
+Westport Rd and Stonehurst Dr, Louisville, KY: null
 Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
