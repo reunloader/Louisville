@@ -7780,6 +7780,9 @@
 3200 7th Street Road. Responding units were dispatched, Louisville, KY:
   lat: 38.2020406
   lng: -85.793294
+3200 Angela Way, Louisville, KY:
+  lat: 38.2088481
+  lng: -85.6184551
 3200 Ansel Way, Louisville, KY: null
 ? 3200 Bardstown Rd to assist a 46-year-old male experiencing what appeared to be
   a seizure and showing a decreased level of consciousness. Fire and EMS units responded
@@ -9345,6 +9348,12 @@
 400 South 8th Street near West Liberty Alley, Louisville, KY: null
 400 South 8th Street, Louisville, KY:
   lat: 38.2525979
+  lng: -85.7647916
+? 400 South 8th Street, near Enterprise. Reports indicated a male subject was seen
+  looking into vehicles and going through the dumpster before setting it ablaze. Fire
+  units arrived and reported the fire was manageable. Police units were also responding,
+  Louisville, KY
+: lat: 38.2525979
   lng: -85.7647916
 ? 400 South 8th Street. Concerns were raised due to reports of homicidal comments
   being made, and there was a possibility that a weapon was present. Officers were
@@ -11610,6 +11619,12 @@
 5500 Robinwood Rd, Louisville, KY:
   lat: 38.1697708
   lng: -85.6684397
+5500 Sullivan Way, Louisville, KY:
+  lat: 38.0942448
+  lng: -85.6560955
+5500 Sullivan Way. They were reportedly waiting, Louisville, KY:
+  lat: 38.0942448
+  lng: -85.6560955
 5500 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
@@ -14640,6 +14655,10 @@
   begin suppression efforts., Louisville, KY
 : null
 900 Frankfort Ave following reports of a fire. The flames were observed spreading, Louisville, KY: null
+900 Gagel Ave, Louisville, KY:
+  lat: 38.1720593
+  lng: -85.806028
+900 Gagel Ave, specifically to bed A,, Louisville, KY: null
 900 Goss Ave, Louisville, KY:
   lat: 38.230112
   lng: -85.740178
@@ -14741,6 +14760,9 @@
 900 South 5th Street, Louisville, KY:
   lat: 38.241573
   lng: -85.7608634
+900 South 8th Street, Louisville, KY:
+  lat: 38.2426819
+  lng: -85.7662626
 900 South Boyd Street, Louisville, KY: null
 900 South Brook, Louisville, KY:
   lat: 38.241061
