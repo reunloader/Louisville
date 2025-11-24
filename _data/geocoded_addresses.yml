@@ -1758,6 +1758,9 @@
   KY
 : lat: 38.088173
   lng: -85.866483
+11400 Electron Dr, Louisville, KY:
+  lat: 38.2023336
+  lng: -85.5472496
 11400 Ridge Rd, Louisville, KY:
   lat: 38.2184913
   lng: -85.7015596
@@ -2290,6 +2293,7 @@
 12800 Lower River Rd, Louisville, KY:
   lat: 38.0679453
   lng: -85.9054493
+12800 Wedge's Drive, Louisville, KY: null
 12900 East Pharrell, Louisville, KY: null
 12900 East Railroad, Louisville, KY: null
 ? 12900 Easter Railroad and has distinctive stickers in the rear windshield. Authorities
@@ -5334,6 +5338,7 @@
 2100 Rowan St, Louisville, KY:
   lat: 38.26102
   lng: -85.784589
+2100 S Floyd St, where people were waiting. Police units were dispatched, Louisville, KY: null
 2100 Shepherdsville Rd, Louisville, KY:
   lat: 38.1495553
   lng: -85.6598797
@@ -8780,6 +8785,10 @@
 ? 400 Browns Line. A mother found herself locked out of her home with two young children
   still inside, seated in high chairs., Louisville, KY
 : null
+400 Bunker Hill following a report of a person down. Police units were assigned, Louisville, KY: null
+400 Bunker Hill, Louisville, KY:
+  lat: 38.2064231
+  lng: -85.686241
 400 Cameron Road, [Date] 6:00 a, Louisville, KY: null
 400 Cameron Road, [Date] 6:00 a.m., Louisville, KY: null
 ? 400 Cathedral Way following a report of a 50-year-old male who was found unconscious
@@ -15246,6 +15255,7 @@ Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
+Providence Street and Algonquin Pky, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
