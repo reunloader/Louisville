@@ -1183,6 +1183,9 @@
 10000 Taylorsville Rd. Police units were sent, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
+10000 Vista Springs Way, Louisville, KY:
+  lat: 38.0969181
+  lng: -85.5682201
 ? 10000 Wingfield Rd. Occupants experienced burning eyes but declined medical attention
   and were advised to leave the building., Louisville, KY
 : null
@@ -2878,6 +2881,9 @@
   a need, Louisville, KY
 : lat: 38.2283837
   lng: -85.7420897
+1400 S, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -6368,6 +6374,7 @@
 2600 South 6th Street, Louisville, KY:
   lat: 38.211481
   lng: -85.767931
+2600 South First Street, Louisville, KY: null
 ? 2600 South Forth Street following a report of an assault. A victim was found to
   have been struck with a pistol. Paramedics were called to the scene to assess and
   treat the injured individual. Authorities were searching for a suspect described
@@ -13360,6 +13367,9 @@
 7400 Colt Dr, Louisville, KY:
   lat: 38.149494
   lng: -85.807791
+7400 Feyhurst Dr, Louisville, KY:
+  lat: 38.147654
+  lng: -85.858289
 7400 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
