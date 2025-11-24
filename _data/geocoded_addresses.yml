@@ -2213,6 +2213,7 @@
 12600 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
+12600 Raise Your Court, Louisville, KY: null
 12600 Taylorsville Rd near Bittenberg Road, Louisville, KY:
   lat: 38.1871839
   lng: -85.5214147
@@ -9256,6 +9257,7 @@
 4100 Dellafay Dr, Louisville, KY:
   lat: 38.1587447
   lng: -85.6857415
+4100 Dudsman's Lane, Louisville, KY: null
 4100 Fern Valley Rd, Louisville, KY:
   lat: 38.1571885
   lng: -85.6857729
@@ -9995,6 +9997,9 @@
   lat: 38.2345558
   lng: -85.7474259
 4600 S S Jackson St. Officers were sent to address the situation and ensure public safety., Louisville, KY: null
+4600 Shasta Trail, Louisville, KY:
+  lat: 38.176665
+  lng: -85.6754448
 ? 4600 Shenandoah Dr for a 68-year-old male experiencing symptoms consistent with
   a possible stroke. Responders were on the scene to provide assistance., Louisville,
   KY
