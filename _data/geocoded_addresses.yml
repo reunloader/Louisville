@@ -688,6 +688,9 @@
 1000 Dixie Hwy. Units arrived on scene, Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
+1000 Donau Ln, Louisville, KY:
+  lat: 38.1089806
+  lng: -85.8751233
 1000 Dudley Ave, Louisville, KY:
   lat: 38.24242
   lng: -85.720084
@@ -4956,6 +4959,9 @@
 2000 Chattanooga Ave. Police units responded, Louisville, KY:
   lat: 38.1293345
   lng: -85.769904
+2000 Cherokee Pky, Louisville, KY:
+  lat: 38.2345
+  lng: -85.713684
 2000 Duncan Street, [Date] Evening, Louisville, KY: null
 2000 E W Lee St, Louisville, KY:
   lat: 38.2232049
