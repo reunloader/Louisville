@@ -7063,6 +7063,9 @@
   No further details were immediately available, Louisville, KY
 : lat: 38.213048
   lng: -85.755212
+300 Eric Ct, Louisville, KY:
+  lat: 38.1466992
+  lng: -85.6885448
 ? 300 Foxy Poise Rd by a concerned sister. This incident may be connected to a Crisis
   Intervention Team call., Louisville, KY
 : null
@@ -7638,6 +7641,7 @@
   lat: 38.2399697
   lng: -85.4247915
 31800 West Muhammad Alley, Louisville, KY: null
+32 Annie St, Louisville, KY: null
 ? 32 Mall Road in response to a suspicious person call. Upon arrival, law enforcement
   was able to detain one individual. The specific circumstances leading to the apprehension
   were related to the suspicious nature of the person's presence in the area., Louisville,
@@ -11738,6 +11742,9 @@
   to provide necessary care. The incident highlights the ongoing need, Louisville,
   KY
 : null
+600 Eastern Parkway, Louisville, KY:
+  lat: 38.2122359
+  lng: -85.7468325
 ? 600 Eastlawn Ave following a report of a 63-year-old male who was found unconscious
   with a facial injury. The individual was believed, Louisville, KY
 : null
@@ -12730,6 +12737,7 @@
 700 East Jefferson, Louisville, KY:
   lat: 38.251917
   lng: -85.740147
+700 East Liberty Avenue, Louisville, KY: null
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned to investigate., Louisville,
   KY
@@ -15140,6 +15148,7 @@ Billtown Rd and Shaffer Ln, Louisville, KY: null
 Blast On Road and Engine Drive, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
+Bradley Ave and Sherry Rd, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
 Breckinridge St and Southbrook Street, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
@@ -15216,6 +15225,9 @@ Dover Road and Looker Avenue, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 Eastern Parkway and Arta Street, Louisville, KY: null
+Eastern Parkway and Bradley Ave, Louisville, KY:
+  lat: 38.2126547
+  lng: -85.7470694
 Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
