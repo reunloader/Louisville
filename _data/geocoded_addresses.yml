@@ -2791,6 +2791,7 @@
 1400 Longfield Ave, Louisville, KY:
   lat: 38.1985704
   lng: -85.7850056
+1400 Lost Hall Avenue, Louisville, KY: null
 ? 1400 Masonic Home Dr. The nature of the emergency was classified as a Delta medical
   situation, indicating a significant level of need. Responders arrived on scene to
   assess and provide care., Louisville, KY
@@ -3928,6 +3929,10 @@
   on scene, Louisville, KY
 : lat: 38.2565197
   lng: -85.7166551
+1800 Grand Ave due, Louisville, KY: null
+1800 Grand Ave. Simultaneously, another call came in, Louisville, KY:
+  lat: 38.239902
+  lng: -85.78658
 1800 Greenwood Ave, Louisville, KY:
   lat: 38.240824
   lng: -85.786221
@@ -5114,6 +5119,9 @@
 2000 River Park, Louisville, KY:
   lat: 38.2540871
   lng: -85.8042369
+? 2000 River Rd following a report of construction equipment being burglarized. The
+  incident involved a box truck, and officers were dispatched, Louisville, KY
+: null
 2000 River Rd, Louisville, KY:
   lat: 38.268671
   lng: -85.714684
@@ -7155,6 +7163,9 @@
 300 W Chestnut St, Louisville, KY:
   lat: 38.2486683
   lng: -85.7563843
+300 W Hill St. Officers were assessing the situation and determining the reason, Louisville, KY:
+  lat: 38.225756
+  lng: -85.760426
 300 W Jefferson St, Louisville, KY:
   lat: 38.25359
   lng: -85.755541
@@ -7927,6 +7938,10 @@
   lng: -85.698532
 3400 Taylor Blvd, Louisville, KY:
   lat: 38.1995175
+  lng: -85.7829642
+? 3400 Taylor Blvd. The incident involved a bonfire located behind the primary address,
+  prompting a response from fire units, Louisville, KY
+: lat: 38.1995175
   lng: -85.7829642
 3400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
@@ -8893,6 +8908,7 @@
 400 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
+400 E W Lee St concerning a vehicle break-in. The caller wished, Louisville, KY: null
 ? 400 E W Market St to assist a 44-year-old male complaining of severe abdominal pain.
   The patient was noted to be significantly overweight. Responders worked to provide
   comfort and transport if necessary., Louisville, KY
@@ -9336,6 +9352,9 @@
 4000 Herman St, Louisville, KY:
   lat: 38.260271
   lng: -85.817216
+? 4000 Houston Bank Road to assist a 28-year-old pregnant female experiencing recurrent
+  fainting spells. Responders were directed to use a specific gate, Louisville, KY
+: null
 4000 James Rd, Louisville, KY:
   lat: 38.1920024
   lng: -85.7436865
@@ -15162,6 +15181,7 @@ Gladden Dr and Elba Dr, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
 Grade Ln and Don Hutson Blvd, Louisville, KY: null
 Grafton Hall Rd and Cherokee Rd, Louisville, KY: null
+Grand Ave and Taylor Blvd, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
