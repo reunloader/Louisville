@@ -609,6 +609,7 @@
   lng: -85.724091
 1000 Barrenness, Louisville, KY: null
 1000 Beaver St, but the pursuit was later canceled, Louisville, KY: null
+1000 Berkshaw Road, Louisville, KY: null
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -10977,6 +10978,10 @@
 : null
 5100 I 64 East. Responders were sent, Louisville, KY: null
 5100 I 65 South, Louisville, KY: null
+5100 Jeff Commer's Drive, Louisville, KY: null
+? 5100 Jeff Commer's Drive. The alarm specifically originated from the manager's office.
+  Responding units investigated the activation, Louisville, KY
+: null
 5100 Keegan Way, Louisville, KY:
   lat: 38.1728993
   lng: -85.5739001
@@ -11128,6 +11133,7 @@
 5300 Devers Ave, Louisville, KY:
   lat: 38.171182
   lng: -85.77444
+5300 Devers Ave, with one individual sustaining a gunshot wound. Emergency services were dispatched, Louisville, KY: null
 5300 Dixie Hwy, Louisville, KY:
   lat: 38.1604699
   lng: -85.832593
@@ -13743,7 +13749,14 @@
 800 Winkler Avenue, Louisville, KY:
   lat: 38.210811
   lng: -85.770778
+? 800 a building. A work van was discovered with its door left open. Responding units
+  investigated the situation, Louisville, KY
+: lat: 38.2494194
+  lng: -85.7652134
 800 and 400 block of Baker, Louisville, KY: null
+800 building, Louisville, KY:
+  lat: 38.2494194
+  lng: -85.7652134
 800 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
