@@ -3182,6 +3182,13 @@
   lat: 38.2342436
   lng: -85.77928
 1500 W W Ormsby Ave, Louisville, KY: null
+1500 Walter, Louisville, KY:
+  lat: 38.175928
+  lng: -85.787121
+? 1500 Walter, indicating a possible emergency. A female caller reported hearing a
+  male yelling in the background but then stated that everything was alright. Responding
+  units were dispatched, Louisville, KY
+: null
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
@@ -9843,6 +9850,10 @@
   Louisville, KY
 : null
 4400 Shannon-Villa Dr, Louisville, KY: null
+4400 South 2nd Street due, Louisville, KY: null
+4400 South 2nd Street, Louisville, KY:
+  lat: 38.1914096
+  lng: -85.7635371
 4400 South2nd Street, Louisville, KY: null
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
@@ -11021,9 +11032,17 @@
   lat: 38.1604699
   lng: -85.832593
 5300 East W Ormsby Ave, Louisville, KY: null
+5300 Governor's Way in response, Louisville, KY: null
+5300 Governor's Way, Building 3, Louisville, KY: null
 5300 Layne Rd. Responding units arrived, Louisville, KY:
   lat: 38.142111
   lng: -85.6624541
+5300 Matterhorn Dr near Mount Howard Ct, Louisville, KY:
+  lat: 38.1687491
+  lng: -85.853042
+5300 Matterhorn Dr, near Mount Howard Ct,, Louisville, KY:
+  lat: 38.1687491
+  lng: -85.853042
 5300 New Cut Rd, Louisville, KY:
   lat: 38.154173
   lng: -85.77726
@@ -14087,6 +14106,12 @@
 : null
 900 N S S English Station Rd, Louisville, KY: null
 900 Open Line**, Louisville, KY: null
+? 900 Palatka Rd following a report of a domestic disturbance. A father was described
+  as being outside the residence, attempting, Louisville, KY
+: null
+900 Palatka Rd, Louisville, KY:
+  lat: 38.15072
+  lng: -85.776517
 900 Philadelphia Street, Louisville, KY: null
 900 Phillips Ln near Mission and Stanford, Louisville, KY:
   lat: 38.193672
