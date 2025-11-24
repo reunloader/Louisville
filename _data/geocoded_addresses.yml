@@ -4412,6 +4412,7 @@
 200 Downes Ln, Louisville, KY:
   lat: 38.15957
   lng: -85.761596
+200 Dr, Louisville, KY: null
 200 Duncan St, Louisville, KY:
   lat: 38.2623371
   lng: -85.7836576
@@ -7232,6 +7233,7 @@
 300 Strawberry Ln, Louisville, KY:
   lat: 38.1608055
   lng: -85.7609469
+300 Tallwood Ct, Louisville, KY: null
 300 Victor King William, Louisville, KY: null
 300 Victor King William. No injuries or contact were reported in connection with this incident., Louisville, KY: null
 300 W Cardinal Blvd, Louisville, KY:
@@ -10727,6 +10729,9 @@
   lng: -85.7716218
 500 Baker, along with units from the 400 block of Charlie, were involved in this police action, Louisville, KY: null
 500 Baker, along with units from the 400 block of Charlie, were involved in this police action., Louisville, KY: null
+500 Baxter Ave, Louisville, KY:
+  lat: 38.24769
+  lng: -85.730217
 500 Brentwood Ave near South 5th Street, Louisville, KY: null
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
@@ -14069,6 +14074,7 @@
   lng: -85.5939161
 8000 Merriman Rd, Louisville, KY: null
 8000 Merriman Rd. Responding units were dispatched, Louisville, KY: null
+8000 New LaGrange Road, Louisville, KY: null
 8000 North Bardstown Rd, Louisville, KY: null
 ? 8000 Preston Highway. Paramedics arrived on scene to provide care for an individual
   experiencing a medical emergency. The patient was assessed and treated by the medical
