@@ -1001,6 +1001,9 @@
   lng: -85.701074
 1000 Rescue, Louisville, KY: null
 1000 Ringing Bell Ln, Louisville, KY: null
+1000 Rubel Ave, Louisville, KY:
+  lat: 38.2379209
+  lng: -85.7247688
 1000 S Clay St, Louisville, KY:
   lat: 38.237038
   lng: -85.742991
@@ -2649,6 +2652,9 @@
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
 13900 Taylor's Hill Rd, Louisville, KY: null
+14 Estate Dr, Louisville, KY:
+  lat: 38.1728605
+  lng: -85.8052468
 1400 Ackermack Drive, Louisville, KY: null
 1400 Aiken Ridge Dr, Louisville, KY: null
 1400 Anna Ln where a male had left a motorcycle in his driveway. The motorcycle was noted, Louisville, KY: null
@@ -11631,6 +11637,9 @@
 600 Dumesnil St, Louisville, KY:
   lat: 38.2357119
   lng: -85.7798286
+600 E Main St, Louisville, KY:
+  lat: 38.254656
+  lng: -85.7417262
 600 E W Oak St, Number 4, Louisville, KY: null
 ? 600 East Broadway following a report of an individual down. Upon arrival, responders
   found the person covered by a blanket. Emergency medical services assessed the situation
@@ -12018,6 +12027,9 @@
   lat: 38.1397231
   lng: -85.8923691
 6200 Global Dr, with a barge noted in front of the location, Louisville, KY: null
+6200 Middlerose Cir, Louisville, KY:
+  lat: 38.1030822
+  lng: -85.8753813
 6200 Mistflower Cir, Louisville, KY:
   lat: 38.3303026
   lng: -85.5632085
@@ -12168,6 +12180,9 @@
   lat: 38.155313
   lng: -85.640974
 6400 Out of Loop, Louisville, KY: null
+6400 Outer Loop, Louisville, KY:
+  lat: 38.13786
+  lng: -85.641744
 6400 Regal Rd, Louisville, KY:
   lat: 38.2953843
   lng: -85.6313995
@@ -15238,6 +15253,7 @@ Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Rolling St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
 River Rd and River Shore Dr, Louisville, KY: null
+Rochelle Rd and Myrna Parkway, Louisville, KY: null
 Rodman Avenue and Winkler Ave, Louisville, KY: null
 Rodman St and Atwood St, Louisville, KY: null
 Rodman St and Winkler Ave, Louisville, KY: null
