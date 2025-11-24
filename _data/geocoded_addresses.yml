@@ -415,6 +415,9 @@
   lat: 38.2649095
   lng: -85.8179133
 100 South 65th Street, Louisville, KY: null
+100 South 6th Street, Louisville, KY:
+  lat: 38.256869
+  lng: -85.759959
 100 South Second Street Courtyard, Louisville, KY: null
 100 South Shelby, Louisville, KY:
   lat: 38.254461
@@ -7255,6 +7258,8 @@
   and provide care to the individual., Louisville, KY
 : null
 3000 an unspecified street, Louisville, KY: null
+3000 call, Louisville, KY: null
+3000 call. Further details, Louisville, KY: null
 3030 Breckenridge Lane, Louisville, KY:
   lat: 38.2162478
   lng: -85.6281027
@@ -11071,6 +11076,7 @@
 5500 Knobview Ln, Louisville, KY:
   lat: 38.1349358
   lng: -85.6580689
+5500 LaFleur Way, Louisville, KY: null
 5500 Limits Street, Louisville, KY: null
 ? 5500 New Cut Rd near Raleigh, Crestridge, Century Rd, Incident Road Drive, Course
   62, Phoenix, and Crosstown Boulevard, Louisville, KY
@@ -14769,6 +14775,7 @@ Horsham Road and Fixon Lane, Louisville, KY: null
 Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
+Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
