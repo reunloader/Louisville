@@ -7129,6 +7129,12 @@
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
   lng: -85.6333594
+300 Meadowood Ct, Louisville, KY:
+  lat: 38.1508839
+  lng: -85.7686919
+300 Meadowood Ct. The complainant stated that a neighbor was making threats due, Louisville, KY:
+  lat: 38.1508839
+  lng: -85.7686919
 ? 300 Midfield Access Rd due to suspicious activity. Further police units were dispatched
   to investigate the situation., Louisville, KY
 : null
@@ -7933,6 +7939,8 @@
 3300 Woodland Dr, Louisville, KY:
   lat: 38.176862
   lng: -85.873196
+3400 Atwork Hall, Louisville, KY: null
+3400 Atwork Hall, was checked by responding officers. The vehicle was found, Louisville, KY: null
 3400 Barton Road 9:37 a, Louisville, KY: null
 3400 Barton Road 9:37 a.m.AM, Louisville, KY: null
 ? 3400 Barton Road to assist a 40-year-old female experiencing a possible fainting
@@ -14095,6 +14103,9 @@
 8100 Smithton Rd, Louisville, KY:
   lat: 38.1349905
   lng: -85.677208
+8100 Terry Rd, Louisville, KY:
+  lat: 38.1364602
+  lng: -85.8736278
 8100 entrance road, Louisville, KY:
   lat: 38.133816
   lng: -85.855557
@@ -14914,6 +14925,9 @@
   lat: 38.1173771
   lng: -85.6048029
 9500 Kalamazoo Road, Louisville, KY: null
+9500 Lamborne Blvd, Louisville, KY:
+  lat: 38.113241
+  lng: -85.813602
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
@@ -15462,6 +15476,7 @@ Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
 Spring Dr and Rock Bay Dr, Louisville, KY: null
+Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
