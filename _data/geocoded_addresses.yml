@@ -211,6 +211,7 @@
 100 Mayo Dr, near Damascus, was experiencing breathing difficulties. Medical responders were sent, Louisville, KY:
   lat: 38.2014671
   lng: -85.6715278
+100 Metalwood, Louisville, KY: null
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
@@ -4709,6 +4710,9 @@
 200 North, near mile marker 29, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North. A vehicle had reportedly ended up within the retaining cables. Details on how the vehicle came, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North. Police units were actively searching, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -7144,6 +7148,7 @@
 300 Meadowood Ct. The complainant stated that a neighbor was making threats due, Louisville, KY:
   lat: 38.1508839
   lng: -85.7686919
+300 Metalwood, Louisville, KY: null
 ? 300 Midfield Access Rd due to suspicious activity. Further police units were dispatched
   to investigate the situation., Louisville, KY
 : null
@@ -9677,6 +9682,9 @@
 4100 Pinecroft Dr, Louisville, KY:
   lat: 38.1335452
   lng: -85.686208
+4100 Ralph Ave, Louisville, KY:
+  lat: 38.2113439
+  lng: -85.8357309
 4100 River Park Dr, Louisville, KY:
   lat: 38.255476
   lng: -85.8193028
@@ -10894,6 +10902,9 @@
   lat: 38.172603
   lng: -85.772021
 500 Selma Ave, Louisville, KY: null
+500 Slack Ave, Louisville, KY:
+  lat: 38.1101382
+  lng: -85.689338
 500 South 18th Street, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
@@ -15183,6 +15194,7 @@
 9900 West Ave, with a large blaze visible behind the location. Responding units canceled their response, Louisville, KY: null
 Adams St and Weller Ave, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
+Algonquin Pky and King Run Road, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
