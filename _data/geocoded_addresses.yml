@@ -5503,6 +5503,9 @@
 2200 Hale Ave, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
+2200 Hale Ave. Some units were involved directly, while others were placed, Louisville, KY:
+  lat: 38.2382143
+  lng: -85.7903012
 2200 Holiday Manor Center, Louisville, KY: null
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched to investigate the cause of the alarm., Louisville,
@@ -11575,6 +11578,8 @@
 5700 W Southern Heights Ave, near a local park. The driver became combative when asked, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
+5800 Coach Gate, Louisville, KY: null
+5800 Coach Gate. Emergency Medical Services were initially dispatched, Louisville, KY: null
 5800 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1029536
   lng: -85.6537319
