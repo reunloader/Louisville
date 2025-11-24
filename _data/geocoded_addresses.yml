@@ -115,6 +115,7 @@
   lng: -85.761257
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
+100 East Halfland Boulevard, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
@@ -1996,6 +1997,9 @@
 1200 Lipps Ln, Louisville, KY:
   lat: 38.142833
   lng: -85.68899
+1200 Logan St, Louisville, KY:
+  lat: 38.2331472
+  lng: -85.7405158
 1200 Markstown Road, Louisville, KY: null
 1200 Monticello Forest Cir, Louisville, KY: null
 1200 Moore Ct and Elliott Park, Louisville, KY: null
@@ -6122,6 +6126,9 @@
 2500 Leona Dr, Louisville, KY:
   lat: 38.1425901
   lng: -85.6107826
+2500 Lindsay Ave, Louisville, KY:
+  lat: 38.260707
+  lng: -85.7048022
 2500 Martin Ave, Louisville, KY:
   lat: 38.1793459
   lng: -85.833847
@@ -6768,6 +6775,7 @@
 2900 Bardstown Rd, Louisville, KY:
   lat: 38.2161315
   lng: -85.6764774
+2900 Blackbarktown Road, Louisville, KY: null
 2900 Bon Air, Louisville, KY:
   lat: 38.2083483
   lng: -85.6587646
@@ -10698,6 +10706,9 @@
 500 Altagate Rd, Louisville, KY:
   lat: 38.2458103
   lng: -85.6862081
+500 Altagate Rd. The specific alert was, Louisville, KY:
+  lat: 38.2458103
+  lng: -85.6862081
 500 Armory Pl, Louisville, KY:
   lat: 38.251287
   lng: -85.76002
@@ -12723,6 +12734,9 @@
 700 Caldwell St, Louisville, KY:
   lat: 38.238567
   lng: -85.742462
+700 Camden Ave, Louisville, KY:
+  lat: 38.1927749
+  lng: -85.7712615
 700 Central Ave and Gate 17, Louisville, KY: null
 700 Central Ave, Louisville, KY:
   lat: 38.2039043
