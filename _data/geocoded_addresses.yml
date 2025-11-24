@@ -213,6 +213,9 @@
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
+100 N S Ewing Ave, Louisville, KY:
+  lat: 38.2518972
+  lng: -85.6994967
 100 N S Jane St, Louisville, KY:
   lat: 38.2518397
   lng: -85.7030962
@@ -2386,6 +2389,9 @@
 : lat: 38.2018157
   lng: -85.6695817
 1300 Dorsey Village Dr, Louisville, KY: null
+1300 E W Breckinridge St, Louisville, KY:
+  lat: 38.2418164
+  lng: -85.758428
 1300 E W Kingston Ave, Louisville, KY: null
 ? 1300 E W Kingston Ave. The vehicle's Santa Fe was damaged, and a note was also discovered
   at this location. Police units responded to document the damage., Louisville, KY
@@ -7177,6 +7183,9 @@
 300 S Hancock St, Louisville, KY:
   lat: 38.252127
   lng: -85.742432
+300 S Jane St, Louisville, KY:
+  lat: 38.2487252
+  lng: -85.7029071
 300 S W Spring St, Louisville, KY: null
 300 Shelby Station, Louisville, KY: null
 300 Shelby Station. A female, described as shorter in stature, was reportedly involved in the incident., Louisville, KY: null
@@ -13007,6 +13016,7 @@
   the responding engine company, Louisville, KY
 : lat: 38.244898
   lng: -85.751927
+700 South Crescent Street, Louisville, KY: null
 700 South Grove Street, Louisville, KY: null
 700 South Hancock, Apartment C23, Louisville, KY: null
 ? 700 South Hancock, Apartment C23. A young man reported being shot by his brother.
