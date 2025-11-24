@@ -1043,6 +1043,9 @@
 1000 South 5th Street, Louisville, KY:
   lat: 38.2394285
   lng: -85.761159
+1000 South 6th Street, Louisville, KY:
+  lat: 38.239763
+  lng: -85.762971
 ? 1000 South Crescent Street. The call involved a resident experiencing difficulty
   breathing. Medical personnel provided assistance to the individual., Louisville,
   KY
@@ -3410,6 +3413,9 @@
   and stealing belongings. The teenager was described as a black male wearing a green
   sweater and was noted, Louisville, KY
 : null
+1600 Whippoorwill Rd, Louisville, KY:
+  lat: 38.2103386
+  lng: -85.7151337
 1600 William E, Louisville, KY:
   lat: 38.2309028
   lng: -85.8205021
@@ -4273,6 +4279,9 @@
   been triggered. Emergency units were dispatched, Louisville, KY
 : lat: 38.2459214
   lng: -85.565646
+200 Downes Ln, Louisville, KY:
+  lat: 38.15957
+  lng: -85.761596
 200 Duncan St, Louisville, KY:
   lat: 38.2623371
   lng: -85.7836576
@@ -7131,6 +7140,7 @@
 ? 3000 Hathaway Avenue following a report of a patient experiencing bleeding from
   both the nose and mouth. Fire Department Engine 10 was assigned, Louisville, KY
 : null
+3000 Heights Lane, Louisville, KY: null
 3000 Hikes Lane 8:00 a, Louisville, KY: null
 3000 Hikes Lane 8:00 a.m.AM, Louisville, KY: null
 3000 Hunsinger Blvd, Louisville, KY: null
@@ -8266,6 +8276,9 @@
 : lat: 38.1910205
   lng: -85.7836633
 3700 Tie In Place, Louisville, KY: null
+3700 W Magnolia Ave, Louisville, KY:
+  lat: 38.2338952
+  lng: -85.816972
 ? 3700 W Wheatmore Dr for a 63-year-old male complaining of foot pain. The patient
   had recently experienced an incident that may have contributed to his discomfort.,
   Louisville, KY
@@ -9774,6 +9787,7 @@
   worry about potential vehicle break-ins in the area. Police units were dispatched,
   Louisville, KY
 : null
+4400 Shannon-Villa Dr, Louisville, KY: null
 4400 South2nd Street, Louisville, KY: null
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
