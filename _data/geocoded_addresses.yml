@@ -3585,6 +3585,9 @@
 1700 Frankfort Ave, Louisville, KY:
   lat: 38.257593
   lng: -85.719367
+1700 Gagel Ave, Louisville, KY:
+  lat: 38.1733587
+  lng: -85.8184499
 1700 Gallagher St, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
@@ -9012,6 +9015,9 @@
 400 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+400 E, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
@@ -9192,6 +9198,9 @@
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+400 S, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 400 Shelby River Road, Louisville, KY: null
 ? 400 Shelby River Road. Specific details about the nature of the activity were not
   immediately available, but police units were dispatched, Louisville, KY
@@ -15296,6 +15305,7 @@ Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cowling Ave and Stratton Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
+Crestwood Ave and Frankfort Ave, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crop St Red Fern Rd and Rookwood Ave, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
