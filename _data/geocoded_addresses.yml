@@ -89,6 +89,9 @@
 100 E Jefferson St, Louisville, KY:
   lat: 38.2528794
   lng: -85.7515837
+100 E Main St, Louisville, KY:
+  lat: 38.2577199
+  lng: -85.7580289
 ? 100 E W Kingston Ave following a report of gunshots. The caller indicated a woman
   was outside holding a gun and had a history of domestic issues. Police units from
   the 500 block of Adam and the 400 block of Baker were involved in the response.,
@@ -8778,6 +8781,7 @@
 3900 Bishop Ln. Units from the 6th Division were assigned, Louisville, KY:
   lat: 38.1871224
   lng: -85.6950539
+3900 Brown Leigh Road, Louisville, KY: null
 ? 3900 Craig Ave who had allegedly disrespected a caller. The individuals, described
   as four females dressed in black, had left the area approximately 30 minutes prior,
   heading towards Bicknell. Police were asked to be aware of their presence., Louisville,
@@ -11618,6 +11622,7 @@
 5600 Baird St, Louisville, KY:
   lat: 38.2644959
   lng: -85.7785887
+5600 Brooker, Louisville, KY: null
 5600 Fox Horn Cir, Louisville, KY:
   lat: 38.1624896
   lng: -85.8562396
