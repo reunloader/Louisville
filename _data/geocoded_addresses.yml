@@ -5857,6 +5857,9 @@
   Louisville, KY
 : lat: 38.2864212
   lng: -85.629189
+2400 Lindbergh Dr, Louisville, KY:
+  lat: 38.215932
+  lng: -85.77453
 2400 Lower Hunters Trace, Louisville, KY:
   lat: 38.1604042
   lng: -85.8554373
@@ -7410,6 +7413,7 @@
 3100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+3100 Equity Pl, Louisville, KY: null
 3100 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
@@ -11561,6 +11565,12 @@
 600 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
+600 Fern Crest Rd, Louisville, KY:
+  lat: 38.1543846
+  lng: -85.6118433
+600 Fern Crest Rd. The individuals involved then attempted, Louisville, KY:
+  lat: 38.1543846
+  lng: -85.6118433
 600 Gaines Avenue, Louisville, KY: null
 600 Greta, Louisville, KY:
   lat: 38.1376681
@@ -14146,6 +14156,7 @@
 900 Des Moines Avenue, near Alford Ave,, Louisville, KY:
   lat: 38.2661152
   lng: -85.8051111
+900 Domino Street, Louisville, KY: null
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
