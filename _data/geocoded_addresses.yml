@@ -6029,6 +6029,9 @@
   available, but crews were on scene, Louisville, KY
 : lat: 38.2658663
   lng: -85.7902979
+2500 Hill Rd, Louisville, KY:
+  lat: 38.2288093
+  lng: -85.7185867
 2500 Kings Hwy, Louisville, KY:
   lat: 38.2232204
   lng: -85.67661
@@ -9056,6 +9059,10 @@
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+400 Shelby River Road, Louisville, KY: null
+? 400 Shelby River Road. Specific details about the nature of the activity were not
+  immediately available, but police units were dispatched, Louisville, KY
+: null
 400 Sherburn Ln, Louisville, KY: null
 ? 400 Sherburn Ln. The reporting party indicated they would handle the situation and
   requested no further dispatch., Louisville, KY
