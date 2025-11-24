@@ -285,6 +285,7 @@
   lat: 38.2289024
   lng: -85.7017791
 100 North Bardstown Rd/ 100 block of North Bel Air, Louisville, KY: null
+100 North Course Street, Louisville, KY: null
 100 North First Blom Parkway, Louisville, KY: null
 100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
@@ -4329,6 +4330,9 @@
 20 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+20 Payne St, Louisville, KY:
+  lat: 38.2511106
+  lng: -85.7197322
 20 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
@@ -9783,6 +9787,7 @@
 4100 Taylor Blvd, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
+4100 Taylor and Derrick Lynn parking lot, Louisville, KY: null
 4100 Tish Rd, Louisville, KY:
   lat: 38.0771637
   lng: -85.8400757
