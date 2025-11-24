@@ -4779,6 +4779,7 @@
 200 West. One unit was dispatched, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 Westbound ramp, Louisville, KY: null
 200 William, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
@@ -5003,6 +5004,12 @@
 2000 Rowan, Louisville, KY:
   lat: 38.260834
   lng: -85.782933
+2000 Runell Rd, Louisville, KY:
+  lat: 38.1440622
+  lng: -85.7830282
+2000 Runell Rd. Responding units were dispatched, Louisville, KY:
+  lat: 38.1440622
+  lng: -85.7830282
 2000 S Preston St, Louisville, KY:
   lat: 38.2195706
   lng: -85.7480574
@@ -8467,6 +8474,9 @@
 ? 3900 South 5th Street. The individual who reported the incident stated that his
   girlfriend had sold his vehicle without his permission., Louisville, KY
 : null
+3900 South 5th Street. While no active disturbance was noted, police units were sent, Louisville, KY:
+  lat: 38.1984123
+  lng: -85.768721
 3900 South Fifth, Louisville, KY: null
 3900 South Sioux Point Square at Norton, Louisville, KY: null
 ? 3900 South Sioux Point Square. The alarm was reported as silent, and responding
@@ -12917,6 +12927,7 @@
 7400 Lorenzo Ln, Louisville, KY:
   lat: 38.1459084
   lng: -85.6232417
+7400 Payette Road, Louisville, KY: null
 7400 South3rd St Rene Rd, Louisville, KY: null
 7400 Stablecrest, Louisville, KY: null
 ? 7400 Stablecrest. Initial observations from the exterior did not show any visible
