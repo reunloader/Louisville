@@ -3018,6 +3018,9 @@
   worked to contain and extinguish the blaze., Louisville, KY
 : null
 1400 Wood Valley Ln. The incident involved a grass and brush area. Firefighters worked, Louisville, KY: null
+1400 Woodland Ave, Louisville, KY:
+  lat: 38.2342544
+  lng: -85.8028824
 14000 Old Station Rd, Louisville, KY:
   lat: 38.2460035
   lng: -85.4966726
@@ -4822,6 +4825,9 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South, near Spurn., Louisville, KY: null
+200 Southern Ave, Louisville, KY:
+  lat: 38.1886289
+  lng: -85.7589791
 200 St, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -4864,6 +4870,7 @@
   condition or the circumstances of the incident were not provided., Louisville, KY
 : null
 200 West Kennymber 2, Louisville, KY: null
+200 West Lawrence, Louisville, KY: null
 200 West Market, Louisville, KY:
   lat: 38.2546697
   lng: -85.7537855
@@ -9299,6 +9306,7 @@
 400 South 8th Street. Medical assistance was provided, Louisville, KY:
   lat: 38.2525979
   lng: -85.7647916
+400 South A Street, Louisville, KY: null
 400 South A Trent Ave Plaza, Louisville, KY: null
 400 South H Street, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
