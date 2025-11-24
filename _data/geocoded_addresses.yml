@@ -6905,6 +6905,12 @@
 300 Royer Ct, Louisville, KY:
   lat: 38.2590233
   lng: -85.6871544
+300 S Clay St, Louisville, KY:
+  lat: 38.2518809
+  lng: -85.7406907
+300 S Clay St. The specific reason, Louisville, KY:
+  lat: 38.2518809
+  lng: -85.7406907
 300 S Hancock St, Louisville, KY:
   lat: 38.252127
   lng: -85.742432
@@ -14698,6 +14704,7 @@ Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
+Landside Dr and Breckenridge Ln, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
