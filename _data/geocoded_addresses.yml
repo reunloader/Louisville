@@ -4649,6 +4649,9 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South at Spurn, Louisville, KY: null
+200 South at Stone St, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
 200 South to Newcutt Road, turning onto Old Manslick Rd, Louisville, KY: null
@@ -10571,6 +10574,7 @@
 500 South Churchway, Louisville, KY: null
 500 South Service Street, Louisville, KY: null
 500 South, Louisville, KY: null
+500 South-A, Louisville, KY: null
 500 Village West Dr, Louisville, KY:
   lat: 38.2519645
   lng: -85.7665279
@@ -12781,6 +12785,9 @@
 ? 7100 I-64 West. The daughter reportedly left the scene in a red sedan, accompanied
   by a three-month-old child., Louisville, KY
 : null
+7100 Johnsontown Rd, Louisville, KY:
+  lat: 38.1159595
+  lng: -85.8907355
 7100 M Street, Louisville, KY:
   lat: 38.2092052
   lng: -85.7665391
@@ -14840,6 +14847,7 @@ Old Henry Rd and Aiken Rd, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
 Overlook Dr and Seminary Rd, Louisville, KY: null
 Oxmoor Ln and Black Road, Louisville, KY: null
+Palatka Rd and Manslick Rd, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
