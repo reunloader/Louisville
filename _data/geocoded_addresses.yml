@@ -3941,6 +3941,9 @@
 1800 Farnsley Rd, Louisville, KY:
   lat: 38.200783
   lng: -85.802433
+1800 Farnsley, Louisville, KY:
+  lat: 38.200783
+  lng: -85.802433
 1800 Fleming Rd, Louisville, KY:
   lat: 38.2154376
   lng: -85.6930789
@@ -9024,6 +9027,7 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+400 East Shepherd Street, Louisville, KY: null
 ? 400 East W Kentucky St due to complaints of chest pain and a cough. Responders were
   back in service shortly after 2:17 p.m., Louisville, KY
 : null
