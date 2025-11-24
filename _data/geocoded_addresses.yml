@@ -2562,6 +2562,9 @@
   KY
 : lat: 38.2324909
   lng: -85.7610176
+1300 South 6th Street, Louisville, KY:
+  lat: 38.2329726
+  lng: -85.7643696
 1300 South Second Street, before officers ceased pursuit, Louisville, KY: null
 1300 South Second Street, before officers ceased pursuit., Louisville, KY: null
 1300 South Second [Morning], Louisville, KY: null
@@ -3004,6 +3007,9 @@
 1400 St. James Rae Pl. Police units were dispatched to assess the situation., Louisville, KY: null
 1400 St. James Rae Pl. Police units were dispatched, Louisville, KY: null
 1400 St. St James Ct., Louisville, KY: null
+1400 Thornberry Ave, Louisville, KY:
+  lat: 38.206006
+  lng: -85.7807193
 1400 Thornberry, Louisville, KY:
   lat: 38.206006
   lng: -85.7807193
@@ -6036,6 +6042,7 @@
 2400 Mellwood Ave, Louisville, KY:
   lat: 38.2676236
   lng: -85.7033014
+2400 Mellwood Ave-12, Louisville, KY: null
 2400 Millers Meadow Dr, Louisville, KY: null
 2400 Nelson Miller Pky, Louisville, KY:
   lat: 38.2779807
@@ -15568,6 +15575,7 @@ Poplovo Road and Taylor Ave, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
+Princeton Dr and Bardstown Rd, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
