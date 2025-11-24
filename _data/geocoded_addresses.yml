@@ -6016,6 +6016,9 @@
 ? 2500 Paris Road Drive, with the event having occurred the prior evening. Information
   regarding previous police responses, Louisville, KY
 : null
+2500 Pennacook Rd, Louisville, KY:
+  lat: 38.155736
+  lng: -85.804731
 2500 Portland Ave, Louisville, KY:
   lat: 38.2703586
   lng: -85.7892425
@@ -9714,6 +9717,10 @@
 4300 Towne Center Dr. Officers arrived on scene, Louisville, KY:
   lat: 38.3010535
   lng: -85.556485
+4300 Vermont Ave, Louisville, KY:
+  lat: 38.2570079
+  lng: -85.8223832
+4300 Vermont Ave, where a woman stated her boyfriend refused, Louisville, KY: null
 4300 W Market St, Louisville, KY:
   lat: 38.263543
   lng: -85.819932
