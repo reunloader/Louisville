@@ -2403,6 +2403,9 @@
 1300 Old Fern Valley Rd. The individual had initially gone, Louisville, KY:
   lat: 38.1554819
   lng: -85.6901603
+1300 Pembroke Rd, Louisville, KY:
+  lat: 38.2238961
+  lng: -85.6240166
 1300 Pine Tar Ct, Louisville, KY: null
 1300 Pine Tar Ct, near Betty Ray. Responding units were dispatched to investigate the cause of the alarm., Louisville, KY: null
 1300 Pine Tar Ct, near Betty Ray. Responding units were dispatched, Louisville, KY: null
@@ -2522,6 +2525,7 @@
   lat: 38.2402937
   lng: -85.7309237
 1300 Tafloid Street, Louisville, KY: null
+1300 Tim Rove, Louisville, KY: null
 1300 Top Second Street, Louisville, KY: null
 1300 Trinity Park Dr, Louisville, KY:
   lat: 38.1889622
@@ -3378,6 +3382,12 @@
   to the scene to assess and treat the patient., Louisville, KY
 : null
 1600 Patent Court, specifically in Building 39, Apartment H. Responders were alerted, Louisville, KY: null
+1600 Pembroke Rd, Louisville, KY:
+  lat: 38.2238961
+  lng: -85.6240166
+1600 Pembroke Rd. Police units were dispatched, Louisville, KY:
+  lat: 38.2238961
+  lng: -85.6240166
 1600 Poplar Level Rd, Louisville, KY:
   lat: 38.21745
   lng: -85.72667
@@ -10552,6 +10562,8 @@
   lat: 38.2444725
   lng: -85.7544415
 500 Eagle Pond Plain, Louisville, KY: null
+500 Five Feet, Louisville, KY: null
+500 Five Feet. Emergency services were dispatched, Louisville, KY: null
 500 Fountain Ave near Warwick Ave, Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
@@ -14299,6 +14311,12 @@
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
   lng: -85.81775
+9100 Brandywyne Dr, Louisville, KY:
+  lat: 38.163487
+  lng: -85.588224
+9100 Brandywyne Dr. The individual responsible, Louisville, KY:
+  lat: 38.163487
+  lng: -85.588224
 9100 Cousin Court, Louisville, KY: null
 9100 Cousin Court, with responders heading to the 700 block of Cousin Court to assist the individual., Louisville, KY: null
 9100 Cousin Court, with responders heading, Louisville, KY: null
