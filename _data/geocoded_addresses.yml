@@ -3872,6 +3872,7 @@
 1800 Bicknell Ave. A firefighter on scene assessed the situation and determined it, Louisville, KY:
   lat: 38.183708
   lng: -85.792353
+1800 Blankabank Parkway, Louisville, KY: null
 1800 Blankenbaker Pky PARKWAY, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -10194,6 +10195,9 @@
   was experiencing chest pain and vomiting. Responders arrived on scene, Louisville,
   KY
 : null
+4500 COD Drive, Louisville, KY:
+  lat: 38.0983937
+  lng: -85.8460241
 4500 Chillyville Road, Louisville, KY: null
 4500 Chillyville Road, near Thornton, Louisville, KY:
   lat: 38.252431
@@ -10649,6 +10653,7 @@
 4900 Hanses Dr, Louisville, KY:
   lat: 38.1601786
   lng: -85.6794729
+4900 Kermit's Run Road, Louisville, KY: null
 4900 Manslick Rd, Louisville, KY:
   lat: 38.1751656
   lng: -85.7981771
@@ -12364,6 +12369,9 @@
   lat: 38.1554399
   lng: -85.6031247
 6400 Westwind Way, Louisville, KY: null
+6400 [unspecified], Louisville, KY:
+  lat: 38.1580507
+  lng: -85.6630867
 65 North Crittenden Drive, Louisville, KY:
   lat: 38.1826445
   lng: -85.7529054
@@ -12718,6 +12726,9 @@
 6900 Southside Dr, Louisville, KY:
   lat: 38.157992
   lng: -85.764776
+6900 Sylvania Rd, Louisville, KY:
+  lat: 38.153508
+  lng: -85.876225
 6900 Triangle Dr, Louisville, KY:
   lat: 38.1615302
   lng: -85.8015495
