@@ -3933,6 +3933,9 @@
 : lat: 38.2565197
   lng: -85.7166551
 1800 Grand Ave due, Louisville, KY: null
+1800 Grand Ave, Louisville, KY:
+  lat: 38.239902
+  lng: -85.78658
 1800 Grand Ave. Simultaneously, another call came in, Louisville, KY:
   lat: 38.239902
   lng: -85.78658
@@ -11282,6 +11285,9 @@
 5300 Torrington Ct, Louisville, KY:
   lat: 38.0929513
   lng: -85.8645476
+5300 West Ave, Louisville, KY:
+  lat: 38.1089403
+  lng: -85.8525494
 5300 Youthwood Avenue, Louisville, KY: null
 5301 Milner Rd, Louisville, KY:
   lat: 38.1621035
@@ -12566,6 +12572,9 @@
   Louisville, KY
 : null
 6900 Lethbridge Road, Louisville, KY: null
+6900 Mount Washington Rd, Louisville, KY:
+  lat: 38.0834096
+  lng: -85.63505
 6900 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
