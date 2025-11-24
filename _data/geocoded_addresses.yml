@@ -4715,6 +4715,9 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South and New Cut Rd, Louisville, KY: null
+200 South at Brownsboro Rd, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South at Interstate 64, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -9353,6 +9356,9 @@
 4000 Southern Pky, Louisville, KY:
   lat: 38.1966062
   lng: -85.7673687
+4000 Spring Park Ln, Louisville, KY:
+  lat: 38.188436
+  lng: -85.614176
 4000 Summit Plaza Dr, Louisville, KY:
   lat: 38.3081143
   lng: -85.577641
@@ -12129,6 +12135,9 @@
 ? 6500 Mary F Mary F Hackley Aly DRIVE. Responding units assessed the situation and
   subsequently cleared the scene. Further details, Louisville, KY
 : null
+6500 Moorhaven Dr, Louisville, KY:
+  lat: 38.1483723
+  lng: -85.6399036
 6500 N N Preston Hwy, Louisville, KY: null
 6500 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
@@ -15019,6 +15028,7 @@ Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
 Garland Ave and Doerhoefer Ave, Louisville, KY: null
+Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
