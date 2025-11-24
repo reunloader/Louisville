@@ -9485,6 +9485,9 @@
 4000 James Rd, Louisville, KY:
   lat: 38.1920024
   lng: -85.7436865
+4000 Lambert Ave, Louisville, KY:
+  lat: 38.1831717
+  lng: -85.6533872
 4000 Laurelwood Ave, Louisville, KY:
   lat: 38.226391
   lng: -85.634019
@@ -14150,6 +14153,9 @@
 8100 Bardstown Rd, Louisville, KY:
   lat: 38.131357
   lng: -85.578224
+8100 Carnes Dr, Louisville, KY:
+  lat: 38.1326196
+  lng: -85.6919963
 8100 Denmark St, Louisville, KY:
   lat: 38.1957419
   lng: -85.7727344
@@ -14678,6 +14684,7 @@
   broken elbow and head trauma. EMS was dispatched to provide medical attention and
   transport, Louisville, KY
 : null
+900 South First Street, Louisville, KY: null
 900 South I-65, Louisville, KY: null
 900 South Second Street, Louisville, KY: null
 900 Southgate Manor Dr, Louisville, KY:
