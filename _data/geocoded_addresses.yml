@@ -486,6 +486,9 @@
 100 W Kentucky St, Louisville, KY:
   lat: 38.238326
   lng: -85.754831
+100 W Market St, Louisville, KY:
+  lat: 38.2544972
+  lng: -85.7522553
 100 West Adairmber, Louisville, KY: null
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
@@ -2711,6 +2714,9 @@
 1400 Browns Ln,, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
+1400 Catalpa St, Louisville, KY:
+  lat: 38.2339946
+  lng: -85.8022842
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -3265,6 +3271,9 @@
 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting, Louisville, KY:
   lat: 38.220888
   lng: -85.738448
+1500 W Madison St, Louisville, KY:
+  lat: 38.251981
+  lng: -85.776056
 1500 W Ormsby Ave, Louisville, KY:
   lat: 38.2342436
   lng: -85.77928
@@ -9291,6 +9300,7 @@
   lat: 38.2525979
   lng: -85.7647916
 400 South A Trent Ave Plaza, Louisville, KY: null
+400 South H Street, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
 ? 400 South Hubbard. The specific circumstances leading to the check were not detailed
   in the initial report., Louisville, KY
@@ -12817,6 +12827,9 @@
 700 E Main St, Louisville, KY:
   lat: 38.254691
   lng: -85.739665
+700 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 700 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
