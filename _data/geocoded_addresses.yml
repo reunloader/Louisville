@@ -418,6 +418,7 @@
 100 South 6th Street, Louisville, KY:
   lat: 38.256869
   lng: -85.759959
+100 South East Street who was experiencing stomach problems. Police units were available, Louisville, KY: null
 100 South Second Street Courtyard, Louisville, KY: null
 100 South Shelby, Louisville, KY:
   lat: 38.254461
@@ -4925,6 +4926,9 @@
   lat: 38.259507
   lng: -85.707085
 2000 Chadwick Glen Pl, Louisville, KY: null
+2000 Chattanooga Ave. Police units responded, Louisville, KY:
+  lat: 38.1293345
+  lng: -85.769904
 2000 Duncan Street, [Date] Evening, Louisville, KY: null
 2000 E W Lee St, Louisville, KY:
   lat: 38.2232049
@@ -7486,6 +7490,9 @@
   lat: 38.2003115
   lng: -85.6081245
 3200 Cramsway and Crossroad, Louisville, KY: null
+3200 Dumesnil St. Police units responded, Louisville, KY:
+  lat: 38.237293
+  lng: -85.807346
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
   lng: -85.6844039
@@ -7685,6 +7692,7 @@
 3300 Utah Ave, Louisville, KY:
   lat: 38.2062816
   lng: -85.7851095
+3300 Van Winkle Dr who was reportedly seeking police assistance and appeared, Louisville, KY: null
 ? 3300 Vector Avenue following a report of a traffic accident. The incident was classified
   as non-injury, and police units responded to manage the scene., Louisville, KY
 : null
@@ -13316,6 +13324,9 @@
   lat: 38.2414889
   lng: -85.7789521
 800 E W Market St, Louisville, KY:
+  lat: 38.2555218
+  lng: -85.7594798
+800 E W Market St. Police units responded, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
 ? 800 East Muhammad Alley following a report of a possible robbery or assault. The
