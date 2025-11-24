@@ -1171,6 +1171,9 @@
 10100 Dixie Hwy, Louisville, KY:
   lat: 38.1092544
   lng: -85.8662683
+10100 Fallen Sky Dr, Louisville, KY:
+  lat: 38.1123493
+  lng: -85.6651194
 ? 10100 Laurent Way. The location was described as a complex situated near a pond.
   Responding officers experienced some initial difficulty pinpointing the exact building
   number and received guidance to locate it., Louisville, KY
@@ -4011,6 +4014,12 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Frankfort, Louisville, KY:
+  lat: 38.255389
+  lng: -85.712602
+1900 Frankfort. Police units were dispatched, Louisville, KY:
+  lat: 38.255389
+  lng: -85.712602
 1900 Goldsmith Ln, Louisville, KY:
   lat: 38.20016
   lng: -85.684587
@@ -4501,6 +4510,9 @@
   lat: 38.257169
   lng: -85.694641
 200 Lysander Dr, Louisville, KY: null
+200 Marty Ln, Louisville, KY:
+  lat: 38.1595879
+  lng: -85.6727403
 200 Masonic Home Dr, Louisville, KY:
   lat: 38.2574552
   lng: -85.6633936
@@ -5314,6 +5326,12 @@
   lng: -85.70143
 2200 Amboy Dr, Louisville, KY: null
 2200 Ansel Way, Louisville, KY: null
+2200 Appomattox Rd, Louisville, KY:
+  lat: 38.1279601
+  lng: -85.7714249
+2200 Appomattox Rd, near Atlanta Parkway, Louisville, KY:
+  lat: 38.1279601
+  lng: -85.7714249
 2200 Arthur St, Louisville, KY:
   lat: 38.2154945
   lng: -85.7528626
@@ -8264,6 +8282,7 @@
 3700 Rouge Way, Louisville, KY:
   lat: 38.204316
   lng: -85.648926
+3700 Seventh Street Rene Road, Louisville, KY: null
 3700 Sourwood Ct, Louisville, KY:
   lat: 38.214216
   lng: -85.629305
@@ -10933,6 +10952,7 @@
 5200 Laurel Grove Ct, Louisville, KY:
   lat: 38.1289808
   lng: -85.6279894
+5200 Marty Ln and 200 block of Marty Ln, Louisville, KY: null
 5200 Russett Blvd, Louisville, KY:
   lat: 38.1655538
   lng: -85.6661966
