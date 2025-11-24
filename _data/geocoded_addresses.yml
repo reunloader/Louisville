@@ -5559,6 +5559,9 @@
 2200 Gerald Ct, Louisville, KY:
   lat: 38.200334
   lng: -85.661724
+2200 Grand Ave, Louisville, KY:
+  lat: 38.2401018
+  lng: -85.7899809
 2200 Greenbelt Hwy, Louisville, KY:
   lat: 38.1635691
   lng: -85.8795608
@@ -12598,6 +12601,9 @@
   KY
 : lat: 38.1526012
   lng: -85.6377444
+6800 Arbor Creek Dr, Louisville, KY:
+  lat: 38.1224838
+  lng: -85.6176279
 6800 Bar Stamp Rd, Louisville, KY: null
 6800 Beard Ct, Louisville, KY:
   lat: 38.1293675
@@ -12742,6 +12748,9 @@
 ? 6900 North Bardstown Rd. Responding officers conducted a thorough check of the property
   and determined the alarm was a false activation., Louisville, KY
 : null
+6900 Oakview Ct, Louisville, KY:
+  lat: 38.1487184
+  lng: -85.6187751
 6900 Redwoods Road, Louisville, KY: null
 6900 Riverport Dr, Louisville, KY:
   lat: 38.1609416
@@ -13248,6 +13257,9 @@
 7000 Preston Hwy, Louisville, KY:
   lat: 38.1504308
   lng: -85.6940618
+7000 Shipley Ln, Louisville, KY:
+  lat: 38.050769
+  lng: -85.897892
 7000 Sugarwood Ct, Louisville, KY:
   lat: 38.2958207
   lng: -85.6197931
