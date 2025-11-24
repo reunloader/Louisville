@@ -132,6 +132,9 @@
 100 East W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
 100 East W Kingston Ave. Police units were sent, Louisville, KY: null
 100 East W W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
+100 Edgewood Way, Louisville, KY:
+  lat: 38.249039
+  lng: -85.553567
 100 Egypt Ln, Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
@@ -2314,6 +2317,14 @@
   lat: 38.0721501
   lng: -85.8951203
 12700 Bay Tree Way near Bay Cove Ct, Louisville, KY: null
+12700 Bay Tree Way, Louisville, KY:
+  lat: 38.307964
+  lng: -85.519984
+? 12700 Bay Tree Way. A 70-year-old female had fallen while getting out of a chair.
+  Although she reported no significant injuries, she did sustain bruises. Medical
+  assistance was provided, Louisville, KY
+: lat: 38.307964
+  lng: -85.519984
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
 12800 Lower River Rd, Louisville, KY:
@@ -6206,6 +6217,9 @@
 2500 Six Mile Ln, Louisville, KY:
   lat: 38.1987182
   lng: -85.6042955
+2500 Six Mile Ln. Units responded, Louisville, KY:
+  lat: 38.1987182
+  lng: -85.6042955
 2500 Slate Dr, Louisville, KY:
   lat: 38.1049283
   lng: -85.7204367
@@ -9769,6 +9783,9 @@
 4100 Taylor Blvd, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
+4100 Tish Rd, Louisville, KY:
+  lat: 38.0771637
+  lng: -85.8400757
 4100 Towne Center Dr, Louisville, KY:
   lat: 38.2990939
   lng: -85.553818
