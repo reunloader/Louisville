@@ -2620,6 +2620,7 @@
 13500 Triton Park Blvd, Louisville, KY:
   lat: 38.279377
   lng: -85.504782
+13600 Aragon Way, Louisville, KY: null
 13600 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
@@ -10648,6 +10649,9 @@
 500 Mount Holly Rd, Louisville, KY:
   lat: 38.1037287
   lng: -85.7576846
+500 New Cut Rd, Louisville, KY:
+  lat: 38.1574318
+  lng: -85.7779933
 500 North 22nd Street, Louisville, KY:
   lat: 38.266703
   lng: -85.783596
@@ -12212,6 +12216,9 @@
   lng: -85.5948852
 6700 Bay and Reed Ave to assess a 45-year-old male experiencing difficulty breathing., Louisville, KY: null
 6700 Bay and Reed Ave, Louisville, KY: null
+6700 Bohne Ave, Louisville, KY:
+  lat: 38.2289649
+  lng: -85.8177751
 6700 Broadhale Dr, Louisville, KY:
   lat: 38.1493268
   lng: -85.6140702
