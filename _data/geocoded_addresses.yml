@@ -2185,6 +2185,8 @@
   KY
 : null
 12000 Plantsides Rav. Initial reports suggested the possibility of smoke and flames, leading, Louisville, KY: null
+12100 Kentucky Mills Dr, Louisville, KY: null
+12100 Kentucky Mills Dr. The call was in reference, Louisville, KY: null
 12100 LaGrange Road, Louisville, KY:
   lat: 38.2804338
   lng: -85.5167542
@@ -5158,6 +5160,9 @@
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
   lng: -85.795784
+2100 Dixie Hwy, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 2100 Duncan St to investigate a suspicious incident. Officers were on scene to address the situation., Louisville, KY: null
 2100 Duncan St, Louisville, KY:
   lat: 38.2621678
@@ -11413,6 +11418,9 @@
   lng: -85.8349572
 600 David were involved in this stop, Louisville, KY: null
 600 David were involved in this stop., Louisville, KY: null
+600 Dumesnil St, Louisville, KY:
+  lat: 38.2357119
+  lng: -85.7798286
 600 E W Oak St, Number 4, Louisville, KY: null
 ? 600 East Broadway following a report of an individual down. Upon arrival, responders
   found the person covered by a blanket. Emergency medical services assessed the situation
@@ -11735,6 +11743,10 @@
 6100 Billtown Rd, Louisville, KY:
   lat: 38.1563744
   lng: -85.561275
+? 6100 Dumesnil St. Witnesses also observed smoke emanating from the vehicle, indicating
+  a potential fire. Fire units were dispatched, Louisville, KY
+: lat: 38.2357119
+  lng: -85.7798286
 ? 6100 Dunevigan Road. There were indications of glass breaking, prompting a dispatch
   of units to investigate the potential burglary., Louisville, KY
 : null
@@ -12344,6 +12356,9 @@
   Louisville, KY
 : null
 700 Douglas Park, Louisville, KY:
+  lat: 38.1784089
+  lng: -85.7605676
+700 Douglas Park. The occupants were evacuating the building after smelling gas, which they believed, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
 700 Dresden, Louisville, KY:
