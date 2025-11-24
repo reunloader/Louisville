@@ -6112,6 +6112,8 @@
 ? 2500 Terra Crossing Blvd. The alarms were associated with a parts delivery door
   and another area within the facility., Louisville, KY
 : null
+2500 Tregaron Ave, Louisville, KY: null
+2500 Tregaron Ave. Assigned units were dispatched, Louisville, KY: null
 2500 Trubart Ln, Louisville, KY:
   lat: 38.181441
   lng: -85.839505
@@ -13518,6 +13520,12 @@
   lat: 38.2465306
   lng: -85.6101327
 7900 Stonemill Ct, Louisville, KY: null
+7900 Village Point Dr, Louisville, KY:
+  lat: 38.1600035
+  lng: -85.6127431
+7900 Village Point Dr. The request prompted a response from units, Louisville, KY:
+  lat: 38.1600035
+  lng: -85.6127431
 7900 Westford Loop, Louisville, KY: null
 7900 Westport Loop. Responders were dispatched to help her regain entry., Louisville, KY: null
 7900 Westport Loop. Responders were dispatched, Louisville, KY: null
