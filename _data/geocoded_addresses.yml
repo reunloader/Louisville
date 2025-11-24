@@ -1811,6 +1811,9 @@
   lng: -85.5373667
 11900 Sanford Plaza in response, Louisville, KY: null
 11900 Sanford Plaza, Louisville, KY: null
+11900 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 11900 Standford Plaza, Louisville, KY: null
 ? 11900 Standford Plaza. The situation was later reclassified as a suspicious person,
   and police units were dispatched., Louisville, KY
@@ -8693,6 +8696,9 @@
   lng: -85.7197322
 3900 Petrie Avenue, Louisville, KY: null
 3900 Petrie Avenue. Upon its recovery, a threatening note was discovered inside the vehicle., Louisville, KY: null
+3900 Preston Hwy, Louisville, KY:
+  lat: 38.1950923
+  lng: -85.7300334
 3900 Shelbyville Rd, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
@@ -12246,6 +12252,7 @@
 6400 Renate Rd, Louisville, KY:
   lat: 38.1554399
   lng: -85.6031247
+6400 Westwind Way, Louisville, KY: null
 65 North Crittenden Drive, Louisville, KY:
   lat: 38.1826445
   lng: -85.7529054
@@ -13584,6 +13591,9 @@
 7900 Loft Ct, Louisville, KY:
   lat: 38.1320351
   lng: -85.5949417
+7900 Machupe Ct, Louisville, KY:
+  lat: 38.3081126
+  lng: -85.6014667
 7900 Moss Creek Dr, Louisville, KY:
   lat: 38.142368
   lng: -85.8688161
@@ -14233,6 +14243,9 @@
   lng: -85.6361054
 8700 Windridge Creekway near Twin Ridge Rd, Louisville, KY: null
 8700 Wolflor Branchway, Louisville, KY: null
+8700 Zachary Cir, Louisville, KY:
+  lat: 38.1425421
+  lng: -85.7732702
 8800 Dixie Hwy, Louisville, KY:
   lat: 38.125443
   lng: -85.8527303
