@@ -1467,6 +1467,9 @@
 1100 Logan St., Louisville, KY:
   lat: 38.2351031
   lng: -85.7398515
+1100 Longfield Ave, Louisville, KY:
+  lat: 38.198414
+  lng: -85.7785067
 1100 Maple Brook Dr, Louisville, KY:
   lat: 38.3022833
   lng: -85.5439993
@@ -2018,6 +2021,9 @@
 1200 S Brook St, Louisville, KY:
   lat: 38.2343
   lng: -85.753799
+1200 S Clay St, Louisville, KY:
+  lat: 38.233669
+  lng: -85.7436468
 1200 S Preston St, Louisville, KY:
   lat: 38.233888
   lng: -85.7496363
@@ -5229,6 +5235,9 @@
 2100 Emerson Ave, Louisville, KY:
   lat: 38.2177507
   lng: -85.6832782
+2100 Garland Ave, Louisville, KY:
+  lat: 38.2437253
+  lng: -85.7876351
 2100 Goldsmith Ln, Louisville, KY:
   lat: 38.2059543
   lng: -85.6729834
@@ -7329,6 +7338,9 @@
 : lat: 38.219343
   lng: -85.617987
 3000 Taylor's Old Mill Rd, Louisville, KY: null
+3000 W Kentucky St, Louisville, KY:
+  lat: 38.2434084
+  lng: -85.8033096
 3000 W Market St, Louisville, KY:
   lat: 38.2601587
   lng: -85.8006669
