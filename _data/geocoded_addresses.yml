@@ -1209,6 +1209,7 @@
 10300 Gageland Rd, Louisville, KY:
   lat: 38.1485446
   lng: -85.8528443
+10300 Garlanreid Pl, Louisville, KY: null
 ? 10300 King Oak Street Court. The call was for a 56-year-old female experiencing
   difficulty breathing. She was reportedly waiting by the back door in a wheelchair
   for assistance., Louisville, KY
@@ -5796,6 +5797,9 @@
   lng: -85.5126309
 2400 Osborne Dr. Fire and EMS units were on scene and prepared to provide assistance as needed., Louisville, KY: null
 2400 Osborne Dr. Fire and EMS units were on scene and prepared, Louisville, KY: null
+2400 Parkdale Ave, Louisville, KY:
+  lat: 38.235684
+  lng: -85.621528
 ? 2400 Rockford Ln following a report of an unconscious male. First responders administered
   one dose of Narcan upon arrival, as the individual was breathing but unresponsive,
   with suspected drug use. This incident was associated with a two-car accident.,
