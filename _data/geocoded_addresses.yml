@@ -613,6 +613,9 @@
   lng: -85.724091
 1000 Barrenness, Louisville, KY: null
 1000 Beaver St, but the pursuit was later canceled, Louisville, KY: null
+1000 Beecher St, Louisville, KY:
+  lat: 38.1911202
+  lng: -85.7779187
 1000 Berkshaw Road, Louisville, KY: null
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
@@ -1373,6 +1376,9 @@
 1100 Bardstown Rd, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Beecher St. Responding units were able, Louisville, KY:
+  lat: 38.191597
+  lng: -85.779659
 1100 Berry Blvd, Louisville, KY:
   lat: 38.1959315
   lng: -85.7797207
@@ -2998,6 +3004,9 @@
 14000 Schutte Station Pl, Louisville, KY:
   lat: 38.2118141
   lng: -85.5232325
+14400 Harkaway Ave, Louisville, KY:
+  lat: 38.227493
+  lng: -85.49891
 14400 Old Henry Rd, Louisville, KY:
   lat: 38.2720074
   lng: -85.4958216
