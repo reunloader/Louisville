@@ -12936,11 +12936,19 @@
 7100 Global Dr, Louisville, KY:
   lat: 38.1381438
   lng: -85.8905994
+? 7100 Global Dr. Further information about the nature of the suspicious activity
+  was not immediately available. Police units were sent, Louisville, KY
+: lat: 38.1381438
+  lng: -85.8905994
 ? 7100 Global Dr. Responding units were sent to the location to ensure the person's
   well-being and provide any necessary assistance., Louisville, KY
 : null
 7100 Global Dr. Responding units were sent, Louisville, KY:
   lat: 38.1381438
+  lng: -85.8905994
+? 7100 Global Dr. The report did not include details about the vehicle's description
+  or why it was considered suspicious. Units were dispatched, Louisville, KY
+: lat: 38.1381438
   lng: -85.8905994
 7100 Green Spring Dr, Louisville, KY: null
 7100 Greengate Ct, Louisville, KY: null
@@ -14040,6 +14048,19 @@
   lat: 38.1220474
   lng: -85.7484539
 8800 Perry Rd, Louisville, KY: null
+8800 Preston Hwy, Louisville, KY:
+  lat: 38.1247971
+  lng: -85.6795161
+8800 Preston Hwy. Additional information regarding the reason, Louisville, KY:
+  lat: 38.1247971
+  lng: -85.6795161
+? 8800 Preston Hwy. The circumstances prompting the welfare check were not specified.
+  Responding units proceeded, Louisville, KY
+: lat: 38.1247971
+  lng: -85.6795161
+8800 Preston Hwy. The specific reason, Louisville, KY:
+  lat: 38.1247971
+  lng: -85.6795161
 8800 Sanctuary Ln, Louisville, KY:
   lat: 38.122357
   lng: -85.577885
