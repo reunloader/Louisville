@@ -9342,6 +9342,7 @@
 : null
 4000 Burrell Dr, Louisville, KY: null
 4000 Burrell Dr. Fortunately, another responding unit was able, Louisville, KY: null
+4000 Chain Red Road, Louisville, KY: null
 ? 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines
   41 and 47 responded to the scene to investigate the cause of the alarm and ensure
   the safety of the building., Louisville, KY
@@ -9412,6 +9413,9 @@
 ? 4000 Produce Rd. Responding units included elements from the 600 block of division
   B3 and 600 block of Baker., Louisville, KY
 : null
+4000 Ralph Ave, Louisville, KY:
+  lat: 38.2110233
+  lng: -85.8341508
 4000 Serene Way, Louisville, KY:
   lat: 38.159645
   lng: -85.6881029
@@ -14048,6 +14052,7 @@
   lat: 38.2957056
   lng: -85.5975753
 821 Winclair Avenue, Louisville, KY: null
+82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
 8300 Lindsay Ct, Louisville, KY:
   lat: 38.2605244
