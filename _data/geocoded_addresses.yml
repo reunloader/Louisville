@@ -1273,6 +1273,9 @@
   was in distress and requested immediate medical attention., Louisville, KY
 : lat: 38.2346744
   lng: -85.4583861
+10405 Preston Hwy, Louisville, KY:
+  lat: 38.0993972
+  lng: -85.6716879
 10500 Bay Pointe Ct, Louisville, KY:
   lat: 38.3026745
   lng: -85.5549039
@@ -2632,6 +2635,7 @@
 13900 Promenade Greenway in the 2nd office area, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
+13900 Taylor's Hill Rd, Louisville, KY: null
 1400 Ackermack Drive, Louisville, KY: null
 1400 Aiken Ridge Dr, Louisville, KY: null
 1400 Anna Ln where a male had left a motorcycle in his driveway. The motorcycle was noted, Louisville, KY: null
@@ -6839,6 +6843,7 @@
 300 Bardstown Rd, near Thornton, in response, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
+300 Beaver St area, Louisville, KY: null
 300 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -10309,6 +10314,9 @@
 ? 4700 W W Southern Heights Ave. Responding units were dispatched to the location
   to assess and manage the situation., Louisville, KY
 : null
+4715 Preston Hwy, Louisville, KY:
+  lat: 38.1794727
+  lng: -85.7176764
 4800 Building Way, Louisville, KY: null
 4800 COVID Drive 1:30 p, Louisville, KY: null
 4800 COVID Drive 1:30 p.m., Louisville, KY: null
@@ -13855,6 +13863,9 @@
   lng: -85.607266
 8400 Oxford Woods Corp, Louisville, KY: null
 8400 Oxford Woods Corp., Louisville, KY: null
+8400 Preston Hwy, Louisville, KY:
+  lat: 38.1306351
+  lng: -85.6829862
 8400 River Crest Ct, Cedar Crest Ln, Louisville, KY: null
 ? 8400 Roseboro Road, an area near Cross Meadows Cir, Warfield, and Bainbridge. EMS
   provided care to the patient., Louisville, KY
