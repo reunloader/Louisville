@@ -6069,6 +6069,9 @@
 2500 Nichols View Ct, Louisville, KY:
   lat: 38.1934133
   lng: -85.7960886
+2500 Owen St, Louisville, KY:
+  lat: 38.263663
+  lng: -85.790886
 2500 Paris Road Drive, Louisville, KY: null
 ? 2500 Paris Road Drive, with the event having occurred the prior evening. Information
   regarding previous police responses, Louisville, KY
@@ -9083,6 +9086,10 @@
 ? 400 Shelby River Road. Specific details about the nature of the activity were not
   immediately available, but police units were dispatched, Louisville, KY
 : null
+400 Shelbyville Rd, Louisville, KY:
+  lat: 38.23771
+  lng: -85.4904282
+400 Shelbyville Rd, requiring immediate attention, Louisville, KY: null
 400 Sherburn Ln, Louisville, KY: null
 ? 400 Sherburn Ln. The reporting party indicated they would handle the situation and
   requested no further dispatch., Louisville, KY
@@ -10689,6 +10696,9 @@
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+500 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 500 Eagle Pond Plain, Louisville, KY: null
 500 Five Feet, Louisville, KY: null
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
@@ -14808,6 +14818,9 @@
 9600 A, near Tree and Balsam,, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+9600 Brownsboro Rd, Louisville, KY:
+  lat: 38.3079207
+  lng: -85.5730059
 9600 Cedar Heights Ct, Louisville, KY:
   lat: 38.133585
   lng: -85.59457
