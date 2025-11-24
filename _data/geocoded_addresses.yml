@@ -4796,6 +4796,9 @@
   lng: -85.6981124
 200 South Newcote Road, Louisville, KY: null
 200 South Second Street, Louisville, KY: null
+200 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 200 South [Street Name Missing], Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -7582,6 +7585,7 @@
   driveway and later fled into the backyard. Police units were involved in the response,
   Louisville, KY
 : null
+3100 Demondale Street, Louisville, KY: null
 3100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -14687,6 +14691,9 @@
 900 South First Street, Louisville, KY: null
 900 South I-65, Louisville, KY: null
 900 South Second Street, Louisville, KY: null
+900 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 900 Southgate Manor Dr, Louisville, KY:
   lat: 38.0893129
   lng: -85.6721306
@@ -15494,6 +15501,7 @@ Oak St and Owen St, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
+Overdale Dr and Mellwood Ave, Louisville, KY: null
 Overlook Dr and Seminary Rd, Louisville, KY: null
 Oxmoor Ln and Black Road, Louisville, KY: null
 Palatka Rd and Manslick Rd, Louisville, KY: null
