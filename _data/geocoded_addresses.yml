@@ -2551,6 +2551,9 @@
 1300 I 64 West, between South 13th and South 15th Streets,, Louisville, KY: null
 1300 I 65 South, Louisville, KY: null
 1300 I-65 South, Louisville, KY: null
+1300 Lincoln Ave, Louisville, KY:
+  lat: 38.2177178
+  lng: -85.7786406
 1300 Lincoln Hill Way, Louisville, KY: null
 1300 Longfield Ave, Louisville, KY:
   lat: 38.198526
@@ -7081,6 +7084,10 @@
   lat: 38.2739749
   lng: -85.7944508
 2900 Montgomery St. Responders encountered an aggressive adult male experiencing high blood pressure., Louisville, KY: null
+2900 Noe Ct in response, Louisville, KY: null
+2900 Noe Ct, Louisville, KY:
+  lat: 38.2113762
+  lng: -85.6418868
 2900 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
@@ -9042,6 +9049,10 @@
 3900 Preston Hwy, Louisville, KY:
   lat: 38.1950923
   lng: -85.7300334
+3900 Rankin due, Louisville, KY: null
+3900 Rankin, Louisville, KY:
+  lat: 38.199021
+  lng: -85.760922
 3900 Shelbyville Rd, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
@@ -12067,6 +12078,12 @@
   lat: 38.0716654
   lng: -85.8774197
 600 Adam Ridge Pl and 600 block of Baker Aly STREET, Louisville, KY: null
+600 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
+600 Adam. Emergency services were dispatched, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 600 Airport Hotels Blvd, Louisville, KY: null
 600 Auburn Place Court, Louisville, KY:
   lat: 38.1421654
@@ -15156,6 +15173,10 @@
   KY
 : lat: 38.246804
   lng: -85.76668
+900 West Chestnut to assist an individual experiencing a medical emergency. The patient had been unwell, Louisville, KY: null
+900 West Chestnut, Louisville, KY:
+  lat: 38.2496821
+  lng: -85.7669069
 900 West near Gene Snyder Freeway, Louisville, KY:
   lat: 38.1859494
   lng: -85.7759231
