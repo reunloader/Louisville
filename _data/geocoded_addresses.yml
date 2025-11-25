@@ -1546,6 +1546,9 @@
 1100 Minor Ln, Louisville, KY:
   lat: 38.1251486
   lng: -85.7122765
+1100 North 35th Street, Louisville, KY:
+  lat: 38.2735722
+  lng: -85.804438
 1100 North Ridgewood Avenue, Louisville, KY:
   lat: 38.2120941
   lng: -85.7433548
@@ -5453,6 +5456,9 @@
 2100 Cardinal Woods Dr, Louisville, KY:
   lat: 38.1531234
   lng: -85.8025178
+2100 Congress St, Louisville, KY:
+  lat: 38.257593
+  lng: -85.785193
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
   lng: -85.795784
@@ -8631,6 +8637,9 @@
 3700 East Indian Trail, Louisville, KY:
   lat: 38.169993
   lng: -85.691836
+3700 Falcon Crest Dr, Louisville, KY:
+  lat: 38.1195704
+  lng: -85.6923529
 3700 Hillsdale Rd, Louisville, KY:
   lat: 38.3063205
   lng: -85.6396081
