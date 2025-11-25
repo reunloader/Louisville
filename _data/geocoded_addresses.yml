@@ -2369,6 +2369,9 @@
   lng: -85.5167542
 12100 Winding Spring Ct to take the report and investigate the alleged behavior., Louisville, KY: null
 12100 Winding Spring Ct, Louisville, KY: null
+12200 Dixie Hwy at Speedway, Louisville, KY:
+  lat: 38.0798536
+  lng: -85.8838678
 ? 12200 Ridgecrest Drive. The resident reported hearing someone attempting to tamper
   with the locks of their home. Officers arrived to investigate the suspicious activity.,
   Louisville, KY
@@ -4320,6 +4323,7 @@
   lat: 38.2588516
   lng: -85.7125223
 1900 Crimson Dr, Louisville, KY: null
+1900 Crop Hollow View, Louisville, KY: null
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
   lng: -85.7054914
@@ -11046,6 +11050,7 @@
 4900 Dixie Hwy, Louisville, KY:
   lat: 38.1710866
   lng: -85.8271051
+4900 Fortierre Court, Louisville, KY: null
 4900 Hanses Dr, Louisville, KY:
   lat: 38.1601786
   lng: -85.6794729
@@ -12109,6 +12114,9 @@
 : lat: 38.16515
   lng: -85.688011
 5800 Lion's Paris Dr, Louisville, KY: null
+5800 Mount Everest Dr, Louisville, KY:
+  lat: 38.167745
+  lng: -85.8521638
 5800 Taylor's Little Lake Road, Louisville, KY: null
 5800 William Park Road, Louisville, KY: null
 5900 Arbor Creek Dr, Louisville, KY:
