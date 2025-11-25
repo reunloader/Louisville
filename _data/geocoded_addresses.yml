@@ -11459,6 +11459,7 @@
   was cleared and services were made available, Louisville, KY
 : lat: 38.1742795
   lng: -85.7648749
+5000 Tolkien Ct early this morning. The call was, Louisville, KY: null
 5000 Tolkien Ct, Louisville, KY:
   lat: 38.110382
   lng: -85.666012
@@ -11682,6 +11683,12 @@
   lat: 38.1289808
   lng: -85.6279894
 5200 Marty Ln and 200 block of Marty Ln, Louisville, KY: null
+5200 Marty Ln, Louisville, KY:
+  lat: 38.1598499
+  lng: -85.6727475
+5200 Marty Ln. This dispatch was also, Louisville, KY:
+  lat: 38.1598499
+  lng: -85.6727475
 5200 Russett Blvd, Louisville, KY:
   lat: 38.1655538
   lng: -85.6661966
