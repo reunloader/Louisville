@@ -14,6 +14,9 @@
   lat: 38.3167721
   lng: -85.5616302
 04 Knoblet Drive, Louisville, KY: null
+1 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 100 13th Street at Chestnut View Ct, Louisville, KY:
   lat: 38.258148
   lng: -85.771547
@@ -8755,6 +8758,8 @@
   or individuals acting suspiciously. Police units were assigned, Louisville, KY
 : lat: 38.1910205
   lng: -85.7836633
+3700 Teller Boulevard, Louisville, KY: null
+3700 Teller Boulevard. Responding officers investigated the circumstances. A callback, Louisville, KY: null
 3700 Tie In Place, Louisville, KY: null
 3700 W Magnolia Ave, Louisville, KY:
   lat: 38.2338952
@@ -10942,6 +10947,9 @@
 5 Adams St, Louisville, KY:
   lat: 38.2579958
   lng: -85.7255089
+5 Berea Dr, Louisville, KY:
+  lat: 38.1228956
+  lng: -85.607913
 5 Sale Avenue, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
