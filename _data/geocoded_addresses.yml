@@ -5832,6 +5832,9 @@
 2200 Hale Ave, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
+2200 Hale Ave. Police units were dispatched, Louisville, KY:
+  lat: 38.2382143
+  lng: -85.7903012
 2200 Hale Ave. Some units were involved directly, while others were placed, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
@@ -6056,6 +6059,9 @@
 2300 Garland Ave, Louisville, KY:
   lat: 38.2440697
   lng: -85.791688
+2300 Glenmary Ave, Louisville, KY:
+  lat: 38.2391887
+  lng: -85.7136877
 2300 Goldsmith Ln, Louisville, KY:
   lat: 38.210198
   lng: -85.665576
@@ -16217,6 +16223,7 @@ Overdale Dr and Mellwood Ave, Louisville, KY: null
 Overlook Dr and Seminary Rd, Louisville, KY: null
 Oxmoor Ln and Black Road, Louisville, KY: null
 Palatka Rd and Manslick Rd, Louisville, KY: null
+Park Blvd and Green Spring Dr, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
 Pensive Ln and Goldenrod Rd, Louisville, KY: null
