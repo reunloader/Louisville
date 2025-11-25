@@ -7566,6 +7566,10 @@
   lat: 38.1608055
   lng: -85.7609469
 300 Tallwood Ct, Louisville, KY: null
+300 Torrington Rd, Louisville, KY:
+  lat: 38.0966603
+  lng: -85.8626584
+300 Torrington Rd, apartment number 3. Responding officers indicated a potential issue or need, Louisville, KY: null
 300 Victor King William, Louisville, KY: null
 300 Victor King William. No injuries or contact were reported in connection with this incident., Louisville, KY: null
 300 W Cardinal Blvd, Louisville, KY:
@@ -13381,6 +13385,9 @@
 700 East Jefferson, Louisville, KY:
   lat: 38.251917
   lng: -85.740147
+700 East Jefferson. Officers were en route, Louisville, KY:
+  lat: 38.251917
+  lng: -85.740147
 700 East Liberty Avenue, Louisville, KY: null
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned to investigate., Louisville,
@@ -14863,6 +14870,7 @@
   provided care to the patient., Louisville, KY
 : null
 8400 Roseboro Road, an area near Cross Meadows Cir, Warfield, and Bainbridge. EMS provided care, Louisville, KY: null
+8400 Sallee Ln, Louisville, KY: null
 8400 South 37th Street, Louisville, KY:
   lat: 38.2471327
   lng: -85.812901
