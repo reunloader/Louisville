@@ -1809,6 +1809,9 @@
 11300 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
+11300 Westport Rd, Louisville, KY:
+  lat: 38.2988173
+  lng: -85.54059
 11300 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
@@ -7554,6 +7557,13 @@
 300 an unspecified street. Unit 10 Adam was en route to assess the situation., Louisville, KY: null
 300 an unspecified street. Unit 10 Adam was en route, Louisville, KY: null
 300 an unspecified street. Unit 5-19 reported having one car clear from the scene., Louisville, KY: null
+300 and I, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
+? 300 and I. Another fire unit was responding to an incident in the 4900 block of
+  and was instructed to cancel its initial dispatch. This unit was later requested
+  back to the 4900 block incident, Louisville, KY
+: null
 300 bullet line, Louisville, KY: null
 ? 300 north 35th Street, near Alfred and Duncan, to assist a 28-year-old female experiencing
   multiple seizures. The individual has a known history of epilepsy., Louisville,
