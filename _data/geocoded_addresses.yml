@@ -4411,6 +4411,8 @@
 1900 Muncie, Louisville, KY:
   lat: 38.260796
   lng: -85.715043
+1900 New Burke, Louisville, KY: null
+1900 New Burke. Emergency units were dispatched, Louisville, KY: null
 1900 Newburg Rd, Louisville, KY:
   lat: 38.221707
   lng: -85.710457
@@ -9329,6 +9331,7 @@
 400 Charlie and 400 block of Adam, Louisville, KY: null
 400 Charlie and 400 block of Baker were on scene, Louisville, KY: null
 400 Charlie and 400 block of David, Louisville, KY: null
+400 Charlie and 400 block of, Louisville, KY: null
 400 Charlie and 6 David, Louisville, KY: null
 400 Charlie and 6 David., Louisville, KY: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
@@ -10166,6 +10169,8 @@
 4100 Tish Rd, Louisville, KY:
   lat: 38.0771637
   lng: -85.8400757
+4100 Town Center Growth, Louisville, KY: null
+4100 Town Center Growth, raising concerns it might be stolen. Police units responded, Louisville, KY: null
 4100 Towne Center Dr, Louisville, KY:
   lat: 38.2990939
   lng: -85.553818
@@ -11332,6 +11337,12 @@
   lat: 38.2534676
   lng: -85.7663705
 500 Eagle Pond Plain, Louisville, KY: null
+500 East [Street Name not fully transcribed], Louisville, KY:
+  lat: 38.2305447
+  lng: -85.7479613
+500 East [Street Name not fully transcribed]. Police units were dispatched, Louisville, KY:
+  lat: 38.2305447
+  lng: -85.7479613
 500 Five Feet, Louisville, KY: null
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
 500 Fountain Ave near Warwick Ave, Louisville, KY: null
@@ -12179,6 +12190,9 @@
 5700 W Southern Heights Ave, near a local park. The driver became combative when asked, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
+5700 [Street Name not fully transcribed], Louisville, KY:
+  lat: 38.2794337
+  lng: -85.6457104
 5800 Coach Gate, Louisville, KY: null
 5800 Coach Gate. Emergency Medical Services were initially dispatched, Louisville, KY: null
 5800 Cooper Chapel Rd, Louisville, KY:
@@ -16283,6 +16297,7 @@ Wessel Rd and Burnley Rd, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
+West Towson Boulevard and Buckner Ave, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westbrook Rd and Fox Ave, Louisville, KY: null
 Westport Rd and Deuce Creek Road, Louisville, KY: null
@@ -16291,6 +16306,7 @@ Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
 Westport Rd and Stonehurst Dr, Louisville, KY: null
 Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
+Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Wolfpen Woods Dr and Wolf Pen Branch Rd, Louisville, KY: null
