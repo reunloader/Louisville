@@ -1987,6 +1987,7 @@
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
+1200 Heslane, Louisville, KY: null
 1200 Holly Berry Dr near Taylor and Peachtree, Louisville, KY: null
 1200 I 64 East, Louisville, KY: null
 1200 I 65 South, Louisville, KY: null
@@ -2785,6 +2786,7 @@
 1400 Clover Trace, Louisville, KY:
   lat: 38.1766443
   lng: -85.7992227
+1400 Crazy Horse Ln, Louisville, KY: null
 1400 Delmar Ln, Louisville, KY:
   lat: 38.1825441
   lng: -85.8055398
@@ -4913,9 +4915,15 @@
 200 W Jefferson St, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
+200 W Liberty St, Louisville, KY:
+  lat: 38.252634
+  lng: -85.754015
 200 W Oak St, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
+200 Waterstone Way, Louisville, KY:
+  lat: 38.233504
+  lng: -85.46195
 200 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
@@ -9670,6 +9678,9 @@
   lng: -85.7649186
 4000 South Fifth Street, Louisville, KY: null
 4000 South Fifth Street. EMS was involved in the response, and the situation was cleared by dispatch., Louisville, KY: null
+4000 South3rd Street, Louisville, KY:
+  lat: 38.1980524
+  lng: -85.765329
 4000 Southern Pky, Louisville, KY:
   lat: 38.1966062
   lng: -85.7673687
@@ -10088,6 +10099,9 @@
 4300 South 3rd Street, Louisville, KY:
   lat: 38.193839
   lng: -85.765056
+4300 South4th Street, Louisville, KY:
+  lat: 38.2205383
+  lng: -85.762938
 4300 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -14791,6 +14805,7 @@
 900 Magazine St, Louisville, KY:
   lat: 38.2496514
   lng: -85.7763551
+900 Mallard Creek Rd, Louisville, KY: null
 ? 900 N S English Station Rd due to a report of a chemical odor. The smell was described
   as toxic fumes, prompting occupants of a K&P roofing unit to evacuate. The location
   is near Old Henry Rd and Aiken Rd., Louisville, KY
