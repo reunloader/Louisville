@@ -1379,6 +1379,7 @@
   lat: 38.112718
   lng: -85.761711
 10600 Taylor-Hill Rd, Louisville, KY: null
+10600 U, Louisville, KY: null
 10600 Wemberley Hill Blvd, Louisville, KY:
   lat: 38.2916541
   lng: -85.5548359
@@ -6207,6 +6208,9 @@
 2400 Elliott Ave. Two individuals were reported as detainees., Louisville, KY:
   lat: 38.250247
   lng: -85.791556
+2400 Forest Dr, Louisville, KY:
+  lat: 38.16587
+  lng: -85.6901078
 2400 Garland Ave, Louisville, KY:
   lat: 38.2441968
   lng: -85.7927234
@@ -8313,6 +8317,9 @@
 3400 Glendale Ave, Louisville, KY:
   lat: 38.200984
   lng: -85.791169
+3400 Gonewind Dr, Louisville, KY:
+  lat: 38.1957149
+  lng: -85.5943247
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
 3400 LaFonte Drive, Louisville, KY: null
 3400 Larkwood Ave, Louisville, KY:
@@ -9776,6 +9783,7 @@
 400 Winkler Ave, Louisville, KY:
   lat: 38.210265
   lng: -85.764829
+400 Wood's W Market St, Louisville, KY: null
 400 Worthing Ct, Louisville, KY:
   lat: 38.243999
   lng: -85.487748
@@ -10855,6 +10863,9 @@
   lat: 38.1787602
   lng: -85.623961
 4700 Barsham Road, Louisville, KY: null
+4700 Creek Tree Ct, Louisville, KY:
+  lat: 38.1229922
+  lng: -85.6810866
 4700 Crescent Highway, Louisville, KY: null
 4700 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
@@ -12152,6 +12163,7 @@
   lat: 38.16863
   lng: -85.848698
 5900 Hunting Rd, Louisville, KY: null
+5900 Lions Arms Dr, Louisville, KY: null
 5900 Outer Loop near St, Louisville, KY:
   lat: 38.1381377
   lng: -85.652542
@@ -14796,6 +14808,9 @@
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
   lng: -85.6129346
+8400 Brownsboro Rd, Louisville, KY:
+  lat: 38.2587521
+  lng: -85.7044023
 8400 Dr, Louisville, KY: null
 ? 8400 Fieldcrest Ct due to a significant water leak. Reports indicated that water
   was flowing from a hydrant and causing flooding in the street., Louisville, KY
@@ -16009,6 +16024,7 @@ Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
+Keyline Road and Terry Rd, Louisville, KY: null
 King Run Road and Camp Ground Rd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
 Labor Ln and Level Street, Louisville, KY: null
