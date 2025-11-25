@@ -1823,6 +1823,7 @@
   lat: 38.3025646
   lng: -85.5161777
 11500 Maple Grove, Louisville, KY: null
+11500 Willow Pond Dr, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
@@ -4566,6 +4567,9 @@
   lng: -85.7499296
 200 East Early Morning, Louisville, KY: null
 200 East Europe Street near South 3rd and 2nd Streets, Louisville, KY: null
+200 East I-200 at Westport Rd, Louisville, KY:
+  lat: 38.2909338
+  lng: -85.5653666
 ? 200 East Jacob Street following a report of two males loitering outside a daycare
   facility. The individuals were observed standing near a wall, and one was described
   as wearing a brown coat while the other had on a green coat. Concerns were raised
@@ -8142,6 +8146,7 @@
   lat: 38.200984
   lng: -85.791169
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
+3400 LaFonte Drive, Louisville, KY: null
 3400 Larkwood Ave, Louisville, KY:
   lat: 38.257727
   lng: -85.80767
@@ -9135,6 +9140,7 @@
 400 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
+400 David, resulting in a verbal warning being issued, Louisville, KY: null
 400 David. The relative in question was not found to be on the premises., Louisville, KY: null
 400 David. The relative in question was not found, Louisville, KY:
   lat: 38.2066421
@@ -12263,6 +12269,9 @@
   lat: 38.119945
   lng: -85.842729
 600 Vernis Avenue, Louisville, KY: null
+600 W Jefferson St, Louisville, KY:
+  lat: 38.2539185
+  lng: -85.7612901
 600 W Main St and 66 W Main St, Morton, Louisville, KY: null
 600 W Main St, Louisville, KY:
   lat: 38.256721
