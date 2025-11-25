@@ -1897,6 +1897,9 @@
 11700 Pierce Way, Louisville, KY:
   lat: 38.086173
   lng: -85.871034
+11700 Pond Creek Dr, Louisville, KY:
+  lat: 38.080013
+  lng: -85.864372
 11700 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -11227,6 +11230,9 @@
 500 Baxter Ave, Louisville, KY:
   lat: 38.24769
   lng: -85.730217
+500 Beecher St, Louisville, KY:
+  lat: 38.1918563
+  lng: -85.7684561
 500 Brentwood Ave near South 5th Street, Louisville, KY: null
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
@@ -11654,6 +11660,9 @@
 5100 Firwood Ln, Louisville, KY:
   lat: 38.1724036
   lng: -85.5800918
+5100 Frey Dr, Louisville, KY:
+  lat: 38.157554
+  lng: -85.677317
 5100 Greenwood Rd, Louisville, KY:
   lat: 38.14391
   lng: -85.850898
