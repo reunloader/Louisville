@@ -2397,6 +2397,8 @@
 12100 LaGrange Road, Louisville, KY:
   lat: 38.2804338
   lng: -85.5167542
+12100 Stroll Ct, Louisville, KY: null
+12100 Stroll Ct. Further details, Louisville, KY: null
 12100 Winding Spring Ct to take the report and investigate the alleged behavior., Louisville, KY: null
 12100 Winding Spring Ct, Louisville, KY: null
 12200 Dixie Hwy at Speedway, Louisville, KY:
@@ -5292,6 +5294,7 @@
 200 [Street Name Unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 and Highway 64, Louisville, KY: null
 200 and Old Shelbyville Rd, Louisville, KY: null
 200 and Taylor Blvd, Louisville, KY:
   lat: 38.2079291
@@ -12033,6 +12036,9 @@
 5300 Robinwood Rd near Crop St Red Fern Rd and Rookwood Ave, Louisville, KY:
   lat: 38.1741629
   lng: -85.6677301
+5300 Stephan Dr, Louisville, KY:
+  lat: 38.1269065
+  lng: -85.8564359
 5300 Torrentian Court to assess the situation., Louisville, KY: null
 5300 Torrentian Court, Louisville, KY: null
 5300 Torrington Ct, Louisville, KY:
