@@ -6961,6 +6961,7 @@
 2800 Northwestern Pky, Louisville, KY:
   lat: 38.2745857
   lng: -85.7922968
+2800 Port Haven Road, Louisville, KY: null
 2800 Portland Ave, Louisville, KY:
   lat: 38.2723649
   lng: -85.7938489
@@ -14662,6 +14663,9 @@
   lat: 38.131707
   lng: -85.624458
 8000 Christian Ct at Oxmore Lodge, Louisville, KY:
+  lat: 38.246161
+  lng: -85.606886
+8000 Christian Ct, Louisville, KY:
   lat: 38.246161
   lng: -85.606886
 8000 Columbine Dr, Louisville, KY:
