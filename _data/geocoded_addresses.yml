@@ -3967,6 +3967,7 @@
 17200 Shakes Creek Dr, Louisville, KY:
   lat: 38.205848
   lng: -85.435965
+17200 Shakespeare Street Drive, Louisville, KY: null
 17500 McWay, Louisville, KY: null
 17500 Stallion Way, Louisville, KY:
   lat: 38.2721699
@@ -6577,6 +6578,9 @@
 2600 Portland Ave, Louisville, KY:
   lat: 38.2709594
   lng: -85.7901708
+2600 River Green, Louisville, KY:
+  lat: 38.2750549
+  lng: -85.7073397
 2600 Royal Gardens Ct, Louisville, KY:
   lat: 38.1398434
   lng: -85.7840769
@@ -10843,6 +10847,9 @@
   Louisville, KY
 : null
 4800 COVID Drive following reports of a cardiac arrest. The individual, a 35-year-old male, was found, Louisville, KY: null
+4800 Cofer Ave, Louisville, KY:
+  lat: 38.1380877
+  lng: -85.8455558
 4800 Dixie Hwy and 8800 block of Big Tree Way, Louisville, KY: null
 4800 Dixie Hwy, Louisville, KY:
   lat: 38.1730709
@@ -15944,6 +15951,7 @@ Strader Ave and Camden Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Barret Ave, Louisville, KY: null
 Taylor Ave and Berry Blvd, Louisville, KY: null
+Taylor Ave and Bray Ave, Louisville, KY: null
 Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
   lng: -85.7764181
