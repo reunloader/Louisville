@@ -1071,6 +1071,9 @@
 1000 S Clay St, Louisville, KY:
   lat: 38.237038
   lng: -85.742991
+1000 S Floyd St, Louisville, KY:
+  lat: 38.237882
+  lng: -85.7515516
 1000 S Hancock St, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
@@ -5390,6 +5393,9 @@
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
+2000 Newburg Rd, near Bellarmine University, in response, Louisville, KY:
+  lat: 38.2189014
+  lng: -85.7104099
 2000 Newburg Rd, where a patient was found to be having a seizure., Louisville, KY: null
 2000 Newburg Rd, where a patient was found, Louisville, KY: null
 2000 Newburg Rd. Further information about the cause of the alarm was not provided., Louisville, KY: null
@@ -8521,6 +8527,7 @@
 ? 3500 Rogue Way. The individual was experiencing diabetic issues, and responders
   faced a challenge gaining access, Louisville, KY
 : null
+3500 Scarsdale Rd, Louisville, KY: null
 3500 Seneca Valley Rd (Four Winds Dr), Louisville, KY: null
 3500 Sheehan Landing Dr, Louisville, KY: null
 ? 3500 Sheehan Landing Dr. Concerns were raised after he was discharged from the hospital
@@ -9750,6 +9757,7 @@
 400 W Oak St, Louisville, KY:
   lat: 38.234946
   lng: -85.760492
+400 W Oak St, and emergency units were dispatched, Louisville, KY: null
 400 W W Kingston Ave, Louisville, KY: null
 ? 400 W W Kingston Ave. The person was described as a black male with braids, wearing
   a tan hoodie and black pants, and was reportedly carrying a handgun. Officers conducted
@@ -12415,6 +12423,8 @@
 600 Mix Ave, Louisville, KY:
   lat: 38.221921
   lng: -85.77027
+600 North Crittenden Dr, Louisville, KY: null
+600 North Crittenden Drive, Louisville, KY: null
 600 North Height Avenue, Louisville, KY: null
 ? 600 North Hyde Avenue. A female was heard screaming for help, and a male at the
   door requested EMS. Responders were dispatched to assess the situation., Louisville,
@@ -16227,6 +16237,7 @@ Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
+Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
