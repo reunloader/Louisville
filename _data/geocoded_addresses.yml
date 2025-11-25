@@ -8925,6 +8925,9 @@
 400 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+400 Adams St, Louisville, KY:
+  lat: 38.26009
+  lng: -85.734743
 400 Adams, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
@@ -10814,6 +10817,9 @@
   was described as a brown-skinned, black male wearing a yellow shirt and white pants.
   Police units were dispatched, Louisville, KY
 : null
+5 Adams St, Louisville, KY:
+  lat: 38.2579958
+  lng: -85.7255089
 5 Sale Avenue, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
