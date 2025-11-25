@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-11-25 22:29:46
+**Generated:** 2025-11-25 22:41:52
 
 ---
 
@@ -8,21 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 6,722 |
-| **Successfully Geocoded** | 3,155 |
-| **Failed to Geocode** | 3,567 |
-| **Success Rate** | 46.94% |
-| **Failure Rate** | 53.06% |
+| **Total Addresses** | 6,728 |
+| **Successfully Geocoded** | 3,157 |
+| **Failed to Geocode** | 3,571 |
+| **Success Rate** | 46.92% |
+| **Failure Rate** | 53.08% |
 
 ---
 
 ## Recent Changes
 
-- **8** new addresses processed
-- **0** successfully geocoded
-- **8** failed to geocode
-- **This batch success rate: 0.00%** ⚠️
-- Overall rate changed by **-0.05%** 📉
+- **6** new addresses processed
+- **2** successfully geocoded
+- **4** failed to geocode
+- **This batch success rate: 33.33%** ⚡
+- Overall rate changed by **-0.02%** 📉
 
 ---
 
@@ -31,10 +31,10 @@
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
 | Contains location qualifiers (near/at) | 1427 | 40.0% |
-| Other/Unknown | 655 | 18.4% |
-| Incomplete/vague address | 621 | 17.4% |
-| Intersection format | 521 | 14.6% |
-| Contains extra sentences/context | 341 | 9.6% |
+| Other/Unknown | 655 | 18.3% |
+| Incomplete/vague address | 622 | 17.4% |
+| Intersection format | 522 | 14.6% |
+| Contains extra sentences/context | 343 | 9.6% |
 | Police phonetic codes | 2 | 0.1% |
 
 ---
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-11-25 | 9 | 7 | 77.8% 🎯 | 6,682 | 46.95% |
 | 2025-11-25 | 3 | 3 | 100.0% 🎯 | 6,685 | 46.97% |
 | 2025-11-25 | 3 | 3 | 100.0% 🎯 | 6,688 | 46.99% |
 | 2025-11-25 | 4 | 2 | 50.0% 🎯 | 6,692 | 47.00% |
@@ -53,6 +52,7 @@
 | 2025-11-25 | 3 | 2 | 66.7% 🎯 | 6,709 | 46.98% |
 | 2025-11-25 | 5 | 3 | 60.0% 🎯 | 6,714 | 46.99% |
 | 2025-11-25 | 8 | 0 | 0.0% ⚠️ | 6,722 | 46.94% |
+| 2025-11-25 | 6 | 2 | 33.3% ⚡ | 6,728 | 46.92% |
 
 ---
 
