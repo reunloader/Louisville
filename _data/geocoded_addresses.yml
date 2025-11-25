@@ -1767,6 +1767,7 @@
 11200 Preston Hwy near Antle Dr, Louisville, KY:
   lat: 38.087364
   lng: -85.667759
+11200 St, Louisville, KY: null
 11200 Vista Greens Dr, Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched, Louisville, KY: null
@@ -3955,6 +3956,7 @@
 ? 1700 Wilson Ave, an area bordered by Baldwin and South 17th Street. Medical personnel
   assessed and treated the individual., Louisville, KY
 : null
+17100 Chucker Cove, Louisville, KY: null
 17100 Green Crest Ln, Louisville, KY:
   lat: 38.242077
   lng: -85.451934
@@ -10664,6 +10666,9 @@
   lat: 38.1434841
   lng: -85.8415387
 4600 Jo Lynn Dr, Louisville, KY: null
+4600 Lena Ln, Louisville, KY:
+  lat: 38.1065676
+  lng: -85.5036462
 4600 Lynnbrook Dr, Louisville, KY:
   lat: 38.2329773
   lng: -85.6162877
@@ -14153,6 +14158,7 @@
 8 Haskin Ave, Louisville, KY:
   lat: 38.1728722
   lng: -85.7861501
+800 Adam and 3-David, Louisville, KY: null
 800 Adam and 800 block of Baker, Louisville, KY: null
 800 Adam, Louisville, KY:
   lat: 38.2075051
