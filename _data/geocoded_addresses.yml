@@ -3408,6 +3408,9 @@
   lat: 38.2237634
   lng: -85.4784293
 15700 an unspecified street, Louisville, KY: null
+15800 Dixie Hwy, Louisville, KY:
+  lat: 38.0239138
+  lng: -85.9163572
 15900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -3786,6 +3789,7 @@
 1700 Pear Ln, Louisville, KY:
   lat: 38.1925635
   lng: -85.6192137
+1700 Research Dr, Louisville, KY: null
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
   lng: -85.707066
@@ -5692,6 +5696,9 @@
   main door. Fire units were dispatched, Louisville, KY
 : null
 2200 Lower Hunters Trace, Louisville, KY:
+  lat: 38.158219
+  lng: -85.848738
+2200 Lower Hunters Trce, Louisville, KY:
   lat: 38.158219
   lng: -85.848738
 2200 Magazine St, Louisville, KY:
@@ -7687,6 +7694,9 @@
 3100 Adams St, Louisville, KY:
   lat: 38.2579958
   lng: -85.7255089
+3100 Bardstown Rd, Louisville, KY:
+  lat: 38.2121112
+  lng: -85.672555
 3100 Bon Air Ave, Louisville, KY:
   lat: 38.2175923
   lng: -85.6647827
@@ -10818,6 +10828,7 @@
 4800 South 3rd Street, Louisville, KY:
   lat: 38.1784756
   lng: -85.7671303
+4800 South Brook Lane, Louisville, KY: null
 4800 South Side, TL Grocery and Beer, Louisville, KY: null
 ? 4800 South Side. The alarm was reportedly a duress alarm, indicating a potential
   robbery in progress. Officers were responding to the scene., Louisville, KY
@@ -12612,6 +12623,7 @@
 6500 Hunters Creek Blvd, Louisville, KY:
   lat: 38.1644536
   lng: -85.8701997
+6500 Kyle Ridgeway, Louisville, KY: null
 6500 Ladd Ave to assess a male resident who woke up with numerous bumps and a mild fever., Louisville, KY: null
 6500 Ladd Ave, Louisville, KY:
   lat: 38.1907335
