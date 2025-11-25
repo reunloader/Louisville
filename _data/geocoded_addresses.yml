@@ -8800,6 +8800,13 @@
 3600 Parthenia Ave, Louisville, KY:
   lat: 38.1945147
   lng: -85.7924737
+3600 Parthenia, Louisville, KY:
+  lat: 38.1945147
+  lng: -85.7924737
+3600 Parthenia, traveling westbound. Police units were dispatched, Louisville, KY: null
+3600 Parthenia. Police units responded, Louisville, KY:
+  lat: 38.1945147
+  lng: -85.7924737
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
 3600 Seton Hill Dr, Louisville, KY:
@@ -8956,6 +8963,7 @@
   lng: -85.643813
 3700 Marvin Ave, Louisville, KY: null
 3700 Marvin Ave, with a connection, Louisville, KY: null
+3700 Marvin Ave. A 75-year-old female was found, Louisville, KY: null
 3700 Mason Ave, Louisville, KY:
   lat: 38.1147961
   lng: -85.6941477
@@ -13677,6 +13685,9 @@
 ? 700 Marsha Eddes Road, with the nature of the incident unclear but potentially involving
   suspicious circumstances or a need, Louisville, KY
 : null
+700 Moran Ave, Louisville, KY:
+  lat: 38.2265433
+  lng: -85.6601116
 700 Nav Hill. The specific reasons, Louisville, KY: null
 700 North S Hite Ave, Louisville, KY: null
 700 North S S Hite Ave, Louisville, KY: null
