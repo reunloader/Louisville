@@ -2055,6 +2055,9 @@
   alcohol poisoning. Emergency medical services were also present, Louisville, KY
 : null
 1200 Place Argent, Louisville, KY: null
+1200 Place Noir, Louisville, KY:
+  lat: 38.25096
+  lng: -85.771497
 1200 Place, Louisville, KY:
   lat: 38.1519435
   lng: -85.7912292
@@ -2203,6 +2206,9 @@
 : null
 1200 Triple Crown Ct, Louisville, KY: null
 1200 W Fairmont Ave near 2nd Street, Louisville, KY:
+  lat: 38.1953681
+  lng: -85.7649559
+1200 W Fairmont Ave, Louisville, KY:
   lat: 38.1953681
   lng: -85.7649559
 ? 1200 W Hill St where a 50-year-old male was found unresponsive and exhibiting signs
@@ -6514,6 +6520,7 @@
   Kentucky. Responding units checked the premises and determined the area, Louisville,
   KY
 : null
+2700 7th St Rene Rd, Louisville, KY: null
 2700 Alford Ave, Louisville, KY:
   lat: 38.2648935
   lng: -85.7955173
@@ -10395,6 +10402,9 @@
   lat: 38.1889361
   lng: -85.7656325
 4500 South 3rd Street near W W Southern Heights Ave, Louisville, KY: null
+4500 South 5th Street, Louisville, KY:
+  lat: 38.186361
+  lng: -85.768959
 ? 4500 South 6th Street to attend to a patient experiencing symptoms that suggested
   a possible stroke. This call highlights the critical nature of rapid response for
   neurological emergencies., Louisville, KY
@@ -11099,6 +11109,12 @@
 500 W W Ashland Ave., Louisville, KY:
   lat: 38.1861535
   lng: -85.7756446
+? 500 W Whitney Ave involving a 34-year-old individual suffering from a leg injury.
+  Responders were dispatched, Louisville, KY
+: null
+500 W Whitney Ave, Louisville, KY:
+  lat: 38.1937541
+  lng: -85.7685095
 500 Wayne Rd to attend to a person experiencing a medical complaint., Louisville, KY: null
 500 Wayne Rd, Louisville, KY:
   lat: 38.2007912
