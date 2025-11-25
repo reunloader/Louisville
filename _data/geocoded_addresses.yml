@@ -3858,6 +3858,13 @@
 1700 Pear Ln, Louisville, KY:
   lat: 38.1925635
   lng: -85.6192137
+1700 Portland Ave, Louisville, KY:
+  lat: 38.26358
+  lng: -85.77621
+? 1700 Portland Ave. The call was categorized as a "Delta" level medical incident,
+  indicating a high priority. Responders arrived, Louisville, KY
+: lat: 38.26358
+  lng: -85.77621
 1700 Research Dr, Louisville, KY: null
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
@@ -4730,6 +4737,10 @@
   reported being with one subject a short distance from Newburgh., Louisville, KY
 : null
 200 East, between Coppola and Newburgh. Police units responded, Louisville, KY: null
+? 200 East, under the overpass. The vehicle that was struck was a silver sedan, while
+  the striking vehicle was identified as a black Ford F-150. Police units were sent,
+  Louisville, KY
+: null
 ? 200 East. A gray Honda reportedly struck a guardrail. Medical units responded to
   the scene. The patient was transported, and responders had to travel into Indiana
   to make a U-turn to reach the location., Louisville, KY
