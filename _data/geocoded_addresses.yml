@@ -186,6 +186,7 @@
   condition or transport were not immediately available., Louisville, KY
 : null
 100 Hartwell Ct, an area near Terry Pl and Teresa Pl. Further details, Louisville, KY: null
+100 Hartwell Ct, suggesting a disruptive situation in an apartment complex. Police units were sent, Louisville, KY: null
 100 Huntington Ridge Dr, Louisville, KY: null
 100 I 64 East, Louisville, KY: null
 100 I-65 South, Louisville, KY: null
@@ -11240,6 +11241,9 @@
   robbery in progress. Officers were responding, Louisville, KY
 : null
 4800 South Works Street, Louisville, KY: null
+4800 Southside Dr. It was alleged that two men were pursuing a woman, believed, Louisville, KY:
+  lat: 38.179087
+  lng: -85.76486
 4900 Aron Rd, between Lindenwood and Wilkie,, Louisville, KY: null
 4900 Axtell Ave, Louisville, KY:
   lat: 38.138207
@@ -12462,6 +12466,7 @@
 600 Candlelight Ln. Upon arrival, the fire was described as being extinguished. Emergency units were able, Louisville, KY:
   lat: 38.1308475
   lng: -85.7763439
+600 Carpenter Dr, with a motion sensor triggering the alert. Responding units were dispatched, Louisville, KY: null
 600 Charlie and 600 block of Baker responded to the call., Louisville, KY: null
 600 Charlie and 600 block of Baker responded, Louisville, KY: null
 600 Charlie and 700 block of Baker, Louisville, KY: null
@@ -14127,6 +14132,9 @@
 7200 Green Oak. Police units were assigned, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
+7200 Lafayette Dr. Police units were en route, Louisville, KY:
+  lat: 38.1940389
+  lng: -85.7941733
 7200 Lentz Ave, Louisville, KY:
   lat: 38.1922412
   lng: -85.7859322
@@ -16188,6 +16196,7 @@ Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Pky and Parkstone Road, Louisville, KY: null
+Cherokee Rd and Longest Ave, Louisville, KY: null
 Cherokee Rd and Valley Station Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
@@ -16242,6 +16251,7 @@ Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
 Egypt Ln and Meridian Ave, Louisville, KY: null
+Ellsworth Ave and Eastern Parkway, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
