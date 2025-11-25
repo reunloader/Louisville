@@ -2755,6 +2755,7 @@
   lat: 38.226677
   lng: -85.743198
 1400 Boca Ridge, Louisville, KY: null
+1400 Brown Plain, Louisville, KY: null
 1400 Browns Ln,, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
@@ -7358,6 +7359,7 @@
 300 West Broadway, Louisville, KY:
   lat: 38.2457716
   lng: -85.7569119
+300 West Broadway, potentially due, Louisville, KY: null
 ? 300 West Fairmont Avenue regarding a report of disorderly conduct. The incident
   involved an individual described as a college advisor who was reportedly refusing
   to leave a porch. Officers were dispatched to address the situation and de-escalate
@@ -9601,6 +9603,7 @@
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
+4000 Pacelli Pl, Louisville, KY: null
 4000 Pacelli Pl. This call was related, Louisville, KY: null
 4000 Parkway, Louisville, KY:
   lat: 38.1966062
@@ -12564,6 +12567,9 @@
 6500 Paramount Park Dr near Fern Valley Rd, Louisville, KY:
   lat: 38.1552702
   lng: -85.7125852
+6500 Preston Hwy, Louisville, KY:
+  lat: 38.1577894
+  lng: -85.6982025
 6500 Preston, Louisville, KY:
   lat: 38.1577894
   lng: -85.6982025
