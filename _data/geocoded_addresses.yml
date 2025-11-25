@@ -607,6 +607,7 @@
 100 West, near Langland Pl. The fire was reported, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
 100 [Street Name Redacted] 6:15 a, Louisville, KY: null
 100 [Street Name Redacted] 6:15 a.m.AM, Louisville, KY: null
@@ -5109,6 +5110,7 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South at the 22, Louisville, KY: null
+200 South due, Louisville, KY: null
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
 200 South to Newcutt Road, turning onto Old Manslick Rd, Louisville, KY: null
@@ -6069,6 +6071,9 @@
   lat: 38.214895
   lng: -85.70161
 2300 Bardstown Rd, Louisville, KY:
+  lat: 38.223761
+  lng: -85.6901595
+2300 Bardstown Rd. Responding units arrived, Louisville, KY:
   lat: 38.223761
   lng: -85.6901595
 2300 Bardstown Rd. The alarm was triggered by a front motion sensor. Upon investigation, it was determined, Louisville, KY:
@@ -13408,6 +13413,9 @@
 6800 Southside Dr. Fortunately, no one was inside the car when the fire broke out. Firefighters worked, Louisville, KY:
   lat: 38.1590857
   lng: -85.7646433
+6800 Stone Valley Dr, Louisville, KY:
+  lat: 38.0817663
+  lng: -85.8845015
 6800 Yuma Way, Louisville, KY:
   lat: 38.1176974
   lng: -85.885696
@@ -14129,6 +14137,9 @@
 7100 Outer Loop, Louisville, KY:
   lat: 38.1373124
   lng: -85.630066
+7100 Parklook Ct, Louisville, KY:
+  lat: 38.1478169
+  lng: -85.7956005
 7100 Schneble Cir, Louisville, KY:
   lat: 38.149637
   lng: -85.819344
@@ -14728,6 +14739,9 @@
 800 Longfield Ave. The unit reported being, Louisville, KY:
   lat: 38.1984424
   lng: -85.7728266
+800 Mango Dr, Louisville, KY:
+  lat: 38.1414787
+  lng: -85.8564003
 800 Mark, Louisville, KY:
   lat: 38.1280665
   lng: -85.858562
