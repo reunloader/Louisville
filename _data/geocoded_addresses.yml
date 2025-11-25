@@ -1586,6 +1586,9 @@
 1100 S. 3rd St, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
+1100 Sam Dr, Louisville, KY:
+  lat: 38.140528
+  lng: -85.7671021
 1100 Silvercrest Ln, Louisville, KY: null
 ? 1100 Silvercrest Ln. Further details on the nature of the alarm or any subsequent
   actions were not immediately available., Louisville, KY
@@ -8652,6 +8655,9 @@
 3700 Falcon Crest Dr, Louisville, KY:
   lat: 38.1195704
   lng: -85.6923529
+3700 Fern Valley Rd, Louisville, KY:
+  lat: 38.1573006
+  lng: -85.6919502
 3700 Hillsdale Rd, Louisville, KY:
   lat: 38.3063205
   lng: -85.6396081
@@ -8909,6 +8915,9 @@
   lat: 38.1871224
   lng: -85.6950539
 3900 Brown Leigh Road, Louisville, KY: null
+3900 Brownsboro Rd, Louisville, KY:
+  lat: 38.2587521
+  lng: -85.7044023
 ? 3900 Craig Ave who had allegedly disrespected a caller. The individuals, described
   as four females dressed in black, had left the area approximately 30 minutes prior,
   heading towards Bicknell. Police were asked to be aware of their presence., Louisville,
@@ -13062,6 +13071,7 @@
 700 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+700 Braddock Dr, Louisville, KY: null
 700 Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
@@ -13172,6 +13182,9 @@
 ? 700 Hardee Avenue where a two-year-old child had been accidentally locked inside
   a black Kia Rio. The child had been in the vehicle, Louisville, KY
 : null
+700 Hudson Ln, Louisville, KY:
+  lat: 38.1691814
+  lng: -85.5885156
 700 I 64 East, Louisville, KY: null
 700 I 64 West, Louisville, KY: null
 700 I 65 South, Louisville, KY: null
