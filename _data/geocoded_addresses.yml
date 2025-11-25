@@ -21,6 +21,7 @@
   vehicle was a Lincoln MKX sedan registered in Maryland. The stop was cleared a few
   minutes later., Louisville, KY
 : null
+100 7th Street and Lee Ave, Louisville, KY: null
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
@@ -157,6 +158,12 @@
 100 Flat Rock Rd as part of this ongoing response, Louisville, KY: null
 100 Fort Lillian Avenue, Louisville, KY: null
 100 Fort Lillian Avenue. A silver Honda HRV was noted in connection with this incident., Louisville, KY: null
+100 Gilmore, Louisville, KY:
+  lat: 38.1789198
+  lng: -85.7056127
+100 Gilmore. The specific reason, Louisville, KY:
+  lat: 38.1789198
+  lng: -85.7056127
 100 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
@@ -5132,6 +5139,7 @@
 2000 3Rd Street Rd, Louisville, KY:
   lat: 38.1453565
   lng: -85.7758564
+2000 7th St Rene Rd, Louisville, KY: null
 2000 Bardstown Rd, Louisville, KY:
   lat: 38.225579
   lng: -85.696397
@@ -5408,6 +5416,9 @@
 2100 East Collin Street, Louisville, KY: null
 2100 East L, Louisville, KY: null
 2100 East L.E., Louisville, KY: null
+2100 Edgeland Ave, Louisville, KY:
+  lat: 38.2337872
+  lng: -85.7107419
 2100 Emerson Ave, Louisville, KY:
   lat: 38.2177507
   lng: -85.6832782
@@ -8696,6 +8707,7 @@
   lat: 38.1910665
   lng: -85.7849485
 3700 Woods Green Court, Louisville, KY: null
+3800 7th St Rene Rd, Louisville, KY: null
 3800 Alanadale Dr, Louisville, KY:
   lat: 38.1101136
   lng: -85.8675313
