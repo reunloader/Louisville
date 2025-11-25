@@ -1138,6 +1138,9 @@
 1000 South 6th Street, Louisville, KY:
   lat: 38.239763
   lng: -85.762971
+1000 South 7th Street, Louisville, KY:
+  lat: 38.239615
+  lng: -85.764531
 ? 1000 South Crescent Street. The call involved a resident experiencing difficulty
   breathing. Medical personnel provided assistance to the individual., Louisville,
   KY
@@ -6046,6 +6049,8 @@
   was addressed by responding officers., Louisville, KY
 : null
 2300 Dixdale Avenue due, Louisville, KY: null
+2300 Duma, Louisville, KY: null
+2300 Duma. Responders were sent, Louisville, KY: null
 2300 Eddie Street, Louisville, KY: null
 ? 2300 Eddie Street. Police units were involved in the search in the 500 block of
   David and 400 block of Baker., Louisville, KY
@@ -6238,6 +6243,9 @@
 2400 Crittenden Dr, Louisville, KY:
   lat: 38.210869
   lng: -85.7515886
+2400 Cross Hill Rd, Louisville, KY:
+  lat: 38.247969
+  lng: -85.6981703
 2400 Elliott Ave, Louisville, KY:
   lat: 38.250247
   lng: -85.791556
@@ -7489,6 +7497,12 @@
 300 I65 South near Cliffwood Hill Way, Louisville, KY: null
 300 I65 South near Cliffwood and Caledonia, Louisville, KY: null
 300 Keaton Avenue, Louisville, KY: null
+300 Kenilworth Rd, Louisville, KY:
+  lat: 38.259748
+  lng: -85.709145
+300 Kenilworth Rd. They were tasked with providing medical assistance, Louisville, KY:
+  lat: 38.259748
+  lng: -85.709145
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
   lng: -85.6333594
@@ -15976,6 +15990,7 @@
 9900 West Ave, with a large blaze visible behind the location. Responding units canceled their response, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
 Adams St and Weller Ave, Louisville, KY: null
+Alarby Avenue and Woodbourne Ave, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
