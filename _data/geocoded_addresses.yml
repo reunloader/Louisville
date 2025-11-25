@@ -6797,6 +6797,9 @@
   a.m., with no immediate status check required beyond that., Louisville, KY
 : null
 2700 I 65 South. The call indicated a need, Louisville, KY: null
+2700 Lexington Rd, Louisville, KY:
+  lat: 38.245036
+  lng: -85.691923
 2700 Martin House Ln, Louisville, KY: null
 ? 2700 Montana Ave in response to a report of an eviction. Upon arrival, a deputy
   described the situation as a "cockpile of evictions." Another deputy was present
@@ -10854,6 +10857,9 @@
   lat: 38.176665
   lng: -85.6754448
 4600 Sheffield Blvd following a report of a fall. A 90-year-old female was found, Louisville, KY: null
+4600 Shelbyville Rd, Louisville, KY:
+  lat: 38.2491946
+  lng: -85.6304565
 ? 4600 Shenandoah Dr for a 68-year-old male experiencing symptoms consistent with
   a possible stroke. Responders were on the scene to provide assistance., Louisville,
   KY
@@ -10920,6 +10926,12 @@
 4700 Duane Ave, Louisville, KY:
   lat: 38.1759431
   lng: -85.8402755
+4700 E W Pages Ln, Louisville, KY:
+  lat: 38.1308948
+  lng: -85.8702609
+4700 E W Pages Ln. Police units were involved in responding, Louisville, KY:
+  lat: 38.1308948
+  lng: -85.8702609
 4700 East Indian Trail, Louisville, KY:
   lat: 38.1794745
   lng: -85.6735927
@@ -11895,6 +11907,12 @@
 5300 Layne Rd. Responding units arrived, Louisville, KY:
   lat: 38.142111
   lng: -85.6624541
+5300 Lowerfield Dr, Louisville, KY:
+  lat: 38.1558697
+  lng: -85.6685142
+5300 Lowerfield Dr. The purpose of the call was, Louisville, KY:
+  lat: 38.1558697
+  lng: -85.6685142
 5300 Matterhorn Dr near Mount Howard Ct, Louisville, KY:
   lat: 38.1687491
   lng: -85.853042
@@ -12722,6 +12740,9 @@
 6100 Port Rd, Louisville, KY:
   lat: 38.1551601
   lng: -85.647905
+6100 Regal Springs Dr, Louisville, KY:
+  lat: 38.2301475
+  lng: -85.643849
 6100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -15922,6 +15943,7 @@ Archtown Road and Southhurstman Parkway, Louisville, KY: null
 Ash Ave and South Central Ave, Louisville, KY: null
 Audubon Parkway and Chickadee Rd, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
+Balmoral Dr and Bramton Rd, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Breckenridge Ln, Louisville, KY: null
 Bardstown Rd and Brighton Dr, Louisville, KY: null
