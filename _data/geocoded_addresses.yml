@@ -1920,6 +1920,12 @@
 : null
 1200 Cypher Street. This incident had been ongoing, Louisville, KY: null
 1200 Cypress Pt STREET, Louisville, KY: null
+1200 Dicknail Avenue, Louisville, KY: null
+? 1200 Dicknail Avenue. The complainant alleged that her boyfriend assaulted her and
+  caused injury by kicking her in the back. Police units, including those from the
+  400 block of Adam and 400 block of Baker, responded to the scene, and EMS was on
+  standby, Louisville, KY
+: null
 1200 Dixie Hwy, Louisville, KY:
   lat: 38.236285
   lng: -85.787342
@@ -3539,6 +3545,9 @@
 ? 1600 North Ln. The mail carrier had not observed any mail being collected, and the
   vehicles at the residence had not moved, prompting the concern., Louisville, KY
 : null
+1600 Pal Rd, near Wells Dr and Final Ct. Fire services were initially requested, Louisville, KY:
+  lat: 38.2372979
+  lng: -85.7755095
 1600 Patent Court, Louisville, KY: null
 ? 1600 Patent Court, specifically in Building 39, Apartment H. Responders were alerted
   to a 54-year-old male who was potentially experiencing a stroke. Engine 16 was dispatched
@@ -8983,6 +8992,7 @@
 400 Adam and 400 block of Adam were dispatched, Louisville, KY: null
 400 Adam and 400 block of Adam were dispatched., Louisville, KY: null
 400 Adam and 400 block of Baker, Louisville, KY: null
+400 Adam and 400 block of David, were dispatched, Louisville, KY: null
 ? 400 Adam and the 1300 block, provided assistance with traffic control as the vehicle
   was being removed from the roadway, Louisville, KY
 : null
@@ -10911,6 +10921,7 @@
   lng: -85.6180141
 500 Adam and the 500 block of Baker, Louisville, KY: null
 500 Adam and the 500 block of Baker., Louisville, KY: null
+500 Adam, 400 block of David, and 400 block of Adam, checked the vehicle. It was determined, Louisville, KY: null
 500 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -15785,6 +15796,7 @@ Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South Fifth Street and Cedar Road, Louisville, KY: null
+South First Street Parkway and Shane Dr, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
 South Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
