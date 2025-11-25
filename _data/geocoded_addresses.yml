@@ -1738,6 +1738,9 @@
 11000 Decimal Dr, Louisville, KY: null
 11000 Decimal Dr. Responding units were unable to make contact, and the call was left in a pending status., Louisville, KY: null
 11000 Decimal Dr. Responding units were unable, Louisville, KY: null
+11000 Electron Dr, Louisville, KY:
+  lat: 38.1992711
+  lng: -85.5541487
 ? 11000 Hill Rd on a report of a possible break-in in progress. Two subjects were
   observed near a structure after working hours, prompting the investigation., Louisville,
   KY
@@ -2464,6 +2467,7 @@
 12700 Charles Farm Cir, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
+12700 Glengate Pl, Louisville, KY: null
 12800 Lower River Rd, Louisville, KY:
   lat: 38.0679453
   lng: -85.9054493
@@ -5062,6 +5066,7 @@
 200 South at Stone St, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South at the 22, Louisville, KY: null
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
 200 South to Newcutt Road, turning onto Old Manslick Rd, Louisville, KY: null
@@ -8002,6 +8007,9 @@
 3100 Jennifer Way, Louisville, KY:
   lat: 38.1696995
   lng: -85.8727228
+3100 Lakeheath Dr, Louisville, KY:
+  lat: 38.1712758
+  lng: -85.7025823
 3100 Mid Dale Ln, Louisville, KY:
   lat: 38.2110134
   lng: -85.6360004
