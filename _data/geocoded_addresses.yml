@@ -1594,6 +1594,12 @@
 1100 South 26th Street, Louisville, KY:
   lat: 38.2403792
   lng: -85.7963793
+? 1100 South 28th Street and requested that a male individual be removed from the
+  premises. The caller indicated they would be waiting outside, Louisville, KY
+: null
+1100 South 28th Street, Louisville, KY:
+  lat: 38.239325
+  lng: -85.800187
 1100 South 3rd Street, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
@@ -1888,6 +1894,13 @@
   reportedly walking around the mall and making sexually inappropriate comments, Louisville,
   KY
 : null
+1200 Beech St, Louisville, KY:
+  lat: 38.238337
+  lng: -85.804327
+? 1200 Beech St. The complainant reported that the person had previously made verbal
+  threats of self-harm. Officers were dispatched, Louisville, KY
+: lat: 38.238337
+  lng: -85.804327
 1200 Belmar Dr, Louisville, KY:
   lat: 38.194685
   lng: -85.729476
@@ -1987,6 +2000,9 @@
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
+1200 Heflane near Meadowlark Ave, Louisville, KY:
+  lat: 38.2505742
+  lng: -85.6840451
 1200 Heslane, Louisville, KY: null
 1200 Holly Berry Dr near Taylor and Peachtree, Louisville, KY: null
 1200 I 64 East, Louisville, KY: null
@@ -2410,6 +2426,13 @@
 1300 Brookhurst Ct, Louisville, KY:
   lat: 38.1214526
   lng: -85.7410414
+1300 Catalpa St, Louisville, KY:
+  lat: 38.236756
+  lng: -85.801731
+? 1300 Catalpa St. The incident was described as a possible argument involving loud
+  yelling and items being thrown. Police units were dispatched, Louisville, KY
+: lat: 38.236756
+  lng: -85.801731
 ? 1300 Chestnut View Ct after an officer conducted a check on a Kentucky license plate.
   The vehicle involved in the stop was identified as a black Lincoln Sudan., Louisville,
   KY
@@ -5301,6 +5324,9 @@
 2000 Sanic Lake Strubb, Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent, Louisville, KY: null
+2000 Sherman, Louisville, KY:
+  lat: 38.2781537
+  lng: -85.8215796
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
@@ -5445,6 +5471,7 @@
 2100 Handley Ave, Louisville, KY:
   lat: 38.1804413
   lng: -85.646218
+2100 Heflane. Fire units were also dispatched, Louisville, KY: null
 2100 I 64 West to conduct a welfare check on an individual., Louisville, KY: null
 2100 I 64 West, Louisville, KY: null
 2100 I-64 West, Louisville, KY: null
