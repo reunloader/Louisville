@@ -98,22 +98,9 @@ def extract_addresses_from_content(content: str) -> Set[str]:
         if addr:
             addresses.add(addr)
 
-    # Pattern 2: "Street and Street" intersections (multiple formats)
-    # Match: "Street and Street", "Street & Street", "at the intersection of Street and Street"
-    street_types = r'(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln|Way|Court|Ct|Circle|Cir)'
-    street_pattern = r'(?:[NSEW]\.?\s+)?[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+' + street_types
-
-    # Format 1: "Street and/& Street"
-    intersection_pattern = f'({street_pattern})\\s+(?:and|&)\\s+({street_pattern})'
+    # Pattern 2: "Street and Street" intersections
+    intersection_pattern = r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))\s+and\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln))'
     for match in re.finditer(intersection_pattern, content):
-        addr = f"{match.group(1).strip()} and {match.group(2).strip()}, Louisville, KY"
-        addr = normalize_address(addr)
-        if addr:
-            addresses.add(addr)
-
-    # Format 2: "at the intersection of Street and Street"
-    intersection_at_pattern = r'at\s+the\s+intersection\s+of\s+(' + street_pattern + r')\s+and\s+(' + street_pattern + r')'
-    for match in re.finditer(intersection_at_pattern, content, re.IGNORECASE):
         addr = f"{match.group(1).strip()} and {match.group(2).strip()}, Louisville, KY"
         addr = normalize_address(addr)
         if addr:
@@ -303,83 +290,6 @@ def try_geocode_query(query: str) -> Dict:
 
     return None
 
-def geocode_intersection(address: str) -> Tuple[Dict, str, None]:
-    """
-    Specialized geocoding for street intersections with multiple strategies.
-    Returns tuple of (result, strategy_used) or (None, None) if all fail.
-    """
-    if " and " not in address.lower() and " & " not in address:
-        return None, None
-
-    # Remove ", Louisville, KY" suffix to work with address part
-    suffix = ", Louisville, KY"
-    addr_part = address[:-len(suffix)] if address.endswith(suffix) else address
-
-    # Normalize to use "and" for processing
-    addr_part = addr_part.replace(" & ", " and ").replace(" And ", " and ")
-
-    # Extract the two street names
-    if " and " not in addr_part.lower():
-        return None, None
-
-    parts = re.split(r'\s+and\s+', addr_part, flags=re.IGNORECASE)
-    if len(parts) != 2:
-        return None, None
-
-    street1 = parts[0].strip()
-    street2 = parts[1].strip()
-
-    # Strategy 1: Try with "&" symbol
-    query = f"{street1} & {street2}, Louisville, KY"
-    result = try_geocode_query(query)
-    if result:
-        return result, f"Intersection & format: {query}"
-
-    # Strategy 2: Try with "@" symbol (Nominatim intersection format)
-    query = f"{street1} @ {street2}, Louisville, KY"
-    result = try_geocode_query(query)
-    if result:
-        return result, f"Intersection @ format: {query}"
-
-    # Strategy 3: Try reversed order with "&"
-    query = f"{street2} & {street1}, Louisville, KY"
-    result = try_geocode_query(query)
-    if result:
-        return result, f"Intersection reversed: {query}"
-
-    # Strategy 4: Try without street types (e.g., "Newburg and Travillion")
-    street1_base = re.sub(r'\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln|Way|Court|Ct|Circle|Cir)$', '', street1, flags=re.IGNORECASE)
-    street2_base = re.sub(r'\s+(?:Street|St|Avenue|Ave|Road|Rd|Boulevard|Blvd|Drive|Dr|Parkway|Pky|Lane|Ln|Way|Court|Ct|Circle|Cir)$', '', street2, flags=re.IGNORECASE)
-
-    if street1_base != street1 or street2_base != street2:
-        query = f"{street1_base} & {street2_base}, Louisville, KY"
-        result = try_geocode_query(query)
-        if result:
-            return result, f"Intersection without types: {query}"
-
-    # Strategy 5: Try geocoding each street separately and calculate midpoint
-    query1 = f"{street1}, Louisville, KY"
-    query2 = f"{street2}, Louisville, KY"
-
-    result1 = try_geocode_query(query1)
-    if result1:
-        time.sleep(RATE_LIMIT_DELAY)  # Rate limit between queries
-        result2 = try_geocode_query(query2)
-        if result2:
-            # Calculate midpoint between the two streets
-            mid_lat = (result1['lat'] + result2['lat']) / 2
-            mid_lng = (result1['lng'] + result2['lng']) / 2
-
-            # Only use midpoint if streets are reasonably close (within ~5km)
-            # Simple distance check: 0.05 degrees ≈ 5.5km at this latitude
-            lat_diff = abs(result1['lat'] - result2['lat'])
-            lng_diff = abs(result1['lng'] - result2['lng'])
-
-            if lat_diff < 0.05 and lng_diff < 0.05:
-                return {'lat': mid_lat, 'lng': mid_lng}, f"Midpoint of {street1} and {street2}"
-
-    return None, None
-
 def geocode_address(address: str) -> Tuple[float, float, None]:
     """Geocode an address using Nominatim API with fallback strategies."""
 
@@ -389,15 +299,7 @@ def geocode_address(address: str) -> Tuple[float, float, None]:
         print(f"  ✓ [Original] {address[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
         return result
 
-    # Strategy 2: For intersections, use specialized intersection geocoding
-    if " and " in address.lower() or " & " in address:
-        result, strategy = geocode_intersection(address)
-        if result:
-            print(f"  ✓ [Intersection] {address[:60]}...")
-            print(f"                -> {strategy[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
-            return result
-
-    # Strategy 3: Try cleaned address
+    # Strategy 2: Try cleaned address
     cleaned = clean_address(address)
     if cleaned and cleaned != address:
         result = try_geocode_query(cleaned)
@@ -406,7 +308,7 @@ def geocode_address(address: str) -> Tuple[float, float, None]:
             print(f"           -> {cleaned[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
             return result
 
-    # Strategy 4: Try highway-formatted address
+    # Strategy 3: Try highway-formatted address
     highway = format_highway_address(address)
     if highway and highway != address and highway != cleaned:
         result = try_geocode_query(highway)
@@ -415,13 +317,22 @@ def geocode_address(address: str) -> Tuple[float, float, None]:
             print(f"           -> {highway[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
             return result
 
-    # Strategy 5: Try landmark-based geocoding
+    # Strategy 4: Try landmark-based geocoding
     landmark = extract_landmark(address)
     if landmark and landmark != address:
         result = try_geocode_query(landmark)
         if result:
             print(f"  ✓ [Landmark] {address[:60]}...")
             print(f"            -> {landmark[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
+            return result
+
+    # Strategy 5: For intersections, try with "&" instead of "and"
+    if " and " in address.lower():
+        alt_intersection = address.replace(" and ", " & ").replace(" And ", " & ")
+        result = try_geocode_query(alt_intersection)
+        if result:
+            print(f"  ✓ [Intersection] {address[:60]}...")
+            print(f"                -> {alt_intersection[:60]}... -> ({result['lat']:.4f}, {result['lng']:.4f})")
             return result
 
     # All strategies failed
