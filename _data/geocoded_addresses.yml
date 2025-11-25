@@ -8107,6 +8107,10 @@
 3200 Brightside Ct, Louisville, KY:
   lat: 38.2003115
   lng: -85.6081245
+3200 Broeck Pointe Cir, Louisville, KY: null
+? 3200 Broeck Pointe Cir, near Rock Point Road, who was experiencing an asthma attack.
+  EMS provided assistance, Louisville, KY
+: null
 3200 Cramsway and Crossroad, Louisville, KY: null
 3200 Dumesnil St. Police units responded, Louisville, KY:
   lat: 38.237293
@@ -8473,6 +8477,9 @@
 3500 Charmane Dr, Louisville, KY:
   lat: 38.1412532
   lng: -85.6626633
+3500 Colmar Dr, Louisville, KY:
+  lat: 38.2354695
+  lng: -85.8119065
 3500 Craig Ave, Louisville, KY:
   lat: 38.19568
   lng: -85.789656
@@ -9107,6 +9114,12 @@
 3900 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+3900 Cane Run Rd, Louisville, KY:
+  lat: 38.2135306
+  lng: -85.8210078
+3900 Cane Run Rd. Medical units were dispatched, Louisville, KY:
+  lat: 38.2135306
+  lng: -85.8210078
 ? 3900 Craig Ave who had allegedly disrespected a caller. The individuals, described
   as four females dressed in black, had left the area approximately 30 minutes prior,
   heading towards Bicknell. Police were asked to be aware of their presence., Louisville,
@@ -9615,6 +9628,9 @@
 400 Roselane St, Louisville, KY:
   lat: 38.242731
   lng: -85.747338
+400 Rosemont Ct, Louisville, KY:
+  lat: 38.2064277
+  lng: -85.649913
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
