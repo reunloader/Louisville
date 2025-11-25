@@ -2361,6 +2361,12 @@
   lat: 38.236542
   lng: -85.7171011
 12500 Davis Ct, Louisville, KY: null
+12500 Laverton Ave, Louisville, KY:
+  lat: 38.0606856
+  lng: -85.894423
+? 12500 Laverton Ave, between Welford Ave and Wilkin Lake. A male dressed in dark
+  clothing and track pants was observed by residents appearing, Louisville, KY
+: null
 12500 Lucas Ln, Louisville, KY:
   lat: 38.2778735
   lng: -85.522517
@@ -2762,6 +2768,8 @@
   lat: 38.279377
   lng: -85.504782
 13600 Aragon Way, Louisville, KY: null
+13600 Elanna Ave in response, Louisville, KY: null
+13600 Elanna Ave, Louisville, KY: null
 13600 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
@@ -12980,6 +12988,10 @@
 6900 Brooklawn Dr, Louisville, KY:
   lat: 38.1538637
   lng: -85.8195569
+? 6900 Brooklawn Dr. A caller stated they were on FaceTime with a woman who was allegedly
+  assaulted by a man who was reported, Louisville, KY
+: lat: 38.1538637
+  lng: -85.8195569
 6900 Brookley Dr, Louisville, KY:
   lat: 38.0910295
   lng: -85.6742718
@@ -14044,6 +14056,8 @@
 7800 St. St Andrews Church Rd, across from Arnold Town and St. Anthony Church,, Louisville, KY:
   lat: 38.1318501
   lng: -85.7919277
+7800 Stewart Ave, Louisville, KY: null
+7800 Stewart Ave, between Cofer Ave and Margo Ave,, Louisville, KY: null
 7800 Thorobred Lane, Louisville, KY: null
 7800 Wolfton Branch, Louisville, KY: null
 78500 Dunwoody Ct, Louisville, KY:
@@ -15679,6 +15693,7 @@ Clay St and Shelby St, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cliff Ave and Denmark St, Louisville, KY: null
+Cofer Ave and Margo Ave, Louisville, KY: null
 Colson Dr and Silver Springs Dr, Louisville, KY: null
 Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cowling Ave and Stratton Ave, Louisville, KY: null
