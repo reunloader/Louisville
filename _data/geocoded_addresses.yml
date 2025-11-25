@@ -2394,6 +2394,9 @@
 : null
 1225 South Fifth Street in response, Louisville, KY: null
 12300 Forest School Ln, Louisville, KY: null
+12300 Meadow Ln, Louisville, KY:
+  lat: 38.2472403
+  lng: -85.5518839
 12300 Ridge Crest Dr, Louisville, KY: null
 124 West Oak Street, Louisville, KY:
   lat: 38.2345255
@@ -3394,6 +3397,9 @@
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
+1500 Port Rd near Canary Road, Louisville, KY:
+  lat: 38.1641544
+  lng: -85.897011
 1500 Rangeland Rd, Louisville, KY:
   lat: 38.167218
   lng: -85.681561
@@ -16278,6 +16284,7 @@ Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
+Shepherdsville Rd and Ferndale Rd, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
 Silver Springs Dr and Raintree Dr, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
