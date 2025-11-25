@@ -10021,6 +10021,9 @@
   by the responding medical teams., Louisville, KY
 : null
 4300 Norbrook Dr, Louisville, KY: null
+4300 Park Ave, Louisville, KY:
+  lat: 38.2316106
+  lng: -85.7627975
 4300 Park Blvd, Louisville, KY:
   lat: 38.1926269
   lng: -85.7552465
@@ -12462,6 +12465,9 @@
 6400 Montego Bay, Louisville, KY:
   lat: 38.155313
   lng: -85.640974
+6400 North27th Street, Louisville, KY:
+  lat: 38.2806436
+  lng: -85.7870725
 6400 Out of Loop, Louisville, KY: null
 6400 Outer Loop, Louisville, KY:
   lat: 38.13786
