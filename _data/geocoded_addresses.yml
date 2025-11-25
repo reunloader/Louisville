@@ -116,6 +116,9 @@
 100 East Adair, Louisville, KY:
   lat: 38.190304
   lng: -85.761257
+100 East Amherst, Louisville, KY:
+  lat: 38.1747425
+  lng: -85.7630651
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
 100 East Halfland Boulevard, Louisville, KY: null
@@ -2654,6 +2657,7 @@
   lat: 38.2932179
   lng: -85.513383
 13200 block, Louisville, KY: null
+13300 Crystal Cove, Louisville, KY: null
 13300 North Tetland, Louisville, KY: null
 13300 North Tetland, though it was believed, Louisville, KY: null
 13300 Shelterville Road, Louisville, KY: null
@@ -5336,6 +5340,7 @@
 2000 [Street Name Not Fully Provided], Louisville, KY:
   lat: 38.2274949
   lng: -85.6953702
+2000 block of black Kia at Home Depot entrance, Louisville, KY: null
 2000 four-door Nissan Xterra, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
 2009 Crums Ln, Louisville, KY:
@@ -13481,6 +13486,7 @@
 7200 Whipple Rd. The patient, a 36-year-old male, was reported, Louisville, KY:
   lat: 38.0702634
   lng: -85.8958562
+7200 block of Green Oak, Louisville, KY: null
 ? 73 St. James Court due to a report of a suspicious individual. The person was described
   as a white male wearing a gray sweatshirt and dark pants. Concerns were raised that
   the individual might be intoxicated. Officers proceeded to the location to assess
@@ -13527,6 +13533,9 @@
 7300 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+7300 Nottoway Cir, Louisville, KY:
+  lat: 38.1561021
+  lng: -85.8049529
 7300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -13670,6 +13679,9 @@
 76 Abbey Rd, Louisville, KY:
   lat: 38.0714152
   lng: -85.8950484
+7600 Bardstown Rd, Louisville, KY:
+  lat: 38.1370381
+  lng: -85.5816331
 7600 Charron Rd, Louisville, KY:
   lat: 38.2058826
   lng: -85.6137461
