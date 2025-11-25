@@ -1288,6 +1288,9 @@
 10200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+10300 Dixie Hwy, Louisville, KY:
+  lat: 38.1060157
+  lng: -85.8683925
 10300 Gageland Rd, Louisville, KY:
   lat: 38.1485446
   lng: -85.8528443
@@ -6152,6 +6155,9 @@
 ? 2400 Credin. The specific details of what was deemed suspicious were not immediately
   available. Responding units were in the 600 block of Adams., Louisville, KY
 : null
+2400 Crittenden Dr, Louisville, KY:
+  lat: 38.210869
+  lng: -85.7515886
 2400 Elliott Ave, Louisville, KY:
   lat: 38.250247
   lng: -85.791556
