@@ -159,6 +159,12 @@
   lat: 38.2546069
   lng: -85.6711865
 100 Flat Rock Rd as part of this ongoing response, Louisville, KY: null
+100 Flat Rock Rd, Louisville, KY:
+  lat: 38.2361641
+  lng: -85.444653
+100 Flat Rock Rd. The alarm indicated a water flow from a dry sprinkler system, prompting a response, Louisville, KY:
+  lat: 38.2361641
+  lng: -85.444653
 100 Fort Lillian Avenue, Louisville, KY: null
 100 Fort Lillian Avenue. A silver Honda HRV was noted in connection with this incident., Louisville, KY: null
 100 Gilmore, Louisville, KY:
@@ -1840,6 +1846,9 @@
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
   lng: -85.4306933
+11600 Main St, Louisville, KY:
+  lat: 38.2446121
+  lng: -85.5412585
 ? 11600 Reality Trail. Residents had been experiencing headaches for two days, and
   an elderly female with a hip injury was unable to evacuate. EMS was en route, and
   a secondary meter was requested for further analysis of the residence., Louisville,
@@ -10974,6 +10983,9 @@
 4900 Ronwood Dr, Louisville, KY:
   lat: 38.143694
   lng: -85.669167
+4900 Rosalind Ct, Louisville, KY:
+  lat: 38.1678531
+  lng: -85.6706614
 4900 S3rd Street, Louisville, KY:
   lat: 38.1768012
   lng: -85.7674879
@@ -15942,6 +15954,7 @@ Taylor Ave and Winkler Ave, Louisville, KY: null
 Taylor Blvd and Bicknell Ave, Louisville, KY: null
 Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
+Taylor Blvd and Hathaway Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
