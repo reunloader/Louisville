@@ -685,6 +685,7 @@
   of the situation requiring the check was not specified., Louisville, KY
 : null
 1000 Cresthorn Road, Louisville, KY: null
+1000 Dixie Hwy following a report of a medical emergency. Responders arrived on scene, Louisville, KY: null
 1000 Dixie Hwy to investigate the vehicle and its presence in the area., Louisville, KY: null
 1000 Dixie Hwy, Louisville, KY:
   lat: 38.2416641
@@ -693,6 +694,9 @@
   lat: 38.2416641
   lng: -85.7852707
 1000 Dixie Hwy. Further details, Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
+1000 Dixie Hwy. Officers were dispatched, Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
 ? 1000 Dixie Hwy. Police units were dispatched to investigate the theft and initiate
@@ -720,6 +724,9 @@
 : lat: 38.2416641
   lng: -85.7852707
 1000 Dixie Hwy. Responding units were dispatched, Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
+1000 Dixie Hwy. Responding units were sent, Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
 ? 1000 Dixie Hwy. Responding units were tasked with investigating the vehicle and
