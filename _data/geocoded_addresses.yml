@@ -1296,6 +1296,9 @@
 10200 Judith Ct, Louisville, KY:
   lat: 38.2504593
   lng: -85.5658386
+10200 Long Home Rd, Louisville, KY:
+  lat: 38.122017
+  lng: -85.576064
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
@@ -2455,6 +2458,7 @@
   assistance was provided, Louisville, KY
 : lat: 38.307964
   lng: -85.519984
+12700 Charles Farm Cir, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
 12800 Lower River Rd, Louisville, KY:
@@ -3210,6 +3214,12 @@
 14000 Schutte Station Pl, Louisville, KY:
   lat: 38.2118141
   lng: -85.5232325
+14400 Adkins Rd, Louisville, KY:
+  lat: 38.1237646
+  lng: -85.6631004
+14400 Adkins Rd. No specific details, Louisville, KY:
+  lat: 38.1237646
+  lng: -85.6631004
 14400 Harkaway Ave, Louisville, KY:
   lat: 38.227493
   lng: -85.49891
@@ -11935,6 +11945,12 @@
 5300 Camden Ave, Louisville, KY:
   lat: 38.1928396
   lng: -85.7877594
+5300 Cane Run Rd near the swamp, Louisville, KY:
+  lat: 38.1759791
+  lng: -85.8819265
+5300 Cane Run Rd, Louisville, KY:
+  lat: 38.1759791
+  lng: -85.8819265
 5300 Citation Rd, Louisville, KY:
   lat: 38.113786
   lng: -85.863865
@@ -12819,6 +12835,9 @@
 6200 Brownsboro Rd, Louisville, KY:
   lat: 38.2835684
   lng: -85.6287332
+6200 Crystal Pointe Dr, Louisville, KY:
+  lat: 38.1543232
+  lng: -85.4852714
 6200 Ferris Way, Louisville, KY: null
 6200 Global Dr, Louisville, KY:
   lat: 38.1397231
@@ -13925,6 +13944,9 @@
 71 Zorn Ave, Louisville, KY:
   lat: 38.275523
   lng: -85.6976287
+7100 Betsy Ross Dr, Louisville, KY:
+  lat: 38.0579743
+  lng: -85.8969414
 7100 Bungan Avenue, Louisville, KY: null
 7100 Cedar Springs Blvd, Louisville, KY:
   lat: 38.1436823
@@ -16109,6 +16131,7 @@ Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
+Crums Ln and May Ave, Louisville, KY: null
 Crums Ln and Schmitts Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null

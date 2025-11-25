@@ -12223,4 +12223,20 @@ history:
   batch_success_rate: 57.14
   batch_new_addresses: 7
   batch_new_successes: 4
-last_updated: '2025-11-25T20:22:35.340602'
+- timestamp: '2025-11-25T20:35:29.331583'
+  total_addresses: 6682
+  successful: 3137
+  failed: 3545
+  success_rate: 46.95
+  failure_rate: 53.05
+  failure_patterns:
+    Incomplete/vague address: 616
+    Contains location qualifiers (near/at): 1421
+    Intersection format: 517
+    Police phonetic codes: 2
+    Other/Unknown: 651
+    Contains extra sentences/context: 338
+  batch_success_rate: 77.78
+  batch_new_addresses: 9
+  batch_new_successes: 7
+last_updated: '2025-11-25T20:35:29.331709'
