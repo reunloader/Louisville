@@ -3938,6 +3938,9 @@
   indicating a high priority. Responders arrived, Louisville, KY
 : lat: 38.26358
   lng: -85.77621
+1700 Rangeland Rd, Louisville, KY:
+  lat: 38.1647239
+  lng: -85.6700729
 1700 Research Dr, Louisville, KY: null
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
@@ -10377,6 +10380,9 @@
   lat: 38.1866716
   lng: -85.5954418
 4200 Stony Stratus, Louisville, KY: null
+4200 W Market St, Louisville, KY:
+  lat: 38.2631659
+  lng: -85.8190073
 4200 West Muhammad Ali, Louisville, KY:
   lat: 38.2580272
   lng: -85.820282
@@ -11456,6 +11462,7 @@
 500 Five Feet, Louisville, KY: null
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
 500 Fountain Ave near Warwick Ave, Louisville, KY: null
+500 Grand Vista Pl, Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
 ? 500 Jim Noway to oversee an eviction process. Following the procedure, the deputy
