@@ -521,6 +521,9 @@
 100 W Burnett Ave, Louisville, KY:
   lat: 38.2266025
   lng: -85.7569082
+100 W College St, Louisville, KY:
+  lat: 38.243155
+  lng: -85.754841
 100 W Kentucky St regarding a 40-year-old male who was unresponsive due, Louisville, KY: null
 100 W Kentucky St, Louisville, KY:
   lat: 38.238326
@@ -6159,6 +6162,12 @@
 2400 Arnold Palmer Blvd, near the intersection with Sherry Rd,, Louisville, KY:
   lat: 38.2743426
   lng: -85.4890815
+2400 Autumn Pointe Dr, Louisville, KY:
+  lat: 38.1404396
+  lng: -85.7801839
+2400 Autumn Pointe Dr. Responding units investigated the cause of the alarm, Louisville, KY:
+  lat: 38.1404396
+  lng: -85.7801839
 2400 Ballad Blvd, Louisville, KY: null
 2400 Bardstown Rd, Louisville, KY:
   lat: 38.223758
@@ -15092,6 +15101,9 @@
   resolved or was not as initially reported., Louisville, KY
 : null
 900 Eastwood-Fisherville Woods Dr. Emergency units were dispatched, Louisville, KY: null
+? 900 Edward St to assist an 80-year-old female who was found to be unresponsive.
+  Fire and EMS units arrived on scene to assess and provide care, Louisville, KY
+: null
 900 Edward St, Louisville, KY:
   lat: 38.239093
   lng: -85.728107
@@ -15865,6 +15877,7 @@ Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
 Cain Ln and Tiny Ln, Louisville, KY: null
 Camden Ave and Carol Ave, Louisville, KY: null
+Camp Ground Rd and Wilmoth Ave, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
 Cane Run Rd and Mary Rose Dr, Louisville, KY: null
 Cane Run Road and Ralph Avenue, Louisville, KY: null
