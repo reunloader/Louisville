@@ -1846,6 +1846,13 @@
 11300 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
+? 11300 Wooded Branch Ln following a report of an elderly male experiencing stroke-like
+  symptoms. The 78-year-old individual was reportedly vomiting and unable, Louisville,
+  KY
+: null
+11300 Wooded Branch Ln, Louisville, KY:
+  lat: 38.1530714
+  lng: -85.5646418
 ? 11400 Crosswinds Dr to provide a public assist. The specific request was for a lift
   assist for an 80-year-old male resident. A specific unit was in service for this
   call., Louisville, KY
@@ -2365,6 +2372,7 @@
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
 12000 East Joe Railroad, Louisville, KY: null
+12000 Faxme Park Circle, Louisville, KY: null
 12000 Halifax Dr, Louisville, KY:
   lat: 38.313663
   lng: -85.529676
@@ -2423,6 +2431,7 @@
   lat: 38.236542
   lng: -85.7171011
 12500 Davis Ct, Louisville, KY: null
+12500 Faxme Park Circle, Louisville, KY: null
 12500 Laverton Ave, Louisville, KY:
   lat: 38.0606856
   lng: -85.894423
@@ -2785,6 +2794,9 @@
   lat: 38.2325507
   lng: -85.7594371
 13000 Ash1, Louisville, KY: null
+13000 Dixie Hwy, Louisville, KY:
+  lat: 38.0675868
+  lng: -85.8858689
 13000 Hinchbrook Blvd, Louisville, KY:
   lat: 38.0632925
   lng: -85.8909174
@@ -2849,6 +2861,9 @@
 13600 Pinnacle Gardens Cir, Louisville, KY:
   lat: 38.2862898
   lng: -85.5069324
+13600 Tennis Blvd, Louisville, KY:
+  lat: 38.0603732
+  lng: -85.9036157
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
@@ -8933,6 +8948,8 @@
 3700 Mamaroneck Rd, Louisville, KY:
   lat: 38.207964
   lng: -85.643813
+3700 Marvin Ave, Louisville, KY: null
+3700 Marvin Ave, with a connection, Louisville, KY: null
 3700 Mason Ave, Louisville, KY:
   lat: 38.1147961
   lng: -85.6941477
