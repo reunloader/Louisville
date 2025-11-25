@@ -13307,6 +13307,9 @@
   action to potentially mitigate long-term effects., Louisville, KY
 : null
 6900 Cedar Lake Court due, Louisville, KY: null
+6900 Colrain Cir, Louisville, KY:
+  lat: 38.1295542
+  lng: -85.8776409
 6900 Colson Ct, Louisville, KY:
   lat: 38.198819
   lng: -85.618003
@@ -16069,6 +16072,7 @@ Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cowling Ave and Stratton Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
+Crestline Rd and Justan Ave, Louisville, KY: null
 Crestwood Ave and Frankfort Ave, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crop St Red Fern Rd and Rookwood Ave, Louisville, KY: null
@@ -16293,6 +16297,9 @@ Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
 Spring Dr and Rock Bay Dr, Louisville, KY: null
+Springdale Rd and Brownsboro Rd, Louisville, KY:
+  lat: 38.2933856
+  lng: -85.6039019
 Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
