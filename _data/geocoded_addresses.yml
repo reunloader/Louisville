@@ -8480,6 +8480,9 @@
 3500 West Broadway, Louisville, KY:
   lat: 38.24988
   lng: -85.810225
+3500 Whippoorwill Rd, Louisville, KY:
+  lat: 38.209591
+  lng: -85.714919
 3500 Woodmont Park Ln, Louisville, KY:
   lat: 38.284865
   lng: -85.477467
@@ -10745,6 +10748,9 @@
   lng: -85.769193
 4600 South 63rd Street, Louisville, KY: null
 4600 South Second Street, Louisville, KY: null
+4600 Southern Pky, Louisville, KY:
+  lat: 38.1850945
+  lng: -85.7687368
 4600 Stony Brook Dr near Bittenberg Road, Louisville, KY:
   lat: 38.180045
   lng: -85.597056
@@ -10888,6 +10894,9 @@
 4715 Preston Hwy, Louisville, KY:
   lat: 38.1794727
   lng: -85.7176764
+4800 Bardstown Rd, Louisville, KY:
+  lat: 38.1779416
+  lng: -85.6220904
 4800 Building Way, Louisville, KY: null
 4800 COVID Drive 1:30 p, Louisville, KY: null
 4800 COVID Drive 1:30 p.m., Louisville, KY: null
@@ -14658,6 +14667,9 @@
   lat: 38.1297483
   lng: -85.6698065
 8200 Jenny Lindrob near D Road, Louisville, KY: null
+8200 Laurel Grove Ct, Louisville, KY:
+  lat: 38.129913
+  lng: -85.6279509
 8200 Preston Hwy, Louisville, KY:
   lat: 38.1332639
   lng: -85.6846969
