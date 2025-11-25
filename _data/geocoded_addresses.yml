@@ -13676,6 +13676,9 @@
 7000 Billie Ln, Louisville, KY:
   lat: 38.1485385
   lng: -85.6584966
+7000 Black Walnut Cir, Louisville, KY:
+  lat: 38.0958593
+  lng: -85.6459417
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
   lng: -85.5439541
@@ -14837,6 +14840,9 @@
   lat: 38.1269748
   lng: -85.6933449
 8500 Glenridge Ct, Louisville, KY: null
+8500 Minor Ln, Louisville, KY:
+  lat: 38.1256586
+  lng: -85.7122206
 8500 National Turnpike, Louisville, KY:
   lat: 38.1263001
   lng: -85.7493103
