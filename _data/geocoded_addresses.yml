@@ -5359,6 +5359,13 @@
   lng: -85.6765066
 2000 Greenhaven Dr, Louisville, KY: null
 2000 Heights Lane, Louisville, KY: null
+2000 Herr Ln, Louisville, KY:
+  lat: 38.279767
+  lng: -85.624731
+? 2000 Herr Ln. The report mentioned a blue vehicle and someone knocking on the window
+  without receiving a response. Responders were sent, Louisville, KY
+: lat: 38.279767
+  lng: -85.624731
 ? 2000 High Flame following a report of a stabbing. A 56-year-old male sustained a
   serious injury to his hand, with part of a finger reportedly severed. Officers were
   requested to investigate the circumstances of the incident., Louisville, KY
@@ -8613,6 +8620,9 @@
 3600 Glenview Ave, Louisville, KY:
   lat: 38.2984672
   lng: -85.6443492
+3600 Grandview Ave, Louisville, KY:
+  lat: 38.2464907
+  lng: -85.6560494
 ? 3600 Green Meadows Straws to handle a report of domestic trouble. Officers were
   dispatched to the scene to manage the situation. No additional details about the
   outcome were provided., Louisville, KY
@@ -9469,6 +9479,9 @@
 400 Gunn Ct, Louisville, KY:
   lat: 38.1026175
   lng: -85.6892695
+400 Gunn Ct., Louisville, KY:
+  lat: 38.1026175
+  lng: -85.6892695
 400 Hughes Mile, Louisville, KY: null
 ? 400 Hughes Mile. Upon arrival, they observed a multi-story building with visible
   smoke showing from all sides. The alarm panel was reportedly reset, and the situation
@@ -10118,6 +10131,7 @@
 4100 Sunrise Way, Louisville, KY:
   lat: 38.2139627
   lng: -85.6207901
+4100 Sunset Ave, Louisville, KY: null
 4100 Tatum Ln, Louisville, KY:
   lat: 38.1725368
   lng: -85.8664289
@@ -14431,6 +14445,9 @@
 800 Mark, Louisville, KY:
   lat: 38.1280665
   lng: -85.858562
+800 Mulberry St, Louisville, KY:
+  lat: 38.228084
+  lng: -85.741562
 800 New Chamberlain Ln, Louisville, KY:
   lat: 38.313437
   lng: -85.5612938
