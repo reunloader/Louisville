@@ -5595,6 +5595,9 @@
 2100 I 64 West to conduct a welfare check on an individual., Louisville, KY: null
 2100 I 64 West, Louisville, KY: null
 2100 I-64 West, Louisville, KY: null
+2100 Little Creek Ct, Louisville, KY:
+  lat: 38.2063785
+  lng: -85.677135
 2100 Middle Ln was found, Louisville, KY: null
 2100 Middle Ln, Louisville, KY: null
 2100 Millvale Rd, Louisville, KY:
@@ -5883,6 +5886,7 @@
   lng: -85.7594798
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched, Louisville, KY: null
+2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
   and showing signs of facial drooping. This was classified as a medical Delta call,
   and responders were directed to use a specific route entrance to reach the patient.,
@@ -12806,6 +12810,9 @@
 65 North Crittenden Drive, Louisville, KY:
   lat: 38.1826445
   lng: -85.7529054
+65 North Jackson Street, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 65 South First Gethsemane Ave, Louisville, KY: null
 6500 Brattleview Circle, Louisville, KY: null
 6500 Downs Branch Rd, Louisville, KY:
