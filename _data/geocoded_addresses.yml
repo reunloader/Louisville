@@ -622,6 +622,7 @@
   lng: -85.7540073
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 an unspecified location, Louisville, KY: null
+100 an unspecified street and a red PF. Units were sent, Louisville, KY: null
 100 and 100 block of, Louisville, KY: null
 100 at65 South, Louisville, KY: null
 100 at65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
@@ -3859,6 +3860,9 @@
   lat: 38.1925635
   lng: -85.6192137
 1700 Portland Ave, Louisville, KY:
+  lat: 38.26358
+  lng: -85.77621
+1700 Portland Ave. A 50-year-old male sustained a self-inflicted gunshot wound, Louisville, KY:
   lat: 38.26358
   lng: -85.77621
 ? 1700 Portland Ave. The call was categorized as a "Delta" level medical incident,
@@ -10756,6 +10760,7 @@
 4600 Shasta Trail, Louisville, KY:
   lat: 38.176665
   lng: -85.6754448
+4600 Sheffield Blvd following a report of a fall. A 90-year-old female was found, Louisville, KY: null
 ? 4600 Shenandoah Dr for a 68-year-old male experiencing symptoms consistent with
   a possible stroke. Responders were on the scene to provide assistance., Louisville,
   KY
@@ -14263,6 +14268,7 @@
   lat: 38.2592106
   lng: -85.7264871
 800 Baker and 800 block of Adams, Louisville, KY: null
+800 Baker and the 400 block of an unspecified street, Louisville, KY: null
 800 Baker and the 800 block of Adam, Louisville, KY: null
 800 Baker and the 800 block of Adam., Louisville, KY: null
 ? 800 Baker, 800 block of Adam, and 3 David were engaged in managing the stop and
@@ -15986,6 +15992,7 @@ Nanka Rd and Valley Station Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Park Rd, Louisville, KY: null
+New La Grange Rd and Factory Ln, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
 Newburg Rd and Bishop Ln, Louisville, KY: null
 Newburg Rd and Gold Street, Louisville, KY: null
