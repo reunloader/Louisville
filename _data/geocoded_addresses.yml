@@ -846,6 +846,13 @@
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
+1000 Logan St, Louisville, KY:
+  lat: 38.236123
+  lng: -85.739562
+? 1000 Logan St, near Kentucky Ave. The alarm was reported as a fire alarm, prompting
+  a response from the fire department, Louisville, KY
+: lat: 38.236123
+  lng: -85.739562
 1000 Longboat Ct, Louisville, KY:
   lat: 38.1015598
   lng: -85.687306
@@ -863,6 +870,10 @@
 ? 1000 Magazine St following a report of a dispute between a male and a female. The
   situation was described as an ongoing issue, with the male reportedly selling items
   before returning, Louisville, KY
+: null
+? 1000 Magazine St following a report of a medical emergency. Details regarding the
+  nature of the call were being assessed by dispatch as units proceeded, Louisville,
+  KY
 : null
 1000 Magazine St, Louisville, KY:
   lat: 38.2484525
@@ -4495,6 +4506,9 @@
   The incident was managed by the fire department., Louisville, KY
 : null
 1900 Newburgh Road. Engine 20 and Quint 7 were dispatched, Louisville, KY: null
+1900 Overlook Terrace, Louisville, KY:
+  lat: 38.2204526
+  lng: -85.6948778
 1900 Owen St & 1700 block of O'Odaniel Ave, Louisville, KY: null
 ? 1900 Payne St to address a medical emergency. The patient, a 68-year-old male who
   recently underwent open heart surgery, was experiencing difficulties maintaining
@@ -10846,6 +10860,12 @@
 4500 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+4500 Jewell Ave, Louisville, KY:
+  lat: 38.2686001
+  lng: -85.8198194
+4500 Jewell Ave. Responding units were dispatched, Louisville, KY:
+  lat: 38.2686001
+  lng: -85.8198194
 4500 Lunenburg Dr, Louisville, KY: null
 4500 Lunenburg Dr, near Pulaski Ct and Northumberland Dr,, Louisville, KY: null
 4500 Meyer on I-65 South, Louisville, KY: null
@@ -11960,6 +11980,9 @@
 512 North Birchwood Avenue, Louisville, KY:
   lat: 38.2645395
   lng: -85.6970665
+5200 Airfield Dr, Louisville, KY:
+  lat: 38.188076
+  lng: -85.7361901
 5200 Bardstown Rd, Louisville, KY:
   lat: 38.172184
   lng: -85.610779
