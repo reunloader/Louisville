@@ -4421,6 +4421,9 @@
 1800 Outer Loop, Louisville, KY:
   lat: 38.1280358
   lng: -85.7393457
+1800 Sale Ave, Louisville, KY:
+  lat: 38.1976722
+  lng: -85.7879718
 1800 San Jose Ave, Louisville, KY: null
 1800 Shady Ln, Louisville, KY:
   lat: 38.2278163
@@ -9141,6 +9144,10 @@
 3600 Wheeler Ave, near Strader Ave and Camden Ave,, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
+? 3600 Wheeler Ave. The caller reported the individual was not breathing and expressed
+  concern about providing assistance. EMS responded, Louisville, KY
+: lat: 38.1942564
+  lng: -85.7886117
 ? 3600 Wheeler Avenue. The patient was reported to be suffering from abdominal pain.
   Responders attended to the individual's medical needs., Louisville, KY
 : null
@@ -9774,6 +9781,9 @@
   lat: 38.155955
   lng: -85.757544
 400 E Jefferson St, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
+400 E Jefferson St. Responders were sent, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
 ? 400 E Main St at Slugger Field following reports of individuals refusing to leave
