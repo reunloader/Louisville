@@ -1147,6 +1147,11 @@
 1000 South 28th Street, Louisville, KY:
   lat: 38.2434873
   lng: -85.799649
+? 1000 South 2nd Street at the Baptist Parish main office regarding a resident experiencing
+  mental health difficulties. The individual was reportedly refusing, Louisville,
+  KY
+: lat: 38.2385476
+  lng: -85.7570484
 ? 1000 South 2nd Street for a medical emergency. A 71-year-old male had fallen and
   suffered a laceration to his head. The incident was designated as a medical Bravo,
   and responders found the door to the residence unlocked upon arrival., Louisville,
@@ -3504,6 +3509,9 @@
 1500 Port Rd near Canary Road, Louisville, KY:
   lat: 38.1641544
   lng: -85.897011
+1500 Quadrant Ave, Louisville, KY:
+  lat: 38.230063
+  lng: -85.712604
 1500 Rangeland Rd, Louisville, KY:
   lat: 38.167218
   lng: -85.681561
@@ -6156,6 +6164,9 @@
 23 Adventure Rd, Louisville, KY:
   lat: 38.2039221
   lng: -85.834534
+23 Southern Pky, Louisville, KY:
+  lat: 38.1747458
+  lng: -85.7745966
 23 Stanley Ave, Louisville, KY:
   lat: 38.1891921
   lng: -85.7789464
@@ -7155,6 +7166,14 @@
   breeds, were loose and aggressive. Animal control was requested, Louisville, KY
 : lat: 38.2627942
   lng: -85.6980676
+2800 Crums Ln, Louisville, KY:
+  lat: 38.198204
+  lng: -85.8349572
+? 2800 Crums Ln, near the intersection of May and Hartledge at Future Pioneers, concerning
+  a 41-year-old female who was unresponsive and possibly experiencing a stroke, Louisville,
+  KY
+: lat: 38.198204
+  lng: -85.8349572
 2800 Eddy St, Louisville, KY:
   lat: 38.256079
   lng: -85.797282
@@ -11835,6 +11854,7 @@
 500 South 18th Street, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
+500 South 18th Street, between Crusher and West Madison in the West Valley area,, Louisville, KY: null
 ? 500 South 18th Street, between I 64 West and West Alley, for a 50-year-old female
   complaining of chest pains. EMS was en route to assess and treat the patient., Louisville,
   KY
@@ -15893,6 +15913,9 @@
 : null
 900 South 4th St following a report of an individual who had fallen. Assistance was provided, Louisville, KY: null
 900 South 4th Street, Louisville, KY:
+  lat: 38.2415729
+  lng: -85.7595586
+900 South 4th Street, near the intersection of Baseball and Breckenridge at Friendship House,, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
 900 South 5th Street, Louisville, KY:
