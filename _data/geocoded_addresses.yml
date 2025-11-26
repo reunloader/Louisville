@@ -7700,6 +7700,12 @@
 300 I-65 South, Louisville, KY: null
 300 I65 South near Cliffwood Hill Way, Louisville, KY: null
 300 I65 South near Cliffwood and Caledonia, Louisville, KY: null
+300 Joe Conway Cir at Tom Larimore and Bob Davenport, Louisville, KY:
+  lat: 38.2540355
+  lng: -85.6657009
+300 Joe Conway Cir, Louisville, KY:
+  lat: 38.2540355
+  lng: -85.6657009
 300 Keaton Avenue, Louisville, KY: null
 300 Kenilworth Rd, Louisville, KY:
   lat: 38.259748
@@ -7927,6 +7933,10 @@
 ? 3000 Bardstown Rd. A male subject, who had previously been trespassed from the location,
   was reportedly inside the locker room showers., Louisville, KY
 : null
+3000 Betty Ln, Louisville, KY:
+  lat: 38.22206
+  lng: -85.658438
+3000 Betty Ln. EMS and police units were dispatched, Louisville, KY: null
 3000 Bobbling Road 7:00 p, Louisville, KY: null
 3000 Bobbling Road 7:00 p.m.AM, Louisville, KY: null
 3000 Brooklong-campus Drive 7:00 p, Louisville, KY: null
@@ -8493,6 +8503,7 @@
   lat: 38.1869231
   lng: -85.8574824
 3201 East Indian Trail, Evening, Louisville, KY: null
+3259 David Street, Louisville, KY: null
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
@@ -9681,6 +9692,7 @@
 400 Creel Ave, Louisville, KY:
   lat: 38.212873
   lng: -85.764369
+400 David Street, Louisville, KY: null
 ? 400 David Street. The person, described as a black male in a blue jacket and dark
   pants, was reportedly seen locking up houses and banging on windows. The individual
   was last seen heading northbound on Vine St., Louisville, KY
@@ -10632,6 +10644,12 @@
 4300 Barchetown Road, Louisville, KY: null
 4300 Barchetown Road. Police units were involved in responding to the situation., Louisville, KY: null
 4300 Barchetown Road. Police units were involved in responding, Louisville, KY: null
+4300 Bardstown Rd, Louisville, KY:
+  lat: 38.187029
+  lng: -85.637776
+? 4300 Bardstown Rd. Responders were involved in addressing the situation, and smoke
+  in the vicinity was determined, Louisville, KY
+: null
 4300 Bayberry Dr, near Topaz Ct and Accasia Dr,, Louisville, KY:
   lat: 38.1886178
   lng: -85.8362732
@@ -15843,9 +15861,11 @@
 900 South 2nd Street., Louisville, KY:
   lat: 38.240765
   lng: -85.756042
+900 South 39th Street at Kentucky and Garland, Louisville, KY: null
 900 South 39th Street, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
+900 South 39th Street. Responding units arrived at a two-story building, Louisville, KY: null
 900 South 40th Street, Louisville, KY:
   lat: 38.246544
   lng: -85.818323
