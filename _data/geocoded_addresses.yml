@@ -1800,6 +1800,7 @@
 11000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+11000 Wooded Creek Dr between Row Lung Drive and Hays Leaning, Louisville, KY: null
 1108 Bardstown Road, Louisville, KY:
   lat: 38.2380298
   lng: -85.7209845
@@ -4999,6 +5000,7 @@
 200 North 18th Street, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North 26th St between Columbia St and Rowan St, Louisville, KY: null
 200 North 26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
@@ -5489,6 +5491,9 @@
   at the Walmart location. Police units were dispatched, Louisville, KY
 : null
 2000 Lindley Road, Louisville, KY: null
+2000 Logan St at the Logan St Market, Louisville, KY:
+  lat: 38.2362268
+  lng: -85.7394499
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -7604,6 +7609,7 @@
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
   lng: -85.6333594
+300 Magazine St between South 11th St and South 10th St, Louisville, KY: null
 300 Manchester and 1000 block of East Indian Trail, Louisville, KY: null
 300 Manchester before proceeding to the 1000 block of East Indian Trail. The reason, Louisville, KY: null
 300 Meadowood Ct, Louisville, KY:
@@ -9960,6 +9966,7 @@
 400 W W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+400 Wayside between Jefferson Cross St and S Preston St, Louisville, KY: null
 400 West Chestnut, Louisville, KY:
   lat: 38.248881
   lng: -85.758042
@@ -10860,6 +10867,9 @@
 4500 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+4500 Jewell Ave near N S Longworth Ave, Louisville, KY:
+  lat: 38.2686001
+  lng: -85.8198194
 4500 Jewell Ave, Louisville, KY:
   lat: 38.2686001
   lng: -85.8198194
@@ -16312,6 +16322,7 @@ Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cliff Ave and Denmark St, Louisville, KY: null
 Cofer Ave and Margo Ave, Louisville, KY: null
 Colson Dr and Silver Springs Dr, Louisville, KY: null
+Columbia St and Rowan St, Louisville, KY: null
 Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cowling Ave and Stratton Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
