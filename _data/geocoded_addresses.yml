@@ -7731,6 +7731,9 @@
 300 New Cut Rd, Louisville, KY:
   lat: 38.1574318
   lng: -85.7779933
+300 North 28th Street, Louisville, KY:
+  lat: 38.264039
+  lng: -85.797849
 300 North 35th Street to attend to a medical emergency., Louisville, KY: null
 300 North 35th Street, Louisville, KY:
   lat: 38.2651038
@@ -14441,6 +14444,9 @@
   lat: 38.1428729
   lng: -85.7563021
 7200 National Turnpike, specifically at the Brady SPC,, Louisville, KY: null
+7200 Outer Loop, Louisville, KY:
+  lat: 38.137221
+  lng: -85.62825
 7200 Quindaren Vaughan Mill Road, Louisville, KY: null
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
@@ -15837,6 +15843,9 @@
 900 South 2nd Street., Louisville, KY:
   lat: 38.240765
   lng: -85.756042
+900 South 39th Street, Louisville, KY:
+  lat: 38.24643
+  lng: -85.817102
 900 South 40th Street, Louisville, KY:
   lat: 38.246544
   lng: -85.818323
