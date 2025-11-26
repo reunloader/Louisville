@@ -3317,6 +3317,9 @@
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
+14700 Madison Trace Cir, Louisville, KY:
+  lat: 38.2772191
+  lng: -85.4901266
 14700 Oxford Hill Ct, Louisville, KY:
   lat: 38.2303805
   lng: -85.4826698
@@ -3817,6 +3820,7 @@
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
+1600 Two Strings, Louisville, KY: null
 1600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2531319
   lng: -85.7775215
@@ -6498,6 +6502,9 @@
   lat: 38.2185882
   lng: -85.7031849
 2400 Varshtown Road, Louisville, KY: null
+2400 W Jefferson St, Louisville, KY:
+  lat: 38.2574083
+  lng: -85.7912216
 2400 W Main St, Louisville, KY:
   lat: 38.2601536
   lng: -85.78995
@@ -16749,6 +16756,7 @@ Tosler Road and Stonenberg Drive, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
+University Rd and Cleveland Blvd, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
