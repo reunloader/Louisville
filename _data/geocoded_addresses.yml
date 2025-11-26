@@ -10070,6 +10070,7 @@
   lng: -85.7571981
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
+400 West Ornstein, Louisville, KY: null
 400 West Penny Avenue, Louisville, KY: null
 400 West W Oak St, Louisville, KY: null
 400 Wimbleton Ct, Louisville, KY: null
@@ -16189,6 +16190,9 @@
   office, unsure of her residence. Police units responded, Louisville, KY
 : null
 9600 Starmont Rd, Louisville, KY: null
+9600 Yarmouth Ct, Louisville, KY:
+  lat: 38.111461
+  lng: -85.8132417
 9600 [Street Name Missing], Louisville, KY:
   lat: 38.1449244
   lng: -85.5799095
