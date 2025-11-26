@@ -2158,6 +2158,7 @@
   KY
 : null
 1200 Largetown Road, Louisville, KY: null
+1200 Lillian Ave near Utah and Montana, Louisville, KY: null
 1200 Lillian Ave, Louisville, KY:
   lat: 38.2091684
   lng: -85.7769126
@@ -7111,6 +7112,7 @@
 2700 West Ave. Police units were dispatched, Louisville, KY:
   lat: 38.1089403
   lng: -85.8525494
+2700 West Broadway near 28th and 27th Streets, Louisville, KY: null
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -7952,6 +7954,7 @@
 3000 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+3000 Duncan St near North 30th Street, Louisville, KY: null
 3000 Eagle Pass, Louisville, KY:
   lat: 38.2126508
   lng: -85.7253292
@@ -9711,6 +9714,7 @@
 400 E W Brandeis Ave, Louisville, KY:
   lat: 38.2193858
   lng: -85.7622692
+400 E W Chestnut St near Jackson and Preston Streets, Louisville, KY: null
 400 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -11697,6 +11701,7 @@
 500 Denmark St, Louisville, KY:
   lat: 38.1955906
   lng: -85.7685576
+500 Dixie Hwy, Louisville, KY: null
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
@@ -15695,6 +15700,9 @@
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
+900 Eastern Star Ct near Highland Ave, Louisville, KY:
+  lat: 38.242879
+  lng: -85.723559
 900 Eastern Star Ct, Louisville, KY:
   lat: 38.242879
   lng: -85.723559
