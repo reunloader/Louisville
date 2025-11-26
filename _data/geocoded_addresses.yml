@@ -4794,6 +4794,10 @@
   lng: -85.6367535
 200 Dickinson Dr following the activation of a general alarm., Louisville, KY: null
 200 Dickinson Dr, Louisville, KY: null
+? 200 Dixie Hwy South. Concurrently, a medical emergency was reported at the 3900
+  block of Dixie Hwy. Emergency services managed the chemical situation and responded,
+  Louisville, KY
+: null
 200 Dixie Hwy to address the situation., Louisville, KY: null
 200 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
@@ -12233,6 +12237,9 @@
 5100 Terry Rd, near the intersections of Murray Ln and Raggard Rd. Medical personnel were on site, Louisville, KY:
   lat: 38.172376
   lng: -85.866125
+5100 Terry Rd. Responding units were assigned, Louisville, KY:
+  lat: 38.172376
+  lng: -85.866125
 5100 Valley Dr, Louisville, KY:
   lat: 38.2070098
   lng: -85.7217495
@@ -13699,6 +13706,9 @@
 6800 Dixie Hwy, Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
+? 6800 Dixie Hwy, specifically indicating an office hold-up. Initial dispatches were
+  made, but the alarm was later determined, Louisville, KY
+: null
 ? 6800 Hollow Creek Ct, near Hollow Creek Rd, for an elderly woman who had fallen.
   The 68-year-old female required assistance., Louisville, KY
 : null
