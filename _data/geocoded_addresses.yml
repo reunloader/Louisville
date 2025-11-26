@@ -5308,6 +5308,7 @@
   lat: 38.1747458
   lng: -85.7745966
 200 Westbound ramp, Louisville, KY: null
+200 Westbound shoulder, Louisville, KY: null
 ? 200 Westbound, an area between the airport and Southern Pky. The male was described
   as wearing a black and yellow jacket. Later, a related incident involving a possible
   stranded vehicle was investigated in the 200 block of Eastbound near the airport,
@@ -6461,6 +6462,9 @@
   lat: 38.2185882
   lng: -85.7031849
 2400 Varshtown Road, Louisville, KY: null
+2400 W Main St, Louisville, KY:
+  lat: 38.2601536
+  lng: -85.78995
 2400 W Market St, Louisville, KY: null
 2400 W W Market St, Louisville, KY: null
 2400 West Ali, Louisville, KY:
@@ -9208,6 +9212,9 @@
 : null
 3800 Little Bend Rd who may have fallen. EMS requested a rapid response, Louisville, KY: null
 3800 Little Bend Rd, Louisville, KY: null
+3800 Peachtree Ave, Louisville, KY:
+  lat: 38.189189
+  lng: -85.780662
 3800 Poplova Road, Louisville, KY: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
   The caller indicated they were attempting to control the flames with water. Firefighters
@@ -10043,6 +10050,7 @@
 400 the location, Louisville, KY: null
 400 were involved in investigating the report, Louisville, KY: null
 400 were involved in investigating the report., Louisville, KY: null
+4000 7th St and Parkway, Louisville, KY: null
 4000 Bardstown Rd, Louisville, KY:
   lat: 38.1927348
   lng: -85.6491734
@@ -10557,6 +10565,9 @@
 ? 4300 Fagan Bush. The vehicle in question had Kentucky plates. Police units were
   involved in identifying the vehicle and its occupants., Louisville, KY
 : null
+4300 Hale Ave, Louisville, KY:
+  lat: 38.2415803
+  lng: -85.8254986
 4300 I 64 East, Louisville, KY: null
 4300 King Run, Louisville, KY: null
 4300 Nanin, responders observed light smoke showing from the rear of the property and the roof, Louisville, KY: null
@@ -12687,6 +12698,9 @@
   units were dispatched, Louisville, KY
 : lat: 38.2112021
   lng: -85.7467825
+600 Lucas Ln, Louisville, KY:
+  lat: 38.2777186
+  lng: -85.5238482
 600 Lymington Ct, Louisville, KY: null
 600 Lyndale Ave, Louisville, KY: null
 ? 600 Malcolm Avenue. The call reported a patient experiencing severe abdominal pain
@@ -13863,6 +13877,9 @@
   individuals present at the scene. Firefighters worked, Louisville, KY
 : lat: 38.244898
   lng: -85.751927
+700 S Clay St, Louisville, KY:
+  lat: 38.24472
+  lng: -85.741662
 700 S Hancock St, Louisville, KY:
   lat: 38.243717
   lng: -85.743892
