@@ -616,6 +616,7 @@
 100 West, near Langland Pl. The fire was reported, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+100 Whiteoak Park Rd, Louisville, KY: null
 100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
 100 [Street Name Redacted] 6:15 a, Louisville, KY: null
@@ -3310,6 +3311,9 @@
   in the search. Emergency medical services were requested to the scene. The individual
   was ultimately transported, Louisville, KY
 : null
+14600 Landon Ct, Louisville, KY:
+  lat: 38.2365686
+  lng: -85.4946408
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
@@ -4369,6 +4373,9 @@
 1800 Shady Ln, Louisville, KY:
   lat: 38.2278163
   lng: -85.7088915
+1800 Sherwood Ave, Louisville, KY:
+  lat: 38.2301382
+  lng: -85.7108239
 1800 South 2nd Street, Evening, Louisville, KY: null
 1800 South 3rd Street, Louisville, KY:
   lat: 38.2217966
@@ -10412,6 +10419,7 @@
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
+4100 Spyglass Ct, Louisville, KY: null
 4100 Stoneview Dr, Louisville, KY:
   lat: 38.2681499
   lng: -85.6556833
@@ -10536,6 +10544,7 @@
   lat: 38.1866716
   lng: -85.5954418
 4200 Stony Stratus, Louisville, KY: null
+4200 W Ellington Ave, Louisville, KY: null
 4200 W Market St, Louisville, KY:
   lat: 38.2631659
   lng: -85.8190073
@@ -11649,6 +11658,9 @@
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
 500 Fountain Ave near Warwick Ave, Louisville, KY: null
 500 Grand Vista Pl, Louisville, KY: null
+500 Highwood Dr, Louisville, KY:
+  lat: 38.2686799
+  lng: -85.702526
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
 ? 500 Jim Noway to oversee an eviction process. Following the procedure, the deputy
