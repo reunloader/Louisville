@@ -4219,6 +4219,7 @@
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent, Louisville, KY
 : null
+1800 Dixie Hwy following an initial report of an assault that was later updated, Louisville, KY: null
 1800 Dixie Hwy, Louisville, KY:
   lat: 38.224592
   lng: -85.7922937
@@ -8585,6 +8586,12 @@
 3500 Craig Ave, Louisville, KY:
   lat: 38.19568
   lng: -85.789656
+3500 Dixie Hwy, Louisville, KY:
+  lat: 38.1466897
+  lng: -85.8382378
+3500 Dixie Hwy. Emergency personnel were on site, Louisville, KY:
+  lat: 38.1466897
+  lng: -85.8382378
 3500 Dutchman's Lane, Louisville, KY: null
 3500 Dutchman's Lane. Responding units were dispatched to investigate the cause of the activation., Louisville, KY: null
 3500 Dutchman's Lane. Responding units were dispatched, Louisville, KY: null
