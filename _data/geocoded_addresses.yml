@@ -5519,6 +5519,7 @@
 2000 Highland Ave, Louisville, KY:
   lat: 38.240267
   lng: -85.724083
+2000 Honda Civic, was checked and found, Louisville, KY: null
 2000 Honda HRV, Louisville, KY: null
 2000 Jefferson Hill Rd, Louisville, KY:
   lat: 38.0939475
@@ -12374,6 +12375,9 @@
 ? 5500 New Cut Rd near Raleigh, Crestridge, Century Rd, Incident Road Drive, Course
   62, Phoenix, and Crosstown Boulevard, Louisville, KY
 : lat: 38.14538
+  lng: -85.775274
+5500 New Cut Rd, Louisville, KY:
+  lat: 38.14538
   lng: -85.775274
 ? 5500 New Cut Rd. The incident involved a person experiencing shortness of air, exacerbated
   by heavy rain, with symptoms possibly related to asthma., Louisville, KY
