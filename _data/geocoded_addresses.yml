@@ -10909,6 +10909,12 @@
   transported her to the hospital, Louisville, KY
 : null
 4400 Cloverleaf Drop, Louisville, KY: null
+4400 Cole Ave, Louisville, KY:
+  lat: 38.1589782
+  lng: -85.8653425
+4400 Cole Ave. Metro units responded, Louisville, KY:
+  lat: 38.1589782
+  lng: -85.8653425
 4400 Dixie Highway, Louisville, KY:
   lat: 38.0952898
   lng: -85.8741069
@@ -11073,6 +11079,14 @@
 4500 COD Drive, Louisville, KY:
   lat: 38.0983937
   lng: -85.8460241
+4500 Camp Road, Louisville, KY:
+  lat: 38.2088999
+  lng: -85.8457995
+? 4500 Camp Road. The initiating officer reported that the situation was clear shortly
+  after the stop began. No further information was provided about the reason, Louisville,
+  KY
+: lat: 38.2088999
+  lng: -85.8457995
 4500 Chillyville Road, Louisville, KY: null
 4500 Chillyville Road, near Thornton, Louisville, KY:
   lat: 38.252431
@@ -13237,6 +13251,7 @@
   not immediately available., Louisville, KY
 : null
 6100 I 64 West. Emergency units were dispatched, Louisville, KY: null
+6100 Parts Town Road, Louisville, KY: null
 6100 Port Rd, Louisville, KY:
   lat: 38.1551601
   lng: -85.647905
