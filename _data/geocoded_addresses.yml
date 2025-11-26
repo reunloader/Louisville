@@ -126,6 +126,10 @@
 100 East Amherst, Louisville, KY:
   lat: 38.1747425
   lng: -85.7630651
+? 100 East Broadway. The vehicle was observed without lights, and occupants were not
+  visible. Responding units were dispatched, Louisville, KY
+: lat: 38.24549
+  lng: -85.7532301
 100 East Centennial Walk, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
 100 East Halfland Boulevard, Louisville, KY: null
@@ -5243,6 +5247,9 @@
 200 West at Dixie Hwy, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West at Dixie Hwy. Battalion 3 and other units were dispatched, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West at I-265, Louisville, KY: null
 200 West at Virginia Ave, Louisville, KY: null
 ? 200 West at Virginia Ave. There were indications of possible injuries resulting
@@ -6223,6 +6230,7 @@
 2300 Rockford Ln, Louisville, KY:
   lat: 38.1757512
   lng: -85.8351718
+2300 South 37th Street concerning a 47-year-old individual, Louisville, KY: null
 ? 2300 South 4th Street. The incident also involved a blue vehicle that had struck
   a sidewall. Police units were requested to assist at the scene., Louisville, KY
 : null
@@ -8726,6 +8734,7 @@
 3500 Taylor Blvd, Louisville, KY:
   lat: 38.1961144
   lng: -85.7833672
+3500 W Market St in response, Louisville, KY: null
 3500 W Market St, Louisville, KY:
   lat: 38.261023
   lng: -85.80852
@@ -9173,6 +9182,10 @@
 3800 Corvair Court, near Foverbrook Drive., Louisville, KY: null
 3800 Fitzgerald Rd at Diageo, Louisville, KY: null
 3800 Fitzgerald Rd, Louisville, KY: null
+? 3800 Frankfort Ave following a report of a male who had passed out. The call specified
+  the location as the back entrance, near the pool room, on the side of the building
+  away from Frankfort Ave. EMS was en route, Louisville, KY
+: null
 3800 Frankfort Ave, Louisville, KY:
   lat: 38.252927
   lng: -85.656968
