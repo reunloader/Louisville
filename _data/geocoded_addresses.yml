@@ -93,6 +93,9 @@
 100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+100 Crescent Ave. Responding units were dispatched, Louisville, KY:
+  lat: 38.254922
+  lng: -85.686895
 100 Crop St, near Croft Ct, Louisville, KY:
   lat: 38.261105
   lng: -85.791325
@@ -2188,6 +2191,10 @@
 1200 Logan St, Louisville, KY:
   lat: 38.2331472
   lng: -85.7405158
+? 1200 Longfield Ave. The incident involved a former partner of a resident reportedly
+  threatening family members and refusing, Louisville, KY
+: lat: 38.1983878
+  lng: -85.7803275
 ? 1200 Lydia St, with initial reports indicating smoke showing from the structure.
   Responding fire units arrived on scene and found light smoke. The fire was quickly
   determined, Louisville, KY
@@ -13251,6 +13258,7 @@
   KY
 : lat: 38.2155748
   lng: -85.7485557
+6100 Bardstown Rd, identified as a "Grab-and-go." Dispatchers were heading, Louisville, KY: null
 6100 Billtown Rd, Louisville, KY:
   lat: 38.1563744
   lng: -85.561275
@@ -13617,6 +13625,9 @@
 ? 6600 Rutledge Rd. The specific details of the medical situation were not immediately
   available, but the call involved an EMS unit., Louisville, KY
 : null
+6600 Seminary Woods Pl. Emergency dispatchers were en route, Louisville, KY:
+  lat: 38.2918057
+  lng: -85.6280051
 ? 6600 St. St Matthews Ave for a medical situation involving a 70-year-old male. The
   family indicated the individual was beyond health., Louisville, KY
 : null
@@ -13755,6 +13766,9 @@
 ? 6800 Dixie Hwy, specifically indicating an office hold-up. Initial dispatches were
   made, but the alarm was later determined, Louisville, KY
 : null
+6800 Fordham Ln. Responding units arrived, Louisville, KY:
+  lat: 38.1491641
+  lng: -85.6195538
 ? 6800 Hollow Creek Ct, near Hollow Creek Rd, for an elderly woman who had fallen.
   The 68-year-old female required assistance., Louisville, KY
 : null
