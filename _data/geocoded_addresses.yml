@@ -4992,6 +4992,7 @@
   unknown. EMS was en route, Louisville, KY
 : null
 200 I 64 East, Louisville, KY: null
+200 Kentucky280-735, Louisville, KY: null
 200 Linden Ln, Louisville, KY:
   lat: 38.257169
   lng: -85.694641
@@ -8262,6 +8263,12 @@
 3100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+3100 Taylor, Louisville, KY:
+  lat: 38.2064352
+  lng: -85.7768145
+3100 Taylor. Officers were involved in responding, Louisville, KY:
+  lat: 38.2064352
+  lng: -85.7768145
 3100 Virginia Ave, Louisville, KY:
   lat: 38.2384897
   lng: -85.8055617
@@ -14575,6 +14582,9 @@
   lat: 38.2078236
   lng: -85.6476949
 7500 Frank8 Drive, Louisville, KY: null
+7500 Garrison Rd, Louisville, KY:
+  lat: 38.1370945
+  lng: -85.757227
 7500 King Run Road, Louisville, KY: null
 7500 Manslick Rd, Louisville, KY:
   lat: 38.1480517
@@ -14646,6 +14656,12 @@
 7600 Deer Meadow Dr, Louisville, KY:
   lat: 38.3166393
   lng: -85.6065727
+7600 Eagle Landing Way, Louisville, KY:
+  lat: 38.1341147
+  lng: -85.7586002
+7600 Eagle Landing Way. Responding police units were dispatched, Louisville, KY:
+  lat: 38.1341147
+  lng: -85.7586002
 7600 Eagle Pines Ln, Louisville, KY: null
 7600 Fort Rose, Louisville, KY: null
 7600 Glacier Lane, Louisville, KY: null
@@ -16743,6 +16759,7 @@ Stone St and Fern Valley Rd, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Strader Ave and Camden Ave, Louisville, KY: null
+Strader Ave and Woodruff Ave, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Barret Ave, Louisville, KY: null
 Taylor Ave and Berry Blvd, Louisville, KY: null
