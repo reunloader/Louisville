@@ -6680,6 +6680,13 @@
 2600 Bank St, Louisville, KY:
   lat: 38.2692147
   lng: -85.7914568
+2600 Bardstown Rd, Louisville, KY:
+  lat: 38.2222129
+  lng: -85.6835707
+? 2600 Bardstown Rd. The person was described as intoxicated, wearing a black hoodie
+  and black clothing, and refusing, Louisville, KY
+: lat: 38.2222129
+  lng: -85.6835707
 2600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
@@ -6809,6 +6816,9 @@
 2600 Shenandoah Dr. Emergency personnel responded, Louisville, KY:
   lat: 38.3113177
   lng: -85.5486489
+2600 South 3rd Street, Louisville, KY:
+  lat: 38.211043
+  lng: -85.762917
 2600 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -6818,6 +6828,9 @@
 2600 South 42nd Street. Police units were dispatched, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
+2600 South 4th Street, Louisville, KY:
+  lat: 38.2115436
+  lng: -85.7647424
 2600 South 6th Street, Louisville, KY:
   lat: 38.211481
   lng: -85.767931
@@ -16578,6 +16591,7 @@ Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
 Westport Rd and Stonehurst Dr, Louisville, KY: null
 Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
+Willow Ave and Edgeland Ave, Louisville, KY: null
 Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
