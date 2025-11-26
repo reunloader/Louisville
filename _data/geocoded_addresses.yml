@@ -639,6 +639,7 @@
 100 [Street Name Unspecified], Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
+100 [Street Name] and 100 block of [Street Name], Louisville, KY: null
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 an unspecified location, Louisville, KY: null
 100 an unspecified street and a red PF. Units were sent, Louisville, KY: null
@@ -4763,6 +4764,10 @@
 200 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+200 Chattanooga Ave, Louisville, KY: null
+? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
+  officers' visit are not provided. Police units responded, Louisville, KY
+: null
 200 Crescent Ave, Louisville, KY:
   lat: 38.2593424
   lng: -85.6883421
@@ -14736,6 +14741,10 @@
   lat: 38.1590824
   lng: -85.6193102
 7700 I-65 South, Louisville, KY: null
+7700 Kim Dr, Louisville, KY:
+  lat: 38.1389657
+  lng: -85.7680606
+7700 Kim Dr. The specific reasons, Louisville, KY: null
 7700 Mackie Ln, Louisville, KY:
   lat: 38.1395721
   lng: -85.7640669
