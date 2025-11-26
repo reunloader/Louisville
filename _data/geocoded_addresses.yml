@@ -38,6 +38,9 @@
 100 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+100 Belle St, Louisville, KY:
+  lat: 38.2318038
+  lng: -85.5029265
 100 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
@@ -72,6 +75,7 @@
 100 Cambridge Dr, Louisville, KY:
   lat: 38.161304
   lng: -85.764989
+100 Carraway, Louisville, KY: null
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
