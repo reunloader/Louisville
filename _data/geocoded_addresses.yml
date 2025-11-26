@@ -1307,6 +1307,9 @@
   lat: 38.1935843
   lng: -85.7773013
 10100 Beulah Vista Way, Louisville, KY: null
+10100 Colonel Hancock Dr, Louisville, KY:
+  lat: 38.130477
+  lng: -85.574452
 10100 Dixie Hwy, Louisville, KY:
   lat: 38.1092544
   lng: -85.8662683
@@ -6255,6 +6258,9 @@
 2300 Farnsley Rd near Ridley and Burrell, Louisville, KY:
   lat: 38.2024899
   lng: -85.8223948
+2300 Farnsley Rd, Louisville, KY:
+  lat: 38.2024899
+  lng: -85.8223948
 2300 Frankfort Ave, Louisville, KY:
   lat: 38.2531342
   lng: -85.7030766
@@ -8305,6 +8311,9 @@
 ? 3100 Sandpiper Brook Ln. Upon arrival at the two-story commercial structure, no
   smoke or fire was visible. The responding unit reported being, Louisville, KY
 : null
+3100 Sora Ave, Louisville, KY:
+  lat: 38.209995
+  lng: -85.7247352
 3100 South 2nd Street, Louisville, KY:
   lat: 38.204435
   lng: -85.763317
@@ -8490,6 +8499,7 @@
 3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
   lat: 38.20267
   lng: -85.7352633
+3200 Sem Street Road, Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
 3200 South Hampton Rd., Louisville, KY: null
