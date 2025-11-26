@@ -12110,6 +12110,9 @@
   retrieval time. Police units were assigned, Louisville, KY
 : null
 5000 Triple Tilt Row, Louisville, KY: null
+5000 Unseld Blvd, Louisville, KY:
+  lat: 38.1763484
+  lng: -85.671044
 5000 Wabash Pl, Louisville, KY:
   lat: 38.175764
   lng: -85.7592524
@@ -13493,6 +13496,10 @@
   lat: 38.2345558
   lng: -85.7474259
 65 South First Gethsemane Ave, Louisville, KY: null
+6500 Applegate Ln after a caller instructed someone, Louisville, KY: null
+6500 Applegate Ln, Louisville, KY:
+  lat: 38.130385
+  lng: -85.641014
 6500 Brattleview Circle, Louisville, KY: null
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
