@@ -213,6 +213,9 @@
 100 Indian Legends Dr. Responding units were assigned, Louisville, KY:
   lat: 38.294999
   lng: -85.5519612
+100 Lila Ave, Louisville, KY:
+  lat: 38.137068
+  lng: -85.8510722
 ? 100 Lincoln Ave, near the German American Club, for a medical incident. A 66-year-old
   male had fallen and was found to be unresponsive. Medical teams provided immediate
   attention to the patient., Louisville, KY
@@ -1843,6 +1846,7 @@
 11200 Preston Hwy near Antle Dr, Louisville, KY:
   lat: 38.087364
   lng: -85.667759
+11200 Preston Hwy, Louisville, KY: null
 11200 St, Louisville, KY: null
 11200 Vista Greens Dr, Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
@@ -3945,6 +3949,9 @@
   lat: 38.2498828
   lng: -85.7798115
 1700 Meadow Lane Ct, Louisville, KY: null
+1700 Mellwood Ave, Louisville, KY:
+  lat: 38.2577034
+  lng: -85.7184651
 1700 Meyers Ln, Louisville, KY:
   lat: 38.162729
   lng: -85.826053
@@ -9447,6 +9454,9 @@
 3900 Payne St, Louisville, KY:
   lat: 38.2511106
   lng: -85.7197322
+3900 Peachtree Ave, Louisville, KY:
+  lat: 38.186819
+  lng: -85.781119
 3900 Petrie Avenue, Louisville, KY: null
 3900 Petrie Avenue. Upon its recovery, a threatening note was discovered inside the vehicle., Louisville, KY: null
 3900 Preston Hwy, Louisville, KY:
@@ -16465,6 +16475,7 @@ Brighton Dr and Boxley Ave, Louisville, KY: null
 Brinson Dr and Highland Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
+Brownsboro Rd and Frankfort Ave, Louisville, KY: null
 Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
 Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
 Brownsboro Rd and Simcoe Ln, Louisville, KY: null
@@ -16772,6 +16783,9 @@ Taylor Ave and Huntoon Ave, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Sale Ave, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
+Taylor Blvd and Berry Blvd, Louisville, KY:
+  lat: 38.1962684
+  lng: -85.7840235
 Taylor Blvd and Bicknell Ave, Louisville, KY: null
 Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
