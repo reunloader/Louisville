@@ -4006,6 +4006,10 @@
 1700 Richmond Dr, Louisville, KY:
   lat: 38.222074
   lng: -85.707066
+1700 Richmont Rd, Louisville, KY:
+  lat: 38.1984529
+  lng: -85.8419046
+1700 Richmont Rd. The call was related, Louisville, KY: null
 1700 Rosewood Ave, Louisville, KY:
   lat: 38.2336943
   lng: -85.7166782
@@ -5224,6 +5228,12 @@
 200 Webster St. W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+200 West Broadway at Poplar Level, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
+200 West Broadway near Poplar Level. Police units were involved in responding, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
 200 West Broadway, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
@@ -6964,6 +6974,10 @@
 : lat: 38.2564951
   lng: -85.795525
 2700 Charleston Road, Louisville, KY: null
+2700 Chickasaw Ave following a report of individuals attempting, Louisville, KY: null
+2700 Chickasaw Ave, Louisville, KY:
+  lat: 38.259328
+  lng: -85.698116
 2700 Grand Ave, obstructing access. A request was made, Louisville, KY: null
 2700 Greenwood Ave, Louisville, KY:
   lat: 38.2418797
@@ -10258,6 +10272,9 @@
   lat: 38.1862421
   lng: -85.7841837
 4000 Taylor's Star Hill Dr, Louisville, KY: null
+4000 Taylorsville Rd near Mcmahan and Goodwill Way, Louisville, KY:
+  lat: 38.2192953
+  lng: -85.6249927
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
@@ -10752,6 +10769,9 @@
 4400 Breckenridge Ln, Louisville, KY:
   lat: 38.1827584
   lng: -85.6277075
+4400 Cane Run Rd near Shanks and Richmont, Louisville, KY:
+  lat: 38.1981991
+  lng: -85.8396306
 4400 Cane Run Rd, Louisville, KY:
   lat: 38.1981991
   lng: -85.8396306
