@@ -4101,6 +4101,9 @@
 1700 Tempest Way, Louisville, KY:
   lat: 38.1642333
   lng: -85.8253597
+1700 Trent Ave, Louisville, KY:
+  lat: 38.1613597
+  lng: -85.8300741
 1700 Tyler Parkway, Louisville, KY:
   lat: 38.2319909
   lng: -85.7149129
@@ -13122,6 +13125,9 @@
 600 Valley College Dr, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
+600 Valley College, Louisville, KY:
+  lat: 38.119945
+  lng: -85.842729
 600 Vernis Avenue, Louisville, KY: null
 600 W Jefferson St, Louisville, KY:
   lat: 38.2539185
@@ -16136,6 +16142,9 @@
 9100 South Brook, Louisville, KY:
   lat: 38.2435645
   lng: -85.7520475
+9100 Stonecrest Dr, Louisville, KY:
+  lat: 38.1213846
+  lng: -85.8098242
 9100 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
@@ -16454,6 +16463,7 @@
 9700 Polaris Dr, Louisville, KY:
   lat: 38.10888
   lng: -85.695595
+9700 St, Louisville, KY: null
 ? 9700 Turnpike View Dr and found no signs of fire or any other issues. The alarm
   was determined to be false., Louisville, KY
 : null
