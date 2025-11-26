@@ -1953,6 +1953,9 @@
 11700 Dixie Hwy, Louisville, KY:
   lat: 38.0852467
   lng: -85.8810103
+11700 Dixie Hwy, near the intersection of East Pharrell Road and Flowervale Ln, Louisville, KY:
+  lat: 38.0852467
+  lng: -85.8810103
 11700 Leman Dr, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
@@ -3949,6 +3952,9 @@
   lat: 38.2498828
   lng: -85.7798115
 1700 Meadow Lane Ct, Louisville, KY: null
+? 1700 Mellwood Ave following an alarm activation. Upon arrival, responders found
+  no signs of a fire. The incident was quickly determined, Louisville, KY
+: null
 1700 Mellwood Ave, Louisville, KY:
   lat: 38.2577034
   lng: -85.7184651
@@ -12447,6 +12453,9 @@
 5500 Robinwood Rd, Louisville, KY:
   lat: 38.1697708
   lng: -85.6684397
+5500 Robinwood Rd. Emergency personnel responded, Louisville, KY:
+  lat: 38.1697708
+  lng: -85.6684397
 5500 Sullivan Way, Louisville, KY:
   lat: 38.0942448
   lng: -85.6560955
@@ -15342,6 +15351,7 @@
 8200 Preston Hwy, Louisville, KY:
   lat: 38.1332639
   lng: -85.6846969
+8200 Roseborough Rd to provide a lift assist, Louisville, KY: null
 8200 South 36th Street, Louisville, KY:
   lat: 38.2305239
   lng: -85.8144957
@@ -16409,6 +16419,7 @@
 9900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+9900 Taylor's Hill Rd, Louisville, KY: null
 9900 West Ave, Louisville, KY: null
 9900 West Ave, with a large blaze visible behind the location. Responding units canceled their response, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
@@ -16552,6 +16563,7 @@ Doughline Road and Milner Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
+East Pharrell Road and Flowervale Ln, Louisville, KY: null
 Eastern Parkway and Arta Street, Louisville, KY: null
 Eastern Parkway and Bradley Ave, Louisville, KY:
   lat: 38.2126547
