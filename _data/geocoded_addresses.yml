@@ -14523,6 +14523,12 @@
 7300 Leisure Ct, Louisville, KY:
   lat: 38.1003047
   lng: -85.6389932
+7300 Lora Dr, Louisville, KY:
+  lat: 38.145392
+  lng: -85.7709324
+7300 Lora Dr. Responding officers observed no signs of forced entry and were working, Louisville, KY:
+  lat: 38.145392
+  lng: -85.7709324
 7300 Lucille Ave, Louisville, KY:
   lat: 38.145253
   lng: -85.8458288
@@ -15866,6 +15872,9 @@
   lat: 38.24643
   lng: -85.817102
 900 South 39th Street. Responding units arrived at a two-story building, Louisville, KY: null
+900 South 39th Street. Specific details, Louisville, KY:
+  lat: 38.24643
+  lng: -85.817102
 900 South 40th Street, Louisville, KY:
   lat: 38.246544
   lng: -85.818323
@@ -16857,6 +16866,7 @@ Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
   lng: -85.7764181
 Taylor Ave and Huntoon Ave, Louisville, KY: null
+Taylor Ave and Longsmore Avenue, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Sale Ave, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
