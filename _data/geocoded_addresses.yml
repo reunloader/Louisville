@@ -35,6 +35,9 @@
   lat: 38.1412684
   lng: -85.7716218
 100 Baker, were dispatched, Louisville, KY: null
+100 Baker. The reporting officer requested, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 100 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -1744,6 +1747,9 @@
 1100 South 8th Street, Louisville, KY:
   lat: 38.237794
   lng: -85.766688
+1100 South Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 1100 South First Street, Louisville, KY: null
 1100 South Forest Street, Louisville, KY: null
 1100 South Forster Street, Louisville, KY: null
@@ -5772,6 +5778,9 @@
 2100 Cardinal Woods Dr, Louisville, KY:
   lat: 38.1531234
   lng: -85.8025178
+2100 Cherokee Pky near Cherokee Rd, Louisville, KY:
+  lat: 38.235329
+  lng: -85.712271
 2100 Congress St near South 22nd and W, Louisville, KY:
   lat: 38.257593
   lng: -85.785193
@@ -6243,6 +6252,9 @@
 2300 Eddy St, Louisville, KY:
   lat: 38.255248
   lng: -85.789138
+2300 Farnsley Rd near Ridley and Burrell, Louisville, KY:
+  lat: 38.2024899
+  lng: -85.8223948
 2300 Frankfort Ave, Louisville, KY:
   lat: 38.2531342
   lng: -85.7030766
@@ -10741,6 +10753,9 @@
   lng: -85.8254986
 4300 I 64 East, Louisville, KY: null
 4300 King Run, Louisville, KY: null
+4300 Lonsdale Ave, Louisville, KY:
+  lat: 38.1781683
+  lng: -85.7864904
 4300 Nanin, responders observed light smoke showing from the rear of the property and the roof, Louisville, KY: null
 ? 4300 Nanin, responders observed light smoke showing from the rear of the property
   and the roof. The incident was managed by the responding fire units., Louisville,
@@ -12241,6 +12256,9 @@
 5200 Cynthia Dr, Louisville, KY:
   lat: 38.170965
   lng: -85.574905
+5200 Douglas Park, Louisville, KY:
+  lat: 38.1784089
+  lng: -85.7605676
 5200 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
@@ -14161,6 +14179,9 @@
 700 South 37th Street, Louisville, KY:
   lat: 38.249929
   lng: -85.812787
+700 South 3rd Street near York and Broadway, Louisville, KY:
+  lat: 38.243928
+  lng: -85.757184
 700 South 44th Street, Louisville, KY:
   lat: 38.250016
   lng: -85.8252992
