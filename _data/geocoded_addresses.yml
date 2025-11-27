@@ -7290,6 +7290,10 @@
 2700 Cedar St, Louisville, KY:
   lat: 38.2564951
   lng: -85.795525
+? 2700 Cedar St. A black GMC Sierra truck was observed waiting near the property.
+  Responding police units were dispatched, Louisville, KY
+: lat: 38.2564951
+  lng: -85.795525
 ? 2700 Cedar St. Reports indicated a female had shot her boyfriend in the face, leaving
   him unconscious. Police units and EMS were dispatched, Louisville, KY
 : lat: 38.2564951
@@ -8904,6 +8908,8 @@
   lng: -85.5012993
 3300 Davis, Louisville, KY: null
 3300 Davis. Police units were dispatched, Louisville, KY: null
+3300 Donald Dr, Louisville, KY: null
+3300 Donald Dr, with a specific concern noted about a rear door. Responding units arrived, Louisville, KY: null
 3300 Ducart involving a neighbor at the door, Louisville, KY:
   lat: 38.1516133
   lng: -85.8405499
@@ -10581,6 +10587,7 @@
   lat: 38.2371624
   lng: -85.7838705
 400 Wayside between Jefferson Cross St and S Preston St, Louisville, KY: null
+400 West Chestnut in response, Louisville, KY: null
 400 West Chestnut, Louisville, KY:
   lat: 38.248881
   lng: -85.758042
@@ -11002,6 +11009,10 @@
 4100 W Kentucky St, Louisville, KY:
   lat: 38.24534
   lng: -85.819777
+4100 West Broadway, Louisville, KY:
+  lat: 38.2500156
+  lng: -85.8194782
+4100 West Broadway, involving a male individual who was reportedly threatening others and appeared, Louisville, KY: null
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
@@ -17476,6 +17487,7 @@ Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
+Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jane St and Sycamore Ave, Louisville, KY: null
