@@ -5854,6 +5854,10 @@
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
   lng: -85.4851725
+2100 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
+2100 Bardstown Rd, Louisville, KY:
+  lat: 38.187628
+  lng: -85.641089
 2100 Baringer Ave, Louisville, KY:
   lat: 38.234191
   lng: -85.707928
@@ -11185,6 +11189,9 @@
 4400 South 2nd Street, Louisville, KY:
   lat: 38.1914096
   lng: -85.7635371
+4400 South 8th Street, Louisville, KY:
+  lat: 38.1909318
+  lng: -85.773305
 4400 South2nd Street, Louisville, KY: null
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
@@ -16863,6 +16870,7 @@ Bardstown Rd and Douglass Blvd, Louisville, KY: null
 Bardstown Rd and Eastern Pky, Louisville, KY: null
 Bardstown Rd and Gladstone Ave, Louisville, KY: null
 Bardstown Rd and Grimstad Road, Louisville, KY: null
+Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 Bardstown Rd and Taylorsville Rd, Louisville, KY: null
 Bargetown Road and Baxter Ave, Louisville, KY: null
 Bargetown Road and Heather Ln, Louisville, KY: null
