@@ -181,6 +181,7 @@
 100 Egypt Ln., Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
+100 Evans St, which was also noted, Louisville, KY: null
 100 Fairfax, Louisville, KY: null
 ? 100 Fairfax. Responding units determined that employees had accidentally triggered
   the alarm, and all units were cleared from the scene., Louisville, KY
@@ -9171,6 +9172,10 @@
   lat: 38.2666702
   lng: -85.7894902
 3400 Poliski Drive, Louisville, KY: null
+? 3400 Portland Plaza, near the intersection of Banks and 33rd Street. A 59-year-old
+  male had fallen and sustained a head injury, and was found, Louisville, KY
+: lat: 38.2735846
+  lng: -85.8016828
 3400 Powell Ave, Louisville, KY:
   lat: 38.199848
   lng: -85.7902684
@@ -15686,6 +15691,9 @@
   lng: -85.8101212
 7700 St. St Anthony Church Rd, Louisville, KY: null
 77600 Bryce Quartz, Louisville, KY: null
+7800 Albrecht Cir, at the intersection of Del Cristo Dr and El Morro Ct, Louisville, KY:
+  lat: 38.313563
+  lng: -85.603181
 7800 Apple Valley Dr, Louisville, KY:
   lat: 38.1351054
   lng: -85.6214767
@@ -17633,6 +17641,7 @@ Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
 Egypt Ln and Meridian Ave, Louisville, KY: null
+Elda Dr and Terry Rd, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
@@ -17892,6 +17901,7 @@ Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
 Terry Rd and Murray Ln, Louisville, KY: null
 Terry Rd and Raggard Rd, Louisville, KY: null
 Terry Rd and Theresa Ave, Louisville, KY: null
+Terry Rd and Triplett Dr, Louisville, KY: null
 Terry Road and Greenwood Road, Louisville, KY: null
 Texas Ave and Milton St, Louisville, KY: null
 Thickston Lane and Independence School Rd, Louisville, KY: null
