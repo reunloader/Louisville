@@ -9240,6 +9240,7 @@
 3500 Outer Loop, Louisville, KY:
   lat: 38.1361718
   lng: -85.6985653
+3500 Paragon Ct, Louisville, KY: null
 3500 Peach Tree, Louisville, KY: null
 3500 Pinecroft Dr, Louisville, KY:
   lat: 38.1345391
@@ -15177,6 +15178,9 @@
 7100 Parklook Ct, Louisville, KY:
   lat: 38.1478169
   lng: -85.7956005
+7100 Preston Hwy, Louisville, KY:
+  lat: 38.148306
+  lng: -85.6939743
 7100 Schneble Cir, Louisville, KY:
   lat: 38.149637
   lng: -85.819344
