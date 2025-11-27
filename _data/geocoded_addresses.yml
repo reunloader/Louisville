@@ -3218,6 +3218,9 @@
 1400 I64 East, Louisville, KY: null
 1400 Kentucky Mills Dr, Louisville, KY: null
 1400 Knight and Gale, Louisville, KY: null
+1400 Lamar Ave, Louisville, KY:
+  lat: 38.1712258
+  lng: -85.83684
 1400 Larchmont Ave, Louisville, KY:
   lat: 38.2102913
   lng: -85.7809949
@@ -4662,6 +4665,7 @@
 18200 Bridgemore Ln, Louisville, KY:
   lat: 38.2500333
   lng: -85.4167314
+19 South Fifth St, Louisville, KY: null
 1900 Baird St, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
@@ -7642,6 +7646,7 @@
 2800 Whitlock St, Louisville, KY:
   lat: 38.1581809
   lng: -85.712559
+2900 Abigail Dr, Louisville, KY: null
 2900 Alford Ave, Louisville, KY:
   lat: 38.2653078
   lng: -85.7987596
