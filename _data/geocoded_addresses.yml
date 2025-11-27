@@ -1343,6 +1343,9 @@
 ? 10000 Ashby Farm Dr. The individual sought was no longer at the location, and the
   service could not be completed., Louisville, KY
 : null
+10000 Deer Vista Dr, Louisville, KY:
+  lat: 38.1060984
+  lng: -85.5603163
 10000 Dixie Hwy, Louisville, KY:
   lat: 38.1111633
   lng: -85.8649118
@@ -1595,6 +1598,9 @@
 1100 Berthstown Road at Speedway, Louisville, KY:
   lat: 38.1588919
   lng: -85.764448
+1100 Blade Way, Louisville, KY:
+  lat: 38.0921913
+  lng: -85.5689234
 1100 Brentlinger Ln, Louisville, KY:
   lat: 38.1344575
   lng: -85.5565498
@@ -14105,6 +14111,7 @@
 6400 Johnsontown Rd. Officers were dispatched, Louisville, KY:
   lat: 38.1158773
   lng: -85.8855122
+6400 Mandigal Road, Louisville, KY: null
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
