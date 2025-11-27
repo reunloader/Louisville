@@ -2756,6 +2756,9 @@
   indicated that a caller had been assaulted by her boyfriend. Further details from
   the caller suggested that another woman had also been subjected, Louisville, KY
 : null
+1300 S Floyd St, Louisville, KY:
+  lat: 38.2313724
+  lng: -85.7524629
 1300 Sail, Louisville, KY: null
 1300 Sale Ave, Louisville, KY:
   lat: 38.197432
@@ -4931,6 +4934,9 @@
 ? 200 East at Breckenridge, also involving a white Honda SCRV and two black vehicles.
   This incident also resulted in no reported injuries., Louisville, KY
 : lat: 38.1861148
+  lng: -85.7582215
+200 East at Shelbyville, Louisville, KY:
+  lat: 38.1861148
   lng: -85.7582215
 200 East at Southern Pky, Louisville, KY: null
 200 East at mile marker 17, Louisville, KY:
@@ -8848,6 +8854,7 @@
 3500 Algonquin Pky, near Russell Lee and 35th Street,, Louisville, KY:
   lat: 38.2245619
   lng: -85.8144583
+3500 Barchetown Road, Louisville, KY: null
 3500 Blue Park Ln, Louisville, KY: null
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
