@@ -1207,6 +1207,10 @@
 1000 South 38th Street, Louisville, KY:
   lat: 38.243625
   lng: -85.816295
+? 1000 South 38th Street, between Crop St and Grand Ave. Responding units arrived
+  at the apartment complex and confirmed no visible signs of a leak from the exterior
+  of the two-story structure., Louisville, KY
+: null
 1000 South 5th Street, Louisville, KY:
   lat: 38.2394285
   lng: -85.761159
@@ -17136,6 +17140,7 @@ Crop St Red Fern Rd and Rookwood Ave, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Crop St and Alma Ave, Louisville, KY: null
 Crop St and Aspen Glen Dr, Louisville, KY: null
+Crop St and Grand Ave, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
