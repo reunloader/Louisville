@@ -4979,6 +4979,7 @@
 ? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
+200 Country Acres, Louisville, KY: null
 200 Crescent Ave, Louisville, KY:
   lat: 38.2593424
   lng: -85.6883421
@@ -7107,6 +7108,7 @@
   and black clothing, and refusing, Louisville, KY
 : lat: 38.2222129
   lng: -85.6835707
+2600 Bell and Tray Circle, Louisville, KY: null
 2600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
@@ -11724,6 +11726,9 @@
 4600 Bellevue Ave. While the specific reason, Louisville, KY:
   lat: 38.185854
   lng: -85.77413
+4600 Brewster Ave, Louisville, KY:
+  lat: 38.248538
+  lng: -85.829672
 4600 Cliff Ave, Louisville, KY:
   lat: 38.1833486
   lng: -85.7762782
