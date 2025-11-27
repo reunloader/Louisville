@@ -6194,6 +6194,9 @@
 2200 S Brook St, Louisville, KY:
   lat: 38.2171166
   lng: -85.7560104
+2200 South 42nd Street, Louisville, KY:
+  lat: 38.261292
+  lng: -85.819622
 ? 2200 St James Ct. They were reportedly working with another unit at this address
   to address a call for service., Louisville, KY
 : lat: 38.2279252
@@ -9968,6 +9971,9 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+400 East Muhammad, Louisville, KY:
+  lat: 38.249878
+  lng: -85.74667
 400 East Shepherd Street, Louisville, KY: null
 ? 400 East W Kentucky St due to complaints of chest pain and a cough. Responders were
   back in service shortly after 2:17 p.m., Louisville, KY
