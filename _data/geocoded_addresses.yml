@@ -95,6 +95,7 @@
   lat: 38.1002925
   lng: -85.6573252
 100 Colm's Lane, Louisville, KY: null
+100 Colonial Dr, Louisville, KY: null
 100 Colonial Oaks Ct near South 1st Street, Louisville, KY: null
 100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
@@ -1499,6 +1500,9 @@
   lat: 38.0762726
   lng: -85.8819062
 10800 Dartford Pl, Louisville, KY: null
+10800 Golden Maple Pl, Louisville, KY:
+  lat: 38.2593411
+  lng: -85.5557159
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
@@ -2732,6 +2736,9 @@
 1300 Old Fern Valley Rd. The individual had initially gone, Louisville, KY:
   lat: 38.1554819
   lng: -85.6901603
+1300 Olive St, Louisville, KY:
+  lat: 38.236524
+  lng: -85.799155
 1300 Pembroke Rd, Louisville, KY:
   lat: 38.2238961
   lng: -85.6240166
@@ -9673,6 +9680,9 @@
 3900 Vermont Ave. Responders assessed the patient and provided necessary care., Louisville, KY:
   lat: 38.2562961
   lng: -85.8156449
+3900 Village Green Dr, Louisville, KY:
+  lat: 38.1919201
+  lng: -85.6064742
 3900 West Broadway, Louisville, KY:
   lat: 38.2498353
   lng: -85.8167762
@@ -15358,6 +15368,9 @@
 800 South 42nd Street. Neighbors had indicated that trash may have been burning in a backyard., Louisville, KY:
   lat: 38.2483151
   lng: -85.8224985
+800 South 6th Street, Louisville, KY:
+  lat: 38.24444
+  lng: -85.762146
 800 South Jackson, Louisville, KY:
   lat: 38.24185
   lng: -85.746268
