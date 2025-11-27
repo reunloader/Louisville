@@ -6567,6 +6567,9 @@
 2300 Cedar St, Louisville, KY:
   lat: 38.2559502
   lng: -85.7891852
+2300 Clarkwood Rd, Louisville, KY:
+  lat: 38.286387
+  lng: -85.658244
 2300 Deer Crossing Trail, Louisville, KY:
   lat: 38.1986449
   lng: -85.4359493
@@ -6778,6 +6781,8 @@
   lng: -85.7493622
 2400 Constant Comet Place 9:00 a, Louisville, KY: null
 2400 Constant Comet Place 9:00 a.m.AM, Louisville, KY: null
+2400 Crash and Stride, Louisville, KY: null
+2400 Crash and Stride. Multiple units were dispatched, Louisville, KY: null
 2400 Credin, Louisville, KY: null
 ? 2400 Credin. The specific details of what was deemed suspicious were not immediately
   available. Responding units were in the 600 block of Adams., Louisville, KY
@@ -9498,6 +9503,7 @@
 3600 Manslick Rd, Louisville, KY:
   lat: 38.1953487
   lng: -85.7996467
+3600 Marchtown Road, Louisville, KY: null
 3600 Monticello Forest Cir, Louisville, KY: null
 ? 3600 Monticello Forest Cir. This appears to be a correction or a separate incident
   from a previous call on Forest Way Dr, indicating a need for police presence in
