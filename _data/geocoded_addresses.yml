@@ -1276,6 +1276,12 @@
 1000 Zorn Ave, Louisville, KY:
   lat: 38.2769083
   lng: -85.6987274
+1000 [Street Name Missing], Louisville, KY:
+  lat: 38.1394402
+  lng: -85.7834796
+1000 [Street Name Missing]. Responders were prepared to provide medical assistance, Louisville, KY:
+  lat: 38.1394402
+  lng: -85.7834796
 1000 [Street Name Unclear], Louisville, KY:
   lat: 38.1394402
   lng: -85.7834796
@@ -1523,6 +1529,7 @@
 11 Rosedale Ave, Louisville, KY:
   lat: 38.2235747
   lng: -85.7032029
+1100 17th Street, but this was later corrected, Louisville, KY: null
 1100 Apex View Dr, Louisville, KY: null
 1100 Bardstown Rd, Louisville, KY:
   lat: 38.238274
@@ -2439,6 +2446,9 @@
   lat: 38.0938159
   lng: -85.6538909
 1200 Weller Ave, Louisville, KY:
+  lat: 38.2098187
+  lng: -85.7755746
+1200 Weller Ave. The alarm was specifically, Louisville, KY:
   lat: 38.2098187
   lng: -85.7755746
 1200 West Ali, Louisville, KY:
@@ -11024,6 +11034,9 @@
 4400 Breckenridge Ln, Louisville, KY:
   lat: 38.1827584
   lng: -85.6277075
+4400 Brookhaven, Louisville, KY:
+  lat: 38.229978
+  lng: -85.619959
 4400 Cane Run Rd near Shanks and Richmont, Louisville, KY:
   lat: 38.1981991
   lng: -85.8396306
