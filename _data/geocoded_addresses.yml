@@ -2773,6 +2773,10 @@
   but the fire department provided support, Louisville, KY
 : lat: 38.2065974
   lng: -85.642936
+1300 Hickory St, Louisville, KY:
+  lat: 38.226831
+  lng: -85.735041
+1300 Hickory St, between Mulberry and Ash streets,, Louisville, KY: null
 ? 1300 Homeview Dr due to a reported gas leak. Upon arrival, a strong odor was detected
   both inside and outside the residence, though it was not definitively identified
   as natural gas. The situation was deemed manageable by the responding units, and
@@ -6755,6 +6759,7 @@
 2400 Lower Hunters Trace, Louisville, KY:
   lat: 38.1604042
   lng: -85.8554373
+2400 Marine St, Louisville, KY: null
 2400 Marymount Ct, Louisville, KY:
   lat: 38.2850585
   lng: -85.6178338
@@ -10553,6 +10558,7 @@
 400 W Chestnut St, Louisville, KY:
   lat: 38.248881
   lng: -85.758042
+400 W Chestnut St, in the vicinity of 4th and 5th streets,, Louisville, KY: null
 400 W Kingston Ave, Louisville, KY:
   lat: 38.1728488
   lng: -85.7658685
@@ -13997,6 +14003,12 @@
 6400 Dutchman's Parkway. Further details, Louisville, KY: null
 6400 Gatehouse Ln, Louisville, KY: null
 6400 Greten Ln, Louisville, KY: null
+6400 Johnsontown Rd, Louisville, KY:
+  lat: 38.1158773
+  lng: -85.8855122
+6400 Johnsontown Rd. Officers were dispatched, Louisville, KY:
+  lat: 38.1158773
+  lng: -85.8855122
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
@@ -14812,6 +14824,8 @@
   several individuals present at the scene. Firefighters worked to manage the situation.,
   Louisville, KY
 : null
+700 S Shelby St, Louisville, KY: null
+700 S Shelby St, between Jacob and Fisner streets. Emergency medical services were dispatched, Louisville, KY: null
 700 Shiloh Trail, Louisville, KY: null
 700 South 11th Street, Louisville, KY:
   lat: 38.247204
@@ -15483,6 +15497,10 @@
 7700 Chelsea Gardens. Officers were notified, Louisville, KY:
   lat: 38.1590824
   lng: -85.6193102
+7700 Chet Ln, Louisville, KY:
+  lat: 38.1384339
+  lng: -85.7895748
+7700 Chet Ln, near Peraway and Banbury Cross Road,, Louisville, KY: null
 7700 I-65 South, Louisville, KY: null
 7700 Kim Dr, Louisville, KY:
   lat: 38.1389657
@@ -16883,6 +16901,7 @@
   lng: -85.6779117
 9200 South63rd Street, Louisville, KY: null
 9200 Westmore Road, Louisville, KY: null
+9200 Westport Rd in response, Louisville, KY: null
 9200 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
@@ -17675,6 +17694,7 @@ Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
 Taylor Blvd and Hathaway Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
+Taylor Blvd and Strader Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
 Taylor Springs Dr and Central Ave, Louisville, KY: null
