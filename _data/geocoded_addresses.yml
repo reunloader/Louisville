@@ -5279,6 +5279,7 @@
 200 North at mile marker 29, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North on the ramp, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, Albert H Near St. The reason, Louisville, KY: null
 200 North, First Point Parkway, Louisville, KY: null
@@ -10445,6 +10446,9 @@
 400 South Roy Wilkins. Units confirmed their arrival, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+400 South Second Street near W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2563581
+  lng: -85.8046069
 400 Southpointe Blvd, Louisville, KY: null
 400 Speed Ave, Louisville, KY:
   lat: 38.2273201
@@ -14773,6 +14777,7 @@
   lat: 38.1012113
   lng: -85.8493291
 700 Top Reston Street, Louisville, KY: null
+700 V Street, Louisville, KY: null
 700 W Jefferson St, specifically at the Judicial Center,, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
@@ -17451,6 +17456,7 @@ Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
+Shep Road and Rangeland Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shepherdsville Rd and Ferndale Rd, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
