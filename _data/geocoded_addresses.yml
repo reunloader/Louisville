@@ -12737,6 +12737,7 @@
 5300 Lowerfield Dr. The purpose of the call was, Louisville, KY:
   lat: 38.1558697
   lng: -85.6685142
+5300 Marchtown Road, Louisville, KY: null
 5300 Matterhorn Dr near Mount Howard Ct, Louisville, KY:
   lat: 38.1687491
   lng: -85.853042
@@ -16200,6 +16201,9 @@
 900 Ash St, Louisville, KY:
   lat: 38.227742
   lng: -85.738702
+900 Barret Ave, Louisville, KY:
+  lat: 38.239507
+  lng: -85.730723
 900 Baxter Ave at Walgreens, Louisville, KY: null
 900 Baxter Ave, Louisville, KY:
   lat: 38.2424865
