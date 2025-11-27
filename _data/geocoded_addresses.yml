@@ -4019,6 +4019,9 @@
 1600 William E. Summers, Louisville, KY:
   lat: 38.2309028
   lng: -85.8205021
+1600 Windsor Pl, Louisville, KY:
+  lat: 38.231969
+  lng: -85.717476
 1600 a street with a net rate of16, Louisville, KY: null
 16100 Crisswind Road, Louisville, KY: null
 16100 Eastwood Bluff Rd, Louisville, KY: null
@@ -10128,6 +10131,9 @@
 400 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+400 E W Oak St, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 400 E, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -10841,6 +10847,9 @@
 4100 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.093486
   lng: -85.8578124
+4100 Hazelwood Ave, Louisville, KY:
+  lat: 38.183023
+  lng: -85.787949
 4100 Hazelwood Rd, Louisville, KY: null
 4100 Hazelwood, Louisville, KY:
   lat: 38.183023
@@ -17543,6 +17552,7 @@ Taylor Ave and Central Ave, Louisville, KY:
   lng: -85.7764181
 Taylor Ave and Huntoon Ave, Louisville, KY: null
 Taylor Ave and Longsmore Avenue, Louisville, KY: null
+Taylor Ave and Lynnhurst Ave, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
 Taylor Ave and Sale Ave, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
