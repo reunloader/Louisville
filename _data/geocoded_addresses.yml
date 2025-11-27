@@ -5810,6 +5810,10 @@
 2000 [Street Name Not Fully Provided], Louisville, KY:
   lat: 38.2274949
   lng: -85.6953702
+2000 [Street Name Unclear], Louisville, KY:
+  lat: 38.2274949
+  lng: -85.6953702
+2000 [Street Name Unclear], specifically at a walkway, Louisville, KY: null
 2000 block of black Kia at Home Depot entrance, Louisville, KY: null
 2000 four-door Nissan Xterra, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
@@ -8360,6 +8364,12 @@
 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched, Louisville, KY:
   lat: 38.2754725
   lng: -85.7973888
+3100 Park Church Ln, Louisville, KY:
+  lat: 38.215882
+  lng: -85.622971
+3100 Park Church Ln. The incident was logged at 2056. Further details, Louisville, KY:
+  lat: 38.215882
+  lng: -85.622971
 ? 3100 Poplar Level Rd to attend to a 77-year-old male experiencing low blood sugar
   and low blood pressure. The patient's condition required immediate medical attention.,
   Louisville, KY
@@ -12714,6 +12724,8 @@
 5500 Sullivan Way. They were reportedly waiting, Louisville, KY:
   lat: 38.0942448
   lng: -85.6560955
+5500 West Hall, Louisville, KY: null
+5500 West Hall, with an execution in progress. Police units were dispatched, Louisville, KY: null
 5500 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
@@ -12812,6 +12824,12 @@
 5700 New Cut Rd, Louisville, KY:
   lat: 38.1372198
   lng: -85.7735363
+5700 Oxford Pl, Louisville, KY:
+  lat: 38.1605773
+  lng: -85.6018404
+5700 Oxford Pl. The call was processed at 2119. Responding units were directed, Louisville, KY:
+  lat: 38.1605773
+  lng: -85.6018404
 5700 Revere Dr, Louisville, KY:
   lat: 38.1666547
   lng: -85.6674876
@@ -13895,6 +13913,12 @@
 6800 Holly Lake Dr, Louisville, KY:
   lat: 38.148553
   lng: -85.583379
+6800 Manslick Rd, Louisville, KY:
+  lat: 38.1629831
+  lng: -85.7980886
+6800 Manslick Rd. The incident was noted at 210. Police units were dispatched, Louisville, KY:
+  lat: 38.1629831
+  lng: -85.7980886
 ? 6800 Myers Circle. The child, described as a 45-year-old black male wearing a green
   shirt and tan pants, was seen running around the location for about ten minutes
   without any adult supervision. Emergency services were dispatched to investigate
