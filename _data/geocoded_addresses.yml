@@ -1172,6 +1172,9 @@
 1000 South 28th Street, Louisville, KY:
   lat: 38.2434873
   lng: -85.799649
+1000 South 29th Street near Greenwood Ave, Louisville, KY:
+  lat: 38.243639
+  lng: -85.801107
 ? 1000 South 2nd Street at the Baptist Parish main office regarding a resident experiencing
   mental health difficulties. The individual was reportedly refusing, Louisville,
   KY
@@ -7547,6 +7550,9 @@
   secondary fire reported in the 1600 block of Hemlock Ct. Multiple fire units and
   a Battalion Chief were dispatched, Louisville, KY
 : null
+2900 Garfield Ave near North 30th Street, Louisville, KY:
+  lat: 38.2674035
+  lng: -85.7976195
 2900 Goose Creek Rd, Brownsboro Park Retirement Center, Louisville, KY: null
 2900 Goose Creek Rd, Louisville, KY:
   lat: 38.289674
@@ -11610,6 +11616,9 @@
   lng: -85.718437
 4700 Quinn Dr, Louisville, KY: null
 4700 Quinn Dr, near Crusher Cavalier Drive and Quinn Ct, Louisville, KY: null
+4700 South 2nd Street near Westwood Ave, Louisville, KY:
+  lat: 38.1812745
+  lng: -85.7649523
 4700 South 3rd Street, Louisville, KY:
   lat: 38.1810652
   lng: -85.766787
