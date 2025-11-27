@@ -5503,6 +5503,12 @@
 200 West Oak, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
+200 West Ormsby, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
+200 West Ormsby. Police units were requested, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West Penny Avenue, Louisville, KY: null
 200 West Ragniglia, Louisville, KY: null
 200 West Stolemsby, North Alley, Louisville, KY: null
@@ -9486,6 +9492,9 @@
 3621 Wheeler Avenue, Louisville, KY:
   lat: 38.1933635
   lng: -85.7881541
+37 Brentwood Ave, Louisville, KY:
+  lat: 38.1948087
+  lng: -85.7727267
 37 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
@@ -10822,6 +10831,8 @@
 4100 Boulevard, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
+4100 Burrell Dr, Louisville, KY: null
+4100 Burrell Dr, near the intersection of Gar's Lane and LeMond Drive, Louisville, KY: null
 4100 Camden Avenue 1:30 p, Louisville, KY: null
 4100 Camden Avenue 1:30 p.m., Louisville, KY: null
 ? 4100 Camden Avenue due to a report of a gas smell in the basement. Upon investigation,
@@ -14470,6 +14481,9 @@
   lng: -85.7821746
 700 Braddock Dr, Louisville, KY: null
 700 Brent St, Louisville, KY:
+  lat: 38.243692
+  lng: -85.735383
+700 Brent St. Responding units investigated the situation, which was later determined, Louisville, KY:
   lat: 38.243692
   lng: -85.735383
 700 Broadway, Louisville, KY:
