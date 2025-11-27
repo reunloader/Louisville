@@ -9100,6 +9100,12 @@
 : null
 3500 Capri Dr, between Gladden Dr and Elba Dr,, Louisville, KY: null
 3500 Carrigan Road, Louisville, KY: null
+3500 Cedar Springs Dr, Louisville, KY:
+  lat: 38.1469339
+  lng: -85.5894314
+3500 Cedar Springs Dr. Police units were dispatched, Louisville, KY:
+  lat: 38.1469339
+  lng: -85.5894314
 3500 Charmane Dr, Louisville, KY:
   lat: 38.1412532
   lng: -85.6626633
@@ -16080,6 +16086,8 @@
 8300 Rest of Lane, Louisville, KY: null
 8300 Round Hill Rd, Louisville, KY: null
 8300 Scarlet Rose Ct, Louisville, KY: null
+8300 South of the Way, Louisville, KY: null
+8300 South of the Way. Responding units were en route, Louisville, KY: null
 8300 Zelma Fields Ave, Louisville, KY:
   lat: 38.1309086
   lng: -85.6078912
@@ -16654,6 +16662,8 @@
 900 West Chestnut, Louisville, KY:
   lat: 38.2496821
   lng: -85.7669069
+900 West Jets9 Dr, Louisville, KY: null
+900 West Jets9 Drive, near W.J. Hodge. Police units arrived and confirmed the location was ready, Louisville, KY: null
 900 West near Gene Snyder Freeway, Louisville, KY:
   lat: 38.1859494
   lng: -85.7759231
@@ -17518,6 +17528,7 @@ Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
+Shelbyville Rd and South Linden Lane, Louisville, KY: null
 Shep Road and Rangeland Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shepherdsville Rd and Ferndale Rd, Louisville, KY: null
