@@ -1913,6 +1913,9 @@
 11200 Vista Greens Dr, Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched, Louisville, KY: null
+11200 Woodridge Lake Way, Louisville, KY:
+  lat: 38.0930884
+  lng: -85.863008
 11300 Blue Lick Rd, Louisville, KY:
   lat: 38.0869317
   lng: -85.6997833
@@ -11749,6 +11752,9 @@
   lat: 38.1569645
   lng: -85.7038308
 4800 Fingrish Lane and surrounding areas, Louisville, KY: null
+4800 Garland Ave, Louisville, KY:
+  lat: 38.2472111
+  lng: -85.8243903
 4800 Granada Dr, Louisville, KY:
   lat: 38.113167
   lng: -85.8506804
