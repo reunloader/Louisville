@@ -10695,6 +10695,7 @@
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
+4000 Outlay Drive, Louisville, KY: null
 4000 Pacelli Pl, Louisville, KY: null
 4000 Pacelli Pl. This call was related, Louisville, KY: null
 4000 Parkway, Louisville, KY:
@@ -14468,6 +14469,9 @@
   lat: 38.185675
   lng: -85.7821746
 700 Braddock Dr, Louisville, KY: null
+700 Brent St, Louisville, KY:
+  lat: 38.243692
+  lng: -85.735383
 700 Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
