@@ -2773,6 +2773,9 @@
   but the fire department provided support, Louisville, KY
 : lat: 38.2065974
   lng: -85.642936
+? 1300 Hickory St where a 32-year-old female was found unconscious and exhibiting
+  possible agonal breathing. Responders were on scene, Louisville, KY
+: null
 1300 Hickory St, Louisville, KY:
   lat: 38.226831
   lng: -85.735041
@@ -3402,6 +3405,9 @@
 1400 St. James Rae Pl. Police units were dispatched to assess the situation., Louisville, KY: null
 1400 St. James Rae Pl. Police units were dispatched, Louisville, KY: null
 1400 St. St James Ct., Louisville, KY: null
+1400 Texas Ave, Louisville, KY:
+  lat: 38.223318
+  lng: -85.736068
 1400 Thornberry Ave, Louisville, KY:
   lat: 38.206006
   lng: -85.7807193
@@ -4072,6 +4078,9 @@
   lat: 38.1962903
   lng: -85.793759
 1700 Brentmoor Ln, Louisville, KY: null
+1700 Cloverbrook Dr, Louisville, KY:
+  lat: 38.188038
+  lng: -85.792831
 1700 Cowling Ave, Louisville, KY:
   lat: 38.231231
   lng: -85.698696
@@ -7308,6 +7317,9 @@
 2700 Chickasaw Ave, Louisville, KY:
   lat: 38.259328
   lng: -85.698116
+2700 Garland Ave, Louisville, KY:
+  lat: 38.244613
+  lng: -85.7973498
 2700 Grand Ave, obstructing access. A request was made, Louisville, KY: null
 2700 Greenwood Ave, Louisville, KY:
   lat: 38.2418797
@@ -9442,6 +9454,11 @@
 3600 Stanton Blvd. Officers were assigned, Louisville, KY:
   lat: 38.210443
   lng: -85.643923
+? 3600 Taylor Blvd following a report of an individual experiencing an overdose. The
+  30-year-old male was found unresponsive and not breathing, partially in the roadway,
+  and was wearing a blue jacket, blue pants, and an orange hoodie. EMS administered
+  Narcan and transported the subject, Louisville, KY
+: null
 3600 Taylor Blvd, Louisville, KY:
   lat: 38.1940133
   lng: -85.7834587
@@ -14823,6 +14840,10 @@
 ? 700 S S S Brook St. The incident involved a large garbage fire in a dumpster, with
   several individuals present at the scene. Firefighters worked to manage the situation.,
   Louisville, KY
+: null
+? 700 S Shelby St involving a newborn experiencing cardiac arrest. EMS units were
+  dispatched to the scene to provide immediate life-saving interventions, Louisville,
+  KY
 : null
 700 S Shelby St, Louisville, KY: null
 700 S Shelby St, between Jacob and Fisner streets. Emergency medical services were dispatched, Louisville, KY: null
