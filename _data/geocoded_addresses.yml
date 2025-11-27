@@ -3208,6 +3208,9 @@
 1400 Lexington Rd, Louisville, KY:
   lat: 38.25048
   lng: -85.720565
+1400 Longfield Ave near Lester and Taylor, Louisville, KY:
+  lat: 38.1985704
+  lng: -85.7850056
 1400 Longfield Ave, Louisville, KY:
   lat: 38.1985704
   lng: -85.7850056
@@ -12336,6 +12339,12 @@
   lng: -85.7578311
 500 South 7th 3Rd Street Rd to conduct a welfare check, with concerns of a possible medical issue., Louisville, KY: null
 500 South 7th 3Rd Street Rd, Louisville, KY: null
+500 South 8th Street, Louisville, KY:
+  lat: 38.250978
+  lng: -85.764372
+500 South 8th Street. Officers were dispatched, Louisville, KY:
+  lat: 38.250978
+  lng: -85.764372
 500 South Churchway, Louisville, KY: null
 500 South Service Street, Louisville, KY: null
 500 South, Louisville, KY: null
