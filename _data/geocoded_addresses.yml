@@ -5434,6 +5434,9 @@
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+200 S Clay St, Louisville, KY:
+  lat: 38.2376029
+  lng: -85.7427829
 200 S Hancock St, Louisville, KY:
   lat: 38.2531474
   lng: -85.7426966
@@ -8368,6 +8371,9 @@
 3000 Betty Ln. EMS and police units were dispatched, Louisville, KY: null
 3000 Bobbling Road 7:00 p, Louisville, KY: null
 3000 Bobbling Road 7:00 p.m.AM, Louisville, KY: null
+? 3000 Bon Air Ave involving a 27-year-old female who was experiencing multiple seizures.
+  Responding units provided care, Louisville, KY
+: null
 3000 Bon Air Ave, Louisville, KY:
   lat: 38.220249
   lng: -85.666617
@@ -15264,6 +15270,7 @@
 7100 West, Louisville, KY:
   lat: 38.2861839
   lng: -85.6197265
+7100 an unspecified street, Louisville, KY: null
 7200 Apple Mill Dr, Louisville, KY:
   lat: 38.1357462
   lng: -85.6281739
@@ -17190,6 +17197,12 @@
 9500 Portland Ave, Louisville, KY:
   lat: 38.2721361
   lng: -85.7929587
+9500 Preston Hwy, Louisville, KY:
+  lat: 38.1126543
+  lng: -85.6797064
+9500 Preston Hwy, near Meyer. Assistance was requested, Louisville, KY:
+  lat: 38.1126543
+  lng: -85.6797064
 9500 South 1st Street, Louisville, KY:
   lat: 38.2450485
   lng: -85.7534965
