@@ -9899,6 +9899,12 @@
 400 East Ali, Louisville, KY:
   lat: 38.249878
   lng: -85.74667
+400 East Alley and 4400 block of Estate Dr, Louisville, KY: null
+? 400 East Alley following a fire alarm. Upon arrival, no smoke was visible, and it
+  was determined that the alarm was triggered by food left on a stove; the system
+  was subsequently reset. Separately, EMS responded to a medical call, Louisville,
+  KY
+: null
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
@@ -13859,6 +13865,10 @@
 6800 Deering Rd, Louisville, KY:
   lat: 38.0906197
   lng: -85.8735398
+6800 Dixie Hwy and 2C505 Bethany Ln, Louisville, KY: null
+6800 Dixie Hwy at Louisville Queenslake, Louisville, KY:
+  lat: 38.1519038
+  lng: -85.8370427
 6800 Dixie Hwy, Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
@@ -14153,6 +14163,8 @@
 700 Falcon Crest Dr, Louisville, KY:
   lat: 38.1183325
   lng: -85.6929215
+700 Feel Nice, Waycross Ave, Louisville, KY: null
+700 Feel Nice, Waycross Ave,, Louisville, KY: null
 700 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
@@ -15163,6 +15175,10 @@
 7900 Westford Loop, Louisville, KY: null
 7900 Westport Loop. Responders were dispatched to help her regain entry., Louisville, KY: null
 7900 Westport Loop. Responders were dispatched, Louisville, KY: null
+7900 Wooded Ridge Dr due, Louisville, KY: null
+7900 Wooded Ridge Dr, Louisville, KY:
+  lat: 38.1381769
+  lng: -85.8071372
 7910 Brice Bramble Ln, Louisville, KY:
   lat: 38.155595
   lng: -85.6643683
@@ -16931,6 +16947,7 @@ Grafton Hall Rd and Cherokee Rd, Louisville, KY: null
 Grand Ave and Taylor Blvd, Louisville, KY: null
 Grange Road and Nelson Miller Pky, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
+Greenville Street and Third Street, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
 Grinstead Dr and Bardstown Rd, Louisville, KY: null
