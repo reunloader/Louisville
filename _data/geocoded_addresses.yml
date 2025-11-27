@@ -5245,6 +5245,11 @@
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
+? 200 South 42nd Street. The alarm was triggered by a pull station at the intersection
+  of Herman St and W Market St. After an investigation, it was determined, Louisville,
+  KY
+: lat: 38.263249
+  lng: -85.818916
 200 South Forest, Louisville, KY: null
 ? 200 South Forest. The individual, a male, was observed sitting near an elevator
   on the sixth floor, exhibiting unusual behavior and calling out to people. Police
@@ -6815,6 +6820,9 @@
 2500 Slate Dr, Louisville, KY:
   lat: 38.1049283
   lng: -85.7204367
+2500 South 3rd Street, Louisville, KY:
+  lat: 38.213343
+  lng: -85.762485
 2500 South 4th St, Louisville, KY:
   lat: 38.2128532
   lng: -85.7644902
@@ -16919,6 +16927,7 @@ Crest Street and Heights Dr, Louisville, KY: null
 Crestline Rd and Justan Ave, Louisville, KY: null
 Crestwood Ave and Frankfort Ave, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
+Crittenden Dr and Park Blvd, Louisville, KY: null
 Crop St Red Fern Rd and Rookwood Ave, Louisville, KY: null
 Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Crop St and Alma Ave, Louisville, KY: null
