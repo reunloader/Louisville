@@ -1753,6 +1753,9 @@
   KY
 : lat: 38.0762726
   lng: -85.8819062
+1100 S Brook St, Louisville, KY:
+  lat: 38.2366186
+  lng: -85.7535764
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
   lng: -85.749224
@@ -16589,6 +16592,9 @@
   lat: 38.2661152
   lng: -85.8051111
 900 Domino Street, Louisville, KY: null
+900 E W Breckinridge St, Louisville, KY:
+  lat: 38.2418164
+  lng: -85.758428
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
