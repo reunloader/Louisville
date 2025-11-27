@@ -4512,6 +4512,9 @@
 1800 Outer Loop, Louisville, KY:
   lat: 38.1280358
   lng: -85.7393457
+1800 Owen St, Louisville, KY:
+  lat: 38.262421
+  lng: -85.779286
 1800 Sale Ave, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
@@ -4939,6 +4942,9 @@
 200 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+200 E W Market St. Responding units were on scene, Louisville, KY:
+  lat: 38.2586626
+  lng: -85.7877091
 200 E W Ormsby Ave, Louisville, KY:
   lat: 38.2336503
   lng: -85.7699347
@@ -8772,6 +8778,9 @@
 3300 Clarinet Dr, Louisville, KY:
   lat: 38.1922651
   lng: -85.8473475
+3300 Clay Hill Ln, Louisville, KY:
+  lat: 38.2262119
+  lng: -85.5012993
 3300 Davis, Louisville, KY: null
 3300 Davis. Police units were dispatched, Louisville, KY: null
 3300 Ducart involving a neighbor at the door, Louisville, KY:
@@ -17186,6 +17195,7 @@ Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
+Huntington Rd and Rock Creek Dr, Louisville, KY: null
 Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
