@@ -2227,6 +2227,7 @@
   lat: 38.249357
   lng: -85.729037
 1200 Lillian Ave near Utah and Montana, Louisville, KY: null
+1200 Lillian Ave, Fabric Square, Louisville, KY: null
 1200 Lillian Ave, Louisville, KY:
   lat: 38.2091684
   lng: -85.7769126
@@ -7778,6 +7779,9 @@
   lat: 38.1273447
   lng: -85.6660952
 300 Charlie and 300 block of Adam, Louisville, KY: null
+300 Charlie and 327, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 300 Charlie and 800 block of Charlie, Louisville, KY: null
 300 Charlie and the 300 block of David, Louisville, KY: null
 300 Charlie, Louisville, KY:
@@ -8101,6 +8105,7 @@
 300 an unspecified street. Unit 10 Adam was en route to assess the situation., Louisville, KY: null
 300 an unspecified street. Unit 10 Adam was en route, Louisville, KY: null
 300 an unspecified street. Unit 5-19 reported having one car clear from the scene., Louisville, KY: null
+300 and 1-9-0, Louisville, KY: null
 300 and I, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
