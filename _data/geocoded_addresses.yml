@@ -34,6 +34,9 @@
 100 Alger Ave near South Second and Southside Dr, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
+100 Alger Ave. Both police and EMS were en route, Louisville, KY:
+  lat: 38.166136
+  lng: -85.764955
 100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -4452,6 +4455,9 @@
 1800 South 3rd Street, Louisville, KY:
   lat: 38.2217966
   lng: -85.761299
+1800 South 5th Street. The patient was believed, Louisville, KY:
+  lat: 38.2098564
+  lng: -85.7664245
 ? 1800 South 7th Street following a report of a female being thrown from a vehicle.
   Units 4-13 Charlie and 4-14 Adam, along with EMS, were dispatched to the scene.,
   Louisville, KY
@@ -5286,6 +5292,7 @@
 200 W Liberty St, Louisville, KY:
   lat: 38.252634
   lng: -85.754015
+200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
@@ -11924,6 +11931,11 @@
   and determined to be technical in nature., Louisville, KY
 : null
 500 Quails Run in response, Louisville, KY: null
+? 500 Quest Dr. Occupants had already evacuated eight individuals after smelling gas,
+  which they suspected might have originated from a thermos. Fire units were dispatched,
+  Louisville, KY
+: lat: 38.2524147
+  lng: -85.7720083
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
@@ -15015,6 +15027,9 @@
 78600 Burrice Ct, Louisville, KY:
   lat: 38.1422513
   lng: -85.8933393
+7900 Albrecht Ct. Further investigation revealed that the vehicle was registered, Louisville, KY:
+  lat: 38.3169207
+  lng: -85.601722
 7900 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
