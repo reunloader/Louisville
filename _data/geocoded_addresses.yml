@@ -2215,6 +2215,7 @@
 1200 Main St near 12th Street, Louisville, KY:
   lat: 38.2529572
   lng: -85.7261297
+1200 Marks Island Road, Louisville, KY: null
 1200 Markstown Road, Louisville, KY: null
 1200 Monticello Forest Cir, Louisville, KY: null
 1200 Moore Ct and Elliott Park, Louisville, KY: null
@@ -6498,6 +6499,9 @@
 2400 Forest Dr, Louisville, KY:
   lat: 38.16587
   lng: -85.6901078
+2400 Frankfort Ave, Louisville, KY:
+  lat: 38.2536081
+  lng: -85.6995897
 2400 Garland Ave, Louisville, KY:
   lat: 38.2441968
   lng: -85.7927234
@@ -10270,6 +10274,8 @@
 400 [Street Name Unclear], Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
+400 an unspecified area, Louisville, KY: null
+400 an unspecified location., Louisville, KY: null
 400 and 400 block of Charlie were dispatched to the area., Louisville, KY: null
 400 and 400 block of Charlie were dispatched, Louisville, KY: null
 ? 400 and 400 block of. At the time of the report, the vehicle had not been located,
@@ -16888,6 +16894,7 @@ Hurstport Parkway and Westport Rd, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
+Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
