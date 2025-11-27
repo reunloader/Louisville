@@ -5873,6 +5873,13 @@
 2100 East Collin Street, Louisville, KY: null
 2100 East L, Louisville, KY: null
 2100 East L.E., Louisville, KY: null
+2100 Eastern Parkway was canceled. Officers, Louisville, KY: null
+2100 Eastern Parkway, Louisville, KY:
+  lat: 38.2340807
+  lng: -85.7058418
+2100 Eastern Parkway. Responding officers were dispatched, Louisville, KY:
+  lat: 38.2340807
+  lng: -85.7058418
 2100 Edgeland Ave, Louisville, KY:
   lat: 38.2337872
   lng: -85.7107419
@@ -16911,6 +16918,7 @@ Dover Road and Looker Avenue, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 East Pharrell Road and Flowervale Ln, Louisville, KY: null
+Eastern Ave and Ash St, Louisville, KY: null
 Eastern Parkway and Arta Street, Louisville, KY: null
 Eastern Parkway and Bradley Ave, Louisville, KY:
   lat: 38.2126547
@@ -16996,6 +17004,7 @@ Lexington Ave and Payne St, Louisville, KY: null
 Lexington Rd and Frankfort Ave, Louisville, KY: null
 Lexington Rd and Grand St, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
+Lillian Ave and South St, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Locust Ave and Canterbury Dr, Louisville, KY: null
 Logan St and Lansing Street, Louisville, KY: null
