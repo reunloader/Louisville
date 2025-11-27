@@ -31,6 +31,9 @@
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+100 Alger Ave near South Second and Southside Dr, Louisville, KY:
+  lat: 38.166136
+  lng: -85.764955
 100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -1986,6 +1989,9 @@
 11700 Pond Creek Dr, Louisville, KY:
   lat: 38.080013
   lng: -85.864372
+11700 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 11700 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -2281,6 +2287,9 @@
 1200 South 2nd Street at the Center, Louisville, KY:
   lat: 38.2345868
   lng: -85.7573175
+1200 South 3rd Street near West Ornstein and West Oak, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
 ? 1200 South 3rd Street to assist with a medical emergency. A 60-year-old male was
   found to have overdosed and required immediate medical intervention. EMS provided
   treatment at the scene before transporting the individual., Louisville, KY
@@ -10112,6 +10121,7 @@
 400 South A Street, Louisville, KY: null
 400 South A Trent Ave Plaza, Louisville, KY: null
 400 South H Street, Louisville, KY: null
+400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
 ? 400 South Hubbard. The specific circumstances leading to the check were not detailed
   in the initial report., Louisville, KY
@@ -10222,6 +10232,7 @@
   lng: -85.7571981
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
+400 West Ornstein near Garvin and 4th, Louisville, KY: null
 400 West Ornstein, Louisville, KY: null
 400 West Penny Avenue, Louisville, KY: null
 400 West W Oak St, Louisville, KY: null
