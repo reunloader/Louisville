@@ -1638,6 +1638,9 @@
 1100 Euclid Ave, Louisville, KY:
   lat: 38.214775
   lng: -85.7750256
+1100 Everett Ave, Louisville, KY:
+  lat: 38.239542
+  lng: -85.717603
 1100 Garvin Pl, Louisville, KY:
   lat: 38.2371411
   lng: -85.7618045
@@ -3547,6 +3550,7 @@
 1500 Clara Avenue, Louisville, KY:
   lat: 38.1996606
   lng: -85.7865926
+1500 Crum's Ln, Louisville, KY: null
 1500 Cypress St, Louisville, KY:
   lat: 38.2302114
   lng: -85.7988776
@@ -9945,6 +9949,7 @@
 400 Adam and 400 block of Adam were dispatched., Louisville, KY: null
 400 Adam and 400 block of Baker, Louisville, KY: null
 400 Adam and 400 block of David, were dispatched, Louisville, KY: null
+400 Adam and 500 block, Louisville, KY: null
 ? 400 Adam and the 1300 block, provided assistance with traffic control as the vehicle
   was being removed from the roadway, Louisville, KY
 : null
@@ -10904,6 +10909,7 @@
 4100 Pinecroft Dr, Louisville, KY:
   lat: 38.1335452
   lng: -85.686208
+4100 Railways and 400 block of Creel, Louisville, KY: null
 4100 Ralph Ave, Louisville, KY:
   lat: 38.2113439
   lng: -85.8357309
@@ -16912,6 +16918,7 @@
 9400 Magnolia Ridge Dr, Louisville, KY:
   lat: 38.1378626
   lng: -85.5969767
+9400 Mill Brook Rd, Louisville, KY: null
 9400 Moonridge Pl and 3900 block of Ratcliffe Ave, Louisville, KY: null
 9400 Moonridge Pl, Louisville, KY:
   lat: 38.1122663
