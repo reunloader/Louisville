@@ -711,6 +711,9 @@
   lat: 38.2397699
   lng: -85.7540073
 1000 Arrowhead Rd, Louisville, KY: null
+1000 Autumn Crest Ln, Louisville, KY:
+  lat: 38.244354
+  lng: -85.453897
 1000 Bardstown Rd, Louisville, KY:
   lat: 38.240016
   lng: -85.724091
@@ -3576,6 +3579,7 @@
 1500 Dixie Hwy, near Galbert and West Hill at Thorntons,, Louisville, KY:
   lat: 38.227527
   lng: -85.790903
+1500 Doom Snell Street, Louisville, KY: null
 1500 Earl Ave, Louisville, KY:
   lat: 38.207307
   lng: -85.7841382
@@ -8988,6 +8992,7 @@
 3400 Glendale Ave, Louisville, KY:
   lat: 38.200984
   lng: -85.791169
+3400 Glover Ln, Louisville, KY: null
 3400 Gonewind Dr, Louisville, KY:
   lat: 38.1957149
   lng: -85.5943247
@@ -15639,6 +15644,9 @@
 800 Carnation Dr, Louisville, KY:
   lat: 38.1393644
   lng: -85.8610486
+800 Charles St, Louisville, KY:
+  lat: 38.2296897
+  lng: -85.734991
 800 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
