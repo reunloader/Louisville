@@ -2786,6 +2786,7 @@
 : null
 1300 E W Oak St, New Albany, Louisville, KY: null
 1300 Earl Jones Way, Louisville, KY: null
+1300 Fawnberry Avenue, Louisville, KY: null
 1300 Flat Rock Rd, Louisville, KY:
   lat: 38.256266
   lng: -85.429926
@@ -3910,6 +3911,12 @@
   lat: 38.2287209
   lng: -85.7148597
 1600 Eastward Cutoff Road, Louisville, KY: null
+1600 Ehrler Dr, Louisville, KY:
+  lat: 38.2118351
+  lng: -85.7160786
+1600 Ehrler Dr. Responders arrived on scene, Louisville, KY:
+  lat: 38.2118351
+  lng: -85.7160786
 1600 Ellwood Ave, Louisville, KY:
   lat: 38.2367052
   lng: -85.7213027
@@ -4726,6 +4733,12 @@
 ? 1900 Bishop Ln, a 47-year-old female was reportedly suffering from a potential allergic
   reaction. EMS units were sent, Louisville, KY
 : null
+1900 Black Road near Venetian Way, Louisville, KY:
+  lat: 38.1217372
+  lng: -85.5651121
+1900 Black Road, Louisville, KY:
+  lat: 38.1217372
+  lng: -85.5651121
 1900 Bluegrass Avenue, Morning, Louisville, KY: null
 1900 Brownsboro Rd, Louisville, KY:
   lat: 38.2588516
@@ -12021,6 +12034,8 @@
   lng: -85.718437
 4700 Quinn Dr, Louisville, KY: null
 4700 Quinn Dr, near Crusher Cavalier Drive and Quinn Ct, Louisville, KY: null
+4700 Sinner Yellow Drive near Yeager, Louisville, KY: null
+4700 Sinner Yellow Drive, Louisville, KY: null
 4700 South 2nd Street near Westwood Ave, Louisville, KY:
   lat: 38.1812745
   lng: -85.7649523
@@ -15318,6 +15333,9 @@
 7200 Tangelo Dr near Disparque Way, Louisville, KY:
   lat: 38.1470556
   lng: -85.626619
+7200 W, Louisville, KY:
+  lat: 38.0804653
+  lng: -85.8955132
 ? 7200 Whipple Rd to conduct a welfare check on a 32-year-old female. The initial
   report indicated she was experiencing a mental episode and contemplating suicide,
   and was described as wearing a black shirt and gray sweatpants., Louisville, KY
@@ -16924,6 +16942,12 @@
 9000 Fawn Ct, Louisville, KY:
   lat: 38.2761227
   lng: -85.5866771
+? 9000 Harris Studies Drive involving a 42-year-old female experiencing chest pain.
+  Responders arrived on scene, Louisville, KY
+: null
+9000 Harris Studies Drive near Johnsontown Rd, Louisville, KY:
+  lat: 38.1217875
+  lng: -85.8765201
 9000 Hi View Ln, Louisville, KY: null
 9000 Hirschborn Club Lane, Louisville, KY: null
 9000 Linden Dr, Louisville, KY: null
