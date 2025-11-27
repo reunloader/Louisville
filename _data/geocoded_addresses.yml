@@ -281,6 +281,9 @@
   lat: 38.2014671
   lng: -85.6715278
 100 Metalwood, Louisville, KY: null
+100 Mills Dr, Louisville, KY:
+  lat: 38.1561097
+  lng: -85.8292757
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
@@ -384,6 +387,9 @@
 100 North4th Street, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
+100 Northington Ln, Louisville, KY:
+  lat: 38.321213
+  lng: -85.5521743
 ? 100 Norwood Dr following a request from a concerned third party. The caller reported
   that a service person was allegedly being unkind to a family at the residence. No
   specific details about the service person were provided., Louisville, KY
@@ -8695,6 +8701,7 @@
 3100 Mid Dale Ln, Louisville, KY:
   lat: 38.2110134
   lng: -85.6360004
+3100 North First Farm Parkway, Louisville, KY: null
 3100 North31st Street, Louisville, KY: null
 ? 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched
   for a 53-year-old female who was found unresponsive. Engine 6 confirmed they were
@@ -9403,6 +9410,7 @@
   KY
 : null
 3500 block of Dollar General, Louisville, KY: null
+3600 Apex Gardens Dr, Louisville, KY: null
 3600 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -12409,6 +12417,9 @@
 500 Club Ln, Louisville, KY:
   lat: 38.1428833
   lng: -85.7770499
+500 Court Pl, Louisville, KY:
+  lat: 38.254648
+  lng: -85.758715
 500 David and 12-59 responded to assess and manage the situation., Louisville, KY: null
 500 David and 12-59 responded, Louisville, KY: null
 500 David were dispatched to the scene., Louisville, KY: null
@@ -17676,6 +17687,7 @@ Grand Ave and Taylor Blvd, Louisville, KY: null
 Grange Road and Nelson Miller Pky, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
+Greenwood Rd and Lucille Ave, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
 Grinstead Dr and Bardstown Rd, Louisville, KY: null
