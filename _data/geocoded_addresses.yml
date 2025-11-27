@@ -7720,6 +7720,9 @@
 2900 W W Market St., Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p, Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY: null
+2900 Wilson Ave, Louisville, KY:
+  lat: 38.230577
+  lng: -85.803316
 2900 Wimpole Ct, Louisville, KY:
   lat: 38.2011417
   lng: -85.6342477
@@ -11512,6 +11515,13 @@
   lat: 38.2300585
   lng: -85.8061221
 4500 South6th Street, Louisville, KY: null
+4500 Springdale Rd, Louisville, KY:
+  lat: 38.3106568
+  lng: -85.584345
+? 4500 Springdale Rd. The incident involved a 90-year-old male who had fallen and
+  was experiencing hip pain. Responders were, Louisville, KY
+: lat: 38.3106568
+  lng: -85.584345
 ? 4500 Swaco Lane for a medical emergency involving an 82-year-old female. Upon arrival,
   responders found the individual to be in an altered mental state and not alert.
   Emergency medical personnel assessed the patient and provided necessary care. The
@@ -14305,6 +14315,12 @@
   KY
 : null
 700 Barret Ave in response, Louisville, KY: null
+700 Baxter Ave, Louisville, KY:
+  lat: 38.243354
+  lng: -85.726821
+700 Baxter Ave. The alarm indicated interior motion on the lower level, and a key holder was en route, Louisville, KY:
+  lat: 38.243354
+  lng: -85.726821
 700 Beaver St and 6 Adams St, Louisville, KY: null
 700 Beaver St, Louisville, KY:
   lat: 38.185675
@@ -14332,6 +14348,9 @@
 700 Curtin Woods, Louisville, KY: null
 700 Cypress Station Dr, Louisville, KY: null
 700 Denmark St, Louisville, KY:
+  lat: 38.1956685
+  lng: -85.7712003
+700 Denmark St. First responders were dispatched, Louisville, KY:
   lat: 38.1956685
   lng: -85.7712003
 ? 700 Douglas Park following a report of a vehicle striking a building. One individual
