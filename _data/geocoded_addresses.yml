@@ -718,6 +718,9 @@
   lat: 38.240016
   lng: -85.724091
 1000 Barrenness, Louisville, KY: null
+1000 Baxter Ave, Louisville, KY:
+  lat: 38.2387686
+  lng: -85.7236886
 1000 Beaver St, but the pursuit was later canceled, Louisville, KY: null
 1000 Beecher St, Louisville, KY:
   lat: 38.1911202
@@ -10514,6 +10517,9 @@
 400 South Second Street near W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+400 South St, Louisville, KY:
+  lat: 38.219248
+  lng: -85.776587
 400 Southpointe Blvd, Louisville, KY: null
 400 Speed Ave, Louisville, KY:
   lat: 38.2273201
@@ -11087,6 +11093,9 @@
 4200 South 28th Street, Louisville, KY:
   lat: 38.2549234
   lng: -85.7973288
+4200 South 2nd Street, Louisville, KY:
+  lat: 38.1952221
+  lng: -85.7636436
 4200 South 3rd Street, Louisville, KY:
   lat: 38.1951223
   lng: -85.7653057
@@ -12812,6 +12821,7 @@
 5200 Marty Ln. This dispatch was also, Louisville, KY:
   lat: 38.1598499
   lng: -85.6727475
+5200 Nettie Way, Louisville, KY: null
 5200 Russett Blvd, Louisville, KY:
   lat: 38.1655538
   lng: -85.6661966
