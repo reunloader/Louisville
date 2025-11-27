@@ -12148,6 +12148,9 @@
 ? 500 Perby. The exact nature of the alarm activation was not specified in the initial
   report. Further information, Louisville, KY
 : null
+500 Phillips Ln, Louisville, KY:
+  lat: 38.189967
+  lng: -85.7462
 500 Port Rd, Louisville, KY:
   lat: 38.1641544
   lng: -85.897011
@@ -15069,6 +15072,9 @@
   lat: 38.1083742
   lng: -85.762655
 7400 W W Manslick Rd, Louisville, KY: null
+7400 Winstead Dr, Louisville, KY:
+  lat: 38.1328579
+  lng: -85.8950217
 7500 Cane Run Rd near Mae St and Edna M Road, Louisville, KY:
   lat: 38.1441838
   lng: -85.896748
