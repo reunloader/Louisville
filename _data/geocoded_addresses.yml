@@ -2609,6 +2609,9 @@
 12600 Taylorsville Rd near Bittenberg Road, Louisville, KY:
   lat: 38.1871839
   lng: -85.5214147
+12600 Taylorsville Rd, Louisville, KY:
+  lat: 38.1871839
+  lng: -85.5214147
 12600 Valley Pine Dr, Louisville, KY:
   lat: 38.172095
   lng: -85.5388022
@@ -9728,6 +9731,9 @@
 ? 3900 7th St Rene Rd. Metro Security personnel found the child, and responding units
   from the 400 block of Baker were dispatched, Louisville, KY
 : null
+3900 Altair Ln, Louisville, KY:
+  lat: 38.1271771
+  lng: -85.6918601
 3900 Barks, Louisville, KY: null
 3900 Belltower Rd, Louisville, KY: null
 3900 Bishop Ln, Louisville, KY:
@@ -14889,6 +14895,7 @@
 7100 Cedar Springs, Louisville, KY:
   lat: 38.1436823
   lng: -85.5849157
+7100 Cessna Highway, Louisville, KY: null
 7100 Donard Park Ave, Louisville, KY:
   lat: 38.2030398
   lng: -85.6707763
