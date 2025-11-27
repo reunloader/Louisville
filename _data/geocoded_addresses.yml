@@ -1185,6 +1185,9 @@
   specifics about the patient's condition were not disclosed., Louisville, KY
 : null
 1000 South 28th Street in response, Louisville, KY: null
+1000 South 28th Street near Divinity Street, Louisville, KY:
+  lat: 38.2434873
+  lng: -85.799649
 1000 South 28th Street, Louisville, KY:
   lat: 38.2434873
   lng: -85.799649
@@ -3340,6 +3343,9 @@
 1400 Sils Ave, Louisville, KY:
   lat: 38.2226767
   lng: -85.6902433
+1400 South 26th Street near Congress St, Louisville, KY:
+  lat: 38.241277
+  lng: -85.7958157
 1400 South 3rd Street, Louisville, KY:
   lat: 38.2289234
   lng: -85.7602103
@@ -9512,6 +9518,9 @@
   lat: 38.2496687
   lng: -85.8109978
 3600 West Homeland, Louisville, KY: null
+3600 Wheeler Ave near Strader Street, Louisville, KY:
+  lat: 38.1942564
+  lng: -85.7886117
 3600 Wheeler Ave, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
@@ -10863,6 +10872,7 @@
 4020 Mapleton Avenue, Louisville, KY:
   lat: 38.1847673
   lng: -85.7796505
+4020 an unspecified street, Louisville, KY: null
 4100 Autumn Way, Louisville, KY:
   lat: 38.0735818
   lng: -85.8729266
@@ -16584,6 +16594,9 @@
   begin suppression efforts., Louisville, KY
 : null
 900 Frankfort Ave following reports of a fire. The flames were observed spreading, Louisville, KY: null
+900 Franklin St near S Wenzel St, Louisville, KY:
+  lat: 38.2520545
+  lng: -85.7341309
 900 Gagel Ave, Louisville, KY:
   lat: 38.1720593
   lng: -85.806028
