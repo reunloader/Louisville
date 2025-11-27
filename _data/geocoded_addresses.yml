@@ -571,6 +571,10 @@
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+? 100 West Broadway. Units from the 3rd division of the police department were involved
+  in responding to the scene. A sergeant was requested to the location, Louisville,
+  KY
+: null
 ? 100 West Collins Court earlier this evening. A 51-year-old female was experiencing
   a heart issue. Firefighters and paramedics were dispatched to provide immediate
   assistance. The situation was handled by the responding medical teams., Louisville,
@@ -6437,6 +6441,7 @@
 2300 Farnsley Rd, Louisville, KY:
   lat: 38.2024899
   lng: -85.8223948
+2300 Fonzie Road, Louisville, KY: null
 2300 Frankfort Ave, Louisville, KY:
   lat: 38.2531342
   lng: -85.7030766
@@ -14899,6 +14904,7 @@
   lng: -85.8905994
 7100 Green Spring Dr, Louisville, KY: null
 7100 Greengate Ct, Louisville, KY: null
+7100 Greenup Drive, Louisville, KY: null
 7100 I 64 East, Louisville, KY: null
 7100 I-64 East, Louisville, KY: null
 7100 I-64 West, Louisville, KY: null
@@ -15679,6 +15685,7 @@
 800 South Jackson. There were concerns about a possible unattended child, and authorities were dispatched, Louisville, KY:
   lat: 38.24185
   lng: -85.746268
+800 South Second Street, Louisville, KY: null
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
@@ -15963,6 +15970,9 @@
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
+8300 Delido Rd, Louisville, KY:
+  lat: 38.128285
+  lng: -85.654212
 8300 Lindsay Ct, Louisville, KY:
   lat: 38.2605244
   lng: -85.7054888
