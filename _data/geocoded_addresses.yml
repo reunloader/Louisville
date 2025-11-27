@@ -1,6 +1,10 @@
 0 Tway Way, Louisville, KY:
   lat: 38.2067552
   lng: -85.7632017
+00 Lindsay Ave, Louisville, KY:
+  lat: 38.2635452
+  lng: -85.6998797
+00 Wally and Court, Louisville, KY: null
 01 Cedar Springs Boulevard, Louisville, KY:
   lat: 38.1432222
   lng: -85.5848863
@@ -16600,6 +16604,8 @@
 900 Franklin St near S Wenzel St, Louisville, KY:
   lat: 38.2520545
   lng: -85.7341309
+900 Franklin St, Louisville, KY: null
+900 Franklin St. The alarm was specifically, Louisville, KY: null
 900 Gagel Ave, Louisville, KY:
   lat: 38.1720593
   lng: -85.806028
@@ -16681,6 +16687,9 @@
 900 Schiller Ct. The caller expressed concern that a subject was attempting, Louisville, KY:
   lat: 38.237836
   lng: -85.7325656
+900 South 28th Street, Louisville, KY:
+  lat: 38.244855
+  lng: -85.799212
 900 South 2nd Street, Louisville, KY:
   lat: 38.240765
   lng: -85.756042
