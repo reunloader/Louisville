@@ -2223,6 +2223,9 @@
   KY
 : null
 1200 Largetown Road, Louisville, KY: null
+1200 Lexington Rd, Louisville, KY:
+  lat: 38.249357
+  lng: -85.729037
 1200 Lillian Ave near Utah and Montana, Louisville, KY: null
 1200 Lillian Ave, Louisville, KY:
   lat: 38.2091684
@@ -7367,6 +7370,12 @@
   units arrived and found no visible smoke or flames. The residents were advised,
   Louisville, KY
 : null
+2800 Lime Kiln Ln, Louisville, KY:
+  lat: 38.292234
+  lng: -85.63223
+2800 Lime Kiln Ln. The patient, a 21-year-old male, became unconscious, Louisville, KY:
+  lat: 38.292234
+  lng: -85.63223
 2800 Magazine St, Louisville, KY:
   lat: 38.251978
   lng: -85.798005
@@ -8663,6 +8672,13 @@
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
 3200 South Hampton Rd., Louisville, KY: null
+? 3200 Stegner Ave following a report of a medical emergency. A 68-year-old female
+  had reportedly passed out, and emergency medical services were on scene, Louisville,
+  KY
+: null
+3200 Stegner Ave, Louisville, KY:
+  lat: 38.1802998
+  lng: -85.8495833
 ? 3200 Stratford Ave following reports of a trash fire. Neighbors were reportedly
   burning trash and leaves in the area. Upon arrival, fire units observed a four-story
   commercial building with no visible smoke or flames from the exterior. A secondary
@@ -12444,6 +12460,9 @@
 5100 Jeff Commerce Dr. Units from the 7th division were sent, Louisville, KY:
   lat: 38.1537856
   lng: -85.671884
+? 5100 Keegan Way who was experiencing symptoms of feeling faint. EMS arrived on the
+  scene shortly after the dispatch, Louisville, KY
+: null
 5100 Keegan Way, Louisville, KY:
   lat: 38.1728993
   lng: -85.5739001
@@ -16431,9 +16450,16 @@
 9000 Teak Dr, Louisville, KY:
   lat: 38.109217
   lng: -85.609447
+9000 Willowcreek Dr, Louisville, KY:
+  lat: 38.1196701
+  lng: -85.6974724
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
   lng: -85.81775
+9100 Angel Trumpet Dr, Louisville, KY:
+  lat: 38.3232443
+  lng: -85.5712666
+9100 Angel Trumpet Dr, indicating a smoke detector had sounded, Louisville, KY: null
 9100 Brandywyne Dr, Louisville, KY:
   lat: 38.163487
   lng: -85.588224
