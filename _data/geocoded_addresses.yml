@@ -3001,6 +3001,10 @@
   lat: 38.2325507
   lng: -85.7594371
 13000 Ash1, Louisville, KY: null
+13000 Bessell's Boulevard, Louisville, KY: null
+? 13000 Bessell's Boulevard. The alarm was triggered by cooking, and residents did
+  not have the necessary code, Louisville, KY
+: null
 13000 Dixie Hwy, Louisville, KY:
   lat: 38.0675868
   lng: -85.8858689
@@ -5196,6 +5200,8 @@
 200 East. The vehicles involved were a gray Buick and a blue Ford, and they were positioned, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 Eastbound near Bells Ln, Louisville, KY: null
+200 Eastbound, just before the Bells Ln exit. The vehicle, an SUV, was observed, Louisville, KY: null
 ? 200 Eastern Parkway where children were making repeated hang-up calls or activating
   a phone's emergency button. The children were reportedly using their father's phone
   while he was outside. Police units were dispatched, Louisville, KY
@@ -9817,6 +9823,10 @@
   lat: 38.131362
   lng: -85.6927312
 3800 Tuesday Way. Further investigation into the incident was conducted by responding units., Louisville, KY: null
+3800 W Market St in response, Louisville, KY: null
+3800 W Market St, Louisville, KY:
+  lat: 38.2611333
+  lng: -85.8120944
 ? 3800 W Southern Heights Ave due to a report of individuals refusing to leave a residence.
   Upon arrival and investigation, officers found no one present at the property and
   cleared the scene., Louisville, KY
@@ -11549,6 +11559,9 @@
 4400 Stone Wynde Dr, Louisville, KY:
   lat: 38.1204984
   lng: -85.8388508
+? 4400 Taylor Blvd following a report of a neighbor dispute. The caller indicated
+  that a neighbor was making threats, Louisville, KY
+: null
 4400 Taylor Blvd, Louisville, KY:
   lat: 38.175657
   lng: -85.782743
