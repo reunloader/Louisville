@@ -4267,6 +4267,13 @@
   lat: 38.2484393
   lng: -85.7666809
 1800 Adam18, Louisville, KY: null
+1800 Alfresco Pl, Louisville, KY:
+  lat: 38.2224596
+  lng: -85.7042875
+? 1800 Alfresco Pl. A Ford Ranger was struck by a white SUV, which then left the scene
+  without stopping. Police units responded, Louisville, KY
+: lat: 38.2224596
+  lng: -85.7042875
 ? 1800 Algonquin Parkway after a carbon monoxide detector was reported sounding. The
   alarm indicated a potential hazard within the residence, prompting a response to
   investigate the source and ensure resident safety., Louisville, KY
@@ -9703,7 +9710,13 @@
 3900 Rankin, Louisville, KY:
   lat: 38.199021
   lng: -85.760922
+3900 Shelbyville Rd near Roof Bar, Louisville, KY:
+  lat: 38.2527039
+  lng: -85.6547827
 3900 Shelbyville Rd, Louisville, KY:
+  lat: 38.2527039
+  lng: -85.6547827
+3900 Shelbyville Rd, near Roof Bar, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
 3900 Sherbrooke's Hill Rd, Louisville, KY: null
@@ -9769,6 +9782,7 @@
 ? 400 Adam and the 1300 block, provided assistance with traffic control as the vehicle
   was being removed from the roadway, Louisville, KY
 : null
+400 Adam and the 400 block of Baker, Louisville, KY: null
 400 Adam were involved in addressing the situation, Louisville, KY: null
 400 Adam were involved in addressing the situation., Louisville, KY: null
 400 Adam, Louisville, KY:
@@ -10761,6 +10775,7 @@
   lng: -85.819777
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
+4110 location, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
 4200 Bardstown Rd, Louisville, KY:
   lat: 38.1882665
@@ -11434,6 +11449,8 @@
 4600 Cliff Ave, near I 64 West. A third-party caller alerted authorities, Louisville, KY:
   lat: 38.1833486
   lng: -85.7762782
+4600 Commerce Crossing Strive near Corvine, Louisville, KY: null
+4600 Commerce Crossing Strive. Responding units investigated the activation and found the area, Louisville, KY: null
 4600 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -13382,6 +13399,7 @@
   lat: 38.2502401
   lng: -85.7231987
 600 a gas station, Louisville, KY: null
+600 and 600 block of, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation., Louisville, KY: null
 600 responded to the scene., Louisville, KY: null
