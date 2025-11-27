@@ -1659,6 +1659,7 @@
 1100 Logan St, Louisville, KY:
   lat: 38.2351031
   lng: -85.7398515
+1100 Logan St, possibly at a location identified as Propagators. Responding units were sent, Louisville, KY: null
 1100 Logan St., Louisville, KY:
   lat: 38.2351031
   lng: -85.7398515
@@ -3233,6 +3234,10 @@
   lng: -85.7202292
 1400 Nightingale Rd. The person, described as a shirtless white male with tattoos and blue jeans, appeared, Louisville, KY:
   lat: 38.2046618
+  lng: -85.7202292
+? 1400 Nightingale Rd. The reporting party indicated a vehicle would be waiting outside
+  the apartment. Responding units were dispatched, Louisville, KY
+: lat: 38.2046618
   lng: -85.7202292
 1400 North 4th Street, Louisville, KY:
   lat: 38.2580132
@@ -7343,6 +7348,10 @@
 2701 East Point Parkway, Louisville, KY: null
 27600 Smithfield Greene Ln, Louisville, KY: null
 27600 Smithfield Greene Ln. Responding units were en route, Louisville, KY: null
+2800 7th Street, Louisville, KY:
+  lat: 38.210865
+  lng: -85.786355
+2800 7th Street, with sounds of screaming and banging heard. Police units were dispatched, Louisville, KY: null
 2800 Brownsboro Rd, Louisville, KY:
   lat: 38.25991
   lng: -85.688803
@@ -13933,6 +13942,7 @@
 6600 Maple Ct, Louisville, KY:
   lat: 38.2585425
   lng: -85.6883385
+6600 Morning Star Way, moving towards Snyder and Stone Streets, Louisville, KY: null
 6600 Preston Hwy, Louisville, KY:
   lat: 38.156696
   lng: -85.696994
