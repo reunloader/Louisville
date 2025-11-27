@@ -634,6 +634,10 @@
 100 West, near Langland Pl. The fire was reported, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+100 Westport Ridgeway, Louisville, KY: null
+100 Wetstein Ave, Louisville, KY:
+  lat: 38.2256323
+  lng: -85.6819226
 100 Whiteoak Park Rd, Louisville, KY: null
 100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
@@ -7499,6 +7503,7 @@
 2900 Pomeroy Dr, Louisville, KY:
   lat: 38.199453
   lng: -85.635417
+2900 Quentin Full Court, Louisville, KY: null
 2900 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
@@ -7802,6 +7807,7 @@
 300 Kenilworth Rd. They were tasked with providing medical assistance, Louisville, KY:
   lat: 38.259748
   lng: -85.709145
+300 Left, Louisville, KY: null
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
   lng: -85.6333594
@@ -11949,6 +11955,9 @@
   and determined to be technical in nature., Louisville, KY
 : null
 500 Quails Run in response, Louisville, KY: null
+500 Quest Dr, Louisville, KY:
+  lat: 38.2524147
+  lng: -85.7720083
 ? 500 Quest Dr. Occupants had already evacuated eight individuals after smelling gas,
   which they suspected might have originated from a thermos. Fire units were dispatched,
   Louisville, KY
