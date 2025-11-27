@@ -2142,6 +2142,7 @@
 : null
 1200 Cypher Street. This incident had been ongoing, Louisville, KY: null
 1200 Cypress Pt STREET, Louisville, KY: null
+1200 DeOre Place, Louisville, KY: null
 1200 Dicknail Avenue, Louisville, KY: null
 ? 1200 Dicknail Avenue. The complainant alleged that her boyfriend assaulted her and
   caused injury by kicking her in the back. Police units, including those from the
@@ -6338,6 +6339,9 @@
 2200 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
+2200 South Preston, Louisville, KY:
+  lat: 38.215321
+  lng: -85.743914
 ? 2200 St James Ct. They were reportedly working with another unit at this address
   to address a call for service., Louisville, KY
 : lat: 38.2279252
@@ -10054,6 +10058,7 @@
 400 Charlie and 400 block of Adam, Louisville, KY: null
 400 Charlie and 400 block of Baker were on scene, Louisville, KY: null
 400 Charlie and 400 block of David, Louisville, KY: null
+400 Charlie and 400 block of Vicker, Louisville, KY: null
 400 Charlie and 400 block of, Louisville, KY: null
 400 Charlie and 6 David, Louisville, KY: null
 400 Charlie and 6 David., Louisville, KY: null
@@ -10513,6 +10518,7 @@
   lat: 38.2079291
   lng: -85.7741776
 400 Trinity Hills Ln, Louisville, KY: null
+400 Vicker, Louisville, KY: null
 400 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
@@ -17276,6 +17282,7 @@ Bridge Tracer Road and Crop St, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
 Brinson Dr and Highland Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
+Brosnan Street and Central Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Frankfort Ave, Louisville, KY: null
 Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
