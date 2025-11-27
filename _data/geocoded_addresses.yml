@@ -1965,6 +1965,12 @@
 11300 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
+11300 Sullivan Ct, Louisville, KY:
+  lat: 38.0983179
+  lng: -85.6556461
+11300 Sullivan Ct, near Sullivan Way, Louisville, KY:
+  lat: 38.0983179
+  lng: -85.6556461
 11300 Westport Rd, Louisville, KY:
   lat: 38.2988173
   lng: -85.54059
@@ -5719,6 +5725,8 @@
   lat: 38.2042665
   lng: -85.6765066
 2000 Greenhaven Dr, Louisville, KY: null
+2000 Greenhaven, Louisville, KY: null
+2000 Greenhaven, in the area of Greenbridge Way and Silos,, Louisville, KY: null
 2000 Heights Lane, Louisville, KY: null
 2000 Herr Ln, Louisville, KY:
   lat: 38.279767
@@ -5849,6 +5857,8 @@
 2000 Terril Ln, Louisville, KY:
   lat: 38.204566
   lng: -85.677962
+2000 That Was Full Of Iron due, Louisville, KY: null
+2000 That Was Full Of Iron, Louisville, KY: null
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
 ? 2000 Unity Pl after a residential alarm was activated. The location was noted as
   being associated with U of L fraternities. Responding officers were later cancelled
@@ -10027,6 +10037,7 @@
   lng: -85.5627268
 400 Charter, Louisville, KY: null
 400 Christian Village Cir, Louisville, KY: null
+400 Christian Village Cir, near Herrick Ln and Christian Village Ct,, Louisville, KY: null
 400 Christopher Place, Louisville, KY:
   lat: 38.1738615
   lng: -85.7693098
@@ -13297,6 +13308,9 @@
 600 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
+600 Evans St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
 600 Fern Crest Rd, Louisville, KY:
   lat: 38.1543846
   lng: -85.6118433
@@ -13562,6 +13576,9 @@
 600 division B1 and 726 were involved in addressing the situation., Louisville, KY: null
 600 responded to the scene., Louisville, KY: null
 600 responded, Louisville, KY: null
+600 the street, near St, Louisville, KY:
+  lat: 38.2492082
+  lng: -85.7632171
 6000 Bellevue Ave to look into the circumstances., Louisville, KY: null
 6000 Bellevue Ave, Louisville, KY:
   lat: 38.1964886
@@ -14970,6 +14987,7 @@
 7100 Train Station Way, Louisville, KY:
   lat: 38.0795787
   lng: -85.8955746
+7100 US Highway 42, Louisville, KY: null
 7100 West, Louisville, KY:
   lat: 38.2861839
   lng: -85.6197265

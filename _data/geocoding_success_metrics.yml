@@ -14255,4 +14255,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2025-11-27T12:58:55.376692'
+- timestamp: '2025-11-27T13:21:03.924016'
+  total_addresses: 7176
+  successful: 3426
+  failed: 3750
+  success_rate: 47.74
+  failure_rate: 52.26
+  failure_patterns:
+    Incomplete/vague address: 670
+    Contains location qualifiers (near/at): 1477
+    Intersection format: 567
+    Police phonetic codes: 2
+    Other/Unknown: 684
+    Contains extra sentences/context: 350
+  batch_success_rate: 40.0
+  batch_new_addresses: 10
+  batch_new_successes: 4
+last_updated: '2025-11-27T13:21:03.924127'
