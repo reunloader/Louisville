@@ -3793,6 +3793,9 @@
   lat: 38.2287209
   lng: -85.7148597
 1600 Eastward Cutoff Road, Louisville, KY: null
+1600 Ellwood Ave, Louisville, KY:
+  lat: 38.2367052
+  lng: -85.7213027
 ? 1600 Evanwood Dr to investigate a report of suspicious activity. This call prompted
   a police response to check on the situation., Louisville, KY
 : null
@@ -13370,6 +13373,9 @@
 600 South 29th Street, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
+600 South 29th Street. Specific details, Louisville, KY:
+  lat: 38.252119
+  lng: -85.7996
 600 South 2nd Street, Louisville, KY:
   lat: 38.24847
   lng: -85.754691
@@ -16290,6 +16296,9 @@
 900 Longfield Ave, Louisville, KY:
   lat: 38.1984115
   lng: -85.7749882
+900 Lydia St, Louisville, KY:
+  lat: 38.2262462
+  lng: -85.7409459
 900 Magazine St, Louisville, KY:
   lat: 38.2496514
   lng: -85.7763551
