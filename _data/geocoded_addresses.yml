@@ -11845,6 +11845,9 @@
 500 Clay Hill Ln. The specific reason, Louisville, KY:
   lat: 38.2262119
   lng: -85.5012993
+500 Club Ln, Louisville, KY:
+  lat: 38.1428833
+  lng: -85.7770499
 500 David and 12-59 responded to assess and manage the situation., Louisville, KY: null
 500 David and 12-59 responded, Louisville, KY: null
 500 David were dispatched to the scene., Louisville, KY: null
@@ -13376,6 +13379,7 @@
   lat: 38.1397231
   lng: -85.8923691
 6200 Global Dr, with a barge noted in front of the location, Louisville, KY: null
+6200 Hanson's Drive, Louisville, KY: null
 6200 Middlerose Cir, Louisville, KY:
   lat: 38.1030822
   lng: -85.8753813
@@ -13821,6 +13825,9 @@
 ? 6800 Dixie Hwy, specifically indicating an office hold-up. Initial dispatches were
   made, but the alarm was later determined, Louisville, KY
 : null
+6800 Feyhurst Dr, Louisville, KY:
+  lat: 38.1516109
+  lng: -85.8649235
 6800 Fordham Ln. Responding units arrived, Louisville, KY:
   lat: 38.1491641
   lng: -85.6195538
@@ -14945,6 +14952,7 @@
 7700 Bardstown Rd, Louisville, KY:
   lat: 38.1354405
   lng: -85.5803445
+7700 Brickview, Louisville, KY: null
 7700 Brookview Dr, Louisville, KY: null
 7700 Chelsea Gardens, Louisville, KY:
   lat: 38.1590824
