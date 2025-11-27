@@ -504,6 +504,9 @@
 100 Spring Meadow Ln, Louisville, KY:
   lat: 38.247384
   lng: -85.553056
+100 St, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 100 Stanley Ave, Louisville, KY:
   lat: 38.1891921
   lng: -85.7789464
@@ -8114,6 +8117,7 @@
 3000 Industrial Blvd, Louisville, KY:
   lat: 38.1544975
   lng: -85.7088219
+3000 Jefferson Green Dr, Louisville, KY: null
 3000 K long drive, Louisville, KY: null
 ? 3000 Kersel Road. Responding units arrived to investigate the alarm at Honey Brothers.
   The situation was assessed by responding personnel., Louisville, KY
