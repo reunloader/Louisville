@@ -214,6 +214,12 @@
 : null
 100 Hartwell Ct, an area near Terry Pl and Teresa Pl. Further details, Louisville, KY: null
 100 Hartwell Ct, suggesting a disruptive situation in an apartment complex. Police units were sent, Louisville, KY: null
+100 Highwood Pl, Louisville, KY:
+  lat: 38.2687913
+  lng: -85.7028155
+100 Highwood Pl, near Highwood Dr. Responders were dispatched, Louisville, KY:
+  lat: 38.2687913
+  lng: -85.7028155
 100 Huntington Ridge Dr, Louisville, KY: null
 100 I 64 East, Louisville, KY: null
 100 I-65 South, Louisville, KY: null
@@ -3130,6 +3136,9 @@
 1400 Browns Ln,, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
+1400 Cardinal Dr, Louisville, KY:
+  lat: 38.1958509
+  lng: -85.7218064
 1400 Catalpa St, Louisville, KY:
   lat: 38.2339946
   lng: -85.8022842
@@ -3749,6 +3758,9 @@
 1500 South11th Street, Louisville, KY: null
 1500 South15 Street, Louisville, KY: null
 1500 South15th Street, Louisville, KY: null
+1500 Southside Dr, Louisville, KY:
+  lat: 38.1536611
+  lng: -85.7652516
 ? 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
@@ -4763,6 +4775,7 @@
 1900 Lewiston, Louisville, KY:
   lat: 38.172611
   lng: -85.82968
+1900 Meadowcreek Dr, Louisville, KY: null
 1900 Muncie Ave and 1200 block of Muncie Ave, Louisville, KY: null
 ? 1900 Muncie Ave in response to a domestic disturbance call. The reporting party
   expressed concern that her ex-partner, who was speaking with her in her vehicle,
@@ -16662,6 +16675,7 @@
 900 Magazine St, Louisville, KY:
   lat: 38.2496514
   lng: -85.7763551
+900 Maintenance Office, Louisville, KY: null
 900 Mallard Creek Rd, Louisville, KY: null
 ? 900 N S English Station Rd due to a report of a chemical odor. The smell was described
   as toxic fumes, prompting occupants of a K&P roofing unit to evacuate. The location
