@@ -9515,6 +9515,9 @@
 3800 Frankfort Ave, Louisville, KY:
   lat: 38.252927
   lng: -85.656968
+3800 Freedom Way, Louisville, KY:
+  lat: 38.112769
+  lng: -85.691624
 3800 Garland Avenue 4:00 a, Louisville, KY: null
 3800 Garland Avenue 4:00 a.m., Louisville, KY: null
 3800 Grandview Ave, Louisville, KY:
@@ -12357,6 +12360,7 @@
   lat: 38.1744331
   lng: -85.6151359
 5100 Barshawn Road, Louisville, KY: null
+5100 Crescent Highway, Louisville, KY: null
 5100 Dixie Hwy, Louisville, KY:
   lat: 38.1681545
   lng: -85.8297235
