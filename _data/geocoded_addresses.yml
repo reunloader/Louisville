@@ -3230,6 +3230,12 @@
   Officers managed the situation to uphold the terms of the EPO., Louisville, KY
 : null
 1400 Avoco Ridge Drive. The purpose of the response was, Louisville, KY: null
+1400 Beech St, Louisville, KY:
+  lat: 38.2343146
+  lng: -85.8051463
+1400 Beech St. Responders were sent, Louisville, KY:
+  lat: 38.2343146
+  lng: -85.8051463
 ? 1400 Bland Street to investigate the situation. The initial report indicated the
   caller was screaming, prompting a swift response. Further details confirmed the
   presence of a weapon and the involvement of a brother., Louisville, KY
@@ -3596,6 +3602,7 @@
 1400 Woodland Ave, Louisville, KY:
   lat: 38.2342544
   lng: -85.8028824
+14000 Old Station Rd following the activation of a commercial fire alarm. Crews arrived, Louisville, KY: null
 14000 Old Station Rd, Louisville, KY:
   lat: 38.2460035
   lng: -85.4966726
@@ -4708,6 +4715,8 @@
 1800 Grand Ave. Simultaneously, another call came in, Louisville, KY:
   lat: 38.239902
   lng: -85.78658
+1800 Grantham Ct, Louisville, KY: null
+1800 Grantham Ct. A 79-year-old female had reportedly fallen within her garage. Responders were dispatched, Louisville, KY: null
 1800 Greenwood Ave, Louisville, KY:
   lat: 38.240824
   lng: -85.786221
@@ -7557,6 +7566,7 @@
   lng: -85.795525
 2700 Charleston Road, Louisville, KY: null
 2700 Chickasaw Ave following a report of individuals attempting, Louisville, KY: null
+2700 Chickasaw Ave this morning. The call was, Louisville, KY: null
 2700 Chickasaw Ave, Louisville, KY:
   lat: 38.259328
   lng: -85.698116
@@ -13476,6 +13486,9 @@
 5400 Ward Ave, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
+5400 Webster St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 5400 Winding Rd concerning an alleged rape involving a 15-year-old sister and her 20-year-old boyfriend, Louisville, KY: null
 5400 Winding Rd, Louisville, KY:
   lat: 38.150748
@@ -14372,8 +14385,19 @@
   lng: -85.8207933
 6200 St, Louisville, KY: null
 6200 St. St Bernard Ct, Louisville, KY: null
+6200 Valley College Dr, Louisville, KY:
+  lat: 38.112058
+  lng: -85.8438187
 6200 Valley College Dr, near Stone St,, Louisville, KY:
   lat: 38.112058
+  lng: -85.8438187
+6200 Valley College Dr. The nature of the medical emergency was related, Louisville, KY:
+  lat: 38.112058
+  lng: -85.8438187
+? 6200 Valley College Dr. This time, the incident involved a 68-year-old male who
+  had fallen from his bed and sustained bruising. Fire units were also sent, Louisville,
+  KY
+: lat: 38.112058
   lng: -85.8438187
 6200 Walnut Ridge, Louisville, KY: null
 ? 6200 Walnut Ridge. They were on the scene and available to assist. The incident
