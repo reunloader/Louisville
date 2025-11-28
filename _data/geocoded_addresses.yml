@@ -11225,6 +11225,9 @@
   lat: 38.2500156
   lng: -85.8194782
 4100 West Broadway, involving a male individual who was reportedly threatening others and appeared, Louisville, KY: null
+4100 Wheeler Ave, Louisville, KY:
+  lat: 38.183076
+  lng: -85.789051
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
@@ -15213,6 +15216,9 @@
   lng: -85.8493291
 700 Top Reston Street, Louisville, KY: null
 700 V Street, Louisville, KY: null
+700 W Evelyn Ave, Louisville, KY:
+  lat: 38.1965923
+  lng: -85.7712149
 700 W Jefferson St, specifically at the Judicial Center,, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
@@ -16879,6 +16885,7 @@
 900 Hang-up (Motel Six), Louisville, KY: null
 900 Hang-up**, Louisville, KY: null
 900 Hang-up, Louisville, KY: null
+900 Hang-up/Disturbance, Louisville, KY: null
 900 I 65 South, Louisville, KY: null
 900 I64 East near I 64 East, Louisville, KY:
   lat: 38.2622602
