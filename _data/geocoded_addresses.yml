@@ -5933,6 +5933,9 @@
 2000 Cherokee Pky, Louisville, KY:
   lat: 38.2345
   lng: -85.713684
+2000 Douglass Blvd, Louisville, KY:
+  lat: 38.2247267
+  lng: -85.6929625
 2000 Duncan Street, [Date] Evening, Louisville, KY: null
 2000 E W Lee St, Louisville, KY:
   lat: 38.2232049
@@ -8532,6 +8535,9 @@
 3000 Cedar Creek Rd, Louisville, KY:
   lat: 38.1225307
   lng: -85.5909606
+3000 Chamberlain Ln, Louisville, KY:
+  lat: 38.2983417
+  lng: -85.5413774
 3000 Chamberlain Ln, near North Winchester Acres. The patient was directed to a specific gate, Louisville, KY:
   lat: 38.2983417
   lng: -85.5413774
@@ -10268,6 +10274,7 @@
 400 Adams St, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
+400 Adams and 400 block of Baker, Louisville, KY: null
 400 Adams, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
@@ -10893,6 +10900,7 @@
 400 West Hill. Police units responded, Louisville, KY:
   lat: 38.225932
   lng: -85.762077
+400 West Hornsby Avenue, Louisville, KY: null
 400 West Kenny Avenue, Louisville, KY: null
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
@@ -12501,6 +12509,7 @@
   lng: -85.6171438
 500 Adams were involved in assessing the scene, Louisville, KY: null
 500 Adams were involved in assessing the scene., Louisville, KY: null
+500 Adams, 500 block of Baker, and 500 block of Farley, Louisville, KY: null
 500 Altagate Rd, Louisville, KY:
   lat: 38.2458103
   lng: -85.6862081
