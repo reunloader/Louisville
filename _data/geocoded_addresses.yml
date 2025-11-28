@@ -967,6 +967,9 @@
 1000 I 64 West, involving an individual who was reportedly refusing, Louisville, KY: null
 1000 I 65 South, Louisville, KY: null
 1000 I-64 West, Louisville, KY: null
+1000 Industrial Blvd, Louisville, KY:
+  lat: 38.1521183
+  lng: -85.7074006
 1000 Kaiser Ct, Louisville, KY:
   lat: 38.244535
   lng: -85.82644
@@ -2142,6 +2145,7 @@
   lat: 38.3025646
   lng: -85.5161777
 11500 Maple Grove, Louisville, KY: null
+11500 Tazewell, Louisville, KY: null
 11500 Willow Pond Dr, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
@@ -4866,6 +4870,9 @@
 18200 Bridgemore Ln, Louisville, KY:
   lat: 38.2500333
   lng: -85.4167314
+18800 Long Grove Way, Louisville, KY:
+  lat: 38.24512
+  lng: -85.41632
 19 South Fifth St, Louisville, KY: null
 1900 Baird St, Louisville, KY:
   lat: 38.2653168
@@ -10417,6 +10424,7 @@
 400 Baker and 400 block of Baker, Louisville, KY: null
 400 Baker and 400 block of Charlie, Louisville, KY: null
 400 Baker and 400 block of David, Louisville, KY: null
+400 Baker and Magnolia, Louisville, KY: null
 400 Baker and the 200 block of. Responding units worked, Louisville, KY: null
 400 Baker and the 400 block of Charlie assisted EMS and fire personnel at the scene, Louisville, KY:
   lat: 38.2570741
@@ -11185,6 +11193,9 @@
 4000 Serene Way, Louisville, KY:
   lat: 38.159645
   lng: -85.6881029
+4000 Shady Villa Dr, Louisville, KY:
+  lat: 38.162765
+  lng: -85.687973
 4000 Shelbyville Rd, Louisville, KY:
   lat: 38.2524981
   lng: -85.6528922
