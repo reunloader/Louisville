@@ -805,6 +805,9 @@
 1000 Carlisle Ave. Following the stop, officers issued a warning, Louisville, KY:
   lat: 38.1941078
   lng: -85.7772406
+1000 Caven Ave, Louisville, KY:
+  lat: 38.104178
+  lng: -85.6893341
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
@@ -16391,6 +16394,7 @@
 7600 St Andrews Church Rd, Louisville, KY:
   lat: 38.1574351
   lng: -85.8105138
+7600 St, Louisville, KY: null
 7700 3rd Street, Louisville, KY:
   lat: 38.13665
   lng: -85.786372
@@ -18684,6 +18688,7 @@ South Fifth Street and Cedar Road, Louisville, KY: null
 South First Street Parkway and Shane Dr, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
+South Hirshbaum Parkway and Hirshbaum Park Boulevard, Louisville, KY: null
 South Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 South Horsborn Parkway and Stony Brook Dr, Louisville, KY: null
 South Minden Lane and Shelbyville Road, Louisville, KY: null
