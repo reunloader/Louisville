@@ -7209,6 +7209,7 @@
 2500 Eastpoint Centre Dr. Responding units investigated the activation and found the premises, Louisville, KY:
   lat: 38.2802299
   lng: -85.5098075
+2500 Edward Nora Lincoln, Louisville, KY: null
 2500 Fennel Ct, Louisville, KY:
   lat: 38.1417376
   lng: -85.8568147
@@ -15941,6 +15942,9 @@
   with the individuals involved. It was determined that no police assistance was needed,
   and the officers concluded their visit., Louisville, KY
 : null
+7300 Manslick Rd, Louisville, KY:
+  lat: 38.1516
+  lng: -85.790681
 7300 Monsley's Circle, Louisville, KY: null
 7300 Monsley's Circle. Police units responded to investigate the incident., Louisville, KY: null
 7300 Monsley's Circle. Police units responded, Louisville, KY: null
@@ -16081,6 +16085,9 @@
 7500 Maria Ave. The vehicle was identified as a taxi., Louisville, KY:
   lat: 38.2832
   lng: -85.614435
+7500 Merlyn Cir, Louisville, KY:
+  lat: 38.144097
+  lng: -85.789662
 7500 Nottoway Cir, Louisville, KY:
   lat: 38.1600021
   lng: -85.8075365
@@ -16750,6 +16757,12 @@
 8000 Glimmer Way, Louisville, KY:
   lat: 38.1326257
   lng: -85.7787905
+8000 Grand Ridge Ct, Louisville, KY:
+  lat: 38.1437881
+  lng: -85.7969048
+8000 Grand Ridge Ct. Following the stop, the situation was confirmed, Louisville, KY:
+  lat: 38.1437881
+  lng: -85.7969048
 8000 Heights Dr, Louisville, KY:
   lat: 38.1303796
   lng: -85.5939161
