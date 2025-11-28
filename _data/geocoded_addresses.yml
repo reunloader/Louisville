@@ -3493,6 +3493,10 @@
 ? 1400 Southbrook Street. The tenant allegedly possessed video evidence of the incident.
   Responding units were dispatched, Louisville, KY
 : null
+? 1400 Spirit Lane. The situation at the residence became more concerning when the
+  caller mentioned the presence of firearms and individuals who were intoxicated.
+  Units from the 4th Division were dispatched, Louisville, KY
+: null
 1400 St, Louisville, KY:
   lat: 38.2289347
   lng: -85.760211
@@ -6231,6 +6235,9 @@
   lat: 38.1804413
   lng: -85.646218
 2100 Heflane. Fire units were also dispatched, Louisville, KY: null
+2100 Highland Ave, Louisville, KY:
+  lat: 38.241041
+  lng: -85.722704
 2100 I 64 West to conduct a welfare check on an individual., Louisville, KY: null
 2100 I 64 West, Louisville, KY: null
 2100 I-64 West, Louisville, KY: null
@@ -14042,6 +14049,9 @@
 6000 Halma Dr, Louisville, KY:
   lat: 38.1111216
   lng: -85.8730401
+6000 Halma Dr. They were responding, Louisville, KY:
+  lat: 38.1111216
+  lng: -85.8730401
 6000 Jeanine Dr, Louisville, KY:
   lat: 38.162622
   lng: -85.6884649
@@ -18067,6 +18077,7 @@ Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
+St Rene Rd and Spirit Lane, Louisville, KY: null
 Stallings Ave and Cliggs Avenue, Louisville, KY: null
 Stanton Blvd and Euclid Ave, Louisville, KY: null
 Stone School Rd and Kilner Drive, Louisville, KY: null
