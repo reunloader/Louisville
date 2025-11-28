@@ -9338,6 +9338,9 @@
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
   lng: -85.8114477
+3500 Capri Dr, Louisville, KY:
+  lat: 38.2002016
+  lng: -85.6769521
 ? 3500 Capri Dr, between Gladden Dr and Elba Dr, for a medical call concerning a 40-year-old
   male experiencing significant nosebleeds., Louisville, KY
 : null
@@ -9731,6 +9734,7 @@
   lat: 38.2146706
   lng: -85.7748283
 37 Tevis Dr, Louisville, KY: null
+3700 7th St Rene Rd, Louisville, KY: null
 3700 Bedford Ln, Louisville, KY: null
 3700 Bedford Ln, situated between Hampshire and Milford, Louisville, KY: null
 3700 Chalk and Cedar Crest Ln, Louisville, KY: null
