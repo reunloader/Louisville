@@ -12532,6 +12532,9 @@
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
+500 North35th Street, Louisville, KY:
+  lat: 38.2691315
+  lng: -85.805995
 500 Nottingham Pky, Louisville, KY: null
 500 Park Ave and concluded their assessment, Louisville, KY: null
 500 Park Ave, Louisville, KY:
@@ -16374,6 +16377,9 @@
 8200 Laurel Grove Ct, Louisville, KY:
   lat: 38.129913
   lng: -85.6279509
+8200 Pennsylvania Run Rd, Louisville, KY:
+  lat: 38.1301559
+  lng: -85.632028
 8200 Preston Hwy, Louisville, KY:
   lat: 38.1332639
   lng: -85.6846969
