@@ -316,6 +316,9 @@
   difficulties, with EMS expected, Louisville, KY
 : lat: 38.2624675
   lng: -85.808437
+100 North 38th Street, Louisville, KY:
+  lat: 38.2634695
+  lng: -85.8118587
 100 North 41st Street for a medical emergency involving a 66-year-old male who might be having a stroke., Louisville, KY: null
 100 North 41st Street, Louisville, KY:
   lat: 38.264633
@@ -6886,6 +6889,9 @@
 2400 Griffiths Ave., Louisville, KY:
   lat: 38.2652399
   lng: -85.7883019
+2400 High Pine Dr, Louisville, KY:
+  lat: 38.1680939
+  lng: -85.803738
 2400 I 64 West, Louisville, KY: null
 ? 2400 I-65 South regarding a caller's request to review security camera footage.
   The caller alleged that a dog had been taken from her apartment., Louisville, KY
@@ -10261,6 +10267,7 @@
 400 Beaver St. Additional units were also involved in the response, Louisville, KY: null
 400 Becker, 400 block of Adam Becker, and 400 block of Charlie were involved in monitoring the situation, Louisville, KY: null
 400 Becker, 400 block of Adam Becker, and 400 block of Charlie were involved in monitoring the situation., Louisville, KY: null
+400 Beggar and 400 block of Item, Louisville, KY: null
 400 Bermuda Ct, Louisville, KY: null
 400 Bowen Ave, Louisville, KY:
   lat: 38.052096
