@@ -3301,6 +3301,9 @@
 1400 Catalpa St, Louisville, KY:
   lat: 38.2339946
   lng: -85.8022842
+1400 Catalpa St. Further details, Louisville, KY:
+  lat: 38.2339946
+  lng: -85.8022842
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -3863,6 +3866,8 @@
 1500 Mellwood Ave, Louisville, KY:
   lat: 38.255527
   lng: -85.722051
+1500 N S English Station Rd near Berrytown Rd and Hiawatha, Louisville, KY: null
+1500 N S English Station Rd, at the intersection of Berrytown Rd and Hiawatha,, Louisville, KY: null
 1500 Norton's Whistle, Louisville, KY: null
 1500 Norton's Whistle. This call appears, Louisville, KY: null
 1500 Old Dixie Hwy, Louisville, KY:
@@ -12070,6 +12075,12 @@
   worry about potential vehicle break-ins in the area. Police units were dispatched,
   Louisville, KY
 : null
+4400 S Preston St, Louisville, KY:
+  lat: 38.2144909
+  lng: -85.7430152
+4400 S Preston St. A caretaker reported that a son had assaulted their boyfriend and was refusing, Louisville, KY:
+  lat: 38.2144909
+  lng: -85.7430152
 4400 Shannon-Villa Dr, Louisville, KY: null
 4400 South 20th Street, Louisville, KY:
   lat: 38.2574715
@@ -14136,6 +14147,14 @@
 600 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+600 Douglas Park near Badger Ave, Louisville, KY:
+  lat: 38.1784089
+  lng: -85.7605676
+? 600 Douglas Park, near Badger Ave. A two-year-old child had accidentally locked
+  themselves inside the residence. Fortunately, the child was not in distress, and
+  responders were able, Louisville, KY
+: lat: 38.1784089
+  lng: -85.7605676
 600 Dr, Louisville, KY: null
 600 Dumesnil St, Louisville, KY:
   lat: 38.2357119
