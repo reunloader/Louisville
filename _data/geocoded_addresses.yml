@@ -1194,6 +1194,9 @@
 1000 S Shelby St, Louisville, KY:
   lat: 38.236829
   lng: -85.740971
+1000 Sale Ave, Louisville, KY:
+  lat: 38.1976121
+  lng: -85.7771407
 1000 South 15th Street, Louisville, KY:
   lat: 38.241236
   lng: -85.777725
@@ -1900,6 +1903,7 @@
 1100 West Broadway, near South 11th Street,, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
+1100 block of [Location Unspecified], Louisville, KY: null
 1100 block, Louisville, KY: null
 11000 Brooksong Ct, Louisville, KY:
   lat: 38.2942719
@@ -4547,6 +4551,9 @@
 1800 Carl Ct, Louisville, KY:
   lat: 38.19116
   lng: -85.802221
+1800 Clinton Pl near Dixie Hwy, Louisville, KY:
+  lat: 38.0969101
+  lng: -85.8731567
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent to the scene to assist with the situation.
   The fire was quickly brought under control., Louisville, KY
@@ -5328,6 +5335,7 @@
 : null
 200 I 64 East, Louisville, KY: null
 200 Kentucky280-735, Louisville, KY: null
+200 Larchmont Boulevard, Louisville, KY: null
 200 Linden Ln, Louisville, KY:
   lat: 38.257169
   lng: -85.694641
