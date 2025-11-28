@@ -959,6 +959,10 @@
   lat: 38.2484525
   lng: -85.7680848
 1000 Margetown Road, Louisville, KY: null
+1000 Millers Ln following a report of a male found hanging from a tree. Police and EMS were en route, Louisville, KY: null
+1000 Millers Ln, Louisville, KY:
+  lat: 38.215576
+  lng: -85.8070611
 1000 Milton St, Louisville, KY:
   lat: 38.224234
   lng: -85.7397443
@@ -2108,6 +2112,10 @@
 11700 Pond Creek Dr, Louisville, KY:
   lat: 38.080013
   lng: -85.864372
+11700 River Beauty Loop under circumstances described as suspicious. Responders were dispatched, Louisville, KY: null
+11700 River Beauty Loop, Louisville, KY:
+  lat: 38.3324934
+  lng: -85.5673749
 11700 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -15787,6 +15795,11 @@
   lng: -85.8431944
 7800 Dixie Hwy. Information, Louisville, KY:
   lat: 38.1381228
+  lng: -85.8431944
+? 7800 Dixie Hwy. The individual was described as carrying a large double bag and
+  exhibiting erratic behavior, potentially indicating impairment. Concerns were raised,
+  Louisville, KY
+: lat: 38.1381228
   lng: -85.8431944
 7800 Dixie Hwy. The reason, Louisville, KY:
   lat: 38.1381228
