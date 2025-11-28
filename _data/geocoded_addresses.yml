@@ -4088,6 +4088,9 @@
 1600 North Ln, Louisville, KY:
   lat: 38.2600634
   lng: -85.6413013
+1600 North Ln. Responding units were dispatched, Louisville, KY:
+  lat: 38.2600634
+  lng: -85.6413013
 ? 1600 North Ln. The mail carrier had not observed any mail being collected, and the
   vehicles at the residence had not moved, prompting the concern., Louisville, KY
 : null
@@ -10647,6 +10650,7 @@
 400 Kensington Ct, Louisville, KY:
   lat: 38.225144
   lng: -85.762215
+400 Knock Shower Place. However, responding units were able, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
 400 Landis Lakes Ct, Louisville, KY:
   lat: 38.2348065
@@ -15374,6 +15378,9 @@
 700 South45th Street due, Louisville, KY: null
 700 South45th Street, Louisville, KY: null
 700 Southbrook Street, Louisville, KY: null
+? 700 Southbrook Street. The alarm specifically indicated a glass break on the upstairs
+  level of the business. Responding units were dispatched, Louisville, KY
+: null
 ? 700 Southbrook Street. The call was for a 74-year-old male who was experiencing
   vomiting. While police were initially requested due to concerns about alcohol consumption,
   their presence was ultimately not needed as EMS was already attending to the patient.,
