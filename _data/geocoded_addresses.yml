@@ -10571,6 +10571,9 @@
 : null
 400 I64 West, Louisville, KY: null
 400 I65 South, Louisville, KY: null
+400 Iroquois Gardens Dr, Louisville, KY:
+  lat: 38.1545776
+  lng: -85.7788678
 400 Jackson Street 4:00 a, Louisville, KY: null
 400 Jackson Street 4:00 a.m., Louisville, KY: null
 ? 400 Jackson Street during the early morning hours. A 52-year-old male was experiencing
@@ -10644,6 +10647,9 @@
   lat: 38.2517615
   lng: -85.6932303
 400 North S S Hite Ave, Louisville, KY: null
+400 Oxy Rd, Louisville, KY:
+  lat: 38.2209779
+  lng: -85.8280463
 ? 400 Regency Quarter following reports of a vehicle striking a building. A white
   Honda Pilot was involved in the incident, impacting the building's patio area. Fire
   and police units responded to assess the scene and manage the situation., Louisville,
@@ -13738,6 +13744,7 @@
 600 Carpenter Dr, with a motion sensor triggering the alert. Responding units were dispatched, Louisville, KY: null
 600 Charlie and 600 block of Baker responded to the call., Louisville, KY: null
 600 Charlie and 600 block of Baker responded, Louisville, KY: null
+600 Charlie and 700 block of Adam, Louisville, KY: null
 600 Charlie and 700 block of Baker, Louisville, KY: null
 600 Charlie was dispatched to investigate the activation., Louisville, KY: null
 600 Charlie was dispatched, Louisville, KY: null
@@ -14854,6 +14861,9 @@
 ? 700 Adam, 720, 702, and 2234. The suspect, who may reside with the victim, was described
   as possibly wearing dark clothing., Louisville, KY
 : null
+700 Adam, Louisville, KY:
+  lat: 38.1049397
+  lng: -85.8430902
 700 Adams St, Louisville, KY:
   lat: 38.2579958
   lng: -85.7255089
