@@ -600,6 +600,13 @@
 100 W Kentucky St, Louisville, KY:
   lat: 38.238326
   lng: -85.754831
+100 W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
+? 100 W Liberty St. A 36-year-old male had reportedly experienced a single episode
+  and lost consciousness. EMS was already present and attending, Louisville, KY
+: lat: 38.2534676
+  lng: -85.7663705
 100 W Market St, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
@@ -1933,6 +1940,9 @@
 1100 South 4th Street. Responding officers checked the premises, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
+1100 South 4th Street. The alarm appeared, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South 4th Street. The alarm was actively sounding when units arrived on scene., Louisville, KY: null
 1100 South 4th Street. The alarm was actively sounding when units arrived, Louisville, KY:
   lat: 38.237298
@@ -3257,6 +3267,9 @@
   Officers managed the situation to uphold the terms of the EPO., Louisville, KY
 : null
 1400 Avoco Ridge Drive. The purpose of the response was, Louisville, KY: null
+1400 Bardstown Rd, Louisville, KY:
+  lat: 38.232971
+  lng: -85.711276
 1400 Beech St, Louisville, KY:
   lat: 38.2343146
   lng: -85.8051463
@@ -4853,6 +4866,12 @@
   lng: -85.7985448
 ? 1800 South 24th Street. The resident reported that a smoke detector in the basement
   was sounding continuously, even, Louisville, KY
+: lat: 38.2258261
+  lng: -85.7985448
+? 1800 South 24th Street. Upon arrival, it was determined that the smoke detector
+  in the basement was sounding, even after battery changes. No smoke, flames, or gas
+  odors were detected. The resident mentioned experiencing a headache, though its
+  connection, Louisville, KY
 : lat: 38.2258261
   lng: -85.7985448
 1800 South 2nd Street, Evening, Louisville, KY: null
