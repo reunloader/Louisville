@@ -240,6 +240,9 @@
 100 Indian Legends Dr. Responding units were assigned, Louisville, KY:
   lat: 38.294999
   lng: -85.5519612
+100 Lawson Ln, Louisville, KY:
+  lat: 38.1730831
+  lng: -85.7934142
 100 Lila Ave, Louisville, KY:
   lat: 38.137068
   lng: -85.8510722
@@ -936,6 +939,9 @@
   lat: 38.1072977
   lng: -85.6606492
 1000 Greten Ln, Louisville, KY: null
+1000 Hamilton Ave, Louisville, KY:
+  lat: 38.2466866
+  lng: -85.7322646
 1000 I 64 East, Louisville, KY: null
 1000 I 64 West, Louisville, KY: null
 ? 1000 I 64 West, involving an individual who was reportedly refusing to comply with
@@ -1312,6 +1318,9 @@
 ? 1000 South Dr Dr. The caller stated that threats were made against the petitioner
   when they entered the location., Louisville, KY
 : null
+1000 South Hancock, Louisville, KY:
+  lat: 38.237243
+  lng: -85.745008
 1000 South Jacksono, Louisville, KY: null
 1000 South Preston, Louisville, KY:
   lat: 38.237651
@@ -5108,6 +5117,10 @@
 200 Bassett Ave., Louisville, KY:
   lat: 38.2391565
   lng: -85.7113038
+200 Beaver St due, Louisville, KY: null
+200 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 200 Berkman Edge Lane, Louisville, KY: null
 200 Berkman Edge Lane. The outcome of this alert was not specified in the reports., Louisville, KY: null
 200 Billtown Rd, Louisville, KY:
@@ -10365,6 +10378,10 @@
   lat: 38.205089
   lng: -85.765734
 400 Central and 400 block of Adam, Louisville, KY: null
+400 Charles St and 400 block of Beaver St, Louisville, KY: null
+? 400 Charles St and the 400 block of Beaver St. The caller described someone under
+  a vehicle with a flashlight, which was similar, Louisville, KY
+: null
 400 Charlestown Ct, Louisville, KY: null
 ? 400 Charlie Vettiner Park Rd and the 400 block of Baker Aly STREET to investigate
   and manage the unfolding situation., Louisville, KY
@@ -15579,6 +15596,9 @@
   lat: 38.2861839
   lng: -85.6197265
 7100 an unspecified street, Louisville, KY: null
+7200 Alameter Ct, Louisville, KY:
+  lat: 38.1500467
+  lng: -85.8296634
 7200 Apple Mill Dr, Louisville, KY:
   lat: 38.1357462
   lng: -85.6281739
