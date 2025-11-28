@@ -3511,6 +3511,9 @@
 1400 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+1400 Sale Ave, Louisville, KY:
+  lat: 38.1974302
+  lng: -85.7867011
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -3620,6 +3623,7 @@
 1400 Tucker Station Rd, Louisville, KY:
   lat: 38.2211
   lng: -85.5265157
+1400 Tulpa Street, Louisville, KY: null
 1400 W Jefferson St, Louisville, KY: null
 1400 West East Burnett near Clarks Ln, Louisville, KY:
   lat: 38.2164443
@@ -5536,6 +5540,7 @@
   unknown. EMS was en route, Louisville, KY
 : null
 200 I 64 East, Louisville, KY: null
+200 I-200 Westbound, Louisville, KY: null
 200 Kentucky280-735, Louisville, KY: null
 200 Larchmont Boulevard, Louisville, KY: null
 200 Level Road due, Louisville, KY: null
@@ -17500,6 +17505,9 @@
   lat: 38.2622602
   lng: -85.7765678
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
+900 Iola Rd, Louisville, KY:
+  lat: 38.242236
+  lng: -85.657594
 900 Lansdowne Ave, Louisville, KY:
   lat: 38.2152515
   lng: -85.7385711
@@ -18379,9 +18387,11 @@ Columbia St and Rowan St, Louisville, KY: null
 Commonwealth Dr and Blankenbaker Pky, Louisville, KY: null
 Cowling Ave and Stratton Ave, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
+Cresig Ram Road and Norbourne Blvd, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
 Crestline Rd and Justan Ave, Louisville, KY: null
 Crestwood Ave and Frankfort Ave, Louisville, KY: null
+Creswell Warren Avenue and Cliff Ave, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crittenden Dr and Park Blvd, Louisville, KY: null
 Crop St Red Fern Rd and Rookwood Ave, Louisville, KY: null
@@ -18634,6 +18644,7 @@ South Minden Lane and Shelbyville Road, Louisville, KY: null
 South Park Rd and Blue Lick Rd, Louisville, KY: null
 South Second Street and Ellington Ave, Louisville, KY: null
 Southbrook Street and East Liberty Street, Louisville, KY: null
+Southern Ave and Woodland Ave, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
 Spring Dr and Rock Bay Dr, Louisville, KY: null
