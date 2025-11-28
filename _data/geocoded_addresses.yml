@@ -1445,6 +1445,7 @@
 10000 Vista Springs Way, Louisville, KY:
   lat: 38.0969181
   lng: -85.5682201
+10000 Water Mark Drive, Louisville, KY: null
 ? 10000 Wingfield Rd. Occupants experienced burning eyes but declined medical attention
   and were advised to leave the building., Louisville, KY
 : null
@@ -5982,6 +5983,7 @@
   lat: 38.154705
   lng: -85.7254323
 2000 Ford E-450, Louisville, KY: null
+2000 Franciscan Cir, Louisville, KY: null
 2000 Frankfort Ave, Louisville, KY:
   lat: 38.2547384
   lng: -85.7105457
@@ -10120,6 +10122,9 @@
 ? 3900 7th St Rene Rd. Metro Security personnel found the child, and responding units
   from the 400 block of Baker were dispatched, Louisville, KY
 : null
+3900 Acoma near Bridlewood Dr, Louisville, KY:
+  lat: 38.1464033
+  lng: -85.648873
 3900 Altair Ln, Louisville, KY:
   lat: 38.1271771
   lng: -85.6918601
@@ -12810,6 +12815,9 @@
 500 South 1st Street, Louisville, KY:
   lat: 38.250481
   lng: -85.752648
+500 South 35th Street near Rowland Ave, Louisville, KY:
+  lat: 38.255626
+  lng: -85.809123
 500 South 3rd Street, Louisville, KY:
   lat: 38.249733
   lng: -85.756157
@@ -14400,6 +14408,7 @@
 6300 Mercury Dr, Louisville, KY:
   lat: 38.1577325
   lng: -85.6091015
+6300 Mid-Mint Spring Branch Rd, Louisville, KY: null
 6300 Milner Rd, Louisville, KY:
   lat: 38.1621073
   lng: -85.8353823
