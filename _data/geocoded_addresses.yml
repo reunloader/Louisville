@@ -952,6 +952,12 @@
 1000 Hamilton Ave, Louisville, KY:
   lat: 38.2466866
   lng: -85.7322646
+1000 Hurstbourne Ln, Louisville, KY:
+  lat: 38.1619949
+  lng: -85.6246087
+1000 Hurstbourne Ln. Responding units were dispatched, Louisville, KY:
+  lat: 38.1619949
+  lng: -85.6246087
 1000 I 64 East, Louisville, KY: null
 1000 I 64 West, Louisville, KY: null
 ? 1000 I 64 West, involving an individual who was reportedly refusing to comply with
@@ -10631,6 +10637,7 @@
   lat: 38.249878
   lng: -85.74667
 400 East Shepherd Street, Louisville, KY: null
+400 East W Chestnut St, Louisville, KY: null
 ? 400 East W Kentucky St due to complaints of chest pain and a cough. Responders were
   back in service shortly after 2:17 p.m., Louisville, KY
 : null
@@ -11510,6 +11517,9 @@
   lng: -85.6817999
 4200 Menene Drive, Louisville, KY: null
 4200 Morgan Jaymes Dr, Louisville, KY: null
+4200 Norbrook Dr, Louisville, KY:
+  lat: 38.1829075
+  lng: -85.6422525
 4200 Northwestern Pky, Louisville, KY:
   lat: 38.273645
   lng: -85.815048
@@ -18190,6 +18200,7 @@ Hazel St and South Second Street, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
 Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
+Herman St and Glendora Ave, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
 Hikes Ln and Breckenridge Ln, Louisville, KY:
