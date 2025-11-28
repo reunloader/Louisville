@@ -9025,6 +9025,9 @@
   lat: 38.2500716
   lng: -85.6917161
 3200 Northwestern Avenue, Louisville, KY: null
+3200 Patricia Dr, Louisville, KY:
+  lat: 38.188866
+  lng: -85.8462836
 3200 Patricia Drive 4:00 a, Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
 3200 Poplar Level, Louisville, KY:
@@ -10677,6 +10680,9 @@
 400 South 1st Street., Louisville, KY:
   lat: 38.2522941
   lng: -85.7525422
+400 South 20th Street, Louisville, KY:
+  lat: 38.256072
+  lng: -85.784483
 400 South 27th Street, Louisville, KY:
   lat: 38.256603
   lng: -85.795448
@@ -11699,6 +11705,9 @@
 4400 Newport Rd, Louisville, KY:
   lat: 38.1781854
   lng: -85.6404616
+4400 North 24th Street, Louisville, KY:
+  lat: 38.2665501
+  lng: -85.7872972
 4400 Outer Loop, Louisville, KY:
   lat: 38.1380709
   lng: -85.6792728
@@ -18124,6 +18133,7 @@ Taylor Springs Dr and Taylorsville Rd, Louisville, KY: null
 Taylor Springs Dr and Weller Ave, Louisville, KY: null
 Taylor Springs Dr and Willer Avenue, Louisville, KY: null
 Taylor Zero Road and Park Ave, Louisville, KY: null
+Taylorsville Lake Rd and Routt Rd, Louisville, KY: null
 Taylorsville Rd and Peel Street, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
 Terry Rd and Murray Ln, Louisville, KY: null
