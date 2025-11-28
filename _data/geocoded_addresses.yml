@@ -9624,6 +9624,7 @@
 3500 Capri Dr, Louisville, KY:
   lat: 38.2002016
   lng: -85.6769521
+3500 Capri Dr, attending, Louisville, KY: null
 ? 3500 Capri Dr, between Gladden Dr and Elba Dr, for a medical call concerning a 40-year-old
   male experiencing significant nosebleeds., Louisville, KY
 : null
@@ -16082,6 +16083,9 @@
 7200 Tangelo Dr near Disparque Way, Louisville, KY:
   lat: 38.1470556
   lng: -85.626619
+7200 Varble Ave, Louisville, KY:
+  lat: 38.24953
+  lng: -85.8297252
 7200 W, Louisville, KY:
   lat: 38.0804653
   lng: -85.8955132
@@ -18621,6 +18625,7 @@ Poplar Level Rd and Eastern Parkway, Louisville, KY: null
 Poplar Level Rd and Heather Heath Ln, Louisville, KY: null
 Poplar Level Rd and Hess Ln, Louisville, KY: null
 Poplar Level Rd and Quail Hollow Rd, Louisville, KY: null
+Poplar Level Rd and Thruston Ave, Louisville, KY: null
 Poplovo Road and Taylor Ave, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
