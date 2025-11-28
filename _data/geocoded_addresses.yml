@@ -8938,6 +8938,9 @@
 3100 Cartledge Ct, Louisville, KY:
   lat: 38.1379611
   lng: -85.7872762
+3100 Commander Dr, Louisville, KY:
+  lat: 38.2184514
+  lng: -85.6561132
 ? 3100 Dalebrook Avenue to assist a 42-year-old female experiencing significant chest
   pain, shortness of breath, and abdominal discomfort. Due to the severity of her
   symptoms, a higher level of medical response was initiated to ensure the patient
@@ -9388,6 +9391,9 @@
   lat: 38.2009951
   lng: -85.7342881
 3300 Prodigy Place, Louisville, KY: null
+3300 Renwood Blvd, Louisville, KY:
+  lat: 38.1563588
+  lng: -85.8166391
 3300 Schneiter Ave, Louisville, KY:
   lat: 38.201681
   lng: -85.78528
@@ -18137,6 +18143,7 @@
 : lat: 38.1140967
   lng: -85.8526359
 9800 Somerford Rd, Louisville, KY: null
+9800 Vukra Drive, Louisville, KY: null
 9800 Williamsborough Ln, Louisville, KY:
   lat: 38.156523
   lng: -85.5878417
