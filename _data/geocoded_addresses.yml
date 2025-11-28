@@ -5175,6 +5175,8 @@
   zone. This placement can impede access, Louisville, KY
 : lat: 38.1265148
   lng: -85.6664806
+200 Charlie and 200 block of David, Louisville, KY: null
+200 Charlie, 200 block of David, and 200 block of Baker, Louisville, KY: null
 200 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -15010,6 +15012,10 @@
   lat: 38.2579958
   lng: -85.7255089
 700 Adams St. Responding officers assessed the situation and resolved it without any further incidents., Louisville, KY: null
+700 Adams and 700 block of Baker, Louisville, KY: null
+700 Adams, Louisville, KY:
+  lat: 38.2592106
+  lng: -85.7264871
 700 Algonquin Pky, Louisville, KY:
   lat: 38.2113098
   lng: -85.7705003
@@ -17386,6 +17392,9 @@
   Louisville, KY
 : null
 900 where the line was answered and then abruptly disconnected. Responding units were unable, Louisville, KY: null
+9000 Beulah Church, Louisville, KY:
+  lat: 38.147254
+  lng: -85.595159
 9000 Dorrance Dr, Louisville, KY:
   lat: 38.1246572
   lng: -85.8596047
