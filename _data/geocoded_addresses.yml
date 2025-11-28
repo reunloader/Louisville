@@ -1946,6 +1946,7 @@
 1100 South Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
+1100 South Slater, Louisville, KY: null
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
 1100 South4th Street, Louisville, KY: null
@@ -8005,6 +8006,9 @@
   following an argument related, Louisville, KY
 : lat: 38.266613
   lng: -85.6580484
+2900 Brownsboro Rd, Louisville, KY:
+  lat: 38.2598544
+  lng: -85.6878487
 2900 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
@@ -11807,6 +11811,9 @@
 4400 Cane Run Rd, Louisville, KY:
   lat: 38.1981991
   lng: -85.8396306
+4400 Churchman Ave, Louisville, KY:
+  lat: 38.1788126
+  lng: -85.7925356
 ? 4400 Cloverleaf Drive. A 74-year-old female was experiencing symptoms that suggested
   a possible stroke. Paramedics provided immediate care at the scene. The patient
   was then transported to the hospital for further evaluation and treatment., Louisville,
@@ -14248,6 +14255,9 @@
   lat: 38.2182659
   lng: -85.7774103
 600 South73, Louisville, KY: null
+600 Southern Pky, Louisville, KY:
+  lat: 38.1836068
+  lng: -85.7677003
 600 Sparrow Cir, Louisville, KY:
   lat: 38.1133627
   lng: -85.7605488
@@ -16238,6 +16248,9 @@
 7800 Appleview Ln, Louisville, KY:
   lat: 38.133612
   lng: -85.61895
+7800 Beulah Church Rd, Louisville, KY:
+  lat: 38.1352487
+  lng: -85.6137499
 7800 Dixie Hwy, Louisville, KY:
   lat: 38.1381228
   lng: -85.8431944
