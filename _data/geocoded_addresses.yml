@@ -5941,6 +5941,7 @@
 2000 Brownsboro Rd at Thorntons, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Brownsboro Rd prompted a business check by responding units, Louisville, KY: null
 2000 Brownsboro Rd, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
@@ -12038,6 +12039,9 @@
   lat: 38.2300585
   lng: -85.8061221
 4500 South6th Street, Louisville, KY: null
+4500 Southcrest Dr, Louisville, KY:
+  lat: 38.1883802
+  lng: -85.772219
 4500 Springdale Rd, Louisville, KY:
   lat: 38.3106568
   lng: -85.584345
@@ -12613,6 +12617,7 @@
 500 Caton Ave], Louisville, KY:
   lat: 38.1088196
   lng: -85.7710151
+500 Charleray, Louisville, KY: null
 ? 500 Charles St. A subsequent report indicated a possible burglary alarm in the same
   vicinity. All units were eventually cleared from the scene after the situation was
   resolved., Louisville, KY
@@ -14197,6 +14202,12 @@
   lat: 38.0856484
   lng: -85.6676088
 6000 Newcote Road, Louisville, KY: null
+6000 Southcrest Dr, Louisville, KY:
+  lat: 38.185411
+  lng: -85.7724711
+6000 Southcrest Dr. Further details, Louisville, KY:
+  lat: 38.185411
+  lng: -85.7724711
 ? 6000 Whispering Hills for a medical assistance call. A 91-year-old female had fallen
   and reported pain in her neck and right side. Paramedics were on the scene to provide
   care and evaluate her injuries. The incident highlights the challenges faced by
@@ -18102,6 +18113,7 @@ Main St and Cecil St, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
 Malin Lane and Ballardsville Rd, Louisville, KY: null
 Mallet Hill Dr and Calderon Park Lane, Louisville, KY: null
+Manslick Rd and Holly Park Dr, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
