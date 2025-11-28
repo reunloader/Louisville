@@ -7605,6 +7605,8 @@
 2600 Neblick Ave, Louisville, KY: null
 2600 Neblick Avenue, near Hampstead Dr and Ralph Ave,, Louisville, KY: null
 2600 New LaGrange Road, Louisville, KY: null
+2600 Northwestern Pky, Louisville, KY: null
+2600 Northwestern Pky, between North 27th and North 26th Streets,, Louisville, KY: null
 2600 Outer Loop, Louisville, KY:
   lat: 38.1342654
   lng: -85.7207797
@@ -13007,6 +13009,14 @@
   lng: -85.702526
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
+500 Inverness Ave, Louisville, KY:
+  lat: 38.1675139
+  lng: -85.7723299
+? 500 Inverness Ave, at the intersection with Grant Ave and South 5th Street. A 17-year-old
+  female had reportedly experienced two seizures consecutively and was unresponsive
+  between them. EMS responded, Louisville, KY
+: lat: 38.1675139
+  lng: -85.7723299
 ? 500 Jim Noway to oversee an eviction process. Following the procedure, the deputy
   confirmed that the situation was resolved and a report and citation were issued.,
   Louisville, KY
@@ -14500,6 +14510,7 @@
 600 Windsor Pl near Moss Roads, Louisville, KY:
   lat: 38.2330794
   lng: -85.7155013
+600 Winkler Ave, Louisville, KY: null
 ? 600 Woodruff Ave in response to a fire. The incident was reported as a trash fire
   located on the side porch of a vacant house. The responding units were able to manage
   and resolve the situation., Louisville, KY
@@ -18435,6 +18446,7 @@ Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
 Cain Ln and Tiny Ln, Louisville, KY: null
+Caldwell St and Birkenridge Street, Louisville, KY: null
 Camden Ave and Carol Ave, Louisville, KY: null
 Camp Ground Rd and Wilmoth Ave, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
