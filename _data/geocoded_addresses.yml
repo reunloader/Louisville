@@ -4057,6 +4057,11 @@
 1600 Ehrler Dr, Louisville, KY:
   lat: 38.2118351
   lng: -85.7160786
+? 1600 Ehrler Dr. Allegations included the father of a child breaking a phone and
+  taking money and a debit card. The individual involved had already left the scene
+  prior, Louisville, KY
+: lat: 38.2118351
+  lng: -85.7160786
 1600 Ehrler Dr. Responders arrived on scene, Louisville, KY:
   lat: 38.2118351
   lng: -85.7160786
@@ -5495,6 +5500,10 @@
 200 I 64 East, Louisville, KY: null
 200 Kentucky280-735, Louisville, KY: null
 200 Larchmont Boulevard, Louisville, KY: null
+200 Level Road due, Louisville, KY: null
+200 Level Road, Louisville, KY:
+  lat: 38.1670132
+  lng: -85.6814696
 200 Linden Ln, Louisville, KY:
   lat: 38.257169
   lng: -85.694641
@@ -6633,6 +6642,9 @@
   lat: 38.2190398
   lng: -85.8004933
 2200 Plantation Draft, Louisville, KY: null
+2200 Providence Dr, Louisville, KY:
+  lat: 38.1231758
+  lng: -85.579226
 ? 2200 Ralph Ave to attend to a 63-year-old male. The patient had reportedly passed
   out and was experiencing chest pain., Louisville, KY
 : null
@@ -8661,6 +8673,8 @@
 3000 Bunker Hill Dr, Louisville, KY:
   lat: 38.2078246
   lng: -85.6863035
+3000 Bunton Rd, Louisville, KY: null
+3000 Bunton Rd. Details, Louisville, KY: null
 3000 Cedar Creek Rd, Louisville, KY:
   lat: 38.1225307
   lng: -85.5909606
@@ -14509,6 +14523,10 @@
 6200 River Terrace Pl, Louisville, KY:
   lat: 38.1532388
   lng: -85.8664295
+6200 South 22nd Street involving an individual attempting, Louisville, KY: null
+6200 South 22nd Street, Louisville, KY:
+  lat: 38.2539856
+  lng: -85.7873639
 6200 South 36th Street, Louisville, KY: null
 6200 South 36th Street. The status of this call was subject to suspension., Louisville, KY:
   lat: 38.2305239
@@ -16926,6 +16944,9 @@
 8200 Laurel Grove Ct, Louisville, KY:
   lat: 38.129913
   lng: -85.6279509
+8200 Pennsylvania Ave, Louisville, KY:
+  lat: 38.2579853
+  lng: -85.6830198
 8200 Pennsylvania Run Rd, Louisville, KY:
   lat: 38.1301559
   lng: -85.632028
