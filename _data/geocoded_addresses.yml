@@ -10035,6 +10035,9 @@
   lng: -85.7748283
 37 Tevis Dr, Louisville, KY: null
 3700 7th St Rene Rd, Louisville, KY: null
+3700 Bardstown Rd, Louisville, KY:
+  lat: 38.1986358
+  lng: -85.6599605
 3700 Bedford Ln, Louisville, KY: null
 3700 Bedford Ln, situated between Hampshire and Milford, Louisville, KY: null
 3700 Chalk and Cedar Crest Ln, Louisville, KY: null
@@ -10993,6 +10996,9 @@
 400 South 11th Street, Louisville, KY:
   lat: 38.253642
   lng: -85.76896
+400 South 18th Street near Avenue Plazamber 812, Louisville, KY:
+  lat: 38.2556623
+  lng: -85.7805526
 400 South 1st Street, Louisville, KY:
   lat: 38.2522941
   lng: -85.7525422
@@ -11610,6 +11616,9 @@
 4100 Wheeler Ave, Louisville, KY:
   lat: 38.183076
   lng: -85.789051
+4100 Winnrose Way, Louisville, KY:
+  lat: 38.239014
+  lng: -85.8222
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
@@ -13417,6 +13426,12 @@
 5100 Keegan Way, Louisville, KY:
   lat: 38.1728993
   lng: -85.5739001
+5100 Maryview Dr, Louisville, KY:
+  lat: 38.162965
+  lng: -85.821219
+5100 Maryview Dr, near Sedona Dr, who was suffering from chest pains, Louisville, KY:
+  lat: 38.162965
+  lng: -85.821219
 5100 Miller's Court, Louisville, KY: null
 5100 Monticello Ave, Louisville, KY:
   lat: 38.1891867
@@ -18720,6 +18735,7 @@ Springtime Ave and Westport Rd, Louisville, KY: null
 St Rene Rd and Spirit Lane, Louisville, KY: null
 Stallings Ave and Cliggs Avenue, Louisville, KY: null
 Stanton Blvd and Euclid Ave, Louisville, KY: null
+Steier Ln and Shanks Ln, Louisville, KY: null
 Stone School Rd and Kilner Drive, Louisville, KY: null
 Stone St and Fern Valley Rd, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
