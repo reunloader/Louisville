@@ -22,6 +22,9 @@
 1 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+10 Mary St, Louisville, KY:
+  lat: 38.2344233
+  lng: -85.7405196
 100 13th Street at Chestnut View Ct, Louisville, KY:
   lat: 38.258148
   lng: -85.771547
@@ -5938,12 +5941,16 @@
   lng: -85.7745966
 200 Westbound ramp, Louisville, KY: null
 200 Westbound shoulder, Louisville, KY: null
+200 Westbound, Louisville, KY: null
 ? 200 Westbound, an area between the airport and Southern Pky. The male was described
   as wearing a black and yellow jacket. Later, a related incident involving a possible
   stranded vehicle was investigated in the 200 block of Eastbound near the airport,
   which was connected, Louisville, KY
 : lat: 38.1716962
   lng: -85.7354076
+? 200 Westbound, near the 19-mile marker. The incident involved a white and blue Toyota
+  and a dark blue SUV. A request was made, Louisville, KY
+: null
 200 William, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
@@ -17506,6 +17513,9 @@
   lng: -85.7765678
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
 900 Iola Rd, Louisville, KY:
+  lat: 38.242236
+  lng: -85.657594
+900 Iola Rd. Residents were advised, Louisville, KY:
   lat: 38.242236
   lng: -85.657594
 900 Lansdowne Ave, Louisville, KY:
