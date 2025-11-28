@@ -8130,6 +8130,7 @@
 2900 Calamar Ct, Louisville, KY:
   lat: 38.2910096
   lng: -85.5667133
+2900 Domino Street, Louisville, KY: null
 2900 Dr, Louisville, KY:
   lat: 38.2251151
   lng: -85.6517609
@@ -13448,6 +13449,9 @@
   lat: 38.3134112
   lng: -85.5705455
 5100 Olde Creek Way, Louisville, KY: null
+5100 Oldshire Rd near River Trail Dr, Louisville, KY:
+  lat: 38.1086387
+  lng: -85.6647032
 5100 Princewood Pl, Louisville, KY:
   lat: 38.163559
   lng: -85.818091
