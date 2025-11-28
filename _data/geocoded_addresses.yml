@@ -4300,6 +4300,9 @@
 1700 Hale Ave, Louisville, KY:
   lat: 38.2377007
   lng: -85.7839822
+1700 Harrod Ct, Louisville, KY:
+  lat: 38.2237642
+  lng: -85.7789557
 1700 I 64 West, Louisville, KY: null
 1700 Liberty Bell Way, Louisville, KY:
   lat: 38.194681
@@ -6394,6 +6397,9 @@
 2100 Smith Rd, Louisville, KY:
   lat: 38.095091
   lng: -85.726537
+2100 South Parkway, Louisville, KY:
+  lat: 38.1910775
+  lng: -85.6049197
 2100 Speed Ave, Louisville, KY:
   lat: 38.2290712
   lng: -85.6992452
@@ -8456,6 +8462,7 @@
   lat: 38.256743
   lng: -85.784366
 300 South Bailey, Louisville, KY: null
+300 South Third Street, Louisville, KY: null
 300 South Winslow Street, Louisville, KY: null
 300 South at I-65, Louisville, KY: null
 300 South43rd Street, Louisville, KY:
@@ -9136,6 +9143,9 @@
 3200 Marion Ct. Police units responded, Louisville, KY:
   lat: 38.2500716
   lng: -85.6917161
+3200 North 30th Street near Alford Ave and W Kenton St, Louisville, KY:
+  lat: 38.2648549
+  lng: -85.8000349
 3200 Northwestern Avenue, Louisville, KY: null
 3200 Patricia Dr, Louisville, KY:
   lat: 38.188866
@@ -15206,6 +15216,14 @@
 700 Glengarry Dr, Louisville, KY:
   lat: 38.1228878
   lng: -85.7534925
+700 Hamilton Ave, Louisville, KY:
+  lat: 38.2472374
+  lng: -85.7320382
+? 700 Hamilton Ave. Police units were dispatched to the location to address the situation.
+  Following the intervention, one of the individuals involved was transported, Louisville,
+  KY
+: lat: 38.2472374
+  lng: -85.7320382
 ? 700 Hardee Avenue where a two-year-old child had been accidentally locked inside
   a black Kia Rio. The child had been in the vehicle for approximately an hour, and
   assistance was requested to safely retrieve the youngster., Louisville, KY
@@ -15296,6 +15314,9 @@
 700 Oldbury Pl, Louisville, KY: null
 700 Outer Loop and 700 block of Grade, Louisville, KY: null
 700 Oxford Avenue, Louisville, KY: null
+700 Oxmoor Ave, Louisville, KY:
+  lat: 38.239111
+  lng: -85.609548
 700 Palatka Rd was determined, Louisville, KY: null
 700 Palatka Rd, Louisville, KY:
   lat: 38.1470473
@@ -15928,6 +15949,7 @@
 7400 Lorenzo Ln, Louisville, KY:
   lat: 38.1459084
   lng: -85.6232417
+7400 Old Mill Rd, Louisville, KY: null
 7400 Our Way, Louisville, KY:
   lat: 38.121122
   lng: -85.4401389
@@ -18054,6 +18076,7 @@ Cedar Creek Rd and Mayo Dr, Louisville, KY: null
 Cedarwood Dr and Elm Lake Dr, Louisville, KY: null
 Central Ave and Taylor Blvd, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
+Chamberlain Ln and Westport Rd, Louisville, KY: null
 Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
