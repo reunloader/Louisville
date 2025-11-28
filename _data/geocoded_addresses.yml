@@ -4768,6 +4768,7 @@
   lat: 38.22319
   lng: -85.592193
 1800 Jalen Road, Louisville, KY: null
+1800 Kindle Lane, Louisville, KY: null
 1800 Kingsford Dr, Louisville, KY:
   lat: 38.173602
   lng: -85.826229
@@ -10790,6 +10791,7 @@
 400 Marshall Walk. Further details, Louisville, KY:
   lat: 38.1698584
   lng: -85.7703976
+400 Massie Ave, Louisville, KY: null
 400 McBray Road, Louisville, KY: null
 400 McLean Avenue, Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
@@ -11319,6 +11321,9 @@
 4100 Boulevard, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
+4100 Buckland Trace, Louisville, KY:
+  lat: 38.2389408
+  lng: -85.4484445
 4100 Burrell Dr, Louisville, KY: null
 4100 Burrell Dr, near the intersection of Gar's Lane and LeMond Drive, Louisville, KY: null
 4100 Camden Avenue 1:30 p, Louisville, KY: null
