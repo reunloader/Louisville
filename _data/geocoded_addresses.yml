@@ -6317,6 +6317,9 @@
 2100 Cardinal Woods Dr, Louisville, KY:
   lat: 38.1531234
   lng: -85.8025178
+2100 Cardinal Woods Dr. First responders attended, Louisville, KY:
+  lat: 38.1531234
+  lng: -85.8025178
 2100 Cherokee Pky near Cherokee Rd, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
@@ -16038,6 +16041,12 @@
 7300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+? 7300 Oswego Cir following a report of a person needing assistance. Responding units
+  assessed the situation and were able, Louisville, KY
+: null
+7300 Oswego Cir, Louisville, KY:
+  lat: 38.157035
+  lng: -85.804931
 7300 Right-hand Way, Louisville, KY: null
 7300 Right-hand Way. A 66-year-old female had reportedly fallen out of her chair and needed assistance, Louisville, KY: null
 7300 Six Mile Lanex, Louisville, KY: null
