@@ -7997,6 +7997,9 @@
   lng: -85.6171438
 300 Adam. Responding officers found no signs of forced entry or any individuals present at the location., Louisville, KY: null
 300 Adams St & 300 block of Beecher St, Louisville, KY: null
+300 Adelaide, Louisville, KY:
+  lat: 38.3055248
+  lng: -85.5693954
 300 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
@@ -11468,6 +11471,7 @@
 4300 South4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
+4300 Taylor Blvd and 100 block of Harlan Ave, Louisville, KY: null
 4300 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
