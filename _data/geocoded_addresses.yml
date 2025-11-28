@@ -380,6 +380,10 @@
 100 North35th Street, Louisville, KY:
   lat: 38.2624675
   lng: -85.808437
+100 North38th Street concerning an adult female who had lost consciousness and was unresponsive, Louisville, KY: null
+100 North38th Street, Louisville, KY:
+  lat: 38.2634695
+  lng: -85.8118587
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
   specified. The outcome of the police response to this location is also unclear at
@@ -743,6 +747,9 @@
 1000 Baxter Ave, Louisville, KY:
   lat: 38.2387686
   lng: -85.7236886
+1000 Baxter Ave. Police units responded, Louisville, KY:
+  lat: 38.2387686
+  lng: -85.7236886
 1000 Beaver St, but the pursuit was later canceled, Louisville, KY: null
 1000 Becker Ave, Louisville, KY:
   lat: 38.1720002
@@ -760,6 +767,12 @@
 1000 Caldwell St, Louisville, KY:
   lat: 38.2381521
   lng: -85.7366708
+1000 Carlisle Ave, Louisville, KY:
+  lat: 38.1941078
+  lng: -85.7772406
+1000 Carlisle Ave. Following the stop, officers issued a warning, Louisville, KY:
+  lat: 38.1941078
+  lng: -85.7772406
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
@@ -10754,6 +10767,10 @@
 400 South St, Louisville, KY:
   lat: 38.219248
   lng: -85.776587
+400 South8th Street, Louisville, KY:
+  lat: 38.2525979
+  lng: -85.7647916
+400 South8th Street, a high-rise building. Personnel on scene reported connecting, Louisville, KY: null
 400 Southpointe Blvd, Louisville, KY: null
 400 Speed Ave, Louisville, KY:
   lat: 38.2273201
@@ -12688,6 +12705,12 @@
 500 South Service Street, Louisville, KY: null
 500 South, Louisville, KY: null
 500 South-A, Louisville, KY: null
+500 South18th Street at a three-story building, Louisville, KY:
+  lat: 38.2535374
+  lng: -85.7808463
+500 South18th Street, Louisville, KY:
+  lat: 38.2535374
+  lng: -85.7808463
 500 St, Louisville, KY: null
 500 Village West Dr, Louisville, KY:
   lat: 38.2519645
@@ -13649,6 +13672,10 @@
 600 Candlelight Ln. Upon arrival, the fire was described as being extinguished. Emergency units were able, Louisville, KY:
   lat: 38.1308475
   lng: -85.7763439
+600 Carlisle Ave and 600 block of Baxter Ave, Louisville, KY: null
+? 600 Carlisle Ave and the 600 block of Baxter Ave, investigating suspicious vehicle
+  activity. One unit inquired about any existing warnings related, Louisville, KY
+: null
 600 Carpenter Dr, with a motion sensor triggering the alert. Responding units were dispatched, Louisville, KY: null
 600 Charlie and 600 block of Baker responded to the call., Louisville, KY: null
 600 Charlie and 600 block of Baker responded, Louisville, KY: null
@@ -16972,6 +16999,9 @@
 900 South 2nd Street, Louisville, KY:
   lat: 38.240765
   lng: -85.756042
+900 South 2nd Street. Initial units were unavailable, Louisville, KY:
+  lat: 38.240765
+  lng: -85.756042
 900 South 2nd Street., Louisville, KY:
   lat: 38.240765
   lng: -85.756042
@@ -17710,6 +17740,7 @@ Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Beulah Church Rd and Farnsley Rd, Louisville, KY: null
 Bignol Street and Parthenia Ave, Louisville, KY: null
 Billtown Rd and Shaffer Ln, Louisville, KY: null
+Bishop Ln and Jennings Ln, Louisville, KY: null
 Blast On Road and Engine Drive, Louisville, KY: null
 Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
