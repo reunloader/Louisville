@@ -2133,6 +2133,9 @@
 11400 Ridge Rd, Louisville, KY:
   lat: 38.2184913
   lng: -85.7015596
+11400 River Falls Dr, Louisville, KY:
+  lat: 38.0916803
+  lng: -85.8859695
 11400 Westport Rd, Louisville, KY:
   lat: 38.2990576
   lng: -85.5393666
@@ -2772,6 +2775,7 @@
   assistance was provided, Louisville, KY
 : lat: 38.307964
   lng: -85.519984
+12700 Charles Brown Circle, Louisville, KY: null
 12700 Charles Farm Cir, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
@@ -12589,6 +12593,7 @@
 ? 4900 Pofner level. Witnesses observed a red truck speeding away from the area, heading
   towards Preston Hwy. Officers attempted, Louisville, KY
 : null
+4900 Police Court, Louisville, KY: null
 4900 Poplar Level Rd, Louisville, KY:
   lat: 38.1712092
   lng: -85.6850961
@@ -13489,6 +13494,9 @@
 5400 Bungalow Dr, Louisville, KY:
   lat: 38.156796
   lng: -85.842318
+5400 Carol Way, Louisville, KY:
+  lat: 38.137873
+  lng: -85.79488
 5400 Caroway, Louisville, KY: null
 ? 5400 Caroway, near Crestline Rd and Sierra Trail, for a 70-year-old female experiencing
   shortness of breath and weakness. Police units were initially dispatched but were
@@ -15093,6 +15101,9 @@
 700 Algonquin Pky, near Compton and Rodman,, Louisville, KY:
   lat: 38.2113098
   lng: -85.7705003
+700 Autumn Trace Dr, Louisville, KY:
+  lat: 38.1397095
+  lng: -85.7796314
 700 Baird St, B2, Louisville, KY: null
 700 Baker and Fort Charlie, Louisville, KY: null
 ? 700 Baker responded to the scene. After an assessment, the individual was reported
