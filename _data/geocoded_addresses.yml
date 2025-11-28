@@ -1753,6 +1753,9 @@
 1100 Euclid Ave, Louisville, KY:
   lat: 38.214775
   lng: -85.7750256
+1100 Euclid Ave, near the intersection of Sharp Ave and Lindbergh Dr,, Louisville, KY:
+  lat: 38.214775
+  lng: -85.7750256
 1100 Everett Ave, Louisville, KY:
   lat: 38.239542
   lng: -85.717603
@@ -11498,6 +11501,9 @@
 4200 Browns Ln, Louisville, KY:
   lat: 38.2212774
   lng: -85.6217664
+4200 Browns Ln, near the intersection of Canterbury Dr and Ravinia Ave,, Louisville, KY:
+  lat: 38.2212774
+  lng: -85.6217664
 ? 4200 Camp Ground Rd after receiving a report of individuals attempting to break
   into vehicles. The suspects, described as two people, fled the scene in a small,
   white, box-shaped vehicle with tinted windows and black trim, heading south on Camp
@@ -18176,6 +18182,7 @@ Cane Run Rd and Algonquin Pky, Louisville, KY: null
 Cane Run Rd and Mary Rose Dr, Louisville, KY: null
 Cane Run Road and Ralph Avenue, Louisville, KY: null
 Cannons Ln and Old Cannons Ln, Louisville, KY: null
+Canterbury Dr and Ravinia Ave, Louisville, KY: null
 Catherine Street and South Hancock Street, Louisville, KY: null
 Cedar Creek Rd and Barchshund Road, Louisville, KY: null
 Cedar Creek Rd and Bardstown Rd, Louisville, KY: null
@@ -18435,6 +18442,7 @@ Scrim Ave and Libby Ln, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
+Sharp Ave and Lindbergh Dr, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
 Shelby St and East Rectum Road, Louisville, KY: null
 Shelby St and Eastern Parkway, Louisville, KY: null
