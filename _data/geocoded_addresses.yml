@@ -1203,6 +1203,13 @@
 1000 Parkstone Ct, Louisville, KY:
   lat: 38.28942
   lng: -85.5611258
+1000 Pleasant Glen Dr, Louisville, KY:
+  lat: 38.1790292
+  lng: -85.5167505
+? 1000 Pleasant Glen Dr. Initial reports suggested a potential issue with a kitchen
+  window. Responding units were dispatched, Louisville, KY
+: lat: 38.1790292
+  lng: -85.5167505
 1000 Prairie Drive [Date & Time], Louisville, KY: null
 ? 1000 Prairie Drive following reports of a significant altercation. Witnesses indicated
   a large fight was occurring, which had escalated to include a fire outside the residence.
@@ -5139,6 +5146,9 @@
 20 Welby Rd, Louisville, KY:
   lat: 38.1560283
   lng: -85.8308502
+200 . Fortunately, no injuries were reported in this incident. Police units were dispatched, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 ? 200 Adam and 200 block of Charlie following a report of a fight involving several
   juveniles. It was indicated that one of the juveniles may have brandished a weapon
   during the altercation. Police units arrived on scene, Louisville, KY
@@ -5398,6 +5408,7 @@
   reported being with one subject a short distance from Newburgh., Louisville, KY
 : null
 200 East, between Coppola and Newburgh. Police units responded, Louisville, KY: null
+200 East, causing property damage. This dangerous activity posed a risk, Louisville, KY: null
 ? 200 East, under the overpass. The vehicle that was struck was a silver sedan, while
   the striking vehicle was identified as a black Ford F-150. Police units were sent,
   Louisville, KY
@@ -6191,6 +6202,14 @@
 2000 Sanic Lake Strubb, Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent to the location to address the situation., Louisville, KY: null
 2000 Sanic Lake Strubb. Police units were sent, Louisville, KY: null
+2000 Shady Grove Way, Louisville, KY:
+  lat: 38.1856493
+  lng: -85.648529
+? 2000 Shady Grove Way. They had allegedly forced entry by kicking in doors and were
+  still inside the building. One suspect was described as a black male in a blue hoodie,
+  and the other in a red jacket, both estimated, Louisville, KY
+: lat: 38.1856493
+  lng: -85.648529
 2000 Sherman, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
@@ -16363,6 +16382,13 @@
 7800 Laurel Ridge Road, Louisville, KY:
   lat: 38.136089
   lng: -85.6741971
+? 7800 Newton Dr involving a subject experiencing a mental health crisis. The individual,
+  described as an Asian male in a black leather jacket and blue shirt, was reportedly
+  threatening suicide and harm, Louisville, KY
+: null
+7800 Newton Dr, Louisville, KY:
+  lat: 38.1354978
+  lng: -85.6199016
 7800 Routt Rd, Louisville, KY:
   lat: 38.1257208
   lng: -85.4690983
