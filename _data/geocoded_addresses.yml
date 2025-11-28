@@ -5677,6 +5677,8 @@
   lat: 38.2388753
   lng: -85.6662901
 200 Tomorrow Night, Louisville, KY: null
+200 Travolta Road, Louisville, KY: null
+200 Travolta Road, near Comanche and Apache, Louisville, KY: null
 200 Utah Avenue 3:00 a, Louisville, KY: null
 200 Utah Avenue 3:00 a.m., Louisville, KY: null
 200 Virginia Ave, Louisville, KY:
@@ -10079,6 +10081,8 @@
 : null
 3800 Little Bend Rd who may have fallen. EMS requested a rapid response, Louisville, KY: null
 3800 Little Bend Rd, Louisville, KY: null
+3800 Oda Outer Loop, Louisville, KY: null
+3800 Oda Outer Loop, near Royal Oak and Barrow Cliff. Responders were dispatched, Louisville, KY: null
 3800 Peachtree Ave, Louisville, KY:
   lat: 38.189189
   lng: -85.780662
@@ -14057,6 +14061,9 @@
 600 S Hancock St, Louisville, KY:
   lat: 38.245481
   lng: -85.743587
+600 S Preston St, Louisville, KY:
+  lat: 38.24749
+  lng: -85.7476008
 600 South 16th Street, Louisville, KY:
   lat: 38.251021
   lng: -85.777865
