@@ -2345,6 +2345,10 @@
 1200 Markstown Road, Louisville, KY: null
 1200 Monticello Forest Cir, Louisville, KY: null
 1200 Moore Ct and Elliott Park, Louisville, KY: null
+1200 Moore Ct due, Louisville, KY: null
+1200 Moore Ct, Louisville, KY:
+  lat: 38.226899
+  lng: -85.77665
 1200 Moore Hill Pl, Louisville, KY: null
 1200 North 19th Street, Louisville, KY:
   lat: 38.2617759
@@ -3467,6 +3471,9 @@
   lat: 38.228655
   lng: -85.758176
 1400 South41st Street, Louisville, KY: null
+1400 South4th Street, Louisville, KY:
+  lat: 38.2289095
+  lng: -85.7617931
 ? 1400 Southbrook Street. The tenant allegedly possessed video evidence of the incident.
   Responding units were dispatched, Louisville, KY
 : null
@@ -12941,6 +12948,9 @@
   lat: 38.1728993
   lng: -85.5739001
 5100 Miller's Court, Louisville, KY: null
+5100 Monticello Ave, Louisville, KY:
+  lat: 38.1891867
+  lng: -85.665024
 5100 New Cut Rd, Louisville, KY:
   lat: 38.1682714
   lng: -85.7809312
