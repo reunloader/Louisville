@@ -302,6 +302,9 @@
   in several days. Responding officers were, Louisville, KY
 : lat: 38.2518397
   lng: -85.7030962
+100 N S Longworth Ave, Louisville, KY:
+  lat: 38.2656295
+  lng: -85.8239365
 ? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
   both chest and abdominal pain, and medical personnel provided care., Louisville,
   KY
@@ -7275,6 +7278,9 @@
 2500 W Madison St, Louisville, KY:
   lat: 38.2538718
   lng: -85.7930556
+2500 W Main St, Louisville, KY:
+  lat: 38.260412
+  lng: -85.791447
 2500 W Market St, Louisville, KY:
   lat: 38.2589001
   lng: -85.7922412
@@ -10922,6 +10928,7 @@
   lat: 38.2371624
   lng: -85.7838705
 400 Wayside between Jefferson Cross St and S Preston St, Louisville, KY: null
+400 West Chessman Street, Louisville, KY: null
 400 West Chestnut in response, Louisville, KY: null
 400 West Chestnut, Louisville, KY:
   lat: 38.248881
