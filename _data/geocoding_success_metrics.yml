@@ -15455,4 +15455,20 @@ history:
   batch_success_rate: 75.0
   batch_new_addresses: 4
   batch_new_successes: 3
-last_updated: '2025-11-28T06:20:20.713941'
+- timestamp: '2025-11-28T06:24:20.492168'
+  total_addresses: 7468
+  successful: 3580
+  failed: 3888
+  success_rate: 47.94
+  failure_rate: 52.06
+  failure_patterns:
+    Intersection format: 602
+    Incomplete/vague address: 711
+    Contains location qualifiers (near/at): 1505
+    Police phonetic codes: 2
+    Other/Unknown: 711
+    Contains extra sentences/context: 357
+  batch_success_rate: 50.0
+  batch_new_addresses: 8
+  batch_new_successes: 4
+last_updated: '2025-11-28T06:24:20.492302'

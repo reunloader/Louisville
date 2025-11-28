@@ -697,6 +697,11 @@
   lat: 38.2397699
   lng: -85.7540073
 100 [Street Name] and 100 block of [Street Name], Louisville, KY: null
+? 100 an exit. The vehicle, identified as a silver SUV, was observed making dangerous
+  maneuvers, swerving across all lanes of traffic. Police units were alerted, Louisville,
+  KY
+: lat: 38.1859027
+  lng: -85.7429972
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 an unspecified location, Louisville, KY: null
 100 an unspecified street and a red PF. Units were sent, Louisville, KY: null
@@ -704,6 +709,9 @@
 100 and 1200 block of, Louisville, KY: null
 100 at65 South, Louisville, KY: null
 100 at65 South. Vehicles involved pulled over onto Arthur St following the collision., Louisville, KY: null
+100 exit, Louisville, KY:
+  lat: 38.1859027
+  lng: -85.7429972
 ? 100 for a medical emergency. Details regarding the specific nature of the medical
   issue were not immediately available. Responders were on the scene to provide assistance.,
   Louisville, KY
@@ -1203,6 +1211,10 @@
 1000 S Hancock St. Responders were dispatched, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
+? 1000 S Jackson St following a report of a disturbance. A caller indicated that a
+  female was heard screaming and struggling with a male, with indications she was
+  trying, Louisville, KY
+: null
 1000 S Jackson St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
@@ -1332,6 +1344,10 @@
   lat: 38.2560618
   lng: -85.7671133
 1000 W Oak St, Louisville, KY: null
+1000 W Whitney Ave, Louisville, KY:
+  lat: 38.1932051
+  lng: -85.7772854
+1000 W Whitney Ave, with a subsequent update confirming the location within the same block. Information, Louisville, KY: null
 1000 West Broadway this morning. The specific reasons, Louisville, KY: null
 1000 West Broadway, Louisville, KY:
   lat: 38.24673
@@ -12442,6 +12458,9 @@
 5 Adams St, Louisville, KY:
   lat: 38.2579958
   lng: -85.7255089
+5 Ash St, Louisville, KY:
+  lat: 38.2255898
+  lng: -85.7351074
 5 Berea Dr, Louisville, KY:
   lat: 38.1228956
   lng: -85.607913
@@ -17898,6 +17917,7 @@ Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
+Goss Ave and Spratt St, Louisville, KY: null
 Grade Ln and Don Hutson Blvd, Louisville, KY: null
 Grafton Hall Rd and Cherokee Rd, Louisville, KY: null
 Grand Ave and Taylor Blvd, Louisville, KY: null
@@ -17991,6 +18011,7 @@ Nanka Rd and Valley Station Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Park Rd, Louisville, KY: null
+New Cut Rd and Poplar Level Rd, Louisville, KY: null
 New La Grange Rd and Factory Ln, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
 Newburg Rd and Bishop Ln, Louisville, KY: null
