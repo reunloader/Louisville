@@ -5526,6 +5526,7 @@
   lng: -85.8116457
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
+200 North First Street, Louisville, KY: null
 200 North Hubbard's Lane, Louisville, KY: null
 200 North I near Smyrna Parkway, Louisville, KY:
   lat: 38.1304
@@ -8218,6 +8219,9 @@
 : null
 300 Charlie-Santos Black Dogs. Authorities were informed that the vehicle did not stop, Louisville, KY: null
 300 Closet Drive, Louisville, KY: null
+300 Cole Ave, Louisville, KY:
+  lat: 38.1589782
+  lng: -85.8653425
 300 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1105898
   lng: -85.646024
@@ -9964,6 +9968,7 @@
 3700 Sourwood Ct, Louisville, KY:
   lat: 38.214216
   lng: -85.629305
+3700 South First Street, Louisville, KY: null
 3700 Southern Pky, Louisville, KY:
   lat: 38.1836068
   lng: -85.7677003
@@ -13880,6 +13885,9 @@
 600 Colonial Oaks, Louisville, KY:
   lat: 38.1744506
   lng: -85.7618487
+600 Colorado Ave, Louisville, KY:
+  lat: 38.2144189
+  lng: -85.7675071
 ? 600 Compton St to attend to a medical emergency. The call involved a 15-year-old
   male who was reportedly suffering from a headache., Louisville, KY
 : null
