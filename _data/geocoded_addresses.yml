@@ -2731,6 +2731,10 @@
 1300 Bardstown Rd, Louisville, KY:
   lat: 38.2348669
   lng: -85.7153636
+1300 Barret Ave concerning a large group of approximately 20 guests who were reportedly refusing, Louisville, KY: null
+1300 Barret Ave, Louisville, KY:
+  lat: 38.2310103
+  lng: -85.7243373
 1300 Bates Ave, Louisville, KY:
   lat: 38.1407464
   lng: -85.6853949
@@ -3826,6 +3830,11 @@
   male yelling in the background but then stated that everything was alright. Responding
   units were dispatched, Louisville, KY
 : null
+? 1500 Warchow Road after a concerned resident heard someone vomiting on their back
+  deck. Upon arrival, officers were investigating the situation to determine if assistance
+  was needed, Louisville, KY
+: null
+1500 Warchow Road, Louisville, KY: null
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
@@ -4262,6 +4271,7 @@
   building number was not available at the location., Louisville, KY
 : null
 1700 Patent Court, Louisville, KY: null
+1700 Patent Court. The call was, Louisville, KY: null
 ? 1700 Patton Ct Apartments following a report of a domestic dispute. The argument
   involved a child's father, his girlfriend, and his mother., Louisville, KY
 : null
@@ -13006,6 +13016,14 @@
 5200 Craigs Creek Dr, Louisville, KY:
   lat: 38.313667
   lng: -85.552038
+? 5200 Crescent Spring Dr following a report of a physical assault. The caller stated
+  they had video evidence of the incident involving a friend. The suspect, described
+  as having red hair and glasses, was reportedly outside and refusing, Louisville,
+  KY
+: null
+5200 Crescent Spring Dr, Louisville, KY:
+  lat: 38.2490115
+  lng: -85.7017884
 5200 Cynthia Dr, Louisville, KY:
   lat: 38.170965
   lng: -85.574905
@@ -15087,6 +15105,12 @@
   lat: 38.250442
   lng: -85.827117
 700 South 4th Street near Crop St, Louisville, KY:
+  lat: 38.245968
+  lng: -85.758505
+700 South 4th Street, Louisville, KY:
+  lat: 38.245968
+  lng: -85.758505
+700 South 4th Street, near Library Pl and West Broadway, Louisville, KY:
   lat: 38.245968
   lng: -85.758505
 700 South 5th Street, Louisville, KY:
