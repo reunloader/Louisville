@@ -2888,6 +2888,9 @@
 1300 Cypress St, Louisville, KY:
   lat: 38.236412
   lng: -85.797861
+1300 Dean Dr, Louisville, KY:
+  lat: 38.2111767
+  lng: -85.6563578
 1300 Dixie Hwy was attended to by first responders, Louisville, KY: null
 1300 Dixie Hwy, Louisville, KY:
   lat: 38.235232
@@ -18695,6 +18698,7 @@ South Fifth Street and Cedar Road, Louisville, KY: null
 South First Street Parkway and Shane Dr, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
+South Hirsborne Parkway and Hurstbourne Park Blvd, Louisville, KY: null
 South Hirshbaum Parkway and Hirshbaum Park Boulevard, Louisville, KY: null
 South Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 South Horsborn Parkway and Stony Brook Dr, Louisville, KY: null
