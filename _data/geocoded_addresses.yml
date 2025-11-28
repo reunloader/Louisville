@@ -92,6 +92,8 @@
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
+100 Charlie and 100 block of Baker, Louisville, KY: null
+100 Charlie and 100 block of Baker, were en route, Louisville, KY: null
 100 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -4256,6 +4258,7 @@
   involved a child's father, his girlfriend, and his mother., Louisville, KY
 : null
 1700 Patton Ct Apartments, Louisville, KY: null
+1700 Patton Ct, Building 43, Louisville, KY: null
 1700 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
@@ -5576,6 +5579,9 @@
 200 W Ormsby Ave, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
+200 W Southland Blvd near South 3rd Street, Louisville, KY:
+  lat: 38.171058
+  lng: -85.764873
 200 W Woodlawn Ave, Louisville, KY:
   lat: 38.181322
   lng: -85.764737
@@ -15072,6 +15078,9 @@
 700 South 45th Street, Louisville, KY:
   lat: 38.250442
   lng: -85.827117
+700 South 4th Street near Crop St, Louisville, KY:
+  lat: 38.245968
+  lng: -85.758505
 700 South 5th Street, Louisville, KY:
   lat: 38.24609
   lng: -85.760171
@@ -15119,6 +15128,10 @@
 700 South Jackson, and EMS response was canceled., Louisville, KY: null
 700 South Second Street, Louisville, KY: null
 700 South33rd Street, Louisville, KY: null
+700 South39th Street, Louisville, KY:
+  lat: 38.250054
+  lng: -85.816467
+700 South39th Street, with two gunshots heard. Police units were dispatched, Louisville, KY: null
 700 South42nd Street, Louisville, KY: null
 700 South42nd Street. LG&E was on scene and reported that a gas line had been struck, leading to the leak., Louisville, KY: null
 700 South42nd Street. LG&E was on scene and reported that a gas line had been struck, leading, Louisville, KY:
