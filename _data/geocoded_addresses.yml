@@ -4317,6 +4317,7 @@
   to cancel the dispatch of emergency services., Louisville, KY
 : null
 1700 Algonquin, with reports indicating a break in the front glass. However, the key holder was confirmed, Louisville, KY: null
+1700 Applewood Ln, Louisville, KY: null
 1700 Baird St, Louisville, KY:
   lat: 38.263097
   lng: -85.776785
@@ -13672,6 +13673,13 @@
 5300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+5300 Pyrus Ln, Louisville, KY:
+  lat: 38.1355614
+  lng: -85.8562721
+? 5300 Pyrus Ln. The nature of the concern prompting the dispatch was not explicitly
+  stated, but it involved a request, Louisville, KY
+: lat: 38.1355614
+  lng: -85.8562721
 5300 Red Fern Rd, Louisville, KY:
   lat: 38.1729657
   lng: -85.663581
@@ -16310,6 +16318,10 @@
 7500 Cane Run Rd, Louisville, KY:
   lat: 38.1441838
   lng: -85.896748
+7500 Cane Run Rd, Trailer 92, Louisville, KY: null
+7500 Cane Run Rd. The specific reason, Louisville, KY:
+  lat: 38.1441838
+  lng: -85.896748
 ? 7500 Chanel Ct to assist a 75-year-old male. The individual was reportedly experiencing
   shortness of breath and signs of dehydration. Responders worked to provide necessary
   care and support., Louisville, KY
@@ -18064,6 +18076,9 @@
   lat: 38.3239664
   lng: -85.5671626
 9400 Playwood Road, Louisville, KY: null
+9400 Thor Ave, Louisville, KY:
+  lat: 38.1116317
+  lng: -85.6932303
 9400 an unspecified street, Louisville, KY: null
 9500 Barbour Road, Louisville, KY: null
 9500 Braided Tail Ct, Louisville, KY:
