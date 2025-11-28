@@ -13290,6 +13290,9 @@
 5300 Alicante Ln, Louisville, KY:
   lat: 38.0844505
   lng: -85.862775
+5300 Alpine Way, Louisville, KY:
+  lat: 38.159427
+  lng: -85.7777435
 5300 Bardstown Rd, Louisville, KY:
   lat: 38.1682726
   lng: -85.6051729
@@ -13329,6 +13332,9 @@
 5300 Layne Rd. Responding units arrived, Louisville, KY:
   lat: 38.142111
   lng: -85.6624541
+5300 Lost Trail, Louisville, KY:
+  lat: 38.159513
+  lng: -85.77609
 5300 Lowerfield Dr, Louisville, KY:
   lat: 38.1558697
   lng: -85.6685142
@@ -13365,6 +13371,9 @@
 5300 West Ave, Louisville, KY:
   lat: 38.1089403
   lng: -85.8525494
+5300 Westhall Ave, Louisville, KY:
+  lat: 38.1586771
+  lng: -85.7773152
 5300 Youthwood Avenue, Louisville, KY: null
 5301 Milner Rd, Louisville, KY:
   lat: 38.1621035
