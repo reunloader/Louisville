@@ -4848,6 +4848,13 @@
 1800 Sherwood Ave, Louisville, KY:
   lat: 38.2301382
   lng: -85.7108239
+1800 South 24th Street, Louisville, KY:
+  lat: 38.2258261
+  lng: -85.7985448
+? 1800 South 24th Street. The resident reported that a smoke detector in the basement
+  was sounding continuously, even, Louisville, KY
+: lat: 38.2258261
+  lng: -85.7985448
 1800 South 2nd Street, Evening, Louisville, KY: null
 1800 South 3rd Street, Louisville, KY:
   lat: 38.2217966
@@ -12149,6 +12156,9 @@
 4500 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+4500 Hillside Dr, Louisville, KY:
+  lat: 38.1406018
+  lng: -85.8271841
 4500 Jewell Ave near N S Longworth Ave, Louisville, KY:
   lat: 38.2686001
   lng: -85.8198194
@@ -16581,6 +16591,9 @@
 800 Denmark St, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
+800 E Gray St, Louisville, KY:
+  lat: 38.245743
+  lng: -85.739167
 800 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
