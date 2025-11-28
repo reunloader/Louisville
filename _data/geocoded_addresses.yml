@@ -9468,6 +9468,9 @@
 3600 Gateview Cir, Louisville, KY:
   lat: 38.118823
   lng: -85.828332
+3600 Georgetown Pl, Louisville, KY:
+  lat: 38.1944947
+  lng: -85.7937446
 3600 Glenview Ave, Louisville, KY:
   lat: 38.2984672
   lng: -85.6443492
@@ -10095,6 +10098,7 @@
 3900 South 5th Street. While no active disturbance was noted, police units were sent, Louisville, KY:
   lat: 38.1984123
   lng: -85.768721
+3900 South Fifth Street, Louisville, KY: null
 3900 South Fifth, Louisville, KY: null
 3900 South Sioux Point Square at Norton, Louisville, KY: null
 ? 3900 South Sioux Point Square. The alarm was reported as silent, and responding
@@ -11761,6 +11765,9 @@
 4500 Outer Loop, Louisville, KY:
   lat: 38.1380208
   lng: -85.6781078
+4500 Parker Ave, Louisville, KY:
+  lat: 38.2695466
+  lng: -85.8192898
 4500 Poplar Level Rd, Louisville, KY:
   lat: 38.1878872
   lng: -85.7034767
