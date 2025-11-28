@@ -5068,6 +5068,9 @@
 1900 the area, Louisville, KY: null
 1900 the area., Louisville, KY: null
 1924 Newburgh Road, Louisville, KY: null
+1928 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 ? 193 Outer Loop. Emergency services responded promptly to the scene to investigate
   the situation. Further details regarding the nature of the alarm and the outcome
   of the response are being assessed., Louisville, KY
@@ -8104,6 +8107,9 @@
 30 Industry Rd, Louisville, KY:
   lat: 38.2139783
   lng: -85.7642889
+30 Palatka Rd, Louisville, KY:
+  lat: 38.1550559
+  lng: -85.8008399
 300 Adam and 300 block of Charlie were not fully detailed in the initial reports, Louisville, KY: null
 300 Adam and 300 block of Charlie, Louisville, KY: null
 ? 300 Adam in response to a medical situation. One unit was with a subject and appeared
@@ -16337,6 +16343,9 @@
   lat: 38.1686412
   lng: -85.5627268
 800 David Street, Louisville, KY: null
+800 Deering Rd, Louisville, KY:
+  lat: 38.0906197
+  lng: -85.8735398
 800 Denmark St, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
@@ -18388,6 +18397,7 @@ Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
+Wayside Dr and Oxford Avenue, Louisville, KY: null
 Wessel Rd and Burnley Rd, Louisville, KY: null
 West Bennett Avenue and Oakland Ave, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
