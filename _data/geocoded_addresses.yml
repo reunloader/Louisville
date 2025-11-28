@@ -14863,6 +14863,12 @@
 6700 I 65 South, Louisville, KY: null
 6700 I-65 South, Louisville, KY: null
 6700 I-65 South. Further information about this call was not provided in the scanner traffic., Louisville, KY: null
+6700 Morocco Dr, Louisville, KY:
+  lat: 38.1647613
+  lng: -85.7967454
+6700 Morocco Dr. Responding personnel were dispatched, Louisville, KY:
+  lat: 38.1647613
+  lng: -85.7967454
 6700 Musket Dr, Louisville, KY:
   lat: 38.1215876
   lng: -85.6387087
@@ -17048,6 +17054,13 @@
   Officers were dispatched to assess the situation., Louisville, KY
 : null
 8600 Forest Way Dr, specifically near a duplex. This type of call often involves concerns, Louisville, KY: null
+8600 Harvard Commons Ct, Louisville, KY:
+  lat: 38.1151902
+  lng: -85.5732468
+? 8600 Harvard Commons Ct. After arriving on scene and assessing the situation, the
+  responding units were able, Louisville, KY
+: lat: 38.1151902
+  lng: -85.5732468
 8600 Locklee Rd, Louisville, KY:
   lat: 38.1462326
   lng: -85.8248355
