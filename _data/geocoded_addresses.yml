@@ -4269,6 +4269,7 @@
 1700 Baird St, Louisville, KY:
   lat: 38.263097
   lng: -85.776785
+1700 Baird St, between South 17th and South 18th Streets,, Louisville, KY: null
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
@@ -9419,6 +9420,10 @@
   lat: 38.2666702
   lng: -85.7894902
 3400 Poliski Drive, Louisville, KY: null
+3400 Portland Place, Louisville, KY: null
+3400 Portland Place, near North 33rd Street. Responders were sent, Louisville, KY:
+  lat: 38.2737912
+  lng: -85.8008349
 3400 Portland Plaza, Louisville, KY:
   lat: 38.2735846
   lng: -85.8016828
