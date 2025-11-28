@@ -5616,6 +5616,7 @@
   lng: -85.8723473
 200 Pennsylvania Ave in connection with the call, Louisville, KY: null
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
+200 Rippsville Road, Louisville, KY: null
 200 Rockford Ln, Louisville, KY:
   lat: 38.1833115
   lng: -85.8539547
@@ -12958,6 +12959,9 @@
   lat: 38.2535374
   lng: -85.7808463
 500 St, Louisville, KY: null
+500 Upland Rd, Louisville, KY:
+  lat: 38.2482132
+  lng: -85.695989
 500 Village West Dr, Louisville, KY:
   lat: 38.2519645
   lng: -85.7665279
