@@ -8963,6 +8963,9 @@
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
 3200 South Hampton Rd., Louisville, KY: null
+3200 Springstead Cir, Louisville, KY:
+  lat: 38.2934972
+  lng: -85.5792821
 ? 3200 Stegner Ave following a report of a medical emergency. A 68-year-old female
   had reportedly passed out, and emergency medical services were on scene, Louisville,
   KY
@@ -13995,6 +13998,9 @@
   KY
 : lat: 38.1569645
   lng: -85.7038308
+6100 Forge Cir, Louisville, KY:
+  lat: 38.0642225
+  lng: -85.8922633
 ? 6100 I 64 West. Emergency units were dispatched to investigate the source of the
   alarm. The specific cause of the activation and the outcome of the response were
   not immediately available., Louisville, KY
@@ -14624,6 +14630,9 @@
   Louisville, KY
 : null
 6900 Lethbridge Road, Louisville, KY: null
+6900 Mayna Dr, Louisville, KY:
+  lat: 38.158072
+  lng: -85.868293
 6900 Mount Washington Rd, Louisville, KY:
   lat: 38.0834096
   lng: -85.63505
@@ -15526,6 +15535,9 @@
 7400 Lorenzo Ln, Louisville, KY:
   lat: 38.1459084
   lng: -85.6232417
+7400 Our Way, Louisville, KY:
+  lat: 38.121122
+  lng: -85.4401389
 7400 Payette Road, Louisville, KY: null
 7400 Satchar Drive, Louisville, KY: null
 7400 South3rd St Rene Rd, Louisville, KY: null
@@ -17623,6 +17635,7 @@ Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
+Cherokee Pky and Longest Ave, Louisville, KY: null
 Cherokee Pky and Parkstone Road, Louisville, KY: null
 Cherokee Rd and Longest Ave, Louisville, KY: null
 Cherokee Rd and Valley Station Rd, Louisville, KY: null
