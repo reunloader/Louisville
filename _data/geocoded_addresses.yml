@@ -9454,6 +9454,9 @@
 3200 Virginia Ave, Louisville, KY:
   lat: 38.2384543
   lng: -85.8071574
+3200 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.256455
+  lng: -85.806285
 3200 Young Ave, Louisville, KY:
   lat: 38.229848
   lng: -85.8087546
@@ -17087,6 +17090,10 @@
   being involved. EMS units were, Louisville, KY
 : lat: 38.24953
   lng: -85.8297252
+? 800 W Market St regarding a highly intoxicated individual in a silver vehicle who
+  had struck a part of the parking garage. The individual was not fully alert and
+  appeared, Louisville, KY
+: null
 800 W Market St, Louisville, KY:
   lat: 38.2557045
   lng: -85.7637682
