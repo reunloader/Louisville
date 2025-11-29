@@ -6225,6 +6225,7 @@
   KY
 : null
 2000 Balfour Dr near Westmoreland and Foreign Home, Louisville, KY: null
+2000 Ballot Group, Louisville, KY: null
 2000 Bardstown Rd, Louisville, KY:
   lat: 38.225579
   lng: -85.696397
@@ -12915,6 +12916,12 @@
 : null
 4700 South First Street this morning following a report of a medical concern. A young individual, believed, Louisville, KY: null
 4700 Spindly Road, Louisville, KY: null
+4700 Valley Station Rd, Louisville, KY:
+  lat: 38.105447
+  lng: -85.8458937
+4700 Valley Station Rd. Police units arrived, Louisville, KY:
+  lat: 38.105447
+  lng: -85.8458937
 4700 Van Hoose Rd, Louisville, KY: null
 4700 W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
@@ -13200,6 +13207,9 @@
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
   lng: -85.7685202
+500 Brentwood Ave. The call was later confirmed to be, Louisville, KY:
+  lat: 38.1946641
+  lng: -85.7685202
 500 Camden Ave, Louisville, KY:
   lat: 38.192895
   lng: -85.768479
@@ -13293,6 +13303,9 @@
   lat: 38.2534676
   lng: -85.7663705
 500 Eagle Pond Plain, Louisville, KY: null
+500 East Broadway, Louisville, KY:
+  lat: 38.2446199
+  lng: -85.7454474
 500 East [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
@@ -15175,6 +15188,7 @@
 6300 Summer Lake Dr, near Autumn Lake,, Louisville, KY:
   lat: 38.0763892
   lng: -85.874707
+6300 Sydney Renee Way following a report of a potentially intoxicated individual attempting, Louisville, KY: null
 6300 Sydney Renee Way, Louisville, KY:
   lat: 38.0796483
   lng: -85.8768468
@@ -19157,6 +19171,7 @@ Scarborough Ave and Greyling Dr, Louisville, KY: null
 Scrim Ave and Libby Ln, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
+Second Street and Kentucky Ave, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sharp Ave and Lindbergh Dr, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
@@ -19233,6 +19248,7 @@ Taylor Ave and Queen Ave, Louisville, KY:
   lng: -85.7815344
 Taylor Ave and Sale Ave, Louisville, KY: null
 Taylor Ave and Winkler Ave, Louisville, KY: null
+Taylor Blvd and Ash Ave, Louisville, KY: null
 Taylor Blvd and Berry Blvd, Louisville, KY:
   lat: 38.1962684
   lng: -85.7840235
