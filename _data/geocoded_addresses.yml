@@ -4257,6 +4257,11 @@
 1600 Girard Dr, Louisville, KY:
   lat: 38.1594757
   lng: -85.7112444
+1600 Grassland Drmber 1, Louisville, KY: null
+? 1600 Grassland Drmber 1. The specific details surrounding the incident were not
+  immediately clear from the initial report. Police units were dispatched, Louisville,
+  KY
+: null
 1600 Huntington Ln, Louisville, KY:
   lat: 38.1419722
   lng: -85.6875526
@@ -5879,6 +5884,10 @@
 200 S Hancock St, Louisville, KY:
   lat: 38.2531474
   lng: -85.7426966
+200 Shepard's River Rd, Louisville, KY: null
+? 200 Shepard's River Rd. The person, described as a male in his 60s wearing a black
+  metal, black coat, and blue jeans, was allegedly attempting, Louisville, KY
+: null
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
@@ -8622,6 +8631,7 @@
   lng: -85.5627268
 300 Charlie and 800 block of Charlie, Louisville, KY: null
 300 Charlie and the 300 block of David, Louisville, KY: null
+300 Charlie following a report of a 15-year-old female who had sustained a laceration, Louisville, KY: null
 300 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -10591,6 +10601,12 @@
 3800 River Park Dr, Louisville, KY:
   lat: 38.2549894
   lng: -85.8147135
+3800 Stockridge Rd, Louisville, KY:
+  lat: 38.3064162
+  lng: -85.6226363
+3800 Stockridge Rd. EMS was already on scene attending, Louisville, KY:
+  lat: 38.3064162
+  lng: -85.6226363
 3800 Taylor Blvd, Louisville, KY:
   lat: 38.188601
   lng: -85.783584
@@ -14376,6 +14392,12 @@
 5700 Midnight Ln. Specific details, Louisville, KY:
   lat: 38.1150976
   lng: -85.655771
+5700 Moser Farm Rd, Louisville, KY:
+  lat: 38.3267286
+  lng: -85.5538609
+5700 Moser Farm Rd. Details, Louisville, KY:
+  lat: 38.3267286
+  lng: -85.5538609
 5700 New Cut Rd, Louisville, KY:
   lat: 38.1372198
   lng: -85.7735363
@@ -17217,6 +17239,9 @@
 : null
 800 East Muhammad Alley, Louisville, KY: null
 800 East W Market St. Fire units responded, Louisville, KY: null
+800 Eastern Parkway, Louisville, KY:
+  lat: 38.214838
+  lng: -85.742462
 800 Edith Rose and the 400 block of Baker, Louisville, KY: null
 800 Edith Rose and the 400 block of Baker., Louisville, KY: null
 800 Edith Rose, Louisville, KY: null
@@ -18381,6 +18406,14 @@
   lat: 38.3232443
   lng: -85.5712666
 9100 Angel Trumpet Dr, indicating a smoke detector had sounded, Louisville, KY: null
+9100 Blue Creek Ct, Louisville, KY:
+  lat: 38.1035609
+  lng: -85.6973203
+? 9100 Blue Creek Ct. Further details regarding the stolen items or the circumstances
+  of the break-in were not immediately available. Police units were assigned, Louisville,
+  KY
+: lat: 38.1035609
+  lng: -85.6973203
 9100 Brandywyne Dr, Louisville, KY:
   lat: 38.163487
   lng: -85.588224
