@@ -5607,6 +5607,9 @@
   This incident also resulted in no reported injuries., Louisville, KY
 : lat: 38.1861148
   lng: -85.7582215
+200 East at Creighton and Dry, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at I-65, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -5669,6 +5672,9 @@
 200 East, between Coppola and Newburgh. Police units responded, Louisville, KY: null
 200 East, causing property damage. This dangerous activity posed a risk, Louisville, KY: null
 200 East, just before the Bardstown Rd exit, Louisville, KY: null
+200 East, near the intersection of Creighton and Dry, following a traffic accident. Units were requested, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 ? 200 East, under the overpass. The vehicle that was struck was a silver sedan, while
   the striking vehicle was identified as a black Ford F-150. Police units were sent,
   Louisville, KY
@@ -10008,6 +10014,9 @@
   lat: 38.2245619
   lng: -85.8144583
 3500 Barchetown Road, Louisville, KY: null
+3500 Bardstown Rd, Louisville, KY:
+  lat: 38.20391
+  lng: -85.6657011
 3500 Blue Park Ln, Louisville, KY: null
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
@@ -11497,6 +11506,7 @@
 400 South A Trent Ave Plaza, Louisville, KY: null
 400 South H Street, Louisville, KY: null
 400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
+400 South H3, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
 ? 400 South Hubbard. The specific circumstances leading to the check were not detailed
   in the initial report., Louisville, KY
