@@ -1971,6 +1971,7 @@
   lat: 38.1686412
   lng: -85.5627268
 1100 South First Street, Louisville, KY: null
+1100 South First Street. The reporting party indicated they did not wish, Louisville, KY: null
 1100 South Forest Street, Louisville, KY: null
 1100 South Forster Street, Louisville, KY: null
 1100 South Forth Street, Louisville, KY: null
@@ -7059,6 +7060,12 @@
 ? 2300 Tuckaho Rd, between Christian Merrick Road and Hempstead Rd. The alarm was
   triggered by a heat and smoke detector in the basement., Louisville, KY
 : null
+2300 Tyler Ln, Louisville, KY:
+  lat: 38.2188235
+  lng: -85.6748272
+2300 Tyler Ln. The caller expressed concern, Louisville, KY:
+  lat: 38.2188235
+  lng: -85.6748272
 2300 W Chestnut St, Louisville, KY:
   lat: 38.2522498
   lng: -85.7896726
@@ -7310,6 +7317,9 @@
 2400 West Market, Louisville, KY:
   lat: 38.2589016
   lng: -85.7903761
+2400 [Street Name Missing], Louisville, KY:
+  lat: 38.2678774
+  lng: -85.7047987
 2407 Cornwall St, Louisville, KY:
   lat: 38.2722009
   lng: -85.7865247
@@ -10630,6 +10640,7 @@
 400 Adams, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
+400 Adams, creating a potential danger, Louisville, KY: null
 400 Alana Dr, Alveria Court, Louisville, KY: null
 ? 400 Amarillo where the owner of a vehicle was experiencing tire issues. The individual
   indicated they planned to move the vehicle out of the roadway., Louisville, KY
@@ -13948,11 +13959,15 @@
   lng: -85.6580689
 5500 LaFleur Way, Louisville, KY: null
 5500 Limits Street, Louisville, KY: null
+5500 New Cut Rd (Kroger) / 1500 block of Anna Ln, Louisville, KY: null
 ? 5500 New Cut Rd near Raleigh, Crestridge, Century Rd, Incident Road Drive, Course
   62, Phoenix, and Crosstown Boulevard, Louisville, KY
 : lat: 38.14538
   lng: -85.775274
 5500 New Cut Rd, Louisville, KY:
+  lat: 38.14538
+  lng: -85.775274
+5500 New Cut Rd, near Kroger. This action was related, Louisville, KY:
   lat: 38.14538
   lng: -85.775274
 ? 5500 New Cut Rd. The incident involved a person experiencing shortness of air, exacerbated
