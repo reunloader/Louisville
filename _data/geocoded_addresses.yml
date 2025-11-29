@@ -2771,6 +2771,10 @@
 1200 Willow Ave, Anderson St, Longest Ave, and Glenmary Ave, Louisville, KY: null
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
+? 12000 Cascade Falls Trail following a report of an assault and potential robbery.
+  A male suspect was observed in the vicinity. Law enforcement units responded, Louisville,
+  KY
+: null
 12000 East Joe Railroad, Louisville, KY: null
 12000 Faxme Park Circle, Louisville, KY: null
 12000 Halifax Dr, Louisville, KY:
@@ -6593,6 +6597,9 @@
   lat: 38.231903
   lng: -85.702381
 2100 Bowling Blvd, Louisville, KY: null
+2100 Canal St. Initial reports indicated the fire was small and manageable. Firefighters worked, Louisville, KY:
+  lat: 38.1465181
+  lng: -85.690426
 2100 Cardinal Woods Dr, Louisville, KY:
   lat: 38.1531234
   lng: -85.8025178
@@ -8998,6 +9005,7 @@
   lat: 38.2651038
   lng: -85.8081363
 300 pounds, Louisville, KY: null
+300 the South on-ramp, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
 3000 Aron Rd, Louisville, KY:
@@ -13068,6 +13076,10 @@
 4800 Paramount Park Dr, Louisville, KY:
   lat: 38.1552702
   lng: -85.7125852
+? 4800 Poplar Level Rd regarding a report of a homeless female who had set up a tent
+  behind a building and was allegedly using its power. Despite previous requests,
+  Louisville, KY
+: null
 4800 Preston Hwy, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
@@ -13935,6 +13947,9 @@
 5200 Airfield Dr, Louisville, KY:
   lat: 38.188076
   lng: -85.7361901
+5200 Atwood St, Louisville, KY:
+  lat: 38.2155748
+  lng: -85.7485557
 5200 Bardstown Rd, Louisville, KY:
   lat: 38.172184
   lng: -85.610779
