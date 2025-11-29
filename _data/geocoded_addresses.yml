@@ -4332,6 +4332,9 @@
   lat: 38.2092826
   lng: -85.7831319
 1600 Two Strings, Louisville, KY: null
+1600 W Market St. Responding units were dispatched, Louisville, KY:
+  lat: 38.2569964
+  lng: -85.7771317
 1600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2531319
   lng: -85.7775215
@@ -12092,6 +12095,9 @@
   lng: -85.8254986
 4300 I 64 East, Louisville, KY: null
 4300 King Run, Louisville, KY: null
+4300 Larkwood Ave. Police units were sent, Louisville, KY:
+  lat: 38.2591747
+  lng: -85.8219191
 4300 Lonsdale Ave, Louisville, KY:
   lat: 38.1781683
   lng: -85.7864904
@@ -12966,6 +12972,9 @@
   lat: 38.1552702
   lng: -85.7125852
 4800 Preston Hwy, Louisville, KY:
+  lat: 38.178026
+  lng: -85.7169632
+4800 Preston Hwy. The vehicle's license plate had reportedly been removed. Police units were working, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
 4800 Read Aly, Louisville, KY:
