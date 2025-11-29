@@ -5033,6 +5033,9 @@
 1800 West Broadway, Louisville, KY:
   lat: 38.248977
   lng: -85.783331
+1800 West Jefferson, Louisville, KY:
+  lat: 38.2561291
+  lng: -85.780408
 ? 1800 West Valley. The alarm was specifically noted as coming from a metal utility
   room. Police units were dispatched, Louisville, KY
 : lat: 38.1533993
@@ -11754,6 +11757,9 @@
 4100 Hazelwood. The person who called reported hearing an alarm at a neighbor's home and expressed concern, Louisville, KY:
   lat: 38.183023
   lng: -85.787949
+4100 Herman, Louisville, KY:
+  lat: 38.260451
+  lng: -85.817807
 4100 Highlight Rain near John Silver's Core and Longboat Core, Louisville, KY: null
 4100 Jail at Boulevard Crossing, Louisville, KY: null
 ? 4100 Jail at Boulevard Crossing, to take a report for a stolen vehicle. The theft
@@ -17840,6 +17846,9 @@
 8900 Willowcreek Dr, Louisville, KY:
   lat: 38.121161
   lng: -85.6991967
+900 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 900 Ash St, Louisville, KY:
   lat: 38.227742
   lng: -85.738702
@@ -18931,6 +18940,7 @@ Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
+Garland Ave and Cecil Ave, Louisville, KY: null
 Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
