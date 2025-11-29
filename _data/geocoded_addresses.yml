@@ -202,6 +202,9 @@
 100 Egypt Ln., Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
+100 Evans St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
 100 Evans St, which was also noted, Louisville, KY: null
 100 Fairfax, Louisville, KY: null
 ? 100 Fairfax. Responding units determined that employees had accidentally triggered
@@ -457,6 +460,7 @@
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
+100 Outer Loop, involving a semi-truck and a dark-colored vehicle, Louisville, KY: null
 100 Painted Stone Pl, Louisville, KY: null
 ? 100 Painted Stone Pl. The location was initially reported and then updated to the
   same block. Further details on the outcome of this check were not immediately available.,
@@ -16964,6 +16968,7 @@
 7400 Lorenzo Ln, Louisville, KY:
   lat: 38.1459084
   lng: -85.6232417
+7400 Lorenzo Wayne, Louisville, KY: null
 7400 Old Mill Rd, Louisville, KY: null
 7400 Our Way, Louisville, KY:
   lat: 38.121122
