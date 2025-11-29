@@ -3785,6 +3785,9 @@
 1400 Woodland Ave, Louisville, KY:
   lat: 38.2342544
   lng: -85.8028824
+1400 [Street Name Not Provided], Louisville, KY:
+  lat: 38.2347369
+  lng: -85.825457
 14000 Old Station Rd following the activation of a commercial fire alarm. Crews arrived, Louisville, KY: null
 14000 Old Station Rd, Louisville, KY:
   lat: 38.2460035
@@ -6856,6 +6859,9 @@
   lat: 38.198204
   lng: -85.8349572
 2200 Date St, Louisville, KY:
+  lat: 38.2429123
+  lng: -85.7894705
+2200 Date St. It was clarified that the patient's niece had called, Louisville, KY:
   lat: 38.2429123
   lng: -85.7894705
 ? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
