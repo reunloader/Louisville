@@ -6759,6 +6759,9 @@
 2200 S Brook St, Louisville, KY:
   lat: 38.2171166
   lng: -85.7560104
+2200 South 3rd Street, Louisville, KY:
+  lat: 38.2191093
+  lng: -85.7615978
 2200 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -8925,6 +8928,9 @@
   lat: 38.2063275
   lng: -85.7657394
 3000 South Number 4, Louisville, KY: null
+3000 Southside Dr, Louisville, KY:
+  lat: 38.1536611
+  lng: -85.7652516
 3000 Spring House Ln, Louisville, KY:
   lat: 38.1420698
   lng: -85.6043907
@@ -12611,6 +12617,9 @@
   lng: -85.718437
 4700 Quinn Dr, Louisville, KY: null
 4700 Quinn Dr, near Crusher Cavalier Drive and Quinn Ct, Louisville, KY: null
+4700 Shenandoah Dr, Louisville, KY:
+  lat: 38.3107597
+  lng: -85.5504872
 4700 Sinner Yellow Drive near Yeager, Louisville, KY: null
 4700 Sinner Yellow Drive, Louisville, KY: null
 4700 South 2nd Street near Westwood Ave, Louisville, KY:
@@ -12919,6 +12928,9 @@
 500 Beecher St, Louisville, KY:
   lat: 38.1918563
   lng: -85.7684561
+500 Belgravia Ct, Louisville, KY:
+  lat: 38.2266147
+  lng: -85.7636713
 500 Brentwood Ave near South 5th Street, Louisville, KY: null
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
@@ -18499,6 +18511,7 @@ Central Ave and Taylor Blvd, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
 Chamberlain Ln and Westport Rd, Louisville, KY: null
 Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
+Charleswood Rd and Cooper Chapel Rd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
