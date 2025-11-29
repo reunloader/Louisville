@@ -2235,6 +2235,7 @@
   lat: 38.2990576
   lng: -85.5393666
 11400 Willow Pond Dr, Louisville, KY: null
+11400 anymore Enridge Dr, Louisville, KY: null
 11500 Harry Plane near North Waterstone Trail, Louisville, KY: null
 11500 Maple Brook Dr, Louisville, KY:
   lat: 38.3020407
@@ -3396,6 +3397,9 @@
 1400 Catalpa St. Further details, Louisville, KY:
   lat: 38.2339946
   lng: -85.8022842
+1400 Central Ave, Louisville, KY:
+  lat: 38.2107422
+  lng: -85.7799385
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -3727,6 +3731,9 @@
   lng: -85.5265157
 1400 Tulpa Street, Louisville, KY: null
 1400 W Jefferson St, Louisville, KY: null
+1400 West Broadway, Louisville, KY:
+  lat: 38.2475587
+  lng: -85.7755724
 1400 West East Burnett near Clarks Ln, Louisville, KY:
   lat: 38.2164443
   lng: -85.7351579
@@ -14788,6 +14795,9 @@
 600 South 36th Street, Louisville, KY:
   lat: 38.253389
   lng: -85.811056
+600 South 39th Street, Louisville, KY:
+  lat: 38.255276
+  lng: -85.815984
 600 South 3rd Street, Louisville, KY:
   lat: 38.2486074
   lng: -85.7563848
