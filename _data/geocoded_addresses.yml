@@ -3540,6 +3540,9 @@
 1400 Lamar Ave, Louisville, KY:
   lat: 38.1712258
   lng: -85.83684
+1400 Landmark Dr, Louisville, KY:
+  lat: 38.2669255
+  lng: -85.4835491
 1400 Larchmont Ave, Louisville, KY:
   lat: 38.2102913
   lng: -85.7809949
@@ -12404,6 +12407,9 @@
 4400 Cane Run Rd, Louisville, KY:
   lat: 38.1981991
   lng: -85.8396306
+4400 Chenwood Ln, Louisville, KY:
+  lat: 38.18023
+  lng: -85.55725
 4400 Churchman Ave, Louisville, KY:
   lat: 38.1788126
   lng: -85.7925356
@@ -16503,6 +16509,9 @@
   lat: 38.2542653
   lng: -85.6624316
 7000 Me Houseway, Louisville, KY: null
+7000 Meadow Ridge Dr, Louisville, KY:
+  lat: 38.1883265
+  lng: -85.6222753
 7000 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -19114,6 +19123,7 @@ Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
 Boyle St and South Lake Street, Louisville, KY: null
 Bradley Ave and Sherry Rd, Louisville, KY: null
+Breckenridge Ln and Bardstown Rd, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
 Breckinridge St and Southbrook Street, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
