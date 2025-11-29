@@ -1391,6 +1391,9 @@
 ? 1000 Uracoid Gardens Drive. Reports indicated that an ex-boyfriend was present inside
   the residence. Law enforcement arrived, Louisville, KY
 : null
+1000 W Jefferson St, Louisville, KY:
+  lat: 38.2547629
+  lng: -85.767472
 1000 W Market St, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -8954,6 +8957,7 @@
   lat: 38.2063275
   lng: -85.7657394
 3000 South Number 4, Louisville, KY: null
+3000 South Third Street, Louisville, KY: null
 3000 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
