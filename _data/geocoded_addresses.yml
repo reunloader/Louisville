@@ -1817,6 +1817,9 @@
   The medical response was subsequently canceled., Louisville, KY
 : null
 1100 King Arthur Ln, Louisville, KY: null
+1100 Lincoln Ave near Lindbergh Dr and Colorado Ave, Louisville, KY:
+  lat: 38.2117499
+  lng: -85.7744423
 1100 Lincoln Ave, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
@@ -11569,6 +11572,7 @@
 4100 Cane Run Rd, Louisville, KY:
   lat: 38.2045067
   lng: -85.8311096
+4100 Caroldale Ln near Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
 4100 Charliesville Road, Louisville, KY: null
 4100 Craig Ave, Louisville, KY:
   lat: 38.183126
@@ -12225,6 +12229,9 @@
   lat: 38.2574715
   lng: -85.7833779
 4400 South 2nd Street due, Louisville, KY: null
+4400 South 2nd Street near W Florence Ave, Louisville, KY:
+  lat: 38.1914096
+  lng: -85.7635371
 4400 South 2nd Street, Louisville, KY:
   lat: 38.1914096
   lng: -85.7635371
@@ -14637,6 +14644,9 @@
 : null
 600 Walnut Ridge following a report of a medical emergency connected, Louisville, KY: null
 600 Walnut Ridge, Louisville, KY: null
+600 Webster St near W St Catherine St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 600 West Manslake at the library, Louisville, KY:
   lat: 38.2449281
   lng: -85.7577588
@@ -18675,6 +18685,7 @@ Crop St and Aspen Glen Dr, Louisville, KY: null
 Crop St and Grand Ave, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
+Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
 Crums Ln and May Ave, Louisville, KY: null
@@ -18965,6 +18976,7 @@ Taylor Blvd and Berry Blvd, Louisville, KY:
   lat: 38.1962684
   lng: -85.7840235
 Taylor Blvd and Bicknell Ave, Louisville, KY: null
+Taylor Blvd and Camden Ave, Louisville, KY: null
 Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
 Taylor Blvd and Hathaway Ave, Louisville, KY: null
