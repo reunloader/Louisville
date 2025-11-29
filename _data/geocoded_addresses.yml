@@ -4939,6 +4939,7 @@
 1800 Newburg Rd., Louisville, KY:
   lat: 38.222825
   lng: -85.7113475
+1800 Nobel Pl, Louisville, KY: null
 1800 Northwestern Pky, Louisville, KY:
   lat: 38.2658758
   lng: -85.7767241
@@ -14943,6 +14944,9 @@
   hearing activity inside but was hesitant, Louisville, KY
 : null
 6200 Baker Aly STREET, Louisville, KY: null
+6200 Billtown Rd, Louisville, KY:
+  lat: 38.154966
+  lng: -85.560285
 6200 Brownsboro Rd, Louisville, KY:
   lat: 38.2835684
   lng: -85.6287332
