@@ -13329,6 +13329,13 @@
 500 East Broadway, Louisville, KY:
   lat: 38.2446199
   lng: -85.7454474
+? 500 East Broadway, a male was discovered with a reduced level of consciousness.
+  Further details indicated a homeless man, approximately 55 years old, who allegedly
+  kicked and attempted, Louisville, KY
+: null
+500 East Broadway,, Louisville, KY:
+  lat: 38.2446199
+  lng: -85.7454474
 500 East [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
@@ -13545,6 +13552,7 @@
   lat: 38.2350131
   lng: -85.762185
 500 Wood Valley Ln, Louisville, KY: null
+500 Young Mary John, Louisville, KY: null
 500 Zorn Ave, Louisville, KY:
   lat: 38.2633
   lng: -85.687891
@@ -13816,6 +13824,8 @@
 5100 Norton Healthcare Blvd. The driver indicated they would be taking the vehicle in, Louisville, KY:
   lat: 38.3134112
   lng: -85.5705455
+5100 Nuka Road, Louisville, KY: null
+5100 Nuka Road. An officer was en route, Louisville, KY: null
 5100 Olde Creek Way, Louisville, KY: null
 5100 Oldshire Rd near River Trail Dr, Louisville, KY:
   lat: 38.1086387
@@ -16637,6 +16647,10 @@
 7300 Oswego Cir, Louisville, KY:
   lat: 38.157035
   lng: -85.804931
+7300 Patrick Henry Rd due, Louisville, KY: null
+7300 Patrick Henry Rd, Louisville, KY:
+  lat: 38.141105
+  lng: -85.756759
 7300 Right-hand Way, Louisville, KY: null
 7300 Right-hand Way. A 66-year-old female had reportedly fallen out of her chair and needed assistance, Louisville, KY: null
 7300 Six Mile Lanex, Louisville, KY: null
