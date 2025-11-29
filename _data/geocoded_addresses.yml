@@ -2084,6 +2084,9 @@
 11000 Pyramid Rd, Louisville, KY:
   lat: 38.0857659
   lng: -85.663196
+11000 Sandwood Pl, Louisville, KY:
+  lat: 38.0939431
+  lng: -85.8587312
 ? 11000 Shelbyville Rd to conduct a welfare check on an individual. The purpose of
   the check was to ensure the resident's safety and well-being. Further details regarding
   the outcome of this check were not provided., Louisville, KY
@@ -6762,6 +6765,9 @@
 2200 Hale Ave. Some units were involved directly, while others were placed, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
+2200 Hill, Louisville, KY:
+  lat: 38.2458751
+  lng: -85.6963793
 2200 Holiday Manor Center, Louisville, KY: null
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched to investigate the cause of the alarm., Louisville,
@@ -9652,6 +9658,7 @@
 3400 Barton Road, Louisville, KY:
   lat: 38.114744
   lng: -85.8695175
+3400 Cathy Dexter, Louisville, KY: null
 3400 Dill Park Terrace, Louisville, KY: null
 3400 Dr, Louisville, KY: null
 3400 Dr. William G. Weathers Drive. This stop was reportedly connected, Louisville, KY: null
@@ -16418,6 +16425,9 @@
   lat: 38.256087
   lng: -85.7509255
 7300 Beechhorns, Louisville, KY: null
+7300 Brookline Ave, Louisville, KY:
+  lat: 38.1751694
+  lng: -85.7789644
 7300 Christian Way, Louisville, KY:
   lat: 38.2471058
   lng: -85.6070451
