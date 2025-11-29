@@ -3891,6 +3891,7 @@
 1500 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+1500 Olenda Ave, Louisville, KY: null
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
@@ -6993,6 +6994,9 @@
   lat: 38.2509386
   lng: -85.7897525
 2300 Montgomery St, Louisville, KY:
+  lat: 38.27077
+  lng: -85.785284
+2300 Montgomery St. The alarm was triggered by a smoke detector, Louisville, KY:
   lat: 38.27077
   lng: -85.785284
 2300 Oregon Ave, Louisville, KY:
@@ -10328,6 +10332,13 @@
 3800 Klondike Ln near Klonway Dr, Louisville, KY:
   lat: 38.209664
   lng: -85.639452
+3800 Klondike Ln, Louisville, KY:
+  lat: 38.209664
+  lng: -85.639452
+? 3800 Klondike Ln. The alarm began sounding around 8:10 p.m. Responding units arrived
+  at the location shortly after, around 8:12 p.m.,, Louisville, KY
+: lat: 38.209664
+  lng: -85.639452
 ? 3800 Little Bend Rd who may have fallen. EMS requested a rapid response to reach
   the patient. Units were on scene to assess the situation and provide medical attention.,
   Louisville, KY
@@ -11665,6 +11676,7 @@
   lng: -85.8400757
 4100 Town Center Growth, Louisville, KY: null
 4100 Town Center Growth, raising concerns it might be stolen. Police units responded, Louisville, KY: null
+4100 Town Center, Louisville, KY: null
 4100 Towne Center Dr, Louisville, KY:
   lat: 38.2990939
   lng: -85.553818
@@ -17122,6 +17134,9 @@
   responding units were able, Louisville, KY
 : lat: 38.1373907
   lng: -85.8651361
+8000 Dixie Hwy, Louisville, KY:
+  lat: 38.1353679
+  lng: -85.8452257
 8000 Gateway Dr, Louisville, KY: null
 8000 Gateway Dr. Responding units were dispatched, Louisville, KY: null
 8000 Glimmer Drive, Louisville, KY: null
