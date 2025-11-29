@@ -1413,6 +1413,7 @@
 ? 1000 South Dr Dr. The caller stated that threats were made against the petitioner
   when they entered the location., Louisville, KY
 : null
+1000 South Forth Street, Louisville, KY: null
 1000 South Hancock, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
@@ -3309,6 +3310,7 @@
   lat: 38.0861158
   lng: -85.5865049
 13300 an unspecified street, Louisville, KY: null
+1337 an unspecified street, Louisville, KY: null
 13400 Dixie Hwy, Louisville, KY:
   lat: 38.0622073
   lng: -85.8871834
@@ -9435,6 +9437,10 @@
 3100 South 2nd Street, Louisville, KY:
   lat: 38.204435
   lng: -85.763317
+? 3100 South 3rd Street concerning a report of an ETO (Electronic Transaction Order)
+  violation. Information suggested that an individual had taken money from a bank
+  account, Louisville, KY
+: null
 3100 South 3rd Street, Louisville, KY:
   lat: 38.2191858
   lng: -85.7614601
