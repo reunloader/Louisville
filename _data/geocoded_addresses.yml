@@ -495,6 +495,9 @@
 100 Royer Ct, Louisville, KY:
   lat: 38.258948
   lng: -85.687745
+100 S Clay St, Louisville, KY:
+  lat: 38.254678
+  lng: -85.739931
 100 S Jackson St, Louisville, KY:
   lat: 38.255118
   lng: -85.743963
@@ -2060,6 +2063,9 @@
 1100 West Broadway, near South 11th Street,, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
+1100 West Indian Trail, Louisville, KY:
+  lat: 38.1647205
+  lng: -85.7080512
 1100 block of [Location Unspecified], Louisville, KY: null
 1100 block, Louisville, KY: null
 1100 the hospital, Louisville, KY: null
@@ -12732,6 +12738,9 @@
 4600 Lynnbrook Dr, Louisville, KY:
   lat: 38.2329773
   lng: -85.6162877
+4600 North 28th Street, Louisville, KY:
+  lat: 38.2683439
+  lng: -85.794838
 4600 S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
