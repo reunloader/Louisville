@@ -4202,6 +4202,9 @@
 1600 Pembroke Rd. Police units were dispatched, Louisville, KY:
   lat: 38.2238961
   lng: -85.6240166
+1600 Plymouth Ct, Louisville, KY:
+  lat: 38.250414
+  lng: -85.778023
 1600 Poplar Level Rd, Louisville, KY:
   lat: 38.21745
   lng: -85.72667
@@ -8345,6 +8348,7 @@
   KY
 : null
 300 Baker Aly ROAD, noted, Louisville, KY: null
+300 Baker and 300 block of Adam, Louisville, KY: null
 300 Baker and 300 block of Charlie, Louisville, KY: null
 300 Baker, Louisville, KY:
   lat: 38.1417259
@@ -18351,6 +18355,9 @@
   lat: 38.1252616
   lng: -85.7419306
 9700 Linn Station Rd, Louisville, KY: null
+9700 Northridge Dr, Louisville, KY:
+  lat: 38.1135144
+  lng: -85.8284852
 9700 Polaris Dr, Louisville, KY:
   lat: 38.10888
   lng: -85.695595
