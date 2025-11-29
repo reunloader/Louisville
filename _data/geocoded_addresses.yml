@@ -5265,6 +5265,7 @@
   during the altercation. Police units arrived on scene, Louisville, KY
 : null
 200 Adam and 200 block of Charlie, Louisville, KY: null
+200 Adam and 300 block of or6, Louisville, KY: null
 200 Adam to investigate., Louisville, KY: null
 200 Adam, Louisville, KY:
   lat: 38.1049397
@@ -6444,6 +6445,9 @@
 20200 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+2100 Adam, Louisville, KY:
+  lat: 38.1049397
+  lng: -85.8430902
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
   lng: -85.4851725
@@ -18638,6 +18642,7 @@
 9900 Taylor's Hill Rd, Louisville, KY: null
 9900 West Ave, Louisville, KY: null
 9900 West Ave, with a large blaze visible behind the location. Responding units canceled their response, Louisville, KY: null
+Abell Ave and Olive St, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
 Adams St and Weller Ave, Louisville, KY: null
 Alarby Avenue and Woodbourne Ave, Louisville, KY: null
