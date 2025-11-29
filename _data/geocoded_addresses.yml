@@ -189,6 +189,9 @@
 100 East W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
 100 East W Kingston Ave. Police units were sent, Louisville, KY: null
 100 East W W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
+100 Eastern Parkway, Louisville, KY:
+  lat: 38.213645
+  lng: -85.762113
 100 Eastwood Long Avenue, Louisville, KY: null
 100 Edgewood Way, Louisville, KY:
   lat: 38.249039
@@ -644,6 +647,9 @@
 100 W Witherspoon St near 2nd Street, Louisville, KY:
   lat: 38.2578208
   lng: -85.7520879
+100 Webster St, Louisville, KY:
+  lat: 38.257183
+  lng: -85.726966
 100 West Adairmber, Louisville, KY: null
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
@@ -2328,6 +2334,15 @@
 11800 Electron Dr, Louisville, KY:
   lat: 38.2046267
   lng: -85.5373667
+11800 Standiford Plaza Dr, Louisville, KY:
+  lat: 38.0921635
+  lng: -85.6679085
+11800 Standiford Plaza Dr. Responding units were dispatched, Louisville, KY:
+  lat: 38.0921635
+  lng: -85.6679085
+11800 Standiford Plaza Dr. Units from the 7th Division were en route, Louisville, KY:
+  lat: 38.0921635
+  lng: -85.6679085
 11900 Sanford Plaza in response, Louisville, KY: null
 11900 Sanford Plaza, Louisville, KY: null
 11900 Shelbyville Rd, Louisville, KY:
@@ -2785,6 +2800,12 @@
   lat: 38.2272814
   lng: -85.7757137
 1200 West Kentucky at State Products, Louisville, KY: null
+1200 West Kentucky, Louisville, KY:
+  lat: 38.2272814
+  lng: -85.7757137
+1200 West Kentucky. Police units were actively searching, Louisville, KY:
+  lat: 38.2272814
+  lng: -85.7757137
 ? 1200 Westhill Cir for a 67-year-old male experiencing significant shortness of breath
   and dizziness. Emergency medical services were observed in the vicinity of Furman
   and Taylorsville Rd, responding to provide assistance to the individual., Louisville,
@@ -9603,6 +9624,7 @@
 ? 3200 Broeck Pointe Cir, near Rock Point Road, who was experiencing an asthma attack.
   EMS provided assistance, Louisville, KY
 : null
+3200 Callaway Drive, Louisville, KY: null
 3200 Cramsway and Crossroad, Louisville, KY: null
 3200 Dumesnil St. Police units responded, Louisville, KY:
   lat: 38.237293
@@ -16535,6 +16557,12 @@
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
   lng: -85.5439541
+7000 Catalpa Springs Dr, Louisville, KY:
+  lat: 38.1240421
+  lng: -85.6318708
+7000 Catalpa Springs Dr. The reporting party had not been in contact with the individual, Louisville, KY:
+  lat: 38.1240421
+  lng: -85.6318708
 7000 Crossroads, Louisville, KY: null
 7000 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
@@ -18086,6 +18114,10 @@
 8800 Big Tree Way, Louisville, KY:
   lat: 38.1994302
   lng: -85.600842
+? 8800 Dixie Hwy following a report of a disorderly individual. The person, described
+  as possibly intoxicated, had reportedly fallen asleep inside the establishment and
+  was asked, Louisville, KY
+: null
 8800 Dixie Hwy, Louisville, KY:
   lat: 38.125443
   lng: -85.8527303
