@@ -6367,6 +6367,9 @@
 2000 Cherokee Pky, Louisville, KY:
   lat: 38.2345
   lng: -85.713684
+2000 Colonial Oaks Ct, Louisville, KY:
+  lat: 38.1746863
+  lng: -85.7602178
 2000 Douglass Blvd, Louisville, KY:
   lat: 38.2247267
   lng: -85.6929625
@@ -6878,6 +6881,9 @@
 2200 Bardstown Rd, Louisville, KY:
   lat: 38.2242801
   lng: -85.6937899
+2200 Bonnycastle Ave, Louisville, KY:
+  lat: 38.233694
+  lng: -85.699703
 2200 Broadway, Louisville, KY:
   lat: 38.2490337
   lng: -85.7884977
@@ -19499,6 +19505,9 @@ Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Ave and Woodland Ave, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
+Southern Pky and Oakdale Ave, Louisville, KY:
+  lat: 38.1924908
+  lng: -85.76701
 Spring Dr and Rock Bay Dr, Louisville, KY: null
 Springdale Rd and Brownsboro Rd, Louisville, KY:
   lat: 38.2933856
