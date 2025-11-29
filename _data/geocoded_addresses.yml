@@ -8561,6 +8561,7 @@
 300 Baker Aly ROAD, noted, Louisville, KY: null
 300 Baker and 300 block of Adam, Louisville, KY: null
 300 Baker and 300 block of Charlie, Louisville, KY: null
+300 Baker and the 300 block of Charlie, Louisville, KY: null
 300 Baker, Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
@@ -10855,11 +10856,13 @@
   was being removed from the roadway, Louisville, KY
 : null
 400 Adam and the 400 block of Baker, Louisville, KY: null
+400 Adam was involved in the response, Louisville, KY: null
 400 Adam were involved in addressing the situation, Louisville, KY: null
 400 Adam were involved in addressing the situation., Louisville, KY: null
 400 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+400 Adam, the 4900 block of Southside Dr, and the 500 block of Adam, Louisville, KY: null
 400 Adams St, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
@@ -13196,6 +13199,9 @@
   lat: 38.176142
   lng: -85.7635837
 4900 South First Street, Louisville, KY: null
+4900 Southside Dr, Louisville, KY:
+  lat: 38.1764876
+  lng: -85.7651435
 4900 Terry Rd, Louisville, KY:
   lat: 38.178
   lng: -85.86195
@@ -13226,6 +13232,7 @@
   lng: -85.6180141
 500 Adam and the 500 block of Baker, Louisville, KY: null
 500 Adam and the 500 block of Baker., Louisville, KY: null
+500 Adam were involved, Louisville, KY: null
 500 Adam, 400 block of David, and 400 block of Adam, checked the vehicle. It was determined, Louisville, KY: null
 500 Adam, Louisville, KY:
   lat: 38.2075051
