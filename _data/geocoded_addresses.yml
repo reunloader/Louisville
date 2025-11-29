@@ -4594,6 +4594,7 @@
   involved in managing the situation and arranging, Louisville, KY
 : null
 1700 South Second Street, Louisville, KY: null
+1700 South38 and 3800 block of Vaughn, Louisville, KY: null
 1700 Southcrest Dr, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
@@ -4930,6 +4931,7 @@
 1800 Millwood Ct, Louisville, KY:
   lat: 38.1674751
   lng: -85.5765149
+1800 Nellis Lee, Louisville, KY: null
 1800 Neville Dr near Hillview Ave, Louisville, KY: null
 1800 Newburg Rd, Louisville, KY:
   lat: 38.222825
@@ -5223,6 +5225,10 @@
 1900 W Chestnut St, Louisville, KY:
   lat: 38.2514824
   lng: -85.7828934
+1900 W Jefferson St ajar, Louisville, KY: null
+1900 W Jefferson St, Louisville, KY:
+  lat: 38.256524
+  lng: -85.78201
 1900 W Main St, Louisville, KY:
   lat: 38.2590525
   lng: -85.7816717
@@ -10494,6 +10500,7 @@
   lat: 38.131362
   lng: -85.6927312
 3800 Tuesday Way. Further investigation into the incident was conducted by responding units., Louisville, KY: null
+3800 Vaughn, with the children's location specified as the 1700 block of South38, Louisville, KY: null
 3800 W Market St in response, Louisville, KY: null
 3800 W Market St, Louisville, KY:
   lat: 38.2611333
@@ -17237,6 +17244,9 @@
   to investigate the vehicle's presence. The call was later transferred to St. Matthews,
   Louisville, KY
 : null
+800 West Broadway, Louisville, KY:
+  lat: 38.246604
+  lng: -85.765197
 800 West Lee, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
