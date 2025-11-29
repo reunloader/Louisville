@@ -1698,6 +1698,9 @@
 10700 Colonial Woods Way. Emergency services were dispatched, Louisville, KY:
   lat: 38.2501443
   lng: -85.5576258
+10700 Eagle Ridge Pl, Louisville, KY:
+  lat: 38.255025
+  lng: -85.5580103
 10700 Eagle Ridge Pl, near Century Division Way, due to a residential alarm activation., Louisville, KY: null
 10700 Eagle Ridge Pl, near Century Division Way, due, Louisville, KY:
   lat: 38.255025
@@ -2112,6 +2115,10 @@
 11000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+11000 Westport Rd and Factory Ln and Chamberlain Ln, Louisville, KY: null
+11000 Westport Rd, Louisville, KY:
+  lat: 38.2909338
+  lng: -85.5653666
 11000 Wooded Creek Dr between Row Lung Drive and Hays Leaning, Louisville, KY: null
 1108 Bardstown Road, Louisville, KY:
   lat: 38.2380298
@@ -3790,6 +3797,7 @@
   in the search. Emergency medical services were requested to the scene. The individual
   was ultimately transported, Louisville, KY
 : null
+14600 Landis Lake Shroud, Louisville, KY: null
 14600 Landon Ct, Louisville, KY:
   lat: 38.2365686
   lng: -85.4946408
@@ -18686,6 +18694,7 @@
 ? 9600 Leopold Woods Loop. An employee found the child and brought her into their
   office, unsure of her residence. Police units responded, Louisville, KY
 : null
+9600 Millstone Dr, Louisville, KY: null
 9600 Starmont Rd, Louisville, KY: null
 9600 Yarmouth Ct, Louisville, KY:
   lat: 38.111461
@@ -19044,6 +19053,7 @@ Elda Dr and Terry Rd, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
+Factory Ln and Chamberlain Ln, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
 Fern Valley Rd and Cherison Boulevard, Louisville, KY: null
@@ -19360,6 +19370,7 @@ Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westbrook Rd and Fox Ave, Louisville, KY: null
 Westport Rd and Chamberlain Ln, Louisville, KY: null
 Westport Rd and Deuce Creek Road, Louisville, KY: null
+Westport Rd and Factory Ln, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
