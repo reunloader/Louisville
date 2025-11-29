@@ -4149,6 +4149,9 @@
 1600 Arthur St, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
+1600 Arthur St. Emergency personnel responded promptly, Louisville, KY:
+  lat: 38.223421
+  lng: -85.751404
 ? 1600 Arthur Street for a call regarding the retrieval of firearms. This incident
   involved coordinating multiple units to ensure the safe recovery of the items. The
   situation required careful attention to detail and adherence to established protocols.
@@ -19233,6 +19236,7 @@ Mallet Hill Dr and Calderon Park Lane, Louisville, KY: null
 Manslick Rd and Holly Park Dr, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
+Market St and Main St, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mary Catherine Dr and Ecton Ln, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
@@ -19319,6 +19323,7 @@ Scrim Ave and Libby Ln, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
 Second Street and Kentucky Ave, Louisville, KY: null
+Second Street and Main St, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sharp Ave and Lindbergh Dr, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
