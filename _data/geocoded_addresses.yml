@@ -43,6 +43,8 @@
 100 Adams, Louisville, KY:
   lat: 38.257812
   lng: -85.725484
+100 Aircoys Garden Drive, Louisville, KY: null
+100 Aircoys Garden Drive. Police units were dispatched, Louisville, KY: null
 100 Alger Ave near South Second and Southside Dr, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
@@ -8803,6 +8805,9 @@
 300 South 20th Street, Louisville, KY:
   lat: 38.256743
   lng: -85.784366
+300 South 4th Street, Louisville, KY:
+  lat: 38.2536681
+  lng: -85.7572606
 300 South Bailey, Louisville, KY: null
 300 South Third Street, Louisville, KY: null
 300 South Winslow Street, Louisville, KY: null
