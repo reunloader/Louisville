@@ -3375,6 +3375,9 @@
   lng: -85.7866238
 1400 Boca Ridge, Louisville, KY: null
 1400 Brown Plain, Louisville, KY: null
+1400 Browns Ln, Louisville, KY:
+  lat: 38.2342628
+  lng: -85.6295356
 1400 Browns Ln,, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
@@ -11981,6 +11984,9 @@
   lat: 38.273645
   lng: -85.815048
 4200 Papa Johns Blvd, Louisville, KY: null
+4200 Riviera Dr, Louisville, KY:
+  lat: 38.291347
+  lng: -85.672239
 4200 Seabiscuit Way, Louisville, KY:
   lat: 38.0911177
   lng: -85.8518001

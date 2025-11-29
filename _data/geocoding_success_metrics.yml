@@ -17727,4 +17727,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 2
   batch_new_successes: 0
-last_updated: '2025-11-29T13:37:52.834474'
+- timestamp: '2025-11-29T13:58:06.892005'
+  total_addresses: 7958
+  successful: 3858
+  failed: 4100
+  success_rate: 48.48
+  failure_rate: 51.52
+  failure_patterns:
+    Incomplete/vague address: 771
+    Intersection format: 657
+    Contains location qualifiers (near/at): 1549
+    Other/Unknown: 755
+    Police phonetic codes: 2
+    Contains extra sentences/context: 366
+  batch_success_rate: 100.0
+  batch_new_addresses: 2
+  batch_new_successes: 2
+last_updated: '2025-11-29T13:58:06.892109'
