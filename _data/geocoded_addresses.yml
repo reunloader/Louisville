@@ -2174,6 +2174,7 @@
 11100 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+11100 South Fork Street, Louisville, KY: null
 11100 Vista Greens Dr, Louisville, KY: null
 11200 Deham Dr, Louisville, KY:
   lat: 38.3231294
@@ -2270,6 +2271,7 @@
 11400 River Falls Dr, Louisville, KY:
   lat: 38.0916803
   lng: -85.8859695
+11400 South Forrest Street, Louisville, KY: null
 11400 Westport Rd, Louisville, KY:
   lat: 38.2990576
   lng: -85.5393666
@@ -7370,6 +7372,9 @@
 2300 W Kentucky St, Louisville, KY:
   lat: 38.2421496
   lng: -85.7920187
+2300 W Madison St, Louisville, KY:
+  lat: 38.2533447
+  lng: -85.7894554
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
@@ -7604,6 +7609,9 @@
   lat: 38.2601536
   lng: -85.78995
 2400 W Market St, Louisville, KY: null
+2400 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2546408
+  lng: -85.7917199
 2400 W W Market St, Louisville, KY: null
 2400 West Ali, Louisville, KY:
   lat: 38.2546408
@@ -9673,6 +9681,7 @@
   lat: 38.2076133
   lng: -85.6642191
 3200 Hoover Barton Rd, Louisville, KY: null
+3200 Judson's Lane, Louisville, KY: null
 3200 Kevin's Drive, Louisville, KY: null
 3200 Kevin's Drive. Further details about this incident are not yet available., Louisville, KY: null
 3200 Kimmins Drive, Louisville, KY: null
@@ -16399,6 +16408,9 @@
 700 South 3rd Street near York and Broadway, Louisville, KY:
   lat: 38.243928
   lng: -85.757184
+700 South 43rd Street, Louisville, KY:
+  lat: 38.250296
+  lng: -85.823634
 700 South 44th Street, Louisville, KY:
   lat: 38.250016
   lng: -85.8252992
