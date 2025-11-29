@@ -11694,6 +11694,7 @@
 400 were involved in investigating the report, Louisville, KY: null
 400 were involved in investigating the report., Louisville, KY: null
 4000 7th St and Parkway, Louisville, KY: null
+4000 Alton Rd, Louisville, KY: null
 4000 Apex Gardens Dr, Louisville, KY: null
 4000 Bardstown Rd, Louisville, KY:
   lat: 38.1927348
@@ -14887,6 +14888,9 @@
   units were dispatched, Louisville, KY
 : lat: 38.2112021
   lng: -85.7467825
+600 Lower Terminal Dr, Louisville, KY:
+  lat: 38.1888028
+  lng: -85.7398313
 600 Lucas Ln, Louisville, KY:
   lat: 38.2777186
   lng: -85.5238482
@@ -15082,6 +15086,9 @@
 600 W Oak St, Louisville, KY:
   lat: 38.235252
   lng: -85.763814
+600 W River Rd, Louisville, KY:
+  lat: 38.2750509
+  lng: -85.7028488
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
@@ -16427,6 +16434,9 @@
 700 South Jackson, and EMS response was canceled, Louisville, KY: null
 700 South Jackson, and EMS response was canceled., Louisville, KY: null
 700 South Second Street, Louisville, KY: null
+700 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 700 South33rd Street, Louisville, KY: null
 700 South39th Street, Louisville, KY:
   lat: 38.250054
