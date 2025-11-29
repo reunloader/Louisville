@@ -10,6 +10,9 @@
 01 Cedar Springs Boulevard, Louisville, KY:
   lat: 38.1432222
   lng: -85.5848863
+01 Determine Ln, Louisville, KY:
+  lat: 38.1707293
+  lng: -85.8414669
 01 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
@@ -4028,6 +4031,7 @@
   lat: 38.0762726
   lng: -85.8819062
 1500 Olenda Ave, Louisville, KY: null
+1500 Ormsby Ln, Louisville, KY: null
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
@@ -5788,6 +5792,9 @@
 200 Linden Ln, Louisville, KY:
   lat: 38.257169
   lng: -85.694641
+200 Long Home Rd, Louisville, KY:
+  lat: 38.1214354
+  lng: -85.5730836
 200 Lysander Dr, Louisville, KY: null
 200 Marina Dr, Louisville, KY:
   lat: 38.3312116
