@@ -1061,6 +1061,10 @@
 1000 N Preston Hwy, prompting a response from police units. Officers arrived at the location, Louisville, KY:
   lat: 38.2187858
   lng: -85.7607146
+? 1000 N Preston Hwy. No further descriptive information about the vehicle was provided.
+  Police units were dispatched, Louisville, KY
+: lat: 38.1819023
+  lng: -85.7203622
 ? 1000 N Preston Hwy. Officers responded to the area to observe the circumstances
   and determine if any further action was required. The specific details of the suspicious
   activity were not immediately available., Louisville, KY
@@ -1113,6 +1117,19 @@
   lng: -85.7203622
 1000 N Preston Hwy. Responding units proceeded, Louisville, KY:
   lat: 38.1819023
+  lng: -85.7203622
+? 1000 N Preston Hwy. Specific details regarding the nature of the emergency or the
+  patient's condition were not immediately available. Responding units were dispatched,
+  Louisville, KY
+: lat: 38.1819023
+  lng: -85.7203622
+? 1000 N Preston Hwy. The exact nature of the activity was not specified in the report.
+  Police units were sent, Louisville, KY
+: lat: 38.1819023
+  lng: -85.7203622
+? 1000 N Preston Hwy. The specific reasons prompting the welfare check were not detailed.
+  Responding officers were assigned, Louisville, KY
+: lat: 38.1819023
   lng: -85.7203622
 ? 1000 N Preston Hwy. Units were dispatched to the area to investigate the vehicle
   and its occupants. The purpose of the observation was to ensure public safety and
