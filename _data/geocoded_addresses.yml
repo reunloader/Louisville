@@ -7059,6 +7059,9 @@
 2300 Taylorsville Rd, Louisville, KY:
   lat: 38.2233603
   lng: -85.6813009
+2300 Terrier Ct, Louisville, KY:
+  lat: 38.2072084
+  lng: -85.6657537
 2300 Tuckaho Rd, Louisville, KY:
   lat: 38.2855111
   lng: -85.6491928
@@ -9110,6 +9113,7 @@
   lat: 38.2298984
   lng: -85.7515509
 3100 Fay Woodway, Louisville, KY: null
+3100 Fey Woodway, Louisville, KY: null
 3100 Franklin Farmer's Way, Louisville, KY: null
 ? 3100 Franklin Farmer's Way. Police units were on scene to address the situation.
   The responding officer reported the situation was cleared without further incident.,
@@ -9129,6 +9133,9 @@
 3100 Lakeheath Dr, Louisville, KY:
   lat: 38.1712758
   lng: -85.7025823
+3100 Maywood Pl, Louisville, KY:
+  lat: 38.219384
+  lng: -85.640857
 3100 Michael Dr near Michael Way, Louisville, KY:
   lat: 38.1396811
   lng: -85.6240706
