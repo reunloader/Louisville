@@ -5550,6 +5550,7 @@
 : null
 200 East, between Coppola and Newburgh. Police units responded, Louisville, KY: null
 200 East, causing property damage. This dangerous activity posed a risk, Louisville, KY: null
+200 East, just before the Bardstown Rd exit, Louisville, KY: null
 ? 200 East, under the overpass. The vehicle that was struck was a silver sedan, while
   the striking vehicle was identified as a black Ford F-150. Police units were sent,
   Louisville, KY
@@ -5661,6 +5662,9 @@
   lat: 38.257169
   lng: -85.694641
 200 Lysander Dr, Louisville, KY: null
+200 Marina Dr, Louisville, KY:
+  lat: 38.3312116
+  lng: -85.6256915
 200 Marty Ln, Louisville, KY:
   lat: 38.1595879
   lng: -85.6727403
@@ -15781,6 +15785,9 @@
 700 Exmoor, Louisville, KY:
   lat: 38.255781
   lng: -85.5677801
+700 Fairdale Rd, Louisville, KY:
+  lat: 38.1077703
+  lng: -85.7545776
 700 Fairhill Dr near Green Ridge and Jarvis, Louisville, KY:
   lat: 38.26776
   lng: -85.690059
@@ -16194,6 +16201,9 @@
   lat: 38.1569645
   lng: -85.7038308
 7000 Foxcroft Pl, Louisville, KY: null
+7000 Global Dr, Louisville, KY:
+  lat: 38.1386253
+  lng: -85.8889456
 7000 Leisure Landing Court 4:00 a, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
 7000 Masonic Home Dr, Louisville, KY:
@@ -16459,6 +16469,12 @@
 7300 Fairhill Dr, Louisville, KY:
   lat: 38.2691938
   lng: -85.6916813
+7300 Fox Hollow Way, Louisville, KY:
+  lat: 38.1392239
+  lng: -85.6262327
+7300 Fox Hollow Way, near Cousin Bond Mill Road. Responding units were dispatched, Louisville, KY:
+  lat: 38.1392239
+  lng: -85.6262327
 7300 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
