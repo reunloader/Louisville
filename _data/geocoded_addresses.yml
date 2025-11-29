@@ -6096,6 +6096,7 @@
 2000 Bardstown Rd, Louisville, KY:
   lat: 38.225579
   lng: -85.696397
+2000 Berry Blvd and 1700 block of South 3rd Street, Louisville, KY: null
 2000 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
@@ -12625,6 +12626,9 @@
   in the care of those present., Louisville, KY
 : null
 4700 Hunter's Dupont Cir, Louisville, KY: null
+4700 Kerrick Ln, Louisville, KY:
+  lat: 38.1538871
+  lng: -85.8382103
 ? 4700 Mill Trace Place. The caller indicated that family members were attempting
   to harm them and refused to provide a specific apartment number. Responding units
   were dispatched to investigate the situation and ensure the safety of those involved.,
@@ -15351,6 +15355,9 @@
 6900 Arbor Creek Dr. Responding units were dispatched, Louisville, KY:
   lat: 38.122131
   lng: -85.616247
+6900 Betsy Ross Dr, Louisville, KY:
+  lat: 38.056368
+  lng: -85.893516
 6900 Bradley Square Road, Louisville, KY: null
 6900 Brooklawn Dr, Louisville, KY:
   lat: 38.1538637
@@ -16638,6 +16645,9 @@
   who had recently returned home from the hospital, was experiencing severe difficulty
   breathing and was unable, Louisville, KY
 : null
+7800 Kim Dr, Louisville, KY:
+  lat: 38.1364577
+  lng: -85.7683027
 ? 7800 Laurel Ridge Road to check on the well-being of a resident. Concerns were raised
   when officers found the door to a 90-year-old female's home ajar and received no
   response. Officers made entry to ensure the individual was safe and sound., Louisville,
@@ -16857,6 +16867,9 @@
 800 Foxgate Rd, Louisville, KY:
   lat: 38.252958
   lng: -85.552025
+800 Glen Hollow Dr, Louisville, KY:
+  lat: 38.1496915
+  lng: -85.7759209
 800 Granite Dr, Louisville, KY: null
 800 Grintwood Avenue 05:20 p, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
@@ -17699,7 +17712,9 @@
 900 Hang-up (Motel Six), Louisville, KY: null
 900 Hang-up**, Louisville, KY: null
 900 Hang-up, Louisville, KY: null
+900 Hang-up/Disturbance**, Louisville, KY: null
 900 Hang-up/Disturbance, Louisville, KY: null
+900 Hang-up/Suspicious Circumstances**, Louisville, KY: null
 900 I 65 South, Louisville, KY: null
 900 I64 East near I 64 East, Louisville, KY:
   lat: 38.2622602
