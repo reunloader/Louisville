@@ -6000,6 +6000,9 @@
 ? 200 West [Unspecified Street] near River Park Dr. Police units were involved in
   this traffic enforcement action., Louisville, KY
 : null
+200 West at Bank St, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West at Cane Run Rd, Louisville, KY: null
 ? 200 West at Cane Run Rd. The fire was located on the left side of the roadway. Engine
   21, Engine 9, and Quinn 25 responded to the scene., Louisville, KY
@@ -6025,6 +6028,9 @@
   Louisville, KY
 : null
 200 West from I-64 West, Louisville, KY: null
+200 West near Kentucky Drive, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West near mile marker 2, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -6037,6 +6043,9 @@
 200 West toward Shelbyville Rd. Police units were alerted to monitor for the vehicle., Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor, Louisville, KY: null
 200 West, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
+200 West, near Kentucky Drive. Police units responded, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
 200 West, which presented some logistical challenges for emergency responders., Louisville, KY: null
