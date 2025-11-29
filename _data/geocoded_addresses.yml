@@ -1674,6 +1674,9 @@
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
+10900 Albion Dr, Louisville, KY:
+  lat: 38.0966305
+  lng: -85.8657587
 10900 Jackson Way, Louisville, KY: null
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
@@ -13054,6 +13057,9 @@
 500 Court Pl, Louisville, KY:
   lat: 38.254648
   lng: -85.758715
+500 Creel Ave, Louisville, KY:
+  lat: 38.212624
+  lng: -85.766096
 500 David and 12-59 responded to assess and manage the situation., Louisville, KY: null
 500 David and 12-59 responded, Louisville, KY: null
 500 David were dispatched to the scene., Louisville, KY: null
@@ -13328,6 +13334,9 @@
   lat: 38.0830482
   lng: -85.6581967
 5000 Greenbridge Way, Louisville, KY: null
+5000 Kaufman Ln, Louisville, KY:
+  lat: 38.180849
+  lng: -85.8620818
 5000 La Saver Drive, Louisville, KY: null
 ? 5000 Main Street. Officers conducted their investigation and cleared the scene.
   No further details were immediately available regarding the nature of the stop.
@@ -17115,6 +17124,9 @@
   lat: 38.1859027
   lng: -85.7429972
 800 westbound between Bardstown and Wheelichurch, Louisville, KY: null
+8000 Afterglow Dr, Louisville, KY:
+  lat: 38.1342766
+  lng: -85.7813271
 ? 8000 Bardstown Rd following a report of a 60-year-old male experiencing chest pain.
   Responders arrived on scene and provided care to the patient. The individual was
   subsequently transported to a local hospital for further medical evaluation and
@@ -18440,6 +18452,7 @@
 : lat: 38.1140967
   lng: -85.8526359
 9800 Somerford Rd, Louisville, KY: null
+9800 VU Cady Dr, Louisville, KY: null
 9800 Vukra Drive, Louisville, KY: null
 9800 Williamsborough Ln, Louisville, KY:
   lat: 38.156523
@@ -18777,6 +18790,7 @@ Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mary Catherine Dr and Ecton Ln, Louisville, KY: null
+Matha Ave and Taylor Blvd, Louisville, KY: null
 Mellwood Ave and Lake Ave, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
 Michael Ray Dr and Rochelle Rd, Louisville, KY: null
