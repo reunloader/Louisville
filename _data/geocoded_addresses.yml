@@ -6280,6 +6280,9 @@
   lat: 38.1453565
   lng: -85.7758564
 2000 7th St Rene Rd, Louisville, KY: null
+2000 Arnold Palmer Blvd, Louisville, KY:
+  lat: 38.2662921
+  lng: -85.486298
 2000 BMW four-door vehicle, Louisville, KY: null
 ? 2000 BMW four-door vehicle. The reporting party, who was on a landline, indicated
   the vehicle was associated with an individual named Robert. Further details, Louisville,
@@ -6839,6 +6842,9 @@
 2200 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
+2200 Cedar Brook Dr, Louisville, KY:
+  lat: 38.1334661
+  lng: -85.6665574
 2200 Chair Cross, Louisville, KY: null
 2200 Congress St, Louisville, KY:
   lat: 38.257775
@@ -13199,6 +13205,14 @@
 4900 Old Dixie Hwy. A key holder was en route, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4900 Outer Loop, Louisville, KY:
+  lat: 38.1373115
+  lng: -85.6687256
+? 4900 Outer Loop, near Academy Sports. The vehicle was running, and the child inside
+  was not in distress. Police units were also involved and remained on scene, Louisville,
+  KY
+: lat: 38.1373115
+  lng: -85.6687256
 4900 Paramount Dr, Louisville, KY:
   lat: 38.1347006
   lng: -85.8476647
@@ -16505,6 +16519,9 @@
   lat: 38.1863175
   lng: -85.628687
 7100 Bungan Avenue, Louisville, KY: null
+7100 Cedar Brook Dr, Louisville, KY:
+  lat: 38.1334661
+  lng: -85.6665574
 7100 Cedar Springs Blvd, Louisville, KY:
   lat: 38.1436823
   lng: -85.5849157
