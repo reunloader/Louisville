@@ -5493,6 +5493,10 @@
 200 E W College St, Louisville, KY:
   lat: 38.2432243
   lng: -85.7546559
+200 E W Jacob St in response, Louisville, KY: null
+200 E W Jacob St, Louisville, KY:
+  lat: 38.2444725
+  lng: -85.7544415
 200 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -7835,6 +7839,7 @@
   cab F-100 with damage to its front end. Responding units were dispatched to search
   the vicinity, Louisville, KY
 : null
+2600 Lynxville Lane, Louisville, KY: null
 2600 Madison, Louisville, KY:
   lat: 38.2540077
   lng: -85.7945055
