@@ -3737,6 +3737,7 @@
 1500 Algonquin Pky, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
+1500 Alley and Avenue, Louisville, KY: null
 1500 Alliant Avenue 9:00 a, Louisville, KY: null
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
 ? 1500 Anna Ln following a report of a medical emergency. A 64-year-old female was
@@ -6988,6 +6989,9 @@
 2300 Magazine St, Louisville, KY:
   lat: 38.2509386
   lng: -85.7897525
+2300 Montgomery St, Louisville, KY:
+  lat: 38.27077
+  lng: -85.785284
 2300 Oregon Ave, Louisville, KY:
   lat: 38.2211453
   lng: -85.7981096
@@ -10318,6 +10322,9 @@
   lat: 38.1627856
   lng: -85.8496073
 3800 I 64 West, Louisville, KY: null
+3800 Klondike Ln near Klonway Dr, Louisville, KY:
+  lat: 38.209664
+  lng: -85.639452
 ? 3800 Little Bend Rd who may have fallen. EMS requested a rapid response to reach
   the patient. Units were on scene to assess the situation and provide medical attention.,
   Louisville, KY
@@ -11101,6 +11108,9 @@
 : null
 400 South 8th Street due, Louisville, KY: null
 400 South 8th Street near West Liberty Alley, Louisville, KY: null
+400 South 8th Street near West Liberty, Louisville, KY:
+  lat: 38.2525979
+  lng: -85.7647916
 400 South 8th Street, Louisville, KY:
   lat: 38.2525979
   lng: -85.7647916
@@ -12555,6 +12565,9 @@
   lat: 38.1787602
   lng: -85.623961
 4700 Barsham Road, Louisville, KY: null
+4700 Brownsboro Gardens Dr near Brownsboro Gardens Cir, Louisville, KY:
+  lat: 38.309234
+  lng: -85.566726
 4700 Creek Tree Ct, Louisville, KY:
   lat: 38.1229922
   lng: -85.6810866
