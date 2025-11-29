@@ -40,6 +40,9 @@
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+100 Adams, Louisville, KY:
+  lat: 38.257812
+  lng: -85.725484
 100 Alger Ave near South Second and Southside Dr, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
@@ -118,6 +121,9 @@
   lat: 38.261105
   lng: -85.791325
 100 Crop St, near Croft Ct. The activation indicated that one round had been discharged., Louisville, KY: null
+100 David, Louisville, KY:
+  lat: 38.2066421
+  lng: -85.6738206
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
@@ -2698,6 +2704,9 @@
   interacting with individuals or vehicles, Louisville, KY
 : lat: 38.247499
   lng: -85.771798
+1200 West Hill, Louisville, KY:
+  lat: 38.2272814
+  lng: -85.7757137
 1200 West Kentucky at State Products, Louisville, KY: null
 ? 1200 Westhill Cir for a 67-year-old male experiencing significant shortness of breath
   and dizziness. Emergency medical services were observed in the vicinity of Furman
