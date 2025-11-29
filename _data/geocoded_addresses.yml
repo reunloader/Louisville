@@ -6973,6 +6973,9 @@
 2300 Bardstown Rd, Louisville, KY:
   lat: 38.223761
   lng: -85.6901595
+2300 Bardstown Rd. Emergency units were dispatched, Louisville, KY:
+  lat: 38.223761
+  lng: -85.6901595
 2300 Bardstown Rd. Responding units arrived, Louisville, KY:
   lat: 38.223761
   lng: -85.6901595
@@ -15741,6 +15744,7 @@
 700 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+700 E W Madison St following reports of an individual dressed in all black attempting, Louisville, KY: null
 700 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -16254,6 +16258,9 @@
 7100 Betsy Ross Dr, Louisville, KY:
   lat: 38.0579743
   lng: -85.8969414
+7100 Bronner Cir. Police units arrived on the scene, Louisville, KY:
+  lat: 38.1863175
+  lng: -85.628687
 7100 Bungan Avenue, Louisville, KY: null
 7100 Cedar Springs Blvd, Louisville, KY:
   lat: 38.1436823
@@ -17767,6 +17774,9 @@
   The responding officer investigated the circumstances surrounding the vehicle's
   presence., Louisville, KY
 : null
+8900 Fox Chase Pl, Louisville, KY:
+  lat: 38.116156
+  lng: -85.610862
 8900 Independence School Rd, Louisville, KY:
   lat: 38.1008283
   lng: -85.5989559
@@ -18721,6 +18731,7 @@ Bardstown Rd and Gladstone Ave, Louisville, KY: null
 Bardstown Rd and Goldsmith Ln, Louisville, KY: null
 Bardstown Rd and Grimstad Road, Louisville, KY: null
 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
+Bardstown Rd and Sherwood Ave, Louisville, KY: null
 Bardstown Rd and Stevens Ave, Louisville, KY: null
 Bardstown Rd and Taylorsville Rd, Louisville, KY: null
 Bargetown Road and Baxter Ave, Louisville, KY: null
