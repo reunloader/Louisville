@@ -1407,6 +1407,9 @@
 1000 W Jefferson St, Louisville, KY:
   lat: 38.2547629
   lng: -85.767472
+1000 W Liberty St, Louisville, KY:
+  lat: 38.253515
+  lng: -85.767348
 1000 W Market St, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -9277,6 +9280,9 @@
 3100 W Jefferson St, Louisville, KY:
   lat: 38.259411
   lng: -85.803356
+3100 W Magnolia Ave, Louisville, KY:
+  lat: 38.233181
+  lng: -85.806414
 3100 Wayside Dr, Louisville, KY: null
 3100 Winkler Ave, Louisville, KY:
   lat: 38.2109077
@@ -18972,6 +18978,7 @@ River Park Dr and Lewis Ln, Louisville, KY: null
 River Rd and River Shore Dr, Louisville, KY: null
 Rochelle Rd and Myrna Parkway, Louisville, KY: null
 Rochelle Rd and Sperna Parkway, Louisville, KY: null
+Rock Bluff Dr and Murphy Ln, Louisville, KY: null
 Rodman Avenue and Winkler Ave, Louisville, KY: null
 Rodman St and Atwood St, Louisville, KY: null
 Rodman St and Winkler Ave, Louisville, KY: null
