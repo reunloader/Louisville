@@ -437,6 +437,9 @@
   were then able, Louisville, KY
 : lat: 38.0762726
   lng: -85.8819062
+100 Olde English Ct, Louisville, KY:
+  lat: 38.116375
+  lng: -85.812006
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
@@ -6190,6 +6193,9 @@
 2000 Brownsboro Rd. A person being picked up, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Brownsboro Rd. This is a standard procedure, Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
 2000 Brownsboro Rd., Louisville, KY:
   lat: 38.259507
   lng: -85.707085
@@ -11817,6 +11823,9 @@
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
+4200 Allmond Ave, Louisville, KY:
+  lat: 38.193913
+  lng: -85.759019
 4200 Bardstown Rd, Louisville, KY:
   lat: 38.1882665
   lng: -85.6406943
