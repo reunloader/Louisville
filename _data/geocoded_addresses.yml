@@ -6194,6 +6194,9 @@
   lat: 38.2362268
   lng: -85.7394499
 2000 Lyndon Green Cir, Louisville, KY: null
+2000 Mobile, Louisville, KY:
+  lat: 38.2045522
+  lng: -85.8356961
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -10870,6 +10873,9 @@
   of the structure., Louisville, KY
 : null
 400 East W W Muhammad Ali Blvd, Louisville, KY: null
+400 Eastern Parkway, Louisville, KY:
+  lat: 38.212862
+  lng: -85.754074
 400 Eastgate Village Wynde, located across from Eastgate Village Dr,, Louisville, KY: null
 400 Edge to Meadows Edge Ln, Louisville, KY: null
 400 Edge, Louisville, KY:
@@ -13259,6 +13265,12 @@
   lat: 38.2007912
   lng: -85.8304039
 500 Wayne Wright, Louisville, KY: null
+500 West, Louisville, KY:
+  lat: 38.2350131
+  lng: -85.762185
+500 West. This is a service offered, Louisville, KY:
+  lat: 38.2350131
+  lng: -85.762185
 500 Wood Valley Ln, Louisville, KY: null
 500 Zorn Ave, Louisville, KY:
   lat: 38.2633
@@ -14690,6 +14702,7 @@
   of units to investigate the potential burglary., Louisville, KY
 : null
 6100 Dunevigan Road. There were indications of glass breaking, prompting a dispatch of units, Louisville, KY: null
+6100 Dutchman's Lane, Louisville, KY: null
 6100 E W Kentucky St, Louisville, KY: null
 ? 6100 Fern Valley Road, near the L&P Wellness Center. Initial reports indicated a
   gray Infinity was involved in the collision. Responding units worked to gather information
@@ -16599,6 +16612,9 @@
 7800 East. Fortunately, there were no injuries reported in this incident. Police units responded, Louisville, KY:
   lat: 38.1273921
   lng: -85.6164783
+7800 Eastern Parkway, Louisville, KY:
+  lat: 38.2251961
+  lng: -85.7251854
 ? 7800 Finley Avenue following a report of a medical emergency. A 78-year-old female,
   who had recently returned home from the hospital, was experiencing severe difficulty
   breathing and was unable to speak. Paramedics and Engine 4 responded to provide
