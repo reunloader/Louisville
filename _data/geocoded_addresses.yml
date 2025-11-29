@@ -9211,6 +9211,9 @@
 3100 Sora Ave, Louisville, KY:
   lat: 38.209995
   lng: -85.7247352
+3100 South 2nd Street at Kroger, Louisville, KY:
+  lat: 38.204435
+  lng: -85.763317
 3100 South 2nd Street, Louisville, KY:
   lat: 38.204435
   lng: -85.763317
@@ -9466,6 +9469,7 @@
 3200 Zilma Dr, Louisville, KY:
   lat: 38.1869231
   lng: -85.8574824
+3200 the boulevard, near South 33rd Street and South 32nd Street, Louisville, KY: null
 3201 East Indian Trail, Evening, Louisville, KY: null
 3259 David Street, Louisville, KY: null
 3300 Bardstown Rd, Louisville, KY:
