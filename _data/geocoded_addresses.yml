@@ -196,6 +196,7 @@
 100 Fenley Ave, Louisville, KY:
   lat: 38.2546069
   lng: -85.6711865
+100 Fenley Ave-7, Louisville, KY: null
 100 Flat Rock Rd as part of this ongoing response, Louisville, KY: null
 100 Flat Rock Rd, Louisville, KY:
   lat: 38.2361641
@@ -9402,6 +9403,7 @@
   lng: -85.8462836
 3200 Patricia Drive 4:00 a, Louisville, KY: null
 3200 Patricia Drive 4:00 a.m., Louisville, KY: null
+3200 Patricia Graff, Louisville, KY: null
 3200 Poplar Level, Louisville, KY:
   lat: 38.2109965
   lng: -85.7194148
@@ -9554,6 +9556,9 @@
   lat: 38.2848035
   lng: -85.5016557
 3300 Preston Hwy, Louisville, KY:
+  lat: 38.2009951
+  lng: -85.7342881
+3300 Preston, Louisville, KY:
   lat: 38.2009951
   lng: -85.7342881
 3300 Prodigy Place, Louisville, KY: null
@@ -14826,6 +14831,9 @@
 6100 Regal Springs Dr, Louisville, KY:
   lat: 38.2301475
   lng: -85.643849
+6100 Summer Creek Dr at Crossbottom Lake Drive, Louisville, KY:
+  lat: 38.0769588
+  lng: -85.8742113
 6100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
