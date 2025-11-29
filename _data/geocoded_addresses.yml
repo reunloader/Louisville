@@ -6192,6 +6192,7 @@
 2000 Logan St at the Logan St Market, Louisville, KY:
   lat: 38.2362268
   lng: -85.7394499
+2000 Lyndon Green Cir, Louisville, KY: null
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -6761,6 +6762,7 @@
 2200 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
+2200 South Dirt Street, Louisville, KY: null
 2200 South Preston, Louisville, KY:
   lat: 38.215321
   lng: -85.743914
@@ -15920,6 +15922,9 @@
 700 Woodmore Ave, Louisville, KY:
   lat: 38.149501
   lng: -85.770284
+7000 Allspice Ct, Louisville, KY:
+  lat: 38.1461322
+  lng: -85.5921653
 7000 Bear Creek Dr, Louisville, KY: null
 7000 Billie Ln, Louisville, KY:
   lat: 38.1485385
