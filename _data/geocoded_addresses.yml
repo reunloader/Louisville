@@ -11572,6 +11572,8 @@
 : lat: 38.2524
   lng: -85.744583
 400 East Jefferson Way, Louisville, KY: null
+400 East Jersey Street, Louisville, KY: null
+400 East Jersey Street,, Louisville, KY: null
 400 East Kentucky Drive, Louisville, KY: null
 400 East Kentucky Drive, which resulted in an arrest, Louisville, KY: null
 400 East Kentucky Drive, which resulted in an arrest. Police units were involved in the operation., Louisville, KY: null
@@ -15973,6 +15975,11 @@
 6400 Johnsontown Rd. Officers were dispatched, Louisville, KY:
   lat: 38.1158773
   lng: -85.8855122
+6400 Lower Huntress Trace, Louisville, KY: null
+? 6400 Lower Huntress Trace. The structure was described as a one-story wood frame
+  building with no visible signs of fire. Responding units investigated and determined
+  the activation, Louisville, KY
+: null
 6400 Mandigal Road, Louisville, KY: null
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
