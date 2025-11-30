@@ -600,6 +600,9 @@
   lng: -85.7789464
 100 Stanley run" along with another unit, Louisville, KY: null
 100 Stanley run, Louisville, KY: null
+100 Steedly Dr near South 5th Street, Louisville, KY:
+  lat: 38.2098564
+  lng: -85.7664245
 100 Steedly Dr, Louisville, KY: null
 ? 100 Sweet Spring Ln following a report of a bonfire in a backyard. The initial dispatch
   had indicated a different location, but the address was later corrected to this
@@ -830,6 +833,9 @@
 1000 Baxter Ave. Police units responded, Louisville, KY:
   lat: 38.2387686
   lng: -85.7236886
+1000 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 1000 Beaver St, but the pursuit was later canceled, Louisville, KY: null
 1000 Becker Ave, Louisville, KY:
   lat: 38.1720002
@@ -4239,6 +4245,12 @@
 1500 South11th Street, Louisville, KY: null
 1500 South15 Street, Louisville, KY: null
 1500 South15th Street, Louisville, KY: null
+1500 Southgate Ave, Louisville, KY:
+  lat: 38.200766
+  lng: -85.786713
+1500 Southgate Ave. Units were on the scene, Louisville, KY:
+  lat: 38.200766
+  lng: -85.786713
 1500 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
@@ -4357,6 +4369,9 @@
 1600 Berea Dr. The specific circumstances leading, Louisville, KY:
   lat: 38.1228956
   lng: -85.607913
+1600 Bicknell Ave, Louisville, KY:
+  lat: 38.1834948
+  lng: -85.7901511
 1600 Bluegrass Ave, Louisville, KY:
   lat: 38.179522
   lng: -85.791728
@@ -4837,6 +4852,9 @@
 1700 South 26th Street, Louisville, KY:
   lat: 38.241277
   lng: -85.7958157
+1700 South 2nd Street at the Center, Louisville, KY:
+  lat: 38.2229276
+  lng: -85.7592852
 1700 South 35th Street [Date & Time], Louisville, KY: null
 1700 South 36th Street, Louisville, KY:
   lat: 38.2293696
@@ -4850,6 +4868,7 @@
 1700 South 4th Street, Louisville, KY:
   lat: 38.2232086
   lng: -85.7630886
+1700 South 9th Street between South St and South 7th Street, Louisville, KY: null
 1700 South Forth, Louisville, KY: null
 ? 1700 South Forth. The incident occurred shortly before 11:02 a.m. Police units were
   involved in managing the situation and arranging for the vehicle's removal., Louisville,
@@ -10178,6 +10197,7 @@
 3300 Frankfort Ave, Louisville, KY:
   lat: 38.2539302
   lng: -85.6728829
+3300 Ginkgo Trail, Louisville, KY: null
 3300 Hale Ave, Louisville, KY:
   lat: 38.2400104
   lng: -85.8083843
@@ -16056,6 +16076,9 @@
 6300 Saranac Ct, Louisville, KY:
   lat: 38.1608236
   lng: -85.8049727
+6300 Sherlock Way, Louisville, KY:
+  lat: 38.154411
+  lng: -85.639734
 ? 6300 Sidney Way following a report of a domestic dispute. The situation involved
   a son and his girlfriend who were reportedly fighting, arguing, and throwing objects.,
   Louisville, KY
