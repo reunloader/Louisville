@@ -8799,6 +8799,9 @@
 300 Becker, Louisville, KY:
   lat: 38.1720002
   lng: -85.708019
+300 Bermuda Ln, Louisville, KY:
+  lat: 38.159921
+  lng: -85.714808
 300 Blair Creek Ct, Louisville, KY:
   lat: 38.0914922
   lng: -85.6437538
@@ -13726,6 +13729,9 @@
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
+500 North 35th Street, Louisville, KY:
+  lat: 38.2691315
+  lng: -85.805995
 500 North35th Street, Louisville, KY:
   lat: 38.2691315
   lng: -85.805995
@@ -15402,6 +15408,7 @@
 6100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+6100 West Highway 100 block of Crossreach Canyon Place and Crossreach Boulevard, Louisville, KY: null
 6100 West Wampum and 2nd, Louisville, KY: null
 ? 6100 West Wampum and 2nd. Police units responded to the scene to gather information
   and investigate the accident., Louisville, KY
