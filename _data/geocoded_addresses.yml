@@ -648,6 +648,9 @@
 100 W Market St, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
+100 W Washington St, Louisville, KY:
+  lat: 38.2566222
+  lng: -85.7516934
 100 W Witherspoon St near 2nd Street, Louisville, KY:
   lat: 38.2578208
   lng: -85.7520879
@@ -5918,6 +5921,9 @@
 200 North 28th Street, Louisville, KY:
   lat: 38.2626638
   lng: -85.7972793
+200 North 34th Street, Louisville, KY:
+  lat: 38.2636279
+  lng: -85.8068436
 ? 200 North 35th Street for a fire involving burning plastic. Engine 22 confirmed
   they were on the scene and had the situation under control., Louisville, KY
 : null
