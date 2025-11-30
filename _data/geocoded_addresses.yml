@@ -4645,6 +4645,9 @@
 1700 Berry Blvd, Louisville, KY:
   lat: 38.1962903
   lng: -85.793759
+1700 Bonnyville Blvd, Louisville, KY:
+  lat: 38.165238
+  lng: -85.825072
 1700 Brentmoor Ln, Louisville, KY: null
 1700 Clint Sat Drive, Louisville, KY: null
 1700 Clint Sat Drive. The alarm was specifically noted, Louisville, KY: null
@@ -4790,6 +4793,12 @@
   indicating a high priority. Responders arrived, Louisville, KY
 : lat: 38.26358
   lng: -85.77621
+1700 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
+1700 Preston Hwy. Fire department leadership requested the check, and responding units were dispatched, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 1700 Rangeland Rd, Louisville, KY:
   lat: 38.1647239
   lng: -85.6700729
@@ -6910,6 +6919,12 @@
 2100 Cherokee Pky, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
+2100 Church Park Cir, Louisville, KY:
+  lat: 38.2140553
+  lng: -85.6249091
+2100 Church Park Cir. Responding personnel were sent, Louisville, KY:
+  lat: 38.2140553
+  lng: -85.6249091
 2100 Congress St near South 22nd and W, Louisville, KY:
   lat: 38.257593
   lng: -85.785193
@@ -9773,6 +9788,12 @@
 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched, Louisville, KY:
   lat: 38.2754725
   lng: -85.7973888
+3100 Pamela Way, Louisville, KY:
+  lat: 38.2162658
+  lng: -85.6194547
+3100 Pamela Way. Officers were dispatched, Louisville, KY:
+  lat: 38.2162658
+  lng: -85.6194547
 3100 Park Church Ln, Louisville, KY:
   lat: 38.215882
   lng: -85.622971
@@ -15021,6 +15042,9 @@
 5600 Fox Horn Cir, Louisville, KY:
   lat: 38.1624896
   lng: -85.8562396
+5600 Fox Horn Cir. Responding units were sent, Louisville, KY:
+  lat: 38.1624896
+  lng: -85.8562396
 ? 5600 Fox1 Circle following reports of a disturbance involving an active assault.
   Sounds of a male screaming threats and a female screaming, Louisville, KY
 : null
@@ -15039,6 +15063,12 @@
   to clear the animal from the road., Louisville, KY
 : null
 5600 Herr Ln, posing a potential traffic hazard. Responding units managed the situation, Louisville, KY: null
+5600 Jeanine Dr, Louisville, KY:
+  lat: 38.1686631
+  lng: -85.6884632
+5600 Jeanine Dr. Responding units were dispatched, Louisville, KY:
+  lat: 38.1686631
+  lng: -85.6884632
 5600 Jessamine, Louisville, KY:
   lat: 38.1389913
   lng: -85.8602314
