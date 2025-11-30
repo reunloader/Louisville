@@ -2088,6 +2088,9 @@
 1100 St. Catharines Court, Louisville, KY: null
 1100 Telford Street, Louisville, KY: null
 1100 Travillion Way, Louisville, KY: null
+1100 Vesper Ln, Louisville, KY:
+  lat: 38.1052658
+  lng: -85.8662311
 1100 W Liberty St, Louisville, KY:
   lat: 38.253688
   lng: -85.769004
@@ -8735,6 +8738,7 @@
 30 Palatka Rd, Louisville, KY:
   lat: 38.1550559
   lng: -85.8008399
+300 Adam and 300 block of Baker, Louisville, KY: null
 300 Adam and 300 block of Charlie were not fully detailed in the initial reports, Louisville, KY: null
 300 Adam and 300 block of Charlie, Louisville, KY: null
 ? 300 Adam in response to a medical situation. One unit was with a subject and appeared
@@ -12172,6 +12176,9 @@
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+4100 Oak Branch Rd, Louisville, KY:
+  lat: 38.2484647
+  lng: -85.4903097
 4100 Phantom Creek Rd near Butte Bank, Louisville, KY: null
 4100 Phantom Creek Rd, Louisville, KY: null
 4100 Pinecroft Dr, Louisville, KY:
@@ -14531,6 +14538,9 @@
 5400 Ward Ave, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
+5400 Warwickshire Dr, Louisville, KY:
+  lat: 38.1693242
+  lng: -85.7023841
 5400 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
@@ -14865,6 +14875,7 @@
   lat: 38.0716654
   lng: -85.8774197
 600 Adam Ridge Pl and 600 block of Baker Aly STREET, Louisville, KY: null
+600 Adam and 600 block of Baker, Louisville, KY: null
 600 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -18537,6 +18548,7 @@
   lat: 38.1072977
   lng: -85.6606492
 900 Greten Ln. Further details, Louisville, KY: null
+900 Hang-Up / Welfare Check**, Louisville, KY: null
 900 Hang-up (Motel Six), Louisville, KY: null
 900 Hang-up**, Louisville, KY: null
 900 Hang-up, Louisville, KY: null
