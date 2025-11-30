@@ -664,6 +664,9 @@
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+100 West Broadway. An attempt, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 ? 100 West Broadway. Units from the 3rd division of the police department were involved
   in responding to the scene. A sergeant was requested to the location, Louisville,
   KY
@@ -4006,6 +4009,9 @@
 1500 Cypress St, Louisville, KY:
   lat: 38.2302114
   lng: -85.7988776
+1500 Cypress St. Similar, Louisville, KY:
+  lat: 38.2302114
+  lng: -85.7988776
 1500 Cypress Street 8:00 a, Louisville, KY: null
 1500 Cypress Street 8:00 a.m.AM, Louisville, KY: null
 1500 Cypress, Louisville, KY:
@@ -5538,6 +5544,9 @@
   lat: 38.1412684
   lng: -85.7716218
 200 Bank St, Louisville, KY:
+  lat: 38.272279
+  lng: -85.7991803
+200 Bank St. Units responded, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
 200 Bardstown Rd, Louisville, KY:
@@ -16550,6 +16559,9 @@
   lat: 38.251917
   lng: -85.740147
 700 East Liberty Avenue, Louisville, KY: null
+700 East Market, Louisville, KY:
+  lat: 38.2531216
+  lng: -85.739834
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned to investigate., Louisville,
   KY
@@ -19890,6 +19902,7 @@ Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
+Jefferson St and Baxter Ave, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Keyline Road and Terry Rd, Louisville, KY: null
