@@ -9690,6 +9690,11 @@
   lat: 38.2020406
   lng: -85.793294
 3200 Adams St and 2100 block of Bank St, Louisville, KY: null
+3200 Allerton Way, Louisville, KY: null
+? 3200 Allerton Way, near the intersection of Windward Way and Kelly Way. The call
+  concerned a 49-year-old male who was suffering from chest pain and shortness of
+  breath. Medical units arrived, Louisville, KY
+: null
 3200 Angela Way, Louisville, KY:
   lat: 38.2088481
   lng: -85.6184551
@@ -14677,6 +14682,12 @@
   services arrived, Louisville, KY
 : lat: 38.1682113
   lng: -85.7066863
+5600 Shorewood Dr, Louisville, KY:
+  lat: 38.1457155
+  lng: -85.7784108
+5600 Shorewood Dr. The patient reported experiencing shoulder, back, and chest pain, Louisville, KY:
+  lat: 38.1457155
+  lng: -85.7784108
 5600 Watch Hill Rd, Louisville, KY: null
 5600 Windy Willow Dr, Louisville, KY:
   lat: 38.3204818
@@ -16262,6 +16273,10 @@
 700 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+? 700 E W Market St, in the vicinity of South Shelby and South Clay streets. The incident
+  involved a 39-year-old male who had fallen and was experiencing a seizure. EMS personnel
+  were on the scene, Louisville, KY
+: null
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
@@ -16730,6 +16745,7 @@
   lat: 38.1569645
   lng: -85.7038308
 7000 Foxcroft Pl, Louisville, KY: null
+7000 Global Dr following a report of a male individual who had sustained a gunshot wound, Louisville, KY: null
 7000 Global Dr, Louisville, KY:
   lat: 38.1386253
   lng: -85.8889456
@@ -17944,6 +17960,13 @@
 8000 Preston Highway. Paramedics arrived on scene to provide care, Louisville, KY:
   lat: 38.1363256
   lng: -85.6861022
+? 8000 Shelbyville Rd near the Toyota dealership. A concerned motorist reported suspicious
+  activity, but upon arrival, officers were unable, Louisville, KY
+: lat: 38.2482721
+  lng: -85.6061377
+8000 Shelbyville Rd, Louisville, KY:
+  lat: 38.2482721
+  lng: -85.6061377
 8000 Wooded Ridge Dr, Louisville, KY:
   lat: 38.1433838
   lng: -85.809036
