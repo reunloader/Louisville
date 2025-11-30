@@ -4269,6 +4269,7 @@
 1600 Brashear Dr, near Big Boulder Dr and South 13th Street, due, Louisville, KY:
   lat: 38.225402
   lng: -85.7755743
+1600 Breshear Court, Louisville, KY: null
 1600 Brintley, Louisville, KY: null
 ? 1600 Brintley. Responding units included those from the 700 block of Adam and 657.
   The specifics of the vehicles involved were not provided., Louisville, KY
@@ -5822,6 +5823,7 @@
 200 Garland Ave. This incident appears, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+200 Grahamville Drive, Louisville, KY: null
 200 Granvil Dr, Louisville, KY:
   lat: 38.1895335
   lng: -85.6350403
@@ -11126,6 +11128,9 @@
   lng: -85.7017791
 400 Beaver St and 400 block of Adams St, Louisville, KY: null
 400 Beaver St near Robert Deer Tom Road, Louisville, KY: null
+400 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 400 Beaver St. Additional units were also involved in the response to this incident., Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -17867,6 +17872,7 @@
   responding units were able, Louisville, KY
 : lat: 38.1373907
   lng: -85.8651361
+8000 Current Drive, Louisville, KY: null
 8000 Dixie Hwy, Louisville, KY:
   lat: 38.1353679
   lng: -85.8452257
