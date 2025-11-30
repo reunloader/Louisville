@@ -1449,6 +1449,9 @@
   lng: -85.748955
 1000 South Third Street, Louisville, KY: null
 1000 South2nd Street, Louisville, KY: null
+1000 South4th Street, Louisville, KY:
+  lat: 38.2387451
+  lng: -85.7600955
 1000 Southern Ave, Louisville, KY:
   lat: 38.198171
   lng: -85.639367
@@ -19412,6 +19415,7 @@
 9200 Preston Hwy, Louisville, KY:
   lat: 38.1174315
   lng: -85.6779117
+9200 Rainbow Springs Ct, Louisville, KY: null
 9200 South63rd Street, Louisville, KY: null
 9200 Wesley Ave, Louisville, KY: null
 9200 Westmore Road, Louisville, KY: null
