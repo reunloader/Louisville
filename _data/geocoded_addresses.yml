@@ -5630,6 +5630,9 @@
   no further reported issues., Louisville, KY
 : null
 200 Dutchman's Parkway, Louisville, KY: null
+200 E Gray St, Louisville, KY:
+  lat: 38.2465425
+  lng: -85.7512048
 200 E W College St, Louisville, KY:
   lat: 38.2432243
   lng: -85.7546559
@@ -18106,6 +18109,9 @@
 8200 ECHO, Louisville, KY:
   lat: 38.2093889
   lng: -85.4688351
+8200 Farmwood Way, Louisville, KY:
+  lat: 38.1384458
+  lng: -85.6099555
 ? 8200 Four Winds Dr to attend to a 67-year-old female who had fallen. Upon arrival,
   responders found the patient to be asleep but not unconscious., Louisville, KY
 : null
@@ -18151,6 +18157,7 @@
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
+8300 C-4 Drive near Panax Ln and Morning Glory Ln, Louisville, KY: null
 8300 C-4th Drive, Louisville, KY: null
 8300 Delido Rd, Louisville, KY:
   lat: 38.128285
@@ -19717,6 +19724,7 @@ Overdale Dr and Mellwood Ave, Louisville, KY: null
 Overlook Dr and Seminary Rd, Louisville, KY: null
 Oxmoor Ln and Black Road, Louisville, KY: null
 Palatka Rd and Manslick Rd, Louisville, KY: null
+Panax Ln and Morning Glory Ln, Louisville, KY: null
 Papa Lovell Road and Thruston Ave, Louisville, KY: null
 Park Blvd and Green Spring Dr, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
@@ -19904,6 +19912,7 @@ Westport Rd and Shining Willow Dr, Louisville, KY: null
 Westport Rd and Stonehurst Avenue, Louisville, KY: null
 Westport Rd and Stonehurst Dr, Louisville, KY: null
 Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
+Wilart Dr and Bernheim Ln, Louisville, KY: null
 Willow Ave and Edgeland Ave, Louisville, KY: null
 Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
