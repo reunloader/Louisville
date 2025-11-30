@@ -9369,6 +9369,9 @@
 ? 3000 Bardstown Rd. A male subject, who had previously been trespassed from the location,
   was reportedly inside the locker room showers., Louisville, KY
 : null
+3000 Bardstown Rd. The circumstances prompting the need, Louisville, KY:
+  lat: 38.2150181
+  lng: -85.6748027
 3000 Betty Ln, Louisville, KY:
   lat: 38.22206
   lng: -85.658438
@@ -12158,6 +12161,13 @@
 4000 Poplar Level Rd, Louisville, KY:
   lat: 38.2011546
   lng: -85.7097969
+4000 Preston Hwy, Louisville, KY:
+  lat: 38.194556
+  lng: -85.729684
+? 4000 Preston Hwy. No description of the vehicle was available at the time of the
+  report. Police units responded, Louisville, KY
+: lat: 38.194556
+  lng: -85.729684
 4000 Produce Rd, Louisville, KY:
   lat: 38.1822224
   lng: -85.6863661
@@ -14152,6 +14162,12 @@
   lat: 38.2633
   lng: -85.687891
 5000 Academy Park Cir, Louisville, KY: null
+5000 Bardstown Rd, Louisville, KY:
+  lat: 38.1735396
+  lng: -85.6178777
+5000 Bardstown Rd. The specific reason, Louisville, KY:
+  lat: 38.1735396
+  lng: -85.6178777
 5000 Chamberlain Ln, Louisville, KY:
   lat: 38.3197551
   lng: -85.5710444
@@ -15582,6 +15598,10 @@
   lng: -85.7632171
 6000 Bardstown Rd, Louisville, KY:
   lat: 38.158737
+  lng: -85.591605
+? 6000 Bardstown Rd. Further details about the nature of the disturbance were not
+  provided. Police units were dispatched, Louisville, KY
+: lat: 38.158737
   lng: -85.591605
 6000 Bellevue Ave to look into the circumstances., Louisville, KY: null
 6000 Bellevue Ave, Louisville, KY:
@@ -18307,6 +18327,12 @@
   for further medical attention., Louisville, KY
 : null
 8000 Preston Highway. Paramedics arrived on scene to provide care, Louisville, KY:
+  lat: 38.1363256
+  lng: -85.6861022
+8000 Preston Hwy, Louisville, KY:
+  lat: 38.1363256
+  lng: -85.6861022
+8000 Preston Hwy. The exact nature of the alarm and the cause, Louisville, KY:
   lat: 38.1363256
   lng: -85.6861022
 ? 8000 Shelbyville Rd near the Toyota dealership. A concerned motorist reported suspicious
