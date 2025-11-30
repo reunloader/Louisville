@@ -6330,6 +6330,13 @@
   lat: 38.2000005
   lng: -85.7636078
 200 West at I-265, Louisville, KY: null
+200 West at Taylor Blvd, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
+? 200 West at Taylor Blvd. The individual was described as a black male not wearing
+  pants. EMS and fire personnel were dispatched, Louisville, KY
+: lat: 38.2000005
+  lng: -85.7636078
 200 West at Virginia Ave, Louisville, KY: null
 ? 200 West at Virginia Ave. There were indications of possible injuries resulting
   from the collision. Responding units assessed the scene and managed the incident.,
@@ -19817,6 +19824,7 @@ Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
 Arcade Ave and Utah Ave, Louisville, KY: null
 Archtown Road and Southhurstman Parkway, Louisville, KY: null
+Argetown Road and Grinstead Dr, Louisville, KY: null
 Arlington Ave and Lonsdale Ave, Louisville, KY: null
 Ash Ave and South Central Ave, Louisville, KY: null
 Ashland Ave and Taylor Blvd, Louisville, KY: null
@@ -19830,6 +19838,7 @@ Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
 Bardstown Rd and Cedar Springs Blvd, Louisville, KY: null
 Bardstown Rd and Churchman Ave, Louisville, KY: null
 Bardstown Rd and Deerwood Ave, Louisville, KY: null
+Bardstown Rd and Denstret Drive, Louisville, KY: null
 Bardstown Rd and Douglass Blvd, Louisville, KY: null
 Bardstown Rd and Eastern Pky, Louisville, KY: null
 Bardstown Rd and Fagan Bush Lane, Louisville, KY: null
