@@ -9785,6 +9785,7 @@
 : null
 3200 Callaway Drive, Louisville, KY: null
 3200 Cramsway and Crossroad, Louisville, KY: null
+3200 Duma Drive, Louisville, KY: null
 3200 Dumesnil St. Police units responded, Louisville, KY:
   lat: 38.237293
   lng: -85.807346
@@ -16671,6 +16672,9 @@
 700 South 24th Street, Louisville, KY:
   lat: 38.248538
   lng: -85.791802
+700 South 28th Street, Louisville, KY:
+  lat: 38.249455
+  lng: -85.7984
 700 South 2nd Street, Louisville, KY:
   lat: 38.244091
   lng: -85.755458
@@ -17459,6 +17463,9 @@
   lat: 38.1384339
   lng: -85.7895748
 7700 Chet Ln, near Peraway and Banbury Cross Road,, Louisville, KY: null
+7700 Hepatica Ct, Louisville, KY:
+  lat: 38.1406002
+  lng: -85.8540073
 7700 I-65 South, Louisville, KY: null
 7700 Kim Dr, Louisville, KY:
   lat: 38.1389657
