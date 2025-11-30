@@ -4260,6 +4260,7 @@
 1600 Bluegrass Ave, Louisville, KY:
   lat: 38.179522
   lng: -85.791728
+1600 Brashear Court, building 35, Louisville, KY: null
 ? 1600 Brashear Dr, near Big Boulder Dr and South 13th Street, due to a medical emergency.
   The patient, a 50-year-old male, was reported to be unconscious, experiencing shortness
   of breath, and bleeding from an unspecified location. A police officer was already
@@ -5716,6 +5717,7 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East between Coppola and Newburgh, Louisville, KY: null
+200 East from I-64 West, Louisville, KY: null
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near exit 19A, Louisville, KY: null
 200 East near mile marker 8, Louisville, KY:
@@ -6872,6 +6874,12 @@
 2100 Shepherdsville Rd, Louisville, KY:
   lat: 38.1495553
   lng: -85.6598797
+2100 Short St, Louisville, KY:
+  lat: 38.1940717
+  lng: -85.7283024
+2100 Short St. Police units were dispatched, Louisville, KY:
+  lat: 38.1940717
+  lng: -85.7283024
 2100 Smith Rd, Louisville, KY:
   lat: 38.095091
   lng: -85.726537
@@ -9656,6 +9664,7 @@
 3200 7th Street Road. Responding units were dispatched, Louisville, KY:
   lat: 38.2020406
   lng: -85.793294
+3200 Adams St and 2100 block of Bank St, Louisville, KY: null
 3200 Angela Way, Louisville, KY:
   lat: 38.2088481
   lng: -85.6184551
@@ -18760,6 +18769,9 @@
 9100 Cousin Court, Louisville, KY: null
 9100 Cousin Court, with responders heading to the 700 block of Cousin Court to assist the individual., Louisville, KY: null
 9100 Cousin Court, with responders heading, Louisville, KY: null
+9100 Dixie Hwy near Speedway, Louisville, KY:
+  lat: 38.1222535
+  lng: -85.8553681
 ? 9100 Galene Dr to investigate a report of suspicious activity. The exact nature
   of the call was not immediately clear, but it may have involved a request, Louisville,
   KY
