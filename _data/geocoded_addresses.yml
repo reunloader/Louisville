@@ -10242,6 +10242,9 @@
 341 Bardstown Rd, Louisville, KY:
   lat: 38.1291902
   lng: -85.5765828
+35 Hill Rd, Louisville, KY:
+  lat: 38.2298162
+  lng: -85.7173581
 350 [Street Name Missing], Louisville, KY: null
 3500 10 Run Road, Louisville, KY:
   lat: 38.1972047
@@ -11986,6 +11989,11 @@
   lng: -85.6491734
 4000 Bardstown Road 10:45 a, Louisville, KY: null
 4000 Bardstown Road 10:45 a.m.AM, Louisville, KY: null
+? 4000 Bucks Run Rd and then left the scene. The suspect vehicle also reportedly damaged
+  property, including a camera, before leaving. Police units responded, Louisville,
+  KY
+: null
+4000 Bucks Run Rd, Louisville, KY: null
 4000 Buechel Bank Rd, Louisville, KY:
   lat: 38.1775482
   lng: -85.6514538
@@ -14822,6 +14830,9 @@
 5600 Lana Dr, Louisville, KY:
   lat: 38.1045116
   lng: -85.6949665
+5600 Lovers Ln, Louisville, KY:
+  lat: 38.164103
+  lng: -85.571169
 5600 Marybrook Lane, Louisville, KY: null
 5600 Merriman Rd, Louisville, KY: null
 ? 5600 Merriman Rd, involving a dark gray SUV. Fortunately, no injuries were reported
@@ -15414,6 +15425,9 @@
 600 Southern Pky, Louisville, KY:
   lat: 38.1836068
   lng: -85.7677003
+600 Southside Dr, Louisville, KY:
+  lat: 38.1536611
+  lng: -85.7652516
 600 Sparrow Cir, Louisville, KY:
   lat: 38.1133627
   lng: -85.7605488
