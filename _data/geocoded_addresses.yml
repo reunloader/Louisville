@@ -5632,6 +5632,9 @@
   been triggered. Emergency units were dispatched, Louisville, KY
 : lat: 38.2459214
   lng: -85.565646
+200 Douglas Park, Louisville, KY:
+  lat: 38.1784089
+  lng: -85.7605676
 200 Downes Ln, Louisville, KY:
   lat: 38.15957
   lng: -85.761596
@@ -5656,6 +5659,9 @@
 200 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+200 E W Magnolia Ave, Louisville, KY:
+  lat: 38.2300794
+  lng: -85.7704501
 200 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -8610,6 +8616,9 @@
   lng: -85.6764774
 2900 Blackbarktown Road, Louisville, KY: null
 2900 Bon Air Ave, Louisville, KY:
+  lat: 38.221389
+  lng: -85.667517
+2900 Bon Air Ave. The response, Louisville, KY:
   lat: 38.221389
   lng: -85.667517
 2900 Bon Air, Louisville, KY:
@@ -19871,6 +19880,7 @@ Palatka Rd and Manslick Rd, Louisville, KY: null
 Panax Ln and Morning Glory Ln, Louisville, KY: null
 Papa Lovell Road and Thruston Ave, Louisville, KY: null
 Park Blvd and Green Spring Dr, Louisville, KY: null
+Payne St and Barret Ave, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
