@@ -3013,6 +3013,9 @@
 : null
 12900 Easter Railroad, Louisville, KY: null
 12900 Easter Railroad. A sergeant was requested, Louisville, KY: null
+12900 Willow Forest Dr, Louisville, KY:
+  lat: 38.302114
+  lng: -85.514676
 1300 Algonquin in response to a reported disturbance., Louisville, KY: null
 1300 Algonquin in response, Louisville, KY: null
 1300 Algonquin, Louisville, KY:
@@ -3813,6 +3816,7 @@
 1400 South 8th Street, Louisville, KY:
   lat: 38.229071
   lng: -85.769064
+1400 South Floor Street, Louisville, KY: null
 1400 South Forth Street, Louisville, KY: null
 1400 South Hancock to investigate the incident., Louisville, KY: null
 1400 South Hancock, Louisville, KY:
@@ -5050,6 +5054,7 @@
 1800 Clinton Pl near Dixie Hwy, Louisville, KY:
   lat: 38.0969101
   lng: -85.8731567
+1800 Clinton Pl, Louisville, KY: null
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent to the scene to assist with the situation.
   The fire was quickly brought under control., Louisville, KY
@@ -10141,6 +10146,9 @@
   lat: 38.201681
   lng: -85.78528
 3300 Taylor Blvd, Louisville, KY:
+  lat: 38.2022323
+  lng: -85.7817945
+3300 Taylor, Louisville, KY:
   lat: 38.2022323
   lng: -85.7817945
 3300 Terrier Ct, Louisville, KY:
