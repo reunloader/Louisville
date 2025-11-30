@@ -3901,6 +3901,7 @@
 14400 Old Henry Rd., Louisville, KY:
   lat: 38.2720074
   lng: -85.4958216
+14400 Oxford Station Ln, Louisville, KY: null
 ? 14600 Dominic Michael Drive following a report of an individual in distress. Multiple
   units were deployed to assist in the situation, with a drone being utilized to aid
   in the search. Emergency medical services were requested to the scene. The individual
@@ -6157,6 +6158,12 @@
 200 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
+200 W Breckinridge St, Louisville, KY:
+  lat: 38.241468
+  lng: -85.755972
+200 W Breckinridge St. The incident involved a son reportedly banging on the door and refusing, Louisville, KY:
+  lat: 38.241468
+  lng: -85.755972
 200 W Jefferson St, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
@@ -9910,6 +9917,7 @@
   lat: 38.2648549
   lng: -85.8000349
 3200 Northwestern Avenue, Louisville, KY: null
+3200 Olenda Ave, Louisville, KY: null
 3200 Patricia Dr, Louisville, KY:
   lat: 38.188866
   lng: -85.8462836
@@ -19868,6 +19876,7 @@ Hikes Ln and Breckenridge Ln, Louisville, KY:
   lat: 38.2186174
   lng: -85.6291173
 Hikes Ln and Taylorsville Rd, Louisville, KY: null
+Hillview Ave and San Jose Ave, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
