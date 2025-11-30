@@ -5256,6 +5256,9 @@
 1800 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2535809
   lng: -85.7808488
+1800 W Oak St, Louisville, KY:
+  lat: 38.2368906
+  lng: -85.7872142
 1800 W W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
@@ -5657,6 +5660,7 @@
   block of Dixie Hwy. Emergency services managed the chemical situation and responded,
   Louisville, KY
 : null
+200 Dixie Hwy in response, Louisville, KY: null
 200 Dixie Hwy to address the situation., Louisville, KY: null
 200 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
@@ -9449,6 +9453,9 @@
   but no matches or relevant information were found, Louisville, KY
 : lat: 38.2107264
   lng: -85.7306204
+3000 Greenwood Ave, Louisville, KY:
+  lat: 38.242502
+  lng: -85.80308
 ? 3000 Hathaway Avenue following a report of a patient experiencing bleeding from
   both the nose and mouth. Fire Department Engine 10 was assigned to this incident.
   However, before responders could fully assess the situation, the call was canceled
@@ -16239,6 +16246,7 @@
   and shortness of breath., Louisville, KY
 : null
 6700 Wild Fox Ln, Louisville, KY: null
+6700 Woods Mill Dr after reports of a vehicle that had driven through a port. This incident was related, Louisville, KY: null
 ? 6700 Wynde Manor Dr. While the specific nature of the suspicious activity was not
   detailed in the report, the area was noted. No specific units were dispatched to
   this particular call., Louisville, KY
@@ -20091,6 +20099,7 @@ Ralph Ave and Likens Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
 Rd Street Rd and Euclid Ave, Louisville, KY: null
+Reeves Rd and Isaacs Road, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
