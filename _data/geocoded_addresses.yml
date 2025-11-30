@@ -6122,6 +6122,9 @@
 200 Southern Ave, Louisville, KY:
   lat: 38.1886289
   lng: -85.7589791
+200 Southwood Terrace, Louisville, KY:
+  lat: 38.1469448
+  lng: -85.7834722
 200 St, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -8606,6 +8609,9 @@
   lat: 38.2161315
   lng: -85.6764774
 2900 Blackbarktown Road, Louisville, KY: null
+2900 Bon Air Ave, Louisville, KY:
+  lat: 38.221389
+  lng: -85.667517
 2900 Bon Air, Louisville, KY:
   lat: 38.2083483
   lng: -85.6587646
@@ -11724,6 +11730,9 @@
 400 South 41st Street, Louisville, KY:
   lat: 38.2589103
   lng: -85.8186315
+400 South 4th Street, Louisville, KY:
+  lat: 38.2528789
+  lng: -85.7574044
 400 South 6th Street, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
