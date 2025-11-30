@@ -5115,6 +5115,7 @@
 1800 Sherwood Ave, Louisville, KY:
   lat: 38.2301382
   lng: -85.7108239
+1800 South 18th Street and W Jefferson St, Louisville, KY: null
 1800 South 24th Street, Louisville, KY:
   lat: 38.2258261
   lng: -85.7985448
@@ -6477,6 +6478,13 @@
   lat: 38.2362268
   lng: -85.7394499
 2000 Lyndon Green Cir, Louisville, KY: null
+2000 Main St, Louisville, KY:
+  lat: 38.2531707
+  lng: -85.710411
+? 2000 Main St, between North 20th and North 21st streets, prompted a response. The
+  caller mentioned hearing an explosion and expressed concern about potential fire
+  spreading, Louisville, KY
+: null
 2000 Mobile, Louisville, KY:
   lat: 38.2045522
   lng: -85.8356961
@@ -10036,6 +10044,8 @@
 3400 Tile Factory Ln, Louisville, KY:
   lat: 38.1833591
   lng: -85.7032498
+3400 Top First Four, Louisville, KY: null
+3400 Top First Four, near Caladay,, Louisville, KY: null
 3400 Valeski Drive, Louisville, KY: null
 ? 3400 Valeski Drive, near the intersections of Mary Catherine Dr and Ecton Ln. Responders
   worked to provide necessary medical attention., Louisville, KY
@@ -14880,6 +14890,13 @@
 600 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
+600 Edith Rd, Louisville, KY:
+  lat: 38.262923
+  lng: -85.708053
+? 600 Edith Rd, near Edith Ct, following a report of smoke and fire emanating from
+  the rear of a residence, close, Louisville, KY
+: lat: 38.262923
+  lng: -85.708053
 600 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
@@ -19668,6 +19685,7 @@ Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 University Rd and Cleveland Blvd, Louisville, KY: null
+Utah Ave and Euclid Ave, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
