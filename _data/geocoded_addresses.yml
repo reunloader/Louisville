@@ -8960,6 +8960,9 @@
 300 I-65 South, Louisville, KY: null
 300 I65 South near Cliffwood Hill Way, Louisville, KY: null
 300 I65 South near Cliffwood and Caledonia, Louisville, KY: null
+300 Idlewylde Dr, Louisville, KY:
+  lat: 38.258587
+  lng: -85.7005096
 300 Joe Conway Cir at Tom Larimore and Bob Davenport, Louisville, KY:
   lat: 38.2540355
   lng: -85.6657009
@@ -14274,6 +14277,9 @@
   lat: 38.1598499
   lng: -85.6727475
 5200 Nettie Way, Louisville, KY: null
+5200 North 35th Street, Louisville, KY:
+  lat: 38.2735722
+  lng: -85.804438
 5200 Russett Blvd, Louisville, KY:
   lat: 38.1655538
   lng: -85.6661966
@@ -19664,6 +19670,7 @@ Sharp Ave and Lindbergh Dr, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
 Shelby St and East Rectum Road, Louisville, KY: null
 Shelby St and Eastern Parkway, Louisville, KY: null
+Shelby St and Goss Ave, Louisville, KY: null
 Shelby St and Lydia St, Louisville, KY: null
 Shelby Station Dr and Fairway Park Dr, Louisville, KY: null
 Shelbyville Rd and Adams St, Louisville, KY: null
