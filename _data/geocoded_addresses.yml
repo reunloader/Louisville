@@ -5569,6 +5569,7 @@
   during the altercation. Police units arrived on scene, Louisville, KY
 : null
 200 Adam and 200 block of Charlie, Louisville, KY: null
+200 Adam and 300 block of Adam, Louisville, KY: null
 200 Adam and 300 block of or6, Louisville, KY: null
 200 Adam to investigate., Louisville, KY: null
 200 Adam, Louisville, KY:
@@ -15030,6 +15031,9 @@
 5600 Oxford Ct, Louisville, KY:
   lat: 38.1602952
   lng: -85.6027169
+5600 Pendleton Rd, Louisville, KY:
+  lat: 38.053324
+  lng: -85.87028
 5600 Pleasure Ct, Louisville, KY:
   lat: 38.0760378
   lng: -85.8688446
