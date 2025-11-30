@@ -9455,6 +9455,9 @@
 3000 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+3000 Donald Dr, Louisville, KY:
+  lat: 38.1919486
+  lng: -85.8482166
 3000 Duncan St near North 30th Street, Louisville, KY: null
 3000 Eagle Pass, Louisville, KY:
   lat: 38.2126508
@@ -13962,6 +13965,9 @@
   lat: 38.1955906
   lng: -85.7685576
 500 Dixie Hwy, Louisville, KY: null
+500 E W Jacob St at Shepard Square, Louisville, KY:
+  lat: 38.2444725
+  lng: -85.7544415
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
@@ -16571,6 +16577,8 @@
   lat: 38.243354
   lng: -85.726821
 700 Beaver St and 6 Adams St, Louisville, KY: null
+700 Beaver St and 700 block of Adams St, Louisville, KY: null
+700 Beaver St and the 700 block of Adams St. Specific details, Louisville, KY: null
 700 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -18889,6 +18897,9 @@
 900 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+900 E W Madison St at Crop St, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
 900 E W Madison St, Louisville, KY:
   lat: 38.251774
   lng: -85.7733579
