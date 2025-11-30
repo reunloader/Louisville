@@ -129,6 +129,7 @@
 100 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
+100 David, and it was subsequently cleared, Louisville, KY: null
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
@@ -6643,6 +6644,7 @@
 2000 Kendall Ln near Spen Lea Rd, Louisville, KY: null
 2000 Kendall Ln, Louisville, KY: null
 2000 Kia Optima, Louisville, KY: null
+2000 Lincoln MKX, and it was confirmed, Louisville, KY: null
 ? 2000 Lincoln Nautilus. The reporting party believed the vehicle might be present
   at the Walmart location. Police units were dispatched to investigate the suspicious
   activity and the possibility of a stolen vehicle., Louisville, KY
@@ -10319,6 +10321,14 @@
 3400 Preston Hwy, Louisville, KY:
   lat: 38.197505
   lng: -85.731625
+3400 River Park Dr, Louisville, KY:
+  lat: 38.2542208
+  lng: -85.8077368
+? 3400 River Park Dr. The call indicated that a young child reported an argument between
+  their sister and her boyfriend, with allegations of assault by the boyfriend earlier
+  that morning. Both individuals were believed, Louisville, KY
+: lat: 38.2542208
+  lng: -85.8077368
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
