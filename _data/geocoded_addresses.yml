@@ -4564,6 +4564,12 @@
 1700 Gardiner Ln, Louisville, KY:
   lat: 38.204756
   lng: -85.686595
+1700 Garland Ave, Louisville, KY:
+  lat: 38.2427981
+  lng: -85.7820403
+1700 Garland Ave. Firefighters worked, Louisville, KY:
+  lat: 38.2427981
+  lng: -85.7820403
 1700 Griffin Gate, Louisville, KY:
   lat: 38.2032124
   lng: -85.7011721
@@ -7430,6 +7436,9 @@
   lat: 38.1404396
   lng: -85.7801839
 2400 Ballad Blvd, Louisville, KY: null
+2400 Bank St, Louisville, KY:
+  lat: 38.267712
+  lng: -85.786762
 2400 Bardstown Rd, Louisville, KY:
   lat: 38.223758
   lng: -85.689073
@@ -10485,6 +10494,12 @@
   lng: -85.6599605
 3700 Bedford Ln, Louisville, KY: null
 3700 Bedford Ln, situated between Hampshire and Milford, Louisville, KY: null
+3700 Briarbridge Ln, Louisville, KY:
+  lat: 38.208823
+  lng: -85.641125
+3700 Briarbridge Ln. Fire department personnel responded, Louisville, KY:
+  lat: 38.208823
+  lng: -85.641125
 3700 Chalk and Cedar Crest Ln, Louisville, KY: null
 ? 3700 Chamberlain Lane. The initial report indicated a gas grill had been on fire,
   but it was already extinguished by the time of the call. Firefighters were requested
@@ -12334,6 +12349,8 @@
 ? 4300 Fagan Bush. The vehicle in question had Kentucky plates. Police units were
   involved in identifying the vehicle and its occupants., Louisville, KY
 : null
+4300 Ginkgo Trail, Louisville, KY: null
+4300 Ginkgo Trail. The situation involved a teenager who was reportedly out of control, leading, Louisville, KY: null
 4300 Hale Ave, Louisville, KY:
   lat: 38.2415803
   lng: -85.8254986
@@ -17533,6 +17550,9 @@
   lat: 38.2739729
   lng: -85.8044847
 800 Phillips Ln, Louisville, KY:
+  lat: 38.1908906
+  lng: -85.7431851
+800 Phillips Ln, near the airport. A person was reported, Louisville, KY:
   lat: 38.1908906
   lng: -85.7431851
 800 Riedley Ct, Louisville, KY:
