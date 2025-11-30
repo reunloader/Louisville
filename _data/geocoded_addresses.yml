@@ -2751,6 +2751,7 @@
   lat: 38.233669
   lng: -85.7436468
 1200 South Crescent Street, Louisville, KY: null
+1200 South Firstree, Louisville, KY: null
 1200 South Orchard, Louisville, KY: null
 1200 South Second Street, Louisville, KY: null
 1200 South St, Louisville, KY:
@@ -3148,6 +3149,7 @@
 1300 Lydia, Louisville, KY:
   lat: 38.2203172
   lng: -85.7332412
+1300 McHenry Street, Louisville, KY: null
 1300 Miller's Lane, Louisville, KY: null
 1300 Old Fern Valley Rd, Louisville, KY:
   lat: 38.1554819
@@ -11191,6 +11193,9 @@
 3900 Sunstree Road, Louisville, KY: null
 3900 Swarted Drive, Louisville, KY: null
 3900 Taylor's Hole Road, Louisville, KY: null
+3900 Taylor, Louisville, KY:
+  lat: 38.1880343
+  lng: -85.7836579
 ? 3900 Taylorsville Rd following the activation of a commercial alarm at a local business.
   The alarm system reported both a rear motion detector and a signal indicating forced
   entry at the front door. Responding officers investigated the premises, Louisville,
