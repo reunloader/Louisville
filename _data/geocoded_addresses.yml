@@ -10145,6 +10145,9 @@
 3400 Powell Ave, Louisville, KY:
   lat: 38.199848
   lng: -85.7902684
+3400 Preston Hwy, Louisville, KY:
+  lat: 38.197505
+  lng: -85.731625
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
@@ -15793,6 +15796,9 @@
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
   lng: -85.628487
+6500 Gadwall Way, Louisville, KY:
+  lat: 38.1748382
+  lng: -85.6293822
 6500 Hackel Dr, Louisville, KY:
   lat: 38.1675274
   lng: -85.8738864
@@ -17847,6 +17853,9 @@
 800 South 31st Street, Louisville, KY:
   lat: 38.2475166
   lng: -85.8039944
+800 South 32nd Street, Louisville, KY:
+  lat: 38.2476663
+  lng: -85.8059077
 ? 800 South 36th Street to assist a 40-year-old female experiencing difficulty breathing.
   The patient was located on the porch when responders arrived., Louisville, KY
 : null
