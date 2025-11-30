@@ -5731,6 +5731,7 @@
 200 E W Ormsby Ave, Louisville, KY:
   lat: 38.2336503
   lng: -85.7699347
+200 East Broadway following a report of a medical emergency. A male individual was found, Louisville, KY: null
 200 East Broadway, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -13450,6 +13451,10 @@
   lng: -85.597056
 4600 Taylor Blvd, Louisville, KY:
   lat: 38.1732628
+  lng: -85.7825104
+? 4600 Taylor Blvd. Despite being severed from the ground, the pole remained upright
+  and had school zone flashing lights attached, Louisville, KY
+: lat: 38.1732628
   lng: -85.7825104
 4600 Taylorsville Rd, Louisville, KY:
   lat: 38.1731815
