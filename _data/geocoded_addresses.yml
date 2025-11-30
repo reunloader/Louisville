@@ -2631,6 +2631,10 @@
 1200 S Brook St, Louisville, KY:
   lat: 38.2343
   lng: -85.753799
+? 1200 S Clay St concerning a potential domestic dispute. Witnesses reported a Black
+  male in a gray hoodie and a White female in a blue jacket were arguing while walking
+  in the street. While there was a concern, Louisville, KY
+: null
 1200 S Clay St, Louisville, KY:
   lat: 38.233669
   lng: -85.7436468
@@ -3390,6 +3394,8 @@
 13600 Pinnacle Gardens Cir, Louisville, KY:
   lat: 38.2862898
   lng: -85.5069324
+13600 Spin Circle, Louisville, KY: null
+13600 Spin Circle, with cross streets of Spin Place and Rock Bay Dr, Louisville, KY: null
 13600 Tennis Blvd, Louisville, KY:
   lat: 38.0603732
   lng: -85.9036157
@@ -9115,6 +9121,10 @@
   involved an individual described as a college advisor who was reportedly refusing,
   Louisville, KY
 : null
+300 West Whitney in response, Louisville, KY: null
+300 West Whitney, Louisville, KY:
+  lat: 38.193805
+  lng: -85.7653462
 300 West Woodmont, Louisville, KY:
   lat: 38.2900837
   lng: -85.4846712
@@ -11354,6 +11364,8 @@
   lat: 38.2298984
   lng: -85.7515509
 400 Fairway Park Dr, Louisville, KY: null
+400 Gateway Run Rd, Louisville, KY: null
+400 Gateway Run Rd, near Cascade Pulse Trail, due to a reported alarm. The activation was specifically, Louisville, KY: null
 400 Golden Gate Ct, Louisville, KY: null
 400 Grade Ln, Louisville, KY:
   lat: 38.1592088
@@ -11610,6 +11622,11 @@
   lng: -85.7647916
 400 South A Street, Louisville, KY: null
 400 South A Trent Ave Plaza, Louisville, KY: null
+? 400 South Eighth Street following a report of an unknown situation. Upon arrival,
+  an adult male, approximately 42 years old, was found lying on a bench outdoors.
+  Emergency medical services were en route, Louisville, KY
+: null
+400 South Eighth Street, Louisville, KY: null
 400 South H Street, Louisville, KY: null
 400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
 400 South H3, Louisville, KY: null
@@ -16222,6 +16239,12 @@
 700 East W Chestnut St, Louisville, KY: null
 700 Eastern Parkway, Louisville, KY:
   lat: 38.213507
+  lng: -85.745319
+? 700 Eastern Parkway. Reports indicated a woman, described as a 45-year-old Black
+  female in a white jacket, was found slumped over inside a gray Mercury Cougar that
+  was running in a parking lot. She had reportedly been in this condition, Louisville,
+  KY
+: lat: 38.213507
   lng: -85.745319
 700 Evergreen Rd, Louisville, KY:
   lat: 38.2792505
