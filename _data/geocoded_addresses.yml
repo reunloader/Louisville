@@ -2521,6 +2521,7 @@
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
+1200 Hardwick Rd, Louisville, KY: null
 1200 Heflane near Meadowlark Ave, Louisville, KY:
   lat: 38.2505742
   lng: -85.6840451
@@ -3871,6 +3872,9 @@
 14000 Schutte Station Pl, Louisville, KY:
   lat: 38.2118141
   lng: -85.5232325
+14300 Aiken Rd, Louisville, KY:
+  lat: 38.2649546
+  lng: -85.4877363
 14400 Adkins Rd, Louisville, KY:
   lat: 38.1237646
   lng: -85.6631004
@@ -11442,6 +11446,9 @@
   lat: 38.2298984
   lng: -85.7515509
 400 Fairway Park Dr, Louisville, KY: null
+400 Fern Creek Rd, Louisville, KY:
+  lat: 38.158292
+  lng: -85.5898849
 400 Gateway Run Rd, Louisville, KY: null
 400 Gateway Run Rd, near Cascade Pulse Trail, due to a reported alarm. The activation was specifically, Louisville, KY: null
 400 Golden Gate Ct, Louisville, KY: null
@@ -16755,6 +16762,7 @@
 700 West Broadway, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
+700 West O'Rail, Louisville, KY: null
 700 Westport Rd and Stonehurst Dr, Louisville, KY: null
 ? 700 Winkler Ave following a report of domestic trouble. The individual involved
   was described as a black male wearing all black clothing., Louisville, KY
@@ -18105,6 +18113,9 @@
 8200 Greenwood Rd, Louisville, KY:
   lat: 38.1474857
   lng: -85.900493
+8200 Happiness Way, Louisville, KY:
+  lat: 38.1323941
+  lng: -85.6124366
 8200 Jenny Lind Dr, Louisville, KY:
   lat: 38.1297483
   lng: -85.6698065
@@ -18137,6 +18148,7 @@
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
+8300 C-4th Drive, Louisville, KY: null
 8300 Delido Rd, Louisville, KY:
   lat: 38.128285
   lng: -85.654212
