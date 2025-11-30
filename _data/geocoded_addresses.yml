@@ -2215,6 +2215,9 @@
   lat: 38.0867241
   lng: -85.6461039
 11300 Pheasant Hill Cir. Responding units investigated the alarm activation., Louisville, KY: null
+11300 Preston Hwy, Louisville, KY:
+  lat: 38.0860665
+  lng: -85.6688294
 ? 11300 South 17th Street in response to a medical call. Further information about
   the incident or the patient's condition was not provided., Louisville, KY
 : null
@@ -4849,6 +4852,9 @@
   lng: -85.435965
 17200 Shakespeare Street Drive, Louisville, KY: null
 17500 McWay, Louisville, KY: null
+17500 Outer Loop, Louisville, KY:
+  lat: 38.1356381
+  lng: -85.7163358
 17500 Stallion Way, Louisville, KY:
   lat: 38.2721699
   lng: -85.4380326
@@ -5351,6 +5357,9 @@
 1900 Rowan St, Louisville, KY:
   lat: 38.2605375
   lng: -85.7813194
+1900 Shady Villa Dr, Louisville, KY:
+  lat: 38.1626202
+  lng: -85.6833215
 1900 South 3rd Street, Louisville, KY:
   lat: 38.2203444
   lng: -85.7616989
@@ -14529,6 +14538,9 @@
 5500 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
+5600 Alta Cir, Louisville, KY:
+  lat: 38.2395231
+  lng: -85.6885789
 ? 5600 Baird St to assist a 32-year-old female who was reportedly experiencing a mental
   health crisis and contemplating suicide. The individual was described as wearing
   a black shirt and gray sweatpants. There were no immediate indications of violence
