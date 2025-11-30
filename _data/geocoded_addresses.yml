@@ -9995,6 +9995,7 @@
 3300 Burstells Lane, Louisville, KY: null
 3300 Can't Ground Road, Louisville, KY: null
 3300 Can't Ground Road, near Crusherad,, Louisville, KY: null
+3300 Canoran Road, Louisville, KY: null
 3300 Clarinet Dr, Louisville, KY:
   lat: 38.1922651
   lng: -85.8473475
@@ -10112,6 +10113,7 @@
   lat: 38.114744
   lng: -85.8695175
 3400 Cathy Dexter, Louisville, KY: null
+3400 Dale Park Terrace. The activation was due, Louisville, KY: null
 3400 Dill Park Terrace, Louisville, KY: null
 3400 Dr, Louisville, KY: null
 3400 Dr. William G. Weathers Drive. This stop was reportedly connected, Louisville, KY: null
@@ -12489,6 +12491,10 @@
 4200 Riviera Dr, Louisville, KY:
   lat: 38.291347
   lng: -85.672239
+? 4200 Seabiscuit Way following a report of a medical emergency involving a 7-year-old
+  female who sustained crush injuries. A full response from fire and EMS units was
+  initiated, Louisville, KY
+: null
 4200 Seabiscuit Way, Louisville, KY:
   lat: 38.0911177
   lng: -85.8518001
@@ -19776,6 +19782,7 @@ Elda Dr and Terry Rd, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
+Ewing Ave and Brinkford Road, Louisville, KY: null
 Factory Ln and Chamberlain Ln, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
