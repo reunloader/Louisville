@@ -5990,6 +5990,10 @@
 200 North at mile marker 29, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North of Preston, Louisville, KY: null
+? 200 North of Preston, prompting a response from emergency services. Police units
+  were in the vicinity and proceeded, Louisville, KY
+: null
 200 North on the ramp, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, Albert H Near St. The reason, Louisville, KY: null
@@ -11157,6 +11161,14 @@
 3900 Sunstree Road, Louisville, KY: null
 3900 Swarted Drive, Louisville, KY: null
 3900 Taylor's Hole Road, Louisville, KY: null
+? 3900 Taylorsville Rd following the activation of a commercial alarm at a local business.
+  The alarm system reported both a rear motion detector and a signal indicating forced
+  entry at the front door. Responding officers investigated the premises, Louisville,
+  KY
+: null
+3900 Taylorsville Rd, Louisville, KY:
+  lat: 38.2200933
+  lng: -85.6309937
 3900 Vermont Ave, Louisville, KY:
   lat: 38.2562961
   lng: -85.8156449
@@ -14975,6 +14987,11 @@
   lng: -85.8774197
 600 Adam Ridge Pl and 600 block of Baker Aly STREET, Louisville, KY: null
 600 Adam and 600 block of Baker, Louisville, KY: null
+? 600 Adam and 600 block of Baker. The incident involved a verbal argument where one
+  party allegedly made concerning statements about the other's well-being. Officers
+  arrived and assessed the situation, determining that the dispute remained verbal
+  and that the individuals involved were separating, Louisville, KY
+: null
 600 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
