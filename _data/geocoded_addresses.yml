@@ -3284,6 +3284,7 @@
 1300 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+1300 South Third Street, Louisville, KY: null
 1300 Southgate Ave, Louisville, KY:
   lat: 38.2003885
   lng: -85.7836267
@@ -6824,6 +6825,9 @@
 2100 Garland Ave, Louisville, KY:
   lat: 38.2437253
   lng: -85.7876351
+2100 Gladstone Ave, Louisville, KY:
+  lat: 38.216527
+  lng: -85.681746
 2100 Goldsmith Ln, Louisville, KY:
   lat: 38.2059543
   lng: -85.6729834
@@ -6984,6 +6988,9 @@
   police units responded, Louisville, KY
 : lat: 38.2488055
   lng: -85.7867975
+2100 Winston Ave, Louisville, KY:
+  lat: 38.2170111
+  lng: -85.6825559
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
   lng: -85.7840605
