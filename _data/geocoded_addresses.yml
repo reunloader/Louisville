@@ -12570,6 +12570,11 @@
 4300 Park Blvd. Details, Louisville, KY:
   lat: 38.1926269
   lng: -85.7552465
+? 4300 Pinnacle View involving an elderly woman. The 96-year-old female was experiencing
+  shortness of breath. There was some initial confusion regarding the location, with
+  Crest Street being mentioned before the correct address on Pinnacle View was confirmed.
+  EMS provided care, Louisville, KY
+: null
 4300 Preston Hwy, Louisville, KY:
   lat: 38.1818344
   lng: -85.7204275
@@ -19155,6 +19160,9 @@
   lng: -85.6932303
 9400 an unspecified street, Louisville, KY: null
 9500 Barbour Road, Louisville, KY: null
+9500 Baxter Ave, Louisville, KY:
+  lat: 38.2469712
+  lng: -85.7295363
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
   lng: -85.4388263
