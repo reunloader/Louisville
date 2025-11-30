@@ -1843,6 +1843,9 @@
 1100 East Broadway, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
+1100 East Broadway. The vehicle was observed, Louisville, KY:
+  lat: 38.2440101
+  lng: -85.7337642
 1100 East W Market St, Louisville, KY: null
 ? 1100 East W Market St, near S Johnson St. The patient was a 24-year-old female experiencing
   a bleeding issue related, Louisville, KY
@@ -9985,6 +9988,9 @@
   lng: -85.7179081
 3300 Mary O'Concord Dr, Louisville, KY: null
 3300 Mary O'Connor Way, Louisville, KY: null
+3300 Newburg Rd, Louisville, KY:
+  lat: 38.200977
+  lng: -85.686482
 3300 North 33rd Street near Flawns Avenue, Louisville, KY:
   lat: 38.2737912
   lng: -85.8008349
@@ -12391,6 +12397,9 @@
 4200 Northwestern Pky, Louisville, KY:
   lat: 38.273645
   lng: -85.815048
+4200 Outer Loop, Louisville, KY:
+  lat: 38.1372312
+  lng: -85.682402
 4200 Papa Johns Blvd, Louisville, KY: null
 4200 Riviera Dr, Louisville, KY:
   lat: 38.291347
@@ -16204,6 +16213,9 @@
 6900 Oakview Ct, Louisville, KY:
   lat: 38.1487184
   lng: -85.6187751
+6900 Preston Hwy, Louisville, KY:
+  lat: 38.1517049
+  lng: -85.694765
 6900 Redwoods Road, Louisville, KY: null
 6900 Riverport Dr, Louisville, KY:
   lat: 38.1609416
@@ -18448,6 +18460,10 @@
 8800 Smyrna Parkway, Louisville, KY:
   lat: 38.1216922
   lng: -85.6442708
+8800 Talon Ridge Dr and surrounding areas. The vehicle appeared, Louisville, KY: null
+8800 Talon Ridge Dr, Louisville, KY:
+  lat: 38.086445
+  lng: -85.603933
 8900 Bobrader Ct, Louisville, KY: null
 ? 8900 Covey Meadow Pl following reports of a 30-year-old female experiencing a severe
   mental breakdown. The individual was reportedly harming herself by punching walls
