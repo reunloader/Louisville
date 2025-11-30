@@ -2872,6 +2872,8 @@
   of South 13th Street and South 12th Street., Louisville, KY
 : null
 1200 Westhill Cir, building 4,, Louisville, KY: null
+1200 Westmoorland Way, Louisville, KY: null
+1200 Westmoorland Way. Responders were dispatched, Louisville, KY: null
 1200 Willow Ave, Anderson St, Longest Ave, and Glenmary Ave, Louisville, KY: null
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
@@ -3114,6 +3116,7 @@
 : null
 1300 E W Oak St, New Albany, Louisville, KY: null
 1300 Earl Jones Way, Louisville, KY: null
+1300 East Breckham Ridge Street, Louisville, KY: null
 1300 Fawnberry Avenue, Louisville, KY: null
 1300 Flat Rock Rd, Louisville, KY:
   lat: 38.256266
@@ -3433,6 +3436,9 @@
 13500 Triton Park Blvd, Louisville, KY:
   lat: 38.279377
   lng: -85.504782
+13600 Altawood Ct, Louisville, KY:
+  lat: 38.303296
+  lng: -85.5059383
 13600 Aragon Way, Louisville, KY: null
 13600 Elanna Ave in response, Louisville, KY: null
 13600 Elanna Ave, Louisville, KY: null
@@ -7518,6 +7524,9 @@
   a sidewall. Police units were requested, Louisville, KY
 : lat: 38.215004
   lng: -85.763937
+2300 Standard Ave, Louisville, KY:
+  lat: 38.232014
+  lng: -85.7943273
 2300 Taylorsville Rd, Louisville, KY:
   lat: 38.2233603
   lng: -85.6813009
@@ -8525,6 +8534,9 @@
 2800 Magazine St, Louisville, KY:
   lat: 38.251978
   lng: -85.798005
+2800 Narragansett Dr, Louisville, KY:
+  lat: 38.2255957
+  lng: -85.8025926
 2800 Newburg Rd, Louisville, KY:
   lat: 38.2099142
   lng: -85.694737
@@ -16771,6 +16783,7 @@
 700 S Brook St, Louisville, KY:
   lat: 38.244898
   lng: -85.751927
+700 S Brook St, believed, Louisville, KY: null
 ? 700 S Brook St, near East Jacob and E W College St, for a fire that had been intentionally
   set. Homeless individuals were present at the scene when the controlled burn was
   initiated. Firefighters worked to extinguish the blaze., Louisville, KY
@@ -17047,6 +17060,9 @@
 7000 Catalpa Springs Dr. The reporting party had not been in contact with the individual, Louisville, KY:
   lat: 38.1240421
   lng: -85.6318708
+7000 Cedar Knoll Pl, Louisville, KY:
+  lat: 38.1444986
+  lng: -85.5908912
 7000 Crossroads, Louisville, KY: null
 7000 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
