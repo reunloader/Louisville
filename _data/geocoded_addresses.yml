@@ -4991,6 +4991,9 @@
 17100 Mallet Hill Dr. The specific reason, Louisville, KY:
   lat: 38.25985
   lng: -85.437033
+17100 Tempest Way, Louisville, KY:
+  lat: 38.1649908
+  lng: -85.8269005
 17200 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
@@ -14259,6 +14262,7 @@
   lng: -85.764372
 500 South Churchway, Louisville, KY: null
 500 South Service Street, Louisville, KY: null
+500 South Third Street, Louisville, KY: null
 500 South, Louisville, KY: null
 500 South-A, Louisville, KY: null
 500 South18th Street at a three-story building, Louisville, KY:
@@ -15271,6 +15275,9 @@
 5900 Outer Loop near St. Athan NASA School, Louisville, KY:
   lat: 38.1381377
   lng: -85.652542
+5900 Santa Fe, Louisville, KY:
+  lat: 38.1676543
+  lng: -85.8765542
 ? 5900 Toby Lane, prompting a response from emergency services. A 42-year-old female
   was experiencing significant abdominal pain, and responders were dispatched to provide
   assistance., Louisville, KY
@@ -16810,6 +16817,7 @@
   response was cancelled, and another unit was assigned, Louisville, KY
 : null
 700 East W Chestnut St, Louisville, KY: null
+700 East W Muhammad Ali Blvd, Louisville, KY: null
 700 Eastern Parkway, Louisville, KY:
   lat: 38.213507
   lng: -85.745319
@@ -20190,6 +20198,7 @@ Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jefferson St and Baxter Ave, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
+Kay Avenue and Indiana Ave, Louisville, KY: null
 Keyline Road and Terry Rd, Louisville, KY: null
 King Run Road and Camp Ground Rd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
