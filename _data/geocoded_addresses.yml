@@ -10864,6 +10864,9 @@
 3700 Warren Ave, Louisville, KY:
   lat: 38.190927
   lng: -85.77663
+3700 West Wheatmore, Louisville, KY:
+  lat: 38.1905624
+  lng: -85.7999149
 3700 Woodgreen Ct, Louisville, KY:
   lat: 38.189985
   lng: -85.799011
@@ -14351,6 +14354,13 @@
   lat: 38.2098564
   lng: -85.7664245
 5100 South First Street, Louisville, KY: null
+5100 Southside Dr, Louisville, KY:
+  lat: 38.1725835
+  lng: -85.7649517
+? 5100 Southside Dr. A female party allegedly brandished a knife towards the caller
+  during the altercation. Units were dispatched, Louisville, KY
+: lat: 38.1725835
+  lng: -85.7649517
 5100 Steffen Drive, Louisville, KY: null
 5100 Steffen Drive. Police units were dispatched to investigate the theft., Louisville, KY: null
 5100 Steffen Drive. Police units were dispatched, Louisville, KY: null
@@ -17570,6 +17580,9 @@
 7800 Beulah Church Rd, Louisville, KY:
   lat: 38.1352487
   lng: -85.6137499
+7800 Carroll Ave, Louisville, KY:
+  lat: 38.1867681
+  lng: -85.7182661
 7800 Dixie Hwy, Louisville, KY:
   lat: 38.1381228
   lng: -85.8431944
