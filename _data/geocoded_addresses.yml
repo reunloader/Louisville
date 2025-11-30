@@ -6508,6 +6508,7 @@
 : null
 200 the eastbound lanes. Emergency units were on standby with Metro. The details, Louisville, KY: null
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
+200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
 200 westbound, Louisville, KY: null
 2000 3Rd Street Rd, Louisville, KY:
@@ -7379,6 +7380,9 @@
 2300 Ashwood Dr, Louisville, KY:
   lat: 38.214895
   lng: -85.70161
+2300 Austinwood Rd, Louisville, KY:
+  lat: 38.1479729
+  lng: -85.79683
 2300 Bardstown Rd, Louisville, KY:
   lat: 38.223761
   lng: -85.6901595
@@ -12086,6 +12090,7 @@
   lng: -85.7458112
 400 an unspecified area, Louisville, KY: null
 400 an unspecified location., Louisville, KY: null
+400 and 300 block of, Louisville, KY: null
 400 and 400 block of Charlie were dispatched to the area., Louisville, KY: null
 400 and 400 block of Charlie were dispatched, Louisville, KY: null
 ? 400 and 400 block of. At the time of the report, the vehicle had not been located,
@@ -12256,6 +12261,9 @@
   lat: 38.188436
   lng: -85.614176
 4000 Summit Plaza Dr, Louisville, KY:
+  lat: 38.3081143
+  lng: -85.577641
+4000 Summit Plaza, Louisville, KY:
   lat: 38.3081143
   lng: -85.577641
 4000 Summit Positive Drive, Louisville, KY: null
