@@ -2155,6 +2155,10 @@
   KY
 : null
 11000 Hill Rd on a report of a possible break-in in progress. Two subjects were observed near a structure, Louisville, KY: null
+11000 Indian Legends Dr in response, Louisville, KY: null
+11000 Indian Legends Dr, Louisville, KY:
+  lat: 38.2947835
+  lng: -85.5519637
 11000 Jefferson Trace Blvd, Louisville, KY:
   lat: 38.1511409
   lng: -85.5636852
@@ -6862,6 +6866,9 @@
   lat: 38.1531234
   lng: -85.8025178
 2100 Cherokee Pky near Cherokee Rd, Louisville, KY:
+  lat: 38.235329
+  lng: -85.712271
+2100 Cherokee Pky, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
 2100 Congress St near South 22nd and W, Louisville, KY:
@@ -13064,6 +13071,9 @@
 4400 Towne Center Dr, Louisville, KY:
   lat: 38.3020332
   lng: -85.55784
+4400 Towne Center Dr, near the Cinemark theaters,, Louisville, KY:
+  lat: 38.3020332
+  lng: -85.55784
 4400 W Market St, Louisville, KY:
   lat: 38.263696
   lng: -85.8211188
@@ -17191,6 +17201,7 @@
 7100 Bronner Cir. Police units arrived on the scene, Louisville, KY:
   lat: 38.1863175
   lng: -85.628687
+7100 Brunner's Way, Louisville, KY: null
 7100 Bungan Avenue, Louisville, KY: null
 7100 Cedar Brook Dr, Louisville, KY:
   lat: 38.1334661
