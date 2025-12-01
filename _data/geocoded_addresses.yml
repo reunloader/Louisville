@@ -4383,6 +4383,9 @@
   KY
 : lat: 38.227846
   lng: -85.780251
+1500 South 15th Street. The patient, a 30-year-old female, was found, Louisville, KY:
+  lat: 38.227846
+  lng: -85.780251
 1500 South 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
@@ -5437,6 +5440,10 @@
   Louisville, KY
 : null
 1800 Marinus Edgeway, Louisville, KY: null
+1800 Mary Catherine Dr, Louisville, KY: null
+? 1800 Mary Catherine Dr. They also assisted with the evacuation of a nearby structure
+  in the 1700 block of Mary Catherine Dr., Louisville, KY
+: null
 1800 McCloskey Avenue, Evening, Louisville, KY: null
 1800 Melwood, Louisville, KY: null
 1800 Melwood. In conjunction with this, a welfare check was requested, Louisville, KY: null
@@ -5769,6 +5776,9 @@
 1900 W Chestnut St, Louisville, KY:
   lat: 38.2514824
   lng: -85.7828934
+1900 W Garrett St, Louisville, KY:
+  lat: 38.1995084
+  lng: -85.7624993
 1900 W Jefferson St ajar, Louisville, KY: null
 1900 W Jefferson St, Louisville, KY:
   lat: 38.256524
@@ -8212,6 +8222,10 @@
 2400 West Ali, Louisville, KY:
   lat: 38.2546408
   lng: -85.7917199
+2400 West Mahama Valley, Louisville, KY: null
+? 2400 West Mahama Valley. The patient, a 49-year-old female, was suffering from a
+  significant nosebleed. After attending, Louisville, KY
+: null
 2400 West Market, Louisville, KY:
   lat: 38.2589016
   lng: -85.7903761
@@ -13064,6 +13078,9 @@
 4100 Towne Center Dr, Louisville, KY:
   lat: 38.2990939
   lng: -85.553818
+4100 Tulip Cir, Louisville, KY:
+  lat: 38.1224022
+  lng: -85.6875097
 4100 W Kentucky St, Louisville, KY:
   lat: 38.24534
   lng: -85.819777
@@ -17337,6 +17354,12 @@
 700 Camden Ave, Louisville, KY:
   lat: 38.1927749
   lng: -85.7712615
+700 Cedar Creek Rd, Louisville, KY:
+  lat: 38.0695318
+  lng: -85.6255144
+700 Cedar Creek Rd. They also responded, Louisville, KY:
+  lat: 38.0695318
+  lng: -85.6255144
 700 Central Ave and Gate 17, Louisville, KY: null
 700 Central Ave, Louisville, KY:
   lat: 38.2039043
