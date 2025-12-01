@@ -2395,6 +2395,9 @@
 11300 Wooded Branch Ln, Louisville, KY:
   lat: 38.1530714
   lng: -85.5646418
+11400 Berry Blvd, Louisville, KY:
+  lat: 38.1964357
+  lng: -85.7870485
 ? 11400 Crosswinds Dr to provide a public assist. The specific request was for a lift
   assist for an 80-year-old male resident. A specific unit was in service for this
   call., Louisville, KY
@@ -4720,6 +4723,9 @@
   lat: 38.2092826
   lng: -85.7831319
 1600 Two Strings, Louisville, KY: null
+1600 W Kentucky St, Louisville, KY:
+  lat: 38.2414959
+  lng: -85.7803273
 1600 W Market St. Responding units were dispatched, Louisville, KY:
   lat: 38.2569964
   lng: -85.7771317
@@ -7152,6 +7158,9 @@
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
   lng: -85.4851725
+2100 Bank St, Louisville, KY:
+  lat: 38.2660094
+  lng: -85.7832854
 2100 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 2100 Bardstown Rd, Louisville, KY:
   lat: 38.187628
