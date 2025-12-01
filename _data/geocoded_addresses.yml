@@ -113,6 +113,12 @@
 100 Closterwood Dr, Louisville, KY:
   lat: 38.1002925
   lng: -85.6573252
+100 Colin Ave, Louisville, KY:
+  lat: 38.2129728
+  lng: -85.7342455
+100 Colin Ave. This incident posed a potential hazard, and crews were on-site, Louisville, KY:
+  lat: 38.2129728
+  lng: -85.7342455
 100 Colm's Lane, Louisville, KY: null
 100 Colonial Dr, Louisville, KY: null
 100 Colonial Oaks Ct near South 1st Street, Louisville, KY: null
@@ -760,6 +766,9 @@
 100 Wetstein Ave, Louisville, KY:
   lat: 38.2256323
   lng: -85.6819226
+100 Wheeler Ave, Louisville, KY:
+  lat: 38.1821435
+  lng: -85.789056
 100 Whiteoak Park Rd, Louisville, KY: null
 100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
@@ -12183,6 +12192,7 @@
 400 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+400 Savage Dr, Louisville, KY: null
 400 Shelby River Road, Louisville, KY: null
 ? 400 Shelby River Road. Specific details about the nature of the activity were not
   immediately available, but police units were dispatched, Louisville, KY
