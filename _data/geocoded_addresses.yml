@@ -23,6 +23,7 @@
   lat: 38.3167721
   lng: -85.5616302
 04 Knoblet Drive, Louisville, KY: null
+06 Springford Avenue, Louisville, KY: null
 1 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -468,6 +469,7 @@
 100 Olde English Ct, Louisville, KY:
   lat: 38.116375
   lng: -85.812006
+100 Oster, Louisville, KY: null
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
@@ -7416,6 +7418,9 @@
   lat: 38.26209
   lng: -85.7840605
 215 I 64 West, Louisville, KY: null
+21900 Ottawa Ave, Louisville, KY:
+  lat: 38.1881115
+  lng: -85.7579503
 21919 an unconfirmed street. The reason, Louisville, KY: null
 22 La Saver Drive, Louisville, KY: null
 2200 Alta Ave, Louisville, KY:
@@ -15199,6 +15204,9 @@
 5200 Skylight Dr, near Gabriel Dr and Sky Blue Ave,, Louisville, KY:
   lat: 38.1530572
   lng: -85.8525377
+5200 South 3rd Street, Louisville, KY:
+  lat: 38.172155
+  lng: -85.767988
 5200 St, Louisville, KY:
   lat: 38.171309
   lng: -85.602422
