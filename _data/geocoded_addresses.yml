@@ -6523,6 +6523,9 @@
   21, Engine 9, and Quinn 25 responded, Louisville, KY
 : lat: 38.2000005
   lng: -85.7636078
+200 West at Crittenden Dr, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West at Dixie Hwy, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -6564,6 +6567,10 @@
 200 West, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+? 200 West, initially involving a black vehicle and a white Accord. The situation
+  escalated into a larger collision involving a Tesla and a Nissan Murano. Emergency
+  medical services transported one patient, Louisville, KY
+: null
 200 West, near Kentucky Drive. Police units responded, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -6575,6 +6582,9 @@
   Louisville, KY
 : null
 200 West. A Mustang reportedly struck a barrier, resulting in injuries, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
+200 West. Details, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
 200 West. One of the vehicles was partially blocking traffic. Police units responded to the scene., Louisville, KY:
@@ -16681,6 +16691,7 @@
 6700 Decoy Road. The value of the stolen items was reported, Louisville, KY:
   lat: 38.150714
   lng: -85.600459
+6700 Elm Cross Circle, Louisville, KY: null
 6700 Elmcroft Cir, Louisville, KY:
   lat: 38.3158928
   lng: -85.6236773
@@ -16915,6 +16926,9 @@
   lng: -85.8377877
 6900 East Highway 62, Louisville, KY: null
 6900 East Highway 62. Responding units were dispatched, Louisville, KY: null
+6900 Enterprise Dr, Louisville, KY:
+  lat: 38.1522169
+  lng: -85.7552979
 6900 Fahers, Louisville, KY: null
 6900 Green Manor Dr, Louisville, KY:
   lat: 38.147023
