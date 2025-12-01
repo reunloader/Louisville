@@ -6564,6 +6564,10 @@
 200 West Broadway, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
+? 200 West Broadway, between 2nd and 3rd Streets. The patient, a 27-year-old male,
+  was reported to have intentionally overdosed on Tylenol. EMS provided care and transport,
+  Louisville, KY
+: null
 200 West Early Morning, Louisville, KY: null
 200 West Jefferson, Louisville, KY:
   lat: 38.253409
@@ -9312,6 +9316,9 @@
 300 Adelaide, Louisville, KY:
   lat: 38.3055248
   lng: -85.5693954
+300 Arlington Meadows Dr, Louisville, KY:
+  lat: 38.2322537
+  lng: -85.4314953
 300 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
@@ -9402,6 +9409,7 @@
 300 Chariot Ct, Louisville, KY:
   lat: 38.1273447
   lng: -85.6660952
+300 Charleville Lane, Louisville, KY: null
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 327, Louisville, KY:
   lat: 38.1686412
@@ -14559,6 +14567,14 @@
 500 Dresden Ave, Louisville, KY:
   lat: 38.197563
   lng: -85.768594
+500 E Jefferson St, Louisville, KY:
+  lat: 38.2521349
+  lng: -85.7441534
+? 500 E Jefferson St, near the intersection of Hancock and Jackson. The primary purpose
+  of the fire department's involvement was to gain entry to the location, Louisville,
+  KY
+: lat: 38.2521349
+  lng: -85.7441534
 500 E W Jacob St at Shepard Square, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
@@ -15795,6 +15811,9 @@
 5900 Santa Fe, Louisville, KY:
   lat: 38.1676543
   lng: -85.8765542
+5900 Shepherd Crossing Dr, Louisville, KY:
+  lat: 38.1278035
+  lng: -85.6590582
 ? 5900 Toby Lane, prompting a response from emergency services. A 42-year-old female
   was experiencing significant abdominal pain, and responders were dispatched to provide
   assistance., Louisville, KY
@@ -18222,6 +18241,7 @@
 7300 Ticonderoga Dr, Louisville, KY:
   lat: 38.1514364
   lng: -85.7902881
+7300 West Over Railroad Crossroads, Louisville, KY: null
 7400 3rd St Rene Rd, Louisville, KY: null
 7400 Bardstown Rd, Louisville, KY:
   lat: 38.1388505
@@ -20111,6 +20131,7 @@
 9200 Independence School Rd, Louisville, KY:
   lat: 38.1012378
   lng: -85.5924749
+9200 Lease Cave Road, Louisville, KY: null
 9200 Marlboro Cir, Louisville, KY: null
 ? 9200 Marlboro Cir. The specific details regarding what prompted the call for a welfare
   check or the nature of the suspicious activity were not immediately available. Unit
