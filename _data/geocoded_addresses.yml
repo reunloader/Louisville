@@ -1349,6 +1349,9 @@
 1000 Parkstone Ct, Louisville, KY:
   lat: 38.28942
   lng: -85.5611258
+1000 Patterson, Louisville, KY:
+  lat: 38.1589025
+  lng: -85.6758518
 1000 Pleasant Glen Dr, Louisville, KY:
   lat: 38.1790292
   lng: -85.5167505
@@ -5360,6 +5363,8 @@
 : null
 1800 Marinus Edgeway, Louisville, KY: null
 1800 McCloskey Avenue, Evening, Louisville, KY: null
+1800 Melwood, Louisville, KY: null
+1800 Melwood. In conjunction with this, a welfare check was requested, Louisville, KY: null
 1800 Millwood Ct to investigate and manage the situation., Louisville, KY: null
 1800 Millwood Ct, Louisville, KY:
   lat: 38.1674751
@@ -11875,6 +11880,9 @@
 400 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+400 Douglas Park, Louisville, KY:
+  lat: 38.1784089
+  lng: -85.7605676
 400 Downes Ln, Louisville, KY:
   lat: 38.155955
   lng: -85.757544
@@ -12751,6 +12759,7 @@
 4100 Flintlock Dr, Louisville, KY:
   lat: 38.1598709
   lng: -85.8336846
+4100 Front Lock Drive, Louisville, KY: null
 4100 Gingerwood Dr, Louisville, KY:
   lat: 38.2014872
   lng: -85.6276294
