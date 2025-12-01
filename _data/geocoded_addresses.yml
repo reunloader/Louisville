@@ -2007,6 +2007,7 @@
   The medical response was subsequently canceled., Louisville, KY
 : null
 1100 King Arthur Ln, Louisville, KY: null
+1100 Lewis Coleman Jr, Louisville, KY: null
 1100 Lincoln Ave near Lindbergh Dr and Colorado Ave, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
@@ -6399,6 +6400,9 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South, near Spurn., Louisville, KY: null
+200 South44th Street, Louisville, KY:
+  lat: 38.2534329
+  lng: -85.8250528
 200 Southbound at the 2-over-9 ramp, Louisville, KY: null
 200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
 200 Southern Ave, Louisville, KY:
@@ -19686,6 +19690,9 @@
 900 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+900 South25th Street, Louisville, KY:
+  lat: 38.243366
+  lng: -85.793868
 900 South39th Street, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
