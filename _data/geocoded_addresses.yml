@@ -6734,6 +6734,9 @@
 2000 Brownsboro Rd. A person being picked up, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Brownsboro Rd. Officers responded, Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
 2000 Brownsboro Rd. This is a standard procedure, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
@@ -13571,6 +13574,9 @@
 4500 Springdale Rd, Louisville, KY:
   lat: 38.3106568
   lng: -85.584345
+4500 Springdale Rd, near the intersections of Summit Ridge Dr and Old Springdale Rd,, Louisville, KY:
+  lat: 38.3106568
+  lng: -85.584345
 ? 4500 Springdale Rd. The incident involved a 90-year-old male who had fallen and
   was experiencing hip pain. Responders were, Louisville, KY
 : lat: 38.3106568
@@ -17603,6 +17609,9 @@
 7000 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
+7000 Wildwood Cir, Louisville, KY:
+  lat: 38.1754279
+  lng: -85.6257196
 7000 an unnamed street, Louisville, KY: null
 70100 Johnsontown Rd, Louisville, KY: null
 ? 70100 Johnsontown Rd. The incident involved a daughter's boyfriend allegedly assaulting
@@ -20703,6 +20712,7 @@ Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Strader Ave and Camden Ave, Louisville, KY: null
 Strader Ave and Woodruff Ave, Louisville, KY: null
+Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Taylor Ave and Barret Ave, Louisville, KY: null
 Taylor Ave and Berry Blvd, Louisville, KY: null
