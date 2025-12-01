@@ -3281,6 +3281,9 @@
   lng: -85.7332412
 1300 McHenry Street, Louisville, KY: null
 1300 Miller's Lane, Louisville, KY: null
+1300 N S Peterson Ave, Louisville, KY:
+  lat: 38.2491801
+  lng: -85.6970953
 1300 Old Fern Valley Rd, Louisville, KY:
   lat: 38.1554819
   lng: -85.6901603
@@ -5367,6 +5370,7 @@
 1800 McCloskey Avenue, Evening, Louisville, KY: null
 1800 Melwood, Louisville, KY: null
 1800 Melwood. In conjunction with this, a welfare check was requested, Louisville, KY: null
+1800 Metalwood, Louisville, KY: null
 1800 Millwood Ct to investigate and manage the situation., Louisville, KY: null
 1800 Millwood Ct, Louisville, KY:
   lat: 38.1674751
@@ -8612,6 +8616,12 @@
 2700 Chickasaw Ave, Louisville, KY:
   lat: 38.259328
   lng: -85.698116
+2700 Crittenden Dr, Louisville, KY:
+  lat: 38.205234
+  lng: -85.750903
+2700 Field Ave, Louisville, KY:
+  lat: 38.25696
+  lng: -85.694417
 2700 Garland Ave, Louisville, KY:
   lat: 38.244613
   lng: -85.7973498
@@ -14421,6 +14431,9 @@
   lat: 38.1955906
   lng: -85.7685576
 500 Dixie Hwy, Louisville, KY: null
+500 Dresden Ave, Louisville, KY:
+  lat: 38.197563
+  lng: -85.768594
 500 E W Jacob St at Shepard Square, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
