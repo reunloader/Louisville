@@ -10945,6 +10945,7 @@
 3600 Glenview Ave, Louisville, KY:
   lat: 38.2984672
   lng: -85.6443492
+3600 Good Samaritan Way, Louisville, KY: null
 3600 Grandview Ave, Louisville, KY:
   lat: 38.2464907
   lng: -85.6560494
@@ -18594,6 +18595,9 @@
 800 Foxgate Rd, Louisville, KY:
   lat: 38.252958
   lng: -85.552025
+800 Foxwood Ave, Louisville, KY:
+  lat: 38.257124
+  lng: -85.56892
 800 Glen Hollow Dr, Louisville, KY:
   lat: 38.1496915
   lng: -85.7759209
