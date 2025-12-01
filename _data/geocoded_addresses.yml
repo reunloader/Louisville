@@ -4306,6 +4306,9 @@
   block of Berry Blvd,, Louisville, KY
 : null
 1500 South11th Street, Louisville, KY: null
+1500 South12th Street, Louisville, KY:
+  lat: 38.2267625
+  lng: -85.7750909
 1500 South15 Street, Louisville, KY: null
 1500 South15th Street, Louisville, KY: null
 1500 Southgate Ave, Louisville, KY:
@@ -4660,6 +4663,11 @@
 1600 W Oak St, Louisville, KY:
   lat: 38.2366926
   lng: -85.7811138
+? 1600 West Chessland following reports of several men outside with firearms. The
+  individuals were reportedly making noise, causing a disturbance, and banging on
+  doors. Multiple police units responded, Louisville, KY
+: null
+1600 West Chessland, Louisville, KY: null
 1600 West L, Louisville, KY: null
 ? 1600 West Ln concerning a 14-year-old male who was reportedly acting out of control
   and stealing belongings. The teenager was described as a black male wearing a green
@@ -4843,6 +4851,8 @@
   to investigate the situation., Louisville, KY
 : null
 1700 Newberg to conduct a welfare check. A male individual had called, Louisville, KY: null
+1700 Newberg, Louisville, KY: null
+1700 Newberg. Responding units arrived, Louisville, KY: null
 1700 Nobel Pl, Louisville, KY: null
 1700 O'Odaniel Ave, Louisville, KY: null
 1700 Old Bluegrass Ave, Louisville, KY:
@@ -19444,6 +19454,9 @@
 900 Schiller Ct. The caller expressed concern that a subject was attempting, Louisville, KY:
   lat: 38.237836
   lng: -85.7325656
+900 Shelby Parkway, Louisville, KY:
+  lat: 38.231981
+  lng: -85.739227
 900 South 28th Street, Louisville, KY:
   lat: 38.244855
   lng: -85.799212
@@ -19518,6 +19531,7 @@
 900 South39th Street, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
+900 Southbrook Street, Louisville, KY: null
 900 Southgate Manor Dr, Louisville, KY:
   lat: 38.0893129
   lng: -85.6721306
@@ -20551,6 +20565,7 @@ Palatka Rd and Manslick Rd, Louisville, KY: null
 Panax Ln and Morning Glory Ln, Louisville, KY: null
 Papa Lovell Road and Thruston Ave, Louisville, KY: null
 Park Blvd and Green Spring Dr, Louisville, KY: null
+Park Boundary Rd and Shack Park Road, Louisville, KY: null
 Patrick Henry Rd and Yorktel Road, Louisville, KY: null
 Payne St and Barret Ave, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null

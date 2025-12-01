@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-12-01 09:27:00
+**Generated:** 2025-12-01 09:51:34
 
 ---
 
@@ -8,21 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 8,593 |
-| **Successfully Geocoded** | 4,211 |
-| **Failed to Geocode** | 4,382 |
-| **Success Rate** | 49.01% |
-| **Failure Rate** | 50.99% |
+| **Total Addresses** | 8,601 |
+| **Successfully Geocoded** | 4,213 |
+| **Failed to Geocode** | 4,388 |
+| **Success Rate** | 48.98% |
+| **Failure Rate** | 51.02% |
 
 ---
 
 ## Recent Changes
 
-- **1** new addresses processed
-- **1** successfully geocoded
-- **0** failed to geocode
-- **This batch success rate: 100.00%** 🎯
-- Overall rate changed by **+0.01%** 📈
+- **8** new addresses processed
+- **2** successfully geocoded
+- **6** failed to geocode
+- **This batch success rate: 25.00%** ⚠️
+- Overall rate changed by **-0.03%** 📉
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 1608 | 36.7% |
-| Incomplete/vague address | 841 | 19.2% |
+| Contains location qualifiers (near/at) | 1608 | 36.6% |
+| Incomplete/vague address | 844 | 19.2% |
 | Other/Unknown | 814 | 18.6% |
-| Intersection format | 733 | 16.7% |
-| Contains extra sentences/context | 384 | 8.8% |
+| Intersection format | 734 | 16.7% |
+| Contains extra sentences/context | 386 | 8.8% |
 | Police phonetic codes | 2 | 0.0% |
 
 ---
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-12-01 | 6 | 5 | 83.3% 🎯 | 8,565 | 49.01% |
 | 2025-12-01 | 10 | 4 | 40.0% ⚡ | 8,575 | 49.00% |
 | 2025-12-01 | 3 | 2 | 66.7% 🎯 | 8,578 | 49.01% |
 | 2025-12-01 | 1 | 1 | 100.0% 🎯 | 8,579 | 49.02% |
@@ -53,6 +52,7 @@
 | 2025-12-01 | 3 | 3 | 100.0% 🎯 | 8,591 | 49.00% |
 | 2025-12-01 | 1 | 0 | 0.0% ⚠️ | 8,592 | 49.00% |
 | 2025-12-01 | 1 | 1 | 100.0% 🎯 | 8,593 | 49.01% |
+| 2025-12-01 | 8 | 2 | 25.0% ⚠️ | 8,601 | 48.98% |
 
 ---
 
