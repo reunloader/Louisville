@@ -3320,6 +3320,9 @@
 1300 South 20th Street, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
+1300 South 26th Street, Louisville, KY:
+  lat: 38.236286
+  lng: -85.796515
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -15195,6 +15198,9 @@
 5500 Pikewood Field Way, Louisville, KY:
   lat: 38.1438756
   lng: -85.6544274
+5500 Ridgecrest, Louisville, KY:
+  lat: 38.1709163
+  lng: -85.6657527
 5500 Robinwood Rd, Louisville, KY:
   lat: 38.1697708
   lng: -85.6684397
@@ -20249,6 +20255,7 @@ Camden Ave and Carol Ave, Louisville, KY: null
 Camp Ground Rd and Wilmoth Ave, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
 Cane Run Rd and Mary Rose Dr, Louisville, KY: null
+Cane Run Rd and Reamers Rd, Louisville, KY: null
 Cane Run Road and Ralph Avenue, Louisville, KY: null
 Cannons Ln and Old Cannons Ln, Louisville, KY: null
 Canterbury Dr and Ravinia Ave, Louisville, KY: null
