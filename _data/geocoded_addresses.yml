@@ -6518,6 +6518,9 @@
 200 [Street Name Unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 a ramp, Louisville, KY:
+  lat: 38.2621141
+  lng: -85.7378387
 200 and Highway 64, Louisville, KY: null
 200 and Old Shelbyville Rd, Louisville, KY: null
 200 and Taylor Blvd, Louisville, KY:
@@ -7363,6 +7366,9 @@
 2200 S Brook St, Louisville, KY:
   lat: 38.2171166
   lng: -85.7560104
+2200 S Preston St, Louisville, KY:
+  lat: 38.215321
+  lng: -85.743914
 2200 South 3rd Street, Louisville, KY:
   lat: 38.2191093
   lng: -85.7615978
@@ -15556,6 +15562,7 @@
 ? 600 Lampton St, with the caller also noting damage to their home. Law enforcement
   units were sent to investigate the area, Louisville, KY
 : null
+600 Lewis-Coleman Junior Drive, Louisville, KY: null
 600 Locust Ln, Louisville, KY:
   lat: 38.207093
   lng: -85.745201
@@ -20507,6 +20514,7 @@ University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 University Rd and Cleveland Blvd, Louisville, KY: null
 Utah Ave and Euclid Ave, Louisville, KY: null
+Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
