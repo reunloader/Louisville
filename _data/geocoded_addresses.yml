@@ -5015,9 +5015,14 @@
 1700 W Kentucky St, Louisville, KY:
   lat: 38.241855
   lng: -85.783285
+1700 W Market St & I-64 East, Louisville, KY: null
 1700 W Market St, Louisville, KY:
   lat: 38.257543
   lng: -85.778452
+? 1700 W Market St, prompting a response from units. Concurrently, a large garbage
+  truck was observed traveling in the right lane of I-64 East without its hazard lights
+  activated, creating a significant risk, Louisville, KY
+: null
 1700 W Market St, which was reported as an entry/exit alarm, Louisville, KY: null
 1700 W Oak St, Louisville, KY:
   lat: 38.2368649
@@ -20731,6 +20736,7 @@ Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
+St Rene Rd and Kentucky Ave, Louisville, KY: null
 St Rene Rd and Spirit Lane, Louisville, KY: null
 Stallings Ave and Cliggs Avenue, Louisville, KY: null
 Stanton Blvd and Euclid Ave, Louisville, KY: null
