@@ -7490,6 +7490,9 @@
 2200 Date St. It was clarified that the patient's niece had called, Louisville, KY:
   lat: 38.2429123
   lng: -85.7894705
+2200 Dixie Hwy, Louisville, KY:
+  lat: 38.2185305
+  lng: -85.7949258
 ? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
   on the extent of the fire and the response are not immediately available., Louisville,
   KY
@@ -8738,6 +8741,9 @@
 2700 Lexington Rd, Louisville, KY:
   lat: 38.245036
   lng: -85.691923
+2700 Marguerite Dr, Louisville, KY:
+  lat: 38.1673238
+  lng: -85.8571346
 2700 Martin House Ln, Louisville, KY: null
 ? 2700 Montana Ave in response to a report of an eviction. Upon arrival, a deputy
   described the situation as a "cockpile of evictions." Another deputy was present
@@ -19171,6 +19177,7 @@
 8000 Shelbyville Rd, Louisville, KY:
   lat: 38.2482721
   lng: -85.6061377
+8000 Vine Crest Ave, Louisville, KY: null
 8000 Wooded Ridge Dr, Louisville, KY:
   lat: 38.1433838
   lng: -85.809036
