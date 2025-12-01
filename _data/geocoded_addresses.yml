@@ -3775,6 +3775,9 @@
 1400 Mellwood Ave, Louisville, KY:
   lat: 38.2547566
   lng: -85.7230184
+1400 Millwood, Louisville, KY:
+  lat: 38.1674751
+  lng: -85.5765149
 1400 Morton Ave, Louisville, KY:
   lat: 38.23979
   lng: -85.72835
@@ -4863,6 +4866,9 @@
 1700 Newberg, Louisville, KY: null
 1700 Newberg. Responding units arrived, Louisville, KY: null
 1700 Nobel Pl, Louisville, KY: null
+1700 Northwestern Pky at Metro Park, Louisville, KY:
+  lat: 38.264815
+  lng: -85.775314
 1700 O'Odaniel Ave, Louisville, KY: null
 1700 Old Bluegrass Ave, Louisville, KY:
   lat: 38.1797125
@@ -10419,6 +10425,9 @@
   lng: -85.7179081
 3300 Mary O'Concord Dr, Louisville, KY: null
 3300 Mary O'Connor Way, Louisville, KY: null
+3300 Mary Oconnor Dr, Louisville, KY:
+  lat: 38.1896492
+  lng: -85.851097
 3300 Newburg Rd, Louisville, KY:
   lat: 38.200977
   lng: -85.686482
