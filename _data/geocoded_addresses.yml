@@ -4530,6 +4530,9 @@
 1600 Berea Dr. The specific circumstances leading, Louisville, KY:
   lat: 38.1228956
   lng: -85.607913
+1600 Berry Blvd, Louisville, KY:
+  lat: 38.1960039
+  lng: -85.7909964
 1600 Bicknell Ave, Louisville, KY:
   lat: 38.1834948
   lng: -85.7901511
@@ -6332,6 +6335,7 @@
   lng: -85.8116457
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
+200 North Delton Road, Louisville, KY: null
 200 North First Street, Louisville, KY: null
 200 North Hubbard's Lane, Louisville, KY: null
 200 North I near Smyrna Parkway, Louisville, KY:
@@ -9322,6 +9326,9 @@
 300 Adelaide, Louisville, KY:
   lat: 38.3055248
   lng: -85.5693954
+300 Amberwell Park Rd, Louisville, KY:
+  lat: 38.2889832
+  lng: -85.5589923
 300 Arlington Meadows Dr, Louisville, KY:
   lat: 38.2322537
   lng: -85.4314953
