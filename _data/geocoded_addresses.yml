@@ -10774,6 +10774,10 @@
 3500 Taylor Blvd, Louisville, KY:
   lat: 38.1961144
   lng: -85.7833672
+? 3500 Terrace Springs Dr. The caller requested a check on an individual's incarceration
+  status at OMBC, with further references, Louisville, KY
+: lat: 38.287939
+  lng: -85.502012
 3500 Versaille Ln, Louisville, KY:
   lat: 38.14975
   lng: -85.6970149
@@ -13681,6 +13685,9 @@
   lat: 38.1434841
   lng: -85.8415387
 4600 Jo Lynn Dr, Louisville, KY: null
+? 4600 Kastman Drive following a report of a medical emergency. The situation involved
+  a 60-year-old female experiencing what was believed, Louisville, KY
+: null
 4600 Lena Ln, Louisville, KY:
   lat: 38.1065676
   lng: -85.5036462
@@ -17482,6 +17489,9 @@
 700 W Evelyn Ave, Louisville, KY:
   lat: 38.1965923
   lng: -85.7712149
+700 W Jefferson St, Louisville, KY:
+  lat: 38.2540512
+  lng: -85.7625036
 700 W Jefferson St, specifically at the Judicial Center,, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
