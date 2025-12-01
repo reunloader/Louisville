@@ -534,6 +534,9 @@
 100 South 12th Street. The officer requested backup as they prepared, Louisville, KY:
   lat: 38.257963
   lng: -85.769888
+100 South 15th Street, Louisville, KY:
+  lat: 38.258516
+  lng: -85.774857
 100 South 17th Street, Louisville, KY:
   lat: 38.258883
   lng: -85.778171
@@ -14256,6 +14259,9 @@
 500 Baxter Ave, Louisville, KY:
   lat: 38.24769
   lng: -85.730217
+500 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 500 Beecher St, Louisville, KY:
   lat: 38.1918563
   lng: -85.7684561
