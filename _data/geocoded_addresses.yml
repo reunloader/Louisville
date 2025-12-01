@@ -9457,6 +9457,9 @@
 300 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
+300 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 300 E W Lee St, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
@@ -11481,6 +11484,9 @@
   lng: -85.799011
 3700 Woodland Mills Dr to perform a welfare check, with indications of a potential medical situation., Louisville, KY: null
 3700 Woodland Mills Dr, Louisville, KY: null
+? 3700 Woodland Mills Dr, near Ladd Ave and Laurel Standway, concerning a 20-year-old
+  female who was unresponsive, Louisville, KY
+: null
 3700 Woodruff Ave, Louisville, KY:
   lat: 38.1910665
   lng: -85.7849485
@@ -20899,6 +20905,7 @@ Kinglan Rd and Poppy Ave, Louisville, KY: null
 La Boca Avenue and Parker Ave, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
 Labor Ln and Level Street, Louisville, KY: null
+Ladd Ave and Laurel St, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
