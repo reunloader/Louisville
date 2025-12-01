@@ -1846,6 +1846,13 @@
 10900 Albion Dr, Louisville, KY:
   lat: 38.0966305
   lng: -85.8657587
+? 10900 Fashion Way involving a 63-year-old male who appeared to be suffering a stroke.
+  Responders faced a challenge as the patient was initially unable to open the door,
+  Louisville, KY
+: null
+10900 Fashion Way, Louisville, KY:
+  lat: 38.0970254
+  lng: -85.8749133
 10900 Jackson Way, Louisville, KY: null
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
@@ -9091,6 +9098,9 @@
 300 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+? 300 Adam, with a vehicle seen speeding away from the 9100 block of GV Drive with
+  an obstructed license plate, Louisville, KY
+: null
 300 Adam. Responding officers found no signs of forced entry or any individuals present at the location., Louisville, KY: null
 300 Adams St & 300 block of Beecher St, Louisville, KY: null
 300 Adelaide, Louisville, KY:
@@ -15074,6 +15084,7 @@
   lng: -85.865615
 5400 Governor's Way, Louisville, KY: null
 5400 HACL Drive, Louisville, KY: null
+5400 Haymes Trace, Louisville, KY: null
 5400 I 65 South, Louisville, KY: null
 5400 I-65 South, Louisville, KY: null
 5400 Indian Oaks Cir, Louisville, KY:
@@ -20584,6 +20595,8 @@ Shelbyville Rd and Bircham Rd, Louisville, KY: null
 Shelbyville Rd and Dorset Rd, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
+Shelbyville Rd and Lucas Creek Rd, Louisville, KY: null
+Shelbyville Rd and Lucas Creek Road, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
 Shelbyville Rd and South Linden Lane, Louisville, KY: null
