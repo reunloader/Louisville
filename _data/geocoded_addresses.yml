@@ -5095,6 +5095,10 @@
 17200 Shakes Creek Dr, Louisville, KY:
   lat: 38.205848
   lng: -85.435965
+? 17200 Shakes Creek Dr. While the specific nature of the medical issue was not detailed
+  in the report, emergency units were dispatched, Louisville, KY
+: lat: 38.205848
+  lng: -85.435965
 17200 Shakespeare Street Drive, Louisville, KY: null
 17500 McWay, Louisville, KY: null
 17500 Outer Loop, Louisville, KY:
@@ -6363,6 +6367,8 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South, near Spurn., Louisville, KY: null
+200 Southbound at the 2-over-9 ramp, Louisville, KY: null
+200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
 200 Southern Ave, Louisville, KY:
   lat: 38.1886289
   lng: -85.7589791
