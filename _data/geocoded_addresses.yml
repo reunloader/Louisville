@@ -1694,6 +1694,9 @@
   have outstanding warrants, though the specifics were unclear. Police units were
   dispatched, Louisville, KY
 : null
+10300 Perwinkle Ct, Louisville, KY:
+  lat: 38.0912405
+  lng: -85.5604578
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -7729,6 +7732,10 @@
 2300 Woodland Ave, Louisville, KY:
   lat: 38.233421
   lng: -85.79377
+2300 [unspecified street] near Antle Dr and Beeler Way, Louisville, KY:
+  lat: 38.2875277
+  lng: -85.6240267
+2300 an unspecified street. The call involved helping, Louisville, KY: null
 2300 block of Line Kill, Louisville, KY: null
 2300 block of Line Kill. Police units were dispatched to investigate the activation., Louisville, KY: null
 2300 block of Line Kill. Police units were dispatched, Louisville, KY: null
@@ -12922,6 +12929,9 @@
 4300 Hale Ave, near Kaiser Ct and South 43rd Street, Louisville, KY:
   lat: 38.2415803
   lng: -85.8254986
+4300 Harvest Moon Dr, Louisville, KY:
+  lat: 38.1913753
+  lng: -85.621994
 4300 I 64 East, Louisville, KY: null
 4300 King Run, Louisville, KY: null
 4300 Larkwood Ave. Police units were sent, Louisville, KY:
@@ -17955,6 +17965,7 @@
   lat: 38.1574351
   lng: -85.8105138
 7600 St, Louisville, KY: null
+7600 Thursday Road near College Ct and Twinloaves Lane, Louisville, KY: null
 7700 3rd Street, Louisville, KY:
   lat: 38.13665
   lng: -85.786372
@@ -17996,6 +18007,7 @@
 7700 Manslick Rd. Responders were on the scene, Louisville, KY:
   lat: 38.140092
   lng: -85.79391
+7700 National Time Flight near Patrick Henry Rd and Yorktel Road, Louisville, KY: null
 7700 Outer Loop, Louisville, KY:
   lat: 38.1370967
   lng: -85.6184393
@@ -20391,6 +20403,7 @@ Palatka Rd and Manslick Rd, Louisville, KY: null
 Panax Ln and Morning Glory Ln, Louisville, KY: null
 Papa Lovell Road and Thruston Ave, Louisville, KY: null
 Park Blvd and Green Spring Dr, Louisville, KY: null
+Patrick Henry Rd and Yorktel Road, Louisville, KY: null
 Payne St and Barret Ave, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
