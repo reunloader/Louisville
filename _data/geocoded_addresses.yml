@@ -2925,6 +2925,9 @@
 1200 Waycross Ave, Louisville, KY:
   lat: 38.0938159
   lng: -85.6538909
+? 1200 Weller Ave regarding a domestic dispute. The incident involved a disagreement
+  over a tablet. Responding units investigated the situation, Louisville, KY
+: null
 1200 Weller Ave, Louisville, KY:
   lat: 38.2098187
   lng: -85.7755746
@@ -3639,6 +3642,13 @@
 1400 Central Ave, Louisville, KY:
   lat: 38.2107422
   lng: -85.7799385
+1400 Cherokee Rd, Louisville, KY:
+  lat: 38.2358015
+  lng: -85.710346
+? 1400 Cherokee Rd. The audio line remained open, with traffic noise audible in the
+  background. Responding units attempted, Louisville, KY
+: lat: 38.2358015
+  lng: -85.710346
 1400 Clare Ln, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -8664,6 +8674,12 @@
   lat: 38.210579
   lng: -85.768087
 2700 South Center Street, Louisville, KY: null
+2700 South Park, Louisville, KY:
+  lat: 38.1125689
+  lng: -85.7477389
+2700 South Park. Multiple units responded, Louisville, KY:
+  lat: 38.1125689
+  lng: -85.7477389
 2700 South Third, Louisville, KY: null
 ? 2700 South Third. Their presence was scheduled to continue until 8:00 a.m., with
   no further status checks required., Louisville, KY
@@ -20233,6 +20249,7 @@
 98 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.2661874
   lng: -85.6585606
+9800 3rd St Rene Rd, Louisville, KY: null
 9800 Agena Draw 10:00 a, Louisville, KY: null
 9800 Agena Draw 10:00 a.m., Louisville, KY: null
 ? 9800 Agena Draw due to a child being locked inside a bedroom. A two-year-old child
@@ -20563,6 +20580,7 @@ Fern Valley Rd and Jefferson Blvd, Louisville, KY: null
 Fern Valley Rd and Paramount Park Dr, Louisville, KY: null
 Fern Valley Rd and Popolo Road, Louisville, KY: null
 Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
+First One Lane and North Sea Lane, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
