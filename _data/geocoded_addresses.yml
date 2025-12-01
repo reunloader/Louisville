@@ -540,6 +540,9 @@
   lat: 38.255118
   lng: -85.743963
 100 S Jackson St, prompting a police response, Louisville, KY: null
+100 S Longworth Ave, Louisville, KY:
+  lat: 38.2664881
+  lng: -85.8238165
 100 Sears Ave, Louisville, KY: null
 100 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 100 Shelby Station Dr, Louisville, KY: null
@@ -1661,6 +1664,9 @@
 10000 Taylorsville Rd. Police units were sent, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
+10000 Torrington Rd, Louisville, KY:
+  lat: 38.0966603
+  lng: -85.8626584
 10000 Vista Springs Way, Louisville, KY:
   lat: 38.0969181
   lng: -85.5682201
@@ -8483,6 +8489,9 @@
 2600 Dixdale Ave near 28th Street, Louisville, KY:
   lat: 38.222604
   lng: -85.800516
+2600 Duane Ave, Louisville, KY:
+  lat: 38.1746709
+  lng: -85.8401029
 2600 Duncan St, Louisville, KY:
   lat: 38.263334
   lng: -85.793424
