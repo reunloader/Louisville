@@ -1788,6 +1788,7 @@
 10500 Bay Pointe Ct, Louisville, KY:
   lat: 38.3026745
   lng: -85.5549039
+10500 Burns Ct, Louisville, KY: null
 10500 Fairview Ave, Louisville, KY:
   lat: 38.2098788
   lng: -85.775154
@@ -2722,6 +2723,9 @@
   lng: -85.7261297
 1200 Marks Island Road, Louisville, KY: null
 1200 Markstown Road, Louisville, KY: null
+1200 Marty Ln, Louisville, KY:
+  lat: 38.1595879
+  lng: -85.6727403
 1200 Monticello Forest Cir, Louisville, KY: null
 1200 Moore Ct and Elliott Park, Louisville, KY: null
 1200 Moore Ct due, Louisville, KY: null
@@ -5519,6 +5523,9 @@
   room. Police units were dispatched, Louisville, KY
 : lat: 38.1533993
   lng: -85.6971709
+1800 Williamson Ct, Louisville, KY:
+  lat: 38.2694343
+  lng: -85.5048369
 1800 Woodfield Rd, Louisville, KY: null
 1800 York St, Louisville, KY:
   lat: 38.243908
@@ -8856,6 +8863,7 @@
   KY
 : lat: 38.198204
   lng: -85.8349572
+2800 D Miller Ave, Louisville, KY: null
 2800 Eddy St, Louisville, KY:
   lat: 38.256079
   lng: -85.797282
@@ -11262,6 +11270,9 @@
 3700 Fern Valley Rd, Louisville, KY:
   lat: 38.1573006
   lng: -85.6919502
+3700 Gentry Ln, Louisville, KY:
+  lat: 38.1212635
+  lng: -85.5849057
 3700 Hillsdale Rd, Louisville, KY:
   lat: 38.3063205
   lng: -85.6396081
@@ -12877,6 +12888,9 @@
 4100 LaSalle, Louisville, KY: null
 4100 LaSalle. Units were dispatched to look into the reported disturbance., Louisville, KY: null
 4100 LaSalle. Units were dispatched, Louisville, KY: null
+4100 Landing Way, Louisville, KY:
+  lat: 38.1337692
+  lng: -85.757882
 4100 Leave, Louisville, KY: null
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
