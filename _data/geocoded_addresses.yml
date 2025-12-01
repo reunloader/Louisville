@@ -104,6 +104,8 @@
   lat: 38.161304
   lng: -85.764989
 100 Carraway, Louisville, KY: null
+100 Cedar Meadows Ct, Louisville, KY: null
+100 Cedar Meadows Ct. Responders arrived, Louisville, KY: null
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
@@ -18251,6 +18253,13 @@
 7300 Manslick Rd, Louisville, KY:
   lat: 38.1516
   lng: -85.790681
+7300 Mason Blvd, Louisville, KY:
+  lat: 38.3365573
+  lng: -85.6298623
+? 7300 Mason Blvd. Upon arrival, responders detected a gas odor and initiated an evacuation
+  of the building. The situation was later determined, Louisville, KY
+: lat: 38.3365573
+  lng: -85.6298623
 7300 Monsley's Circle, Louisville, KY: null
 7300 Monsley's Circle. Police units responded to investigate the incident., Louisville, KY: null
 7300 Monsley's Circle. Police units responded, Louisville, KY: null
@@ -19289,6 +19298,9 @@
 8100 entrance road, Louisville, KY:
   lat: 38.133816
   lng: -85.855557
+8200 Arnoldtown Rd, Louisville, KY:
+  lat: 38.126469
+  lng: -85.808591
 8200 Bigelow Dr, Louisville, KY:
   lat: 38.1922251
   lng: -85.5888379
@@ -19400,6 +19412,9 @@
 8400 Fieldcrest Ct, Louisville, KY:
   lat: 38.189261
   lng: -85.602595
+8400 Gainsborough Dr, Louisville, KY:
+  lat: 38.134869
+  lng: -85.604418
 8400 Independence School Rd, Louisville, KY:
   lat: 38.104545
   lng: -85.607266
