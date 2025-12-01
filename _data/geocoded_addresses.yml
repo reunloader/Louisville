@@ -5630,6 +5630,9 @@
 2 Durham Ridge Rd, Louisville, KY:
   lat: 38.1854546
   lng: -85.5184033
+2 Wiltshire Ave, Louisville, KY:
+  lat: 38.2516536
+  lng: -85.655682
 ? 20 Charter Oaks Drive to address the situation. They investigated the complaint
   and took appropriate action., Louisville, KY
 : null
@@ -13787,6 +13790,8 @@
   lng: -85.6220904
 4800 Bluebird Ave to provide assistance with a lift. The call was, Louisville, KY: null
 4800 Bluebird Ave, Louisville, KY: null
+4800 Brownsboro Center, Louisville, KY: null
+4800 Brownsboro Center. Police units were sent, Louisville, KY: null
 4800 Building Way, Louisville, KY: null
 4800 COVID Drive 1:30 p, Louisville, KY: null
 4800 COVID Drive 1:30 p.m., Louisville, KY: null
@@ -15700,6 +15705,12 @@
 600 Scholar House Ct, Louisville, KY:
   lat: 38.2149823
   lng: -85.7479588
+600 Shepherdsville Rd, Louisville, KY:
+  lat: 38.1495553
+  lng: -85.6598797
+600 Shepherdsville Rd. EMS was requested, Louisville, KY:
+  lat: 38.1495553
+  lng: -85.6598797
 600 South 16th Street, Louisville, KY:
   lat: 38.251021
   lng: -85.777865
