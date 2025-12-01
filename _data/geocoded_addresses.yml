@@ -1336,6 +1336,9 @@
 1000 Old Dixie Hwy. The vehicle was described as a dark-colored sedan. Police units were dispatched, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+1000 Old Henry Rd, Louisville, KY:
+  lat: 38.2720074
+  lng: -85.4958216
 1000 Old Taylorsville Rd to assess the situation and ensure the individual was safe., Louisville, KY: null
 1000 Old Taylorsville Rd, Louisville, KY:
   lat: 38.1895489
@@ -6327,6 +6330,9 @@
 200 Northbound at Mile Marker 5, Louisville, KY: null
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
 200 Northbound, Louisville, KY: null
+200 Old Henry Rd, Louisville, KY:
+  lat: 38.2720074
+  lng: -85.4958216
 200 Olde English Ct, Louisville, KY:
   lat: 38.1157978
   lng: -85.8113074
@@ -15909,6 +15915,9 @@
 600 Highwood Dr, Louisville, KY:
   lat: 38.2686638
   lng: -85.7025063
+600 Hill Rd, Louisville, KY:
+  lat: 38.2288093
+  lng: -85.7185867
 600 I-65 South, Louisville, KY: null
 600 LaFontaine Court, Louisville, KY: null
 ? 600 LaFontaine Court. The initial call indicated a male had tackled a female, and
@@ -16490,6 +16499,7 @@
   lng: -85.6454543
 6300 Hans's Drive due, Louisville, KY: null
 6300 Hans's Drive, Louisville, KY: null
+6300 Highway 329, Louisville, KY: null
 6300 Hunters Grove, Louisville, KY:
   lat: 38.161341
   lng: -85.84161
@@ -19520,6 +19530,9 @@
 900 Cherokee Ridge Way, Louisville, KY:
   lat: 38.230709
   lng: -85.6858975
+900 Civic Way, Louisville, KY:
+  lat: 38.3212294
+  lng: -85.5643437
 900 Crashing Hall Road, Louisville, KY: null
 ? 900 Denmark St in relation to activity observed at a local food mart. Unit PD-4
   was involved in this investigation., Louisville, KY
@@ -20807,6 +20820,7 @@ Oak St and Barret Ave, Louisville, KY: null
 Oak St and Owen St, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
+Old Henry Rd and Gee Snider Road, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
 Old South Park Rd and Marlin Dr, Louisville, KY: null
 Overdale Dr and Mellwood Ave, Louisville, KY: null
