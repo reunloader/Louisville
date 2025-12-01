@@ -5430,6 +5430,9 @@
 1800 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2535809
   lng: -85.7808488
+1800 W Muhammad Ali Blvd. Responding units were dispatched, Louisville, KY:
+  lat: 38.2535809
+  lng: -85.7808488
 1800 W Oak St, Louisville, KY:
   lat: 38.2368906
   lng: -85.7872142
@@ -9539,6 +9542,11 @@
 300 W Brandeis Ave, Louisville, KY:
   lat: 38.2190869
   lng: -85.7618345
+? 300 W Brandeis Ave. There were no visible signs of fire from the outside. The alarm
+  panel indicated a neighboring restaurant, which was also checked. Assistance was
+  requested, Louisville, KY
+: lat: 38.2190869
+  lng: -85.7618345
 300 W Cardinal Blvd, Louisville, KY:
   lat: 38.220488
   lng: -85.761346
@@ -10496,6 +10504,7 @@
 3400 Gate Creek, Louisville, KY:
   lat: 38.0451323
   lng: -85.902075
+3400 Glendale Ave in response to a call, Louisville, KY: null
 ? 3400 Glendale Ave was attended to after she fainted and became unresponsive. Responders
   made contact with the patient and concluded their services around 2:17 p.m., Louisville,
   KY
@@ -20332,6 +20341,7 @@ Baxter Ave and Hepburn Ave, Louisville, KY: null
 Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
 Beaver St and Adams St, Louisville, KY: null
+Beaver St and Charles St, Louisville, KY: null
 Becker Ave and Park Brook Ln, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
