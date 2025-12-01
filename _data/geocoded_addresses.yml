@@ -5278,6 +5278,9 @@
 1800 Dixie Hwy, Louisville, KY:
   lat: 38.224592
   lng: -85.7922937
+1800 Dixie Hwy. Responders arrived on the scene shortly, Louisville, KY:
+  lat: 38.224592
+  lng: -85.7922937
 1800 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
@@ -9379,6 +9382,9 @@
 ? 300 East Broadway near the Norton Health Care Pavilion, where a pedestrian was struck
   by a vehicle. The pedestrian was found, Louisville, KY
 : lat: 38.245346
+  lng: -85.749534
+300 East Broadway, Louisville, KY:
+  lat: 38.245346
   lng: -85.749534
 ? 300 East Market Street, within the Nucleus Innovation Park, for a medical emergency.
   An 8th-floor resident, a 60-year-old female, was reportedly experiencing stroke-like
