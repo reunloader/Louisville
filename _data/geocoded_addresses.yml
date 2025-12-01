@@ -10880,6 +10880,10 @@
   ongoing., Louisville, KY
 : null
 3600 Barthinian. Police took statements and gathered information related, Louisville, KY: null
+3600 Cane Run Rd, Louisville, KY:
+  lat: 38.221822
+  lng: -85.81188
+3600 Cane Run Rd, an area associated with a well or pump company, Louisville, KY: null
 ? 3600 Canterbury Ct to assist a patient experiencing severe symptoms, including uncontrollable
   shaking, nausea, and shortness of breath. These symptoms arose after the individual
   had undergone a medical procedure., Louisville, KY
@@ -12873,6 +12877,9 @@
 4200 Bardstown Rd, Louisville, KY:
   lat: 38.1882665
   lng: -85.6406943
+4200 Binbrook Dr, Louisville, KY:
+  lat: 38.1713887
+  lng: -85.8597371
 4200 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
@@ -14283,6 +14290,12 @@
 500 Belgravia Ct, Louisville, KY:
   lat: 38.2266147
   lng: -85.7636713
+500 Brandon Rd, Louisville, KY:
+  lat: 38.267296
+  lng: -85.685061
+500 Brandon Rd, near Jarvis Way, Louisville, KY:
+  lat: 38.267296
+  lng: -85.685061
 500 Brentwood Ave near South 5th Street, Louisville, KY: null
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
@@ -15081,6 +15094,13 @@
 5300 Bardstown Rd, Louisville, KY:
   lat: 38.1682726
   lng: -85.6051729
+5300 Big Sky Dr, Louisville, KY:
+  lat: 38.106142
+  lng: -85.661911
+? 5300 Big Sky Dr, near Indian Falls Dr and River Trail Dr. Reports indicated smoke
+  was detected in a hallway. Fire units were dispatched, Louisville, KY
+: lat: 38.106142
+  lng: -85.661911
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
   lng: -85.773438
@@ -15470,6 +15490,9 @@
   lat: 38.1560303
   lng: -85.6575433
 5700 Fern Valley Rd, offered, Louisville, KY: null
+5700 Grandel Blvd, Louisville, KY:
+  lat: 38.1556832
+  lng: -85.8620008
 5700 Midnight Ln, Louisville, KY:
   lat: 38.1150976
   lng: -85.655771
@@ -20598,6 +20621,7 @@ Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
+Indian Falls Dr and River Trail Dr, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
