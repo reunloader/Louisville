@@ -600,6 +600,9 @@
 100 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+100 Southview Square, Louisville, KY:
+  lat: 38.152344
+  lng: -85.7674185
 100 Spring Creek Ct, Louisville, KY: null
 100 Spring Creek Ct., Louisville, KY: null
 100 Spring Meadow Ln, Louisville, KY:
@@ -12200,6 +12203,10 @@
   lat: 38.2517615
   lng: -85.6932303
 400 North S S Hite Ave, Louisville, KY: null
+400 Northgate Rd involving an 84-year-old female who was having trouble breathing, Louisville, KY: null
+400 Northgate Rd, Louisville, KY:
+  lat: 38.1109175
+  lng: -85.7702303
 400 Oxy Rd, Louisville, KY:
   lat: 38.2209779
   lng: -85.8280463
@@ -15314,6 +15321,9 @@
 5400 Catalina, Louisville, KY:
   lat: 38.117892
   lng: -85.867117
+5400 Decker Rd, Louisville, KY:
+  lat: 38.126653
+  lng: -85.863607
 5400 Farm Spring Ct, Louisville, KY:
   lat: 38.3220421
   lng: -85.5989916
@@ -15562,6 +15572,9 @@
   services arrived, Louisville, KY
 : lat: 38.1682113
   lng: -85.7066863
+5600 Rustic Way, Louisville, KY:
+  lat: 38.1688235
+  lng: -85.6716681
 5600 Shorewood Dr, Louisville, KY:
   lat: 38.1457155
   lng: -85.7784108
@@ -18286,6 +18299,9 @@
 7600 Bardstown Rd, Louisville, KY:
   lat: 38.1370381
   lng: -85.5816331
+7600 Burrice Ct. Multiple units were assigned, Louisville, KY:
+  lat: 38.142365
+  lng: -85.89344
 7600 Charron Rd, Louisville, KY:
   lat: 38.2058826
   lng: -85.6137461
