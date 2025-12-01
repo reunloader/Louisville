@@ -9003,6 +9003,7 @@
 300 Baker and 300 block of Adam, Louisville, KY: null
 300 Baker and 300 block of Charlie, Louisville, KY: null
 300 Baker and the 300 block of Charlie, Louisville, KY: null
+300 Baker and the 300 block of David, with the vehicle reportedly having a lighter, Louisville, KY: null
 300 Baker, Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
@@ -19757,6 +19758,9 @@
 ? 9600 Leopold Woods Loop. An employee found the child and brought her into their
   office, unsure of her residence. Police units responded, Louisville, KY
 : null
+9600 Maple Rd, Louisville, KY:
+  lat: 38.1074176
+  lng: -85.6472948
 9600 Millstone Dr, Louisville, KY: null
 9600 Starmont Rd, Louisville, KY: null
 9600 Yarmouth Ct, Louisville, KY:
