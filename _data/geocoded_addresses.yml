@@ -3793,6 +3793,9 @@
 1400 Rufer Ave, Louisville, KY:
   lat: 38.235498
   lng: -85.7249555
+1400 S Floyd St, Louisville, KY:
+  lat: 38.228157
+  lng: -85.7529726
 1400 S Jackson St, Louisville, KY:
   lat: 38.228703
   lng: -85.748604
@@ -5874,6 +5877,12 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East at Southern Pky, Louisville, KY: null
+200 East at Taylor Blvd, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East at Taylor Blvd. The vehicles were reportedly traveling at high speeds, posing a significant risk, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at mile marker 17, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -9552,6 +9561,9 @@
 3000 Chamberlain Ln, near North Winchester Acres. The patient was directed to a specific gate, Louisville, KY:
   lat: 38.2983417
   lng: -85.5413774
+3000 Chamberlain Ln. Police units were dispatched to the area to investigate the incident and search, Louisville, KY:
+  lat: 38.2983417
+  lng: -85.5413774
 ? 3000 Cord Place. The initial report indicated a commercial building was involved.
   Firefighters worked to contain and extinguish the blaze. Shortly after, a separate
   structure fire was reported on South 7th Street, prompting another response from
@@ -11419,6 +11431,13 @@
 3900 South3rd Street, Louisville, KY:
   lat: 38.200478
   lng: -85.765216
+? 3900 Southern Pky after a report of a person found unresponsive inside a vehicle.
+  The individual, a 30-year-old male, was located inside a blue Jeep with a tinted
+  license plate. Police units arrived, Louisville, KY
+: null
+3900 Southern Pky, Louisville, KY:
+  lat: 38.1980202
+  lng: -85.7676206
 3900 St, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
@@ -16609,6 +16628,8 @@
 6800 Southside Dr. Fortunately, no one was inside the car when the fire broke out. Firefighters worked, Louisville, KY:
   lat: 38.1590857
   lng: -85.7646433
+6800 Steve Brown Road due, Louisville, KY: null
+6800 Steve Brown Road, Louisville, KY: null
 6800 Stone Valley Dr, Louisville, KY:
   lat: 38.0817663
   lng: -85.8845015
@@ -16839,6 +16860,10 @@
 700 E Main St, Louisville, KY:
   lat: 38.254691
   lng: -85.739665
+700 E W Burnett Ave following reports of a physical altercation involving two, Louisville, KY: null
+700 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 700 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -17160,6 +17185,9 @@
 700 South 3rd Street near York and Broadway, Louisville, KY:
   lat: 38.243928
   lng: -85.757184
+700 South 42nd Street, Louisville, KY:
+  lat: 38.250247
+  lng: -85.822174
 700 South 43rd Street, Louisville, KY:
   lat: 38.250296
   lng: -85.823634
