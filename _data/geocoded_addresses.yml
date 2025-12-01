@@ -24,6 +24,7 @@
   lng: -85.5616302
 04 Knoblet Drive, Louisville, KY: null
 06 Springford Avenue, Louisville, KY: null
+1 Shelby Station Dr, Louisville, KY: null
 1 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -3746,6 +3747,9 @@
 ? 1400 East 9th Street following a report of an individual with a history of brain
   injury. The person was reportedly refusing, Louisville, KY
 : null
+1400 East Broadway, Louisville, KY:
+  lat: 38.2446794
+  lng: -85.7394849
 1400 East Burnet Head, with instructions to reset the alarm if building personnel were unable to., Louisville, KY: null
 1400 East Burnet Head, with instructions, Louisville, KY: null
 ? 1400 Frankfort Ave to assist with an investigation. Officers were requested to access
@@ -4726,6 +4730,9 @@
   lng: -85.7378387
 1600 South Hirsborne Parkway, Louisville, KY: null
 1600 South Third Street, Louisville, KY: null
+1600 Stone Bluff Rd, Louisville, KY:
+  lat: 38.1633395
+  lng: -85.6222787
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
@@ -8886,6 +8893,7 @@
 : lat: 38.198204
   lng: -85.8349572
 2800 D Miller Ave, Louisville, KY: null
+2800 DeMille Avenue, Louisville, KY: null
 2800 Eddy St, Louisville, KY:
   lat: 38.256079
   lng: -85.797282
@@ -20539,6 +20547,9 @@
 : null
 9900 Forest Green Blvd. The deputy reported they would be clear of the scene, Louisville, KY: null
 9900 Grassland Dr. Further details, Louisville, KY: null
+9900 Lakewood Dr, Louisville, KY:
+  lat: 38.110727
+  lng: -85.842464
 9900 Laurelund Drive, Louisville, KY: null
 9900 Lindsay Springway, Louisville, KY: null
 9900 Old Dixie Hwy, Louisville, KY:
