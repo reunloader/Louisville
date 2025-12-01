@@ -6526,6 +6526,9 @@
 200 West at Crittenden Dr, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West at Crittenden, Louisville, KY:
+  lat: 38.2093042
+  lng: -85.7511163
 200 West at Dixie Hwy, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -18559,6 +18562,7 @@
   lng: -85.667321
 800 I 64 East, Louisville, KY: null
 800 I 64 West, Louisville, KY: null
+800 I-65 North, Louisville, KY: null
 800 Iroquois Avenue 05:34 p, Louisville, KY: null
 800 Iroquois Avenue 05:34 p.m., Louisville, KY: null
 800 Jenny Lindrob near D Road, Louisville, KY: null
@@ -19065,6 +19069,9 @@
   lat: 38.2587521
   lng: -85.7044023
 8400 Dr, Louisville, KY: null
+8400 Fairmount Rd, Louisville, KY:
+  lat: 38.1125951
+  lng: -85.5575935
 ? 8400 Fieldcrest Ct due to a significant water leak. Reports indicated that water
   was flowing from a hydrant and causing flooding in the street., Louisville, KY
 : null
