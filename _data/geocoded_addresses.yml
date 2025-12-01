@@ -2554,6 +2554,9 @@
 1200 Fairdale Rd, Louisville, KY:
   lat: 38.113428
   lng: -85.7444855
+1200 Fern St, Louisville, KY:
+  lat: 38.248741
+  lng: -85.72851
 1200 Fisk St, Louisville, KY:
   lat: 38.2530864
   lng: -85.7689686
@@ -5590,6 +5593,13 @@
   lng: -85.8354672
 1900 the area, Louisville, KY: null
 1900 the area., Louisville, KY: null
+19000 Long Grove Way near Locust Creek Blvd and Park Creek Cir, Louisville, KY:
+  lat: 38.242909
+  lng: -85.416381
+? 19000 Long Grove Way. After communication with the alarm company and verification
+  of the correct passcode, it was confirmed, Louisville, KY
+: lat: 38.242909
+  lng: -85.416381
 1924 Newburgh Road, Louisville, KY: null
 1928 Charlie, Louisville, KY:
   lat: 38.1686412
