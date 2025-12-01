@@ -785,6 +785,9 @@
 100 Whiteoak Park Rd, Louisville, KY: null
 100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
+100 [Street Name Missing], Louisville, KY:
+  lat: 38.2397699
+  lng: -85.7540073
 100 [Street Name Redacted] 6:15 a, Louisville, KY: null
 100 [Street Name Redacted] 6:15 a.m.AM, Louisville, KY: null
 100 [Street Name Redacted], Louisville, KY:
@@ -3946,6 +3949,9 @@
 1400 South 26th Street near Congress St, Louisville, KY:
   lat: 38.241277
   lng: -85.7958157
+1400 South 2nd Street, Louisville, KY:
+  lat: 38.228655
+  lng: -85.758176
 1400 South 3rd Street, Louisville, KY:
   lat: 38.2289234
   lng: -85.7602103
@@ -11000,6 +11006,7 @@
   lat: 38.1866627
   lng: -85.8418571
 3600 Apex Gardens Dr, Louisville, KY: null
+3600 Barchown Road, Louisville, KY: null
 3600 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -18362,6 +18369,7 @@
 76 Abbey Rd, Louisville, KY:
   lat: 38.0714152
   lng: -85.8950484
+7600 3rd St Rene Rd near Cartledge Avenue, Louisville, KY: null
 7600 Bardstown Rd, Louisville, KY:
   lat: 38.1370381
   lng: -85.5816331
