@@ -9204,6 +9204,9 @@
   secondary fire reported in the 1600 block of Hemlock Ct. Multiple fire units and
   a Battalion Chief were dispatched, Louisville, KY
 : null
+2900 Eve Dr, Louisville, KY:
+  lat: 38.1049006
+  lng: -85.8439482
 2900 Garfield Ave near North 30th Street, Louisville, KY:
   lat: 38.2674035
   lng: -85.7976195
@@ -16614,6 +16617,9 @@
 6200 South 41st Street, Louisville, KY:
   lat: 38.2395063
   lng: -85.8207933
+6200 Southside Dr, Louisville, KY:
+  lat: 38.1660112
+  lng: -85.7650614
 6200 St, Louisville, KY: null
 6200 St. St Bernard Ct, Louisville, KY: null
 6200 Valley College Dr, Louisville, KY:
@@ -20850,6 +20856,7 @@ Crop St Thomas Grove Rd and Independence School Rd, Louisville, KY: null
 Crop St and Alma Ave, Louisville, KY: null
 Crop St and Aspen Glen Dr, Louisville, KY: null
 Crop St and Grand Ave, Louisville, KY: null
+Crop St and Krieger St, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
