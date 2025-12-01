@@ -3145,6 +3145,7 @@
 1300 Chestnut View Ct, Louisville, KY:
   lat: 38.0968167
   lng: -85.6409213
+1300 Clara Ave due, Louisville, KY: null
 1300 Clara Ave, Louisville, KY:
   lat: 38.199672
   lng: -85.783551
@@ -12750,6 +12751,15 @@
 4200 Camp Ground Rd, Louisville, KY:
   lat: 38.2154359
   lng: -85.8418135
+? 4200 Clara Ave involving a child's father who refused to leave the premises. The
+  suspect was described as a 35-year-old black male heading towards Park Hill. Separately,
+  a call from the 4200 block of Southern Pky reported a male and female arguing, with
+  the female caller stating the male had damaged the home and there was blood present.
+  EMS was requested, Louisville, KY
+: null
+4200 Clara Ave, Louisville, KY:
+  lat: 38.1999013
+  lng: -85.7878076
 4200 David Way, Louisville, KY:
   lat: 38.1005732
   lng: -85.6671148
@@ -13919,6 +13929,9 @@
 48100 Hazelwood Ave, Louisville, KY:
   lat: 38.175196
   lng: -85.7926733
+49 Nichols Dr, Louisville, KY:
+  lat: 38.1953831
+  lng: -85.7977947
 4900 Aron Rd, between Lindenwood and Wilkie,, Louisville, KY: null
 4900 Axtell Ave, Louisville, KY:
   lat: 38.138207
@@ -15352,6 +15365,8 @@
 5700 [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2794337
   lng: -85.6457104
+5800 Bonfire Dr, Louisville, KY: null
+5800 Bonfire Dr, reportedly triggered by a side window, Louisville, KY: null
 5800 Coach Gate, Louisville, KY: null
 5800 Coach Gate. Emergency Medical Services were initially dispatched, Louisville, KY: null
 5800 Cooper Chapel Rd, Louisville, KY:
