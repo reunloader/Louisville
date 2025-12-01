@@ -2518,6 +2518,7 @@
   lat: 38.2641926
   lng: -85.8173786
 1200 Conservatory Ln, Louisville, KY: null
+1200 Conservatory Ln, with the specific address noted as 203 Conservatory Ln, Louisville, KY: null
 1200 Crop St or Preston Hwy, Louisville, KY: null
 1200 Cypher St, Louisville, KY: null
 ? 1200 Cypher Street. This incident had been ongoing for an extended period, approximately
@@ -4355,6 +4356,9 @@
 1529 Gallagher Street, Louisville, KY:
   lat: 38.2387489
   lng: -85.7794693
+153 Rocky Rd, Louisville, KY:
+  lat: 38.0822822
+  lng: -85.6364072
 15300 Phyllis Ave, Louisville, KY:
   lat: 38.2053882
   lng: -85.7811774
@@ -6992,6 +6996,10 @@
 20200 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+204 Chamberlain Ln, Louisville, KY:
+  lat: 38.2983417
+  lng: -85.5413774
+206 Hi View Ln, Louisville, KY: null
 2100 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
@@ -9779,6 +9787,9 @@
 3000 Taylor Blvd, Louisville, KY:
   lat: 38.2075565
   lng: -85.7751685
+3000 Taylor Blvd, near the intersection of Central Ave and Burton Ave,, Louisville, KY:
+  lat: 38.2075565
+  lng: -85.7751685
 ? 3000 Taylor Springs Dr to assist an 80-year-old female experiencing lightheadedness
   and who was not alert due to a diabetic condition. An initial response was made,
   and a second ambulance was requested but later canceled., Louisville, KY
@@ -9901,6 +9912,9 @@
   available., Louisville, KY
 : null
 3100 Grand Teton Dr, responders proceeded, Louisville, KY: null
+3100 Hartlage Ct, Louisville, KY:
+  lat: 38.198303
+  lng: -85.831907
 3100 I 65 South, Louisville, KY: null
 3100 Jennifer Way, Louisville, KY:
   lat: 38.1696995
@@ -13690,6 +13704,7 @@
 4600 a highway, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+47 Nichols Ave, Louisville, KY: null
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
   lng: -85.7594126
@@ -20245,6 +20260,7 @@ Cedar Creek Rd and Heights Dr, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
 Cedarwood Dr and Elm Lake Dr, Louisville, KY: null
+Central Ave and Burton Ave, Louisville, KY: null
 Central Ave and Lindenburg Street, Louisville, KY: null
 Central Ave and Taylor Blvd, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
@@ -20377,6 +20393,7 @@ Height Avenue and Frankfort Ave, Louisville, KY: null
 Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Herman St and Glendora Ave, Louisville, KY: null
+Hi View Ln and Gatecreek Rd, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
 Hikes Ln and Breckenridge Ln, Louisville, KY:
@@ -20526,6 +20543,7 @@ Rochelle Rd and Sperna Parkway, Louisville, KY: null
 Rock Bluff Dr and Murphy Ln, Louisville, KY: null
 Rockford Ln and Dover Rd, Louisville, KY: null
 Rocky Rd and Shelbyville Rd, Louisville, KY: null
+Rocky Rd and Shell Beagle Road, Louisville, KY: null
 Rodman Avenue and Winkler Ave, Louisville, KY: null
 Rodman St and Atwood St, Louisville, KY: null
 Rodman St and Winkler Ave, Louisville, KY: null
