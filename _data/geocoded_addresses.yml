@@ -3291,6 +3291,8 @@
 1300 I 64 West, between South 13th and South 15th Streets,, Louisville, KY: null
 1300 I 65 South, Louisville, KY: null
 1300 I-65 South, Louisville, KY: null
+1300 Kiefer Rd, Louisville, KY: null
+1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
 1300 Lillian Ave, Louisville, KY:
   lat: 38.2102297
   lng: -85.7777266
@@ -19372,6 +19374,9 @@
 8600 Ambrose Lane following reports of three aggressive pit bulls. Animal control services were contacted, Louisville, KY: null
 8600 Ambrose Lane, Evening, Louisville, KY: null
 8600 Applegate Village Dr, Louisville, KY:
+  lat: 38.1361606
+  lng: -85.6548368
+8600 Applegate Village Dr. Responders were, Louisville, KY:
   lat: 38.1361606
   lng: -85.6548368
 8600 Bluebell Dr, Louisville, KY: null
