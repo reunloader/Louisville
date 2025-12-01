@@ -1050,6 +1050,9 @@
 1000 Everett Ave, Louisville, KY:
   lat: 38.2415432
   lng: -85.7216499
+1000 Fenley Ave, Louisville, KY:
+  lat: 38.2564292
+  lng: -85.6723688
 1000 Goss Ave, Louisville, KY:
   lat: 38.2276371
   lng: -85.7364243
@@ -4276,6 +4279,9 @@
 1500 South 11th Street, Louisville, KY:
   lat: 38.227182
   lng: -85.774088
+1500 South 12th Street, Louisville, KY:
+  lat: 38.2267625
+  lng: -85.7750909
 1500 South 15th St, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
@@ -10643,6 +10649,7 @@
 3500 Charmane Dr, Louisville, KY:
   lat: 38.1412532
   lng: -85.6626633
+3500 Coholla Road, Louisville, KY: null
 3500 Colmar Dr, Louisville, KY:
   lat: 38.2354695
   lng: -85.8119065
@@ -13934,6 +13941,14 @@
 4800 Granada Dr. She was last seen wearing pajamas and is believed, Louisville, KY:
   lat: 38.113167
   lng: -85.8506804
+4800 Graston Ave, Louisville, KY:
+  lat: 38.173429
+  lng: -85.8353464
+? 4800 Graston Ave. The resident who made the call heard noises and saw a shadow near
+  a neighbor's garage. Officers thoroughly checked the area and determined there was
+  no cause, Louisville, KY
+: lat: 38.173429
+  lng: -85.8353464
 4800 Maryman Rd, Louisville, KY:
   lat: 38.132716
   lng: -85.846392
