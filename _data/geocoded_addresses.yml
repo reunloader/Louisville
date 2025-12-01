@@ -2498,6 +2498,9 @@
   reportedly walking around the mall and making sexually inappropriate comments, Louisville,
   KY
 : null
+1200 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 1200 Beech St, Louisville, KY:
   lat: 38.238337
   lng: -85.804327
@@ -4422,6 +4425,9 @@
   lat: 38.179522
   lng: -85.791728
 1600 Brashear Court, building 35, Louisville, KY: null
+1600 Brashear Dr, Louisville, KY:
+  lat: 38.225402
+  lng: -85.7755743
 ? 1600 Brashear Dr, near Big Boulder Dr and South 13th Street, due to a medical emergency.
   The patient, a 50-year-old male, was reported to be unconscious, experiencing shortness
   of breath, and bleeding from an unspecified location. A police officer was already
@@ -9348,6 +9354,12 @@
 300 New Cut Rd, Louisville, KY:
   lat: 38.1574318
   lng: -85.7779933
+300 North 24th Street, Louisville, KY:
+  lat: 38.263073
+  lng: -85.789242
+300 North 24th Street, near Owen St and Duncan St,, Louisville, KY:
+  lat: 38.263073
+  lng: -85.789242
 300 North 28th Street, Louisville, KY:
   lat: 38.264039
   lng: -85.797849
@@ -19470,6 +19482,9 @@
 900 Vine St, Louisville, KY:
   lat: 38.239276
   lng: -85.732806
+900 Vine St, near Highland Ave and East Breckenridge,, Louisville, KY:
+  lat: 38.239276
+  lng: -85.732806
 ? 900 Vine St. After a thorough check of the area and speaking with the reporting
   party, no smoke or fire was found, and the units cleared the scene., Louisville,
   KY
@@ -20468,6 +20483,7 @@ Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
 Old South Park Rd and Marlin Dr, Louisville, KY: null
 Overdale Dr and Mellwood Ave, Louisville, KY: null
 Overlook Dr and Seminary Rd, Louisville, KY: null
+Owen St and Duncan St, Louisville, KY: null
 Oxmoor Ln and Black Road, Louisville, KY: null
 Palatka Rd and Manslick Rd, Louisville, KY: null
 Panax Ln and Morning Glory Ln, Louisville, KY: null
