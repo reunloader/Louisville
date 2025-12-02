@@ -7007,6 +7007,9 @@
 200 westbound at exit 8A, Louisville, KY: null
 200 westbound, Louisville, KY: null
 200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
+200, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 2000 3Rd Street Rd, Louisville, KY:
   lat: 38.1453565
   lng: -85.7758564
@@ -21093,6 +21096,7 @@ Bardstown Rd and Churchman Ave, Louisville, KY: null
 Bardstown Rd and Deerwood Ave, Louisville, KY: null
 Bardstown Rd and Denstret Drive, Louisville, KY: null
 Bardstown Rd and Douglass Blvd, Louisville, KY: null
+Bardstown Rd and Dreams End Dr, Louisville, KY: null
 Bardstown Rd and Eastern Pky, Louisville, KY: null
 Bardstown Rd and Fagan Bush Lane, Louisville, KY: null
 Bardstown Rd and Gladstone Ave, Louisville, KY: null
