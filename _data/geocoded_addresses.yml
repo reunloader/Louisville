@@ -10411,6 +10411,7 @@
 3000 South 4th Street, Louisville, KY:
   lat: 38.2063275
   lng: -85.7657394
+3000 South Forth Street, Louisville, KY: null
 3000 South Number 4, Louisville, KY: null
 3000 South Third Street, Louisville, KY: null
 3000 Southside Dr, Louisville, KY:
@@ -12183,6 +12184,7 @@
 3900 Rankin, Louisville, KY:
   lat: 38.199021
   lng: -85.760922
+3900 Semishrew Road, Louisville, KY: null
 3900 Shelbyville Rd near Roof Bar, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
@@ -17971,6 +17973,9 @@
 700 Denmark St. First responders were dispatched, Louisville, KY:
   lat: 38.1956685
   lng: -85.7712003
+700 Dorsey Ln, Louisville, KY:
+  lat: 38.254321
+  lng: -85.558877
 ? 700 Douglas Park following a report of a vehicle striking a building. One individual
   inside the car sustained hip pain. Fire department personnel were on the scene to
   manage the situation., Louisville, KY
@@ -20035,6 +20040,9 @@
 8300 Delido Rd, Louisville, KY:
   lat: 38.128285
   lng: -85.654212
+8300 Laverne Dr, Louisville, KY:
+  lat: 38.1465483
+  lng: -85.6642271
 8300 Lindsay Ct, Louisville, KY:
   lat: 38.2605244
   lng: -85.7054888
@@ -21632,6 +21640,7 @@ Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
 First One Lane and North Sea Lane, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
+Foxboro Dr and Sterling Springs Rd, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and Holbergen Avenue, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
