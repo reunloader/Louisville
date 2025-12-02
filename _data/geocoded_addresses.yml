@@ -2107,6 +2107,12 @@
 1100 Logan St., Louisville, KY:
   lat: 38.2351031
   lng: -85.7398515
+1100 Lone Oak Ave, Louisville, KY:
+  lat: 38.1370132
+  lng: -85.6939169
+1100 Lone Oak Ave. Further details, Louisville, KY:
+  lat: 38.1370132
+  lng: -85.6939169
 1100 Longfield Ave near Deer Street Avenue, Louisville, KY:
   lat: 38.198414
   lng: -85.7785067
@@ -4203,6 +4209,8 @@
 14000 Schutte Station Pl, Louisville, KY:
   lat: 38.2118141
   lng: -85.5232325
+14000 Shallow Run, Louisville, KY: null
+14000 Shallow Run. Emergency services were dispatched, Louisville, KY: null
 14300 Aiken Rd, Louisville, KY:
   lat: 38.2649546
   lng: -85.4877363
@@ -4406,6 +4414,10 @@
 1500 Longfield Ave in the 4th Division, Louisville, KY: null
 1500 Longfield Ave, Louisville, KY:
   lat: 38.1985284
+  lng: -85.786642
+? 1500 Longfield Ave. Neighbors reported hearing screaming from the home. However,
+  responding officers found the doors locked and were unable, Louisville, KY
+: lat: 38.1985284
   lng: -85.786642
 1500 Longfield Ave., Louisville, KY:
   lat: 38.1985284
@@ -14507,6 +14519,10 @@
 ? 4700 South 3rd Street. A young suspect allegedly caused a disturbance in the parking
   lot, reportedly throwing an item and taking keys without permission. Units from
   the 400 block of David were, Louisville, KY
+: lat: 38.1810652
+  lng: -85.766787
+? 4700 South 3rd Street. The individuals were observed leaving the area in a gray
+  SUV. A crowbar may have been left behind, Louisville, KY
 : lat: 38.1810652
   lng: -85.766787
 ? 4700 South 3rd Street. The vehicle was described as a TSO with a tag visible in
