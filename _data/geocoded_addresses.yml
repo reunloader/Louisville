@@ -6968,6 +6968,9 @@
 200 West, near Kentucky Drive. Police units responded, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West, near the 8.6 mile marker. Responding units were checking the complaint, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West, near the five-mile marker, after its engine compartment began, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -7602,6 +7605,12 @@
 2100 I 64 West, Louisville, KY: null
 2100 I-64 West, Louisville, KY: null
 2100 Lexington Rd. Firefighters were assigned, Louisville, KY:
+  lat: 38.2471011
+  lng: -85.7073982
+2100 Lexington, Louisville, KY:
+  lat: 38.2471011
+  lng: -85.7073982
+2100 Lexington. Responding units were advised, Louisville, KY:
   lat: 38.2471011
   lng: -85.7073982
 2100 Little Creek Ct, Louisville, KY:
@@ -9017,6 +9026,9 @@
 2600 Virginia Ave, Louisville, KY:
   lat: 38.2374918
   lng: -85.7968374
+2600 W Madison St, Louisville, KY:
+  lat: 38.2540077
+  lng: -85.7945055
 2600 West Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
@@ -15270,6 +15282,9 @@
   Louisville, KY
 : lat: 38.2524147
   lng: -85.7720083
+500 S Campbell St, Louisville, KY:
+  lat: 38.248768
+  lng: -85.736857
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
