@@ -13663,6 +13663,7 @@
 4200 Jean Ave, Louisville, KY:
   lat: 38.1758497
   lng: -85.8431384
+4200 LaSalle Avenue, Louisville, KY: null
 4200 Lambert Ave, Louisville, KY:
   lat: 38.1830823
   lng: -85.6451288
@@ -20077,6 +20078,9 @@
 8200 Pennsylvania Run Rd, Louisville, KY:
   lat: 38.1301559
   lng: -85.632028
+8200 Phillips Ln, Louisville, KY:
+  lat: 38.1901008
+  lng: -85.7477013
 8200 Preston Hwy, Louisville, KY:
   lat: 38.1332639
   lng: -85.6846969
