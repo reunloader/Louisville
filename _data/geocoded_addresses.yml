@@ -3729,6 +3729,9 @@
   lat: 38.1766443
   lng: -85.7992227
 1400 Crazy Horse Ln, Louisville, KY: null
+1400 Dellwood Dr, Louisville, KY:
+  lat: 38.1777648
+  lng: -85.7995909
 1400 Delmar Ln, Louisville, KY:
   lat: 38.1825441
   lng: -85.8055398
@@ -6702,6 +6705,9 @@
   Louisville, KY
 : null
 200 West from I-64 West, Louisville, KY: null
+200 West near Kane Run and 1800 block of San Jose Ave, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West near Kentucky Drive, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -6713,6 +6719,9 @@
   lat: 38.2000005
   lng: -85.7636078
 200 West near mile marker 3.8, Louisville, KY: null
+200 West near the five-mile marker, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West onto I-64 East Bound, Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor for the vehicle., Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor, Louisville, KY: null
@@ -6723,7 +6732,11 @@
   escalated into a larger collision involving a Tesla and a Nissan Murano. Emergency
   medical services transported one patient, Louisville, KY
 : null
+200 West, just before Kane Run. Fire and EMS units were dispatched, Louisville, KY: null
 200 West, near Kentucky Drive. Police units responded, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
+200 West, near the five-mile marker, after its engine compartment began, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
 200 West, which presented some logistical challenges for emergency responders., Louisville, KY: null
@@ -15153,6 +15166,7 @@
   lat: 38.2516
   lng: -85.7364656
 5100 East Mojave Lee Boulevard, Louisville, KY: null
+5100 East W Jacob St, Louisville, KY: null
 5100 Firwood Ln, Louisville, KY:
   lat: 38.1724036
   lng: -85.5800918
