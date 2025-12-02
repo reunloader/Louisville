@@ -349,6 +349,9 @@
 100 N S Longworth Ave, Louisville, KY:
   lat: 38.2656295
   lng: -85.8239365
+100 New England Ct, Louisville, KY:
+  lat: 38.1448588
+  lng: -85.7637824
 ? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
   both chest and abdominal pain, and medical personnel provided care., Louisville,
   KY
@@ -17148,6 +17151,8 @@
 6800 Greenwood Rd, Louisville, KY:
   lat: 38.1437224
   lng: -85.877207
+6800 Hempstead Rd in response, Louisville, KY: null
+6800 Hempstead Rd, Louisville, KY: null
 ? 6800 Hollow Creek Ct, near Hollow Creek Rd, for an elderly woman who had fallen.
   The 68-year-old female required assistance., Louisville, KY
 : null
