@@ -1780,6 +1780,9 @@
 10200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+10300 Arbor Oak Dr, Louisville, KY:
+  lat: 38.1107685
+  lng: -85.6602102
 10300 Dixie Hwy, Louisville, KY:
   lat: 38.1060157
   lng: -85.8683925
@@ -12485,6 +12488,9 @@
 400 Gunn Ct., Louisville, KY:
   lat: 38.1026175
   lng: -85.6892695
+400 Herman St at Wayside, Louisville, KY:
+  lat: 38.2615614
+  lng: -85.820699
 400 Hodel Rd at 53rd Street, Louisville, KY:
   lat: 38.1921011
   lng: -85.7050204
@@ -14188,6 +14194,9 @@
 4600 Brewster Ave, Louisville, KY:
   lat: 38.248538
   lng: -85.829672
+4600 Cane Run Rd, Louisville, KY:
+  lat: 38.1932867
+  lng: -85.8458821
 4600 Cliff Ave, Louisville, KY:
   lat: 38.1833486
   lng: -85.7762782
@@ -18338,6 +18347,9 @@
 71 Zorn Ave, Louisville, KY:
   lat: 38.275523
   lng: -85.6976287
+7100 Alma June Way, Louisville, KY:
+  lat: 38.1253054
+  lng: -85.6407069
 7100 Betsy Ross Dr, Louisville, KY:
   lat: 38.0579743
   lng: -85.8969414
