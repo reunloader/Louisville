@@ -551,6 +551,7 @@
 100 S Longworth Ave, Louisville, KY:
   lat: 38.2664881
   lng: -85.8238165
+100 San Jose Ave, near the Hillside Dr-In on Dixie Hwy,, Louisville, KY: null
 100 Sears Ave, Louisville, KY: null
 100 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 100 Shelby Station Dr, Louisville, KY: null
@@ -6650,6 +6651,9 @@
   lat: 38.2000005
   lng: -85.7636078
 200 West at Cane Run Rd, Louisville, KY: null
+200 West at Cane Run Rd, near the Clint, prompted a dispatch, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 ? 200 West at Cane Run Rd. The fire was located on the left side of the roadway. Engine
   21, Engine 9, and Quinn 25 responded to the scene., Louisville, KY
 : null
@@ -14694,6 +14698,7 @@
 500 East Broadway,, Louisville, KY:
   lat: 38.2446199
   lng: -85.7454474
+500 East W Jacob St, specifically in building 15, zone 6, Louisville, KY: null
 500 East [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
@@ -19949,6 +19954,9 @@
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
+900 Rowan St, Louisville, KY:
+  lat: 38.2599004
+  lng: -85.7738324
 900 S Brook St near Brickenridge and S Brook St, Louisville, KY:
   lat: 38.241061
   lng: -85.752613
