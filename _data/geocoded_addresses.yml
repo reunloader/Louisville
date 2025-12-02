@@ -3434,6 +3434,9 @@
 1300 S Shelby St, Louisville, KY:
   lat: 38.2300087
   lng: -85.7425387
+1300 S Shelby St. Responding units arrived, Louisville, KY:
+  lat: 38.2300087
+  lng: -85.7425387
 1300 Sail, Louisville, KY: null
 1300 Sale Ave, Louisville, KY:
   lat: 38.197432
@@ -14956,6 +14959,9 @@
 500 Park Ave, Louisville, KY:
   lat: 38.231717
   lng: -85.764438
+500 Peachtree Ave, Louisville, KY:
+  lat: 38.1861993
+  lng: -85.7811332
 500 Perby, Louisville, KY: null
 ? 500 Perby. The exact nature of the alarm activation was not specified in the initial
   report. Further information regarding the resolution of this alarm is pending.,
@@ -18469,6 +18475,12 @@
 73 St. James Court due, Louisville, KY:
   lat: 38.256087
   lng: -85.7509255
+7300 Autumn Trace, Louisville, KY:
+  lat: 38.139241
+  lng: -85.780463
+7300 Autumn Trace. Police units were dispatched, Louisville, KY:
+  lat: 38.139241
+  lng: -85.780463
 7300 Beechhorns, Louisville, KY: null
 7300 Brookline Ave, Louisville, KY:
   lat: 38.1751694
@@ -21226,6 +21238,7 @@ Grand Ave and Taylor Blvd, Louisville, KY: null
 Grange Road and Nelson Miller Pky, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
+Greenwood Rd and Aron Rd, Louisville, KY: null
 Greenwood Rd and Lucille Ave, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
