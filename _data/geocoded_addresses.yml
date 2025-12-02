@@ -955,6 +955,10 @@
 1000 Dixie Hwy, and patrol units were dispatched, Louisville, KY: null
 1000 Dixie Hwy, leading, Louisville, KY: null
 1000 Dixie Hwy, prompting dispatch of patrol units, Louisville, KY: null
+? 1000 Dixie Hwy. A caller observed a male individual reportedly looking into parked
+  vehicles in the area. Officers were sent, Louisville, KY
+: lat: 38.2416641
+  lng: -85.7852707
 1000 Dixie Hwy. Further details regarding the circumstances or outcome of this stop were not provided., Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
@@ -1026,6 +1030,10 @@
   lng: -85.7852707
 1000 Dixie Hwy. The specific reason, Louisville, KY:
   lat: 38.2416641
+  lng: -85.7852707
+? 1000 Dixie Hwy. The suspicious vehicle was described as a dark-colored sedan, and
+  police units were dispatched, Louisville, KY
+: lat: 38.2416641
   lng: -85.7852707
 1000 Dixie Hwy. This report continued a pattern of calls, Louisville, KY:
   lat: 38.2416641
