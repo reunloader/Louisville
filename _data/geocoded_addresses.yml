@@ -2701,6 +2701,12 @@
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
+1200 Goss, Louisville, KY:
+  lat: 38.2256132
+  lng: -85.7333897
+1200 Goss. Responding units cleared the scene, Louisville, KY:
+  lat: 38.2256132
+  lng: -85.7333897
 1200 Hardwick Rd, Louisville, KY: null
 1200 Heflane near Meadowlark Ave, Louisville, KY:
   lat: 38.2505742
@@ -6078,6 +6084,7 @@
 200 E W Ormsby Ave, Louisville, KY:
   lat: 38.2336503
   lng: -85.7699347
+200 East Broadway between Crop St and South Floyd and South Brook, Louisville, KY: null
 200 East Broadway following a report of a medical emergency. A male individual was found, Louisville, KY: null
 200 East Broadway, Louisville, KY:
   lat: 38.2452031
@@ -6640,6 +6647,9 @@
   Louisville, KY
 : null
 200 West Early Morning, Louisville, KY: null
+200 West I-200 at Cane Run Rd, Louisville, KY:
+  lat: 38.222489
+  lng: -85.811113
 200 West Jefferson, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
@@ -12015,6 +12025,9 @@
 400 Adam. EMS was requested, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+400 Adam. Further details, Louisville, KY:
+  lat: 38.1049397
+  lng: -85.8430902
 400 Adams St, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
@@ -12173,6 +12186,9 @@
 : null
 400 David and 500 block of Adam, Louisville, KY: null
 400 David and the 400 block of Adam, Louisville, KY: null
+400 David at Second and Warranty, Louisville, KY:
+  lat: 38.2066421
+  lng: -85.6738206
 400 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
