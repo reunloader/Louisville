@@ -5709,6 +5709,10 @@
 1900 Muncie, Louisville, KY:
   lat: 38.260796
   lng: -85.715043
+1900 Nelson Miller Pky following a report of a traffic accident. This incident was also determined, Louisville, KY: null
+1900 Nelson Miller Pky, Louisville, KY:
+  lat: 38.269022
+  lng: -85.506916
 1900 New Burke, Louisville, KY: null
 1900 New Burke. Emergency units were dispatched, Louisville, KY: null
 1900 Newburg Rd, Louisville, KY:
@@ -9637,6 +9641,9 @@
 300 Manchester and 1000 block of East Indian Trail, Louisville, KY: null
 300 Manchester before proceeding to the 1000 block of East Indian Trail. The reason, Louisville, KY: null
 300 Marengo Dr, Louisville, KY: null
+300 Masonic Home Dr, Louisville, KY:
+  lat: 38.2557331
+  lng: -85.6652257
 300 Meadowood Ct, Louisville, KY:
   lat: 38.1508839
   lng: -85.7686919
@@ -10378,6 +10385,7 @@
 : null
 32 Mall Road in response, Louisville, KY: null
 32 Varks Road, Louisville, KY: null
+3200 300 block of, Louisville, KY: null
 ? 3200 7th Street Road. Responding units were dispatched to investigate the cause
   of the alarm and ensure the property's security., Louisville, KY
 : null
