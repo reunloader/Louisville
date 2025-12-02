@@ -10410,6 +10410,12 @@
 : lat: 38.219343
   lng: -85.617987
 3000 Taylor's Old Mill Rd, Louisville, KY: null
+3000 Vogue Ave, Louisville, KY:
+  lat: 38.207532
+  lng: -85.635854
+3000 Vogue Ave. The report, Louisville, KY:
+  lat: 38.207532
+  lng: -85.635854
 3000 W Kentucky St, Louisville, KY:
   lat: 38.2434084
   lng: -85.8033096
@@ -14220,6 +14226,8 @@
   lat: 38.2346744
   lng: -85.4583861
 4500 Sheldes Drive, Louisville, KY: null
+4500 Shells First Born, Louisville, KY: null
+4500 Shells First Born. Specifics, Louisville, KY: null
 4500 Shenandoah Dr, Louisville, KY:
   lat: 38.3095763
   lng: -85.5398338
