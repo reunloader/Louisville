@@ -3431,6 +3431,9 @@
 1300 S Preston St. Police units were sent, Louisville, KY:
   lat: 38.23088
   lng: -85.750124
+1300 S Shelby St, Louisville, KY:
+  lat: 38.2300087
+  lng: -85.7425387
 1300 Sail, Louisville, KY: null
 1300 Sale Ave, Louisville, KY:
   lat: 38.197432
@@ -11796,6 +11799,7 @@
 3800 Peachtree Ave, Louisville, KY:
   lat: 38.189189
   lng: -85.780662
+3800 Pete Street Avenue, Louisville, KY: null
 3800 Poplova Road, Louisville, KY: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
   The caller indicated they were attempting to control the flames with water. Firefighters
@@ -13081,6 +13085,7 @@
   lat: 38.1847673
   lng: -85.7796505
 4020 an unspecified street, Louisville, KY: null
+4100 Animal Precorrided, Louisville, KY: null
 4100 Autumn Way, Louisville, KY:
   lat: 38.0735818
   lng: -85.8729266
@@ -21146,6 +21151,8 @@ Crop St and Aspen Glen Dr, Louisville, KY: null
 Crop St and Audubon Parkway, Louisville, KY: null
 Crop St and Grand Ave, Louisville, KY: null
 Crop St and Krieger St, Louisville, KY: null
+Crop St and Martha Ave, Louisville, KY: null
+Crop St and Slack Ave, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Crossleaf Avenue and Willow Ave, Louisville, KY: null
