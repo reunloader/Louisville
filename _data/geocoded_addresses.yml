@@ -7762,6 +7762,7 @@
   lng: -85.7594798
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched, Louisville, KY: null
+2200 West Alley due, Louisville, KY: null
 2200 West Alley, Louisville, KY: null
 2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
@@ -8781,6 +8782,9 @@
   Kentucky. Responding units checked the premises and determined the area, Louisville,
   KY
 : null
+2600 West Madison, Louisville, KY:
+  lat: 38.2540077
+  lng: -85.7945055
 2700 7th St Rene Rd, Louisville, KY: null
 2700 Alford Ave, Louisville, KY:
   lat: 38.2648935
@@ -12444,6 +12448,9 @@
   lat: 38.2517615
   lng: -85.6932303
 400 North S S Hite Ave, Louisville, KY: null
+400 North20th Street, Louisville, KY:
+  lat: 38.2636644
+  lng: -85.7824983
 400 Northgate Rd involving an 84-year-old female who was having trouble breathing, Louisville, KY: null
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
@@ -19037,6 +19044,12 @@
   lat: 38.2555218
   lng: -85.7594798
 800 Earthwood's Way, Louisville, KY: null
+800 East Market, Louisville, KY:
+  lat: 38.2529944
+  lng: -85.7379033
+800 East Market. The situation was assessed by officers, Louisville, KY:
+  lat: 38.2529944
+  lng: -85.7379033
 ? 800 East Muhammad Alley following a report of a possible robbery or assault. The
   initial call was classified as a medical emergency, but upon arrival, responders
   confirmed the more serious nature of the incident., Louisville, KY
