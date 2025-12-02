@@ -10808,6 +10808,12 @@
 3300 Breaux Dr, Louisville, KY:
   lat: 38.212799
   lng: -85.62431
+3300 Buckland Trace, Louisville, KY:
+  lat: 38.2389408
+  lng: -85.4484445
+3300 Buckland Trace. Responders were dispatched, Louisville, KY:
+  lat: 38.2389408
+  lng: -85.4484445
 3300 Burstells Lane, Louisville, KY: null
 3300 Can't Ground Road, Louisville, KY: null
 3300 Can't Ground Road, near Crusherad,, Louisville, KY: null
@@ -15804,6 +15810,9 @@
 5500 Euclid Ave, Louisville, KY:
   lat: 38.1192754
   lng: -85.863372
+5500 Euclid Ave. Police units were also sent, Louisville, KY:
+  lat: 38.1192754
+  lng: -85.863372
 5500 Fern Valley Rd near Beauty Ceylon, Louisville, KY:
   lat: 38.1556057
   lng: -85.6590131
@@ -20165,6 +20174,10 @@
 900 Great Hunter Ct, Louisville, KY:
   lat: 38.1072977
   lng: -85.6606492
+900 Greten Ln, Louisville, KY: null
+900 Greten Ln, near the UPS Worldport. The incident occurred close, Louisville, KY:
+  lat: 38.1693566
+  lng: -85.7380195
 900 Greten Ln. Further details, Louisville, KY: null
 900 Hang-Up / Welfare Check**, Louisville, KY: null
 900 Hang-up (Motel Six), Louisville, KY: null
