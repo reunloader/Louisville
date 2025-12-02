@@ -3005,6 +3005,9 @@
   lat: 38.2182659
   lng: -85.7774103
 1200 South Third Street, Louisville, KY: null
+1200 South3rd St, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
 1200 South4th Street near 7th Street, Louisville, KY:
   lat: 38.2325348
   lng: -85.7661517
@@ -9008,6 +9011,9 @@
 2700 Field Ave, Louisville, KY:
   lat: 38.25696
   lng: -85.694417
+2700 Fire Mally Road at White Castle, Louisville, KY:
+  lat: 38.1512571
+  lng: -85.7643303
 2700 Garland Ave, Louisville, KY:
   lat: 38.244613
   lng: -85.7973498
