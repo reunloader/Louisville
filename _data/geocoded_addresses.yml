@@ -2851,6 +2851,7 @@
   male in a gray hoodie and a White female in a blue jacket were arguing while walking
   in the street. While there was a concern, Louisville, KY
 : null
+1200 S Clay St following a complaint about loud music. They responded, Louisville, KY: null
 1200 S Clay St, Louisville, KY:
   lat: 38.233669
   lng: -85.7436468
@@ -6100,6 +6101,11 @@
 200 East Broadway, near Delaware General Market, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
+? 200 East Broadway. Upon arrival, they found a small fire contained within an empty
+  drum. The situation was quickly managed by the responding units, and they were able,
+  Louisville, KY
+: lat: 38.2452031
+  lng: -85.7513354
 200 East Burnet, Louisville, KY: null
 200 East Burnett, Louisville, KY:
   lat: 38.2263813
@@ -7330,6 +7336,9 @@
   lat: 38.235329
   lng: -85.712271
 2100 Cherokee Pky, Louisville, KY:
+  lat: 38.235329
+  lng: -85.712271
+2100 Cherokee Pky. Units from the 500 block of Baker and 500 block of Echo were on the scene, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
 2100 Church Park Cir, Louisville, KY:
@@ -20598,6 +20607,9 @@
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
+9400 Westport Rd, Louisville, KY:
+  lat: 38.2909338
+  lng: -85.5653666
 9400 an unspecified street, Louisville, KY: null
 9500 Barbour Road, Louisville, KY: null
 9500 Baxter Ave, Louisville, KY:
