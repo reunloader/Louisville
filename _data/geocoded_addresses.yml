@@ -72,6 +72,9 @@
 100 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
+100 Blankenbaker Ln, Louisville, KY:
+  lat: 38.2744077
+  lng: -85.6461132
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
@@ -6621,6 +6624,9 @@
   lng: -85.8723473
 200 Pennsylvania Ave in connection with the call, Louisville, KY: null
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
+200 Ridgeway, Louisville, KY:
+  lat: 38.2382572
+  lng: -85.7088272
 200 Rippsville Road, Louisville, KY: null
 200 Rockford Ln, Louisville, KY:
   lat: 38.1833115
@@ -17277,6 +17283,9 @@
 : lat: 38.0796483
   lng: -85.8768468
 6400 Avenue near Warwick Ave, Louisville, KY: null
+6400 Clover Trace Pl, Louisville, KY:
+  lat: 38.1765171
+  lng: -85.7984715
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
   lng: -85.5025766
@@ -20990,6 +20999,9 @@
 9400 Fairground Rd. A female was found slumped over inside a vehicle, prompting the call, Louisville, KY:
   lat: 38.170226
   lng: -85.584819
+9400 Garden Dr, Louisville, KY:
+  lat: 38.245859
+  lng: -85.6785148
 9400 Gutenberg Rd, Louisville, KY: null
 ? 9400 Gutenberg Rd. Responding units investigated the activation to ensure the safety
   and security of the property., Louisville, KY
@@ -21872,6 +21884,7 @@ Taylor Ave and Camden Ave, Louisville, KY: null
 Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
   lng: -85.7764181
+Taylor Ave and Eastern Parkway, Louisville, KY: null
 Taylor Ave and Huntoon Ave, Louisville, KY: null
 Taylor Ave and Longsmore Avenue, Louisville, KY: null
 Taylor Ave and Lynnhurst Ave, Louisville, KY: null
