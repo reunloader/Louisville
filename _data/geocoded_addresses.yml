@@ -6024,6 +6024,10 @@
 200 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+? 200 Baker. The person was described as potentially carrying a weapon and having
+  a history of suicidal threats. Police units were dispatched, Louisville, KY
+: lat: 38.1412684
+  lng: -85.7716218
 200 Bank St, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
@@ -9590,6 +9594,9 @@
 30 Industry Rd, Louisville, KY:
   lat: 38.2139783
   lng: -85.7642889
+30 Mason Ave, Louisville, KY:
+  lat: 38.2421114
+  lng: -85.7377537
 30 Palatka Rd, Louisville, KY:
   lat: 38.1550559
   lng: -85.8008399
@@ -11261,6 +11268,9 @@
   Louisville, KY
 : null
 3500 Georgetown Cir, Louisville, KY:
+  lat: 38.1957374
+  lng: -85.7950925
+3500 Georgetown Cir. The report indicated a male and female were arguing, with one party wanting the other, Louisville, KY:
   lat: 38.1957374
   lng: -85.7950925
 3500 Herb Ln, Louisville, KY:
@@ -16953,6 +16963,12 @@
 : null
 6100 West Wampum and 2nd. Police units responded, Louisville, KY: null
 6100 acre and 600 block of Adam, Louisville, KY: null
+61900 Fern Valley Rd, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
+61900 Fern Valley Rd. Units were sent, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
 620 Valley College Drive, Louisville, KY:
   lat: 38.1200037
   lng: -85.8438535
@@ -20220,6 +20236,12 @@
   taken. The suspect was believed, Louisville, KY
 : lat: 38.2424865
   lng: -85.7264428
+900 Belvar Ave, Louisville, KY:
+  lat: 38.2628326
+  lng: -85.6837074
+900 Belvar Ave. Responding units were dispatched, Louisville, KY:
+  lat: 38.2628326
+  lng: -85.6837074
 900 Breckenridge Ln, Louisville, KY:
   lat: 38.2277761
   lng: -85.6360795
