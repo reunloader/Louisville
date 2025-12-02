@@ -3716,6 +3716,9 @@
 13600 Terrace Creek Dr, Louisville, KY:
   lat: 38.2873846
   lng: -85.501456
+13600 Terrace Creek, Louisville, KY:
+  lat: 38.2873838
+  lng: -85.5013883
 13700 Windy Haven Way, Louisville, KY:
   lat: 38.1825073
   lng: -85.5175986
@@ -20416,6 +20419,12 @@
 900 Marcy Ave, Crest Street, and Millers Ln at Tarrytowne Dr, Louisville, KY:
   lat: 38.1012113
   lng: -85.8493291
+900 Meadowview Cir, Louisville, KY:
+  lat: 38.2220188
+  lng: -85.636333
+900 Meadowview Cir. EMS personnel were dispatched, Louisville, KY:
+  lat: 38.2220188
+  lng: -85.636333
 900 Merwin Ave, Louisville, KY:
   lat: 38.2103918
   lng: -85.7451354
