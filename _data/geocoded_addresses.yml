@@ -2326,9 +2326,17 @@
 1100 West Broadway, near South 11th Street,, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
+1100 West Hawley, Louisville, KY: null
+1100 West Hawley. Officers were on duty and available, Louisville, KY: null
 1100 West Indian Trail, Louisville, KY:
   lat: 38.1647205
   lng: -85.7080512
+1100 West Muhammad, Louisville, KY:
+  lat: 38.2522795
+  lng: -85.7696575
+1100 West Muhammad. Officers were on duty and available, Louisville, KY:
+  lat: 38.2522795
+  lng: -85.7696575
 1100 block of [Location Unspecified], Louisville, KY: null
 1100 block, Louisville, KY: null
 1100 the hospital, Louisville, KY: null
@@ -13999,6 +14007,13 @@
   lat: 38.1791542
   lng: -85.8055872
 4400 Fartistown Road, Louisville, KY: null
+4400 Greenwood Ave, Louisville, KY:
+  lat: 38.2443727
+  lng: -85.8258626
+? 4400 Greenwood Ave. The stop occurred near the intersection of Greenwood Ave and
+  1612. Officers were on duty and available, Louisville, KY
+: lat: 38.2443727
+  lng: -85.8258626
 4400 Hazelwood Ave, Louisville, KY:
   lat: 38.177803
   lng: -85.7902731
