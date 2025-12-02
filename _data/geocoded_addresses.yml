@@ -5877,6 +5877,7 @@
 1900 South 6th Street, Louisville, KY:
   lat: 38.1792341
   lng: -85.7734909
+1900 South First Street, Louisville, KY: null
 1900 Stonegate Manor Dr, Louisville, KY:
   lat: 38.0812767
   lng: -85.883845
@@ -13019,6 +13020,9 @@
 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines 41 and 47 responded, Louisville, KY: null
 4000 Cresskey Way, Louisville, KY: null
 4000 Dutchman's, Louisville, KY: null
+4000 Dutchmans Ln (ER), Louisville, KY:
+  lat: 38.2280743
+  lng: -85.6469297
 4000 Future Bank Road near Progress Blvd, Louisville, KY: null
 4000 Herman St, Louisville, KY:
   lat: 38.260271
