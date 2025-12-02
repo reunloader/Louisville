@@ -3922,6 +3922,9 @@
   lat: 38.123922
   lng: -85.740662
 1400 Hadley Place, Louisville, KY: null
+1400 Haskin Ave, Louisville, KY:
+  lat: 38.1725038
+  lng: -85.7846516
 1400 Hemlock St, Louisville, KY:
   lat: 38.234176
   lng: -85.803411
@@ -7472,6 +7475,7 @@
 2100 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+2100 Ann Marie Dr, Louisville, KY: null
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
   lng: -85.4851725
@@ -20645,6 +20649,9 @@
 900 Shelby Parkway, Louisville, KY:
   lat: 38.231981
   lng: -85.739227
+900 Sinclair, Louisville, KY:
+  lat: 38.1210779
+  lng: -85.7498506
 900 South 28th Street, Louisville, KY:
   lat: 38.244855
   lng: -85.799212
@@ -21744,6 +21751,7 @@ Lexington Ave and Payne St, Louisville, KY: null
 Lexington Rd and Baxter Ave, Louisville, KY: null
 Lexington Rd and Frankfort Ave, Louisville, KY: null
 Lexington Rd and Grand St, Louisville, KY: null
+Lexington Rd and Payne St, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
 Lillian Ave and South St, Louisville, KY: null
 Lincoln Ave and Colorado Ave, Louisville, KY: null
