@@ -6897,6 +6897,7 @@
 200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
 200 westbound, Louisville, KY: null
+200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
 2000 3Rd Street Rd, Louisville, KY:
   lat: 38.1453565
   lng: -85.7758564
@@ -10788,6 +10789,9 @@
 3400 Barton Road, Louisville, KY:
   lat: 38.114744
   lng: -85.8695175
+3400 Cathe Dykstra Way, Louisville, KY:
+  lat: 38.1921668
+  lng: -85.8509711
 3400 Cathy Dexter, Louisville, KY: null
 3400 Dale Park Terrace. The activation was due, Louisville, KY: null
 3400 Dill Park Terrace, Louisville, KY: null
@@ -17506,6 +17510,12 @@
   involved a 39-year-old male who had fallen and was experiencing a seizure. EMS personnel
   were on the scene, Louisville, KY
 : null
+? 700 E W Market St, the 1000 block of E W Washington St, Floyd and Main St, the 1400
+  block of North 4th Street near the courthouse, the 1200 block of E W Washington
+  St, and the 300 block of E W Market St. Additionally, a separate medical assist
+  was handled in the area of Old Boswell and Thomas,, Louisville, KY
+: lat: 38.2469692
+  lng: -85.7624798
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
