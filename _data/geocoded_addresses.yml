@@ -7784,6 +7784,12 @@
 2200 W Madison St near South 24th Street, Louisville, KY:
   lat: 38.2530165
   lng: -85.787731
+2200 W Madison St, Louisville, KY:
+  lat: 38.2530165
+  lng: -85.787731
+2200 W Madison St. Responders arrived, Louisville, KY:
+  lat: 38.2530165
+  lng: -85.787731
 2200 W Main St, Louisville, KY:
   lat: 38.2595562
   lng: -85.7866869
@@ -8094,6 +8100,10 @@
 2300 W Madison St, Louisville, KY:
   lat: 38.2533447
   lng: -85.7894554
+? 2300 W Madison St, between South 24th and South 22nd Streets, following a report
+  of a medical emergency involving a 17-year-old female. The individual was experiencing
+  a miscarriage, and units from Charley responded, Louisville, KY
+: null
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
@@ -9712,6 +9722,10 @@
 300 Georgetown Cir, Louisville, KY:
   lat: 38.1937314
   lng: -85.7958062
+300 Glenmary Ave, Louisville, KY:
+  lat: 38.2407286
+  lng: -85.7112703
+300 Glenmary Ave, between Crossleaf Avenue and Willow Ave. Emergency medical personnel were sent, Louisville, KY: null
 300 Graves End Dr, Louisville, KY:
   lat: 38.255761
   lng: -85.775666
@@ -21113,6 +21127,7 @@ Crop St and Grand Ave, Louisville, KY: null
 Crop St and Krieger St, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
+Crossleaf Avenue and Willow Ave, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
