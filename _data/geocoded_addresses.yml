@@ -2990,6 +2990,9 @@
 1200 South4th Street near 7th Street, Louisville, KY:
   lat: 38.2325348
   lng: -85.7661517
+1200 South4th Street, Louisville, KY:
+  lat: 38.234898
+  lng: -85.7606273
 1200 Southbrook Street, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
 ? 1200 Spring Ridge Dr for assistance with lifting a patient. Police units were also
@@ -9510,6 +9513,9 @@
   lng: -85.7686938
 2900 South District Number Fivember Five One Six, Louisville, KY: null
 2900 South Firstborn Parkway, Louisville, KY: null
+2900 South6th Street, Louisville, KY:
+  lat: 38.2079392
+  lng: -85.7686938
 2900 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
@@ -19296,6 +19302,7 @@
 800 Glen Hollow Dr, Louisville, KY:
   lat: 38.1496915
   lng: -85.7759209
+800 Glenwood Rd, Louisville, KY: null
 800 Granite Dr, Louisville, KY: null
 800 Grintwood Avenue 05:20 p, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
@@ -21469,6 +21476,7 @@ Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Mix Ave and Davies Ave, Louisville, KY: null
 Mockingbird Valley Rd and Glen Hill Rd, Louisville, KY: null
 Montrose Ave and Tyler Ln, Louisville, KY: null
+Montrose Ave and Waller Ln, Louisville, KY: null
 Moredale Rd and Westport Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
