@@ -2441,6 +2441,10 @@
 11400 Electron Dr, Louisville, KY:
   lat: 38.2023336
   lng: -85.5472496
+11400 Leman Dr between Windy Willow and Rockwater, Louisville, KY: null
+11400 Leman Dr. The patient is a 21-year-old female experiencing chest pain and was able, Louisville, KY:
+  lat: 38.2055725
+  lng: -85.632026
 11400 Ridge Rd, Louisville, KY:
   lat: 38.2184913
   lng: -85.7015596
@@ -3634,6 +3638,12 @@
 13900 Darwin Blvd. Responders were sent, Louisville, KY:
   lat: 38.055186
   lng: -85.894178
+13900 Fancy Gap Dr near Bainton Windway, Louisville, KY:
+  lat: 38.1760653
+  lng: -85.5173639
+13900 Fancy Gap Dr, Louisville, KY:
+  lat: 38.1760653
+  lng: -85.5173639
 13900 Promenade Greenway in the 2nd office area, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
@@ -15611,6 +15621,12 @@
 5500 Bardstown Rd, Louisville, KY:
   lat: 38.166274
   lng: -85.601225
+5500 Bayshore Ct near Feyhurst Dr, Louisville, KY:
+  lat: 38.1451436
+  lng: -85.8584793
+5500 Bayshore Ct. The patient, a 56-year-old female, was found, Louisville, KY:
+  lat: 38.1451436
+  lng: -85.8584793
 5500 Count Fleet Dr, Louisville, KY:
   lat: 38.1147098
   lng: -85.8729314
@@ -16889,6 +16905,9 @@
 6500 Applegate Ln, Louisville, KY:
   lat: 38.130385
   lng: -85.641014
+6500 Bella Woods Dr near Dover Rd, Louisville, KY:
+  lat: 38.1842595
+  lng: -85.8425262
 6500 Brattleview Circle, Louisville, KY: null
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
