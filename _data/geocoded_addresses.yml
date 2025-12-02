@@ -2952,6 +2952,7 @@
 1200 South 3rd Street, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
+1200 South 3rd Street, involving a neighbor. Police units were dispatched, Louisville, KY: null
 ? 1200 South 3rd Street. A young six-year-old male was found unresponsive on the ground,
   with indications of a possible overdose. The child received immediate medical attention
   and was transported for further care., Louisville, KY
@@ -11966,6 +11967,10 @@
 3700 West Wheatmore, Louisville, KY:
   lat: 38.1905624
   lng: -85.7999149
+3700 Wheeler Ave, Louisville, KY:
+  lat: 38.191243
+  lng: -85.788685
+3700 Wheeler Ave, described as a situation, Louisville, KY: null
 3700 Woodgreen Ct, Louisville, KY:
   lat: 38.189985
   lng: -85.799011
@@ -21858,6 +21863,7 @@ Murray Ln and Raggard Rd, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
 New Cut Rd and Cogan Blvd, Louisville, KY: null
+New Cut Rd and Jean Ave, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Park Rd, Louisville, KY: null
 New Cut Rd and Poplar Level Rd, Louisville, KY: null
