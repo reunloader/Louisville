@@ -4044,6 +4044,12 @@
 1400 Rufer Ave, Louisville, KY:
   lat: 38.235498
   lng: -85.7249555
+1400 Rutland Club Ct, Louisville, KY:
+  lat: 38.2596662
+  lng: -85.4506474
+1400 Rutland Club Ct. Responding units were sent, Louisville, KY:
+  lat: 38.2596662
+  lng: -85.4506474
 1400 S Floyd St, Louisville, KY:
   lat: 38.228157
   lng: -85.7529726
@@ -14383,6 +14389,12 @@
 4600 North 28th Street, Louisville, KY:
   lat: 38.2683439
   lng: -85.794838
+4600 River Front Dr, Louisville, KY:
+  lat: 38.2078958
+  lng: -85.8644486
+? 4600 River Front Dr, involving allegations of harassing communications from an ex-partner.
+  Police units were dispatched, Louisville, KY
+: null
 4600 S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
@@ -21653,6 +21665,7 @@ Market St and Main St, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mary Catherine Dr and Ecton Ln, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
+Meadow Dr and Terrier Ln, Louisville, KY: null
 Meadow Hill Rd and Pounds Ln, Louisville, KY: null
 Mellwood Ave and Lake Ave, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
