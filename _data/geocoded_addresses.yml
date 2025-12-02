@@ -1805,6 +1805,9 @@
   have outstanding warrants, though the specifics were unclear. Police units were
   dispatched, Louisville, KY
 : null
+10300 Oak Grove Rd, Louisville, KY:
+  lat: 38.0948877
+  lng: -85.5957459
 10300 Perwinkle Ct, Louisville, KY:
   lat: 38.0912405
   lng: -85.5604578
@@ -6365,6 +6368,9 @@
   The situation was resolved, and the vehicle was cleared from the area., Louisville,
   KY
 : null
+200 Eric Ct, Louisville, KY:
+  lat: 38.146714
+  lng: -85.6890862
 ? 200 Fairlawn Rd where a 71-year-old female had fallen. Fortunately, she did not
   appear to have sustained any injuries, and EMS was offered as a precautionary measure.,
   Louisville, KY
@@ -12041,6 +12047,7 @@
 3900 Craig Ave, Louisville, KY:
   lat: 38.18484
   lng: -85.789937
+3900 Creski Way, Louisville, KY: null
 3900 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -18586,6 +18593,9 @@
 7200 Green Oak. Police units were assigned, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
+7200 Hill Park Way, Louisville, KY:
+  lat: 38.214449
+  lng: -85.62461
 7200 Jefferson Blvd, Louisville, KY:
   lat: 38.1435266
   lng: -85.6747742
