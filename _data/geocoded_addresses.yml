@@ -2857,6 +2857,9 @@
 1200 South 2nd Street at the Center, Louisville, KY:
   lat: 38.2345868
   lng: -85.7573175
+1200 South 2nd Street, Louisville, KY:
+  lat: 38.2345868
+  lng: -85.7573175
 1200 South 3rd Street near West Ornstein and West Oak, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
@@ -3288,6 +3291,9 @@
 1300 E W Oak St, New Albany, Louisville, KY: null
 1300 Earl Jones Way, Louisville, KY: null
 1300 East Breckham Ridge Street, Louisville, KY: null
+1300 Everett Ave, Louisville, KY:
+  lat: 38.2367176
+  lng: -85.7127065
 1300 Fawnberry Avenue, Louisville, KY: null
 1300 Flat Rock Rd, Louisville, KY:
   lat: 38.256266
@@ -9011,6 +9017,7 @@
   lng: -85.8349572
 2800 D Miller Ave, Louisville, KY: null
 2800 DeMille Avenue, Louisville, KY: null
+2800 East Kingston, Louisville, KY: null
 2800 Eddy St, Louisville, KY:
   lat: 38.256079
   lng: -85.797282
@@ -9781,6 +9788,9 @@
 300 S Jane St, Louisville, KY:
   lat: 38.2487252
   lng: -85.7029071
+300 S Preston St, Louisville, KY:
+  lat: 38.2527788
+  lng: -85.7463211
 300 S W Spring St, Louisville, KY: null
 300 Shelby Station, Louisville, KY: null
 300 Shelby Station. A female, described as shorter in stature, was reportedly involved in the incident., Louisville, KY: null
