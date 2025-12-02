@@ -370,6 +370,9 @@
   difficulties, with EMS expected, Louisville, KY
 : lat: 38.2624675
   lng: -85.808437
+100 North 38th Street near Slevin St, Louisville, KY:
+  lat: 38.2634695
+  lng: -85.8118587
 100 North 38th Street, Louisville, KY:
   lat: 38.2634695
   lng: -85.8118587
@@ -6095,6 +6098,9 @@
   lng: -85.7699347
 200 East Broadway between Crop St and South Floyd and South Brook, Louisville, KY: null
 200 East Broadway following a report of a medical emergency. A male individual was found, Louisville, KY: null
+200 East Broadway near S Floyd St, Louisville, KY:
+  lat: 38.2452031
+  lng: -85.7513354
 200 East Broadway, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -7775,6 +7781,9 @@
 2200 W Jefferson St, Louisville, KY:
   lat: 38.257076
   lng: -85.786979
+2200 W Madison St near South 24th Street, Louisville, KY:
+  lat: 38.2530165
+  lng: -85.787731
 2200 W Main St, Louisville, KY:
   lat: 38.2595562
   lng: -85.7866869
@@ -7950,6 +7959,9 @@
 2300 Garland Ave, Louisville, KY:
   lat: 38.2440697
   lng: -85.791688
+2300 Glenmary Ave near Bassett Ave, Louisville, KY:
+  lat: 38.2391887
+  lng: -85.7136877
 2300 Glenmary Ave, Louisville, KY:
   lat: 38.2391887
   lng: -85.7136877
@@ -9845,6 +9857,9 @@
   Louisville, KY
 : null
 300 Short St, Louisville, KY: null
+300 South 1st Street near E Liberty St, Louisville, KY:
+  lat: 38.2529394
+  lng: -85.7525767
 300 South 20th Street, Louisville, KY:
   lat: 38.256743
   lng: -85.784366
