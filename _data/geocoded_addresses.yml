@@ -742,6 +742,9 @@
 100 West Market, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
+? 100 West Market, suggesting a traffic stop or other police activity was taking place.
+  No further information was immediately available, Louisville, KY
+: null
 ? 100 West Market. Officers were dispatched to investigate the nature of the activity
   and ensure public safety. The details of what was observed and the subsequent actions
   are not yet known., Louisville, KY
@@ -2559,6 +2562,9 @@
 1200 Bardstown Rd, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
+1200 Bardstown Rd. The subjects were described by a witness, and officers were dispatched, Louisville, KY:
+  lat: 38.236869
+  lng: -85.7184884
 1200 Barr Ln, Louisville, KY:
   lat: 38.2392151
   lng: -85.6840872
@@ -3897,6 +3903,9 @@
 1400 Nightingale Rd, Louisville, KY:
   lat: 38.2046618
   lng: -85.7202292
+1400 Nightingale Rd. Further details, Louisville, KY:
+  lat: 38.2046618
+  lng: -85.7202292
 ? 1400 Nightingale Rd. One individual, described as a white male, was involved in
   the reported fight. University of Louisville Police were on scene, and additional
   assistance was requested from Metro units., Louisville, KY
@@ -4229,6 +4238,7 @@
 1500 Central Ave, Louisville, KY:
   lat: 38.21282
   lng: -85.7814853
+1500 Central Ave, involving a dispute that escalated, Louisville, KY: null
 1500 Central Ave., Louisville, KY:
   lat: 38.21282
   lng: -85.7814853
@@ -9852,6 +9862,9 @@
   lat: 38.193805
   lng: -85.7653462
 300 West Broadway, Louisville, KY:
+  lat: 38.2457716
+  lng: -85.7569119
+300 West Broadway, near the Grand Hotel. The specific reason, Louisville, KY:
   lat: 38.2457716
   lng: -85.7569119
 300 West Broadway, potentially due, Louisville, KY: null
