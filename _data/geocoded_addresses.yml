@@ -1481,6 +1481,9 @@
 1000 Sale Ave, Louisville, KY:
   lat: 38.1976121
   lng: -85.7771407
+1000 Seatonville Rd, Louisville, KY:
+  lat: 38.1431383
+  lng: -85.5614901
 1000 South 15th Street, Louisville, KY:
   lat: 38.241236
   lng: -85.777725
@@ -1955,6 +1958,9 @@
   a firearm. The individual reportedly left the area in a burgundy Chevrolet Trax,
   heading towards Braves Ln. Police units were alerted to search, Louisville, KY
 : null
+1099 Gandy Rd, Louisville, KY:
+  lat: 38.1093964
+  lng: -85.8538536
 11 Rosedale Ave, Louisville, KY:
   lat: 38.2235747
   lng: -85.7032029
@@ -12375,6 +12381,7 @@
 400 E Jefferson St, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
+400 E Jefferson St, between Peachtree Ave and Westwood Ave, Louisville, KY: null
 400 E Jefferson St, described as a black male in a red hat and black clothing, reportedly returned, Louisville, KY: null
 400 E Jefferson St. Responders were sent, Louisville, KY:
   lat: 38.2524
@@ -15465,6 +15472,12 @@
 5100 Jeff Commerce Dr. Units from the 7th division were sent, Louisville, KY:
   lat: 38.1537856
   lng: -85.671884
+5100 Johnsontown Rd, Louisville, KY:
+  lat: 38.121128
+  lng: -85.855849
+5100 Johnsontown Rd. The incident involved a juvenile who was reportedly refusing, Louisville, KY:
+  lat: 38.121128
+  lng: -85.855849
 ? 5100 Keegan Way who was experiencing symptoms of feeling faint. EMS arrived on the
   scene shortly after the dispatch, Louisville, KY
 : null
@@ -19889,6 +19902,9 @@
 85 Ambrosse Ln, Louisville, KY:
   lat: 38.1957296
   lng: -85.6033485
+85 Southpoint Dr, Louisville, KY:
+  lat: 38.0943798
+  lng: -85.6739771
 ? 850 I 64 West, near the Planton House, to assist a 65-year-old female who was found
   unconscious. Responders worked to assess her condition and provide necessary medical
   care., Louisville, KY
@@ -21057,6 +21073,9 @@
 : lat: 38.1140967
   lng: -85.8526359
 9800 Somerford Rd, Louisville, KY: null
+9800 Spring Gate Dr, Louisville, KY:
+  lat: 38.3076087
+  lng: -85.5657118
 9800 VU Cady Dr, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
@@ -21421,6 +21440,7 @@ Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jefferson St and Baxter Ave, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
+Jefferson St and Greystone Ave, Louisville, KY: null
 Jensen Street and Featherbell Blvd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Kaleville Road and Lake Forest Dr, Louisville, KY: null
@@ -21489,6 +21509,7 @@ Murphy Ln and Halifax Dr, Louisville, KY: null
 Murray Ln and Raggard Rd, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
+New Cut Rd and Cogan Blvd, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Park Rd, Louisville, KY: null
 New Cut Rd and Poplar Level Rd, Louisville, KY: null
@@ -21522,6 +21543,7 @@ Park Blvd and Green Spring Dr, Louisville, KY: null
 Park Boundary Rd and Shack Park Road, Louisville, KY: null
 Patrick Henry Rd and Yorktel Road, Louisville, KY: null
 Payne St and Barret Ave, Louisville, KY: null
+Peach St and Westwood Dr, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
