@@ -1088,6 +1088,9 @@
 1000 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+1000 E W Market St. EMS was dispatched, Louisville, KY:
+  lat: 38.2586626
+  lng: -85.7877091
 1000 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
@@ -4046,6 +4049,10 @@
   lat: 38.2210553
   lng: -85.7295099
 1400 Popperridge Road, Louisville, KY: null
+1400 Rieta, Louisville, KY: null
+? 1400 Rieta. The reporting party indicated no immediate concerns but noted that an
+  individual was expected to return, Louisville, KY
+: null
 1400 River Crest Ct, Louisville, KY:
   lat: 38.2697405
   lng: -85.701988
@@ -7888,6 +7895,8 @@
 2200 Providence Dr, Louisville, KY:
   lat: 38.1231758
   lng: -85.579226
+2200 Quinn Ct, Louisville, KY: null
+2200 Quinn Ct. Responding fire units, including Battalion 3, arrived, Louisville, KY: null
 ? 2200 Ralph Ave to attend to a 63-year-old male. The patient had reportedly passed
   out and was experiencing chest pain., Louisville, KY
 : null
@@ -15365,6 +15374,12 @@
 5000 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
+5000 Fay Ave, Louisville, KY:
+  lat: 38.164915
+  lng: -85.776064
+5000 Fay Ave. Multiple units, including Battalion 3, were dispatched, Louisville, KY:
+  lat: 38.164915
+  lng: -85.776064
 5000 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
@@ -15582,6 +15597,9 @@
 : null
 5100 I 64 East. Responders were sent, Louisville, KY: null
 5100 I 65 South, Louisville, KY: null
+5100 Illinois Ave, Louisville, KY:
+  lat: 38.188288
+  lng: -85.7002505
 5100 Jeff Commer's Drive, Louisville, KY: null
 ? 5100 Jeff Commer's Drive. The alarm specifically originated from the manager's office.
   Responding units investigated the activation, Louisville, KY
@@ -20545,6 +20563,12 @@
 900 Palatka Rd, Louisville, KY:
   lat: 38.15072
   lng: -85.776517
+900 Patton Ct, Louisville, KY:
+  lat: 38.2237734
+  lng: -85.778564
+900 Patton Ct. Responding units were dispatched, Louisville, KY:
+  lat: 38.2237734
+  lng: -85.778564
 900 Philadelphia Street, Louisville, KY: null
 900 Phillips Ln near Mission and Stanford, Louisville, KY:
   lat: 38.193672
