@@ -7516,6 +7516,7 @@
 2100 Osage Ave, Louisville, KY:
   lat: 38.2390037
   lng: -85.7885013
+2100 Osage Ave, with cross streets of 22nd and Dr, Louisville, KY: null
 2100 Payne St, Louisville, KY:
   lat: 38.252398
   lng: -85.707627
@@ -8753,6 +8754,9 @@
   of a vehicle in the 2400 block of Frankfort Ave., Louisville, KY
 : lat: 38.2538627
   lng: -85.6962344
+? 2600 Garland Ave following a 9-1-1 hang-up call. Records indicated the caller had
+  a history of hanging up, and there was a concern, Louisville, KY
+: null
 2600 Garland Ave, Louisville, KY:
   lat: 38.2442419
   lng: -85.7956355
@@ -12343,6 +12347,7 @@
 400 E Jefferson St, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
+400 E Jefferson St, described as a black male in a red hat and black clothing, reportedly returned, Louisville, KY: null
 400 E Jefferson St. Responders were sent, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -16534,6 +16539,9 @@
   lat: 38.245481
   lng: -85.743587
 600 S Preston St, Louisville, KY:
+  lat: 38.24749
+  lng: -85.7476008
+600 S Preston St, near W Chestnut St and Springer Alley, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
 600 Scholar House Ct, Louisville, KY:
