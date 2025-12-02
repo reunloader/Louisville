@@ -6460,6 +6460,7 @@
 200 North Bardstown Rd., Louisville, KY: null
 200 North Delton Road, Louisville, KY: null
 200 North First Street, Louisville, KY: null
+200 North Hubbard Lane, Louisville, KY: null
 200 North Hubbard's Lane, Louisville, KY: null
 200 North I near Smyrna Parkway, Louisville, KY:
   lat: 38.1304
@@ -10514,6 +10515,9 @@
   lat: 38.2191858
   lng: -85.7614601
 3100 South Forest, Louisville, KY: null
+3100 South Park Rd, Louisville, KY:
+  lat: 38.1162065
+  lng: -85.6832515
 3100 South Second Street, Louisville, KY: null
 3100 South2nd Street following a report of a medical emergency. The specific reason, Louisville, KY: null
 3100 South2nd Street, Louisville, KY:
@@ -21319,6 +21323,7 @@ Highland Ave and Eastern Star Dr, Louisville, KY: null
 Hikes Ln and Breckenridge Ln, Louisville, KY:
   lat: 38.2186174
   lng: -85.6291173
+Hikes Ln and Newburg Rd, Louisville, KY: null
 Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
