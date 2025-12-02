@@ -2732,6 +2732,9 @@
 1200 Global Dr, Louisville, KY:
   lat: 38.1397231
   lng: -85.8923691
+1200 Goff Ln, Louisville, KY:
+  lat: 38.0775176
+  lng: -85.7878967
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
@@ -17509,6 +17512,7 @@
   Units 300 block of David and 300 block of Adam were sent, Louisville, KY
 : lat: 38.0762726
   lng: -85.8819062
+6800 Sagan Bush, Louisville, KY: null
 6800 Seaton Woods Dr, Louisville, KY:
   lat: 38.1466894
   lng: -85.5706899
@@ -17912,6 +17916,7 @@
 700 Lakeheath Dr, Louisville, KY:
   lat: 38.1714069
   lng: -85.701805
+700 Lewis-Quanlin Junior, Louisville, KY: null
 700 Linden Dr, Louisville, KY: null
 ? 700 Linden Dr. The alarm was triggered by a smoke detector in zone 8. The response
   was subsequently canceled., Louisville, KY
@@ -21337,6 +21342,7 @@ Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Gatehouse Road and Burnsdale Rd, Louisville, KY: null
 Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
+Gillette Ave and Camp Crown Road, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Glendora Ave and Herman St, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
