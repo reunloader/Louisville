@@ -5576,6 +5576,9 @@
 ? 1800 Mary Catherine Dr. They also assisted with the evacuation of a nearby structure
   in the 1700 block of Mary Catherine Dr., Louisville, KY
 : null
+1800 Mary St, Louisville, KY:
+  lat: 38.2344233
+  lng: -85.7405196
 1800 McCloskey Avenue, Evening, Louisville, KY: null
 1800 Melwood, Louisville, KY: null
 1800 Melwood. In conjunction with this, a welfare check was requested, Louisville, KY: null
@@ -19375,6 +19378,9 @@
   lat: 38.1280665
   lng: -85.858562
 800 Mary St Kidd Ct, Louisville, KY: null
+800 Mary St, Louisville, KY:
+  lat: 38.234588
+  lng: -85.741105
 800 Mulberry St, Louisville, KY:
   lat: 38.228084
   lng: -85.741562
