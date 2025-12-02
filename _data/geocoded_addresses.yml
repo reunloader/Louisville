@@ -6511,6 +6511,7 @@
 200 Olde English Ct, Louisville, KY:
   lat: 38.1157978
   lng: -85.8113074
+200 Olde English Ct, suggesting that a domestic dispute might be escalating, Louisville, KY: null
 200 Outer Loop, Louisville, KY:
   lat: 38.1272584
   lng: -85.7520033
@@ -8569,6 +8570,7 @@
 2500 South 4th Street, Louisville, KY:
   lat: 38.2128532
   lng: -85.7644902
+2500 South 4th Street, indicating that the situation was becoming physical. Police units were sent, Louisville, KY: null
 ? 2500 South 5th Street following a report of a subject experiencing a mental health
   crisis. The individual was described as rambling and the situation was being handled
   by the Crisis Intervention Team. Officers were coordinating, Louisville, KY
@@ -12131,6 +12133,8 @@
 400 Ambrosse Ln. Police units were dispatched, Louisville, KY:
   lat: 38.1957296
   lng: -85.6033485
+400 Atom, Louisville, KY: null
+400 Atom, with a suspect described as possibly being outside and wearing a black jacket, Louisville, KY: null
 ? 400 Baker Aly STREET following a report of an assault. A 42-year-old male sought
   medical attention for pain in his hand and eye. EMS provided treatment, and police
   units were present on the scene. The patient was transported for further care.,
@@ -12144,11 +12148,13 @@
 400 Baker and 400 block of Baker, Louisville, KY: null
 400 Baker and 400 block of Charlie, Louisville, KY: null
 400 Baker and 400 block of David, Louisville, KY: null
+400 Baker and 400 block of, Louisville, KY: null
 400 Baker and Magnolia, Louisville, KY: null
 400 Baker and the 200 block of. Responding units worked, Louisville, KY: null
 400 Baker and the 400 block of Charlie assisted EMS and fire personnel at the scene, Louisville, KY:
   lat: 38.2570741
   lng: -85.7584952
+400 Baker and the 400 block of, Louisville, KY: null
 400 Baker and the 500 block of David were sent, Louisville, KY: null
 400 Baker to manage the scene and gather information., Louisville, KY: null
 400 Baker, 400 block of David, and 400 block of Charlie, Louisville, KY: null
@@ -13087,6 +13093,10 @@
 4000 West Broadway, Louisville, KY:
   lat: 38.2498825
   lng: -85.8179864
+4000 White Plains Ct, Louisville, KY:
+  lat: 38.2012598
+  lng: -85.6353957
+4000 White Plains Ct, with indications that someone might be attempting, Louisville, KY: null
 4000 Woodruff Ave to investigate a report of assault by harassment., Louisville, KY: null
 4000 Woodruff Ave, Louisville, KY:
   lat: 38.1862227
@@ -16901,6 +16911,12 @@
 : null
 6200 Walnut Ridge. They were on the scene and available, Louisville, KY: null
 62400 New Cub Road at Taco Bell, Louisville, KY: null
+6300 Applegate Ln, Louisville, KY:
+  lat: 38.1320307
+  lng: -85.644106
+6300 Applegate Ln. An unknown female was observed in the hallway, prompting a dispatch of police units, Louisville, KY:
+  lat: 38.1320307
+  lng: -85.644106
 6300 Bass Rd, Louisville, KY:
   lat: 38.3504019
   lng: -85.6285044
@@ -21432,6 +21448,9 @@ Roselane St and Nogonquin Parkway, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
 Scarborough Ave and Greyling Dr, Louisville, KY: null
+Scottsdale Blvd and New Cut Rd, Louisville, KY:
+  lat: 38.1392585
+  lng: -85.7740084
 Scrim Ave and Libby Ln, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
