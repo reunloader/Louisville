@@ -21855,4 +21855,20 @@ history:
   batch_success_rate: 83.33
   batch_new_addresses: 6
   batch_new_successes: 5
-last_updated: '2025-12-02T03:57:41.124604'
+- timestamp: '2025-12-02T04:06:58.199723'
+  total_addresses: 8913
+  successful: 4394
+  failed: 4519
+  success_rate: 49.3
+  failure_rate: 50.7
+  failure_patterns:
+    Incomplete/vague address: 884
+    Intersection format: 756
+    Contains location qualifiers (near/at): 1638
+    Other/Unknown: 846
+    Police phonetic codes: 4
+    Contains extra sentences/context: 391
+  batch_success_rate: 40.0
+  batch_new_addresses: 5
+  batch_new_successes: 2
+last_updated: '2025-12-02T04:06:58.199853'

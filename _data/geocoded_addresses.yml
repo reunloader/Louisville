@@ -898,12 +898,20 @@
 : null
 1000 Belltower Ct, Louisville, KY: null
 1000 Berkshaw Road, Louisville, KY: null
+1000 Blue Lick, Louisville, KY:
+  lat: 38.1168066
+  lng: -85.6894841
+1000 Blue Lick. The situation was resolved and cleared, Louisville, KY:
+  lat: 38.1168066
+  lng: -85.6894841
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
 1000 Brookline Ave, Louisville, KY:
   lat: 38.175395
   lng: -85.777096
+1000 Brown Lick, Louisville, KY: null
+1000 Brown Lick. Additional police units were requested, Louisville, KY: null
 1000 Caldwell St, Louisville, KY:
   lat: 38.2381521
   lng: -85.7366708
@@ -10882,6 +10890,7 @@
 3400 Gonewind Dr, Louisville, KY:
   lat: 38.1957149
   lng: -85.5943247
+3400 High Climb, Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
 3400 LaFonte Drive, Louisville, KY: null
 3400 Larkwood Ave, Louisville, KY:
