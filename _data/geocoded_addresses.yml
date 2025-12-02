@@ -7759,6 +7759,7 @@
   lng: -85.7594798
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched, Louisville, KY: null
+2200 West Alley, Louisville, KY: null
 2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
   and showing signs of facial drooping. This was classified as a medical Delta call,
@@ -8000,6 +8001,9 @@
   lat: 38.1757512
   lng: -85.8351718
 2300 Rodman St, Louisville, KY:
+  lat: 38.215448
+  lng: -85.768904
+2300 Rodman St. A six-year-old male was the subject of the medical assistance call. The specific reason, Louisville, KY:
   lat: 38.215448
   lng: -85.768904
 2300 South 37th Street concerning a 47-year-old individual, Louisville, KY: null
@@ -9168,6 +9172,7 @@
   lat: 38.2231367
   lng: -85.7727441
 2800 South 8th Street at Cardinal Stadium, Louisville, KY: null
+2800 St, Louisville, KY: null
 2800 Taylor Blvd, Louisville, KY:
   lat: 38.2097891
   lng: -85.7722465
@@ -15437,6 +15442,10 @@
   lng: -85.602422
 5200 St. Gambriel Ct, Louisville, KY: null
 5200 St. St Gabriel Ln, Louisville, KY: null
+5200 Viking Way, Louisville, KY:
+  lat: 38.107913
+  lng: -85.857884
+5200 Viking Way, identified as a complex. It was unclear if this incident was related, Louisville, KY: null
 5200 W Main St, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
@@ -15730,6 +15739,14 @@
 5500 O Drive near Crestridge, Robinwood Rd, and Regal Dr, Louisville, KY:
   lat: 38.1043536
   lng: -85.8346944
+5500 Overbrook Woods Pl, Louisville, KY:
+  lat: 38.1666675
+  lng: -85.5939241
+? 5500 Overbrook Woods Pl. Another individual in the area also reported hearing a
+  noise that could have been a gunshot or a car backfiring. The incident was believed,
+  Louisville, KY
+: lat: 38.1666675
+  lng: -85.5939241
 5500 Pico Ln, Louisville, KY:
   lat: 38.144416
   lng: -85.658973
@@ -18598,6 +18615,12 @@
 7500 Pony Haven Dr, Louisville, KY:
   lat: 38.1414558
   lng: -85.7800443
+7500 Run Road, Louisville, KY:
+  lat: 38.1356964
+  lng: -85.548125
+7500 Run Road. Due, Louisville, KY:
+  lat: 38.1356964
+  lng: -85.548125
 7500 Terry Rd, Louisville, KY:
   lat: 38.1442017
   lng: -85.8725769
@@ -20774,6 +20797,8 @@
   lng: -85.8526359
 9800 Somerford Rd, Louisville, KY: null
 9800 VU Cady Dr, Louisville, KY: null
+9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, Louisville, KY: null
+9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
 9800 Vukra Drive, Louisville, KY: null
 9800 Williamsborough Ln, Louisville, KY:
   lat: 38.156523
