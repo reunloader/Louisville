@@ -4843,6 +4843,9 @@
   lat: 38.2092826
   lng: -85.7831319
 1600 Two Strings, Louisville, KY: null
+1600 W Chestnut St, Louisville, KY:
+  lat: 38.251069
+  lng: -85.77791
 1600 W Kentucky St, Louisville, KY:
   lat: 38.2414959
   lng: -85.7803273
@@ -5416,6 +5419,9 @@
   lat: 38.0969101
   lng: -85.8731567
 1800 Clinton Pl, Louisville, KY: null
+1800 Commerce Rd, Louisville, KY:
+  lat: 38.222574
+  lng: -85.773346
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent to the scene to assist with the situation.
   The fire was quickly brought under control., Louisville, KY
@@ -7136,6 +7142,9 @@
 2000 Mobile, Louisville, KY:
   lat: 38.2045522
   lng: -85.8356961
+2000 Nelson Miller Pky, Louisville, KY:
+  lat: 38.2722475
+  lng: -85.5102464
 2000 Newburg Rd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -15158,6 +15167,9 @@
 5000 Dixie Hwy, Louisville, KY:
   lat: 38.1696957
   lng: -85.8277719
+5000 Euclid Ave, Louisville, KY:
+  lat: 38.2146706
+  lng: -85.7748283
 5000 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
@@ -21164,6 +21176,7 @@ Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
 Charleswood Rd and Cooper Chapel Rd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
+Chenilis Lane and Massie Ave, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Pky and Longest Ave, Louisville, KY: null
 Cherokee Pky and Parkstone Road, Louisville, KY: null
