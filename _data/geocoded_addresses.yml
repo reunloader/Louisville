@@ -3664,6 +3664,9 @@
 13300 Crystal Cove, Louisville, KY: null
 13300 North Tetland, Louisville, KY: null
 13300 North Tetland, though it was believed, Louisville, KY: null
+13300 Shelby Rd, Louisville, KY:
+  lat: 38.2085025
+  lng: -85.7126899
 13300 Shelterville Road, Louisville, KY: null
 ? 13300 Vernetta Way due to ongoing reports of loud yelling from the parking lot.
   The disturbance appeared to involve an argument between a male and his girlfriend,
@@ -6084,6 +6087,9 @@
   at the two-story home., Louisville, KY
 : null
 200 Brown Plain, Louisville, KY: null
+200 Browns Ln, Louisville, KY:
+  lat: 38.1452129
+  lng: -85.8434857
 200 Cecil Ave, Louisville, KY:
   lat: 38.262957
   lng: -85.81776
@@ -16889,6 +16895,9 @@
   lat: 38.0856484
   lng: -85.6676088
 6000 Newcote Road, Louisville, KY: null
+6000 Oakdale Ln, Louisville, KY:
+  lat: 38.1629578
+  lng: -85.6720316
 6000 Southcrest Dr, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
@@ -17478,6 +17487,7 @@
 6700 Green Manor Dr, Louisville, KY:
   lat: 38.1470389
   lng: -85.6361939
+6700 Gunpowder Ln, Louisville, KY: null
 6700 Henry, Louisville, KY:
   lat: 38.1898666
   lng: -85.7648755
