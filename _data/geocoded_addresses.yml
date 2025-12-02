@@ -4523,6 +4523,8 @@
 1500 South 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
+1500 South 30th Street and 3000 block of Southern Ave, Louisville, KY: null
+1500 South 30th Street due, Louisville, KY: null
 1500 South Gate in response to a flagged vehicle. The vehicle, a black Chevrolet Malibu, was noted, Louisville, KY: null
 1500 South Gate, Louisville, KY: null
 1500 South Gate. Police units were sent, Louisville, KY: null
@@ -12929,6 +12931,12 @@
   lat: 38.248881
   lng: -85.758042
 400 W Chestnut St, in the vicinity of 4th and 5th streets,, Louisville, KY: null
+400 W Kenwood Dr at DeSales High School, Louisville, KY:
+  lat: 38.161231
+  lng: -85.772479
+400 W Kenwood Dr. School officials requested assistance, Louisville, KY:
+  lat: 38.161231
+  lng: -85.772479
 400 W Kingston Ave, Louisville, KY:
   lat: 38.1728488
   lng: -85.7658685
@@ -15229,6 +15237,12 @@
   lat: 38.2535374
   lng: -85.7808463
 500 St, Louisville, KY: null
+500 Tazwell Dr, Louisville, KY:
+  lat: 38.3071019
+  lng: -85.5326085
+500 Tazwell Dr. Responding units were alerted to the potential, Louisville, KY:
+  lat: 38.3071019
+  lng: -85.5326085
 500 Upland Rd, Louisville, KY:
   lat: 38.2482132
   lng: -85.695989
@@ -18155,6 +18169,7 @@
 700 S Hancock St, Louisville, KY:
   lat: 38.243717
   lng: -85.743892
+700 S Hancock St, though the reason, Louisville, KY: null
 700 S Hancock St. A resident requested to speak with officers regarding the situation., Louisville, KY:
   lat: 38.243717
   lng: -85.743892
@@ -18383,6 +18398,7 @@
 700 West Broadway, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
+700 West Hornsby, Louisville, KY: null
 700 West O'Rail, Louisville, KY: null
 700 Westport Rd and Stonehurst Dr, Louisville, KY: null
 ? 700 Winkler Ave following a report of domestic trouble. The individual involved
