@@ -861,6 +861,7 @@
   the 10-33 update is not specified, but it indicated a potential problem or a need,
   Louisville, KY
 : null
+100 yards towards Cane Run, Louisville, KY: null
 100, Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
@@ -3734,6 +3735,7 @@
 1400 Dixie Hwy, Louisville, KY:
   lat: 38.231667
   lng: -85.789217
+1400 Double with Drive, Louisville, KY: null
 1400 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -5398,6 +5400,12 @@
 1800 Grand Ave. Simultaneously, another call came in, Louisville, KY:
   lat: 38.239902
   lng: -85.78658
+1800 Grand Ridge Rd, Louisville, KY:
+  lat: 38.145421
+  lng: -85.796071
+1800 Grand Ridge Rd. Police units were dispatched, Louisville, KY:
+  lat: 38.145421
+  lng: -85.796071
 1800 Grantham Ct near Grantham Pl, Louisville, KY: null
 1800 Grantham Ct, Louisville, KY: null
 1800 Grantham Ct. A 79-year-old female had reportedly fallen within her garage. Responders were dispatched, Louisville, KY: null
@@ -6406,6 +6414,9 @@
 : lat: 38.2637287
   lng: -85.8083072
 200 North35th Street, near Duncan and Rowan,, Louisville, KY:
+  lat: 38.2637287
+  lng: -85.8083072
+200 North35th Street. Responders were assigned, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
 200 Northbound at Mile Marker 5, Louisville, KY: null
@@ -14698,6 +14709,7 @@
 500 East Broadway,, Louisville, KY:
   lat: 38.2446199
   lng: -85.7454474
+500 East W Jacob St, Louisville, KY: null
 500 East W Jacob St, specifically in building 15, zone 6, Louisville, KY: null
 500 East [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2305447
@@ -16841,6 +16853,9 @@
   Responding units provided assistance, Louisville, KY
 : lat: 38.1953886
   lng: -85.8373553
+6400 Southside Dr, Louisville, KY:
+  lat: 38.164146
+  lng: -85.7651135
 6400 Westwind Way, Louisville, KY: null
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
