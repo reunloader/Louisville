@@ -12222,6 +12222,9 @@
   lng: -85.780662
 3800 Pete Street Avenue, Louisville, KY: null
 3800 Poplova Road, Louisville, KY: null
+? 3800 Ralph Ave following a report of an individual who was unconscious and not breathing.
+  The situation was later updated, Louisville, KY
+: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
   The caller indicated they were attempting to control the flames with water. Firefighters
   arrived to assess and extinguish the brush fire., Louisville, KY
@@ -17058,6 +17061,7 @@
   KY
 : null
 600 North Hyde Avenue. A female was heard screaming, Louisville, KY: null
+600 Northside Avenue, Louisville, KY: null
 600 Parthenia, Louisville, KY:
   lat: 38.191647
   lng: -85.7924364
@@ -17981,6 +17985,11 @@
 6700 Overlook Dr, Louisville, KY:
   lat: 38.2935174
   lng: -85.6274407
+? 6700 Sappenfield Way, near the intersection of Crescent Snowden Way and Dixie Hwy.
+  A 63-year-old male was experiencing shortness of breath and heart palpitations attributed,
+  Louisville, KY
+: lat: 38.059685
+  lng: -85.8894115
 6700 Sappenfield, Louisville, KY:
   lat: 38.059685
   lng: -85.8894115
@@ -21641,6 +21650,9 @@
 9600 Dock Rd, Louisville, KY:
   lat: 38.1312704
   lng: -85.5931443
+9600 Fairmount Rd. Responders provided a lift assist, Louisville, KY:
+  lat: 38.1121071
+  lng: -85.5851049
 9600 Highway 60, Louisville, KY:
   lat: 38.1174114
   lng: -85.8594242
@@ -22182,6 +22194,7 @@ Jensen Street and Featherbell Blvd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Kaleville Road and Lake Forest Dr, Louisville, KY: null
 Kay Avenue and Indiana Ave, Louisville, KY: null
+Kentucky St and Logan St, Louisville, KY: null
 Keyline Road and Terry Rd, Louisville, KY: null
 King Run Road and Camp Ground Rd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
@@ -22307,6 +22320,7 @@ Preston St and Roselane St, Louisville, KY: null
 Princeton Dr and Bardstown Rd, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
+Ralph Ave and Camp Ground Rd, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
