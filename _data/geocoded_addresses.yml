@@ -6128,6 +6128,7 @@
 200 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+200 Adams St and the 200 block of Beaver St, Louisville, KY: null
 200 Adams St, Louisville, KY:
   lat: 38.258738
   lng: -85.726232
@@ -7806,6 +7807,7 @@
 : null
 2100 Wally and Corn, Louisville, KY: null
 2100 Wally and Court, Louisville, KY: null
+2100 Wally and Court. EMS later canceled their request, Louisville, KY: null
 2100 West Broadway [Date & Time], Louisville, KY: null
 ? 2100 West Broadway to address the situation. Officers worked to secure the vehicle
   and ensure the safety of the area., Louisville, KY
@@ -18724,6 +18726,9 @@
   lng: -85.7653948
 700 W Whitney Ave to assist a resident who was reportedly seeking an officer and looking, Louisville, KY: null
 700 W Whitney Ave, Louisville, KY: null
+700 Walker Rd, Louisville, KY:
+  lat: 38.1316635
+  lng: -85.8564041
 700 West Broadway near South 8th Street, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
