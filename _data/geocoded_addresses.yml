@@ -2616,6 +2616,9 @@
 11800 Standiford Plaza Dr. Units from the 7th Division were en route, Louisville, KY:
   lat: 38.0921635
   lng: -85.6679085
+11900 Deer Park Ave, Louisville, KY:
+  lat: 38.2248164
+  lng: -85.7093907
 11900 Sanford Plaza in response, Louisville, KY: null
 11900 Sanford Plaza, Louisville, KY: null
 11900 Shelbyville Rd, Louisville, KY:
@@ -5076,6 +5079,9 @@
   KY
 : null
 1700 Dixdale Ave, Louisville, KY:
+  lat: 38.221804
+  lng: -85.788435
+1700 Dixdale Ave, near the intersection of Dixie Hwy and McCloskey Avenue,, Louisville, KY:
   lat: 38.221804
   lng: -85.788435
 1700 Doomsdale Street, Louisville, KY: null
@@ -13060,6 +13066,9 @@
   lat: 38.2525979
   lng: -85.7647916
 400 South8th Street, a high-rise building. Personnel on scene reported connecting, Louisville, KY: null
+400 Southcrest Dr, Louisville, KY:
+  lat: 38.185411
+  lng: -85.7724711
 400 Southpointe Blvd, Louisville, KY: null
 400 Speed Ave, Louisville, KY:
   lat: 38.2273201
@@ -20913,6 +20922,12 @@
 900 Vine St., Louisville, KY:
   lat: 38.239276
   lng: -85.732806
+900 W Florence Ave, Louisville, KY:
+  lat: 38.1909754
+  lng: -85.7751678
+900 W Florence Ave. No further information was provided, Louisville, KY:
+  lat: 38.1909754
+  lng: -85.7751678
 ? 900 W Liberty St prompted a response from emergency services. The situation was
   being assessed by units on scene., Louisville, KY
 : null
