@@ -1808,6 +1808,9 @@
 10200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+10200 Westport Rd, Louisville, KY:
+  lat: 38.292136
+  lng: -85.56246
 10300 Arbor Oak Dr, Louisville, KY:
   lat: 38.1107685
   lng: -85.6602102
@@ -10549,6 +10552,12 @@
 3000 South Forth Street, Louisville, KY: null
 3000 South Number 4, Louisville, KY: null
 3000 South Third Street, Louisville, KY: null
+3000 South4th Street, Louisville, KY:
+  lat: 38.2063275
+  lng: -85.7657394
+3000 South4th Street. Responding units checked the premises and found that everything appeared, Louisville, KY:
+  lat: 38.2063275
+  lng: -85.7657394
 3000 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
@@ -20087,6 +20096,9 @@
 8000 Beechlawn Ct, Louisville, KY:
   lat: 38.198116
   lng: -85.609503
+8000 Bramble Ln, Louisville, KY:
+  lat: 38.1381395
+  lng: -85.8565024
 8000 Candleglow Ln, Louisville, KY:
   lat: 38.1360048
   lng: -85.7827411
