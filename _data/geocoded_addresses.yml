@@ -2055,6 +2055,7 @@
 1100 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+1100 E W Market St, specifically, Louisville, KY: null
 1100 E W W Market St, Louisville, KY: null
 1100 East Broadway, Louisville, KY:
   lat: 38.2440101
@@ -2063,6 +2064,7 @@
   lat: 38.2440101
   lng: -85.7337642
 1100 East W Market St, Louisville, KY: null
+1100 East W Market St, a location known as the Home of the Innocents, due, Louisville, KY: null
 ? 1100 East W Market St, near S Johnson St. The patient was a 24-year-old female experiencing
   a bleeding issue related, Louisville, KY
 : lat: 38.253828
@@ -12710,6 +12712,8 @@
 400 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+400 E W Muhammad Ali Blvd, affecting a multi-story building identified as the Dasher Manor B building, Louisville, KY: null
+400 E W Muhammad Ali Blvd, within a multi-story building, Louisville, KY: null
 400 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -17206,10 +17210,14 @@
 600 [Street Name - not provided], Louisville, KY:
   lat: 38.2502401
   lng: -85.7231987
+600 [Street Name Missing], Louisville, KY:
+  lat: 38.2502401
+  lng: -85.7231987
 600 [Street Name Redacted], Louisville, KY:
   lat: 38.2502401
   lng: -85.7231987
 600 a gas station, Louisville, KY: null
+600 an unspecified street due, Louisville, KY: null
 600 and 600 block of, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation., Louisville, KY: null
@@ -21797,6 +21805,7 @@ Ash Ave and South Central Ave, Louisville, KY: null
 Ashland Ave and Taylor Blvd, Louisville, KY: null
 Ashwood Dr and Monkford Drive, Louisville, KY: null
 Audubon Parkway and Chickadee Rd, Louisville, KY: null
+Audubon Plaza Dr and Thruston Ave, Louisville, KY: null
 Bakers Ln and Crums Ln, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Balmoral Dr and Bramton Rd, Louisville, KY: null
