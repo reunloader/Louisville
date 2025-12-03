@@ -2977,6 +2977,7 @@
 1200 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
+1200 South 1st Street involving a 40-year-old male experiencing chest pain. EMS was present, Louisville, KY: null
 1200 South 1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
@@ -3350,6 +3351,10 @@
   lng: -85.7831176
 1300 Avenue, Louisville, KY: null
 1300 B Lane, Louisville, KY: null
+? 1300 Bardstown Rd regarding an unresponsive 55-year-old female, who may have been
+  heavily intoxicated. Police and EMS were on site, with access needed through the
+  Rosewood Ave side, Louisville, KY
+: null
 1300 Bardstown Rd, Louisville, KY:
   lat: 38.2348669
   lng: -85.7153636
@@ -8814,6 +8819,10 @@
 2500 Fennel Ct, Louisville, KY:
   lat: 38.1417376
   lng: -85.8568147
+2500 Gardiner Ln in response, Louisville, KY: null
+2500 Gardiner Ln, Louisville, KY:
+  lat: 38.2145786
+  lng: -85.6663921
 2500 Griffiths Ave, Louisville, KY:
   lat: 38.2658663
   lng: -85.7902979
@@ -9372,6 +9381,8 @@
 2700 Taylor Blvd, Louisville, KY:
   lat: 38.2108939
   lng: -85.7708483
+2700 Taylor's Road, Louisville, KY: null
+2700 Taylor's Road. Responding units worked, Louisville, KY: null
 2700 Taylorsville Rd, Louisville, KY:
   lat: 38.2227341
   lng: -85.6695319
@@ -9593,6 +9604,10 @@
 2800 South 3rd Street. Officers were sent, Louisville, KY:
   lat: 38.2087192
   lng: -85.7635772
+2800 South 4th Street following a report of an unresponsive 30-year-old male. EMS personnel were on scene, Louisville, KY: null
+2800 South 4th Street, Louisville, KY:
+  lat: 38.2089394
+  lng: -85.765146
 ? 2800 South 4th Street, where a one-story residence showed signs of smoke emanating
   from the rear. Upon arrival, Engine 18 found the smoke was coming from a trash fire,
   which they then managed. Other responding units were released once the situation
@@ -11204,6 +11219,9 @@
   lng: -85.8574824
 3200 the boulevard, near South 33rd Street and South 32nd Street, Louisville, KY: null
 3201 East Indian Trail, Evening, Louisville, KY: null
+32100 McCloskey Avenue, Louisville, KY:
+  lat: 38.2242622
+  lng: -85.7878189
 3259 David Street, Louisville, KY: null
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
@@ -18516,6 +18534,7 @@
 700 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
+700 Gagel Ave concerning a missing 14-year-old female, Louisville, KY: null
 700 Gagel Ave, Louisville, KY:
   lat: 38.1704336
   lng: -85.7986686
