@@ -3808,6 +3808,9 @@
 13800 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
+? 13800 Ralph Ave following a report of an individual who was found unconscious and
+  not breathing. Responders arrived on scene, Louisville, KY
+: null
 13900 Darwin Blvd. Responders were sent, Louisville, KY:
   lat: 38.055186
   lng: -85.894178
@@ -7396,6 +7399,10 @@
 2000 Newburg Rd, near Bellarmine University, in response, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
+? 2000 Newburg Rd, specifically at the Nazareth Emergency Home, to attend to a medical
+  situation involving a 78-year-old male. Responders were dispatched to provide care,
+  Louisville, KY
+: null
 2000 Newburg Rd, where a patient was found to be having a seizure., Louisville, KY: null
 2000 Newburg Rd, where a patient was found, Louisville, KY: null
 2000 Newburg Rd. Further information about the cause of the alarm was not provided., Louisville, KY: null
@@ -8735,6 +8742,11 @@
 2500 Artisan Way Way, near Imperial Ct and Terrace Hill Dr Hill Rd Dr,, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
+? 2500 Bank St. The person, described as wearing sweatpants and khaki pants, was seen
+  sitting in a doorway across the street from a location marked by a pink sign. Responding
+  officers were sent, Louisville, KY
+: lat: 38.26839
+  lng: -85.788647
 2500 Bolling Ave, Louisville, KY:
   lat: 38.2306843
   lng: -85.7969333
@@ -10536,6 +10548,7 @@
 3000 Industrial Blvd, Louisville, KY:
   lat: 38.1544975
   lng: -85.7088219
+3000 Jefferson Green Dr due, Louisville, KY: null
 3000 Jefferson Green Dr, Louisville, KY: null
 3000 K long drive, Louisville, KY: null
 ? 3000 Kersel Road. Responding units arrived to investigate the alarm at Honey Brothers.
@@ -13487,6 +13500,7 @@
 4000 Rock Bay Dr, Louisville, KY:
   lat: 38.2963802
   lng: -85.499078
+4000 Seaway Court, Louisville, KY: null
 4000 Serene Way, Louisville, KY:
   lat: 38.159645
   lng: -85.6881029
