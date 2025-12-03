@@ -13449,6 +13449,7 @@
 400 the area, Louisville, KY: null
 400 the location to address the welfare check., Louisville, KY: null
 400 the location, Louisville, KY: null
+400 units, Louisville, KY: null
 400 were involved in investigating the report, Louisville, KY: null
 400 were involved in investigating the report., Louisville, KY: null
 4000 7th St and Parkway, Louisville, KY: null
@@ -13594,6 +13595,9 @@
 4000 Shelbyville Rd, Louisville, KY:
   lat: 38.2524981
   lng: -85.6528922
+4000 South 2nd Street, Louisville, KY:
+  lat: 38.1980276
+  lng: -85.7636885
 4000 South 3rd Street, Louisville, KY:
   lat: 38.1980524
   lng: -85.765329
