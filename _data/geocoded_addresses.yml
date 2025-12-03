@@ -1856,6 +1856,9 @@
   lat: 38.1041743
   lng: -85.8695254
 10400 Got It Court, Louisville, KY: null
+10400 Linn Station Rd, Louisville, KY:
+  lat: 38.224552
+  lng: -85.5606
 ? 10400 S Dodge Ln, near Silver Creek and South Ridge, where a white car had driven
   into a ditch. Two individuals involved in the accident reported facial injuries,
   prompting a response from emergency services., Louisville, KY
@@ -6112,6 +6115,9 @@
 2 Durham Ridge Rd, Louisville, KY:
   lat: 38.1854546
   lng: -85.5184033
+2 North Ln, Louisville, KY:
+  lat: 38.059521
+  lng: -85.8746765
 2 Wiltshire Ave, Louisville, KY:
   lat: 38.2516536
   lng: -85.655682
@@ -11266,6 +11272,9 @@
 3300 Terrier Ct, Louisville, KY:
   lat: 38.207331
   lng: -85.665427
+3300 Trout Creek Dr, Louisville, KY:
+  lat: 38.2051535
+  lng: -85.6800776
 3300 Utah Ave, Louisville, KY:
   lat: 38.2062816
   lng: -85.7851095
@@ -21968,6 +21977,7 @@ Church Rd and Cooper Chapel Rd, Louisville, KY:
   lat: 38.1100122
   lng: -85.6424154
 Churchman Ave and Bicknell Ave, Louisville, KY: null
+Clark Run Rd and Cane Run Rd, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
 Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
@@ -22204,6 +22214,7 @@ North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
 North Horsborne Parkway and Westport Rd, Louisville, KY: null
+North Ln and Staebler Ave, Louisville, KY: null
 Northbound Drive and Welman Dr, Louisville, KY: null
 Oak St and Barret Ave, Louisville, KY: null
 Oak St and Owen St, Louisville, KY: null
@@ -22403,6 +22414,7 @@ Third Street and Central Ave, Louisville, KY: null
 Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tile Factory Road and Selinda Ave, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
+Trout Creek Dr and Twin Creek Dr, Louisville, KY: null
 Tyler Ave and Eleanor Ave, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
