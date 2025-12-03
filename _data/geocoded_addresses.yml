@@ -2568,6 +2568,9 @@
   lat: 38.2450485
   lng: -85.7534965
 11400 South Forrest Street, Louisville, KY: null
+11400 Tazwell Dr, Louisville, KY:
+  lat: 38.304084
+  lng: -85.538601
 11400 Westport Rd, Louisville, KY:
   lat: 38.2990576
   lng: -85.5393666
@@ -3072,6 +3075,9 @@
   lat: 38.2182659
   lng: -85.7774103
 1200 South Third Street, Louisville, KY: null
+1200 South1st Street, Louisville, KY:
+  lat: 38.2344706
+  lng: -85.7556489
 1200 South3rd St, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
@@ -9614,6 +9620,9 @@
   lat: 38.2231367
   lng: -85.7727441
 2800 South 8th Street at Cardinal Stadium, Louisville, KY: null
+2800 South4th Street, Louisville, KY:
+  lat: 38.2089394
+  lng: -85.765146
 2800 St, Louisville, KY: null
 2800 Taylor Blvd, Louisville, KY:
   lat: 38.2097891
@@ -16761,6 +16770,9 @@
 5900 Hunting Rd, Louisville, KY: null
 5900 Lions Arms Dr, Louisville, KY: null
 5900 New Pet Road, Louisville, KY: null
+5900 Old Cedar Ct, Louisville, KY:
+  lat: 38.330207
+  lng: -85.554524
 5900 Outer Loop near St, Louisville, KY:
   lat: 38.1381377
   lng: -85.652542
@@ -20502,6 +20514,9 @@
 8300 Delido Rd, Louisville, KY:
   lat: 38.128285
   lng: -85.654212
+8300 Johnson School Rd, Louisville, KY:
+  lat: 38.128094
+  lng: -85.600795
 8300 Laverne Dr, Louisville, KY:
   lat: 38.1465483
   lng: -85.6642271
