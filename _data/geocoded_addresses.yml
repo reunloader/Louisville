@@ -6998,6 +6998,9 @@
 200 West, near Kentucky Drive. Police units responded, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West, near the 72-mile marker,, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West, near the 8.6 mile marker. Responding units were checking the complaint, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -11849,6 +11852,9 @@
 3700 East Weavemore Drive, Louisville, KY: null
 3700 East Whitmore Drive, Louisville, KY: null
 3700 East Whitmore Drive. Responding EMS personnel provided care, Louisville, KY: null
+3700 Eline Ave, Louisville, KY:
+  lat: 38.2494527
+  lng: -85.665685
 3700 Falcon Crest Dr and 5400 block of Logwood Ave, Louisville, KY: null
 3700 Falcon Crest Dr, Louisville, KY:
   lat: 38.1195704
@@ -11972,6 +11978,7 @@
 3700 Taylor Blvd, Louisville, KY:
   lat: 38.1910205
   lng: -85.7836633
+3700 Taylor Blvd, which escalated, Louisville, KY: null
 3700 Taylor, Louisville, KY:
   lat: 38.1910205
   lng: -85.7836633
@@ -16369,6 +16376,10 @@
 5600 Shorewood Dr. The patient reported experiencing shoulder, back, and chest pain, Louisville, KY:
   lat: 38.1457155
   lng: -85.7784108
+5600 Walnut Way following a report of a garage fire. The fire was believed, Louisville, KY: null
+5600 Walnut Way, Louisville, KY:
+  lat: 38.0937928
+  lng: -85.6590514
 5600 Watch Hill Rd, Louisville, KY: null
 5600 Windy Willow Dr, Louisville, KY:
   lat: 38.3204818
@@ -17279,6 +17290,8 @@
 6200 River Terrace Pl, Louisville, KY:
   lat: 38.1532388
   lng: -85.8664295
+6200 Semi-Court, Louisville, KY: null
+6200 Semi-Court. Further details, Louisville, KY: null
 6200 South 22nd Street involving an individual attempting, Louisville, KY: null
 6200 South 22nd Street, Louisville, KY:
   lat: 38.2539856
