@@ -2547,6 +2547,9 @@
 11400 River Falls Dr, Louisville, KY:
   lat: 38.0916803
   lng: -85.8859695
+11400 South 1st Street, Louisville, KY:
+  lat: 38.2450485
+  lng: -85.7534965
 11400 South Forrest Street, Louisville, KY: null
 11400 Westport Rd, Louisville, KY:
   lat: 38.2990576
@@ -7829,6 +7832,9 @@
   lng: -85.7579503
 21919 an unconfirmed street. The reason, Louisville, KY: null
 22 La Saver Drive, Louisville, KY: null
+2200 8th Street, Louisville, KY:
+  lat: 38.247257
+  lng: -85.7649186
 2200 Alta Ave, Louisville, KY:
   lat: 38.234136
   lng: -85.70143
@@ -9118,6 +9124,9 @@
   lat: 38.2540077
   lng: -85.7945055
 2700 7th St Rene Rd, Louisville, KY: null
+2700 7th Street, Louisville, KY:
+  lat: 38.2131547
+  lng: -85.7854174
 2700 Alford Ave, Louisville, KY:
   lat: 38.2648935
   lng: -85.7955173
@@ -15938,6 +15947,9 @@
 5200 Cynthia Dr, Louisville, KY:
   lat: 38.170965
   lng: -85.574905
+5200 Dixie Hwy, Louisville, KY:
+  lat: 38.1645712
+  lng: -85.8311729
 5200 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
