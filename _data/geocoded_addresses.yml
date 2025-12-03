@@ -1765,6 +1765,10 @@
   number and received guidance, Louisville, KY
 : lat: 38.1075832
   lng: -85.8592116
+10100 Mitchell Hill, Louisville, KY:
+  lat: 38.1043313
+  lng: -85.7603974
+10100 Mitchell Hill, officers found that the person was no longer present, Louisville, KY: null
 10100 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -12424,6 +12428,12 @@
 ? 400 Browns Line. A mother found herself locked out of her home with two young children
   still inside, seated in high chairs., Louisville, KY
 : null
+400 Bullitt Ln, Louisville, KY:
+  lat: 38.2469926
+  lng: -85.6175478
+400 Bullitt Ln. Responding units were dispatched, Louisville, KY:
+  lat: 38.2469926
+  lng: -85.6175478
 400 Bunker Hill following a report of a person down. Police units were assigned, Louisville, KY: null
 400 Bunker Hill, Louisville, KY:
   lat: 38.2064231
