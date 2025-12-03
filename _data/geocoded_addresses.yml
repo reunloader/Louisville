@@ -8133,6 +8133,9 @@
 23 Adventure Rd, Louisville, KY:
   lat: 38.2039221
   lng: -85.834534
+23 Ralston Ave, Louisville, KY:
+  lat: 38.1426872
+  lng: -85.8480559
 23 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
@@ -22269,6 +22272,7 @@ Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
 Taylor Blvd and Hathaway Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
+Taylor Blvd and Showbox Avenue, Louisville, KY: null
 Taylor Blvd and Strader Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
