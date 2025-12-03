@@ -10253,6 +10253,7 @@
   lat: 38.2536681
   lng: -85.7572606
 300 South Bailey, Louisville, KY: null
+300 South Park Street, Louisville, KY: null
 300 South Third Street, Louisville, KY: null
 300 South Winslow Street, Louisville, KY: null
 300 South at I-65, Louisville, KY: null
@@ -18397,6 +18398,9 @@
 700 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+700 East Alley, Louisville, KY:
+  lat: 38.2456348
+  lng: -85.7444872
 700 East Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
@@ -20797,6 +20801,9 @@
 8900 Willowcreek Dr, Louisville, KY:
   lat: 38.121161
   lng: -85.6991967
+9 York St, Louisville, KY:
+  lat: 38.243908
+  lng: -85.7562365
 900 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
