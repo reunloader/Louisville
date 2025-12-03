@@ -6434,6 +6434,7 @@
   lat: 38.1861148
   lng: -85.7582215
 200 Eastbound near Bells Ln, Louisville, KY: null
+200 Eastbound, Louisville, KY: null
 200 Eastbound, just before the Bells Ln exit. The vehicle, an SUV, was observed, Louisville, KY: null
 ? 200 Eastern Parkway where children were making repeated hang-up calls or activating
   a phone's emergency button. The children were reportedly using their father's phone
@@ -7110,6 +7111,7 @@
 : null
 200 eastbound, Louisville, KY: null
 200 eastbound, between Brownsboro and Westport, Louisville, KY: null
+200 eastbound, resulting in injuries, Louisville, KY: null
 200 interchange, Louisville, KY:
   lat: 38.0989549
   lng: -85.6793839
@@ -11440,6 +11442,9 @@
 3500 Newburg Rd., Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+3500 North 35th Street, Louisville, KY:
+  lat: 38.2735722
+  lng: -85.804438
 3500 Outer Loop, Louisville, KY:
   lat: 38.1361718
   lng: -85.6985653
@@ -21534,6 +21539,7 @@ Abell Ave and Olive St, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
 Adams St and Weller Ave, Louisville, KY: null
 Alarby Avenue and Woodbourne Ave, Louisville, KY: null
+Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
