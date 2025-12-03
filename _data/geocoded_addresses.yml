@@ -2398,6 +2398,9 @@
 11000 Jefferson Trace Blvd, Louisville, KY:
   lat: 38.1511409
   lng: -85.5636852
+11000 Main St, Louisville, KY:
+  lat: 38.2561998
+  lng: -85.752701
 11000 Oliverda Dr, Louisville, KY:
   lat: 38.0975935
   lng: -85.8806153
@@ -15059,6 +15062,7 @@
 4800 Paramount Park Dr, Louisville, KY:
   lat: 38.1552702
   lng: -85.7125852
+4800 Parchetown Road, Louisville, KY: null
 ? 4800 Poplar Level Rd regarding a report of a homeless female who had set up a tent
   behind a building and was allegedly using its power. Despite previous requests,
   Louisville, KY
@@ -21349,6 +21353,9 @@
 9100 Brandywyne Dr. The individual responsible, Louisville, KY:
   lat: 38.163487
   lng: -85.588224
+9100 Broad Run Rd, Louisville, KY:
+  lat: 38.1127153
+  lng: -85.5433396
 9100 Cousin Court, Louisville, KY: null
 9100 Cousin Court, with responders heading to the 700 block of Cousin Court to assist the individual., Louisville, KY: null
 9100 Cousin Court, with responders heading, Louisville, KY: null
@@ -22190,10 +22197,12 @@ Herman St and Glendora Ave, Louisville, KY: null
 Hi View Ln and Gatecreek Rd, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
+Hikes Ln and Bardstown Rd, Louisville, KY: null
 Hikes Ln and Breckenridge Ln, Louisville, KY:
   lat: 38.2186174
   lng: -85.6291173
 Hikes Ln and Newburg Rd, Louisville, KY: null
+Hikes Ln and Shepherdsville Rd, Louisville, KY: null
 Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
