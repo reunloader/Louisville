@@ -5792,6 +5792,7 @@
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
+1800 Travillion Way, Louisville, KY: null
 1800 W Hill St, Louisville, KY:
   lat: 38.228248
   lng: -85.790658
@@ -9021,6 +9022,9 @@
   and all responding units cleared the scene., Louisville, KY
 : null
 2600 Howard St, identified as Cypress Tech, a metal warehouse. Fire units responded, Louisville, KY: null
+2600 Howard, Louisville, KY:
+  lat: 38.245806
+  lng: -85.795471
 ? 2600 I-64 West. CPR was reportedly in progress upon arrival. Additional units were
   later taken out of service to assist with transporting firefighters., Louisville,
   KY
@@ -14056,6 +14060,9 @@
 4300 Sadie Ln, Louisville, KY:
   lat: 38.1806477
   lng: -85.8101697
+4300 Sanders Ln, Louisville, KY:
+  lat: 38.1743655
+  lng: -85.8092238
 4300 Shepherdsville Rd, Louisville, KY:
   lat: 38.18828
   lng: -85.659597
@@ -20752,6 +20759,9 @@
   lng: -85.7264428
 900 Baxter Ave, which was described as a potential overdose situation, Louisville, KY: null
 900 Baxter Ave, which was described as a potential overdose situation., Louisville, KY: null
+900 Baxter Ave. Police requested a review of surveillance cameras in the vicinity, Louisville, KY:
+  lat: 38.2424865
+  lng: -85.7264428
 ? 900 Baxter Ave. The incident involved the theft of a wallet, and a vehicle was also
   taken. The suspect was believed, Louisville, KY
 : lat: 38.2424865
