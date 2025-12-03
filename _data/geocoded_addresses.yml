@@ -4443,6 +4443,9 @@
 1500 Anna Ln, Louisville, KY:
   lat: 38.179538
   lng: -85.8027049
+1500 Argetown Road near Crop St, Louisville, KY:
+  lat: 38.2616479
+  lng: -85.7955417
 1500 Arlen Avenue, Louisville, KY: null
 1500 Bardstown Rd, Louisville, KY:
   lat: 38.2316448
@@ -14574,6 +14577,9 @@
   KY
 : lat: 38.2088999
   lng: -85.8457995
+4500 Caspian Dr, Louisville, KY:
+  lat: 38.169906
+  lng: -85.676733
 4500 Chillyville Road, Louisville, KY: null
 4500 Chillyville Road, near Thornton, Louisville, KY:
   lat: 38.252431
@@ -15599,6 +15605,9 @@
 500 North 22nd Street, Louisville, KY:
   lat: 38.266703
   lng: -85.783596
+500 North 24th Street, Louisville, KY:
+  lat: 38.268441
+  lng: -85.788182
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
@@ -17027,6 +17036,9 @@
 600 E Main St, Louisville, KY:
   lat: 38.254656
   lng: -85.7417262
+600 E W Chestnut St, Louisville, KY:
+  lat: 38.2489207
+  lng: -85.7576467
 600 E W Oak St, Number 4, Louisville, KY: null
 ? 600 East Broadway following a report of an individual down. Upon arrival, responders
   found the person covered by a blanket. Emergency medical services assessed the situation
@@ -21473,6 +21485,9 @@
   of the call was not immediately clear, but it may have involved a request, Louisville,
   KY
 : null
+9100 Lexington Rd, Louisville, KY:
+  lat: 38.2485889
+  lng: -85.6808373
 9100 South Brook, Louisville, KY:
   lat: 38.2435645
   lng: -85.7520475
