@@ -3823,6 +3823,9 @@
 1400 Anna Ln, Louisville, KY:
   lat: 38.1810181
   lng: -85.7996003
+? 1400 Arcade Ave following a complaint about loud music. This was reportedly the
+  second or third time police had been called to this location, Louisville, KY
+: null
 1400 Arcade Ave, Louisville, KY:
   lat: 38.2054726
   lng: -85.7841289
@@ -16119,6 +16122,10 @@
 5300 East W Ormsby Ave, Louisville, KY: null
 5300 Governor's Way in response, Louisville, KY: null
 5300 Governor's Way, Building 3, Louisville, KY: null
+? 5300 Haynes Trace, reporting a possible accident with a hang-up. The caller indicated
+  they were with their grandson and expressed concern about potential child abuse.
+  Responding units were dispatched, Louisville, KY
+: null
 5300 Layne Rd. Responding units arrived, Louisville, KY:
   lat: 38.142111
   lng: -85.6624541
