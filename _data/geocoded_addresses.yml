@@ -806,6 +806,9 @@
   lat: 38.1821435
   lng: -85.789056
 100 Whiteoak Park Rd, Louisville, KY: null
+100 Wiltshire Ave, Louisville, KY:
+  lat: 38.2521012
+  lng: -85.6563324
 100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
 100 [Street Name Missing], Louisville, KY:
@@ -4538,6 +4541,9 @@
 1500 Rowan St, Louisville, KY:
   lat: 38.259949
   lng: -85.775002
+1500 Royal Troon Ave, Louisville, KY:
+  lat: 38.235838
+  lng: -85.4818204
 1500 Rufer Ave, Louisville, KY:
   lat: 38.2362981
   lng: -85.7232684
@@ -6538,6 +6544,9 @@
 200 Mohawk Ave, Louisville, KY:
   lat: 38.1869501
   lng: -85.7585945
+200 N Lakeview Dr, Louisville, KY:
+  lat: 38.2079112
+  lng: -85.6787057
 200 Niles Hill Lane, Louisville, KY: null
 200 Nob Hill Ln, Louisville, KY:
   lat: 38.2594642
@@ -6946,6 +6955,9 @@
   from the collision. Responding units assessed the scene and managed the incident.,
   Louisville, KY
 : null
+200 West at the 72-mile marker, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 ? 200 West for a black Ford Fusion. Officers conducted the stop to investigate the
   vehicle. Further details about the reason for the stop were not immediately available.,
   Louisville, KY
@@ -8907,6 +8919,9 @@
   of a vehicle in the 2400 block of Frankfort Ave., Louisville, KY
 : lat: 38.2538627
   lng: -85.6962344
+2600 Franklin Ave, Louisville, KY:
+  lat: 38.1736725
+  lng: -85.8403585
 ? 2600 Garland Ave following a 9-1-1 hang-up call. Records indicated the caller had
   a history of hanging up, and there was a concern, Louisville, KY
 : null
@@ -13449,6 +13464,9 @@
 ? 4100 Engine Way. The resident had turned off the gas to their home and required
   help to relight the pilot lights, Louisville, KY
 : null
+4100 Fern Valley Rd at Cedar Grove Recovery, Louisville, KY:
+  lat: 38.1571885
+  lng: -85.6857729
 4100 Fern Valley Rd, Louisville, KY:
   lat: 38.1571885
   lng: -85.6857729
