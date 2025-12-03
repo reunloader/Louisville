@@ -8689,6 +8689,12 @@
 2400 West Ali, Louisville, KY:
   lat: 38.2546408
   lng: -85.7917199
+2400 West Broadway, Louisville, KY:
+  lat: 38.249256
+  lng: -85.791726
+2400 West Broadway. Responding units were dispatched, Louisville, KY:
+  lat: 38.249256
+  lng: -85.791726
 2400 West Mahama Valley, Louisville, KY: null
 ? 2400 West Mahama Valley. The patient, a 49-year-old female, was suffering from a
   significant nosebleed. After attending, Louisville, KY
@@ -10870,6 +10876,7 @@
 3100 Springfield Dr, Louisville, KY:
   lat: 38.1474972
   lng: -85.8158609
+3100 St, Louisville, KY: null
 3100 Star Hill Dr, Louisville, KY:
   lat: 38.1605786
   lng: -85.6170069
@@ -12818,6 +12825,7 @@
   of the structure., Louisville, KY
 : null
 400 East W W Muhammad Ali Blvd, Louisville, KY: null
+400 Eastern Parkway following a report of two individuals refusing, Louisville, KY: null
 400 Eastern Parkway, Louisville, KY:
   lat: 38.212862
   lng: -85.754074
@@ -16435,6 +16443,13 @@
 5500 Shorewood Dr, Louisville, KY:
   lat: 38.1460419
   lng: -85.7801836
+5500 Southern Pky, Louisville, KY:
+  lat: 38.1732308
+  lng: -85.7767834
+? 5500 Southern Pky. The vehicle's lights were off, and loud music was reportedly
+  playing, prompting officers, Louisville, KY
+: lat: 38.1732308
+  lng: -85.7767834
 5500 Sullivan Way, Louisville, KY:
   lat: 38.0942448
   lng: -85.6560955
