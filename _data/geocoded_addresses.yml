@@ -12685,6 +12685,9 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+400 East Muhammad Ali, Louisville, KY:
+  lat: 38.249878
+  lng: -85.74667
 400 East Muhammad, Louisville, KY:
   lat: 38.249878
   lng: -85.74667
@@ -12808,6 +12811,9 @@
 400 M Street, Louisville, KY:
   lat: 38.208957
   lng: -85.765053
+400 Madelle Ave, Louisville, KY:
+  lat: 38.2641692
+  lng: -85.6845242
 400 Marshall Walk. Further details regarding the nature of the report were not immediately available., Louisville, KY: null
 400 Marshall Walk. Further details, Louisville, KY:
   lat: 38.1698584
@@ -20835,6 +20841,9 @@
 900 South 5th Street, Louisville, KY:
   lat: 38.241573
   lng: -85.7608634
+900 South 6th Street, Louisville, KY:
+  lat: 38.242233
+  lng: -85.762535
 900 South 7th Street, Louisville, KY:
   lat: 38.2424725
   lng: -85.7644887
