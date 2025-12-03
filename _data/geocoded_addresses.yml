@@ -23,6 +23,9 @@
   lat: 38.3167721
   lng: -85.5616302
 04 Knoblet Drive, Louisville, KY: null
+06 Bruns Dr, Louisville, KY:
+  lat: 38.171284
+  lng: -85.8186862
 06 Springford Avenue, Louisville, KY: null
 1 Shelby Station Dr, Louisville, KY: null
 1 South St, Louisville, KY:
@@ -7827,6 +7830,9 @@
 2200 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
+2200 Carabiner Way, Louisville, KY:
+  lat: 38.2642666
+  lng: -85.434563
 2200 Cedar Brook Dr, Louisville, KY:
   lat: 38.1334661
   lng: -85.6665574
@@ -20154,6 +20160,9 @@
 8200 Laurel Grove Ct, Louisville, KY:
   lat: 38.129913
   lng: -85.6279509
+8200 National Turnpike, Louisville, KY:
+  lat: 38.1314142
+  lng: -85.7512479
 8200 Pennsylvania Ave, Louisville, KY:
   lat: 38.2579853
   lng: -85.6830198
