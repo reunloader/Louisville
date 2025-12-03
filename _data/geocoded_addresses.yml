@@ -1743,6 +1743,9 @@
   lat: 38.0969181
   lng: -85.5682201
 10000 Water Mark Drive, Louisville, KY: null
+10000 Westport Rd, Louisville, KY:
+  lat: 38.291103
+  lng: -85.564658
 ? 10000 Wingfield Rd. Occupants experienced burning eyes but declined medical attention
   and were advised to leave the building., Louisville, KY
 : null
@@ -5295,6 +5298,9 @@
 1700 S Preston St, Louisville, KY:
   lat: 38.2221054
   lng: -85.7501885
+1700 Sadie Ln, Louisville, KY:
+  lat: 38.1806477
+  lng: -85.8101697
 1700 Shady Villa Ct, Louisville, KY:
   lat: 38.1632086
   lng: -85.6804864
@@ -21334,6 +21340,9 @@
   KY
 : lat: 38.1035609
   lng: -85.6973203
+9100 Blue Lick Rd, Louisville, KY:
+  lat: 38.1176305
+  lng: -85.6898979
 9100 Brandywyne Dr, Louisville, KY:
   lat: 38.163487
   lng: -85.588224
