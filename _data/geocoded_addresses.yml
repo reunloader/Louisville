@@ -9415,6 +9415,9 @@
   lng: -85.5158122
 2800 Seventh Street due, Louisville, KY: null
 2800 Seventh Street, Louisville, KY: null
+2800 Sexton Dr, Louisville, KY:
+  lat: 38.287033
+  lng: -85.532572
 2800 Shannon Dr, Louisville, KY:
   lat: 38.2149804
   lng: -85.6576064
@@ -14056,6 +14059,13 @@
   investigated the source of the smell but did not observe any visible fire or smoke.
   The situation was assessed, Louisville, KY
 : null
+? 4400 Donerail Run Dr following a report of a 39-year-old female experiencing an
+  active seizure. The caller, a juvenile, was alone with the patient, and the doors
+  were found, Louisville, KY
+: null
+4400 Donerail Run Dr, Louisville, KY:
+  lat: 38.1835427
+  lng: -85.5464991
 4400 Down The Railroad Run Drive, Louisville, KY: null
 4400 Estate Dr, Louisville, KY:
   lat: 38.1791542
@@ -16941,6 +16951,9 @@
 600 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+600 South3rd Street, Louisville, KY:
+  lat: 38.2486074
+  lng: -85.7563848
 600 South73, Louisville, KY: null
 600 Southern Pky, Louisville, KY:
   lat: 38.1836068
@@ -21186,6 +21199,8 @@
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
+9400 Watermark Pl, Louisville, KY: null
+9400 Watermark Pl. The patient was waiting at the front entrance, Louisville, KY: null
 9400 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
