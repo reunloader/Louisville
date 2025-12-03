@@ -11343,6 +11343,9 @@
   lng: -85.5943247
 3400 High Climb, Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
+3400 Kramers Ln, Louisville, KY:
+  lat: 38.202417
+  lng: -85.840055
 3400 LaFonte Drive, Louisville, KY: null
 3400 Larkwood Ave, Louisville, KY:
   lat: 38.257727
@@ -19203,6 +19206,7 @@
 7300 Christian Way, Louisville, KY:
   lat: 38.2471058
   lng: -85.6070451
+7300 Crescent Royal Wood, Louisville, KY: null
 7300 E W Market St, Louisville, KY: null
 7300 Fairhill Dr, Louisville, KY:
   lat: 38.2691938
