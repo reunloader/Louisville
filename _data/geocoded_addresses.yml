@@ -3311,6 +3311,12 @@
 : null
 12900 Easter Railroad, Louisville, KY: null
 12900 Easter Railroad. A sergeant was requested, Louisville, KY: null
+12900 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
+12900 Shelbyville Rd. One unit reported being, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 12900 Willow Forest Dr, Louisville, KY:
   lat: 38.302114
   lng: -85.514676
@@ -19759,6 +19765,8 @@
 800 Charles St, Louisville, KY:
   lat: 38.2296897
   lng: -85.734991
+800 Charlie, 800 block of Adam, and 800 block of Baker, Louisville, KY: null
+800 Charlie, Adam, and Baker. Upon their arrival, officers found the building, Louisville, KY: null
 800 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
