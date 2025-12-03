@@ -8429,6 +8429,7 @@
   lat: 38.2579999
   lng: -85.7015076
 2400 Bustown Road, Louisville, KY: null
+2400 Chamberlain Cross and Drive, Louisville, KY: null
 ? 2400 Concord Dr following a concerning report. The call indicated a possible stabbing
   involving a 15-year-old female and her mother. Information received suggested a
   history of non-credible calls from the residence. Police and EMS units arrived,
@@ -8523,6 +8524,7 @@
 2400 Lower Hunters Trace, Louisville, KY:
   lat: 38.1604042
   lng: -85.8554373
+2400 Lyme-Killalane, Louisville, KY: null
 2400 Marine St, Louisville, KY: null
 2400 Marymount Ct, Louisville, KY:
   lat: 38.2850585
@@ -17933,6 +17935,9 @@
 6800 Stone Valley Dr, Louisville, KY:
   lat: 38.0817663
   lng: -85.8845015
+6800 Triangle Dr, Louisville, KY:
+  lat: 38.1631276
+  lng: -85.8009872
 6800 Yuma Way, Louisville, KY:
   lat: 38.1176974
   lng: -85.885696
