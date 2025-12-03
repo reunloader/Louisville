@@ -16516,6 +16516,9 @@
 5800 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1029536
   lng: -85.6537319
+5800 Farrington Dr, Louisville, KY:
+  lat: 38.1693957
+  lng: -85.832772
 5800 Granwood Ln, Louisville, KY:
   lat: 38.154547
   lng: -85.8601546
@@ -20364,6 +20367,7 @@
 8500 Tolls Ln, Louisville, KY:
   lat: 38.1271732
   lng: -85.7578555
+8500 West Alley, Louisville, KY: null
 85000 Bost Ln, Louisville, KY:
   lat: 38.1271262
   lng: -85.6956247
@@ -21424,6 +21428,9 @@
   lat: 38.1074176
   lng: -85.6472948
 9600 Millstone Dr, Louisville, KY: null
+9600 South 4th Street, Louisville, KY:
+  lat: 38.2205383
+  lng: -85.762938
 9600 Starmont Rd, Louisville, KY: null
 9600 Yarmouth Ct, Louisville, KY:
   lat: 38.111461
@@ -21666,6 +21673,7 @@ Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 Bardstown Rd and Sherwood Ave, Louisville, KY: null
 Bardstown Rd and Stevens Ave, Louisville, KY: null
 Bardstown Rd and Taylorsville Rd, Louisville, KY: null
+Bardstown Rd and Utah Ave, Louisville, KY: null
 Bargetown Road and Baxter Ave, Louisville, KY: null
 Bargetown Road and Heather Ln, Louisville, KY: null
 Barksdale Lane and Gardiner Ln, Louisville, KY: null
