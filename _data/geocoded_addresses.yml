@@ -1712,6 +1712,9 @@
   lat: 38.1111633
   lng: -85.8649118
 10000 Donna E, Louisville, KY: null
+10000 Dorton Dr, Louisville, KY:
+  lat: 38.0958414
+  lng: -85.8534439
 ? 10000 Oak Bridge Cir to assist a 66-year-old female. The patient was reportedly
   suffering from shortness of breath and weakness on her left side., Louisville, KY
 : null
@@ -3908,6 +3911,9 @@
   lat: 38.1791818
   lng: -85.7866238
 1400 Boca Ridge, Louisville, KY: null
+1400 Boulevard, Louisville, KY:
+  lat: 38.1960982
+  lng: -85.7858118
 1400 Brown Plain, Louisville, KY: null
 1400 Browns Ln, Louisville, KY:
   lat: 38.2342628
@@ -8284,6 +8290,9 @@
 2300 Cedar St, Louisville, KY:
   lat: 38.2559502
   lng: -85.7891852
+2300 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 2300 Clarkwood Rd, Louisville, KY:
   lat: 38.286387
   lng: -85.658244
@@ -10425,6 +10434,9 @@
 300 Winkler, Louisville, KY:
   lat: 38.210081
   lng: -85.763149
+300 Woodbine St, Louisville, KY:
+  lat: 38.229157
+  lng: -85.752386
 300 York St, Louisville, KY:
   lat: 38.243983
   lng: -85.757233
@@ -15694,6 +15706,9 @@
 500 Tazwell Dr. Responding units were alerted to the potential, Louisville, KY:
   lat: 38.3071019
   lng: -85.5326085
+500 Triton Park Blvd, Louisville, KY:
+  lat: 38.2794188
+  lng: -85.5033457
 500 Upland Rd, Louisville, KY:
   lat: 38.2482132
   lng: -85.695989
