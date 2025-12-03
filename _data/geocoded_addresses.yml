@@ -1454,6 +1454,9 @@
 ? 1000 Prairie Drive following reports of a significant altercation. Witnesses indicated
   a large fight was occurring, which had escalated, Louisville, KY
 : null
+1000 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 1000 Queen Ave, Louisville, KY:
   lat: 38.201788
   lng: -85.777512
@@ -16052,6 +16055,7 @@
 5200 Cynthia Dr, Louisville, KY:
   lat: 38.170965
   lng: -85.574905
+5200 Deadless Park, Louisville, KY: null
 5200 Dixie Hwy, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
@@ -17525,6 +17529,9 @@
 6200 Southside Dr, Louisville, KY:
   lat: 38.1660112
   lng: -85.7650614
+6200 Southwestern Pky, Louisville, KY:
+  lat: 38.2477827
+  lng: -85.829606
 6200 St, Louisville, KY: null
 6200 St. St Bernard Ct, Louisville, KY: null
 6200 Valley College Dr, Louisville, KY:
@@ -20491,6 +20498,12 @@
 8400 Gainsborough Dr, Louisville, KY:
   lat: 38.134869
   lng: -85.604418
+8400 Glendale Trace, Louisville, KY:
+  lat: 38.14842
+  lng: -85.60612
+8400 Glendale Trace. One officer indicated they would be on scene, Louisville, KY:
+  lat: 38.14842
+  lng: -85.60612
 8400 Independence School Rd, Louisville, KY:
   lat: 38.104545
   lng: -85.607266
@@ -21719,6 +21732,7 @@
   lat: 38.1086595
   lng: -85.7004356
 9700 U, Louisville, KY: null
+9700 Vaughan Almond Corporation, Louisville, KY: null
 9700 Westport Rd, Louisville, KY:
   lat: 38.287983
   lng: -85.571271
