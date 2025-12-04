@@ -138,6 +138,7 @@
 100 Crescent Ave. Responding units were dispatched, Louisville, KY:
   lat: 38.254922
   lng: -85.686895
+100 Crest Street, Louisville, KY: null
 100 Crop St, near Croft Ct, Louisville, KY:
   lat: 38.261105
   lng: -85.791325
@@ -2526,6 +2527,7 @@
 11300 Main St. The alarm was reportedly triggered at a building identified as Teller 3. Details, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
+11300 Old La Grange Rd, Louisville, KY: null
 11300 Pheasant Hill Cir, Louisville, KY:
   lat: 38.0867241
   lng: -85.6461039
@@ -3533,6 +3535,7 @@
 1300 I 64 West, between South 13th and South 15th Streets,, Louisville, KY: null
 1300 I 65 South, Louisville, KY: null
 1300 I-65 South, Louisville, KY: null
+1300 Kentucky Mills Dr, Louisville, KY: null
 1300 Kiefer Rd, Louisville, KY: null
 1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
 1300 Lillian Ave, Louisville, KY:
@@ -11749,6 +11752,9 @@
 3500 Georgetown Cir. The report indicated a male and female were arguing, with one party wanting the other, Louisville, KY:
   lat: 38.1957374
   lng: -85.7950925
+3500 Henry Ave, Louisville, KY:
+  lat: 38.195156
+  lng: -85.781946
 3500 Herb Ln, Louisville, KY:
   lat: 38.2166005
   lng: -85.6539282
