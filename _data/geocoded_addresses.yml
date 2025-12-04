@@ -4967,6 +4967,7 @@
 1600 Ehrler Dr. Responders arrived on scene, Louisville, KY:
   lat: 38.2118351
   lng: -85.7160786
+1600 Ellwood Ave due to concerns, Louisville, KY: null
 1600 Ellwood Ave, Louisville, KY:
   lat: 38.2367052
   lng: -85.7213027
@@ -11459,6 +11460,10 @@
 3200 Stratford Ave, Louisville, KY:
   lat: 38.213999
   lng: -85.664383
+? 3200 Taylor Blvd following a report of shoplifting. A male suspect, described as
+  approximately 30 years old and wearing dark clothing, was allegedly refusing, Louisville,
+  KY
+: null
 ? 3200 Taylor Blvd to attend to a possible overdose. EMS personnel were on scene to
   provide necessary medical assistance., Louisville, KY
 : null
@@ -18241,6 +18246,12 @@
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
   lng: -85.628487
+? 6500 Gabriel Dr to assist a 44-year-old female experiencing a medical emergency.
+  The patient was reportedly yelling, Louisville, KY
+: null
+6500 Gabriel Dr, Louisville, KY:
+  lat: 38.158398
+  lng: -85.853737
 6500 Gadwall Way, Louisville, KY:
   lat: 38.1748382
   lng: -85.6293822
@@ -22514,6 +22525,7 @@ Bargetown Road and Baxter Ave, Louisville, KY: null
 Bargetown Road and Heather Ln, Louisville, KY: null
 Barksdale Lane and Gardiner Ln, Louisville, KY: null
 Barksdown Road and Gardiner Ln, Louisville, KY: null
+Barret Ave and Rueffer Street, Louisville, KY: null
 Barrett Ln and Christie Ave, Louisville, KY: null
 Barshtown Road and Eastern Parkway, Louisville, KY: null
 Bartham Road and Dorton Dr, Louisville, KY: null
@@ -22693,6 +22705,7 @@ Fairground Rd and Barchetown Road, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
 Featherbell Blvd and Jimson St, Louisville, KY: null
+Fern Creek Rd and Eldorado Ave, Louisville, KY: null
 Fern Valley Rd and Cherison Boulevard, Louisville, KY: null
 Fern Valley Rd and Jefferson Blvd, Louisville, KY: null
 Fern Valley Rd and Osage Ave, Louisville, KY: null
