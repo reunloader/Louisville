@@ -4798,6 +4798,9 @@
 153 Rocky Rd, Louisville, KY:
   lat: 38.0822822
   lng: -85.6364072
+15300 Dixie Hwy, Louisville, KY:
+  lat: 38.0367818
+  lng: -85.9096108
 15300 Phyllis Ave, Louisville, KY:
   lat: 38.2053882
   lng: -85.7811774
@@ -13039,6 +13042,9 @@
 : lat: 38.2524
   lng: -85.744583
 400 East Jefferson Way, Louisville, KY: null
+400 East Jefferson, Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 400 East Jersey Street, Louisville, KY: null
 400 East Jersey Street,, Louisville, KY: null
 400 East Kentucky Drive, Louisville, KY: null
@@ -14889,6 +14895,7 @@
   the call., Louisville, KY
 : null
 4500 Swaco Lane, Louisville, KY: null
+4500 Unsealed, Louisville, KY: null
 4500 Waco Ct, Louisville, KY:
   lat: 38.1875744
   lng: -85.8309235
@@ -19237,6 +19244,9 @@
 7000 Global Dr, Louisville, KY:
   lat: 38.1386253
   lng: -85.8889456
+7000 Green Manor Dr, Louisville, KY:
+  lat: 38.1467777
+  lng: -85.6300339
 7000 Leisure Landing Court 4:00 a, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
 7000 Masonic Home Dr, Louisville, KY:
