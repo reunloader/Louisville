@@ -8147,6 +8147,8 @@
 2200 Date St. It was clarified that the patient's niece had called, Louisville, KY:
   lat: 38.2429123
   lng: -85.7894705
+2200 Deer Path Cir, Louisville, KY: null
+2200 Deer Path Cir. Additional units were assigned, Louisville, KY: null
 2200 Dixie Hwy, Louisville, KY:
   lat: 38.2185305
   lng: -85.7949258
@@ -16087,6 +16089,9 @@
   lat: 38.2007912
   lng: -85.8304039
 500 Wayne Wright, Louisville, KY: null
+500 West Market, Louisville, KY:
+  lat: 38.2552875
+  lng: -85.7588431
 500 West, Louisville, KY:
   lat: 38.2350131
   lng: -85.762185
