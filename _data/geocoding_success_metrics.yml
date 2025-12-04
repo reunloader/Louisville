@@ -24959,4 +24959,20 @@ history:
   batch_success_rate: 60.0
   batch_new_addresses: 5
   batch_new_successes: 3
-last_updated: '2025-12-04T14:37:57.756324'
+- timestamp: '2025-12-04T14:48:56.392296'
+  total_addresses: 9557
+  successful: 4770
+  failed: 4787
+  success_rate: 49.91
+  failure_rate: 50.09
+  failure_patterns:
+    Contains location qualifiers (near/at): 1693
+    Incomplete/vague address: 951
+    Intersection format: 838
+    Other/Unknown: 892
+    Police phonetic codes: 4
+    Contains extra sentences/context: 409
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-04T14:48:56.392436'
