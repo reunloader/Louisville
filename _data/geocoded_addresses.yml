@@ -10316,6 +10316,11 @@
 300 Joe Conway Cir, Louisville, KY:
   lat: 38.2540355
   lng: -85.6657009
+300 Joe Mail, Louisville, KY: null
+? 300 Joe Mail. A male patient was experiencing chest pain, reportedly after using
+  cocaine. EMS provided initial care and transported the individual to the hospital,
+  Louisville, KY
+: null
 300 Keaton Avenue, Louisville, KY: null
 300 Kenilworth Rd, Louisville, KY:
   lat: 38.259748
@@ -15280,6 +15285,9 @@
   Louisville, KY
 : null
 4800 Preston Hwy, Louisville, KY:
+  lat: 38.178026
+  lng: -85.7169632
+4800 Preston Hwy. Officers were able, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
 4800 Preston Hwy. The vehicle's license plate had reportedly been removed. Police units were working, Louisville, KY:
