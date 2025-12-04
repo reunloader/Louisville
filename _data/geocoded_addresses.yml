@@ -448,6 +448,9 @@
 100 North Hirshhorn Parkway, Louisville, KY: null
 100 North James Street in Sycamore, Louisville, KY: null
 100 North James Street, Louisville, KY: null
+100 North Shawnee Terrace, Louisville, KY:
+  lat: 38.2662037
+  lng: -85.8218263
 100 North Waterston Trail near Frank Ave, Louisville, KY:
   lat: 38.1733013
   lng: -85.706716
@@ -1490,6 +1493,10 @@
 1000 S Clay St, Louisville, KY:
   lat: 38.237038
   lng: -85.742991
+? 1000 S Floyd St following a report of an individual lying on the ground near a building
+  on Roland St. The person, described as a male in a black hoodie and covered by a
+  blanket, was found, Louisville, KY
+: null
 1000 S Floyd St, Louisville, KY:
   lat: 38.237882
   lng: -85.7515516
@@ -4654,6 +4661,9 @@
 1500 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+1500 Oleanda Ave, Louisville, KY:
+  lat: 38.2053428
+  lng: -85.7867437
 1500 Olenda Ave, Louisville, KY: null
 1500 Ormsby Ln, Louisville, KY: null
 1500 Paul Tuckett Court, Louisville, KY: null
@@ -14007,6 +14017,9 @@
 4100 Landing Way, Louisville, KY:
   lat: 38.1337692
   lng: -85.757882
+4100 Larkwood Ave, Louisville, KY:
+  lat: 38.258937
+  lng: -85.8185
 4100 Leave, Louisville, KY: null
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
@@ -22547,6 +22560,7 @@ Fern Valley Rd and Popolo Road, Louisville, KY: null
 Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
 First One Lane and North Sea Lane, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
+Floyd St and Roland St, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
 Foxboro Dr and Sterling Springs Rd, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
