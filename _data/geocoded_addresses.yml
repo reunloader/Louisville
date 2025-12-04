@@ -13407,6 +13407,14 @@
   lat: 38.2542376
   lng: -85.759407
 400 Savage Dr, Louisville, KY: null
+400 Shelby Parkway, Louisville, KY:
+  lat: 38.232556
+  lng: -85.748916
+? 400 Shelby Parkway. Upon inspection, the vehicle displayed two temporary license
+  plates, neither of which were flagged as stolen. Further investigation was initiated,
+  Louisville, KY
+: lat: 38.232556
+  lng: -85.748916
 400 Shelby River Road, Louisville, KY: null
 ? 400 Shelby River Road. Specific details about the nature of the activity were not
   immediately available, but police units were dispatched, Louisville, KY
@@ -13822,6 +13830,12 @@
 4000 Mapleton Avenue, Louisville, KY:
   lat: 38.186389
   lng: -85.779155
+4000 Norbourne Blvd, Louisville, KY:
+  lat: 38.2425193
+  lng: -85.6544619
+4000 Norbourne Blvd. This incident was noted as potentially connected, Louisville, KY:
+  lat: 38.2425193
+  lng: -85.6544619
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
@@ -22548,6 +22562,7 @@ Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Frankfort Ave, Louisville, KY: null
 Brownsboro Rd and Haldeman Ave, Louisville, KY: null
 Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
+Brownsboro Rd and Lime Rd, Louisville, KY: null
 Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
 Brownsboro Rd and Simcoe Ln, Louisville, KY: null
 Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
