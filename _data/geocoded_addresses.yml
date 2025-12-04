@@ -6350,6 +6350,9 @@
 200 Bassett Ave., Louisville, KY:
   lat: 38.2391565
   lng: -85.7113038
+200 Bauer Ave near South Second Street, Louisville, KY:
+  lat: 38.2519643
+  lng: -85.6612286
 200 Beaver St due, Louisville, KY: null
 200 Beaver St, Louisville, KY:
   lat: 38.185675
@@ -6812,6 +6815,9 @@
 200 North 38th Street, Louisville, KY:
   lat: 38.2652828
   lng: -85.8116457
+200 North Arbor Park near South Arbor Park, Louisville, KY:
+  lat: 38.1642831
+  lng: -85.7670724
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
 200 North Delton Road, Louisville, KY: null
@@ -6899,6 +6905,9 @@
   lat: 38.2382572
   lng: -85.7088272
 200 Rippsville Road, Louisville, KY: null
+200 Rockcrest Way near Crop St, Louisville, KY:
+  lat: 38.236253
+  lng: -85.452846
 200 Rockford Ln, Louisville, KY:
   lat: 38.1833115
   lng: -85.8539547
@@ -7061,6 +7070,9 @@
 200 Webster St. W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+200 West Breckenridge near Third Street, Louisville, KY:
+  lat: 38.2512301
+  lng: -85.75592
 200 West Broadway at Poplar Level, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
@@ -10284,6 +10296,9 @@
 300 E W Lee St. Further details, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
+300 E W Market St near South Preston, Louisville, KY:
+  lat: 38.2586626
+  lng: -85.7877091
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -13257,6 +13272,9 @@
   lng: -85.762215
 400 Knock Shower Place. However, responding units were able, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
+400 Landis Lakes Ct near Crop St, Louisville, KY:
+  lat: 38.2348065
+  lng: -85.4928995
 400 Landis Lakes Ct who was experiencing chest pain. EMS personnel were on scene, Louisville, KY: null
 400 Landis Lakes Ct, Louisville, KY:
   lat: 38.2348065
@@ -13529,6 +13547,9 @@
 400 South Second Street near W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+400 South Second Street near West Liberty, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 400 South St, Louisville, KY:
   lat: 38.219248
   lng: -85.776587
