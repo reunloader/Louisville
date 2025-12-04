@@ -10479,6 +10479,7 @@
 300 North 35th Street, Louisville, KY:
   lat: 38.2651038
   lng: -85.8081363
+300 North 35th Street, between Alford and Duncan Streets,, Louisville, KY: null
 300 North 36th Street, Louisville, KY:
   lat: 38.2652391
   lng: -85.8095068
@@ -13669,6 +13670,7 @@
 400 W Market St, Louisville, KY:
   lat: 38.2549259
   lng: -85.7571981
+400 W Market St, between Wyatt-Tarrant and Combs Streets,, Louisville, KY: null
 400 W Oak St, Louisville, KY:
   lat: 38.234946
   lng: -85.760492
@@ -16001,6 +16003,9 @@
   lat: 38.2345558
   lng: -85.7474259
 500 School Way, Louisville, KY:
+  lat: 38.172603
+  lng: -85.772021
+500 School Way, near Southern Pky and Forum Ave,, Louisville, KY:
   lat: 38.172603
   lng: -85.772021
 500 Selma Ave, Louisville, KY: null
@@ -19199,6 +19204,9 @@
 : null
 700 S Shelby St, Louisville, KY: null
 700 S Shelby St, between Jacob and Fisner streets. Emergency medical services were dispatched, Louisville, KY: null
+700 S Shelby St, near Lampton St and Roselane St. Of concern was the fact that food had been left cooking, Louisville, KY:
+  lat: 38.244568
+  lng: -85.739634
 700 Shiloh Trail, Louisville, KY: null
 700 South 11th Street, Louisville, KY:
   lat: 38.247204
@@ -22805,6 +22813,7 @@ La Grange Rd and Oliver St, Louisville, KY: null
 Labor Ln and Level Street, Louisville, KY: null
 Ladd Ave and Laurel St, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
+Lampton St and Roselane St, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
@@ -23008,6 +23017,8 @@ Southbrook Street and East Liberty Street, Louisville, KY: null
 Southern Ave and Woodland Ave, Louisville, KY: null
 Southern Heights Ave and Woodruff Ave, Louisville, KY: null
 Southern Heights Avenue and Wolville Avenue, Louisville, KY: null
+Southern Pky and Forum Ave, Louisville, KY: null
+Southern Pky and Inforham Avenue, Louisville, KY: null
 Southern Pky and Oakdale Ave, Louisville, KY:
   lat: 38.1924908
   lng: -85.76701
