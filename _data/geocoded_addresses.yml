@@ -1955,6 +1955,7 @@
   lng: -85.761711
 10600 Taylor-Hill Rd, Louisville, KY: null
 10600 U, Louisville, KY: null
+10600 Waterson Trail, Louisville, KY: null
 10600 Wemberley Hill Blvd, Louisville, KY:
   lat: 38.2916541
   lng: -85.5548359
@@ -17165,6 +17166,9 @@
 5900 Bardstown Rd, Louisville, KY:
   lat: 38.1609119
   lng: -85.5937148
+5900 Bradbe Farm Ln, Louisville, KY:
+  lat: 38.1511158
+  lng: -85.4660018
 5900 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1028594
   lng: -85.6520742
