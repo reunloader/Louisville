@@ -7632,6 +7632,11 @@
   lat: 38.264752
   lng: -85.782257
 2000 St, Louisville, KY: null
+? 2000 St. St Anthony Gardens Dr. Responding units provided support to EMS personnel
+  at the scene. The nature of the medical assistance was not specified, but the call
+  was coded, Louisville, KY
+: lat: 38.2570741
+  lng: -85.7584952
 2000 TSO, Louisville, KY: null
 2000 Terril Ln, Louisville, KY:
   lat: 38.204566
@@ -13868,6 +13873,10 @@
   lat: 38.192235
   lng: -85.647479
 4100 Bardstown Rd. The suspect was described as a male wearing a black leather jacket., Louisville, KY: null
+4100 Bells Ln due, Louisville, KY: null
+4100 Bells Ln, Louisville, KY:
+  lat: 38.2228504
+  lng: -85.8285271
 4100 Boulevard, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
@@ -19739,6 +19748,10 @@
 7400 Payette Road, Louisville, KY: null
 7400 Satchar Drive, Louisville, KY: null
 7400 South3rd St Rene Rd, Louisville, KY: null
+7400 St, Louisville, KY:
+  lat: 38.1458999
+  lng: -85.7760082
+7400 St. St Andrews Church Rd. This was a non-emergency call, and units were able, Louisville, KY: null
 7400 Stablecrest, Louisville, KY: null
 ? 7400 Stablecrest. Initial observations from the exterior did not show any visible
   flames. A drone was later utilized, which observed individuals on a "CharlieSat."
@@ -22780,6 +22793,8 @@ Silver Springs Dr and Raintree Dr, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
 Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 Smith Ln and Peabody Ln, Louisville, KY: null
+Snow Street Road and Pond Station Rd, Louisville, KY: null
+Snow Street and Pond Station Rd, Louisville, KY: null
 Snyder Street and Stone St, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
