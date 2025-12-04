@@ -7965,6 +7965,10 @@
 2100 Winston Ave, Louisville, KY:
   lat: 38.2170111
   lng: -85.6825559
+2100 [Street Name Missing] as it was departing the area, Louisville, KY: null
+2100 [Street Name Missing], Louisville, KY:
+  lat: 38.1757082
+  lng: -85.8313913
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
   lng: -85.7840605
