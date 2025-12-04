@@ -1159,6 +1159,8 @@
 1000 Fenley Ave, Louisville, KY:
   lat: 38.2564292
   lng: -85.6723688
+1000 Floyd and Farmington, Louisville, KY: null
+1000 Floyd and Farmington. Coordination with dispatch was necessary to clarify details and arrange, Louisville, KY: null
 1000 Goss Ave, Louisville, KY:
   lat: 38.2276371
   lng: -85.7364243
@@ -5248,6 +5250,9 @@
   lat: 38.221804
   lng: -85.788435
 1700 Doomsdale Street, Louisville, KY: null
+1700 E Main St, Louisville, KY:
+  lat: 38.2534469
+  lng: -85.7267533
 1700 Frankfort Ave, Louisville, KY:
   lat: 38.257593
   lng: -85.719367
@@ -22710,6 +22715,7 @@ Montrose Ave and Waller Ln, Louisville, KY: null
 Moredale Rd and Westport Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
+Moser Rd and Shelbyville Rd, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
 Murphy Ln and Halifax Dr, Louisville, KY: null
 Murray Ln and Raggard Rd, Louisville, KY: null
@@ -22809,6 +22815,7 @@ Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
 Second Street and Kentucky Ave, Louisville, KY: null
 Second Street and Main St, Louisville, KY: null
+Seneca Blvd and Taylorsville Rd, Louisville, KY: null
 Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sharp Ave and Lindbergh Dr, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
