@@ -149,6 +149,7 @@
   lat: 38.2066421
   lng: -85.6738206
 100 David, and it was subsequently cleared, Louisville, KY: null
+100 Dixie Hwy and the 100 block of Preston Hwy. Further details, Louisville, KY: null
 100 Double K, Louisville, KY: null
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
@@ -6801,6 +6802,9 @@
   lng: -85.8723473
 200 Pennsylvania Ave in connection with the call, Louisville, KY: null
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
+200 Ramp, Louisville, KY:
+  lat: 38.2621141
+  lng: -85.7378387
 200 Ridgeway, Louisville, KY:
   lat: 38.2382572
   lng: -85.7088272
@@ -7287,6 +7291,7 @@
   vehicle crashed into a ditch past the 23-mile marker. Multiple police divisions
   were involved in monitoring or responding, Louisville, KY
 : null
+200 the I-200 block of Ramp. The reason, Louisville, KY: null
 ? 200 the Pop-a-Level Road exit ramp. This activity was initially noted as a potential
   traffic stop or other police-related incident. The units cleared the scene and returned,
   Louisville, KY
@@ -7723,6 +7728,9 @@
 2100 Congress St, Louisville, KY:
   lat: 38.257593
   lng: -85.785193
+2100 Crums Ln. The license plate was unreadable. Police units were dispatched, Louisville, KY:
+  lat: 38.198204
+  lng: -85.8349572
 2100 Digital Bank, Louisville, KY: null
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
@@ -10909,6 +10917,9 @@
 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched, Louisville, KY:
   lat: 38.2754725
   lng: -85.7973888
+3100 Northland Dr. Police units were dispatched, Louisville, KY:
+  lat: 38.196879
+  lng: -85.836524
 3100 Pamela Way, Louisville, KY:
   lat: 38.2162658
   lng: -85.6194547
