@@ -35,6 +35,9 @@
 1 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+10 Audubon Plaza Dr at Little Sisters of the Poor, Louisville, KY:
+  lat: 38.2143091
+  lng: -85.7225304
 10 Mary St, Louisville, KY:
   lat: 38.2344233
   lng: -85.7405196
@@ -4795,6 +4798,9 @@
 1500 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+1500 Story Ave near Frankfort Ave and the I-64 ramp, Louisville, KY:
+  lat: 38.2572148
+  lng: -85.7245684
 ? 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
@@ -4894,6 +4900,9 @@
 1600 Arlington Ave, Louisville, KY:
   lat: 38.25511
   lng: -85.718685
+1600 Arthur St at the Arthur St Hotel, Louisville, KY:
+  lat: 38.223421
+  lng: -85.751404
 1600 Arthur St, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
@@ -9973,6 +9982,9 @@
 2900 Bardstown Rd, Louisville, KY:
   lat: 38.2161315
   lng: -85.6764774
+2900 Berkin Ranch Lane at the Speedway, Louisville, KY:
+  lat: 38.1576618
+  lng: -85.8334451
 2900 Blackbarktown Road, Louisville, KY: null
 2900 Bon Air Ave, Louisville, KY:
   lat: 38.221389
@@ -15369,6 +15381,7 @@
   were dispatched, Louisville, KY
 : lat: 38.1794745
   lng: -85.6735927
+4700 East Minslick Road, Louisville, KY: null
 4700 Flushing Way, Louisville, KY:
   lat: 38.099864
   lng: -85.849893
