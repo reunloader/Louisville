@@ -9388,6 +9388,9 @@
 2600 West Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
+2600 West Broadway, near Crosser Street and 27th and 26th streets, Louisville, KY:
+  lat: 38.2489909
+  lng: -85.7951833
 ? 2600 West Broadway, specifically at the front door of the Laundry Connection of
   Kentucky. Responding units checked the premises and determined the area to be secure.,
   Louisville, KY
@@ -13238,6 +13241,7 @@
   lng: -85.762215
 400 Knock Shower Place. However, responding units were able, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
+400 Landis Lakes Ct who was experiencing chest pain. EMS personnel were on scene, Louisville, KY: null
 400 Landis Lakes Ct, Louisville, KY:
   lat: 38.2348065
   lng: -85.4928995
@@ -18707,6 +18711,7 @@
 700 Brent St. Responding units investigated the situation, which was later determined, Louisville, KY:
   lat: 38.243692
   lng: -85.735383
+700 Brightwood Pl, Louisville, KY: null
 700 Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
@@ -21126,7 +21131,11 @@
   Louisville, KY
 : null
 8700 Nottingham Parkway after an elderly gentleman was found on the floor. Queen 46 responded, Louisville, KY: null
+8700 Old Bardstown Rd due, Louisville, KY: null
 8700 Old Bardstown Rd near Fairmount Rd, Louisville, KY:
+  lat: 38.1188827
+  lng: -85.5730054
+8700 Old Bardstown Rd, Louisville, KY:
   lat: 38.1188827
   lng: -85.5730054
 8700 Timor-Londrava near Galway and Ponsolui, Louisville, KY: null
