@@ -2105,6 +2105,7 @@
 1100 Eastern Parkway, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
+1100 Eastern Parkway, across from Castleview Dr and Poplar Parkway, Louisville, KY: null
 ? 1100 Eastern Pky for a report of a combative patient. The individual, described
   as a female with a history of schizophrenia, was reportedly agitated and striking
   staff., Louisville, KY
@@ -15544,6 +15545,9 @@
 500 Brandon Rd, near Jarvis Way, Louisville, KY:
   lat: 38.267296
   lng: -85.685061
+500 Brandon Rd, near Ridgewood Rd, Louisville, KY:
+  lat: 38.267296
+  lng: -85.685061
 500 Brentwood Ave near South 5th Street, Louisville, KY: null
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
@@ -22328,6 +22332,7 @@ Cannons Ln and Old Cannons Ln, Louisville, KY: null
 Canterbury Dr and Ravinia Ave, Louisville, KY: null
 Caple Ave and Manslake Road, Louisville, KY: null
 Castlebrook Dr and Hollow Oaks Dr, Louisville, KY: null
+Castleview Dr and Poplar Parkway, Louisville, KY: null
 Castlewood Ave and Eastern Parkway, Louisville, KY: null
 Catherine Street and South Hancock Street, Louisville, KY: null
 Cedar Creek Rd and Barchshund Road, Louisville, KY: null
