@@ -1799,6 +1799,7 @@
 10100 Old Dixie Hwy. Further details, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10100 Timberwood Cir, Louisville, KY: null
 10200 Esom Road, Louisville, KY: null
 10200 Eve Adam Dr, Louisville, KY:
   lat: 38.1056407
@@ -2629,6 +2630,9 @@
 11700 Dixie Hwy, near the intersection of East Pharrell Road and Flowervale Ln, Louisville, KY:
   lat: 38.0852467
   lng: -85.8810103
+11700 English Meadow Dr, Louisville, KY:
+  lat: 38.0870756
+  lng: -85.6014982
 11700 Leman Dr, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
@@ -7860,6 +7864,9 @@
 2100 Pleasure Walk Cir, Louisville, KY:
   lat: 38.1420312
   lng: -85.8676603
+2100 Poplar Level Rd, Louisville, KY:
+  lat: 38.2157433
+  lng: -85.7249572
 2100 Portland Ave, Louisville, KY:
   lat: 38.2682365
   lng: -85.783177
@@ -20968,6 +20975,9 @@
   lat: 38.086445
   lng: -85.603933
 8900 Bobrader Ct, Louisville, KY: null
+8900 Cedar Creek Rd, Louisville, KY:
+  lat: 38.1182448
+  lng: -85.6034017
 ? 8900 Covey Meadow Pl following reports of a 30-year-old female experiencing a severe
   mental breakdown. The individual was reportedly harming herself by punching walls
   and her own face. The reporting party, who was waiting at Oak Grove Church on Dixon
