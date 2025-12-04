@@ -6372,6 +6372,9 @@
 200 Browns Ln, Louisville, KY:
   lat: 38.1452129
   lng: -85.8434857
+200 Brownsboro Rd, Louisville, KY:
+  lat: 38.2661941
+  lng: -85.6585379
 200 Cecil Ave, Louisville, KY:
   lat: 38.262957
   lng: -85.81776
@@ -6626,6 +6629,9 @@
 : lat: 38.1861148
   lng: -85.7582215
 200 East. An ambulance was dispatched, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East. Police units were dispatched, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East. Police units were observed in the vicinity, working, Louisville, KY:
@@ -10479,6 +10485,15 @@
   lng: -85.69278
 300 North35th Street, Louisville, KY: null
 300 North36th Street, Louisville, KY: null
+300 North38th Street, Louisville, KY:
+  lat: 38.2669665
+  lng: -85.8114421
+300 North38th Street. Police units were dispatched, Louisville, KY:
+  lat: 38.2669665
+  lng: -85.8114421
+300 North38th Street. Police units were sent, Louisville, KY:
+  lat: 38.2669665
+  lng: -85.8114421
 300 Old Dixie Hwy, investigating the source of the CO alarms, Louisville, KY: null
 300 Old Dixie Hwy, investigating the source of the CO alarms., Louisville, KY: null
 300 Oread Rd, Louisville, KY: null
@@ -16903,6 +16918,15 @@
 5600 Baird St, Louisville, KY:
   lat: 38.2644959
   lng: -85.7785887
+5600 Bardstown Rd, Louisville, KY:
+  lat: 38.1642573
+  lng: -85.5986147
+? 5600 Bardstown Rd. A gray-blue minivan was observed leaving the scene and heading
+  south on Bardstown Rd. The suspect was described as a younger Hispanic or white
+  male. Police units responded to investigate the collision and search, Louisville,
+  KY
+: lat: 38.1642573
+  lng: -85.5986147
 5600 Brokers Tip Ln, Louisville, KY:
   lat: 38.1205947
   lng: -85.8738843
@@ -21643,6 +21667,9 @@
   lng: -85.817102
 900 South3rd Street due, Louisville, KY: null
 900 South3rd Street, Louisville, KY:
+  lat: 38.2414201
+  lng: -85.7577026
+900 South3rd Street. Multiple police units were dispatched, Louisville, KY:
   lat: 38.2414201
   lng: -85.7577026
 900 Southbrook Street, Louisville, KY: null
