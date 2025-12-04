@@ -3676,6 +3676,9 @@
 : lat: 38.2331073
   lng: -85.7731685
 1300 South 13th Street and West Broadway, Louisville, KY: null
+1300 South 20th Street near St, Louisville, KY:
+  lat: 38.234707
+  lng: -85.789281
 1300 South 20th Street, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
@@ -12903,6 +12906,9 @@
 3900 West Broadway, Louisville, KY:
   lat: 38.2498353
   lng: -85.8167762
+3900 West Muhammad Ali near 39th Street, Louisville, KY:
+  lat: 38.2573446
+  lng: -85.8151884
 3900 West Muhammad Ali, Louisville, KY:
   lat: 38.2573446
   lng: -85.8151884
@@ -22920,6 +22926,8 @@ Lincoln Ave and Colorado Ave, Louisville, KY: null
 Lincoln Rd and Shelbyville Rd, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Locust Ave and Canterbury Dr, Louisville, KY: null
+Locust St and Wilkin Street, Louisville, KY: null
+Locust St and Wilson Street, Louisville, KY: null
 Logan St and Lansing Street, Louisville, KY: null
 Longfield Ave and Bellevue Ave, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
