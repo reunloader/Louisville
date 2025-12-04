@@ -5905,6 +5905,9 @@
 1800 Owen St, Louisville, KY:
   lat: 38.262421
   lng: -85.779286
+1800 Park Rd, Louisville, KY:
+  lat: 38.1535067
+  lng: -85.7825984
 1800 Sale Ave, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
@@ -6378,6 +6381,9 @@
 ? 200 Bridgemore Ln. Responding units found no immediate signs of fire or other issues
   at the two-story home., Louisville, KY
 : null
+200 Broadway, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
 200 Brown Plain, Louisville, KY: null
 200 Browns Ln, Louisville, KY:
   lat: 38.1452129
@@ -9733,6 +9739,9 @@
 2800 Greenwood Ave, Louisville, KY:
   lat: 38.242203
   lng: -85.799733
+2800 Grinstead Dr, Louisville, KY:
+  lat: 38.250485
+  lng: -85.688393
 2800 I 64 West, Louisville, KY: null
 2800 Lane, Louisville, KY: null
 ? 2800 Lexington Rd due to a residential alarm at a two-story home. Upon investigation,
@@ -14040,6 +14049,7 @@
   a public safety concern requiring immediate attention. Further details, Louisville,
   KY
 : null
+4100 Candor Ave, Louisville, KY: null
 4100 Cane Run Rd, Louisville, KY:
   lat: 38.2045067
   lng: -85.8311096
