@@ -706,6 +706,9 @@
 100 US 42, Louisville, KY:
   lat: 38.2632527
   lng: -85.6770561
+100 Upper Hunters Trace, Louisville, KY:
+  lat: 38.1671111
+  lng: -85.8404346
 100 W Burnett Ave, Louisville, KY:
   lat: 38.2266025
   lng: -85.7569082
@@ -4868,6 +4871,8 @@
   lng: -85.7106431
 16 Edenwood Dr, Louisville, KY: null
 16 Lincoln Run Rd, Louisville, KY: null
+16 Stites Station, Louisville, KY: null
+16 Stites Station. Patrol units were dispatched, Louisville, KY: null
 1600 Arcade, Louisville, KY:
   lat: 38.2078063
   lng: -85.7862058
@@ -8330,6 +8335,9 @@
   lng: -85.7298221
 2200 Stony Board Drive who reported experiencing chest pains. Responding units were able, Louisville, KY: null
 2200 Stony Board Drive, Louisville, KY: null
+2200 Upper Hunters Trace, Louisville, KY:
+  lat: 38.1673122
+  lng: -85.8370745
 2200 Village Dr, Louisville, KY:
   lat: 38.2282397
   lng: -85.6920058
@@ -8983,6 +8991,10 @@
   officers were sent, Louisville, KY
 : lat: 38.26839
   lng: -85.788647
+2500 Blood and Scafford Road, Louisville, KY: null
+? 2500 Blood and Scafford Road. The caller, who was home alone, stated a male was
+  approaching their front door and attempting, Louisville, KY
+: null
 2500 Bolling Ave, Louisville, KY:
   lat: 38.2306843
   lng: -85.7969333
@@ -9730,6 +9742,9 @@
 2800 Fairview, Louisville, KY:
   lat: 38.209828
   lng: -85.775479
+2800 Fordhaven Rd, Louisville, KY:
+  lat: 38.1485506
+  lng: -85.8115233
 2800 Frankfort Ave, Louisville, KY:
   lat: 38.2541178
   lng: -85.690105
@@ -15568,6 +15583,9 @@
 4900 Axtell Ave, Louisville, KY:
   lat: 38.138207
   lng: -85.850053
+4900 Brownsboro Rd, Louisville, KY:
+  lat: 38.282331
+  lng: -85.630682
 4900 Burkhead Ave near Cross Meadows Cir, Louisville, KY: null
 4900 Burkhead Ave, Louisville, KY:
   lat: 38.1378955
@@ -19720,6 +19738,9 @@
   lng: -85.7563021
 7200 National Turnpike, specifically at the Brady SPC,, Louisville, KY: null
 7200 Old Mill Rd, Louisville, KY: null
+? 7200 Outer Loop due to symptoms including lightheadedness, shaking, and slurred
+  speech, which were concerning, Louisville, KY
+: null
 7200 Outer Loop, Louisville, KY:
   lat: 38.137221
   lng: -85.62825
