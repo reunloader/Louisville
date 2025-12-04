@@ -625,6 +625,9 @@
 100 South 6th Street, Louisville, KY:
   lat: 38.256869
   lng: -85.759959
+100 South Arbor Park, Louisville, KY:
+  lat: 38.162258
+  lng: -85.765003
 100 South East Street who was experiencing stomach problems. Police units were available, Louisville, KY: null
 100 South Saunders Court, Louisville, KY: null
 100 South Second Street Courtyard, Louisville, KY: null
@@ -701,6 +704,9 @@
 100 W Kentucky St, Louisville, KY:
   lat: 38.238326
   lng: -85.754831
+100 W Kenwood Way, Louisville, KY:
+  lat: 38.178992
+  lng: -85.763449
 100 W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -12671,6 +12677,9 @@
 400 Adams St, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
+400 Adams St. The patient was transported, Louisville, KY:
+  lat: 38.26009
+  lng: -85.734743
 400 Adams and 400 block of Baker, Louisville, KY: null
 400 Adams, Louisville, KY:
   lat: 38.26009
@@ -20208,6 +20217,7 @@
 800 S Shelby St, Louisville, KY:
   lat: 38.240608
   lng: -85.740319
+800 Salt Lick Ln, Louisville, KY: null
 800 South 15th Street, Louisville, KY:
   lat: 38.244781
   lng: -85.777159
