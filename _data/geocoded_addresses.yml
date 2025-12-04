@@ -11067,7 +11067,12 @@
 3100 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
+3100 South Second St, Louisville, KY: null
 3100 South Second Street, Louisville, KY: null
+? 3100 South Second Street. The person was described as a light-skinned Black man
+  wearing a hoodie and riding a bicycle, and was reportedly rummaging through a dumpster,
+  causing a disturbance. Police units were dispatched, Louisville, KY
+: null
 3100 South2nd Street following a report of a medical emergency. The specific reason, Louisville, KY: null
 3100 South2nd Street, Louisville, KY:
   lat: 38.204435
@@ -18108,6 +18113,9 @@
   lng: -85.8366977
 6600 Estele Ave, Louisville, KY: null
 6600 Estele Ave. Attempts, Louisville, KY: null
+6600 Everton Dr, Louisville, KY:
+  lat: 38.1598329
+  lng: -85.8587888
 ? 6600 Jixie Highway. Responders encountered a female individual who appeared to be
   suffering from cold exposure. The individual also seemed to be in distress. Medical
   personnel provided assistance and evaluated the situation., Louisville, KY
@@ -20158,6 +20166,9 @@
   lat: 38.0906197
   lng: -85.8735398
 800 Denmark St, Louisville, KY:
+  lat: 38.1955721
+  lng: -85.7728035
+800 Denmark, Louisville, KY:
   lat: 38.1955721
   lng: -85.7728035
 800 E Gray St, Louisville, KY:
