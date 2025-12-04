@@ -4609,6 +4609,7 @@
   lng: -85.8819062
 1500 Olenda Ave, Louisville, KY: null
 1500 Ormsby Ln, Louisville, KY: null
+1500 Paul Tuckett Court, Louisville, KY: null
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
@@ -6660,6 +6661,7 @@
 200 N Lakeview Dr, Louisville, KY:
   lat: 38.2079112
   lng: -85.6787057
+200 N S Chadwick Rd, Louisville, KY: null
 200 Niles Hill Lane, Louisville, KY: null
 200 Nob Hill Ln, Louisville, KY:
   lat: 38.2594642
@@ -7141,6 +7143,9 @@
   lng: -85.7636078
 200 West. One unit was dispatched to assess and address the situation., Louisville, KY: null
 200 West. One unit was dispatched, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
+200 West. The vehicle was observed, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
 200 Westbound at Southern Pky, Louisville, KY:
