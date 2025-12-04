@@ -193,6 +193,9 @@
 100 East Amherst, Louisville, KY:
   lat: 38.1747425
   lng: -85.7630651
+100 East Broadway, Louisville, KY:
+  lat: 38.24549
+  lng: -85.7532301
 ? 100 East Broadway. The vehicle was observed without lights, and occupants were not
   visible. Responding units were dispatched, Louisville, KY
 : lat: 38.24549
@@ -3585,6 +3588,7 @@
   lat: 38.2177178
   lng: -85.7786406
 1300 Lincoln Hill Way, Louisville, KY: null
+1300 Linden Way, Louisville, KY: null
 1300 Longfield Ave, Louisville, KY:
   lat: 38.198526
   lng: -85.783642
@@ -22118,6 +22122,9 @@
   lng: -85.764177
 9300 New LaGrange Road, Louisville, KY: null
 9300 Phillips Ln near the fairgrounds, Louisville, KY:
+  lat: 38.1901008
+  lng: -85.7477013
+9300 Phillips Ln, Louisville, KY:
   lat: 38.1901008
   lng: -85.7477013
 9300 Pinto Court, [Date] 6:00 p, Louisville, KY: null
