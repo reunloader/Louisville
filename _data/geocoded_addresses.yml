@@ -8947,6 +8947,12 @@
 2500 McGee Drive, Louisville, KY:
   lat: 38.1661664
   lng: -85.8570513
+2500 Montgomery St, Louisville, KY:
+  lat: 38.2717777
+  lng: -85.7885805
+2500 Montgomery St. Officers were dispatched, Louisville, KY:
+  lat: 38.2717777
+  lng: -85.7885805
 2500 Neblett Ave near Hampstead Dr, Louisville, KY: null
 2500 Nebulas Avenue, Louisville, KY: null
 2500 Nichols Avenue near March Blvd, Louisville, KY:
@@ -20042,6 +20048,10 @@
   lat: 38.2075051
   lng: -85.6171438
 800 Adam/800 block of Baker, Louisville, KY: null
+800 Adams St and the 800 block of Charles St, Louisville, KY: null
+800 Adams St, Louisville, KY:
+  lat: 38.2579958
+  lng: -85.7255089
 800 Adams and the 300 block of Adams, Louisville, KY: null
 800 Adams, Louisville, KY:
   lat: 38.2592106
