@@ -3512,6 +3512,7 @@
 1300 Heafer Rd, Louisville, KY:
   lat: 38.2632883
   lng: -85.5241499
+1300 Hepburn Ave after a carbon monoxide detector began sounding. They were waiting in their vehicle, Louisville, KY: null
 1300 Hepburn Ave, Louisville, KY:
   lat: 38.2365556
   lng: -85.7281232
@@ -9828,6 +9829,10 @@
   lat: 38.2653078
   lng: -85.7987596
 2900 Bank St as part of the ongoing investigation, Louisville, KY: null
+? 2900 Bank St following a report of a medical emergency involving a 40-year-old male.
+  The individual was reportedly experiencing seizures and may have been assaulted.
+  EMS and police units were dispatched, Louisville, KY
+: null
 2900 Bank St, Louisville, KY:
   lat: 38.2708858
   lng: -85.7957115
@@ -11053,6 +11058,14 @@
 3100 Radiance Rd. Responders were dispatched, Louisville, KY:
   lat: 38.2167108
   lng: -85.6498046
+? 3100 River Park Dr after reporting chest pain and sustaining a head wound. EMS and
+  responding units arrived at the scene, situated between South 31st and South 32nd
+  Streets,, Louisville, KY
+: lat: 38.2570741
+  lng: -85.7584952
+3100 River Park Dr, Louisville, KY:
+  lat: 38.253893
+  lng: -85.803254
 3100 Rock Creek Dr, Louisville, KY:
   lat: 38.2417271
   lng: -85.6710602
@@ -13336,6 +13349,9 @@
 400 South 2nd Street near Muhammad Ali, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+? 400 South 2nd Street prompted a medical emergency response. The individual was reportedly
+  covered with a blanket. Police and EMS units responded, Louisville, KY
+: null
 400 South 2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
@@ -22478,6 +22494,7 @@ Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
 Edenside Ave and Quadrant Ave, Louisville, KY: null
+Edward St and Barret Ave, Louisville, KY: null
 Egypt Ln and Meridian Ave, Louisville, KY: null
 Elda Dr and Terry Rd, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
