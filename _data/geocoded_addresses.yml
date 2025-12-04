@@ -7018,6 +7018,9 @@
 200 South at Interstate 64, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South at Peewee Valley exit, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South at Spurn, Louisville, KY: null
 200 South at Stone St, Louisville, KY:
   lat: 38.2526488
@@ -15916,6 +15919,12 @@
 500 Dresden Ave, Louisville, KY:
   lat: 38.197563
   lng: -85.768594
+500 E Gray St, Louisville, KY:
+  lat: 38.246174
+  lng: -85.745262
+500 E Gray St. Police units were assigned, Louisville, KY:
+  lat: 38.246174
+  lng: -85.745262
 500 E Jefferson St, Louisville, KY:
   lat: 38.2521349
   lng: -85.7441534
