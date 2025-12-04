@@ -6058,6 +6058,9 @@
 1900 Mellwood Ave. Police units were sent, Louisville, KY:
   lat: 38.263956
   lng: -85.7120963
+1900 Mockingbird Bluff Ln, Louisville, KY:
+  lat: 38.2770838
+  lng: -85.6835127
 1900 Muncie Ave and 1200 block of Muncie Ave, Louisville, KY: null
 ? 1900 Muncie Ave in response to a domestic disturbance call. The reporting party
   expressed concern that her ex-partner, who was speaking with her in her vehicle,
@@ -12333,6 +12336,7 @@
   lat: 38.214216
   lng: -85.629305
 3700 South First Street, Louisville, KY: null
+3700 Southern Pky due to an active investigation and a potential warrant, Louisville, KY: null
 3700 Southern Pky, Louisville, KY:
   lat: 38.1836068
   lng: -85.7677003
@@ -20384,6 +20388,12 @@
 800 S Hancock St, Louisville, KY:
   lat: 38.241639
   lng: -85.744251
+800 S Jackson St, Louisville, KY:
+  lat: 38.24185
+  lng: -85.746268
+800 S Jackson St. Responding units investigated the premises and determined the alarm, Louisville, KY:
+  lat: 38.24185
+  lng: -85.746268
 800 S Shelby St, Louisville, KY:
   lat: 38.240608
   lng: -85.740319
