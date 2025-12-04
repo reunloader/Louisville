@@ -73,6 +73,7 @@
 100 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+100 Bellamy Pl, Louisville, KY: null
 100 Belle St, Louisville, KY:
   lat: 38.2318038
   lng: -85.5029265
@@ -3026,6 +3027,12 @@
 1200 S Clay St, Louisville, KY:
   lat: 38.233669
   lng: -85.7436468
+1200 S Jackson St, Louisville, KY:
+  lat: 38.23365
+  lng: -85.747679
+1200 S Jackson St. Further details, Louisville, KY:
+  lat: 38.23365
+  lng: -85.747679
 1200 S Preston St, Louisville, KY:
   lat: 38.233888
   lng: -85.7496363
@@ -7438,6 +7445,9 @@
   lat: 38.259507
   lng: -85.707085
 2000 Brownsboro Rd. Officers responded, Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
+2000 Brownsboro Rd. The building was found, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
 2000 Brownsboro Rd. This is a standard procedure, Louisville, KY:
@@ -12315,6 +12325,12 @@
 3700 Klondike Ln, Louisville, KY:
   lat: 38.209512
   lng: -85.6397607
+3700 Lexington Rd, Louisville, KY:
+  lat: 38.2515315
+  lng: -85.6605487
+3700 Lexington Rd. Police units were dispatched, Louisville, KY:
+  lat: 38.2515315
+  lng: -85.6605487
 3700 Mamaroneck Rd, Louisville, KY:
   lat: 38.207964
   lng: -85.643813
@@ -19307,6 +19323,9 @@
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
   lng: -85.5439541
+7000 Brownsboro Rd, Louisville, KY:
+  lat: 38.2587521
+  lng: -85.7044023
 7000 Catalpa Springs Dr, Louisville, KY:
   lat: 38.1240421
   lng: -85.6318708
@@ -19574,6 +19593,10 @@
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
+7200 Rutledge Rd in response, Louisville, KY: null
+7200 Rutledge Rd, Louisville, KY:
+  lat: 38.1479695
+  lng: -85.8802637
 7200 Scenic Trail, Louisville, KY:
   lat: 38.0781228
   lng: -85.8965335
@@ -21597,6 +21620,10 @@
 900 South39th Street, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
+900 South3rd Street due, Louisville, KY: null
+900 South3rd Street, Louisville, KY:
+  lat: 38.2414201
+  lng: -85.7577026
 900 Southbrook Street, Louisville, KY: null
 900 Southgate Manor Dr, Louisville, KY:
   lat: 38.0893129
