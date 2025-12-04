@@ -3512,6 +3512,9 @@
 1300 Heafer Rd, Louisville, KY:
   lat: 38.2632883
   lng: -85.5241499
+1300 Hepburn Ave, Louisville, KY:
+  lat: 38.2365556
+  lng: -85.7281232
 ? 1300 Hickory St where a 32-year-old female was found unconscious and exhibiting
   possible agonal breathing. Responders were on scene, Louisville, KY
 : null
@@ -5321,6 +5324,7 @@
 1700 Old Bluegrass Ave, Louisville, KY:
   lat: 38.1797125
   lng: -85.7939212
+1700 Ormsby Ln, Louisville, KY: null
 ? 1700 Patent Court following a report of a suspicious person. The individual was
   described as a 49-year-old black female, reportedly intoxicated and carrying a taser.,
   Louisville, KY
@@ -5517,6 +5521,7 @@
   lat: 38.257543
   lng: -85.778452
 1700 West Market. Responding units investigated the activation at the Amp Tech and Learning Center., Louisville, KY: null
+1700 West Thornsby, Louisville, KY: null
 1700 West W Oak St, Louisville, KY: null
 ? 1700 West W Oak St. The nature of the incident and any resulting injuries or vehicle
   damage were not specified., Louisville, KY
@@ -10583,6 +10588,9 @@
   intoxicated and refusing, Louisville, KY
 : null
 300 [Street Name Missing] and 300 block of [Street Name Missing], Louisville, KY: null
+300 [Street Name Unclear], Louisville, KY:
+  lat: 38.1814493
+  lng: -85.7665338
 300 [Unspecified Location], Louisville, KY: null
 300 [Unspecified Street], Louisville, KY: null
 300 an unspecified location, as directed by a major, Louisville, KY: null
@@ -14213,6 +14221,9 @@
   lng: -85.7653057
 4200 South Second Street, Louisville, KY: null
 4200 South2nd Street, Louisville, KY: null
+4200 Southern Pky, Louisville, KY:
+  lat: 38.1937856
+  lng: -85.7672087
 4200 Springbourne Way, Louisville, KY: null
 4200 Springbourne Way, near Spring Arbor Dr. Units were dispatched, Louisville, KY:
   lat: 38.2906346
@@ -17001,6 +17012,9 @@
 5800 Mount Everest Dr, Louisville, KY:
   lat: 38.167745
   lng: -85.8521638
+5800 River Creek Dr, Louisville, KY:
+  lat: 38.3288709
+  lng: -85.6383972
 5800 Santa Fe Trail, Louisville, KY:
   lat: 38.1685045
   lng: -85.8762692
@@ -22837,6 +22851,9 @@ Taylorsville Lake Rd and Routt Rd, Louisville, KY: null
 Taylorsville Rd and Bardstown Rd, Louisville, KY: null
 Taylorsville Rd and Peel Street, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
+Terry Rd and Greenwood Rd, Louisville, KY:
+  lat: 38.1448101
+  lng: -85.8716567
 Terry Rd and Murray Ln, Louisville, KY: null
 Terry Rd and Raggard Rd, Louisville, KY: null
 Terry Rd and Theresa Ave, Louisville, KY: null
@@ -22875,6 +22892,7 @@ Westport Rd and Ackermann Road, Louisville, KY: null
 Westport Rd and Chamberlain Ln, Louisville, KY: null
 Westport Rd and Chamberlain Parkway, Louisville, KY: null
 Westport Rd and Deuce Creek Road, Louisville, KY: null
+Westport Rd and Eagle Creek Dr, Louisville, KY: null
 Westport Rd and Factory Ln, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
