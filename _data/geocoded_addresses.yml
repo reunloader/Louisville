@@ -2728,6 +2728,9 @@
   lng: -85.6168763
 1200 Atomic Place, Louisville, KY: null
 1200 Atomic Place., Louisville, KY: null
+1200 Bardstown Rd at Value Market, Louisville, KY:
+  lat: 38.236869
+  lng: -85.7184884
 1200 Bardstown Rd, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
@@ -11171,6 +11174,7 @@
 3100 Taylor. Officers were involved in responding, Louisville, KY:
   lat: 38.2064352
   lng: -85.7768145
+3100 Valka, Frankfort, Louisville, KY: null
 3100 Virginia Ave, Louisville, KY:
   lat: 38.2384897
   lng: -85.8055617
@@ -12666,6 +12670,7 @@
 3900 Iron Horse Way, Louisville, KY:
   lat: 38.1000305
   lng: -85.8328339
+3900 Juliet Charlie, Louisville, KY: null
 ? 3900 Meadowfield Dr after a report of a neighbor allegedly vandalizing property.
   The suspect was described as a white male with dark hair and appeared, Louisville,
   KY
