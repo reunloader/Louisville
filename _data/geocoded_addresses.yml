@@ -12618,6 +12618,9 @@
 3800 W Market St, Louisville, KY:
   lat: 38.2611333
   lng: -85.8120944
+3800 W Market St. Responding units were dispatched, Louisville, KY:
+  lat: 38.2611333
+  lng: -85.8120944
 ? 3800 W Southern Heights Ave due to a report of individuals refusing to leave a residence.
   Upon arrival and investigation, officers found no one present at the property and
   cleared the scene., Louisville, KY
@@ -21863,6 +21866,7 @@
 ? 9000 Pegasus Pointe Dr, with residents reporting sounds of jumping coming from above
   their units. Responding units were sent, Louisville, KY
 : null
+9000 Red Deer Cir, Louisville, KY: null
 ? 9000 Salisbury Road, near the intersection of Parkway and Game Exchange Parkway,
   following a report of a gas leak inside a commercial building. While the initial
   address could not be precisely located, responders confirmed the presence of a commercial
