@@ -144,6 +144,12 @@
 100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+100 Crescent Ave, Louisville, KY:
+  lat: 38.254922
+  lng: -85.686895
+100 Crescent Ave. Officers were dispatched, Louisville, KY:
+  lat: 38.254922
+  lng: -85.686895
 100 Crescent Ave. Responding units were dispatched, Louisville, KY:
   lat: 38.254922
   lng: -85.686895
@@ -3905,6 +3911,9 @@
 1300 Valley View Terrace, Louisville, KY:
   lat: 38.115907
   lng: -85.672898
+1300 W Chestnut St, Louisville, KY:
+  lat: 38.2502801
+  lng: -85.7733327
 1300 W Market St, Louisville, KY:
   lat: 38.256806
   lng: -85.771833
@@ -13862,6 +13871,9 @@
 400 South 2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South 2nd Street. Responding units were dispatched, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South 38th Street, Louisville, KY:
   lat: 38.2593522
   lng: -85.8122752
@@ -20367,6 +20379,7 @@
 7300 Patrick Henry Rd, Louisville, KY:
   lat: 38.141105
   lng: -85.756759
+7300 Ridenway, Louisville, KY: null
 7300 Right-hand Way, Louisville, KY: null
 7300 Right-hand Way. A 66-year-old female had reportedly fallen out of her chair and needed assistance, Louisville, KY: null
 7300 Six Mile Lanex, Louisville, KY: null
@@ -22215,6 +22228,9 @@
 900 Sinclair, Louisville, KY:
   lat: 38.1210779
   lng: -85.7498506
+900 South 1st Street, Louisville, KY:
+  lat: 38.2408661
+  lng: -85.7544294
 900 South 28th Street, Louisville, KY:
   lat: 38.244855
   lng: -85.799212
@@ -23153,6 +23169,7 @@ Becker Ave and Park Brook Ln, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Beckley Woods Dr and Westport Rd, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
+Belmont Ave and Hawthorne Ave, Louisville, KY: null
 Belrad Dr and Norbrook Dr, Louisville, KY: null
 Benton Ave and Dresden Ave, Louisville, KY: null
 Beulah Church Rd and Faganbisch Lane, Louisville, KY: null
