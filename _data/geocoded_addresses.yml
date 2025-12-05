@@ -6502,6 +6502,9 @@
 200 Brownsboro Rd, Louisville, KY:
   lat: 38.2661941
   lng: -85.6585379
+200 Cambridge Dr, Louisville, KY:
+  lat: 38.1629212
+  lng: -85.7679383
 200 Cecil Ave, Louisville, KY:
   lat: 38.262957
   lng: -85.81776
@@ -18793,6 +18796,7 @@
 6700 Broadhale Dr, Louisville, KY:
   lat: 38.1493268
   lng: -85.6140702
+6700 Bultdown Road, Louisville, KY: null
 6700 Copperfield Rd, Louisville, KY: null
 ? 6700 Copperfield Rd. A note was found on the car, with the message indicating the
   vehicle had been "saved." Police investigated the incident., Louisville, KY
