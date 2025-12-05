@@ -11859,6 +11859,9 @@
 3400 Dr, Louisville, KY: null
 3400 Dr. William G. Weathers Drive. This stop was reportedly connected, Louisville, KY: null
 3400 Dutchman's Lane, Louisville, KY: null
+3400 Frankfort Ave, Louisville, KY:
+  lat: 38.2537793
+  lng: -85.6698989
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
   lng: -85.8093039
@@ -21737,6 +21740,9 @@
 900 Collins Ln, Louisville, KY:
   lat: 38.2892011
   lng: -85.5152696
+900 Conn St, Louisville, KY:
+  lat: 38.1958423
+  lng: -85.7910469
 900 Crashing Hall Road, Louisville, KY: null
 ? 900 Denmark St in relation to activity observed at a local food mart. Unit PD-4
   was involved in this investigation., Louisville, KY
@@ -23047,6 +23053,7 @@ Floyd Avenue and Olive St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
 Foxboro Dr and Sterling Springs Rd, Louisville, KY: null
+Frankfort Ave and Fairlawn Rd, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and Holbergen Avenue, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
