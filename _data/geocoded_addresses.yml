@@ -5940,6 +5940,9 @@
   necessary medical care., Louisville, KY
 : null
 1800 Lincoln Ave, adjacent, Louisville, KY: null
+1800 Lynn Way, Louisville, KY:
+  lat: 38.2805256
+  lng: -85.6200797
 1800 March Blvd, Louisville, KY:
   lat: 38.1918885
   lng: -85.7990979
@@ -15085,6 +15088,7 @@
 4400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+4400 Town Center, Louisville, KY: null
 4400 Towne Center Dr, Louisville, KY:
   lat: 38.3020332
   lng: -85.55784
@@ -16587,6 +16591,9 @@
 5100 Arbor Oak Ct, near Arbor Oak Dr. The crew was later instructed, Louisville, KY:
   lat: 38.1098126
   lng: -85.6623684
+5100 Auburndale Ave, Louisville, KY:
+  lat: 38.172581
+  lng: -85.7749371
 5100 Bardstown Rd, Louisville, KY:
   lat: 38.1744331
   lng: -85.6151359
@@ -18076,6 +18083,9 @@
 6000 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
+6000 Gabriel Dr, Louisville, KY:
+  lat: 38.1565043
+  lng: -85.8545813
 6000 Golden Rule Way, Louisville, KY:
   lat: 38.2426387
   lng: -85.7597853

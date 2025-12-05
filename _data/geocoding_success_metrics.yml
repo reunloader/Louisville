@@ -26015,4 +26015,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2025-12-05T07:27:58.917914'
+- timestamp: '2025-12-05T07:54:27.683482'
+  total_addresses: 9786
+  successful: 4902
+  failed: 4884
+  success_rate: 50.09
+  failure_rate: 49.91
+  failure_patterns:
+    Contains location qualifiers (near/at): 1715
+    Incomplete/vague address: 979
+    Intersection format: 859
+    Other/Unknown: 912
+    Police phonetic codes: 4
+    Contains extra sentences/context: 415
+  batch_success_rate: 75.0
+  batch_new_addresses: 4
+  batch_new_successes: 3
+last_updated: '2025-12-05T07:54:27.683630'
