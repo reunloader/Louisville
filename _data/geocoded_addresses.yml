@@ -5467,6 +5467,7 @@
 : null
 1700 Newberg to conduct a welfare check. A male individual had called, Louisville, KY: null
 1700 Newberg, Louisville, KY: null
+1700 Newberg. Emergency services were dispatched, Louisville, KY: null
 1700 Newberg. Responding units arrived, Louisville, KY: null
 1700 Nobel Pl, Louisville, KY: null
 1700 Northwestern Pky at Metro Park, Louisville, KY:
@@ -6600,6 +6601,9 @@
 200 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+200 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 200 E W Magnolia Ave, Louisville, KY:
   lat: 38.2300794
   lng: -85.7704501
@@ -14833,6 +14837,7 @@
 4300 Shepherdsville Rd, Louisville, KY:
   lat: 38.18828
   lng: -85.659597
+4300 Sign Up, Louisville, KY: null
 4300 Silver Oaks Ct, Louisville, KY:
   lat: 38.1212724
   lng: -85.8403176
@@ -15845,6 +15850,9 @@
 4800 Southside Dr. It was alleged that two men were pursuing a woman, believed, Louisville, KY:
   lat: 38.179087
   lng: -85.76486
+4800 Thurman Rd, Louisville, KY:
+  lat: 38.1662469
+  lng: -85.4724683
 4800 Wooded Oak Cir, Louisville, KY:
   lat: 38.3137462
   lng: -85.5370899
