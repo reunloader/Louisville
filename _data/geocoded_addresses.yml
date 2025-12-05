@@ -151,6 +151,7 @@
   lat: 38.261105
   lng: -85.791325
 100 Crop St, near Croft Ct. The activation indicated that one round had been discharged., Louisville, KY: null
+100 D Street, Louisville, KY: null
 100 Dandor Rd, Louisville, KY:
   lat: 38.207696
   lng: -85.6253811
@@ -175,6 +176,9 @@
   Louisville, KY
 : null
 100 E W Kingston Ave, Louisville, KY: null
+100 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 100 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -738,6 +742,9 @@
   and lost consciousness. EMS was already present and attending, Louisville, KY
 : lat: 38.2534676
   lng: -85.7663705
+100 W Main St, Louisville, KY:
+  lat: 38.256015
+  lng: -85.751767
 100 W Market St, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
@@ -1628,6 +1635,7 @@
   when they entered the location., Louisville, KY
 : null
 1000 South Forth Street, Louisville, KY: null
+1000 South Fourth Street, Louisville, KY: null
 1000 South Hancock, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
@@ -15394,6 +15402,9 @@
 4700 Kerrick Ln, Louisville, KY:
   lat: 38.1538871
   lng: -85.8382103
+4700 Maris Ln, Louisville, KY:
+  lat: 38.3137905
+  lng: -85.5951283
 ? 4700 Mill Trace Place. The caller indicated that family members were attempting
   to harm them and refused to provide a specific apartment number. Responding units
   were dispatched to investigate the situation and ensure the safety of those involved.,
