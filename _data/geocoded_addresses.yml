@@ -2741,6 +2741,7 @@
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
   lng: -85.4306933
+11600 Grange Row, Louisville, KY: null
 11600 Main St, Louisville, KY:
   lat: 38.2446121
   lng: -85.5412585
@@ -15770,6 +15771,9 @@
   lat: 38.309234
   lng: -85.566726
 4700 Carrick Lane, Louisville, KY: null
+4700 Cofer Ave, Louisville, KY:
+  lat: 38.137464
+  lng: -85.843424
 4700 Creek Tree Ct, Louisville, KY:
   lat: 38.1229922
   lng: -85.6810866
@@ -17221,6 +17225,7 @@
   lat: 38.1604699
   lng: -85.832593
 5300 East W Ormsby Ave, Louisville, KY: null
+5300 Eastway, Crusader's Denise Dr, Louisville, KY: null
 5300 Governor's Way in response, Louisville, KY: null
 5300 Governor's Way, Building 3, Louisville, KY: null
 5300 Haynes Trace, Louisville, KY: null
