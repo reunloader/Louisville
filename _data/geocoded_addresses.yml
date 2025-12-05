@@ -4757,6 +4757,9 @@
 1500 South 15th St, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
+1500 South 15th Street near Wesley Street, Louisville, KY:
+  lat: 38.227846
+  lng: -85.780251
 1500 South 15th Street, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
@@ -4909,6 +4912,9 @@
   lat: 38.25511
   lng: -85.718685
 1600 Arthur St at the Arthur St Hotel, Louisville, KY:
+  lat: 38.223421
+  lng: -85.751404
+1600 Arthur St near Easley Street, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
 1600 Arthur St, Louisville, KY:
@@ -7370,6 +7376,9 @@
 200 Yew Ln, Louisville, KY:
   lat: 38.1762196
   lng: -85.6718083
+200 York St near South 2nd Street, Louisville, KY:
+  lat: 38.2436686
+  lng: -85.7558736
 200 York St, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
@@ -10069,6 +10078,9 @@
 2900 Eve Dr, Louisville, KY:
   lat: 38.1049006
   lng: -85.8439482
+2900 Fern Valley Rd, Louisville, KY:
+  lat: 38.1555547
+  lng: -85.7107102
 2900 Garfield Ave near North 30th Street, Louisville, KY:
   lat: 38.2674035
   lng: -85.7976195
@@ -12063,6 +12075,7 @@
 3500 Versaille Ln, Louisville, KY:
   lat: 38.14975
   lng: -85.6970149
+3500 Vetchman's Lane near Abigail Lane, Louisville, KY: null
 3500 Veterans Lane, Louisville, KY: null
 3500 W Market St in response, Louisville, KY: null
 3500 W Market St, Louisville, KY:
