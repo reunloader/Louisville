@@ -6669,6 +6669,10 @@
 200 East Broadway. Several fire units, including Battalion 4 and Battalion 2, responded, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
+? 200 East Broadway. The suspect was described as a male wearing a black and white
+  hat and a camouflage jacket. Police units responded, Louisville, KY
+: lat: 38.2452031
+  lng: -85.7513354
 ? 200 East Broadway. Upon arrival, they found a small fire contained within an empty
   drum. The situation was quickly managed by the responding units, and they were able,
   Louisville, KY
@@ -11386,6 +11390,12 @@
   available., Louisville, KY
 : null
 3100 Grand Teton Dr, responders proceeded, Louisville, KY: null
+3100 Graves End Dr, Louisville, KY:
+  lat: 38.2552245
+  lng: -85.775868
+3100 Graves End Dr. A report was assigned, Louisville, KY:
+  lat: 38.2552245
+  lng: -85.775868
 3100 Hartlage Ct, Louisville, KY:
   lat: 38.198303
   lng: -85.831907
