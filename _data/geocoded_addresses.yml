@@ -4649,6 +4649,9 @@
 14800 Landmark Dr, Louisville, KY:
   lat: 38.2660582
   lng: -85.4812077
+14800 Landmark Dr, near Landmark Pl, Louisville, KY:
+  lat: 38.2660582
+  lng: -85.4812077
 ? 14800 Landmark Dr. The call involved an 80-year-old male who had fallen. Fortunately,
   there were no reported injuries, and police were, Louisville, KY
 : lat: 38.2660582
@@ -7225,6 +7228,10 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South Newcote Road, Louisville, KY: null
+200 South Pass Lane, Louisville, KY: null
+200 South Pass Lane, near Brownsboro,, Louisville, KY:
+  lat: 38.3140959
+  lng: -85.5732474
 200 South Second Street, Louisville, KY: null
 200 South St, Louisville, KY:
   lat: 38.2182659
@@ -12593,6 +12600,9 @@
 ? 3600 Monticello Forest Cir. This appears to be a correction or a separate incident
   from a previous call on Forest Way Dr, indicating a need, Louisville, KY
 : null
+3600 North 36th Street, Louisville, KY:
+  lat: 38.2647035
+  lng: -85.8093607
 ? 3600 Oakdale Ave. A 20-year-old rider was reported to have been thrown from a horse
   and may have sustained head injuries., Louisville, KY
 : lat: 38.2029202
@@ -17283,6 +17293,12 @@
 5300 Matterhorn Dr, near Mount Howard Ct,, Louisville, KY:
   lat: 38.1687491
   lng: -85.853042
+5300 Molly Manor Dr, Louisville, KY:
+  lat: 38.1555954
+  lng: -85.6631863
+? 5300 Molly Manor Dr, where a 23-year-old female was experiencing a medical condition.
+  Additionally, EMS was dispatched to the 9300 block of Civic Way, Louisville, KY
+: null
 5300 New Cut Rd, Louisville, KY:
   lat: 38.154173
   lng: -85.77726
@@ -17462,6 +17478,12 @@
 5500 Grandel Blvd, Louisville, KY:
   lat: 38.1570219
   lng: -85.8577378
+5500 Hunt Club Ln, Louisville, KY:
+  lat: 38.143656
+  lng: -85.777398
+5500 Hunt Club Ln, near 3rd St Rene Rd,, Louisville, KY:
+  lat: 38.143656
+  lng: -85.777398
 5500 Indian Oaks Cir, Louisville, KY:
   lat: 38.1695373
   lng: -85.6869482
