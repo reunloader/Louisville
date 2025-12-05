@@ -1804,6 +1804,9 @@
 : null
 10000 Oak Bridge Cir, Louisville, KY: null
 10000 Oak Oak Bridge Cir, Louisville, KY: null
+10000 Old Preston Hwy, Louisville, KY:
+  lat: 38.10325
+  lng: -85.673053
 10000 Place John, Louisville, KY: null
 ? 10000 Place John. Specific details regarding the patient's condition or the nature
   of the emergency were not immediately available., Louisville, KY
@@ -6113,6 +6116,7 @@
 ? 1800 South 7th Street following a report of a female being thrown from a vehicle.
   Units 4-13 Charlie and 4-14 Adam, along with EMS, were dispatched, Louisville, KY
 : null
+1800 South Hirsborne Parkway, Louisville, KY: null
 1800 South Third Street, Louisville, KY: null
 1800 South3rd Street, Louisville, KY: null
 1800 Southbrook Street, Louisville, KY: null
@@ -23596,6 +23600,7 @@ Poplar Level Rd and Heather Heath Ln, Louisville, KY: null
 Poplar Level Rd and Hess Ln, Louisville, KY: null
 Poplar Level Rd and Quail Hollow Rd, Louisville, KY: null
 Poplar Level Rd and Thruston Ave, Louisville, KY: null
+Poplar Road and Eastern Parkway, Louisville, KY: null
 Poplovo Road and Taylor Ave, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
