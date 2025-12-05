@@ -6438,6 +6438,9 @@
   lng: -85.81776
 200 Cecil Street, Louisville, KY: null
 200 Chadwick Glen Pl and intersection of Blast On Road and Engine Drives, Louisville, KY: null
+200 Champion Lakes Pl, Louisville, KY:
+  lat: 38.2766832
+  lng: -85.4806552
 200 Chariot Court 5:00 a, Louisville, KY: null
 200 Chariot Court 5:00 a.m., Louisville, KY: null
 ? 200 Chariot Court. A maroon vehicle was observed parked within a designated fire
@@ -11742,6 +11745,9 @@
   lat: 38.176862
   lng: -85.873196
 3300 bars town, Louisville, KY: null
+3332 [Street Name Missing], Louisville, KY:
+  lat: 38.1558925
+  lng: -85.8160035
 3400 Anatahan Ct, Louisville, KY: null
 3400 Atwork Hall, Louisville, KY: null
 3400 Atwork Hall, was checked by responding officers. The vehicle was found, Louisville, KY: null
@@ -15187,6 +15193,7 @@
 4500 West Fort Worth Lane, Louisville, KY: null
 4500 Winnrose Way, Louisville, KY: null
 4512 Tray Place, Louisville, KY: null
+46 Prince Ln, Louisville, KY: null
 46 Stonyrun Dr, Louisville, KY:
   lat: 38.1955282
   lng: -85.6150739
