@@ -13556,6 +13556,9 @@
 : null
 400 I64 West, Louisville, KY: null
 400 I65 South, Louisville, KY: null
+400 Iowa Ave near Finn, Louisville, KY:
+  lat: 38.207651
+  lng: -85.765277
 400 Iroquois Gardens Dr, Louisville, KY:
   lat: 38.1545776
   lng: -85.7788678
