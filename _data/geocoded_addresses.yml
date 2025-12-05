@@ -7930,6 +7930,7 @@
 2100 Congress St, Louisville, KY:
   lat: 38.257593
   lng: -85.785193
+2100 Council Avenue, Louisville, KY: null
 2100 Crums Ln. The license plate was unreadable. Police units were dispatched, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
@@ -8227,6 +8228,9 @@
 2200 Dixie Hwy, Louisville, KY:
   lat: 38.2185305
   lng: -85.7949258
+2200 East Broadway, Louisville, KY:
+  lat: 38.2446794
+  lng: -85.7394849
 ? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
   on the extent of the fire and the response are not immediately available., Louisville,
   KY
@@ -17332,6 +17336,9 @@
 5800 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1029536
   lng: -85.6537319
+5800 Elderwood Way, Louisville, KY:
+  lat: 38.1935447
+  lng: -85.8020654
 5800 Farrington Dr, Louisville, KY:
   lat: 38.1693957
   lng: -85.832772
