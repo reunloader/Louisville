@@ -1604,6 +1604,9 @@
 1000 South 2nd Street. A 71-year-old male reported a fall that resulted in a head injury. The door, Louisville, KY:
   lat: 38.2385476
   lng: -85.7570484
+1000 South 2nd Street. A male individual was heard yelling at his wife, and he appeared, Louisville, KY:
+  lat: 38.2385476
+  lng: -85.7570484
 1000 South 38th Street, Louisville, KY:
   lat: 38.243625
   lng: -85.816295
@@ -2687,6 +2690,11 @@
 11700 Dixie Hwy, near the intersection of East Pharrell Road and Flowervale Ln, Louisville, KY:
   lat: 38.0852467
   lng: -85.8810103
+? 11700 E N Arbor Dr following a report of a stabbing. A young female was reportedly
+  injured and expressed suicidal intentions. The precise location of the injury was
+  not immediately clear, Louisville, KY
+: null
+11700 E N Arbor Dr, Louisville, KY: null
 11700 East N Arbor Dr, Louisville, KY: null
 11700 East Overdrive, Louisville, KY: null
 11700 English Meadow Dr, Louisville, KY:
@@ -3303,6 +3311,7 @@
   and West Third Place. Responders confirmed they were on the scene, Louisville, KY
 : lat: 38.313663
   lng: -85.529676
+12000 Park D Trice Drive, Louisville, KY: null
 12000 Park2 Trace, Louisville, KY: null
 12000 Plantsides Rav, Louisville, KY: null
 ? 12000 Plantsides Rav. Initial reports suggested the possibility of smoke and flames,
@@ -6577,6 +6586,7 @@
 200 East I-200 at Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
+200 East Interstate Ramp, Louisville, KY: null
 ? 200 East Jacob Street following a report of two males loitering outside a daycare
   facility. The individuals were observed standing near a wall, and one was described
   as wearing a brown coat while the other had on a green coat. Concerns were raised
@@ -6707,6 +6717,9 @@
 ? 200 East. The driver of a Chevy pickup truck was observed operating the vehicle
   erratically across multiple lanes before exiting at exit 17A., Louisville, KY
 : null
+200 East. The incident involved a vehicle traveling the wrong way, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East. The incident was initially reported on I-54 East but was later confirmed, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -17008,6 +17021,7 @@
   lat: 38.150748
   lng: -85.770867
 5400 Yield Close Road, Louisville, KY: null
+542018 Speed Ave, Louisville, KY: null
 5500 Applegate Ln, Louisville, KY:
   lat: 38.134627
   lng: -85.65879
@@ -21008,6 +21022,11 @@
   lng: -85.609503
 8000 Bramble Ln, Louisville, KY:
   lat: 38.1381395
+  lng: -85.8565024
+? 8000 Bramble Ln, near the intersection of Crop St and Bramble Ct. The resident,
+  a 71-year-old male, was reportedly okay and did not require medical transport. EMS
+  was not dispatched, Louisville, KY
+: lat: 38.1381395
   lng: -85.8565024
 8000 Candleglow Ln, Louisville, KY:
   lat: 38.1360048
