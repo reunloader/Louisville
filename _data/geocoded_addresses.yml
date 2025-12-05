@@ -966,6 +966,9 @@
 1000 Blue Lick. The situation was resolved and cleared, Louisville, KY:
   lat: 38.1168066
   lng: -85.6894841
+1000 Brent St, Louisville, KY:
+  lat: 38.235181
+  lng: -85.728476
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -8081,6 +8084,9 @@
 2100 Payne St, at Sacred Heart Village,, Louisville, KY:
   lat: 38.252398
   lng: -85.707627
+2100 Peabody Ln, Louisville, KY:
+  lat: 38.2035119
+  lng: -85.6727678
 2100 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -9556,6 +9562,9 @@
 2600 West Madison, Louisville, KY:
   lat: 38.2540077
   lng: -85.7945055
+2600 West Market, Louisville, KY:
+  lat: 38.2594009
+  lng: -85.7938825
 2700 7th St Rene Rd, Louisville, KY: null
 2700 7th Street, Louisville, KY:
   lat: 38.2131547
@@ -9656,6 +9665,9 @@
   units were dispatched, Louisville, KY
 : lat: 38.2117062
   lng: -85.7715999
+2700 Pikes Peak Blvd, Louisville, KY:
+  lat: 38.1661875
+  lng: -85.8083629
 2700 Portland Ave, Louisville, KY:
   lat: 38.2717512
   lng: -85.7923909
