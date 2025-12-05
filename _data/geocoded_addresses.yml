@@ -6056,6 +6056,7 @@
 ? 1800 South 7th Street following a report of a female being thrown from a vehicle.
   Units 4-13 Charlie and 4-14 Adam, along with EMS, were dispatched, Louisville, KY
 : null
+1800 South Third Street, Louisville, KY: null
 1800 South3rd Street, Louisville, KY: null
 1800 Southbrook Street, Louisville, KY: null
 1800 Story Ave, Louisville, KY:
@@ -11220,6 +11221,9 @@
 3000 Wentworth Avenue, Louisville, KY:
   lat: 38.249073
   lng: -85.68076
+3000 West Broadway, Louisville, KY:
+  lat: 38.2487798
+  lng: -85.8020322
 3000 West W Kentucky St, Louisville, KY: null
 3000 Whiteway Ave, Louisville, KY:
   lat: 38.2124161
@@ -16298,6 +16302,9 @@
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
+500 S Preston St, Louisville, KY:
+  lat: 38.2498099
+  lng: -85.7475716
 500 S S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
