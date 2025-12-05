@@ -4988,6 +4988,9 @@
   lat: 38.1824297
   lng: -85.7737331
 1512 Overdale Dr, Louisville, KY: null
+15200 Beckley Springs Drop near N Beckley Station Rd, Louisville, KY:
+  lat: 38.2609353
+  lng: -85.4768886
 1529 Gallagher Street, Louisville, KY:
   lat: 38.2387489
   lng: -85.7794693
@@ -5245,6 +5248,9 @@
   Other units were en route and available, Louisville, KY
 : lat: 38.21745
   lng: -85.72667
+1600 Rangel and Rowe near Brenda, Louisville, KY:
+  lat: 38.1704889
+  lng: -85.6726748
 1600 River Shore Dr, Louisville, KY:
   lat: 38.2653485
   lng: -85.7242962
@@ -16651,6 +16657,7 @@
 500 West. This is a service offered, Louisville, KY:
   lat: 38.2350131
   lng: -85.762185
+500 Wood Lake Drop, Louisville, KY: null
 500 Wood Valley Ln, Louisville, KY: null
 500 Young Mary John, Louisville, KY: null
 500 Zorn Ave, Louisville, KY:
