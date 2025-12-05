@@ -6908,6 +6908,8 @@
   lng: -85.762913
 200 Headnote Place. Police units were assigned to this case., Louisville, KY: null
 200 Headnote Place. Police units were assigned, Louisville, KY: null
+200 Highway44E, Louisville, KY: null
+200 Highway44E. Emergency personnel worked, Louisville, KY: null
 200 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
@@ -9382,6 +9384,8 @@
 2500 South 5th Street, Louisville, KY:
   lat: 38.212578
   lng: -85.766052
+2500 South Public Road, Louisville, KY: null
+2500 South Public Road. Details, Louisville, KY: null
 2500 St, Louisville, KY:
   lat: 38.2574345
   lng: -85.7920604
@@ -14509,6 +14513,7 @@
   lat: 38.258937
   lng: -85.8185
 4100 Leave, Louisville, KY: null
+4100 Linda and Clay, Louisville, KY: null
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
@@ -19516,6 +19521,9 @@
 ? 700 Hardee Avenue where a two-year-old child had been accidentally locked inside
   a black Kia Rio. The child had been in the vehicle, Louisville, KY
 : null
+700 Hazel St, Louisville, KY:
+  lat: 38.24964
+  lng: -85.804629
 700 Hudson Ln, Louisville, KY:
   lat: 38.1691814
   lng: -85.5885156
@@ -20661,6 +20669,10 @@
   lat: 38.1384339
   lng: -85.7895748
 7700 Chet Ln, near Peraway and Banbury Cross Road,, Louisville, KY: null
+7700 Crop St involving a 61-year-old female who lost consciousness, Louisville, KY: null
+7700 Crop St, Louisville, KY:
+  lat: 38.2599675
+  lng: -85.7803993
 7700 Hepatica Ct, Louisville, KY:
   lat: 38.1406002
   lng: -85.8540073
