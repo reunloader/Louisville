@@ -8768,6 +8768,9 @@
 2300 W Chestnut St, Louisville, KY:
   lat: 38.2522498
   lng: -85.7896726
+2300 W Gaulbert Ave, Louisville, KY:
+  lat: 38.2284638
+  lng: -85.7958077
 2300 W Jefferson St, Louisville, KY:
   lat: 38.2574167
   lng: -85.7900164
@@ -9146,6 +9149,9 @@
   lat: 38.2802299
   lng: -85.5098075
 2500 Edward Nora Lincoln, Louisville, KY: null
+2500 Elliott Ave, Louisville, KY:
+  lat: 38.2503305
+  lng: -85.7933262
 2500 Fennel Ct, Louisville, KY:
   lat: 38.1417376
   lng: -85.8568147
