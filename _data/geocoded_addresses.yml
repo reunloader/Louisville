@@ -16368,6 +16368,7 @@
   lng: -85.7454474
 500 East W Jacob St, Louisville, KY: null
 500 East W Jacob St, specifically in building 15, zone 6, Louisville, KY: null
+500 East W Market St, near the intersection of Hancock and Jackson, Louisville, KY: null
 500 East [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
@@ -20105,6 +20106,15 @@
 7100 Alma June Way, Louisville, KY:
   lat: 38.1253054
   lng: -85.6407069
+7100 Bermuda Ln, Louisville, KY:
+  lat: 38.1598508
+  lng: -85.7162612
+7100 Bermuda Ln, in the vicinity of Airport Hotels Blvd,, Louisville, KY: null
+? 7100 Bermuda Ln, near Airport Hotels Blvd. A 52-year-old male, described as wearing
+  a flat shirt and tan pants, was found lying on the ground. He reported feeling very
+  weak and experiencing symptoms close, Louisville, KY
+: lat: 38.1598508
+  lng: -85.7162612
 7100 Betsy Ross Dr, Louisville, KY:
   lat: 38.0579743
   lng: -85.8969414
