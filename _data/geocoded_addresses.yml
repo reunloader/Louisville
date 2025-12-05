@@ -234,6 +234,8 @@
 100 East W Kingston Ave, Louisville, KY: null
 100 East W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
 100 East W Kingston Ave. Police units were sent, Louisville, KY: null
+100 East W Market St, Louisville, KY: null
+100 East W Market St. Police units cleared the scene, Louisville, KY: null
 100 East W W Kingston Ave. Police units were sent to investigate and de-escalate the situation., Louisville, KY: null
 100 Eastern Parkway, Louisville, KY:
   lat: 38.213645
@@ -6434,10 +6436,12 @@
 200 Alger Ave, Louisville, KY:
   lat: 38.16614
   lng: -85.7669928
+200 Atom Street, Louisville, KY: null
 200 Baker and 100 block of Baker, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
+200 Baker was subsequently reported as clear of any related activity, Louisville, KY: null
 200 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -7336,6 +7340,9 @@
   from the collision. Responding units assessed the scene and managed the incident.,
   Louisville, KY
 : null
+200 West at the 452, Louisville, KY:
+  lat: 38.2000005
+  lng: -85.7636078
 200 West at the 72-mile marker, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -12120,6 +12127,8 @@
 3500 Dixie Hwy. Emergency personnel were on site, Louisville, KY:
   lat: 38.1466897
   lng: -85.8382378
+3500 Domino Street, Louisville, KY: null
+3500 Domino Street. The individual was observed, Louisville, KY: null
 3500 Dumesnil St, Louisville, KY:
   lat: 38.2375856
   lng: -85.8119846
@@ -14002,6 +14011,7 @@
 400 Worthing Ct, Louisville, KY:
   lat: 38.243999
   lng: -85.487748
+400 Yankee Tom X-ray, Louisville, KY: null
 400 [Street Name Unclear], Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
@@ -15183,6 +15193,12 @@
   KY
 : lat: 38.2088999
   lng: -85.8457995
+4500 Cane Run Rd, Louisville, KY:
+  lat: 38.195192
+  lng: -85.842962
+4500 Cane Run Rd. EMS and police units were dispatched, Louisville, KY:
+  lat: 38.195192
+  lng: -85.842962
 4500 Caspian Dr, Louisville, KY:
   lat: 38.169906
   lng: -85.676733
