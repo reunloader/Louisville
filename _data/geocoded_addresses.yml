@@ -7311,6 +7311,10 @@
 200 Starlite Ct, Louisville, KY:
   lat: 38.2388753
   lng: -85.6662901
+? 200 Thompson Ave following a report of a 55-year-old male experiencing a possible
+  full cardiac arrest. Responders arrived on scene, Louisville, KY
+: null
+200 Thompson Ave, Louisville, KY: null
 200 Tomorrow Night, Louisville, KY: null
 200 Travolta Road, Louisville, KY: null
 200 Travolta Road, near Comanche and Apache, Louisville, KY: null
@@ -12670,6 +12674,9 @@
   and reportedly expressed suicidal thoughts., Louisville, KY
 : lat: 38.1940133
   lng: -85.7834587
+3600 Tyler Ave, Louisville, KY:
+  lat: 38.2720352
+  lng: -85.7906052
 3600 Vantage Pointe Dr, Louisville, KY: null
 3600 Village West, Louisville, KY:
   lat: 38.2484393
@@ -18043,6 +18050,9 @@
 600 E Main St, Louisville, KY:
   lat: 38.254656
   lng: -85.7417262
+600 E W Brandeis Ave, Louisville, KY:
+  lat: 38.2193858
+  lng: -85.7622692
 600 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -18060,6 +18070,7 @@
 600 East Broadway, Louisville, KY:
   lat: 38.2446184
   lng: -85.7432819
+600 East W Brandeis Ave in response, Louisville, KY: null
 600 East W Oak St, Louisville, KY: null
 600 Eastern Parkway, Louisville, KY:
   lat: 38.2122359
