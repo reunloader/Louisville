@@ -3366,6 +3366,12 @@
   KY
 : null
 12000 Plantsides Rav. Initial reports suggested the possibility of smoke and flames, leading, Louisville, KY: null
+12000 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
+12000 Shelbyville Rd. Instructions were given not to dispatch emergency units, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 12100 Kentucky Mills Dr, Louisville, KY: null
 12100 Kentucky Mills Dr. The call was in reference, Louisville, KY: null
 12100 LaGrange Road, Louisville, KY:
@@ -12867,6 +12873,13 @@
 3800 Little Bend Rd, Louisville, KY: null
 3800 Oda Outer Loop, Louisville, KY: null
 3800 Oda Outer Loop, near Royal Oak and Barrow Cliff. Responders were dispatched, Louisville, KY: null
+3800 Parkway, Louisville, KY:
+  lat: 38.1926473
+  lng: -85.6055637
+? 3800 Parkway, near the intersection of Ambrose, following a report of an automobile
+  fire. Upon arrival, it appeared, Louisville, KY
+: lat: 38.1926473
+  lng: -85.6055637
 3800 Peachtree Ave, Louisville, KY:
   lat: 38.189189
   lng: -85.780662
@@ -15310,6 +15323,9 @@
 4500 Outer Loop, Louisville, KY:
   lat: 38.1380208
   lng: -85.6781078
+4500 Outer Loop, near Northamire One and Lambert. Specific details, Louisville, KY:
+  lat: 38.1380208
+  lng: -85.6781078
 4500 Parker Ave, Louisville, KY:
   lat: 38.2695466
   lng: -85.8192898
@@ -17501,6 +17517,7 @@
 5700 Oxford Pl, Louisville, KY:
   lat: 38.1605773
   lng: -85.6018404
+5700 Oxford Pl, specifically at number 783,, Louisville, KY: null
 5700 Oxford Pl. The call was processed at 2119. Responding units were directed, Louisville, KY:
   lat: 38.1605773
   lng: -85.6018404
