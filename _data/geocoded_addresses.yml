@@ -1474,6 +1474,9 @@
 : null
 1000 Oleander Avenue, Louisville, KY: null
 1000 Orangeby, Louisville, KY: null
+1000 Outer Loop, Louisville, KY:
+  lat: 38.1265708
+  lng: -85.7477272
 1000 Parkstone Ct, Louisville, KY:
   lat: 38.28942
   lng: -85.5611258
@@ -1720,6 +1723,12 @@
 1000 West Market at The Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 Worthington Ln, Louisville, KY:
+  lat: 38.32875
+  lng: -85.5591466
+1000 Worthington Ln. Further details, Louisville, KY:
+  lat: 38.32875
+  lng: -85.5591466
 1000 Zorn Ave, Louisville, KY:
   lat: 38.2769083
   lng: -85.6987274
