@@ -5189,6 +5189,9 @@
   to the scene to assess and treat the patient., Louisville, KY
 : null
 1600 Patent Court, specifically in Building 39, Apartment H. Responders were alerted, Louisville, KY: null
+1600 Patton Ct, Louisville, KY:
+  lat: 38.2237734
+  lng: -85.778564
 1600 Pembroke Rd, Louisville, KY:
   lat: 38.2238961
   lng: -85.6240166
@@ -11441,6 +11444,9 @@
 : lat: 38.2570741
   lng: -85.7584952
 3100 River Park Dr, Louisville, KY:
+  lat: 38.253893
+  lng: -85.803254
+3100 River Park, Louisville, KY:
   lat: 38.253893
   lng: -85.803254
 3100 Rock Creek Dr, Louisville, KY:
