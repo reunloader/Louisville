@@ -2687,6 +2687,8 @@
 11700 Dixie Hwy, near the intersection of East Pharrell Road and Flowervale Ln, Louisville, KY:
   lat: 38.0852467
   lng: -85.8810103
+11700 East N Arbor Dr, Louisville, KY: null
+11700 East Overdrive, Louisville, KY: null
 11700 English Meadow Dr, Louisville, KY:
   lat: 38.0870756
   lng: -85.6014982
@@ -5202,6 +5204,7 @@
   doors. Multiple police units responded, Louisville, KY
 : null
 1600 West Chessland, Louisville, KY: null
+1600 West Elk Street, Louisville, KY: null
 1600 West L, Louisville, KY: null
 ? 1600 West Ln concerning a 14-year-old male who was reportedly acting out of control
   and stealing belongings. The teenager was described as a black male wearing a green
@@ -10501,6 +10504,7 @@
 300 Graves End Dr, Louisville, KY:
   lat: 38.255761
   lng: -85.775666
+300 Greenhaven Dr, Louisville, KY: null
 300 Hatcher Ave, Louisville, KY:
   lat: 38.153733
   lng: -85.765394
@@ -10575,6 +10579,15 @@
 300 North 24th Street, near Owen St and Duncan St,, Louisville, KY:
   lat: 38.263073
   lng: -85.789242
+? 300 North 26th Street following a report of a residential fire alarm. The alarm
+  company also alerted responders, Louisville, KY
+: null
+300 North 26th Street, Louisville, KY:
+  lat: 38.26498
+  lng: -85.793186
+300 North 26th Street. Evacuations were initiated as the situation was assessed, Louisville, KY:
+  lat: 38.26498
+  lng: -85.793186
 300 North 28th Street, Louisville, KY:
   lat: 38.264039
   lng: -85.797849
@@ -11486,6 +11499,9 @@
   lat: 38.2076133
   lng: -85.6642191
 3200 Hoover Barton Rd, Louisville, KY: null
+3200 Indian Lake Dr, Louisville, KY:
+  lat: 38.28879
+  lng: -85.5454661
 ? 3200 Indian Trail following a report of suspicious activity. A male subject was
   reportedly being booked at the scene. The exact nature of the suspicious behavior
   or the reason, Louisville, KY
@@ -22291,6 +22307,10 @@
 9400 Bronzeridge Pl, near Crop St and Chambers Way, Louisville, KY:
   lat: 38.1128554
   lng: -85.6502558
+9400 Brown Austin Rd due, Louisville, KY: null
+9400 Brown Austin Rd, Louisville, KY:
+  lat: 38.114978
+  lng: -85.765339
 9400 Brownsboro Rd, Louisville, KY:
   lat: 38.3051743
   lng: -85.5766546
