@@ -2315,8 +2315,14 @@
   KY
 : lat: 38.0762726
   lng: -85.8819062
+1100 S Brook St due, Louisville, KY: null
 1100 S Brook St, Louisville, KY:
   lat: 38.2366186
+  lng: -85.7535764
+? 1100 S Brook St. Initial reports indicated a multi-storied fire, though there were
+  no immediate signs of smoke or flames showing from the exterior. Firefighters were
+  preparing, Louisville, KY
+: lat: 38.2366186
   lng: -85.7535764
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
@@ -2338,6 +2344,10 @@
   actions were not immediately available., Louisville, KY
 : null
 1100 Silvercrest Ln. Further details, Louisville, KY: null
+? 1100 South 17th Street following a report of a possible overdose. The incident involved
+  a young child who was found unresponsive. Emergency medical services were able,
+  Louisville, KY
+: null
 1100 South 17th Street, Louisville, KY:
   lat: 38.238336
   lng: -85.783811
