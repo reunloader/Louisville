@@ -9602,6 +9602,9 @@
 2600 West Market, Louisville, KY:
   lat: 38.2594009
   lng: -85.7938825
+2600 Wilson Ave, Louisville, KY:
+  lat: 38.23364
+  lng: -85.797476
 2700 7th St Rene Rd, Louisville, KY: null
 2700 7th Street, Louisville, KY:
   lat: 38.2131547
@@ -10887,6 +10890,7 @@
 300 [Unspecified Street], Louisville, KY: null
 300 an unspecified location, as directed by a major, Louisville, KY: null
 300 an unspecified location, as directed by a major., Louisville, KY: null
+300 an unspecified location, with three animals reportedly, Louisville, KY: null
 300 an unspecified street, Louisville, KY: null
 300 an unspecified street. Unit 10 Adam was en route to assess the situation., Louisville, KY: null
 300 an unspecified street. Unit 10 Adam was en route, Louisville, KY: null
@@ -19128,6 +19132,9 @@
 700 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+700 Beaver St. Further details, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 700 Braddock Dr, Louisville, KY: null
 700 Brent St, Louisville, KY:
   lat: 38.243692
@@ -23387,6 +23394,7 @@ Springdale Rd and Brownsboro Rd, Louisville, KY:
   lng: -85.6039019
 Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
+Springhurst Road and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
 St Rene Rd and Algonquin Pky, Louisville, KY: null
