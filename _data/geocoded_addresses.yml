@@ -2145,6 +2145,9 @@
 1100 Cherokee Rd, Louisville, KY:
   lat: 38.2389519
   lng: -85.7196515
+1100 Clay Ave, Louisville, KY:
+  lat: 38.1416327
+  lng: -85.6949115
 1100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
@@ -9259,6 +9262,7 @@
   lat: 38.198204
   lng: -85.8349572
 2500 Data Dr, Louisville, KY: null
+2500 East Point Parkway, Louisville, KY: null
 2500 Eastpoint Centre Dr, Louisville, KY:
   lat: 38.2802299
   lng: -85.5098075
@@ -11279,6 +11283,9 @@
 : lat: 38.219343
   lng: -85.617987
 3000 Taylor's Old Mill Rd, Louisville, KY: null
+3000 Thomas Ln, Louisville, KY:
+  lat: 38.2191751
+  lng: -85.703267
 3000 Vogue Ave, Louisville, KY:
   lat: 38.207532
   lng: -85.635854
@@ -18486,6 +18493,7 @@
 6200 Mistflower Cir. The occupant, a male, was believed, Louisville, KY:
   lat: 38.3303026
   lng: -85.5632085
+6200 Newton Woods Trail, Louisville, KY: null
 6200 Preston, Louisville, KY:
   lat: 38.1613928
   lng: -85.7001322
@@ -22397,6 +22405,9 @@
   Louisville, KY
 : null
 900 where the line was answered and then abruptly disconnected. Responding units were unable, Louisville, KY: null
+9000 Aluma Ln, Louisville, KY:
+  lat: 38.1337955
+  lng: -85.7614174
 9000 Beulah Church, Louisville, KY:
   lat: 38.147254
   lng: -85.595159
@@ -23148,6 +23159,7 @@ Billtown Rd and Schaffner Ave, Louisville, KY: null
 Billtown Rd and Shaffer Ln, Louisville, KY: null
 Bishop Ln and Jennings Ln, Louisville, KY: null
 Bishop Ln and Newburg Rd, Louisville, KY: null
+Blankenbaker Pky and Upland Rd, Louisville, KY: null
 Blast On Road and Engine Drive, Louisville, KY: null
 Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blenheim Street and Don Allen Rd, Louisville, KY: null
