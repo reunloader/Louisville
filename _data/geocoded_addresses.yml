@@ -1979,6 +1979,9 @@
 10500 Fairview Ave, Louisville, KY:
   lat: 38.2098788
   lng: -85.775154
+10500 Glenmary Farm Dr, Louisville, KY:
+  lat: 38.127022
+  lng: -85.565069
 10500 Moonlight Way, Louisville, KY:
   lat: 38.1011616
   lng: -85.8353954
@@ -7906,6 +7909,9 @@
 2000 That Was Full Of Iron, Louisville, KY: null
 2000 Triangle Dr at Hess Rd, Louisville, KY: null
 2000 Turrell Lane, Louisville, KY: null
+2000 Tyler Ln, Louisville, KY:
+  lat: 38.2135801
+  lng: -85.6830131
 ? 2000 Unity Pl after a residential alarm was activated. The location was noted as
   being associated with U of L fraternities. Responding officers were later cancelled
   as the alarm was determined, Louisville, KY
@@ -8689,6 +8695,9 @@
 2300 Clarkwood Rd, Louisville, KY:
   lat: 38.286387
   lng: -85.658244
+2300 Clemons Way, Louisville, KY:
+  lat: 38.207007
+  lng: -85.436419
 2300 Cross Hill Rd, Louisville, KY:
   lat: 38.245803
   lng: -85.69614
@@ -18188,6 +18197,9 @@
 600 W River Rd, Louisville, KY:
   lat: 38.2750509
   lng: -85.7028488
+600 W Woodlawn Ave, Louisville, KY:
+  lat: 38.1819931
+  lng: -85.771949
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
   accident. A patient was reportedly taken from the scene prior to the accident.,
   Louisville, KY
