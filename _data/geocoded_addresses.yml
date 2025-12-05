@@ -8832,6 +8832,9 @@
 2300 Rodman St. A six-year-old male was the subject of the medical assistance call. The specific reason, Louisville, KY:
   lat: 38.215448
   lng: -85.768904
+2300 Rose, Louisville, KY:
+  lat: 38.1761676
+  lng: -85.8557864
 2300 South 37th Street concerning a 47-year-old individual, Louisville, KY: null
 ? 2300 South 4th Street. The incident also involved a blue vehicle that had struck
   a sidewall. Police units were requested to assist at the scene., Louisville, KY
@@ -11806,6 +11809,9 @@
   lat: 38.2242622
   lng: -85.7878189
 3259 David Street, Louisville, KY: null
+3300 Algonquin Pky, Louisville, KY:
+  lat: 38.224408
+  lng: -85.810404
 3300 Arterburn Ave, Louisville, KY:
   lat: 38.254525
   lng: -85.673903
@@ -22440,6 +22446,9 @@
 9100 S Brook St, Louisville, KY:
   lat: 38.2141519
   lng: -85.7572545
+9100 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 9100 South Brook, Louisville, KY:
   lat: 38.2435645
   lng: -85.7520475
