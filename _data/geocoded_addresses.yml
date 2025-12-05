@@ -1845,6 +1845,9 @@
 1001 West Whitney Avenue, Louisville, KY:
   lat: 38.1935843
   lng: -85.7773013
+10100 Autumn Gardens Way, Louisville, KY:
+  lat: 38.0953209
+  lng: -85.6874291
 10100 Beulah Vista Way, Louisville, KY: null
 10100 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1449887
@@ -20401,6 +20404,9 @@
   lat: 38.2471058
   lng: -85.6070451
 7300 Crescent Royal Wood, Louisville, KY: null
+7300 Dean Dr, Louisville, KY:
+  lat: 38.2111767
+  lng: -85.6563578
 7300 E W Market St, Louisville, KY: null
 7300 Fairhill Dr, Louisville, KY:
   lat: 38.2691938
