@@ -2238,6 +2238,9 @@
 1100 Longfield Ave, Louisville, KY:
   lat: 38.198414
   lng: -85.7785067
+1100 Longfield, Louisville, KY:
+  lat: 38.198414
+  lng: -85.7785067
 1100 Maple Brook Dr, Louisville, KY:
   lat: 38.3022833
   lng: -85.5439993
@@ -9327,6 +9330,9 @@
 2600 Algonquin Pky, Louisville, KY:
   lat: 38.2234208
   lng: -85.8004121
+2600 Allston Ave, Louisville, KY:
+  lat: 38.2200297
+  lng: -85.8004003
 2600 Bank St, Louisville, KY:
   lat: 38.2692147
   lng: -85.7914568
@@ -21847,6 +21853,9 @@
 : null
 900 N S S English Station Rd, Louisville, KY: null
 900 Open Line**, Louisville, KY: null
+900 Packard Ave, Louisville, KY:
+  lat: 38.2093791
+  lng: -85.7353133
 900 Palacca Road, Louisville, KY: null
 ? 900 Palatka Rd following a report of a domestic disturbance. A father was described
   as being outside the residence, attempting, Louisville, KY
@@ -22173,6 +22182,9 @@
 9100 Lexington Rd, Louisville, KY:
   lat: 38.2485889
   lng: -85.6808373
+9100 S Brook St, Louisville, KY:
+  lat: 38.2141519
+  lng: -85.7572545
 9100 South Brook, Louisville, KY:
   lat: 38.2435645
   lng: -85.7520475
