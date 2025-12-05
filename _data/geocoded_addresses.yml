@@ -4494,6 +4494,9 @@
 1400 [Street Name Not Provided], Louisville, KY:
   lat: 38.2347369
   lng: -85.825457
+? 14000 Dolly Madison Ct. A witness reported a tall white male wearing a hat and black
+  jacket exited a white Lincoln MKX, appeared, Louisville, KY
+: null
 14000 Old Station Rd following the activation of a commercial fire alarm. Crews arrived, Louisville, KY: null
 14000 Old Station Rd, Louisville, KY:
   lat: 38.2460035
@@ -9777,6 +9780,9 @@
 ? 2700 W W Kentucky St. Details indicated a subject with a "red code," and police
   units were dispatched to the scene., Louisville, KY
 : null
+2700 Wendell Ave, Louisville, KY:
+  lat: 38.219087
+  lng: -85.659778
 2700 West Ali, Louisville, KY:
   lat: 38.2550784
   lng: -85.795778
@@ -22569,6 +22575,10 @@
   lat: 38.1074176
   lng: -85.6472948
 9600 Millstone Dr, Louisville, KY: null
+? 9600 Preston Spring Dr. The incident involved an intoxicated boyfriend who allegedly
+  assaulted a female. The female declined, Louisville, KY
+: lat: 38.108708
+  lng: -85.6678
 9600 South 4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
