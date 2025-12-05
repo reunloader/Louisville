@@ -2007,6 +2007,7 @@
 10600 Taylor-Hill Rd, Louisville, KY: null
 10600 U, Louisville, KY: null
 10600 Waterson Trail, Louisville, KY: null
+10600 Waterston Trail, Louisville, KY: null
 10600 Wemberley Hill Blvd, Louisville, KY:
   lat: 38.2916541
   lng: -85.5548359
@@ -9466,6 +9467,9 @@
   lat: 38.1315529
   lng: -85.6140436
 2600 Birkenridge, Louisville, KY: null
+2600 Bradford Commons Dr, Louisville, KY:
+  lat: 38.2019277
+  lng: -85.5299878
 2600 Cleveland Blvd, Louisville, KY:
   lat: 38.260725
   lng: -85.702196
@@ -21455,6 +21459,7 @@
 8200 Georgetown Pl, Louisville, KY:
   lat: 38.195098
   lng: -85.7934352
+8200 Glenway Ct, Louisville, KY: null
 8200 Greenwood Rd, Louisville, KY:
   lat: 38.1474857
   lng: -85.900493
@@ -21915,6 +21920,9 @@
 900 Breckenridge Ln, Louisville, KY:
   lat: 38.2277761
   lng: -85.6360795
+900 Brentwood Ave, Louisville, KY:
+  lat: 38.1946159
+  lng: -85.774954
 900 Burton Ave, Louisville, KY:
   lat: 38.206738
   lng: -85.773152
