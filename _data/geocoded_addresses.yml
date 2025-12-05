@@ -2467,6 +2467,12 @@
 1100 Vesper Ln, Louisville, KY:
   lat: 38.1052658
   lng: -85.8662311
+1100 W Ashland Ave, Louisville, KY:
+  lat: 38.1864
+  lng: -85.77917
+1100 W Ashland Ave, at the intersection of Peachtree and Mapleton,, Louisville, KY:
+  lat: 38.1864
+  lng: -85.77917
 1100 W Liberty St, Louisville, KY:
   lat: 38.253688
   lng: -85.769004
@@ -18208,6 +18214,9 @@
   lat: 38.2750509
   lng: -85.7028488
 600 W Woodlawn Ave, Louisville, KY:
+  lat: 38.1819931
+  lng: -85.771949
+600 W Woodlawn Ave, near Southcrest Dr and South 6th Street. Rescue teams worked, Louisville, KY:
   lat: 38.1819931
   lng: -85.771949
 ? 600 Walnut Ridge following a report of a medical emergency connected to a vehicle
