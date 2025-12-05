@@ -4505,6 +4505,7 @@
   lat: 38.2211
   lng: -85.5265157
 1400 Tulpa Street, Louisville, KY: null
+1400 Twin Ridge Rd, Louisville, KY: null
 1400 W Jefferson St, Louisville, KY: null
 1400 West Broadway, Louisville, KY:
   lat: 38.2475587
@@ -11280,6 +11281,7 @@
   lat: 38.210066
   lng: -85.686322
 3000 Wolfman Avenue, Louisville, KY: null
+3000 Working Ridge Lane, Louisville, KY: null
 ? 3000 an unspecified street for a medical emergency. Multiple units were dispatched
   to the scene. The nature of the injury was described as an "Injured 9," and the
   call indicated an interior location within the residence. Responders worked to assess
@@ -17644,6 +17646,9 @@
   lat: 38.1381377
   lng: -85.652542
 5900 Outer Loop near St. Athan NASA School, Louisville, KY:
+  lat: 38.1381377
+  lng: -85.652542
+5900 Outer Loop, Louisville, KY:
   lat: 38.1381377
   lng: -85.652542
 5900 Santa Fe, Louisville, KY:
