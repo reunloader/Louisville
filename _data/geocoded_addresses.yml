@@ -7522,6 +7522,9 @@
 2000 Brownsboro Rd at Thorntons, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Brownsboro Rd near North Clifton and Lindsay, Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
 2000 Brownsboro Rd prompted a business check by responding units, Louisville, KY: null
 2000 Brownsboro Rd, Louisville, KY:
   lat: 38.259507
@@ -16154,6 +16157,9 @@
 500 Slack Ave, Louisville, KY:
   lat: 38.1101382
   lng: -85.689338
+500 South 18th Street near West Madison and West Muhammad Ali, Louisville, KY:
+  lat: 38.2535374
+  lng: -85.7808463
 500 South 18th Street, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
@@ -17755,6 +17761,9 @@
 600 South 16th Street, near Magazine St and Plymouth Ct,, Louisville, KY:
   lat: 38.251021
   lng: -85.777865
+600 South 18th Street near Magazine St and Plymouth Avenue, Louisville, KY:
+  lat: 38.2513953
+  lng: -85.7812397
 600 South 27th Street, Louisville, KY:
   lat: 38.251746
   lng: -85.796306
@@ -23024,6 +23033,7 @@ Lyman Street and Reed Road, Louisville, KY: null
 Mae St and Kidd Avenue, Louisville, KY:
   lat: 38.2296677
   lng: -85.8193981
+Magazine St and Plymouth Avenue, Louisville, KY: null
 Main St and Cecil St, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
 Malin Lane and Ballardsville Rd, Louisville, KY: null
