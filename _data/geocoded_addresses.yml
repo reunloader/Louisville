@@ -3309,6 +3309,13 @@
 1200 W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+1200 W Main St, Louisville, KY:
+  lat: 38.25801
+  lng: -85.769933
+? 1200 W Main St. The nature of the alarm and the business involved were not specified.
+  Responding units assessed the situation, Louisville, KY
+: lat: 38.25801
+  lng: -85.769933
 1200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2524203
   lng: -85.7709853
@@ -5312,6 +5319,10 @@
   lat: 38.2092826
   lng: -85.7831319
 1600 Two Strings, Louisville, KY: null
+1600 W Chestnut St due, Louisville, KY: null
+1600 W Chestnut St near 16th and 17th Streets, Louisville, KY:
+  lat: 38.251069
+  lng: -85.77791
 1600 W Chestnut St, Louisville, KY:
   lat: 38.251069
   lng: -85.77791
@@ -6264,6 +6275,9 @@
 1900 Grand Ridge Rd. The vehicle was last seen heading north away from the area. Police units were alerted, Louisville, KY:
   lat: 38.141355
   lng: -85.798928
+1900 Heather Ln, Louisville, KY:
+  lat: 38.2076133
+  lng: -85.6642191
 1900 Hikes Ln, Louisville, KY:
   lat: 38.2061085
   lng: -85.6488189
@@ -8472,6 +8486,9 @@
 2200 Hale Ave. Some units were involved directly, while others were placed, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
+2200 Heather Ln. However, the patient decided, Louisville, KY:
+  lat: 38.2076133
+  lng: -85.6642191
 2200 Hill, Louisville, KY:
   lat: 38.2458751
   lng: -85.6963793
@@ -21154,6 +21171,12 @@
 800 Edith Rose and the 400 block of Baker, Louisville, KY: null
 800 Edith Rose and the 400 block of Baker., Louisville, KY: null
 800 Edith Rose, Louisville, KY: null
+800 Forrest St, Louisville, KY:
+  lat: 38.221639
+  lng: -85.74239
+800 Forrest St. The specific reason, Louisville, KY:
+  lat: 38.221639
+  lng: -85.74239
 800 Foxgate Rd, Louisville, KY:
   lat: 38.252958
   lng: -85.552025
@@ -21328,6 +21351,13 @@
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+800 St, Louisville, KY:
+  lat: 38.2478461
+  lng: -85.7388365
+? 800 St. Armand's Court. The details of the activity were not fully clear, but the
+  report mentioned potential trespassing. Responding officers were observed clearing
+  the scene, Louisville, KY
+: null
 800 Style Up, Louisville, KY: null
 ? 800 Style Up, at the intersection of Kimberlake and Foxboro. The specific nature
   of the medical issue was not detailed, but the call was categorized as "Medical
