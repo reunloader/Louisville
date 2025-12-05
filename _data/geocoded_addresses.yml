@@ -7116,6 +7116,9 @@
   lat: 38.2607234
   lng: -85.7797189
 200 North, just past Old Henry, Louisville, KY: null
+200 North, near West Fort Rose. The incident involved a black Toyota Corolla. Officers were dispatched, Louisville, KY:
+  lat: 38.2474268
+  lng: -85.7820297
 200 North, near mile marker 29, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -15899,6 +15902,7 @@
 4700 Quinton Dr, Louisville, KY:
   lat: 38.2064365
   lng: -85.8301169
+4700 Rockford Plaza, Louisville, KY: null
 4700 Shenandoah Dr, Louisville, KY:
   lat: 38.3107597
   lng: -85.5504872
@@ -18932,6 +18936,9 @@
 6500 Hackel Dr. The specific reason, Louisville, KY:
   lat: 38.1675274
   lng: -85.8738864
+6500 Halstead Ave, Louisville, KY:
+  lat: 38.1688793
+  lng: -85.7111186
 6500 Hunters Chase Ln, Louisville, KY:
   lat: 38.1643435
   lng: -85.8712779
