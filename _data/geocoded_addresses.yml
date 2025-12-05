@@ -3308,6 +3308,9 @@
 1200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2524203
   lng: -85.7709853
+1200 W Oak St, Louisville, KY:
+  lat: 38.2359727
+  lng: -85.7738197
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -11834,6 +11837,9 @@
   provide necessary medical assistance., Louisville, KY
 : null
 3200 Taylor Blvd, Louisville, KY:
+  lat: 38.2051349
+  lng: -85.7786368
+3200 Taylor Blvd. Police units were present, Louisville, KY:
   lat: 38.2051349
   lng: -85.7786368
 3200 Timmons Way, Louisville, KY:
