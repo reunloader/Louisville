@@ -14386,6 +14386,9 @@
   lng: -85.6353957
 4000 White Plains Ct, with indications that someone might be attempting, Louisville, KY: null
 4000 Willoughby Boulevard, Louisville, KY: null
+4000 Wilmoth Ave, Louisville, KY:
+  lat: 38.191913
+  lng: -85.8689
 4000 Woodruff Ave to investigate a report of assault by harassment., Louisville, KY: null
 4000 Woodruff Ave, Louisville, KY:
   lat: 38.1862227
@@ -20085,6 +20088,12 @@
   lng: -85.628687
 7100 Brunner's Way, Louisville, KY: null
 7100 Bungan Avenue, Louisville, KY: null
+7100 Cardinal Oaks Dr, Louisville, KY:
+  lat: 38.152827
+  lng: -85.817014
+7100 Cardinal Oaks Dr. Police units were dispatched, Louisville, KY:
+  lat: 38.152827
+  lng: -85.817014
 7100 Cedar Brook Dr, Louisville, KY:
   lat: 38.1334661
   lng: -85.6665574
@@ -20730,6 +20739,7 @@
 7700 Outer Loop, Louisville, KY:
   lat: 38.1370967
   lng: -85.6184393
+7700 Renate Rd, Southwest Hospital parking lot, Louisville, KY: null
 7700 Rochelle Rd, Louisville, KY:
   lat: 38.1351861
   lng: -85.6352691
@@ -23505,6 +23515,7 @@ Moser Rd and Shelbyville Rd, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
 Murphy Ln and Halifax Dr, Louisville, KY: null
 Murray Ln and Raggard Rd, Louisville, KY: null
+Nancy Ln and Lila Ave, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
 New Cut Rd and Cogan Blvd, Louisville, KY: null
