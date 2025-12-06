@@ -28111,4 +28111,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 2
   batch_new_successes: 1
-last_updated: '2025-12-06T12:04:21.671831'
+- timestamp: '2025-12-06T12:13:57.851932'
+  total_addresses: 10211
+  successful: 5145
+  failed: 5066
+  success_rate: 50.39
+  failure_rate: 49.61
+  failure_patterns:
+    Contains location qualifiers (near/at): 1757
+    Incomplete/vague address: 1028
+    Intersection format: 895
+    Contains extra sentences/context: 433
+    Other/Unknown: 948
+    Police phonetic codes: 5
+  batch_success_rate: 66.67
+  batch_new_addresses: 3
+  batch_new_successes: 2
+last_updated: '2025-12-06T12:13:57.852071'

@@ -4807,6 +4807,7 @@
 1500 Bardstown Road, Louisville, KY:
   lat: 38.2316448
   lng: -85.7088797
+1500 Barry, Louisville, KY: null
 ? 1500 Bellamy Pl reported feeling unsafe after someone was heard knocking at their
   door, while their roommate was texting them, Louisville, KY
 : null
@@ -19023,6 +19024,9 @@
 6200 Preston. Further assistance was requested by officers already on the scene, Louisville, KY:
   lat: 38.1613928
   lng: -85.7001322
+6200 Price Lane Rd, Louisville, KY:
+  lat: 38.104397
+  lng: -85.647882
 6200 Richiewayne Dr, Louisville, KY: null
 6200 River Terrace Pl, Louisville, KY:
   lat: 38.1532388
@@ -20709,6 +20713,9 @@
 7100 Johnsontown Rd, Louisville, KY:
   lat: 38.1159595
   lng: -85.8907355
+7100 Lower Hunters Trace, Louisville, KY:
+  lat: 38.174218
+  lng: -85.880228
 7100 M Street, Louisville, KY:
   lat: 38.2092052
   lng: -85.7665391
