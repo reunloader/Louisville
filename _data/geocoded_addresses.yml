@@ -1974,6 +1974,10 @@
   lat: 38.1485446
   lng: -85.8528443
 10300 Garlanreid Pl, Louisville, KY: null
+10300 Grafton Hall Rd due, Louisville, KY: null
+10300 Grafton Hall Rd, Louisville, KY:
+  lat: 38.1050202
+  lng: -85.8561608
 ? 10300 King Oak Street Court. The call was for a 56-year-old female experiencing
   difficulty breathing. She was reportedly waiting by the back door in a wheelchair
   for assistance., Louisville, KY
@@ -7074,6 +7078,12 @@
 200 Eastern Parkway, Louisville, KY:
   lat: 38.213278
   lng: -85.757281
+200 El Conquistador Pl, Louisville, KY:
+  lat: 38.217071
+  lng: -85.630312
+200 El Conquistador Pl. The individual was unable, Louisville, KY:
+  lat: 38.217071
+  lng: -85.630312
 200 Eldorado Ave, Louisville, KY:
   lat: 38.189499
   lng: -85.634899
@@ -18461,6 +18471,9 @@
 600 John Adams Way, Louisville, KY:
   lat: 38.0628557
   lng: -85.8935539
+600 Kinross Blvd, Louisville, KY:
+  lat: 38.0606724
+  lng: -85.8917714
 600 LaFontaine Court, Louisville, KY: null
 ? 600 LaFontaine Court. The initial call indicated a male had tackled a female, and
   the male was reportedly detained by responding officers. The caller disconnected
@@ -23328,6 +23341,8 @@
 9300 Pinto Court. Officers responded, Louisville, KY:
   lat: 38.116221
   lng: -85.763218
+9300 Walhampton Dr, Louisville, KY: null
+9300 Walhampton Dr. They were attending, Louisville, KY: null
 9400 600 block of Lane, Louisville, KY: null
 9400 Amber Ridge Ct, Louisville, KY:
   lat: 38.1181052
