@@ -2027,6 +2027,7 @@
 10500 Moonlight Way, Louisville, KY:
   lat: 38.1011616
   lng: -85.8353954
+10500 Old Pagersville Road, Louisville, KY: null
 10500 Seatonville Rd, Louisville, KY:
   lat: 38.145184
   lng: -85.566692
@@ -3298,6 +3299,12 @@
 1200 South Crescent Street, Louisville, KY: null
 1200 South Crestle Street, Louisville, KY: null
 1200 South Firstree, Louisville, KY: null
+1200 South Jackson, Louisville, KY:
+  lat: 38.23365
+  lng: -85.747679
+1200 South Jackson. Police units were dispatched, Louisville, KY:
+  lat: 38.23365
+  lng: -85.747679
 1200 South Orchard, Louisville, KY: null
 1200 South Second Street, Louisville, KY: null
 1200 South St, Louisville, KY:
@@ -3510,6 +3517,7 @@
   blood sugar and was unresponsive. Medical personnel were on scene, Louisville, KY
 : null
 12500 Faxme Park Circle, Louisville, KY: null
+12500 Kettlesville Road, Louisville, KY: null
 12500 Laverton Ave, Louisville, KY:
   lat: 38.0606856
   lng: -85.894423
@@ -5137,6 +5145,10 @@
   KY
 : null
 1600 Arthur Street, Louisville, KY:
+  lat: 38.223421
+  lng: -85.751404
+1600 Arthur in response, Louisville, KY: null
+1600 Arthur, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
 1600 Bardstown Rd, Louisville, KY:
