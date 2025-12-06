@@ -9929,6 +9929,9 @@
 2600 Madison, Louisville, KY:
   lat: 38.2540077
   lng: -85.7945055
+2600 Meadow Dr, Louisville, KY:
+  lat: 38.2089547
+  lng: -85.6571197
 2600 Narwood Dr, Louisville, KY: null
 2600 Neblick Ave, Louisville, KY: null
 2600 Neblick Avenue, near Hampstead Dr and Ralph Ave,, Louisville, KY: null
@@ -10275,6 +10278,10 @@
   lng: -85.796749
 ? 2700 West Broadway. He was described as wearing a blue jacket and black pants. Emergency
   medical services were dispatched, Louisville, KY
+: lat: 38.249441
+  lng: -85.796749
+? 2700 West Broadway. The person, described as a black male in a red hoodie and camo
+  jacket, was reportedly handling an item and refusing, Louisville, KY
 : lat: 38.249441
   lng: -85.796749
 2700 West Madison Street 9:00 a, Louisville, KY: null
@@ -13396,6 +13403,10 @@
   lat: 38.189189
   lng: -85.780662
 3800 Pete Street Avenue, Louisville, KY: null
+3800 Poplar Level Rd, Louisville, KY:
+  lat: 38.2047352
+  lng: -85.7134974
+3800 Poplar Level Rd, specifically at a side door, Louisville, KY: null
 3800 Poplova Road, Louisville, KY: null
 ? 3800 Ralph Ave following a report of an individual who was unconscious and not breathing.
   The situation was later updated, Louisville, KY
