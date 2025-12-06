@@ -13305,6 +13305,10 @@
   lat: 38.187962
   lng: -85.793918
 3800 Corvair Court, near Foverbrook Drive., Louisville, KY: null
+3800 East in response, Louisville, KY: null
+3800 East, Louisville, KY:
+  lat: 38.1701805
+  lng: -85.6894425
 3800 Fitzgerald Rd at Diageo, Louisville, KY: null
 3800 Fitzgerald Rd, Louisville, KY: null
 ? 3800 Frankfort Ave following a report of a male who had passed out. The call specified
@@ -17899,6 +17903,9 @@
 5500 Forest Lake Dr, Louisville, KY:
   lat: 38.3299609
   lng: -85.6257871
+5500 Fran Ct, Louisville, KY:
+  lat: 38.168214
+  lng: -85.582118
 5500 Georgia Ln, Louisville, KY:
   lat: 38.1462952
   lng: -85.6585987
@@ -23388,6 +23395,9 @@
   lat: 38.1023548
   lng: -85.8678332
 9215 Baffauer Street, Louisville, KY: null
+9300 Blazing Star Ln, Louisville, KY:
+  lat: 38.3261177
+  lng: -85.569662
 9300 Blue Lick Rd, Louisville, KY:
   lat: 38.1148527
   lng: -85.6895921
@@ -24127,6 +24137,7 @@ Factory Ln and Chamberlain Ln, Louisville, KY: null
 Fairground Rd and Barchetown Road, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
+Featherbell Blvd and Dayflower St, Louisville, KY: null
 Featherbell Blvd and Jimson St, Louisville, KY: null
 Fern Creek Rd and Eldorado Ave, Louisville, KY: null
 Fern Valley Rd and Cherison Boulevard, Louisville, KY: null
