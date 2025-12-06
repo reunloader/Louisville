@@ -16991,6 +16991,9 @@
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+500 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 500 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -17941,6 +17944,7 @@
 5300 Rookwood Ave, Louisville, KY:
   lat: 38.1738094
   lng: -85.663583
+5300 South Papa Street, Louisville, KY: null
 5300 Southdale Rd, Louisville, KY:
   lat: 38.151808
   lng: -85.778781
