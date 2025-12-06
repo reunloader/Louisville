@@ -4508,6 +4508,13 @@
 1400 South 26th Street near Congress St, Louisville, KY:
   lat: 38.241277
   lng: -85.7958157
+? 1400 South 28th Street following a complaint about a male causing a significant
+  disturbance. The caller indicated that the landlord had advised them, Louisville,
+  KY
+: null
+1400 South 28th Street, Louisville, KY:
+  lat: 38.23395
+  lng: -85.800823
 1400 South 2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
@@ -5797,6 +5804,10 @@
 1700 W Gaulbert Ave, Louisville, KY:
   lat: 38.2269643
   lng: -85.7849963
+? 1700 W Hill St in relation to a Ford Expedition that was being sought. The vehicle
+  was associated with an investigation concerning a 400 block of Gray. Officers were
+  monitoring the area, Louisville, KY
+: null
 1700 W Hill St, Louisville, KY:
   lat: 38.2277495
   lng: -85.7849266
@@ -10594,6 +10605,10 @@
 2900 Virginia Ave, Louisville, KY:
   lat: 38.2379267
   lng: -85.8021306
+2900 W Kentucky St following a report of an assault. A 37-year-old individual was found, Louisville, KY: null
+2900 W Kentucky St, Louisville, KY:
+  lat: 38.243682
+  lng: -85.80115
 2900 W Market St, Louisville, KY:
   lat: 38.2600523
   lng: -85.7996489
@@ -22683,6 +22698,9 @@
 900 Rowan St, Louisville, KY:
   lat: 38.2599004
   lng: -85.7738324
+? 900 S Brook St after a call was received and then abruptly disconnected. After further
+  investigation and communication, responders were able, Louisville, KY
+: null
 900 S Brook St near Brickenridge and S Brook St, Louisville, KY:
   lat: 38.241061
   lng: -85.752613
