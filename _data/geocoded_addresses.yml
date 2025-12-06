@@ -904,6 +904,7 @@
 100 Wheeler Ave, Louisville, KY:
   lat: 38.1821435
   lng: -85.789056
+100 Whisp Brook Cir, Louisville, KY: null
 100 Whitehall Terrace, Louisville, KY:
   lat: 38.214071
   lng: -85.6309297
@@ -5275,6 +5276,10 @@
 1600 Berea Dr. The specific circumstances leading, Louisville, KY:
   lat: 38.1228956
   lng: -85.607913
+? 1600 Berkman Ridge Lane to check on a male individual who was reported to be present.
+  The nature of the concern, Louisville, KY
+: null
+1600 Berkman Ridge Lane, Louisville, KY: null
 1600 Berry Blvd, Louisville, KY:
   lat: 38.1960039
   lng: -85.7909964
@@ -12013,6 +12018,12 @@
 3100 Star Hill Dr. Police units were dispatched, Louisville, KY:
   lat: 38.1605786
   lng: -85.6170069
+3100 Sudbury Ln, Louisville, KY:
+  lat: 38.205252
+  lng: -85.627503
+3100 Sudbury Ln. Responding units were dispatched, Louisville, KY:
+  lat: 38.205252
+  lng: -85.627503
 3100 Taylor Blvd, Louisville, KY:
   lat: 38.2064352
   lng: -85.7768145
@@ -17389,6 +17400,14 @@
 5000 Shelbyville Rd. The alarm was reportedly activated at 6:03 a.m. Further details, Louisville, KY:
   lat: 38.247028
   lng: -85.6228127
+5000 Shepherdsville Rd, Louisville, KY:
+  lat: 38.178216
+  lng: -85.6602098
+? 5000 Shepherdsville Rd, near a Circle K, following a report of suspicious activity.
+  The specific details of the activity were not provided, but authorities were on
+  scene, Louisville, KY
+: lat: 38.178216
+  lng: -85.6602098
 5000 South 3rd Street, Louisville, KY:
   lat: 38.174602
   lng: -85.767556
@@ -18052,6 +18071,9 @@
 5500 Fern Valley Rd, Louisville, KY:
   lat: 38.1556056
   lng: -85.6590131
+5500 Fernfield Dr, Louisville, KY:
+  lat: 38.1492435
+  lng: -85.6566782
 5500 Forest Lake Dr, Louisville, KY:
   lat: 38.3299609
   lng: -85.6257871
@@ -21047,6 +21069,14 @@
   lat: 38.2861839
   lng: -85.6197265
 7100 an unspecified street, Louisville, KY: null
+7200 Adam Meadow Ct, Louisville, KY:
+  lat: 38.1553623
+  lng: -85.6705135
+? 7200 Adam Meadow Ct. Allegations included the suspect striking the victim in the
+  face, and there was a concern that the suspect might be armed. Responding units
+  were dispatched, Louisville, KY
+: lat: 38.1553623
+  lng: -85.6705135
 7200 Alameter Ct, Louisville, KY:
   lat: 38.1500467
   lng: -85.8296634
