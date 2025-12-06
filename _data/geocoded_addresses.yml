@@ -2340,6 +2340,10 @@
 1100 Lincoln Ave, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
+1100 Linden Ln, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
+1100 Linden Ln, specifically at Linden Woods Nursing Home. Emergency personnel were dispatched, Louisville, KY: null
 1100 Logan St, Louisville, KY:
   lat: 38.2351031
   lng: -85.7398515
@@ -7045,6 +7049,9 @@
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East from I-64 West, Louisville, KY: null
 200 East near Kentucky Ave, Louisville, KY: null
+200 East near Marchtown Road, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near exit 19A, Louisville, KY: null
 200 East near mile marker 8, Louisville, KY:
   lat: 38.1861148
@@ -9384,6 +9391,10 @@
 2400 Griffiths Ave., Louisville, KY:
   lat: 38.2652399
   lng: -85.7883019
+? 2400 Hermitage Way following a report of a gas leak. Occupants detected a smell
+  of gas inside the venue and were preparing, Louisville, KY
+: null
+2400 Hermitage Way, Louisville, KY: null
 2400 High Pine Dr, Louisville, KY:
   lat: 38.1680939
   lng: -85.803738
@@ -11776,6 +11787,14 @@
 3100 Commander Dr, Louisville, KY:
   lat: 38.2184514
   lng: -85.6561132
+3100 Commerce Center Pl, Louisville, KY:
+  lat: 38.2200217
+  lng: -85.8093717
+? 3100 Commerce Center Pl, near Cain Run and Cousin's Venue. The incident involved
+  a 40-year-old male who had reportedly passed out inside the location. Responders
+  were directed, Louisville, KY
+: lat: 38.2200217
+  lng: -85.8093717
 ? 3100 Dalebrook Avenue to assist a 42-year-old female experiencing significant chest
   pain, shortness of breath, and abdominal discomfort. Due to the severity of her
   symptoms, a higher level of medical response was initiated to ensure the patient
@@ -13313,6 +13332,7 @@
 3700 W Magnolia Ave, Louisville, KY:
   lat: 38.2338952
   lng: -85.816972
+3700 W Wheatmore Dr due, Louisville, KY: null
 ? 3700 W Wheatmore Dr for a 63-year-old male complaining of foot pain. The patient
   had recently experienced an incident that may have contributed to his discomfort.,
   Louisville, KY
@@ -14064,6 +14084,8 @@
   lng: -85.74667
 400 East Shepherd Street, Louisville, KY: null
 400 East W Chestnut St, Louisville, KY: null
+400 East W Jacob St, Louisville, KY: null
+400 East W Jacob St, prompting a response from emergency personnel, Louisville, KY: null
 ? 400 East W Kentucky St due to complaints of chest pain and a cough. Responders were
   back in service shortly after 2:17 p.m., Louisville, KY
 : null
