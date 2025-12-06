@@ -3964,6 +3964,9 @@
 1300 South 4th Street near W Magnolia Ave, Louisville, KY:
   lat: 38.2324909
   lng: -85.7610176
+1300 South 4th Street near the 4th Division building, Louisville, KY:
+  lat: 38.2324909
+  lng: -85.7610176
 1300 South 4th Street, Louisville, KY:
   lat: 38.2324909
   lng: -85.7610176
@@ -13320,6 +13323,7 @@
 3700 Warren Ave, Louisville, KY:
   lat: 38.190927
   lng: -85.77663
+3700 Weedmore Drive, Louisville, KY: null
 3700 West Wheatmore, Louisville, KY:
   lat: 38.1905624
   lng: -85.7999149
