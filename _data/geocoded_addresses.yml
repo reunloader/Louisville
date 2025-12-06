@@ -4632,6 +4632,9 @@
 14400 Spring Mill Rd, Louisville, KY:
   lat: 38.2936315
   lng: -85.4952593
+14400 Tyrone Dr, Louisville, KY:
+  lat: 38.200409
+  lng: -85.6731002
 ? 14600 Dominic Michael Drive following a report of an individual in distress. Multiple
   units were deployed to assist in the situation, with a drone being utilized to aid
   in the search. Emergency medical services were requested to the scene. The individual
@@ -16592,6 +16595,7 @@
 500 North 35th Street, Louisville, KY:
   lat: 38.2691315
   lng: -85.805995
+500 North Hubbard Lane, Louisville, KY: null
 500 North35th Street, Louisville, KY:
   lat: 38.2691315
   lng: -85.805995
