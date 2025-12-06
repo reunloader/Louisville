@@ -3961,6 +3961,9 @@
 1300 South 3rd Street. The individual, who had been consuming alcohol, Louisville, KY:
   lat: 38.2325507
   lng: -85.7594371
+1300 South 4th Street near W Magnolia Ave, Louisville, KY:
+  lat: 38.2324909
+  lng: -85.7610176
 1300 South 4th Street, Louisville, KY:
   lat: 38.2324909
   lng: -85.7610176
@@ -5916,6 +5919,9 @@
   activated, creating a significant risk, Louisville, KY
 : null
 1700 W Market St, which was reported as an entry/exit alarm, Louisville, KY: null
+1700 W Oak St near Hopeful Way, Louisville, KY:
+  lat: 38.2368649
+  lng: -85.7830138
 1700 W Oak St, Louisville, KY:
   lat: 38.2368649
   lng: -85.7830138
@@ -7133,6 +7139,7 @@
   The situation was resolved, and the vehicle was cleared from the area., Louisville,
   KY
 : null
+200 Engineering Dr, Louisville, KY: null
 200 Eric Ct, Louisville, KY:
   lat: 38.146714
   lng: -85.6890862
