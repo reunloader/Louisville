@@ -4812,6 +4812,9 @@
   lat: 38.1996606
   lng: -85.7865926
 1500 Crum's Ln, Louisville, KY: null
+1500 Crums Ln, Louisville, KY:
+  lat: 38.190214
+  lng: -85.805523
 1500 Cypress St, Louisville, KY:
   lat: 38.2302114
   lng: -85.7988776
@@ -6700,6 +6703,9 @@
 200 Brownsboro Rd, Louisville, KY:
   lat: 38.2661941
   lng: -85.6585379
+200 Burwell Ave, Louisville, KY:
+  lat: 38.2261448
+  lng: -85.7939294
 200 Cambridge Dr, Louisville, KY:
   lat: 38.1629212
   lng: -85.7679383
@@ -8098,6 +8104,7 @@
   was coded, Louisville, KY
 : lat: 38.2570741
   lng: -85.7584952
+2000 Swiss Village Way, Louisville, KY: null
 2000 TSO, Louisville, KY: null
 2000 Terril Ln, Louisville, KY:
   lat: 38.204566
