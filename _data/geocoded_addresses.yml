@@ -9834,6 +9834,9 @@
   treat the injured individual. Authorities were searching, Louisville, KY
 : null
 2600 South History, Louisville, KY: null
+2600 Titleist Rd near Blossom Ln, Louisville, KY:
+  lat: 38.288499
+  lng: -85.5784941
 2600 Virginia Ave, Louisville, KY:
   lat: 38.2374918
   lng: -85.7968374
@@ -11228,6 +11231,9 @@
 ? 3000 Bon Air Ave involving a 27-year-old female who was experiencing multiple seizures.
   Responding units provided care, Louisville, KY
 : null
+3000 Bon Air Ave near Brighton, Louisville, KY:
+  lat: 38.220249
+  lng: -85.666617
 3000 Bon Air Ave, Louisville, KY:
   lat: 38.220249
   lng: -85.666617
@@ -11237,6 +11243,8 @@
 3000 Bon Air Ave. Emergency medical services were on scene, Louisville, KY:
   lat: 38.220249
   lng: -85.666617
+3000 Bonner Ave, Louisville, KY: null
+3000 Bonner Ave. Further details, Louisville, KY: null
 3000 Bradford Grove Ln, Louisville, KY:
   lat: 38.2077041
   lng: -85.6158099
@@ -16436,6 +16444,12 @@
 500 Belgravia Ct, Louisville, KY:
   lat: 38.2266147
   lng: -85.7636713
+500 Blankenbaker, Louisville, KY:
+  lat: 38.2865521
+  lng: -85.6547365
+500 Blankenbaker. Responding units were dispatched, Louisville, KY:
+  lat: 38.2865521
+  lng: -85.6547365
 500 Brandon Rd, Louisville, KY:
   lat: 38.267296
   lng: -85.685061
