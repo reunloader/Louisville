@@ -2911,6 +2911,9 @@
 1200 Central Ave, Louisville, KY:
   lat: 38.2074097
   lng: -85.7774191
+1200 Cherokee Rd, Louisville, KY:
+  lat: 38.237933
+  lng: -85.7178479
 1200 Conservatory Ln, Louisville, KY: null
 1200 Conservatory Ln, with the specific address noted as 203 Conservatory Ln, Louisville, KY: null
 1200 Crop St or Preston Hwy, Louisville, KY: null
@@ -10906,6 +10909,7 @@
 300 Meadowood Ct. The complainant stated that a neighbor was making threats due, Louisville, KY:
   lat: 38.1508839
   lng: -85.7686919
+300 Meeting St and Riverview, Louisville, KY: null
 300 Metalwood, Louisville, KY: null
 ? 300 Midfield Access Rd due to suspicious activity. Further police units were dispatched
   to investigate the situation., Louisville, KY
@@ -14765,6 +14769,9 @@
   lat: 38.192854
   lng: -85.768425
 4100 South Number5 Street, Louisville, KY: null
+4100 South1st Street, Louisville, KY:
+  lat: 38.196692
+  lng: -85.7618724
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
@@ -17935,6 +17942,9 @@
 5900 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+5900 Arvis Dr, Louisville, KY:
+  lat: 38.1606252
+  lng: -85.8595691
 5900 Bardstown Rd, Louisville, KY:
   lat: 38.1609119
   lng: -85.5937148
