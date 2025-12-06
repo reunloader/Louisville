@@ -10446,6 +10446,9 @@
 2900 Rockaway Dr near Teaneck and Flair Knoll Ct, Louisville, KY:
   lat: 38.1775655
   lng: -85.8531941
+2900 Rockaway Dr, Louisville, KY:
+  lat: 38.1775655
+  lng: -85.8531941
 2900 South 29th Street, Louisville, KY:
   lat: 38.2533414
   lng: -85.7992827
@@ -22768,6 +22771,12 @@
   of the call was not immediately clear, but it may have involved a request, Louisville,
   KY
 : null
+9100 Greyling Dr, Louisville, KY:
+  lat: 38.115048
+  lng: -85.8015183
+9100 Greyling Dr. The deputy was expected, Louisville, KY:
+  lat: 38.115048
+  lng: -85.8015183
 9100 Lexington Rd, Louisville, KY:
   lat: 38.2485889
   lng: -85.6808373
@@ -22815,6 +22824,9 @@
 9200 Fawnridge Pl, Louisville, KY:
   lat: 38.1142957
   lng: -85.6550298
+9200 Greyling Dr, Louisville, KY:
+  lat: 38.115048
+  lng: -85.8015183
 9200 Hi View Ln, Louisville, KY: null
 9200 Independence School Rd, Louisville, KY:
   lat: 38.1012378
