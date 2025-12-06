@@ -4098,6 +4098,7 @@
   lng: -85.8871834
 13400 Imperial Line, Louisville, KY: null
 13400 Ken Ross, Louisville, KY: null
+13400 Kenroth Boulevard, Louisville, KY: null
 13400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -18456,6 +18457,9 @@
   lat: 38.2288093
   lng: -85.7185867
 600 I-65 South, Louisville, KY: null
+600 John Adams Way, Louisville, KY:
+  lat: 38.0628557
+  lng: -85.8935539
 600 LaFontaine Court, Louisville, KY: null
 ? 600 LaFontaine Court. The initial call indicated a male had tackled a female, and
   the male was reportedly detained by responding officers. The caller disconnected
