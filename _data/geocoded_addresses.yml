@@ -10910,6 +10910,7 @@
 300 Chariot Ct, Louisville, KY:
   lat: 38.1273447
   lng: -85.6660952
+300 Charles St and 300 block of David Street, Louisville, KY: null
 300 Charleville Lane, Louisville, KY: null
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 327, Louisville, KY:
@@ -10945,6 +10946,9 @@
 300 Crescent Ct, Louisville, KY:
   lat: 38.252644
   lng: -85.6863047
+300 Crescent Spring Dr, Louisville, KY:
+  lat: 38.249504
+  lng: -85.702383
 300 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -24457,6 +24461,7 @@ South Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 South Horsborn Parkway and Stony Brook Dr, Louisville, KY: null
 South Minden Lane and Shelbyville Road, Louisville, KY: null
 South Park Rd and Blue Lick Rd, Louisville, KY: null
+South Second Street and Denmark St, Louisville, KY: null
 South Second Street and Ellington Ave, Louisville, KY: null
 South Second Street and West Kenny Street, Louisville, KY: null
 South Sporn Parkway and Bunsen Parkway, Louisville, KY: null
