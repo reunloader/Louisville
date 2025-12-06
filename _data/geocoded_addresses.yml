@@ -7369,6 +7369,9 @@
 200 South near Preston Hwy, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South near the six mile marker, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
 200 South to Newcutt Road, turning onto Old Manslick Rd, Louisville, KY: null
@@ -10712,6 +10715,9 @@
 : null
 300 Baker, with additional units responding, Louisville, KY: null
 300 Baker., Louisville, KY:
+  lat: 38.1417259
+  lng: -85.7685179
+300 Baker], Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
 ? 300 Bardstown Rd following a report of a medical emergency. Details regarding the
