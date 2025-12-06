@@ -555,6 +555,9 @@
   lat: 38.116375
   lng: -85.812006
 100 Oster, Louisville, KY: null
+100 Ottawa Ave, Louisville, KY:
+  lat: 38.187883
+  lng: -85.761557
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
@@ -12464,6 +12467,9 @@
   lat: 38.202417
   lng: -85.840055
 3400 LaFonte Drive, Louisville, KY: null
+3400 Lafayette Dr, Louisville, KY:
+  lat: 38.1940389
+  lng: -85.7941733
 3400 Larkwood Ave, Louisville, KY:
   lat: 38.257727
   lng: -85.80767
@@ -12690,6 +12696,9 @@
 3500 Herb Ln. Medical evaluation and care were provided, Louisville, KY:
   lat: 38.2166005
   lng: -85.6539282
+3500 Hurstbourne Ridge Blvd, Louisville, KY:
+  lat: 38.1973871
+  lng: -85.6066928
 3500 Illinois Ave, Louisville, KY:
   lat: 38.211744
   lng: -85.712405
@@ -19454,6 +19463,7 @@
   lat: 38.1842595
   lng: -85.8425262
 6500 Brattleview Circle, Louisville, KY: null
+6500 Brooks-Bendway, Louisville, KY: null
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
   lng: -85.628487
