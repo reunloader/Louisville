@@ -18035,6 +18035,9 @@
   lat: 38.32875
   lng: -85.5591466
 6 East Wheaton Ward Drive, Louisville, KY: null
+6 Seville Dr, Louisville, KY:
+  lat: 38.1140967
+  lng: -85.8526359
 6 address not specified, Louisville, KY: null
 60 Autumn Lake Dr, Louisville, KY:
   lat: 38.0716654
@@ -19762,6 +19765,9 @@
 700 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
+700 E W Chestnut St, Louisville, KY:
+  lat: 38.2489207
+  lng: -85.7576467
 700 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -24136,6 +24142,7 @@ Taylorsville Lake Rd and Routt Rd, Louisville, KY: null
 Taylorsville Rd and Bardstown Rd, Louisville, KY: null
 Taylorsville Rd and Peel Street, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
+Tenny Ave and Southern Pky, Louisville, KY: null
 Terry Rd and Greenwood Rd, Louisville, KY:
   lat: 38.1448101
   lng: -85.8716567
