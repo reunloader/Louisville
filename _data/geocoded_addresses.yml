@@ -10095,6 +10095,10 @@
 2700 Greenwood Rd, Louisville, KY:
   lat: 38.1443808
   lng: -85.8602956
+2700 Hikes Ln, Louisville, KY:
+  lat: 38.204057
+  lng: -85.6515067
+2700 Hikes Ln, in the vicinity of Glen Oak and Glen Creek,, Louisville, KY: null
 2700 Howard St. The property is described as a split-level home. Police officers were requested, Louisville, KY:
   lat: 38.2459509
   lng: -85.7971154
@@ -10610,6 +10614,8 @@
 2900 Fern Valley Rd, Louisville, KY:
   lat: 38.1555547
   lng: -85.7107102
+2900 Flare Null Court, Louisville, KY: null
+2900 Flare Null Court, near Flare Null Drive,, Louisville, KY: null
 2900 Garfield Ave near North 30th Street, Louisville, KY:
   lat: 38.2674035
   lng: -85.7976195
@@ -12929,6 +12935,12 @@
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
 3600 Rochstown Road, Louisville, KY: null
+3600 Rosemont Ct, Louisville, KY:
+  lat: 38.2070291
+  lng: -85.6507623
+3600 Rosemont Ct, near Hikes Ln,, Louisville, KY:
+  lat: 38.2070291
+  lng: -85.6507623
 3600 Sesiway. Upon arrival, responders found the property, Louisville, KY: null
 3600 Seton Hill Dr, Louisville, KY:
   lat: 38.180041
@@ -17292,6 +17304,12 @@
 5000 Wolfpen Woods Dr, Louisville, KY:
   lat: 38.3206542
   lng: -85.6097602
+5000 Woodridge Lake Blvd, Louisville, KY:
+  lat: 38.0923885
+  lng: -85.8591362
+5000 Woodridge Lake Blvd, near Crusher the Same Pit Lane and Sand Lake Dr,, Louisville, KY:
+  lat: 38.0923885
+  lng: -85.8591362
 ? '5000 block of Mansfield Estates Dr)** (around 9:00 p.m. a.m. p.m.): A 900 block
   of call reported a male and female arguing, with the complaint stating her son was
   attacking her and acting aggressively. The son, a 45-year-old black male, was reported
@@ -24082,6 +24100,7 @@ Dover Road and Looker Avenue, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 East Pharrell Road and Flowervale Ln, Louisville, KY: null
+East Washington Breckinridge Street and South Brooks Street, Louisville, KY: null
 Eastern Ave and Ash St, Louisville, KY: null
 Eastern Parkway and Arta Street, Louisville, KY: null
 Eastern Parkway and Bradley Ave, Louisville, KY:
@@ -24363,6 +24382,7 @@ Rollington Rd and Willow Forest Dr, Louisville, KY: null
 Roselane St and Nogonquin Parkway, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
+Same Pit Lane and Sand Lake Dr, Louisville, KY: null
 Scarborough Ave and Greyling Dr, Louisville, KY: null
 Schmitts Ln and Park Rd, Louisville, KY: null
 Scottsdale Blvd and New Cut Rd, Louisville, KY:
