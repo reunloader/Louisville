@@ -9604,6 +9604,9 @@
 2500 Windsor Forest Dr, Louisville, KY:
   lat: 38.1280093
   lng: -85.8173383
+2500 Woodbourne Ave near Ingle Ave, Louisville, KY:
+  lat: 38.229284
+  lng: -85.680861
 2500 Woodland Ave, Louisville, KY:
   lat: 38.2334341
   lng: -85.796038
@@ -11226,6 +11229,9 @@
   lat: 38.220249
   lng: -85.666617
 3000 Bon Air Ave, at the intersection of Manchester and Clareden. Units responded, Louisville, KY:
+  lat: 38.220249
+  lng: -85.666617
+3000 Bon Air Ave. Emergency medical services were on scene, Louisville, KY:
   lat: 38.220249
   lng: -85.666617
 3000 Bradford Grove Ln, Louisville, KY:
@@ -13546,6 +13552,9 @@
   lng: -85.686241
 400 Cameron Road, [Date] 6:00 a, Louisville, KY: null
 400 Cameron Road, [Date] 6:00 a.m., Louisville, KY: null
+400 Carlisle Ave, Louisville, KY:
+  lat: 38.1942111
+  lng: -85.7846554
 ? 400 Cathedral Way following a report of a 50-year-old male who was found unconscious
   and had experienced multiple seizures. Responders worked to stabilize the individual.,
   Louisville, KY
@@ -13612,6 +13621,7 @@
 400 Creel Ave, Louisville, KY:
   lat: 38.212873
   lng: -85.764369
+400 David Ave, Louisville, KY: null
 400 David Street and 400 block of Adams St, Louisville, KY: null
 400 David Street, Louisville, KY: null
 ? 400 David Street. The person, described as a black male in a blue jacket and dark
@@ -14101,6 +14111,9 @@
   male, was reportedly experiencing seizures and exhibiting agonal breathing. Responders
   worked, Louisville, KY
 : null
+400 South 8th Street near Holly Ave, Louisville, KY:
+  lat: 38.2525979
+  lng: -85.7647916
 400 South 8th Street near West Liberty Alley, Louisville, KY: null
 400 South 8th Street near West Liberty, Louisville, KY:
   lat: 38.2525979
@@ -16829,6 +16842,9 @@
   lat: 38.2007912
   lng: -85.8304039
 500 Wayne Wright, Louisville, KY: null
+500 West Broadway, Louisville, KY:
+  lat: 38.245851
+  lng: -85.7605615
 500 West Market, Louisville, KY:
   lat: 38.2552875
   lng: -85.7588431
@@ -18961,6 +18977,12 @@
   Responding units are on scene, Louisville, KY
 : null
 6400 Avenue near Warwick Ave, Louisville, KY: null
+6400 Clover Trace Cir, Louisville, KY:
+  lat: 38.1768041
+  lng: -85.7991196
+6400 Clover Trace Cir. Further details, Louisville, KY:
+  lat: 38.1768041
+  lng: -85.7991196
 6400 Clover Trace Pl, Louisville, KY:
   lat: 38.1765171
   lng: -85.7984715
@@ -19099,6 +19121,9 @@
 6500 Paramount Park Dr near Fern Valley Rd, Louisville, KY:
   lat: 38.1552702
   lng: -85.7125852
+6500 Phillips Ln near James Rd, Louisville, KY:
+  lat: 38.1901008
+  lng: -85.7477013
 6500 Preston Hwy, Louisville, KY:
   lat: 38.1577894
   lng: -85.6982025
