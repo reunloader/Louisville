@@ -72,6 +72,9 @@
   lat: 38.1412684
   lng: -85.7716218
 100 Baker, were dispatched, Louisville, KY: null
+100 Baker. Further details, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 100 Baker. The reporting officer requested, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -335,6 +338,9 @@
 100 Lawson Ln, Louisville, KY:
   lat: 38.1730831
   lng: -85.7934142
+100 Lenover Dr. Simultaneously, units were responding, Louisville, KY:
+  lat: 38.1759505
+  lng: -85.8595938
 100 Lila Ave, Louisville, KY:
   lat: 38.137068
   lng: -85.8510722
@@ -353,6 +359,8 @@
 100 Lindsey Springs. Responding units were able, Louisville, KY:
   lat: 38.0974135
   lng: -85.5685619
+100 Linoke Drive following a report of a medical emergency. A 6-year-old female was found, Louisville, KY: null
+100 Linoke Drive, Louisville, KY: null
 100 Livingston Ave, Louisville, KY:
   lat: 38.1869866
   lng: -85.7771966
@@ -1988,6 +1996,10 @@
   was in distress and requested immediate medical attention., Louisville, KY
 : lat: 38.2346744
   lng: -85.4583861
+10400 Southpointe Blvd, Louisville, KY: null
+? 10400 Southpointe Blvd. The call reported a suspicious individual who was observed
+  staring at an ambulance. Officers investigated the situation, Louisville, KY
+: null
 10400 Thrift Dr, Louisville, KY: null
 10405 Preston Hwy, Louisville, KY:
   lat: 38.0993972
@@ -8434,6 +8446,7 @@
   lat: 38.234136
   lng: -85.70143
 2200 Amboy Dr, Louisville, KY: null
+2200 Amboy Dr. The alarm was specifically, Louisville, KY: null
 2200 Ansel Way, Louisville, KY: null
 2200 Appomattox Rd, Louisville, KY:
   lat: 38.1279601
@@ -10743,6 +10756,9 @@
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+300 E W St Catherine St, Louisville, KY:
+  lat: 38.2373873
+  lng: -85.7614738
 ? 300 East Broadway near the Norton Health Care Pavilion, where a pedestrian was struck
   by a vehicle. The pedestrian was found to be unconscious but was still breathing.
   The striking vehicle was described as a black Jeep Wrangler., Louisville, KY
@@ -10987,6 +11003,12 @@
   Louisville, KY
 : null
 300 Short St, Louisville, KY: null
+300 South 11th Street, Louisville, KY:
+  lat: 38.2554836
+  lng: -85.768635
+300 South 11th Street. The call was in response, Louisville, KY:
+  lat: 38.2554836
+  lng: -85.768635
 300 South 1st Street near E Liberty St, Louisville, KY:
   lat: 38.2529394
   lng: -85.7525767
@@ -15605,6 +15627,12 @@
   lat: 38.1889361
   lng: -85.7656325
 4500 South 3rd Street near W W Southern Heights Ave, Louisville, KY: null
+4500 South 3rd Street, Louisville, KY:
+  lat: 38.1889361
+  lng: -85.7656325
+4500 South 3rd Street, near Thorntons. The incident involved a white Prius. Information, Louisville, KY:
+  lat: 38.1889361
+  lng: -85.7656325
 4500 South 5th Street, Louisville, KY:
   lat: 38.186361
   lng: -85.768959
