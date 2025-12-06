@@ -2872,6 +2872,7 @@
 11800 Electron Dr, Louisville, KY:
   lat: 38.2046267
   lng: -85.5373667
+11800 Electron Dr, with a report of a delivery side door activation. Units from the division were en route, Louisville, KY: null
 11800 Standiford Plaza Dr, Louisville, KY:
   lat: 38.0921635
   lng: -85.6679085
@@ -17238,6 +17239,9 @@
 5000 Southside Dr, Louisville, KY:
   lat: 38.1742795
   lng: -85.7648749
+5000 Southside Dr, near Kingston and Colonial Oaks, Louisville, KY:
+  lat: 38.1742795
+  lng: -85.7648749
 ? 5000 Southside Drive. Upon arrival, responders found no signs of fire or any other
   emergency. It was determined that the alarm was likely a false activation. The scene
   was cleared and services were made available for any further needs., Louisville,
@@ -23491,6 +23495,9 @@
 9400 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
+9400 Westport Rd. EMS was initially dispatched, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 9400 an unspecified street, Louisville, KY: null
 9500 Barbour Road, Louisville, KY: null
 9500 Baxter Ave, Louisville, KY:
