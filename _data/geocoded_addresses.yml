@@ -18176,6 +18176,12 @@
 5800 Farrington Dr, Louisville, KY:
   lat: 38.1693957
   lng: -85.832772
+5800 Fern Valley Rd at Fireplace Distributors, Louisville, KY:
+  lat: 38.1544757
+  lng: -85.6531881
+5800 Fern Valley Rd, Louisville, KY:
+  lat: 38.1544757
+  lng: -85.6531881
 5800 Granwood Ln, Louisville, KY:
   lat: 38.154547
   lng: -85.8601546
@@ -20064,6 +20070,7 @@
 700 East Market, Louisville, KY:
   lat: 38.2531216
   lng: -85.739834
+700 East Otley at the St, Louisville, KY: null
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned to investigate., Louisville,
   KY
