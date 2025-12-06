@@ -18451,6 +18451,9 @@
   lat: 38.1543846
   lng: -85.6118433
 600 Gaines Avenue, Louisville, KY: null
+600 Glengarry Dr, Louisville, KY:
+  lat: 38.1227346
+  lng: -85.7555604
 600 Greta, Louisville, KY:
   lat: 38.1376681
   lng: -85.8502438
@@ -23263,6 +23266,7 @@
   lat: 38.0762726
   lng: -85.8819062
 9200 Parkside Vista Ln, Louisville, KY: null
+9200 Pences Lane, Louisville, KY: null
 9200 Preston Hwy, Louisville, KY:
   lat: 38.1174315
   lng: -85.6779117
