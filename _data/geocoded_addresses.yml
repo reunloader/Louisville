@@ -220,6 +220,8 @@
 : lat: 38.24549
   lng: -85.7532301
 100 East Centennial Walk, Louisville, KY: null
+100 East Center Height Avenue, Louisville, KY: null
+100 East Center Height Avenue, between Crestle Allman and Fort St,, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
 100 East Halfland Boulevard, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
@@ -3250,6 +3252,7 @@
   lat: 38.233669
   lng: -85.7436468
 1200 South Crescent Street, Louisville, KY: null
+1200 South Crestle Street, Louisville, KY: null
 1200 South Firstree, Louisville, KY: null
 1200 South Orchard, Louisville, KY: null
 1200 South Second Street, Louisville, KY: null
@@ -5336,6 +5339,7 @@
 1600 W Chestnut St, Louisville, KY:
   lat: 38.251069
   lng: -85.77791
+1600 W Chestnut St, between 16th and 17th streets,, Louisville, KY: null
 1600 W Kentucky St, Louisville, KY:
   lat: 38.2414959
   lng: -85.7803273
@@ -19601,6 +19605,10 @@
 700 E Jefferson St, Louisville, KY:
   lat: 38.251917
   lng: -85.740147
+? 700 E Jefferson St, near Professor Shelby and Clay, where a person was reported
+  stuck in the main elevator on the bottom floor. Two occupants were safely removed
+  from the elevator and were reported, Louisville, KY
+: null
 700 E Main St, Louisville, KY:
   lat: 38.254691
   lng: -85.739665
@@ -22428,6 +22436,8 @@
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
+900 Reference Lane, Louisville, KY: null
+900 Reference Lane. Responding units were dispatched, Louisville, KY: null
 900 River Park Dr, Louisville, KY: null
 900 Rowan St, Louisville, KY:
   lat: 38.2599004
