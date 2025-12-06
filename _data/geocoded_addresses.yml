@@ -1040,6 +1040,9 @@
 1000 Caven Ave, Louisville, KY:
   lat: 38.104178
   lng: -85.6893341
+? 1000 Cecil Ave involving an ex-wife who allegedly punched her partner in the face
+  and broke their phone. By the time police units arrived, Louisville, KY
+: null
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
@@ -2940,6 +2943,7 @@
 1200 Boston Ct, Louisville, KY:
   lat: 38.2641926
   lng: -85.8173786
+1200 Brashear Dr, Building 25, and was in possession of a firearm. Police units were dispatched, Louisville, KY: null
 1200 Carrico Ave, Louisville, KY:
   lat: 38.1841861
   lng: -85.7806311
@@ -5277,6 +5281,11 @@
 1600 Ellwood Ave, Louisville, KY:
   lat: 38.2367052
   lng: -85.7213027
+? 1600 Elmwood Ave. Callers reported hearing loud yelling and sounds of a physical
+  altercation, though no specific descriptions of the vehicles were provided. Responding
+  units arrived, Louisville, KY
+: lat: 38.2618568
+  lng: -85.6524579
 ? 1600 Evanwood Dr to investigate a report of suspicious activity. This call prompted
   a police response to check on the situation., Louisville, KY
 : null
@@ -7475,6 +7484,9 @@
   lat: 38.241468
   lng: -85.755972
 200 W Jefferson St, Louisville, KY:
+  lat: 38.253409
+  lng: -85.753877
+200 W Jefferson St. The call, which originated from Clark County, indicated concern, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
 200 W Liberty St, Louisville, KY:
@@ -13396,6 +13408,9 @@
 3900 Cane Run Rd. Medical units were dispatched, Louisville, KY:
   lat: 38.2135306
   lng: -85.8210078
+3900 Cole Ave, Louisville, KY:
+  lat: 38.1589782
+  lng: -85.8653425
 ? 3900 Craig Ave who had allegedly disrespected a caller. The individuals, described
   as four females dressed in black, had left the area approximately 30 minutes prior,
   heading towards Bicknell. Police were asked to be aware of their presence., Louisville,
