@@ -27743,4 +27743,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2025-12-06T07:31:01.128246'
+- timestamp: '2025-12-06T07:46:43.722645'
+  total_addresses: 10145
+  successful: 5105
+  failed: 5040
+  success_rate: 50.32
+  failure_rate: 49.68
+  failure_patterns:
+    Contains location qualifiers (near/at): 1748
+    Incomplete/vague address: 1021
+    Intersection format: 891
+    Contains extra sentences/context: 431
+    Other/Unknown: 944
+    Police phonetic codes: 5
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2025-12-06T07:46:43.722784'

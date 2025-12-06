@@ -5067,6 +5067,7 @@
   lat: 38.248188
   lng: -85.776718
 1500 black over root for, Louisville, KY: null
+1500 the apartments, Louisville, KY: null
 15000 the total lots area. Officers were sent, Louisville, KY: null
 15100 Meadow Farms Ct, Louisville, KY:
   lat: 38.2791979
@@ -12509,6 +12510,7 @@
 3500 Henry Ave, Louisville, KY:
   lat: 38.195156
   lng: -85.781946
+3500 Henry Ave, and police units were sent, Louisville, KY: null
 3500 Herb Ln, Louisville, KY:
   lat: 38.2166005
   lng: -85.6539282
@@ -23446,6 +23448,9 @@
 9700 Dixie Hwy, Louisville, KY:
   lat: 38.115491
   lng: -85.860743
+9700 Hudson Ln, Louisville, KY:
+  lat: 38.1715314
+  lng: -85.5766017
 9700 Linn Station Rd, Louisville, KY: null
 9700 Lyric Ln, Louisville, KY: null
 9700 Northridge Dr, Louisville, KY:
