@@ -3533,6 +3533,9 @@
   lng: -85.7567626
 12400 Crosswinds Dr, Louisville, KY: null
 12400 Glengrove Cir, Louisville, KY: null
+12400 LaGrange Road, Louisville, KY:
+  lat: 38.288619
+  lng: -85.513507
 12400 Lower River Rd, Louisville, KY:
   lat: 38.075494
   lng: -85.902606
@@ -15594,6 +15597,7 @@
   cleared, indicating no immediate danger., Louisville, KY
 : lat: 38.1380709
   lng: -85.6792728
+4400 Ovo Drive, Louisville, KY: null
 ? 4400 Poplar Road following a report of a significant traffic accident. The incident
   involved an estimated five vehicles. Emergency personnel worked to assess the situation,
   manage traffic flow, and provide assistance to those involved in the collision.,
@@ -20689,6 +20693,7 @@
   lng: -85.8905994
 7100 Green Spring Dr, Louisville, KY: null
 7100 Greengate Ct, Louisville, KY: null
+7100 Greenridge Farm Dr, Louisville, KY: null
 7100 Greenup Drive, Louisville, KY: null
 7100 Hollow Oaks Dr, and a BOLO was issued, Louisville, KY: null
 7100 I 64 East, Louisville, KY: null
@@ -21625,6 +21630,9 @@
 800 Edith Rose and the 400 block of Baker, Louisville, KY: null
 800 Edith Rose and the 400 block of Baker., Louisville, KY: null
 800 Edith Rose, Louisville, KY: null
+800 Ferndale Rd, Louisville, KY:
+  lat: 38.1556282
+  lng: -85.6023088
 800 Forrest St, Louisville, KY:
   lat: 38.221639
   lng: -85.74239
@@ -24207,6 +24215,7 @@ Pensive Ln and Goldenrod Rd, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
 Placker Road and Dogwood Rd, Louisville, KY: null
 Plantside Dr and Ardenia Ln, Louisville, KY: null
+Polacka Road and Dogwood Rd, Louisville, KY: null
 Poplar Level Rd and Audubon Parkway, Louisville, KY: null
 Poplar Level Rd and Eastern Parkway, Louisville, KY: null
 Poplar Level Rd and Heather Heath Ln, Louisville, KY: null
