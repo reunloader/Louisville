@@ -12972,6 +12972,9 @@
 3600 Stanton Blvd. Officers were assigned, Louisville, KY:
   lat: 38.210443
   lng: -85.643923
+3600 Susan Ln, Louisville, KY:
+  lat: 38.094156
+  lng: -85.69739
 3600 Taylor Blvd due, Louisville, KY: null
 ? 3600 Taylor Blvd following a report of an individual experiencing an overdose. The
   30-year-old male was found unresponsive and not breathing, partially in the roadway,
@@ -19082,6 +19085,9 @@
 61900 Fern Valley Rd. Units were sent, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+62 Carribean Ln, Louisville, KY:
+  lat: 38.1522336
+  lng: -85.66106
 620 Valley College Drive, Louisville, KY:
   lat: 38.1200037
   lng: -85.8438535
@@ -22527,6 +22533,7 @@
 8600 Locklee Rd, Louisville, KY:
   lat: 38.1462326
   lng: -85.8248355
+8600 Longborough Way, Louisville, KY: null
 8600 River Terrace Dr, Louisville, KY:
   lat: 38.1521349
   lng: -85.8671784
@@ -23929,6 +23936,7 @@ Audubon Plaza Dr and Thruston Ave, Louisville, KY: null
 Bakers Ln and Crums Ln, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Balmoral Dr and Bramton Rd, Louisville, KY: null
+Barchetown Road and Waterford Rd, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Breckenridge Ln, Louisville, KY: null
 Bardstown Rd and Brighton Dr, Louisville, KY: null
