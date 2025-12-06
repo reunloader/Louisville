@@ -194,6 +194,9 @@
 100 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+100 E W Southern Heights Ave, Louisville, KY:
+  lat: 38.1898343
+  lng: -85.7883132
 100 E W Southland Blvd, Louisville, KY:
   lat: 38.1715694
   lng: -85.7733598
@@ -3248,6 +3251,10 @@
 1200 South 6th Street, Louisville, KY:
   lat: 38.235228
   lng: -85.7640084
+1200 South Brooks Street, Louisville, KY: null
+? 1200 South Brooks Street, requiring the attention of emergency medical personnel.
+  Responders were dispatched, Louisville, KY
+: null
 1200 South Clay, Louisville, KY:
   lat: 38.233669
   lng: -85.7436468
@@ -5336,6 +5343,9 @@
 1600 W Chestnut St near 16th and 17th Streets, Louisville, KY:
   lat: 38.251069
   lng: -85.77791
+? 1600 W Chestnut St to attend to a serious medical emergency. Responders arrived
+  on scene to provide necessary care and support, Louisville, KY
+: null
 1600 W Chestnut St, Louisville, KY:
   lat: 38.251069
   lng: -85.77791
