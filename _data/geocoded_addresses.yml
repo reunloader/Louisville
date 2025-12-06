@@ -802,6 +802,9 @@
 100 W Market St, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
+100 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.250493
+  lng: -85.752382
 100 W Washington St, Louisville, KY:
   lat: 38.2566222
   lng: -85.7516934
@@ -7551,6 +7554,9 @@
 200 Southwood Terrace, Louisville, KY:
   lat: 38.1469448
   lng: -85.7834722
+200 Spoonbill Ln, Louisville, KY:
+  lat: 38.1125098
+  lng: -85.7624761
 200 St, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -19018,6 +19024,9 @@
   lng: -85.7034553
 600 Stivers Rd, Louisville, KY: null
 600 Sun Beam Ct, Louisville, KY: null
+600 Tessin Way, Louisville, KY:
+  lat: 38.251484
+  lng: -85.5574282
 600 Valley College Dr, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
