@@ -907,6 +907,9 @@
 100 [Street Name Missing], Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
+100 [Street Name Not Specified], Louisville, KY:
+  lat: 38.2397699
+  lng: -85.7540073
 100 [Street Name Redacted] 6:15 a, Louisville, KY: null
 100 [Street Name Redacted] 6:15 a.m.AM, Louisville, KY: null
 100 [Street Name Redacted], Louisville, KY:
@@ -7705,6 +7708,9 @@
 200 Westbound near Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
+200 Westbound near mile 9, Louisville, KY:
+  lat: 38.19707
+  lng: -85.6275703
 200 Westbound ramp, Louisville, KY: null
 200 Westbound shoulder, Louisville, KY: null
 200 Westbound, Louisville, KY: null
@@ -24329,6 +24335,7 @@ Taylor Springs Dr and Silver Bell Ave, Louisville, KY: null
 Taylor Springs Dr and Taylorsville Rd, Louisville, KY: null
 Taylor Springs Dr and Weller Ave, Louisville, KY: null
 Taylor Springs Dr and Willer Avenue, Louisville, KY: null
+Taylor Street and Longfield Ave, Louisville, KY: null
 Taylor Zero Road and Park Ave, Louisville, KY: null
 Taylorsville Lake Rd and Routt Rd, Louisville, KY: null
 Taylorsville Rd and Bardstown Rd, Louisville, KY: null
