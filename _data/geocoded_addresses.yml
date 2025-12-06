@@ -684,6 +684,9 @@
 100 South 42nd Street. The situation involved an 88-year-old female who was found, Louisville, KY:
   lat: 38.2649095
   lng: -85.8179133
+100 South 4th Street, Louisville, KY:
+  lat: 38.2563822
+  lng: -85.7570333
 100 South 65th Street, Louisville, KY: null
 100 South 6th Street, Louisville, KY:
   lat: 38.256869
@@ -10697,6 +10700,12 @@
 : null
 300 Adam. Responding officers found no signs of forced entry or any individuals present at the location., Louisville, KY: null
 300 Adams St & 300 block of Beecher St, Louisville, KY: null
+300 Adams St, Louisville, KY:
+  lat: 38.260152
+  lng: -85.731615
+300 Adams St. The caller reported no answer at the door and no one visible outside. The caller wished, Louisville, KY:
+  lat: 38.260152
+  lng: -85.731615
 300 Adelaide, Louisville, KY:
   lat: 38.3055248
   lng: -85.5693954
@@ -10761,6 +10770,7 @@
   lat: 38.250473
   lng: -85.7327573
 300 Beaver St area, Louisville, KY: null
+300 Beaver St following a report of a domestic disturbance. Officers were sent, Louisville, KY: null
 300 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
