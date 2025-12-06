@@ -54,6 +54,7 @@
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
+100 Adam and 200 block of Baker, Louisville, KY: null
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -1908,6 +1909,9 @@
   lat: 38.0762726
   lng: -85.8819062
 10100 Timberwood Cir, Louisville, KY: null
+10200 Blue Lick Rd, Louisville, KY:
+  lat: 38.0993367
+  lng: -85.6957414
 10200 Champion Farms Dr, Louisville, KY:
   lat: 38.2966179
   lng: -85.5624482
@@ -8942,6 +8946,12 @@
   Louisville, KY
 : null
 2300 I 64 West. The pursuit began shortly, Louisville, KY: null
+2300 Kentucky, Louisville, KY:
+  lat: 38.2875277
+  lng: -85.6240267
+2300 Kentucky. Responding units arrived, Louisville, KY:
+  lat: 38.2875277
+  lng: -85.6240267
 ? 2300 Keswick Boulevard following a report of a suspicious individual. The person
   was observed on a bicycle entering a backyard. Concerns were raised as the individual
   was seen looking into vehicles parked in the area. Officers responded to investigate
