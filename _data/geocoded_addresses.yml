@@ -1746,6 +1746,8 @@
 1000 West Market at The Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 Wilberforce between 11th and 10th streets, Louisville, KY: null
+1000 Wilberforce, situated between 11th and 10th streets, Louisville, KY: null
 1000 Worthington Ln, Louisville, KY:
   lat: 38.32875
   lng: -85.5591466
@@ -10523,6 +10525,9 @@
 2900 Wimpole Ct, Louisville, KY:
   lat: 38.2011417
   lng: -85.6342477
+2900 Windsor Forest, Louisville, KY:
+  lat: 38.1177915
+  lng: -85.8084717
 2945 Breckenridge Lane, Louisville, KY:
   lat: 38.221172
   lng: -85.6309322
@@ -15285,6 +15290,7 @@
 4400 Jewell Ave, Louisville, KY:
   lat: 38.268448
   lng: -85.818722
+4400 John Rail Road Drive, Louisville, KY: null
 4400 Landside Dr, Louisville, KY:
   lat: 38.199829
   lng: -85.62227
@@ -19140,6 +19146,9 @@
 6600 St. St Matthews Ave, Louisville, KY:
   lat: 38.1558251
   lng: -85.7543575
+6600 Sun Ray Dr, Louisville, KY:
+  lat: 38.1096486
+  lng: -85.8823864
 ? 6600 Sylvania Rd, apartment number 4. Police units were dispatched to search for
   the individual, with assistance from the 300 block of Adam and the 300 block of
   David., Louisville, KY
@@ -20418,6 +20427,9 @@
 7200 Dixie Hwy, Louisville, KY:
   lat: 38.1465645
   lng: -85.8388245
+7200 Global Dr, Louisville, KY:
+  lat: 38.1378541
+  lng: -85.8923291
 7200 Green Oak Dr, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
@@ -21780,6 +21792,7 @@
   responders found the patient to be asleep but not unconscious., Louisville, KY
 : null
 8200 Four Winds Dr, Louisville, KY: null
+8200 Fox Hall Pl, Louisville, KY: null
 8200 Georgetown Pl, Louisville, KY:
   lat: 38.195098
   lng: -85.7934352
