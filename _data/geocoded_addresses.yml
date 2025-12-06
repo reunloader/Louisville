@@ -7897,6 +7897,7 @@
 2000 Goldsmith Ln, Louisville, KY:
   lat: 38.2042665
   lng: -85.6765066
+2000 Gray, was reported stolen from Moorhaven Dr. The vehicle was last seen approximately two hours prior, Louisville, KY: null
 2000 Greenhaven Dr, Louisville, KY: null
 2000 Greenhaven, Louisville, KY: null
 2000 Greenhaven, in the area of Greenbridge Way and Silos,, Louisville, KY: null
@@ -18769,6 +18770,9 @@
 6100 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
+6100 Moorhaven Dr, Louisville, KY:
+  lat: 38.150445
+  lng: -85.647679
 6100 Parts Town Road, Louisville, KY: null
 6100 Port Rd, Louisville, KY:
   lat: 38.1551601
