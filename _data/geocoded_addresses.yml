@@ -7804,6 +7804,9 @@
 2000 Brownsboro Rd. The building was found, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Brownsboro Rd. The initial dispatch, Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
 2000 Brownsboro Rd. This is a standard procedure, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
@@ -21909,6 +21912,7 @@
 8300 Zelma Fields Ave, Louisville, KY:
   lat: 38.1309086
   lng: -85.6078912
+84 Tyeumet Drive, Louisville, KY: null
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
   lng: -85.6129346
