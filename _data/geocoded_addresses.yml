@@ -316,6 +316,9 @@
 : null
 100 Hartwell Ct, an area near Terry Pl and Teresa Pl. Further details, Louisville, KY: null
 100 Hartwell Ct, suggesting a disruptive situation in an apartment complex. Police units were sent, Louisville, KY: null
+100 Highway at the Circle K near Sappenfield Way, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 100 Highwood Pl, Louisville, KY:
   lat: 38.2687913
   lng: -85.7028155
@@ -6358,6 +6361,9 @@
 1800 W W W Hill St, Louisville, KY: null
 1800 Walling Street, Louisville, KY: null
 1800 Walling Street, near its intersections with 19th and 18th Streets. Emergency personnel worked, Louisville, KY: null
+1800 Wenatchee Pl, Louisville, KY:
+  lat: 38.2263568
+  lng: -85.8059407
 1800 West Broadway, Louisville, KY:
   lat: 38.248977
   lng: -85.783331
@@ -8590,6 +8596,7 @@
 2100 [Street Name Missing], Louisville, KY:
   lat: 38.1757082
   lng: -85.8313913
+2100 an unspecified street, Louisville, KY: null
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
   lng: -85.7840605
@@ -10277,6 +10284,9 @@
   breeds, were loose and aggressive. Animal control was requested, Louisville, KY
 : lat: 38.2627942
   lng: -85.6980676
+2800 Conestoga Ave, Louisville, KY:
+  lat: 38.226597
+  lng: -85.8024659
 2800 Crum's Rain, Louisville, KY: null
 2800 Crums Ln, Louisville, KY:
   lat: 38.198204
@@ -16470,6 +16480,9 @@
 4900 Cedar Brook Ct. Specifics, Louisville, KY:
   lat: 38.1352213
   lng: -85.6682961
+4900 Celeste Dr near Jet Thomas and Roy William Pl, Louisville, KY:
+  lat: 38.1785138
+  lng: -85.6372124
 4900 Cherry Forest Cir, Louisville, KY:
   lat: 38.3046014
   lng: -85.5175142
@@ -18684,6 +18697,7 @@
 600 South 36th Street, Louisville, KY:
   lat: 38.253389
   lng: -85.811056
+600 South 39th Street and Twin Ridge, Louisville, KY: null
 600 South 39th Street, Louisville, KY:
   lat: 38.255276
   lng: -85.815984
@@ -22463,6 +22477,9 @@
 8600 River Terrace Dr. Emergency responders were dispatched, Louisville, KY:
   lat: 38.1521349
   lng: -85.8671784
+8600 Roberta Ct near Broadwood Dr, Louisville, KY:
+  lat: 38.1291407
+  lng: -85.5794256
 8600 Standing Oaks, Louisville, KY: null
 ? 8600 Standing Oaks. The vehicle's Vehicle Identification Number (VIN) could not
   be verified, prompting concern and investigation by responding units., Louisville,
