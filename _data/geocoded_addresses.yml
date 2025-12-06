@@ -15891,6 +15891,9 @@
 4500 Parker Ave, Louisville, KY:
   lat: 38.2695466
   lng: -85.8192898
+4500 Picadilly Ave, Louisville, KY:
+  lat: 38.185039
+  lng: -85.777186
 4500 Poplar Level Rd, Louisville, KY:
   lat: 38.1878872
   lng: -85.7034767
@@ -17381,6 +17384,7 @@
   measure. Responders were on scene and managed, Louisville, KY
 : lat: 38.1681545
   lng: -85.8297235
+5100 East Bricker Ranch Street, Louisville, KY: null
 ? 5100 East Jefferson. Initial reports indicated the alarm was a Berkeley alarm at
   a specific address, with updates, Louisville, KY
 : lat: 38.2516
@@ -22183,6 +22187,9 @@
 8000 Shepherdsville Rd, Louisville, KY:
   lat: 38.134596
   lng: -85.659052
+8000 Trillium Dr, Louisville, KY:
+  lat: 38.1374825
+  lng: -85.8663763
 8000 Vine Crest Ave, Louisville, KY: null
 8000 Wooded Ridge Dr, Louisville, KY:
   lat: 38.1433838
