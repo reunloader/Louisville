@@ -3275,6 +3275,9 @@
 1200 S Brook St, Louisville, KY:
   lat: 38.2343
   lng: -85.753799
+1200 S Brook St. Responding units investigated the area but were unable, Louisville, KY:
+  lat: 38.2343
+  lng: -85.753799
 ? 1200 S Clay St concerning a potential domestic dispute. Witnesses reported a Black
   male in a gray hoodie and a White female in a blue jacket were arguing while walking
   in the street. While there was a concern, Louisville, KY
@@ -23319,6 +23322,7 @@
 900 Hang-up/Disturbance**, Louisville, KY: null
 900 Hang-up/Disturbance, Louisville, KY: null
 900 Hang-up/Suspicious Circumstances**, Louisville, KY: null
+900 Horn Castle, Louisville, KY: null
 900 I 65 South, Louisville, KY: null
 900 I64 East near I 64 East, Louisville, KY:
   lat: 38.2622602
