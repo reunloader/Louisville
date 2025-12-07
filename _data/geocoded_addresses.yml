@@ -4212,6 +4212,7 @@
   lat: 38.0632925
   lng: -85.8909174
 13000 Middletown Industrial Blvd, Louisville, KY: null
+13100 Brownhurst Cove Rd, Louisville, KY: null
 13100 Magisterial Dr, Louisville, KY:
   lat: 38.2676169
   lng: -85.5093974
@@ -4261,6 +4262,12 @@
 13400 Imperial Line, Louisville, KY: null
 13400 Ken Ross, Louisville, KY: null
 13400 Kenroth Boulevard, Louisville, KY: null
+13400 Kinross Blvd, Louisville, KY:
+  lat: 38.0633409
+  lng: -85.889869
+13400 Kinross Blvd. The individual was reportedly beginning, Louisville, KY:
+  lat: 38.0633409
+  lng: -85.889869
 13400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -5744,6 +5751,9 @@
 1600 Windsor Pl, Louisville, KY:
   lat: 38.231969
   lng: -85.717476
+1600 Yuma Way, Louisville, KY:
+  lat: 38.1180919
+  lng: -85.8873447
 1600 a street with a net rate of16, Louisville, KY: null
 ? 1600 block of Dyna Way. The fire was confirmed as a controlled burn, and no further
   action was required. - **Medical Emergency (around 4:11 p.m. a.m. p.m.):** was dispatched
@@ -21429,6 +21439,9 @@
 7000 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+7000 Bush Farm Rd, Louisville, KY:
+  lat: 38.2761784
+  lng: -85.4914486
 7000 Catalpa Springs Dr, Louisville, KY:
   lat: 38.1240421
   lng: -85.6318708
@@ -23605,6 +23618,8 @@
   lat: 38.2435378
   lng: -85.547026
 900 Blinkenbaker Parkway, Louisville, KY: null
+900 Boynton Baker Parkway, Louisville, KY: null
+900 Boynton Baker Parkway. The call was, Louisville, KY: null
 900 Breckenridge Ln, Louisville, KY:
   lat: 38.2277761
   lng: -85.6360795
@@ -25125,6 +25140,7 @@ Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
+Inca Dr and Johnsontown Rd, Louisville, KY: null
 Indian Falls Dr and River Trail Dr, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
