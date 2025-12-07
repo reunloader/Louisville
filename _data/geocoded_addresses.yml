@@ -1839,6 +1839,9 @@
   lng: -85.7671133
 1000 Wilberforce between 11th and 10th streets, Louisville, KY: null
 1000 Wilberforce, situated between 11th and 10th streets, Louisville, KY: null
+1000 Winkler Ave, Louisville, KY:
+  lat: 38.2126909
+  lng: -85.7723935
 1000 Worthington Ln, Louisville, KY:
   lat: 38.32875
   lng: -85.5591466
@@ -25420,8 +25423,12 @@ Taylor Ave and Camden Ave, Louisville, KY: null
 Taylor Ave and Central Ave, Louisville, KY:
   lat: 38.2064205
   lng: -85.7764181
+Taylor Ave and Clara Ave, Louisville, KY:
+  lat: 38.199837
+  lng: -85.7827495
 Taylor Ave and Eastern Parkway, Louisville, KY: null
 Taylor Ave and Huntoon Ave, Louisville, KY: null
+Taylor Ave and Longfield Ave, Louisville, KY: null
 Taylor Ave and Longsmore Avenue, Louisville, KY: null
 Taylor Ave and Lynnhurst Ave, Louisville, KY: null
 Taylor Ave and Popplevel Road, Louisville, KY: null
