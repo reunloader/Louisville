@@ -3329,6 +3329,10 @@
 1200 S Brook St. Responding units investigated the area but were unable, Louisville, KY:
   lat: 38.2343
   lng: -85.753799
+? 1200 S Brook St. The individual involved had reportedly ingested multiple pills.
+  Medical personnel were on the scene, Louisville, KY
+: lat: 38.2343
+  lng: -85.753799
 ? 1200 S Clay St concerning a potential domestic dispute. Witnesses reported a Black
   male in a gray hoodie and a White female in a blue jacket were arguing while walking
   in the street. While there was a concern, Louisville, KY
@@ -6621,6 +6625,12 @@
   lat: 38.24512
   lng: -85.41632
 19 South Fifth St, Louisville, KY: null
+1900 Alfresco Pl, Louisville, KY:
+  lat: 38.2247589
+  lng: -85.7002092
+1900 Alfresco Pl, near St. Francis School,, Louisville, KY:
+  lat: 38.2247589
+  lng: -85.7002092
 1900 Baird St, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
@@ -20695,6 +20705,13 @@
 6900 Triangle Dr, Louisville, KY:
   lat: 38.1615302
   lng: -85.8015495
+? 6900 Yuma Way involving a rollover accident with a four-wheeler. Reports indicated
+  that an intoxicated driver was involved, and the victim was pinned by the vehicle.
+  Authorities noted the presence of a firearm, Louisville, KY
+: null
+6900 Yuma Way, Louisville, KY:
+  lat: 38.1178905
+  lng: -85.8869996
 7 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
@@ -21859,6 +21876,9 @@
 7300 Jefferson Blvd, Louisville, KY:
   lat: 38.1448032
   lng: -85.6756623
+7300 Kentucky Ave, Louisville, KY:
+  lat: 38.145463
+  lng: -85.84865
 7300 Leisure Ct, Louisville, KY:
   lat: 38.1003047
   lng: -85.6389932
@@ -25474,6 +25494,7 @@ Taylor Blvd and Central Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
 Taylor Blvd and Hathaway Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
+Taylor Blvd and Lynnhurst Ave, Louisville, KY: null
 Taylor Blvd and Showbox Avenue, Louisville, KY: null
 Taylor Blvd and Strader Ave, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
