@@ -4344,6 +4344,8 @@
 13900 Fancy Gap Dr, Louisville, KY:
   lat: 38.1760653
   lng: -85.5173639
+13900 Halden Ridge Way, Louisville, KY: null
+13900 Halden Ridge Way. Police units were aware of the situation and responded, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
@@ -15364,6 +15366,10 @@
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
+4000 Towne Center Dr, Louisville, KY:
+  lat: 38.2974974
+  lng: -85.5546862
+4000 Towne Center Dr, identified as the McAllister's residence. Attempts, Louisville, KY: null
 4000 W Market St, Louisville, KY:
   lat: 38.2623671
   lng: -85.8155151
@@ -19937,6 +19943,10 @@
 6300 Bula Church, Louisville, KY: null
 6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
 6300 Commerce Park Ct, Louisville, KY: null
+? 6300 Commerce Park Ct. The specific nature of the disturbance was not detailed in
+  the initial report. After clearing this call, officers were then assigned, Louisville,
+  KY
+: null
 6300 Cottage Field Cir, Louisville, KY: null
 6300 Cottage Field Cir. The driver was reportedly revving the engine and speeding, prompting a request, Louisville, KY: null
 6300 Fairground Rd, Louisville, KY:
@@ -24471,6 +24481,7 @@
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
+9400 Viking Court Drive, Louisville, KY: null
 9400 Watermark Pl, Louisville, KY: null
 9400 Watermark Pl. The patient was waiting at the front entrance, Louisville, KY: null
 9400 Westport Rd, Louisville, KY:
