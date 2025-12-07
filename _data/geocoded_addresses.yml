@@ -7369,6 +7369,9 @@
 200 North 17th Street, Louisville, KY:
   lat: 38.2606552
   lng: -85.7779157
+200 North 17th Street, near the intersection of Duncan St and Columbia St. Support units were also present, Louisville, KY:
+  lat: 38.2606552
+  lng: -85.7779157
 200 North 18th Street, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -10043,6 +10046,10 @@
   and all responding units cleared the scene., Louisville, KY
 : null
 2600 Howard St, identified as Cypress Tech, a metal warehouse. Fire units responded, Louisville, KY: null
+? 2600 Howard St. The building, a single-story metal structure situated between South
+  28th Street and South 26th Street, was investigated, Louisville, KY
+: lat: 38.245806
+  lng: -85.795471
 2600 Howard, Louisville, KY:
   lat: 38.245806
   lng: -85.795471
@@ -24607,6 +24614,7 @@ Dorsey Ln and Shelbyville Rd, Louisville, KY: null
 Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
 Doughline Road and Milner Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
+Duncan St and Columbia St, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 East Pharrell Road and Flowervale Ln, Louisville, KY: null
