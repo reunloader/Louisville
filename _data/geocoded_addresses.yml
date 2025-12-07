@@ -17076,6 +17076,7 @@
 4900 Brownsboro Rd. This was likely in response, Louisville, KY:
   lat: 38.282331
   lng: -85.630682
+4900 Brunthrow Road, Louisville, KY: null
 4900 Burkhead Ave near Cross Meadows Cir, Louisville, KY: null
 4900 Burkhead Ave, Louisville, KY:
   lat: 38.1378955
@@ -17821,6 +17822,7 @@
   lng: -85.6581967
 5000 Green Bridgeway, Louisville, KY: null
 5000 Greenbridge Way, Louisville, KY: null
+5000 Kauffman, Louisville, KY: null
 5000 Kaufman Ln, Louisville, KY:
   lat: 38.180849
   lng: -85.8620818
@@ -21660,6 +21662,9 @@
   lat: 38.0795787
   lng: -85.8955746
 7100 US Highway 42, Louisville, KY: null
+7100 W Shefford Ln, Louisville, KY:
+  lat: 38.2861839
+  lng: -85.6197265
 7100 West, Louisville, KY:
   lat: 38.2861839
   lng: -85.6197265
@@ -22433,6 +22438,9 @@
   lng: -85.6171438
 800 Adam. Another unit was en route to help with this call., Louisville, KY: null
 800 Adam. Another unit was en route, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
+800 Adam. The situation was noted, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
 800 Adam/800 block of Baker, Louisville, KY: null
