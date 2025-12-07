@@ -15604,6 +15604,9 @@
 4300 Brighton Dr. Police units responded, Louisville, KY:
   lat: 38.2165253
   lng: -85.6694432
+4300 Cane Run Rd at Speedway, Louisville, KY:
+  lat: 38.200352
+  lng: -85.836173
 4300 Cane Run Rd, Louisville, KY:
   lat: 38.200352
   lng: -85.836173
@@ -17527,6 +17530,7 @@
 5000 Garden Trace Dr., Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
+5000 Green Bridgeway, Louisville, KY: null
 5000 Greenbridge Way, Louisville, KY: null
 5000 Kaufman Ln, Louisville, KY:
   lat: 38.180849
