@@ -13507,6 +13507,10 @@
   lat: 38.191243
   lng: -85.788685
 3700 Wheeler Ave, described as a situation, Louisville, KY: null
+? 3700 Wheeler Ave. Responding units worked to de-escalate the situation. The dispute
+  was resolved, with the individuals agreeing to separate, Louisville, KY
+: lat: 38.191243
+  lng: -85.788685
 3700 Woodgreen Ct, Louisville, KY:
   lat: 38.189985
   lng: -85.799011
@@ -18367,6 +18371,13 @@
   lat: 38.0942448
   lng: -85.6560955
 5500 Texas Roadhouse, Louisville, KY: null
+5500 Valley Station Rd, Louisville, KY:
+  lat: 38.1068509
+  lng: -85.8647626
+? 5500 Valley Station Rd, with individuals seen inside. Responding units were dispatched
+  to investigate a possible break-in. It was later determined that the individuals
+  were church members, and the pastor was present, Louisville, KY
+: null
 5500 West Hall, Louisville, KY: null
 5500 West Hall, with an execution in progress. Police units were dispatched, Louisville, KY: null
 5500 Zane St, Louisville, KY:
@@ -19065,6 +19076,8 @@
 600 Scholar House Ct, Louisville, KY:
   lat: 38.2149823
   lng: -85.7479588
+600 Scone Ct due, Louisville, KY: null
+600 Scone Ct, Louisville, KY: null
 600 Shepherdsville Rd, Louisville, KY:
   lat: 38.1495553
   lng: -85.6598797
@@ -24489,6 +24502,7 @@ Cane Run Road and Ralph Avenue, Louisville, KY: null
 Cannons Ln and Old Cannons Ln, Louisville, KY: null
 Canterbury Dr and Ravinia Ave, Louisville, KY: null
 Caple Ave and Manslake Road, Louisville, KY: null
+Carmelwood Dr and Kentucky Ave, Louisville, KY: null
 Castlebrook Dr and Hollow Oaks Dr, Louisville, KY: null
 Castleview Dr and Poplar Parkway, Louisville, KY: null
 Castlewood Ave and Eastern Parkway, Louisville, KY: null
