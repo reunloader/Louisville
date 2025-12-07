@@ -9376,6 +9376,7 @@
 : null
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
+2300 West Calvert, Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
 2300 West Gobert Avenue, Louisville, KY: null
 2300 West Jefferson, Louisville, KY:
@@ -12609,6 +12610,9 @@
 3332 [Street Name Missing], Louisville, KY:
   lat: 38.1558925
   lng: -85.8160035
+33600 Garland Ave, Louisville, KY:
+  lat: 38.2472111
+  lng: -85.8243903
 3400 Anatahan Ct, Louisville, KY: null
 3400 Atwork Hall, Louisville, KY: null
 3400 Atwork Hall, was checked by responding officers. The vehicle was found, Louisville, KY: null
@@ -16037,6 +16041,9 @@
 4400 South 2nd Street, Louisville, KY:
   lat: 38.1914096
   lng: -85.7635371
+4400 South 6th Street, Louisville, KY:
+  lat: 38.190961
+  lng: -85.770051
 4400 South 8th Street, Louisville, KY:
   lat: 38.1909318
   lng: -85.773305
@@ -18984,6 +18991,9 @@
 600 John Adams Way, Louisville, KY:
   lat: 38.0628557
   lng: -85.8935539
+600 Joni Dr, Louisville, KY:
+  lat: 38.1815421
+  lng: -85.8015578
 600 Kinross Blvd, Louisville, KY:
   lat: 38.0606724
   lng: -85.8917714
