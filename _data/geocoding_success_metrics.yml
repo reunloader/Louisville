@@ -30015,4 +30015,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 2
   batch_new_successes: 0
-last_updated: '2025-12-07T15:37:22.172905'
+- timestamp: '2025-12-07T15:43:26.522039'
+  total_addresses: 10493
+  successful: 5285
+  failed: 5208
+  success_rate: 50.37
+  failure_rate: 49.63
+  failure_patterns:
+    Contains location qualifiers (near/at): 1804
+    Incomplete/vague address: 1049
+    Intersection format: 927
+    Contains extra sentences/context: 449
+    Other/Unknown: 973
+    Police phonetic codes: 6
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-07T15:43:26.522160'
