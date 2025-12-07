@@ -6258,6 +6258,9 @@
 1800 Farnsley Rd, Louisville, KY:
   lat: 38.200783
   lng: -85.802433
+1800 Farnsley Rd. Responders arrived, Louisville, KY:
+  lat: 38.200783
+  lng: -85.802433
 1800 Farnsley, Louisville, KY:
   lat: 38.200783
   lng: -85.802433
@@ -8065,6 +8068,10 @@
   lat: 38.2188313
   lng: -85.7034735
 2000 Berry Blvd and 1700 block of South 3rd Street, Louisville, KY: null
+2000 Boulevard Napoleon near Princeton Dr, Louisville, KY:
+  lat: 38.225669
+  lng: -85.696666
+2000 Boulevard Napoleon, with Princeton Dr and Barge Town Road nearby, Louisville, KY: null
 2000 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
@@ -24822,6 +24829,7 @@ Potter Lane and Dalton Dr, Louisville, KY: null
 Pressure Elliott Avenue and River Park Dr, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
 Princeton Dr and Bardstown Rd, Louisville, KY: null
+Princeton Dr and Barge Town Road, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
 Produce Rd and Pinewood Rd, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
