@@ -8291,6 +8291,9 @@
   lat: 38.2247267
   lng: -85.6929625
 2000 Duncan Street, [Date] Evening, Louisville, KY: null
+2000 E Jefferson St, Louisville, KY:
+  lat: 38.1591757
+  lng: -85.589892
 2000 E W Lee St, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
@@ -9547,6 +9550,7 @@
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
 2300 West Calvert, Louisville, KY: null
+2300 West Elkhorn Street, Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
 2300 West Gobert Avenue, Louisville, KY: null
 2300 West Jefferson, Louisville, KY:
