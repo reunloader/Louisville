@@ -7661,6 +7661,7 @@
   were in the vicinity and proceeded, Louisville, KY
 : null
 200 North on the ramp, Louisville, KY: null
+200 North was completely shut down. Responding units worked, Louisville, KY: null
 200 North, Albert H Near St. The reason for the stop was not specified in the initial report., Louisville, KY: null
 200 North, Albert H Near St. The reason, Louisville, KY: null
 200 North, First Point Parkway, Louisville, KY: null
@@ -7802,6 +7803,7 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South and New Cut Rd, Louisville, KY: null
+200 South and North, Louisville, KY: null
 200 South at Beulah, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -7816,6 +7818,9 @@
   lng: -85.6981124
 200 South at Spurn, Louisville, KY: null
 200 South at Stone St, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
+200 South at U, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
 200 South at Westport Rd, Louisville, KY:
@@ -18036,6 +18041,9 @@
 500 Village West Dr, Louisville, KY:
   lat: 38.2519645
   lng: -85.7665279
+500 Virginia Ave, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 500 W Ashland Ave, Louisville, KY:
   lat: 38.1852278
   lng: -85.7691524
@@ -23486,6 +23494,7 @@
 : null
 8100 Pandaria Drive, Louisville, KY: null
 8100 Rosswood Corp, Louisville, KY: null
+8100 Rosswood Ct, Louisville, KY: null
 8100 Smithton Rd, Louisville, KY:
   lat: 38.1349905
   lng: -85.677208
