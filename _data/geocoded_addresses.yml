@@ -2873,6 +2873,7 @@
 11300 Main St. The alarm was reportedly triggered at a building identified as Teller 3. Details, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
+11300 Oasis Ct, Louisville, KY: null
 11300 Old La Grange Rd, Louisville, KY: null
 11300 Pheasant Hill Cir, Louisville, KY:
   lat: 38.0867241
@@ -4909,6 +4910,9 @@
 : null
 1400 South Second Street. The specific unit involved was number two. Officers were present, Louisville, KY: null
 1400 South28 Street, Louisville, KY: null
+1400 South28th Street, Louisville, KY:
+  lat: 38.23395
+  lng: -85.800823
 1400 South2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
@@ -6354,6 +6358,7 @@
 17500 Stallion Way, Louisville, KY:
   lat: 38.2721699
   lng: -85.4380326
+17900 Wind Dance Dr, Louisville, KY: null
 18 Village West Drive, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -19608,6 +19613,7 @@
 600 Bellamy Cir. Medical assistance was provided, Louisville, KY:
   lat: 38.2251466
   lng: -85.7691344
+600 Bravo Papa Whiskey in Kentucky, Louisville, KY: null
 600 Camp St, Louisville, KY:
   lat: 38.2312622
   lng: -85.7457872
