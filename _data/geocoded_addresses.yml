@@ -12634,6 +12634,9 @@
 3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
   lat: 38.20267
   lng: -85.7352633
+3200 Robin Rd, Louisville, KY:
+  lat: 38.1997067
+  lng: -85.7299289
 3200 Sem Street Road, Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South Hampton Rd, Louisville, KY: null
@@ -13903,6 +13906,7 @@
 : null
 3800 Little Bend Rd who may have fallen. EMS requested a rapid response, Louisville, KY: null
 3800 Little Bend Rd, Louisville, KY: null
+3800 Melville Lane, Louisville, KY: null
 3800 Oda Outer Loop, Louisville, KY: null
 3800 Oda Outer Loop, near Royal Oak and Barrow Cliff. Responders were dispatched, Louisville, KY: null
 3800 Parkway, Louisville, KY:
@@ -16227,6 +16231,8 @@
   lat: 38.1835427
   lng: -85.5464991
 4400 Down The Railroad Run Drive, Louisville, KY: null
+4400 E W Pages Ln due, Louisville, KY: null
+4400 E W Pages Ln, Louisville, KY: null
 4400 Estate Dr, Louisville, KY:
   lat: 38.1791542
   lng: -85.8055872
@@ -18462,6 +18468,9 @@
   they were with their grandson and expressed concern about potential child abuse.
   Responding units were dispatched, Louisville, KY
 : null
+5300 Ilex Ave, Louisville, KY:
+  lat: 38.17399
+  lng: -85.678868
 5300 Layne Rd. Responding units arrived, Louisville, KY:
   lat: 38.142111
   lng: -85.6624541
@@ -25088,6 +25097,7 @@ Castlebrook Dr and Hollow Oaks Dr, Louisville, KY: null
 Castleview Dr and Poplar Parkway, Louisville, KY: null
 Castlewood Ave and Eastern Parkway, Louisville, KY: null
 Catherine Street and South Hancock Street, Louisville, KY: null
+Cecil Ave and Herman St, Louisville, KY: null
 Cedar Creek Rd and Barchshund Road, Louisville, KY: null
 Cedar Creek Rd and Bardstown Rd, Louisville, KY: null
 Cedar Creek Rd and Cedar Garden Dr, Louisville, KY: null
