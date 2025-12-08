@@ -7095,6 +7095,9 @@
 200 Alger Ave, Louisville, KY:
   lat: 38.16614
   lng: -85.7669928
+200 Alvina Way, Louisville, KY:
+  lat: 38.1492286
+  lng: -85.7675862
 200 Amy Ave, Louisville, KY:
   lat: 38.261491
   lng: -85.813215
@@ -13846,6 +13849,7 @@
 3600 Wheeler Ave near Strader Street, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
+3600 Wheeler Ave, Jacobs School Apartment, Louisville, KY: null
 3600 Wheeler Ave, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
