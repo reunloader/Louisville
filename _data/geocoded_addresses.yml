@@ -6960,6 +6960,9 @@
 2 Wiltshire Ave, Louisville, KY:
   lat: 38.2516536
   lng: -85.655682
+20 Calumet Dr, Louisville, KY:
+  lat: 38.1269463
+  lng: -85.761732
 ? 20 Charter Oaks Drive to address the situation. They investigated the complaint
   and took appropriate action., Louisville, KY
 : null
@@ -11673,6 +11676,10 @@
 300 Old Dixie Hwy, investigating the source of the CO alarms, Louisville, KY: null
 300 Old Dixie Hwy, investigating the source of the CO alarms., Louisville, KY: null
 300 Oread Rd, Louisville, KY: null
+300 Outer Loop and Calumet, Louisville, KY: null
+300 Outer Loop, Louisville, KY:
+  lat: 38.125884
+  lng: -85.769085
 300 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -18628,6 +18635,9 @@
 5300 Robinwood Rd near Crop St Red Fern Rd and Rookwood Ave, Louisville, KY:
   lat: 38.1741629
   lng: -85.6677301
+5300 Ronwood Dr, Louisville, KY:
+  lat: 38.1430872
+  lng: -85.6626908
 5300 Rookwood Ave, Louisville, KY:
   lat: 38.1738094
   lng: -85.663583
