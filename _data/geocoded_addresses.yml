@@ -3764,6 +3764,7 @@
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
 12700 Glengate Pl, Louisville, KY: null
+12800 Charles Farm Cir, Louisville, KY: null
 12800 Lower River Rd, Louisville, KY:
   lat: 38.0679453
   lng: -85.9054493
@@ -4804,6 +4805,7 @@
 1400 South 8th Street, Louisville, KY:
   lat: 38.229071
   lng: -85.769064
+1400 South Air Sport Parkway, Louisville, KY: null
 1400 South Floor Street, Louisville, KY: null
 1400 South Forth Street, Louisville, KY: null
 1400 South Hancock to investigate the incident., Louisville, KY: null
@@ -9506,6 +9508,9 @@
 2300 Portland Ave, Louisville, KY:
   lat: 38.2696938
   lng: -85.7864005
+2300 Reed Ave, Louisville, KY:
+  lat: 38.1628483
+  lng: -85.7769357
 ? 2300 Rockford Ln to serve a summons. Officers proceeded to the identified address
   to complete the legal service. Further details regarding the nature of the summons
   were not immediately available., Louisville, KY
@@ -16231,6 +16236,7 @@
 4400 Cole Ave. Metro units responded, Louisville, KY:
   lat: 38.1589782
   lng: -85.8653425
+4400 Deepwood Dr, Louisville, KY: null
 4400 Dixie Highway, Louisville, KY:
   lat: 38.0952898
   lng: -85.8741069
@@ -16607,6 +16613,9 @@
 4500 River Rd, Louisville, KY:
   lat: 38.2995204
   lng: -85.6655884
+4500 Roy Wilkins Ave, Louisville, KY:
+  lat: 38.2543885
+  lng: -85.7653514
 4500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -16836,6 +16845,7 @@
   lat: 38.184921
   lng: -85.769193
 4600 South 63rd Street, Louisville, KY: null
+4600 South Air Sport Parkway, Louisville, KY: null
 4600 South Press Drive near Westwood Lawn, Louisville, KY: null
 4600 South Second Street, Louisville, KY: null
 4600 South2nd Street, Louisville, KY:
