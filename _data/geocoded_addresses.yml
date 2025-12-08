@@ -15636,6 +15636,9 @@
 ? 4100 River Park Dr, with questions about the specific classification of the incident.
   Police units responded, Louisville, KY
 : null
+4100 River Rd, Louisville, KY:
+  lat: 38.2898964
+  lng: -85.6787531
 4100 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -17080,6 +17083,7 @@
   no cause, Louisville, KY
 : lat: 38.173429
   lng: -85.8353464
+4800 Holly Ave, Louisville, KY: null
 4800 Maryman Rd, Louisville, KY:
   lat: 38.132716
   lng: -85.846392
