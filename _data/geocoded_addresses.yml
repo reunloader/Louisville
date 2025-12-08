@@ -10410,6 +10410,7 @@
 2600 Shenandoah Dr. Emergency personnel responded, Louisville, KY:
   lat: 38.3113177
   lng: -85.5486489
+2600 South 26th Street and W Muhammad Ali Blvd, Louisville, KY: null
 2600 South 3rd Street, Louisville, KY:
   lat: 38.211043
   lng: -85.762917
@@ -12086,6 +12087,9 @@
   due to multiple collapses, and LG&E was requested, Louisville, KY'
 : null
 3000 River Park Dr, Louisville, KY:
+  lat: 38.2535297
+  lng: -85.8011106
+3000 River Park Dr. The nature of the fire prompted a request, Louisville, KY:
   lat: 38.2535297
   lng: -85.8011106
 3000 River Rd, Louisville, KY:
