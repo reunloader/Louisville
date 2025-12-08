@@ -7484,6 +7484,9 @@
   was also complaining of a medical issue., Louisville, KY
 : null
 200 Mervin Avenue, Louisville, KY: null
+200 Militia Dr, Louisville, KY:
+  lat: 38.1314263
+  lng: -85.7603208
 200 Mohawk Ave, Louisville, KY:
   lat: 38.1869501
   lng: -85.7585945
@@ -13006,6 +13009,9 @@
 3400 Parthenia, Louisville, KY:
   lat: 38.191647
   lng: -85.7924364
+3400 Penway Ave, Louisville, KY:
+  lat: 38.223699
+  lng: -85.813813
 3400 Plank Dr, Louisville, KY:
   lat: 38.1550569
   lng: -85.6685341
@@ -19594,6 +19600,9 @@
 600 South 44th Street, Louisville, KY:
   lat: 38.256241
   lng: -85.824617
+600 South 4th Street at Sicilian, Louisville, KY:
+  lat: 38.248816
+  lng: -85.7581019
 600 South 4th Street, Louisville, KY:
   lat: 38.248816
   lng: -85.7581019
