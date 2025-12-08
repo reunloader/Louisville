@@ -7805,6 +7805,9 @@
 200 South 32nd Street, Louisville, KY:
   lat: 38.260523
   lng: -85.804498
+200 South 38th Street, Louisville, KY:
+  lat: 38.260732
+  lng: -85.811955
 ? 200 South 42nd Street. The alarm was triggered by a pull station at the intersection
   of Herman St and W Market St. After an investigation, it was determined, Louisville,
   KY
@@ -18319,6 +18322,7 @@
   lng: -85.6696273
 5000 Shallow Trail, Louisville, KY: null
 5000 Shallow Trail. Reports indicate that Battalion 76 arrived and established their presence, Louisville, KY: null
+5000 Shelby Grove Road, Louisville, KY: null
 5000 Shelbyville Rd, Louisville, KY:
   lat: 38.247028
   lng: -85.6228127
@@ -23240,6 +23244,7 @@
 800 New Chamberlain Ln., Louisville, KY:
   lat: 38.313437
   lng: -85.5612938
+800 North Polk Lake Road, Louisville, KY: null
 800 Paper Birch Way and Hickory, Louisville, KY: null
 800 Pflanz Ave, Louisville, KY:
   lat: 38.2739729
@@ -23279,6 +23284,9 @@
   lat: 38.240608
   lng: -85.740319
 800 Salt Lick Ln, Louisville, KY: null
+800 Scholar, Louisville, KY:
+  lat: 38.2408645
+  lng: -85.7548989
 800 South 15th Street, Louisville, KY:
   lat: 38.244781
   lng: -85.777159
