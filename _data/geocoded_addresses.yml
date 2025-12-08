@@ -1761,6 +1761,9 @@
 1000 South 4th St, Louisville, KY:
   lat: 38.2387451
   lng: -85.7600955
+1000 South 4th Street, Louisville, KY:
+  lat: 38.2387451
+  lng: -85.7600955
 1000 South 5th Street, Louisville, KY:
   lat: 38.2394285
   lng: -85.761159
@@ -5089,6 +5092,7 @@
 : null
 1500 Bellamy Pl. Concerns were raised, Louisville, KY: null
 1500 Bellamy's Place, Louisville, KY: null
+1500 Bernstrahl, Louisville, KY: null
 1500 Bicknell Ave, Louisville, KY:
   lat: 38.183496
   lng: -85.787972
@@ -6765,6 +6769,7 @@
 1900 Brownsboro Rd. Responding units arrived on scene, but the alarm company later provided a cancellation, Louisville, KY:
   lat: 38.2588516
   lng: -85.7125223
+1900 Cerberich Circle, Louisville, KY: null
 1900 Crimson Dr, Louisville, KY: null
 1900 Crop Hollow View, Louisville, KY: null
 1900 Deerwood Ave, Louisville, KY:
@@ -22270,6 +22275,9 @@
 7300 Home Park Dr, Louisville, KY:
   lat: 38.1681008
   lng: -85.890145
+7300 Jan Place St, Louisville, KY:
+  lat: 38.1675711
+  lng: -85.890544
 7300 Jefferson Blvd, Louisville, KY:
   lat: 38.1448032
   lng: -85.6756623
@@ -23638,6 +23646,7 @@
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
+8300 Billy Doom Road, Louisville, KY: null
 8300 C-4 Drive near Panax Ln and Morning Glory Ln, Louisville, KY: null
 8300 C-4th Drive, Louisville, KY: null
 8300 Daverman Dr, Louisville, KY:
