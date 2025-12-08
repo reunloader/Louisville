@@ -7287,6 +7287,9 @@
   lng: -85.7499296
 200 East Early Morning, Louisville, KY: null
 200 East Europe Street near South 3rd and 2nd Streets, Louisville, KY: null
+200 East I-200 at Cane Run Rd, Louisville, KY:
+  lat: 38.222489
+  lng: -85.811113
 200 East I-200 at Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
@@ -20084,6 +20087,7 @@
 6100 Billtown Rd, Louisville, KY:
   lat: 38.1563744
   lng: -85.561275
+6100 Desmond Parkway, Louisville, KY: null
 ? 6100 Dumesnil St. Witnesses also observed smoke emanating from the vehicle, indicating
   a potential fire. Fire units were dispatched, Louisville, KY
 : lat: 38.2357119
@@ -20771,6 +20775,9 @@
   were back in service by 7:36 a.m., Louisville, KY
 : lat: 38.1563129
   lng: -85.7513915
+6700 Grade Ln, Louisville, KY:
+  lat: 38.1592088
+  lng: -85.7287136
 6700 Green Manor Dr, Louisville, KY:
   lat: 38.1470389
   lng: -85.6361939
