@@ -2062,6 +2062,9 @@
 10200 Judith Ct, Louisville, KY:
   lat: 38.2504593
   lng: -85.5658386
+10200 Lark Meadow Dr, Louisville, KY:
+  lat: 38.1054278
+  lng: -85.5592814
 10200 Long Home Rd, Louisville, KY:
   lat: 38.122017
   lng: -85.576064
@@ -7413,6 +7416,7 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East between Coppola and Newburgh, Louisville, KY: null
+200 East exit, Louisville, KY: null
 200 East from I-64 West, Louisville, KY: null
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near Marchtown Road, Louisville, KY:
@@ -9815,6 +9819,7 @@
 2400 Bardstown Rd, Louisville, KY:
   lat: 38.223758
   lng: -85.689073
+2400 Bardstown Rd, Northern Media Care Center, Louisville, KY: null
 2400 Blankenbaker Pky PARKWAY, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
