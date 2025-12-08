@@ -3053,6 +3053,7 @@
 11800 Standiford Plaza Dr. Units from the 7th Division were en route, Louisville, KY:
   lat: 38.0921635
   lng: -85.6679085
+11900 Boydton Ct, Louisville, KY: null
 11900 Deer Park Ave, Louisville, KY:
   lat: 38.2248164
   lng: -85.7093907
@@ -4907,6 +4908,7 @@
   The situation was resolved by responding units., Louisville, KY
 : null
 1400 South Second Street. The specific unit involved was number two. Officers were present, Louisville, KY: null
+1400 South28 Street, Louisville, KY: null
 1400 South2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
@@ -16508,6 +16510,7 @@
 4400 Brookhaven, Louisville, KY:
   lat: 38.229978
   lng: -85.619959
+4400 Button Bush, Twin Dr, Louisville, KY: null
 4400 Cane Run Rd near Shanks and Richmont, Louisville, KY:
   lat: 38.1981991
   lng: -85.8396306
@@ -20493,6 +20496,9 @@
   lng: -85.6454543
 6300 Hans's Drive due, Louisville, KY: null
 6300 Hans's Drive, Louisville, KY: null
+6300 Hanses Dr, Louisville, KY:
+  lat: 38.1604527
+  lng: -85.6797457
 6300 Highway 329, Louisville, KY: null
 6300 Hunters Grove, Louisville, KY:
   lat: 38.161341
@@ -22676,6 +22682,7 @@
 7500 Chanel Ct, Louisville, KY:
   lat: 38.2078236
   lng: -85.6476949
+7500 Clifton Crossroad, Louisville, KY: null
 7500 Cranfill Way, Louisville, KY:
   lat: 38.1423321
   lng: -85.7712032
@@ -24049,6 +24056,9 @@
   a 70-year-old female, was found, Louisville, KY
 : null
 8600 Wilgler Branch Way, Louisville, KY: null
+87 Bluegrass Ave, Louisville, KY:
+  lat: 38.1793257
+  lng: -85.7749547
 8700 Bayberry Pl, Louisville, KY: null
 8700 Chase Gather Place, Louisville, KY: null
 8700 Cotswold Dr, Louisville, KY:
