@@ -6953,6 +6953,8 @@
   during the altercation. Police units arrived on scene, Louisville, KY
 : null
 200 Adam and 200 block of Charlie, Louisville, KY: null
+200 Adam and 3 David, Louisville, KY: null
+200 Adam and 3 David. The person was described as having a handicap and was reportedly looking, Louisville, KY: null
 200 Adam and 300 block of Adam, Louisville, KY: null
 200 Adam and 300 block of or6, Louisville, KY: null
 200 Adam to investigate., Louisville, KY: null
@@ -13582,6 +13584,7 @@
 3700 Briarbridge Ln. Fire department personnel responded, Louisville, KY:
   lat: 38.208823
   lng: -85.641125
+3700 Canterbury Dr, Louisville, KY: null
 3700 Chalk and Cedar Crest Ln, Louisville, KY: null
 ? 3700 Chamberlain Lane. The initial report indicated a gas grill had been on fire,
   but it was already extinguished by the time of the call. Firefighters were requested
@@ -16715,6 +16718,8 @@
 4600 Lena Ln, Louisville, KY:
   lat: 38.1065676
   lng: -85.5036462
+4600 Lunenburg Dr, Louisville, KY: null
+4600 Lunenburg Dr, prompting a response from emergency services. Further details, Louisville, KY: null
 4600 Lynnbrook Dr, Louisville, KY:
   lat: 38.2329773
   lng: -85.6162877
@@ -18814,6 +18819,13 @@
 5600 Jeanine Dr. Responding units were dispatched, Louisville, KY:
   lat: 38.1686631
   lng: -85.6884632
+5600 Jessamine Ln, Louisville, KY:
+  lat: 38.1389913
+  lng: -85.8602314
+? 5600 Jessamine Ln. Responders arrived and confirmed there was no visible smoke or
+  fire. The alarm was determined, Louisville, KY
+: lat: 38.1389913
+  lng: -85.8602314
 5600 Jessamine, Louisville, KY:
   lat: 38.1389913
   lng: -85.8602314
@@ -20131,6 +20143,9 @@
 6400 Marina Dr, near Marina Cove, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
+6400 Montego Bay Rd, Louisville, KY:
+  lat: 38.155313
+  lng: -85.640974
 6400 Montego Bay, Louisville, KY:
   lat: 38.155313
   lng: -85.640974
