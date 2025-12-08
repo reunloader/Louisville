@@ -31983,4 +31983,20 @@ history:
   batch_success_rate: 40.0
   batch_new_addresses: 5
   batch_new_successes: 2
-last_updated: '2025-12-08T17:27:48.493291'
+- timestamp: '2025-12-08T17:37:44.823534'
+  total_addresses: 10781
+  successful: 5405
+  failed: 5376
+  success_rate: 50.13
+  failure_rate: 49.87
+  failure_patterns:
+    Contains location qualifiers (near/at): 1859
+    Incomplete/vague address: 1085
+    Intersection format: 960
+    Contains extra sentences/context: 463
+    Other/Unknown: 1003
+    Police phonetic codes: 6
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-08T17:37:44.823666'
