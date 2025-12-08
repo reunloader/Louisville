@@ -14164,6 +14164,9 @@
 3800 Little Bend Rd who may have fallen. EMS requested a rapid response, Louisville, KY: null
 3800 Little Bend Rd, Louisville, KY: null
 3800 Melville Lane, Louisville, KY: null
+3800 Northwestern, Louisville, KY:
+  lat: 38.2739977
+  lng: -85.8101427
 3800 Oda Outer Loop, Louisville, KY: null
 3800 Oda Outer Loop, near Royal Oak and Barrow Cliff. Responders were dispatched, Louisville, KY: null
 3800 Parkway, Louisville, KY:
@@ -20024,6 +20027,12 @@
 600 Webster St near W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+600 West Jefferson, Louisville, KY:
+  lat: 38.2568339
+  lng: -85.7600287
+600 West Liberty, Louisville, KY:
+  lat: 38.253363
+  lng: -85.760635
 600 West Manslake at the library, Louisville, KY:
   lat: 38.2449281
   lng: -85.7577588
