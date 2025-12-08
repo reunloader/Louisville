@@ -84,6 +84,7 @@
 100 Alger Ave. Both police and EMS were en route, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
+100 Baker and 200 block of Adam, Louisville, KY: null
 100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -11737,6 +11738,10 @@
 300 S Jane St, Louisville, KY:
   lat: 38.2487252
   lng: -85.7029071
+300 S Peterson Ave following a report of an individual asking, Louisville, KY: null
+300 S Peterson Ave, Louisville, KY:
+  lat: 38.2509435
+  lng: -85.6977833
 300 S Preston St, Louisville, KY:
   lat: 38.2527788
   lng: -85.7463211
@@ -25387,6 +25392,7 @@ Dover Road and Looker Avenue, Louisville, KY: null
 Duncan St and Columbia St, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
+East Newburgh Road and Kentucky Ave, Louisville, KY: null
 East Pharrell Road and Flowervale Ln, Louisville, KY: null
 East Washington Breckinridge Street and South Brooks Street, Louisville, KY: null
 Eastern Ave and Ash St, Louisville, KY: null
