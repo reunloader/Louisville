@@ -4679,6 +4679,9 @@
 : lat: 38.2542653
   lng: -85.6624316
 1400 McCoy Avenue, Louisville, KY: null
+1400 Meeting St, Louisville, KY:
+  lat: 38.3251652
+  lng: -85.5667177
 1400 Mellwood Ave, Louisville, KY:
   lat: 38.2547566
   lng: -85.7230184
@@ -20422,6 +20425,9 @@
 6300 Lower River Rd, Louisville, KY:
   lat: 38.1042927
   lng: -85.8905241
+6300 Meeting St, Louisville, KY:
+  lat: 38.3251652
+  lng: -85.5667177
 6300 Mercury Dr, Louisville, KY:
   lat: 38.1577325
   lng: -85.6091015
@@ -23707,6 +23713,9 @@
 8200 Roseborough Rd, Louisville, KY:
   lat: 38.1277823
   lng: -85.6323099
+8200 Sedge Dr, Louisville, KY:
+  lat: 38.1465953
+  lng: -85.8563047
 8200 South 36th Street, Louisville, KY:
   lat: 38.2305239
   lng: -85.8144957
@@ -25206,6 +25215,9 @@
 9700 Hudson Ln, Louisville, KY:
   lat: 38.1715314
   lng: -85.5766017
+9700 Lake Elkhorn Dr, Louisville, KY:
+  lat: 38.1482981
+  lng: -85.5797824
 9700 Linn Station Rd, Louisville, KY: null
 9700 Lyric Ln, Louisville, KY: null
 9700 Northridge Dr, Louisville, KY:
