@@ -3965,6 +3965,9 @@
   lat: 38.226831
   lng: -85.735041
 1300 Hickory St, between Mulberry and Ash streets,, Louisville, KY: null
+1300 Highway, Louisville, KY:
+  lat: 38.235232
+  lng: -85.787774
 ? 1300 Homeview Dr due to a reported gas leak. Upon arrival, a strong odor was detected
   both inside and outside the residence, though it was not definitively identified
   as natural gas. The situation was deemed manageable by the responding units, and
@@ -4482,6 +4485,9 @@
   lat: 38.2339946
   lng: -85.8022842
 1400 Central Ave, Louisville, KY:
+  lat: 38.2107422
+  lng: -85.7799385
+1400 Central Ave. Further details, Louisville, KY:
   lat: 38.2107422
   lng: -85.7799385
 1400 Cherokee Rd, Louisville, KY:
@@ -19977,6 +19983,7 @@
 6000 Whispering Hills, Louisville, KY:
   lat: 38.1470566
   lng: -85.6477603
+60600 Beechburg Court, Louisville, KY: null
 60700 Brook Terrace Dr, Louisville, KY:
   lat: 38.1511527
   lng: -85.6418031
@@ -23666,6 +23673,9 @@
   lng: -85.6933449
 8500 Glenridge Ct, Louisville, KY: null
 8500 Haynes Trace, Louisville, KY: null
+8500 Jan Way, Louisville, KY:
+  lat: 38.1272603
+  lng: -85.6924261
 8500 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
