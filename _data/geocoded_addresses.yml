@@ -5568,6 +5568,9 @@
 1600 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+1600 Congress St, Louisville, KY:
+  lat: 38.256661
+  lng: -85.776921
 1600 Eastern Parkway, Louisville, KY:
   lat: 38.2287209
   lng: -85.7148597
@@ -16022,6 +16025,7 @@
   inside the home. Multiple police units were dispatched, Louisville, KY
 : null
 4200 Manning Drive, Louisville, KY: null
+4200 Maryknoll Ln, Louisville, KY: null
 4200 Medallion Ct, Louisville, KY:
   lat: 38.1659744
   lng: -85.6817999
