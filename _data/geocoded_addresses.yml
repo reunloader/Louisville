@@ -5442,6 +5442,7 @@
 15200 Beckley Springs Drop near N Beckley Station Rd, Louisville, KY:
   lat: 38.2609353
   lng: -85.4768886
+15200 Taylor'sville Road, Louisville, KY: null
 1529 Gallagher Street, Louisville, KY:
   lat: 38.2387489
   lng: -85.7794693
@@ -7795,6 +7796,9 @@
 ? 200 Shepard's River Rd. The person, described as a male in his 60s wearing a black
   metal, black coat, and blue jeans, was allegedly attempting, Louisville, KY
 : null
+200 South 11th Street, Louisville, KY:
+  lat: 38.256393
+  lng: -85.768474
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
@@ -18640,6 +18644,7 @@
   lat: 38.3241781
   lng: -85.6125043
 5200 Citrus Circle, Louisville, KY: null
+5200 Craig's Creek, Louisville, KY: null
 5200 Craigs Creek Dr, Louisville, KY:
   lat: 38.313667
   lng: -85.552038
@@ -22521,6 +22526,9 @@
   lat: 38.1469176
   lng: -85.8879496
 7400 Greenwood Rd, near a storage facility,, Louisville, KY:
+  lat: 38.1469176
+  lng: -85.8879496
+7400 Greenwood, Louisville, KY:
   lat: 38.1469176
   lng: -85.8879496
 7400 Jefferson Blvd, Louisville, KY:
