@@ -3069,6 +3069,9 @@
 1200 Algonquin Pky PARKWAY, Louisville, KY:
   lat: 38.2174904
   lng: -85.7759288
+1200 Algonquin Pky, Louisville, KY:
+  lat: 38.2174904
+  lng: -85.7759288
 1200 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
@@ -6439,6 +6442,9 @@
 ? 1800 Brownsboro Rd, while the girlfriend was located at the 1900 block of Muncie
   Ave. Police units were involved in attempting, Louisville, KY
 : null
+1800 Brownsboro, Louisville, KY:
+  lat: 38.2599201
+  lng: -85.716635
 ? 1800 Buechel Bank Rd to address a trouble call. An additional unit was requested
   to assist with this incident., Louisville, KY
 : null
@@ -11868,6 +11874,7 @@
 300 South 11th Street, Louisville, KY:
   lat: 38.2554836
   lng: -85.768635
+300 South 11th Street, Number 202, Louisville, KY: null
 300 South 11th Street. The call was in response, Louisville, KY:
   lat: 38.2554836
   lng: -85.768635
