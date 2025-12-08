@@ -208,6 +208,9 @@
 100 E Main St, Louisville, KY:
   lat: 38.2577199
   lng: -85.7580289
+100 E W Breckinridge St, Louisville, KY:
+  lat: 38.2418164
+  lng: -85.758428
 ? 100 E W Kingston Ave following a report of gunshots. The caller indicated a woman
   was outside holding a gun and had a history of domestic issues. Police units from
   the 500 block of Adam and the 400 block of Baker were involved in the response.,
@@ -9889,6 +9892,7 @@
 : null
 2400 I-65 South regarding a caller's request, Louisville, KY: null
 2400 I-65 South, Louisville, KY: null
+2400 Idle-Wileys Ct, Louisville, KY: null
 2400 Lamar Ave, Louisville, KY:
   lat: 38.171153
   lng: -85.837048
@@ -20849,6 +20853,9 @@
   lat: 38.1493268
   lng: -85.6140702
 6700 Bultdown Road, Louisville, KY: null
+6700 Carolyn Rd, Louisville, KY:
+  lat: 38.158987
+  lng: -85.764932
 6700 Copperfield Rd, Louisville, KY: null
 ? 6700 Copperfield Rd. A note was found on the car, with the message indicating the
   vehicle had been "saved." Police investigated the incident., Louisville, KY
@@ -25110,6 +25117,7 @@
 9500 Westport Rd. Police units responded, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
+9600 3Rd St Rene Rd, Louisville, KY: null
 9600 A, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
