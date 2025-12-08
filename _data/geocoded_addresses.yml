@@ -1122,6 +1122,9 @@
 ? 1000 Cecil Ave involving an ex-wife who allegedly punched her partner in the face
   and broke their phone. By the time police units arrived, Louisville, KY
 : null
+1000 Cecil Ave, Louisville, KY:
+  lat: 38.2454635
+  lng: -85.8213121
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
@@ -1802,6 +1805,9 @@
 1000 South Third Street, Louisville, KY: null
 1000 South2nd Street) (around 12:43 p.m. p.m. p.m.):** A 68-year-old female was reported, Louisville, KY: null
 1000 South2nd Street, Louisville, KY: null
+1000 South3rd Street, Louisville, KY:
+  lat: 38.2384976
+  lng: -85.7585373
 1000 South4th Street, Louisville, KY:
   lat: 38.2387451
   lng: -85.7600955
@@ -6754,6 +6760,7 @@
 18800 Long Grove Way, Louisville, KY:
   lat: 38.24512
   lng: -85.41632
+19 South Arch Street, Louisville, KY: null
 19 South Fifth St, Louisville, KY: null
 1900 Alfresco Pl, Louisville, KY:
   lat: 38.2247589
@@ -17638,6 +17645,9 @@
 4900 Southside Dr, Louisville, KY:
   lat: 38.1764876
   lng: -85.7651435
+4900 Spring Farm Rd, Louisville, KY:
+  lat: 38.318931
+  lng: -85.594044
 4900 Terry Rd, Louisville, KY:
   lat: 38.178
   lng: -85.86195
@@ -18211,6 +18221,7 @@
 500 West Market, Louisville, KY:
   lat: 38.2552875
   lng: -85.7588431
+500 West Orange3, Louisville, KY: null
 500 West, Louisville, KY:
   lat: 38.2350131
   lng: -85.762185
