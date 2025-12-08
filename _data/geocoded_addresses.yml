@@ -8194,6 +8194,12 @@
 2000 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2662921
   lng: -85.486298
+2000 Art Ln, Louisville, KY:
+  lat: 38.2107036
+  lng: -85.4287633
+2000 Art Ln, near Dart Dr and Peabody Ln, Louisville, KY:
+  lat: 38.2107036
+  lng: -85.4287633
 2000 BMW four-door vehicle, Louisville, KY: null
 ? 2000 BMW four-door vehicle. The reporting party, who was on a landline, indicated
   the vehicle was associated with an individual named Robert. Further details, Louisville,
@@ -11956,6 +11962,7 @@
   lng: -85.7088219
 3000 Jefferson Green Dr due, Louisville, KY: null
 3000 Jefferson Green Dr, Louisville, KY: null
+3000 Jefferson Green, Louisville, KY: null
 3000 K long drive, Louisville, KY: null
 ? 3000 Kersel Road. Responding units arrived to investigate the alarm at Honey Brothers.
   The situation was assessed by responding personnel., Louisville, KY
@@ -25111,6 +25118,7 @@ Crums Lane and Sunflower Avenue, Louisville, KY: null
 Crums Ln and May Ave, Louisville, KY: null
 Crums Ln and Park Row Dr, Louisville, KY: null
 Crums Ln and Schmitts Ln, Louisville, KY: null
+Dart Dr and Peabody Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
 Delor Ave and Kansas Boulevard, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
