@@ -1758,6 +1758,9 @@
 1000 South 3rd Street, Louisville, KY:
   lat: 38.2384976
   lng: -85.7585373
+1000 South 4th St, Louisville, KY:
+  lat: 38.2387451
+  lng: -85.7600955
 1000 South 5th Street, Louisville, KY:
   lat: 38.2394285
   lng: -85.761159
@@ -15812,6 +15815,7 @@
 4100 Phantom Creek Rd near Butte Bank, Louisville, KY: null
 4100 Phantom Creek Rd, Louisville, KY: null
 4100 Phantom Creek Rd. Officers were requested, Louisville, KY: null
+4100 Pine Cross, Louisville, KY: null
 4100 Pinecroft Dr, Louisville, KY:
   lat: 38.1335452
   lng: -85.686208
@@ -17220,6 +17224,7 @@
   the window, and police units were dispatched, Louisville, KY
 : lat: 38.1810652
   lng: -85.766787
+4700 South Brooklyn Avenue, Louisville, KY: null
 ? 4700 South First Street this morning following a report of a medical concern. A
   young individual, believed to be around 15 years old, was experiencing symptoms
   that suggested possible alcohol poisoning after consuming tequila. Multiple units
