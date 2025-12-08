@@ -5330,6 +5330,9 @@
 15100 Abington Ridge Pl near Arnold Palmer, Louisville, KY:
   lat: 38.2708509
   lng: -85.4812756
+15100 Chestnut Ridge Cir, Louisville, KY:
+  lat: 38.274201
+  lng: -85.483629
 15100 Meadow Farms Ct, Louisville, KY:
   lat: 38.2791979
   lng: -85.4843712
@@ -15887,6 +15890,9 @@
 4200 Westport Ridge, Louisville, KY:
   lat: 38.3058348
   lng: -85.5213483
+42500 Southcrest Dr, Louisville, KY:
+  lat: 38.185411
+  lng: -85.7724711
 4300 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
@@ -25539,6 +25545,7 @@ Springtime Ave and Westport Rd, Louisville, KY: null
 St Rene Rd and Algonquin Pky, Louisville, KY: null
 St Rene Rd and Kentucky Ave, Louisville, KY: null
 St Rene Rd and Lindbergh Dr, Louisville, KY: null
+St Rene Rd and Olenda Ave, Louisville, KY: null
 St Rene Rd and Spirit Lane, Louisville, KY: null
 Stallings Ave and Cliggs Avenue, Louisville, KY: null
 Stanton Blvd and Euclid Ave, Louisville, KY: null
