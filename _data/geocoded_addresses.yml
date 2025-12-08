@@ -7229,6 +7229,8 @@
 200 East Jacob Street, Louisville, KY:
   lat: 38.244097
   lng: -85.75177
+200 East Money Avenue due, Louisville, KY: null
+200 East Money Avenue, Louisville, KY: null
 ? 200 East Street. This stop involved a vehicle displaying a Kentucky license plate.
   Law enforcement initiated the stop for reasons that are not immediately clear from
   the initial report. The details of this traffic stop are being processed., Louisville,
@@ -12597,6 +12599,9 @@
 3200 Indian Trail, Louisville, KY:
   lat: 38.1681994
   lng: -85.700921
+3200 Joe Conway Cir, Louisville, KY:
+  lat: 38.2540355
+  lng: -85.6657009
 3200 Judson's Lane, Louisville, KY: null
 3200 Kevin's Drive, Louisville, KY: null
 3200 Kevin's Drive. Further details about this incident are not yet available., Louisville, KY: null
@@ -16435,6 +16440,10 @@
 4400 Towne Center Dr, near the Cinemark theaters,, Louisville, KY:
   lat: 38.3020332
   lng: -85.55784
+4400 Townsend Road, Louisville, KY: null
+? 4400 Townsend Road, described as a "safe ambush, terrorist alarm." Units from the
+  2nd Division were dispatched, Louisville, KY
+: null
 4400 W Market St, Louisville, KY:
   lat: 38.263696
   lng: -85.8211188
@@ -19604,6 +19613,9 @@
   lat: 38.248816
   lng: -85.7581019
 600 South 4th Street, Louisville, KY:
+  lat: 38.248816
+  lng: -85.7581019
+600 South 4th Street. A 40-year-old male indicated he had been shot. Police units responded, Louisville, KY:
   lat: 38.248816
   lng: -85.7581019
 600 South 6th Street and Garvin Pl, Louisville, KY: null
@@ -25546,6 +25558,7 @@ Shelby Station Dr and Fairway Park Dr, Louisville, KY: null
 Shelbyville Rd and Adams St, Louisville, KY: null
 Shelbyville Rd and Beckley Creek Pky, Louisville, KY: null
 Shelbyville Rd and Bircham Rd, Louisville, KY: null
+Shelbyville Rd and Brown Ave, Louisville, KY: null
 Shelbyville Rd and Dorset Rd, Louisville, KY: null
 Shelbyville Rd and Dorsey Ln, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
