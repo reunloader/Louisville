@@ -31823,4 +31823,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2025-12-08T15:38:01.899932'
+- timestamp: '2025-12-08T15:42:19.289974'
+  total_addresses: 10760
+  successful: 5400
+  failed: 5360
+  success_rate: 50.19
+  failure_rate: 49.81
+  failure_patterns:
+    Contains location qualifiers (near/at): 1857
+    Incomplete/vague address: 1081
+    Intersection format: 958
+    Contains extra sentences/context: 460
+    Other/Unknown: 998
+    Police phonetic codes: 6
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-08T15:42:19.290104'
