@@ -12528,6 +12528,9 @@
 3100 Mid Dale Ln, Louisville, KY:
   lat: 38.2110134
   lng: -85.6360004
+3100 Montana Ave, Louisville, KY:
+  lat: 38.2083349
+  lng: -85.7761468
 3100 North First Farm Parkway, Louisville, KY: null
 3100 North31st Street, Louisville, KY: null
 ? 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched
@@ -13850,6 +13853,7 @@
   lat: 38.1942564
   lng: -85.7886117
 3600 Wheeler Ave, Jacobs School Apartment, Louisville, KY: null
+3600 Wheeler Ave, Jacobs School apartment, Louisville, KY: null
 3600 Wheeler Ave, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
@@ -17380,6 +17384,7 @@
 4800 Bluebird Ave, Louisville, KY: null
 4800 Brownsboro Center, Louisville, KY: null
 4800 Brownsboro Center. Police units were sent, Louisville, KY: null
+4800 Brownsboro Rd, Northern Children's Medical Group, Louisville, KY: null
 4800 Building Way, Louisville, KY: null
 4800 COVID Drive 1:30 p, Louisville, KY: null
 4800 COVID Drive 1:30 p.m., Louisville, KY: null
@@ -20673,6 +20678,9 @@
 ? 6500 Gabriel Dr, across from Galaxy and Mercury. The complainant's daughter was
   reportedly intoxicated and refusing, Louisville, KY
 : null
+6500 Gabriel, Louisville, KY:
+  lat: 38.158398
+  lng: -85.853737
 6500 Gadwall Way, Louisville, KY:
   lat: 38.1748382
   lng: -85.6293822
