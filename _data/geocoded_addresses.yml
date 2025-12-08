@@ -14731,6 +14731,7 @@
 400 Fern Creek Rd, Louisville, KY:
   lat: 38.158292
   lng: -85.5898849
+400 Fire1, Louisville, KY: null
 400 FireFox early this morning. Firefighters worked, Louisville, KY: null
 400 FireFox, Louisville, KY: null
 400 Gateway Run Rd, Louisville, KY: null
@@ -20394,6 +20395,10 @@
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
   lng: -85.628487
+6500 East Broadway due, Louisville, KY: null
+6500 East Broadway, Louisville, KY:
+  lat: 38.2446794
+  lng: -85.7394849
 6500 Frankfort Ave, Louisville, KY:
   lat: 38.2611284
   lng: -85.7234073
