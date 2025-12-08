@@ -5013,6 +5013,9 @@
 : null
 1500 Bellamy Pl. Concerns were raised, Louisville, KY: null
 1500 Bellamy's Place, Louisville, KY: null
+1500 Bicknell Ave, Louisville, KY:
+  lat: 38.183496
+  lng: -85.787972
 1500 Bill Armory Place, Louisville, KY: null
 1500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
@@ -6563,6 +6566,9 @@
 1800 South Third Street, Louisville, KY: null
 1800 South3rd Street, Louisville, KY: null
 1800 Southbrook Street, Louisville, KY: null
+1800 Southwestern Pky, near the intersection with Herman St and W Market St, Louisville, KY:
+  lat: 38.2477827
+  lng: -85.829606
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
@@ -15996,6 +16002,9 @@
 4300 River Park Drive, Louisville, KY:
   lat: 38.2559385
   lng: -85.8233035
+4300 S Brook St, Louisville, KY:
+  lat: 38.193914
+  lng: -85.760014
 4300 Sadie Ln, Louisville, KY:
   lat: 38.1806477
   lng: -85.8101697
@@ -24939,6 +24948,7 @@ Benton Ave and Dresden Ave, Louisville, KY: null
 Beulah Church Rd and Faganbisch Lane, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
 Beulah Church Rd and Farnsley Rd, Louisville, KY: null
+Bicknell Ave and Wheeler Ave, Louisville, KY: null
 Bignol Street and Parthenia Ave, Louisville, KY: null
 Billtown Rd and Schaffner Ave, Louisville, KY: null
 Billtown Rd and Shaffer Ln, Louisville, KY: null
@@ -25028,6 +25038,7 @@ Clay St and Shelby St, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cliff Ave and Denmark St, Louisville, KY: null
+Clifton Ave and South Bel Air Avenue, Louisville, KY: null
 Closet Slide Drive and Benbow Dr, Louisville, KY: null
 Cofer Ave and Margo Ave, Louisville, KY: null
 Colorado Ave and Lincoln Ave, Louisville, KY: null
