@@ -14538,6 +14538,9 @@
 400 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+400 E W Market St. Police units were dispatched, Louisville, KY:
+  lat: 38.2586626
+  lng: -85.7877091
 400 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
@@ -23239,6 +23242,11 @@
   lat: 38.1374825
   lng: -85.8663763
 8000 Vine Crest Ave, Louisville, KY: null
+8000 Wonderson Trail, Louisville, KY: null
+? 8000 Wonderson Trail. The resident, a 97-year-old female, was repeatedly activating
+  her medical alert system and indicated that multiple individuals were attempting,
+  Louisville, KY
+: null
 8000 Wooded Ridge Dr, Louisville, KY:
   lat: 38.1433838
   lng: -85.809036
