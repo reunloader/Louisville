@@ -9359,6 +9359,9 @@
 23 Adventure Rd, Louisville, KY:
   lat: 38.2039221
   lng: -85.834534
+23 Downes Ln, Louisville, KY:
+  lat: 38.1574244
+  lng: -85.7590501
 23 Ralston Ave, Louisville, KY:
   lat: 38.1426872
   lng: -85.8480559
@@ -14843,6 +14846,12 @@
 : null
 400 I64 West, Louisville, KY: null
 400 I65 South, Louisville, KY: null
+400 Industry Rd, Louisville, KY:
+  lat: 38.218018
+  lng: -85.771712
+400 Industry Rd. Further details, Louisville, KY:
+  lat: 38.218018
+  lng: -85.771712
 400 Iowa Ave near Finn, Louisville, KY:
   lat: 38.207651
   lng: -85.765277
@@ -16987,6 +16996,9 @@
 4600 Shenandoah Dr, Louisville, KY:
   lat: 38.309861
   lng: -85.543426
+4600 South 1st Street, Louisville, KY:
+  lat: 38.1834092
+  lng: -85.7628228
 4600 South 5th Street, Louisville, KY:
   lat: 38.184921
   lng: -85.769193
@@ -19408,6 +19420,9 @@
   lat: 38.185675
   lng: -85.7821746
 600 Bellamy Cir, Louisville, KY:
+  lat: 38.2251466
+  lng: -85.7691344
+600 Bellamy Cir. Medical assistance was provided, Louisville, KY:
   lat: 38.2251466
   lng: -85.7691344
 600 Camp St, Louisville, KY:
@@ -25836,6 +25851,7 @@ Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springhurst Road and Westport Rd, Louisville, KY: null
 Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
+St Andrews Church Rd and Auburn Ave, Louisville, KY: null
 St Rene Rd and Algonquin Pky, Louisville, KY: null
 St Rene Rd and Kentucky Ave, Louisville, KY: null
 St Rene Rd and Lindbergh Dr, Louisville, KY: null
