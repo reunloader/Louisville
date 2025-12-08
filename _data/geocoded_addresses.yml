@@ -1035,6 +1035,9 @@
   Louisville, KY
 : null
 1000 Arrowhead Rd, Louisville, KY: null
+1000 Ash St, Louisville, KY:
+  lat: 38.2267347
+  lng: -85.7372918
 1000 Autumn Crest Ln, Louisville, KY:
   lat: 38.244354
   lng: -85.453897
@@ -4550,6 +4553,9 @@
   arrived to investigate the situation., Louisville, KY
 : null
 1400 Hepburn Avenue following reports of a possible domestic disturbance. Neighbors had alerted dispatch, Louisville, KY: null
+1400 Holly Ave, Louisville, KY:
+  lat: 38.101725
+  lng: -85.7407172
 1400 Homeview Dr, Louisville, KY:
   lat: 38.2097542
   lng: -85.7821284
@@ -8444,6 +8450,10 @@
 2000 Purdle Street who was reportedly threatening, Louisville, KY: null
 2000 Purdle Street, Louisville, KY: null
 2000 Red Dodge Charger, Louisville, KY: null
+2000 River Crest Dr following reports of children setting off fireworks. Authorities planned, Louisville, KY: null
+2000 River Crest Dr, Louisville, KY:
+  lat: 38.268554
+  lng: -85.7004642
 ? 2000 River Park following an accident that required chemical mitigation. Responders
   were on the scene and successfully cleared the area., Louisville, KY
 : null
@@ -19191,6 +19201,9 @@
 600 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+600 Bellamy Cir, Louisville, KY:
+  lat: 38.2251466
+  lng: -85.7691344
 600 Camp St, Louisville, KY:
   lat: 38.2312622
   lng: -85.7457872
@@ -25589,6 +25602,7 @@ Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
 Swan St and Lampton St, Louisville, KY: null
 Tamerlane Rd and Roxbury Rd, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
+Taylor Ave and Arcade Ave, Louisville, KY: null
 Taylor Ave and Barret Ave, Louisville, KY: null
 Taylor Ave and Berry Blvd, Louisville, KY: null
 Taylor Ave and Bicknell Ave, Louisville, KY: null
