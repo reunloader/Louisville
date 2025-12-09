@@ -5350,6 +5350,9 @@
 1500 Rufer Ave, Louisville, KY:
   lat: 38.2362981
   lng: -85.7232684
+1500 S Shelby St, Louisville, KY:
+  lat: 38.2248292
+  lng: -85.7428829
 1500 Shingo Ave, Louisville, KY:
   lat: 38.1744846
   lng: -85.7865232
@@ -24758,6 +24761,7 @@
   10:04 a.m. a.m. a.m.): A caller reported a suspicious vehicle, a white truck with
   orange cones, claiming to work, Louisville, KY'
 : null
+900 South63, Louisville, KY: null
 900 Southbrook Street, Louisville, KY: null
 900 Southgate Manor Dr, Louisville, KY:
   lat: 38.0893129
@@ -26079,6 +26083,7 @@ Norfolk Avenue and Landing Dr, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
+North Height Avenue and Brown Crow Road, Louisville, KY: null
 North Height Avenue and Cleveland Blvd, Louisville, KY: null
 North Hersborn Parkway and Westport Rd, Louisville, KY: null
 North Horsborne Parkway and Westport Rd, Louisville, KY: null
