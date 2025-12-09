@@ -22381,6 +22381,9 @@
 : null
 700 both Eli Dr and an adjacent street, Louisville, KY: null
 700 both streets, Louisville, KY: null
+700 magazine, Louisville, KY:
+  lat: 38.248125
+  lng: -85.763242
 7000 Allspice Ct, Louisville, KY:
   lat: 38.1461322
   lng: -85.5921653
