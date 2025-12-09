@@ -7304,6 +7304,7 @@
 200 E Gray St, Louisville, KY:
   lat: 38.2465425
   lng: -85.7512048
+200 E Gray St, Norton Healthcare Gray Street, Louisville, KY: null
 200 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -20152,6 +20153,9 @@
   lng: -85.842729
 600 Velenik Circle, Louisville, KY: null
 600 Vernis Avenue, Louisville, KY: null
+600 W Chestnut St near UofL campus, Louisville, KY:
+  lat: 38.249246
+  lng: -85.761357
 600 W Chestnut St, Louisville, KY:
   lat: 38.249246
   lng: -85.761357
