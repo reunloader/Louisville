@@ -992,6 +992,9 @@
 100 Wiltshire Ave, Louisville, KY:
   lat: 38.2521012
   lng: -85.6563324
+100 Winkler Ave, Louisville, KY:
+  lat: 38.2138255
+  lng: -85.7728425
 100 Workinridge Lane, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
 100 [Street Name Missing], Louisville, KY:
@@ -9467,6 +9470,7 @@
   available., Louisville, KY
 : null
 2200 Main St as multiple units are responding, Louisville, KY: null
+2200 Mary Catherine Dr, Louisville, KY: null
 2200 N. Similar Parkway. While one unit was responding, the alarm company contacted the call taker, Louisville, KY:
   lat: 38.1428812
   lng: -85.7612518
@@ -10726,6 +10730,9 @@
 2600 Kings Hwy, Louisville, KY:
   lat: 38.2219672
   lng: -85.672165
+2600 Lindsay Ave, Louisville, KY:
+  lat: 38.2613731
+  lng: -85.703946
 ? 2600 Lindsay Ct following a report that a grandmother was allegedly violating a
   custody order. Officers investigated the situation., Louisville, KY
 : null
@@ -17204,6 +17211,9 @@
 4500 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+4500 Flushing Way, Louisville, KY:
+  lat: 38.0986756
+  lng: -85.8466163
 ? 4500 Georgia Ln for a medical emergency involving a 68-year-old male. The incident
   occurred near Billy Goat Strut Alley., Louisville, KY
 : null
@@ -25690,6 +25700,7 @@
   lat: 38.1173771
   lng: -85.6048029
 9500 Kalamazoo Road, Louisville, KY: null
+9500 Lamborn, Louisville, KY: null
 9500 Lamborne Blvd, Louisville, KY:
   lat: 38.113241
   lng: -85.813602
