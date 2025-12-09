@@ -1058,6 +1058,7 @@
   the 10-33 update is not specified, but it indicated a potential problem or a need,
   Louisville, KY
 : null
+100 with Kentucky tags James4, James 453, Louisville, KY: null
 100 yards towards Cane Run, Louisville, KY: null
 100, Louisville, KY:
   lat: 38.2397699
@@ -7593,6 +7594,9 @@
 200 Eric Ct, Louisville, KY:
   lat: 38.146714
   lng: -85.6890862
+200 Evans St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
 ? 200 Fairlawn Rd where a 71-year-old female had fallen. Fortunately, she did not
   appear to have sustained any injuries, and EMS was offered as a precautionary measure.,
   Louisville, KY
@@ -21011,6 +21015,9 @@
 6600 Newbridge Pl, Louisville, KY:
   lat: 38.1578121
   lng: -85.5895715
+6600 Outer Loop, Louisville, KY:
+  lat: 38.1370478
+  lng: -85.6353878
 6600 Preston Howey, Louisville, KY: null
 6600 Preston Hwy near Old Firm Valley, Louisville, KY:
   lat: 38.156696
