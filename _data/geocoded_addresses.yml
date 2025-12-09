@@ -652,6 +652,7 @@
 : lat: 38.254043
   lng: -85.71819
 100 Radio, Louisville, KY: null
+100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
 ? 100 Royal Court. The incident occurred in the evening, and the suspect was seen
   fleeing the scene. The suspect reportedly headed towards a nearby alleyway after
@@ -3592,6 +3593,7 @@
   lat: 38.2551819
   lng: -85.7280531
 1200 Taylor's Road, Louisville, KY: null
+1200 Telford Street, Louisville, KY: null
 ? 1200 Triple Crown Ct to assist a clinic patient experiencing a significant nosebleed.
   The patient was reportedly waiting for assistance in a white vehicle., Louisville,
   KY
@@ -3967,6 +3969,9 @@
 : lat: 38.2018157
   lng: -85.6695817
 1300 Dorsey Village Dr, Louisville, KY: null
+1300 E Main St, Louisville, KY:
+  lat: 38.253697
+  lng: -85.725506
 1300 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
@@ -10413,6 +10418,7 @@
   lat: 38.2589001
   lng: -85.7922412
 2500 West Alley, Louisville, KY: null
+2500 West9th Street, Louisville, KY: null
 2500 Wilson Ave, Louisville, KY:
   lat: 38.2343368
   lng: -85.7962538
@@ -10696,6 +10702,9 @@
 2600 West Market, Louisville, KY:
   lat: 38.2594009
   lng: -85.7938825
+2600 West9th Avenue, Louisville, KY:
+  lat: 38.2543885
+  lng: -85.7653514
 2600 Wilson Ave, Louisville, KY:
   lat: 38.23364
   lng: -85.797476
@@ -11016,6 +11025,10 @@
   hallway. The incident was located between South 29th and South 28th Streets., Louisville,
   KY
 : null
+2800 Englewood Ave across from Brookdale Ave, Louisville, KY: null
+2800 Englewood Ave, Louisville, KY:
+  lat: 38.228252
+  lng: -85.629807
 2800 Fairview, Louisville, KY:
   lat: 38.209828
   lng: -85.775479
