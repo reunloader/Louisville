@@ -5348,6 +5348,7 @@
   lat: 38.1777302
   lng: -85.8088167
 1500 Lytle St between North 15th and 17th Streets, Louisville, KY: null
+1500 Lytle St, Dismas House, Louisville, KY: null
 1500 Lytle St, Louisville, KY:
   lat: 38.261211
   lng: -85.774435
@@ -6118,6 +6119,7 @@
 1700 Liberty Bell Way, Louisville, KY:
   lat: 38.194681
   lng: -85.793611
+1700 Loney Ln, Louisville, KY: null
 1700 Long Rifle, Louisville, KY:
   lat: 38.1161957
   lng: -85.601356
@@ -9202,6 +9204,9 @@
 2100 Village Dr, Louisville, KY:
   lat: 38.2272717
   lng: -85.6944416
+2100 W Gaulbert Ave, Louisville, KY:
+  lat: 38.2278626
+  lng: -85.793433
 2100 W Hill St, Louisville, KY:
   lat: 38.2287537
   lng: -85.7930659
@@ -13506,6 +13511,9 @@
 3400 Powell Ave, Louisville, KY:
   lat: 38.199848
   lng: -85.7902684
+3400 Preston Hwy near Florida Corp, Crusher Bourbon Avenue, and Wolfe Ave, Louisville, KY:
+  lat: 38.197505
+  lng: -85.731625
 3400 Preston Hwy, Louisville, KY:
   lat: 38.197505
   lng: -85.731625
@@ -23199,6 +23207,9 @@
   lat: 38.1406002
   lng: -85.8540073
 7700 I-65 South, Louisville, KY: null
+7700 Kendrick Crossing Ln, Louisville, KY:
+  lat: 38.1290527
+  lng: -85.5615396
 7700 Kim Dr, Louisville, KY:
   lat: 38.1389657
   lng: -85.7680606
@@ -25175,6 +25186,9 @@
 9000 Teak Dr, Louisville, KY:
   lat: 38.109217
   lng: -85.609447
+9000 W Manslick Rd, Louisville, KY:
+  lat: 38.118865
+  lng: -85.7953928
 9000 West and 700 block of W Ormsby Ave, Louisville, KY: null
 9000 Willowcreek Dr, Louisville, KY:
   lat: 38.1196701
