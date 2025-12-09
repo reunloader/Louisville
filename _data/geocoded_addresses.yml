@@ -4520,6 +4520,7 @@
 13900 Promenade Greenway in the 2nd office area, Louisville, KY: null
 13900 Promenade Greenway in the 2nd office area. Responders investigated the activation., Louisville, KY: null
 13900 South41st Street, Louisville, KY: null
+13900 Subwayville Road, Louisville, KY: null
 13900 Taylor's Hill Rd, Louisville, KY: null
 14 Estate Dr, Louisville, KY:
   lat: 38.1728605
@@ -5538,6 +5539,9 @@
 15100 Chestnut Ridge Cir, Louisville, KY:
   lat: 38.274201
   lng: -85.483629
+15100 Dixie Hwy, Louisville, KY:
+  lat: 38.0394588
+  lng: -85.9068511
 15100 Meadow Farms Ct, Louisville, KY:
   lat: 38.2791979
   lng: -85.4843712
@@ -8967,6 +8971,9 @@
   lat: 38.2983417
   lng: -85.5413774
 206 Hi View Ln, Louisville, KY: null
+21 Southside Dr, Louisville, KY:
+  lat: 38.1536611
+  lng: -85.7652516
 2100 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
@@ -9020,6 +9027,7 @@
 2100 Cherokee Pky. Units from the 500 block of Baker and 500 block of Echo were on the scene, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
+2100 Cherokee Ridgeway, Louisville, KY: null
 2100 Church Park Cir, Louisville, KY:
   lat: 38.2140553
   lng: -85.6249091
@@ -10649,6 +10657,9 @@
   of a vehicle in the 2400 block of Frankfort Ave., Louisville, KY
 : lat: 38.2538627
   lng: -85.6962344
+2600 Franklin Ave near DeWayne Avenue, Louisville, KY:
+  lat: 38.1736725
+  lng: -85.8403585
 2600 Franklin Ave, Louisville, KY:
   lat: 38.1736725
   lng: -85.8403585
@@ -12154,6 +12165,9 @@
   lng: -85.8208636
 300 Southbrook Street. EMS later reported being back in service after the water leak was contained., Louisville, KY: null
 300 Southbrook Street. EMS later reported being back in service, Louisville, KY: null
+300 Southern Pky near Greenwood Coin Laundry, Louisville, KY:
+  lat: 38.1836068
+  lng: -85.7677003
 300 Southgate Ave, Louisville, KY:
   lat: 38.2008006
   lng: -85.7853295
@@ -12285,6 +12299,7 @@
 300 an unspecified street. Unit 10 Adam was en route, Louisville, KY: null
 300 an unspecified street. Unit 5-19 reported having one car clear from the scene., Louisville, KY: null
 300 and 1-9-0, Louisville, KY: null
+300 and Ford38, Louisville, KY: null
 300 and I, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -13608,6 +13623,9 @@
 3400 Vermont Ave, Louisville, KY:
   lat: 38.2554064
   lng: -85.8075985
+3400 Virginia Ave, Louisville, KY:
+  lat: 38.2387086
+  lng: -85.8105098
 3400 W Jefferson St, Louisville, KY:
   lat: 38.259772
   lng: -85.8073335
@@ -25311,6 +25329,7 @@
 9100 Dixie Hwy near Speedway, Louisville, KY:
   lat: 38.1222535
   lng: -85.8553681
+9100 Front Run Road, Louisville, KY: null
 ? 9100 Galene Dr to investigate a report of suspicious activity. The exact nature
   of the call was not immediately clear, but it may have involved a request, Louisville,
   KY
