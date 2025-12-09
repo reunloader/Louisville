@@ -2586,6 +2586,9 @@
 1100 Minor Ln, Louisville, KY:
   lat: 38.1251486
   lng: -85.7122765
+1100 Naneen Dr, Louisville, KY:
+  lat: 38.1799951
+  lng: -85.802758
 1100 Neptune Pl, Louisville, KY:
   lat: 38.0941223
   lng: -85.84892
@@ -7298,6 +7301,7 @@
 200 Beaver St. Responding police units were dispatched, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+200 Bellows No Road, Harrisburg, Kentucky, Louisville, KY: null
 200 Berkman Edge Lane, Louisville, KY: null
 200 Berkman Edge Lane. The outcome of this alert was not specified in the reports., Louisville, KY: null
 200 Billtown Rd, Louisville, KY:
@@ -8157,6 +8161,9 @@
 200 Waterstone Way, Louisville, KY:
   lat: 38.233504
   lng: -85.46195
+200 Webster St near Poplar Level Rd, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 200 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
@@ -9456,6 +9463,9 @@
 2200 Osage Ave, Louisville, KY:
   lat: 38.23915
   lng: -85.7901282
+2200 Paris Dr near Medford Ct and Liverpool Ln, Louisville, KY:
+  lat: 38.2019845
+  lng: -85.6630799
 2200 Parkwood Rd, Louisville, KY:
   lat: 38.164858
   lng: -85.797721
@@ -22726,6 +22736,7 @@
 7200 Lucille Ave, Louisville, KY:
   lat: 38.146865
   lng: -85.845118
+7200 Main St Northeast in Lanesville, Indiana, prompting law enforcement, Louisville, KY: null
 7200 National Turnpike at the Brady SPC, Louisville, KY:
   lat: 38.1428729
   lng: -85.7563021
@@ -26521,6 +26532,7 @@ Scottsdale Blvd and New Cut Rd, Louisville, KY:
   lat: 38.1392585
   lng: -85.7740084
 Scrim Ave and Libby Ln, Louisville, KY: null
+Sealbock Avenue and Peachtree Ave, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
 Second St and Main St, Louisville, KY: null
