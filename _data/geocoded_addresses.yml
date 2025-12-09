@@ -58,6 +58,7 @@
   lat: 38.2344233
   lng: -85.7405196
 10 Peoplecrest Drive, Louisville, KY: null
+10 Standing Saver Street, Louisville, KY: null
 100 13th Street at Chestnut View Ct, Louisville, KY:
   lat: 38.258148
   lng: -85.771547
@@ -780,6 +781,7 @@
 100 South Shelby, Louisville, KY:
   lat: 38.254461
   lng: -85.737913
+100 South Side of Street, Louisville, KY: null
 100 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -10312,6 +10314,9 @@
 2421 West Jefferson Street, Louisville, KY:
   lat: 38.2579022
   lng: -85.7915813
+25 New Main St, Louisville, KY:
+  lat: 38.2536473
+  lng: -85.708842
 2500 Almond Drive (March 10, 7:26 a, Louisville, KY: null
 2500 Almond Drive (March 10, 7:26 a.m.AM), Louisville, KY: null
 ? 2500 Almond Drive to provide assistance. Details regarding the nature of the medical
@@ -23754,6 +23759,7 @@
   lat: 38.313437
   lng: -85.5612938
 800 North Polk Lake Road, Louisville, KY: null
+800 Ontario Road, Louisville, KY: null
 800 Paper Birch Way and Hickory, Louisville, KY: null
 800 Pflanz Ave, Louisville, KY:
   lat: 38.2739729
@@ -24858,6 +24864,7 @@
 900 Goss Ave, Louisville, KY:
   lat: 38.230112
   lng: -85.740178
+900 Goth Avenue near Boyle St and Logan St, Louisville, KY: null
 900 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
@@ -26116,6 +26123,7 @@ Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blenheim Street and Don Allen Rd, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
+Boyle St and Logan St, Louisville, KY: null
 Boyle St and South Lake Street, Louisville, KY: null
 Bradley Ave and Sherry Rd, Louisville, KY: null
 Branning Rd and Woodmont Dr, Louisville, KY: null
