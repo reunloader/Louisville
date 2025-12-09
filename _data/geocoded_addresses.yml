@@ -43,6 +43,9 @@
   lat: 38.171284
   lng: -85.8186862
 06 Springford Avenue, Louisville, KY: null
+08 Gabriel Dr, Louisville, KY:
+  lat: 38.1565043
+  lng: -85.8545813
 1 Shelby Station Dr, Louisville, KY: null
 1 South St, Louisville, KY:
   lat: 38.2182659
@@ -6874,6 +6877,9 @@
   lng: -85.41632
 19 South Arch Street, Louisville, KY: null
 19 South Fifth St, Louisville, KY: null
+19 Virginia Ave, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 1900 Alfresco Pl, Louisville, KY:
   lat: 38.2247589
   lng: -85.7002092
@@ -8896,6 +8902,7 @@
 2000 White Oak Ln, Louisville, KY:
   lat: 38.15827
   lng: -85.8413922
+2000 Wilson Ave, waterfront area, Louisville, KY: null
 2000 Yamaha CW50, was last seen loaded onto the pickup truck. Police units were dispatched, Louisville, KY: null
 2000 [Street Name Not Fully Provided], Louisville, KY:
   lat: 38.2274949
@@ -10507,6 +10514,7 @@
   lng: -85.7922412
 2500 West Alley, Louisville, KY: null
 2500 West9th Street, Louisville, KY: null
+2500 Wilson Ave, Crusher South, Louisville, KY: null
 2500 Wilson Ave, Louisville, KY:
   lat: 38.2343368
   lng: -85.7962538
@@ -11794,6 +11802,7 @@
 300 E W Market St near South Preston, Louisville, KY:
   lat: 38.2586626
   lng: -85.7877091
+300 E W Market St, Crusher South Creston South Floyd, Louisville, KY: null
 300 E W Market St, Louisville, KY:
   lat: 38.2586626
   lng: -85.7877091
@@ -12017,6 +12026,7 @@
 300 Outer Loop, Louisville, KY:
   lat: 38.125884
   lng: -85.769085
+300 Paul Victor, Louisville, KY: null
 300 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -16427,6 +16437,9 @@
   lng: -85.7653057
 4200 South Second Street, Louisville, KY: null
 4200 South2nd Street, Louisville, KY: null
+4200 South3rd Street, Louisville, KY:
+  lat: 38.1951223
+  lng: -85.7653057
 4200 Southern Pky, Louisville, KY:
   lat: 38.1937856
   lng: -85.7672087
