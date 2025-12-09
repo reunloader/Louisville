@@ -1829,6 +1829,7 @@
 1000 Southern Ave, Louisville, KY:
   lat: 38.198171
   lng: -85.639367
+1000 St, Louisville, KY: null
 ? 1000 Stonehouse Lane following a report of a person suspected of driving under the
   influence. The individual was reportedly parked in an SUV in the area. A K-9 unit
   was requested to assist officers at the scene. Authorities investigated the situation
@@ -7498,6 +7499,7 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East near mile marker 8.5, Louisville, KY: null
+200 East of Bardstown Rd just before the Bardstown Rd exit, Louisville, KY: null
 200 East off-ramp, Louisville, KY: null
 200 East onto I-71 South, Louisville, KY: null
 200 East onto I-71 South. This action was likely in response to another ongoing incident in the area., Louisville, KY: null
@@ -22929,6 +22931,9 @@
 7500 Terry Rd, Louisville, KY:
   lat: 38.1442017
   lng: -85.8725769
+7500 Westbrook Rd, Louisville, KY:
+  lat: 38.1447309
+  lng: -85.8816289
 ? 7500 Winstead Dr, near Jean Cain Pl, to assist a 48-year-old male. The individual
   was reportedly experiencing sudden weakness on one side of his body, along with
   numbness., Louisville, KY
