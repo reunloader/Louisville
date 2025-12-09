@@ -1942,6 +1942,9 @@
   lat: 38.2560618
   lng: -85.7671133
 1000 West Martyr Street, Louisville, KY: null
+1000 Western Ave, Louisville, KY:
+  lat: 38.189243
+  lng: -85.8756836
 1000 Wilberforce between 11th and 10th streets, Louisville, KY: null
 1000 Wilberforce, situated between 11th and 10th streets, Louisville, KY: null
 1000 Winkler Ave, Louisville, KY:
@@ -19857,6 +19860,9 @@
   lng: -85.848698
 5900 Hunting Rd, Louisville, KY: null
 5900 Lions Arms Dr, Louisville, KY: null
+5900 Mercury Dr, Louisville, KY:
+  lat: 38.1629609
+  lng: -85.6093455
 5900 New Pet Road, Louisville, KY: null
 5900 Old Cedar Ct, Louisville, KY:
   lat: 38.330207
@@ -24886,6 +24892,7 @@
 900 Lansdowne Ave. The vehicle's placement was causing an inconvenience, Louisville, KY:
   lat: 38.2152515
   lng: -85.7385711
+900 Long Street Lane, Louisville, KY: null
 900 Longfield Ave, Louisville, KY:
   lat: 38.1984115
   lng: -85.7749882
@@ -26534,6 +26541,7 @@ Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Rolling St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
+River Rd and Brighton Dr, Louisville, KY: null
 River Rd and River Shore Dr, Louisville, KY: null
 Rochelle Rd and Myrna Parkway, Louisville, KY: null
 Rochelle Rd and Sperna Parkway, Louisville, KY: null
