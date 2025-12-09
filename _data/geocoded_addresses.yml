@@ -18798,6 +18798,9 @@
 5200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+5200 W Pages Ln, Louisville, KY:
+  lat: 38.130296
+  lng: -85.853646
 5200 Wainwright Ave, Louisville, KY:
   lat: 38.2127452
   lng: -85.749325
@@ -18994,6 +18997,9 @@
 5400 Industry Rd, Louisville, KY:
   lat: 38.2139783
   lng: -85.7642889
+5400 Jessamine Ln, Louisville, KY:
+  lat: 38.1381812
+  lng: -85.8558303
 5400 Marlborough Court near Lilly Ln, Louisville, KY: null
 5400 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
@@ -19136,6 +19142,7 @@
   units, Louisville, KY
 : lat: 38.14538
   lng: -85.775274
+5500 New Cut run, Louisville, KY: null
 5500 Newcote Road, Louisville, KY: null
 5500 Nicott Road, Louisville, KY: null
 5500 O Drive near Crestridge, Robinwood Rd, and Regal Dr, Louisville, KY:
@@ -23638,6 +23645,7 @@
 8000 Heights Dr, Louisville, KY:
   lat: 38.1303796
   lng: -85.5939161
+8000 K-1 Road, Louisville, KY: null
 8000 Merriman Rd, Louisville, KY: null
 8000 Merriman Rd. Responding units were dispatched, Louisville, KY: null
 8000 New LaGrange Road, Louisville, KY: null
