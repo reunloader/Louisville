@@ -1005,6 +1005,7 @@
 100 an unspecified location to investigate a report of suspicious activity and conduct a welfare check., Louisville, KY: null
 100 an unspecified location, Louisville, KY: null
 100 an unspecified street and a red PF. Units were sent, Louisville, KY: null
+100 an unspecified street, Louisville, KY: null
 100 and 100 block of, Louisville, KY: null
 100 and 1200 block of, Louisville, KY: null
 100 at65 South, Louisville, KY: null
@@ -20459,6 +20460,9 @@
 6100 South 41st Street, Louisville, KY:
   lat: 38.2395063
   lng: -85.8207933
+6100 South29th Street at Magazine St and W Chestnut St, Louisville, KY:
+  lat: 38.2533414
+  lng: -85.7992827
 6100 Summer Creek Dr at Crossbottom Lake Drive, Louisville, KY:
   lat: 38.0769588
   lng: -85.8742113
