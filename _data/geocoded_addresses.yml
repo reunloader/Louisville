@@ -6506,6 +6506,9 @@
 1800 Carl Ct, Louisville, KY:
   lat: 38.19116
   lng: -85.802221
+1800 Carl Ct. First responders worked to de-escalate the situation and ensure safety, Louisville, KY:
+  lat: 38.19116
+  lng: -85.802221
 1800 Clinton Pl near Dixie Hwy, Louisville, KY:
   lat: 38.0969101
   lng: -85.8731567
@@ -7156,6 +7159,7 @@
 200 Amy Ave, Louisville, KY:
   lat: 38.261491
   lng: -85.813215
+200 Ashland and Kathleen Ave, Louisville, KY: null
 200 Atom Street, Louisville, KY: null
 200 Baker and 100 block of Baker, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
@@ -13827,6 +13831,9 @@
 ? 3600 Monticello Forest Cir. This appears to be a correction or a separate incident
   from a previous call on Forest Way Dr, indicating a need, Louisville, KY
 : null
+3600 Nadina Dr, Louisville, KY:
+  lat: 38.2179873
+  lng: -85.6527759
 3600 North 36th Street, Louisville, KY:
   lat: 38.2647035
   lng: -85.8093607
@@ -15464,6 +15471,7 @@
 400 Speed Ave, Louisville, KY:
   lat: 38.2273201
   lng: -85.7034553
+400 St, Louisville, KY: null
 ? 400 Steeplecrest Court. The nature of the dispute was not immediately clear, but
   the request for multiple units suggests a potentially volatile situation. Officers
   worked to de-escalate the conflict and ensure the safety of all individuals involved.
