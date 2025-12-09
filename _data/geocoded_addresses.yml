@@ -1122,6 +1122,9 @@
 1000 Caldwell St, Louisville, KY:
   lat: 38.2381521
   lng: -85.7366708
+1000 Campbell, Louisville, KY:
+  lat: 38.2495531
+  lng: -85.7366238
 1000 Carlisle Ave, Louisville, KY:
   lat: 38.1941078
   lng: -85.7772406
@@ -1666,6 +1669,15 @@
   lat: 38.201788
   lng: -85.777512
 1000 Queen Ave, where a female could be heard screaming and crying, Louisville, KY: null
+? 1000 Queen Ave, where a suspect fired weapons before fleeing back inside a residence.
+  Responding units established a perimeter around the scene. Fortunately, no injuries
+  were reported, but investigators are working, Louisville, KY
+: null
+? 1000 Queen Ave. The individual appeared intoxicated and was involved in a conflict
+  with a relative. EMS was called to assist a male experiencing difficulty breathing,
+  and the situation was being closely monitored, Louisville, KY
+: lat: 38.201788
+  lng: -85.777512
 1000 Reeves Rd, Louisville, KY:
   lat: 38.138056
   lng: -85.701074
@@ -5027,6 +5039,7 @@
   Louisville, KY
 : null
 1400 block of North4th Street. The situation required EMS intervention due, Louisville, KY: null
+1400 various addresses, Louisville, KY: null
 ? 14000 Dolly Madison Ct. A witness reported a tall white male wearing a hat and black
   jacket exited a white Lincoln MKX, appeared, Louisville, KY
 : null
@@ -7054,6 +7067,7 @@
 1900 W Market St, Louisville, KY:
   lat: 38.2575145
   lng: -85.7818456
+1900 W Market St, requesting police assistance. Responders arrived, Louisville, KY: null
 1900 Walbrook, Louisville, KY:
   lat: 38.2883026
   lng: -85.6276049
@@ -21573,6 +21587,8 @@
   lat: 38.0968167
   lng: -85.6409213
 700 China Walk, Linn Station Rd, Louisville, KY: null
+700 Colville Street, Louisville, KY: null
+700 Colville Street. Officers checked the scene and reviewed nearby surveillance footage, Louisville, KY: null
 700 Curtin Woods, Louisville, KY: null
 700 Cypress Station Dr, Louisville, KY: null
 700 Denmark St, Louisville, KY:
