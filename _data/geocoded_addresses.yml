@@ -1845,6 +1845,7 @@
 1000 South Preston, Louisville, KY:
   lat: 38.237651
   lng: -85.748955
+1000 South Second Street, Louisville, KY: null
 1000 South Third Street, Louisville, KY: null
 1000 South29th Street, Louisville, KY:
   lat: 38.243639
@@ -6195,6 +6196,7 @@
   lat: 38.264815
   lng: -85.775314
 1700 O'Odaniel Ave, Louisville, KY: null
+1700 Oglegrafts Avenue, Louisville, KY: null
 1700 Old Bluegrass Ave, Louisville, KY:
   lat: 38.1797125
   lng: -85.7939212
@@ -11779,6 +11781,7 @@
 300 Boxley Ave, Louisville, KY:
   lat: 38.20556
   lng: -85.756522
+300 Broadway and Road, Louisville, KY: null
 300 Brombe Street, Louisville, KY: null
 300 Buckland Trace, Louisville, KY:
   lat: 38.2390446
@@ -15889,6 +15892,7 @@
 : null
 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines 41 and 47 responded, Louisville, KY: null
 4000 Cresskey Way, Louisville, KY: null
+4000 Druid Hills Row, Louisville, KY: null
 4000 Dutchman's, Louisville, KY: null
 4000 Dutchmans Ln (ER), Louisville, KY:
   lat: 38.2280743
@@ -18785,6 +18789,9 @@
 5000 Wabash, Louisville, KY:
   lat: 38.175764
   lng: -85.7592524
+5000 Walbrook Dr near Truist Bank ATM, Louisville, KY:
+  lat: 38.2883026
+  lng: -85.6276049
 ? 5000 West Pages experiencing significant breathing difficulties. The individual,
   a 62-year-old female, was also reportedly suffering from a rash and fever. Emergency
   medical personnel were dispatched to the scene to provide immediate care., Louisville,
