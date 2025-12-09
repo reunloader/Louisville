@@ -6943,6 +6943,7 @@
   lat: 38.2522204
   lng: -85.712845
 1900 Polaka, Louisville, KY: null
+1900 Ramser Ct, Louisville, KY: null
 1900 Rockford Ln, Louisville, KY:
   lat: 38.1752307
   lng: -85.8262423
@@ -14815,6 +14816,9 @@
 400 E Main St, Louisville, KY:
   lat: 38.2552731
   lng: -85.7457421
+400 E Southside Ct, Louisville, KY:
+  lat: 38.1585917
+  lng: -85.7546195
 400 E W Brandeis Ave, Louisville, KY:
   lat: 38.2193858
   lng: -85.7622692
@@ -15368,6 +15372,7 @@
 400 South Second Street near West Liberty, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+400 South Sixth Street, Louisville, KY: null
 400 South St, Louisville, KY:
   lat: 38.219248
   lng: -85.776587
@@ -20924,6 +20929,9 @@
 6600 St. St Matthews Ave, Louisville, KY:
   lat: 38.1558251
   lng: -85.7543575
+6600 Strawberry Ln, Louisville, KY:
+  lat: 38.1614986
+  lng: -85.7604591
 6600 Sun Ray Dr, Louisville, KY:
   lat: 38.1096486
   lng: -85.8823864
