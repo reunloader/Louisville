@@ -7110,6 +7110,9 @@
   lat: 38.258738
   lng: -85.726232
 200 Adams St. The reporting officer indicated that they were not harmed during the stop., Louisville, KY: null
+200 Adams, Louisville, KY:
+  lat: 38.258738
+  lng: -85.726232
 200 Albany Ave alley, Louisville, KY: null
 200 Alger Ave, Louisville, KY:
   lat: 38.16614
@@ -11160,6 +11163,9 @@
 2800 Whitlock St, Louisville, KY:
   lat: 38.1581809
   lng: -85.712559
+29 Fairground Rd, Louisville, KY:
+  lat: 38.1740102
+  lng: -85.5830729
 2900 Abigail Dr, Louisville, KY: null
 2900 Alford Ave, Louisville, KY:
   lat: 38.2653078
@@ -15261,6 +15267,9 @@
 400 South 4th Street, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
+400 South 5th Street, Louisville, KY:
+  lat: 38.253135
+  lng: -85.758928
 400 South 6th Street, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
