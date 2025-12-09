@@ -5062,6 +5062,9 @@
 14600 Landon Ct, Louisville, KY:
   lat: 38.2365686
   lng: -85.4946408
+14700 Brush Run Rd, Louisville, KY:
+  lat: 38.1227336
+  lng: -85.4920112
 14700 Forbes Cir, Louisville, KY:
   lat: 38.2705998
   lng: -85.4872947
@@ -5094,6 +5097,9 @@
 15 Audubon Plaza Dr, Louisville, KY:
   lat: 38.2145905
   lng: -85.716453
+15 Cypress St, Louisville, KY:
+  lat: 38.2214381
+  lng: -85.8005435
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -13507,6 +13513,7 @@
 3500 Illinois Ave, Louisville, KY:
   lat: 38.211744
   lng: -85.712405
+3500 Kramer's Lane, Louisville, KY: null
 3500 Lodge Line, Louisville, KY: null
 3500 Lynch Avenue, Louisville, KY: null
 3500 Lynn St, Louisville, KY:
@@ -16641,6 +16648,9 @@
   lat: 38.1847879
   lng: -85.7228748
 4400 Holley Street, Louisville, KY: null
+4400 Huntington Ln, Louisville, KY:
+  lat: 38.1419722
+  lng: -85.6875526
 4400 Jewell Ave, Louisville, KY:
   lat: 38.268448
   lng: -85.818722
