@@ -116,6 +116,9 @@
 100 Belle St, Louisville, KY:
   lat: 38.2318038
   lng: -85.5029265
+100 Benson Ln near Glyndon Way, Louisville, KY:
+  lat: 38.0952198
+  lng: -85.8636046
 100 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
@@ -2877,6 +2880,9 @@
 11100 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+11100 Court near Unseld Blvd, Louisville, KY:
+  lat: 38.2519114
+  lng: -85.5499427
 11100 South Fork Street, Louisville, KY: null
 11100 Vista Greens Dr, Louisville, KY: null
 11200 Deham Dr, Louisville, KY:
@@ -4607,6 +4613,9 @@
 1400 Clover Trace, Louisville, KY:
   lat: 38.1766443
   lng: -85.7992227
+1400 Court near Unseld Blvd, Louisville, KY:
+  lat: 38.259923
+  lng: -85.4488612
 1400 Crazy Horse Ln, Louisville, KY: null
 1400 David, Louisville, KY: null
 1400 Dellwood Dr, Louisville, KY:
@@ -22817,6 +22826,9 @@
 7400 Colt Dr, Louisville, KY:
   lat: 38.149494
   lng: -85.807791
+7400 Feyhurst Dr near Bay Shore and Yucca Ln, Louisville, KY:
+  lat: 38.147654
+  lng: -85.858289
 7400 Feyhurst Dr, Louisville, KY:
   lat: 38.147654
   lng: -85.858289
