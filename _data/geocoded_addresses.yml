@@ -164,6 +164,7 @@
 100 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+100 Clooney Oaks Court, Louisville, KY: null
 100 Closterwood Dr, Louisville, KY:
   lat: 38.1002925
   lng: -85.6573252
@@ -5194,6 +5195,7 @@
 1500 Clara Avenue, Louisville, KY:
   lat: 38.1996606
   lng: -85.7865926
+1500 Conquin Parkway, Louisville, KY: null
 1500 Crafty Dr near Crest and Gilmore, Louisville, KY:
   lat: 38.1748202
   lng: -85.7106431
@@ -15494,6 +15496,7 @@
 400 University Blvd, Louisville, KY:
   lat: 38.214119
   lng: -85.751109
+400 Varsha Road at the KSC, Louisville, KY: null
 400 Vicker, Louisville, KY: null
 400 Virginia Ave, Louisville, KY:
   lat: 38.2386515
@@ -17129,6 +17132,9 @@
 : null
 4500 Swaco Lane, Louisville, KY: null
 4500 Unsealed, Louisville, KY: null
+4500 Virginia Ave, Louisville, KY:
+  lat: 38.2403558
+  lng: -85.8282089
 4500 Waco Ct, Louisville, KY:
   lat: 38.1875744
   lng: -85.8309235
@@ -25337,6 +25343,7 @@
   lat: 38.2670204
   lng: -85.4388263
 9500 Crescent Highway, Louisville, KY: null
+9500 Farmer's Lane, Louisville, KY: null
 9500 Farmers Ln, Louisville, KY:
   lat: 38.1119717
   lng: -85.7365371
@@ -26216,6 +26223,7 @@ Poplar Road and Eastern Parkway, Louisville, KY: null
 Poplovo Road and Taylor Ave, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
+Prairie Boulevard and Powell Ave, Louisville, KY: null
 Pressure Elliott Avenue and River Park Dr, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
 Princeton Dr and Bardstown Rd, Louisville, KY: null
