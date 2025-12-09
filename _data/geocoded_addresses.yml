@@ -6045,6 +6045,9 @@
   lat: 38.231231
   lng: -85.698696
 1700 Cowling Ave. The system indicated that three rounds were discharged in this area., Louisville, KY: null
+1700 Crums Ln, Louisville, KY:
+  lat: 38.1896816
+  lng: -85.8073586
 1700 Diminil, Louisville, KY: null
 ? 1700 Diminil. Responding officers spoke with a woman who was outside at the location
   and reported hearing nothing unusual. Police units investigated the area, Louisville,
@@ -7498,6 +7501,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East at I-65, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East at Manslick overpass, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East at Shelbyville, Louisville, KY:
@@ -23935,6 +23941,9 @@
 8000 Preston Hwy. The exact nature of the alarm and the cause, Louisville, KY:
   lat: 38.1363256
   lng: -85.6861022
+8000 Ralph Ave, Louisville, KY:
+  lat: 38.2107404
+  lng: -85.8323503
 ? 8000 Shelbyville Rd near the Toyota dealership. A concerned motorist reported suspicious
   activity, but upon arrival, officers were unable, Louisville, KY
 : lat: 38.2482721
@@ -24898,6 +24907,9 @@
 900 South25th Street, Louisville, KY:
   lat: 38.243366
   lng: -85.793868
+900 South26th Street, Louisville, KY:
+  lat: 38.243855
+  lng: -85.795634
 900 South39th Street, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
@@ -25682,6 +25694,7 @@
   them with their guardian., Louisville, KY
 : null
 9800 Agena Draw due, Louisville, KY: null
+9800 Angie's Way, Old Wellsboro Medical Office, Louisville, KY: null
 9800 Balloons For A Lane, Louisville, KY: null
 9800 Balloons, Louisville, KY: null
 9800 Blue Caray, Louisville, KY: null
