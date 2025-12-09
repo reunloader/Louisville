@@ -11626,6 +11626,9 @@
 30 Palatka Rd, Louisville, KY:
   lat: 38.1550559
   lng: -85.8008399
+300 A Craig Ave, Louisville, KY:
+  lat: 38.1916656
+  lng: -85.7898357
 300 Access Drive, Louisville, KY:
   lat: 38.1967062
   lng: -85.552633
@@ -15206,6 +15209,7 @@
 400 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+400 Granite Court, Louisville, KY: null
 ? 400 Gunn Ct for a welfare check. The call was initiated due to concerns for a scientist
   experiencing memory loss who might require medical evaluation. The patient is described
   as a white female., Louisville, KY
