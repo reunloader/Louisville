@@ -2099,6 +2099,9 @@
   lat: 38.2966179
   lng: -85.5624482
 10200 Champions Way, Louisville, KY: null
+? 10200 Countercourt, suffering from elevated blood pressure and nausea. Medical personnel
+  evaluated her condition, Louisville, KY
+: null
 10200 Esom Road, Louisville, KY: null
 10200 Eve Adam Dr, Louisville, KY:
   lat: 38.1056407
@@ -8038,6 +8041,9 @@
   lng: -85.6981124
 200 South at the 22, Louisville, KY: null
 200 South due, Louisville, KY: null
+200 South near I-64, Louisville, KY:
+  lat: 38.2781537
+  lng: -85.8215796
 200 South near Preston Hwy, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -10419,6 +10425,7 @@
 2500 Portland Ave. Fire units were dispatched, Louisville, KY:
   lat: 38.2703586
   lng: -85.7892425
+2500 Rainesville Road, responders attended, Louisville, KY: null
 2500 Rivermont Ct, Louisville, KY: null
 2500 Rockford Ln due, Louisville, KY: null
 2500 Rowan St, Louisville, KY:
@@ -25273,6 +25280,14 @@
 9100 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
+? 9100 Walter Ave. The individual, who has a history of epilepsy, was vomiting at
+  the scene. EMS responded from the 100 block of Walter Ave, Louisville, KY
+: lat: 38.1144012
+  lng: -85.6932576
+? 9100 Walter Ave. The situation may involve fire or rescue operations, though specific
+  details are not provided. Crews are managing the scene, Louisville, KY
+: lat: 38.1144012
+  lng: -85.6932576
 917 Pump 15, Louisville, KY: null
 ? 9200 Ash, Spring Grove, on Cross Meadows Cir for a medical emergency. An elderly
   gentleman was found unconscious and possibly not breathing after falling from his
