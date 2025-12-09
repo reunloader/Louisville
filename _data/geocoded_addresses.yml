@@ -53,6 +53,7 @@
 10 Audubon Plaza Dr at Little Sisters of the Poor, Louisville, KY:
   lat: 38.2143091
   lng: -85.7225304
+10 Block Street, Louisville, KY: null
 10 Mary St, Louisville, KY:
   lat: 38.2344233
   lng: -85.7405196
@@ -2462,6 +2463,9 @@
 1100 Eastern Pky, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
+1100 Eastern, Louisville, KY:
+  lat: 38.224057
+  lng: -85.72999
 1100 Eastman Parkway, Louisville, KY: null
 1100 Easton Parkway, Louisville, KY: null
 ? 1100 Easton Parkway. The patient had reportedly vomited three times throughout the
@@ -4111,6 +4115,9 @@
   lng: -85.7332412
 1300 McHenry Street, Louisville, KY: null
 1300 Miller's Lane, Louisville, KY: null
+1300 Morgan Ave, Louisville, KY:
+  lat: 38.1945658
+  lng: -85.7241341
 1300 N S Peterson Ave, Louisville, KY:
   lat: 38.2491801
   lng: -85.6970953
@@ -5626,6 +5633,9 @@
 1600 Arthur, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
+1600 Bank St, Louisville, KY:
+  lat: 38.2609162
+  lng: -85.776337
 1600 Bardstown Rd, Louisville, KY:
   lat: 38.230659
   lng: -85.7048208
@@ -11119,6 +11129,9 @@
 2800 Conestoga Ave, Louisville, KY:
   lat: 38.226597
   lng: -85.8024659
+2800 Constant, Louisville, KY:
+  lat: 38.2037866
+  lng: -85.5347384
 2800 Crum's Rain, Louisville, KY: null
 2800 Crums Ln, Louisville, KY:
   lat: 38.198204
@@ -11148,6 +11161,9 @@
 2800 Fern Valley Rd, Louisville, KY:
   lat: 38.1566356
   lng: -85.713253
+2800 Finn Ave, Louisville, KY:
+  lat: 38.209
+  lng: -85.765822
 2800 Fordhaven Rd, Louisville, KY:
   lat: 38.1485506
   lng: -85.8115233
@@ -18329,6 +18345,7 @@
 500 North26th Street, Louisville, KY:
   lat: 38.269472
   lng: -85.791002
+500 North35th Street and 4500 block of Duminil, Louisville, KY: null
 ? 500 North35th Street) (around 10:34 a.m. a.m. a.m.):** A child was reported locked
   in a vehicle. was dispatched to the scene, was initially called but later canceled.
   The situation was handled by . - **Medical Emergency (900 block of South5th Street)
