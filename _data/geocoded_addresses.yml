@@ -70,9 +70,17 @@
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
 100 Adam and 200 block of Baker, Louisville, KY: null
+100 Adam near South Clay and South Hancock, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+? 100 Adams St. Fire units confirmed they could handle the incident, ensuring the
+  fire was contained and no further damage occurred. The scene was cleared, Louisville,
+  KY
+: lat: 38.257812
+  lng: -85.725484
 100 Adams, Louisville, KY:
   lat: 38.257812
   lng: -85.725484
