@@ -849,6 +849,10 @@
 100 W Kenwood Way, Louisville, KY:
   lat: 38.178992
   lng: -85.763449
+100 W Liberty St and 7900 block of Bardstown Rd at Coles, Louisville, KY: null
+100 W Liberty St at Papa John’s, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 100 W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -2352,6 +2356,9 @@
 1100 Apex View Dr, Louisville, KY: null
 1100 Barch John Road, Louisville, KY: null
 1100 Barchetown Road, Louisville, KY: null
+1100 Bardstown Rd at Orton, Louisville, KY:
+  lat: 38.238274
+  lng: -85.720911
 1100 Bardstown Rd, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
