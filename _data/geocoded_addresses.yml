@@ -7455,6 +7455,7 @@
 200 E W Ormsby Ave, Louisville, KY:
   lat: 38.2336503
   lng: -85.7699347
+200 East Broadway behind Dollar General Market, Louisville, KY: null
 200 East Broadway between Crop St and South Floyd and South Brook, Louisville, KY: null
 200 East Broadway following a report of a medical emergency. A male individual was found, Louisville, KY: null
 200 East Broadway following a traffic incident. One officer was reported, Louisville, KY: null
@@ -9250,6 +9251,9 @@
 2100 Village Dr, Louisville, KY:
   lat: 38.2272717
   lng: -85.6944416
+2100 W Gaulbert Ave**, Louisville, KY:
+  lat: 38.2278626
+  lng: -85.793433
 2100 W Gaulbert Ave, Louisville, KY:
   lat: 38.2278626
   lng: -85.793433
@@ -13602,6 +13606,9 @@
 : lat: 38.2542208
   lng: -85.8077368
 3400 Robards Ct, Louisville, KY: null
+3400 Southern Ave**, Louisville, KY:
+  lat: 38.232357
+  lng: -85.812605
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
