@@ -6793,6 +6793,9 @@
 1800 Zuma-Nom, Louisville, KY: null
 1800 block of W Lee St, cross of 22nd and Dixie Hwy,, Louisville, KY: null
 1800 to8th Street, Louisville, KY: null
+18000 Arlington Meadows Dr, Louisville, KY:
+  lat: 38.2316684
+  lng: -85.4323595
 18200 Bridgemore Ln, Louisville, KY:
   lat: 38.2500333
   lng: -85.4167314
@@ -20331,6 +20334,9 @@
 6000 Southcrest Dr. Further details, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
+6000 W Madison St, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
 ? 6000 Whispering Hills for a medical assistance call. A 91-year-old female had fallen
   and reported pain in her neck and right side. Paramedics were on the scene to provide
   care and evaluate her injuries. The incident highlights the challenges faced by
@@ -23851,6 +23857,9 @@
 8100 N Preston Hwy. Responders were sent, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+8100 National Turnpike, Louisville, KY:
+  lat: 38.1329353
+  lng: -85.7517924
 ? 8100 Pandaria Drive to investigate a report of suspicious activity. The exact nature
   of what prompted the call was not specified, but police were on scene to investigate.,
   Louisville, KY
@@ -25655,6 +25664,7 @@
 9900 West Ave, Louisville, KY: null
 9900 West Ave, with a large blaze visible behind the location. Responding units canceled their response, Louisville, KY: null
 Abell Ave and Olive St, Louisville, KY: null
+Ackermack Drive and North Tassville Drive, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
 Adams St and Weller Ave, Louisville, KY: null
 Alarby Avenue and Woodbourne Ave, Louisville, KY: null
@@ -26113,6 +26123,7 @@ Norfolk Avenue and Landing Dr, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
+North First Born Parkway and Westport Rd, Louisville, KY: null
 North Height Avenue and Brown Crow Road, Louisville, KY: null
 North Height Avenue and Cleveland Blvd, Louisville, KY: null
 North Hersborn Parkway and Westport Rd, Louisville, KY: null
