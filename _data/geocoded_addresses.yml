@@ -4072,6 +4072,9 @@
   lng: -85.7786406
 1300 Lincoln Hill Way, Louisville, KY: null
 1300 Linden Way, Louisville, KY: null
+1300 Long Ridge Trace, Louisville, KY:
+  lat: 38.2518777
+  lng: -85.4154885
 1300 Longfield Ave, Louisville, KY:
   lat: 38.198526
   lng: -85.783642
@@ -8766,6 +8769,9 @@
 2000 South 16th Street, Louisville, KY:
   lat: 38.2240638
   lng: -85.7820693
+2000 South 42nd Street, Louisville, KY:
+  lat: 38.261292
+  lng: -85.819622
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
