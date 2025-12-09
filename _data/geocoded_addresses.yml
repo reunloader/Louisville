@@ -5934,6 +5934,9 @@
 16800 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+17 Dana Dr, Louisville, KY:
+  lat: 38.1843698
+  lng: -85.8017491
 17 Lake Ave, Louisville, KY:
   lat: 38.2665526
   lng: -85.7005781
@@ -7435,6 +7438,9 @@
   lng: -85.7582215
 200 East at the 17-mile marker, Louisville, KY: null
 200 East at the 17.8 mile marker, Louisville, KY: null
+200 East at the 4-mile marker and 13th and Algonquin, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at the 65 South on-ramp, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -8918,6 +8924,7 @@
 2100 Goldsmith Ln, Louisville, KY:
   lat: 38.2059543
   lng: -85.6729834
+2100 Greenwood Ave and 200 block of E W Witherspoon St, Louisville, KY: null
 2100 Griffiths Ave, Louisville, KY:
   lat: 38.2635474
   lng: -85.7836466
@@ -17074,6 +17081,9 @@
 46 Stonyrun Dr, Louisville, KY:
   lat: 38.1955282
   lng: -85.6150739
+4600 Abell Ave, Louisville, KY:
+  lat: 38.1469614
+  lng: -85.7334363
 4600 Adderley, Louisville, KY: null
 4600 Beech Tree Ct, Louisville, KY:
   lat: 38.2133319
@@ -18941,6 +18951,9 @@
 ? 5300 Molly Manor Dr, where a 23-year-old female was experiencing a medical condition.
   Additionally, EMS was dispatched to the 9300 block of Civic Way, Louisville, KY
 : null
+5300 Nall Ave, Louisville, KY:
+  lat: 38.1577414
+  lng: -85.8384827
 5300 New Cut Rd, Louisville, KY:
   lat: 38.154173
   lng: -85.77726
