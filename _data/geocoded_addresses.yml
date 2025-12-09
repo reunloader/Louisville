@@ -20333,6 +20333,9 @@
 6100 Port Rd, Louisville, KY:
   lat: 38.1551601
   lng: -85.647905
+6100 Preston Hwy, Louisville, KY:
+  lat: 38.1622074
+  lng: -85.7001695
 6100 Price Lane Rd, Louisville, KY:
   lat: 38.104533
   lng: -85.649503
@@ -22674,6 +22677,9 @@
   the situation and ensure public safety., Louisville, KY
 : null
 7400 Steve Cross Circle. Responding units were dispatched, Louisville, KY: null
+7400 Trade Port Dr, Louisville, KY:
+  lat: 38.1237735
+  lng: -85.892577
 7400 W Manslick Rd, Louisville, KY:
   lat: 38.1083742
   lng: -85.762655
@@ -25823,6 +25829,7 @@ Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
 First One Lane and North Sea Lane, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
+Forest Dr and Prestwood Dr, Louisville, KY: null
 Fox Ave and Fort St, Louisville, KY: null
 Foxboro Dr and Sterling Springs Rd, Louisville, KY: null
 Frankfort Ave and Fairlawn Rd, Louisville, KY: null
