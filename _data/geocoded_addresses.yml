@@ -5127,6 +5127,9 @@
   investigated and subsequently cleared., Louisville, KY
 : null
 1400 West Jefferson at Family Dollar, Louisville, KY: null
+1400 West Jefferson, Louisville, KY:
+  lat: 38.2553466
+  lng: -85.7740103
 1400 Willow Ave was assessed by EMS, Louisville, KY: null
 1400 Willow Ave, Louisville, KY:
   lat: 38.2357366
@@ -5571,6 +5574,9 @@
 1500 South36th Street, Louisville, KY:
   lat: 38.2324174
   lng: -85.8144769
+1500 South38th Street, Louisville, KY:
+  lat: 38.232312
+  lng: -85.818307
 1500 Southgate Ave, Louisville, KY:
   lat: 38.200766
   lng: -85.786713
@@ -8050,6 +8056,9 @@
 200 North. The incident involved a white Honda CRV and a silver F-150. Units worked, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North26th Street, Louisville, KY:
+  lat: 38.262213
+  lng: -85.793497
 200 North35th Street, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
@@ -8077,6 +8086,7 @@
   lat: 38.1157978
   lng: -85.8113074
 200 Olde English Ct, suggesting that a domestic dispute might be escalating, Louisville, KY: null
+200 Or219, Louisville, KY: null
 200 Outer Loop, Louisville, KY:
   lat: 38.1272584
   lng: -85.7520033
@@ -12128,6 +12138,9 @@
   to the lobby to meet the patient., Louisville, KY
 : null
 300 East Market Street, within the Nucleus Innovation Park,, Louisville, KY: null
+300 East Muhammad Ali, Louisville, KY:
+  lat: 38.2554529
+  lng: -85.7965083
 300 East St, Louisville, KY:
   lat: 38.2250435
   lng: -85.7530108
