@@ -5813,6 +5813,9 @@
 1600 Lucia Ave, Louisville, KY:
   lat: 38.2356966
   lng: -85.720509
+1600 Main St, Louisville, KY:
+  lat: 38.2585071
+  lng: -85.7771784
 1600 Moore Ct, Louisville, KY:
   lat: 38.2251564
   lng: -85.7748253
@@ -7071,6 +7074,7 @@
   The incident was managed by the fire department., Louisville, KY
 : null
 1900 Newburgh Road. Engine 20 and Quint 7 were dispatched, Louisville, KY: null
+1900 North Oak Street as crews worked, Louisville, KY: null
 1900 Overlook Terrace, Louisville, KY:
   lat: 38.2204526
   lng: -85.6948778
@@ -11117,6 +11121,9 @@
 2700 W Madison St, Louisville, KY:
   lat: 38.2540711
   lng: -85.7959559
+2700 W Main St, Louisville, KY:
+  lat: 38.2602853
+  lng: -85.7948119
 2700 W W Kentucky St, Louisville, KY: null
 ? 2700 W W Kentucky St. Details indicated a subject with a "red code," and police
   units were dispatched to the scene., Louisville, KY
@@ -25017,6 +25024,9 @@
 900 Phillips Ln, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
+900 Plantside Dr, Louisville, KY:
+  lat: 38.2114937
+  lng: -85.5241319
 900 Reference Lane, Louisville, KY: null
 900 Reference Lane. Responding units were dispatched, Louisville, KY: null
 900 River Park Dr, Louisville, KY: null
