@@ -2362,6 +2362,7 @@
 10900 Albion Dr, Louisville, KY:
   lat: 38.0966305
   lng: -85.8657587
+10900 Deering Rd, Crawford Linden Lane, Thompson Strong, Louisville, KY: null
 ? 10900 Fashion Way involving a 63-year-old male who appeared to be suffering a stroke.
   Responders faced a challenge as the patient was initially unable to open the door,
   Louisville, KY
@@ -20901,6 +20902,9 @@
   lng: -85.7034553
 600 Stivers Rd, Louisville, KY: null
 600 Sun Beam Ct, Louisville, KY: null
+600 Taylor Blvd, Louisville, KY:
+  lat: 38.2084711
+  lng: -85.7734951
 600 Tessin Way, Louisville, KY:
   lat: 38.251484
   lng: -85.5574282
@@ -22196,6 +22200,9 @@
 6900 Yuma Way, Louisville, KY:
   lat: 38.1178905
   lng: -85.8869996
+7 Dorinda Dr, Louisville, KY:
+  lat: 38.1319541
+  lng: -85.8610999
 7 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
@@ -26692,6 +26699,7 @@ Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blenheim Street and Don Allen Rd, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
+Borschtown Road and Fairmount Rd, Louisville, KY: null
 Boyle St and Logan St, Louisville, KY: null
 Boyle St and South Lake Street, Louisville, KY: null
 Bradley Ave and Sherry Rd, Louisville, KY: null
