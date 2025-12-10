@@ -284,6 +284,7 @@
 100 East Kentucky, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
+100 East Kingston, Department 4, Louisville, KY: null
 100 East Muhammad, Beahl Blvd, Louisville, KY: null
 ? 100 East Saint Catharine Street following reports of an individual heard screaming
   near a pink door. Officers were dispatched to investigate the disturbance., Louisville,
@@ -5832,6 +5833,9 @@
 1600 Congress St, Louisville, KY:
   lat: 38.256661
   lng: -85.776921
+1600 Earl, Louisville, KY:
+  lat: 38.2083825
+  lng: -85.7851152
 1600 Eastern Parkway, Louisville, KY:
   lat: 38.2287209
   lng: -85.7148597
