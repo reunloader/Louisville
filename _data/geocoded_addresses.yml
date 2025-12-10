@@ -244,6 +244,7 @@
 100 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+100 E W Market St, behind White Castle, Louisville, KY: null
 100 E W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -8254,6 +8255,12 @@
 200 W Jefferson St. The call, which originated from Clark County, indicated concern, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
+200 W Kenwood Dr at Seminole and Kenwood, Louisville, KY:
+  lat: 38.159427
+  lng: -85.7704784
+200 W Kenwood Dr at the cross of Seminole and Kenwood, Louisville, KY:
+  lat: 38.159427
+  lng: -85.7704784
 200 W Liberty St, Louisville, KY:
   lat: 38.252634
   lng: -85.754015
@@ -8360,6 +8367,9 @@
 200 West at Bank St, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West at Breckenridge Ln, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West at Brighton Dr exit, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -11276,6 +11286,9 @@
   jacket, was reportedly handling an item and refusing, Louisville, KY
 : lat: 38.249441
   lng: -85.796749
+2700 West Kentucky, Louisville, KY:
+  lat: 38.2432335
+  lng: -85.7975556
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
@@ -12460,6 +12473,9 @@
   lng: -85.7665338
 300 [Unspecified Location], Louisville, KY: null
 300 [Unspecified Street], Louisville, KY: null
+300 [location unspecified], Louisville, KY:
+  lat: 38.1814493
+  lng: -85.7665338
 300 an unspecified location, as directed by a major, Louisville, KY: null
 300 an unspecified location, as directed by a major., Louisville, KY: null
 300 an unspecified location, with three animals reportedly, Louisville, KY: null
@@ -20566,6 +20582,9 @@
 600 S Preston St, near W Chestnut St and Springer Alley, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
+600 S Shelby St, Louisville, KY:
+  lat: 38.246802
+  lng: -85.739251
 600 Sangam Creek Road, Louisville, KY: null
 600 Scholar House Ct, Louisville, KY:
   lat: 38.2149823
@@ -25156,6 +25175,9 @@
 900 East Market, Louisville, KY:
   lat: 38.2527101
   lng: -85.7359227
+900 East, Louisville, KY:
+  lat: 38.2358993
+  lng: -85.7391191
 900 Eastern Star Ct near Highland Ave, Louisville, KY:
   lat: 38.242879
   lng: -85.723559
@@ -26133,6 +26155,7 @@
 ? 9600 Leopold Woods Loop. An employee found the child and brought her into their
   office, unsure of her residence. Police units responded, Louisville, KY
 : null
+9600 Leopold and Wood Loop, Louisville, KY: null
 9600 Maple Rd, Louisville, KY:
   lat: 38.1074176
   lng: -85.6472948
