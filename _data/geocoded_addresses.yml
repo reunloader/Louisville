@@ -1944,6 +1944,9 @@
 : lat: 38.24673
   lng: -85.7687534
 1000 West Chess Street, Louisville, KY: null
+1000 West Chestnut, Louisville, KY:
+  lat: 38.249975
+  lng: -85.76799
 ? 1000 West Main Street. Upon arrival, firefighters began their investigation to determine
   the cause of the activation. They systematically checked the premises to ensure
   there was no immediate danger. The alarm was ultimately found to be a false alarm,
@@ -24884,6 +24887,9 @@
 8600 Roberta Ct near Broadwood Dr, Louisville, KY:
   lat: 38.1291407
   lng: -85.5794256
+8600 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 8600 Standing Oaks, Louisville, KY: null
 ? 8600 Standing Oaks. The vehicle's Vehicle Identification Number (VIN) could not
   be verified, prompting concern and investigation by responding units., Louisville,
@@ -26987,6 +26993,7 @@ Rodman Avenue and Winkler Ave, Louisville, KY: null
 Rodman St and Atwood St, Louisville, KY: null
 Rodman St and Winkler Ave, Louisville, KY: null
 Rollington Rd and Willow Forest Dr, Louisville, KY: null
+Rosehurst Farm Parkway and Olme State Station Road, Louisville, KY: null
 Roselane St and Nogonquin Parkway, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
