@@ -1843,6 +1843,7 @@
 : null
 1000 South Forth Street, Louisville, KY: null
 1000 South Fourth Street, Louisville, KY: null
+1000 South Gresham Street, Louisville, KY: null
 1000 South Hancock, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
@@ -5225,6 +5226,9 @@
   lng: -85.7088797
 1500 Barry, Louisville, KY: null
 1500 Beech St between Annie St and Southern Ave, Louisville, KY: null
+1500 Beech St, Louisville, KY:
+  lat: 38.2318602
+  lng: -85.8055137
 ? 1500 Bellamy Pl reported feeling unsafe after someone was heard knocking at their
   door, while their roommate was texting them, Louisville, KY
 : null
@@ -20519,6 +20523,9 @@
 600 Velenik Circle, Louisville, KY: null
 600 Vernis Avenue, Louisville, KY: null
 600 Village West Dr near Night of History and Reed Alley, Louisville, KY:
+  lat: 38.2503366
+  lng: -85.7665497
+600 Village West Dr, Louisville, KY:
   lat: 38.2503366
   lng: -85.7665497
 600 W Chestnut St near UofL campus, Louisville, KY:
