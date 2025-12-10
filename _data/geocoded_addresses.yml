@@ -8366,6 +8366,7 @@
 : null
 200 West toward Shelbyville Rd. Police units were alerted to monitor for the vehicle., Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor, Louisville, KY: null
+200 West, 7th Wessel Rd, Louisville, KY: null
 200 West, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -15332,6 +15333,9 @@
   lat: 38.2615614
   lng: -85.820699
 400 Hey, Louisville, KY: null
+400 Heywood Ave, Louisville, KY:
+  lat: 38.206344
+  lng: -85.765508
 400 Hodel Rd at 53rd Street, Louisville, KY:
   lat: 38.1921011
   lng: -85.7050204
@@ -20374,6 +20378,7 @@
 600 S Preston St, near W Chestnut St and Springer Alley, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
+600 Sangam Creek Road, Louisville, KY: null
 600 Scholar House Ct, Louisville, KY:
   lat: 38.2149823
   lng: -85.7479588
