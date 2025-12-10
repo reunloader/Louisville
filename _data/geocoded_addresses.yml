@@ -10743,6 +10743,9 @@
 26 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
+26 Royal Dr, Louisville, KY:
+  lat: 38.1286028
+  lng: -85.7597473
 ? 2600 Algonquin Pky to attend to a 67-year-old male who was feeling unwell, weak,
   experiencing diarrhea, and had not been eating. This incident was located between
   Hoskins Beach Rd and Piper Ct., Louisville, KY
@@ -15335,6 +15338,7 @@
 400 East Broadway, near the CBS store, due, Louisville, KY:
   lat: 38.2449978
   lng: -85.7474066
+400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
 ? 400 East Jefferson Street to assist a 59-year-old male experiencing a seizure. Personnel
   were met at the front entrance by someone who could provide assistance. The patient
   received prompt medical attention., Louisville, KY
@@ -22450,6 +22454,9 @@
   lat: 38.243285
   lng: -85.74602
 700 S Preston St and American Kidney Center, Louisville, KY: null
+700 S Preston St at CrossFit Center in East Broadway, Louisville, KY:
+  lat: 38.244129
+  lng: -85.747842
 700 S Preston St, Louisville, KY:
   lat: 38.244129
   lng: -85.747842
@@ -26471,6 +26478,7 @@ Bush Farm Rd and Old Henry Rd, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
 Cain Ln and Tiny Ln, Louisville, KY: null
 Caldwell St and Birkenridge Street, Louisville, KY: null
+Calumet Dr and Wilshire Blvd, Louisville, KY: null
 Camden Ave and Carol Ave, Louisville, KY: null
 Camp Ground Rd and Wilmoth Ave, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
