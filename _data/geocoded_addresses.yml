@@ -7554,6 +7554,9 @@
 200 East Chestnut Street, Louisville, KY:
   lat: 38.2477668
   lng: -85.7499296
+200 East Chestnut near 34th and Kentucky, Louisville, KY:
+  lat: 38.2477668
+  lng: -85.7499296
 200 East Chestnut near Coast Guard Children's Hospital, Louisville, KY:
   lat: 38.2477668
   lng: -85.7499296
@@ -18674,6 +18677,9 @@
 500 South Blue Street in the Loomhead area. Officers responded, Louisville, KY: null
 500 South Blue Street, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
+500 South Jackson, Louisville, KY:
+  lat: 38.249645
+  lng: -85.744921
 500 South Service Street, Louisville, KY: null
 500 South Third Street, Louisville, KY: null
 500 South, Louisville, KY: null
