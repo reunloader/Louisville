@@ -5240,6 +5240,10 @@
   lat: 38.2316448
   lng: -85.7088797
 1500 Barry, Louisville, KY: null
+1500 Baxter Ave across Jaeger Ave and Eastern Parkway, Louisville, KY: null
+1500 Baxter Ave, Louisville, KY:
+  lat: 38.228781
+  lng: -85.715269
 1500 Beech St between Annie St and Southern Ave, Louisville, KY: null
 1500 Beech St, Louisville, KY:
   lat: 38.2318602
@@ -17078,6 +17082,7 @@
 4400 North 24th Street, Louisville, KY:
   lat: 38.2665501
   lng: -85.7872972
+4400 O'Riom Lane, Louisville, KY: null
 4400 Outer Loop, Louisville, KY:
   lat: 38.1380709
   lng: -85.6792728
@@ -26546,6 +26551,7 @@ Indian Falls Dr and River Trail Dr, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jackson St and Kenrose Ln, Louisville, KY: null
+Jaeger Ave and Eastern Parkway, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
