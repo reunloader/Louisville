@@ -3640,6 +3640,7 @@
 1200 South4th Street, Louisville, KY:
   lat: 38.234898
   lng: -85.7606273
+1200 Southbrook Street near East Orangeview Avenue, Louisville, KY: null
 1200 Southbrook Street, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
 ? 1200 Spring Ridge Dr for assistance with lifting a patient. Police units were also
@@ -4009,6 +4010,9 @@
   lat: 38.0968167
   lng: -85.6409213
 1300 Clara Ave due, Louisville, KY: null
+1300 Clara Ave near Western Ave and Esther Blvd at the Quick Shop Food Mart, Louisville, KY:
+  lat: 38.199672
+  lng: -85.783551
 1300 Clara Ave, Louisville, KY:
   lat: 38.199672
   lng: -85.783551
@@ -4021,6 +4025,9 @@
 1300 Dean Dr, Louisville, KY:
   lat: 38.2111767
   lng: -85.6563578
+1300 Dixie Hwy near St, Louisville, KY:
+  lat: 38.235232
+  lng: -85.787774
 1300 Dixie Hwy was attended to by first responders, Louisville, KY: null
 1300 Dixie Hwy, Louisville, KY:
   lat: 38.235232
@@ -12184,6 +12191,7 @@
   lng: -85.7463211
 300 S W Spring St, Louisville, KY: null
 300 Shelby Station Dr, Louisville, KY: null
+300 Shelby Station Dr, Valhalla Post, Louisville, KY: null
 300 Shelby Station, Louisville, KY: null
 300 Shelby Station. A female, described as shorter in stature, was reportedly involved in the incident., Louisville, KY: null
 ? 300 Short St to address a code enforcement matter. The specific details of the code
@@ -21146,6 +21154,9 @@
   Responding units provided assistance, Louisville, KY
 : lat: 38.1953886
   lng: -85.8373553
+6400 Southside Dr near South Arbor Park and Lawndale Ave, Louisville, KY:
+  lat: 38.164146
+  lng: -85.7651135
 6400 Southside Dr, Louisville, KY:
   lat: 38.164146
   lng: -85.7651135
@@ -26240,6 +26251,7 @@ Brokerage Lane and Westville Road, Louisville, KY: null
 Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
 Brosnan Street and Central Ave, Louisville, KY: null
+Browns World Road and Montclair Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Barbers Ln, Louisville, KY: null
 Brownsboro Rd and Frankfort Ave, Louisville, KY: null
@@ -26525,6 +26537,7 @@ Longfield Ave and Bellevue Ave, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
 Lonsdale Ave and Taylor Blvd, Louisville, KY: null
 Louise Ave and Kingsford Dr, Louisville, KY: null
+Louise Ave and Wilson Ave, Louisville, KY: null
 Lovell Road and Hanses Dr, Louisville, KY: null
 Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
@@ -26880,6 +26893,7 @@ West Oak Lane and North Oak Lane, Louisville, KY: null
 West Towson Boulevard and Buckner Ave, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westbrook Rd and Fox Ave, Louisville, KY: null
+Western Ave and Esther Blvd, Louisville, KY: null
 Westport Rd and Accomack Dr, Louisville, KY: null
 Westport Rd and Ackermann Road, Louisville, KY: null
 Westport Rd and Chamberlain Ln, Louisville, KY: null
