@@ -3650,6 +3650,9 @@
 1200 South3rd St, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
+1200 South3rd Street, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
 1200 South4th Street near 7th Street, Louisville, KY:
   lat: 38.2325348
   lng: -85.7661517
@@ -4343,6 +4346,9 @@
   lat: 38.2182659
   lng: -85.7774103
 1300 South Third Street, Louisville, KY: null
+1300 South3rd Street, Louisville, KY:
+  lat: 38.2325507
+  lng: -85.7594371
 1300 Southgate Ave, Louisville, KY:
   lat: 38.2003885
   lng: -85.7836267
@@ -7633,6 +7639,9 @@
 ? 200 East at Breckenridge, also involving a white Honda SCRV and two black vehicles.
   This incident also resulted in no reported injuries., Louisville, KY
 : lat: 38.1861148
+  lng: -85.7582215
+200 East at Brownsboro Rd, Louisville, KY:
+  lat: 38.1861148
   lng: -85.7582215
 200 East at Creighton and Dry, Louisville, KY:
   lat: 38.1861148
@@ -12347,6 +12356,7 @@
   lat: 38.2536681
   lng: -85.7572606
 300 South Bailey, Louisville, KY: null
+300 South First at Shell Station, Louisville, KY: null
 300 South Park Street, Louisville, KY: null
 300 South Shawnee Terrace, Louisville, KY:
   lat: 38.2621561
@@ -16688,6 +16698,9 @@
   lat: 38.241438
   lng: -85.823216
 4200 Hazelwood Ave near Bluegrass and Olma, Louisville, KY:
+  lat: 38.180522
+  lng: -85.788233
+4200 Hazelwood Ave, Louisville, KY:
   lat: 38.180522
   lng: -85.788233
 4200 Heist and Leg, Louisville, KY: null
@@ -25512,6 +25525,9 @@
   a.m.): A non-injury accident was reported with vehicles blocking traffic. Units
   were dispatched to manage the situation, and a tow was requested, Louisville, KY'
 : null
+900 South4th Street, Louisville, KY:
+  lat: 38.2415729
+  lng: -85.7595586
 ? '900 South5th Street)** (around 10:37 a.m. a.m. a.m.): EMS responded to a 73-year-old
   female experiencing shortness of breath. The incident occurred at the cross of Garland
   and Baseball, specifically in. Units involved included . - **Structure Fire (10-400
