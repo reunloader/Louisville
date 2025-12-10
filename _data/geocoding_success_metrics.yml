@@ -33663,4 +33663,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2025-12-10T01:18:02.420496'
+- timestamp: '2025-12-10T01:31:06.876602'
+  total_addresses: 11145
+  successful: 5602
+  failed: 5543
+  success_rate: 50.26
+  failure_rate: 49.74
+  failure_patterns:
+    Contains location qualifiers (near/at): 1882
+    Incomplete/vague address: 1147
+    Intersection format: 1003
+    Other/Unknown: 1040
+    Contains extra sentences/context: 464
+    Police phonetic codes: 7
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-10T01:31:06.876740'
