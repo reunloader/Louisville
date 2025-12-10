@@ -5224,6 +5224,7 @@
   lat: 38.2316448
   lng: -85.7088797
 1500 Barry, Louisville, KY: null
+1500 Beech St between Annie St and Southern Ave, Louisville, KY: null
 ? 1500 Bellamy Pl reported feeling unsafe after someone was heard knocking at their
   door, while their roommate was texting them, Louisville, KY
 : null
@@ -18775,6 +18776,9 @@
   scene, Louisville, KY
 : lat: 38.178216
   lng: -85.6602098
+5000 South 3rd Street near McDonald's, between W Kingston Ave and W Amherst Ave, Louisville, KY:
+  lat: 38.174602
+  lng: -85.767556
 5000 South 3rd Street, Louisville, KY:
   lat: 38.174602
   lng: -85.767556
@@ -20459,6 +20463,7 @@
   lng: -85.764852
 600 South Crescent Street, Louisville, KY: null
 600 South Fourth Street, Louisville, KY: null
+600 South Hirshbaum Parkway near Corner Steakhouse and Stone Creek Pky, Louisville, KY: null
 600 South Shelby, Louisville, KY:
   lat: 38.246802
   lng: -85.739251
@@ -20513,6 +20518,9 @@
   lng: -85.842729
 600 Velenik Circle, Louisville, KY: null
 600 Vernis Avenue, Louisville, KY: null
+600 Village West Dr near Night of History and Reed Alley, Louisville, KY:
+  lat: 38.2503366
+  lng: -85.7665497
 600 W Chestnut St near UofL campus, Louisville, KY:
   lat: 38.249246
   lng: -85.761357
@@ -26110,6 +26118,7 @@ Alumsum Hollow Road and Scarborough Ave, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
+Annie St and Southern Ave, Louisville, KY: null
 Arcade Ave and Utah Ave, Louisville, KY: null
 Archtown Road and Southhurstman Parkway, Louisville, KY: null
 Argetown Road and Grinstead Dr, Louisville, KY: null
@@ -26437,6 +26446,7 @@ Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
+Hornback Ln and South Park Rd, Louisville, KY: null
 Horsham Road and Fixon Lane, Louisville, KY: null
 Huntington Rd and Rock Creek Dr, Louisville, KY: null
 Huntoon Ave and Woodmore Ave, Louisville, KY: null
