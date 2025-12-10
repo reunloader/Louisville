@@ -360,6 +360,7 @@
 : null
 100 Hartwell Ct, an area near Terry Pl and Teresa Pl. Further details, Louisville, KY: null
 100 Hartwell Ct, suggesting a disruptive situation in an apartment complex. Police units were sent, Louisville, KY: null
+100 Hassan Taylor, Louisville, KY: null
 100 Highway at the Circle K near Sappenfield Way, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -6838,6 +6839,9 @@
 1800 Rowland Ave, Louisville, KY:
   lat: 38.2514912
   lng: -85.6949532
+1800 Rudy Ln, Louisville, KY:
+  lat: 38.2783863
+  lng: -85.6387851
 1800 Sale Ave, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
@@ -12833,6 +12837,9 @@
 3100 Cartledge Ct, Louisville, KY:
   lat: 38.1379611
   lng: -85.7872762
+3100 Chinquapin Ln, Louisville, KY:
+  lat: 38.1675066
+  lng: -85.7009733
 3100 Commander Dr, Louisville, KY:
   lat: 38.2184514
   lng: -85.6561132
@@ -13297,6 +13304,7 @@
   lng: -85.8000349
 3200 Northwestern Avenue, Louisville, KY: null
 3200 Olenda Ave, Louisville, KY: null
+3200 Palm Station Road, Louisville, KY: null
 3200 Patricia Dr, Louisville, KY:
   lat: 38.188866
   lng: -85.8462836
@@ -18625,6 +18633,9 @@
   lat: 38.172603
   lng: -85.772021
 500 Selma Ave, Louisville, KY: null
+500 Shadyside Dr near Russell Lee, Louisville, KY:
+  lat: 38.2268819
+  lng: -85.8161858
 500 Slack Ave, Louisville, KY:
   lat: 38.1101382
   lng: -85.689338
@@ -18769,6 +18780,7 @@
 500 Wilderness Rd across Wilderness Pl, Louisville, KY: null
 500 Wood Lake Drop, Louisville, KY: null
 500 Wood Valley Ln, Louisville, KY: null
+500 X-ray Henry William, Louisville, KY: null
 500 Young Mary John, Louisville, KY: null
 500 Zorn Ave, Louisville, KY:
   lat: 38.2633
