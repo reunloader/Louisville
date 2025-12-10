@@ -8544,6 +8544,9 @@
 200 at exit 18, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 at mile marker 11, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 ? 200 block of West Broadway. EMS was dispatched to assist the patient, who was located
   in the lobby of a nearby Dr. McDonald's. The response included H-17, with the patient
   later leaving before EMS arrived. - **Traffic Accident (around 10:55 a.m. a.m. a.m.):**
@@ -8566,6 +8569,9 @@
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
   lng: -85.6410214
+200 eastbound at mile marker 11, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 200 eastbound at the 19, Louisville, KY: null
 200 eastbound near the 15-mile marker, Louisville, KY: null
 200 eastbound to Newberg off ramp, Louisville, KY: null
