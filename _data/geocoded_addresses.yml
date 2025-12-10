@@ -1063,6 +1063,9 @@
 : null
 100 ground plane due, Louisville, KY: null
 100 ground plane, Louisville, KY: null
+100 mile marker 65 North near Billtown Rd, Louisville, KY:
+  lat: 38.1647849
+  lng: -85.5679104
 100 mile marker, Louisville, KY: null
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
@@ -2459,6 +2462,7 @@
   lng: -85.7594798
 1100 E W Market St, specifically, Louisville, KY: null
 1100 E W W Market St, Louisville, KY: null
+1100 E W Washington St, Derby City Prep Clinic, Louisville, KY: null
 1100 East Broadway, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
@@ -7751,6 +7755,9 @@
 200 East. The vehicles involved were a gray Buick and a blue Ford, and they were positioned, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 Eastbound at Cane Run, Louisville, KY:
+  lat: 38.1564672
+  lng: -85.4407666
 200 Eastbound near Bells Ln, Louisville, KY: null
 200 Eastbound, Louisville, KY: null
 200 Eastbound, just before the Bells Ln exit. The vehicle, an SUV, was observed, Louisville, KY: null
@@ -19643,6 +19650,9 @@
 5500 Bayshore Ct. The patient, a 56-year-old female, was found, Louisville, KY:
   lat: 38.1451436
   lng: -85.8584793
+5500 Billtown Rd, Louisville, KY:
+  lat: 38.165321
+  lng: -85.568698
 5500 Count Fleet Dr, Louisville, KY:
   lat: 38.1147098
   lng: -85.8729314
