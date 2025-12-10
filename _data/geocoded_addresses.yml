@@ -21637,6 +21637,9 @@
 6700 Badger Ave, Louisville, KY:
   lat: 38.1800287
   lng: -85.7624557
+6700 Bahama Ln, Louisville, KY:
+  lat: 38.153686
+  lng: -85.6648283
 ? 6700 Barn Rd to investigate a report of a potential skimming device. Officers took
   a report regarding the suspicious item found on an ATM., Louisville, KY
 : null
@@ -23078,6 +23081,10 @@
 7200 Green Oak. Police units were assigned, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
+? 7200 Greenbelt Hwy. EMS responded and verified the address, continuing to assess
+  the child's health. The child was transported, Louisville, KY
+: lat: 38.1635691
+  lng: -85.8795608
 7200 Hill Park Way, Louisville, KY:
   lat: 38.214449
   lng: -85.62461
@@ -26368,6 +26375,11 @@
 : null
 9900 Forest Green Blvd. The deputy reported they would be clear of the scene, Louisville, KY: null
 9900 Grassland Dr. Further details, Louisville, KY: null
+? 9900 Greenbelt Hwy near a gas station. EMS arrived quickly and confirmed the child's
+  condition, providing necessary medical attention. The child's condition was stabilized,
+  Louisville, KY
+: lat: 38.134143
+  lng: -85.8900688
 9900 Lakewood Dr, Louisville, KY:
   lat: 38.110727
   lng: -85.842464
@@ -26816,6 +26828,9 @@ Matha Ave and Taylor Blvd, Louisville, KY: null
 Mayfield Rd and Dillon Road, Louisville, KY: null
 Meadow Dr and Terrier Ln, Louisville, KY: null
 Meadow Hill Rd and Pounds Ln, Louisville, KY: null
+Mellwood Ave and Frankfort Ave, Louisville, KY:
+  lat: 38.2576668
+  lng: -85.7191192
 Mellwood Ave and Lake Ave, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
@@ -27169,12 +27184,14 @@ Willow Ave and Edgeland Ave, Louisville, KY: null
 Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
+Winstead Dr and Global Dr, Louisville, KY: null
 Witherspoon St and River Rd, Louisville, KY: null
 Wolfpen Woods Dr and Wolf Pen Branch Rd, Louisville, KY: null
 Wolfpin Branch Road and Springdale Road, Louisville, KY: null
 Woodbourne Ave and Boletta Road, Louisville, KY: null
 Woodgate Lane and Manor Hill Drive, Louisville, KY: null
 Worthington Ln and Elder Ln, Louisville, KY: null
+York St and Global Dr, Louisville, KY: null
 Yorktown Rd and Recovery Rd, Louisville, KY: null
 Zane St and Western Ave, Louisville, KY: null
 Zorn Ave and Hillcrest Ave, Louisville, KY: null
