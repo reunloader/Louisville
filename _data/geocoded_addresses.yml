@@ -15312,6 +15312,7 @@
 400 Edge, Louisville, KY:
   lat: 38.2744246
   lng: -85.4380316
+400 Edward, Lincoln, John, Bell, Weitchey near mile marker 35.6, Louisville, KY: null
 400 Elevator Drive, Louisville, KY: null
 400 Englewood Ave, Louisville, KY:
   lat: 38.2267297
@@ -15735,12 +15736,18 @@
 400 South Roy Wilkins. Units confirmed their arrival, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+400 South Second Street at the Omni, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South Second Street near W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
 400 South Second Street near West Liberty, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+400 South Second Street near the Omni, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South Sixth Street, Louisville, KY: null
 400 South St, Louisville, KY:
   lat: 38.219248
@@ -22366,6 +22373,9 @@
 700 South 37th Street, Louisville, KY:
   lat: 38.249929
   lng: -85.812787
+700 South 3rd Street at Luckett and Farley, Louisville, KY:
+  lat: 38.243928
+  lng: -85.757184
 700 South 3rd Street near York and Broadway, Louisville, KY:
   lat: 38.243928
   lng: -85.757184
@@ -26070,6 +26080,9 @@
 9800 Michael Edward Dr, Louisville, KY:
   lat: 38.1710806
   lng: -85.5767795
+9800 Michael, Louisville, KY:
+  lat: 38.1710265
+  lng: -85.5766498
 9800 Oakridge Pl. Police units responded to investigate these reports., Louisville, KY: null
 9800 Oakridge Pl. Police units responded, Louisville, KY:
   lat: 38.112174
