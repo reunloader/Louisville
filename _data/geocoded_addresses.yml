@@ -3659,6 +3659,9 @@
 1200 Springdale, Louisville, KY:
   lat: 38.191809
   lng: -85.726961
+1200 Story Ave near Bickel and Cable, Louisville, KY:
+  lat: 38.2551819
+  lng: -85.7280531
 ? '1200 Story Ave)** (around 6:55 p.m. a.m. p.m.): A commercial alarm was triggered
   at the 1200 block of block of Story Ave, specifically a 4A fire alarm indicating
   water flow in warehouse 2. Tower 2 responded to the scene to investigate the cause
@@ -7025,6 +7028,7 @@
   lat: 38.2267297
   lng: -85.6284189
 1900 First Parkway, Louisville, KY: null
+1900 Ford Ranger, Louisville, KY: null
 1900 Fountain Dr. A check of the license plate revealed it was registered, Louisville, KY: null
 1900 Frankfort, Louisville, KY:
   lat: 38.255389
@@ -9227,6 +9231,9 @@
 2100 Little Creek Ct, Louisville, KY:
   lat: 38.2063785
   lng: -85.677135
+2100 McCloskey Avenue, Louisville, KY:
+  lat: 38.220943
+  lng: -85.788552
 2100 Middle Ln was found, Louisville, KY: null
 2100 Middle Ln, Louisville, KY: null
 2100 Millvale Rd, Louisville, KY:
@@ -15940,6 +15947,7 @@
 400 West Hornsby Avenue, Louisville, KY: null
 400 West Jefferson Wayside, Louisville, KY: null
 400 West Kenny Avenue, Louisville, KY: null
+400 West L.E., Louisville, KY: null
 400 West Manning. The report described the vehicle as a red car. Police units were dispatched, Louisville, KY: null
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
