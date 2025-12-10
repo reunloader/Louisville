@@ -3155,6 +3155,7 @@
 ? 120 Magazine Street. The individual was described as being okay, though the situation
   required medical attention and assessment., Louisville, KY
 : null
+1200 45 Court, Louisville, KY: null
 1200 Adam Realms, Louisville, KY: null
 1200 Algonquin Pky PARKWAY, Louisville, KY:
   lat: 38.2174904
@@ -4060,6 +4061,7 @@
 1300 Flat Rock Rd, Louisville, KY:
   lat: 38.256266
   lng: -85.429926
+1300 Forest Garden Ct, Louisville, KY: null
 1300 Gardiner Ln, Louisville, KY:
   lat: 38.2034383
   lng: -85.6890866
@@ -20595,6 +20597,9 @@
 6000 Action Ave. A female was reported, Louisville, KY:
   lat: 38.193669
   lng: -85.64707
+6000 Applegate Ln, Louisville, KY:
+  lat: 38.1340461
+  lng: -85.6507118
 6000 Bardstown Rd, Louisville, KY:
   lat: 38.158737
   lng: -85.591605
