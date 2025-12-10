@@ -2352,6 +2352,9 @@
 10700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10700 Westport Rd, at the Aloft Hotel, Louisville, KY:
+  lat: 38.296198
+  lng: -85.553131
 10800 Dartford Pl, Louisville, KY: null
 10800 Golden Maple Pl, Louisville, KY:
   lat: 38.2593411
@@ -4119,6 +4122,9 @@
 1300 Everett Ave, Louisville, KY:
   lat: 38.2367176
   lng: -85.7127065
+1300 Factory Ln, Louisville, KY:
+  lat: 38.1825587
+  lng: -85.7040696
 1300 Fawnberry Avenue, Louisville, KY: null
 1300 Flat Rock Rd, Louisville, KY:
   lat: 38.256266
@@ -8136,6 +8142,9 @@
 200 Paradise Ln, Louisville, KY:
   lat: 38.1374
   lng: -85.8723473
+200 Parkway near Vaguers, Louisville, KY:
+  lat: 38.2685519
+  lng: -85.8241817
 200 Pennsylvania Ave in connection with the call, Louisville, KY: null
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
 200 Pleasantview Ave, Louisville, KY:
@@ -11028,6 +11037,9 @@
 2600 Outer Loop, Louisville, KY:
   lat: 38.1342654
   lng: -85.7207797
+2600 Poplar Level Rd, Louisville, KY:
+  lat: 38.213857
+  lng: -85.723059
 ? 2600 Portland Ave to assist a 40-year-old female complaining of shortness of breath.
   After assessment, the patient decided to refuse transport to the hospital. EMS concluded
   their response and returned to service shortly after., Louisville, KY
@@ -16273,6 +16285,7 @@
   lat: 38.2280743
   lng: -85.6469297
 4000 Future Bank Road near Progress Blvd, Louisville, KY: null
+4000 Garland Ave, Baker, Louisville, KY: null
 4000 Herman St, Louisville, KY:
   lat: 38.260271
   lng: -85.817216
@@ -25861,6 +25874,7 @@
 9000 Harris Studies Drive near Johnsontown Rd, Louisville, KY:
   lat: 38.1217875
   lng: -85.8765201
+9000 Haviland Ave, Louisville, KY: null
 9000 Hi View Ln, Louisville, KY: null
 9000 Hirschborn Club Lane, Louisville, KY: null
 9000 Linden Dr, Louisville, KY: null
