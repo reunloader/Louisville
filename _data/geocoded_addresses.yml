@@ -5281,6 +5281,9 @@
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+15 Ray Ave, Louisville, KY:
+  lat: 38.2404557
+  lng: -85.7093132
 1500 Algonquin Pky near South 13th and South 16th, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
@@ -7921,6 +7924,9 @@
 : null
 200 I 64 East, Louisville, KY: null
 200 I-200 Westbound, Louisville, KY: null
+200 I-64, Louisville, KY:
+  lat: 38.2781537
+  lng: -85.8215796
 200 Kentucky280-735, Louisville, KY: null
 200 LaFontaine Drive, Louisville, KY: null
 200 Landing Dr, Louisville, KY:
@@ -8104,6 +8110,9 @@
 200 North35th Street. Responders were assigned, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
+200 North39th Street, Louisville, KY:
+  lat: 38.2657911
+  lng: -85.8133557
 200 Northbound at Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
@@ -8852,6 +8861,7 @@
 2000 Cherokee Pky, Louisville, KY:
   lat: 38.2345
   lng: -85.713684
+2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
@@ -20886,6 +20896,9 @@
 600 South. Further details, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
+600 South10th Street, Louisville, KY:
+  lat: 38.24992
+  lng: -85.767932
 600 South28th Street, Louisville, KY:
   lat: 38.253236
   lng: -85.797728
@@ -20899,6 +20912,9 @@
 600 South43rd Street, Louisville, KY:
   lat: 38.256075
   lng: -85.823114
+600 South44th Street, Louisville, KY:
+  lat: 38.256241
+  lng: -85.824617
 600 South73, Louisville, KY: null
 600 Southern Pky, Louisville, KY:
   lat: 38.1836068
