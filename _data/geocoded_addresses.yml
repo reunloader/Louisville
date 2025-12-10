@@ -7724,6 +7724,7 @@
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East exit, Louisville, KY: null
 200 East from I-64 West, Louisville, KY: null
+200 East highway at the 5 mile marker, Louisville, KY: null
 200 East near Baker, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -10533,6 +10534,9 @@
   emphysema., Louisville, KY
 : null
 2500 Artisan Way Way, near Imperial Ct and Terrace Hill Dr Hill Rd Dr,, Louisville, KY:
+  lat: 38.154511
+  lng: -85.653606
+2500 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
 2500 Bank St near 25th and 26th Streets, Louisville, KY:
@@ -26933,6 +26937,7 @@ Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Lampton St and Roselane St, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
+Larchmont Ave and Taylor Blvd, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lausanne Avenue and Dumesnil St, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
