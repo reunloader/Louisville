@@ -4944,6 +4944,9 @@
   lng: -85.7867011
 1400 Sandroff, Louisville, KY: null
 1400 Sandroff. A male individual had reportedly fallen in the bathtub and was unable, Louisville, KY: null
+1400 Selinda Ave near Oleanda Ct, Louisville, KY:
+  lat: 38.189245
+  lng: -85.700855
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -5587,6 +5590,7 @@
   was needed, Louisville, KY
 : null
 1500 Warchow Road, Louisville, KY: null
+1500 West Brick and Ridge Street near 16th and 15th, Louisville, KY: null
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
@@ -10695,6 +10699,9 @@
   KY
 : lat: 38.2527733
   lng: -85.7932062
+2500 W Madison St near 26th and 24th Streets, Louisville, KY:
+  lat: 38.2538718
+  lng: -85.7930556
 2500 W Madison St, Louisville, KY:
   lat: 38.2538718
   lng: -85.7930556
@@ -24184,6 +24191,9 @@
   lat: 38.24185
   lng: -85.746268
 800 South Second Street, Louisville, KY: null
+800 South32nd Street, Louisville, KY:
+  lat: 38.2476663
+  lng: -85.8059077
 800 South3A3 and 800 block of South3H, Louisville, KY: null
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
@@ -24451,6 +24461,7 @@
 810 River Crest Drive, Louisville, KY:
   lat: 38.2681906
   lng: -85.7003404
+810 unspecified street, Louisville, KY: null
 8100 Bardstown Rd, Louisville, KY:
   lat: 38.131357
   lng: -85.578224
