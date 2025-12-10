@@ -7394,6 +7394,7 @@
 200 Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+200 Breckenridge Square, Louisville, KY: null
 200 Bridgemore Ln, Louisville, KY:
   lat: 38.2475729
   lng: -85.4132047
@@ -16975,6 +16976,7 @@
 4300 Towne Center Dr. Officers arrived on scene, Louisville, KY:
   lat: 38.3010535
   lng: -85.556485
+4300 Trio Way, Louisville, KY: null
 4300 Vermont Ave, Louisville, KY:
   lat: 38.2570079
   lng: -85.8223832
@@ -16997,6 +16999,7 @@
   lat: 38.1824297
   lng: -85.7737331
 4300 West Area View Lane, Louisville, KY: null
+4300 Wisteria Ave, Louisville, KY: null
 4300 Wisteria Landing Cir, Louisville, KY: null
 4300 York St, Louisville, KY:
   lat: 38.243908
@@ -18228,6 +18231,9 @@
 4900 Saddlebrook, Louisville, KY:
   lat: 38.1775868
   lng: -85.8513642
+4900 Shasta Trail, Louisville, KY:
+  lat: 38.178576
+  lng: -85.672116
 4900 Simpson Dr, Louisville, KY:
   lat: 38.184136
   lng: -85.6699756
@@ -19659,6 +19665,9 @@
 5400 Winding Rd, Louisville, KY:
   lat: 38.150748
   lng: -85.770867
+5400 Ye Old Post Rd, Louisville, KY:
+  lat: 38.151731
+  lng: -85.659588
 5400 Yield Close Road, Louisville, KY: null
 542018 Speed Ave, Louisville, KY: null
 5500 Applegate Ln, Louisville, KY:
