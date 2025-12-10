@@ -8183,6 +8183,9 @@
 200 W Liberty St, Louisville, KY:
   lat: 38.252634
   lng: -85.754015
+200 W Magnolia Ave, Louisville, KY:
+  lat: 38.228798
+  lng: -85.759048
 200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
@@ -24519,6 +24522,9 @@
 ? 8500 Blue Lick Road. The suspect was described as a white male in a blue shirt,
   possibly under the influence of medication., Louisville, KY
 : null
+8500 Brownsboro Rd, Louisville, KY:
+  lat: 38.2587521
+  lng: -85.7044023
 8500 Coco Ct, Louisville, KY:
   lat: 38.1269748
   lng: -85.6933449
@@ -25329,6 +25335,9 @@
 900 Westwood Camp, Louisville, KY: null
 900 Westwood Camp. Further details regarding the nature of the collision were not immediately available., Louisville, KY: null
 900 Westwood Camp. Further details, Louisville, KY: null
+900 Whipps Mill Rd, Louisville, KY:
+  lat: 38.2723124
+  lng: -85.5687038
 900 Wicksbury Pl, Louisville, KY:
   lat: 38.240986
   lng: -85.661622
@@ -26232,6 +26241,7 @@ Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
 Brosnan Street and Central Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
+Brownsboro Rd and Barbers Ln, Louisville, KY: null
 Brownsboro Rd and Frankfort Ave, Louisville, KY: null
 Brownsboro Rd and Haldeman Ave, Louisville, KY: null
 Brownsboro Rd and Hillcrest Ave, Louisville, KY: null
