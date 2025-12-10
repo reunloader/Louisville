@@ -5133,6 +5133,9 @@
   lng: -85.5232325
 14000 Shallow Run, Louisville, KY: null
 14000 Shallow Run. Emergency services were dispatched, Louisville, KY: null
+14000 Shelbyville Rd, Louisville, KY:
+  lat: 38.2385364
+  lng: -85.4899944
 14200 Willow Grove Cir, Louisville, KY:
   lat: 38.2508168
   lng: -85.4938382
@@ -7650,6 +7653,9 @@
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East exit, Louisville, KY: null
 200 East from I-64 West, Louisville, KY: null
+200 East near Baker, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near Marchtown Road, Louisville, KY:
   lat: 38.1861148
@@ -21414,7 +21420,11 @@
 6600 Jixie Highway. Responders encountered a female individual who appeared, Louisville, KY: null
 6600 Lewis Coleman Jr, Louisville, KY: null
 6600 Lower Hunters Way, Louisville, KY: null
+6600 Lunar Dr and 7400 block of Steeplecrest Cir, Louisville, KY: null
 6600 Lunar Dr, Crest Street, Louisville, KY: null
+6600 Lunar Dr, Louisville, KY:
+  lat: 38.15714
+  lng: -85.857062
 6600 Maple Ct, Louisville, KY:
   lat: 38.2585425
   lng: -85.6883385
@@ -25651,6 +25661,9 @@
   lng: -85.6779117
 9200 Rainbow Springs Ct, Louisville, KY: null
 9200 South63rd Street, Louisville, KY: null
+9200 Springbrooke Cir, Louisville, KY:
+  lat: 38.3029385
+  lng: -85.5768629
 9200 Wesley Ave, Louisville, KY: null
 9200 Westmore Road, Louisville, KY: null
 9200 Westport Rd in response, Louisville, KY: null
