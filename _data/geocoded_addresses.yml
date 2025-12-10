@@ -2348,6 +2348,9 @@
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
   lng: -85.5550366
+10900 Plantside Dr, Louisville, KY:
+  lat: 38.2114937
+  lng: -85.5241319
 10900 Stone St, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
@@ -23022,6 +23025,9 @@
 7300 York River Rd at 2206, Louisville, KY:
   lat: 38.1457591
   lng: -85.7623126
+7300 York River Rd, Louisville, KY:
+  lat: 38.1457591
+  lng: -85.7623126
 ? 7300 York River Rd, near the intersection with 2206. Officers were engaged in holding
   at this location following the initiation of the stop. Further details regarding
   the reason, Louisville, KY
@@ -24782,6 +24788,9 @@
 900 Belvar Ave. Responding units were dispatched, Louisville, KY:
   lat: 38.2628326
   lng: -85.6837074
+900 Black Powder Ln, Louisville, KY:
+  lat: 38.1196636
+  lng: -85.6049356
 900 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -25394,6 +25403,7 @@
   of the call was not immediately clear, but it may have involved a request, Louisville,
   KY
 : null
+9100 Galene Dr, Louisville, KY: null
 9100 Greyling Dr, Louisville, KY:
   lat: 38.115048
   lng: -85.8015183
