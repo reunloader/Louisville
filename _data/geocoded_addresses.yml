@@ -12062,6 +12062,9 @@
 300 E W Lee St. Further details, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
+300 E W Market St near 11th and 10th Streets, Louisville, KY:
+  lat: 38.2586626
+  lng: -85.7877091
 300 E W Market St near Preston and Floyd, Louisville, KY:
   lat: 38.2586626
   lng: -85.7877091
@@ -17901,6 +17904,7 @@
 4700 Kerrick Ln, Louisville, KY:
   lat: 38.1538871
   lng: -85.8382103
+4700 Lynn Lea Rd near San Jose and Spenlia, Louisville, KY: null
 4700 Maris Ln, Louisville, KY:
   lat: 38.3137905
   lng: -85.5951283
@@ -18892,6 +18896,9 @@
   lat: 38.2007912
   lng: -85.8304039
 500 Wayne Wright, Louisville, KY: null
+500 West Ashland, Louisville, KY:
+  lat: 38.1852168
+  lng: -85.7691521
 500 West Broadway, Louisville, KY:
   lat: 38.245851
   lng: -85.7605615
