@@ -4978,6 +4978,7 @@
 1400 Sils Ave, Louisville, KY:
   lat: 38.2226767
   lng: -85.6902433
+1400 Sils Ave, across Greenwood Rd and Railroad Ave, Louisville, KY: null
 1400 South 1st Street, Louisville, KY:
   lat: 38.228491
   lng: -85.7567193
@@ -5686,6 +5687,9 @@
   lat: 38.1748202
   lng: -85.7106431
 16 Edenwood Dr, Louisville, KY: null
+16 Glenview Ave, Louisville, KY:
+  lat: 38.3018456
+  lng: -85.6476657
 16 Lincoln Run Rd, Louisville, KY: null
 16 Stites Station, Louisville, KY: null
 16 Stites Station. Patrol units were dispatched, Louisville, KY: null
@@ -11282,6 +11286,7 @@
 2700 Virginia Ave, Louisville, KY:
   lat: 38.237794
   lng: -85.79772
+2700 Virginia, Office of Professional Standards, Louisville, KY: null
 2700 W Kentucky St, Louisville, KY:
   lat: 38.2432335
   lng: -85.7975556
@@ -13929,6 +13934,9 @@
   lat: 38.20391
   lng: -85.6657011
 3500 Blue Park Ln, Louisville, KY: null
+3500 Bowman, Louisville, KY:
+  lat: 38.2219639
+  lng: -85.6542693
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
   lng: -85.8114477
@@ -16736,6 +16744,7 @@
 4200 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.0926849
   lng: -85.8553918
+4200 Ground Review Avenue, Louisville, KY: null
 ? 4200 Hale Ave. Specific details regarding the nature of the emergency or the patient's
   condition were not immediately available., Louisville, KY
 : null
@@ -18108,6 +18117,7 @@
 4800 Maryman Rd, Louisville, KY:
   lat: 38.132716
   lng: -85.846392
+4800 Mountblair Ct, Louisville, KY: null
 4800 Oak Pointe Dr, Louisville, KY:
   lat: 38.3127927
   lng: -85.538888
@@ -26833,6 +26843,7 @@ Gray St and Crittenden Dr, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
 Greenwood Rd and Aron Rd, Louisville, KY: null
 Greenwood Rd and Lucille Ave, Louisville, KY: null
+Greenwood Rd and Railroad Ave, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Gresham Rd and Goldsmith Ln, Louisville, KY: null
 Grinstead Dr and Bardstown Rd, Louisville, KY: null
