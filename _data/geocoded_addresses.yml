@@ -14250,6 +14250,9 @@
 3600 Seton Hill Dr, Louisville, KY:
   lat: 38.180041
   lng: -85.8646744
+3600 South 32nd Street, Louisville, KY:
+  lat: 38.2599442
+  lng: -85.8043158
 3600 South Hirshhorn Parkway, Louisville, KY: null
 3600 Southern Ave, Louisville, KY:
   lat: 38.232516
@@ -15609,6 +15612,7 @@
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
   lng: -85.7702303
+400 Olenda Ave, Utah, Louisville, KY: null
 400 Oxy Rd, Louisville, KY:
   lat: 38.2209779
   lng: -85.8280463
@@ -20825,6 +20829,9 @@
 6000 Bristol Bluffs Cir, Louisville, KY: null
 6000 Bristol-Blessed Circle, Louisville, KY: null
 6000 Bristol-Blessed Circle. Units arrived, Louisville, KY: null
+6000 College Ct, Louisville, KY:
+  lat: 38.2409272
+  lng: -85.765219
 6000 Eastlawn Ave due, Louisville, KY: null
 6000 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
