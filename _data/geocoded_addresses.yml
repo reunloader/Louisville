@@ -5227,6 +5227,9 @@
 1500 Algonquin Pky, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
+1500 Algonquin, Louisville, KY:
+  lat: 38.2205411
+  lng: -85.7800817
 1500 Alley and Avenue, Louisville, KY: null
 1500 Alliant Avenue 9:00 a, Louisville, KY: null
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
@@ -10423,6 +10426,7 @@
 25 New Main St, Louisville, KY:
   lat: 38.2536473
   lng: -85.708842
+2500 25th Street and Bank St, Louisville, KY: null
 2500 Almond Drive (March 10, 7:26 a, Louisville, KY: null
 2500 Almond Drive (March 10, 7:26 a.m.AM), Louisville, KY: null
 ? 2500 Almond Drive to provide assistance. Details regarding the nature of the medical
@@ -13381,6 +13385,9 @@
   personnel., Louisville, KY
 : null
 3200 Utah Avenue following a report of a medical emergency. Upon arrival, fire and EMS units attended, Louisville, KY: null
+3200 Vermont Ave, Louisville, KY:
+  lat: 38.255356
+  lng: -85.806355
 3200 Villanova Dr, Louisville, KY: null
 3200 Virginia Ave, Louisville, KY:
   lat: 38.2384543
@@ -14089,6 +14096,7 @@
 3600 Eline Ave, Louisville, KY:
   lat: 38.2494527
   lng: -85.665685
+3600 Ethelwood Dr, Louisville, KY: null
 3600 Fern Valley Rd, Louisville, KY:
   lat: 38.1566234
   lng: -85.6954991
@@ -19622,6 +19630,9 @@
   lat: 38.1147098
   lng: -85.8729314
 5500 Down Maria Way, Louisville, KY: null
+5500 East Market, Louisville, KY:
+  lat: 38.2531036
+  lng: -85.7372205
 5500 Euclid Ave, Louisville, KY:
   lat: 38.1192754
   lng: -85.863372
@@ -21064,6 +21075,7 @@
   KY
 : null
 6200 Walnut Ridge. They were on the scene and available, Louisville, KY: null
+6200 Wines, Louisville, KY: null
 62400 New Cub Road at Taco Bell, Louisville, KY: null
 6300 Applegate Ln, Louisville, KY:
   lat: 38.1320307
@@ -21841,6 +21853,9 @@
   lng: -85.6742718
 6900 Butler's Road, Louisville, KY: null
 6900 Cartwell Court [Morning], Louisville, KY: null
+6900 Casey Pl, Louisville, KY:
+  lat: 38.0922689
+  lng: -85.6504322
 ? 6900 Cedar Lake Court due to a possible stroke. Responders arrived to assess a male
   patient exhibiting potential stroke symptoms. Immediate medical evaluation and treatment
   were initiated by the responding engine company. This type of call requires swift
@@ -21870,6 +21885,9 @@
 6900 Green Manor Dr, Louisville, KY:
   lat: 38.147023
   lng: -85.631902
+6900 Greenwich Rd, Louisville, KY:
+  lat: 38.2065974
+  lng: -85.642936
 6900 Kerry Dr, Louisville, KY:
   lat: 38.2013276
   lng: -85.6726345
