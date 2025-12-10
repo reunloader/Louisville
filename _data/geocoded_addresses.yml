@@ -6851,6 +6851,7 @@
 1800 Southwestern Pky, near the intersection with Herman St and W Market St, Louisville, KY:
   lat: 38.2477827
   lng: -85.829606
+1800 Standards, Louisville, KY: null
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
@@ -15049,6 +15050,7 @@
   lat: 38.1686412
   lng: -85.5627268
 400 Charter, Louisville, KY: null
+400 Chieftain and 6300 block of Commerce Park Ct, Louisville, KY: null
 400 Christian Village Cir, Louisville, KY: null
 400 Christian Village Cir, near Herrick Ln and Christian Village Ct,, Louisville, KY: null
 400 Christopher Place, Louisville, KY:
@@ -20919,6 +20921,10 @@
   lat: 38.3504019
   lng: -85.6285044
 6300 Bula Church, Louisville, KY: null
+? 6300 Commerce Park Ct after initially being seen at the 400 block of Chieftain.
+  The suspect, reportedly armed, threw a gun into a case, but family members retrieved
+  it before police arrived. Officers responded, Louisville, KY
+: null
 6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
 6300 Commerce Park Ct, Louisville, KY: null
 ? 6300 Commerce Park Ct. The specific nature of the disturbance was not detailed in
@@ -23333,6 +23339,9 @@
 7600 Tommie Ct, Louisville, KY:
   lat: 38.142489
   lng: -85.895902
+7600 Trade Port Dr, Louisville, KY:
+  lat: 38.12541
+  lng: -85.893176
 7700 3rd Street, Louisville, KY:
   lat: 38.13665
   lng: -85.786372
