@@ -5513,6 +5513,9 @@
   lng: -85.7750909
 1500 South15 Street, Louisville, KY: null
 1500 South15th Street, Louisville, KY: null
+1500 South36th Street, Louisville, KY:
+  lat: 38.2324174
+  lng: -85.8144769
 1500 Southgate Ave, Louisville, KY:
   lat: 38.200766
   lng: -85.786713
@@ -7407,6 +7410,9 @@
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
 200 Colonial Dr, Louisville, KY: null
+200 Coralberry Rd, Louisville, KY:
+  lat: 38.2594172
+  lng: -85.6663443
 200 Country Acres, Louisville, KY: null
 200 Crescent Ave, Louisville, KY:
   lat: 38.2593424
@@ -10214,6 +10220,9 @@
   lat: 38.2850585
   lng: -85.6178338
 2400 Mellwood Ave in response, Louisville, KY: null
+2400 Mellwood Ave near Highwood Dr and Lake Ave, Louisville, KY:
+  lat: 38.2676236
+  lng: -85.7033014
 ? 2400 Mellwood Ave, Building 9. The call concerned a disorderly person, described
   as a homeless, intoxicated female. She was reportedly on the first floor of the
   building., Louisville, KY
@@ -18740,6 +18749,9 @@
   lng: -85.6581967
 5000 Green Bridgeway, Louisville, KY: null
 5000 Greenbridge Way, Louisville, KY: null
+5000 Hanses Dr, Louisville, KY:
+  lat: 38.1601786
+  lng: -85.6794729
 5000 Kauffman, Louisville, KY: null
 5000 Kaufman Ln, Louisville, KY:
   lat: 38.180849
@@ -26488,6 +26500,7 @@ Herman St and Glendora Ave, Louisville, KY: null
 Hi View Ln and Gatecreek Rd, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
+Highwood Dr and Lake Ave, Louisville, KY: null
 Hikes Ln and Bardstown Rd, Louisville, KY: null
 Hikes Ln and Breckenridge Ln, Louisville, KY:
   lat: 38.2186174
