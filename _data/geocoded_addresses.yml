@@ -1879,6 +1879,9 @@
 1000 South Hancock, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
+1000 South Jackson near East Kentucky and St, Louisville, KY:
+  lat: 38.2374663
+  lng: -85.747069
 1000 South Jacksono, Louisville, KY: null
 1000 South Preston, Louisville, KY:
   lat: 38.237651
@@ -2848,6 +2851,7 @@
 1100 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2522795
   lng: -85.7696575
+1100 West All E, Louisville, KY: null
 1100 West Broadway, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
@@ -6123,6 +6127,9 @@
   doors. Multiple police units responded, Louisville, KY
 : null
 1600 West Chessland, Louisville, KY: null
+1600 West Chestnut, Louisville, KY:
+  lat: 38.251069
+  lng: -85.77791
 1600 West Elk Street, Louisville, KY: null
 1600 West L, Louisville, KY: null
 ? 1600 West Ln concerning a 14-year-old male who was reportedly acting out of control
