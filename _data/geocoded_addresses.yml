@@ -3115,6 +3115,9 @@
 11400 Leman Dr. The patient is a 21-year-old female experiencing chest pain and was able, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
+11400 Ridge Lake Dr, Louisville, KY:
+  lat: 38.090525
+  lng: -85.862078
 11400 Ridge Rd, Louisville, KY:
   lat: 38.2184913
   lng: -85.7015596
@@ -18499,6 +18502,9 @@
 4800 Old Dixie Hwy. Responding units were dispatched, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4800 Outer Loop at Verizon, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Outer Loop, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
@@ -18634,6 +18640,9 @@
   lng: -85.6794729
 4900 K W Drive, Louisville, KY: null
 4900 Kermit's Run Road, Louisville, KY: null
+4900 Manslick Rd at Barbary Hair Studio, Louisville, KY:
+  lat: 38.1751656
+  lng: -85.7981771
 4900 Manslick Rd, Louisville, KY:
   lat: 38.1751656
   lng: -85.7981771
@@ -22845,6 +22854,7 @@
   lat: 38.251917
   lng: -85.740147
 700 East Liberty Avenue, Louisville, KY: null
+700 East Madison alley, Louisville, KY: null
 700 East Market, Louisville, KY:
   lat: 38.2531216
   lng: -85.739834
