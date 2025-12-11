@@ -7931,6 +7931,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East near exit 19A, Louisville, KY: null
+200 East near mile marker 19, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near mile marker 8, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -8780,6 +8783,7 @@
 : lat: 38.1747458
   lng: -85.7745966
 200 Westbound at mile marker 71, Louisville, KY: null
+200 Westbound near Breckridge and St, Louisville, KY: null
 200 Westbound near Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
