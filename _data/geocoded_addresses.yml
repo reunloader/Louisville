@@ -108,6 +108,7 @@
 100 Alger Ave. Both police and EMS were en route, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
+100 Baker and 1100 block of South 28th, Louisville, KY: null
 100 Baker and 200 block of Adam, Louisville, KY: null
 100 Baker, Louisville, KY:
   lat: 38.1412684
@@ -673,6 +674,7 @@
 100 Paradise Ln, near Terry Rd,, Louisville, KY:
   lat: 38.137451
   lng: -85.872971
+100 Parker Street, Louisville, KY: null
 100 Pearl, Louisville, KY: null
 100 Pearl. Responding officers were en route to the location., Louisville, KY: null
 100 Pearl. Responding officers were en route, Louisville, KY: null
@@ -5555,6 +5557,7 @@
 1500 Lewis Coleman Jr, Louisville, KY: null
 1500 Lewis Coleman Jr. Drive, Louisville, KY: null
 1500 Lewis Ln at Immaculate Heart of Mary, Louisville, KY: null
+1500 Lighthouse Street, Louisville, KY: null
 1500 Lincoln Hill Way, Louisville, KY: null
 1500 Longfield Ave in the 4th Division, Louisville, KY: null
 1500 Longfield Ave, Louisville, KY:
@@ -11432,6 +11435,9 @@
 2700 Greenwood Rd, Louisville, KY:
   lat: 38.1443808
   lng: -85.8602956
+2700 Hale Ave, Louisville, KY:
+  lat: 38.2391966
+  lng: -85.7982427
 2700 Hikes Ln, Louisville, KY:
   lat: 38.204057
   lng: -85.6515067
