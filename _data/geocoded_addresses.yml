@@ -53,6 +53,7 @@
 1 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+1 Tying Road, Louisville, KY: null
 10 Audubon Plaza Dr at Little Sisters of the Poor, Louisville, KY:
   lat: 38.2143091
   lng: -85.7225304
@@ -2189,6 +2190,7 @@
 10200 Long Home Rd, Louisville, KY:
   lat: 38.122017
   lng: -85.576064
+10200 Lynn station road at UTA College, Louisville, KY: null
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
@@ -5548,6 +5550,9 @@
   lat: 38.1777302
   lng: -85.8088167
 1500 Lytle St between North 15th and 17th Streets, Louisville, KY: null
+1500 Lytle St near Dismas House, Louisville, KY:
+  lat: 38.261211
+  lng: -85.774435
 1500 Lytle St, Dismas House, Louisville, KY: null
 1500 Lytle St, Louisville, KY:
   lat: 38.261211
