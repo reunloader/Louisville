@@ -15131,6 +15131,7 @@
   The situation was later updated, Louisville, KY
 : null
 3800 Recreable Parkway near Vantage Plaza Dr, Louisville, KY: null
+3800 Reprigl Parkway at Vantage Plaza Dr and Goddard Road, Louisville, KY: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
   The caller indicated they were attempting to control the flames with water. Firefighters
   arrived to assess and extinguish the brush fire., Louisville, KY
@@ -17931,6 +17932,9 @@
 4500 Picadilly Ave, Louisville, KY:
   lat: 38.185039
   lng: -85.777186
+4500 Poplar Level Rd at Derby City Gaming, Louisville, KY:
+  lat: 38.1878872
+  lng: -85.7034767
 4500 Poplar Level Rd, Louisville, KY:
   lat: 38.1878872
   lng: -85.7034767
@@ -18994,6 +18998,9 @@
 500 E W Jacob St at Shepard Square, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+500 E W Jacob St near Hancock and Jackson at Chep Square, Louisville, KY:
+  lat: 38.2444725
+  lng: -85.7544415
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
@@ -19812,6 +19819,9 @@
   Louisville, KY
 : null
 5200 C-dress and ALBA, Louisville, KY: null
+5200 Chasewood Pl, Louisville, KY:
+  lat: 38.096026
+  lng: -85.6655633
 5200 Cherry Valley Rd, Louisville, KY:
   lat: 38.3241781
   lng: -85.6125043
@@ -21681,6 +21691,9 @@
 6200 Oak Valley Dr, Louisville, KY:
   lat: 38.1632109
   lng: -85.8167454
+6200 Preston Hwy near Warranty Drive and Forest Dr, Louisville, KY:
+  lat: 38.1613928
+  lng: -85.7001322
 6200 Preston, Louisville, KY:
   lat: 38.1613928
   lng: -85.7001322
@@ -27910,9 +27923,11 @@ University Rd and Cleveland Blvd, Louisville, KY: null
 Utah Ave and Euclid Ave, Louisville, KY: null
 Utah Ave and Montana Ave, Louisville, KY: null
 Valley College Dr and Stone St, Louisville, KY: null
+Vantage Plaza Dr and Goddard Road, Louisville, KY: null
 Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
+Warranty Drive and Forest Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
