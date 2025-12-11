@@ -10389,6 +10389,9 @@
   potential gas leak. The odor was described by the caller as similar, Louisville,
   KY
 : null
+2300 Woodford Pl, Louisville, KY:
+  lat: 38.2287202
+  lng: -85.6891588
 2300 Woodland Ave, Louisville, KY:
   lat: 38.233421
   lng: -85.79377
@@ -16950,6 +16953,10 @@
 4100 Taylor, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
+4100 Taylorsville Rd, Louisville, KY:
+  lat: 38.2192089
+  lng: -85.6209778
+4100 Taylorsville Rd, TJ Maxx, Louisville, KY: null
 4100 Tish Rd, Louisville, KY:
   lat: 38.0771637
   lng: -85.8400757
@@ -24431,6 +24438,7 @@
 7900 Bardstown Rd, Louisville, KY:
   lat: 38.134
   lng: -85.579647
+7900 Bardstown Rd, Thorntons, Louisville, KY: null
 7900 Barksdale Dr, Louisville, KY:
   lat: 38.1270133
   lng: -85.8613751
