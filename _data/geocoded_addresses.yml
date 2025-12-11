@@ -1394,6 +1394,9 @@
   lng: -85.6723688
 1000 Floyd and Farmington, Louisville, KY: null
 1000 Floyd and Farmington. Coordination with dispatch was necessary to clarify details and arrange, Louisville, KY: null
+1000 Glen Meadow Rd near Glen Stone Rd and Spring Gate Drop, Louisville, KY:
+  lat: 38.3108786
+  lng: -85.5646017
 1000 Goss Ave, Louisville, KY:
   lat: 38.2276371
   lng: -85.7364243
@@ -2877,6 +2880,9 @@
 1100 West Muhammad. Officers were on duty and available, Louisville, KY:
   lat: 38.2522795
   lng: -85.7696575
+1100 Woodcroft Ct near Pond Station Rd, Louisville, KY:
+  lat: 38.1072784
+  lng: -85.8230991
 ? '1100 block of East Broway)** (around 9:16 a.m. a.m. a.m.): A report was received
   of a person down at the Taco Bell due to an impossible overdose. The subject was
   surrounded by individuals, and it was noted that Nar Kand was involved. Units were
@@ -6096,6 +6102,7 @@
 : lat: 38.2621141
   lng: -85.7378387
 1600 South Hirsborne Parkway, Louisville, KY: null
+1600 South Persporn Parkway near Eastpoint Park Blvd and I-64 ramp, Louisville, KY: null
 1600 South Third Street, Louisville, KY: null
 1600 South Third Street. Responding units were dispatched, Louisville, KY: null
 1600 Stone Bluff Rd, Louisville, KY:
@@ -11756,6 +11763,9 @@
 2800 W Market St, Louisville, KY:
   lat: 38.259563
   lng: -85.7966655
+2800 West Broadway near Park Community Credit Union, Louisville, KY:
+  lat: 38.249486
+  lng: -85.798435
 ? 2800 West Broadway to assist a 65-year-old female. The individual was reportedly
   experiencing leg numbness and a headache, making her unable to walk, and was assessed,
   Louisville, KY
@@ -17921,6 +17931,9 @@
 4500 Virginia Ave, Louisville, KY:
   lat: 38.2403558
   lng: -85.8282089
+4500 W Market St, Louisville, KY:
+  lat: 38.264245
+  lng: -85.822621
 4500 Waco Ct, Louisville, KY:
   lat: 38.1875744
   lng: -85.8309235
@@ -21275,6 +21288,7 @@
 6000 Bellevue Ave, Louisville, KY:
   lat: 38.1964886
   lng: -85.7726792
+6000 Bristol Blood Circle near Bristol Blood Slay, Louisville, KY: null
 6000 Bristol Bluff Circle, Louisville, KY: null
 6000 Bristol Bluffs Cir, Louisville, KY: null
 6000 Bristol-Blessed Circle, Louisville, KY: null
@@ -24609,6 +24623,7 @@
   lat: 38.240608
   lng: -85.740319
 800 Salt Lick Ln, Louisville, KY: null
+800 Sandal, Middletown area, Louisville, KY: null
 800 Scholar, Louisville, KY:
   lat: 38.2408645
   lng: -85.7548989
@@ -25087,6 +25102,9 @@
 8200 Laurel Grove Ct, Louisville, KY:
   lat: 38.129913
   lng: -85.6279509
+8200 Limehouse Ln near Hawkshead Ln, Louisville, KY:
+  lat: 38.2255981
+  lng: -85.6048047
 8200 National Turnpike at KO Storage, Louisville, KY:
   lat: 38.1314142
   lng: -85.7512479
@@ -27233,6 +27251,7 @@ Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gillette Ave and Camp Crown Road, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
+Glen Stone Rd and Spring Gate Dr, Louisville, KY: null
 Glendora Ave and Herman St, Louisville, KY: null
 Global Dr and Renate Rd, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
