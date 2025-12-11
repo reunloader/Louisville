@@ -288,6 +288,7 @@
   lat: 38.1716047
   lng: -85.7633871
 100 East Kingston, Department 4, Louisville, KY: null
+100 East Kingston, Louisville, KY: null
 100 East Muhammad, Beahl Blvd, Louisville, KY: null
 ? 100 East Saint Catharine Street following reports of an individual heard screaming
   near a pink door. Officers were dispatched to investigate the disturbance., Louisville,
@@ -20013,6 +20014,9 @@
 5400 Yield Close Road, Louisville, KY: null
 5400 road, Louisville, KY: null
 542018 Speed Ave, Louisville, KY: null
+55 Rundill Rd, Louisville, KY:
+  lat: 38.1628677
+  lng: -85.7807434
 5500 Applegate Ln, Louisville, KY:
   lat: 38.134627
   lng: -85.65879
@@ -26508,6 +26512,7 @@
 : lat: 38.1072784
   lng: -85.8230991
 '9500 Poplar Hill Dr) (around 2:41 p.m. a.m. p.m.): was dispatched to a medical call, Louisville, KY': null
+9500 Poplar Hill Dr, Louisville, KY: null
 9500 Portland Ave, Louisville, KY:
   lat: 38.2721361
   lng: -85.7929587
