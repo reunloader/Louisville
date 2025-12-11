@@ -3308,6 +3308,9 @@
 : null
 1200 Cypher Street. This incident had been ongoing, Louisville, KY: null
 1200 Cypress Pt STREET, Louisville, KY: null
+1200 Cypress St, Louisville, KY:
+  lat: 38.237748
+  lng: -85.797674
 1200 DeOre Place, Louisville, KY: null
 1200 Dicknail Avenue, Louisville, KY: null
 ? 1200 Dicknail Avenue. The complainant alleged that her boyfriend assaulted her and
@@ -8567,6 +8570,9 @@
   from the collision. Responding units assessed the scene and managed the incident.,
   Louisville, KY
 : null
+200 West at mile marker 18, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West at the 452, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -19699,6 +19705,9 @@
 5200 Pebble Creek Pl, Louisville, KY:
   lat: 38.320212
   lng: -85.542286
+5200 Red Oak Ln, Louisville, KY:
+  lat: 38.172296
+  lng: -85.665233
 5200 Rural Way, Louisville, KY:
   lat: 38.1712837
   lng: -85.6652191
@@ -22053,6 +22062,7 @@
   lat: 38.1589659
   lng: -85.8470945
 6600 Upper Hunters Trees, Louisville, KY: null
+6600 Upper Hunters, Tavon, Louisville, KY: null
 6600 Watch Hill Rd near Cross Creek Blvd, Louisville, KY: null
 6600 Zagan Bush Lane, Louisville, KY: null
 6700 Badger Ave, Louisville, KY:
@@ -22291,6 +22301,9 @@
   lat: 38.0638166
   lng: -85.8908041
 6800 Sagan Bush, Louisville, KY: null
+6800 Scenic Trail, Louisville, KY:
+  lat: 38.0726371
+  lng: -85.889086
 6800 Seaton Woods Dr, Louisville, KY:
   lat: 38.1466894
   lng: -85.5706899
