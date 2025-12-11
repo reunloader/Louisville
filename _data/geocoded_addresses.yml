@@ -499,6 +499,9 @@
 100 New England Ct, Louisville, KY:
   lat: 38.1448588
   lng: -85.7637824
+100 Newcutt near Speedway, Louisville, KY:
+  lat: 38.1835893
+  lng: -85.6985826
 ? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
   both chest and abdominal pain, and medical personnel provided care., Louisville,
   KY
@@ -14065,6 +14068,7 @@
 3500 Bowman, Louisville, KY:
   lat: 38.2219639
   lng: -85.6542693
+3500 Callard Avenue, Louisville, KY: null
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
   lng: -85.8114477
