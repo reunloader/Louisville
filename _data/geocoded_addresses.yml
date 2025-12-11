@@ -3761,6 +3761,7 @@
 1200 Springdale, Louisville, KY:
   lat: 38.191809
   lng: -85.726961
+1200 St, Louisville, KY: null
 1200 Story Ave near Bickel and Cable, Louisville, KY:
   lat: 38.2551819
   lng: -85.7280531
@@ -9402,6 +9403,9 @@
 2100 Cherokee Pky. Units from the 500 block of Baker and 500 block of Echo were on the scene, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
+2100 Cherokee Ridge Way, Louisville, KY:
+  lat: 38.230709
+  lng: -85.6858975
 2100 Cherokee Ridgeway, Louisville, KY: null
 2100 Church Park Cir, Louisville, KY:
   lat: 38.2140553
@@ -21907,6 +21911,9 @@
 6400 Outer Loop, Louisville, KY:
   lat: 38.13786
   lng: -85.641744
+6400 Preston Hwy, Louisville, KY:
+  lat: 38.159117
+  lng: -85.698352
 6400 Regal Rd, Louisville, KY:
   lat: 38.2953843
   lng: -85.6313995
@@ -25284,9 +25291,13 @@
 8300 Smart Oak Parkway, Louisville, KY: null
 8300 South of the Way, Louisville, KY: null
 8300 South of the Way. Responding units were en route, Louisville, KY: null
+8300 Walker Rd, Louisville, KY:
+  lat: 38.1319484
+  lng: -85.8566957
 8300 Zelma Fields Ave, Louisville, KY:
   lat: 38.1309086
   lng: -85.6078912
+8300 across lane, Louisville, KY: null
 84 Tyeumet Drive, Louisville, KY: null
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
