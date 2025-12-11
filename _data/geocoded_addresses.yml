@@ -9606,6 +9606,9 @@
   lng: -85.7579503
 21919 an unconfirmed street. The reason, Louisville, KY: null
 22 La Saver Drive, Louisville, KY: null
+2200 20th Street, Louisville, KY:
+  lat: 38.2486783
+  lng: -85.784939
 2200 8th Street, Louisville, KY:
   lat: 38.247257
   lng: -85.7649186
@@ -16265,6 +16268,7 @@
 400 West Ornstein, Louisville, KY: null
 400 West Penny Avenue, Louisville, KY: null
 400 West W Oak St, Louisville, KY: null
+400 Whiteheath Ln, Louisville, KY: null
 400 Wimbleton Ct, Louisville, KY: null
 ? 400 Winkler Ave to conduct a welfare check. The call was also noted as a potential
   subject assist. After an assessment, the situation was resolved, and all parties
