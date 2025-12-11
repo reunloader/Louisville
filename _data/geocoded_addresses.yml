@@ -240,6 +240,9 @@
 100 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+100 E W Florence Ave, Louisville, KY:
+  lat: 38.1910686
+  lng: -85.7727391
 ? 100 E W Kingston Ave following a report of gunshots. The caller indicated a woman
   was outside holding a gun and had a history of domestic issues. Police units from
   the 500 block of Adam and the 400 block of Baker were involved in the response.,
@@ -3396,6 +3399,9 @@
 1200 East, Louisville, KY:
   lat: 38.2437703
   lng: -85.7296726
+1200 Eastern Parkway, Louisville, KY:
+  lat: 38.2249352
+  lng: -85.7239258
 1200 Euclid Ave, Louisville, KY:
   lat: 38.2170962
   lng: -85.7768264
@@ -16117,6 +16123,7 @@
   immediately available, but police units were dispatched, Louisville, KY
 : null
 400 Shelby Verrode at Cheers Wine and Spirit, Louisville, KY: null
+400 Shelby and Burnett, Louisville, KY: null
 400 Shelbyville Rd, Louisville, KY:
   lat: 38.23771
   lng: -85.4904282
