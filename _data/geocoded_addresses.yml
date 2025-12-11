@@ -9436,6 +9436,9 @@
   lng: -85.788552
 2100 Middle Ln was found, Louisville, KY: null
 2100 Middle Ln, Louisville, KY: null
+2100 Millvale Rd), Louisville, KY:
+  lat: 38.2309189
+  lng: -85.6867508
 2100 Millvale Rd, Louisville, KY:
   lat: 38.2309189
   lng: -85.6867508
@@ -25102,6 +25105,7 @@
   lat: 38.2957056
   lng: -85.5975753
 8200 West Mill Road, Louisville, KY: null
+8200 Woodstock Rd (Magnolia Springs), Louisville, KY: null
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
@@ -25742,6 +25746,7 @@
 900 Longfield Ave, Louisville, KY:
   lat: 38.1984115
   lng: -85.7749882
+900 Loretto Ave (cross with Kentucky and Garland), Louisville, KY: null
 900 Lydia St, Louisville, KY:
   lat: 38.2262462
   lng: -85.7409459
