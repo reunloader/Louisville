@@ -46,6 +46,9 @@
 08 Gabriel Dr, Louisville, KY:
   lat: 38.1565043
   lng: -85.8545813
+1 Audubon Plaza Dr, Louisville, KY:
+  lat: 38.2155102
+  lng: -85.7220735
 1 Shelby Station Dr, Louisville, KY: null
 1 South St, Louisville, KY:
   lat: 38.2182659
@@ -396,6 +399,9 @@
 100 Judy Ave. The driver was found, Louisville, KY:
   lat: 38.14635
   lng: -85.7771132
+100 Lawndale Ave, Louisville, KY:
+  lat: 38.163372
+  lng: -85.765002
 100 Lawson Ln, Louisville, KY:
   lat: 38.1730831
   lng: -85.7934142
@@ -21559,6 +21565,7 @@
 : lat: 38.0796483
   lng: -85.8768468
 64 East Cannon Ln, Louisville, KY: null
+6400 (likely) block of unknown street, Louisville, KY: null
 6400 Area64 eastbound near 9th Street, Louisville, KY:
   lat: 38.2345368
   lng: -85.7675997
