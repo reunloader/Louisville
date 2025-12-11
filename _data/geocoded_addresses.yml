@@ -18610,6 +18610,9 @@
 4900 E Manslick Rd, Louisville, KY:
   lat: 38.1169537
   lng: -85.6694382
+4900 Forest Park Dr, Louisville, KY:
+  lat: 38.1657
+  lng: -85.6929298
 4900 Fortierre Court, Louisville, KY: null
 4900 Garden Green Way, Louisville, KY:
   lat: 38.1744685
@@ -21265,6 +21268,9 @@
 600 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+600 Southview Dr, Louisville, KY:
+  lat: 38.1494302
+  lng: -85.7831774
 600 Sparrow Cir, Louisville, KY:
   lat: 38.1133627
   lng: -85.7605488
@@ -22077,6 +22083,7 @@
 6500 Riverway, Louisville, KY:
   lat: 38.3486661
   lng: -85.6276255
+6500 Sheffieldsville Road, Louisville, KY: null
 6500 Shirley Ave, Louisville, KY:
   lat: 38.3485927
   lng: -85.6252749
