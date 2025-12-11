@@ -12640,6 +12640,9 @@
 : lat: 38.259626
   lng: -85.69278
 300 North Height Avenue, Louisville, KY: null
+300 North24th St, Louisville, KY:
+  lat: 38.263073
+  lng: -85.789242
 300 North35th Street, Louisville, KY: null
 300 North36th Street, Louisville, KY: null
 300 North38th Street, Louisville, KY:
@@ -19130,6 +19133,9 @@
   lng: -85.702526
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
+500 Industry Rd near 9th St and South 5th St, Louisville, KY:
+  lat: 38.2190711
+  lng: -85.7730393
 500 Industry Rd, Louisville, KY:
   lat: 38.2190711
   lng: -85.7730393
@@ -19688,6 +19694,9 @@
   a.m. p.m.): Officers were requested to respond to a target store where a subject
   was in the office, Louisville, KY'
 : null
+51 Goldsmith Ln, Louisville, KY:
+  lat: 38.2063146
+  lng: -85.6509363
 51 Walter Ave, Louisville, KY:
   lat: 38.1759795
   lng: -85.7864009
@@ -21580,6 +21589,9 @@
   lat: 38.1629578
   lng: -85.6720316
 6000 Oval Engines, Louisville, KY: null
+6000 Poplar Level, Louisville, KY:
+  lat: 38.1583581
+  lng: -85.6483207
 6000 Southcrest Dr, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
@@ -23589,6 +23601,7 @@
 7000 Meadow Ridge Dr, Louisville, KY:
   lat: 38.1883265
   lng: -85.6222753
+7000 No, Louisville, KY: null
 7000 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
