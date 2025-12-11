@@ -7674,6 +7674,9 @@
 ? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
+200 Collier, Louisville, KY:
+  lat: 38.1193287
+  lng: -85.5990283
 200 Colonial Dr, Louisville, KY: null
 200 Coralberry Rd, Louisville, KY:
   lat: 38.2594172
@@ -8384,6 +8387,9 @@
 200 South Hurstbourne Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
+200 South I-200 at Bardstown Rd, Louisville, KY:
+  lat: 38.1506308
+  lng: -85.587592
 200 South I-200 near mile marker 29, Louisville, KY: null
 200 South I-200, Louisville, KY: null
 200 South KY near Shelbyville Rd, Louisville, KY:
@@ -10016,6 +10022,9 @@
 2200 W Main St, Louisville, KY:
   lat: 38.2595562
   lng: -85.7866869
+2200 W Market St near 23rd and 22nd, Louisville, KY:
+  lat: 38.2581443
+  lng: -85.7870316
 2200 W Market St, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
@@ -17175,6 +17184,7 @@
 4200 Norbrook Dr, Louisville, KY:
   lat: 38.1829075
   lng: -85.6422525
+4200 Noreen, Louisville, KY: null
 4200 Northwestern Pky, Louisville, KY:
   lat: 38.273645
   lng: -85.815048
@@ -17834,6 +17844,9 @@
 4500 Beechbrook Rd, Louisville, KY:
   lat: 38.183585
   lng: -85.641503
+4500 Bishop Ln at Flex Space, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 ? 4500 Broadleaf Drive following a report of a medical emergency. A 66-year-old male
   was experiencing chest pain and vomiting. Responders arrived on scene to assess
   and treat the individual. The situation required immediate attention from our medical
