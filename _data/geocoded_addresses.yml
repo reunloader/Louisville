@@ -39,6 +39,9 @@
   lat: 38.3167721
   lng: -85.5616302
 04 Knoblet Drive, Louisville, KY: null
+05 Rosewood Ave, Louisville, KY:
+  lat: 38.2325761
+  lng: -85.7185625
 06 Bruns Dr, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
@@ -5357,6 +5360,9 @@
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+15 Portland Ave, Louisville, KY:
+  lat: 38.2721361
+  lng: -85.7929587
 15 Ray Ave, Louisville, KY:
   lat: 38.2404557
   lng: -85.7093132
