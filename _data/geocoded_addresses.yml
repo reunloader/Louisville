@@ -1414,6 +1414,9 @@
 1000 Hamilton Ave, Louisville, KY:
   lat: 38.2466866
   lng: -85.7322646
+1000 Hathaway Ave, Louisville, KY:
+  lat: 38.195116
+  lng: -85.7772355
 1000 Hurstbourne Ln, Louisville, KY:
   lat: 38.1619949
   lng: -85.6246087
@@ -7387,6 +7390,9 @@
   lat: 38.2916137
   lng: -85.5553487
 1900 Wesley Ave, Louisville, KY: null
+1900 West Broadway at 19th Street, Louisville, KY:
+  lat: 38.2490002
+  lng: -85.7840179
 1900 West Broadway at KFC, Louisville, KY: null
 1900 West Broadway, Louisville, KY:
   lat: 38.2490002
@@ -8151,6 +8157,9 @@
   lat: 38.2607234
   lng: -85.7797189
 200 North at mile marker 29, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
+200 North at the 17 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
 200 North of Preston, Louisville, KY: null
@@ -10947,6 +10956,9 @@
   lat: 38.2589001
   lng: -85.7922412
 2500 West Alley, Louisville, KY: null
+2500 West Broadway at Truist Bank, Louisville, KY:
+  lat: 38.2490471
+  lng: -85.7937107
 2500 West9th Street, Louisville, KY: null
 2500 Wilson Ave, Crusher South, Louisville, KY: null
 2500 Wilson Ave, Louisville, KY:
@@ -11927,6 +11939,9 @@
   lat: 38.2421937
   lng: -85.8013539
 2900 Greenwood Ave, and another in the 3000 block of Greenwood Ave. Police units were reportedly, Louisville, KY: null
+2900 Greenwood Rd, Louisville, KY:
+  lat: 38.1443808
+  lng: -85.8602956
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
 2900 Marigold Ave, Louisville, KY:
   lat: 38.1663983
@@ -15990,6 +16005,7 @@
 ? 400 Shelby River Road. Specific details about the nature of the activity were not
   immediately available, but police units were dispatched, Louisville, KY
 : null
+400 Shelby Verrode at Cheers Wine and Spirit, Louisville, KY: null
 400 Shelbyville Rd, Louisville, KY:
   lat: 38.23771
   lng: -85.4904282
@@ -18518,6 +18534,9 @@
 4900 Dixie Hwy, Louisville, KY:
   lat: 38.1710866
   lng: -85.8271051
+4900 E Manslick Rd, Louisville, KY:
+  lat: 38.1169537
+  lng: -85.6694382
 4900 Fortierre Court, Louisville, KY: null
 4900 Garden Green Way, Louisville, KY:
   lat: 38.1744685
@@ -18918,6 +18937,10 @@
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
 500 Fountain Ave near Warwick Ave, Louisville, KY: null
 500 Grand Vista Pl, Louisville, KY: null
+? 500 Hathaway Ave who was no longer answering their phone. Units checked the Wilford
+  area but found no one in need of assistance, confirming a welfare check was initiated.
+  This was a routine effort, Louisville, KY
+: null
 500 Heywood Ave, Louisville, KY:
   lat: 38.20658
   lng: -85.767646
