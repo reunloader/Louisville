@@ -2691,6 +2691,9 @@
 1100 Poplar Level Plaza, Louisville, KY:
   lat: 38.219525
   lng: -85.728402
+1100 River Rd, Louisville, KY:
+  lat: 38.261542
+  lng: -85.736495
 1100 S Brook St due, Louisville, KY: null
 1100 S Brook St, Louisville, KY:
   lat: 38.2366186
@@ -8158,6 +8161,7 @@
   lng: -85.5679104
 200 Northbound at Mile Marker 5, Louisville, KY: null
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
+200 Northbound near the 30 mile marker, Louisville, KY: null
 200 Northbound, Louisville, KY: null
 200 Old Henry Rd, Louisville, KY:
   lat: 38.2720074
@@ -21155,6 +21159,9 @@
 6000 Applegate Ln, Louisville, KY:
   lat: 38.1340461
   lng: -85.6507118
+6000 Athens Dr, Louisville, KY:
+  lat: 38.1644998
+  lng: -85.673233
 6000 Bardstown Rd, Louisville, KY:
   lat: 38.158737
   lng: -85.591605
@@ -21388,6 +21395,7 @@
   lat: 38.1397231
   lng: -85.8923691
 6200 Global Dr, with a barge noted in front of the location, Louisville, KY: null
+6200 Greenhaven Dr, Louisville, KY: null
 6200 Hanson's Drive, Louisville, KY: null
 6200 Middlerose Cir, Louisville, KY:
   lat: 38.1030822
