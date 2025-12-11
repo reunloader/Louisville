@@ -9743,6 +9743,7 @@
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched, Louisville, KY
 : null
+2200 Lower Hunter Trace, Louisville, KY: null
 2200 Lower Hunters Trace, Louisville, KY:
   lat: 38.158219
   lng: -85.848738
@@ -17375,6 +17376,9 @@
 4400 Cole Ave. Metro units responded, Louisville, KY:
   lat: 38.1589782
   lng: -85.8653425
+4400 Crums Ln near Roses, Louisville, KY:
+  lat: 38.1991874
+  lng: -85.8371074
 4400 Deepwood Dr, Louisville, KY: null
 4400 Dixie Highway, Louisville, KY:
   lat: 38.0952898
@@ -25795,6 +25799,9 @@
 900 South 1st Street, Louisville, KY:
   lat: 38.2408661
   lng: -85.7544294
+900 South 26th Street, Louisville, KY:
+  lat: 38.243855
+  lng: -85.795634
 900 South 28th Street, Louisville, KY:
   lat: 38.244855
   lng: -85.799212
