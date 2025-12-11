@@ -16319,6 +16319,9 @@
 4000 7th St and Parkway, Louisville, KY: null
 4000 Alton Rd, Louisville, KY: null
 4000 Apex Gardens Dr, Louisville, KY: null
+4000 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 4000 Bardstown Rd, Louisville, KY:
   lat: 38.1927348
   lng: -85.6491734
@@ -17720,6 +17723,7 @@
   lat: 38.1463758
   lng: -85.7585377
 4500 King Run Road, Louisville, KY: null
+4500 Lane, Louisville, KY: null
 4500 Lunenburg Dr, Louisville, KY: null
 4500 Lunenburg Dr, near Pulaski Ct and Northumberland Dr,, Louisville, KY: null
 4500 Mary Dale, Louisville, KY: null
@@ -19998,6 +20002,9 @@
   lng: -85.601225
 5500 Bashford Ave, Louisville, KY: null
 5500 Bayshore Ct near Feyhurst Dr, Louisville, KY:
+  lat: 38.1451436
+  lng: -85.8584793
+5500 Bayshore Ct, Louisville, KY:
   lat: 38.1451436
   lng: -85.8584793
 5500 Bayshore Ct. The patient, a 56-year-old female, was found, Louisville, KY:
