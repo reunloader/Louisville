@@ -2416,6 +2416,9 @@
 1099 Gandy Rd, Louisville, KY:
   lat: 38.1093964
   lng: -85.8538536
+11 Bardstown Rd, Louisville, KY:
+  lat: 38.2385615
+  lng: -85.7212522
 11 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.2670643
   lng: -85.6567637
@@ -10029,6 +10032,7 @@
   lng: -85.4359493
 2300 Deer Path Cir, Louisville, KY: null
 2300 Devon House Street, Louisville, KY: null
+2300 Dimmel Avenue, Louisville, KY: null
 2300 Dixdale Avenue 6:00 a, Louisville, KY: null
 2300 Dixdale Avenue 6:00 a.m., Louisville, KY: null
 ? 2300 Dixdale Avenue due to a report of a domestic disturbance. The initial call
@@ -11526,6 +11530,9 @@
 2800 Greenwood Ave, Louisville, KY:
   lat: 38.242203
   lng: -85.799733
+2800 Griffiths Ave, near North 29th and North 28th, Louisville, KY:
+  lat: 38.268018
+  lng: -85.795199
 2800 Grinstead Dr, Louisville, KY:
   lat: 38.250485
   lng: -85.688393
@@ -13637,6 +13644,9 @@
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
+3300 Bardstown Rd, near Valmont and Doe Smith, Louisville, KY:
+  lat: 38.2076242
+  lng: -85.6693366
 ? 3300 Bardstown Road due to reports of smoke in the area. The smoke was observed
   in the rear of the property, near an area where individuals often gather. Upon arrival,
   crews found no visible smoke or fire from the exterior of the one-story commercial
@@ -15402,6 +15412,7 @@
 400 Charlie and 400 block of, Louisville, KY: null
 400 Charlie and 6 David, Louisville, KY: null
 400 Charlie and 6 David., Louisville, KY: null
+400 Charlie and I-400 block of Charlie, Louisville, KY: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
 400 Charlie and the 400 block of Baker, Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
@@ -17508,6 +17519,7 @@
 4400 South 8th Street, Louisville, KY:
   lat: 38.1909318
   lng: -85.773305
+4400 South Brook, across from East Adir and Florida, Louisville, KY: null
 4400 South2nd Street, Louisville, KY: null
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
