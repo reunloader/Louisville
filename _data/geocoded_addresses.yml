@@ -2982,6 +2982,7 @@
 11100 Court near Unseld Blvd, Louisville, KY:
   lat: 38.2519114
   lng: -85.5499427
+11100 Phil Redding Court near Finchley Rd, Louisville, KY: null
 11100 South Fork Street, Louisville, KY: null
 11100 Vista Greens Dr, Louisville, KY: null
 11200 Deham Dr, Louisville, KY:
@@ -16383,6 +16384,7 @@
 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines 41 and 47 responded, Louisville, KY: null
 4000 Cresskey Way, Louisville, KY: null
 4000 Druid Hills Row, Louisville, KY: null
+4000 Dutchman's Lane, Louisville, KY: null
 4000 Dutchman's, Louisville, KY: null
 4000 Dutchmans Ln (ER), Louisville, KY:
   lat: 38.2280743
@@ -17600,6 +17602,9 @@
 ? 4400 Taylor Blvd following a report of a neighbor dispute. The caller indicated
   that a neighbor was making threats, Louisville, KY
 : null
+4400 Taylor Blvd near Brookline and Walter, Louisville, KY:
+  lat: 38.175657
+  lng: -85.782743
 4400 Taylor Blvd, Louisville, KY:
   lat: 38.175657
   lng: -85.782743
@@ -25708,6 +25713,12 @@
 900 Lansdowne Ave. The vehicle's placement was causing an inconvenience, Louisville, KY:
   lat: 38.2152515
   lng: -85.7385711
+900 Linden Ln near Lake Ave and Osborne Dr, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
+900 Linden Ln near Lake Ave, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
 900 Link Way. The male was refusing, Louisville, KY:
   lat: 38.0648787
   lng: -85.8933989
@@ -27259,6 +27270,7 @@ La Boca Avenue and Parker Ave, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
 Labor Ln and Level Street, Louisville, KY: null
 Ladd Ave and Laurel St, Louisville, KY: null
+Lake Ave and Osborne Dr, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Lampton St and Roselane St, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
