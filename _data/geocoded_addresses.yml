@@ -4328,6 +4328,9 @@
 1300 Rhonda Way, Louisville, KY:
   lat: 38.184215
   lng: -85.801845
+1300 Rufer Ave near Edward and Barrett, Louisville, KY:
+  lat: 38.234783
+  lng: -85.726729
 1300 S Floyd St in response, Louisville, KY: null
 1300 S Floyd St, Louisville, KY:
   lat: 38.2313724
@@ -8866,6 +8869,9 @@
   intersection of 15th and Wilson, prompting a priority response from LG&E. The pole
   number was communicated to the relevant authorities, Louisville, KY
 : null
+200 east near Brownsboro and Hatcher Ave, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
   lng: -85.6410214
@@ -11743,6 +11749,7 @@
   lat: 38.2099142
   lng: -85.694737
 2800 North Hurst-Bourne Parkway, Louisville, KY: null
+2800 Northwestern Pky across 29th and 28th, Louisville, KY: null
 2800 Northwestern Pky near 29th and 28th Streets, Louisville, KY:
   lat: 38.2745857
   lng: -85.7922968
@@ -18436,6 +18443,8 @@
   site., Louisville, KY
 : null
 4700 South First Street this morning following a report of a medical concern. A young individual, believed, Louisville, KY: null
+4700 South First Street, Louisville, KY: null
+4700 South First Street, backyard, Louisville, KY: null
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
   lat: 38.105447
@@ -23553,6 +23562,9 @@
 7000 Shipley Ln, Louisville, KY:
   lat: 38.050769
   lng: -85.897892
+7000 South Side Drop near Brownsboro, Louisville, KY:
+  lat: 38.3140959
+  lng: -85.5732474
 7000 Southside Dr at Kimball, Louisville, KY:
   lat: 38.1560243
   lng: -85.7650129
