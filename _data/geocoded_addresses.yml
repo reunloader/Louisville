@@ -6997,6 +6997,9 @@
   lat: 38.2344233
   lng: -85.7405196
 1800 McCloskey Avenue, Evening, Louisville, KY: null
+1800 McCloskey Avenue, Louisville, KY:
+  lat: 38.2236135
+  lng: -85.7879957
 1800 Mellwood Ave, Louisville, KY:
   lat: 38.2614349
   lng: -85.7154776
@@ -18573,6 +18576,9 @@
 4800 Outer Loop at Verizon, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
+4800 Outer Loop near Walmart, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Outer Loop, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
@@ -19306,6 +19312,7 @@
 500 South 35th Street near Rowland Ave, Louisville, KY:
   lat: 38.255626
   lng: -85.809123
+500 South 3rd Street (Oval Water Company), Louisville, KY: null
 500 South 3rd Street, Louisville, KY:
   lat: 38.249733
   lng: -85.756157
@@ -21522,6 +21529,9 @@
 6000 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
+6000 Fern Creek Rd, Louisville, KY:
+  lat: 38.158292
+  lng: -85.5898849
 6000 Gabriel Dr, Louisville, KY:
   lat: 38.1565043
   lng: -85.8545813
@@ -21602,6 +21612,9 @@
 6100 Applegate Ln, Louisville, KY:
   lat: 38.133509
   lng: -85.6490481
+6100 Athens Dr, Louisville, KY:
+  lat: 38.163245
+  lng: -85.674781
 6100 Atwood St, Louisville, KY:
   lat: 38.2155748
   lng: -85.7485557
@@ -21680,6 +21693,9 @@
 6100 Roads, Louisville, KY: null
 6100 Roads, specifically within the 1900 block of Roads. Efforts were made, Louisville, KY: null
 6100 Rodes Dr, Louisville, KY: null
+6100 Shepherdsville Rd, Louisville, KY:
+  lat: 38.159904
+  lng: -85.66007
 6100 South 41st Street, Louisville, KY:
   lat: 38.2395063
   lng: -85.8207933
@@ -27267,6 +27283,7 @@ Bardstown Rd and Eastern Pky, Louisville, KY: null
 Bardstown Rd and Elmwood Ave, Louisville, KY: null
 Bardstown Rd and Fagan Bush Lane, Louisville, KY: null
 Bardstown Rd and Fairground Rd, Louisville, KY: null
+Bardstown Rd and Fern Creek Rd, Louisville, KY: null
 Bardstown Rd and Gladstone Ave, Louisville, KY: null
 Bardstown Rd and Goldsmith Ln, Louisville, KY: null
 Bardstown Rd and Grimstad Road, Louisville, KY: null
