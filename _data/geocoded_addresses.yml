@@ -2018,6 +2018,7 @@
   three males and one female, were reportedly seen nearby., Louisville, KY
 : null
 1000 an unspecified street, Louisville, KY: null
+1000 hospital location, Louisville, KY: null
 ? 1000 incident. An officer from the First Division was involved in the stop. The
   vehicle in question had a temporary tag. The registered owner, who resides on Village
   West Dr, has previous convictions, Louisville, KY
@@ -2392,6 +2393,9 @@
   lat: 38.2662626
   lng: -85.5563221
 10900 Jackson Way, Louisville, KY: null
+10900 Lower River Rd near Farnsley Visitor Center, Louisville, KY:
+  lat: 38.0983387
+  lng: -85.8928794
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
   lng: -85.5550366
@@ -26879,6 +26883,7 @@ Breckenridge Road and Meadow Drive, Louisville, KY: null
 Breckinridge St and Southbrook Street, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
+Brighton Springs Ln and Spring Lawn Dr, Louisville, KY: null
 Brinson Dr and Highland Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brokerage Lane and Westville Road, Louisville, KY: null
