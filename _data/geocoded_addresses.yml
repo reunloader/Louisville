@@ -5538,6 +5538,9 @@
   lat: 38.2053428
   lng: -85.7867437
 1500 Olenda Ave, Louisville, KY: null
+1500 Olive St near 17th and 15th Streets, Louisville, KY:
+  lat: 38.2302892
+  lng: -85.8001686
 1500 Ormsby Ln, Louisville, KY: null
 1500 Paul Tuckett Court, Louisville, KY: null
 1500 Phyllis Ave, Louisville, KY:
@@ -9871,6 +9874,9 @@
 2200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2542612
   lng: -85.7875154
+2200 W Oak St, Louisville, KY:
+  lat: 38.237383
+  lng: -85.790435
 2200 W W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -24380,6 +24386,7 @@
   confirmed the more serious nature of the incident., Louisville, KY
 : null
 800 East Muhammad Alley, Louisville, KY: null
+800 East Valley, Louisville, KY: null
 800 East W Market St. Fire units responded, Louisville, KY: null
 800 Eastern Parkway, Louisville, KY:
   lat: 38.214838
