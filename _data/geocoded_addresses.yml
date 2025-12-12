@@ -8589,6 +8589,7 @@
   lng: -85.6981124
 200 South, near Spurn., Louisville, KY: null
 200 South, then North, Brownsboro Rd, Louisville, KY: null
+200 South39, Louisville, KY: null
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
@@ -17563,6 +17564,9 @@
   handled by responding units., Louisville, KY
 : lat: 38.1883
   lng: -85.693746
+4300 Blevins Gap Rd, Louisville, KY:
+  lat: 38.0727435
+  lng: -85.8368436
 4300 Brighton Dr, Louisville, KY:
   lat: 38.2165253
   lng: -85.6694432
@@ -24749,6 +24753,7 @@
 7600 Trade Port Dr, Louisville, KY:
   lat: 38.12541
   lng: -85.893176
+7600 Tradeport, Louisville, KY: null
 7600 West Dr, Louisville, KY:
   lat: 38.1577479
   lng: -85.730657
@@ -27970,6 +27975,7 @@ Fern Valley Rd and Paramount Park Dr, Louisville, KY: null
 Fern Valley Rd and Popolo Road, Louisville, KY: null
 Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
 First One Lane and North Sea Lane, Louisville, KY: null
+Flat Rock Rd and Shelbyville Rd, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
 Forest Dr and Prestwood Dr, Louisville, KY: null
