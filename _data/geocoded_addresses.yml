@@ -6315,6 +6315,7 @@
 1600 William E. Summers, Louisville, KY:
   lat: 38.2309028
   lng: -85.8205021
+1600 William East Somers, Louisville, KY: null
 1600 Wilson Ave, Louisville, KY:
   lat: 38.2332977
   lng: -85.7810359
@@ -10263,6 +10264,9 @@
 23 Adventure Rd, Louisville, KY:
   lat: 38.2039221
   lng: -85.834534
+23 Brentlinger Ln, Louisville, KY:
+  lat: 38.1344575
+  lng: -85.5565498
 23 Downes Ln, Louisville, KY:
   lat: 38.1574244
   lng: -85.7590501
@@ -11499,6 +11503,9 @@
 2600 W Madison St, Louisville, KY:
   lat: 38.2540077
   lng: -85.7945055
+2600 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2550265
+  lng: -85.794407
 2600 West Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
@@ -15311,6 +15318,9 @@
   lng: -85.691624
 3800 Garland Avenue 4:00 a, Louisville, KY: null
 3800 Garland Avenue 4:00 a.m., Louisville, KY: null
+3800 Gaywood Dr, Louisville, KY:
+  lat: 38.105024
+  lng: -85.833114
 3800 Grandview Ave, Louisville, KY:
   lat: 38.2476484
   lng: -85.6534958
@@ -21033,6 +21043,9 @@
 5900 Full Moon Ct, Louisville, KY:
   lat: 38.16863
   lng: -85.848698
+5900 Grandel Meadow Ct, Louisville, KY:
+  lat: 38.1572617
+  lng: -85.8607252
 5900 Hunting Rd, Louisville, KY: null
 5900 Lions Arms Dr, Louisville, KY: null
 5900 Mercury Dr, Louisville, KY:
@@ -27347,6 +27360,7 @@
   lat: 38.1074176
   lng: -85.6472948
 9600 Millstone Dr, Louisville, KY: null
+9600 Preston Beeston Blvd, Louisville, KY: null
 ? 9600 Preston Spring Dr. The incident involved an intoxicated boyfriend who allegedly
   assaulted a female. The female declined, Louisville, KY
 : lat: 38.108708
