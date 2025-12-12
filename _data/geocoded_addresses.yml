@@ -16386,6 +16386,7 @@
 400 South6th Street at the jail, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
+400 South8, Avenue Plaza-12, near West Valley and West Liberty, Louisville, KY: null
 400 South8th Street, Louisville, KY:
   lat: 38.2525979
   lng: -85.7647916
@@ -17835,6 +17836,9 @@
   lng: -85.773305
 4400 South Brook, across from East Adir and Florida, Louisville, KY: null
 4400 South2nd Street, Louisville, KY: null
+4400 South2nd Street, near West Lee and West Bloom, Louisville, KY:
+  lat: 38.1914096
+  lng: -85.7635371
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
   lng: -85.8440418
@@ -28049,6 +28053,7 @@ Taylor Blvd and Euclid Ave, Louisville, KY: null
 Taylor Blvd and Hathaway Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Blvd and Lynnhurst Ave, Louisville, KY: null
+Taylor Blvd and Peachtree Ave, Louisville, KY: null
 Taylor Blvd and Showbox Avenue, Louisville, KY: null
 Taylor Blvd and Strader Ave, Louisville, KY: null
 Taylor Blvd and Walter Ave, Louisville, KY: null
