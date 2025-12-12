@@ -2853,6 +2853,9 @@
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
 1100 South4th Street, Louisville, KY: null
+1100 South7th Street near Webster St, Catherine, and W Oak St, Louisville, KY:
+  lat: 38.2376437
+  lng: -85.7648692
 1100 Southbrook Street, Louisville, KY: null
 1100 Southwestern Pky, Louisville, KY:
   lat: 38.2455998
@@ -8842,6 +8845,9 @@
 200 Yew Ln, Louisville, KY:
   lat: 38.1762196
   lng: -85.6718083
+200 York St near 3rd Street and 2nd, Louisville, KY:
+  lat: 38.2436686
+  lng: -85.7558736
 200 York St near South 2nd Street, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
@@ -11895,6 +11901,9 @@
 2800 South4th Street, Louisville, KY:
   lat: 38.2089394
   lng: -85.765146
+2800 South6th Street near Iowa Ave and Cole Ave, Louisville, KY:
+  lat: 38.208805
+  lng: -85.768399
 2800 St, Louisville, KY: null
 2800 Taylor Blvd, Louisville, KY:
   lat: 38.2097891
@@ -21475,6 +21484,7 @@
 600 Webster St near W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+600 West Jeff near 7th Street and 6th Street, Louisville, KY: null
 600 West Jefferson, Louisville, KY:
   lat: 38.2568339
   lng: -85.7600287
@@ -21519,6 +21529,7 @@
 : null
 600 division B1 and 726 were involved in addressing the situation, Louisville, KY: null
 600 division B1 and 726 were involved in addressing the situation., Louisville, KY: null
+600 or600 block of, Louisville, KY: null
 600 responded to the scene., Louisville, KY: null
 600 responded, Louisville, KY: null
 600 runs, Louisville, KY: null
@@ -27201,6 +27212,7 @@
 9800 Spring Gate Dr, Louisville, KY:
   lat: 38.3076087
   lng: -85.5657118
+9800 St, Louisville, KY: null
 9800 VU Cady Dr, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
@@ -27652,6 +27664,7 @@ Hurstport Parkway and Westport Rd, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
 Inca Dr and Johnsontown Rd, Louisville, KY: null
 Indian Falls Dr and River Trail Dr, Louisville, KY: null
+Iowa Ave and Cole Ave, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jackson St and Kenrose Ln, Louisville, KY: null
