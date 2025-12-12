@@ -1936,6 +1936,7 @@
   influence. The individual was reportedly parked in an SUV in the area. A K-9 unit
   was requested, Louisville, KY
 : null
+1000 Taylor and Bluegrass, Louisville, KY: null
 1000 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
@@ -2053,6 +2054,7 @@
   vehicle in question had a temporary tag. The registered owner, who resides on Village
   West Dr, has previous convictions, Louisville, KY
 : null
+1000 on1, Louisville, KY: null
 1000 police pursuit initiation, Louisville, KY: null
 1000 unspecified street, Louisville, KY: null
 10000 Ashby Farm Dr, Louisville, KY:
@@ -5466,6 +5468,7 @@
   lat: 38.2302013
   lng: -85.7190696
 1500 Catawper Street, Louisville, KY: null
+1500 Central Ave (Larue Ave area), Louisville, KY: null
 1500 Central Ave, Louisville, KY:
   lat: 38.21282
   lng: -85.7814853
@@ -6327,6 +6330,9 @@
   lng: -85.825072
 1700 Brentmoor Ln, Louisville, KY: null
 1700 Bridgeview Ln, Louisville, KY: null
+1700 Casselberry Rd, Louisville, KY:
+  lat: 38.23429
+  lng: -85.693876
 1700 Clint Sat Drive, Louisville, KY: null
 1700 Clint Sat Drive. The alarm was specifically noted, Louisville, KY: null
 1700 Cloverbrook Dr, Louisville, KY:
@@ -11682,6 +11688,7 @@
   lat: 38.210865
   lng: -85.786355
 2800 7th Street, with sounds of screaming and banging heard. Police units were dispatched, Louisville, KY: null
+2800 Baganville Ct, Louisville, KY: null
 2800 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
@@ -13558,6 +13565,9 @@
   lat: 38.2064352
   lng: -85.7768145
 3100 Valka, Frankfort, Louisville, KY: null
+3100 Vermont Ave, Louisville, KY:
+  lat: 38.254535
+  lng: -85.802739
 3100 Virginia Ave, Louisville, KY:
   lat: 38.2384897
   lng: -85.8055617
@@ -16570,6 +16580,9 @@
   lng: -85.6491734
 4000 Bardstown Road 10:45 a, Louisville, KY: null
 4000 Bardstown Road 10:45 a.m.AM, Louisville, KY: null
+4000 Bishop Ln, Louisville, KY:
+  lat: 38.1880209
+  lng: -85.6932201
 4000 Bradford-Taylor Ct, Louisville, KY: null
 4000 Britt Ln, Louisville, KY:
   lat: 38.1310826
