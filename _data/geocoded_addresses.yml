@@ -21939,6 +21939,9 @@
 : null
 6300 Cottage Field Cir, Louisville, KY: null
 6300 Cottage Field Cir. The driver was reportedly revving the engine and speeding, prompting a request, Louisville, KY: null
+6300 Cottagemeadow Dr, Louisville, KY:
+  lat: 38.178505
+  lng: -85.646968
 6300 Fairground Rd, Louisville, KY:
   lat: 38.1740102
   lng: -85.5830729
@@ -25526,6 +25529,9 @@
 8300 Lindsay Ct, Louisville, KY:
   lat: 38.2605244
   lng: -85.7054888
+8300 McNair Road, Louisville, KY:
+  lat: 38.1330586
+  lng: -85.7955515
 8300 Phillips Ln, Louisville, KY:
   lat: 38.1901008
   lng: -85.7477013
