@@ -3265,6 +3265,9 @@
 ? 11900 Standford Plaza. The situation was later reclassified as a suspicious person,
   and police units were dispatched., Louisville, KY
 : null
+12 Brent St, Louisville, KY:
+  lat: 38.2441834
+  lng: -85.7355087
 12 Clara Ave, Louisville, KY:
   lat: 38.1999013
   lng: -85.7878076
@@ -26900,6 +26903,7 @@
 9400 Brownsboro Rd, Louisville, KY:
   lat: 38.3051743
   lng: -85.5766546
+9400 Burnheim Middle School, Louisville, KY: null
 9400 Chambers Way due, Louisville, KY: null
 9400 Chambers Way, Louisville, KY:
   lat: 38.1117849
