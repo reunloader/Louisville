@@ -7494,6 +7494,7 @@
 1900 South 6th Street, Louisville, KY:
   lat: 38.1792341
   lng: -85.7734909
+1900 South 7th Street, White Castle, Louisville, KY: null
 1900 South First Street, Louisville, KY: null
 1900 South Hirsch Hornets, causing concern, Louisville, KY: null
 1900 Southwest One Parkway at Malibu Jax, Louisville, KY: null
@@ -8243,6 +8244,9 @@
 200 N Lakeview Dr, Louisville, KY:
   lat: 38.2079112
   lng: -85.6787057
+200 N S Birchwood Ave, Louisville, KY:
+  lat: 38.2520387
+  lng: -85.6894897
 200 N S Chadwick Rd, Louisville, KY: null
 200 New Cud, Louisville, KY: null
 200 Niles Hill Lane, Louisville, KY: null
@@ -25016,6 +25020,9 @@
 800 Beecher St, Louisville, KY:
   lat: 38.1918233
   lng: -85.7727766
+800 Beecher, Louisville, KY:
+  lat: 38.1918233
+  lng: -85.7727766
 800 Bermuda Ln, Louisville, KY:
   lat: 38.1599559
   lng: -85.7179761
@@ -25193,6 +25200,7 @@
   lng: -85.5612938
 800 North Polk Lake Road, Louisville, KY: null
 800 Ontario Road, Louisville, KY: null
+800 Oxford Avenue, Louisville, KY: null
 800 Paper Birch Way and Hickory, Louisville, KY: null
 800 Pflanz Ave, Louisville, KY:
   lat: 38.2739729
