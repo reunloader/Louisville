@@ -5611,6 +5611,9 @@
   lat: 38.207307
   lng: -85.7841382
 1500 East W Florence Ave, Louisville, KY: null
+1500 Eastern Parkway near Walgreens, Louisville, KY:
+  lat: 38.2317715
+  lng: -85.7091381
 1500 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
@@ -5808,6 +5811,9 @@
 1500 South38th Street, Louisville, KY:
   lat: 38.232312
   lng: -85.818307
+1500 South5th Street, Louisville, KY:
+  lat: 38.2251398
+  lng: -85.7642499
 1500 Southgate Ave, Louisville, KY:
   lat: 38.200766
   lng: -85.786713
@@ -6842,6 +6848,9 @@
   lat: 38.2721699
   lng: -85.4380326
 17900 Wind Dance Dr, Louisville, KY: null
+18 Robinwood Rd, Louisville, KY:
+  lat: 38.1697358
+  lng: -85.6680159
 18 Village West Drive, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -17128,6 +17137,9 @@
 ? 4100 Engine Way. The resident had turned off the gas to their home and required
   help to relight the pilot lights, Louisville, KY
 : null
+4100 Fern Creek Rd, Louisville, KY:
+  lat: 38.158292
+  lng: -85.5898849
 4100 Fern Valley Rd at Cedar Grove Recovery, Louisville, KY:
   lat: 38.1571885
   lng: -85.6857729
