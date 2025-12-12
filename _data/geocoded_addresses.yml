@@ -4025,6 +4025,7 @@
 12600 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
+12600 Orell Crossing Cir, Louisville, KY: null
 12600 Raise Your Court, Louisville, KY: null
 12600 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
@@ -9956,6 +9957,9 @@
 : null
 2200 Main St as multiple units are responding, Louisville, KY: null
 2200 Mary Catherine Dr, Louisville, KY: null
+2200 Mount Blanc Rd near Alps Rd and Mount Holyoke, Louisville, KY:
+  lat: 38.1689481
+  lng: -85.8558628
 2200 N. Similar Parkway. While one unit was responding, the alarm company contacted the call taker, Louisville, KY:
   lat: 38.1428812
   lng: -85.7612518
@@ -15857,6 +15861,7 @@
 400 East Ali, Louisville, KY:
   lat: 38.249878
   lng: -85.74667
+400 East Allee, power department building, Louisville, KY: null
 400 East Alley and 4400 block of Estate Dr, Louisville, KY: null
 400 East Alley between South Preston and South Jackson, Louisville, KY: null
 ? 400 East Alley following a fire alarm. Upon arrival, no smoke was visible, and it
@@ -20040,6 +20045,9 @@
   lat: 38.1598499
   lng: -85.6727475
 5200 Micro-Airboard Core, Louisville, KY: null
+5200 Mount Blanc Rd near Alps Rd and Mount Holyoke, Louisville, KY:
+  lat: 38.170403
+  lng: -85.855259
 5200 Nettie Way, Louisville, KY: null
 5200 North 35th Street, Louisville, KY:
   lat: 38.2735722
