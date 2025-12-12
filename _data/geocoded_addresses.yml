@@ -110,6 +110,7 @@
   lng: -85.764955
 100 Baker and 1100 block of South 28th, Louisville, KY: null
 100 Baker and 200 block of Adam, Louisville, KY: null
+100 Baker, 200 block of Baker, and 200 block of Adam, Louisville, KY: null
 100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -15173,6 +15174,7 @@
   lat: 38.189985
   lng: -85.799011
 3700 Woodland Mills Dr to perform a welfare check, with indications of a potential medical situation., Louisville, KY: null
+3700 Woodland Mills Dr, Crop, Louisville, KY: null
 3700 Woodland Mills Dr, Louisville, KY: null
 ? 3700 Woodland Mills Dr, near Ladd Ave and Laurel Standway, concerning a 20-year-old
   female who was unresponsive, Louisville, KY
@@ -18449,6 +18451,9 @@
   lat: 38.1819023
   lng: -85.7203622
 4600 mile with French, cross of Quaker Ct, Louisville, KY: null
+46900 Brookley Dr, Louisville, KY:
+  lat: 38.0910295
+  lng: -85.6742718
 47 Nichols Ave, Louisville, KY: null
 4700 Alito Corp, Barkley Dr, Louisville, KY: null
 4700 Allmond Ave, Louisville, KY:
@@ -22690,6 +22695,7 @@
 6800 Dixie Hwy near Hobby Lobby, Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
+6800 Dixie Hwy, Dixie Manor Shopping Center, Louisville, KY: null
 6800 Dixie Hwy, Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
@@ -26085,6 +26091,9 @@
   lat: 38.206738
   lng: -85.773152
 900 Cecil Ave and other locations, Louisville, KY: null
+900 Charles St at the intersection with River Creek Street and Boyle St, Louisville, KY:
+  lat: 38.2315713
+  lng: -85.7384034
 900 Charles St, Louisville, KY:
   lat: 38.2315713
   lng: -85.7384034
@@ -27994,6 +28003,7 @@ Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Rolling St, Louisville, KY: null
+River Creek Street and Boyle St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
 River Rd and Brighton Dr, Louisville, KY: null
 River Rd and River Shore Dr, Louisville, KY: null
