@@ -2596,6 +2596,9 @@
 1100 Everett Ave, Louisville, KY:
   lat: 38.239542
   lng: -85.717603
+1100 Gagel, Louisville, KY:
+  lat: 38.1728712
+  lng: -85.809864
 1100 Garvin Pl, Louisville, KY:
   lat: 38.2371411
   lng: -85.7618045
@@ -9362,6 +9365,7 @@
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
+2000 St Rene Rd, Louisville, KY: null
 2000 St Xavier St, Louisville, KY:
   lat: 38.264752
   lng: -85.782257
@@ -22412,6 +22416,9 @@
   wearing specific clothing., Louisville, KY
 : null
 6500 Signature Dr, Louisville, KY:
+  lat: 38.1566
+  lng: -85.714532
+6500 Signature Dr. The officers checked multiple locations, Louisville, KY:
   lat: 38.1566
   lng: -85.714532
 6500 South 7th Street, Louisville, KY:
