@@ -14656,6 +14656,9 @@
 3500 North 35th Street, Louisville, KY:
   lat: 38.2735722
   lng: -85.804438
+3500 Outer Loop at Cheddar's, Louisville, KY:
+  lat: 38.1361718
+  lng: -85.6985653
 3500 Outer Loop, Louisville, KY:
   lat: 38.1361718
   lng: -85.6985653
@@ -26325,6 +26328,7 @@
 : lat: 38.1253447
   lng: -85.868006
 8900 Staraway near Gone, Windrub, and Stoney Farm, Louisville, KY: null
+8900 Stony Falls Way, Louisville, KY: null
 8900 Talon Ridge Jog, Louisville, KY: null
 8900 US Highway 42, Louisville, KY: null
 8900 West Mill Road, Louisville, KY: null
