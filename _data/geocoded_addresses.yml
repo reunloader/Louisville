@@ -716,6 +716,7 @@
 100 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+100 Radio and 1700-1730 blocks of Radio, Louisville, KY: null
 100 Radio, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
@@ -11123,6 +11124,9 @@
 2500 Lindsay Ave, Louisville, KY:
   lat: 38.260707
   lng: -85.7048022
+2500 Magazine St, Louisville, KY:
+  lat: 38.2512205
+  lng: -85.7922936
 2500 Martin Ave, Louisville, KY:
   lat: 38.1793459
   lng: -85.833847
