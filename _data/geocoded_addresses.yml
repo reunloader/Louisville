@@ -3668,6 +3668,9 @@
 1200 South 2nd Street, Louisville, KY:
   lat: 38.2345868
   lng: -85.7573175
+1200 South 3rd Street at the Hilla Brand House, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
 1200 South 3rd Street near West Ornstein and West Oak, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
@@ -3869,6 +3872,9 @@
   lat: 38.2524203
   lng: -85.7709853
 1200 West Broadway at City Gear, Louisville, KY:
+  lat: 38.247499
+  lng: -85.771798
+1200 West Broadway at Greenhump bus station, Louisville, KY:
   lat: 38.247499
   lng: -85.771798
 1200 West Broadway, Louisville, KY:
@@ -9996,6 +10002,9 @@
   lat: 38.2019845
   lng: -85.6630799
 2200 Parkwood Rd, Louisville, KY:
+  lat: 38.164858
+  lng: -85.797721
+2200 Parkwood Rd. Both responses concluded with units returning, Louisville, KY:
   lat: 38.164858
   lng: -85.797721
 2200 Peaslee Rd, Louisville, KY: null
@@ -23121,6 +23130,9 @@
 : null
 700 East W Chestnut St, Louisville, KY: null
 700 East W Muhammad Ali Blvd, Louisville, KY: null
+700 Eastern Parkway near South Shelby and South Preston, Louisville, KY:
+  lat: 38.213507
+  lng: -85.745319
 700 Eastern Parkway) (around 8:08 p.m. a.m. p.m.):** A medical call was received, Louisville, KY: null
 700 Eastern Parkway, Louisville, KY:
   lat: 38.213507
