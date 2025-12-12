@@ -557,6 +557,9 @@
 100 North 41st Street, Louisville, KY:
   lat: 38.264633
   lng: -85.815986
+100 North 41st, Louisville, KY:
+  lat: 38.264633
+  lng: -85.815986
 100 North 45th Street, Louisville, KY:
   lat: 38.2660064
   lng: -85.8210911
@@ -3395,6 +3398,7 @@
 1200 Cypress St, Louisville, KY:
   lat: 38.237748
   lng: -85.797674
+1200 Cypress, Louisville, KY: null
 1200 DeOre Place, Louisville, KY: null
 1200 Dicknail Avenue, Louisville, KY: null
 ? 1200 Dicknail Avenue. The complainant alleged that her boyfriend assaulted her and
@@ -24788,6 +24792,7 @@
   lng: -85.7586002
 7600 Eagle Pines Ln, Louisville, KY: null
 7600 Fort Rose, Louisville, KY: null
+7600 Frontgate Dr, Louisville, KY: null
 7600 Glacier Lane, Louisville, KY: null
 7600 Granwood Pl, Louisville, KY:
   lat: 38.1545559
