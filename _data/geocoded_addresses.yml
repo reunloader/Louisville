@@ -5158,6 +5158,9 @@
 1400 S Jackson St, Louisville, KY:
   lat: 38.228703
   lng: -85.748604
+1400 S Shelby St at the Ice House Recovery, Louisville, KY:
+  lat: 38.2283837
+  lng: -85.7420897
 1400 S Shelby St, Louisville, KY:
   lat: 38.2283837
   lng: -85.7420897
@@ -17116,6 +17119,9 @@
   lat: 38.1125665
   lng: -85.8631151
 4100 Dudsman's Lane, Louisville, KY: null
+4100 East Indian Trail, Louisville, KY:
+  lat: 38.171563
+  lng: -85.68474
 4100 Eden Ln, Louisville, KY: null
 4100 Engine Way, Louisville, KY: null
 ? 4100 Engine Way. The resident had turned off the gas to their home and required
@@ -27318,6 +27324,12 @@
 9500 Lamborne Blvd, Louisville, KY:
   lat: 38.113241
   lng: -85.813602
+9500 Magnolia Ridge Ct, Louisville, KY:
+  lat: 38.1372545
+  lng: -85.5968235
+9500 Magnolia Ridge Dr, Louisville, KY:
+  lat: 38.1377519
+  lng: -85.5954601
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
