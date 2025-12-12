@@ -11198,6 +11198,9 @@
 2500 South4th Street, Louisville, KY:
   lat: 38.2128532
   lng: -85.7644902
+2500 South7th Street, Louisville, KY:
+  lat: 38.2231367
+  lng: -85.7727441
 2500 St, Louisville, KY:
   lat: 38.2574345
   lng: -85.7920604
@@ -14316,6 +14319,9 @@
 3400 Dr. William G. Weathers Drive. This stop was reportedly connected, Louisville, KY: null
 3400 Dutchman's Lane, Louisville, KY: null
 3400 Edmond Ln, Louisville, KY: null
+3400 Emerald Dr, Louisville, KY:
+  lat: 38.1584154
+  lng: -85.6696676
 3400 Frankfort Ave, Louisville, KY:
   lat: 38.2537793
   lng: -85.6698989
@@ -22091,6 +22097,7 @@
 6100 Summer Creek Dr at Crossbottom Lake Drive, Louisville, KY:
   lat: 38.0769588
   lng: -85.8742113
+6100 Summer Creek Drought, Louisville, KY: null
 6100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
