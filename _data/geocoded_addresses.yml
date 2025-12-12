@@ -8594,6 +8594,7 @@
   lat: 38.255244
   lng: -85.7586393
 200 Southbound at the 2-over-9 ramp, Louisville, KY: null
+200 Southbound, Louisville, KY: null
 200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
 200 Southern Ave, Louisville, KY:
   lat: 38.1886289
@@ -14724,6 +14725,9 @@
   ongoing., Louisville, KY
 : null
 3600 Barthinian. Police took statements and gathered information related, Louisville, KY: null
+3600 Brendenwood Rd, Louisville, KY:
+  lat: 38.1092452
+  lng: -85.8288239
 3600 Brownsboro Rd, Clines Connections Collections, Louisville, KY: null
 3600 Brownsboro Rd, Louisville, KY:
   lat: 38.265114
@@ -20129,6 +20133,9 @@
   lat: 38.2098564
   lng: -85.7664245
 5100 South First Street, Louisville, KY: null
+5100 Southpoint Dr, Louisville, KY:
+  lat: 38.0946718
+  lng: -85.6744859
 5100 Southside Dr, Louisville, KY:
   lat: 38.1725835
   lng: -85.7649517
