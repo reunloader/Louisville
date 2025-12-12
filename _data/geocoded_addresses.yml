@@ -22477,6 +22477,7 @@
 6600 Everton Dr, Louisville, KY:
   lat: 38.1598329
   lng: -85.8587888
+6600 Hertz View Circle, Louisville, KY: null
 ? 6600 Jixie Highway. Responders encountered a female individual who appeared to be
   suffering from cold exposure. The individual also seemed to be in distress. Medical
   personnel provided assistance and evaluated the situation., Louisville, KY
@@ -26726,6 +26727,9 @@
   structure., Louisville, KY
 : null
 9000 Salisbury Road, near the intersection of Parkway and Game Exchange Parkway,, Louisville, KY: null
+9000 Sidney Way, Louisville, KY:
+  lat: 38.1505515
+  lng: -85.5914396
 9000 Sprucedale Way, Louisville, KY: null
 9000 Taylor'sville Road, Louisville, KY: null
 ? 9000 Taylor'sville Road. The situation was later updated, with a request to place
