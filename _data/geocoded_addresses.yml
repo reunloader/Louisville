@@ -10512,6 +10512,9 @@
   a sidewall. Police units were requested, Louisville, KY
 : lat: 38.215004
   lng: -85.763937
+2300 South3rd, Louisville, KY:
+  lat: 38.2190218
+  lng: -85.7616353
 2300 Standard Ave, Louisville, KY:
   lat: 38.232014
   lng: -85.7943273
@@ -16520,6 +16523,9 @@
 400 South6th Street at the jail, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
+400 South6th near the jail, Louisville, KY:
+  lat: 38.2532015
+  lng: -85.761072
 400 South8, Avenue Plaza-12, near West Valley and West Liberty, Louisville, KY: null
 400 South8th Street, Louisville, KY:
   lat: 38.2525979
@@ -17184,6 +17190,7 @@
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
+4100 Springlake Dr, Louisville, KY: null
 4100 Spyglass Ct, Louisville, KY: null
 4100 Stoneview Dr, Louisville, KY:
   lat: 38.2681499
@@ -21075,6 +21082,9 @@
   lng: -85.6171438
 600 Airport Hotels Blvd, Louisville, KY: null
 600 Auburn Place Court, Louisville, KY:
+  lat: 38.1421654
+  lng: -85.778253
+600 Auburn Place Ct, Louisville, KY:
   lat: 38.1421654
   lng: -85.778253
 600 B Street, Louisville, KY: null
