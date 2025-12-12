@@ -37343,4 +37343,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2025-12-12T16:15:19.917654'
+- timestamp: '2025-12-12T16:28:01.808853'
+  total_addresses: 11873
+  successful: 6004
+  failed: 5869
+  success_rate: 50.57
+  failure_rate: 49.43
+  failure_patterns:
+    Contains location qualifiers (near/at): 1941
+    Incomplete/vague address: 1258
+    Intersection format: 1084
+    Other/Unknown: 1113
+    Contains extra sentences/context: 465
+    Police phonetic codes: 8
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2025-12-12T16:28:01.809017'
