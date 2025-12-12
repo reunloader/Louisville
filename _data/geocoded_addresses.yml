@@ -6162,6 +6162,7 @@
 1600 South Persporn Parkway near Eastpoint Park Blvd and I-64 ramp, Louisville, KY: null
 1600 South Third Street, Louisville, KY: null
 1600 South Third Street. Responding units were dispatched, Louisville, KY: null
+1600 St, Louisville, KY: null
 1600 Stone Bluff Rd, Louisville, KY:
   lat: 38.1633395
   lng: -85.6222787
@@ -6588,6 +6589,9 @@
 1700 Spruce Ln near Apache Rd, Louisville, KY:
   lat: 38.2777406
   lng: -85.646897
+1700 St, Louisville, KY:
+  lat: 38.2295455
+  lng: -85.8187666
 ? 1700 Stallings Ave to assist a 65-year-old male who was experiencing difficulty
   breathing. Crews arrived on scene within minutes to assess the situation., Louisville,
   KY
@@ -14563,6 +14567,7 @@
 3600 Chamberlain Ln, near the French Jefferson Trade Center, Louisville, KY:
   lat: 38.2977039
   lng: -85.5437235
+3600 Colias, Louisville, KY: null
 3600 Colmar Dr, Louisville, KY:
   lat: 38.2357524
   lng: -85.8144164
@@ -17329,6 +17334,7 @@
 4300 Bayberry Dr, near Topaz Ct and Accasia Dr,, Louisville, KY:
   lat: 38.1886178
   lng: -85.8362732
+4300 Begg and Bush, Louisville, KY: null
 4300 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
@@ -17399,6 +17405,9 @@
 ? 4300 Fagan Bush. The vehicle in question had Kentucky plates. Police units were
   involved in identifying the vehicle and its occupants., Louisville, KY
 : null
+4300 Fegenbush Ln, Louisville, KY:
+  lat: 38.1844502
+  lng: -85.6389261
 4300 Ginkgo Trail, Louisville, KY: null
 4300 Ginkgo Trail. The situation involved a teenager who was reportedly out of control, leading, Louisville, KY: null
 4300 Hale Ave, Louisville, KY:
@@ -27402,6 +27411,7 @@ Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blenheim Street and Don Allen Rd, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
+Bluegrass Ave and Taylor Blvd, Louisville, KY: null
 Borschtown Road and Fairmount Rd, Louisville, KY: null
 Boyle St and Logan St, Louisville, KY: null
 Boyle St and South Lake Street, Louisville, KY: null
@@ -28064,6 +28074,7 @@ Tosler Road and Stonenberg Drive, Louisville, KY: null
 Trout Creek Dr and Twin Creek Dr, Louisville, KY: null
 Tyler Ave and Eleanor Ave, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
+Tyler Ln and Varsantown Rd, Louisville, KY: null
 Tyler Park Dr and Baxter Ave, Louisville, KY: null
 Ulrich Rd and Johnson School Rd, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
