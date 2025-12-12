@@ -23,6 +23,7 @@
   lat: 38.2635452
   lng: -85.6998797
 00 Wally and Court, Louisville, KY: null
+01 Blackthorn Rd, Louisville, KY: null
 01 Cedar Springs Boulevard, Louisville, KY:
   lat: 38.1432222
   lng: -85.5848863
@@ -1233,6 +1234,9 @@
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
+1000 Cherry Way, Louisville, KY:
+  lat: 38.1759724
+  lng: -85.8134936
 1000 Clove Tree Ct, Louisville, KY:
   lat: 38.1120328
   lng: -85.6133925
@@ -9085,6 +9089,7 @@
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
+200 westbound from the fairgrounds, Louisville, KY: null
 200 westbound, Louisville, KY: null
 200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
 200, Louisville, KY:
@@ -16256,6 +16261,9 @@
   lng: -85.7779933
 400 Norman Stevens, Louisville, KY: null
 400 North 19th Street near Bank St and Griffiths Ave, Louisville, KY:
+  lat: 38.263459
+  lng: -85.780728
+400 North 19th Street, Louisville, KY:
   lat: 38.263459
   lng: -85.780728
 400 North 20th St, Louisville, KY:
