@@ -5711,6 +5711,9 @@
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
+1500 Poplar Level Ct, Louisville, KY:
+  lat: 38.1645652
+  lng: -85.6784763
 1500 Port Rd near Canary Road, Louisville, KY:
   lat: 38.1641544
   lng: -85.897011
@@ -17817,6 +17820,7 @@
 4300 West Area View Lane, Louisville, KY: null
 4300 Wisteria Ave, Louisville, KY: null
 4300 Wisteria Landing Cir, Louisville, KY: null
+4300 Wooded-Jay Ct, Louisville, KY: null
 4300 York St, Louisville, KY:
   lat: 38.243908
   lng: -85.7562365
@@ -21566,6 +21570,9 @@
 600 Presidents Blvd, Louisville, KY:
   lat: 38.2146048
   lng: -85.7460808
+600 Princess Way, Louisville, KY:
+  lat: 38.1326038
+  lng: -85.648856
 600 Providence Dr near Sanctuary Ln, Louisville, KY:
   lat: 38.1231758
   lng: -85.579226
