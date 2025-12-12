@@ -5280,6 +5280,9 @@
   The situation was resolved by responding units., Louisville, KY
 : null
 1400 South Second Street. The specific unit involved was number two. Officers were present, Louisville, KY: null
+1400 South1st Street, Louisville, KY:
+  lat: 38.228491
+  lng: -85.7567193
 1400 South28 Street, Louisville, KY: null
 1400 South28th Street, Louisville, KY:
   lat: 38.23395
@@ -5682,6 +5685,7 @@
 1500 Lou Gene Ave, Louisville, KY:
   lat: 38.1777302
   lng: -85.8088167
+1500 Lou Jean Avineau, Louisville, KY: null
 1500 Lytle St between North 15th and 17th Streets, Louisville, KY: null
 1500 Lytle St near Dismas House, Louisville, KY:
   lat: 38.261211
@@ -27786,6 +27790,7 @@ Archtown Road and Southhurstman Parkway, Louisville, KY: null
 Argetown Road and Grinstead Dr, Louisville, KY: null
 Arlington Ave and Lonsdale Ave, Louisville, KY: null
 Ash Ave and South Central Ave, Louisville, KY: null
+Ashbrooke Gardens Dr and Garden Trace Dr, Louisville, KY: null
 Ashland Ave and Kathleen Ave, Louisville, KY: null
 Ashland Ave and Taylor Blvd, Louisville, KY: null
 Ashwood Dr and Monkford Drive, Louisville, KY: null
