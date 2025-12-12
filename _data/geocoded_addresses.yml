@@ -6835,6 +6835,9 @@
 1800 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
+1800 Bluegrass Ave at St, Louisville, KY:
+  lat: 38.179474
+  lng: -85.792768
 1800 Bluegrass Ave, Louisville, KY:
   lat: 38.179474
   lng: -85.792768
@@ -13079,6 +13082,9 @@
 3000 Furman Blvd, Louisville, KY:
   lat: 38.220686
   lng: -85.646409
+3000 Goose Creek, Louisville, KY:
+  lat: 38.3161801
+  lng: -85.6485728
 3000 Grand Avenue, [Date] Evening, Louisville, KY: null
 ? 3000 Greenup Rd. Searches were performed in both county and Jefferson County databases,
   but no matches or relevant information were found regarding the vehicles., Louisville,
@@ -13407,6 +13413,9 @@
   Louisville, KY
 : null
 3100 Franklin Farmer's Way. Police units were on scene, Louisville, KY: null
+3100 Garland Ave, Louisville, KY:
+  lat: 38.245319
+  lng: -85.804036
 3100 Grand Ave, Louisville, KY:
   lat: 38.2410644
   lng: -85.8050687
@@ -24343,6 +24352,7 @@
 7500 Apple Blossom Pl, Louisville, KY:
   lat: 38.1368502
   lng: -85.6208334
+7500 Aron Rd, lot 183, Louisville, KY: null
 7500 Cane Run Rd near Mae St and Edna M Road, Louisville, KY:
   lat: 38.1441838
   lng: -85.896748
