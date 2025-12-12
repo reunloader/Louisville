@@ -124,6 +124,9 @@
 100 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+100 Becker, Louisville, KY:
+  lat: 38.1720002
+  lng: -85.708019
 100 Beecher St, Louisville, KY:
   lat: 38.1919865
   lng: -85.7727467
@@ -24982,6 +24985,9 @@
 800 Baker and the 400 block of an unspecified street, Louisville, KY: null
 800 Baker and the 800 block of Adam, Louisville, KY: null
 800 Baker and the 800 block of Adam., Louisville, KY: null
+800 Baker at the request of a caller who was not, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 ? 800 Baker, 800 block of Adam, and 3 David were engaged in managing the stop and
   the resulting traffic disruption, Louisville, KY
 : null
