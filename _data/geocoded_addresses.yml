@@ -16255,6 +16255,9 @@
   lat: 38.1574318
   lng: -85.7779933
 400 Norman Stevens, Louisville, KY: null
+400 North 19th Street near Bank St and Griffiths Ave, Louisville, KY:
+  lat: 38.263459
+  lng: -85.780728
 400 North 20th St, Louisville, KY:
   lat: 38.2636644
   lng: -85.7824983
@@ -18578,6 +18581,9 @@
   lat: 38.1787602
   lng: -85.623961
 4700 Barsham Road, Louisville, KY: null
+4700 Bellevue Ave, Louisville, KY:
+  lat: 38.1823251
+  lng: -85.7751994
 4700 Brownsboro Gardens Dr near Brownsboro Gardens Cir, Louisville, KY:
   lat: 38.309234
   lng: -85.566726
@@ -27660,6 +27666,7 @@ Bakers Ln and Crums Ln, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Balmoral Dr and Bramton Rd, Louisville, KY: null
 Bank St and Beaver St, Louisville, KY: null
+Bank St and Griffiths Ave, Louisville, KY: null
 Barchetown Rd and Fairmount Rd, Louisville, KY: null
 Barchetown Road and Waterford Rd, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
