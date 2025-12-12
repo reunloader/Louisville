@@ -453,6 +453,9 @@
   moving from a nearby establishment at the corner of Ashland and Napleton., Louisville,
   KY
 : null
+100 Lytle, Louisville, KY:
+  lat: 38.2617105
+  lng: -85.7752953
 100 Mackie Ct, Louisville, KY:
   lat: 38.13527
   lng: -85.7662
@@ -703,6 +706,9 @@
   searching, Louisville, KY
 : lat: 38.254043
   lng: -85.71819
+100 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 100 Radio, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
@@ -3545,6 +3551,7 @@
   lat: 38.2529572
   lng: -85.7261297
 1200 Manitow Lane, Louisville, KY: null
+1200 Manitow, Louisville, KY: null
 1200 Marks Island Road, Louisville, KY: null
 1200 Markstown Road, Louisville, KY: null
 1200 Marty Ln, Louisville, KY:
@@ -5779,6 +5786,9 @@
 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting, Louisville, KY:
   lat: 38.220888
   lng: -85.738448
+1500 W Chestnut St, Louisville, KY:
+  lat: 38.2508017
+  lng: -85.7763382
 1500 W Madison St, Louisville, KY:
   lat: 38.251981
   lng: -85.776056
@@ -7798,6 +7808,9 @@
   lat: 38.2465425
   lng: -85.7512048
 200 E Gray St, Norton Healthcare Gray Street, Louisville, KY: null
+200 E Jefferson St. EMS provided necessary assistance, Louisville, KY:
+  lat: 38.2528093
+  lng: -85.7491724
 200 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -10379,6 +10392,7 @@
 2300 Greenwood Ave. Details, Louisville, KY:
   lat: 38.2412212
   lng: -85.7921946
+2300 Hirshhorn Village Drive, Louisville, KY: null
 ? 2300 I 64 West following a report of live wires hanging dangerously low in the alleyway.
   The incident was located near the 22nd and 24th Street areas., Louisville, KY
 : null
@@ -13193,6 +13207,9 @@
 3000 Poplar Level Rd, Louisville, KY:
   lat: 38.2136444
   lng: -85.723149
+3000 Portland Ave at Family Dollar, Louisville, KY:
+  lat: 38.273366
+  lng: -85.796644
 3000 Preston Hwy due, Louisville, KY: null
 3000 Preston Hwy, Louisville, KY:
   lat: 38.2065795
@@ -13873,6 +13890,7 @@
 3200 Northwestern Avenue, Louisville, KY: null
 3200 Olenda Ave, Louisville, KY: null
 3200 Palm Station Road, Louisville, KY: null
+3200 Parchetown Road near Goatsmith, Louisville, KY: null
 3200 Patricia Dr, Louisville, KY:
   lat: 38.188866
   lng: -85.8462836
@@ -25369,6 +25387,9 @@
 8000 Afterglow Dr, Louisville, KY:
   lat: 38.1342766
   lng: -85.7813271
+8000 Air Commerce Dr, Louisville, KY:
+  lat: 38.134236
+  lng: -85.715166
 ? 8000 Bardstown Rd following a report of a 60-year-old male experiencing chest pain.
   Responders arrived on scene and provided care to the patient. The individual was
   subsequently transported to a local hospital for further medical evaluation and
