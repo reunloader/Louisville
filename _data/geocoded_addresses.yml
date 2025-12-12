@@ -8590,6 +8590,9 @@
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+200 South5th Street, Louisville, KY:
+  lat: 38.255244
+  lng: -85.7586393
 200 Southbound at the 2-over-9 ramp, Louisville, KY: null
 200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
 200 Southern Ave, Louisville, KY:
@@ -11814,6 +11817,7 @@
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
+27400 Bamboo Ct, Louisville, KY: null
 27600 Smithfield Greene Ln, Louisville, KY: null
 27600 Smithfield Greene Ln. Responding units were en route, Louisville, KY: null
 2800 7th St Rene Rd, Louisville, KY: null
@@ -12811,6 +12815,9 @@
 : lat: 38.259626
   lng: -85.69278
 300 North Height Avenue, Louisville, KY: null
+300 North23rd, Louisville, KY:
+  lat: 38.262892
+  lng: -85.787539
 300 North24th St, Louisville, KY:
   lat: 38.263073
   lng: -85.789242
@@ -15296,6 +15303,9 @@
   lat: 38.271863
   lng: -85.810797
 3800 Boynton Lane near Mills Dr, Louisville, KY: null
+3800 Breckenridge Ln, Louisville, KY:
+  lat: 38.1935943
+  lng: -85.625947
 3800 Brinkerridge Lane, Louisville, KY: null
 3800 Brody Ln, Louisville, KY:
   lat: 38.193015
@@ -19493,6 +19503,9 @@
 500 North26th Street, Louisville, KY:
   lat: 38.269472
   lng: -85.791002
+500 North27th, Louisville, KY:
+  lat: 38.270252
+  lng: -85.793137
 500 North35th Street and 4500 block of Duminil, Louisville, KY: null
 ? 500 North35th Street) (around 10:34 a.m. a.m. a.m.):** A child was reported locked
   in a vehicle. was dispatched to the scene, was initially called but later canceled.
