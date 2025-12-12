@@ -3159,6 +3159,7 @@
 11500 Reality Trail near United Blvd, Louisville, KY:
   lat: 38.1949363
   lng: -85.7825407
+11500 Redwood Way, Louisville, KY: null
 11500 Tazewell, Louisville, KY: null
 11500 Willow Pond Dr, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
@@ -8322,6 +8323,9 @@
 200 Pleasantview Ave, Louisville, KY:
   lat: 38.2520977
   lng: -85.6855423
+200 Poplar Level Rd, Louisville, KY:
+  lat: 38.1670132
+  lng: -85.6814696
 200 Poplovo Road, Louisville, KY: null
 200 Poplovo Road. Emergency personnel were dispatched, Louisville, KY: null
 200 Portland Ave near 23rd and Carter, Louisville, KY:
@@ -8599,6 +8603,7 @@
   condition or the circumstances of the incident were not provided., Louisville, KY
 : null
 200 West Kennymber 2, Louisville, KY: null
+200 West LaVon Avenue, Louisville, KY: null
 200 West Lawrence, Louisville, KY: null
 200 West Market, Louisville, KY:
   lat: 38.2546697
@@ -9607,6 +9612,9 @@
   units. The investigation is ongoing, and authorities are working, Louisville, KY
 : null
 2100 Old Shepherdsville Rd, Louisville, KY: null
+2100 Oregon Ave, Louisville, KY:
+  lat: 38.2210032
+  lng: -85.7959696
 2100 Osage Ave, Louisville, KY:
   lat: 38.2390037
   lng: -85.7885013
@@ -16132,6 +16140,9 @@
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+400 S Jackson St, Louisville, KY:
+  lat: 38.251001
+  lng: -85.744689
 400 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -18801,6 +18812,9 @@
 4900 S3rd Street, Louisville, KY:
   lat: 38.1768012
   lng: -85.7674879
+4900 Saddlebrook Ct, Louisville, KY:
+  lat: 38.1775868
+  lng: -85.8513642
 4900 Saddlebrook, Louisville, KY:
   lat: 38.1775868
   lng: -85.8513642
@@ -22270,6 +22284,9 @@
   lng: -85.8366977
 6600 Estele Ave, Louisville, KY: null
 6600 Estele Ave. Attempts, Louisville, KY: null
+6600 Evangeline Ave, Louisville, KY:
+  lat: 38.1617279
+  lng: -85.7615233
 6600 Everton Dr, Louisville, KY:
   lat: 38.1598329
   lng: -85.8587888
@@ -23233,6 +23250,9 @@
   individuals present at the scene. Firefighters worked, Louisville, KY
 : lat: 38.244898
   lng: -85.751927
+700 S Clay St at Shefford Square, Louisville, KY:
+  lat: 38.24472
+  lng: -85.741662
 700 S Clay St, Louisville, KY:
   lat: 38.24472
   lng: -85.741662
