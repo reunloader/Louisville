@@ -7664,6 +7664,9 @@
 200 Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+200 Bishop Ln at Yummy Folio, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 200 Breckenridge Square, Louisville, KY: null
 200 Bridgemore Ln, Louisville, KY:
   lat: 38.2475729
@@ -8145,6 +8148,7 @@
 200 I-64, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
+200 Kaiser Street and Kaiser Ct, Louisville, KY: null
 200 Kentucky280-735, Louisville, KY: null
 200 LaFontaine Drive, Louisville, KY: null
 200 Landing Dr, Louisville, KY:
