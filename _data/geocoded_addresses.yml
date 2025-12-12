@@ -4401,6 +4401,7 @@
 1300 South 26th Street, Louisville, KY:
   lat: 38.236286
   lng: -85.796515
+1300 South 28th and nearby streets, Louisville, KY: null
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -13597,6 +13598,9 @@
 3100 W Market St, Louisville, KY:
   lat: 38.260385
   lng: -85.802659
+3100 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.256133
+  lng: -85.803357
 3100 Wayside Dr, Louisville, KY: null
 3100 Winkler Ave, Louisville, KY:
   lat: 38.2109077
