@@ -4546,6 +4546,9 @@
 1300 South28th Street, Louisville, KY:
   lat: 38.236638
   lng: -85.800454
+1300 South2nd Street at McNally Avenue, Louisville, KY:
+  lat: 38.232443
+  lng: -85.757511
 1300 South3rd Street, Louisville, KY:
   lat: 38.2325507
   lng: -85.7594371
@@ -18253,6 +18256,7 @@
 4500 Hillside Dr, Louisville, KY:
   lat: 38.1406018
   lng: -85.8271841
+4500 Ivy Crest Cir, Louisville, KY: null
 4500 Jewell Ave near N S Longworth Ave, Louisville, KY:
   lat: 38.2686001
   lng: -85.8198194
@@ -22150,6 +22154,7 @@
 6200 Global Dr, with a barge noted in front of the location, Louisville, KY: null
 6200 Greenhaven Dr, Louisville, KY: null
 6200 Hanson's Drive, Louisville, KY: null
+6200 Helen Gene Way, Louisville, KY: null
 6200 Middlerose Cir, Louisville, KY:
   lat: 38.1030822
   lng: -85.8753813
@@ -25437,6 +25442,9 @@
   lat: 38.2476663
   lng: -85.8059077
 800 South3A3 and 800 block of South3H, Louisville, KY: null
+800 South42nd Street, Louisville, KY:
+  lat: 38.2483151
+  lng: -85.8224985
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
