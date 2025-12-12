@@ -411,6 +411,7 @@
 100 Judy Ave. The driver was found, Louisville, KY:
   lat: 38.14635
   lng: -85.7771132
+100 LaFontaine Drive, Louisville, KY: null
 100 Lawndale Ave, Louisville, KY:
   lat: 38.163372
   lng: -85.765002
@@ -17391,6 +17392,9 @@
   lng: -85.80531
 4300 Exterior Landing Circle, Louisville, KY: null
 4300 Exterior Landing Circle. Responders were dispatched, Louisville, KY: null
+4300 Fagan Bush Lane at Norfolk, Louisville, KY:
+  lat: 38.1815498
+  lng: -85.641523
 4300 Fagan Bush, Louisville, KY: null
 ? 4300 Fagan Bush. The vehicle in question had Kentucky plates. Police units were
   involved in identifying the vehicle and its occupants., Louisville, KY
