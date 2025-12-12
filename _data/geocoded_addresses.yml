@@ -21848,6 +21848,7 @@
 6000 Southcrest Dr. Further details, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
+6000 Timber Ridge Dr, Louisville, KY: null
 6000 W Madison St, Louisville, KY:
   lat: 38.251774
   lng: -85.7733579
@@ -25105,6 +25106,9 @@
   lat: 38.252958
   lng: -85.552025
 800 Foxwood Ave, Louisville, KY:
+  lat: 38.257124
+  lng: -85.56892
+800 Foxwood, Louisville, KY:
   lat: 38.257124
   lng: -85.56892
 800 Gagel Ave, Louisville, KY:
