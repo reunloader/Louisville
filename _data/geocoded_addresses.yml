@@ -9100,6 +9100,7 @@
 2000 Cherokee Pky, Louisville, KY:
   lat: 38.2345
   lng: -85.713684
+2000 Chevy Apollo, Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
@@ -10399,6 +10400,7 @@
 2300 Payne St, Louisville, KY:
   lat: 38.251984
   lng: -85.7028108
+2300 Pikeview Dr across from New Lynnview Dr in South Crumbs Lane, Louisville, KY: null
 2300 Portland Ave, Louisville, KY:
   lat: 38.2696938
   lng: -85.7864005
@@ -17473,6 +17475,7 @@
 4300 Larkwood Ave. Police units were sent, Louisville, KY:
   lat: 38.2591747
   lng: -85.8219191
+4300 Lindsey Dr, Louisville, KY: null
 4300 Lonsdale Ave, Louisville, KY:
   lat: 38.1781683
   lng: -85.7864904
@@ -21246,6 +21249,7 @@
 600 Merwin Ave, Louisville, KY:
   lat: 38.2096965
   lng: -85.7462389
+600 Mila Marie Dr, Louisville, KY: null
 ? 600 Mix Ave had been broken into. Police units were dispatched to the facility,
   and the caller was waiting on-site for their arrival., Louisville, KY
 : null
@@ -23801,6 +23805,9 @@
 7100 Betsy Ross Dr, Louisville, KY:
   lat: 38.0579743
   lng: -85.8969414
+7100 Bronner Cir, Louisville, KY:
+  lat: 38.1863175
+  lng: -85.628687
 7100 Bronner Cir. Police units arrived on the scene, Louisville, KY:
   lat: 38.1863175
   lng: -85.628687
