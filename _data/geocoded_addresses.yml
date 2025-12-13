@@ -9301,6 +9301,9 @@
 2000 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+2000 Columbia St, Louisville, KY:
+  lat: 38.261487
+  lng: -85.78282
 2000 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
@@ -19713,6 +19716,7 @@
 500 North at mile marker6, Louisville, KY:
   lat: 38.2531521
   lng: -85.580631
+500 North17, Louisville, KY: null
 500 North26th Street, Louisville, KY:
   lat: 38.269472
   lng: -85.791002
