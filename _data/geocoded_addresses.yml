@@ -209,6 +209,9 @@
 100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+100 Colonial, Louisville, KY:
+  lat: 38.1744506
+  lng: -85.7618487
 100 Crescent Ave, Louisville, KY:
   lat: 38.254922
   lng: -85.686895
@@ -6624,6 +6627,9 @@
 1700 Pear Ln, Louisville, KY:
   lat: 38.1925635
   lng: -85.6192137
+1700 Pine St, Louisville, KY:
+  lat: 38.2485484
+  lng: -85.7262126
 1700 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -11720,6 +11726,10 @@
 2700 Lexington Rd, Louisville, KY:
   lat: 38.245036
   lng: -85.691923
+? 2700 Lindsay Ave reporting an unknown trouble involving a male in the background
+  saying, "you better turn that phone off." The caller later clarified it was an accidental
+  call, and responders were advised, Louisville, KY
+: null
 2700 Marguerite Dr, Louisville, KY:
   lat: 38.1673238
   lng: -85.8571346
@@ -15373,6 +15383,7 @@
   lat: 38.1064761
   lng: -85.8313497
 3700 Whitehall Ct, where a woman was not answering the door. Responders are investigating the situation, Louisville, KY: null
+3700 Whitland Mills, Louisville, KY: null
 3700 Woodgreen Ct, Louisville, KY:
   lat: 38.189985
   lng: -85.799011
@@ -15411,6 +15422,9 @@
   lat: 38.187962
   lng: -85.793918
 3800 Corvair Court, near Foverbrook Drive., Louisville, KY: null
+3800 Duncan St near North 39th and North 38th, Louisville, KY:
+  lat: 38.265023
+  lng: -85.811594
 3800 Duncan St, Louisville, KY:
   lat: 38.265023
   lng: -85.811594
@@ -26634,6 +26648,9 @@
 900 Linden Ln near Lake Ave, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
+900 Lindsay Ave, Louisville, KY:
+  lat: 38.2635452
+  lng: -85.6998797
 900 Link Way. The male was refusing, Louisville, KY:
   lat: 38.0648787
   lng: -85.8933989
