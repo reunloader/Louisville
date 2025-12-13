@@ -1936,6 +1936,7 @@
 ? 1000 South Crescent Street. The call involved a resident experiencing difficulty
   breathing. Medical personnel provided assistance, Louisville, KY
 : null
+1000 South Creston Street, which may have been related, Louisville, KY: null
 1000 South Dr Dr, Louisville, KY: null
 ? 1000 South Dr Dr. The caller stated that threats were made against the petitioner
   when they entered the location., Louisville, KY
@@ -2454,6 +2455,7 @@
 10700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10700 Sparrow Cir, as well as at an apartment complex and the 1800 block of Bluegrass Ave, Louisville, KY: null
 10700 Westport Rd, at the Aloft Hotel, Louisville, KY:
   lat: 38.296198
   lng: -85.553131
@@ -11103,6 +11105,9 @@
 2500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
+2500 Catalpa St, Louisville, KY:
+  lat: 38.235066
+  lng: -85.8018737
 2500 Chair Crossing at Mercedes, Louisville, KY: null
 2500 Chair Crossing, Louisville, KY: null
 2500 Chair Crossing. Responding units were sent, Louisville, KY: null
