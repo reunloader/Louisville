@@ -4348,6 +4348,9 @@
 1300 Kentucky Mills Dr, Louisville, KY: null
 1300 Kiefer Rd, Louisville, KY: null
 1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
+1300 Lexington Rd at Headliners Music Hall, Louisville, KY:
+  lat: 38.2498197
+  lng: -85.7271354
 1300 Lillian Ave, Louisville, KY:
   lat: 38.2102297
   lng: -85.7777266
@@ -4637,6 +4640,7 @@
   lat: 38.2502801
   lng: -85.7733327
 1300 West Markridge Street, Louisville, KY: null
+1300 West41st St, Louisville, KY: null
 '1300 Whirling Tiger)** (around 12:47 a.m. p.m. a.m.): A 29-year-old female was reported, Louisville, KY': null
 1300 William St as part of a welfare check. The purpose of the check was, Louisville, KY: null
 1300 William St, Louisville, KY:
@@ -17191,6 +17195,9 @@
 : null
 4100 Candor Ave, Louisville, KY: null
 4100 Cane Run Rd and 3700 block of Oboe Dr, Louisville, KY: null
+4100 Cane Run Rd at Kane Run Liquor, Louisville, KY:
+  lat: 38.2045067
+  lng: -85.8311096
 4100 Cane Run Rd, Louisville, KY:
   lat: 38.2045067
   lng: -85.8311096
@@ -22042,6 +22049,9 @@
   lat: 38.1629754
   lng: -85.709896
 6000 Lover's Lane, Louisville, KY: null
+6000 Lynnview Dr, Louisville, KY:
+  lat: 38.1908289
+  lng: -85.8437633
 6000 Mint Spring Branch Rd, Louisville, KY:
   lat: 38.336449
   lng: -85.581821
@@ -24972,6 +24982,9 @@
   lat: 38.139572
   lng: -85.8101212
 7700 St. St Anthony Church Rd, Louisville, KY: null
+7700 Trade Port Dr, Louisville, KY:
+  lat: 38.1242375
+  lng: -85.8950273
 7700 Wictor Ct, Louisville, KY:
   lat: 38.209842
   lng: -85.6141349
@@ -27847,6 +27860,7 @@
 9900 Woodhill Rd, Louisville, KY:
   lat: 38.3186006
   lng: -85.6260958
+9900 Zuccaray Dr, Louisville, KY: null
 Abell Ave and Olive St, Louisville, KY: null
 Ackermack Drive and North Tassville Drive, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
