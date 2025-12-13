@@ -856,6 +856,7 @@
 100 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+100 South, Louisville, KY: null
 100 South38th Street, indicating multiple locations involved in gunfire, Louisville, KY: null
 ? '100 South4th Street)** (around 8:48 p.m. a.m. p.m.): Units responded to a commercial
   alarm at Derby City Gaming, Louisville, KY'
@@ -2892,6 +2893,9 @@
   lat: 38.235858
   lng: -85.763661
 1100 South 8th Street, Louisville, KY:
+  lat: 38.237794
+  lng: -85.766688
+1100 South 8th, Louisville, KY:
   lat: 38.237794
   lng: -85.766688
 1100 South Charlie, Louisville, KY:
@@ -5724,6 +5728,7 @@
 1500 Longfield Ave., Louisville, KY:
   lat: 38.1985284
   lng: -85.786642
+1500 Longfield and Saw, Louisville, KY: null
 1500 Lou Gene Ave, Louisville, KY:
   lat: 38.1777302
   lng: -85.8088167
@@ -8072,6 +8077,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East at Creighton and Dry, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East at Dumesnil St, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East at I-65, Louisville, KY:
@@ -11339,6 +11347,9 @@
 2500 West Broadway at Truist Bank, Louisville, KY:
   lat: 38.2490471
   lng: -85.7937107
+2500 West Madison, Louisville, KY:
+  lat: 38.2538718
+  lng: -85.7930556
 2500 West9th Street, Louisville, KY: null
 2500 Wilson Ave, Crusher South, Louisville, KY: null
 2500 Wilson Ave, Louisville, KY:
