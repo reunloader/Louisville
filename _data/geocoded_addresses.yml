@@ -8534,6 +8534,9 @@
   KY
 : lat: 38.263249
   lng: -85.818916
+200 South 47th Street, Louisville, KY:
+  lat: 38.2465524
+  lng: -85.8323174
 200 South 7th Street, Louisville, KY:
   lat: 38.2554063
   lng: -85.7620447
@@ -14133,6 +14136,7 @@
   building., Louisville, KY
 : null
 3300 Bardstown Road due, Louisville, KY: null
+3300 Barge Town Road, Louisville, KY: null
 3300 Bass Creek Dr, Louisville, KY:
   lat: 38.2058857
   lng: -85.6782739
@@ -21134,6 +21138,7 @@
 5800 Shady Circle, Louisville, KY:
   lat: 38.1946095
   lng: -85.5240763
+5800 South First Form Parkway, Louisville, KY: null
 5800 Taylor's Little Lake Road, Louisville, KY: null
 5800 William Park Road, Louisville, KY: null
 5900 Arbor Creek Dr, Louisville, KY:
