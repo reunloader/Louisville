@@ -4994,6 +4994,7 @@
   background. Responding units attempted, Louisville, KY
 : lat: 38.2358015
   lng: -85.710346
+1400 Choptep Street, Louisville, KY: null
 1400 Clara Ave, Louisville, KY:
   lat: 38.1995558
   lng: -85.7843185
@@ -12920,6 +12921,7 @@
 300 East W Lee St, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
+300 East Weatherstone Street, Louisville, KY: null
 300 Eastbourne Ave, Louisville, KY:
   lat: 38.2557357
   lng: -85.6733234
@@ -24265,6 +24267,9 @@
 700 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+700 South2nd Street, Louisville, KY:
+  lat: 38.244091
+  lng: -85.755458
 700 South33rd Street, Louisville, KY: null
 700 South38th Street, Louisville, KY:
   lat: 38.250005
