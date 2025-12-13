@@ -673,6 +673,7 @@
   that a service person was allegedly being unkind, Louisville, KY
 : null
 100 Norwood Dr, Louisville, KY: null
+100 Old Cameron's Lane, Louisville, KY: null
 100 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -19844,6 +19845,9 @@
   lat: 38.2531521
   lng: -85.580631
 500 North17, Louisville, KY: null
+500 North17th Street, Louisville, KY:
+  lat: 38.2624403
+  lng: -85.7778476
 500 North26th Street, Louisville, KY:
   lat: 38.269472
   lng: -85.791002
