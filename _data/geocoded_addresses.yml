@@ -4604,6 +4604,9 @@
   lat: 38.2502801
   lng: -85.7733327
 1300 W Market St across South15th and South 13th Street, Louisville, KY: null
+1300 W Market St at Disney St Patrick cross of South15th and South 13th, Louisville, KY:
+  lat: 38.256806
+  lng: -85.771833
 1300 W Market St, Louisville, KY:
   lat: 38.256806
   lng: -85.771833
@@ -7614,6 +7617,7 @@
 : null
 1900 the area, Louisville, KY: null
 1900 the area., Louisville, KY: null
+1900 the fire station, Louisville, KY: null
 19000 Long Grove Way near Locust Creek Blvd and Park Creek Cir, Louisville, KY:
   lat: 38.242909
   lng: -85.416381
@@ -14682,6 +14686,9 @@
 3500 Outer Loop, Louisville, KY:
   lat: 38.1361718
   lng: -85.6985653
+3500 Paragon Ct near Bashford Manor Ln, Louisville, KY:
+  lat: 38.198203
+  lng: -85.677518
 3500 Paragon Ct, Louisville, KY: null
 3500 Peach Tree, Louisville, KY: null
 3500 Pinecroft Dr, Louisville, KY:
@@ -16652,6 +16659,7 @@
 400 South6th Street at the jail, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
+400 South6th in the jail, Louisville, KY: null
 400 South6th near the jail, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
@@ -19410,6 +19418,9 @@
 500 Dorsey Way, Louisville, KY:
   lat: 38.252391
   lng: -85.57037
+500 Douglas Park, Louisville, KY:
+  lat: 38.1784089
+  lng: -85.7605676
 500 Dresden Ave, Louisville, KY:
   lat: 38.197563
   lng: -85.768594
@@ -21145,6 +21156,9 @@
   lng: -85.5240763
 5800 South First Form Parkway, Louisville, KY: null
 5800 Taylor's Little Lake Road, Louisville, KY: null
+5800 Whispering Hills Blvd near Rock Hollow Dr and Rock Forest Dr, Louisville, KY:
+  lat: 38.1473866
+  lng: -85.6529514
 5800 William Park Road, Louisville, KY: null
 5900 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
@@ -22295,6 +22309,7 @@
 : null
 6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
 6300 Commerce Park Ct, Louisville, KY: null
+6300 Commerce Park Ct, Sweet 217, near Old New Cut Rd and Commerce Park Dr, Louisville, KY: null
 ? 6300 Commerce Park Ct. The specific nature of the disturbance was not detailed in
   the initial report. After clearing this call, officers were then assigned, Louisville,
   KY
@@ -28308,6 +28323,7 @@ Old Henry Rd and Gee Snider Road, Louisville, KY: null
 Old Henry Rd and Shelbydale Road, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
 Old Injury Road and Bush Farm Rd, Louisville, KY: null
+Old New Cut Rd and Commerce Park Dr, Louisville, KY: null
 Old South Park Rd and Marlin Dr, Louisville, KY: null
 Old South Park Rd and South Park Rd, Louisville, KY: null
 Old Westport Rd and Westport Rd, Louisville, KY: null
@@ -28372,6 +28388,7 @@ River Rd and River Shore Dr, Louisville, KY: null
 Rochelle Rd and Myrna Parkway, Louisville, KY: null
 Rochelle Rd and Sperna Parkway, Louisville, KY: null
 Rock Bluff Dr and Murphy Ln, Louisville, KY: null
+Rock Hollow Dr and Rock Forest Dr, Louisville, KY: null
 Rockford Ln and Dover Rd, Louisville, KY: null
 Rocky Rd and Shelbyville Rd, Louisville, KY: null
 Rocky Rd and Shell Beagle Road, Louisville, KY: null
