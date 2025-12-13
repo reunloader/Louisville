@@ -5234,6 +5234,9 @@
 1400 Quincy St, Louisville, KY:
   lat: 38.2580052
   lng: -85.7272611
+1400 Rails K near South 10th Street, Louisville, KY:
+  lat: 38.2461724
+  lng: -85.768487
 1400 Rieta, Louisville, KY: null
 ? 1400 Rieta. The reporting party indicated no immediate concerns but noted that an
   individual was expected to return, Louisville, KY
@@ -5856,6 +5859,9 @@
 1500 Shingo Ave, Louisville, KY:
   lat: 38.1744846
   lng: -85.7865232
+1500 South 10th Street, Louisville, KY:
+  lat: 38.2267938
+  lng: -85.772329
 1500 South 11th Street, Louisville, KY:
   lat: 38.227182
   lng: -85.774088
@@ -6359,6 +6365,9 @@
 ? 1600 South 13th Street, involving an argument between a caller and a male individual.
   The caller expressed an unwillingness, Louisville, KY
 : null
+1600 South 31st Street, Louisville, KY:
+  lat: 38.2297704
+  lng: -85.8076071
 1600 South 39th Street and West Market, Louisville, KY: null
 ? 1600 South 39th Street and West Market. Upon arrival, the fire department was informed
   that their assistance was no longer required as the owner could manage the minor
@@ -8649,6 +8658,9 @@
 200 S Hancock St, Louisville, KY:
   lat: 38.2531474
   lng: -85.7426966
+200 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 200 Shepard's River Rd, Louisville, KY: null
 ? 200 Shepard's River Rd. The person, described as a male in his 60s wearing a black
   metal, black coat, and blue jeans, was allegedly attempting, Louisville, KY
@@ -17402,6 +17414,7 @@
   and provide care to the patient., Louisville, KY
 : null
 4100 Craig Ave, between Crop St and Alma Ave,, Louisville, KY: null
+4100 Creighton, Louisville, KY: null
 4100 Cumberland Lake Cir, Louisville, KY: null
 4100 Dellafay Dr, Louisville, KY:
   lat: 38.1587447
