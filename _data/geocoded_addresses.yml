@@ -317,6 +317,9 @@
   lng: -85.7633871
 100 East Kingston, Department 4, Louisville, KY: null
 100 East Kingston, Louisville, KY: null
+100 East Market, Louisville, KY:
+  lat: 38.2544597
+  lng: -85.7516001
 100 East Muhammad, Beahl Blvd, Louisville, KY: null
 ? 100 East Saint Catharine Street following reports of an individual heard screaming
   near a pink door. Officers were dispatched to investigate the disturbance., Louisville,
@@ -9201,6 +9204,7 @@
 200 the eastbound lanes. Emergency units were on standby with Metro. The details, Louisville, KY: null
 200 the location, who stated they were alright, and officers cleared the scene, Louisville, KY: null
 200 west ramp from I-64, Louisville, KY: null
+200 west ramp, Louisville, KY: null
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
@@ -9310,6 +9314,7 @@
 2000 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
+2000 Dodge Charger, Louisville, KY: null
 2000 Dodge Ram, Louisville, KY: null
 2000 Douglass Blvd, Louisville, KY:
   lat: 38.2247267
@@ -13379,6 +13384,9 @@
 3000 Jefferson Green Dr due, Louisville, KY: null
 3000 Jefferson Green Dr, Louisville, KY: null
 3000 Jefferson Green, Louisville, KY: null
+3000 Juniper Hill, Louisville, KY:
+  lat: 38.24284
+  lng: -85.679935
 3000 K long drive, Louisville, KY: null
 ? 3000 Kersel Road. Responding units arrived to investigate the alarm at Honey Brothers.
   The situation was assessed by responding personnel., Louisville, KY
@@ -21590,6 +21598,9 @@
   lat: 38.1543846
   lng: -85.6118433
 600 Flat Rock Rd near Turtle Peak Trail and Gunn Lake Drive, Louisville, KY:
+  lat: 38.2458817
+  lng: -85.4454988
+600 Flat Rock Rd, Louisville, KY:
   lat: 38.2458817
   lng: -85.4454988
 600 Gaines Avenue, Louisville, KY: null
