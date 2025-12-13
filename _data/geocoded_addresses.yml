@@ -5447,6 +5447,9 @@
 1400 West Jefferson, Louisville, KY:
   lat: 38.2553466
   lng: -85.7740103
+1400 West Market, Louisville, KY:
+  lat: 38.256993
+  lng: -85.773508
 1400 Willow Ave was assessed by EMS, Louisville, KY: null
 1400 Willow Ave, Louisville, KY:
   lat: 38.2357366
@@ -8626,6 +8629,10 @@
   lat: 38.2721361
   lng: -85.7929587
 200 Preston Hwy and 1000 block of McDonald's, Louisville, KY: null
+? 200 Preston Hwy. The vehicle was last seen heading north along the railroad tracks.
+  Officers are actively searching, Louisville, KY
+: lat: 38.1819023
+  lng: -85.7203622
 200 Ramp, Louisville, KY:
   lat: 38.2621141
   lng: -85.7378387
@@ -11801,6 +11808,9 @@
   lat: 38.2213043
   lng: -85.6824688
 2700 Blinken Baker Parkway and Nipper and Company, Louisville, KY: null
+2700 Brighton Dr, Louisville, KY:
+  lat: 38.2165253
+  lng: -85.6694432
 2700 Broadway. The individual was reportedly refusing, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -28244,6 +28254,7 @@ Barrett Ln and Christie Ave, Louisville, KY: null
 Barshtown Road and Eastern Parkway, Louisville, KY: null
 Bartham Road and Dorton Dr, Louisville, KY: null
 Bashford Manor Ln and Newburg Rd, Louisville, KY: null
+Bashrick Manor Lane and Bardstown Rd, Louisville, KY: null
 Bauer Ave and Amy Ave, Louisville, KY: null
 Baxter Ave and Beechwood Rd, Louisville, KY: null
 Baxter Ave and Christie Ave, Louisville, KY: null
