@@ -10168,6 +10168,9 @@
 2200 Date St. It was clarified that the patient's niece had called, Louisville, KY:
   lat: 38.2429123
   lng: -85.7894705
+2200 Dearing Ct, Louisville, KY:
+  lat: 38.240482
+  lng: -85.718849
 2200 Deer Path Cir, Louisville, KY: null
 2200 Deer Path Cir. Additional units were assigned, Louisville, KY: null
 2200 Dixie Hwy, Louisville, KY:
@@ -16552,6 +16555,7 @@
   lat: 38.2348065
   lng: -85.4928995
 400 Lewis Coleman Jr, Louisville, KY: null
+400 Lightfoot Rd, cross with Mayfair Ln and Basswood Ln, Louisville, KY: null
 ? 400 Lindsay Ct following a report of an unresponsive male found in a bathtub. Responders
   encountered difficulty accessing the individual due to a locked door., Louisville,
   KY
@@ -16631,6 +16635,9 @@
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
   lng: -85.7702303
+400 Ohio near South 45 at Cecil Ave, Louisville, KY:
+  lat: 38.1063316
+  lng: -85.8952345
 400 Olenda Ave, Utah, Louisville, KY: null
 400 Oxy Rd, Louisville, KY:
   lat: 38.2209779
@@ -17828,6 +17835,7 @@
   lat: 38.1951223
   lng: -85.7653057
 4200 South Second Street, Louisville, KY: null
+4200 South White Barrett, Wayside Ave, Louisville, KY: null
 4200 South2nd Street, Louisville, KY: null
 4200 South3rd Street, Louisville, KY:
   lat: 38.1951223
@@ -28625,6 +28633,7 @@ Mary Catherine Dr and Ecton Ln, Louisville, KY: null
 Mason Rd and Belmont Rd, Louisville, KY: null
 Mason Rd and Chenoweth Run Rd, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
+Mayfair Ln and Basswood Ln, Louisville, KY: null
 Mayfield Rd and Dillon Road, Louisville, KY: null
 Meadow Dr and Terrier Ln, Louisville, KY: null
 Meadow Hill Rd and Pounds Ln, Louisville, KY: null
