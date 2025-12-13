@@ -1846,6 +1846,9 @@
 1000 Seatonville Rd, Louisville, KY:
   lat: 38.1431383
   lng: -85.5614901
+1000 Shining Willow Dr, Louisville, KY:
+  lat: 38.2886807
+  lng: -85.5661889
 1000 South 15th Street, Louisville, KY:
   lat: 38.241236
   lng: -85.777725
@@ -11804,6 +11807,7 @@
   lat: 38.210579
   lng: -85.768087
 2700 South Center Street, Louisville, KY: null
+2700 South Forth, Louisville, KY: null
 2700 South Park, Louisville, KY:
   lat: 38.1125689
   lng: -85.7477389
@@ -14956,6 +14960,7 @@
 3600 Logs Town Road, Louisville, KY: null
 3600 Mall Rd, Louisville, KY: null
 3600 Man Flip Road, Louisville, KY: null
+3600 Man's Lake Road, Louisville, KY: null
 3600 Manflick Street, near the 900 block. A male caller reported that a female was refusing, Louisville, KY: null
 3600 Manslick Rd, Louisville, KY:
   lat: 38.1953487
@@ -21484,6 +21489,9 @@
 600 East Broadway, Louisville, KY:
   lat: 38.2446184
   lng: -85.7432819
+600 East Burnett, Louisville, KY:
+  lat: 38.2254263
+  lng: -85.7467887
 600 East W Brandeis Ave in response, Louisville, KY: null
 600 East W Chestnut St and South Crescent Street, Louisville, KY: null
 600 East W Chestnut St in Dallas, Louisville, KY: null
@@ -26031,6 +26039,9 @@
 8300 Phillips Ln. His mother expressed concern due, Louisville, KY:
   lat: 38.1901008
   lng: -85.7477013
+8300 Preston Hwy, Louisville, KY:
+  lat: 38.133621
+  lng: -85.684199
 8300 Rest of Lane, Louisville, KY: null
 8300 Round Hill Rd, Louisville, KY: null
 8300 Scarlet Rose Ct, Louisville, KY: null
@@ -27484,6 +27495,9 @@
 9500 Magnolia Ridge Dr, Louisville, KY:
   lat: 38.1377519
   lng: -85.5954601
+9500 Maple Rd near Yellow Pine Dr, Louisville, KY:
+  lat: 38.110447
+  lng: -85.645779
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
@@ -28442,6 +28456,7 @@ Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
 Rd Street Rd and Euclid Ave, Louisville, KY: null
 Reeves Rd and Isaacs Road, Louisville, KY: null
+Regal Dr and Riata Dr, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
