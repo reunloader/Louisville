@@ -272,6 +272,9 @@
 100 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+100 E W Market St near White Castle, Louisville, KY:
+  lat: 38.2554323
+  lng: -85.7586619
 100 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -7444,6 +7447,9 @@
 1900 Cerberich Circle, Louisville, KY: null
 1900 Crimson Dr, Louisville, KY: null
 1900 Crop Hollow View, Louisville, KY: null
+1900 Crop St, Louisville, KY:
+  lat: 38.259998
+  lng: -85.781397
 1900 Crossroads 1st and Shorewood McDonald's, Louisville, KY: null
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
