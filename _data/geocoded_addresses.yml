@@ -957,6 +957,9 @@
 100 W Liberty St at Papa John’s, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+100 W Liberty St near South 12th and South 11th, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 100 W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -14617,6 +14620,12 @@
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
+3400 Taylor Blvd near Sale Ave and Longfield Ave, Louisville, KY:
+  lat: 38.1995175
+  lng: -85.7829642
+3400 Taylor Blvd near hospital ER, Louisville, KY:
+  lat: 38.1995175
+  lng: -85.7829642
 3400 Taylor Blvd, Louisville, KY:
   lat: 38.1995175
   lng: -85.7829642
@@ -19248,6 +19257,7 @@
 4900 Cherry Forest Cir, Louisville, KY:
   lat: 38.3046014
   lng: -85.5175142
+4900 Dix, Louisville, KY: null
 4900 Dixie Highway, Evening, Louisville, KY: null
 4900 Dixie Hwy, Louisville, KY:
   lat: 38.1710866
@@ -21420,6 +21430,9 @@
 6 Seville Dr, Louisville, KY:
   lat: 38.1140967
   lng: -85.8526359
+6 Wooded Acre Ln, Louisville, KY:
+  lat: 38.2970412
+  lng: -85.50779
 6 address not specified, Louisville, KY: null
 60 Autumn Lake Dr, Louisville, KY:
   lat: 38.0716654
@@ -26549,6 +26562,7 @@
 8800 Talon Ridge Dr, Louisville, KY:
   lat: 38.086445
   lng: -85.603933
+8809 Peterborough Dr, Louisville, KY: null
 8900 Bobrader Ct, Louisville, KY: null
 8900 Cedar Creek Rd, Louisville, KY:
   lat: 38.1182448
@@ -28366,6 +28380,7 @@ Goss Ave and Spratt St, Louisville, KY: null
 Grade Ln and Don Hutson Blvd, Louisville, KY: null
 Grafton Hall Rd and Cherokee Rd, Louisville, KY: null
 Grand Ave and Taylor Blvd, Louisville, KY: null
+Grange Rd and Villa Grove Dr, Louisville, KY: null
 Grange Road and Nelson Miller Pky, Louisville, KY: null
 Granger Rd and Factory Ln, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
@@ -28640,6 +28655,7 @@ Rosehurst Farm Parkway and Olme State Station Road, Louisville, KY: null
 Roselane St and Nogonquin Parkway, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
+Sale Ave and Longfield Ave, Louisville, KY: null
 Same Pit Lane and Sand Lake Dr, Louisville, KY: null
 Sanford Paws Drive and Mount Washington Rd, Louisville, KY: null
 Scarborough Ave and Greyling Dr, Louisville, KY: null
