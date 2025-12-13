@@ -184,6 +184,7 @@
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
+100 Charlestown Ct, Louisville, KY: null
 100 Charlie and 100 block of Baker, Louisville, KY: null
 100 Charlie and 100 block of Baker, were en route, Louisville, KY: null
 100 Charlie, Louisville, KY:
@@ -3795,6 +3796,7 @@
   lng: -85.7436468
 1200 South Crescent Street, Louisville, KY: null
 1200 South Crestle Street, Louisville, KY: null
+1200 South Creston, Louisville, KY: null
 1200 South Ferry Street, Hillbring House, Louisville, KY: null
 1200 South Firstree, Louisville, KY: null
 1200 South Jackson, Louisville, KY:
@@ -6793,6 +6795,7 @@
 1700 West Kentucky, near 17th and Salem. Two individuals were detained, and a vehicle that attempted, Louisville, KY:
   lat: 38.241855
   lng: -85.783285
+1700 West Longsea Avenue, Louisville, KY: null
 1700 West Market, Louisville, KY:
   lat: 38.257543
   lng: -85.778452
@@ -12828,6 +12831,9 @@
 300 New Cut Rd, Louisville, KY:
   lat: 38.1574318
   lng: -85.7779933
+300 North 22nd Street, Louisville, KY:
+  lat: 38.262708
+  lng: -85.785939
 300 North 24th Street, Louisville, KY:
   lat: 38.263073
   lng: -85.789242
