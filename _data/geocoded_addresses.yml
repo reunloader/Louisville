@@ -6466,6 +6466,9 @@
 16200 Shelbyville Rd, Louisville, KY:
   lat: 38.233555
   lng: -85.453095
+16400 Donnington Ct, Louisville, KY:
+  lat: 38.238878
+  lng: -85.448613
 1661 Garland Avenue, Louisville, KY:
   lat: 38.2433686
   lng: -85.7810275
@@ -7269,6 +7272,9 @@
 1800 Portland Ave, Louisville, KY:
   lat: 38.2643015
   lng: -85.777583
+1800 Ratcliffe Ave, Louisville, KY:
+  lat: 38.219213
+  lng: -85.794329
 1800 Rodman St, Louisville, KY:
   lat: 38.208268
   lng: -85.7700736
@@ -16557,6 +16563,7 @@
 400 North20th Street, Louisville, KY:
   lat: 38.2636644
   lng: -85.7824983
+400 North34, Louisville, KY: null
 400 Northgate Rd involving an 84-year-old female who was having trouble breathing, Louisville, KY: null
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
@@ -17441,6 +17448,9 @@
   lng: -85.8185
 4100 Leave, Louisville, KY: null
 4100 Linda and Clay, Louisville, KY: null
+4100 Mercury Dr, Louisville, KY:
+  lat: 38.1586946
+  lng: -85.6092097
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
@@ -21385,6 +21395,7 @@
   lat: 38.1572617
   lng: -85.8607252
 5900 Hunting Rd, Louisville, KY: null
+5900 Lines of Paris Dr, Louisville, KY: null
 5900 Lions Arms Dr, Louisville, KY: null
 5900 Mercury Dr, Louisville, KY:
   lat: 38.1629609
@@ -22748,6 +22759,7 @@
 6400 Riverdale Rd, Louisville, KY:
   lat: 38.0946276
   lng: -85.884
+6400 South Waterston Trail, Louisville, KY: null
 ? 6400 Southern Farm Blvd, near the intersection of Northbound Drive and Welman Dr.
   Responding units provided assistance, Louisville, KY
 : lat: 38.1953886
