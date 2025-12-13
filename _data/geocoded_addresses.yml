@@ -5909,6 +5909,9 @@
 1500 South, Louisville, KY:
   lat: 38.2267319
   lng: -85.7751412
+1500 South10th Street, Louisville, KY:
+  lat: 38.2267938
+  lng: -85.772329
 1500 South11th Street, Louisville, KY: null
 1500 South12th Street, Louisville, KY:
   lat: 38.2267625
@@ -13817,6 +13820,7 @@
 3100 North35th Street near Rowan and Main, Louisville, KY:
   lat: 38.2735722
   lng: -85.804438
+3100 Northhurst Farm Parkway, Louisville, KY: null
 3100 Northland Dr, Louisville, KY:
   lat: 38.196879
   lng: -85.836524
