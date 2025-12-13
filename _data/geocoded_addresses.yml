@@ -1063,6 +1063,7 @@
   KY
 : lat: 38.2575113
   lng: -85.7629961
+100 West Weather Spoon, Louisville, KY: null
 100 West, at Langland Pl, Louisville, KY: null
 ? 100 West, near Langland Pl. The fire was reported to be small and was extinguished
   by Engine 187. All units were cleared of service shortly after., Louisville, KY
@@ -2601,6 +2602,7 @@
 1100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+1100 Cristland Rd, Signature Nursing Home, Louisville, KY: null
 1100 Dorsey Ln, Louisville, KY:
   lat: 38.263411
   lng: -85.5633473
@@ -9020,6 +9022,9 @@
 200 West. The vehicle was observed, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 Westbound at Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 200 Westbound at Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
