@@ -572,6 +572,7 @@
 100 North 38th Street, Louisville, KY:
   lat: 38.2634695
   lng: -85.8118587
+100 North 40 Zerv, Louisville, KY: null
 100 North 41st Street for a medical emergency involving a 66-year-old male who might be having a stroke., Louisville, KY: null
 100 North 41st Street, Louisville, KY:
   lat: 38.264633
@@ -743,6 +744,9 @@
 100 Radio, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
+100 River Rd, Louisville, KY:
+  lat: 38.2750509
+  lng: -85.7028488
 100 Rowan St and nearby addresses, Louisville, KY: null
 ? 100 Royal Court. The incident occurred in the evening, and the suspect was seen
   fleeing the scene. The suspect reportedly headed towards a nearby alleyway after
@@ -25590,6 +25594,9 @@
 800 I 64 East, Louisville, KY: null
 800 I 64 West, Louisville, KY: null
 800 I-65 North, Louisville, KY: null
+800 Iroquois Ave, Louisville, KY:
+  lat: 38.1675381
+  lng: -85.7779081
 800 Iroquois Avenue 05:34 p, Louisville, KY: null
 800 Iroquois Avenue 05:34 p.m., Louisville, KY: null
 800 Jenny Lindrob near D Road, Louisville, KY: null
