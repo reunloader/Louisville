@@ -5266,6 +5266,9 @@
 1400 Selinda Ave near Oleanda Ct, Louisville, KY:
   lat: 38.189245
   lng: -85.700855
+1400 Selinda Ave, Louisville, KY:
+  lat: 38.189245
+  lng: -85.700855
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -6630,6 +6633,9 @@
 1700 Magazine St, Louisville, KY:
   lat: 38.2498828
   lng: -85.7798115
+1700 Mary St, Louisville, KY:
+  lat: 38.2344233
+  lng: -85.7405196
 1700 Meadow Lane Ct, Louisville, KY: null
 ? 1700 Mellwood Ave following an alarm activation. Upon arrival, responders found
   no signs of a fire. The incident was quickly determined, Louisville, KY
@@ -7939,6 +7945,7 @@
   lat: 38.2593424
   lng: -85.6883421
 200 Cumberland Lake Cir, Louisville, KY: null
+200 Dale Tucker Lane, Louisville, KY: null
 200 Derby Ave, Louisville, KY:
   lat: 38.1895405
   lng: -85.6367535
@@ -13032,6 +13039,9 @@
 300 North38th Street. Police units were sent, Louisville, KY:
   lat: 38.2669665
   lng: -85.8114421
+300 Old Bardstown Rd, Louisville, KY:
+  lat: 38.1107784
+  lng: -85.5701284
 300 Old Dixie Hwy, investigating the source of the CO alarms, Louisville, KY: null
 300 Old Dixie Hwy, investigating the source of the CO alarms., Louisville, KY: null
 300 Oread Rd, Louisville, KY: null
@@ -17622,6 +17632,9 @@
 4200 Browns Ln. This incident involved a 78-year-old male who had fallen. He was described as paralyzed, Louisville, KY:
   lat: 38.2212774
   lng: -85.6217664
+4200 Bubbling Overdrive near Camp Ground Rd, Louisville, KY:
+  lat: 38.2141038
+  lng: -85.8263688
 ? 4200 Camp Ground Rd after receiving a report of individuals attempting to break
   into vehicles. The suspects, described as two people, fled the scene in a small,
   white, box-shaped vehicle with tinted windows and black trim, heading south on Camp
@@ -21147,6 +21160,9 @@
 5600 Greenbluff Rd, Louisville, KY:
   lat: 38.14866
   lng: -85.6559586
+5600 Greenwood Rd, Louisville, KY:
+  lat: 38.144275
+  lng: -85.859567
 5600 Harrods Glen, Louisville, KY:
   lat: 38.3254394
   lng: -85.6055802
