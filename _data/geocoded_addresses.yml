@@ -691,6 +691,7 @@
 100 Ottawa Ave, Louisville, KY:
   lat: 38.187883
   lng: -85.761557
+100 Out On, Louisville, KY: null
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
@@ -2957,6 +2958,9 @@
   lat: 38.0802233
   lng: -85.7962565
 1100 Travillion Way, Louisville, KY: null
+1100 Ulrich Ave, Louisville, KY:
+  lat: 38.1578742
+  lng: -85.7037451
 1100 Vesper Ln, Louisville, KY:
   lat: 38.1052658
   lng: -85.8662311
@@ -7328,6 +7332,7 @@
 : null
 1800 South Hirsborne Parkway, Louisville, KY: null
 1800 South Third Street, Louisville, KY: null
+1800 South West 14th Ave, Louisville, KY: null
 1800 South3rd Street, Louisville, KY: null
 1800 Southbrook Street, Louisville, KY: null
 1800 Southwestern Pky, near the intersection with Herman St and W Market St, Louisville, KY:
@@ -9329,6 +9334,9 @@
   lat: 38.259507
   lng: -85.707085
 2000 Brownsboro Rd., Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
+2000 Brownsboro, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
 2000 Caldwell St, Louisville, KY:
@@ -19211,6 +19219,9 @@
   lat: 38.1626202
   lng: -85.6833215
 4800 Sherburn Ln, Louisville, KY: null
+4800 Simpson Dr, Louisville, KY:
+  lat: 38.1825206
+  lng: -85.6729724
 4800 South 3rd Street, Louisville, KY:
   lat: 38.1784756
   lng: -85.7671303
