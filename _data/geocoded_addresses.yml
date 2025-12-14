@@ -8903,6 +8903,9 @@
 200 W Magnolia Ave, Louisville, KY:
   lat: 38.228798
   lng: -85.759048
+200 W Main St, Louisville, KY:
+  lat: 38.2562
+  lng: -85.75344
 200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
@@ -14439,6 +14442,9 @@
 3300 Can't Ground Road, Louisville, KY: null
 3300 Can't Ground Road, near Crusherad,, Louisville, KY: null
 3300 Canoran Road, Louisville, KY: null
+3300 Cathe Dykstra Way, Louisville, KY:
+  lat: 38.1921668
+  lng: -85.8509711
 3300 Cathy Dexter Way, Louisville, KY: null
 3300 Clarinet Dr near Oboe Dr, Louisville, KY:
   lat: 38.1922651
@@ -23598,6 +23604,7 @@
   lng: -85.8377877
 6900 East Highway 62, Louisville, KY: null
 6900 East Highway 62. Responding units were dispatched, Louisville, KY: null
+6900 Enterprise Dr, Huntsong Meck Back Building, Louisville, KY: null
 6900 Enterprise Dr, Louisville, KY:
   lat: 38.1522169
   lng: -85.7552979
@@ -28208,6 +28215,9 @@
 9800 Silo Ct, Louisville, KY:
   lat: 38.1298699
   lng: -85.5942302
+9800 Silverwood Ln, Louisville, KY:
+  lat: 38.112441
+  lng: -85.828388
 9800 Somerford Rd, Louisville, KY: null
 9800 Spring Gate Dr, Louisville, KY:
   lat: 38.3076087
@@ -28318,6 +28328,7 @@ Argetown Road and Grinstead Dr, Louisville, KY: null
 Arlington Ave and Lonsdale Ave, Louisville, KY: null
 Ash Ave and South Central Ave, Louisville, KY: null
 Ashbrooke Gardens Dr and Garden Trace Dr, Louisville, KY: null
+Ashby Ln and Twilight Dr, Louisville, KY: null
 Ashland Ave and Kathleen Ave, Louisville, KY: null
 Ashland Ave and Taylor Blvd, Louisville, KY: null
 Ashwood Dr and Monkford Drive, Louisville, KY: null
