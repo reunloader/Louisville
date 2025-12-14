@@ -3820,6 +3820,9 @@
 1200 South 1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
+1200 South 2, Louisville, KY:
+  lat: 38.23524
+  lng: -85.7640086
 ? 1200 South 2nd Street at the Center for Women and Families. The initial report indicated
   a 9-1-1 hang-up call, and the caller was reportedly in a conference room or guest
   shelter area. It was understood that a dispute was occurring between residents and
@@ -6032,6 +6035,9 @@
 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting, Louisville, KY:
   lat: 38.220888
   lng: -85.738448
+1500 Trotters Pointe Dr, Louisville, KY:
+  lat: 38.3198511
+  lng: -85.5580633
 1500 W Chestnut St, Louisville, KY:
   lat: 38.2508017
   lng: -85.7763382
@@ -7608,6 +7614,7 @@
 1900 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
+1900 Farnsley Lane near Chase Rd and Dixie Hwy, Louisville, KY: null
 1900 First Parkway, Louisville, KY: null
 1900 Ford Ranger, Louisville, KY: null
 1900 Fountain Dr. A check of the license plate revealed it was registered, Louisville, KY: null
@@ -8058,6 +8065,9 @@
 200 Claremont Ave, Louisville, KY:
   lat: 38.2568138
   lng: -85.6770385
+200 Cloverwood Ln, Louisville, KY:
+  lat: 38.1662495
+  lng: -85.5828141
 200 Collier, Louisville, KY:
   lat: 38.1193287
   lng: -85.5990283
@@ -25900,6 +25910,9 @@
   lat: 38.1686412
   lng: -85.5627268
 800 Cross your Sherry Lynn Ct, Louisville, KY: null
+800 Cut Road, Louisville, KY:
+  lat: 38.1182679
+  lng: -85.7761923
 800 David Street, Louisville, KY: null
 800 Deering Rd, Louisville, KY:
   lat: 38.0906197
