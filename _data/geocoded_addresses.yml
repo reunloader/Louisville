@@ -5477,6 +5477,7 @@
   The situation was resolved by responding units., Louisville, KY
 : null
 1400 South Second Street. The specific unit involved was number two. Officers were present, Louisville, KY: null
+1400 South Third St, Louisville, KY: null
 1400 South1st Street, Louisville, KY:
   lat: 38.228491
   lng: -85.7567193
@@ -6945,6 +6946,7 @@
   involved in managing the situation and arranging, Louisville, KY
 : null
 1700 South Second Street, Louisville, KY: null
+1700 South13, Louisville, KY: null
 1700 South13th Street, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
@@ -24541,6 +24543,9 @@
   lat: 38.244568
   lng: -85.739634
 700 Shallow Lake Rd, Louisville, KY: null
+700 Shelby Pkwy, Louisville, KY:
+  lat: 38.231952
+  lng: -85.743079
 700 Shiloh Trail, Louisville, KY: null
 700 South 11th Street, Louisville, KY:
   lat: 38.247204
@@ -26121,6 +26126,9 @@
 800 Ferndale Rd, Louisville, KY:
   lat: 38.1556282
   lng: -85.6023088
+800 Flicker Rd, Louisville, KY:
+  lat: 38.1304445
+  lng: -85.7813562
 800 Forrest St, Louisville, KY:
   lat: 38.221639
   lng: -85.74239
