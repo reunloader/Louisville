@@ -150,6 +150,9 @@
 100 Benson Ln near Glyndon Way, Louisville, KY:
   lat: 38.0952198
   lng: -85.8636046
+100 Bermuda Ln, Louisville, KY:
+  lat: 38.159899
+  lng: -85.713238
 100 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
@@ -14437,6 +14440,9 @@
 3200 South Hampton Rd, Louisville, KY: null
 3200 South Hampton Rd., Louisville, KY: null
 3200 South Third Street Road, Louisville, KY: null
+3200 South, Louisville, KY:
+  lat: 38.1928874
+  lng: -85.8375928
 3200 Springstead Cir, Louisville, KY:
   lat: 38.2934972
   lng: -85.5792821
@@ -15266,6 +15272,7 @@
   no visible signs of fire from the north and west sides of the building. The alarm
   was subsequently canceled., Louisville, KY
 : null
+3600 Dutchmans Ln, 300 block of Fair Dutchman, Louisville, KY: null
 3600 Elderwood Way, Louisville, KY:
   lat: 38.194307
   lng: -85.800852
@@ -20300,6 +20307,7 @@
 500 South Blue Street in the Loomhead area. Officers responded, Louisville, KY: null
 500 South Blue Street, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
+500 South Jacks, Louisville, KY: null
 500 South Jackson, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
@@ -24984,6 +24992,9 @@
 7200 Dixie Hwy, Louisville, KY:
   lat: 38.1465645
   lng: -85.8388245
+7200 Egypt Ln, Louisville, KY:
+  lat: 38.1457881
+  lng: -85.6870815
 7200 Global Dr, Louisville, KY:
   lat: 38.1378541
   lng: -85.8923291
@@ -26358,6 +26369,9 @@
   lat: 38.1360048
   lng: -85.7827411
 8000 Cedar Creek at Hagen Properties, Louisville, KY:
+  lat: 38.1300765
+  lng: -85.5873465
+8000 Cedar Creek, Louisville, KY:
   lat: 38.1300765
   lng: -85.5873465
 8000 Cedar Meadows Ln, Louisville, KY: null
