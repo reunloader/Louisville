@@ -5472,6 +5472,7 @@
   lat: 38.226711
   lng: -85.746823
 1400 South Lloyd Street, Louisville, KY: null
+1400 South Rope Street, Louisville, KY: null
 1400 South Second Street 9:00 a, Louisville, KY: null
 1400 South Second Street 9:00 a.m., Louisville, KY: null
 1400 South Second Street, Louisville, KY: null
@@ -6905,6 +6906,9 @@
 1700 S Preston St, Louisville, KY:
   lat: 38.2221054
   lng: -85.7501885
+1700 S Shelby St. EMS and police units arrived, Louisville, KY:
+  lat: 38.2210582
+  lng: -85.743644
 1700 Sadie Ln, Louisville, KY:
   lat: 38.1806477
   lng: -85.8101697
@@ -19003,6 +19007,7 @@
   Rd. This incident raised concerns, Louisville, KY
 : lat: 38.1315529
   lng: -85.6140436
+4500 Pregnant Drive at the airport hangar, Louisville, KY: null
 4500 Preston Hwy. Police units responded, Louisville, KY:
   lat: 38.1836507
   lng: -85.7219049
@@ -21270,6 +21275,7 @@
   lat: 38.3202762
   lng: -85.5376281
 5300 Youthwood Avenue, Louisville, KY: null
+5300 location, Louisville, KY: null
 5301 Milner Rd, Louisville, KY:
   lat: 38.1621035
   lng: -85.8350295
