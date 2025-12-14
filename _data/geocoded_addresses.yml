@@ -13012,6 +13012,9 @@
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
   lng: -85.6333594
+300 Longview Park Pl near Longview Park Ln, Louisville, KY:
+  lat: 38.2388679
+  lng: -85.4242254
 300 Loudon Trice, Louisville, KY: null
 300 Magazine St between South 11th St and South 10th St, Louisville, KY: null
 300 Manchester and 1000 block of East Indian Trail, Louisville, KY: null
@@ -14797,6 +14800,7 @@
   lat: 38.2298162
   lng: -85.7173581
 35 South Baylor Avenue, Louisville, KY: null
+35 West Bank Road, Louisville, KY: null
 350 [Street Name Missing], Louisville, KY: null
 3500 10 Run Road, Louisville, KY:
   lat: 38.1972047
@@ -22166,6 +22170,9 @@
 600 South28th Street, Louisville, KY:
   lat: 38.253236
   lng: -85.797728
+600 South29th Street, Louisville, KY:
+  lat: 38.252119
+  lng: -85.7996
 600 South3rd Street near the brown parking garage, Louisville, KY:
   lat: 38.2486074
   lng: -85.7563848
