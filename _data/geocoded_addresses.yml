@@ -3883,6 +3883,9 @@
   lat: 38.23365
   lng: -85.747679
 1200 South Orchard, Louisville, KY: null
+1200 South Preston, Louisville, KY:
+  lat: 38.233888
+  lng: -85.7496363
 1200 South Second Street, Louisville, KY: null
 1200 South St, Louisville, KY:
   lat: 38.2182659
@@ -13819,6 +13822,9 @@
 3100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+3100 Elliott Ave, Louisville, KY:
+  lat: 38.251454
+  lng: -85.803544
 3100 Equity Pl, Louisville, KY: null
 3100 Evans St, Louisville, KY:
   lat: 38.2298984
