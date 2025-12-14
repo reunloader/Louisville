@@ -17,6 +17,9 @@
   lat: 38.1125665
   lng: -85.8631151
 0 Irowick, Louisville, KY: null
+0 Lavenia**, Louisville, KY:
+  lat: 38.0796477
+  lng: -85.873127
 0 St, Louisville, KY: null
 0 Tway Way, Louisville, KY:
   lat: 38.2067552
@@ -19135,6 +19138,9 @@
 4600 Wattbourne Ln, Louisville, KY:
   lat: 38.1849936
   lng: -85.6053241
+4600 West Broadway**, Louisville, KY:
+  lat: 38.2503752
+  lng: -85.8298905
 4600 West Marcus Street, Louisville, KY: null
 4600 Westchester Ave, Louisville, KY:
   lat: 38.245751
@@ -24489,6 +24495,9 @@
 700 W Jefferson St, specifically at the Judicial Center,, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
+700 W Main St**, Louisville, KY:
+  lat: 38.256802
+  lng: -85.7618553
 700 W Main St, Louisville, KY:
   lat: 38.2568019
   lng: -85.7618553
@@ -27408,6 +27417,7 @@
 900 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+900 South of New Orleans**, Louisville, KY: null
 900 South25th Street, Louisville, KY:
   lat: 38.243366
   lng: -85.793868
