@@ -182,6 +182,9 @@
 100 Brick Kiln Ln, Louisville, KY:
   lat: 38.1694246
   lng: -85.8241258
+100 Broadway, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
@@ -8047,6 +8050,9 @@
 ? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
+200 Claremont Ave, Louisville, KY:
+  lat: 38.2568138
+  lng: -85.6770385
 200 Collier, Louisville, KY:
   lat: 38.1193287
   lng: -85.5990283
@@ -16303,6 +16309,7 @@
   lng: -85.7584952
 400 Banker and the 400 block of Charlie, Louisville, KY: null
 400 Banker and the 400 block of Charlie., Louisville, KY: null
+400 Barch Down Rd, Louisville, KY: null
 400 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -18700,6 +18707,9 @@
 4500 Balaton Dr, Louisville, KY:
   lat: 38.171553
   lng: -85.676583
+4500 Bardstown Rd, Louisville, KY:
+  lat: 38.1825231
+  lng: -85.6302377
 4500 Beechbrook Rd, Louisville, KY:
   lat: 38.183585
   lng: -85.641503
@@ -20194,6 +20204,9 @@
 500 S S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
+500 Saxony Park Cir, Louisville, KY:
+  lat: 38.1846065
+  lng: -85.5215064
 500 School Way, Louisville, KY:
   lat: 38.172603
   lng: -85.772021
@@ -27016,6 +27029,9 @@
   The responding officer investigated the circumstances surrounding the vehicle's
   presence., Louisville, KY
 : null
+8900 Ferndale Rd, Louisville, KY:
+  lat: 38.1549733
+  lng: -85.5950175
 8900 Fox Chase Pl, Louisville, KY:
   lat: 38.116156
   lng: -85.610862
