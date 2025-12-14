@@ -2357,6 +2357,9 @@
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+10300 Trotters Pointe Dr, Louisville, KY:
+  lat: 38.318989
+  lng: -85.559989
 10300 West4 Road, Louisville, KY: null
 10300 Westport Rd near Thorntons, Louisville, KY:
   lat: 38.2928985
@@ -14436,6 +14439,7 @@
   personnel., Louisville, KY
 : null
 3200 Utah Avenue following a report of a medical emergency. Upon arrival, fire and EMS units attended, Louisville, KY: null
+3200 Vale Wood Ct, Louisville, KY: null
 3200 Vermont Ave, Louisville, KY:
   lat: 38.255356
   lng: -85.806355
@@ -21388,6 +21392,9 @@
 : lat: 38.1642573
   lng: -85.5986147
 5600 Barrett and Charlie's Flight, Louisville, KY: null
+5600 Brinson Dr, Louisville, KY:
+  lat: 38.1703588
+  lng: -85.8171422
 5600 Brokers Tip Ln, Louisville, KY:
   lat: 38.1205947
   lng: -85.8738843
