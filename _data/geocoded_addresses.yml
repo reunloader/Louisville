@@ -410,6 +410,7 @@
 100 Hartwell Ct, an area near Terry Pl and Teresa Pl. Further details, Louisville, KY: null
 100 Hartwell Ct, suggesting a disruptive situation in an apartment complex. Police units were sent, Louisville, KY: null
 100 Hassan Taylor, Louisville, KY: null
+100 Henry Adam Frank, Louisville, KY: null
 100 Highway at the Circle K near Sappenfield Way, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -8263,6 +8264,7 @@
   lng: -85.7582215
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East exit, Louisville, KY: null
+200 East from 65 South, Louisville, KY: null
 200 East from I-64 West, Louisville, KY: null
 200 East highway at the 5 mile marker, Louisville, KY: null
 200 East near Baker, Louisville, KY:
@@ -8291,6 +8293,7 @@
   situation., Louisville, KY
 : null
 200 East to Newburg Rd, Louisville, KY: null
+200 East was shut down due, Louisville, KY: null
 200 East, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -14901,6 +14904,9 @@
 3500 Craig Ave, Louisville, KY:
   lat: 38.19568
   lng: -85.789656
+3500 Curry Dr, Louisville, KY:
+  lat: 38.2660068
+  lng: -85.4389785
 3500 Dixie Hwy, Louisville, KY:
   lat: 38.1466897
   lng: -85.8382378
@@ -19519,6 +19525,7 @@
 4900 Old Dixie Hwy. A key holder was en route, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4900 Out of Loop, Louisville, KY: null
 4900 Outer Loop, Louisville, KY:
   lat: 38.1373115
   lng: -85.6687256
@@ -28380,6 +28387,7 @@ Bank St and Griffiths Ave, Louisville, KY: null
 Barchetown Rd and Fairmount Rd, Louisville, KY: null
 Barchetown Road and Waterford Rd, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
+Bardstown Rd and Beulah Church Rd, Louisville, KY: null
 Bardstown Rd and Breckenridge Ln, Louisville, KY: null
 Bardstown Rd and Brighton Dr, Louisville, KY: null
 Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
@@ -28453,6 +28461,7 @@ Blast On Road and Engine Drive, Louisville, KY: null
 Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blenheim Street and Don Allen Rd, Louisville, KY: null
 Blossomwood Dr and Esther Blvd, Louisville, KY: null
+Blue Lick Rd and Foreman Ln, Louisville, KY: null
 Blue Lick Rd and South Park Rd, Louisville, KY: null
 Bluegrass Ave and Taylor Blvd, Louisville, KY: null
 Borschtown Road and Fairmount Rd, Louisville, KY: null
@@ -28649,6 +28658,7 @@ Fern Valley Rd and Popolo Road, Louisville, KY: null
 Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
 First One Lane and North Sea Lane, Louisville, KY: null
 Flat Rock Rd and Shelbyville Rd, Louisville, KY: null
+Flicker Rd and Foreman Ln, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
 Forest Dr and Prestwood Dr, Louisville, KY: null
