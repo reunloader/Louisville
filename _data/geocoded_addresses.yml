@@ -2442,6 +2442,9 @@
 10500 Glenmary Farm Dr, Louisville, KY:
   lat: 38.127022
   lng: -85.565069
+10500 LaGrange Road, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 10500 Moonlight Way, Louisville, KY:
   lat: 38.1011616
   lng: -85.8353954
@@ -28107,6 +28110,7 @@
   lat: 38.11629
   lng: -85.861528
 9300 Galene Dr, Louisville, KY: null
+9300 Green Glade Ln, Valencia Springsway, Louisville, KY: null
 9300 Longhorn Ct, Louisville, KY:
   lat: 38.11634
   lng: -85.764177
