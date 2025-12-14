@@ -131,7 +131,7 @@ California residents have specific rights under the California Consumer Privacy 
 If you have questions about this Privacy Policy or our privacy practices, please contact us:
 
 - **Website**: [Derby City Watch](https://www.derbycitywatch.com)
-- **GitHub Issues**: [github.com/reunloader/Louisville/issues](https://github.com/reunloader/Louisville/issues)
+- **Email**: [derbycitywatch@gmail.com](mailto:derbycitywatch@gmail.com)
 
 ### Legal Compliance
 
