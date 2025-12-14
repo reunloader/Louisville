@@ -2093,6 +2093,9 @@
   lat: 38.249975
   lng: -85.76799
 1000 West Derston Street, Louisville, KY: null
+1000 West Ln near Second Street, Louisville, KY:
+  lat: 38.1312493
+  lng: -85.8759227
 ? 1000 West Main Street. Upon arrival, firefighters began their investigation to determine
   the cause of the activation. They systematically checked the premises to ensure
   there was no immediate danger. The alarm was ultimately found to be a false alarm,
@@ -7855,6 +7858,7 @@
 200 . Fortunately, no injuries were reported in this incident. Police units were dispatched, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 3rd Division area, Louisville, KY: null
 200 Abraham Flecks Northway at UofL Health ER, Louisville, KY:
   lat: 38.2496463
   lng: -85.7514083
@@ -18240,6 +18244,7 @@
 4300 South4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
+4300 Southern Pky apartment2, Louisville, KY: null
 4300 Southern Pky, Louisville, KY:
   lat: 38.1923896
   lng: -85.7671926
