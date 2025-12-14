@@ -12379,6 +12379,7 @@
 2800 Whitlock St, Louisville, KY:
   lat: 38.1581809
   lng: -85.712559
+29 Appleton Ln, Louisville, KY: null
 29 Fairground Rd, Louisville, KY:
   lat: 38.1740102
   lng: -85.5830729
@@ -21562,6 +21563,9 @@
   lat: 38.1473866
   lng: -85.6529514
 5800 William Park Road, Louisville, KY: null
+59 Sheffield Blvd, Louisville, KY:
+  lat: 38.2199798
+  lng: -85.7025042
 5900 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
