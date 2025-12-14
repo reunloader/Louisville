@@ -8433,6 +8433,10 @@
 200 Garland Ave. This incident appears, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+200 Gene Snyder, Louisville, KY:
+  lat: 38.1154735
+  lng: -85.704578
+200 Gene Snyder, leading, Louisville, KY: null
 200 Grahamville Drive, Louisville, KY: null
 200 Granvil Dr, Louisville, KY:
   lat: 38.1895335
@@ -8941,6 +8945,7 @@
 200 W Main St, Louisville, KY:
   lat: 38.2562
   lng: -85.75344
+200 W Main St, involving multiple individuals. One female was reported, Louisville, KY: null
 200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
