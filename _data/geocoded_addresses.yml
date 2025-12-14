@@ -2091,6 +2091,7 @@
 1000 West Chestnut, Louisville, KY:
   lat: 38.249975
   lng: -85.76799
+1000 West Derston Street, Louisville, KY: null
 ? 1000 West Main Street. Upon arrival, firefighters began their investigation to determine
   the cause of the activation. They systematically checked the premises to ensure
   there was no immediate danger. The alarm was ultimately found to be a false alarm,
@@ -4521,7 +4522,11 @@
 1300 Rhonda Way, Louisville, KY:
   lat: 38.184215
   lng: -85.801845
+1300 Rufer Ave across from Edward St and Barret Ave, Louisville, KY: null
 1300 Rufer Ave near Edward and Barrett, Louisville, KY:
+  lat: 38.234783
+  lng: -85.726729
+1300 Rufer Ave, Louisville, KY:
   lat: 38.234783
   lng: -85.726729
 1300 S Floyd St in response, Louisville, KY: null
@@ -6418,6 +6423,9 @@
   that their assistance was no longer required as the owner could manage the minor
   electrical overheat., Louisville, KY
 : null
+1600 South 3rd, Louisville, KY:
+  lat: 38.2244187
+  lng: -85.7608918
 ? 1600 South Hirsborne Parkway for a patient experiencing wheezing and shortness of
   air. The individual, a 66-year-old female, was potentially suffering from pneumonia.
   The location is near the I-64 ramp., Louisville, KY
@@ -8816,6 +8824,9 @@
   lng: -85.6981124
 200 South at the 22, Louisville, KY: null
 200 South due, Louisville, KY: null
+200 South near 64 West, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South near I-64, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
@@ -19173,7 +19184,9 @@
 4700 Kerrick Ln, Louisville, KY:
   lat: 38.1538871
   lng: -85.8382103
+4700 Kofar Avenue, Louisville, KY: null
 4700 Lynn Lea Rd near San Jose and Spenlia, Louisville, KY: null
+4700 Manslick Rd across from Clover Trace Pl and Bluegrass Ave, Louisville, KY: null
 4700 Maris Ln, Louisville, KY:
   lat: 38.3137905
   lng: -85.5951283
@@ -26130,6 +26143,7 @@
 800 West Broadway, Louisville, KY:
   lat: 38.246604
   lng: -85.765197
+800 West Hall V crossing Ville's West Dr and Roy Wilkins Ave, Louisville, KY: null
 800 West Lee, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
@@ -28523,6 +28537,7 @@ Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
 Bush Farm Rd and Old Henry Rd, Louisville, KY: null
+Buster Trio Avenue and Serenity Hope Dr, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
 Cain Ln and Tiny Ln, Louisville, KY: null
 Caldwell St and Birkenridge Street, Louisville, KY: null
@@ -29209,6 +29224,7 @@ Washburn Ave and Seton Hill Dr, Louisville, KY: null
 Wayside Dr and Oxford Avenue, Louisville, KY: null
 Wessel Rd and Burnley Rd, Louisville, KY: null
 West Bennett Avenue and Oakland Ave, Louisville, KY: null
+West Dr and Roy Wilkins Ave, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
