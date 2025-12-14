@@ -444,6 +444,9 @@
   lat: 38.14635
   lng: -85.7771132
 100 LaFontaine Drive, Louisville, KY: null
+100 Lafayette Dr, Louisville, KY:
+  lat: 38.1940389
+  lng: -85.7941733
 100 Lawndale Ave, Louisville, KY:
   lat: 38.163372
   lng: -85.765002
@@ -7203,6 +7206,9 @@
   on scene, Louisville, KY
 : lat: 38.2565197
   lng: -85.7166551
+1800 Gardiner Ln near 200 block of Crestwood Ave, Gardiner Lake Rd, Louisville, KY:
+  lat: 38.206521
+  lng: -85.6832357
 1800 Grand Ave due, Louisville, KY: null
 1800 Grand Ave, Louisville, KY:
   lat: 38.239902
@@ -12066,6 +12072,9 @@
   lat: 38.1089403
   lng: -85.8525494
 2700 West Broadway near 28th and 27th Streets, Louisville, KY: null
+2700 West Broadway near McDonald's, Crest south, Louisville, KY:
+  lat: 38.249441
+  lng: -85.796749
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -15563,6 +15572,7 @@
   lat: 38.244737
   lng: -85.814618
 3700 St. Louis Boulevard, Louisville, KY: null
+3700 Stratton Ave, Crest south, Louisville, KY: null
 3700 Stratton Ave, Louisville, KY:
   lat: 38.2294728
   lng: -85.8166836
@@ -16649,6 +16659,7 @@
 400 McLean Avenue, Louisville, KY: null
 400 Meridian Hills Dr, Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
+400 Mount Holly Ave, Crestwood, Louisville, KY: null
 400 Mount Holly Ave, Louisville, KY:
   lat: 38.2608215
   lng: -85.703864
