@@ -7400,6 +7400,7 @@
   Units 4-13 Charlie and 4-14 Adam, along with EMS, were dispatched, Louisville, KY
 : null
 1800 South Hirsborne Parkway, Louisville, KY: null
+1800 South Horshorn Parkway near Munson, Louisville, KY: null
 1800 South Third Street, Louisville, KY: null
 1800 South West 14th Ave, Louisville, KY: null
 1800 South3rd Street, Louisville, KY: null
@@ -7999,6 +8000,9 @@
   lat: 38.1193287
   lng: -85.5990283
 200 Colonial Dr, Louisville, KY: null
+200 Coral West near Breckenridge, Louisville, KY:
+  lat: 38.1988391
+  lng: -85.6228053
 200 Coralberry Rd, Louisville, KY:
   lat: 38.2594172
   lng: -85.6663443
@@ -10799,6 +10803,9 @@
 2300 Standard Ave, Louisville, KY:
   lat: 38.232014
   lng: -85.7943273
+2300 Strathmoor Blvd near Taylor'sville Road and Tennyson Ave, Louisville, KY:
+  lat: 38.2160917
+  lng: -85.6890174
 2300 Taylorsville Rd, Louisville, KY:
   lat: 38.2233603
   lng: -85.6813009
@@ -25282,6 +25289,9 @@
   lat: 38.1341147
   lng: -85.7586002
 7600 Eagle Pines Ln, Louisville, KY: null
+7600 Fegenbush Ln, Louisville, KY:
+  lat: 38.1418281
+  lng: -85.6216399
 7600 Fort Rose, Louisville, KY: null
 7600 Frontgate Dr, Louisville, KY: null
 7600 Glacier Lane, Louisville, KY: null
@@ -28758,6 +28768,7 @@ Meadow Hill Rd and Pounds Ln, Louisville, KY: null
 Mellwood Ave and Frankfort Ave, Louisville, KY:
   lat: 38.2576668
   lng: -85.7191192
+Mellwood Ave and Highwood Dr, Louisville, KY: null
 Mellwood Ave and Lake Ave, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
@@ -29015,6 +29026,7 @@ Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
 Swan St and Lampton St, Louisville, KY: null
 Tamerlane Rd and Roxbury Rd, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
+Tavisboro Road and Chinawas Run Road, Louisville, KY: null
 Taylor Ave and Arcade Ave, Louisville, KY: null
 Taylor Ave and Barret Ave, Louisville, KY: null
 Taylor Ave and Berry Blvd, Louisville, KY: null
