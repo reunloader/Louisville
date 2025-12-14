@@ -3303,6 +3303,9 @@
 : null
 11600 Reality Trail. Residents had been experiencing headaches, Louisville, KY: null
 11600 Sweet Flag Circle, Louisville, KY: null
+11600 Valley View Rd near Evergreen Rd, Louisville, KY:
+  lat: 38.2792505
+  lng: -85.5469034
 11700 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
@@ -9069,6 +9072,9 @@
   Louisville, KY
 : null
 200 West from I-64 West, Louisville, KY: null
+200 West near 9, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West near Kane Run and 1800 block of San Jose Ave, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -9353,6 +9359,7 @@
   lat: 38.1453565
   lng: -85.7758564
 2000 7th St Rene Rd, Louisville, KY: null
+2000 Appleton Ln, Louisville, KY: null
 2000 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2662921
   lng: -85.486298
@@ -12925,6 +12932,9 @@
 300 East Broadway, Louisville, KY:
   lat: 38.245346
   lng: -85.749534
+300 East Burnett, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 ? 300 East Market Street, within the Nucleus Innovation Park, for a medical emergency.
   An 8th-floor resident, a 60-year-old female, was reportedly experiencing stroke-like
   symptoms, including speech difficulties and unresponsiveness. Personnel were directed
@@ -21851,6 +21861,9 @@
 600 East Oak, Louisville, KY:
   lat: 38.2335579
   lng: -85.7455533
+600 East Ormsby, Louisville, KY:
+  lat: 38.2304159
+  lng: -85.7452941
 600 East W Brandeis Ave in response, Louisville, KY: null
 600 East W Chestnut St and South Crescent Street, Louisville, KY: null
 600 East W Chestnut St in Dallas, Louisville, KY: null
@@ -26307,6 +26320,9 @@
   Louisville, KY
 : null
 8100 Pandaria Drive, Louisville, KY: null
+8100 Rory Way near Famous Way and Annella Way, Louisville, KY:
+  lat: 38.1325876
+  lng: -85.6706441
 8100 Rosswood Corp, Louisville, KY: null
 8100 Rosswood Ct, Crossfield, Selway, Louisville, KY: null
 8100 Rosswood Ct, Louisville, KY: null
