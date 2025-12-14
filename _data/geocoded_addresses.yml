@@ -3770,6 +3770,9 @@
 1200 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+1200 Preston, Louisville, KY:
+  lat: 38.233888
+  lng: -85.7496363
 1200 Produce Rd, Louisville, KY:
   lat: 38.1819184
   lng: -85.6870954
@@ -13680,6 +13683,9 @@
 3000 Greenwood Ave, Louisville, KY:
   lat: 38.242502
   lng: -85.80308
+3000 Hale Ave, Louisville, KY:
+  lat: 38.239672
+  lng: -85.80358
 ? 3000 Hathaway Avenue following a report of a patient experiencing bleeding from
   both the nose and mouth. Fire Department Engine 10 was assigned to this incident.
   However, before responders could fully assess the situation, the call was canceled
@@ -18500,7 +18506,13 @@
 4400 Dixie Highway., Louisville, KY:
   lat: 38.0952898
   lng: -85.8741069
+4400 Dixie Hwy at North Immediate Care, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
 4400 Dixie Hwy at Norton Immediate Care Center, Louisville, KY:
+  lat: 38.1125665
+  lng: -85.8631151
+4400 Dixie Hwy at Norton Immediate Care, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
 ? 4400 Dixie Hwy to assist a person experiencing chest pain. Further details regarding
@@ -29141,6 +29153,7 @@ North Ln and Staebler Ave, Louisville, KY: null
 Northbound Drive and Welman Dr, Louisville, KY: null
 Oak New Crete Road and Commerce Park Dr, Louisville, KY: null
 Oak St and Barret Ave, Louisville, KY: null
+Oak St and Fischer Ave, Louisville, KY: null
 Oak St and Owen St, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
