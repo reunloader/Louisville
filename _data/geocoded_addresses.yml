@@ -8213,6 +8213,9 @@
 200 East Broadway near S Floyd St, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
+200 East Broadway**, Louisville, KY:
+  lat: 38.2452031
+  lng: -85.7513354
 200 East Broadway, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -8220,6 +8223,9 @@
   Responders were able, Louisville, KY
 : null
 200 East Broadway, near Delaware General Market, Louisville, KY:
+  lat: 38.2452031
+  lng: -85.7513354
+200 East Broadway. Both individuals decided, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
 200 East Broadway. Several fire units, including Battalion 4 and Battalion 2, responded, Louisville, KY:
@@ -21706,6 +21712,9 @@
 5700 Preston Hwy, Louisville, KY:
   lat: 38.1675429
   lng: -85.7054104
+5700 Preston Hwy. The caller, Maria, expressed concern about the situation and requested police assistance, Louisville, KY:
+  lat: 38.1675429
+  lng: -85.7054104
 5700 Revere Dr, Louisville, KY:
   lat: 38.1666547
   lng: -85.6674876
@@ -23070,6 +23079,7 @@
 6300 Lower River Rd, Louisville, KY:
   lat: 38.1042927
   lng: -85.8905241
+6300 Man's Drive**, Louisville, KY: null
 6300 McCannless Circle, Louisville, KY: null
 6300 Meeting St, Louisville, KY:
   lat: 38.3251652
