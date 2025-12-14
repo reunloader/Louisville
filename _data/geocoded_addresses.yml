@@ -7519,6 +7519,9 @@
 1800 Southwestern Pky, near the intersection with Herman St and W Market St, Louisville, KY:
   lat: 38.2477827
   lng: -85.829606
+1800 Standard Ave, Louisville, KY:
+  lat: 38.230905
+  lng: -85.789583
 1800 Standards, Louisville, KY: null
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
@@ -14841,6 +14844,7 @@
 3400 Cathy Daschick Way, Louisville, KY: null
 3400 Cathy Dexter, Louisville, KY: null
 3400 Cathy Dystra, unit 202, Louisville, KY: null
+3400 Coventry Commons Dr, unit 104, Louisville, KY: null
 3400 Dale Park Terrace. The activation was due, Louisville, KY: null
 3400 Dill Park Terrace, Louisville, KY: null
 3400 Dr, Louisville, KY: null
@@ -16135,6 +16139,7 @@
   lat: 38.1871224
   lng: -85.6950539
 3900 Brown Leigh Road, Louisville, KY: null
+3900 Brownlee Rd near Meridian Ave and Breckmarch Lane, Louisville, KY: null
 3900 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
@@ -21459,6 +21464,9 @@
   lng: -85.6630567
 5500 National Term Pike (White Castle), Louisville, KY: null
 5500 New Cut Rd (Kroger) / 1500 block of Anna Ln, Louisville, KY: null
+5500 New Cut Rd near Kroger and Crop St of Cogan Blvd, Louisville, KY:
+  lat: 38.14538
+  lng: -85.775274
 ? 5500 New Cut Rd near Raleigh, Crestridge, Century Rd, Incident Road Drive, Course
   62, Phoenix, and Crosstown Boulevard, Louisville, KY
 : lat: 38.14538
@@ -27366,6 +27374,9 @@
 900 E W Madison St, Louisville, KY:
   lat: 38.251774
   lng: -85.7733579
+900 E W Market St near Winslow and Campbell, Louisville, KY:
+  lat: 38.2554323
+  lng: -85.7586619
 900 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
@@ -29196,6 +29207,7 @@ Mellwood Ave and Highwood Dr, Louisville, KY: null
 Mellwood Ave and Lake Ave, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
+Meridian Ave and Breckmarch Lane, Louisville, KY: null
 Michael Ray Dr and Rochelle Rd, Louisville, KY: null
 Michael Ray Dr and Valley Pine Dr, Louisville, KY: null
 Mid Dale Ln and Kena Ln, Louisville, KY: null
