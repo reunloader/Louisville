@@ -8856,6 +8856,9 @@
 200 S Hancock St, Louisville, KY:
   lat: 38.2531474
   lng: -85.7426966
+200 Sand Lake Dr near Sand Lake Ct and Sandwood Pl, Louisville, KY:
+  lat: 38.0926054
+  lng: -85.8606495
 200 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -11005,6 +11008,7 @@
 2300 Terrier Ct, Louisville, KY:
   lat: 38.2072084
   lng: -85.6657537
+2300 Toadstreet Road, Louisville, KY: null
 2300 Tuckaho Rd, Louisville, KY:
   lat: 38.2855111
   lng: -85.6491928
@@ -16150,6 +16154,9 @@
 3900 Bunker Hill Dr, Louisville, KY:
   lat: 38.2064231
   lng: -85.686241
+3900 Calgary Way near Meridian, Garden Dr, and Glenfield Way, Louisville, KY:
+  lat: 38.301135
+  lng: -85.590264
 3900 Cane Run Rd, Louisville, KY:
   lat: 38.2135306
   lng: -85.8210078
