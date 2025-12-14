@@ -25,6 +25,7 @@
 00 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
+00 Ranger Rd, Louisville, KY: null
 00 Wally and Court, Louisville, KY: null
 01 Blackthorn Rd, Louisville, KY: null
 01 Cedar Springs Boulevard, Louisville, KY:
@@ -3661,6 +3662,9 @@
   threatening family members and refusing, Louisville, KY
 : lat: 38.1983878
   lng: -85.7803275
+1200 Lydia St, Louisville, KY:
+  lat: 38.2234692
+  lng: -85.7356218
 ? 1200 Lydia St, with initial reports indicating smoke showing from the structure.
   Responding fire units arrived on scene and found light smoke. The fire was quickly
   determined, Louisville, KY
@@ -16648,6 +16652,9 @@
 400 Jefferson Hill, Louisville, KY:
   lat: 38.0939475
   lng: -85.7902493
+400 Jefferson St, Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 ? 400 Jefferson, near Crop St and South Jackson. She was not completely alert, prompting
   a medical response. Units involved included EMS. - **Fire Alarm (around 6:28 p.m.
   a.m. p.m.):** A smoke detector alarm was triggered at 2300 block of West Jaffna
@@ -24373,6 +24380,7 @@
 700 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+700 South Third Street across New York and Broadway, Louisville, KY: null
 700 South2nd Street, Louisville, KY:
   lat: 38.244091
   lng: -85.755458
@@ -26798,6 +26806,9 @@
 8700 Sonora Trail, prompting a response from emergency units, Louisville, KY: null
 8700 Timor-Londrava near Galway and Ponsolui, Louisville, KY: null
 8700 Vision Pl, Louisville, KY: null
+8700 Warbler Branch Way, Louisville, KY:
+  lat: 38.0858425
+  lng: -85.6188613
 8700 William Penn Way, Louisville, KY:
   lat: 38.1221027
   lng: -85.6361054
