@@ -1483,6 +1483,9 @@
   that no break-in had occurred., Louisville, KY
 : null
 1000 East Kentucky Drive., Louisville, KY: null
+1000 East Oak, Louisville, KY:
+  lat: 38.2327741
+  lng: -85.7371635
 ? 1000 Euclid Avenue following a report of a domestic situation. Officers were on
   scene to investigate and attempt to make contact with individuals inside the residence.
   The situation involved a caller who had reported a male subject was present at the
@@ -3408,6 +3411,9 @@
 12 Brent St, Louisville, KY:
   lat: 38.2441834
   lng: -85.7355087
+12 Brownsboro Rd, Louisville, KY:
+  lat: 38.2668195
+  lng: -85.6569485
 12 Clara Ave, Louisville, KY:
   lat: 38.1999013
   lng: -85.7878076
@@ -3513,6 +3519,9 @@
 1200 Dixie Hwy, Louisville, KY:
   lat: 38.236285
   lng: -85.787342
+1200 Dresden near Airport High School, Louisville, KY:
+  lat: 38.1968179
+  lng: -85.7810437
 1200 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -8855,6 +8864,9 @@
 200 South near Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+200 South near Stonestreet Rd, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South near the six mile marker, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -9609,6 +9621,9 @@
   spreading, Louisville, KY
 : null
 2000 Merriman, Louisville, KY: null
+2000 Midland, Louisville, KY:
+  lat: 38.234512
+  lng: -85.712206
 2000 Mobile, Louisville, KY:
   lat: 38.2045522
   lng: -85.8356961
@@ -16610,6 +16625,7 @@
 400 Fire1, Louisville, KY: null
 400 FireFox early this morning. Firefighters worked, Louisville, KY: null
 400 FireFox, Louisville, KY: null
+400 Gaines Avenue, Louisville, KY: null
 400 Gateway Run Rd, Louisville, KY: null
 400 Gateway Run Rd, near Cascade Pulse Trail, due to a reported alarm. The activation was specifically, Louisville, KY: null
 400 Golden Gate Ct, Louisville, KY: null
@@ -21369,6 +21385,9 @@
   dispatched to the scene, where a key holder was present and waiting, Louisville,
   KY
 : null
+56 Baxter Ave, Louisville, KY:
+  lat: 38.2495483
+  lng: -85.7315323
 5600 Aces Trail, Louisville, KY: null
 5600 Alta Cir, Louisville, KY:
   lat: 38.2395231
