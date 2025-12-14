@@ -747,6 +747,9 @@
 100 Pearl. Responding officers were en route to the location., Louisville, KY: null
 100 Pearl. Responding officers were en route, Louisville, KY: null
 100 Pertle Terrace, Louisville, KY: null
+100 Pikeview Dr, Louisville, KY:
+  lat: 38.1940742
+  lng: -85.7360097
 100 Pluto Dr, near Astro and Lenton Court, to provide assistance., Louisville, KY: null
 100 Pluto Dr, near Astro and Lenton Court,, Louisville, KY:
   lat: 38.1509872
@@ -7111,6 +7114,9 @@
   lat: 38.2721699
   lng: -85.4380326
 17900 Wind Dance Dr, Louisville, KY: null
+18 Flicker Rd, Louisville, KY:
+  lat: 38.1307941
+  lng: -85.7816892
 18 Robinwood Rd, Louisville, KY:
   lat: 38.1697358
   lng: -85.6680159
@@ -10461,6 +10467,9 @@
   lat: 38.2288676
   lng: -85.6928401
 2200 Lauderdale Rd, Louisville, KY:
+  lat: 38.2288676
+  lng: -85.6928401
+2200 Lauderdale, Louisville, KY:
   lat: 38.2288676
   lng: -85.6928401
 2200 Lower Hunter Trace, Louisville, KY: null
@@ -15438,6 +15447,9 @@
 3600 Nadina Dr, Louisville, KY:
   lat: 38.2179873
   lng: -85.6527759
+3600 Nellie Bly Dr, Louisville, KY:
+  lat: 38.172851
+  lng: -85.694087
 3600 North 36th Street, Louisville, KY:
   lat: 38.2647035
   lng: -85.8093607
@@ -17745,6 +17757,7 @@
 4100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+4100 Double Fay Drive, Louisville, KY: null
 4100 Dudsman's Lane, Louisville, KY: null
 4100 East Indian Trail, Louisville, KY:
   lat: 38.171563
@@ -17959,6 +17972,7 @@
   lat: 38.2500156
   lng: -85.8194782
 4100 West Broadway, involving a male individual who was reportedly threatening others and appeared, Louisville, KY: null
+4100 West Mahoney Alley Boulevard, Louisville, KY: null
 4100 Wheeler Ave, Louisville, KY:
   lat: 38.183076
   lng: -85.789051
@@ -24872,6 +24886,9 @@
 7000 Preston Hwy, Louisville, KY:
   lat: 38.1504308
   lng: -85.6940618
+7000 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 7000 Shipley Ln, Louisville, KY:
   lat: 38.050769
   lng: -85.897892
