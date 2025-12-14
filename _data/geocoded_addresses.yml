@@ -2482,6 +2482,9 @@
 10600 Sparrow Cir, Louisville, KY:
   lat: 38.112718
   lng: -85.761711
+10600 Sparrow Cir. Officers responded to verify the situation and investigate, Louisville, KY:
+  lat: 38.112718
+  lng: -85.761711
 10600 Taylor-Hill Rd, Louisville, KY: null
 10600 U, Louisville, KY: null
 10600 Waterson Trail, Louisville, KY: null
@@ -10454,6 +10457,12 @@
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched, Louisville, KY
 : null
+2200 Lauderdale Rd near Dorothy Ave, Louisville, KY:
+  lat: 38.2288676
+  lng: -85.6928401
+2200 Lauderdale Rd, Louisville, KY:
+  lat: 38.2288676
+  lng: -85.6928401
 2200 Lower Hunter Trace, Louisville, KY: null
 2200 Lower Hunters Trace, Louisville, KY:
   lat: 38.158219
@@ -18634,6 +18643,7 @@
   lng: -85.810496
 4400 Mansfield Estates Dr, Louisville, KY: null
 4400 Manslick Rd at Cloverleaf Baptist Church, Louisville, KY: null
+4400 Marvin Ave, Louisville, KY: null
 4400 Mega Only In It and Taylor Blvd, Louisville, KY: null
 4400 Mount Holly Ave, Louisville, KY:
   lat: 38.2600803
@@ -29186,6 +29196,7 @@ Newburg Rd and Bishop Ln, Louisville, KY: null
 Newburg Rd and Gold Street, Louisville, KY: null
 Newburg Rd and Speed Ave, Louisville, KY: null
 Norfolk Avenue and Landing Dr, Louisville, KY: null
+Norma Ln and Manila Ln, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
 North Bardstown Rd and Mount Holly Ave, Louisville, KY: null
 North Bardstown Rd and Treyport Drive, Louisville, KY: null
