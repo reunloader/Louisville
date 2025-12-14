@@ -8629,6 +8629,9 @@
 200 North at Old Ender, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at Shelbyville Rd, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at Wilhenry Road, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -20153,6 +20156,7 @@
 500 Phillips Ln, Louisville, KY:
   lat: 38.189967
   lng: -85.7462
+500 Phillips Ln, Studio 6, Louisville, KY: null
 500 Port Rd, Louisville, KY:
   lat: 38.1641544
   lng: -85.897011
@@ -22955,6 +22959,9 @@
 6300 Milner Rd, Louisville, KY:
   lat: 38.1621073
   lng: -85.8353823
+6300 Mistflower Cir, Louisville, KY:
+  lat: 38.331092
+  lng: -85.5658435
 6300 Moonseed St, Louisville, KY:
   lat: 38.3309121
   lng: -85.5657574
@@ -24578,6 +24585,9 @@
   lat: 38.246384
   lng: -85.76354
 700 West Hornsby, Louisville, KY: null
+700 West Main, Louisville, KY:
+  lat: 38.256802
+  lng: -85.7618553
 700 West O'Rail, Louisville, KY: null
 700 West Orangeby Avenue near 9th Street, Louisville, KY:
   lat: 38.2345368
