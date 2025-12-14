@@ -2288,6 +2288,9 @@
 10100 Old Dixie Hwy. Further details, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10100 Spring Gate Dr, Louisville, KY:
+  lat: 38.3105264
+  lng: -85.5613534
 10100 Timberwood Cir, Louisville, KY: null
 10200 Blue Lick Rd, Louisville, KY:
   lat: 38.0993367
@@ -3755,6 +3758,9 @@
   alcohol poisoning. Emergency medical services were also present, Louisville, KY
 : null
 1200 Place Argent, Louisville, KY: null
+1200 Place Noir near Quest Dr, Louisville, KY:
+  lat: 38.25096
+  lng: -85.771497
 1200 Place Noir, Louisville, KY:
   lat: 38.25096
   lng: -85.771497
@@ -9532,6 +9538,7 @@
 2000 Brownsboro, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Buick LaCrosse with expired registration was pulled over. The vehicle was stopped, Louisville, KY: null
 2000 Caldwell St, Louisville, KY:
   lat: 38.2389138
   lng: -85.7449988
@@ -21159,6 +21166,9 @@
 5400 Bardstown Rd, Louisville, KY:
   lat: 38.1701301
   lng: -85.6079258
+5400 Brownsboro Rd, Louisville, KY:
+  lat: 38.2842094
+  lng: -85.6272373
 5400 Bruce Ave, Louisville, KY:
   lat: 38.151826
   lng: -85.784714
@@ -21571,6 +21581,9 @@
 5600 Shorewood Dr. The patient reported experiencing shoulder, back, and chest pain, Louisville, KY:
   lat: 38.1457155
   lng: -85.7784108
+5600 Spring Gate Dr, Louisville, KY:
+  lat: 38.3097365
+  lng: -85.5638547
 5600 Taylor Blvd, Louisville, KY:
   lat: 38.2084711
   lng: -85.7734951
@@ -28478,6 +28491,9 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+9900 Agena, Louisville, KY:
+  lat: 38.1050482
+  lng: -85.6990554
 9900 Appollo Ln, Louisville, KY:
   lat: 38.111966
   lng: -85.866851
