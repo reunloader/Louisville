@@ -445,6 +445,7 @@
 100 Judy Ave. The driver was found, Louisville, KY:
   lat: 38.14635
   lng: -85.7771132
+100 Kilmarie Avenue, Louisville, KY: null
 100 LaFontaine Drive, Louisville, KY: null
 100 Lafayette Dr, Louisville, KY:
   lat: 38.1940389
@@ -8932,6 +8933,7 @@
 200 W Magnolia Ave, Louisville, KY:
   lat: 38.228798
   lng: -85.759048
+200 W Main St area, Louisville, KY: null
 200 W Main St, Louisville, KY:
   lat: 38.2562
   lng: -85.75344
@@ -8991,6 +8993,9 @@
 200 West Kennymber 2, Louisville, KY: null
 200 West LaVon Avenue, Louisville, KY: null
 200 West Lawrence, Louisville, KY: null
+200 West Liberty, Louisville, KY:
+  lat: 38.252634
+  lng: -85.754015
 200 West Market, Louisville, KY:
   lat: 38.2546697
   lng: -85.7537855
@@ -24415,6 +24420,7 @@
   lat: 38.250054
   lng: -85.816467
 700 South39th Street, with two gunshots heard. Police units were dispatched, Louisville, KY: null
+700 South42nd Street across West Broadway, Louisville, KY: null
 700 South42nd Street, Louisville, KY: null
 700 South42nd Street. LG&E was on scene and reported that a gas line had been struck, leading to the leak., Louisville, KY: null
 700 South42nd Street. LG&E was on scene and reported that a gas line had been struck, leading, Louisville, KY:
@@ -25880,6 +25886,9 @@
 800 Granite Dr, Louisville, KY: null
 800 Grintwood Avenue 05:20 p, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
+800 Hazel St, Louisville, KY:
+  lat: 38.2475147
+  lng: -85.8048321
 800 Huntington Rd, Louisville, KY:
   lat: 38.2435456
   lng: -85.667321
