@@ -18,6 +18,7 @@ header_pages:
   - digest.md
   - chatbot.md
   - about.md
+  - privacy.md
 
 # Exclude directories from Jekyll build
 exclude:
