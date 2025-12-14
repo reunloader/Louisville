@@ -20131,6 +20131,7 @@
 500 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+500 E W Liberty St, unit 201, Louisville, KY: null
 500 E W Market St near Hancock and Jackson, Louisville, KY:
   lat: 38.2586626
   lng: -85.7877091
@@ -27310,6 +27311,9 @@
 900 Belvar Ave. Responding units were dispatched, Louisville, KY:
   lat: 38.2628326
   lng: -85.6837074
+900 Benson, Louisville, KY:
+  lat: 38.0945258
+  lng: -85.8613908
 900 Black Powder Ln, Louisville, KY:
   lat: 38.1196636
   lng: -85.6049356
