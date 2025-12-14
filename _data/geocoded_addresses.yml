@@ -13465,6 +13465,9 @@
 300 University Blvd, Louisville, KY:
   lat: 38.2146053
   lng: -85.7550162
+300 Van Winkle Dr, Louisville, KY:
+  lat: 38.2025277
+  lng: -85.8359417
 ? 300 Vendetta Way following a report of an unresponsive individual. A 28-year-old
   male was found at the scene. EMS personnel were on-site, Louisville, KY
 : lat: 38.2570741
@@ -28974,6 +28977,7 @@ Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
 Doughline Road and Milner Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
 Duncan St and Columbia St, Louisville, KY: null
+Earl Ave and Hale Ave, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 East Newburgh Road and Kentucky Ave, Louisville, KY: null
