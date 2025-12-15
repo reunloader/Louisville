@@ -4013,6 +4013,7 @@
   lng: -85.7606273
 1200 Southbrook Street near East Orangeview Avenue, Louisville, KY: null
 1200 Southbrook Street, Louisville, KY: null
+1200 Southbrook Street, number 11, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
 1200 Southwestern Pky, Louisville, KY:
   lat: 38.2429997
@@ -14689,9 +14690,13 @@
 3200 Virginia Ave, Louisville, KY:
   lat: 38.2384543
   lng: -85.8071574
+3200 Virginia, Louisville, KY:
+  lat: 38.2384543
+  lng: -85.8071574
 3200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.256455
   lng: -85.806285
+3200 West Ali under the viaduct, Louisville, KY: null
 3200 Young Ave, Louisville, KY:
   lat: 38.229848
   lng: -85.8087546
@@ -15285,6 +15290,9 @@
 : null
 3500 Moir Circle this morning. They responded, Louisville, KY: null
 3500 Moraine Cir, Louisville, KY: null
+3500 Mount Rainier Dr near Brinner Pass, Louisville, KY:
+  lat: 38.299707
+  lng: -85.6256363
 3500 Moyers Cir, Louisville, KY:
   lat: 38.257301
   lng: -85.6685408
@@ -25678,6 +25686,9 @@
   lat: 38.1368502
   lng: -85.6208334
 7500 Aron Rd, lot 183, Louisville, KY: null
+7500 Autumn Pointe Dr near Autumn Trace Hollow, Louisville, KY:
+  lat: 38.1406751
+  lng: -85.7788746
 7500 Cane Run Rd near Mae St and Edna M Road, Louisville, KY:
   lat: 38.1441838
   lng: -85.896748
