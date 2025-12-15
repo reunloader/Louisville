@@ -12169,6 +12169,9 @@
   a.m., with no immediate status check required beyond that., Louisville, KY
 : null
 2700 I 65 South. The call indicated a need, Louisville, KY: null
+2700 Isaac Pl, Louisville, KY:
+  lat: 38.236223
+  lng: -85.799843
 2700 Lexington Rd, Louisville, KY:
   lat: 38.245036
   lng: -85.691923
@@ -13827,6 +13830,7 @@
   to investigate the area., Louisville, KY
 : null
 3000 Magazine St, indicating that shots may have been fired. Police units were dispatched, Louisville, KY: null
+3000 Marchtown Road, Louisville, KY: null
 ? 3000 Mid Dale Ln was found unconscious and exhibiting abnormal breathing. As the
   patient began to regain consciousness, EMS was advised to evaluate, Louisville,
   KY
@@ -16936,6 +16940,9 @@
   p.m. a.m. p.m.):** A lookout was issued, Louisville, KY
 : lat: 38.2551156
   lng: -85.7458112
+400 Kenilworth Rd, Louisville, KY:
+  lat: 38.2614801
+  lng: -85.7069222
 400 Kensington Ct, Louisville, KY:
   lat: 38.225144
   lng: -85.762215
@@ -21144,6 +21151,9 @@
 5200 South 3rd Street, Louisville, KY:
   lat: 38.172155
   lng: -85.767988
+5200 South Forest Street near Spinelli's, Louisville, KY:
+  lat: 38.245611
+  lng: -85.7285936
 5200 St, Louisville, KY:
   lat: 38.171309
   lng: -85.602422
@@ -22129,6 +22139,9 @@
 600 Carter St, Louisville, KY:
   lat: 38.269114
   lng: -85.784136
+600 Cecil Ave, Louisville, KY:
+  lat: 38.255787
+  lng: -85.820547
 600 Cedar Creek Rd, Louisville, KY:
   lat: 38.0633525
   lng: -85.6270381
