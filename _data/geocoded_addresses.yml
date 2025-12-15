@@ -2672,6 +2672,7 @@
 : lat: 38.206357
   lng: -85.776375
 1100 Chamberlain Hill Rd, Louisville, KY: null
+1100 Charles St, Crop St, Texas, and Flat, Louisville, KY: null
 1100 Cherokee Rd, Louisville, KY:
   lat: 38.2389519
   lng: -85.7196515
@@ -5851,6 +5852,9 @@
 1500 Elaine Dr, Louisville, KY:
   lat: 38.1223783
   lng: -85.6844039
+1500 Gallagher St, Louisville, KY:
+  lat: 38.238366
+  lng: -85.778893
 ? 1500 Gallagher Street due to a report of a 19-year-old black female threatening
   self-harm. The individual was initially reported to be armed with a sword, but it
   was later stated she no longer had the weapon. The location of the sword was unknown
@@ -7693,6 +7697,9 @@
 1900 Gardiner Ln, Louisville, KY:
   lat: 38.206967
   lng: -85.682664
+1900 Garland, Louisville, KY:
+  lat: 38.2436716
+  lng: -85.7853765
 1900 Goldsmith Ln, Louisville, KY:
   lat: 38.20016
   lng: -85.684587
@@ -16684,6 +16691,9 @@
   was subsequently reset. Separately, EMS responded to a medical call, Louisville,
   KY
 : null
+400 East Alley, Louisville, KY:
+  lat: 38.245864
+  lng: -85.74737
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway, Louisville, KY:
   lat: 38.2449978
