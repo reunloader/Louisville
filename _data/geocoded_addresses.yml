@@ -4654,6 +4654,9 @@
 : lat: 38.2331073
   lng: -85.7731685
 1300 South 13th Street and West Broadway, Louisville, KY: null
+1300 South 13th Street, Louisville, KY:
+  lat: 38.234199
+  lng: -85.775763
 1300 South 20th Street near St, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
@@ -5947,6 +5950,9 @@
 1500 Mellwood Ave, Louisville, KY:
   lat: 38.255527
   lng: -85.722051
+1500 Moore Ct, Louisville, KY:
+  lat: 38.2259283
+  lng: -85.7746817
 1500 N S English Station Rd near Berrytown Rd and Hiawatha, Louisville, KY: null
 1500 N S English Station Rd, at the intersection of Berrytown Rd and Hiawatha,, Louisville, KY: null
 1500 Norton's Whistle, Louisville, KY: null
@@ -11366,6 +11372,9 @@
   lat: 38.261292
   lng: -85.819622
 2400 South 49th Street, Louisville, KY: null
+2400 South 5th Street, Louisville, KY:
+  lat: 38.21431
+  lng: -85.765752
 2400 South Boyd Street 9:18 a, Louisville, KY: null
 2400 South Boyd Street 9:18 a.m.AM, Louisville, KY: null
 2400 St Xavier St, Louisville, KY:
