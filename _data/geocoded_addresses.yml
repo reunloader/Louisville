@@ -13655,6 +13655,9 @@
 300 [Street Name Unclear], Louisville, KY:
   lat: 38.1814493
   lng: -85.7665338
+300 [Street Name], Louisville, KY:
+  lat: 38.1814493
+  lng: -85.7665338
 300 [Unspecified Location], Louisville, KY: null
 300 [Unspecified Street], Louisville, KY: null
 300 [location unspecified], Louisville, KY:
@@ -19648,6 +19651,9 @@
 4715 Preston Hwy, Louisville, KY:
   lat: 38.1794727
   lng: -85.7176764
+4800 Allmond Ave, Louisville, KY:
+  lat: 38.1750257
+  lng: -85.7552019
 4800 Appointment Drive, Louisville, KY: null
 4800 Bardstown Rd, Louisville, KY:
   lat: 38.1779416
@@ -23874,6 +23880,9 @@
   lat: 38.155458
   lng: -85.8180062
 6800 Capella Ln, Louisville, KY:
+  lat: 38.1542588
+  lng: -85.8738237
+6800 Capella, Louisville, KY:
   lat: 38.1542588
   lng: -85.8738237
 6800 Coast Gate 1, near the 5800 block of Coast Gate, to provide care., Louisville, KY: null
