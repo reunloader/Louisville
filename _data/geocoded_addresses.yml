@@ -2483,6 +2483,8 @@
   staring at an ambulance. Officers investigated the situation, Louisville, KY
 : null
 10400 Thrift Dr, Louisville, KY: null
+10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
+10400 Watermark Pl, Louisville, KY: null
 10405 Preston Hwy, Louisville, KY:
   lat: 38.0993972
   lng: -85.6716879
@@ -12169,6 +12171,7 @@
 2600 Portland Ave, Louisville, KY:
   lat: 38.2709594
   lng: -85.7901708
+2600 Ralph Ave, cross of Westville and Charnley, Louisville, KY: null
 2600 River Green, Louisville, KY:
   lat: 38.2750549
   lng: -85.7073397
@@ -12539,6 +12542,9 @@
   lat: 38.1089403
   lng: -85.8525494
 2700 West Broadway near 28th and 27th Streets, Louisville, KY: null
+2700 West Broadway near Kroger and Subway, Louisville, KY:
+  lat: 38.249441
+  lng: -85.796749
 2700 West Broadway near McDonald's, Crest south, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -18256,6 +18262,7 @@
   lng: -85.8185
 4100 Leave, Louisville, KY: null
 4100 Linda and Clay, Louisville, KY: null
+4100 Linden Way, Louisville, KY: null
 4100 Mada Way, Louisville, KY:
   lat: 38.1036561
   lng: -85.8439624
@@ -18794,6 +18801,8 @@
 4300 S Brook St, Louisville, KY:
   lat: 38.193914
   lng: -85.760014
+4300 S Church Way, Louisville, KY: null
+4300 S Church Way, cross of North Church, Louisville, KY: null
 4300 Sadie Ln, Louisville, KY:
   lat: 38.1806477
   lng: -85.8101697
@@ -28894,6 +28903,12 @@
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
   lng: -85.4388263
+9500 Civic Way at CCG, Verandah, Crestcomb, Starr, Mary St, Louisville, KY:
+  lat: 38.321115
+  lng: -85.564417
+9500 Civic Way, Louisville, KY:
+  lat: 38.321115
+  lng: -85.564417
 9500 Crescent Highway, Louisville, KY: null
 9500 Farmer's Lane, Louisville, KY: null
 9500 Farmers Ln, Louisville, KY:
