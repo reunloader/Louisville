@@ -6700,6 +6700,9 @@
 17 Lake Ave, Louisville, KY:
   lat: 38.2665526
   lng: -85.7005781
+17 Lambert Ave, Louisville, KY:
+  lat: 38.1351988
+  lng: -85.6821883
 17 Sharon Dr, Louisville, KY:
   lat: 38.1546747
   lng: -85.8284379
@@ -12867,6 +12870,8 @@
 2900 Rockaway Dr, Louisville, KY:
   lat: 38.1775655
   lng: -85.8531941
+2900 Rodman St and at Rodman and Berkman, Louisville, KY: null
+2900 Rodman St and at the intersection of Rodman and Berkman, Louisville, KY: null
 2900 South 29th Street, Louisville, KY:
   lat: 38.2533414
   lng: -85.7992827
@@ -22373,6 +22378,10 @@
   lat: 38.1376681
   lng: -85.8502438
 600 Hartwell Ct, and the fire units went back in service after ensuring the property was safe. It appears, Louisville, KY: null
+600 Heywood Ave and 2900 block of Rodman St, Louisville, KY: null
+600 Heywood Ave, Louisville, KY:
+  lat: 38.206708
+  lng: -85.76882
 600 Highland Springs Dr, Louisville, KY: null
 ? 600 Highwood Dr following repeated false reports from neighbors. The caller wished
   to speak with officers about the ongoing issue, but there were no indications of
