@@ -218,6 +218,7 @@
 100 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+100 Clinton, Louisville, KY: null
 100 Clooney Oaks Court, Louisville, KY: null
 100 Closterwood Dr, Louisville, KY:
   lat: 38.1002925
@@ -2564,6 +2565,7 @@
 10700 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10700 Pugle Lane, Louisville, KY: null
 10700 Sparrow Cir, as well as at an apartment complex and the 1800 block of Bluegrass Ave, Louisville, KY: null
 10700 Westport Rd, at the Aloft Hotel, Louisville, KY:
   lat: 38.296198
@@ -3650,6 +3652,9 @@
 1200 Fisk St, near a black Nissan Altima. Units were dispatched, Louisville, KY:
   lat: 38.2530864
   lng: -85.7689686
+1200 Gardiner Ln at Herndon Industrial Services, Louisville, KY:
+  lat: 38.2033739
+  lng: -85.6892064
 1200 Gardiner Ln, near Bunton Rd and Watterson Park Rd, Louisville, KY:
   lat: 38.2033739
   lng: -85.6892064
@@ -20133,6 +20138,9 @@
 500 Beecher St, Louisville, KY:
   lat: 38.1918563
   lng: -85.7684561
+500 Belgravia Ct near Crop St and Meadow Dr, Louisville, KY:
+  lat: 38.2266147
+  lng: -85.7636713
 500 Belgravia Ct, Louisville, KY:
   lat: 38.2266147
   lng: -85.7636713
@@ -29186,6 +29194,7 @@ Crop St and Audubon Parkway, Louisville, KY: null
 Crop St and Grand Ave, Louisville, KY: null
 Crop St and Krieger St, Louisville, KY: null
 Crop St and Martha Ave, Louisville, KY: null
+Crop St and Meadow Dr, Louisville, KY: null
 Crop St and Slack Ave, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
