@@ -2668,6 +2668,9 @@
 1100 Brentlinger Ln, Louisville, KY:
   lat: 38.1344575
   lng: -85.5565498
+1100 Broadway at McDonald's, Louisville, KY:
+  lat: 38.2440101
+  lng: -85.7337642
 1100 Brookline Ave, Louisville, KY:
   lat: 38.1750246
   lng: -85.7782791
@@ -16930,6 +16933,9 @@
 400 Gunn Ct., Louisville, KY:
   lat: 38.1026175
   lng: -85.6892695
+400 HGF, at Wayside, Louisville, KY:
+  lat: 38.2013307
+  lng: -85.7648895
 400 Harkway, Louisville, KY: null
 400 Hazelwood Ave, Louisville, KY:
   lat: 38.175196
@@ -24117,6 +24123,7 @@
   of available units., Louisville, KY
 : null
 6900 Copperfield Ct, resulting in a shoulder injury, Louisville, KY: null
+6900 Crosswinds Dr, across the Creek Valley, Marengo, Louisville, KY: null
 6900 Dixie Hwy, Louisville, KY:
   lat: 38.1504767
   lng: -85.8377877
