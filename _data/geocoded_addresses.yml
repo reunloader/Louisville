@@ -3099,6 +3099,9 @@
   lng: -85.770111
 1100 West Hawley, Louisville, KY: null
 1100 West Hawley. Officers were on duty and available, Louisville, KY: null
+1100 West Indian Trail near Breslin Highway and Marigold Ave, Louisville, KY:
+  lat: 38.1647205
+  lng: -85.7080512
 1100 West Indian Trail, Louisville, KY:
   lat: 38.1647205
   lng: -85.7080512
@@ -17685,6 +17688,7 @@
 4000 Buechel Bank Rd near Progress Blvd, Louisville, KY:
   lat: 38.1775482
   lng: -85.6514538
+4000 Buechel Bank Rd, Gate 3, Louisville, KY: null
 4000 Buechel Bank Rd, Louisville, KY:
   lat: 38.1775482
   lng: -85.6514538
@@ -18571,6 +18575,9 @@
   lat: 38.1947429
   lng: -85.8418877
 4300 King Run, Louisville, KY: null
+4300 Lake Dreamland Rd, Louisville, KY:
+  lat: 38.2071938
+  lng: -85.8572798
 4300 Larkwood Ave. Police units were sent, Louisville, KY:
   lat: 38.2591747
   lng: -85.8219191
@@ -19575,6 +19582,9 @@
   lat: 38.0910295
   lng: -85.6742718
 47 Nichols Ave, Louisville, KY: null
+47 Taylorsville Rd, Louisville, KY:
+  lat: 38.1857373
+  lng: -85.5449693
 4700 Alito Corp, Barkley Dr, Louisville, KY: null
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
@@ -25544,6 +25554,7 @@
 73 St. James Court due, Louisville, KY:
   lat: 38.256087
   lng: -85.7509255
+730 an unspecified street, Louisville, KY: null
 7300 Autumn Trace, Louisville, KY:
   lat: 38.139241
   lng: -85.780463
@@ -28528,6 +28539,7 @@
 9400 Brownsboro Rd, Louisville, KY:
   lat: 38.3051743
   lng: -85.5766546
+9400 Brownsboro Rd, zone 121, Louisville, KY: null
 9400 Burnheim Middle School, Louisville, KY: null
 9400 Chambers Way due, Louisville, KY: null
 9400 Chambers Way, Louisville, KY:
