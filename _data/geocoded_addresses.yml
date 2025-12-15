@@ -4318,6 +4318,7 @@
 : lat: 38.307964
   lng: -85.519984
 12700 Charles Brown Circle, Louisville, KY: null
+12700 Charles Farm Cir across Cedar Thicket Ct, Louisville, KY: null
 12700 Charles Farm Cir, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
@@ -8438,6 +8439,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East at Manslick overpass, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East at Poplar Level Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East at Shelbyville, Louisville, KY:
@@ -24065,6 +24069,9 @@
 6800 Holly Lake Dr, Louisville, KY:
   lat: 38.148553
   lng: -85.583379
+6800 Landstar Dr, Louisville, KY:
+  lat: 38.0657814
+  lng: -85.8860131
 6800 Manslick Rd, Louisville, KY:
   lat: 38.1629831
   lng: -85.7980886
