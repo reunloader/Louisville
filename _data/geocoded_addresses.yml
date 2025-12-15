@@ -306,6 +306,9 @@
   lat: 38.2555218
   lng: -85.7594798
 100 E W Market St, behind White Castle, Louisville, KY: null
+100 E W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2563581
+  lng: -85.8046069
 100 E W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -5664,6 +5667,9 @@
 14400 Tyrone Dr, Louisville, KY:
   lat: 38.200409
   lng: -85.6731002
+14500 English Park Cir, Louisville, KY:
+  lat: 38.2242842
+  lng: -85.4953906
 ? 14600 Dominic Michael Drive following a report of an individual in distress. Multiple
   units were deployed to assist in the situation, with a drone being utilized to aid
   in the search. Emergency medical services were requested to the scene. The individual
@@ -7015,6 +7021,9 @@
   lat: 38.228573
   lng: -85.7110967
 1700 Tempest Way, Louisville, KY:
+  lat: 38.1642333
+  lng: -85.8253597
+1700 Tempest, Louisville, KY:
   lat: 38.1642333
   lng: -85.8253597
 1700 Trent Ave, Louisville, KY:
@@ -16786,6 +16795,7 @@
 : lat: 38.2524
   lng: -85.744583
 400 East Jefferson Way, Louisville, KY: null
+400 East Jefferson Wayside, Louisville, KY: null
 400 East Jefferson, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
@@ -26064,6 +26074,9 @@
 7900 Preston Hwy, last seen southbound. A BOLO was issued, Louisville, KY: null
 7900 Shelby Field Road, Louisville, KY: null
 7900 Shelby Grove Road, Louisville, KY: null
+7900 Shelbyville Rd at Oxford Mall, Louisville, KY:
+  lat: 38.2472183
+  lng: -85.6103014
 7900 Shelbyville Rd, Louisville, KY:
   lat: 38.2472183
   lng: -85.6103014
