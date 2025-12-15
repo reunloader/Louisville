@@ -431,6 +431,9 @@
 100 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
+100 Hartwell Ct near Terry Pl, Louisville, KY:
+  lat: 38.172667
+  lng: -85.762656
 100 Hartwell Ct, Louisville, KY:
   lat: 38.172667
   lng: -85.762656
@@ -4461,6 +4464,9 @@
 1300 Dixie Hwy near St, Louisville, KY:
   lat: 38.235232
   lng: -85.787774
+1300 Dixie Hwy near Wilson and West Wormsby, Louisville, KY:
+  lat: 38.235232
+  lng: -85.787774
 1300 Dixie Hwy was attended to by first responders, Louisville, KY: null
 1300 Dixie Hwy, Louisville, KY:
   lat: 38.235232
@@ -4663,6 +4669,9 @@
 1300 Sale Ave. The parked vehicle was described as a silver key. Police units were called, Louisville, KY:
   lat: 38.197432
   lng: -85.78302
+1300 Scholar St near Zeta and Carol, Louisville, KY:
+  lat: 38.1847696
+  lng: -85.7160677
 1300 She Sang, Louisville, KY: null
 1300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
@@ -6860,6 +6869,7 @@
 1700 Magazine St, Louisville, KY:
   lat: 38.2498828
   lng: -85.7798115
+1700 Mary St Kid Avenue, Louisville, KY: null
 1700 Mary St, Kidd Avenue, Louisville, KY: null
 1700 Mary St, Louisville, KY:
   lat: 38.2344233
@@ -15247,6 +15257,9 @@
   lat: 38.2245619
   lng: -85.8144583
 3500 Barchetown Road, Louisville, KY: null
+3500 Bardstown Rd near Paris and Bashford Manor, Louisville, KY:
+  lat: 38.20391
+  lng: -85.6657011
 3500 Bardstown Rd, Louisville, KY:
   lat: 38.20391
   lng: -85.6657011
@@ -24238,6 +24251,9 @@
   lat: 38.1522169
   lng: -85.7552979
 6900 Fahers, Louisville, KY: null
+6900 Fernview Rd near Village Gate Trace, Louisville, KY:
+  lat: 38.147009
+  lng: -85.609959
 6900 Grazy Medals Lane, Louisville, KY: null
 6900 Green Manor Dr, Louisville, KY:
   lat: 38.147023
@@ -25854,6 +25870,7 @@
   lat: 38.1423321
   lng: -85.7712032
 7500 Frank8 Drive, Louisville, KY: null
+7500 Frontgate Dr, Louisville, KY: null
 7500 Garrison Rd, Louisville, KY:
   lat: 38.1370945
   lng: -85.757227
