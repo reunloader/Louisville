@@ -64,6 +64,9 @@
 06 Bruns Dr, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
+06 Falcon Crest Dr, Louisville, KY:
+  lat: 38.1183325
+  lng: -85.6929215
 06 Springford Avenue, Louisville, KY: null
 08 Air Smoudies Drive, Louisville, KY: null
 08 Gabriel Dr, Louisville, KY:
@@ -2116,6 +2119,9 @@
 1000 W Liberty St, Louisville, KY:
   lat: 38.253515
   lng: -85.767348
+1000 W Market St at Healing Place, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
 1000 W Market St near 11th and Chapel at the Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -25210,6 +25216,10 @@
 700 Woodmore Ave, Louisville, KY:
   lat: 38.149501
   lng: -85.770284
+700 Zorn Ave (no visible fire), Louisville, KY: null
+700 Zorn Ave at the cross of Riverwood and Jarvis, Louisville, KY:
+  lat: 38.2667863
+  lng: -85.6914418
 700 Zorn Ave, Louisville, KY:
   lat: 38.2667863
   lng: -85.6914418
@@ -27258,6 +27268,7 @@
   lat: 38.2957056
   lng: -85.5975753
 8200 West Mill Road, Louisville, KY: null
+8200 Whipsnull Road, Louisville, KY: null
 8200 Woodstock Rd (Magnolia Springs), Louisville, KY: null
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
@@ -29341,6 +29352,7 @@ Cannons Ln and Old Cannons Ln, Louisville, KY: null
 Canterbury Dr and Ravinia Ave, Louisville, KY: null
 Caple Ave and Manslake Road, Louisville, KY: null
 Carmelwood Dr and Kentucky Ave, Louisville, KY: null
+Carthobe Woodpoint Blvd and Napa Valley Dr, Louisville, KY: null
 Castlebrook Dr and Hollow Oaks Dr, Louisville, KY: null
 Castleview Dr and Poplar Parkway, Louisville, KY: null
 Castlewood Ave and Eastern Parkway, Louisville, KY: null
