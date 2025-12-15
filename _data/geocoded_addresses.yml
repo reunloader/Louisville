@@ -2067,6 +2067,7 @@
 1000 Southern Ave, Louisville, KY:
   lat: 38.198171
   lng: -85.639367
+1000 Springview Dr near Chelsea Drive and Final Dr, Louisville, KY: null
 1000 St, Louisville, KY: null
 ? 1000 Stonehouse Lane following a report of a person suspected of driving under the
   influence. The individual was reportedly parked in an SUV in the area. A K-9 unit
@@ -2109,6 +2110,9 @@
 1000 W Liberty St, Louisville, KY:
   lat: 38.253515
   lng: -85.767348
+1000 W Market St near 11th and Chapel at the Healing Place, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
 1000 W Market St, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -3682,6 +3686,7 @@
 1200 Global Dr, Louisville, KY:
   lat: 38.1397231
   lng: -85.8923691
+1200 Goff Avenue near Rieser in Texas, Louisville, KY: null
 1200 Goff Ln, Louisville, KY:
   lat: 38.0775176
   lng: -85.7878967
@@ -7515,6 +7520,7 @@
   lng: -85.5719878
 1800 Nellis Lee, Louisville, KY: null
 1800 Neville Dr near Hillview Ave, Louisville, KY: null
+1800 Newburg Rd (old Kaelin's restaurant), Louisville, KY: null
 1800 Newburg Rd at Taylor, Louisville, KY:
   lat: 38.222825
   lng: -85.7113475
@@ -8729,6 +8735,9 @@
 200 Masonic Home Dr, Louisville, KY:
   lat: 38.2574552
   lng: -85.6633936
+200 McCready Avenue, Louisville, KY:
+  lat: 38.2517067
+  lng: -85.6731172
 200 McMurray, Louisville, KY: null
 200 Megan Thompson Way, Louisville, KY: null
 200 Megan Thompson Way. Officers were dispatched to address the noise complaint and assess the situation., Louisville, KY: null
@@ -8883,6 +8892,9 @@
 200 North. The incident involved a white Honda CRV and a silver F-150. Units worked, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North17th Street near Duncan and Columbia at Roosevelt, Louisville, KY:
+  lat: 38.2606552
+  lng: -85.7779157
 200 North26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
@@ -23986,6 +23998,7 @@
   were back in service by 7:36 a.m., Louisville, KY
 : lat: 38.1563129
   lng: -85.7513915
+6700 Firmview Road near Troutwood Ct and Renwood Ct, Louisville, KY: null
 6700 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
@@ -29292,6 +29305,7 @@ Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
 Charleswood Rd and Cooper Chapel Rd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
+Chelsea Drive and Final Dr, Louisville, KY: null
 Chenilis Lane and Massie Ave, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Pky and Longest Ave, Louisville, KY: null
@@ -29302,6 +29316,7 @@ Cherokee Road and Alta Avenue, Louisville, KY: null
 Chestnut St and South Crescent Street, Louisville, KY:
   lat: 38.2484762
   lng: -85.7562871
+Chickasaw Ave and North Height Avenue, Louisville, KY: null
 Chivalry Lane and Glasgow Blvd, Louisville, KY: null
 Christian Merrick Road and Hempstead Rd, Louisville, KY: null
 Church Rd and Cooper Chapel Rd, Louisville, KY:
