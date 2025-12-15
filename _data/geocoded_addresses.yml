@@ -3173,6 +3173,9 @@
 11000 Electron Dr, Louisville, KY:
   lat: 38.1992711
   lng: -85.5541487
+11000 Grafton Hall Rd at Glen Hill Manor, Louisville, KY:
+  lat: 38.0936504
+  lng: -85.8565656
 ? 11000 Hill Rd on a report of a possible break-in in progress. Two subjects were
   observed near a structure after working hours, prompting the investigation., Louisville,
   KY
@@ -8435,6 +8438,9 @@
   lng: -85.7546332
 200 East Chesapeake Street to a local club due to a medical status requiring transport., Louisville, KY: null
 200 East Chesapeake Street, Louisville, KY: null
+200 East Chesaust Street near Norton's Hospital, Louisville, KY:
+  lat: 38.3153464
+  lng: -85.5701038
 200 East Chesnut at Norton, Castle Floyd, and Brooke, Louisville, KY: null
 200 East Chestnut 7:00 p, Louisville, KY: null
 200 East Chestnut 7:00 p.m.AM, Louisville, KY: null
@@ -9265,6 +9271,9 @@
   lat: 38.2562
   lng: -85.75344
 200 W Main St, involving multiple individuals. One female was reported, Louisville, KY: null
+200 W Market St at visitor center, Louisville, KY:
+  lat: 38.2546697
+  lng: -85.7537855
 200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
@@ -20500,6 +20509,7 @@
 500 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
+500 Dr, Louisville, KY: null
 500 Dresden Ave, Louisville, KY:
   lat: 38.197563
   lng: -85.768594
@@ -22154,6 +22164,9 @@
   and required medical attention., Louisville, KY
 : null
 5600 pound tree drive, Louisville, KY: null
+57 Mouser Hill Rd, Louisville, KY:
+  lat: 38.1056494
+  lng: -85.4949782
 5700 Bardstown Rd, Louisville, KY:
   lat: 38.1628763
   lng: -85.5970273
@@ -25164,6 +25177,7 @@
   lat: 38.2182659
   lng: -85.7774103
 700 South Third Street across New York and Broadway, Louisville, KY: null
+700 South Third Street, Louisville, KY: null
 700 South2nd Street, Louisville, KY:
   lat: 38.244091
   lng: -85.755458
@@ -27210,6 +27224,9 @@
   lat: 38.134534
   lng: -85.845217
 8100 I 64 East, Louisville, KY: null
+8100 Joyce Dr, Louisville, KY:
+  lat: 38.1323147
+  lng: -85.6510719
 ? 8100 Laurel Spring Dr after a carbon monoxide alarm was activated. The alarm was
   reportedly sounding from the basement of the home. Upon investigation, no individuals
   were found, Louisville, KY
