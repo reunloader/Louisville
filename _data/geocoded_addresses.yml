@@ -41,6 +41,9 @@
 01 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
+01 International Dr, Louisville, KY:
+  lat: 38.1664748
+  lng: -85.8856852
 01 Logistics Dr, Louisville, KY:
   lat: 38.1687352
   lng: -85.8847613
@@ -22166,6 +22169,7 @@
   lng: -85.688011
 5800 Keewood Ct, Louisville, KY: null
 5800 Lion's Paris Dr, Louisville, KY: null
+5800 Lions Arms Dr, Louisville, KY: null
 5800 Mount Everest Dr, Louisville, KY:
   lat: 38.167745
   lng: -85.8521638
