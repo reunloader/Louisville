@@ -84,6 +84,9 @@
   vehicle was a Lincoln MKX sedan registered in Maryland. The stop was cleared a few
   minutes later., Louisville, KY
 : null
+100 2nd Street, Louisville, KY:
+  lat: 38.2558105
+  lng: -85.7536001
 100 5th Street. Units were on scene, Louisville, KY: null
 100 7th Street and Lee Ave, Louisville, KY: null
 100 Acres, Louisville, KY:
@@ -3627,6 +3630,9 @@
 1200 Fisk St, near a black Nissan Altima. Units were dispatched, Louisville, KY:
   lat: 38.2530864
   lng: -85.7689686
+1200 Gardiner Ln, near Bunton Rd and Watterson Park Rd, Louisville, KY:
+  lat: 38.2033739
+  lng: -85.6892064
 1200 Gillette Ave, Louisville, KY:
   lat: 38.1857045
   lng: -85.760107
@@ -3663,6 +3669,7 @@
   lat: 38.177073
   lng: -85.708795
 1200 Heslane, Louisville, KY: null
+1200 Hogarth Dr, near Hogarth Ct, Louisville, KY: null
 1200 Holly Berry Dr near Taylor and Peachtree, Louisville, KY: null
 1200 Holsworth Ln, Louisville, KY: null
 1200 I 64 East, Louisville, KY: null
@@ -16978,6 +16985,9 @@
 400 North20th Street, Louisville, KY:
   lat: 38.2636644
   lng: -85.7824983
+400 North21st Street, Louisville, KY:
+  lat: 38.263955
+  lng: -85.783775
 400 North34, Louisville, KY: null
 400 Northgate Rd involving an 84-year-old female who was having trouble breathing, Louisville, KY: null
 400 Northgate Rd, Louisville, KY:
@@ -28885,6 +28895,7 @@ Brownsboro Rd and Lime Rd, Louisville, KY: null
 Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
 Brownsboro Rd and Simcoe Ln, Louisville, KY: null
 Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
+Bunton Rd and Watterson Park Rd, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Bush Farm Rd and Arnold Palmer Blvd, Louisville, KY: null
 Bush Farm Rd and Old Henry Rd, Louisville, KY: null
