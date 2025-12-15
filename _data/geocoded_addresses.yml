@@ -73,6 +73,7 @@
   lat: 38.2143091
   lng: -85.7225304
 10 Block Street, Louisville, KY: null
+10 Charter Oaks Dr, Louisville, KY: null
 10 Mary St, Louisville, KY:
   lat: 38.2344233
   lng: -85.7405196
@@ -9906,6 +9907,13 @@
   was coded, Louisville, KY
 : lat: 38.2570741
   lng: -85.7584952
+? 2000 Summer Creek Dr following reports of gunfire in the area. Multiple units arrived
+  to secure the scene, which was cleared by 8:10 p.m. No injuries or additional details
+  were provided, but officers conducted a thorough search, Louisville, KY
+: null
+2000 Summer Creek Dr, Louisville, KY:
+  lat: 38.0767295
+  lng: -85.8733683
 2000 Swiss Village Way, Louisville, KY: null
 2000 TAM Pontiac G6, Louisville, KY: null
 2000 TSO, Louisville, KY: null
@@ -24916,6 +24924,9 @@
 7000 Allspice Ct, Louisville, KY:
   lat: 38.1461322
   lng: -85.5921653
+7000 Ashby Ln, Louisville, KY:
+  lat: 38.109789
+  lng: -85.88966
 7000 Bear Creek Dr, Louisville, KY: null
 7000 Billie Ln, Louisville, KY:
   lat: 38.1485385
