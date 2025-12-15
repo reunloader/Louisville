@@ -875,6 +875,9 @@
 100 South 35th Street, Louisville, KY:
   lat: 38.262208
   lng: -85.808319
+100 South 36th Street, Louisville, KY:
+  lat: 38.2624285
+  lng: -85.8099251
 100 South 37th Street, Louisville, KY:
   lat: 38.2627627
   lng: -85.8109002
@@ -8939,6 +8942,9 @@
 200 South 32nd Street, Louisville, KY:
   lat: 38.260523
   lng: -85.804498
+200 South 36th Street, Louisville, KY:
+  lat: 38.2305239
+  lng: -85.8144957
 200 South 38th Street, Louisville, KY:
   lat: 38.260732
   lng: -85.811955
@@ -10806,6 +10812,9 @@
 23 Brentlinger Ln, Louisville, KY:
   lat: 38.1344575
   lng: -85.5565498
+23 Donerail Run Dr, Louisville, KY:
+  lat: 38.1835427
+  lng: -85.5464991
 23 Downes Ln, Louisville, KY:
   lat: 38.1574244
   lng: -85.7590501
@@ -13294,6 +13303,9 @@
 300 Hatcher Ave, Louisville, KY:
   lat: 38.153733
   lng: -85.765394
+300 Hayes Landing Rd, Louisville, KY:
+  lat: 38.1830782
+  lng: -85.5466556
 300 Hillcrest, Louisville, KY:
   lat: 38.2582682
   lng: -85.6850962
@@ -14589,6 +14601,7 @@
   he advanced towards her. She then retreated and locked herself in her room while
   the father continued, Louisville, KY
 : null
+3200 Margie, Louisville, KY: null
 3200 Marion Ct, Louisville, KY:
   lat: 38.2500716
   lng: -85.6917161
@@ -24098,6 +24111,7 @@
   lat: 38.1522169
   lng: -85.7552979
 6900 Fahers, Louisville, KY: null
+6900 Grazy Medals Lane, Louisville, KY: null
 6900 Green Manor Dr, Louisville, KY:
   lat: 38.147023
   lng: -85.631902
