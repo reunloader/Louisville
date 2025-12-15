@@ -40,6 +40,7 @@
 01 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
+01 Sheehan Landing Dr, Louisville, KY: null
 03 Arlington Ave, Louisville, KY:
   lat: 38.2545625
   lng: -85.7142596
@@ -3365,6 +3366,9 @@
 11700 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
+11700 Coventry Hill Rd, Louisville, KY:
+  lat: 38.1753186
+  lng: -85.5407846
 11700 Dixie Hwy due, Louisville, KY: null
 11700 Dixie Hwy, Louisville, KY:
   lat: 38.0852467
@@ -11061,6 +11065,9 @@
 : null
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
+2300 West Broadway at Moore Temple, Louisville, KY:
+  lat: 38.2490267
+  lng: -85.7900907
 2300 West Calvert, Louisville, KY: null
 2300 West Elkhorn Street, Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
@@ -17540,6 +17547,9 @@
 4000 Eden Ln, Louisville, KY: null
 4000 Future Bank Road near Progress Blvd, Louisville, KY: null
 4000 Garland Ave, Baker, Louisville, KY: null
+4000 Heavenly Way, Louisville, KY:
+  lat: 38.0996303
+  lng: -85.8392227
 4000 Herman St, Louisville, KY:
   lat: 38.260271
   lng: -85.817216
@@ -23635,6 +23645,9 @@
   David., Louisville, KY
 : null
 6600 Sylvania Rd, apartment number 4. Police units were dispatched to search, Louisville, KY: null
+6600 Sylvania, Louisville, KY:
+  lat: 38.1578547
+  lng: -85.878882
 6600 Upper Hunters Trace, Louisville, KY:
   lat: 38.1589659
   lng: -85.8470945
@@ -26082,6 +26095,9 @@
 800 Brentwood Ave, Louisville, KY:
   lat: 38.1946055
   lng: -85.7727962
+800 Broadway, Louisville, KY:
+  lat: 38.244586
+  lng: -85.739364
 800 Brookline Ave, Louisville, KY: null
 800 Camden Ave, Louisville, KY:
   lat: 38.192851
