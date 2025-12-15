@@ -6347,6 +6347,9 @@
 1600 Arthur, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
+1600 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 1600 Bank St, Louisville, KY:
   lat: 38.2609162
   lng: -85.776337
@@ -11903,6 +11906,7 @@
   as a medical Charlie call, indicating a need, Louisville, KY
 : null
 2500 St. St Xavier St, Louisville, KY: null
+2500 Stanley Call Parkway, Louisville, KY: null
 2500 Terra Crossing Blvd, Louisville, KY:
   lat: 38.272571
   lng: -85.498393
@@ -24390,6 +24394,9 @@
 6800 Triangle Dr, Louisville, KY:
   lat: 38.1631276
   lng: -85.8009872
+6800 Twin Dr, Louisville, KY:
+  lat: 38.154147
+  lng: -85.839958
 6800 Yuma Way, Louisville, KY:
   lat: 38.1176974
   lng: -85.885696
