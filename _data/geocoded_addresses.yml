@@ -4724,6 +4724,9 @@
   lat: 38.2329726
   lng: -85.7643696
 1300 South Crescent Street, Louisville, KY: null
+1300 South Floyd, Louisville, KY:
+  lat: 38.2313724
+  lng: -85.7524629
 1300 South Preston, Louisville, KY:
   lat: 38.23088
   lng: -85.750124
@@ -7600,6 +7603,9 @@
   lng: -85.7562365
 1800 Youngland Ave, cross of Wellspring and Dixie Hwy, Louisville, KY: null
 1800 Zuma-Nom, Louisville, KY: null
+1800 [Street Name], Louisville, KY:
+  lat: 38.2228553
+  lng: -85.7928954
 1800 block of W Lee St, cross of 22nd and Dixie Hwy,, Louisville, KY: null
 1800 to8th Street, Louisville, KY: null
 18000 Arlington Meadows Dr, Louisville, KY:
@@ -15715,6 +15721,9 @@
   lat: 38.169993
   lng: -85.691836
 3700 East Weavemore Drive, Louisville, KY: null
+3700 East Wheatmore at Jacobs Elementary, Louisville, KY:
+  lat: 38.1919809
+  lng: -85.7979141
 3700 East Whitmore Drive, Louisville, KY: null
 3700 East Whitmore Drive. Responding EMS personnel provided care, Louisville, KY: null
 3700 Eline Ave, Louisville, KY:
@@ -25707,6 +25716,7 @@
 7600 Deer Meadow Dr, Louisville, KY:
   lat: 38.3166393
   lng: -85.6065727
+7600 Dudley Garden Way, Louisville, KY: null
 7600 Eagle Landing Way, Louisville, KY:
   lat: 38.1341147
   lng: -85.7586002
