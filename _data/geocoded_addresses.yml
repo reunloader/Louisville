@@ -213,6 +213,9 @@
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
+100 Bullitt Ln, Louisville, KY:
+  lat: 38.246826
+  lng: -85.613749
 100 Caldwell St, Louisville, KY:
   lat: 38.239768
   lng: -85.7541553
@@ -4734,6 +4737,9 @@
 1300 South 26th Street, Louisville, KY:
   lat: 38.236286
   lng: -85.796515
+1300 South 28th Street, Louisville, KY:
+  lat: 38.236638
+  lng: -85.800454
 1300 South 28th and nearby streets, Louisville, KY: null
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
@@ -20285,6 +20291,7 @@
   lng: -85.7635837
 4900 South First Run Parkway, Louisville, KY: null
 4900 South First Street, Louisville, KY: null
+4900 South Second Street, Louisville, KY: null
 4900 Southside Dr, Louisville, KY:
   lat: 38.1764876
   lng: -85.7651435
@@ -27424,6 +27431,9 @@
 8300 Delido Rd, Louisville, KY:
   lat: 38.128285
   lng: -85.654212
+8300 Gloxinia Dr, Louisville, KY:
+  lat: 38.1334636
+  lng: -85.872715
 8300 Johnson School Rd, Louisville, KY:
   lat: 38.128094
   lng: -85.600795
@@ -27993,6 +28003,9 @@
   lat: 38.2442432
   lng: -85.7373692
 900 East Justin Street, Louisville, KY: null
+900 East Madison, Louisville, KY:
+  lat: 38.2475849
+  lng: -85.7368191
 900 East Market, Louisville, KY:
   lat: 38.2527101
   lng: -85.7359227
