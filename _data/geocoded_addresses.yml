@@ -13873,6 +13873,9 @@
 3000 Bradford Grove Ln, Louisville, KY:
   lat: 38.2077041
   lng: -85.6158099
+3000 Breckenridge Ln near Meridian and Breckenridge, Louisville, KY:
+  lat: 38.2166353
+  lng: -85.6282985
 3000 Breckenridge Ln, Louisville, KY:
   lat: 38.2166353
   lng: -85.6282985
@@ -16401,6 +16404,7 @@
   lng: -85.6950539
 3900 Brown Leigh Road, Louisville, KY: null
 3900 Brownlee Rd near Meridian Ave and Breckmarch Lane, Louisville, KY: null
+3900 Brownlee Rd near Meridian and Breckenridge, Louisville, KY: null
 3900 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
@@ -21711,6 +21715,9 @@
 5400 Yield Close Road, Louisville, KY: null
 5400 road, Louisville, KY: null
 542018 Speed Ave, Louisville, KY: null
+55 Eastern Parkway, Louisville, KY:
+  lat: 38.2154837
+  lng: -85.7414654
 55 Rundill Rd, Louisville, KY:
   lat: 38.1628677
   lng: -85.7807434
@@ -22238,6 +22245,9 @@
 5900 Hunting Rd, Louisville, KY: null
 5900 Lines of Paris Dr, Louisville, KY: null
 5900 Lions Arms Dr, Louisville, KY: null
+5900 Mercury Dr near Keira Ridge, Louisville, KY:
+  lat: 38.1629609
+  lng: -85.6093455
 5900 Mercury Dr, Louisville, KY:
   lat: 38.1629609
   lng: -85.6093455
@@ -29480,6 +29490,7 @@ Glen Stone Rd and Spring Gate Dr, Louisville, KY: null
 Glendora Ave and Herman St, Louisville, KY: null
 Global Dr and Renate Rd, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
+Goldsmith Ln and Peabody Ln, Louisville, KY: null
 Goss Ave and Hoertz Ave, Louisville, KY: null
 Goss Ave and Logan St, Louisville, KY: null
 Goss Ave and Spratt St, Louisville, KY: null
