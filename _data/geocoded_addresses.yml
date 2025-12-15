@@ -8828,6 +8828,9 @@
 200 North at 34-mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at Bardstown Rd, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at Old Ender, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -11855,6 +11858,9 @@
 2500 W Market St, Louisville, KY:
   lat: 38.2589001
   lng: -85.7922412
+2500 W Oak St, Louisville, KY:
+  lat: 38.2375639
+  lng: -85.7949572
 2500 West Alley, Louisville, KY: null
 2500 West Broadway at Truist Bank, Louisville, KY:
   lat: 38.2490471
@@ -23785,6 +23791,7 @@
   lat: 38.1838926
   lng: -85.6427044
 6600 Brooke-Bain-Way, Louisville, KY: null
+6600 Corp, Louisville, KY: null
 6600 Dixie Hwy, Louisville, KY:
   lat: 38.1548215
   lng: -85.8366977
@@ -27838,6 +27845,9 @@
 ? '900 Lampter Ave)** (around 2:28 p.m. a.m. p.m.): A car versus ditch incident was
   reported with no injuries. Officers were dispatched, Louisville, KY'
 : null
+900 Lane, Louisville, KY:
+  lat: 38.1759945
+  lng: -85.422371
 900 Lansdowne Ave, Louisville, KY:
   lat: 38.2152515
   lng: -85.7385711
