@@ -25,6 +25,7 @@
   lat: 38.2067552
   lng: -85.7632017
 0 W Market St and Chapel, Louisville, KY: null
+0 Whiteoak Park Rd, Louisville, KY: null
 00 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
@@ -2199,6 +2200,7 @@
 : null
 1000 on1, Louisville, KY: null
 1000 police pursuit initiation, Louisville, KY: null
+1000 unspecified location, Louisville, KY: null
 1000 unspecified street, Louisville, KY: null
 10000 Ashby Farm Dr, Louisville, KY:
   lat: 38.1122843
@@ -11672,6 +11674,9 @@
 2500 Howard St, Louisville, KY:
   lat: 38.2459276
   lng: -85.793461
+2500 Jasper Dr near Plantside Dr, Louisville, KY:
+  lat: 38.1167377
+  lng: -85.8408577
 2500 Kings Hwy, Louisville, KY:
   lat: 38.2232204
   lng: -85.67661
@@ -21637,6 +21642,9 @@
 5500 Arid Ln, Louisville, KY:
   lat: 38.17464
   lng: -85.882236
+5500 Bardstown Rd at St, Louisville, KY:
+  lat: 38.166274
+  lng: -85.601225
 5500 Bardstown Rd, Louisville, KY:
   lat: 38.166274
   lng: -85.601225
@@ -26385,6 +26393,7 @@
 800 Douglas Park, Louisville, KY:
   lat: 38.179853
   lng: -85.76166
+800 E Gray St and 1700 block of Cowling Ave, Louisville, KY: null
 800 E Gray St, Louisville, KY:
   lat: 38.245743
   lng: -85.739167
@@ -28178,6 +28187,7 @@
   KY
 : null
 900 the street, Louisville, KY: null
+900 unspecified location, Louisville, KY: null
 ? 900 where the line was answered and then abruptly disconnected. Responding units
   were unable to determine the caller's location, as no further information was provided.,
   Louisville, KY
