@@ -7316,6 +7316,9 @@
   lat: 38.0969101
   lng: -85.8731567
 1800 Clinton Pl, Louisville, KY: null
+1800 Columbia St, Louisville, KY:
+  lat: 38.261239
+  lng: -85.779496
 1800 Commerce Rd, Louisville, KY:
   lat: 38.222574
   lng: -85.773346
@@ -28706,6 +28709,7 @@
 9700 Hudson Ln, Louisville, KY:
   lat: 38.1715314
   lng: -85.5766017
+9700 K-0 behind the area, Louisville, KY: null
 9700 Lake Elkhorn Dr, Louisville, KY:
   lat: 38.1482981
   lng: -85.5797824
