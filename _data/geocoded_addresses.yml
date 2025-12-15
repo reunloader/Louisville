@@ -7066,6 +7066,7 @@
   involved in managing the situation and arranging, Louisville, KY
 : null
 1700 South Second Street, Louisville, KY: null
+1700 South second St, Louisville, KY: null
 1700 South13, Louisville, KY: null
 1700 South13th Street, Louisville, KY:
   lat: 38.2244068
@@ -11306,6 +11307,9 @@
 2400 Arnold Palmer Blvd, near the intersection with Sherry Rd,, Louisville, KY:
   lat: 38.2743426
   lng: -85.4890815
+2400 Autumn Lake Dr, Louisville, KY:
+  lat: 38.07708
+  lng: -85.873735
 2400 Autumn Pointe Dr, Louisville, KY:
   lat: 38.1404396
   lng: -85.7801839
@@ -15157,6 +15161,9 @@
 3400 Larkwood Ave, Louisville, KY:
   lat: 38.257727
   lng: -85.80767
+3400 Lees Ln at Farnsley Middle School, Louisville, KY:
+  lat: 38.1843337
+  lng: -85.8577458
 3400 Lexington Rd, Louisville, KY:
   lat: 38.2494671
   lng: -85.6665808
@@ -21566,6 +21573,9 @@
   lat: 38.1558697
   lng: -85.6685142
 5300 Marchtown Road, Louisville, KY: null
+5300 Maryman Rd, Louisville, KY:
+  lat: 38.133717
+  lng: -85.8558547
 5300 Matterhorn Dr near Mount Howard Ct, Louisville, KY:
   lat: 38.1687491
   lng: -85.853042
@@ -26559,6 +26569,9 @@
 800 Douglas Park, Louisville, KY:
   lat: 38.179853
   lng: -85.76166
+800 Dresden Ave, Louisville, KY:
+  lat: 38.1974105
+  lng: -85.7728148
 800 E Gray St and 1700 block of Cowling Ave, Louisville, KY: null
 800 E Gray St, Louisville, KY:
   lat: 38.245743
