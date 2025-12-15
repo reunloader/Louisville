@@ -4536,6 +4536,7 @@
 1300 Kentucky Mills Dr, Louisville, KY: null
 1300 Kiefer Rd, Louisville, KY: null
 1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
+1300 Lewis Coleman and 1000 block of Family, Louisville, KY: null
 1300 Lexington Rd at Headliners Music Hall, Louisville, KY:
   lat: 38.2498197
   lng: -85.7271354
@@ -9558,6 +9559,7 @@
 200, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+2000 (location), Louisville, KY: null
 2000 3Rd Street Rd, Louisville, KY:
   lat: 38.1453565
   lng: -85.7758564
@@ -11941,6 +11943,9 @@
 2600 Magazine St, Louisville, KY:
   lat: 38.251621
   lng: -85.794799
+2600 Martin Ave, Louisville, KY:
+  lat: 38.180622
+  lng: -85.842822
 2600 Meadow Dr, Louisville, KY:
   lat: 38.2089547
   lng: -85.6571197
