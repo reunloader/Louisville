@@ -15454,6 +15454,7 @@
 3500 Algonquin Pky, near Russell Lee and 35th Street,, Louisville, KY:
   lat: 38.2245619
   lng: -85.8144583
+3500 Bank St, Louisville, KY: null
 3500 Barchetown Road, Louisville, KY: null
 3500 Bardstown Rd near Paris and Bashford Manor, Louisville, KY:
   lat: 38.20391
@@ -16672,6 +16673,9 @@
 3900 Rankin, Louisville, KY:
   lat: 38.199021
   lng: -85.760922
+3900 River Park, Louisville, KY:
+  lat: 38.255323
+  lng: -85.81603
 3900 Semishrew Road, Louisville, KY: null
 3900 Shelbyville Rd near Roof Bar, Louisville, KY:
   lat: 38.2527039
@@ -25410,6 +25414,7 @@
   lng: -85.8493291
 700 Top Reston Street, Louisville, KY: null
 700 V Street, Louisville, KY: null
+700 Valley College Dr, Louisville, KY: null
 700 W Evelyn Ave, Louisville, KY:
   lat: 38.1965923
   lng: -85.7712149
