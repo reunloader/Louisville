@@ -6635,6 +6635,9 @@
 ? 1600 South 13th Street, involving an argument between a caller and a male individual.
   The caller expressed an unwillingness, Louisville, KY
 : null
+1600 South 13th, Louisville, KY:
+  lat: 38.225331
+  lng: -85.777324
 1600 South 31st Street, Louisville, KY:
   lat: 38.2297704
   lng: -85.8076071
@@ -6646,6 +6649,7 @@
 1600 South 3rd, Louisville, KY:
   lat: 38.2244187
   lng: -85.7608918
+1600 South Floyd and Phyllis, Louisville, KY: null
 ? 1600 South Hirsborne Parkway for a patient experiencing wheezing and shortness of
   air. The individual, a 66-year-old female, was potentially suffering from pneumonia.
   The location is near the I-64 ramp., Louisville, KY
@@ -14252,6 +14256,7 @@
 3000 Thomas Ln, Louisville, KY:
   lat: 38.2191751
   lng: -85.703267
+3000 Varsun Road and Christy Green's lot, Louisville, KY: null
 3000 Vogue Ave, Louisville, KY:
   lat: 38.207532
   lng: -85.635854
