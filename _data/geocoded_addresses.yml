@@ -6739,6 +6739,7 @@
 1600 West Muhammad Ali, Louisville, KY:
   lat: 38.2531319
   lng: -85.7775215
+1600 Westport Rd, Louisville, KY: null
 1600 Whippoorwill Rd, Louisville, KY:
   lat: 38.2103386
   lng: -85.7151337
@@ -17425,6 +17426,9 @@
 400 North 28th Street, Louisville, KY:
   lat: 38.267459
   lng: -85.795458
+400 North 38th Street, Louisville, KY:
+  lat: 38.269496
+  lng: -85.8111684
 400 North Height Ave, Louisville, KY: null
 ? 400 North Height Avenue to attend to a 35-year-old female who was experiencing symptoms
   consistent with a possible overdose of an unknown substance., Louisville, KY
@@ -17614,6 +17618,9 @@
   lat: 38.2589103
   lng: -85.8186315
 400 South 4th Street, Louisville, KY:
+  lat: 38.2528789
+  lng: -85.7574044
+400 South 4th, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
 400 South 5th Street, Louisville, KY:
@@ -22912,6 +22919,7 @@
   units were sent to investigate the area, Louisville, KY
 : null
 600 Lane, Louisville, KY: null
+600 Langdon Dr, Louisville, KY: null
 600 Lewis-Coleman Junior Drive, Louisville, KY: null
 600 Lindell Ave, Louisville, KY:
   lat: 38.253536
