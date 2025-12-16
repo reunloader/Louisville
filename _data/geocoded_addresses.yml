@@ -7536,6 +7536,7 @@
 1800 Integrity Way, Louisville, KY:
   lat: 38.22319
   lng: -85.592193
+1800 Integrity Way. Multiple units responded, Louisville, KY: null
 1800 Jalen Road, Louisville, KY: null
 1800 Kindle Lane, Louisville, KY: null
 1800 Kingsford Dr, Louisville, KY:
@@ -18798,6 +18799,7 @@
   lng: -85.834418
 4300 Donarell Run Drive, Louisville, KY: null
 4300 Donerail Run Dr due, Louisville, KY: null
+4300 Donerail Run Dr, Louisville, KY: null
 4300 Down A Donerail Run Dr, Louisville, KY: null
 4300 E Jefferson St, Louisville, KY:
   lat: 38.2516
@@ -27804,6 +27806,7 @@
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
+8600 Warbler Branch Way, Louisville, KY: null
 ? 8600 Wilgler Branch Way following a report of a medical emergency. The patient,
   a 70-year-old female, was found, Louisville, KY
 : null
