@@ -4555,6 +4555,7 @@
   at this location. Police units responded, Louisville, KY
 : null
 1300 E W Oak St, New Albany, Louisville, KY: null
+1300 Earl Ave, Louisville, KY: null
 1300 Earl Jones Way, Louisville, KY: null
 1300 East Breckenridge, Louisville, KY: null
 1300 East Breckham Ridge Street, Louisville, KY: null
@@ -5631,6 +5632,9 @@
   lng: -85.7617931
 ? 1400 Southbrook Street. The tenant allegedly possessed video evidence of the incident.
   Responding units were dispatched, Louisville, KY
+: null
+? 1400 Southside Dr and West Amherst. They conducted a thorough inspection but found
+  no hazards or leaks, and units returned, Louisville, KY
 : null
 ? 1400 Spirit Lane. The situation at the residence became more concerning when the
   caller mentioned the presence of firearms and individuals who were intoxicated.
@@ -9607,6 +9611,7 @@
   lat: 38.2909338
   lng: -85.5653666
 200 Westport Rd, heading toward I-64 Eastbound. Paramedics attended to her condition and transported her, Louisville, KY: null
+200 Westwood. The scene was addressed promptly, and the situation was stabilized shortly, Louisville, KY: null
 200 William, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
@@ -9626,6 +9631,9 @@
   lat: 38.202624
   lng: -85.4410529
 200 Woodcleft Rd, Louisville, KY: null
+200 Woodlawn, Louisville, KY:
+  lat: 38.180701
+  lng: -85.758832
 200 Woodridge-Dravina, Louisville, KY: null
 200 Woodridge-Dravina. Fire units were dispatched to address the situation., Louisville, KY: null
 200 Woodridge-Dravina. Fire units were dispatched, Louisville, KY: null
@@ -11479,6 +11487,7 @@
 2400 Dundee, Louisville, KY:
   lat: 38.2212216
   lng: -85.6920757
+2400 Earthworm Road, Louisville, KY: null
 2400 Elliott Ave, Louisville, KY:
   lat: 38.250247
   lng: -85.791556
