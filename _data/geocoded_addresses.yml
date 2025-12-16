@@ -2601,6 +2601,7 @@
 10700 Harrison Ln, Louisville, KY:
   lat: 38.094388
   lng: -85.7379631
+10700 Imogene Way near Juanita Ln and Marcitis Rd, Louisville, KY: null
 10700 Jefferson Hill Rd, Louisville, KY:
   lat: 38.093751
   lng: -85.790851
@@ -8792,6 +8793,7 @@
 : null
 200 I 64 East, Louisville, KY: null
 200 I-200 Westbound, Louisville, KY: null
+200 I-200, Louisville, KY: null
 200 I-64, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
@@ -20048,6 +20050,9 @@
   lat: 38.1750257
   lng: -85.7552019
 4800 Appointment Drive, Louisville, KY: null
+4800 Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 4800 Bardstown Rd, Louisville, KY:
   lat: 38.1779416
   lng: -85.6220904
@@ -29915,6 +29920,7 @@ Jefferson St and Greystone Ave, Louisville, KY: null
 Jensen Street and Featherbell Blvd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Johnson School Rd and Cedar Creek Rd, Louisville, KY: null
+Juanita Ln and Marcitis Rd, Louisville, KY: null
 Jule Street and Duncan St, Louisville, KY: null
 Kaleville Road and Lake Forest Dr, Louisville, KY: null
 Kay Avenue and Indiana Ave, Louisville, KY: null
