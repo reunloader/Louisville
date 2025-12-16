@@ -437,6 +437,7 @@
   lng: -85.8265142
 100 Fort Lillian Avenue, Louisville, KY: null
 100 Fort Lillian Avenue. A silver Honda HRV was noted in connection with this incident., Louisville, KY: null
+100 Founder's Court, Louisville, KY: null
 100 Front Walk Top, Louisville, KY: null
 100 Gilmore, Louisville, KY:
   lat: 38.1789198
@@ -5587,6 +5588,7 @@
   lat: 38.229071
   lng: -85.769064
 1400 South Air Sport Parkway, Louisville, KY: null
+1400 South First Street, Louisville, KY: null
 1400 South Floor Street, Louisville, KY: null
 1400 South Forth Street, Louisville, KY: null
 1400 South Hancock to investigate the incident., Louisville, KY: null
@@ -9766,6 +9768,9 @@
   lat: 38.1896357
   lng: -85.7648722
 2000 7th St Rene Rd, Louisville, KY: null
+2000 Adams St, Louisville, KY:
+  lat: 38.2579958
+  lng: -85.7255089
 2000 Appleton Ln, Louisville, KY: null
 2000 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2662921
@@ -13710,6 +13715,9 @@
   lat: 38.2518809
   lng: -85.7406907
 300 S Hancock St, Louisville, KY:
+  lat: 38.252127
+  lng: -85.742432
+300 S Hancock St, near Ballard and New Sheraton Street, Louisville, KY:
   lat: 38.252127
   lng: -85.742432
 300 S Jane St, Louisville, KY:
@@ -20669,6 +20677,9 @@
 500 Five Feet, Louisville, KY: null
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
 500 Fountain Ave near Warwick Ave, Louisville, KY: null
+500 Franklin St, Louisville, KY:
+  lat: 38.2560044
+  lng: -85.7342723
 500 Grand Vista Pl, Louisville, KY: null
 ? 500 Hathaway Ave who was no longer answering their phone. Units checked the Wilford
   area but found no one in need of assistance, confirming a welfare check was initiated.
