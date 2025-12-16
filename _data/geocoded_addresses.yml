@@ -8819,6 +8819,7 @@
 200 Long Home Rd, Louisville, KY:
   lat: 38.1214354
   lng: -85.5730836
+200 Louisville Ave across from Florence, Louisville, KY: null
 200 Lysander Dr, Louisville, KY: null
 200 Marina Dr, Louisville, KY:
   lat: 38.3312116
@@ -15074,6 +15075,9 @@
   lat: 38.2539302
   lng: -85.6728829
 3300 Ginkgo Trail, Louisville, KY: null
+3300 Goldsmith Ln, near Dean Dr and Flora Ave, Louisville, KY:
+  lat: 38.2135622
+  lng: -85.656914
 3300 Hale Ave, Louisville, KY:
   lat: 38.2400104
   lng: -85.8083843
@@ -18777,6 +18781,7 @@
 4300 Cavelle Ave, Louisville, KY:
   lat: 38.190666
   lng: -85.716284
+4300 Charlotte A, Louisville, KY: null
 4300 Charlotte Dr, near Raydale Dr and South Crump Lane, Louisville, KY:
   lat: 38.194219
   lng: -85.840404
@@ -29778,6 +29783,7 @@ Crums Ln and Park Row Dr, Louisville, KY: null
 Crums Ln and Schmitts Ln, Louisville, KY: null
 Dart Dr and Peabody Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
+Dean Dr and Flora Ave, Louisville, KY: null
 Delor Ave and Kansas Boulevard, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dockby Drive and Wenderspoon Street, Louisville, KY: null
