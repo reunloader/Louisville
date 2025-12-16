@@ -16419,6 +16419,10 @@
   lng: -85.7134974
 3800 Poplar Level Rd, specifically at a side door, Louisville, KY: null
 3800 Poplova Road, Louisville, KY: null
+3800 Produce Rd, Exeter, Louisville, KY: null
+3800 Produce Rd, Louisville, KY:
+  lat: 38.1792
+  lng: -85.691744
 ? 3800 Ralph Ave following a report of an individual who was unconscious and not breathing.
   The situation was later updated, Louisville, KY
 : null
@@ -17401,6 +17405,9 @@
 400 Ohio near South 45 at Cecil Ave, Louisville, KY:
   lat: 38.1063316
   lng: -85.8952345
+400 Old Heady Rd, Louisville, KY:
+  lat: 38.1444883
+  lng: -85.4777541
 400 Olenda Ave, Utah, Louisville, KY: null
 400 Oxy Rd, Louisville, KY:
   lat: 38.2209779
@@ -18226,6 +18233,9 @@
   lng: -85.8631151
 4100 Double Fay Drive, Louisville, KY: null
 4100 Dudsman's Lane, Louisville, KY: null
+4100 Durham Ridge Rd, Louisville, KY:
+  lat: 38.1858347
+  lng: -85.5187729
 4100 East Indian Trail, Louisville, KY:
   lat: 38.171563
   lng: -85.68474
@@ -21749,6 +21759,9 @@
 5300 Silver Wing Blvd, Louisville, KY:
   lat: 38.3151369
   lng: -85.5557132
+5300 South 3rd Street, Louisville, KY:
+  lat: 38.1712212
+  lng: -85.7686312
 5300 South Papa Street, Louisville, KY: null
 5300 Southdale Rd, Louisville, KY:
   lat: 38.151808
@@ -26407,6 +26420,9 @@
   lng: -85.6141349
 77600 Bryce Quartz, Louisville, KY: null
 7800 3rd Street Row, Louisville, KY: null
+7800 Albion Dr, Louisville, KY:
+  lat: 38.0948793
+  lng: -85.8664023
 7800 Albrecht Cir, at the intersection of Del Cristo Dr and El Morro Ct, Louisville, KY:
   lat: 38.313563
   lng: -85.603181
