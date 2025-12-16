@@ -2645,6 +2645,9 @@
 10900 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
+10900 Sewell Dr, Louisville, KY:
+  lat: 38.1412447
+  lng: -85.5674062
 10900 Stone St, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
@@ -11028,6 +11031,9 @@
 2300 Boulevard Napoleon. Responders were on scene, Louisville, KY:
   lat: 38.221638
   lng: -85.694698
+2300 Brent St, Louisville, KY:
+  lat: 38.2441834
+  lng: -85.7355087
 2300 Brixton Rd, Louisville, KY: null
 2300 Brownsboro Rd, Louisville, KY:
   lat: 38.2580757
@@ -22207,6 +22213,7 @@
 5700 Bardstown Rd, Louisville, KY:
   lat: 38.1628763
   lng: -85.5970273
+5700 Bradby 4th Lane, Louisville, KY: null
 5700 Bruns Dr, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
