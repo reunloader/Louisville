@@ -12446,6 +12446,9 @@
 2600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2550265
   lng: -85.794407
+2600 West Broadway near 27th and 26th streets, Louisville, KY:
+  lat: 38.2489909
+  lng: -85.7951833
 2600 West Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
@@ -26993,6 +26996,9 @@
 7900 Preston Hwy, last seen southbound. A BOLO was issued, Louisville, KY: null
 7900 Shelby Field Road, Louisville, KY: null
 7900 Shelby Grove Road, Louisville, KY: null
+7900 Shelby Rd near 16-02, Louisville, KY:
+  lat: 38.2085025
+  lng: -85.7126899
 7900 Shelbyville Rd at Oxford Mall, Louisville, KY:
   lat: 38.2472183
   lng: -85.6103014
@@ -29619,6 +29625,7 @@
 9600 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
+9600 West Mansfield Road across from Old New Cut Rd, Louisville, KY: null
 9600 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
