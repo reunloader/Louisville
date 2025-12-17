@@ -10357,6 +10357,7 @@
 2100 Church Park Cir. Responding personnel were sent, Louisville, KY:
   lat: 38.2140553
   lng: -85.6249091
+2100 Columbia St, Louisville, KY: null
 2100 Congress St near South 22nd and W, Louisville, KY:
   lat: 38.257593
   lng: -85.785193
@@ -22395,6 +22396,7 @@
 5700 Bardstown Rd, Louisville, KY:
   lat: 38.1628763
   lng: -85.5970273
+5700 Barker Personal, Louisville, KY: null
 5700 Bradby 4th Lane, Louisville, KY: null
 5700 Bruns Dr, Louisville, KY:
   lat: 38.171284
@@ -25440,6 +25442,9 @@
   lat: 38.244091
   lng: -85.755458
 700 South33rd Street, Louisville, KY: null
+700 South37th Street, Louisville, KY:
+  lat: 38.249929
+  lng: -85.812787
 700 South38th Street, Louisville, KY:
   lat: 38.250005
   lng: -85.815041
@@ -27874,6 +27879,9 @@
 8600 Devonshire Dr, Louisville, KY:
   lat: 38.1284602
   lng: -85.8689259
+8600 Fenwick Creek Pl, Louisville, KY:
+  lat: 38.2021078
+  lng: -85.6018787
 8600 Forest Way Dr, Louisville, KY: null
 ? 8600 Forest Way Dr, specifically near a duplex. This type of call often involves
   concerns for someone's well-being or unusual activity that has drawn attention.
