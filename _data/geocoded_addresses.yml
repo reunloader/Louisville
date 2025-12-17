@@ -70,6 +70,9 @@
 06 Falcon Crest Dr, Louisville, KY:
   lat: 38.1183325
   lng: -85.6929215
+06 Ray Ave, Louisville, KY:
+  lat: 38.2404557
+  lng: -85.7093132
 06 Springford Avenue, Louisville, KY: null
 08 Air Smoudies Drive, Louisville, KY: null
 08 Gabriel Dr, Louisville, KY:
@@ -6318,6 +6321,7 @@
   lat: 38.2237634
   lng: -85.4784293
 15700 an unspecified street, Louisville, KY: null
+15800 DC Highway, Louisville, KY: null
 15800 Dixie Hwy, Louisville, KY:
   lat: 38.0239138
   lng: -85.9163572
@@ -7073,6 +7077,9 @@
 1700 Rosewood, Louisville, KY:
   lat: 38.2336943
   lng: -85.7166782
+1700 Rowan, Louisville, KY:
+  lat: 38.2601226
+  lng: -85.7780022
 1700 S Preston St, Louisville, KY:
   lat: 38.2221054
   lng: -85.7501885
@@ -15163,6 +15170,7 @@
 3300 Schneiter Ave, Louisville, KY:
   lat: 38.201681
   lng: -85.78528
+3300 Stony Brook Dr, Louisville, KY: null
 3300 Taylor Blvd, Louisville, KY:
   lat: 38.2022323
   lng: -85.7817945
@@ -23758,6 +23766,7 @@
 6300 Bardstown Rd, Louisville, KY:
   lat: 38.1550799
   lng: -85.5903615
+6300 Bass Rd BASS Road Nursing Home, Louisville, KY: null
 6300 Bass Rd, Louisville, KY:
   lat: 38.3504019
   lng: -85.6285044
