@@ -7030,6 +7030,9 @@
 1700 Newberg, Louisville, KY: null
 1700 Newberg. Emergency services were dispatched, Louisville, KY: null
 1700 Newberg. Responding units arrived, Louisville, KY: null
+1700 Newburg Rd, Louisville, KY:
+  lat: 38.223866
+  lng: -85.711398
 1700 Nobel Pl, Louisville, KY: null
 1700 Northwestern Pky at Metro Park, Louisville, KY:
   lat: 38.264815
@@ -8905,6 +8908,7 @@
 200 Mohawk Ave, Louisville, KY:
   lat: 38.1869501
   lng: -85.7585945
+200 Moore Ct building 11, Louisville, KY: null
 200 Mount Marker14, Louisville, KY: null
 200 N Lakeview Dr, Louisville, KY:
   lat: 38.2079112
@@ -11009,6 +11013,9 @@
 2200 Waterdale. Responding officers were dispatched, Louisville, KY: null
 2200 West Alley due, Louisville, KY: null
 2200 West Alley, Louisville, KY: null
+2200 West Broadway, Louisville, KY:
+  lat: 38.2490337
+  lng: -85.7884977
 2200 West Holley, Louisville, KY: null
 2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
@@ -27740,6 +27747,7 @@
 8200 Spring Glade Pl, Louisville, KY:
   lat: 38.318654
   lng: -85.596426
+8200 Springdale Rd, Louisville, KY: null
 8200 St, Louisville, KY:
   lat: 38.2957056
   lng: -85.5975753
