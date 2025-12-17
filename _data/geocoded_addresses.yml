@@ -9790,6 +9790,8 @@
   lng: -85.65801
 200 southbound I-64 at New Cudden, Louisville, KY: null
 200 southbound I-64 near New Cut Rd ramp, Louisville, KY: null
+200 southbound at Avila Church, Louisville, KY: null
+200 southbound at Gula Church, Louisville, KY: null
 200 southbound at the 24, Louisville, KY: null
 200 southbound at the 24.1 mile marker, Louisville, KY: null
 200 southbound from Highway64, Louisville, KY: null
@@ -13385,6 +13387,9 @@
 300 Blair Creek Ct. The specific circumstances leading, Louisville, KY:
   lat: 38.0914922
   lng: -85.6437538
+300 Boxley Ave near Harwell and Helm, Louisville, KY:
+  lat: 38.20556
+  lng: -85.756522
 300 Boxley Ave, Louisville, KY:
   lat: 38.20556
   lng: -85.756522
@@ -16902,6 +16907,9 @@
 400 Ambrosse Ln. Police units were dispatched, Louisville, KY:
   lat: 38.1957296
   lng: -85.6033485
+400 Amy Ave near Larkwood and Herman, Louisville, KY:
+  lat: 38.2593959
+  lng: -85.8135537
 400 Atom, Louisville, KY: null
 400 Atom, with a suspect described as possibly being outside and wearing a black jacket, Louisville, KY: null
 ? 400 Baker Aly STREET following a report of an assault. A 42-year-old male sought
