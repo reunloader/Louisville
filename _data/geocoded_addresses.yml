@@ -1269,6 +1269,7 @@
   lat: 38.1647849
   lng: -85.5679104
 100 mile marker, Louisville, KY: null
+100 north height avenue, Louisville, KY: null
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
 100 the area linked, Louisville, KY: null
@@ -9775,6 +9776,7 @@
   intersection of 15th and Wilson, prompting a priority response from LG&E. The pole
   number was communicated to the relevant authorities, Louisville, KY
 : null
+200 east Canada, Louisville, KY: null
 200 east near Brownsboro and Hatcher Ave, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -16151,6 +16153,9 @@
   lat: 38.1940497
   lng: -85.784751
 '3600 block of Brownsboro Rd)** (around 10:36 p.m. a.m. p.m.): responded to a medical call, Louisville, KY': null
+3600 young avenue, Louisville, KY:
+  lat: 38.230765
+  lng: -85.815405
 3621 Wheeler Avenue, Louisville, KY:
   lat: 38.1933635
   lng: -85.7881541
@@ -18077,6 +18082,9 @@
 : null
 400 east direction street, Louisville, KY: null
 400 or400 block of, Louisville, KY: null
+400 south 2nd, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 the area to de-escalate and resolve the situation., Louisville, KY: null
 400 the area, Louisville, KY: null
 400 the location to address the welfare check., Louisville, KY: null
@@ -27458,6 +27466,9 @@
 800 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
+800 south 4th street, Louisville, KY:
+  lat: 38.2440401
+  lng: -85.7592478
 800 westbound between Bardstown and Wheelichurch, Louisville, KY: null
 8000 Afterglow Dr, Louisville, KY:
   lat: 38.1342766
@@ -29001,6 +29012,9 @@
 9100 Dixie Hwy near Speedway, Louisville, KY:
   lat: 38.1222535
   lng: -85.8553681
+9100 Fern Creek Rd, Louisville, KY:
+  lat: 38.1555014
+  lng: -85.5915469
 9100 Front Run Road, Louisville, KY: null
 ? 9100 Galene Dr to investigate a report of suspicious activity. The exact nature
   of the call was not immediately clear, but it may have involved a request, Louisville,
@@ -29869,6 +29883,7 @@ Beulah Church Rd and Farnsley Rd, Louisville, KY: null
 Bicknell Ave and Wheeler Ave, Louisville, KY: null
 Bignol Street and Parthenia Ave, Louisville, KY: null
 Bill Tom Road and Lovers Ln, Louisville, KY: null
+Billtown Rd and Mason Rd, Louisville, KY: null
 Billtown Rd and Schaffner Ave, Louisville, KY: null
 Billtown Rd and Shaffer Ln, Louisville, KY: null
 Bishop Ln and Jennings Ln, Louisville, KY: null
