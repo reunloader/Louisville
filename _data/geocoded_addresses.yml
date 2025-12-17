@@ -13422,6 +13422,9 @@
 300 Boxley Ave, Louisville, KY:
   lat: 38.20556
   lng: -85.756522
+300 Breeze Cir, Louisville, KY:
+  lat: 38.0915438
+  lng: -85.8780676
 300 Broadway and Road, Louisville, KY: null
 300 Brombe Street, Louisville, KY: null
 300 Buckland Trace, Louisville, KY:
@@ -16759,6 +16762,7 @@
   lat: 38.2917671
   lng: -85.4902052
 3900 Nappany Road, Louisville, KY: null
+3900 Old Brownsboro Rd near Westwind Rd and Indian Hills Green, Louisville, KY: null
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -29026,6 +29030,9 @@
   lat: 38.1012378
   lng: -85.5924749
 9200 Lease Cave Road, Louisville, KY: null
+9200 Linn Station Rd near Nottingham Pky and Holgros Drive, Louisville, KY:
+  lat: 38.228702
+  lng: -85.5815773
 9200 Linn Station Rd, Louisville, KY:
   lat: 38.2287277
   lng: -85.5812853
@@ -29267,6 +29274,9 @@
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
   lng: -85.4388263
+9500 Browns Village Rd at Speedway, Louisville, KY:
+  lat: 38.3002361
+  lng: -85.5414963
 9500 Civic Way at CCG, Verandah, Crestcomb, Starr, Mary St, Louisville, KY:
   lat: 38.321115
   lng: -85.564417
@@ -30262,6 +30272,7 @@ North Hersborn Parkway and Westport Rd, Louisville, KY: null
 North Horsborne Parkway and Westport Rd, Louisville, KY: null
 North Ln and Staebler Ave, Louisville, KY: null
 Northbound Drive and Welman Dr, Louisville, KY: null
+Nottingham Pky and Holgros Drive, Louisville, KY: null
 Oak New Crete Road and Commerce Park Dr, Louisville, KY: null
 Oak St and Barret Ave, Louisville, KY: null
 Oak St and Fischer Ave, Louisville, KY: null
