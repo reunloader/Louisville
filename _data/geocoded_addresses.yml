@@ -6129,6 +6129,7 @@
   lng: -85.8001686
 1500 Ormsby Ln, Louisville, KY: null
 1500 Paul Tuckett Court, Louisville, KY: null
+1500 Pearson Ct, Louisville, KY: null
 1500 Phyllis Ave, Louisville, KY:
   lat: 38.2080976
   lng: -85.7835406
@@ -7914,6 +7915,9 @@
 1900 Brownsboro Rd. Responding units arrived on scene, but the alarm company later provided a cancellation, Louisville, KY:
   lat: 38.2588516
   lng: -85.7125223
+1900 Buechel Bank Rd, Louisville, KY:
+  lat: 38.179388
+  lng: -85.648437
 1900 Cerberich Circle, Louisville, KY: null
 1900 Crimson Dr, Louisville, KY: null
 1900 Crop Hollow View, Louisville, KY: null
@@ -22698,6 +22702,9 @@
 5800 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1029536
   lng: -85.6537319
+5800 Crockett Dr, Louisville, KY:
+  lat: 38.167516
+  lng: -85.873559
 5800 Elderwood Way, Louisville, KY:
   lat: 38.1935447
   lng: -85.8020654
@@ -25715,6 +25722,7 @@
   Louisville, KY
 : null
 700 Southbrook Street. The call was, Louisville, KY: null
+700 Southbrook, Reeves Center Ministries, Louisville, KY: null
 700 St, Louisville, KY: null
 700 St. St Michael Church Dr, Louisville, KY: null
 700 Stanton Blvd, Louisville, KY:
