@@ -6674,6 +6674,9 @@
   child was transported to a local facility, Louisville, KY
 : null
 1600 Shelby Station Dr, Louisville, KY: null
+1600 South 11th Street, Louisville, KY:
+  lat: 38.2257282
+  lng: -85.7745261
 ? 1600 South 13th Street, involving an argument between a caller and a male individual.
   The caller expressed an unwillingness, Louisville, KY
 : null
@@ -9780,6 +9783,7 @@
 200 near the I-15 interchange. Authorities were alerted, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 northbound I-200, Louisville, KY: null
 200 northbound around mile marker 841, Louisville, KY: null
 200 northbound at the 13, Louisville, KY: null
 200 northbound at the 30-mile marker, Louisville, KY: null
@@ -25239,6 +25243,7 @@
   lat: 38.2626066
   lng: -85.7802078
 700 Oxford Avenue, Louisville, KY: null
+700 Oxford Pl, Louisville, KY: null
 700 Oxmoor Ave, Louisville, KY:
   lat: 38.239111
   lng: -85.609548
