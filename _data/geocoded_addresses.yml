@@ -4664,6 +4664,9 @@
 1300 Kentucky Mills Dr, Louisville, KY: null
 1300 Kiefer Rd, Louisville, KY: null
 1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
+1300 Lance Dr, Louisville, KY:
+  lat: 38.183229
+  lng: -85.801401
 1300 Lewis Coleman and 1000 block of Family, Louisville, KY: null
 1300 Lexington Rd at Headliners Music Hall, Louisville, KY:
   lat: 38.2498197
@@ -8709,6 +8712,9 @@
   lng: -85.7582215
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near Marchtown Road, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East near River Park, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East near exit 19A, Louisville, KY: null
@@ -22167,6 +22173,9 @@
 5400 Catalina, Louisville, KY:
   lat: 38.117892
   lng: -85.867117
+5400 Clearwater Farm Blvd, Louisville, KY:
+  lat: 38.1545885
+  lng: -85.6629899
 5400 Decker Rd, Louisville, KY:
   lat: 38.126653
   lng: -85.863607
@@ -28012,6 +28021,9 @@
 8400 Glendale Trace. One officer indicated they would be on scene, Louisville, KY:
   lat: 38.14842
   lng: -85.60612
+8400 Glenside Pl, Louisville, KY:
+  lat: 38.2050019
+  lng: -85.7109095
 8400 Independence School Rd, Louisville, KY:
   lat: 38.104545
   lng: -85.607266
@@ -28148,6 +28160,9 @@
   lng: -85.6548368
 8600 Bluebell Dr, Louisville, KY: null
 8600 Bluebell, Louisville, KY: null
+8600 Broad Run Rd, Louisville, KY:
+  lat: 38.1215592
+  lng: -85.5419058
 8600 Devonshire Dr, Louisville, KY:
   lat: 38.1284602
   lng: -85.8689259
@@ -28189,6 +28204,9 @@
 8600 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+8600 Soverign Way, Louisville, KY:
+  lat: 38.1517039
+  lng: -85.8640994
 8600 Standing Oaks, Louisville, KY: null
 ? 8600 Standing Oaks. The vehicle's Vehicle Identification Number (VIN) could not
   be verified, prompting concern and investigation by responding units., Louisville,
