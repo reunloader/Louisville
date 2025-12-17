@@ -6905,6 +6905,9 @@
 1700 Berry Blvd, Louisville, KY:
   lat: 38.1962903
   lng: -85.793759
+1700 Blanton Ln, Louisville, KY:
+  lat: 38.1574191
+  lng: -85.8303183
 1700 Bonnyville Blvd, Louisville, KY:
   lat: 38.165238
   lng: -85.825072
@@ -9280,6 +9283,9 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South at Interstate 64, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
+200 South at New Cut, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
 200 South at Peewee Valley exit, Louisville, KY:
@@ -23506,6 +23512,9 @@
 600 South44th Street, Louisville, KY:
   lat: 38.256241
   lng: -85.824617
+600 South44th, Louisville, KY:
+  lat: 38.256241
+  lng: -85.824617
 600 South73, Louisville, KY: null
 600 Southern Pky, Louisville, KY:
   lat: 38.1836068
@@ -27756,6 +27765,9 @@
 8100 Dixie Hwy. Units were dispatched, Louisville, KY:
   lat: 38.134534
   lng: -85.845217
+8100 Horizon Ln, Louisville, KY:
+  lat: 38.1326492
+  lng: -85.6931528
 8100 I 64 East, Louisville, KY: null
 8100 Joyce Dr, Louisville, KY:
   lat: 38.1323147
