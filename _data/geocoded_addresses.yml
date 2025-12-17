@@ -149,6 +149,7 @@
 100 Baker Lincoln Henry Whiskey, was transported, Louisville, KY: null
 100 Baker and 1100 block of South 28th, Louisville, KY: null
 100 Baker and 200 block of Adam, Louisville, KY: null
+100 Baker and 281, Louisville, KY: null
 100 Baker, 200 block of Baker, and 200 block of Adam, Louisville, KY: null
 100 Baker, Louisville, KY:
   lat: 38.1412684
@@ -745,6 +746,7 @@
   that a service person was allegedly being unkind, Louisville, KY
 : null
 100 Norwood Dr, Louisville, KY: null
+100 Oak Bridge Cir, Louisville, KY: null
 100 Old Cameron's Lane, Louisville, KY: null
 100 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
@@ -10316,6 +10318,7 @@
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
   lng: -85.4851725
+2100 Austin Avenue, Louisville, KY: null
 2100 Bank St, Louisville, KY:
   lat: 38.2660094
   lng: -85.7832854
@@ -20141,6 +20144,9 @@
 4700 South First Street, backyard, Louisville, KY: null
 4700 South First, Louisville, KY: null
 4700 South Hirsborne Parkway at Morning Point, Louisville, KY: null
+4700 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
   lat: 38.105447
