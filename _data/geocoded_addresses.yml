@@ -4286,6 +4286,7 @@
 12000 River Beauty Loop, Louisville, KY:
   lat: 38.3324934
   lng: -85.5673749
+12000 Sanxing, Louisville, KY: null
 12000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -11461,6 +11462,9 @@
 2300 West Broadway at Moore Temple, Louisville, KY:
   lat: 38.2490267
   lng: -85.7900907
+2300 West Broadway, Louisville, KY:
+  lat: 38.2490267
+  lng: -85.7900907
 2300 West Calvert, Louisville, KY: null
 2300 West Elkhorn Street, Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
@@ -13806,6 +13810,9 @@
 300 North 41st Street, Louisville, KY:
   lat: 38.2665202
   lng: -85.8158519
+300 North 43rd Street, Louisville, KY:
+  lat: 38.2670782
+  lng: -85.8181961
 300 North Birchwood, Louisville, KY:
   lat: 38.259626
   lng: -85.69278
