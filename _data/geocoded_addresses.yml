@@ -1579,6 +1579,9 @@
   lng: -85.6723688
 1000 Floyd and Farmington, Louisville, KY: null
 1000 Floyd and Farmington. Coordination with dispatch was necessary to clarify details and arrange, Louisville, KY: null
+1000 Franklin St, Louisville, KY:
+  lat: 38.255854
+  lng: -85.733264
 1000 Glen Meadow Rd near Glen Stone Rd and Spring Gate Drop, Louisville, KY:
   lat: 38.3108786
   lng: -85.5646017
@@ -24311,6 +24314,9 @@
 6600 Lunar Dr, Louisville, KY:
   lat: 38.15714
   lng: -85.857062
+6600 Macalester Dr, Louisville, KY:
+  lat: 38.160281
+  lng: -85.759535
 6600 Maple Ct, Louisville, KY:
   lat: 38.2585425
   lng: -85.6883385
