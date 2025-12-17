@@ -8742,6 +8742,9 @@
   lat: 38.1564672
   lng: -85.4407666
 200 Eastbound near Bells Ln, Louisville, KY: null
+200 Eastbound near exit 20A, Louisville, KY:
+  lat: 38.1859027
+  lng: -85.7429972
 200 Eastbound, Louisville, KY: null
 200 Eastbound, just before the Bells Ln exit. The vehicle, an SUV, was observed, Louisville, KY: null
 ? 200 Eastern Parkway where children were making repeated hang-up calls or activating
@@ -13857,6 +13860,9 @@
 300 South Third Street, Louisville, KY: null
 300 South Winslow Street, Louisville, KY: null
 300 South at I-65, Louisville, KY: null
+300 South41st near Larkwood and Herman, Louisville, KY:
+  lat: 38.2604204
+  lng: -85.8178928
 300 South43rd Street, Louisville, KY:
   lat: 38.2614562
   lng: -85.8208636
