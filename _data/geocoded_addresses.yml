@@ -79,6 +79,9 @@
   lat: 38.1565043
   lng: -85.8545813
 08 Whirl Avenue, Louisville, KY: null
+09 Morning Glory, Louisville, KY:
+  lat: 38.1357767
+  lng: -85.8707138
 1 Audubon Plaza Dr, Louisville, KY:
   lat: 38.2155102
   lng: -85.7220735
@@ -3534,6 +3537,7 @@
 11800 Standiford Plaza Dr. Units from the 7th Division were en route, Louisville, KY:
   lat: 38.0921635
   lng: -85.6679085
+11800 Weatherview Avenue, Louisville, KY: null
 11900 Boydton Ct, Crop St of 200 block of Boydton Ct, Louisville, KY: null
 11900 Boydton Ct, Louisville, KY: null
 11900 Deer Park Ave, Louisville, KY:
