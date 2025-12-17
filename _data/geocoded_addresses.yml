@@ -14773,6 +14773,7 @@
 3100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+3100 Taylor's Road, Louisville, KY: null
 3100 Taylor, Louisville, KY:
   lat: 38.2064352
   lng: -85.7768145
@@ -15241,6 +15242,10 @@
 3300 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
+? 3300 Lilly Ave, providing necessary medical aid. Later, a 33-year-old woman at Hess
+  Ln was found to be overdosing, with responders administering care to her. An 91-year-old
+  woman at Oxmoor Lodge also received medical assistance, Louisville, KY
+: null
 3300 Linda Ln, Newburgh Church, Crochet Canyon Rd, Louisville, KY: null
 3300 Mary O'Concord Dr, Louisville, KY: null
 3300 Mary O'Connor Way, Louisville, KY: null
@@ -15507,6 +15512,9 @@
 3400 Powell Ave, Louisville, KY:
   lat: 38.199848
   lng: -85.7902684
+3400 Preston Hwy at Charlie's Chief Stake drive-thru, Louisville, KY:
+  lat: 38.197505
+  lng: -85.731625
 3400 Preston Hwy near Florida Corp, Crusher Bourbon Avenue, and Wolfe Ave, Louisville, KY:
   lat: 38.197505
   lng: -85.731625
@@ -21197,6 +21205,9 @@
 500 South Jackson, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
+500 South Preston, Louisville, KY:
+  lat: 38.2498099
+  lng: -85.7475716
 500 South Service Street, Louisville, KY: null
 500 South Third Street, Louisville, KY: null
 500 South, Louisville, KY: null
@@ -23282,6 +23293,9 @@
 600 Shepherdsville Rd. EMS was requested, Louisville, KY:
   lat: 38.1495553
   lng: -85.6598797
+600 Shop29 Street at Eclipse, Louisville, KY:
+  lat: 38.2531996
+  lng: -85.6559586
 600 South 10th Street, Louisville, KY:
   lat: 38.24992
   lng: -85.767932
