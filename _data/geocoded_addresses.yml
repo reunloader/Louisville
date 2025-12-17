@@ -295,6 +295,7 @@
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
+100 E Ellington Ave near Sugar Garden Street, Louisville, KY: null
 100 E Ellington Ave, Crop St, Lyman Ave and South 1st Street, Louisville, KY: null
 100 E Ellington Ave, Louisville, KY:
   lat: 38.180412
@@ -13083,6 +13084,9 @@
 2900 Flair Drive and Hall Ct, Louisville, KY: null
 2900 Flare Null Court, Louisville, KY: null
 2900 Flare Null Court, near Flare Null Drive,, Louisville, KY: null
+2900 Gale St, Louisville, KY:
+  lat: 38.1866627
+  lng: -85.8418571
 2900 Garfield Ave near North 30th Street, Louisville, KY:
   lat: 38.2674035
   lng: -85.7976195
@@ -13257,6 +13261,7 @@
   lat: 38.1550559
   lng: -85.8008399
 30 South Bridge Street, Louisville, KY: null
+300 (location unspecified), Louisville, KY: null
 300 A Craig Ave, Louisville, KY:
   lat: 38.1916656
   lng: -85.7898357
