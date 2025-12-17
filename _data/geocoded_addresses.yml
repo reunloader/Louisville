@@ -4095,6 +4095,7 @@
 1200 South1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
+1200 South32nd Street and nearby areas, Louisville, KY: null
 1200 South3rd St, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
@@ -6881,6 +6882,7 @@
 1700 Bergamot Dr, Louisville, KY:
   lat: 38.3288878
   lng: -85.5722413
+1700 Bernheim Ln, Louisville, KY: null
 1700 Berry Blvd, Louisville, KY:
   lat: 38.1962903
   lng: -85.793759
@@ -9680,6 +9682,9 @@
 200 William. Further details, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
+200 Wilmington Ave, Louisville, KY:
+  lat: 38.2507027
+  lng: -85.6594324
 200 Wolf Pen Branch Rd, Louisville, KY:
   lat: 38.3212788
   lng: -85.5710543
@@ -15343,6 +15348,9 @@
 3400 Cathy Daschick Way, Louisville, KY: null
 3400 Cathy Dexter, Louisville, KY: null
 3400 Cathy Dystra, unit 202, Louisville, KY: null
+3400 Chauncey Ave, Louisville, KY:
+  lat: 38.2313578
+  lng: -85.8123939
 3400 Coventry Commons Dr, unit 104, Louisville, KY: null
 3400 Covington Commons Drive, Crescent K1 Road, Louisville, KY: null
 3400 Dale Park Terrace. The activation was due, Louisville, KY: null
