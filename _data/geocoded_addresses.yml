@@ -5808,6 +5808,7 @@
 14500 English Park Cir, Louisville, KY:
   lat: 38.2242842
   lng: -85.4953906
+14600 Azalea Hill Ln, Louisville, KY: null
 ? 14600 Dominic Michael Drive following a report of an individual in distress. Multiple
   units were deployed to assist in the situation, with a drone being utilized to aid
   in the search. Emergency medical services were requested to the scene. The individual
@@ -20260,6 +20261,7 @@
 4715 Preston Hwy, Louisville, KY:
   lat: 38.1794727
   lng: -85.7176764
+48 Poplova Road, Louisville, KY: null
 4800 Allmond Ave, Louisville, KY:
   lat: 38.1750257
   lng: -85.7552019
@@ -24913,6 +24915,9 @@
 6900 Yuma Way, Louisville, KY:
   lat: 38.1178905
   lng: -85.8869996
+7 Baymeadow Dr, Louisville, KY:
+  lat: 38.1506339
+  lng: -85.8278343
 7 Dorinda Dr, Louisville, KY:
   lat: 38.1319541
   lng: -85.8610999
