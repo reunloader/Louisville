@@ -2550,6 +2550,9 @@
 ? 10400 Southpointe Blvd. The call reported a suspicious individual who was observed
   staring at an ambulance. Officers investigated the situation, Louisville, KY
 : null
+10400 Taylor Blvd, Louisville, KY:
+  lat: 38.2084711
+  lng: -85.7734951
 10400 Thrift Dr, Louisville, KY: null
 10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
 10400 Watermark Pl, Louisville, KY: null
@@ -7366,6 +7369,7 @@
 1700 W Kentucky St, Louisville, KY:
   lat: 38.241855
   lng: -85.783285
+1700 W Kingston Ave near Crossroad Christopher Place and South St, Louisville, KY: null
 1700 W Market St & I-64 East, Louisville, KY: null
 1700 W Market St, Louisville, KY:
   lat: 38.257543
@@ -27093,6 +27097,7 @@
 76 Abbey Rd, Louisville, KY:
   lat: 38.0714152
   lng: -85.8950484
+76 an unspecified street, Louisville, KY: null
 7600 3rd St Rene Rd near Cartledge Avenue, Louisville, KY: null
 7600 3rd St Rene Rd, Louisville, KY: null
 7600 Ashby Landings Dr, Louisville, KY:
