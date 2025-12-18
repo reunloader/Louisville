@@ -8270,6 +8270,9 @@
   and took appropriate action., Louisville, KY
 : null
 20 Charter Oaks Drive, Louisville, KY: null
+20 Daleray Dr, Louisville, KY:
+  lat: 38.1655549
+  lng: -85.675783
 20 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -17860,6 +17863,9 @@
   lat: 38.2542376
   lng: -85.759407
 400 Savage Dr, Louisville, KY: null
+400 Second Street, Louisville, KY:
+  lat: 38.2627168
+  lng: -85.7518467
 400 Shadow Ridge Ln, Louisville, KY:
   lat: 38.3181135
   lng: -85.5573463
@@ -19322,6 +19328,9 @@
 4300 South St near W Lansing Ave, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+4300 South3rd Street, Louisville, KY:
+  lat: 38.193839
+  lng: -85.765056
 4300 South4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
@@ -26406,6 +26415,7 @@
 7200 Lentz Ave, Louisville, KY:
   lat: 38.1922412
   lng: -85.7859322
+7200 Lower Hunter Straits, Louisville, KY: null
 7200 Lucille Ave, Louisville, KY:
   lat: 38.146865
   lng: -85.845118
