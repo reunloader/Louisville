@@ -5293,6 +5293,7 @@
 1400 Boulevard, Louisville, KY:
   lat: 38.1960982
   lng: -85.7858118
+1400 Breyer Gate, Louisville, KY: null
 1400 Bridget Dr, Louisville, KY:
   lat: 38.1098524
   lng: -85.7407906
@@ -7122,6 +7123,7 @@
 : null
 1700 Model Rd, between Tiny and Loney Lanes. Responders were on the scene and cleared the location shortly, Louisville, KY: null
 1700 Model Rd, cross of Tiny Ln and Loney Ln, Louisville, KY: null
+1700 Mofoski Ave, Louisville, KY: null
 ? 1700 Newberg to conduct a welfare check. A male individual had called for assistance
   but was unable to clearly state the reason for his distress, prompting officers
   to investigate the situation., Louisville, KY
@@ -8172,6 +8174,7 @@
 1900 Rowan St, Louisville, KY:
   lat: 38.2605375
   lng: -85.7813194
+1900 San Jose Ave, Louisville, KY: null
 1900 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
   lng: -85.6833215
@@ -10894,6 +10897,7 @@
 2200 Bonnycastle Ave, Louisville, KY:
   lat: 38.233694
   lng: -85.699703
+2200 Breyer Gate, Louisville, KY: null
 2200 Broadway, Louisville, KY:
   lat: 38.2490337
   lng: -85.7884977
@@ -22158,6 +22162,9 @@
   lat: 38.1655538
   lng: -85.6661966
 5200 Sand Wood Ln, Crop St of Ridge Lake Dr, Louisville, KY: null
+5200 Scioto Dr, Louisville, KY:
+  lat: 38.2538691
+  lng: -85.5731696
 5200 Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
