@@ -18895,6 +18895,7 @@
 4100 Tulip Cir, Louisville, KY:
   lat: 38.1224022
   lng: -85.6875097
+4100 W Alley near South 43rd and South 41st Streets, Louisville, KY: null
 4100 W Kentucky St, Louisville, KY:
   lat: 38.24534
   lng: -85.819777
@@ -24153,6 +24154,12 @@
 6200 Brownsboro Rd, Louisville, KY:
   lat: 38.2835684
   lng: -85.6287332
+6200 Camp Ground Rd at Bakelite Chemical Factory, Louisville, KY:
+  lat: 38.1936731
+  lng: -85.863904
+6200 Camp Ground Rd, Louisville, KY:
+  lat: 38.1936731
+  lng: -85.863904
 6200 Crystal Pointe Dr, Louisville, KY:
   lat: 38.1543232
   lng: -85.4852714
@@ -29369,6 +29376,9 @@
 9000 Beulah Church, Louisville, KY:
   lat: 38.147254
   lng: -85.595159
+9000 Dixie Hwy at Baggy City Furniture, Louisville, KY:
+  lat: 38.1250336
+  lng: -85.852618
 9000 Dorrance Dr, Louisville, KY:
   lat: 38.1246572
   lng: -85.8596047
