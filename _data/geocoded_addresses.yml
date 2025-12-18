@@ -312,6 +312,9 @@
 100 E Ellington Ave, Louisville, KY:
   lat: 38.180412
   lng: -85.665093
+100 E Jefferson St at Way5, Louisville, KY:
+  lat: 38.2528794
+  lng: -85.7515837
 100 E Jefferson St, Louisville, KY:
   lat: 38.2528794
   lng: -85.7515837
@@ -11015,6 +11018,9 @@
 2200 Hale Ave. The caller indicated that her grandmother was attempting, Louisville, KY:
   lat: 38.2382143
   lng: -85.7903012
+2200 Heather Ln, Louisville, KY:
+  lat: 38.2076155
+  lng: -85.6642181
 2200 Heather Ln. However, the patient decided, Louisville, KY:
   lat: 38.2076133
   lng: -85.6642191
@@ -17485,6 +17491,9 @@
 400 Downes Ln, Louisville, KY:
   lat: 38.155955
   lng: -85.757544
+400 E Jefferson St at Wayside, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
 400 E Jefferson St near S Jackson St, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -20116,6 +20125,9 @@
 4500 South30th Street at Thornton's, Louisville, KY:
   lat: 38.2300585
   lng: -85.8061221
+4500 South3rd Street, Louisville, KY:
+  lat: 38.1889361
+  lng: -85.7656325
 4500 South3rd, Louisville, KY:
   lat: 38.1889361
   lng: -85.7656325
