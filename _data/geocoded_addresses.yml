@@ -2570,6 +2570,9 @@
 10500 Seatonville Rd. Responding units arrived to find that the individual responsible, Louisville, KY:
   lat: 38.145184
   lng: -85.566692
+10500 Sunlight Ln, Louisville, KY:
+  lat: 38.1003874
+  lng: -85.8411061
 10600 Dixie Hwy, Louisville, KY: null
 10600 Four Oaks Ct, Louisville, KY:
   lat: 38.1913107
@@ -2733,6 +2736,9 @@
   lat: 38.2235747
   lng: -85.7032029
 1100 17th Street, but this was later corrected, Louisville, KY: null
+1100 Algonquin Pky, Louisville, KY:
+  lat: 38.2138395
+  lng: -85.7734051
 1100 Apex View Dr, Louisville, KY: null
 1100 Barch John Road, Louisville, KY: null
 1100 Barchetown Road, Louisville, KY: null
@@ -4926,6 +4932,7 @@
 1300 South Preston, Louisville, KY:
   lat: 38.23088
   lng: -85.750124
+1300 South S Floyd St, Louisville, KY: null
 1300 South Second Street, Louisville, KY: null
 1300 South Second Street, before officers ceased pursuit, Louisville, KY: null
 1300 South Second Street, before officers ceased pursuit., Louisville, KY: null
@@ -9288,6 +9295,9 @@
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
+200 South 23rd Street, Louisville, KY:
+  lat: 38.258731
+  lng: -85.789011
 200 South 31st Street, Louisville, KY:
   lat: 38.2475613
   lng: -85.8037969
@@ -28970,6 +28980,9 @@
 900 Iola Rd. Residents were advised, Louisville, KY:
   lat: 38.242236
   lng: -85.657594
+900 Keswick Blvd, Louisville, KY:
+  lat: 38.2184615
+  lng: -85.7423356
 900 Lake Forest Pky, Louisville, KY:
   lat: 38.2513909
   lng: -85.4864475
