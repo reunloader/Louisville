@@ -43263,4 +43263,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 5
   batch_new_successes: 0
-last_updated: '2025-12-18T06:04:30.442955'
+- timestamp: '2025-12-18T06:19:42.127110'
+  total_addresses: 13116
+  successful: 6630
+  failed: 6486
+  success_rate: 50.55
+  failure_rate: 49.45
+  failure_patterns:
+    Contains location qualifiers (near/at): 2055
+    Incomplete/vague address: 1458
+    Intersection format: 1218
+    Other/Unknown: 1273
+    Contains extra sentences/context: 474
+    Police phonetic codes: 8
+  batch_success_rate: 60.0
+  batch_new_addresses: 5
+  batch_new_successes: 3
+last_updated: '2025-12-18T06:19:42.127237'

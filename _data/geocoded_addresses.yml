@@ -3010,6 +3010,9 @@
   preparing, Louisville, KY
 : lat: 38.2366186
   lng: -85.7535764
+1100 S Floyd St at the Valero, Louisville, KY:
+  lat: 38.234987
+  lng: -85.751627
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
   lng: -85.749224
@@ -6537,6 +6540,7 @@
 1600 Dixie, Louisville, KY:
   lat: 38.2273929
   lng: -85.7913037
+1600 Dixville, Louisville, KY: null
 1600 Earl, Louisville, KY:
   lat: 38.2083825
   lng: -85.7851152
@@ -15080,6 +15084,7 @@
 3200 Lena Ln. Previous calls had been associated with this location, and a review was conducted, Louisville, KY:
   lat: 38.1065676
   lng: -85.5036462
+3200 Level Ln (B3 area), Louisville, KY: null
 3200 Lynnview Dr, Louisville, KY:
   lat: 38.1866267
   lng: -85.8462218
@@ -19196,6 +19201,9 @@
 4300 Norfolk Dr, Louisville, KY:
   lat: 38.184023
   lng: -85.641219
+4300 Outer Loop, Louisville, KY:
+  lat: 38.1375353
+  lng: -85.6817151
 4300 Park Ave, Louisville, KY:
   lat: 38.2316106
   lng: -85.7627975
@@ -30011,6 +30019,9 @@
   lat: 38.1132852
   lng: -85.8631828
 9900 Dixie Hwy. This call may have been initiated, Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
+9900 Dixie at the Mire, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
 9900 Forest Green Blvd until 1900 hours, Louisville, KY: null
