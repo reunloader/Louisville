@@ -5943,6 +5943,9 @@
 15 Audubon Plaza Dr, Louisville, KY:
   lat: 38.2145905
   lng: -85.716453
+15 Churchman Ave, Louisville, KY:
+  lat: 38.1829126
+  lng: -85.7922834
 15 Cypress St, Louisville, KY:
   lat: 38.2214381
   lng: -85.8005435
@@ -14134,6 +14137,7 @@
   lng: -85.7572606
 300 South Bailey, Louisville, KY: null
 300 South First at Shell Station, Louisville, KY: null
+300 South Hubbard's Lane near Ligonard Traditional High School, Louisville, KY: null
 300 South Park Street, Louisville, KY: null
 300 South Shawnee Terrace, Louisville, KY:
   lat: 38.2621561
@@ -16384,6 +16388,9 @@
 3600 Virginia Ave. Upon arrival, no smoke was visible, and the alarm was determined, Louisville, KY:
   lat: 38.23921
   lng: -85.813755
+3600 W Jefferson St, Louisville, KY:
+  lat: 38.2600465
+  lng: -85.8097816
 3600 W Manslick Rd, Louisville, KY:
   lat: 38.1083742
   lng: -85.762655
