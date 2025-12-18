@@ -11756,6 +11756,7 @@
   lat: 38.2212216
   lng: -85.6920757
 2400 Earthworm Road, Louisville, KY: null
+2400 East Point Parkway, Louisville, KY: null
 2400 Elliott Ave, Louisville, KY:
   lat: 38.250247
   lng: -85.791556
@@ -13164,6 +13165,9 @@
   lat: 38.2231367
   lng: -85.7727441
 2800 South 8th Street at Cardinal Stadium, Louisville, KY: null
+2800 South Station Road, Louisville, KY:
+  lat: 38.2203617
+  lng: -85.4783836
 2800 South4th Street, Louisville, KY:
   lat: 38.2089394
   lng: -85.765146
@@ -14425,6 +14429,9 @@
   lat: 38.2126508
   lng: -85.7253292
 3000 Fern Valley Rd, McDonald's, Louisville, KY: null
+3000 Fordhaven Rd, Louisville, KY:
+  lat: 38.1489023
+  lng: -85.8150685
 3000 Freys Hill Rd, Louisville, KY:
   lat: 38.2862661
   lng: -85.5582275
@@ -25202,6 +25209,9 @@
 6900 Arbor Creek Dr. Responding units were dispatched, Louisville, KY:
   lat: 38.122131
   lng: -85.616247
+6900 Bardstown Rd, Louisville, KY:
+  lat: 38.1461678
+  lng: -85.5880381
 6900 Betsy Ross Dr, Louisville, KY:
   lat: 38.056368
   lng: -85.893516
@@ -28547,6 +28557,9 @@
   lat: 38.1462326
   lng: -85.8248355
 8600 Longborough Way, Louisville, KY: null
+8600 National Turnpike, Louisville, KY:
+  lat: 38.1253139
+  lng: -85.7528932
 8600 River Terrace Dr, Louisville, KY:
   lat: 38.1521349
   lng: -85.8671784
