@@ -1100,6 +1100,7 @@
   lat: 38.257183
   lng: -85.726966
 100 West Adairmber, Louisville, KY: null
+100 West Alley Boulevard, Louisville, KY: null
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
   lng: -85.6228053
@@ -2926,6 +2927,9 @@
   lat: 38.1370132
   lng: -85.6939169
 1100 Longfield Ave near Deer Street Avenue, Louisville, KY:
+  lat: 38.198414
+  lng: -85.7785067
+1100 Longfield Ave near Taylor Blvd and D, Louisville, KY:
   lat: 38.198414
   lng: -85.7785067
 1100 Longfield Ave near Taylor Blvd, Louisville, KY:
@@ -14543,6 +14547,12 @@
   lat: 38.158914
   lng: -85.756046
 3000 W W Market St. The activation indicated that a single round was fired., Louisville, KY: null
+3000 Wayne Rd near Medical Delta, Louisville, KY:
+  lat: 38.200672
+  lng: -85.828105
+3000 Wayne Rd, Louisville, KY:
+  lat: 38.200672
+  lng: -85.828105
 ? '3000 Wedgewood Way)** (around 1:15 p.m. a.m. p.m.): Officers were dispatched to
   check the welfare of a 49-year-old female named Shane Hensley, who sent a text the
   previous night expressing that she didn''t want to live anymore. Units responded
