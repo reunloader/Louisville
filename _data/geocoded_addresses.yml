@@ -6193,6 +6193,7 @@
 1500 South 15th St, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
+1500 South 15th Street crossing Westway and W Hill St, Louisville, KY: null
 1500 South 15th Street near Wesley Street, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
@@ -17052,6 +17053,7 @@
   lng: -85.734743
 400 Adams, creating a potential danger, Louisville, KY: null
 400 Alana Dr, Alveria Court, Louisville, KY: null
+400 Alton Rd across Dynamic Way, Louisville, KY: null
 ? 400 Amarillo where the owner of a vehicle was experiencing tire issues. The individual
   indicated they planned to move the vehicle out of the roadway., Louisville, KY
 : null
@@ -18757,6 +18759,7 @@
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
+416 Alton Rd, Louisville, KY: null
 42 Garland Ave, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
 4200 Allmond Ave, Louisville, KY:
@@ -25689,6 +25692,12 @@
   the responding engine company, Louisville, KY
 : lat: 38.244898
   lng: -85.751927
+700 South Brook near Dollar General, Louisville, KY:
+  lat: 38.244898
+  lng: -85.751927
+700 South Brook**, Louisville, KY:
+  lat: 38.244898
+  lng: -85.751927
 700 South Crescent Street, Louisville, KY: null
 700 South Creston, Louisville, KY: null
 700 South Grove Street, Louisville, KY: null
@@ -28626,6 +28635,7 @@
   lng: -85.7341309
 900 Franklin St, Louisville, KY: null
 900 Franklin St. The alarm was specifically, Louisville, KY: null
+900 Gagel Ave crossing with Air Koi Park, Louisville, KY: null
 900 Gagel Ave, Louisville, KY:
   lat: 38.1720593
   lng: -85.806028
@@ -28848,6 +28858,7 @@
   was provided to the person at the scene., Louisville, KY
 : null
 900 South 4th St following a report of an individual who had fallen. Assistance was provided, Louisville, KY: null
+900 South 4th Street crossing Base Valley and W Breckinridge St, Louisville, KY: null
 900 South 4th Street near Baseball and Breckenridge at Friendship House, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
