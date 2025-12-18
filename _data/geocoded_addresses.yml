@@ -739,6 +739,9 @@
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason, Louisville, KY
 : null
+100 North42nd Street, Louisville, KY:
+  lat: 38.2651355
+  lng: -85.817821
 100 North45th Street, Louisville, KY: null
 100 North4th Street, Louisville, KY:
   lat: 38.256754
@@ -24117,6 +24120,9 @@
 6200 Mistflower Cir. The occupant, a male, was believed, Louisville, KY:
   lat: 38.3303026
   lng: -85.5632085
+6200 Mount Blanc Rd, Louisville, KY:
+  lat: 38.1689481
+  lng: -85.8558628
 6200 Newton Woods Trail, Louisville, KY: null
 6200 Oak Valley Dr, Louisville, KY:
   lat: 38.1632109
@@ -26374,6 +26380,9 @@
 7200 Bardstown Rd at Sappi Carpenter, Louisville, KY:
   lat: 38.2385615
   lng: -85.7212522
+7200 Ben Franklin Ct, Louisville, KY:
+  lat: 38.1448763
+  lng: -85.7689891
 7200 Billtown Rd, Louisville, KY:
   lat: 38.1398214
   lng: -85.5402269
@@ -26416,6 +26425,7 @@
   lat: 38.1922412
   lng: -85.7859322
 7200 Lower Hunter Straits, Louisville, KY: null
+7200 Lower Hunter's Trace, Louisville, KY: null
 7200 Lucille Ave, Louisville, KY:
   lat: 38.146865
   lng: -85.845118
