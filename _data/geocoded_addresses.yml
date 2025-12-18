@@ -8324,6 +8324,7 @@
 200 Baker and 100 block of Baker, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
+200 Baker and W Kentucky St, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker was subsequently reported as clear of any related activity, Louisville, KY: null
 200 Baker, Louisville, KY:
@@ -8749,6 +8750,9 @@
 200 East near Baker, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East near Dixie Hwy, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near Marchtown Road, Louisville, KY:
   lat: 38.1861148
@@ -8934,6 +8938,7 @@
 : null
 200 I 64 East, Louisville, KY: null
 200 I-200 Westbound, Louisville, KY: null
+200 I-200 at the 12, Louisville, KY: null
 200 I-200, Louisville, KY: null
 200 I-64, Louisville, KY:
   lat: 38.2781537
@@ -9505,6 +9510,9 @@
 200 West Broadway near Poplar Level. Police units were involved in responding, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
+200 West Broadway near South Third and South Second, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
 200 West Broadway, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
@@ -9641,6 +9649,9 @@
 : null
 200 West from I-64 West, Louisville, KY: null
 200 West near 9, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
+200 West near Dixie Hwy, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
 200 West near Kane Run and 1800 block of San Jose Ave, Louisville, KY:
@@ -15961,6 +15972,9 @@
 3500 Whippoorwill Rd, Louisville, KY:
   lat: 38.209591
   lng: -85.714919
+3500 Winterberry Cir near Mockenburg Gardens Drive, Louisville, KY:
+  lat: 38.2623072
+  lng: -85.671487
 3500 Woodmont Park Ln, Louisville, KY:
   lat: 38.284865
   lng: -85.477467
@@ -28880,6 +28894,7 @@
 900 Patton Ct. Responding units were dispatched, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
+900 Peaceful Avenue, Louisville, KY: null
 900 Philadelphia Street, Louisville, KY: null
 900 Phillips Ln near Mission and Stanford, Louisville, KY:
   lat: 38.193672
