@@ -2109,6 +2109,9 @@
 1000 South3rd Street, Louisville, KY:
   lat: 38.2384976
   lng: -85.7585373
+1000 South47th Street, near East Jacob East College, Louisville, KY:
+  lat: 38.2457302
+  lng: -85.8325125
 1000 South4th Street, Louisville, KY:
   lat: 38.2387451
   lng: -85.7600955
@@ -3125,6 +3128,10 @@
 1100 South Slater, Louisville, KY: null
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
+1100 South32nd Street, Louisville, KY:
+  lat: 38.2413227
+  lng: -85.8067247
+1100 South32nd Street, cross with Virginia and Hale Ave, Louisville, KY: null
 1100 South4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -14792,6 +14799,7 @@
   lat: 38.2191858
   lng: -85.7614601
 3100 South Forest, Louisville, KY: null
+3100 South Kermes Lane, Louisville, KY: null
 3100 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
@@ -17608,6 +17616,7 @@
   lat: 38.2348065
   lng: -85.4928995
 400 Lewis Coleman Jr, Louisville, KY: null
+400 Lewis Coleman, Juniper Dr, cross with Markwood and Herman, Louisville, KY: null
 400 Lightfoot Rd, cross with Mayfair Ln and Basswood Ln, Louisville, KY: null
 ? 400 Lindsay Ct following a report of an unresponsive male found in a bathtub. Responders
   encountered difficulty accessing the individual due to a locked door., Louisville,
@@ -20571,6 +20580,7 @@
 4900 Dixie Hwy, Louisville, KY:
   lat: 38.1710866
   lng: -85.8271051
+4900 Dixie Hwy, close, Louisville, KY: null
 4900 E Manslick Rd, Louisville, KY:
   lat: 38.1169537
   lng: -85.6694382
@@ -29347,6 +29357,9 @@
   lng: -85.6779117
 9200 Rainbow Springs Ct, Louisville, KY: null
 9200 South63rd Street, Louisville, KY: null
+9200 Spring Grove Way, Louisville, KY:
+  lat: 38.147191
+  lng: -85.590242
 9200 Springbrooke Cir, Louisville, KY:
   lat: 38.3029385
   lng: -85.5768629
