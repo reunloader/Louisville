@@ -4762,6 +4762,9 @@
 1300 N S Peterson Ave, Louisville, KY:
   lat: 38.2491801
   lng: -85.6970953
+1300 Oakwood, Louisville, KY:
+  lat: 38.1766317
+  lng: -85.7831597
 1300 Old Fern Valley Rd, Louisville, KY:
   lat: 38.1554819
   lng: -85.6901603
@@ -11205,6 +11208,9 @@
   lng: -85.7594798
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched, Louisville, KY: null
+2200 West Ali Blvd, Louisville, KY:
+  lat: 38.2542612
+  lng: -85.7875154
 2200 West Alley due, Louisville, KY: null
 2200 West Alley near 112, Louisville, KY: null
 2200 West Alley, Louisville, KY: null
@@ -15608,6 +15614,7 @@
 3400 Boxelder Rd, Louisville, KY:
   lat: 38.197263
   lng: -85.842053
+3400 Cathay-Dykstra Way, Louisville, KY: null
 3400 Cathe Dykstra Way, Louisville, KY:
   lat: 38.1921668
   lng: -85.8509711
@@ -19142,6 +19149,7 @@
 4200 Northwestern Pky, Louisville, KY:
   lat: 38.273645
   lng: -85.815048
+4200 Out of Loop at TNC Bank of Argo, Louisville, KY: null
 4200 Outer Loop westbound, Louisville, KY: null
 4200 Outer Loop, Louisville, KY:
   lat: 38.1372312
