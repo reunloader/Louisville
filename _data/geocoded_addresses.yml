@@ -735,6 +735,9 @@
 100 North38th Street, Louisville, KY:
   lat: 38.2634695
   lng: -85.8118587
+100 North39th Street, Louisville, KY:
+  lat: 38.2640115
+  lng: -85.8135749
 ? 100 North40th Street, which was later corrected to the 100 block of North45th Street.
   The nature of the suspicious activity or the reason for the welfare check was not
   specified. The outcome of the police response to this location is also unclear at
@@ -3325,6 +3328,9 @@
 11000 Symington Cir near Skeffington Way, Louisville, KY:
   lat: 38.3197107
   lng: -85.5508172
+11000 Torrington Rd, Louisville, KY:
+  lat: 38.095141
+  lng: -85.863729
 11000 Westport Rd and Factory Ln and Chamberlain Ln, Louisville, KY: null
 11000 Westport Rd, Louisville, KY:
   lat: 38.2909338
@@ -10987,6 +10993,9 @@
 2200 Greenbelt Hwy, Louisville, KY:
   lat: 38.1635691
   lng: -85.8795608
+2200 Griffiths Ave, Louisville, KY:
+  lat: 38.2642252
+  lng: -85.7852711
 2200 Hail, Louisville, KY: null
 2200 Hale Ave, Louisville, KY:
   lat: 38.2382143
@@ -19191,6 +19200,7 @@
   lat: 38.1866716
   lng: -85.5954418
 4200 Stony Stratus, Louisville, KY: null
+4200 Town Center, Louisville, KY: null
 4200 W Ellington Ave, Louisville, KY: null
 4200 W Market St, Louisville, KY:
   lat: 38.2631659
