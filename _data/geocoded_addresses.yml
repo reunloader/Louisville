@@ -6286,6 +6286,7 @@
   lng: -85.7823901
 1500 South 30th Street and 3000 block of Southern Ave, Louisville, KY: null
 1500 South 30th Street due, Louisville, KY: null
+1500 South 3rd Street, Crop St of York St, West Broadway, Louisville, KY: null
 1500 South 4th Street, Louisville, KY:
   lat: 38.225886
   lng: -85.762033
@@ -17844,6 +17845,9 @@
 400 North 20th St, Louisville, KY:
   lat: 38.2636644
   lng: -85.7824983
+400 North 21st Street, near Cleveland Ave and Griffiths Ave, Louisville, KY:
+  lat: 38.263955
+  lng: -85.783775
 400 North 28th Street, Louisville, KY:
   lat: 38.267459
   lng: -85.795458
@@ -22611,6 +22615,9 @@
 5500 Indian Oaks Cir, Louisville, KY:
   lat: 38.1695373
   lng: -85.6869482
+5500 Indian Oaks Cir, Louisville, Louisville, KY:
+  lat: 38.1695373
+  lng: -85.6869482
 5500 Johnsontown Rd, Louisville, KY:
   lat: 38.1212828
   lng: -85.8702268
@@ -23407,6 +23414,7 @@
   the rear of a residence, close, Louisville, KY
 : lat: 38.262923
   lng: -85.708053
+600 Evans St, Catherine, Crop St South 5th Street, Louisville, KY: null
 600 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
@@ -30558,6 +30566,7 @@ Clark Run Rd and Cane Run Rd, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
 Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
+Cleveland Ave and Griffiths Ave, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cliff Ave and Denmark St, Louisville, KY: null
