@@ -2932,6 +2932,7 @@
 1100 Lincoln Ave, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
+1100 Linden Ln, Linden Crossing, Louisville, KY: null
 1100 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
@@ -5819,6 +5820,9 @@
   lat: 38.2342544
   lng: -85.8028824
 1400 [Street Name Not Provided], Louisville, KY:
+  lat: 38.2347369
+  lng: -85.825457
+1400 [Street Name], Louisville, KY:
   lat: 38.2347369
   lng: -85.825457
 ? 1400 block of East Broadway, across from Preston and Floyd, at Kingdom Fellowship,
@@ -26435,6 +26439,7 @@
 7100 M Street, Louisville, KY:
   lat: 38.2092052
   lng: -85.7665391
+7100 Mayhouse Way, cross Valley Fairway and Johnston Way, Louisville, KY: null
 ? 7100 N N Preston Hwy regarding a stabbing incident. A 24-year-old male was the victim.
   Responding units staged in the parking lot while Metro PD secured the scene., Louisville,
   KY
@@ -30756,6 +30761,7 @@ Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jefferson St and Baxter Ave, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
 Jefferson St and Greystone Ave, Louisville, KY: null
+Jenny Lind Dr and Eula Rd, Louisville, KY: null
 Jensen Street and Featherbell Blvd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Johnson School Rd and Cedar Creek Rd, Louisville, KY: null
