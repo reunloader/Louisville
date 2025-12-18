@@ -6929,6 +6929,7 @@
 16800 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+17 Butler Rd, Louisville, KY: null
 17 Dana Dr, Louisville, KY:
   lat: 38.1843698
   lng: -85.8017491
@@ -8319,6 +8320,9 @@
 200 Abraham Flecks Northway at UofL Health ER, Louisville, KY:
   lat: 38.2496463
   lng: -85.7514083
+200 Abraham Flexner Way, Louisville, KY:
+  lat: 38.2503299
+  lng: -85.7502142
 200 Abraham Flexner Way. Multiple fire trucks arrived, Louisville, KY:
   lat: 38.2503299
   lng: -85.7502142
@@ -12734,6 +12738,9 @@
   lng: -85.8571346
 2700 Martin House Ln, Louisville, KY: null
 2700 Melvin Ct near Melvin Dr, Louisville, KY:
+  lat: 38.1836198
+  lng: -85.8429426
+2700 Melvin Ct, Louisville, KY:
   lat: 38.1836198
   lng: -85.8429426
 ? 2700 Montana Ave in response to a report of an eviction. Upon arrival, a deputy
@@ -28866,6 +28873,9 @@
 900 E W Market St near Winslow and Campbell, Louisville, KY:
   lat: 38.2554323
   lng: -85.7586619
+900 E W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2563581
+  lng: -85.8046069
 900 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
