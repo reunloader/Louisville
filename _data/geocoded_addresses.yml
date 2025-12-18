@@ -4827,6 +4827,9 @@
 1300 South 13th Street, Louisville, KY:
   lat: 38.234199
   lng: -85.775763
+1300 South 16th Street, Louisville, KY:
+  lat: 38.234563
+  lng: -85.780762
 1300 South 20th Street near St, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
@@ -4914,6 +4917,7 @@
 1300 South Floyd, Louisville, KY:
   lat: 38.2313724
   lng: -85.7524629
+1300 South Foid Street, Louisville, KY: null
 1300 South Hirsborne Pkwy, Holiday Inn, Louisville, KY: null
 1300 South Preston, Louisville, KY:
   lat: 38.23088
@@ -17506,6 +17510,7 @@
   lng: -85.7474066
 400 East Ever, Louisville, KY: null
 400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
+400 East Great Lawn, Louisville, KY: null
 ? 400 East Jefferson Street to assist a 59-year-old male experiencing a seizure. Personnel
   were met at the front entrance by someone who could provide assistance. The patient
   received prompt medical attention., Louisville, KY
@@ -19872,6 +19877,9 @@
 4500 Grand Ave near Southwestern Pky and South 45th Street, Louisville, KY:
   lat: 38.2436989
   lng: -85.8279584
+4500 Hale Ave, Louisville, KY:
+  lat: 38.2417516
+  lng: -85.8281832
 4500 Hillside Dr, Louisville, KY:
   lat: 38.1406018
   lng: -85.8271841
@@ -22669,6 +22677,9 @@
   lat: 38.1205947
   lng: -85.8738843
 5600 Brooker, Louisville, KY: null
+5600 Bruns Dr, Louisville, KY:
+  lat: 38.1713674
+  lng: -85.8189187
 5600 Fox Horn Cir, Louisville, KY:
   lat: 38.1624896
   lng: -85.8562396
@@ -27518,6 +27529,9 @@
 800 Iroquois Avenue 05:34 p, Louisville, KY: null
 800 Iroquois Avenue 05:34 p.m., Louisville, KY: null
 800 Jenny Lindrob near D Road, Louisville, KY: null
+800 John Law Ct, Louisville, KY:
+  lat: 38.0924641
+  lng: -85.8528978
 800 Kinross Pl, Louisville, KY: null
 800 Kinross Pl. Fire units were dispatched, Louisville, KY: null
 800 Lincoln King Baker, Louisville, KY: null
