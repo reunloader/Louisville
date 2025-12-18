@@ -3114,6 +3114,9 @@
 1100 South 6th Street, Louisville, KY:
   lat: 38.235858
   lng: -85.763661
+1100 South 7th Street, Louisville, KY:
+  lat: 38.2376437
+  lng: -85.7648692
 1100 South 8th Street, Louisville, KY:
   lat: 38.237794
   lng: -85.766688
@@ -10067,6 +10070,7 @@
   lat: 38.2345
   lng: -85.713684
 2000 Chevy Apollo, Louisville, KY: null
+2000 Chevy Silverado, Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
@@ -16916,6 +16920,9 @@
 3900 Bishop Ln. Units from the 6th Division were assigned, Louisville, KY:
   lat: 38.1871224
   lng: -85.6950539
+3900 Breckenridge Ln at Watson Ln Elementary, Louisville, KY:
+  lat: 38.1914337
+  lng: -85.6271444
 3900 Brown Leigh Road, Louisville, KY: null
 3900 Brownlee Rd near Meridian Ave and Breckmarch Lane, Louisville, KY: null
 3900 Brownlee Rd near Meridian and Breckenridge, Louisville, KY: null
@@ -27198,6 +27205,9 @@
 7900 Breitlinger Park Place 3:00 a, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
 7900 Cannon-Narrow-Way, Louisville, KY: null
+7900 Daleray Dr, Louisville, KY:
+  lat: 38.1655549
+  lng: -85.675783
 7900 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
