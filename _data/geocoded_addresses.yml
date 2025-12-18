@@ -1573,6 +1573,7 @@
 1000 East Oak, Louisville, KY:
   lat: 38.2327741
   lng: -85.7371635
+1000 Eastern University of Louisville Hospital, Louisville, KY: null
 ? 1000 Euclid Avenue following a report of a domestic situation. Officers were on
   scene to investigate and attempt to make contact with individuals inside the residence.
   The situation involved a caller who had reported a male subject was present at the
@@ -9251,6 +9252,7 @@
 200 South 38th Street, Louisville, KY:
   lat: 38.260732
   lng: -85.811955
+200 South 39th, Louisville, KY: null
 ? 200 South 42nd Street. The alarm was triggered by a pull station at the intersection
   of Herman St and W Market St. After an investigation, it was determined, Louisville,
   KY
@@ -15444,6 +15446,9 @@
 3400 Barton Road, Louisville, KY:
   lat: 38.114744
   lng: -85.8695175
+3400 Boxelder Rd, Louisville, KY:
+  lat: 38.197263
+  lng: -85.842053
 3400 Cathe Dykstra Way, Louisville, KY:
   lat: 38.1921668
   lng: -85.8509711
@@ -24617,6 +24622,9 @@
 6600 South 3rd Street, Louisville, KY:
   lat: 38.1634895
   lng: -85.7699077
+6600 South Dr, Louisville, KY:
+  lat: 38.0886182
+  lng: -85.8854502
 6600 South3rd Street, Louisville, KY:
   lat: 38.1634895
   lng: -85.7699077
@@ -24837,6 +24845,9 @@
   lat: 38.1519038
   lng: -85.8370427
 6800 Dixie Hwy near Hobby Lobby, Louisville, KY:
+  lat: 38.1519038
+  lng: -85.8370427
+6800 Dixie Hwy), Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
 6800 Dixie Hwy, Dixie Manor Shopping Center, Louisville, KY: null
