@@ -12760,6 +12760,12 @@
   no further status checks required., Louisville, KY
 : null
 2700 South Third. Their presence was scheduled, Louisville, KY: null
+2700 South3rd Street near Elm and Winkler, Louisville, KY:
+  lat: 38.2099173
+  lng: -85.7635386
+2700 South3rd Street near Helm St and Winkler Ave, Louisville, KY:
+  lat: 38.2099173
+  lng: -85.7635386
 2700 St, Louisville, KY: null
 2700 Stephan Rd, Louisville, KY:
   lat: 38.1597135
@@ -27420,6 +27426,9 @@
 800 Foxwood, Louisville, KY:
   lat: 38.257124
   lng: -85.56892
+800 French Ave, Louisville, KY:
+  lat: 38.212049
+  lng: -85.733379
 800 Gagel Ave, Louisville, KY:
   lat: 38.1717355
   lng: -85.8017887
@@ -30497,6 +30506,7 @@ Hazel St and South Second Street, Louisville, KY: null
 Heafer Rd and Hagen Rd, Louisville, KY: null
 Health Avenue and Crafty Dr, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
+Helm St and Winkler Ave, Louisville, KY: null
 Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Herman St and Glendora Ave, Louisville, KY: null
