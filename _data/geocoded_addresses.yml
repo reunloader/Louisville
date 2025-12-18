@@ -5211,6 +5211,7 @@
 14 Estate Dr, Louisville, KY:
   lat: 38.1728605
   lng: -85.8052468
+14 Laura Ave, Louisville, KY: null
 1400 2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
@@ -20710,6 +20711,9 @@
 4900 Celeste Dr near Jet Thomas and Roy William Pl, Louisville, KY:
   lat: 38.1785138
   lng: -85.6372124
+4900 Celina Ct, Louisville, KY:
+  lat: 38.1653745
+  lng: -85.710695
 4900 Cherry Forest Cir, Louisville, KY:
   lat: 38.3046014
   lng: -85.5175142
@@ -26683,6 +26687,7 @@
 7300 Winstead Dr near Mcdeane Rd, Louisville, KY:
   lat: 38.1328199
   lng: -85.8935918
+7300 Winstead Dr, Crop St, Kainline Road, Greenbelt Hwy at K1 Distributing, Louisville, KY: null
 7300 York River Rd at 2206, Louisville, KY:
   lat: 38.1457591
   lng: -85.7623126
@@ -27404,6 +27409,7 @@
 800 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+800 Cherry Way, Crop St near National Turnpike and Shaffer Rd, Louisville, KY: null
 800 Cross your Sherry Lynn Ct, Louisville, KY: null
 800 Cut Road, Louisville, KY:
   lat: 38.1182679
@@ -28971,6 +28977,9 @@
   lat: 38.2103918
   lng: -85.7451354
 900 Monkford Drive, near Mist Flower and May Apple,, Louisville, KY: null
+900 Mountain, Louisville, KY:
+  lat: 38.3311216
+  lng: -85.5488099
 ? 900 N S English Station Rd due to a report of a chemical odor. The smell was described
   as toxic fumes, prompting occupants of a K&P roofing unit to evacuate. The location
   is near Old Henry Rd and Aiken Rd., Louisville, KY
