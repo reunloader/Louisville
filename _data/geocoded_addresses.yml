@@ -2872,6 +2872,9 @@
 1100 Hennepin Dr, Louisville, KY:
   lat: 38.1504886
   lng: -85.7883306
+1100 Hess Ln, Louisville, KY:
+  lat: 38.2091348
+  lng: -85.7272949
 1100 I 64 East, Louisville, KY: null
 1100 I 65 South, Louisville, KY: null
 1100 I 65 South. The nature of the alarm was not specified., Louisville, KY: null
@@ -3122,6 +3125,9 @@
 1100 South Slater, Louisville, KY: null
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
+1100 South4th Street near Oak and St, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South4th Street, Louisville, KY: null
 1100 South7th Street near Webster St, Catherine, and W Oak St, Louisville, KY:
   lat: 38.2376437
@@ -7383,6 +7389,9 @@
 17500 Stallion Way, Louisville, KY:
   lat: 38.2721699
   lng: -85.4380326
+17600 Shake Street Drive near Artisan Park Pl, Louisville, KY:
+  lat: 38.1968892
+  lng: -85.4289469
 17900 Wind Dance Dr, Louisville, KY: null
 18 Flicker Rd, Louisville, KY:
   lat: 38.1307941
@@ -9592,6 +9601,7 @@
 200 West at mile marker 18, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West at the 13 mile marker, Louisville, KY: null
 200 West at the 452, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -14347,6 +14357,9 @@
   patient began to regain consciousness, EMS was advised to evaluate, Louisville,
   KY
 : null
+3000 Oakwood Ave near Schneiter Ave, Louisville, KY:
+  lat: 38.2033606
+  lng: -85.7863759
 3000 Parkland Ct, Louisville, KY: null
 3000 Parkstone Ct, Louisville, KY:
   lat: 38.2887238
@@ -16537,6 +16550,9 @@
 3700 West Wheatmore, Louisville, KY:
   lat: 38.1905624
   lng: -85.7999149
+3700 Wheeler Ave near Southern Heights, Louisville, KY:
+  lat: 38.191243
+  lng: -85.788685
 3700 Wheeler Ave, Louisville, KY:
   lat: 38.191243
   lng: -85.788685
@@ -17972,6 +17988,10 @@
 400 South27th Street, Louisville, KY:
   lat: 38.256603
   lng: -85.795448
+400 South2nd Street near West Alley and W Liberty St, Louisville, KY: null
+400 South2nd Street, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South4th Street, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
@@ -21860,6 +21880,9 @@
   lat: 38.170965
   lng: -85.574905
 5200 Deadless Park, Louisville, KY: null
+5200 Dixie Hwy at the car wash, Louisville, KY:
+  lat: 38.1645712
+  lng: -85.8311729
 5200 Dixie Hwy, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
