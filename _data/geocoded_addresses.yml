@@ -54,6 +54,9 @@
 01 Logistics Dr, Louisville, KY:
   lat: 38.1687352
   lng: -85.8847613
+01 River Bend Dr, Louisville, KY:
+  lat: 38.26863
+  lng: -85.6992415
 01 Sheehan Landing Dr, Louisville, KY: null
 01 Story Ave, Louisville, KY:
   lat: 38.2556205
@@ -8523,6 +8526,7 @@
 200 Claremont Ave, Louisville, KY:
   lat: 38.2568138
   lng: -85.6770385
+200 Clover Ln, Louisville, KY: null
 200 Cloverwood Ln, Louisville, KY:
   lat: 38.1662495
   lng: -85.5828141
@@ -9390,6 +9394,9 @@
   lat: 38.3140959
   lng: -85.5732474
 200 South Second Street, Louisville, KY: null
+200 South Shawnee Terrace, Louisville, KY:
+  lat: 38.264109
+  lng: -85.822253
 200 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -15434,6 +15441,9 @@
   lat: 38.1921668
   lng: -85.8509711
 3300 Cathy Dexter Way, Louisville, KY: null
+3300 Chateau Ln, Louisville, KY:
+  lat: 38.148023
+  lng: -85.699878
 3300 Clarinet Dr near Oboe Dr, Louisville, KY:
   lat: 38.1922651
   lng: -85.8473475
@@ -18259,6 +18269,7 @@
 400 Taylor Blvd, Louisville, KY:
   lat: 38.2079291
   lng: -85.7741776
+400 Trace and Race Rd, Louisville, KY: null
 400 Trinity Hills Ln, Louisville, KY: null
 400 University Blvd, Louisville, KY:
   lat: 38.214119
@@ -20951,6 +20962,7 @@
 4900 Spring Farm Rd, Louisville, KY:
   lat: 38.318931
   lng: -85.594044
+4900 Swap Swain, cross Ternan Lane and Omaha Ln, Louisville, KY: null
 4900 Terry Rd, Louisville, KY:
   lat: 38.178
   lng: -85.86195
@@ -24291,6 +24303,7 @@
 6200 Greenhaven Dr, Louisville, KY: null
 6200 Hanson's Drive, Louisville, KY: null
 6200 Helen Gene Way, Louisville, KY: null
+6200 Kansas Drive, Louisville, KY: null
 6200 Middlerose Cir, Louisville, KY:
   lat: 38.1030822
   lng: -85.8753813
@@ -24886,6 +24899,7 @@
 6600 Preston Hwy. The situation was resolved and cleared shortly, Louisville, KY:
   lat: 38.156696
   lng: -85.696994
+6600 Rolling Pasture Way, cross Longview, Louisville, KY: null
 ? 6600 Rutledge Rd following a report. While the specific reason for the call was
   not detailed in the scanner feed, officers were sent to address the situation.,
   Louisville, KY
@@ -27200,6 +27214,9 @@
 7700 Crop St, Louisville, KY:
   lat: 38.2599675
   lng: -85.7803993
+7700 Fair Ln, Louisville, KY:
+  lat: 38.1588786
+  lng: -85.6187012
 7700 Hepatica Ct, Louisville, KY:
   lat: 38.1406002
   lng: -85.8540073
@@ -30039,6 +30056,7 @@
   lng: -85.8486545
 9600 Alphin Ct near Barclay Dr, Louisville, KY: null
 9600 Alphin Ct, Louisville, KY: null
+9600 Bayberry Green Ln, Louisville, KY: null
 9600 Brownsboro Rd, Louisville, KY:
   lat: 38.3079207
   lng: -85.5730059
@@ -31234,6 +31252,7 @@ Teak Dr and Murphy Ln, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
 Tenny Ave and Southern Pky, Louisville, KY: null
 Tennyson Ave and Taylorsville Rd, Louisville, KY: null
+Ternan Lane and Omaha Ln, Louisville, KY: null
 Terry Rd and Greenwood Rd, Louisville, KY:
   lat: 38.1448101
   lng: -85.8716567
