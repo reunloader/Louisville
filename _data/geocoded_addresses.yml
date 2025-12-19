@@ -9255,6 +9255,7 @@
 200 North17th Street near Duncan and Columbia at Roosevelt, Louisville, KY:
   lat: 38.2606552
   lng: -85.7779157
+200 North23rd Street and other locations, Louisville, KY: null
 200 North26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
@@ -17466,6 +17467,9 @@
 400 Bunker Hill, Louisville, KY:
   lat: 38.2064231
   lng: -85.686241
+400 Cadbury Ct, Louisville, KY:
+  lat: 38.2566562
+  lng: -85.7980454
 400 Cameron Road, [Date] 6:00 a, Louisville, KY: null
 400 Cameron Road, [Date] 6:00 a.m., Louisville, KY: null
 400 Carlisle Ave, Louisville, KY:
@@ -23399,6 +23403,9 @@
 600 Bellamy Cir. Medical assistance was provided, Louisville, KY:
   lat: 38.2251466
   lng: -85.7691344
+600 Beulah Church Rd, Louisville, KY:
+  lat: 38.1315529
+  lng: -85.6140436
 600 Brandon, Louisville, KY:
   lat: 38.2678015
   lng: -85.6862892
