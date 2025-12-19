@@ -4340,6 +4340,9 @@
 1200 Westmoorland Way, Louisville, KY: null
 1200 Westmoorland Way. Responders were dispatched, Louisville, KY: null
 1200 Willow Ave, Anderson St, Longest Ave, and Glenmary Ave, Louisville, KY: null
+1200 Willow Ave, Louisville, KY:
+  lat: 38.239071
+  lng: -85.714023
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
 ? 12000 Cascade Falls Trail following a report of an assault and potential robbery.
@@ -12044,6 +12047,9 @@
   lng: -85.765752
 2400 South Boyd Street 9:18 a, Louisville, KY: null
 2400 South Boyd Street 9:18 a.m.AM, Louisville, KY: null
+2400 South Floyd, Louisville, KY:
+  lat: 38.213035
+  lng: -85.755478
 2400 St Xavier St, Louisville, KY:
   lat: 38.2664071
   lng: -85.7875475
@@ -26303,6 +26309,9 @@
   lat: 38.244091
   lng: -85.755458
 700 South33rd Street, Louisville, KY: null
+700 South34th Street, Louisville, KY:
+  lat: 38.249732
+  lng: -85.808241
 700 South37th Street, Louisville, KY:
   lat: 38.249929
   lng: -85.812787
