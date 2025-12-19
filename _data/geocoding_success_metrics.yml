@@ -44319,4 +44319,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 6
   batch_new_successes: 3
-last_updated: '2025-12-19T01:11:22.966479'
+- timestamp: '2025-12-19T01:20:21.322395'
+  total_addresses: 13329
+  successful: 6732
+  failed: 6597
+  success_rate: 50.51
+  failure_rate: 49.49
+  failure_patterns:
+    Contains location qualifiers (near/at): 2075
+    Intersection format: 1246
+    Incomplete/vague address: 1495
+    Other/Unknown: 1297
+    Contains extra sentences/context: 476
+    Police phonetic codes: 8
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-19T01:20:21.322557'
