@@ -6574,6 +6574,9 @@
 1600 Bardstown Rd, Louisville, KY:
   lat: 38.230659
   lng: -85.7048208
+1600 Belmar Dr, Louisville, KY:
+  lat: 38.1990643
+  lng: -85.7127234
 1600 Berea Dr, Louisville, KY:
   lat: 38.1228956
   lng: -85.607913
@@ -10265,6 +10268,7 @@
 2000 Caldwell St, Louisville, KY:
   lat: 38.2389138
   lng: -85.7449988
+2000 Carrol Lane. Officers responded, Louisville, KY: null
 2000 Chadwick Glen Pl, Louisville, KY: null
 2000 Chattanooga Ave. Police units responded, Louisville, KY:
   lat: 38.1293345
@@ -26158,6 +26162,7 @@
   lat: 38.2548003
   lng: -85.5460418
 700 Oldbury Pl, Louisville, KY: null
+700 Orange Beach, possibly due, Louisville, KY: null
 700 Outer Loop and 700 block of Grade, Louisville, KY: null
 700 Owen St, Louisville, KY:
   lat: 38.2626066
