@@ -9908,6 +9908,9 @@
 200 West near 9, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West near Breckenridge Ln, Louisville, KY:
+  lat: 38.2251872
+  lng: -85.6347733
 200 West near Dixie Hwy, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -12922,6 +12925,9 @@
 2700 Alford Ave, Louisville, KY:
   lat: 38.2648935
   lng: -85.7955173
+2700 Ali, Louisville, KY:
+  lat: 38.2550784
+  lng: -85.795778
 2700 Bagby Way, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
@@ -26706,6 +26712,9 @@
   lat: 38.149501
   lng: -85.770284
 700 Zorn Ave (no visible fire), Louisville, KY: null
+700 Zorn Ave at Casa Grande, Louisville, KY:
+  lat: 38.2667863
+  lng: -85.6914418
 700 Zorn Ave at the cross of Riverwood and Jarvis, Louisville, KY:
   lat: 38.2667863
   lng: -85.6914418
@@ -27978,6 +27987,9 @@
   lat: 38.2592106
   lng: -85.7264871
 800 Alberta Dr, Louisville, KY: null
+800 Ash St near Mchenry St and S Shelby St, Louisville, KY:
+  lat: 38.2292347
+  lng: -85.7416699
 800 Baker and 800 block of Adams, Louisville, KY: null
 800 Baker and the 400 block of an unspecified street, Louisville, KY: null
 800 Baker and the 800 block of Adam, Louisville, KY: null
