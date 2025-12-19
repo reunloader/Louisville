@@ -572,6 +572,9 @@
 100 Mackie Ct, Louisville, KY:
   lat: 38.13527
   lng: -85.7662
+100 Magazine St, Louisville, KY:
+  lat: 38.2493289
+  lng: -85.7734408
 100 Mallet Hill Dr, Louisville, KY:
   lat: 38.2596858
   lng: -85.4366213
@@ -6715,6 +6718,9 @@
 1600 I65 South. This incident was believed to be connected to a previous call for service., Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call, Louisville, KY: null
 1600 Lewis Coleman Jr, Louisville, KY: null
+1600 Longfield Ave, Louisville, KY:
+  lat: 38.198753
+  lng: -85.790775
 1600 Lucia Ave, Louisville, KY:
   lat: 38.2356966
   lng: -85.720509
@@ -9758,6 +9764,7 @@
 200 West at Dixie Hwy. Battalion 3 and other units were dispatched, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West at Dumanil, Louisville, KY: null
 200 West at I-265, Louisville, KY: null
 200 West at Taylor Blvd, Louisville, KY:
   lat: 38.2000005
@@ -13602,6 +13609,7 @@
   lng: -85.5536202
 2900 West Muhammad Ali Boulevard 7:00 p, Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY: null
+2900 Westfield Rd, Louisville, KY: null
 2900 Whittier Ave, Louisville, KY:
   lat: 38.2222856
   lng: -85.6776497
@@ -21206,6 +21214,7 @@
 500 Brandon Rd, near Ridgewood Rd, Louisville, KY:
   lat: 38.267296
   lng: -85.685061
+500 Bravo Papa Juliet Delta, Louisville, KY: null
 500 Brentwood Ave near South 5th Street, Louisville, KY: null
 500 Brentwood Ave, Louisville, KY:
   lat: 38.1946641
@@ -22860,6 +22869,9 @@
 5500 Robinwood Rd. Emergency personnel responded, Louisville, KY:
   lat: 38.1697708
   lng: -85.6684397
+5500 Rosary Ct, Louisville, KY:
+  lat: 38.170609
+  lng: -85.666975
 5500 Shorewood Dr, Louisville, KY:
   lat: 38.1460419
   lng: -85.7801836
@@ -24104,6 +24116,7 @@
   lat: 38.2449281
   lng: -85.7577588
 600 West Orange B, Louisville, KY: null
+600 West Sherman Ranch Bridge, Louisville, KY: null
 600 Westmans Lake, Louisville, KY: null
 600 Westmans Lake. The person, who is experiencing homelessness, needed, Louisville, KY: null
 600 Weymuth Pl, Louisville, KY:
