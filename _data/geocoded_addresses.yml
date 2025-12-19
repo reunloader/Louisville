@@ -174,6 +174,7 @@
 100 Baker. The reporting officer requested, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+100 Banker, Louisville, KY: null
 100 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -18094,6 +18095,8 @@
 400 McLean Avenue, Louisville, KY: null
 400 Meridian Hills Dr, Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
+400 Merritt Avenue, apartment 4, Louisville, KY: null
+400 Merritt Avenue, second floor of a VA, Louisville, KY: null
 400 Mount Holly Ave, Crestwood, Louisville, KY: null
 400 Mount Holly Ave, Louisville, KY:
   lat: 38.2608215
@@ -31199,6 +31202,7 @@ Huntington Rd and Rock Creek Dr, Louisville, KY: null
 Huntoon Ave and Woodmore Ave, Louisville, KY: null
 Hurstbourne View Dr and Bluegrass Ave, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
+Hutcherson Dr and Cove Dr, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
 Inca Dr and Johnsontown Rd, Louisville, KY: null
 Indian Falls Dr and River Trail Dr, Louisville, KY: null
