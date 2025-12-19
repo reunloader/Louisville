@@ -1287,6 +1287,7 @@
 : lat: 38.1567148
   lng: -85.7120997
 100 block of Kenwood Ct, Louisville, KY: null
+100 by65 south, Louisville, KY: null
 100 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
@@ -13717,6 +13718,9 @@
 300 Access Drive, Louisville, KY:
   lat: 38.1967062
   lng: -85.552633
+300 Acres, Louisville, KY:
+  lat: 38.183944
+  lng: -85.6273662
 300 Adam and 300 block of Baker, Louisville, KY: null
 300 Adam and 300 block of Charlie were not fully detailed in the initial reports, Louisville, KY: null
 300 Adam and 300 block of Charlie, Louisville, KY: null
@@ -16498,6 +16502,9 @@
   lng: -85.7924737
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
+3600 River Park Dr at Regiemer Church, Louisville, KY:
+  lat: 38.2546082
+  lng: -85.8107537
 3600 Rochstown Road, Louisville, KY: null
 3600 Rosemont Ct, Louisville, KY:
   lat: 38.2070291
@@ -18092,6 +18099,7 @@
 400 North Hight Avenue in response, Louisville, KY: null
 400 North Hight Avenue, Louisville, KY: null
 400 North Hyde Avenue, Louisville, KY: null
+400 North Hyde Avenue, number 7, Louisville, KY: null
 400 North S Hite Ave, Louisville, KY:
   lat: 38.2517615
   lng: -85.6932303
@@ -20089,6 +20097,9 @@
   lat: 38.1777939
   lng: -85.806417
 4500 Altamire 1, Louisville, KY: null
+4500 Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 4500 Balaton Dr, Louisville, KY:
   lat: 38.171553
   lng: -85.676583
@@ -25410,6 +25421,7 @@
 6800 Fordham Ln. Responding units arrived, Louisville, KY:
   lat: 38.1491641
   lng: -85.6195538
+6800 Foster-Harley Way, Louisville, KY: null
 6800 Green Meadow Cir, Louisville, KY: null
 6800 Greenwood Rd, Louisville, KY:
   lat: 38.1437224
@@ -31572,6 +31584,7 @@ Warren Ave and Carlisle Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
 Wattbourne Ln and Griffiths Ave, Louisville, KY: null
+Watterson Park Rd and Gardiner Ln, Louisville, KY: null
 Wayside Dr and Oxford Avenue, Louisville, KY: null
 Webster St and Catharines Street, Louisville, KY: null
 Weddington Parkway and South Hurstborn Parkway, Louisville, KY: null
