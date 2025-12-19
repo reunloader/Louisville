@@ -9088,6 +9088,10 @@
 200 Long Home Rd, Louisville, KY:
   lat: 38.1214354
   lng: -85.5730836
+200 Longfield Ave and 4600 block of North Redlands Avenue, Louisville, KY: null
+? 200 Longfield Ave, with a male refusing to leave the scene. Additionally, cameras
+  at 4600 block of North Redlands Avenue were accessed, Louisville, KY
+: null
 200 Louisville Ave across from Florence, Louisville, KY: null
 200 Lysander Dr, Louisville, KY: null
 200 Marina Dr, Louisville, KY:
@@ -20435,6 +20439,7 @@
 4600 North 28th Street, Louisville, KY:
   lat: 38.2683439
   lng: -85.794838
+4600 North Redlands Avenue, Louisville, KY: null
 ? 4600 Orleans Ct, responders assisted a 46-year-old male with chest pain. Additionally,
   at the 6100 block of Janes Farm Dr, a 70-year-old female with shoulder pain was
   attended, Louisville, KY
@@ -21210,6 +21215,9 @@
 500 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
+500 Barrett at AP Thompson, Louisville, KY:
+  lat: 38.1023548
+  lng: -85.8678332
 500 Baxter Ave, Louisville, KY:
   lat: 38.24769
   lng: -85.730217
@@ -30893,6 +30901,7 @@ Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
 Doughline Road and Milner Rd, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
 Dublin Ln and Lexington Rd, Louisville, KY: null
+Dukehart Dr and Star Ln, Louisville, KY: null
 Duncan St and Columbia St, Louisville, KY: null
 Earl Ave and Hale Ave, Louisville, KY: null
 Earl Ave and Winkler Ave, Louisville, KY: null
