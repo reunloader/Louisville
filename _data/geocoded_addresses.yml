@@ -70,6 +70,9 @@
 03 Brownsboro Rd, Louisville, KY:
   lat: 38.3167721
   lng: -85.5616302
+03 South Park Rd, Louisville, KY:
+  lat: 38.1162065
+  lng: -85.6832515
 04 Knoblet Drive, Louisville, KY: null
 05 Rosewood Ave, Louisville, KY:
   lat: 38.2325761
@@ -17599,6 +17602,9 @@
   lng: -85.8135537
 400 Atom, Louisville, KY: null
 400 Atom, with a suspect described as possibly being outside and wearing a black jacket, Louisville, KY: null
+400 Babe Dr, Louisville, KY:
+  lat: 38.1002593
+  lng: -85.7673507
 ? 400 Baker Aly STREET following a report of an assault. A 42-year-old male sought
   medical attention for pain in his hand and eye. EMS provided treatment, and police
   units were present on the scene. The patient was transported for further care.,
@@ -17808,6 +17814,9 @@
   lat: 38.2524
   lng: -85.744583
 400 E Jefferson St near Wayside Minch, Seltzer, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
+400 E Jefferson St near Wayside men's emergency shelter, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
 400 E Jefferson St near Wayside, Croucher, South Jackson, South Preston, Louisville, KY:
@@ -31807,6 +31816,7 @@ Washburn Ave and Seton Hill Dr, Louisville, KY: null
 Wattbourne Ln and Griffiths Ave, Louisville, KY: null
 Watterson Park Rd and Gardiner Ln, Louisville, KY: null
 Wayside Dr and Oxford Avenue, Louisville, KY: null
+Webster St and Catharine Street, Louisville, KY: null
 Webster St and Catharines Street, Louisville, KY: null
 Weddington Parkway and South Hurstborn Parkway, Louisville, KY: null
 Wessel Rd and Burnley Rd, Louisville, KY: null
