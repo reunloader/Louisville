@@ -746,6 +746,10 @@
 100 North35th Street, Louisville, KY:
   lat: 38.2624675
   lng: -85.808437
+100 North36th Street and North 25th Street, Louisville, KY: null
+100 North36th Street, Louisville, KY:
+  lat: 38.2625338
+  lng: -85.8099022
 100 North38th Street concerning an adult female who had lost consciousness and was unresponsive, Louisville, KY: null
 100 North38th Street, Louisville, KY:
   lat: 38.2634695
@@ -10989,6 +10993,9 @@
 2100 W Kentucky St, Louisville, KY:
   lat: 38.2417983
   lng: -85.7879839
+2100 W Lee St, Louisville, KY:
+  lat: 38.2269883
+  lng: -85.7938013
 2100 W Madison St, Louisville, KY:
   lat: 38.253087
   lng: -85.78599
@@ -13461,6 +13468,9 @@
 2900 Berkin Ranch Lane at the Speedway, Louisville, KY:
   lat: 38.1576618
   lng: -85.8334451
+2900 Bird Cherry Ln, Louisville, KY:
+  lat: 38.2879362
+  lng: -85.5657696
 2900 Blackbarktown Road, Louisville, KY: null
 2900 Bon Air Ave, Louisville, KY:
   lat: 38.221389
@@ -15836,6 +15846,7 @@
 3400 Chauncey Ave, Louisville, KY:
   lat: 38.2313578
   lng: -85.8123939
+3400 Coventry Common Travel, Louisville, KY: null
 3400 Coventry Commons Dr, unit 104, Louisville, KY: null
 3400 Covington Commons Drive, Crescent K1 Road, Louisville, KY: null
 3400 Crossroads Chamberland, Louisville, KY: null
