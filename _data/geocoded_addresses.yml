@@ -9521,6 +9521,9 @@
   lng: -85.6981124
 200 South, near Spurn., Louisville, KY: null
 200 South, then North, Brownsboro Rd, Louisville, KY: null
+200 South16th, Louisville, KY:
+  lat: 38.257315
+  lng: -85.776754
 200 South39, Louisville, KY: null
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
@@ -11409,6 +11412,7 @@
 2300 44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+2300 Arbor Pointe Pl, Louisville, KY: null
 2300 Ashwood Dr, Louisville, KY:
   lat: 38.214895
   lng: -85.70161
@@ -13031,6 +13035,7 @@
   lng: -85.7975556
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
+2700 location, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
 27400 Bamboo Ct, Louisville, KY: null
 27600 Smithfield Greene Ln, Louisville, KY: null
@@ -25418,6 +25423,7 @@
   assaulted by a man who was reported, Louisville, KY
 : lat: 38.1538637
   lng: -85.8195569
+6900 Brooklawn and also, Louisville, KY: null
 6900 Brookley Dr, Louisville, KY:
   lat: 38.0910295
   lng: -85.6742718
@@ -28790,6 +28796,9 @@
   a 70-year-old female, was found, Louisville, KY
 : null
 8600 Wilgler Branch Way, Louisville, KY: null
+8600 Wolf Pen Branch Rd, Louisville, KY:
+  lat: 38.3221323
+  lng: -85.5792921
 87 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
