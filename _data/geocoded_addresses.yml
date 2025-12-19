@@ -1342,6 +1342,9 @@
 1000 Autumn Crest Ln, Louisville, KY:
   lat: 38.244354
   lng: -85.453897
+1000 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 1000 Bardstown Rd, Louisville, KY:
   lat: 38.240016
   lng: -85.724091
@@ -9998,6 +10001,9 @@
 200 north I-200 at Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+200 north, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 northbound I-200, Louisville, KY: null
 200 northbound around mile marker 841, Louisville, KY: null
 200 northbound at the 13, Louisville, KY: null
@@ -21441,6 +21447,9 @@
 500 North17th Street, Louisville, KY:
   lat: 38.2624403
   lng: -85.7778476
+500 North22nd Street, Louisville, KY:
+  lat: 38.266703
+  lng: -85.783596
 500 North26th Street, Louisville, KY:
   lat: 38.269472
   lng: -85.791002
@@ -23958,6 +23967,7 @@
 600 W Chestnut St, Louisville, KY:
   lat: 38.249246
   lng: -85.761357
+600 W Jefferson St (Hall of Justice), Louisville, KY: null
 600 W Jefferson St and 1000 block of South 38th Street, Louisville, KY: null
 600 W Jefferson St, Louisville, KY:
   lat: 38.2539185
@@ -30944,6 +30954,7 @@ Mae St and Kidd Avenue, Louisville, KY:
   lng: -85.8193981
 Magazine St and Plymouth Avenue, Louisville, KY: null
 Main St and Cecil St, Louisville, KY: null
+Main St and Fort St, Louisville, KY: null
 Main Street and Second Street, Louisville, KY: null
 Malin Lane and Ballardsville Rd, Louisville, KY: null
 Mallet Hill Dr and Calderon Park Lane, Louisville, KY: null
@@ -31097,6 +31108,7 @@ Regal Dr and Riata Dr, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
+Ripple Creek Dr and Blue Lick Rd, Louisville, KY: null
 Ripple Creek Dr and Cynthia Dr, Louisville, KY: null
 Ripple Creek Dr and Rolling St, Louisville, KY: null
 River Creek Street and Boyle St, Louisville, KY: null
