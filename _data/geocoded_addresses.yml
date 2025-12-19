@@ -51,6 +51,9 @@
 01 International Dr, Louisville, KY:
   lat: 38.1664748
   lng: -85.8856852
+01 Landing Dr, Louisville, KY:
+  lat: 38.1835384
+  lng: -85.6433377
 01 Logistics Dr, Louisville, KY:
   lat: 38.1687352
   lng: -85.8847613
@@ -1316,6 +1319,7 @@
 100 north height avenue, Louisville, KY: null
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
+100 the 2000 block of Toyota Corolla, Louisville, KY: null
 100 the area linked, Louisville, KY: null
 100 the exit. A tow truck was able, Louisville, KY: null
 100 the exit. Emergency units were dispatched, Louisville, KY: null
@@ -3534,6 +3538,9 @@
   lng: -85.5393666
 11400 Willow Pond Dr, Louisville, KY: null
 11400 anymore Enridge Dr, Louisville, KY: null
+11400 interchange drive near interchange way and commerce crossing, Louisville, KY:
+  lat: 38.0983101
+  lng: -85.6808359
 11500 Harry Plane near North Waterstone Trail, Louisville, KY: null
 11500 Maple Brook Dr, Louisville, KY:
   lat: 38.3020407
@@ -5461,6 +5468,9 @@
   lng: -85.7394849
 1400 East Burnet Head, with instructions to reset the alarm if building personnel were unable to., Louisville, KY: null
 1400 East Burnet Head, with instructions, Louisville, KY: null
+1400 Elmwood Ave, Louisville, KY:
+  lat: 38.2618568
+  lng: -85.6524579
 ? 1400 Frankfort Ave to assist with an investigation. Officers were requested to access
   the interior of a vehicle as part of their inquiry into a "Cisple East" incident.,
   Louisville, KY
@@ -6888,6 +6898,9 @@
 1600 South Third Street. Responding units were dispatched, Louisville, KY: null
 1600 South30th alley, Louisville, KY: null
 1600 St, Louisville, KY: null
+1600 Stevens Ave, Louisville, KY:
+  lat: 38.2271573
+  lng: -85.7136743
 1600 Stone Bluff Rd, Louisville, KY:
   lat: 38.1633395
   lng: -85.6222787
@@ -8484,6 +8497,7 @@
 200 Baker and 2 Adam, Louisville, KY: null
 200 Baker and W Kentucky St, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
+200 Baker area, 26th Street, Louisville, KY: null
 200 Baker was subsequently reported as clear of any related activity, Louisville, KY: null
 200 Baker, Louisville, KY:
   lat: 38.1412684
@@ -9425,6 +9439,7 @@
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+200 Rowe near Crop St at St, Louisville, KY: null
 200 Royal Ave, Louisville, KY:
   lat: 38.2244616
   lng: -85.7222466
@@ -9981,6 +9996,9 @@
 ? 200 Westbound, near the 19-mile marker. The incident involved a white and blue Toyota
   and a dark blue SUV. A request was made, Louisville, KY
 : null
+200 Westport Rd near Dollar General, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 200 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
@@ -12118,6 +12136,9 @@
 2400 South Floyd, Louisville, KY:
   lat: 38.213035
   lng: -85.755478
+2400 South16th Street, Louisville, KY:
+  lat: 38.2240638
+  lng: -85.7820693
 2400 St Xavier St, Louisville, KY:
   lat: 38.2664071
   lng: -85.7875475
@@ -15033,6 +15054,9 @@
 3100 Fay Woodway, Louisville, KY: null
 3100 Faye Woodway, Louisville, KY: null
 3100 Fey Woodway, Louisville, KY: null
+3100 Fordhaven Rd, Louisville, KY:
+  lat: 38.1484871
+  lng: -85.8165735
 3100 Franklin Farmer's Way, Louisville, KY: null
 ? 3100 Franklin Farmer's Way. Police units were on scene to address the situation.
   The responding officer reported the situation was cleared without further incident.,
@@ -15396,6 +15420,7 @@
 3200 Frankfort Ave, Louisville, KY:
   lat: 38.254134
   lng: -85.675278
+3200 Glyndy Parkway, Louisville, KY: null
 3200 Golden Turtle Cir, Louisville, KY: null
 ? 3200 Golden Turtle Circle early this morning. Upon arrival, they found a silver
   Toyota RAV4 engulfed in flames. Crews worked quickly to extinguish the blaze and
@@ -16341,6 +16366,9 @@
   a head injury. EMS was also on scene, Louisville, KY
 : null
 35000 Quahala Road, Louisville, KY: null
+36 Frankfort Ave, Louisville, KY:
+  lat: 38.2611284
+  lng: -85.7234073
 36 Gale St, Louisville, KY:
   lat: 38.1866627
   lng: -85.8418571
@@ -17640,6 +17668,9 @@
   lat: 38.205089
   lng: -85.765734
 400 Central and 400 block of Adam, Louisville, KY: null
+400 Champion Farms Dr, Louisville, KY:
+  lat: 38.2960989
+  lng: -85.5623389
 400 Charles St and 400 block of Beaver St, Louisville, KY: null
 ? 400 Charles St and the 400 block of Beaver St. The caller described someone under
   a vehicle with a flashlight, which was similar, Louisville, KY
@@ -18648,6 +18679,7 @@
 : null
 400 and 500 block of Baker were part of the response, Louisville, KY: null
 400 and 500 block of Baker were part of the response., Louisville, KY: null
+400 and16 service area, Louisville, KY: null
 400 and429, Louisville, KY: null
 ? '400 and500 block of were involved in responding to this call. - Suspicious Vehicles
   (around 6:23 p.m. a.m. p.m.): A report was made regarding two vehicles, a white
@@ -18815,6 +18847,7 @@
 4000 Peachtree Ave, Louisville, KY:
   lat: 38.186217
   lng: -85.781235
+4000 Petrel Bank Road at GE Crop St, Louisville, KY: null
 ? 4000 Pop Level Road. Upon arrival, authorities investigated the alarm. It is possible
   this incident may be connected to a prior fire in the area. Further details on the
   outcome of the investigation are pending., Louisville, KY
@@ -18948,6 +18981,7 @@
   lat: 38.1847673
   lng: -85.7796505
 4020 an unspecified street, Louisville, KY: null
+41 Candor Ave, Louisville, KY: null
 41 Olive St, Louisville, KY:
   lat: 38.2219585
   lng: -85.8025651
@@ -19506,6 +19540,7 @@
 4200 Westport Ridge, Louisville, KY:
   lat: 38.3058348
   lng: -85.5213483
+4200 address, Louisville, KY: null
 42500 Southcrest Dr, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
@@ -19658,6 +19693,7 @@
   by the responding medical teams., Louisville, KY
 : null
 4300 Norbrook Dr, Louisville, KY: null
+4300 Norbrook Dr, number 7, Louisville, KY: null
 4300 Norfolk Dr, Louisville, KY:
   lat: 38.184023
   lng: -85.641219
@@ -21663,6 +21699,9 @@
 500 North 27th Street, Louisville, KY:
   lat: 38.270252
   lng: -85.793137
+500 North 29th Street, Louisville, KY:
+  lat: 38.271025
+  lng: -85.795295
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
@@ -21686,6 +21725,9 @@
 500 North27th, Louisville, KY:
   lat: 38.270252
   lng: -85.793137
+500 North29th Street, Louisville, KY:
+  lat: 38.271025
+  lng: -85.795295
 500 North35th Street and 4500 block of Duminil, Louisville, KY: null
 ? 500 North35th Street) (around 10:34 a.m. a.m. a.m.):** A child was reported locked
   in a vehicle. was dispatched to the scene, was initially called but later canceled.
@@ -24940,6 +24982,9 @@
 : null
 6400 Man-Bridleview Cir, Louisville, KY: null
 6400 Mandigal Road, Louisville, KY: null
+6400 Manor View Cir, Louisville, KY:
+  lat: 38.076756
+  lng: -85.8820255
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
@@ -30075,6 +30120,9 @@
   lat: 38.119772
   lng: -85.872334
 9200 Darley Dr, Louisville, KY: null
+9200 Dixie Hwy at Carman Ale, Louisville, KY:
+  lat: 38.1209842
+  lng: -85.8564961
 9200 Dixie Hwy at Circle K, Louisville, KY:
   lat: 38.1209842
   lng: -85.8564961
@@ -30202,6 +30250,9 @@
 9300 Civic Way, Louisville, KY:
   lat: 38.3199891
   lng: -85.5689659
+9300 Dayflower St, Louisville, KY:
+  lat: 38.3214513
+  lng: -85.567239
 9300 Fern Creek Rd, Louisville, KY:
   lat: 38.1596033
   lng: -85.5878601
@@ -30701,6 +30752,9 @@
   lat: 38.3076087
   lng: -85.5657118
 9800 St, Louisville, KY: null
+9800 Titan Dr, Louisville, KY:
+  lat: 38.1069399
+  lng: -85.696862
 9800 VU Cady Dr, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
@@ -30864,6 +30918,7 @@ Bargetown Road and Baxter Ave, Louisville, KY: null
 Bargetown Road and Heather Ln, Louisville, KY: null
 Barksdale Lane and Gardiner Ln, Louisville, KY: null
 Barksdown Road and Gardiner Ln, Louisville, KY: null
+Barn Rd and Southpointe Blvd, Louisville, KY: null
 Barret Ave and Rueffer Street, Louisville, KY: null
 Barrett Ln and Christie Ave, Louisville, KY: null
 Barshtown Road and Eastern Parkway, Louisville, KY: null
