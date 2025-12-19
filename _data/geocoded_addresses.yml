@@ -8487,6 +8487,9 @@
 200 Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+200 Billtown, Louisville, KY:
+  lat: 38.1647849
+  lng: -85.5679104
 200 Bishop Ln at Yummy Folio, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
@@ -9449,6 +9452,9 @@
   lng: -85.6981124
 200 South and New Cut Rd, Louisville, KY: null
 200 South and North, Louisville, KY: null
+200 South at Bardstown Rd, Louisville, KY:
+  lat: 38.1506308
+  lng: -85.587592
 200 South at Beulah, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -24228,6 +24234,9 @@
 6000 Southcrest Dr. Further details, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
+6000 Stone Bluff Rd, Louisville, KY:
+  lat: 38.16241
+  lng: -85.622481
 6000 Timber Ridge Dr, Louisville, KY: null
 6000 Upper Hunter's Trace, Louisville, KY: null
 6000 W Madison St, Louisville, KY:
