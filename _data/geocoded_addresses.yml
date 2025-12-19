@@ -8014,6 +8014,9 @@
 1900 Baird St. The call involved an ex-partner who was alleged, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
+1900 Bank St, Louisville, KY:
+  lat: 38.2641516
+  lng: -85.7806611
 1900 Bardstown Rd near Lauderdale Rd, Louisville, KY:
   lat: 38.227299
   lng: -85.699444
@@ -8456,6 +8459,8 @@
 200 Bauer Ave near South Second Street, Louisville, KY:
   lat: 38.2519643
   lng: -85.6612286
+200 Beale Town Road, Louisville, KY: null
+200 Beale Town Road, reportedly involved in a trouble run. Responding units arrived, Louisville, KY: null
 200 Beaver St due, Louisville, KY: null
 200 Beaver St, Louisville, KY:
   lat: 38.185675
@@ -10866,6 +10871,9 @@
 2100 W Hill St, Louisville, KY:
   lat: 38.2287537
   lng: -85.7930659
+2100 W Kentucky St, Louisville, KY:
+  lat: 38.2417983
+  lng: -85.7879839
 2100 W Madison St, Louisville, KY:
   lat: 38.253087
   lng: -85.78599
@@ -23459,6 +23467,9 @@
 : lat: 38.1784089
   lng: -85.7605676
 600 Dr, Louisville, KY: null
+600 Dry Ridge Rd, Louisville, KY:
+  lat: 38.115186
+  lng: -85.4524774
 600 Dumesnil St, Louisville, KY:
   lat: 38.2357119
   lng: -85.7798286
