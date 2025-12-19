@@ -16507,6 +16507,9 @@
 3600 Grandview Ave, Louisville, KY:
   lat: 38.2464907
   lng: -85.6560494
+3600 Green Meadows Dr, Louisville, KY:
+  lat: 38.202555
+  lng: -85.6590465
 ? 3600 Green Meadows Straws to handle a report of domestic trouble. Officers were
   dispatched to the scene to manage the situation. No additional details about the
   outcome were provided., Louisville, KY
@@ -16922,6 +16925,7 @@
   Louisville, KY
 : lat: 38.191421
   lng: -85.792536
+3700 Pennington Ln, Louisville, KY: null
 3700 Powell Ave, Louisville, KY:
   lat: 38.191346
   lng: -85.7914159
@@ -30520,6 +30524,7 @@
 9500 Thor Ave, Louisville, KY:
   lat: 38.110791
   lng: -85.693392
+9500 US Highway 42, Louisville, KY: null
 9500 Westport Rd near Indian Lake Dr, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
