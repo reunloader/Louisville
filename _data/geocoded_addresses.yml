@@ -10286,6 +10286,7 @@
   lng: -85.724083
 2000 Honda Civic, was checked and found, Louisville, KY: null
 2000 Honda HRV, Louisville, KY: null
+2000 Jeep Cherokee, Louisville, KY: null
 2000 Jefferson Hill Rd, Louisville, KY:
   lat: 38.0939475
   lng: -85.7902493
@@ -12824,6 +12825,7 @@
 2700 Fire Mally Road at White Castle, Louisville, KY:
   lat: 38.1512571
   lng: -85.7643303
+2700 Foxy Poise Rd, Louisville, KY: null
 2700 Garland Ave, Louisville, KY:
   lat: 38.244613
   lng: -85.7973498
@@ -17221,6 +17223,9 @@
   lat: 38.2917671
   lng: -85.4902052
 3900 Nappany Road, Louisville, KY: null
+3900 Oaklawn Dr, Louisville, KY:
+  lat: 38.1484892
+  lng: -85.6893461
 3900 Old Brownsboro Rd near Westwind Rd and Indian Hills Green, Louisville, KY: null
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
