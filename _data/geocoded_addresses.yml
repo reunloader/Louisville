@@ -9991,6 +9991,9 @@
 200 near the I-15 interchange. Authorities were alerted, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 north I-200 at Billtown Rd, Louisville, KY:
+  lat: 38.1647849
+  lng: -85.5679104
 200 northbound I-200, Louisville, KY: null
 200 northbound around mile marker 841, Louisville, KY: null
 200 northbound at the 13, Louisville, KY: null
@@ -15042,6 +15045,7 @@
 3100 Taylor. Officers were involved in responding, Louisville, KY:
   lat: 38.2064352
   lng: -85.7768145
+3100 Tinkerton Lane, Louisville, KY: null
 3100 Valka, Frankfort, Louisville, KY: null
 3100 Vermont Ave, Louisville, KY:
   lat: 38.254535
@@ -17016,6 +17020,9 @@
   the conflict., Louisville, KY
 : null
 3800 an unspecified street. The situation involved a dispute where one party was reportedly refusing, Louisville, KY: null
+39 Pigeon Pass Rd, Louisville, KY:
+  lat: 38.1791951
+  lng: -85.7111995
 39 Sheldon Rd, Louisville, KY:
   lat: 38.2033298
   lng: -85.6360852
@@ -19426,6 +19433,9 @@
 : null
 4300 Norbrook Dr, Louisville, KY: null
 4300 Norfolk Dr, Louisville, KY:
+  lat: 38.184023
+  lng: -85.641219
+4300 Norfolk Dr, near Wichita Lane and Beechbrook Rd, Louisville, KY:
   lat: 38.184023
   lng: -85.641219
 4300 Outer Loop, Louisville, KY:
@@ -28338,6 +28348,7 @@
 8200 Happiness Way, Louisville, KY:
   lat: 38.1323941
   lng: -85.6124366
+8200 Hilbury, Louisville, KY: null
 8200 Hudson Ln near Crest Street of Arts on Road, Louisville, KY:
   lat: 38.164544
   lng: -85.601893
@@ -31087,6 +31098,7 @@ River Creek Street and Boyle St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
 River Rd and Brighton Dr, Louisville, KY: null
 River Rd and River Shore Dr, Louisville, KY: null
+Rochdale Road and Sonoma Parkway, Louisville, KY: null
 Rochelle Rd and Myrna Parkway, Louisville, KY: null
 Rochelle Rd and Sperna Parkway, Louisville, KY: null
 Rock Bluff Dr and Murphy Ln, Louisville, KY: null
@@ -31350,6 +31362,7 @@ Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
 Westport Rd and Washburn Ave, Louisville, KY: null
 Whipps Mill Rd and Granger Rd, Louisville, KY: null
 Whitney Ave and Warren Ave, Louisville, KY: null
+Wichita Lane and Beechbrook Rd, Louisville, KY: null
 Wilart Dr and Bernheim Ln, Louisville, KY: null
 Willis Ave and Pee Wee Reese Rd, Louisville, KY: null
 Willow Ave and Edgeland Ave, Louisville, KY: null
