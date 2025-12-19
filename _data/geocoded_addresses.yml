@@ -1652,6 +1652,9 @@
 1000 Hathaway Ave, Louisville, KY:
   lat: 38.195116
   lng: -85.7772355
+1000 Hillside Terrace, Louisville, KY:
+  lat: 38.2512217
+  lng: -85.6924721
 1000 Hurstbourne Ln, Louisville, KY:
   lat: 38.1619949
   lng: -85.6246087
@@ -7339,6 +7342,9 @@
 1700 South Second Street, Louisville, KY: null
 1700 South second St, Louisville, KY: null
 1700 South13, Louisville, KY: null
+1700 South13th St, Louisville, KY:
+  lat: 38.2244068
+  lng: -85.7775916
 1700 South13th Street, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
@@ -9389,6 +9395,9 @@
 200 Round, Louisville, KY:
   lat: 38.1815004
   lng: -85.5158122
+200 Royal Ave, Louisville, KY:
+  lat: 38.2244616
+  lng: -85.7222466
 200 S Clay St, Louisville, KY:
   lat: 38.2376029
   lng: -85.7427829
@@ -9558,6 +9567,9 @@
 200 South16th, Louisville, KY:
   lat: 38.257315
   lng: -85.776754
+200 South28th St, Louisville, KY:
+  lat: 38.259684
+  lng: -85.796593
 200 South39, Louisville, KY: null
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
@@ -16666,6 +16678,7 @@
 3700 Chatham Rd, Louisville, KY:
   lat: 38.2060302
   lng: -85.6382272
+3700 Clawndyte Lane, Louisville, KY: null
 3700 Craig Ave, Louisville, KY:
   lat: 38.1913101
   lng: -85.7901309
@@ -22150,6 +22163,7 @@
 5100 East Mojave Lee Boulevard, Louisville, KY: null
 5100 East W Jacob St, Louisville, KY: null
 5100 Emery Ave, Louisville, KY: null
+5100 Fayhurst, Louisville, KY: null
 5100 Firwood Ln, Louisville, KY:
   lat: 38.1724036
   lng: -85.5800918
@@ -24049,6 +24063,9 @@
 600 South26th Street, Louisville, KY:
   lat: 38.252882
   lng: -85.794613
+600 South28th St, Louisville, KY:
+  lat: 38.253236
+  lng: -85.797728
 600 South28th Street, Louisville, KY:
   lat: 38.253236
   lng: -85.797728
