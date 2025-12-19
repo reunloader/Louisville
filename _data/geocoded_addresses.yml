@@ -9394,6 +9394,9 @@
   KY
 : lat: 38.263249
   lng: -85.818916
+200 South 43rd Street, Louisville, KY:
+  lat: 38.2635279
+  lng: -85.8200058
 200 South 47th Street, Louisville, KY:
   lat: 38.2465524
   lng: -85.8323174
@@ -25928,6 +25931,7 @@
   lat: 38.2265433
   lng: -85.6601116
 700 Nav Hill. The specific reasons, Louisville, KY: null
+700 North Hyde Avenue, Louisville, KY: null
 700 North S Hite Ave, Louisville, KY: null
 700 North S S Hite Ave, Louisville, KY: null
 700 North34th Street, Louisville, KY:
@@ -29382,6 +29386,9 @@
 900 South 39th Street. Specific details, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
+900 South 3rd Street at Holy Name Church, Louisville, KY:
+  lat: 38.2414201
+  lng: -85.7577026
 900 South 40th Street, Louisville, KY:
   lat: 38.246544
   lng: -85.818323
@@ -30173,6 +30180,9 @@
 9600 Alphin Ct near Barclay Dr, Louisville, KY: null
 9600 Alphin Ct, Louisville, KY: null
 9600 Bayberry Green Ln, Louisville, KY: null
+9600 Brooks Bend Rd, Louisville, KY:
+  lat: 38.138018
+  lng: -85.8822869
 9600 Brownsboro Rd, Louisville, KY:
   lat: 38.3079207
   lng: -85.5730059
