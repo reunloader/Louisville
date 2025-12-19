@@ -5767,6 +5767,9 @@
 1400 South4th Street, Louisville, KY:
   lat: 38.2289095
   lng: -85.7617931
+1400 South8th Street, Louisville, KY:
+  lat: 38.229071
+  lng: -85.769064
 ? 1400 Southbrook Street. The tenant allegedly possessed video evidence of the incident.
   Responding units were dispatched, Louisville, KY
 : null
@@ -9426,6 +9429,9 @@
   lat: 38.2526488
   lng: -85.6981124
 200 South at Brownsboro Rd, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
+200 South at I-71, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
 200 South at Interstate 64, Louisville, KY:
@@ -23416,6 +23422,9 @@
 600 Creel Ave, Louisville, KY:
   lat: 38.2126824
   lng: -85.7676642
+600 Cressbrook Dr, Louisville, KY:
+  lat: 38.2455056
+  lng: -85.6753729
 600 Crittenden Dr, Louisville, KY:
   lat: 38.158472
   lng: -85.7383433
