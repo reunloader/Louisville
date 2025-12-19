@@ -10121,6 +10121,7 @@
 200 northbound at the 13, Louisville, KY: null
 200 northbound at the 30-mile marker, Louisville, KY: null
 200 northbound, Louisville, KY: null
+200 off ramp, Louisville, KY: null
 200 overpass, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
@@ -24226,6 +24227,7 @@
 600 W Jefferson St, Louisville, KY:
   lat: 38.2539185
   lng: -85.7612901
+600 W Jefferson and Valley City, Louisville, KY: null
 600 W Main St and 66 W Main St, Morton, Louisville, KY: null
 600 W Main St, Louisville, KY:
   lat: 38.256721
