@@ -1823,6 +1823,7 @@
 1000 N Preston Hwy. While the specific reason, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+1000 New Main St, Frankfort Ave, Louisville, KY: null
 ? 1000 North 35th Street following a report of a carbon monoxide detector alarm. After
   an investigation, the alarm was found to be false., Louisville, KY
 : null
@@ -22174,6 +22175,9 @@
 5200 Bardstown Rd, Louisville, KY:
   lat: 38.172184
   lng: -85.610779
+5200 Benson Ct, Louisville, KY:
+  lat: 38.0946956
+  lng: -85.8586612
 ? 5200 C-dress and ALBA for a medical emergency. The patient, an 87-year-old male,
   had fallen and was found to be not alert. There was concern for a possible leg injury.,
   Louisville, KY
@@ -22302,6 +22306,9 @@
   lng: -85.602422
 5200 St. Gambriel Ct, Louisville, KY: null
 5200 St. St Gabriel Ln, Louisville, KY: null
+5200 Terrace Green Cir, Louisville, KY:
+  lat: 38.178102
+  lng: -85.663655
 5200 Viking Way, Louisville, KY:
   lat: 38.107913
   lng: -85.857884
@@ -23906,6 +23913,9 @@
   lat: 38.252119
   lng: -85.7996
 600 South38, Louisville, KY: null
+600 South39th Street, Louisville, KY:
+  lat: 38.255276
+  lng: -85.815984
 600 South3rd Street near the brown parking garage, Louisville, KY:
   lat: 38.2486074
   lng: -85.7563848
@@ -24657,6 +24667,9 @@
 6400 Johnsontown Rd. Officers were dispatched, Louisville, KY:
   lat: 38.1158773
   lng: -85.8855122
+6400 Ladd Ave, Louisville, KY:
+  lat: 38.1915206
+  lng: -85.8577272
 6400 Lower Hunter's Trace, Louisville, KY: null
 6400 Lower Huntress Trace, Louisville, KY: null
 ? 6400 Lower Huntress Trace. The structure was described as a one-story wood frame
