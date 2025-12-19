@@ -13209,6 +13209,7 @@
   lng: -85.7975556
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
+2700 West Muhammad Alley, Louisville, KY: null
 2700 location, Louisville, KY: null
 2701 East Point Parkway, Louisville, KY: null
 27400 Bamboo Ct, Louisville, KY: null
@@ -17793,6 +17794,7 @@
 400 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
+400 David, White Castle, Louisville, KY: null
 400 David, resulting in a verbal warning being issued, Louisville, KY: null
 400 David. The relative in question was not found to be on the premises., Louisville, KY: null
 400 David. The relative in question was not found, Louisville, KY:
@@ -23672,6 +23674,9 @@
 600 Ballard St, Louisville, KY:
   lat: 38.251414
   lng: -85.741989
+600 Bardstown Rd, Louisville, KY:
+  lat: 38.2385615
+  lng: -85.7212522
 600 Barret Ave, Crop St East, Broadway and Ruble, Louisville, KY: null
 600 Barret Ave, Louisville, KY:
   lat: 38.2465976
@@ -25857,6 +25862,9 @@
 7 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
+7 Tyler Parkway, Louisville, KY:
+  lat: 38.232595
+  lng: -85.7142149
 700 Acre, Louisville, KY:
   lat: 38.2970412
   lng: -85.50779
@@ -31693,6 +31701,7 @@ Southern Pky and Inforham Avenue, Louisville, KY: null
 Southern Pky and Oakdale Ave, Louisville, KY:
   lat: 38.1924908
   lng: -85.76701
+Southside Dr and Evangeline Ave, Louisville, KY: null
 Sprigwood Ln and Mary Dell Ln, Louisville, KY: null
 Spring Dr and Rock Bay Dr, Louisville, KY: null
 Springdale Rd and Brownsboro Rd, Louisville, KY:
