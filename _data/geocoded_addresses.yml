@@ -465,6 +465,9 @@
 100 Founder's Court, Louisville, KY: null
 100 Front Walk Top, Louisville, KY: null
 100 Georgia King Norah, Louisville, KY: null
+100 Gillette Ave, Louisville, KY:
+  lat: 38.1857045
+  lng: -85.760107
 100 Gilmore, Louisville, KY:
   lat: 38.1789198
   lng: -85.7056127
@@ -26086,6 +26089,12 @@
 700 North Hyde Avenue, Louisville, KY: null
 700 North S Hite Ave, Louisville, KY: null
 700 North S S Hite Ave, Louisville, KY: null
+700 North at Zorn, Louisville, KY:
+  lat: 38.2572236
+  lng: -85.5803244
+700 North at Zorn. No further details, Louisville, KY:
+  lat: 38.2572236
+  lng: -85.5803244
 700 North34th Street, Louisville, KY:
   lat: 38.274934
   lng: -85.802869
