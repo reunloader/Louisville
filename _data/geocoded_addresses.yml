@@ -1695,6 +1695,7 @@
 1000 Kaiser Ct, Louisville, KY:
   lat: 38.244535
   lng: -85.82644
+1000 Lake Marydale Lane, Louisville, KY: null
 1000 Lake Pl, Louisville, KY:
   lat: 38.2126641
   lng: -85.524199
@@ -3746,6 +3747,9 @@
 1200 Carriage Way Ct near Canterbury Dr, Louisville, KY:
   lat: 38.1261494
   lng: -85.7427036
+1200 Carriage Way Ct, Louisville, KY:
+  lat: 38.1261494
+  lng: -85.7427036
 1200 Carrico Ave, Louisville, KY:
   lat: 38.1841861
   lng: -85.7806311
@@ -5270,6 +5274,9 @@
 13800 Fancy Gap Dr, Louisville, KY:
   lat: 38.1781729
   lng: -85.5168228
+13800 Lakemont Ct, Louisville, KY:
+  lat: 38.1848086
+  lng: -85.5149856
 13800 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
@@ -6172,6 +6179,10 @@
   lat: 38.207307
   lng: -85.7841382
 1500 East W Florence Ave, Louisville, KY: null
+? 1500 East, though the exact location was uncertain, with updates suggesting it might
+  be near 64 East at 65 South. Emergency units arrived, Louisville, KY
+: lat: 38.1270111
+  lng: -85.7598397
 1500 Eastern Parkway near Walgreens, Louisville, KY:
   lat: 38.2317715
   lng: -85.7091381
@@ -8888,6 +8899,9 @@
 200 East at I-65, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Isaacs, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Manslick overpass, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -10662,6 +10676,7 @@
   lat: 38.2579596
   lng: -85.783445
 2000 West Market Street, Morning of [Date], Louisville, KY: null
+2000 White Dodge Challenger, Louisville, KY: null
 ? 2000 White Oak Lane. A female was reported to be outside the location, and an emergency
   protective order was in place. Officers responded to ensure the safety of all individuals
   involved and to address the situation., Louisville, KY
@@ -10891,6 +10906,7 @@
 2100 Murray Ave, Louisville, KY:
   lat: 38.2308548
   lng: -85.7011931
+2100 Mutual Bank Road, Louisville, KY: null
 2100 Mutual Rank Road, Louisville, KY: null
 ? 2100 Mutual Rank Road. The call was for a lift assist, helping a female resident
   who had fallen. No injuries were reported, and EMS was not required for transport.,
