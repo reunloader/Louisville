@@ -493,6 +493,9 @@
 100 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
+100 Harpers Ferry Rd, Louisville, KY:
+  lat: 38.130282
+  lng: -85.767688
 100 Hartwell Ct near Terry Pl, Louisville, KY:
   lat: 38.172667
   lng: -85.762656
@@ -25563,6 +25566,9 @@
   lat: 38.1570342
   lng: -85.5886124
 6600 Brooke-Bain-Way, Louisville, KY: null
+6600 Capella Ln, Louisville, KY:
+  lat: 38.156374
+  lng: -85.872356
 6600 Corp, Louisville, KY: null
 6600 Dixie Hwy, Louisville, KY:
   lat: 38.1548215
@@ -28187,6 +28193,7 @@
   Louisville, KY
 : lat: 38.134
   lng: -85.579647
+7900 Barge Town Road, Louisville, KY: null
 7900 Barksdale Dr, Louisville, KY:
   lat: 38.1270133
   lng: -85.8613751
@@ -28201,6 +28208,7 @@
 7900 Barn Rd. The stop was initiated and subsequently cleared by responding officers. No further details, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+7900 Birdstamper, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
 7900 Cannon-Narrow-Way, Louisville, KY: null
@@ -28522,6 +28530,9 @@
   lng: -85.8528978
 800 Kinross Pl, Louisville, KY: null
 800 Kinross Pl. Fire units were dispatched, Louisville, KY: null
+800 Lake Forest Pky, Louisville, KY:
+  lat: 38.2508607
+  lng: -85.4832231
 800 Lincoln King Baker, Louisville, KY: null
 800 Lincoln King Baker., Louisville, KY: null
 800 Linwood Ave, Louisville, KY:
