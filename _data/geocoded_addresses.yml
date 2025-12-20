@@ -10494,6 +10494,9 @@
   spreading, Louisville, KY
 : null
 2000 Merriman, Louisville, KY: null
+2000 Midland Ave near 500 block of Baker, Louisville, KY:
+  lat: 38.234512
+  lng: -85.712206
 2000 Midland, Louisville, KY:
   lat: 38.234512
   lng: -85.712206
@@ -13568,6 +13571,12 @@
   lat: 38.2708858
   lng: -85.7957115
 2900 Bank St., Louisville, KY:
+  lat: 38.2708858
+  lng: -85.7957115
+2900 Bank near South 25th and South 23rd, Louisville, KY:
+  lat: 38.2708858
+  lng: -85.7957115
+2900 Bank, Louisville, KY:
   lat: 38.2708858
   lng: -85.7957115
 2900 Bardstown Rd, Cormie, Louisville, KY: null
@@ -30599,6 +30608,9 @@
 9500 Maple Rd near Yellow Pine Dr, Louisville, KY:
   lat: 38.110447
   lng: -85.645779
+9500 Meadow Valley Pl, Louisville, KY:
+  lat: 38.104102
+  lng: -85.5643879
 9500 Michael Edward Dr, Louisville, KY:
   lat: 38.171926
   lng: -85.582501
