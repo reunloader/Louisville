@@ -3226,6 +3226,9 @@
   lat: 38.2413227
   lng: -85.8067247
 1100 South32nd Street, cross with Virginia and Hale Ave, Louisville, KY: null
+1100 South3rd Street, Louisville, KY:
+  lat: 38.237136
+  lng: -85.758543
 1100 South4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -9526,6 +9529,7 @@
 200 Sand Lake Dr near Sand Lake Ct and Sandwood Pl, Louisville, KY:
   lat: 38.0926054
   lng: -85.8606495
+200 Seltos, Louisville, KY: null
 200 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -14009,6 +14013,9 @@
 300 Beckley Woods Dr, Louisville, KY:
   lat: 38.2460754
   lng: -85.495423
+300 Belvar Ave, Louisville, KY:
+  lat: 38.261657
+  lng: -85.682884
 300 Bermuda Ln, Louisville, KY:
   lat: 38.159921
   lng: -85.714808
@@ -29869,6 +29876,9 @@
 900 Reference Lane, Louisville, KY: null
 900 Reference Lane. Responding units were dispatched, Louisville, KY: null
 900 River Park Dr, Louisville, KY: null
+900 Roadway Ave, Louisville, KY:
+  lat: 38.2078038
+  lng: -85.7748305
 900 Rowan St, Louisville, KY:
   lat: 38.2599004
   lng: -85.7738324
