@@ -2182,6 +2182,7 @@
 1000 Southern Ave, Louisville, KY:
   lat: 38.198171
   lng: -85.639367
+1000 Spring Creek Ct, Louisville, KY: null
 1000 Springview Dr near Chelsea Drive and Final Dr, Louisville, KY: null
 1000 St, Louisville, KY: null
 ? 1000 Stonehouse Lane following a report of a person suspected of driving under the
@@ -6709,6 +6710,9 @@
 1600 Congress St, Louisville, KY:
   lat: 38.256661
   lng: -85.776921
+1600 Cypress St, Louisville, KY:
+  lat: 38.229039
+  lng: -85.7990648
 1600 Dixdale Ave crossing McCloskey and Wingfield, Louisville, KY: null
 1600 Dixdale Ave, Louisville, KY:
   lat: 38.221442
@@ -15707,6 +15711,9 @@
 3200 W Kentucky St at apartment2, Louisville, KY:
   lat: 38.244126
   lng: -85.806135
+3200 W Kentucky St, Louisville, KY:
+  lat: 38.244126
+  lng: -85.806135
 3200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.256455
   lng: -85.806285
@@ -20736,6 +20743,9 @@
   at the 6100 block of Janes Farm Dr, a 70-year-old female with shoulder pain was
   attended, Louisville, KY
 : null
+4600 Preston Hwy, Louisville, KY:
+  lat: 38.1819958
+  lng: -85.720909
 4600 River Front Dr, Louisville, KY:
   lat: 38.2078958
   lng: -85.8644486
