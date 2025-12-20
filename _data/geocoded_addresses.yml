@@ -7996,6 +7996,9 @@
 1800 Rudy Ln, Louisville, KY:
   lat: 38.2783863
   lng: -85.6387851
+1800 Rutherford Ave, Louisville, KY:
+  lat: 38.2216499
+  lng: -85.7036754
 1800 Sale Ave, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
@@ -16382,6 +16385,7 @@
   lat: 38.211744
   lng: -85.712405
 3500 Kramer's Lane, Louisville, KY: null
+3500 Lee Flame, Louisville, KY: null
 3500 Lodge Line, Louisville, KY: null
 3500 Lodge Ln, Louisville, KY:
   lat: 38.1972517
