@@ -10210,6 +10210,9 @@
 : null
 200 eastbound, Louisville, KY: null
 200 eastbound, between Brownsboro and Westport, Louisville, KY: null
+200 eastbound, near Lonsdale Ave, Louisville, KY:
+  lat: 38.1755285
+  lng: -85.7863667
 200 eastbound, resulting in injuries, Louisville, KY: null
 200 interchange, Louisville, KY:
   lat: 38.0989549
@@ -32042,6 +32045,7 @@ Vantage Plaza Dr and Goddard Road, Louisville, KY: null
 Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
+Walter Ave and Lonsdale Ave, Louisville, KY: null
 Walter Ave and Rosedale Ave, Louisville, KY: null
 Warranty Drive and Forest Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
