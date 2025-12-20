@@ -1854,6 +1854,7 @@
 1000 N Preston Hwy. While the specific reason, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+1000 N S Beckley Station Rd (St, Louisville, KY: null
 1000 New Main St, Frankfort Ave, Louisville, KY: null
 ? 1000 North 35th Street following a report of a carbon monoxide detector alarm. After
   an investigation, the alarm was found to be false., Louisville, KY
@@ -4195,6 +4196,7 @@
 1200 South 6th Street, Louisville, KY:
   lat: 38.235228
   lng: -85.7640084
+1200 South Brooke, Louisville, KY: null
 1200 South Brooks Street, Louisville, KY: null
 ? 1200 South Brooks Street, requiring the attention of emergency medical personnel.
   Responders were dispatched, Louisville, KY
@@ -13898,6 +13900,11 @@
 300 Adams St. The caller reported no answer at the door and no one visible outside. The caller wished, Louisville, KY:
   lat: 38.260152
   lng: -85.731615
+300 Adams and 3700 block of Woodland Mills Dr, Louisville, KY: null
+300 Adams, Louisville, KY:
+  lat: 38.260152
+  lng: -85.731615
+300 Adams, where a person appeared, Louisville, KY: null
 300 Adelaide, Louisville, KY:
   lat: 38.3055248
   lng: -85.5693954
@@ -17147,6 +17154,9 @@
   lng: -85.7849485
 3700 Woods Green Court, Louisville, KY: null
 '3700 block of Von Spiegel St)** (around 2:12 p.m. a.m. p.m.): responded to a medical delta, Louisville, KY': null
+3754 Craig Ave, Louisville, KY:
+  lat: 38.1894223
+  lng: -85.7902689
 3800 7th St Rene Rd, Louisville, KY: null
 3800 Alanadale Dr, Louisville, KY:
   lat: 38.1101136
