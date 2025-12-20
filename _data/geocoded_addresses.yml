@@ -4791,6 +4791,9 @@
 1300 Kiefer Rd, Louisville, KY: null
 1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
 1300 LaCona Ln crossing Campobello St and Carroll Ave, Louisville, KY: null
+1300 Lacona Ln, Louisville, KY:
+  lat: 38.1853694
+  lng: -85.7166768
 1300 Lance Dr, Louisville, KY:
   lat: 38.183229
   lng: -85.801401
@@ -6485,6 +6488,9 @@
 1500 Winter Ave, Louisville, KY:
   lat: 38.237341
   lng: -85.724132
+1500 and 1510, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 1500 black over root for, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
 15000 the total lots area. Officers were sent, Louisville, KY: null
@@ -12858,6 +12864,9 @@
 2600 Titleist Rd near Blossom Ln, Louisville, KY:
   lat: 38.288499
   lng: -85.5784941
+2600 Top Hill Rd, Louisville, KY:
+  lat: 38.2465837
+  lng: -85.6947618
 2600 Virginia Ave, Louisville, KY:
   lat: 38.2374918
   lng: -85.7968374
@@ -22124,6 +22133,9 @@
   lat: 38.0881724
   lng: -85.669577
 5000 N Preston Hwy at Circle K, Louisville, KY: null
+5000 Netherwood Ridge Dr, Louisville, KY:
+  lat: 38.315251
+  lng: -85.546382
 5000 North Bardstown Rd, Louisville, KY: null
 ? 5000 North Bardstown Rd. Upon arrival, it was determined that a female at the scene
   had provided an incorrect passcode., Louisville, KY
@@ -31281,6 +31293,7 @@ First One Lane and North Sea Lane, Louisville, KY: null
 Flat Rock Rd and Shelbyville Rd, Louisville, KY: null
 Flicker Rd and Foreman Ln, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
+Floyd St and Caldwell St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
 Forest Dr and Prestwood Dr, Louisville, KY: null
 Fort Worth Avenue and Herman St, Louisville, KY: null
@@ -31406,6 +31419,7 @@ Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larchmont Ave and Central Ave, Louisville, KY: null
 Larchmont Ave and Taylor Blvd, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
+Lauderdale Rd and Hill Rd, Louisville, KY: null
 Lausanne Avenue and Dumesnil St, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
 Lexington Ave and Payne St, Louisville, KY: null
