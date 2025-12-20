@@ -9272,6 +9272,9 @@
 200 North 18th Street, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North 19th Street at Columbia and Rowan, Louisville, KY:
+  lat: 38.26085
+  lng: -85.781193
 200 North 26th St between Columbia St and Rowan St, Louisville, KY: null
 200 North 26th Street, Louisville, KY:
   lat: 38.262213
@@ -17117,6 +17120,7 @@
   lat: 38.1935943
   lng: -85.625947
 3800 Brinkerridge Lane, Louisville, KY: null
+3800 Brody Ln in Richhurst Place, Louisville, KY: null
 3800 Brody Ln, Louisville, KY:
   lat: 38.193015
   lng: -85.609294
@@ -27923,6 +27927,7 @@
 7900 Breitlinger Park Place 3:00 a, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
 7900 Cannon-Narrow-Way, Louisville, KY: null
+7900 Chisholm Trailway, Louisville, KY: null
 7900 Daleray Dr, Louisville, KY:
   lat: 38.1655549
   lng: -85.675783
@@ -30395,6 +30400,9 @@
 9300 Pinto Court. Officers responded, Louisville, KY:
   lat: 38.116221
   lng: -85.763218
+9300 Ponder Ln at Lilac Vista Dr and Hacienda Dr, Louisville, KY:
+  lat: 38.1166945
+  lng: -85.8631205
 9300 Walhampton Dr, Louisville, KY: null
 9300 Walhampton Dr. They were attending, Louisville, KY: null
 9400 600 block of Lane, Louisville, KY: null
@@ -31445,6 +31453,7 @@ Lexington Rd and Payne St, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
 Liberty St and Marshall St, Louisville, KY: null
 Liggy Lane and Scrim Ave, Louisville, KY: null
+Lilac Vista Dr and Hacienda Dr, Louisville, KY: null
 Lillian Ave and South St, Louisville, KY: null
 Lincoln Ave and Colorado Ave, Louisville, KY: null
 Lincoln Rd and Shelbyville Rd, Louisville, KY: null
@@ -31909,6 +31918,7 @@ Willis Ave and Pee Wee Reese Rd, Louisville, KY: null
 Willow Ave and Edgeland Ave, Louisville, KY: null
 Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
+Wimbrough Drive and Colorado Ave, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Winstead Dr and Global Dr, Louisville, KY: null
 Winter Park Dr and Herbert Ln, Louisville, KY: null
