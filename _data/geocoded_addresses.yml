@@ -2493,6 +2493,7 @@
   lat: 38.1090936
   lng: -85.8572627
 10200 Valley Farms Blvd, Point 86, Louisville, KY: null
+10200 Vantage Rd, Louisville, KY: null
 10200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -5260,6 +5261,9 @@
 13500 Oliver Station Ct, Louisville, KY:
   lat: 38.2941483
   lng: -85.5072369
+13500 Pinnacle Gardens Cir, Louisville, KY:
+  lat: 38.2872093
+  lng: -85.5057165
 13500 Rock Bay Ct, Louisville, KY:
   lat: 38.2911604
   lng: -85.5060035
@@ -9546,6 +9550,9 @@
 200 Sand Lake Dr near Sand Lake Ct and Sandwood Pl, Louisville, KY:
   lat: 38.0926054
   lng: -85.8606495
+200 Scottsdale Blvd, Louisville, KY:
+  lat: 38.1392264
+  lng: -85.7672337
 200 Seltos, Louisville, KY: null
 200 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
@@ -12493,6 +12500,9 @@
 2500 Hayward Rd near Crest Street of Brownsboro Rd and Shefford Ln, Louisville, KY:
   lat: 38.286262
   lng: -85.620313
+2500 Hayward Rd, Louisville, KY:
+  lat: 38.286262
+  lng: -85.620313
 2500 Hill Rd, Louisville, KY:
   lat: 38.2288093
   lng: -85.7185867
@@ -14514,6 +14524,9 @@
   lat: 38.2527788
   lng: -85.7463211
 300 S W Spring St, Louisville, KY: null
+300 Sale Ave, Louisville, KY:
+  lat: 38.1977542
+  lng: -85.7798314
 300 Shawnee Dr, Louisville, KY:
   lat: 38.2624879
   lng: -85.8248488
@@ -23002,6 +23015,9 @@
 5300 Robinwood Rd near Crop St Red Fern Rd and Rookwood Ave, Louisville, KY:
   lat: 38.1741629
   lng: -85.6677301
+5300 Robinwood, Louisville, KY:
+  lat: 38.1741629
+  lng: -85.6677301
 5300 Rolling Rock Ct, Louisville, KY:
   lat: 38.3212349
   lng: -85.5556022
@@ -27044,6 +27060,7 @@
 7000 Lilly Ln near Georgia Ln and Mountain Ct, Louisville, KY:
   lat: 38.2712002
   lng: -85.5215011
+7000 Mallgate Pl, Louisville, KY: null
 7000 Masonic Home Dr, Louisville, KY:
   lat: 38.2542653
   lng: -85.6624316
