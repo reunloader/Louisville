@@ -6589,6 +6589,9 @@
 16 Lincoln Run Rd, Louisville, KY: null
 16 Stites Station, Louisville, KY: null
 16 Stites Station. Patrol units were dispatched, Louisville, KY: null
+1600 Albany Ave, Louisville, KY:
+  lat: 38.1705767
+  lng: -85.8206166
 1600 Arcade, Louisville, KY:
   lat: 38.2078063
   lng: -85.7862058
@@ -9720,6 +9723,9 @@
 200 St. Matthews Avenue, Louisville, KY:
   lat: 38.260205
   lng: -85.656442
+? 200 St. Xavier, with a tag matching the BOLO "Sam 4, Victor 140." Law enforcement
+  officers were actively checking, Louisville, KY
+: null
 200 Starlite Ct, Louisville, KY:
   lat: 38.2388753
   lng: -85.6662901
@@ -22194,6 +22200,9 @@
   lng: -85.6581967
 5000 Green Bridgeway, Louisville, KY: null
 5000 Greenbridge Way, Louisville, KY: null
+5000 Hames Trace, Louisville, KY:
+  lat: 38.1677647
+  lng: -85.6082404
 5000 Hanses Dr, Louisville, KY:
   lat: 38.1601786
   lng: -85.6794729
