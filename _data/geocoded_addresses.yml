@@ -3613,6 +3613,9 @@
 11600 Valley View Rd near Evergreen Rd, Louisville, KY:
   lat: 38.2792505
   lng: -85.5469034
+11600 Winding Stream Way, Louisville, KY:
+  lat: 38.0833635
+  lng: -85.8771769
 11700 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
@@ -3734,6 +3737,9 @@
 1200 Atomic Place, Louisville, KY: null
 1200 Atomic Place., Louisville, KY: null
 1200 Bardstown Rd at Crescent Beach, Louisville, KY: null
+1200 Bardstown Rd at Mid City Mall, Louisville, KY:
+  lat: 38.236869
+  lng: -85.7184884
 1200 Bardstown Rd at Value Market, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
@@ -6726,6 +6732,9 @@
 ? 1600 Brintley. Responding units included those from the 700 block of Adam and 657.
   The specifics of the vehicles involved were not provided., Louisville, KY
 : null
+1600 Brownsboro Rd, Louisville, KY:
+  lat: 38.3012117
+  lng: -85.5911063
 1600 Bulger Ct, Louisville, KY:
   lat: 38.225504
   lng: -85.777028
@@ -10485,6 +10494,9 @@
   lat: 38.154705
   lng: -85.7254323
 2000 Ford E-450, Louisville, KY: null
+? 2000 Ford Expedition was involved in a hit-and-run incident near the shopping area.
+  Security personnel requested police assistance, Louisville, KY
+: null
 2000 Ford F-300 near 3rd and River Park, Louisville, KY: null
 2000 Ford Focus, registered to DJ's Auto Sales, was reported in the area. Authorities have issued a BOLO, Louisville, KY: null
 2000 Franciscan Cir, Louisville, KY: null
@@ -14900,6 +14912,7 @@
   lat: 38.2126508
   lng: -85.7253292
 3000 Fern Valley Rd, McDonald's, Louisville, KY: null
+3000 Ford Haven, Louisville, KY: null
 3000 Fordhaven Rd, Louisville, KY:
   lat: 38.1489023
   lng: -85.8150685
@@ -22902,6 +22915,9 @@
 5200 Terrace Green Cir, Louisville, KY:
   lat: 38.178102
   lng: -85.663655
+5200 Valkyrie Way, Louisville, KY:
+  lat: 38.106518
+  lng: -85.858125
 5200 Viking Way, Louisville, KY:
   lat: 38.107913
   lng: -85.857884
@@ -23515,6 +23531,7 @@
 5600 Gaskin Ct, Louisville, KY:
   lat: 38.0859979
   lng: -85.6631567
+5600 Green Acre, Louisville, KY: null
 5600 Green Grove Road near Crestridge and Bushman's Trove, Louisville, KY: null
 5600 Greenbluff Rd, Louisville, KY:
   lat: 38.14866
@@ -27110,6 +27127,9 @@
 7000 Fern Valley Rd. Emergency personnel responded, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+7000 Fisherville Road, Louisville, KY:
+  lat: 38.190172
+  lng: -85.4542078
 7000 Foxcroft Pl, Louisville, KY: null
 7000 Global Dr following a report of a male individual who had sustained a gunshot wound, Louisville, KY: null
 7000 Global Dr, Louisville, KY:
@@ -28252,6 +28272,9 @@
   lat: 38.2085025
   lng: -85.7126899
 7900 Shelbyville Rd at Oxford Mall, Louisville, KY:
+  lat: 38.2472183
+  lng: -85.6103014
+7900 Shelbyville Rd near Von Mar and Capitol Grill, Louisville, KY:
   lat: 38.2472183
   lng: -85.6103014
 7900 Shelbyville Rd, Louisville, KY:
@@ -31877,6 +31900,7 @@ Newburg Rd and Bellarmine Blvd, Louisville, KY: null
 Newburg Rd and Bishop Ln, Louisville, KY: null
 Newburg Rd and Gold Street, Louisville, KY: null
 Newburg Rd and Speed Ave, Louisville, KY: null
+Newcote Road and Palo Alto Road, Louisville, KY: null
 Norfolk Avenue and Landing Dr, Louisville, KY: null
 Norma Ln and Manila Ln, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
