@@ -1304,6 +1304,7 @@
   lng: -85.7120997
 100 block of Kenwood Ct, Louisville, KY: null
 100 by65 south, Louisville, KY: null
+100 district guard, Louisville, KY: null
 100 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
@@ -3295,6 +3296,7 @@
 1100 Woodcroft Ct near Pond Station Rd, Louisville, KY:
   lat: 38.1072784
   lng: -85.8230991
+1100 Woodcroft Ct, Louisville, KY: null
 ? '1100 block of East Broway)** (around 9:16 a.m. a.m. a.m.): A report was received
   of a person down at the Taco Bell due to an impossible overdose. The subject was
   surrounded by individuals, and it was noted that Nar Kand was involved. Units were
@@ -15698,6 +15700,9 @@
 3200 Virginia, Louisville, KY:
   lat: 38.2384543
   lng: -85.8071574
+3200 W Kentucky St at apartment2, Louisville, KY:
+  lat: 38.244126
+  lng: -85.806135
 3200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.256455
   lng: -85.806285
@@ -22934,6 +22939,9 @@
 5301 Milner Rd, Louisville, KY:
   lat: 38.1621035
   lng: -85.8350295
+5400 Angus Ct, Louisville, KY:
+  lat: 38.101763
+  lng: -85.863165
 5400 Bardstown Rd, Louisville, KY:
   lat: 38.1701301
   lng: -85.6079258
