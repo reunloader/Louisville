@@ -291,6 +291,9 @@
   lng: -85.686895
 100 Crest Street, Louisville, KY: null
 100 Croft Ct, Louisville, KY: null
+100 Crop Ct, Louisville, KY:
+  lat: 38.26139
+  lng: -85.792423
 100 Crop St early this morning, Louisville, KY: null
 100 Crop St, Louisville, KY:
   lat: 38.261105
@@ -12007,6 +12010,9 @@
   lng: -85.7801839
 2400 Ballad Blvd, Louisville, KY: null
 2400 Bank St, Louisville, KY:
+  lat: 38.267712
+  lng: -85.786762
+2400 Bank St. Law enforcement continues to search, Louisville, KY:
   lat: 38.267712
   lng: -85.786762
 2400 Bardstown Rd, Louisville, KY:
@@ -25901,9 +25907,15 @@
 6900 Greenwich Rd, Louisville, KY:
   lat: 38.2065974
   lng: -85.642936
+6900 Kentucky, Louisville, KY:
+  lat: 38.1537352
+  lng: -85.819662
 6900 Kerry Dr, Louisville, KY:
   lat: 38.2013276
   lng: -85.6726345
+6900 Keswick Blvd, Louisville, KY:
+  lat: 38.2178795
+  lng: -85.7377355
 6900 Lanspar, Louisville, KY: null
 6900 Lanspar. They were working to verify details about a vehicle with a third-party company., Louisville, KY: null
 6900 Lanspar. They were working, Louisville, KY: null
