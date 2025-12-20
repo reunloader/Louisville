@@ -5204,6 +5204,9 @@
 13100 Magisterial Dr. Unit 800 requested to be held on the scene, indicating they would be occupied, Louisville, KY:
   lat: 38.2676169
   lng: -85.5093974
+1316 Kremer Ave, Louisville, KY:
+  lat: 38.1715665
+  lng: -85.7011457
 13200 Cain Ln, Louisville, KY:
   lat: 38.2932179
   lng: -85.513383
@@ -15627,6 +15630,9 @@
   lat: 38.2076133
   lng: -85.6642191
 3200 Hoover Barton Rd, Louisville, KY: null
+3200 Illinois near Poplar Level, Louisville, KY:
+  lat: 38.21145
+  lng: -85.719489
 3200 Indian Lake Dr, Louisville, KY:
   lat: 38.28879
   lng: -85.5454661
@@ -15820,6 +15826,9 @@
 32100 McCloskey Avenue, Louisville, KY:
   lat: 38.2242622
   lng: -85.7878189
+3228 River Park Dr, Louisville, KY:
+  lat: 38.2540234
+  lng: -85.8070483
 3259 David Street, Louisville, KY: null
 33 Autumn Hill Cross West Over Drive, Louisville, KY: null
 3300 Algonquin Pky, Louisville, KY:
