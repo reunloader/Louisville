@@ -812,6 +812,7 @@
 100 Olde English Ct, Louisville, KY:
   lat: 38.116375
   lng: -85.812006
+100 Ollie's parking lot, Louisville, KY: null
 100 Oster, Louisville, KY: null
 100 Ottawa Ave, Louisville, KY:
   lat: 38.187883
@@ -9389,6 +9390,9 @@
 200 North at Wilhenry Road, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at mile mark 31, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at mile marker 29, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -11671,6 +11675,9 @@
   lat: 38.223761
   lng: -85.6901595
 '2300 Bolling Ave)** (around 9:54 a.m. a.m. a.m.): Police units responded, Louisville, KY': null
+2300 Bolling Ave, Louisville, KY:
+  lat: 38.2302085
+  lng: -85.7950795
 2300 Boulevard Napoleon, Louisville, KY:
   lat: 38.221638
   lng: -85.694698
@@ -23532,6 +23539,7 @@
   lat: 38.1628763
   lng: -85.5970273
 5700 Barker Personal, Louisville, KY: null
+5700 Blue Springs Dr, Louisville, KY: null
 5700 Bradby 4th Lane, Louisville, KY: null
 5700 Bruns Dr, Louisville, KY:
   lat: 38.171284
