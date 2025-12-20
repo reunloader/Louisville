@@ -10289,6 +10289,7 @@
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
+200 westbound bridge, Louisville, KY: null
 200 westbound from the fairgrounds, Louisville, KY: null
 200 westbound, Louisville, KY: null
 200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
@@ -19487,6 +19488,9 @@
 4100 Winnrose Way, Louisville, KY:
   lat: 38.239014
   lng: -85.8222
+4100 Wooded Acre Ln near Forest Springs Nursing Home, Louisville, KY:
+  lat: 38.2962839
+  lng: -85.5096063
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
@@ -19852,6 +19856,7 @@
 4300 Jefferson St, Louisville, KY:
   lat: 38.1947429
   lng: -85.8418877
+4300 Kane Run near Lend Nation, Louisville, KY: null
 4300 King Run, Louisville, KY: null
 4300 Lake Dreamland Rd, Louisville, KY:
   lat: 38.2071938
@@ -23240,6 +23245,9 @@
   lng: -85.6630567
 5500 National Term Pike (White Castle), Louisville, KY: null
 5500 New Cut Rd (Kroger) / 1500 block of Anna Ln, Louisville, KY: null
+5500 New Cut Rd at Kroger, Louisville, KY:
+  lat: 38.14538
+  lng: -85.775274
 5500 New Cut Rd near Kroger and Crop St of Cogan Blvd, Louisville, KY:
   lat: 38.14538
   lng: -85.775274
@@ -30328,6 +30336,7 @@
   KY
 : null
 9100 Big Boulevard Drive, Louisville, KY: null
+9100 Bird Tree Road, Louisville, KY: null
 9100 Blue Creek Ct, Louisville, KY:
   lat: 38.1035609
   lng: -85.6973203
@@ -30927,6 +30936,7 @@
   lat: 38.10888
   lng: -85.695595
 9700 St, Louisville, KY: null
+9700 Stern Street Road near University Child Health Center, Louisville, KY: null
 9700 Stonestreet Rd near Brooklyn and Blanton, Louisville, KY:
   lat: 38.1137802
   lng: -85.840811
@@ -31905,6 +31915,7 @@ Snow Street and Pond Station Rd, Louisville, KY: null
 Snyder Street and Stone St, Louisville, KY: null
 Sophia Ln and Sanctuary Ln, Louisville, KY: null
 South Clay Street and East Market Street, Louisville, KY: null
+South Cook Road and Rile Rd, Louisville, KY: null
 South English Station Road and Poplar Street, Louisville, KY: null
 South Fifth Street and Cedar Road, Louisville, KY: null
 South First Street Parkway and Shane Dr, Louisville, KY: null
