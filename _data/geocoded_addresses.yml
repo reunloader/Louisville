@@ -10110,6 +10110,7 @@
 200 West, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West, and ongoing traffic stops at different locations, Louisville, KY: null
 ? 200 West, initially involving a black vehicle and a white Accord. The situation
   escalated into a larger collision involving a Tesla and a Nissan Murano. Emergency
   medical services transported one patient, Louisville, KY
@@ -12364,6 +12365,9 @@
 2400 South16th Street, Louisville, KY:
   lat: 38.2240638
   lng: -85.7820693
+2400 Springing Up Lane at Pembroke D, Louisville, KY:
+  lat: 38.2238961
+  lng: -85.6240166
 2400 St Xavier St, Louisville, KY:
   lat: 38.2664071
   lng: -85.7875475
@@ -26636,6 +26640,9 @@
   lng: -85.501433
 700 Lewis Coleman Jr, Louisville, KY: null
 700 Lewis-Quanlin Junior, Louisville, KY: null
+700 Lexington Pl, Louisville, KY:
+  lat: 38.2448241
+  lng: -85.6927483
 700 Linden Dr, Louisville, KY: null
 ? 700 Linden Dr. The alarm was triggered by a smoke detector in zone 8. The response
   was subsequently canceled., Louisville, KY
@@ -30492,6 +30499,7 @@
   reported at the 900 block of block of French Ave. Units were dispatched, Louisville,
   KY
 : null
+900 hang-up call prompted officers, Louisville, KY: null
 900 the street, Louisville, KY: null
 900 unspecified location, Louisville, KY: null
 ? 900 where the line was answered and then abruptly disconnected. Responding units
