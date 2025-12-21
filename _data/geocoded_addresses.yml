@@ -17003,6 +17003,9 @@
 3600 North 36th Street, Louisville, KY:
   lat: 38.2647035
   lng: -85.8093607
+3600 Northwestern Pky, Louisville, KY:
+  lat: 38.2741698
+  lng: -85.8065097
 ? 3600 Oakdale Ave. A 20-year-old rider was reported to have been thrown from a horse
   and may have sustained head injuries., Louisville, KY
 : lat: 38.2029202
@@ -19272,6 +19275,9 @@
 4000 Chubbiel Road after a fire alarm was activated at a local high school. Engines 41 and 47 responded, Louisville, KY: null
 4000 Collins Ln, Crest Street, Westport Rd and Chamberlain, Crosswinds Dr, Louisville, KY: null
 4000 Cresskey Way, Louisville, KY: null
+4000 Dixie Hwy, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
 4000 Druid Hills Row, Louisville, KY: null
 4000 Dutchman's Lane, Louisville, KY: null
 4000 Dutchman's, Louisville, KY: null
