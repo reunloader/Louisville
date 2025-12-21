@@ -7652,6 +7652,9 @@
 1700 Wilart Dr near Dixie Hwy and Clovelly Ct, Louisville, KY:
   lat: 38.218821
   lng: -85.789562
+1700 Wilart Dr, Louisville, KY:
+  lat: 38.218821
+  lng: -85.789562
 1700 Willard near 60th Street, Louisville, KY: null
 1700 Willmar Ave due, Louisville, KY: null
 ? 1700 Willmar Ave following reports of several individuals looking into cars in a
@@ -27165,6 +27168,9 @@
   lat: 38.256802
   lng: -85.7618553
 700 West O'Rail, Louisville, KY: null
+700 West Oak, Louisville, KY:
+  lat: 38.235384
+  lng: -85.765257
 700 West Orangeby Avenue near 9th Street, Louisville, KY:
   lat: 38.2345368
   lng: -85.7675997
@@ -31544,6 +31550,7 @@ Baxter Ave and Grinstead Dr, Louisville, KY: null
 Baxter Ave and Hepburn Ave, Louisville, KY: null
 Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
+Baxter Ave and Payne St, Louisville, KY: null
 Beaumont Rd and Hawthorne Ave, Louisville, KY: null
 Beaver St and Adams St, Louisville, KY: null
 Beaver St and Charles St, Louisville, KY: null
