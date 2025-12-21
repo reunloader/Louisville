@@ -3293,6 +3293,9 @@
 1100 South40th Street at Covenant Baptist Church near Hale Ave and Sunset Ave, Louisville, KY:
   lat: 38.241931
   lng: -85.818716
+1100 South41st Street, Louisville, KY:
+  lat: 38.241236
+  lng: -85.820584
 ? 1100 South41st Street. Emergency medical teams arrived promptly to provide assistance
   and assess her condition. She was stabilized and transported, Louisville, KY
 : lat: 38.241236
@@ -5174,6 +5177,7 @@
 1300 South3rd Street, Louisville, KY:
   lat: 38.2325507
   lng: -85.7594371
+1300 Southbrook Street, Louisville, KY: null
 1300 Southgate Ave, Louisville, KY:
   lat: 38.2003885
   lng: -85.7836267
@@ -11371,6 +11375,9 @@
   police units responded, Louisville, KY
 : lat: 38.2488055
   lng: -85.7867975
+2100 West Market, Louisville, KY:
+  lat: 38.258287
+  lng: -85.785077
 2100 West Muhammad Valley, Louisville, KY: null
 2100 West W Lee St, Louisville, KY: null
 2100 Winston Ave, Louisville, KY:
@@ -20065,6 +20072,9 @@
   lat: 38.1866716
   lng: -85.5954418
 4200 Stony Stratus, Louisville, KY: null
+4200 Summit Plaza Dr, Louisville, KY:
+  lat: 38.3076411
+  lng: -85.5792533
 4200 Town Center, Louisville, KY: null
 4200 W Ellington Ave, Louisville, KY: null
 4200 W Market St, Louisville, KY:
