@@ -944,6 +944,7 @@
 100 Sam Dr, Louisville, KY:
   lat: 38.141126
   lng: -85.765606
+100 Sam's Drive, Louisville, KY: null
 100 San Jose Ave, near the Hillside Dr-In on Dixie Hwy,, Louisville, KY: null
 100 Sears Ave, Louisville, KY: null
 100 Second in Broadway, Louisville, KY: null
@@ -19947,6 +19948,9 @@
 4200 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.0926849
   lng: -85.8553918
+4200 Greenwood Ave, Louisville, KY:
+  lat: 38.2442721
+  lng: -85.8230343
 4200 Ground Review Avenue, Louisville, KY: null
 ? 4200 Hale Ave. Specific details regarding the nature of the emergency or the patient's
   condition were not immediately available., Louisville, KY
