@@ -28900,6 +28900,9 @@
   lng: -85.8528978
 800 Kinross Pl, Louisville, KY: null
 800 Kinross Pl. Fire units were dispatched, Louisville, KY: null
+800 LaGrange Road, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 800 Lake Forest Pky, Louisville, KY:
   lat: 38.2508607
   lng: -85.4832231
@@ -31532,6 +31535,9 @@
   units arrived on scene by approximately 1:14 p.m., Louisville, KY
 : lat: 38.1729172
   lng: -85.5759099
+9800 LaGrange Road, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 9800 Lowe's, Louisville, KY:
   lat: 38.1064109
   lng: -85.6721115
@@ -32649,6 +32655,7 @@ Westport Rd and Factory Ln, Louisville, KY: null
 Westport Rd and Goose Creek Rd, Louisville, KY: null
 Westport Rd and Langdon Dr, Louisville, KY: null
 Westport Rd and North Hersburn Parkway, Louisville, KY: null
+Westport Rd and North Hurts Farm Parkway, Louisville, KY: null
 Westport Rd and Ormsby Ln, Louisville, KY: null
 Westport Rd and Shining Willow Dr, Louisville, KY: null
 Westport Rd and Stonehurst Avenue, Louisville, KY: null
