@@ -14988,6 +14988,10 @@
 3000 Greenwood Ave, Louisville, KY:
   lat: 38.242502
   lng: -85.80308
+? 3000 Greenwood Ave, where they were assigned until 7:00 a.m. The presence of off-duty
+  personnel indicates ongoing coordination and readiness among law enforcement, Louisville,
+  KY
+: null
 3000 Hale Ave, Louisville, KY:
   lat: 38.239672
   lng: -85.80358
@@ -30403,6 +30407,9 @@
 900 Vine St., Louisville, KY:
   lat: 38.239276
   lng: -85.732806
+900 W Florence Ave near Warren Ave, Louisville, KY:
+  lat: 38.1909754
+  lng: -85.7751678
 900 W Florence Ave, Louisville, KY:
   lat: 38.1909754
   lng: -85.7751678
