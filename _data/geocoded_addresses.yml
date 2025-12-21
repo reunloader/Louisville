@@ -19785,6 +19785,15 @@
   and was subsequently canceled, suggesting the incident was resolved or no longer
   required their assistance., Louisville, KY
 : null
+4200 Lee Ave, Louisville, KY:
+  lat: 38.1969473
+  lng: -85.7112525
+? 4200 Lee Ave., with the responding police division arriving at the scene. The incident
+  occurred near the intersection of Lincoln and Taylor streets. Responders found the
+  area secured and began initial assessments. No further details about injuries or
+  suspects were provided, but police units responded promptly, Louisville, KY
+: lat: 38.1969473
+  lng: -85.7112525
 4200 Lusselmoe Drive, Louisville, KY: null
 ? 4200 Lusselmoe Drive. Callers heard a door opening and suspected someone might be
   inside the home. Multiple police units were dispatched, Louisville, KY
@@ -29757,6 +29766,9 @@
 8800 Sanctuary Ln, Louisville, KY:
   lat: 38.122357
   lng: -85.577885
+? 8800 Smirno Parkway, involving an unconscious and non-breathing patient at the crash
+  site. Responders arrived quickly, Louisville, KY
+: null
 8800 Smyrna Parkway, Louisville, KY:
   lat: 38.1216922
   lng: -85.6442708
