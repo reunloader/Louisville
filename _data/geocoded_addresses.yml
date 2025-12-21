@@ -6692,6 +6692,10 @@
 1600 Arthur St. Emergency personnel responded promptly, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
+? 1600 Arthur St. The patient was considered hostile but was assessed as needing medical
+  attention. Responders managed the scene and prepared, Louisville, KY
+: lat: 38.223421
+  lng: -85.751404
 ? 1600 Arthur Street for a call regarding the retrieval of firearms. This incident
   involved coordinating multiple units to ensure the safe recovery of the items. The
   situation required careful attention to detail and adherence to established protocols.
@@ -18842,6 +18846,7 @@
 400 South St, Louisville, KY:
   lat: 38.219248
   lng: -85.776587
+400 South Winslow Street, Louisville, KY: null
 400 South10th Street, Louisville, KY:
   lat: 38.2540801
   lng: -85.7673115
@@ -19603,6 +19608,9 @@
 4100 South1st Street, Louisville, KY:
   lat: 38.196692
   lng: -85.7618724
+4100 South5th Street, Louisville, KY:
+  lat: 38.192854
+  lng: -85.768425
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
@@ -22390,6 +22398,7 @@
 500 West. This is a service offered, Louisville, KY:
   lat: 38.2350131
   lng: -85.762185
+500 Whitney Street, Louisville, KY: null
 500 Wilderness Rd across Wilderness Pl, Louisville, KY: null
 500 Wood Lake Drop, Louisville, KY: null
 500 Wood Valley Ln, Louisville, KY: null
@@ -24080,6 +24089,7 @@
 600 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+600 Bates Ave across South6th Street, Louisville, KY: null
 600 Baxter Ave, Louisville, KY:
   lat: 38.2460301
   lng: -85.7290065
