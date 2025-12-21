@@ -10883,6 +10883,7 @@
 2000 block of black Kia at Home Depot entrance, Louisville, KY: null
 2000 four-door Nissan Xterra, Louisville, KY: null
 2000 location, motor vehicle accident, Louisville, KY: null
+2000 model registered, Louisville, KY: null
 2000 scene 613, Louisville, KY: null
 2000 the highway. Investigators are working, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
@@ -26564,6 +26565,9 @@
 700 Gale St, Louisville, KY:
   lat: 38.1866627
   lng: -85.8418571
+700 Glen Lakes Dr, Louisville, KY:
+  lat: 38.2408447
+  lng: -85.448017
 700 Glengarry Dr, Louisville, KY:
   lat: 38.1228878
   lng: -85.7534925
