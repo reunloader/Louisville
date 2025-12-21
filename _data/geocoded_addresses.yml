@@ -1356,6 +1356,7 @@
 100 the street, Louisville, KY:
   lat: 38.251856
   lng: -85.7570803
+100 truck and was located across from the guard shack I-804. Responders quickly arrived, Louisville, KY: null
 100 truck was reported stolen in the area of South Park and Fairdale. Police units were dispatched, Louisville, KY: null
 100 two different streets, Louisville, KY: null
 ? 100 versus another truck on South7th Street, and a separate collision on Preston
@@ -30155,6 +30156,9 @@
   lat: 38.230112
   lng: -85.740178
 900 Goth Avenue near Boyle St and Logan St, Louisville, KY: null
+900 Grade Ln near the guard shack at UPS parking lot, Louisville, KY:
+  lat: 38.1592088
+  lng: -85.7287136
 900 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
@@ -31949,6 +31953,7 @@ Grinstead Dr and Cherokee Pky, Louisville, KY: null
 Grinstead Dr and Lexington Rd, Louisville, KY: null
 Grinstead Dr and Ray Ave, Louisville, KY: null
 Grounds Street and Tennessee Ave, Louisville, KY: null
+Hale Ave and New Hampshire Blvd, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
 Hampstead Dr and Ralph Ave, Louisville, KY: null
 Harrods Glen Dr and Harrods Ridge Dr, Louisville, KY: null
