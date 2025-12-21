@@ -2813,6 +2813,9 @@
 10900 Stone St, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
+10900 Sweet Water Dr, Louisville, KY:
+  lat: 38.312742
+  lng: -85.551014
 10900 W Florence Ave, Louisville, KY:
   lat: 38.1910686
   lng: -85.7727391
@@ -3284,6 +3287,9 @@
 1100 South3rd Street, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
+1100 South40th Street at Covenant Baptist Church near Hale Ave and Sunset Ave, Louisville, KY:
+  lat: 38.241931
+  lng: -85.818716
 1100 South4th Street area, Louisville, KY: null
 1100 South4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
@@ -4322,6 +4328,9 @@
   lng: -85.7556489
 1200 South32nd Street and nearby areas, Louisville, KY: null
 1200 South3rd St, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
+1200 South3rd Street at the Hilda Rand House near West Ormsby and West Oak, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
 1200 South3rd Street, Louisville, KY:
@@ -15720,6 +15729,9 @@
   lat: 38.2020406
   lng: -85.793294
 3200 Adams St and 2100 block of Bank St, Louisville, KY: null
+3200 Ainslie Way near Radiance Rd and Johnston Way, Louisville, KY:
+  lat: 38.211476
+  lng: -85.646518
 3200 Allerton Way, Louisville, KY: null
 ? 3200 Allerton Way, near the intersection of Windward Way and Kelly Way. The call
   concerned a 49-year-old male who was suffering from chest pain and shortness of
@@ -17771,6 +17783,9 @@
   lng: -85.789937
 3900 Creski Way, Louisville, KY: null
 3900 Delphi, Louisville, KY: null
+3900 Dixie Hwy near Schmitts Ln and Park Rd, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
 3900 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -32022,6 +32037,7 @@ Grinstead Dr and Lexington Rd, Louisville, KY: null
 Grinstead Dr and Ray Ave, Louisville, KY: null
 Grounds Street and Tennessee Ave, Louisville, KY: null
 Hale Ave and New Hampshire Blvd, Louisville, KY: null
+Hale Ave and Sunset Ave, Louisville, KY: null
 Halifax Dr and Lunenburg Dr, Louisville, KY: null
 Hampstead Dr and Ralph Ave, Louisville, KY: null
 Harrods Glen Dr and Harrods Ridge Dr, Louisville, KY: null
