@@ -7821,6 +7821,9 @@
 : null
 1800 Bowling Blvd, Louisville, KY: null
 1800 Brownsboro Rd and 1900 block of Muncie Ave, Louisville, KY: null
+1800 Brownsboro Rd, Louisville, KY:
+  lat: 38.2599201
+  lng: -85.716635
 ? 1800 Brownsboro Rd, while the girlfriend was located at the 1900 block of Muncie
   Ave. Police units were involved in attempting, Louisville, KY
 : null
@@ -20784,6 +20787,7 @@
 4500 South 6th Street. Medical personnel provided care, Louisville, KY:
   lat: 38.1881447
   lng: -85.7704769
+4500 South Bird Street, Louisville, KY: null
 4500 South First Corn Parkway, Louisville, KY: null
 4500 South First One Parkway, Louisville, KY: null
 4500 South Harris Farm Parkway, Louisville, KY: null
