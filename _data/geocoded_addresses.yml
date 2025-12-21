@@ -8048,6 +8048,7 @@
   lng: -85.592193
 1800 Integrity Way. Multiple units responded, Louisville, KY: null
 1800 Jalen Road, Louisville, KY: null
+1800 Kendall Lnmber, Louisville, KY: null
 1800 Kindle Lane, Louisville, KY: null
 1800 Kingsford Dr, Louisville, KY:
   lat: 38.173602
@@ -23346,6 +23347,9 @@
 5300 Milner Rd, Louisville, KY:
   lat: 38.1619458
   lng: -85.8354956
+5300 Mitscher Ave, Louisville, KY:
+  lat: 38.1713857
+  lng: -85.7709066
 5300 Molly Manor Dr, Louisville, KY:
   lat: 38.1555954
   lng: -85.6631863
@@ -28095,6 +28099,7 @@
   lat: 38.1527039
   lng: -85.6035635
 7400 Satchar Drive, Louisville, KY: null
+7400 Segalcrest Circle, Louisville, KY: null
 7400 South3rd St Rene Rd, Louisville, KY: null
 7400 St, Louisville, KY:
   lat: 38.1458999
