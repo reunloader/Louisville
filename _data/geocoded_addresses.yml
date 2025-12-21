@@ -6681,6 +6681,7 @@
   lat: 38.3018456
   lng: -85.6476657
 16 Lincoln Run Rd, Louisville, KY: null
+16 Meadowcreek Dr, Louisville, KY: null
 16 Stites Station, Louisville, KY: null
 16 Stites Station. Patrol units were dispatched, Louisville, KY: null
 1600 Albany Ave, Louisville, KY:
@@ -10258,6 +10259,9 @@
   lat: 38.202624
   lng: -85.4410529
 200 Woodcleft Rd, Louisville, KY: null
+200 Woodhill Ln, Louisville, KY:
+  lat: 38.1445238
+  lng: -85.6653727
 200 Woodlawn, Louisville, KY:
   lat: 38.180701
   lng: -85.758832
@@ -10279,6 +10283,9 @@
 200 York Street, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
+200 Young Ave, Louisville, KY:
+  lat: 38.230404
+  lng: -85.8132568
 200 [Street Name Unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -10402,6 +10409,9 @@
 200 overpass. This vehicle was linked, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
+200 south, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 southbound I- near Cannons Ln, Louisville, KY:
   lat: 38.235109
   lng: -85.65801
@@ -18700,6 +18710,7 @@
 400 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+400 Sapling Spring Pl, Louisville, KY: null
 400 Savage Dr, Louisville, KY: null
 400 Second Street, Louisville, KY:
   lat: 38.2627168
@@ -28412,6 +28423,9 @@
 7800 Sanders, Louisville, KY:
   lat: 38.1552943
   lng: -85.7919287
+7800 Southside Dr, Louisville, KY:
+  lat: 38.1536611
+  lng: -85.7652516
 7800 St, Louisville, KY:
   lat: 38.1318501
   lng: -85.7919277
