@@ -12577,6 +12577,7 @@
 2400 West Market, Louisville, KY:
   lat: 38.2589016
   lng: -85.7903761
+2400 Wileys Ct, Louisville, KY: null
 2400 [Street Name Missing], Louisville, KY:
   lat: 38.2678774
   lng: -85.7047987
@@ -22529,6 +22530,9 @@
 500 South4th Street, Louisville, KY:
   lat: 38.2509279
   lng: -85.7578311
+500 South8th Street, Louisville, KY:
+  lat: 38.250978
+  lng: -85.764372
 500 St, Louisville, KY: null
 500 Standwick Way, Louisville, KY:
   lat: 38.2394075
