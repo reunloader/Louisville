@@ -17113,6 +17113,7 @@
 3600 Virginia Ave. Upon arrival, no smoke was visible, and the alarm was determined, Louisville, KY:
   lat: 38.23921
   lng: -85.813755
+3600 W Jefferson St cross-street, Louisville, KY: null
 3600 W Jefferson St, Louisville, KY:
   lat: 38.2600465
   lng: -85.8097816
@@ -19278,6 +19279,9 @@
 4000 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+4000 Dixie, Louisville, KY:
+  lat: 38.151629
+  lng: -85.8345273
 4000 Druid Hills Row, Louisville, KY: null
 4000 Dutchman's Lane, Louisville, KY: null
 4000 Dutchman's, Louisville, KY: null
