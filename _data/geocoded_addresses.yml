@@ -668,6 +668,9 @@
 100 Newcutt near Speedway, Louisville, KY:
   lat: 38.1835893
   lng: -85.6985826
+100 Nolin Pl near Southlandmber, Louisville, KY:
+  lat: 38.1731176
+  lng: -85.7582745
 ? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
   both chest and abdominal pain, and medical personnel provided care., Louisville,
   KY
@@ -10302,6 +10305,9 @@
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
   lng: -85.6410214
+200 eastbound and South25 near Franklin, Louisville, KY:
+  lat: 38.1737608
+  lng: -85.8378429
 200 eastbound at mile marker 11, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -10318,6 +10324,10 @@
   lat: 38.1755285
   lng: -85.7863667
 200 eastbound, resulting in injuries, Louisville, KY: null
+? 200 eastbound, with one blocking a lane. Additionally, a motorist reported a male
+  passed out against the median on the southbound 25. Officers arrived, Louisville,
+  KY
+: null
 200 interchange, Louisville, KY:
   lat: 38.0989549
   lng: -85.6793839
@@ -10365,6 +10375,9 @@
 200 southbound at the 24, Louisville, KY: null
 200 southbound at the 24.1 mile marker, Louisville, KY: null
 200 southbound from Highway64, Louisville, KY: null
+200 southbound near West Market, Louisville, KY:
+  lat: 38.2554323
+  lng: -85.7586619
 200 southbound near the 230, Louisville, KY: null
 200 southbound near the 26, Louisville, KY: null
 200 southbound near the 6-mile marker, Louisville, KY: null
@@ -27954,6 +27967,7 @@
   lng: -85.7712032
 7500 Frank8 Drive, Louisville, KY: null
 7500 Frontgate Dr, Louisville, KY: null
+7500 Garrison Rd and Lee Ave, Louisville, KY: null
 7500 Garrison Rd, Louisville, KY:
   lat: 38.1370945
   lng: -85.757227
@@ -28126,6 +28140,7 @@
 7700 Bardstown Rd, Louisville, KY:
   lat: 38.1354405
   lng: -85.5803445
+7700 Brewer Dr, No, Louisville, KY: null
 7700 Brickview, Louisville, KY: null
 7700 Brookview Dr, Louisville, KY: null
 7700 Carnation Dr) (around 1:11 a.m. a.m. a.m.):** Officers responded, Louisville, KY: null
@@ -31799,6 +31814,7 @@ Gagel Ave and Manslick Rd, Louisville, KY: null
 Garland Ave and Cecil Ave, Louisville, KY: null
 Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Garland Ave and Hound Street, Louisville, KY: null
+Garrison Rd and Lee Ave, Louisville, KY: null
 Gatehouse Road and Burnsdale Rd, Louisville, KY: null
 Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
