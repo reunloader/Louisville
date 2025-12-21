@@ -9795,6 +9795,9 @@
 200 South near 64 West, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South near Brownsboro, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South near I-64, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
@@ -29260,6 +29263,9 @@
   lng: -85.8663763
 8000 Vine Crest Ave, Louisville, KY: null
 8000 Water Firm Way, Louisville, KY: null
+8000 Waterfern Way, Louisville, KY:
+  lat: 38.1526908
+  lng: -85.611823
 8000 Wonderson Trail, Louisville, KY: null
 ? 8000 Wonderson Trail. The resident, a 97-year-old female, was repeatedly activating
   her medical alert system and indicated that multiple individuals were attempting,
