@@ -7919,6 +7919,9 @@
 1800 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
+1800 Burwell Ave, Louisville, KY:
+  lat: 38.225492
+  lng: -85.791733
 1800 Carl Ct, Louisville, KY:
   lat: 38.19116
   lng: -85.802221
@@ -25369,6 +25372,9 @@
 6200 Mount Blanc Rd, Louisville, KY:
   lat: 38.1689481
   lng: -85.8558628
+6200 Mount Everest, Louisville, KY:
+  lat: 38.1652236
+  lng: -85.8535146
 6200 Newton Woods Trail, Louisville, KY: null
 6200 Oak Valley Dr, Louisville, KY:
   lat: 38.1632109
@@ -25789,6 +25795,9 @@
 6500 Hunters Creek Blvd, Louisville, KY:
   lat: 38.1644536
   lng: -85.8701997
+6500 Jefferson Blvd, Louisville, KY:
+  lat: 38.1522792
+  lng: -85.6784306
 6500 Jennifer Valley, Louisville, KY:
   lat: 38.1691223
   lng: -85.8721886
@@ -32109,6 +32118,7 @@ Harrods Glen Dr and Harrods Ridge Dr, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Hawthorne Ave and Bardstown Rd, Louisville, KY: null
 Hazel St and South Second Street, Louisville, KY: null
+Hazelwood Ave and Bicknell Ave, Louisville, KY: null
 Heafer Rd and Hagen Rd, Louisville, KY: null
 Health Avenue and Crafty Dr, Louisville, KY: null
 Height Avenue and Frankfort Ave, Louisville, KY: null
