@@ -11940,6 +11940,9 @@
 2300 Greenwood Ave. Details, Louisville, KY:
   lat: 38.2412212
   lng: -85.7921946
+2300 Hale Ave, Louisville, KY:
+  lat: 38.2384129
+  lng: -85.7926812
 2300 Hardesty Ave, Louisville, KY:
   lat: 38.2167854
   lng: -85.7984832
@@ -17204,6 +17207,9 @@
 3700 Falcon Crest Dr, Louisville, KY:
   lat: 38.1195704
   lng: -85.6923529
+3700 Falcon Crest, Louisville, KY:
+  lat: 38.1195704
+  lng: -85.6923529
 3700 Fern Valley Rd, Louisville, KY:
   lat: 38.1573006
   lng: -85.6919502
@@ -17762,6 +17768,7 @@
 3900 Flans Avenue, Louisville, KY: null
 3900 Flans Avenue. Responders were instructed to wait outside the residence for the patient., Louisville, KY: null
 3900 Flans Avenue. Responders were instructed to wait outside the residence, Louisville, KY: null
+3900 Greenhouse Driller, Louisville, KY: null
 3900 Heller St, Louisville, KY:
   lat: 38.1807123
   lng: -85.6574369
