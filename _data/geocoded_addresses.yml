@@ -3208,6 +3208,9 @@
 1100 South 3rd Street. A complainant stated her ex-boyfriend was attempting, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
+1100 South 41st Street, Louisville, KY:
+  lat: 38.241236
+  lng: -85.820584
 1100 South 43rd Street, Louisville, KY:
   lat: 38.2425962
   lng: -85.8254794
@@ -3290,6 +3293,10 @@
 1100 South40th Street at Covenant Baptist Church near Hale Ave and Sunset Ave, Louisville, KY:
   lat: 38.241931
   lng: -85.818716
+? 1100 South41st Street. Emergency medical teams arrived promptly to provide assistance
+  and assess her condition. She was stabilized and transported, Louisville, KY
+: lat: 38.241236
+  lng: -85.820584
 1100 South4th Street area, Louisville, KY: null
 1100 South4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
@@ -4984,6 +4991,13 @@
 1300 Rufer Ave, Louisville, KY:
   lat: 38.234783
   lng: -85.726729
+1300 S Brook St, Louisville, KY:
+  lat: 38.2315709
+  lng: -85.7543959
+? 1300 S Brook St. Police indicated a person was passed out inside a vehicle nearby
+  and requested help in case entry was needed. Fire crews prepared, Louisville, KY
+: lat: 38.2315709
+  lng: -85.7543959
 1300 S Floyd St in response, Louisville, KY: null
 1300 S Floyd St, Louisville, KY:
   lat: 38.2313724
