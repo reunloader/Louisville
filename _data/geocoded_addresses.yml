@@ -269,6 +269,7 @@
 100 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+100 Charter Oak Strives, Louisville, KY: null
 100 Clinton, Louisville, KY: null
 100 Clooney Oaks Court, Louisville, KY: null
 100 Closterwood Dr, Louisville, KY:
@@ -2649,6 +2650,9 @@
   lat: 38.3026745
   lng: -85.5549039
 10500 Burns Ct, Louisville, KY: null
+10500 Dixie Hwy, Louisville, KY:
+  lat: 38.1028185
+  lng: -85.8702135
 10500 Fairview Ave, Louisville, KY:
   lat: 38.2098788
   lng: -85.775154
@@ -11660,6 +11664,9 @@
   lat: 38.1426872
   lng: -85.8480559
 2200 Regal Springs Dr and Grand Lake Straus, Louisville, KY: null
+2200 Richland Ave, Louisville, KY:
+  lat: 38.189918
+  lng: -85.64273
 ? 2200 Rosewood Way. The suspect, described as a white male in a brown jacket and
   jeans, reportedly broke into one vehicle before fleeing, Louisville, KY
 : lat: 38.1691232
