@@ -3164,6 +3164,9 @@
 1100 Sam Dr, Louisville, KY:
   lat: 38.140528
   lng: -85.7671021
+1100 Samuel St, Louisville, KY:
+  lat: 38.2277043
+  lng: -85.734546
 1100 Silvercrest Ln, Louisville, KY: null
 ? 1100 Silvercrest Ln. Further details on the nature of the alarm or any subsequent
   actions were not immediately available., Louisville, KY
@@ -3771,6 +3774,9 @@
   lat: 38.236869
   lng: -85.7184884
 1200 Bardstown Rd at Value Market, Louisville, KY:
+  lat: 38.236869
+  lng: -85.7184884
+1200 Bardstown Rd near Beechwood and Lucia, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
 1200 Bardstown Rd near Big Bar, Louisville, KY:
@@ -10346,6 +10352,9 @@
 ? 200 involving a black Jeep with a temporary Kentucky license plate. The stop involved
   multiple police units., Louisville, KY
 : null
+200 near I-65 Northbound, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 ? 200 near the I-15 interchange. Authorities were alerted to monitor the vehicle's
   behavior to prevent potential accidents., Louisville, KY
 : null
@@ -11346,6 +11355,9 @@
   lat: 38.2669335
   lng: -85.7845855
 2200 Bardstown Rd and Grimstad Road, Louisville, KY: null
+2200 Bardstown Rd near Leeville Boulevard, Louisville, KY:
+  lat: 38.2242801
+  lng: -85.6937899
 2200 Bardstown Rd, Louisville, KY:
   lat: 38.2242801
   lng: -85.6937899
@@ -13207,6 +13219,9 @@
 2700 Chickasaw Ave, Louisville, KY:
   lat: 38.259328
   lng: -85.698116
+2700 Conestoga Ave, Louisville, KY:
+  lat: 38.2265069
+  lng: -85.8010668
 2700 Crittenden Dr, Louisville, KY:
   lat: 38.205234
   lng: -85.750903
@@ -13905,6 +13920,9 @@
   lng: -85.8602956
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
 2900 Lindsay and nearby areas, Louisville, KY: null
+2900 Lindsay near Perfect Country Club in Birchwood, Louisville, KY:
+  lat: 38.2648437
+  lng: -85.6969685
 ? 2900 Lindsay, dressed in hoodies and acting suspiciously. Officers responded to
   the scene, observing people moving through yards and woods near the Perfect Country
   Club and Birchwood. Officers located a large backyard with a fence line, where suspects
@@ -19098,6 +19116,9 @@
 400 units, Louisville, KY: null
 400 were involved in investigating the report, Louisville, KY: null
 400 were involved in investigating the report., Louisville, KY: null
+400, Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 4000 7th St and Parkway, Louisville, KY: null
 4000 Alton Rd, Louisville, KY: null
 4000 Apex Gardens Dr, Louisville, KY: null
@@ -22153,6 +22174,9 @@
 500 North17th Street, Louisville, KY:
   lat: 38.2624403
   lng: -85.7778476
+500 North19th Street, Louisville, KY:
+  lat: 38.2646455
+  lng: -85.780857
 500 North22nd Street, Louisville, KY:
   lat: 38.266703
   lng: -85.783596
@@ -27299,6 +27323,9 @@
 7000 Leisure Lake, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a, Louisville, KY: null
 7000 Leisure Landing Court 4:00 a.m., Louisville, KY: null
+7000 Leisure Ln, Louisville, KY:
+  lat: 38.1013935
+  lng: -85.6381008
 7000 Lilly Ln near Georgia Ln and Mountain Ct, Louisville, KY:
   lat: 38.2712002
   lng: -85.5215011
