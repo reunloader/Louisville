@@ -7110,6 +7110,9 @@
 1600 South30th alley, Louisville, KY: null
 1600 South35th Street and East Broadway, Louisville, KY: null
 1600 St, Louisville, KY: null
+1600 Steeplecrest Cir, Louisville, KY:
+  lat: 38.2438101
+  lng: -85.6179721
 1600 Stevens Ave, Louisville, KY:
   lat: 38.2271573
   lng: -85.7136743
@@ -10378,6 +10381,9 @@
 200 at mile marker 11, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 at natural turnpike, Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
 ? 200 block of West Broadway. EMS was dispatched to assist the patient, who was located
   in the lobby of a nearby Dr. McDonald's. The response included H-17, with the patient
   later leaving before EMS arrived. - **Traffic Accident (around 10:55 a.m. a.m. a.m.):**
@@ -10434,6 +10440,7 @@
 ? 200 involving a black Jeep with a temporary Kentucky license plate. The stop involved
   multiple police units., Louisville, KY
 : null
+200 involving a motor vehicle exit at the natural turnpike. Crews arrived, Louisville, KY: null
 200 near I-65 Northbound, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -25360,6 +25367,9 @@
 6200 Camp Ground Rd, Louisville, KY:
   lat: 38.1936731
   lng: -85.863904
+6200 Cooper Chapel Rd, Louisville, KY:
+  lat: 38.1091203
+  lng: -85.6473066
 6200 Crystal Pointe Dr, Louisville, KY:
   lat: 38.1543232
   lng: -85.4852714
