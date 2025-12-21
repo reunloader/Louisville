@@ -6933,6 +6933,7 @@
 1600 Moore Ct, Louisville, KY:
   lat: 38.2251564
   lng: -85.7748253
+1600 Moore Ct, building 27, Louisville, KY: null
 1600 Moore Ct., Louisville, KY:
   lat: 38.2251564
   lng: -85.7748253
@@ -10642,6 +10643,9 @@
 2000 Kendall Ln near Spen Lea Rd, Louisville, KY: null
 2000 Kendall Ln, Louisville, KY: null
 2000 Kia Optima, Louisville, KY: null
+2000 Lancashire Ave, Louisville, KY:
+  lat: 38.2121848
+  lng: -85.6820127
 2000 Landing Dr, Louisville, KY:
   lat: 38.1832378
   lng: -85.6437701
@@ -26392,6 +26396,9 @@
 7 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
+7 Southwestern Pky, Louisville, KY:
+  lat: 38.2477827
+  lng: -85.829606
 7 Tyler Parkway, Louisville, KY:
   lat: 38.232595
   lng: -85.7142149
@@ -30462,6 +30469,9 @@
 900 South26th Street, Louisville, KY:
   lat: 38.243855
   lng: -85.795634
+900 South2nd Street at Bridge Haven, Louisville, KY:
+  lat: 38.240765
+  lng: -85.756042
 900 South39th Street, Louisville, KY:
   lat: 38.24643
   lng: -85.817102
@@ -30648,6 +30658,9 @@
   Louisville, KY
 : null
 900 where the line was answered and then abruptly disconnected. Responding units were unable, Louisville, KY: null
+900, Louisville, KY:
+  lat: 38.2417301
+  lng: -85.7607805
 9000 Aluma Ln, Louisville, KY:
   lat: 38.1337955
   lng: -85.7614174
