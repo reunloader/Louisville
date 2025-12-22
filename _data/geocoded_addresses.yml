@@ -8717,6 +8717,9 @@
 20 Payne St, Louisville, KY:
   lat: 38.2511106
   lng: -85.7197322
+20 South Preston, Louisville, KY:
+  lat: 38.2527788
+  lng: -85.7463211
 20 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
@@ -29244,6 +29247,9 @@
 800 South32nd Street, Louisville, KY:
   lat: 38.2476663
   lng: -85.8059077
+800 South33rd Street, Louisville, KY:
+  lat: 38.2478147
+  lng: -85.8076164
 800 South3A3 and 800 block of South3H, Louisville, KY: null
 800 South42nd Street, Louisville, KY:
   lat: 38.2483151
@@ -32460,6 +32466,7 @@ Murray Ln and Raggard Rd, Louisville, KY: null
 Nall Ave and Valley View Rd, Louisville, KY: null
 Nancy Ln and Lila Ave, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
+Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
 Nepperhan Rd and Mamaroneck Rd, Louisville, KY: null
 Nepperhan Rd and Maranac Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
