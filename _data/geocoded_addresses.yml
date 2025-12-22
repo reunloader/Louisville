@@ -7147,6 +7147,9 @@
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
+1600 Timber, Louisville, KY:
+  lat: 38.2593426
+  lng: -85.4537797
 1600 Two Strings, Louisville, KY: null
 1600 W Chestnut St due, Louisville, KY: null
 1600 W Chestnut St near 16th and 17th Streets, Louisville, KY:
@@ -7530,6 +7533,7 @@
 1700 Pine St, Louisville, KY:
   lat: 38.2485484
   lng: -85.7262126
+1700 Plantside Dr across Bunsen Parkway and Bluegrass Pky, Louisville, KY: null
 1700 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -11099,6 +11103,7 @@
 2100 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+2100 Allston Ave across South 23rd Street and South 22nd Street, Louisville, KY: null
 2100 Ann Marie Dr, Louisville, KY: null
 2100 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2683483
@@ -25493,6 +25498,9 @@
 6200 Brownsboro Rd, Louisville, KY:
   lat: 38.2835684
   lng: -85.6287332
+6200 Bunsen Parkway, Louisville, KY:
+  lat: 38.2421112
+  lng: -85.6153728
 6200 Camp Ground Rd at Bakelite Chemical Factory, Louisville, KY:
   lat: 38.1936731
   lng: -85.863904
@@ -25609,6 +25617,7 @@
   KY
 : null
 6200 Walnut Ridge. They were on the scene and available, Louisville, KY: null
+6200 Willis-Mooret Dr across Fashion Way, Louisville, KY: null
 6200 Willis-Mooret Dr, Louisville, KY: null
 6200 Wines, Louisville, KY: null
 62400 New Cub Road at Taco Bell, Louisville, KY: null
@@ -32036,6 +32045,7 @@ Brownsboro Rd and Shefford Ln, Louisville, KY: null
 Brownsboro Rd and Simcoe Ln, Louisville, KY: null
 Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
 Buckner Ave and Mix Ave, Louisville, KY: null
+Bunsen Parkway and Bluegrass Pky, Louisville, KY: null
 Bunton Rd and Watterson Park Rd, Louisville, KY: null
 Burnham Lane and Algonquin Parkway, Louisville, KY: null
 Burrell Dr and Addison Ln, Louisville, KY: null
