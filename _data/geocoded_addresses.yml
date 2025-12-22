@@ -1111,6 +1111,7 @@
   and outcome of this stop were not detailed in the initial report., Louisville, KY
 : null
 100 Trace and Soting Way due, Louisville, KY: null
+100 Turing Court, Grusso Turing Drive, Louisville, KY: null
 100 US 42, Louisville, KY:
   lat: 38.2632527
   lng: -85.6770561
@@ -7835,6 +7836,9 @@
   and an arrest was ultimately made., Louisville, KY
 : null
 1800 Bakes Street involving a white Dodge pickup truck. This stop was initiated, Louisville, KY: null
+1800 Bank St, Louisville, KY:
+  lat: 38.2633128
+  lng: -85.7794765
 1800 Barchown Road, Louisville, KY: null
 1800 Bardstown Rd, Louisville, KY:
   lat: 38.2283978
@@ -12487,6 +12491,9 @@
 2400 Nichols View Ct, Louisville, KY:
   lat: 38.1933111
   lng: -85.7948596
+2400 Omaha Ln, Louisville, KY:
+  lat: 38.170229
+  lng: -85.841426
 2400 Osborne Dr. Fire and EMS units were on scene and prepared to provide assistance as needed., Louisville, KY: null
 2400 Osborne Dr. Fire and EMS units were on scene and prepared, Louisville, KY: null
 2400 Parkdale Ave, Louisville, KY:
