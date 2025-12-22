@@ -5128,6 +5128,9 @@
 1300 South 16th Street, Louisville, KY:
   lat: 38.234563
   lng: -85.780762
+1300 South 17th Street, Louisville, KY:
+  lat: 38.2346886
+  lng: -85.782553
 1300 South 20th Street near St, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
@@ -26334,6 +26337,9 @@
 ? 6600 Rutledge Rd. The specific details of the medical situation were not immediately
   available, but the call involved an EMS unit., Louisville, KY
 : null
+6600 Rutledge, Louisville, KY:
+  lat: 38.157726
+  lng: -85.87615
 6600 Seminary Woods Pl, Louisville, KY:
   lat: 38.2918057
   lng: -85.6280051
@@ -29640,6 +29646,7 @@
   Responders arrived on scene and provided care to the patient. The individual was
   subsequently transported to a local hospital, Louisville, KY
 : null
+8000 Beech-Lang Ct, Louisville, KY: null
 8000 Beechlawn Ct due, Louisville, KY: null
 8000 Beechlawn Ct, Louisville, KY:
   lat: 38.198116
