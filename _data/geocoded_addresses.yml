@@ -190,6 +190,9 @@
 100 Baker. The reporting officer requested, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+100 Bank St, Louisville, KY:
+  lat: 38.272279
+  lng: -85.7991803
 100 Banker, Louisville, KY: null
 100 Beaver St, Louisville, KY:
   lat: 38.185675
@@ -669,6 +672,10 @@
 100 N S Longworth Ave, Louisville, KY:
   lat: 38.2656295
   lng: -85.8239365
+100 Nat and 1900 block of Roland St, Louisville, KY: null
+100 Nat, Louisville, KY:
+  lat: 38.2015813
+  lng: -85.5355421
 100 New England Ct, Louisville, KY:
   lat: 38.1448588
   lng: -85.7637824
@@ -1470,6 +1477,9 @@
   lng: -85.777096
 1000 Brown Lick, Louisville, KY: null
 1000 Brown Lick. Additional police units were requested, Louisville, KY: null
+1000 Brownsboro Rd, Louisville, KY:
+  lat: 38.3012117
+  lng: -85.5911063
 1000 Caldwell St, Louisville, KY:
   lat: 38.2381521
   lng: -85.7366708
@@ -7859,6 +7869,7 @@
   lng: -85.7666809
 1800 22nd and WJ Hodge. The fire was contained, Louisville, KY: null
 1800 Adam18, Louisville, KY: null
+1800 Alconcum Parkway, Louisville, KY: null
 1800 Alfresco Pl, Louisville, KY:
   lat: 38.2224596
   lng: -85.7042875
@@ -20023,6 +20034,9 @@
 4200 Allmond Ave, Louisville, KY:
   lat: 38.193913
   lng: -85.759019
+4200 Bank St, Louisville, KY:
+  lat: 38.2714502
+  lng: -85.8151271
 4200 Bardstown Rd, Louisville, KY:
   lat: 38.1882665
   lng: -85.6406943
@@ -22580,6 +22594,7 @@
   lat: 38.172603
   lng: -85.772021
 500 Selma Ave, Louisville, KY: null
+500 Seville Dr, Louisville, KY: null
 500 Shadyside Dr near Russell Lee, Louisville, KY:
   lat: 38.2268819
   lng: -85.8161858
@@ -30913,6 +30928,7 @@
 900 Vine St., Louisville, KY:
   lat: 38.239276
   lng: -85.732806
+900 W Chestnut St, Louisville, KY: null
 900 W Florence Ave near Warren Ave, Louisville, KY:
   lat: 38.1909754
   lng: -85.7751678
