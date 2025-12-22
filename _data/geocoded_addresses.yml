@@ -3034,6 +3034,7 @@
 1100 Everett Ave, Louisville, KY:
   lat: 38.239542
   lng: -85.717603
+1100 Fretling Row, Louisville, KY: null
 1100 Gagel, Louisville, KY:
   lat: 38.1728712
   lng: -85.809864
@@ -4547,6 +4548,7 @@
   lng: -85.714023
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
+1200 call area, Louisville, KY: null
 ? 12000 Cascade Falls Trail following a report of an assault and potential robbery.
   A male suspect was observed in the vicinity. Law enforcement units responded, Louisville,
   KY
@@ -15001,6 +15003,7 @@
 300 South First at Shell Station, Louisville, KY: null
 300 South Hubbard's Lane near Ligonard Traditional High School, Louisville, KY: null
 300 South Park Street, Louisville, KY: null
+300 South Second, Louisville, KY: null
 300 South Shawnee Terrace, Louisville, KY:
   lat: 38.2621561
   lng: -85.8233407
@@ -31968,6 +31971,9 @@
   lat: 38.1069399
   lng: -85.696862
 9800 VU Cady Dr, Louisville, KY: null
+9800 Valley Fair Way, Louisville, KY:
+  lat: 38.1155215
+  lng: -85.8926728
 9800 Valley Fairway, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
