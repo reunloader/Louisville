@@ -2188,6 +2188,9 @@
 1000 South 3rd Street, Louisville, KY:
   lat: 38.2384976
   lng: -85.7585373
+1000 South 43rd, Louisville, KY:
+  lat: 38.2456844
+  lng: -85.8245153
 1000 South 4th St, Louisville, KY:
   lat: 38.2387451
   lng: -85.7600955
@@ -9841,6 +9844,7 @@
   on the sixth floor, exhibiting unusual behavior and calling out, Louisville, KY
 : null
 200 South History, Louisville, KY: null
+200 South Hubbard's Lane, Louisville, KY: null
 200 South Hurstbourne Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
@@ -17191,6 +17195,9 @@
 3600 River Park Dr at Regiemer Church, Louisville, KY:
   lat: 38.2546082
   lng: -85.8107537
+3600 River Park Dr, Louisville, KY:
+  lat: 38.2546082
+  lng: -85.8107537
 3600 Rochstown Road, Louisville, KY: null
 3600 Rosemont Ct, Louisville, KY:
   lat: 38.2070291
@@ -22256,6 +22263,7 @@
 500 Dresden Ave, Louisville, KY:
   lat: 38.197563
   lng: -85.768594
+500 E Eline Ave, Louisville, KY: null
 500 E Gray St, Louisville, KY:
   lat: 38.246174
   lng: -85.745262
