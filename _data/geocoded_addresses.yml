@@ -10017,6 +10017,9 @@
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+200 South4th Street, Louisville, KY:
+  lat: 38.255117
+  lng: -85.756908
 200 South5th Street, Louisville, KY:
   lat: 38.255244
   lng: -85.7586393
@@ -10250,6 +10253,9 @@
   lng: -85.7636078
 200 West at Dumanil, Louisville, KY: null
 200 West at I-265, Louisville, KY: null
+200 West at Kirtland, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West at Taylor Blvd, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -26908,6 +26914,9 @@
   lat: 38.185675
   lng: -85.7821746
 700 Bell Tucker Ln, Louisville, KY: null
+700 Bermuda Ln, Louisville, KY:
+  lat: 38.1599476
+  lng: -85.7173425
 700 Bircham Rd, Louisville, KY:
   lat: 38.2345815
   lng: -85.4740018
@@ -27597,6 +27606,9 @@
 : null
 700 South45th Street due, Louisville, KY: null
 700 South45th Street, Louisville, KY: null
+700 South4th, Louisville, KY:
+  lat: 38.245968
+  lng: -85.758505
 700 South5th Street, Louisville, KY:
   lat: 38.24609
   lng: -85.760171
