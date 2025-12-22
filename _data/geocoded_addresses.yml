@@ -12201,6 +12201,9 @@
 2300 Tyler Ln. The caller expressed concern, Louisville, KY:
   lat: 38.2188235
   lng: -85.6748272
+2300 Valley Vista Rd, Louisville, KY:
+  lat: 38.219115
+  lng: -85.700209
 2300 W Chestnut St, Louisville, KY:
   lat: 38.2522498
   lng: -85.7896726
@@ -28352,6 +28355,7 @@
 7600 Bardstown Rd, Louisville, KY:
   lat: 38.1370381
   lng: -85.5816331
+7600 Beechspring Farm Blvd, Louisville, KY: null
 7600 Brewer Dr, cross Goalby Dr and DeWitt Drive, Louisville, KY: null
 7600 Burrice Ct. Multiple units were assigned, Louisville, KY:
   lat: 38.142365
@@ -29726,6 +29730,7 @@
 8400 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+8400 Color Report Dr, Louisville, KY: null
 8400 Dr, Louisville, KY: null
 8400 Fairmount Rd, Louisville, KY:
   lat: 38.1125951
@@ -32013,6 +32018,7 @@ Christian Merrick Road and Hempstead Rd, Louisville, KY: null
 Church Rd and Cooper Chapel Rd, Louisville, KY:
   lat: 38.1100122
   lng: -85.6424154
+Church Rd and Renwood Blvd, Louisville, KY: null
 Churchman Ave and Bicknell Ave, Louisville, KY: null
 Clark Run Rd and Cane Run Rd, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
