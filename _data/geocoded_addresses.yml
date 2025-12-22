@@ -8460,6 +8460,7 @@
 1900 Duncan St, Louisville, KY:
   lat: 38.261955
   lng: -85.781051
+1900 Eastview Ave across from Lakeside Dr and Tribillion Way, Louisville, KY: null
 1900 Eastview Ave, Crop St, Lake Sandra Avenue, Travillion Way, Louisville, KY: null
 1900 Embassy Square Blvd, Louisville, KY: null
 1900 Englewood Ave, Louisville, KY:
@@ -18017,6 +18018,9 @@
 3900 Creski Way, Louisville, KY: null
 3900 Delphi, Louisville, KY: null
 3900 Dixie Hwy near Schmitts Ln and Park Rd, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
+3900 Dixie Hwy near Speedway Crusher Park Road and Ligaray Avenue, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
 3900 Dixie Hwy, Louisville, KY:
@@ -32840,6 +32844,7 @@ Southern Pky and Oakdale Ave, Louisville, KY:
   lng: -85.76701
 Southside Dr and Evangeline Ave, Louisville, KY: null
 Southside Dr and New Cut Rd, Louisville, KY: null
+Speedway Crusher Park Road and Ligaray Avenue, Louisville, KY: null
 Sprigwood Ln and Mary Dell Ln, Louisville, KY: null
 Spring Dr and Rock Bay Dr, Louisville, KY: null
 Springdale Rd and Brownsboro Rd, Louisville, KY:
