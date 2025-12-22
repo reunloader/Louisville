@@ -5863,6 +5863,9 @@
 ? 1400 Rieta. The reporting party indicated no immediate concerns but noted that an
   individual was expected to return, Louisville, KY
 : null
+1400 Rising Star Ct, Louisville, KY:
+  lat: 38.0672419
+  lng: -85.8901236
 1400 River Crest Ct, Louisville, KY:
   lat: 38.2697405
   lng: -85.701988
@@ -29843,6 +29846,9 @@
   lat: 38.2587521
   lng: -85.7044023
 8400 Color Report Dr, Louisville, KY: null
+8400 Dixie Hwy, Louisville, KY:
+  lat: 38.1299043
+  lng: -85.8487866
 8400 Dr, Louisville, KY: null
 8400 Fairmount Rd, Louisville, KY:
   lat: 38.1125951
