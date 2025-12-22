@@ -12491,6 +12491,9 @@
 2400 Elliott Ave. Two individuals were reported as detainees., Louisville, KY:
   lat: 38.250247
   lng: -85.791556
+2400 Elmhurst, Louisville, KY:
+  lat: 38.1751658
+  lng: -85.8383215
 2400 Forest Dr, Louisville, KY:
   lat: 38.16587
   lng: -85.6901078
@@ -27997,6 +28000,7 @@
 7200 Billtown Rd, Louisville, KY:
   lat: 38.1398214
   lng: -85.5402269
+7200 Boxwood Rd, Louisville, KY: null
 7200 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1097984
   lng: -85.6319967
@@ -29736,6 +29740,7 @@
   lng: -85.5888379
 8200 Blueleg, Louisville, KY: null
 8200 Broccolo Court, Louisville, KY: null
+8200 Candelabra, Louisville, KY: null
 8200 Cane Run Rd, Louisville, KY:
   lat: 38.1371078
   lng: -85.8976921
@@ -31894,6 +31899,7 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+98200 Woodhurst Ct, Louisville, KY: null
 9900 Agena, Louisville, KY:
   lat: 38.1050482
   lng: -85.6990554
