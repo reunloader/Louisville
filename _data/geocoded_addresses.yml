@@ -380,6 +380,7 @@
   lat: 38.1715694
   lng: -85.7733598
 100 E W W Kingston Ave, Louisville, KY: null
+100 EPO, Patton Ct, and Gray Ln exit, Louisville, KY: null
 ? 100 East 10th Avenue. The individual is reportedly suffering from a spinal infection
   and has expressed a desire for drugs, possibly indicating intravenous use, before
   agreeing to go to the hospital. The location was described as condemned with plexiglass
@@ -1765,6 +1766,9 @@
   lat: 38.1015598
   lng: -85.687306
 1000 Longfield Ave, cross of 13 Wizard, Louisville, KY: null
+1000 Lydia St, Louisville, KY:
+  lat: 38.225128
+  lng: -85.738873
 1000 Lyndon Ln, Louisville, KY:
   lat: 38.2445845
   lng: -85.6015977
@@ -9445,6 +9449,9 @@
 : null
 200 Louisville Ave across from Florence, Louisville, KY: null
 200 Lysander Dr, Louisville, KY: null
+200 Mackie Ln, Louisville, KY:
+  lat: 38.141674
+  lng: -85.7669071
 200 Marina Dr, Louisville, KY:
   lat: 38.3312116
   lng: -85.6256915
