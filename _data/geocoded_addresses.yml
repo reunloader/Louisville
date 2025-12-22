@@ -207,6 +207,7 @@
 100 Benson Ln near Glyndon Way, Louisville, KY:
   lat: 38.0952198
   lng: -85.8636046
+100 Benson Ln, Louisville, KY: null
 100 Bermuda Ln, Louisville, KY:
   lat: 38.159899
   lng: -85.713238
@@ -24376,6 +24377,7 @@
   lng: -85.778253
 600 B Street, Louisville, KY: null
 600 Baker and 300 block of, Louisville, KY: null
+600 Baker and Surfside Service, Louisville, KY: null
 ? 600 Baker and the 700 block of Baker to investigate the situation. The duration
   of the response was approximately ten minutes. The final outcome of this incident
   has not been specified., Louisville, KY
@@ -25622,6 +25624,9 @@
 6300 Bass Rd, Louisville, KY:
   lat: 38.3504019
   lng: -85.6285044
+6300 Bethany Ln, Louisville, KY:
+  lat: 38.0979751
+  lng: -85.8791686
 6300 Beulah Church Rd, Louisville, KY:
   lat: 38.1141913
   lng: -85.6157276
