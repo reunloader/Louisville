@@ -12601,6 +12601,9 @@
 2400 Milford Miller Parkway, Louisville, KY: null
 2400 Milford Miller Parkway. Police units were dispatched, Louisville, KY: null
 2400 Millers Meadow Dr, Louisville, KY: null
+2400 Millwood, Louisville, KY:
+  lat: 38.1674751
+  lng: -85.5765149
 2400 Nelson Miller Pky, Louisville, KY:
   lat: 38.2779807
   lng: -85.5126309
@@ -27752,6 +27755,9 @@
   lat: 38.1444986
   lng: -85.5908912
 7000 Crossroads, Louisville, KY: null
+7000 East Broadway, Louisville, KY:
+  lat: 38.2446794
+  lng: -85.7394849
 7000 East Mystic Road, Louisville, KY: null
 7000 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
@@ -31952,6 +31958,7 @@
   lat: 38.1069399
   lng: -85.696862
 9800 VU Cady Dr, Louisville, KY: null
+9800 Valley Fairway, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, Louisville, KY: null
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
 9800 Vukra Drive, Louisville, KY: null
