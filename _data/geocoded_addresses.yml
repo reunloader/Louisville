@@ -2892,6 +2892,7 @@
 11 Logwood Ave, Louisville, KY:
   lat: 38.0804603
   lng: -85.8667825
+11 Overbrook Rd, Louisville, KY: null
 11 Rosedale Ave, Louisville, KY:
   lat: 38.2235747
   lng: -85.7032029
@@ -3324,6 +3325,7 @@
 1100 South Forster Street, Louisville, KY: null
 1100 South Forth Street, Louisville, KY: null
 1100 South Forth Street, where a caller stated her son was refusing, Louisville, KY: null
+1100 South Forth, Louisville, KY: null
 1100 South Fourth Street, Louisville, KY: null
 1100 South Park Rd, Louisville, KY:
   lat: 38.1078462
@@ -4020,6 +4022,9 @@
 1200 Fisk St, near a black Nissan Altima. Units were dispatched, Louisville, KY:
   lat: 38.2530864
   lng: -85.7689686
+1200 Garden Creek Cir, Louisville, KY:
+  lat: 38.261867
+  lng: -85.558696
 1200 Gardiner Ln at Herndon Industrial Services, Louisville, KY:
   lat: 38.2033739
   lng: -85.6892064
@@ -17516,6 +17521,9 @@
 3700 Fern Valley Rd, Louisville, KY:
   lat: 38.1573006
   lng: -85.6919502
+3700 Frankfort Ave, Louisville, KY:
+  lat: 38.2531127
+  lng: -85.6611533
 3700 Gentry Ln, Louisville, KY:
   lat: 38.1212635
   lng: -85.5849057
@@ -18658,6 +18666,7 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+400 East Muhammad Ali, Dasker Manor, Louisville, KY: null
 400 East Muhammad Ali, Louisville, KY:
   lat: 38.249878
   lng: -85.74667
@@ -25668,6 +25677,9 @@
 6200 Hanson's Drive, Louisville, KY: null
 6200 Helen Gene Way, Louisville, KY: null
 6200 Kansas Drive, Louisville, KY: null
+6200 Lone Oak Trail, Louisville, KY:
+  lat: 38.164697
+  lng: -85.771197
 6200 Middlerose Cir, Louisville, KY:
   lat: 38.1030822
   lng: -85.8753813
