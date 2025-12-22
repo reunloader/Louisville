@@ -7051,6 +7051,9 @@
 1600 River Shore Dr, Louisville, KY:
   lat: 38.2653485
   lng: -85.7242962
+1600 River Shore Dr. The vehicle owner was being checked on, Louisville, KY:
+  lat: 38.2653485
+  lng: -85.7242962
 1600 Rosewood Ct, Louisville, KY:
   lat: 38.1412186
   lng: -85.610363
@@ -12379,6 +12382,8 @@
 ? 2400 Credin. The specific details of what was deemed suspicious were not immediately
   available. Responding units were in the 600 block of Adams., Louisville, KY
 : null
+2400 Cringen Drive, Louisville, KY: null
+2400 Cringen Drive. The juvenile's whereabouts are unknown, and efforts are ongoing, Louisville, KY: null
 2400 Crittenden Dr, Louisville, KY:
   lat: 38.210869
   lng: -85.7515886
