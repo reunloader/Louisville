@@ -15577,6 +15577,9 @@
 3100 Annadale Ct, Louisville, KY:
   lat: 38.1904904
   lng: -85.5292983
+3100 Autumn Lake Dr, Louisville, KY:
+  lat: 38.0716654
+  lng: -85.8774197
 3100 Bardstown Rd, Louisville, KY:
   lat: 38.2121112
   lng: -85.672555
@@ -19411,6 +19414,7 @@
   lat: 38.2551156
   lng: -85.7458112
 4000 7th St and Parkway, Louisville, KY: null
+4000 Addison Ln, Louisville, KY: null
 4000 Alton Rd, Louisville, KY: null
 4000 Apex Gardens Dr, Louisville, KY: null
 4000 Baker, Louisville, KY:
@@ -29954,6 +29958,7 @@
   lng: -85.5128748
 8400 St, Louisville, KY: null
 8400 Tapestry Cir, Louisville, KY: null
+8400 Tapestry Cir, Spring House Apartments, Louisville, KY: null
 8400 Voss Lane, Louisville, KY: null
 ? 8400 W Muhammad Ali Blvd following a report of a shooting. Officers were observed
   discussing the incident and checking, Louisville, KY
