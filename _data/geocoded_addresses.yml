@@ -9586,6 +9586,7 @@
   lat: 38.26085
   lng: -85.781193
 200 North 26th St between Columbia St and Rowan St, Louisville, KY: null
+200 North 26th Street, Crop St, Duncan and Columbia, Louisville, KY: null
 200 North 26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
@@ -16228,6 +16229,7 @@
 3200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.256455
   lng: -85.806285
+3200 Wayside Dr, Crop St, Elgin Way, Louisville, KY: null
 3200 West Ali under the viaduct, Louisville, KY: null
 3200 West Alley, Louisville, KY: null
 3200 West Kentucky in the Dutchman plane complex, Louisville, KY: null
@@ -18182,6 +18184,7 @@
   lat: 38.1919201
   lng: -85.6064742
 3900 Wayside Dr, Louisville, KY: null
+3900 West Broadway, Crop St South 40th and South 39th, Louisville, KY: null
 3900 West Broadway, Louisville, KY:
   lat: 38.2498353
   lng: -85.8167762
@@ -24296,6 +24299,9 @@
 5800 Keewood Ct, Louisville, KY: null
 5800 Lion's Paris Dr, Louisville, KY: null
 5800 Lions Arms Dr, Louisville, KY: null
+5800 Mary Ellen Dr, Louisville, KY:
+  lat: 38.136037
+  lng: -85.7718054
 5800 Mellwood Ave needed assistance, Louisville, KY: null
 5800 Mount Everest Dr, Louisville, KY:
   lat: 38.167745
@@ -32373,6 +32379,7 @@ Grafton Hall Rd and Cherokee Rd, Louisville, KY: null
 Grand Ave and Taylor Blvd, Louisville, KY: null
 Grange Rd and Villa Grove Dr, Louisville, KY: null
 Grange Road and Nelson Miller Pky, Louisville, KY: null
+Grange Road and Shelbyville Rd, Louisville, KY: null
 Granger Rd and Factory Ln, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
