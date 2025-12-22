@@ -7679,6 +7679,9 @@
 1700 South13th Street, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South13th, Louisville, KY:
+  lat: 38.2244068
+  lng: -85.7775916
 1700 South2nd Street, Louisville, KY:
   lat: 38.2229276
   lng: -85.7592852
@@ -7706,6 +7709,7 @@
 1700 Stevens Ave, Louisville, KY:
   lat: 38.228573
   lng: -85.7110967
+1700 Stewart Ave, Louisville, KY: null
 1700 Tempest Way, Louisville, KY:
   lat: 38.1642333
   lng: -85.8253597
@@ -11850,6 +11854,9 @@
 2200 Taylor's Road, Louisville, KY: null
 2200 Taylor's Road. Responding units were dispatched, Louisville, KY: null
 2200 Telliersville Road, Louisville, KY: null
+2200 Tyler Ln, Louisville, KY:
+  lat: 38.217792
+  lng: -85.677229
 2200 Upper Hunters Trace, Louisville, KY:
   lat: 38.1673122
   lng: -85.8370745
@@ -13227,6 +13234,9 @@
 2600 Kings Hwy, Louisville, KY:
   lat: 38.2219672
   lng: -85.672165
+2600 Lansford Ct, Louisville, KY:
+  lat: 38.0918799
+  lng: -85.8657407
 2600 Lindsay Ave, Louisville, KY:
   lat: 38.2613731
   lng: -85.703946
