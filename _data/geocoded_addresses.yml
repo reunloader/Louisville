@@ -9651,6 +9651,9 @@
 200 North at Shelbyville Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at Westport Rd, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at Wilhenry Road, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -25904,6 +25907,7 @@
 6400 Ladd Ave, Louisville, KY:
   lat: 38.1915206
   lng: -85.8577272
+6400 Leading Street, Louisville, KY: null
 6400 Lower Hunter's Trace, Louisville, KY: null
 6400 Lower Huntress Trace, Louisville, KY: null
 ? 6400 Lower Huntress Trace. The structure was described as a one-story wood frame
