@@ -245,6 +245,7 @@
 100 Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+100 Brookridge Ln, Louisville, KY: null
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
@@ -3331,6 +3332,9 @@
 1100 St. Catharines Court, Louisville, KY: null
 1100 Stone St, Louisville, KY: null
 1100 Sylvia St near Emerson Park, Louisville, KY:
+  lat: 38.2214903
+  lng: -85.7396902
+1100 Sylvia St, Louisville, KY:
   lat: 38.2214903
   lng: -85.7396902
 1100 Telford Street, Louisville, KY: null
@@ -23507,6 +23511,9 @@
 5300 Torrington Ct, Louisville, KY:
   lat: 38.0929513
   lng: -85.8645476
+5300 W Pages Ln, Louisville, KY:
+  lat: 38.1301902
+  lng: -85.8553669
 5300 West Ave, Louisville, KY:
   lat: 38.1089403
   lng: -85.8525494
