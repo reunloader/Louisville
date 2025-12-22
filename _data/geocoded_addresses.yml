@@ -6275,6 +6275,7 @@
   lat: 38.2404557
   lng: -85.7093132
 15 Shallow Lake Rd, Louisville, KY: null
+15 South Horsham Parkway, Louisville, KY: null
 1500 Algonquin Pky near South 13th and South 16th, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
@@ -7357,6 +7358,7 @@
 : null
 1700 Algonquin, with reports indicating a break in the front glass. However, the key holder was confirmed, Louisville, KY: null
 1700 Applewood Ln, Louisville, KY: null
+1700 Atoll Baker, Louisville, KY: null
 1700 Baird St, Louisville, KY:
   lat: 38.263097
   lng: -85.776785
@@ -8663,6 +8665,9 @@
 1900 South Hurstburn Parkway, Louisville, KY: null
 1900 South Third, Louisville, KY: null
 1900 Southwest One Parkway at Malibu Jax, Louisville, KY: null
+1900 Speed Ave, Louisville, KY:
+  lat: 38.226708
+  lng: -85.704301
 1900 Stonegate Manor Dr, Louisville, KY:
   lat: 38.0812767
   lng: -85.883845
@@ -18009,6 +18014,7 @@
 3900 Acoma near Bridlewood Dr, Louisville, KY:
   lat: 38.1464033
   lng: -85.648873
+3900 Acomac, Louisville, KY: null
 3900 Acomaic near Bridgewood and Westport, Louisville, KY: null
 3900 Altair Ln, Louisville, KY:
   lat: 38.1271771
@@ -30010,6 +30016,9 @@
 8300 Preston Hwy, Louisville, KY:
   lat: 38.133621
   lng: -85.684199
+8300 Preston, Louisville, KY:
+  lat: 38.133621
+  lng: -85.684199
 8300 Rest of Lane, Louisville, KY: null
 8300 Round Hill Rd, Louisville, KY: null
 8300 Scarlet Rose Ct, Louisville, KY: null
@@ -32483,6 +32492,7 @@ Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and Holbergen Avenue, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frankfort Ave and Prestwood Dr, Louisville, KY: null
+Franklin Ave and Fayette Ave, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
