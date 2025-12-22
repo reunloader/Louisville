@@ -1467,6 +1467,7 @@
 1000 Campbell, Louisville, KY:
   lat: 38.2495531
   lng: -85.7366238
+1000 Canterbury, Grand Ave, Louisville, KY: null
 1000 Carlisle Ave, Louisville, KY:
   lat: 38.1941078
   lng: -85.7772406
@@ -9377,6 +9378,7 @@
   lat: 38.1895335
   lng: -85.6350403
 200 Grassland Dr, Louisville, KY: null
+200 Greenhaven Dr, Louisville, KY: null
 200 Happiness Way, Louisville, KY:
   lat: 38.1328803
   lng: -85.6103897
@@ -21903,6 +21905,8 @@
   towards Preston Hwy. Officers attempted, Louisville, KY
 : null
 4900 Police Court, Louisville, KY: null
+4900 Poplar Level Rd and Brighton Hill Ct, Louisville, KY: null
+4900 Poplar Level Rd and Brighton Hill Ct, as part of ongoing efforts, Louisville, KY: null
 4900 Poplar Level Rd, Louisville, KY:
   lat: 38.1712092
   lng: -85.6850961
@@ -24828,6 +24832,10 @@
   lng: -85.7479588
 600 Scone Ct due, Louisville, KY: null
 600 Scone Ct, Louisville, KY: null
+? 600 Scotts Gap Rd, with additional reports of 14 shots near the 668 and 13,400 blocks
+  of Diane Rd, and about 12 shots near 13,15 Dixie Hwy, possibly from a nearby Mexican
+  restaurant. Police units responded, Louisville, KY
+: null
 600 Shanks Ln, Louisville, KY:
   lat: 38.1972672
   lng: -85.8467736
