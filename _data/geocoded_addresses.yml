@@ -225,6 +225,9 @@
   lat: 38.2744077
   lng: -85.6461132
 100 Blue Lick Rd, Southside Christian Care and Preschool, Louisville, KY: null
+100 Boulevard, Louisville, KY:
+  lat: 38.1716047
+  lng: -85.7633871
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
@@ -2850,6 +2853,7 @@
 10800 Sparrow Cir, Louisville, KY:
   lat: 38.1142896
   lng: -85.7611733
+1086 unspecified street, Louisville, KY: null
 10900 Albion Dr, Louisville, KY:
   lat: 38.0966305
   lng: -85.8657587
@@ -17574,6 +17578,7 @@
 3700 Chatham Rd, Louisville, KY:
   lat: 38.2060302
   lng: -85.6382272
+3700 Clare Boulevard, Louisville, KY: null
 3700 Clawndyte Lane, Louisville, KY: null
 3700 Craig Ave, Louisville, KY:
   lat: 38.1913101
@@ -18505,6 +18510,9 @@
   lng: -85.7980454
 400 Cameron Road, [Date] 6:00 a, Louisville, KY: null
 400 Cameron Road, [Date] 6:00 a.m., Louisville, KY: null
+400 Camp St, Louisville, KY:
+  lat: 38.231832
+  lng: -85.749695
 400 Carlisle Ave, Louisville, KY:
   lat: 38.1942111
   lng: -85.7846554
@@ -18597,6 +18605,9 @@
 400 David and 500 block of Adam, Louisville, KY: null
 400 David and the 400 block of Adam, Louisville, KY: null
 400 David at Second and Warranty, Louisville, KY:
+  lat: 38.2066421
+  lng: -85.6738206
+400 David near Marquette Avenue, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
 400 David, Louisville, KY:
@@ -32655,6 +32666,7 @@ Garrison Rd and Lee Ave, Louisville, KY: null
 Gatehouse Road and Burnsdale Rd, Louisville, KY: null
 Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
+Gibson Ln and Donklin Parkway, Louisville, KY: null
 Gillette Ave and Camp Crown Road, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Glen Stone Rd and Spring Gate Dr, Louisville, KY: null
