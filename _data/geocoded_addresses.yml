@@ -1489,6 +1489,9 @@
 1000 Brent St, Louisville, KY:
   lat: 38.235181
   lng: -85.728476
+1000 Broadway, Louisville, KY:
+  lat: 38.24673
+  lng: -85.7687534
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -8295,6 +8298,9 @@
 1800 Rutherford Ave, Louisville, KY:
   lat: 38.2216499
   lng: -85.7036754
+1800 S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 1800 Sale Ave, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
@@ -8391,6 +8397,7 @@
 1800 West Broadway, Louisville, KY:
   lat: 38.248977
   lng: -85.783331
+1800 West Jeff, Louisville, KY: null
 1800 West Jefferson, Louisville, KY:
   lat: 38.2561291
   lng: -85.780408
@@ -11339,6 +11346,9 @@
 2100 Garland Ave, Louisville, KY:
   lat: 38.2437253
   lng: -85.7876351
+2100 Garland, Louisville, KY:
+  lat: 38.2437253
+  lng: -85.7876351
 2100 Gladstone Ave, Louisville, KY:
   lat: 38.216527
   lng: -85.681746
@@ -11772,6 +11782,9 @@
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched, Louisville, KY
 : null
+2200 Lambert, Louisville, KY:
+  lat: 38.1362257
+  lng: -85.6779476
 2200 Lauderdale Rd near Dorothy Ave, Louisville, KY:
   lat: 38.2288676
   lng: -85.6928401
@@ -20064,6 +20077,9 @@
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+4100 Naomi Dr, Louisville, KY:
+  lat: 38.1641852
+  lng: -85.6855562
 4100 Oak Branch Rd, Louisville, KY:
   lat: 38.2484647
   lng: -85.4903097
@@ -24970,6 +24986,7 @@
 600 Lane, Louisville, KY: null
 600 Langdon Dr, Louisville, KY: null
 600 Lewis-Coleman Junior Drive, Louisville, KY: null
+600 Lindale, Louisville, KY: null
 600 Lindell Ave, Louisville, KY:
   lat: 38.253536
   lng: -85.812348
