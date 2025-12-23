@@ -28825,6 +28825,9 @@
 7500 Garrison Rd, Louisville, KY:
   lat: 38.1370945
   lng: -85.757227
+7500 Garrison, Louisville, KY:
+  lat: 38.1370945
+  lng: -85.757227
 7500 King Run Road, Louisville, KY: null
 ? 7500 Manslick Rd involving a gray Toyota Tundra and a blue Nissan truck. Vehicles
   were partially blocking traffic lanes, and units responded, Louisville, KY
@@ -28879,6 +28882,7 @@
 7500 Terry Rd, Louisville, KY:
   lat: 38.1442017
   lng: -85.8725769
+7500 Walled Lake, Louisville, KY: null
 7500 Westbrook Rd, Louisville, KY:
   lat: 38.1447309
   lng: -85.8816289
