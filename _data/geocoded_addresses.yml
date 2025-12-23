@@ -10120,6 +10120,9 @@
 200 Starlite Ct, Louisville, KY:
   lat: 38.2388753
   lng: -85.6662901
+200 Sycamore Ave, Louisville, KY:
+  lat: 38.2558311
+  lng: -85.706359
 ? 200 Thompson Ave following a report of a 55-year-old male experiencing a possible
   full cardiac arrest. Responders arrived on scene, Louisville, KY
 : null
@@ -11617,6 +11620,9 @@
 2100 Winston Ave, Louisville, KY:
   lat: 38.2170111
   lng: -85.6825559
+2100 Woodland Ave, Louisville, KY:
+  lat: 38.2326124
+  lng: -85.7914743
 2100 [Street Name Missing] as it was departing the area, Louisville, KY: null
 2100 [Street Name Missing], Louisville, KY:
   lat: 38.1757082
