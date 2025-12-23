@@ -19052,6 +19052,7 @@
 400 Roy Wilkins Ave, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
+400 S Jackson St, East Liberty and Marshall St, Louisville, KY: null
 400 S Jackson St, Louisville, KY:
   lat: 38.251001
   lng: -85.744689
@@ -21870,6 +21871,9 @@
 4800 Garland Ave, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+4800 Gloria Ln, Louisville, KY:
+  lat: 38.1621337
+  lng: -85.7058051
 4800 Granada Dr, Louisville, KY:
   lat: 38.113167
   lng: -85.8506804
@@ -31433,6 +31437,9 @@
   KY
 : null
 9200 Marlboro Cir. The specific details regarding what prompted the call, Louisville, KY: null
+9200 Montgomery St, Louisville, KY:
+  lat: 38.2747113
+  lng: -85.7960281
 9200 National Turnpike, Louisville, KY:
   lat: 38.1153441
   lng: -85.7489805
