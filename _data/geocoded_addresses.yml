@@ -16455,6 +16455,9 @@
 3300 Old Outer Loop, Louisville, KY:
   lat: 38.135797
   lng: -85.697776
+3300 Palmer Ln near Belmont Rd and Sumner Rd, Louisville, KY:
+  lat: 38.2062856
+  lng: -85.6700765
 3300 Portage8 Place, Louisville, KY: null
 ? 3300 Portage8 Place, near Vendetta Way, to assist EMS with a lock-in situation.
   Reports indicated a resident at a nearby address was unable to provide a key, and
@@ -32229,6 +32232,7 @@ Bellevue Ave and Beecher St, Louisville, KY: null
 Bellevue Ave and South Fitz Street, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
 Belmont Ave and Hawthorne Ave, Louisville, KY: null
+Belmont Rd and Sumner Rd, Louisville, KY: null
 Belrad Dr and Norbrook Dr, Louisville, KY: null
 Benson Parkway and Bluegrass Pky, Louisville, KY: null
 Benton Ave and Dresden Ave, Louisville, KY: null
@@ -32953,6 +32957,7 @@ Spring Dr and Rock Bay Dr, Louisville, KY: null
 Springdale Rd and Brownsboro Rd, Louisville, KY:
   lat: 38.2933856
   lng: -85.6039019
+Springford Ave and Kennedy Ave, Louisville, KY: null
 Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
 Springhurst Blvd and Westport Rd, Louisville, KY: null
 Springhurst Road and Westport Rd, Louisville, KY: null
