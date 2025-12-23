@@ -6790,6 +6790,7 @@
 1500 black over root for, Louisville, KY: null
 1500 the 1000 block of Ash St, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
+1500 west west oak street, Louisville, KY: null
 15000 the total lots area. Officers were sent, Louisville, KY: null
 15100 Abington Ridge Pl near Arnold Palmer, Louisville, KY:
   lat: 38.2708509
@@ -7380,6 +7381,7 @@
   Check (around 4:23 p.m. a.m. p.m.):** Officers were dispatched to the 4900 block
   of block of Manslick Rd, Louisville, KY
 : null
+1600 west west oak street, Louisville, KY: null
 1600, Louisville, KY:
   lat: 38.2243053
   lng: -85.7626449
@@ -12354,6 +12356,7 @@
 2300 Montgomery St. The alarm was triggered by a smoke detector, Louisville, KY:
   lat: 38.27077
   lng: -85.785284
+2300 Newark Road, Louisville, KY: null
 2300 Nichols View Ct, Louisville, KY:
   lat: 38.1928255
   lng: -85.7946726
@@ -19663,6 +19666,9 @@
 400 area code. Officers are investigating whether the vehicle is connected, Louisville, KY: null
 400 area, Louisville, KY: null
 400 bagger, Louisville, KY: null
+400 baker, Louisville, KY:
+  lat: 38.1410492
+  lng: -85.7716085
 ? 400 block of S Hancock St, near the intersection with Marshall and Liberty. The
   patient was located in, and units were able to assist her. - **Traffic Accident
   (around 6:34 a.m. a.m. a.m.):** responded to a two-vehicle motor vehicle accident
@@ -21244,6 +21250,9 @@
   EMS was requested to respond to the scene, Louisville, KY
 : null
 4400 ground front road, Louisville, KY: null
+4400 south 2nd Street, Louisville, KY:
+  lat: 38.1914096
+  lng: -85.7635371
 4404 Garden Trace Dr, Louisville, KY:
   lat: 38.0830482
   lng: -85.6581967
@@ -23114,6 +23123,9 @@
   lat: 38.2504753
   lng: -85.7237738
 500 or519, Louisville, KY: null
+500 south 4th Street, Louisville, KY:
+  lat: 38.2509279
+  lng: -85.7578311
 5000 Academy Park Cir, Louisville, KY: null
 5000 Bardstown Rd, Louisville, KY:
   lat: 38.1735396
