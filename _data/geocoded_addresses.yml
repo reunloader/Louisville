@@ -1227,6 +1227,9 @@
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
   lng: -85.6228053
+100 West Broadway at Hotel of Louisville, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -4125,6 +4128,7 @@
   lat: 38.2642606
   lng: -85.7433783
 1200 I65 South, Louisville, KY: null
+1200 Kentucky Mills Dr, Louisville, KY: null
 1200 Kremer Ave, Louisville, KY:
   lat: 38.170823
   lng: -85.708534
@@ -10752,6 +10756,7 @@
 200 westbound from the fairgrounds, Louisville, KY: null
 200 westbound, Louisville, KY: null
 200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
+200 with Texas tag, Louisville, KY: null
 200, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -15295,6 +15300,7 @@
 300 West Whitney, Louisville, KY:
   lat: 38.193805
   lng: -85.7653462
+300 West Woodlawn in front of Annie's Cafe, Louisville, KY: null
 300 West Woodmont, Louisville, KY:
   lat: 38.2900837
   lng: -85.4846712
@@ -16486,6 +16492,9 @@
 3300 Arterburn Ave, Louisville, KY:
   lat: 38.254525
   lng: -85.673903
+3300 Bank St, Louisville, KY:
+  lat: 38.27253
+  lng: -85.801137
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
@@ -24453,6 +24462,7 @@
   lat: 38.053324
   lng: -85.87028
 5600 Person, Louisville, KY: null
+5600 Pine Tree Dr, Louisville, KY: null
 5600 Pleasure Ct, Louisville, KY:
   lat: 38.0760378
   lng: -85.8688446
