@@ -1183,6 +1183,9 @@
 100 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.250493
   lng: -85.752382
+100 W Ormsby Ave, Louisville, KY:
+  lat: 38.232072
+  lng: -85.7560919
 100 W River Rd, Louisville, KY:
   lat: 38.2750509
   lng: -85.7028488
@@ -9243,6 +9246,9 @@
 200 East at Manslick overpass, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Newport Rd exit, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Poplar Level Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -13917,6 +13923,9 @@
 2800 Portland Ave, Louisville, KY:
   lat: 38.2723649
   lng: -85.7938489
+2800 Preston Hwy, Louisville, KY:
+  lat: 38.21001
+  lng: -85.739661
 2800 Preston Hwy. Emergency units involved have concluded their response to this call., Louisville, KY:
   lat: 38.21001
   lng: -85.739661
@@ -14245,6 +14254,9 @@
   lat: 38.2739749
   lng: -85.7944508
 2900 Montgomery St. Responders encountered an aggressive adult male experiencing high blood pressure., Louisville, KY: null
+2900 Newport, Louisville, KY:
+  lat: 38.1783192
+  lng: -85.641542
 2900 Noe Ct in response, Louisville, KY: null
 2900 Noe Ct, Louisville, KY:
   lat: 38.2113762
@@ -15415,6 +15427,9 @@
   patient began to regain consciousness, EMS was advised to evaluate, Louisville,
   KY
 : null
+3000 Montgomery St, Louisville, KY:
+  lat: 38.27457
+  lng: -85.795887
 3000 Oakwood Ave near Schneiter Ave, Louisville, KY:
   lat: 38.2033606
   lng: -85.7863759
@@ -19372,6 +19387,9 @@
   lat: 38.253004
   lng: -85.75732
 400 W Main St at the American Life Building, Louisville, KY:
+  lat: 38.256588
+  lng: -85.757011
+400 W Main St, Louisville, KY:
   lat: 38.256588
   lng: -85.757011
 400 W Manslick Rd, Louisville, KY:
