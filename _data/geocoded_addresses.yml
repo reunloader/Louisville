@@ -112,6 +112,7 @@
   lat: 38.2182659
   lng: -85.7774103
 1 Tying Road, Louisville, KY: null
+1 court, Louisville, KY: null
 10 Audubon Plaza Dr at Little Sisters of the Poor, Louisville, KY:
   lat: 38.2143091
   lng: -85.7225304
@@ -10662,6 +10663,7 @@
 : null
 200 the eastbound lanes. Emergency units were on standby with Metro. The details, Louisville, KY: null
 200 the location, who stated they were alright, and officers cleared the scene, Louisville, KY: null
+200 west before the Smear Net exit, Louisville, KY: null
 200 west ramp from I-64, Louisville, KY: null
 200 west ramp, Louisville, KY: null
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
@@ -32154,6 +32156,9 @@
   lat: 38.1132852
   lng: -85.8631828
 9900 Dixie at the Mire, Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
+9900 Dixie, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
 9900 Forest Green Blvd until 1900 hours, Louisville, KY: null
