@@ -4898,6 +4898,9 @@
 1300 Clear Meadow Ct, Louisville, KY:
   lat: 38.2558623
   lng: -85.4945443
+1300 Colonial Oaks Ct, Louisville, KY:
+  lat: 38.1746863
+  lng: -85.7602178
 1300 Cypress St, Louisville, KY:
   lat: 38.236412
   lng: -85.797861
@@ -12271,6 +12274,9 @@
   lat: 38.2024899
   lng: -85.8223948
 2300 Fonzie Road, Louisville, KY: null
+2300 Frankfort Ave at Conway Vo’s Restaurant, Louisville, KY:
+  lat: 38.2531342
+  lng: -85.7030766
 2300 Frankfort Ave, Louisville, KY:
   lat: 38.2531342
   lng: -85.7030766
@@ -14302,6 +14308,7 @@
 2900 Calamar Ct, Louisville, KY:
   lat: 38.2910096
   lng: -85.5667133
+2900 Creekside Dr, Louisville, KY: null
 2900 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -15430,6 +15437,9 @@
 3000 Cedar Creek Rd, Louisville, KY:
   lat: 38.1225307
   lng: -85.5909606
+3000 Chamberlain Ln near Ford Truck Plant, Louisville, KY:
+  lat: 38.3151257
+  lng: -85.5684024
 3000 Chamberlain Ln, Louisville, KY:
   lat: 38.2983417
   lng: -85.5413774
@@ -19071,6 +19081,9 @@
 400 Lindsay Ct, Louisville, KY:
   lat: 38.260237
   lng: -85.705844
+400 Locust Ct, Louisville, KY:
+  lat: 38.2265467
+  lng: -85.484074
 400 Lyleck, Louisville, KY: null
 400 M Street, Louisville, KY:
   lat: 38.208957
@@ -23402,6 +23415,9 @@
 51 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
+51 Lytle St, Louisville, KY:
+  lat: 38.2617105
+  lng: -85.7752953
 51 Walter Ave, Louisville, KY:
   lat: 38.1759795
   lng: -85.7864009
@@ -25569,6 +25585,9 @@
 600 Webster St near W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+600 West Ashland, Louisville, KY:
+  lat: 38.18557
+  lng: -85.771185
 600 West Broadway and Algonquin Pky, Louisville, KY: null
 600 West Broadway, Louisville, KY:
   lat: 38.246252
@@ -32425,6 +32444,9 @@
   Louisville, KY
 : lat: 38.134143
   lng: -85.8900688
+9900 LaGrange Road near Circle K, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 9900 Lakewood Dr, Louisville, KY:
   lat: 38.110727
   lng: -85.842464
