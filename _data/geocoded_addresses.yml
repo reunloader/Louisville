@@ -7132,6 +7132,9 @@
 1600 I65 South, Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call for service., Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call, Louisville, KY: null
+1600 Kennedy Ave, Louisville, KY:
+  lat: 38.2521008
+  lng: -85.6879103
 1600 Lewis Coleman Jr, Louisville, KY: null
 1600 Longfield Ave, Louisville, KY:
   lat: 38.198753
@@ -8425,6 +8428,7 @@
   lat: 38.230905
   lng: -85.789583
 1800 Standards, Louisville, KY: null
+1800 Stone Gate Rd, Louisville, KY: null
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
@@ -11269,6 +11273,9 @@
   lat: 38.15827
   lng: -85.8413922
 2000 Wilson Ave, waterfront area, Louisville, KY: null
+2000 Winding Bluff Trace, Louisville, KY:
+  lat: 38.2813075
+  lng: -85.6403977
 2000 Yamaha CW50, was last seen loaded onto the pickup truck. Police units were dispatched, Louisville, KY: null
 2000 [Street Name Not Fully Provided], Louisville, KY:
   lat: 38.2274949
@@ -29232,6 +29239,9 @@
 7800 Newton Dr, Louisville, KY:
   lat: 38.1354978
   lng: -85.6199016
+7800 Nottoway Cir, Louisville, KY:
+  lat: 38.16109
+  lng: -85.803318
 7800 Routt Rd, Louisville, KY:
   lat: 38.1257208
   lng: -85.4690983
@@ -32054,6 +32064,9 @@
   lat: 38.1119717
   lng: -85.7365371
 9500 Fong Hand Drive, Louisville, KY: null
+9500 Hayden Creek Ct, Louisville, KY:
+  lat: 38.3219196
+  lng: -85.5735201
 9500 Hiss Road, Louisville, KY: null
 9500 Hunters Trail Ct, Louisville, KY:
   lat: 38.1173771
@@ -33230,6 +33243,7 @@ Rd Street Rd and Central Ave, Louisville, KY: null
 Rd Street Rd and Euclid Ave, Louisville, KY: null
 Reeves Rd and Isaacs Road, Louisville, KY: null
 Regal Dr and Riata Dr, Louisville, KY: null
+Regal Rd and Grand Lakes Dr, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
