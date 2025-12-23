@@ -1069,6 +1069,9 @@
   lat: 38.259446
   lng: -85.783128
 100 South38th Street, indicating multiple locations involved in gunfire, Louisville, KY: null
+100 South39th Street, Louisville, KY:
+  lat: 38.2636546
+  lng: -85.8135907
 ? '100 South4th Street)** (around 8:48 p.m. a.m. p.m.): Units responded to a commercial
   alarm at Derby City Gaming, Louisville, KY'
 : lat: 38.1855446
@@ -6685,6 +6688,7 @@
 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting, Louisville, KY:
   lat: 38.220888
   lng: -85.738448
+1500 Town Public Road, Louisville, KY: null
 1500 Trotters Pointe Dr, Louisville, KY:
   lat: 38.3198511
   lng: -85.5580633
@@ -6779,6 +6783,9 @@
 15400 Shelbyville Rd, Louisville, KY:
   lat: 38.2356193
   lng: -85.4755389
+15500 Shelbyville Rd, Louisville, KY:
+  lat: 38.2358921
+  lng: -85.4716982
 15600 Scholar House Core, Louisville, KY: null
 15700 Beckley Hills Dr due, Louisville, KY: null
 15700 Beckley Hills Dr, Louisville, KY:
@@ -18555,6 +18562,9 @@
 400 Downes Ln, Louisville, KY:
   lat: 38.155955
   lng: -85.757544
+400 E Jefferson St at Wayside Men’s Emergency Shelter, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
 400 E Jefferson St at Wayside, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -24343,6 +24353,7 @@
 5700 Ronwood Dr, Louisville, KY:
   lat: 38.1433749
   lng: -85.6628242
+5700 Runs, Louisville, KY: null
 5700 Russett Blvd due to suspicious activity. However, the address provided was found to be invalid., Louisville, KY: null
 5700 Russett Blvd due, Louisville, KY: null
 5700 Russett Blvd, Louisville, KY:
@@ -24635,6 +24646,7 @@
 600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
+600 Blanton, and officers engaged, Louisville, KY: null
 600 Brandon, Louisville, KY:
   lat: 38.2678015
   lng: -85.6862892
@@ -26958,6 +26970,9 @@
   lat: 38.2345815
   lng: -85.4740018
 700 Braddock Dr, Louisville, KY: null
+700 Brent St at Village Market, Louisville, KY:
+  lat: 38.243692
+  lng: -85.735383
 700 Brent St, Louisville, KY:
   lat: 38.243692
   lng: -85.735383
@@ -28408,6 +28423,7 @@
   lat: 38.1514364
   lng: -85.7902881
 7300 Von Mill Road, Louisville, KY: null
+7300 W Orchard Grass Blvd, Louisville, KY: null
 7300 West Over Railroad Crossroads, Louisville, KY: null
 7300 Winstead Dr near Mcdeane Rd, Louisville, KY:
   lat: 38.1328199
@@ -32515,6 +32531,7 @@ Fern Valley Rd and Valley Forest Dr, Louisville, KY: null
 First One Lane and North Sea Lane, Louisville, KY: null
 Flat Rock Rd and Shelbyville Rd, Louisville, KY: null
 Flicker Rd and Foreman Ln, Louisville, KY: null
+Florence Ave and Warren Ave, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
 Floyd St and Caldwell St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
