@@ -935,6 +935,7 @@
 100 Radio and 1700-1730 blocks of Radio, Louisville, KY: null
 100 Radio near LMGC, Louisville, KY: null
 100 Radio, Louisville, KY: null
+100 Reckon Ridge Square, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Louisville, KY:
@@ -8679,6 +8680,9 @@
 : null
 1900 Newburgh Road. Engine 20 and Quint 7 were dispatched, Louisville, KY: null
 1900 North Oak Street as crews worked, Louisville, KY: null
+1900 Outer Loop, Louisville, KY:
+  lat: 38.1274634
+  lng: -85.7352889
 1900 Overlook Terrace, Louisville, KY:
   lat: 38.2204526
   lng: -85.6948778
@@ -18377,6 +18381,7 @@
   lat: 38.1880343
   lng: -85.7836579
 3900 Taylor's Hole Road, Louisville, KY: null
+3900 Taylor'sville Road, Louisville, KY: null
 3900 Taylor, Louisville, KY:
   lat: 38.1880343
   lng: -85.7836579
@@ -26346,6 +26351,7 @@
 6500 Halstead Ave, Louisville, KY:
   lat: 38.1688793
   lng: -85.7111186
+6500 Haynes Trace, Louisville, KY: null
 6500 Heckle Drive, Louisville, KY: null
 6500 Hereford Circle, Louisville, KY: null
 6500 Hunter's Dove Creek Blvd, Louisville, KY: null
@@ -30570,6 +30576,9 @@
   lat: 38.125069
   lng: -85.796299
 8700 Michael Way, Louisville, KY: null
+8700 Minor Ln, Louisville, KY:
+  lat: 38.1233203
+  lng: -85.7129536
 8700 Nottingham Parkway 11:00 a, Louisville, KY: null
 8700 Nottingham Parkway 11:00 a.m., Louisville, KY: null
 ? 8700 Nottingham Parkway after an elderly gentleman was found on the floor. Queen
@@ -32093,6 +32102,7 @@
 : lat: 38.108708
   lng: -85.6678
 9600 Preston, Wawa, Louisville, KY: null
+9600 River Trail Drop, Louisville, KY: null
 9600 South 4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
