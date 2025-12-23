@@ -3231,6 +3231,9 @@
 1100 S Floyd St at the Valero, Louisville, KY:
   lat: 38.234987
   lng: -85.751627
+1100 S Floyd St, Louisville, KY:
+  lat: 38.234987
+  lng: -85.751627
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
   lng: -85.749224
@@ -31216,6 +31219,7 @@
 : null
 900 South First Street near Cosmo Street and West Berkman Street, Louisville, KY: null
 900 South First Street, Louisville, KY: null
+900 South Forth, Louisville, KY: null
 900 South Fourth Street, Louisville, KY: null
 900 South Grove Street, near the Salvation Army in Brooklyn Ridge,, Louisville, KY: null
 900 South I-65, Louisville, KY: null
