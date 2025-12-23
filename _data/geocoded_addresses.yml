@@ -9708,6 +9708,7 @@
 200 North I near Smyrna Parkway, Louisville, KY:
   lat: 38.1304
   lng: -85.6425666
+200 North I- [location], Louisville, KY: null
 200 North NDA from a vehicle, Louisville, KY: null
 200 North Summer Parkway, Louisville, KY: null
 200 North Tadwick Road. Investigators are looking into whether this incident may be connected, Louisville, KY: null
@@ -10538,6 +10539,9 @@
   lat: 38.230404
   lng: -85.8132568
 200 [Street Name Unclear], Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
+200 [location], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
 200 a ramp, Louisville, KY:
