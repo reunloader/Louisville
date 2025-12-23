@@ -16337,6 +16337,9 @@
 3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
   lat: 38.20267
   lng: -85.7352633
+3200 Ralph Ave, Louisville, KY:
+  lat: 38.2078701
+  lng: -85.8247553
 3200 Robin Rd, Louisville, KY:
   lat: 38.1997067
   lng: -85.7299289
@@ -18422,6 +18425,9 @@
   lat: 38.2573446
   lng: -85.8151884
 3965 Tattersville Road, Louisville, KY: null
+4 Ralph Ave, Louisville, KY:
+  lat: 38.2107404
+  lng: -85.8323503
 40 Naomi Dr, Louisville, KY:
   lat: 38.164391
   lng: -85.6840311
@@ -26546,6 +26552,9 @@
 6600 Preston Hwy. The situation was resolved and cleared shortly, Louisville, KY:
   lat: 38.156696
   lng: -85.696994
+6600 Preston at Winners Cir, Louisville, KY:
+  lat: 38.156696
+  lng: -85.696994
 6600 Rolling Pasture Way, cross Longview, Louisville, KY: null
 ? 6600 Rutledge Rd following a report. While the specific reason for the call was
   not detailed in the scanner feed, officers were sent to address the situation.,
@@ -26951,6 +26960,9 @@
   lat: 38.0910295
   lng: -85.6742718
 6900 Butler's Road, Louisville, KY: null
+6900 Carslaw Ct, Louisville, KY:
+  lat: 38.3413488
+  lng: -85.6213737
 6900 Cartwell Court [Morning], Louisville, KY: null
 6900 Casey Pl, Louisville, KY:
   lat: 38.0922689
@@ -32532,6 +32544,7 @@ Billtown Rd and Shaffer Ln, Louisville, KY: null
 Bishop Ln and Jennings Ln, Louisville, KY: null
 Bishop Ln and Newburg Rd, Louisville, KY: null
 Blankenbaker Pky and Upland Rd, Louisville, KY: null
+Blanket Baker Parkway and Electron Dr, Louisville, KY: null
 Blast On Road and Engine Drive, Louisville, KY: null
 Blenheim Rd and North Harpers Lane, Louisville, KY: null
 Blenheim Street and Don Allen Rd, Louisville, KY: null
