@@ -305,6 +305,9 @@
 100 Colonial, Louisville, KY:
   lat: 38.1744506
   lng: -85.7618487
+100 Coral Ave at Bingham Park, Louisville, KY:
+  lat: 38.255753
+  lng: -85.710754
 100 Crescent Ave, Louisville, KY:
   lat: 38.254922
   lng: -85.686895
@@ -6583,6 +6586,9 @@
 1500 Mellwood Ave, Louisville, KY:
   lat: 38.255527
   lng: -85.722051
+1500 Miami Ave, Louisville, KY:
+  lat: 38.2727122
+  lng: -85.8115126
 1500 Moore Ct, Louisville, KY:
   lat: 38.2259283
   lng: -85.7746817
@@ -25462,6 +25468,9 @@
 600 South10th Street, Louisville, KY:
   lat: 38.24992
   lng: -85.767932
+600 South26th St, Louisville, KY:
+  lat: 38.252882
+  lng: -85.794613
 600 South26th Street, Louisville, KY:
   lat: 38.252882
   lng: -85.794613
@@ -32947,6 +32956,7 @@ Hutcherson Dr and Cove Dr, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
 Inca Dr and Johnsontown Rd, Louisville, KY: null
 Indian Falls Dr and River Trail Dr, Louisville, KY: null
+Indian Lake Dr and Westport Rd, Louisville, KY: null
 Iowa Ave and Cole Ave, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
