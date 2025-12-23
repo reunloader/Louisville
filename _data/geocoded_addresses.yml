@@ -16474,6 +16474,9 @@
 3300 Illinois Ave, Louisville, KY:
   lat: 38.212711
   lng: -85.7179081
+3300 Indian Creek Ct**, Louisville, KY:
+  lat: 38.2068909
+  lng: -85.6770824
 3300 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
@@ -18987,6 +18990,7 @@
 400 Mockingbird Valley Rd, Louisville, KY:
   lat: 38.27223
   lng: -85.6880439
+400 Mount Holly Ave, Clifton Oak Nursing Home**, Louisville, KY: null
 400 Mount Holly Ave, Crestwood, Louisville, KY: null
 400 Mount Holly Ave, Louisville, KY:
   lat: 38.2608215
