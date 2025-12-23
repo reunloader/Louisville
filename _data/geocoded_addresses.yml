@@ -11559,6 +11559,7 @@
 2100 Wally and Court, Louisville, KY: null
 2100 Wally and Court. EMS later canceled their request, Louisville, KY: null
 2100 Wesley Street, Louisville, KY: null
+2100 West Alley near a liquor store, Louisville, KY: null
 2100 West Broadway [Date & Time], Louisville, KY: null
 ? 2100 West Broadway to address the situation. Officers worked to secure the vehicle
   and ensure the safety of the area., Louisville, KY
@@ -26857,6 +26858,9 @@
 6900 Keswick Blvd, Louisville, KY:
   lat: 38.2178795
   lng: -85.7377355
+6900 Lambert Ave, Louisville, KY:
+  lat: 38.1351988
+  lng: -85.6821883
 6900 Lanspar, Louisville, KY: null
 6900 Lanspar. They were working to verify details about a vehicle with a third-party company., Louisville, KY: null
 6900 Lanspar. They were working, Louisville, KY: null
@@ -27865,6 +27869,9 @@
   lat: 38.109789
   lng: -85.88966
 7000 Attaloo, Crescent Vaughan Mill, Louisville, KY: null
+7000 Bardstown Rd, Louisville, KY:
+  lat: 38.1474148
+  lng: -85.5861497
 7000 Bear Creek Dr, Louisville, KY: null
 7000 Billie Ln, Louisville, KY:
   lat: 38.1485385
