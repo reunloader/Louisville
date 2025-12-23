@@ -3755,6 +3755,9 @@
 : null
 11600 Reality Trail. Residents had been experiencing headaches, Louisville, KY: null
 11600 Sweet Flag Circle, Louisville, KY: null
+11600 Top Walnut Loop, Louisville, KY:
+  lat: 38.09515
+  lng: -85.644287
 11600 Valley View Rd near Evergreen Rd, Louisville, KY:
   lat: 38.2792505
   lng: -85.5469034
@@ -22622,6 +22625,7 @@
   lng: -85.7479613
 500 East W Jacob St, Louisville, KY: null
 500 East W Jacob St, specifically in building 15, zone 6, Louisville, KY: null
+500 East W Kentucky St, Louisville, KY: null
 500 East W Market St, near the intersection of Hancock and Jackson, Louisville, KY: null
 500 East [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2305447
@@ -22930,6 +22934,7 @@
 500 South 8th Street. Officers were dispatched, Louisville, KY:
   lat: 38.250978
   lng: -85.764372
+500 South 8th and South 7th, Louisville, KY: null
 500 South Blue Street in the Loomhead area. Officers responded, Louisville, KY: null
 500 South Blue Street, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
