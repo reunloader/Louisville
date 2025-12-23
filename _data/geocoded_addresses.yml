@@ -3451,6 +3451,7 @@
   lat: 38.235984
   lng: -85.77188
 1100 West All E, Louisville, KY: null
+1100 West Alley, Louisville, KY: null
 1100 West Broadway, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
@@ -6014,6 +6015,9 @@
 1400 Selinda Ave, Louisville, KY:
   lat: 38.189245
   lng: -85.700855
+1400 Shakes Creek Dr, Louisville, KY:
+  lat: 38.2086317
+  lng: -85.435417
 1400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -6387,6 +6391,9 @@
 1500 Baxter Ave, Louisville, KY:
   lat: 38.228781
   lng: -85.715269
+1500 Bayport Rd, Louisville, KY:
+  lat: 38.183428
+  lng: -85.5634829
 1500 Beech St area of 1609, Louisville, KY: null
 1500 Beech St between Annie St and Southern Ave, Louisville, KY: null
 1500 Beech St, Crestree, Fanny Street, and Southern Ave, Louisville, KY: null
@@ -10977,6 +10984,9 @@
 2000 Kendall Ln near Spen Lea Rd, Louisville, KY: null
 2000 Kendall Ln, Louisville, KY: null
 2000 Kia Optima, Louisville, KY: null
+2000 Lambert Ct, Louisville, KY:
+  lat: 38.18352
+  lng: -85.647147
 2000 Lancashire Ave, Louisville, KY:
   lat: 38.2121848
   lng: -85.6820127
@@ -29658,6 +29668,9 @@
 800 Longfield Ave. The unit reported being, Louisville, KY:
   lat: 38.1984424
   lng: -85.7728266
+800 Lotus Ave, Louisville, KY:
+  lat: 38.161114
+  lng: -85.717279
 800 Malford, Louisville, KY: null
 800 Mango Dr, Louisville, KY:
   lat: 38.1414787
@@ -29802,6 +29815,7 @@
 800 South 6th Street, Louisville, KY:
   lat: 38.24444
   lng: -85.762146
+800 South 7th Street, Crossroads, Louisville, KY: null
 800 South Jackson, Louisville, KY:
   lat: 38.24185
   lng: -85.746268
