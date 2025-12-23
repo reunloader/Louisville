@@ -718,6 +718,9 @@
 100 North 38th Street, Louisville, KY:
   lat: 38.2634695
   lng: -85.8118587
+100 North 38th. Officers responded, Louisville, KY:
+  lat: 38.2634695
+  lng: -85.8118587
 100 North 39th St, Louisville, KY:
   lat: 38.2640115
   lng: -85.8135749
@@ -1726,6 +1729,9 @@
   lat: 38.3108786
   lng: -85.5646017
 1000 Goss Ave, Louisville, KY:
+  lat: 38.2276371
+  lng: -85.7364243
+1000 Goss, Louisville, KY:
   lat: 38.2276371
   lng: -85.7364243
 1000 Grade Ln, Louisville, KY:
@@ -23991,6 +23997,7 @@
 5500 Grandel Blvd, Louisville, KY:
   lat: 38.1570219
   lng: -85.8577378
+5500 HR Boulevard, Louisville, KY: null
 5500 Hunt Club Ln, Louisville, KY:
   lat: 38.143656
   lng: -85.777398
