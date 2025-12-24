@@ -254,6 +254,9 @@
   without further response., Louisville, KY
 : null
 100 Breckham Ridge Square, Louisville, KY: null
+100 Breeze Cir, Louisville, KY:
+  lat: 38.0915438
+  lng: -85.8780676
 100 Brick Kiln Ln, Louisville, KY:
   lat: 38.1694246
   lng: -85.8241258
@@ -10764,6 +10767,9 @@
 200 overpass. This vehicle was linked, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
+200 south near the 2-mile marker, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 south, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
