@@ -4994,6 +4994,9 @@
 1300 Clara Ave, Louisville, KY:
   lat: 38.199672
   lng: -85.783551
+1300 Clare, Louisville, KY:
+  lat: 38.2615454
+  lng: -85.7051861
 1300 Clear Meadow Ct, Louisville, KY:
   lat: 38.2558623
   lng: -85.4945443
@@ -9574,6 +9577,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East near exit 19A, Louisville, KY: null
+200 East near group8, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near mile marker 19, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -21572,6 +21578,7 @@
   lat: 38.1909318
   lng: -85.773305
 4400 South Brook, across from East Adir and Florida, Louisville, KY: null
+4400 South Second Street, Louisville, KY: null
 4400 South2nd Street, Louisville, KY: null
 4400 South2nd Street, near West Lee and West Bloom, Louisville, KY:
   lat: 38.1914096
