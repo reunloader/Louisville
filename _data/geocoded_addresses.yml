@@ -34,6 +34,9 @@
   lng: -85.7632017
 0 W Market St and Chapel, Louisville, KY: null
 0 Whiteoak Park Rd, Louisville, KY: null
+00 Aiken Rd near Johnson Rd and Centurion Way, Louisville, KY:
+  lat: 38.2655914
+  lng: -85.4687873
 00 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
@@ -2745,6 +2748,7 @@
 10400 Thrift Dr, Louisville, KY: null
 10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
 10400 Watermark Pl, Louisville, KY: null
+10400 West Manslake Road near Mason Ln and Sharon Ln, Louisville, KY: null
 10405 Preston Hwy, Louisville, KY:
   lat: 38.0993972
   lng: -85.6716879
@@ -3746,6 +3750,7 @@
 11400 Leman Dr. The patient is a 21-year-old female experiencing chest pain and was able, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
+11400 Regal Lake Drop, Louisville, KY: null
 11400 Ridge Lake Dr, Louisville, KY:
   lat: 38.090525
   lng: -85.862078
@@ -19427,6 +19432,9 @@
   Officers were dispatched, Louisville, KY
 : lat: 38.1642964
   lng: -85.6790227
+400 Reg Smith Cir near Scholar House building 102, Louisville, KY:
+  lat: 38.22309
+  lng: -85.763372
 400 Reg Smith Cir, Louisville, KY:
   lat: 38.22309
   lng: -85.763372
@@ -23438,6 +23446,9 @@
 5000 Bardstown Rd. The specific reason, Louisville, KY:
   lat: 38.1735396
   lng: -85.6178777
+5000 Belmont Ave near Nancy Ln and Gerald Ave, Louisville, KY:
+  lat: 38.1391652
+  lng: -85.849572
 5000 Cedarburg Court, Louisville, KY: null
 5000 Chamberlain Ln, Louisville, KY:
   lat: 38.3197551
@@ -26701,6 +26712,9 @@
   lng: -85.6024786
 6500 Brattleview Circle, Louisville, KY: null
 6500 Brooks-Bendway, Louisville, KY: null
+6500 Dixie near Circle K, Louisville, KY:
+  lat: 38.156028
+  lng: -85.834706
 6500 Downs Branch Rd, Louisville, KY:
   lat: 38.154654
   lng: -85.628487
@@ -33453,6 +33467,7 @@ Market St and Main St, Louisville, KY: null
 Market St and Renate Rd, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
 Mary Catherine Dr and Ecton Ln, Louisville, KY: null
+Mason Ln and Sharon Ln, Louisville, KY: null
 Mason Rd and Belmont Rd, Louisville, KY: null
 Mason Rd and Chenoweth Run Rd, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
@@ -33499,6 +33514,7 @@ Muhammad Ali Blvd and Main St, Louisville, KY: null
 Murphy Ln and Halifax Dr, Louisville, KY: null
 Murray Ln and Raggard Rd, Louisville, KY: null
 Nall Ave and Valley View Rd, Louisville, KY: null
+Nancy Ln and Gerald Ave, Louisville, KY: null
 Nancy Ln and Lila Ave, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
