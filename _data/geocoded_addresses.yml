@@ -10854,6 +10854,9 @@
 200 west before the Smear Net exit, Louisville, KY: null
 200 west ramp from I-64, Louisville, KY: null
 200 west ramp, Louisville, KY: null
+200 west, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
@@ -22224,6 +22227,9 @@
 4700 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+4700 South3rd near Circle K, Louisville, KY:
+  lat: 38.1810652
+  lng: -85.766787
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
   lat: 38.105447
@@ -31281,6 +31287,9 @@
 900 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+900 E W Oak St near JR Liquors, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 900 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
