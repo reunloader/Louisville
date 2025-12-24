@@ -3521,6 +3521,9 @@
 1100 West Indian Trail, Louisville, KY:
   lat: 38.1647205
   lng: -85.7080512
+1100 West LA, Louisville, KY:
+  lat: 38.1312493
+  lng: -85.8759227
 1100 West Muhammad, Louisville, KY:
   lat: 38.2522795
   lng: -85.7696575
@@ -6362,6 +6365,9 @@
 14300 Aiken Rd, Louisville, KY:
   lat: 38.2649546
   lng: -85.4877363
+14300 W Oak St, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 14400 Adkins Rd, Louisville, KY:
   lat: 38.1237646
   lng: -85.6631004
@@ -7828,6 +7834,7 @@
 1700 Preston Hwy. Fire department leadership requested the check, and responding units were dispatched, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+1700 Princess Street, Louisville, KY: null
 1700 Rangeland Rd, Louisville, KY:
   lat: 38.1647239
   lng: -85.6700729
@@ -33337,6 +33344,7 @@ Delor Ave and Kansas Boulevard, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dockby Drive and Wenderspoon Street, Louisville, KY: null
 Dohn Ave and Veronica Dr, Louisville, KY: null
+Donna Rd and Dover Rd, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
