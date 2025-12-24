@@ -15345,6 +15345,9 @@
   lat: 38.125884
   lng: -85.769085
 300 Paul Victor, Louisville, KY: null
+300 Powhatan Ct, Louisville, KY:
+  lat: 38.3041994
+  lng: -85.5401557
 300 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -17564,6 +17567,9 @@
 3600 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
+? 3600 Bardstown Rd, indicating an attempted ambush. Fortunately, there were no injuries
+  reported, and units responded promptly, Louisville, KY
+: null
 ? 3600 Bardstown Rd. Further details regarding the nature of the alarm or any subsequent
   findings have not been released at this time., Louisville, KY
 : null
@@ -26316,6 +26322,9 @@
 6100 Moorhaven Dr, Louisville, KY:
   lat: 38.150445
   lng: -85.647679
+6100 Old Heady Rd, Louisville, KY:
+  lat: 38.1617234
+  lng: -85.5011368
 6100 Parts Town Road, Louisville, KY: null
 6100 Port Rd, Louisville, KY:
   lat: 38.1551601
@@ -27439,6 +27448,9 @@
 6800 Southside Dr. Fortunately, no one was inside the car when the fire broke out. Firefighters worked, Louisville, KY:
   lat: 38.1590857
   lng: -85.7646433
+6800 Stardust. Responders responded, Louisville, KY:
+  lat: 38.0667154
+  lng: -85.8864591
 6800 Steve Brown Road due, Louisville, KY: null
 6800 Steve Brown Road, Louisville, KY: null
 6800 Stone Valley Dr, Louisville, KY:
