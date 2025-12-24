@@ -9348,6 +9348,10 @@
 200 E W Magnolia Ave, Louisville, KY:
   lat: 38.2300794
   lng: -85.7704501
+200 E W Market St near South Floyd and South Brook, Louisville, KY:
+  lat: 38.2554323
+  lng: -85.7586619
+200 E W Market St outside the market lot, Louisville, KY: null
 200 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -22754,6 +22758,9 @@
 4900 Saddlebrook Ct, Louisville, KY:
   lat: 38.1775868
   lng: -85.8513642
+4900 Saddlebrook Ln near 10 o'clock lane and Saddlebrook Ct, Louisville, KY:
+  lat: 38.1779045
+  lng: -85.8508199
 4900 Saddlebrook, Louisville, KY:
   lat: 38.1775868
   lng: -85.8513642
@@ -25522,6 +25529,9 @@
   lat: 38.1723312
   lng: -85.6752856
 600 Gilman Ave, Louisville, KY: null
+600 Glenfield Ct, Louisville, KY:
+  lat: 38.2996605
+  lng: -85.5904728
 600 Glengarry Dr, Louisville, KY:
   lat: 38.1227346
   lng: -85.7555604
@@ -30261,6 +30271,9 @@
 800 Scholar, Louisville, KY:
   lat: 38.2408645
   lng: -85.7548989
+800 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 800 South 15th Street, Louisville, KY:
   lat: 38.244781
   lng: -85.777159
