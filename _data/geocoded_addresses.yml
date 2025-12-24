@@ -4777,6 +4777,7 @@
 12700 Charles Brown Circle, Louisville, KY: null
 12700 Charles Farm Cir across Cedar Thicket Ct, Louisville, KY: null
 12700 Charles Farm Cir, Louisville, KY: null
+12700 Charles Farm Cir, building 6, near Cedar Thicket Ct. Maintenance personnel were en route, Louisville, KY: null
 12700 Chevyville Road, Louisville, KY: null
 12700 East Oro, Louisville, KY: null
 12700 Glengate Pl, Louisville, KY: null
@@ -11910,6 +11911,7 @@
 2200 Magazine St, Louisville, KY:
   lat: 38.25087
   lng: -85.78807
+2200 Magazine involving a 61-year-old woman. The scene was being cleared, Louisville, KY: null
 2200 Main St [Date & Time], Louisville, KY: null
 ? 2200 Main St as multiple units are responding to execute a search warrant. Officers
   on scene are carefully conducting the search, ensuring safety and compliance with
@@ -19533,6 +19535,7 @@
 400 South10th Street, Louisville, KY:
   lat: 38.2540801
   lng: -85.7673115
+400 South10th Street, with zones 0 and 10 triggered, Louisville, KY: null
 400 South20th, back alley, Louisville, KY: null
 400 South27th Street, Louisville, KY:
   lat: 38.256603
@@ -19950,6 +19953,7 @@
 4000 Rock Bay Dr, Louisville, KY:
   lat: 38.2963802
   lng: -85.499078
+4000 Rock Bay Dr, with smoke detected in the kitchen. Responding units arrived, Louisville, KY: null
 4000 Seaway Court, Louisville, KY: null
 4000 Serene Way, Louisville, KY:
   lat: 38.159645
@@ -24972,6 +24976,9 @@
   lat: 38.269114
   lng: -85.784136
 600 Cecil Ave, Louisville, KY:
+  lat: 38.255787
+  lng: -85.820547
+600 Cecil Ave. Police units responded quickly, Louisville, KY:
   lat: 38.255787
   lng: -85.820547
 600 Cedar Creek Rd, Louisville, KY:
