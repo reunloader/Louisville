@@ -13120,6 +13120,7 @@
 2500 Gardiner Ln, Louisville, KY:
   lat: 38.2145786
   lng: -85.6663921
+2500 Greenup Rd off French Ave and Thruston Ave, Louisville, KY: null
 2500 Griffiths Ave, Louisville, KY:
   lat: 38.2658663
   lng: -85.7902979
@@ -24715,6 +24716,9 @@
 5700 Oxford Pl. The call was processed at 2119. Responding units were directed, Louisville, KY:
   lat: 38.1605773
   lng: -85.6018404
+5700 Preston Hwy near Bondwood and East Indian Trail, Louisville, KY:
+  lat: 38.1675429
+  lng: -85.7054104
 5700 Preston Hwy, Louisville, KY:
   lat: 38.1675429
   lng: -85.7054104
@@ -33085,6 +33089,7 @@ Frankfort Ave and Holbergen Avenue, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frankfort Ave and Prestwood Dr, Louisville, KY: null
 Franklin Ave and Fayette Ave, Louisville, KY: null
+French Ave and Thruston Ave, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
