@@ -5135,6 +5135,9 @@
   lng: -85.7332412
 1300 McHenry Street, Louisville, KY: null
 1300 Miller's Lane, Louisville, KY: null
+1300 Mills Edge Ct, Louisville, KY:
+  lat: 38.0910064
+  lng: -85.8890662
 1300 Morgan Ave, Louisville, KY:
   lat: 38.1945658
   lng: -85.7241341
@@ -9489,6 +9492,9 @@
   lng: -85.7582215
 200 East at the 17-mile marker, Louisville, KY: null
 200 East at the 17.8 mile marker, Louisville, KY: null
+200 East at the 21-mile marker, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at the 4-mile marker and 13th and Algonquin, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
