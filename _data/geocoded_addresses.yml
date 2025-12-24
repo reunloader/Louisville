@@ -4890,6 +4890,7 @@
 12900 Shelbyville Rd. One unit reported being, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+12900 Trouble Row, Louisville, KY: null
 12900 Willow Forest Dr, Louisville, KY:
   lat: 38.302114
   lng: -85.514676
@@ -8535,6 +8536,9 @@
   lng: -85.7108239
 1800 South 18th Street and W Jefferson St, Louisville, KY: null
 1800 South 23rd Street, Louisville, KY:
+  lat: 38.2254613
+  lng: -85.7972565
+1800 South 23rd, Louisville, KY:
   lat: 38.2254613
   lng: -85.7972565
 1800 South 24th Street, Louisville, KY:
