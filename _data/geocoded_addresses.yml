@@ -272,6 +272,9 @@
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
+100 Buchanan St at Butchertown Cross, Louisville, KY:
+  lat: 38.255166
+  lng: -85.730171
 100 Bullitt Ln, Louisville, KY:
   lat: 38.246826
   lng: -85.613749
@@ -3223,6 +3226,9 @@
 : null
 1100 March 1 Avenue, Louisville, KY: null
 1100 March1 Avenue, Louisville, KY: null
+1100 Mark near Our Lady of Peace, Crop St, Bellarmine Blvd, and Richmond Dr, Louisville, KY:
+  lat: 38.1758132
+  lng: -85.8486545
 1100 Markwell Ln, Louisville, KY:
   lat: 38.137936
   lng: -85.693924
@@ -4131,6 +4137,9 @@
 1200 Gardiner Ln, near Bunton Rd and Watterson Park Rd, Louisville, KY:
   lat: 38.2033739
   lng: -85.6892064
+1200 Georgetown Road near McDonald's, Crop St of Longast and Beechwood, Louisville, KY:
+  lat: 38.267342
+  lng: -85.783509
 1200 Gillette Ave, Louisville, KY:
   lat: 38.1857045
   lng: -85.760107
@@ -7388,6 +7397,7 @@
 1600 Timber, Louisville, KY:
   lat: 38.2593426
   lng: -85.4537797
+1600 Trevilian Way, Crop St Valley Vista in Ashwood, Louisville, KY: null
 1600 Two Strings, Louisville, KY: null
 1600 W Chestnut St due, Louisville, KY: null
 1600 W Chestnut St near 16th and 17th Streets, Louisville, KY:
@@ -11573,6 +11583,9 @@
   lat: 38.2177507
   lng: -85.6832782
 2100 Gardiner Ln near Crest Street, Wellbrook and Eleanor, Louisville, KY:
+  lat: 38.210797
+  lng: -85.673912
+2100 Gardiner Ln near Wellbrook and Eleanor, Louisville, KY:
   lat: 38.210797
   lng: -85.673912
 2100 Garland Ave, Louisville, KY:
@@ -18987,6 +19000,9 @@
 400 E Jefferson St near S Jackson St, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
+400 E Jefferson St near South Jackson and South Preston at Wayside Shelter, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
 400 E Jefferson St near Wayside Minch, Seltzer, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -20670,6 +20686,9 @@
 4200 Camp Ground Rd, Louisville, KY:
   lat: 38.2154359
   lng: -85.8418135
+4200 Cane Run Rd, Louisville, KY:
+  lat: 38.202031
+  lng: -85.833948
 ? 4200 Cane Run Rd. The stop involved a vehicle associated with a Kentucky license
   plate. No further details regarding the reason, Louisville, KY
 : lat: 38.202031
@@ -25242,6 +25261,9 @@
   lat: 38.255787
   lng: -85.820547
 600 Cecil Ave. Police units responded quickly, Louisville, KY:
+  lat: 38.255787
+  lng: -85.820547
+600 Cecil near South 41st Street, Louisville, KY:
   lat: 38.255787
   lng: -85.820547
 600 Cedar Creek Rd, Louisville, KY:
