@@ -2926,6 +2926,9 @@
 10900 Marbado Ct, Louisville, KY:
   lat: 38.0890231
   lng: -85.6529917
+10900 Nagel Ct, Louisville, KY:
+  lat: 38.3129626
+  lng: -85.5500602
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
   lng: -85.5550366
@@ -8053,6 +8056,7 @@
 1700 Wilart Dr, Louisville, KY:
   lat: 38.218821
   lng: -85.789562
+1700 Wilart Dr, Willard Arms Apartments, Louisville, KY: null
 1700 Willard near 60th Street, Louisville, KY: null
 1700 William East Summer Street, Louisville, KY: null
 1700 Willmar Ave due, Louisville, KY: null
@@ -8921,6 +8925,9 @@
 1900 Speed Ave, Louisville, KY:
   lat: 38.226708
   lng: -85.704301
+1900 Spotswood Ln, Louisville, KY:
+  lat: 38.2118318
+  lng: -85.420715
 1900 Stonegate Manor Dr, Louisville, KY:
   lat: 38.0812767
   lng: -85.883845
