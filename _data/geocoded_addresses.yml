@@ -67,6 +67,7 @@
 01 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
+02 Farmingham Rd, Louisville, KY: null
 03 Arlington Ave, Louisville, KY:
   lat: 38.2545625
   lng: -85.7142596
@@ -2896,6 +2897,9 @@
 10900 Lower River Rd near Farnsley Visitor Center, Louisville, KY:
   lat: 38.0983387
   lng: -85.8928794
+10900 Marbado Ct, Louisville, KY:
+  lat: 38.0890231
+  lng: -85.6529917
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
   lng: -85.5550366
@@ -3315,6 +3319,7 @@
 1100 South 43rd Street, Louisville, KY:
   lat: 38.2425962
   lng: -85.8254794
+1100 South 4th Street across W Oak St and Webster St, Louisville, KY: null
 ? 1100 South 4th Street found the premises closed with no lights on. Police units
   were involved in the investigation, including those assigned to the 400 block of
   David., Louisville, KY
@@ -10893,6 +10898,7 @@
 2000 Caldwell St, Louisville, KY:
   lat: 38.2389138
   lng: -85.7449988
+2000 Canterworth Place near Harmon Ct and Bardstown Rd, Louisville, KY: null
 2000 Carrol Lane. Officers responded, Louisville, KY: null
 2000 Chadwick Glen Pl, Louisville, KY: null
 2000 Chattanooga Ave. Police units responded, Louisville, KY:
@@ -15990,6 +15996,7 @@
 3100 Lakeheath Dr, Louisville, KY:
   lat: 38.1712758
   lng: -85.7025823
+3100 Marlin Rd, Louisville, KY: null
 3100 Maywood Pl, Louisville, KY:
   lat: 38.219384
   lng: -85.640857
@@ -29850,6 +29857,9 @@
   lng: -85.740319
 800 Salt Lick Ln, Louisville, KY: null
 800 Sandal, Middletown area, Louisville, KY: null
+800 Santa Fe Trail, Louisville, KY:
+  lat: 38.1670069
+  lng: -85.876604
 800 Scholar, Louisville, KY:
   lat: 38.2408645
   lng: -85.7548989
