@@ -4823,6 +4823,9 @@
 12900 Willow Forest Dr, Louisville, KY:
   lat: 38.302114
   lng: -85.514676
+13 Gaywood Dr, Louisville, KY:
+  lat: 38.1038739
+  lng: -85.8336536
 13 Oakwood Ave, Louisville, KY:
   lat: 38.1772911
   lng: -85.7802634
@@ -8034,6 +8037,9 @@
   alarm indicated a potential hazard within the residence, prompting a response, Louisville,
   KY
 : null
+1800 Algonquin Pky, Louisville, KY:
+  lat: 38.2228959
+  lng: -85.7928989
 1800 Arlington Ave, Louisville, KY:
   lat: 38.255242
   lng: -85.71663
@@ -13593,6 +13599,9 @@
 2600 South22nd, Louisville, KY:
   lat: 38.2539856
   lng: -85.7873639
+2600 Stone Alley, Louisville, KY:
+  lat: 38.254584
+  lng: -85.794486
 2600 Titleist Rd near Blossom Ln, Louisville, KY:
   lat: 38.288499
   lng: -85.5784941
@@ -28410,6 +28419,9 @@
 7100 Cedar Brook Dr, Louisville, KY:
   lat: 38.1334661
   lng: -85.6665574
+7100 Cedar Springs Blvd near Walmart, Louisville, KY:
+  lat: 38.1436823
+  lng: -85.5849157
 7100 Cedar Springs Blvd, Louisville, KY:
   lat: 38.1436823
   lng: -85.5849157
@@ -28877,6 +28889,7 @@
 7400 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
+7400 Gatwa Way, Louisville, KY: null
 7400 Greenwood Rd, Louisville, KY:
   lat: 38.1469176
   lng: -85.8879496
