@@ -13612,6 +13612,10 @@
 2600 Virginia Ave, Louisville, KY:
   lat: 38.2374918
   lng: -85.7968374
+? 2600 W Jefferson St and South 28th Street, involving fire and rescue units. The
+  incident remains under investigation as authorities continue to search, Louisville,
+  KY
+: null
 2600 W Jefferson St, Louisville, KY:
   lat: 38.257869
   lng: -85.794115
@@ -25664,6 +25668,7 @@
 600 Taylor Blvd, Louisville, KY:
   lat: 38.2084711
   lng: -85.7734951
+600 Terminal Dr, Little International Airport, Louisville, KY: null
 600 Tessin Way, Louisville, KY:
   lat: 38.251484
   lng: -85.5574282
@@ -29946,6 +29951,9 @@
 800 South 42nd Street. Neighbors had indicated that trash may have been burning in a backyard., Louisville, KY:
   lat: 38.2483151
   lng: -85.8224985
+800 South 4th Street at the tower apartments, Louisville, KY:
+  lat: 38.2440401
+  lng: -85.7592478
 800 South 4th Street, Louisville, KY:
   lat: 38.2440401
   lng: -85.7592478
