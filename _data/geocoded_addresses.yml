@@ -494,6 +494,7 @@
 ? 100 Fairfax. Responding units determined that employees had accidentally triggered
   the alarm, and all units were cleared from the scene., Louisville, KY
 : null
+100 Fairmeade Rd near Winchester Rd and Hemingway Rd, Louisville, KY: null
 100 Fatima Ln near Walmart, Louisville, KY:
   lat: 38.3001886
   lng: -85.5457019
@@ -21515,6 +21516,9 @@
 4416 Cloverleaf Drive, Louisville, KY:
   lat: 38.1777939
   lng: -85.806417
+45 Chevy Chase Rd, Louisville, KY:
+  lat: 38.1988695
+  lng: -85.6531399
 45 Heywood Ave, Louisville, KY:
   lat: 38.2065953
   lng: -85.7669965
@@ -29352,6 +29356,9 @@
   lat: 38.1574351
   lng: -85.8105138
 7600 St, Louisville, KY: null
+7600 Tear Grass Ct near Greenwood Place Cir, Louisville, KY:
+  lat: 38.1447513
+  lng: -85.8561608
 7600 Texlyn Ct near Green Creek Pl and Greenwood Rd, Louisville, KY: null
 7600 Thursday Road near College Ct and Twinloaves Lane, Louisville, KY: null
 7600 Tommie Ct, Louisville, KY:
@@ -33879,6 +33886,7 @@ Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Wimbrough Drive and Colorado Ave, Louisville, KY: null
 Winchester Rd and Delray Rd, Louisville, KY: null
+Winchester Rd and Hemingway Rd, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Winstead Dr and Global Dr, Louisville, KY: null
 Winter Park Dr and Herbert Ln, Louisville, KY: null
