@@ -7564,6 +7564,9 @@
 1700 E Main St, Louisville, KY:
   lat: 38.2534469
   lng: -85.7267533
+1700 E W Chestnut St, Louisville, KY:
+  lat: 38.2489207
+  lng: -85.7576467
 1700 Eastern Parkway, Louisville, KY:
   lat: 38.2300597
   lng: -85.7122977
@@ -15422,6 +15425,9 @@
   Louisville, KY
 : null
 300 West Hameli Boulevard, Louisville, KY: null
+300 West Main, Louisville, KY:
+  lat: 38.2562065
+  lng: -85.755089
 300 West Orange near Red House, Louisville, KY:
   lat: 38.1609795
   lng: -85.7161939
@@ -26293,6 +26299,9 @@
   KY
 : lat: 38.112058
   lng: -85.8438187
+6200 Walker Rd, Louisville, KY:
+  lat: 38.1316635
+  lng: -85.8564041
 6200 Walnut Ridge, Louisville, KY: null
 ? 6200 Walnut Ridge. They were on the scene and available to assist. The incident
   was resolved and EMS was back in service shortly after their arrival., Louisville,
