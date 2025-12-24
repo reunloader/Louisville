@@ -27,6 +27,7 @@
 0 Lavenia**, Louisville, KY:
   lat: 38.0796477
   lng: -85.873127
+0 Margo Ave, cross street of Margo Ct and Stewart Ave, Louisville, KY: null
 0 St, Louisville, KY: null
 0 Tway Way, Louisville, KY:
   lat: 38.2067552
@@ -10804,6 +10805,7 @@
 200 northbound at the 30-mile marker, Louisville, KY: null
 200 northbound, Louisville, KY: null
 200 off ramp, Louisville, KY: null
+200 or217, Louisville, KY: null
 200 overpass, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
@@ -13453,6 +13455,9 @@
 2600 Bradford Commons Dr, Louisville, KY:
   lat: 38.2019277
   lng: -85.5299878
+2600 Broadway, Louisville, KY:
+  lat: 38.2489909
+  lng: -85.7951833
 2600 Cleveland Blvd, Louisville, KY:
   lat: 38.260725
   lng: -85.702196
@@ -19413,6 +19418,7 @@
   KY
 : null
 400 River Hill Rd, Louisville, KY: null
+400 Road and Douglass Blvd, Louisville, KY: null
 400 Roberts Ave, Louisville, KY:
   lat: 38.157521
   lng: -85.764105
@@ -22227,6 +22233,7 @@
 4700 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+4700 South3rd Street, in front of Circle K, Louisville, KY: null
 4700 South3rd near Circle K, Louisville, KY:
   lat: 38.1810652
   lng: -85.766787
@@ -25408,6 +25415,9 @@
 600 Lewis-Coleman Junior Drive, Louisville, KY: null
 600 Lindale, Louisville, KY: null
 600 Lindell Ave, Louisville, KY:
+  lat: 38.253536
+  lng: -85.812348
+600 Lindell, Louisville, KY:
   lat: 38.253536
   lng: -85.812348
 600 Locust Ln, Louisville, KY:
@@ -32886,6 +32896,7 @@ Bardstown Rd and Grimstad Road, Louisville, KY: null
 Bardstown Rd and Kentucky Ave, Louisville, KY: null
 Bardstown Rd and Lakeside Dr, Louisville, KY: null
 Bardstown Rd and Lancashire Ave, Louisville, KY: null
+Bardstown Rd and Longest Ave, Louisville, KY: null
 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 Bardstown Rd and Old Bardstown Rd, Louisville, KY: null
 Bardstown Rd and Paris Dr, Louisville, KY: null
@@ -33163,6 +33174,7 @@ Edward St and Barret Ave, Louisville, KY: null
 Egypt Ln and Meridian Ave, Louisville, KY: null
 El Pareto Street and Granada Dr, Louisville, KY: null
 Elda Dr and Terry Rd, Louisville, KY: null
+Eline Ave and Savage Dr, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
 Emerson Ave and Phillips Ln, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
@@ -33587,6 +33599,7 @@ Scottsdale Blvd and New Cut Rd, Louisville, KY:
   lat: 38.1392585
   lng: -85.7740084
 Scrim Ave and Libby Ln, Louisville, KY: null
+Seal Rock Avenue and Stanley Ave, Louisville, KY: null
 Sealbock Avenue and Peachtree Ave, Louisville, KY: null
 Sears Ave and Oshley Avenue, Louisville, KY: null
 Sebree Ln and Raceland Park Ave, Louisville, KY: null
