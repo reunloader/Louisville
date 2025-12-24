@@ -6680,6 +6680,9 @@
 1500 Oleanda Ave, Louisville, KY:
   lat: 38.2053428
   lng: -85.7867437
+1500 Oleanda Ct, Louisville, KY:
+  lat: 38.2064259
+  lng: -85.7867419
 1500 Olenda Ave, Louisville, KY: null
 1500 Olive St near 17th and 15th Streets, Louisville, KY:
   lat: 38.2302892
@@ -7989,6 +7992,9 @@
 ? 1700 West W Oak St. The nature of the incident and any resulting injuries or vehicle
   damage were not specified., Louisville, KY
 : null
+1700 Westbury Dr, Louisville, KY:
+  lat: 38.2637815
+  lng: -85.4475338
 1700 Westhill Cir, Louisville, KY: null
 1700 Wibble Hill Rd, Louisville, KY:
   lat: 38.2166528
@@ -20593,6 +20599,7 @@
 4200 Allmond Ave, Louisville, KY:
   lat: 38.193913
   lng: -85.759019
+4200 Ashley Woodcourt, Louisville, KY: null
 4200 Bank St, Louisville, KY:
   lat: 38.2714502
   lng: -85.8151271
@@ -26883,6 +26890,7 @@
 6600 Jixie Highway. Responders encountered a female individual who appeared, Louisville, KY: null
 6600 Later Here Peter traffic, 1300 block of Arcade Ave, and 10000 block of Ballard'sville Rd, Louisville, KY: null
 6600 Later Here Peter traffic, Louisville, KY: null
+6600 Laundrie, Louisville, KY: null
 6600 Lewis Coleman Jr, Louisville, KY: null
 6600 Lower Hunters Way, Louisville, KY: null
 6600 Lunar Dr and 7400 block of Steeplecrest Cir, Louisville, KY: null
@@ -27887,6 +27895,9 @@
 700 M Street, Louisville, KY:
   lat: 38.209013
   lng: -85.770131
+700 Magazine St near the Federal Building, Louisville, KY:
+  lat: 38.248125
+  lng: -85.763242
 700 Magazine St, Louisville, KY:
   lat: 38.248125
   lng: -85.763242
@@ -33406,6 +33417,7 @@ Locust Ave and Canterbury Dr, Louisville, KY: null
 Locust St and Wilkin Street, Louisville, KY: null
 Locust St and Wilson Street, Louisville, KY: null
 Logan St and Lansing Street, Louisville, KY: null
+Logan St and Mary St, Louisville, KY: null
 Lonesome Hollow Rd and Carter Ln, Louisville, KY: null
 Longfield Ave and Bellevue Ave, Louisville, KY: null
 Longford Ln and Taylor Springs Dr, Louisville, KY: null
