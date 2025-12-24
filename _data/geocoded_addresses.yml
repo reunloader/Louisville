@@ -940,6 +940,7 @@
 100 Radio, Louisville, KY: null
 100 Reckon Ridge Square, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
+100 River Rd (Joe's Craft Shack), Louisville, KY: null
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Louisville, KY:
   lat: 38.2750509
@@ -11188,6 +11189,7 @@
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
+2000 South2nd Street and Guthrie St, Louisville, KY: null
 2000 St Rene Rd, Louisville, KY: null
 2000 St Xavier St, Louisville, KY:
   lat: 38.264752
@@ -15529,6 +15531,9 @@
 3000 Dell Brooke Ave, Louisville, KY:
   lat: 38.2083926
   lng: -85.6495969
+3000 Devers Ave, Louisville, KY:
+  lat: 38.1700944
+  lng: -85.7738553
 3000 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -22473,6 +22478,9 @@
   lat: 38.178
   lng: -85.86195
 4900 Unseld Blvd, Louisville, KY: null
+4900 Valley Station Rd, Louisville, KY:
+  lat: 38.105853
+  lng: -85.851149
 4900 Waterbrook Ct, Louisville, KY:
   lat: 38.1051393
   lng: -85.6121628
@@ -23984,6 +23992,9 @@
 5300 Matterhorn Dr, near Mount Howard Ct,, Louisville, KY:
   lat: 38.1687491
   lng: -85.853042
+5300 Millwood Ct, Louisville, KY:
+  lat: 38.1682321
+  lng: -85.5763589
 5300 Milner Rd, Louisville, KY:
   lat: 38.1619458
   lng: -85.8354956
@@ -28971,6 +28982,9 @@
   lat: 38.1423321
   lng: -85.7712032
 7500 Dudley Garden Way, Louisville, KY: null
+7500 Dunwoody Ct, Louisville, KY:
+  lat: 38.143377
+  lng: -85.6875416
 7500 Frank8 Drive, Louisville, KY: null
 7500 Frontgate Dr, Louisville, KY: null
 7500 Garrison Rd and Lee Ave, Louisville, KY: null
@@ -29125,6 +29139,9 @@
 7600 Preston Hwy, Louisville, KY:
   lat: 38.1413049
   lng: -85.6888429
+7600 Rose Island Rd near Gingerwood Event Hall, Louisville, KY:
+  lat: 38.358513
+  lng: -85.6130547
 7600 South Hancock, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
