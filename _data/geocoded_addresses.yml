@@ -1420,6 +1420,7 @@
 : null
 100 mile marker, Louisville, KY: null
 100 north height avenue, Louisville, KY: null
+100 on65 North, Louisville, KY: null
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
 100 the 2000 block of Toyota Corolla, Louisville, KY: null
@@ -8681,6 +8682,9 @@
 1900 Greyling Dr, Louisville, KY:
   lat: 38.1150809
   lng: -85.8007614
+1900 Griffiths Ave, Louisville, KY:
+  lat: 38.263262
+  lng: -85.780816
 1900 Heather Ln, Louisville, KY:
   lat: 38.2076133
   lng: -85.6642191
@@ -16017,6 +16021,9 @@
   lng: -85.7515509
 3100 Fay Woodway, Louisville, KY: null
 3100 Faye Woodway, Louisville, KY: null
+3100 Fern Valley Rd, Louisville, KY:
+  lat: 38.156921
+  lng: -85.7079
 3100 Fey Woodway, Louisville, KY: null
 3100 Fordhaven Rd, Louisville, KY:
   lat: 38.1484871
