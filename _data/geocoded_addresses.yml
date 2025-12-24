@@ -10029,6 +10029,9 @@
   lng: -85.8241817
 200 Pennsylvania Ave in connection with the call, Louisville, KY: null
 200 Pennsylvania Ave in connection with the call., Louisville, KY: null
+200 Pennsylvania, Louisville, KY:
+  lat: 38.2585087
+  lng: -85.6836136
 200 Petersburg Rd, Louisville, KY:
   lat: 38.184782
   lng: -85.6668505
@@ -16971,6 +16974,7 @@
 3400 Bardstown Rd, Louisville, KY:
   lat: 38.2057801
   lng: -85.6672717
+3400 Barge, Louisville, KY: null
 3400 Barton Road 9:37 a, Louisville, KY: null
 3400 Barton Road 9:37 a.m.AM, Louisville, KY: null
 ? 3400 Barton Road to assist a 40-year-old female experiencing a possible fainting
@@ -17463,6 +17467,9 @@
   lat: 38.2968249
   lng: -85.5616267
 3500 Taylor Blvd, Louisville, KY:
+  lat: 38.1961144
+  lng: -85.7833672
+3500 Taylor, Louisville, KY:
   lat: 38.1961144
   lng: -85.7833672
 3500 Templewood Dr, cross Robin Hood and Hillwood Dr, Louisville, KY: null
@@ -21184,6 +21191,7 @@
   lat: 38.3010535
   lng: -85.556485
 4300 Trio Way, Louisville, KY: null
+4300 Varsha, Louisville, KY: null
 4300 Vermont Ave, Louisville, KY:
   lat: 38.2570079
   lng: -85.8223832
