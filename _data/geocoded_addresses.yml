@@ -7445,6 +7445,9 @@
 1600 W Kentucky St, Louisville, KY:
   lat: 38.2414959
   lng: -85.7803273
+1600 W Kentucky St. When units arrived, the suspect was no longer on scene. EMS was requested, Louisville, KY:
+  lat: 38.2414959
+  lng: -85.7803273
 1600 W Madison St, Louisville, KY:
   lat: 38.2520441
   lng: -85.7777668
@@ -15228,6 +15231,9 @@
 300 Kenilworth Rd. They were tasked with providing medical assistance, Louisville, KY:
   lat: 38.259748
   lng: -85.709145
+300 Kilmory Ave, Louisville, KY:
+  lat: 38.1595977
+  lng: -85.7604292
 300 Left, Louisville, KY: null
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
@@ -24283,6 +24289,9 @@
 5300 Clearwater Farm, Louisville, KY:
   lat: 38.155325
   lng: -85.663816
+5300 Clearwater, Louisville, KY:
+  lat: 38.155325
+  lng: -85.663816
 5300 Crescent Highway, Louisville, KY: null
 5300 Devers Ave, Louisville, KY:
   lat: 38.171182
@@ -31050,6 +31059,7 @@
 8400 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
+8400 Woodside Pl. Responding units arrived, Louisville, KY: null
 85 Ambrosse Ln, Louisville, KY:
   lat: 38.1957296
   lng: -85.6033485
@@ -33901,6 +33911,7 @@ Shanna Drive and Ethelwood Drive, Louisville, KY: null
 Sharp Ave and Lindbergh Dr, Louisville, KY: null
 Sharp Ave and Mark Dr, Louisville, KY: null
 Sheffieldville Road and Mouser Ave, Louisville, KY: null
+Shelby Rd and Stonehenge Dr, Louisville, KY: null
 Shelby St and East Rectum Road, Louisville, KY: null
 Shelby St and Eastern Parkway, Louisville, KY: null
 Shelby St and Goss Ave, Louisville, KY: null
@@ -33931,6 +33942,7 @@ Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shepherdsville Rd and Ferndale Rd, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
 Silver Springs Dr and Raintree Dr, Louisville, KY: null
+Six Mile Ln and Conn Lake Drive, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
 Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 Slack Ave and Peachtree Ave, Louisville, KY: null
