@@ -951,6 +951,9 @@
 100 Reckon Ridge Square, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 River Rd (Joe's Craft Shack), Louisville, KY: null
+100 River Rd at Joe's Crab Shack cross street of W River Rd, Louisville, KY:
+  lat: 38.2750509
+  lng: -85.7028488
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Louisville, KY:
@@ -7186,6 +7189,9 @@
   immediately clear from the initial report. Police units were dispatched, Louisville,
   KY
 : null
+1600 Greyling Dr, Louisville, KY:
+  lat: 38.119064
+  lng: -85.795396
 1600 Harold Ave, Louisville, KY:
   lat: 38.21787
   lng: -85.78834
@@ -10692,6 +10698,9 @@
   lat: 38.230404
   lng: -85.8132568
 200 [Street Name Unclear], Louisville, KY:
+  lat: 38.2505653
+  lng: -85.722615
+200 [location unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
 200 [location], Louisville, KY:
@@ -17110,6 +17119,9 @@
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
+3400 Taylor Blvd at Marathon, Louisville, KY:
+  lat: 38.1995175
+  lng: -85.7829642
 3400 Taylor Blvd near Sale Ave and Longfield Ave, Louisville, KY:
   lat: 38.1995175
   lng: -85.7829642
@@ -26567,6 +26579,9 @@
 6400 Clover Trace, Louisville, KY:
   lat: 38.1768041
   lng: -85.7991196
+6400 Cottagemeadow Dr, Louisville, KY:
+  lat: 38.1780923
+  lng: -85.6469191
 6400 Crusher Percelle Road, Louisville, KY: null
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
