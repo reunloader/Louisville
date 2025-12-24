@@ -8628,6 +8628,9 @@
 1800 West Jefferson, Louisville, KY:
   lat: 38.2561291
   lng: -85.780408
+1800 West Valley, Louisville, KY:
+  lat: 38.1533993
+  lng: -85.6971709
 ? 1800 West Valley. The alarm was specifically noted as coming from a metal utility
   room. Police units were dispatched, Louisville, KY
 : lat: 38.1533993
@@ -15461,6 +15464,9 @@
 300 South 20th Street, Louisville, KY:
   lat: 38.256743
   lng: -85.784366
+300 South 39th Street near Clarkwood and Herman, Louisville, KY:
+  lat: 38.2596432
+  lng: -85.8148894
 300 South 4th Street, Louisville, KY:
   lat: 38.2536681
   lng: -85.7572606
@@ -23442,6 +23448,9 @@
   lat: 38.2509279
   lng: -85.7578311
 500 South 4th Street near Floyd and Broadway, Louisville, KY: null
+500 South 4th Street near the embassy suite, Louisville, KY:
+  lat: 38.2509279
+  lng: -85.7578311
 500 South 4th Street, Guthrie Coke building, Louisville, KY: null
 500 South 4th Street, Louisville, KY:
   lat: 38.2509279
@@ -30741,6 +30750,7 @@
 8100 Dixie Hwy. Units were dispatched, Louisville, KY:
   lat: 38.134534
   lng: -85.845217
+8100 Hereford Ct and 13th, Louisville, KY: null
 8100 Horizon Ln, Louisville, KY:
   lat: 38.1326492
   lng: -85.6931528
