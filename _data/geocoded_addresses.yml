@@ -3272,6 +3272,7 @@
 : lat: 38.0762726
   lng: -85.8819062
 1100 Parktown Rd, Louisville, KY: null
+1100 Pierceway, Louisville, KY: null
 1100 Poplar Level Plaza, Louisville, KY:
   lat: 38.219525
   lng: -85.728402
@@ -4143,6 +4144,9 @@
 1200 Gardiner Ln, near Bunton Rd and Watterson Park Rd, Louisville, KY:
   lat: 38.2033739
   lng: -85.6892064
+1200 Garland Ave, Louisville, KY:
+  lat: 38.242091
+  lng: -85.772738
 1200 Georgetown Road near McDonald's, Crop St of Longast and Beechwood, Louisville, KY:
   lat: 38.267342
   lng: -85.783509
@@ -24323,6 +24327,9 @@
   lat: 38.1712212
   lng: -85.7686312
 5300 South Papa Street, Louisville, KY: null
+5300 South3rd Street, Louisville, KY:
+  lat: 38.1712212
+  lng: -85.7686312
 5300 Southdale Rd, Louisville, KY:
   lat: 38.151808
   lng: -85.778781
@@ -25275,7 +25282,11 @@
 600 Cecil Ave. Police units responded quickly, Louisville, KY:
   lat: 38.255787
   lng: -85.820547
+600 Cecil and 800 block of South23rd Street, Louisville, KY: null
 600 Cecil near South 41st Street, Louisville, KY:
+  lat: 38.255787
+  lng: -85.820547
+600 Cecil, Louisville, KY:
   lat: 38.255787
   lng: -85.820547
 600 Cedar Creek Rd, Louisville, KY:
@@ -26577,6 +26588,9 @@
 6300 Peppermint St, Louisville, KY:
   lat: 38.3329448
   lng: -85.5644778
+6300 Preston Hwy near 500 block, Louisville, KY:
+  lat: 38.1601869
+  lng: -85.6993667
 6300 Preston Hwy, Louisville, KY:
   lat: 38.1601869
   lng: -85.6993667
@@ -26955,6 +26969,7 @@
   lng: -85.8366977
 6600 Estele Ave, Louisville, KY: null
 6600 Estele Ave. Attempts, Louisville, KY: null
+6600 Evangelin, Louisville, KY: null
 6600 Evangeline Ave, Louisville, KY:
   lat: 38.1617279
   lng: -85.7615233
@@ -28474,6 +28489,7 @@
 700 Zorn Ave, Louisville, KY:
   lat: 38.2667863
   lng: -85.6914418
+700 back room, Louisville, KY: null
 ? 700 block of Ben Franklin Ct. The subjects were seen trying to access the vehicle
   and subsequently fled on foot when approached by police. - **Disturbance/Fight (around
   1:19 a.m. a.m. a.m.):** One subject was reported fighting inside a residence at
@@ -30246,6 +30262,12 @@
   lat: 38.24185
   lng: -85.746268
 800 South Second Street, Louisville, KY: null
+800 South23rd Street, Louisville, KY:
+  lat: 38.246744
+  lng: -85.790185
+800 South23rd Street. No injuries were reported, and officers are working, Louisville, KY:
+  lat: 38.246744
+  lng: -85.790185
 800 South32nd Street, Louisville, KY:
   lat: 38.2476663
   lng: -85.8059077
