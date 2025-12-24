@@ -5631,6 +5631,9 @@
 14 Garrison Rd, Louisville, KY:
   lat: 38.1375649
   lng: -85.7572713
+14 Lafayette Dr, Louisville, KY:
+  lat: 38.1940389
+  lng: -85.7941733
 14 Laura Ave, Louisville, KY: null
 14 Old North Church Rd, Louisville, KY:
   lat: 38.1427386
@@ -9385,6 +9388,9 @@
   Law enforcement initiated the stop, Louisville, KY
 : lat: 38.2519478
   lng: -85.7504208
+200 East at Bardstown Rd, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Breckenridge Ln, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -16304,6 +16310,7 @@
   KY
 : null
 32 Mall Road in response, Louisville, KY: null
+32 Siwa Helen Drive, Louisville, KY: null
 32 Varks Road, Louisville, KY: null
 3200 300 block of, Louisville, KY: null
 ? 3200 7th Street Road. Responding units were dispatched to investigate the cause
@@ -30765,6 +30772,7 @@
 8500 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+8500 Charing Cross Rd, Louisville, KY: null
 8500 Coco Ct, Louisville, KY:
   lat: 38.1269748
   lng: -85.6933449
