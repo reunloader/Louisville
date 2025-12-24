@@ -23382,6 +23382,9 @@
 : lat: 38.2570952
   lng: -85.7609073
 5000 Marge Town Road, Louisville, KY: null
+5000 Markwell Ct, Louisville, KY:
+  lat: 38.1395916
+  lng: -85.6908695
 5000 Mount Holyoke Dr, Louisville, KY:
   lat: 38.1704809
   lng: -85.8503505
@@ -23476,6 +23479,7 @@
 5000 South 4th Street, Louisville, KY:
   lat: 38.1747426
   lng: -85.7691808
+5000 South third, Louisville, KY: null
 5000 South3rd Street, Louisville, KY:
   lat: 38.174602
   lng: -85.767556
