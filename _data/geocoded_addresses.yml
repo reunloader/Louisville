@@ -3798,6 +3798,9 @@
   lat: 38.3025646
   lng: -85.5161777
 11500 Maple Grove, Louisville, KY: null
+11500 Pierce Way, Louisville, KY:
+  lat: 38.0889464
+  lng: -85.869803
 11500 Reality Trail near United Blvd, Louisville, KY:
   lat: 38.1949363
   lng: -85.7825407
@@ -4128,6 +4131,9 @@
 1200 Fisk St, near a black Nissan Altima. Units were dispatched, Louisville, KY:
   lat: 38.2530864
   lng: -85.7689686
+1200 Gagel Ave near Family Dollar, Louisville, KY:
+  lat: 38.1729158
+  lng: -85.8107396
 1200 Garden Creek Cir, Louisville, KY:
   lat: 38.261867
   lng: -85.558696
@@ -11961,6 +11967,7 @@
 2200 East Broadway, Louisville, KY:
   lat: 38.2446794
   lng: -85.7394849
+2200 Eastland Channel, Louisville, KY: null
 ? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
   on the extent of the fire and the response are not immediately available., Louisville,
   KY
@@ -17250,6 +17257,7 @@
 3500 Bardstown Rd, Louisville, KY:
   lat: 38.20391
   lng: -85.6657011
+3500 Birchmore Pl, Crop St of Clintwood Circle, Louisville, KY: null
 3500 Blanton Ln at the First Church, Louisville, KY:
   lat: 38.1544288
   lng: -85.8237019
@@ -20186,6 +20194,9 @@
 4000 Shelbyville Rd, Louisville, KY:
   lat: 38.2524981
   lng: -85.6528922
+4000 Solid Lane at Caven Ave, Louisville, KY:
+  lat: 38.104178
+  lng: -85.6893341
 4000 South 2nd Street, Louisville, KY:
   lat: 38.1980276
   lng: -85.7636885
@@ -22814,6 +22825,7 @@
 500 Baker. Further details, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+500 Baker; 400 block of Adam; 10-2100 block of MVP, Louisville, KY: null
 500 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -25903,6 +25915,9 @@
   lat: 38.251484
   lng: -85.5574282
 600 Timberwood Cir, Title Agency Support, Louisville, KY: null
+600 Valley College Dr at Ponder Creek Estates, Louisville, KY:
+  lat: 38.119945
+  lng: -85.842729
 600 Valley College Dr near Sun Street Road, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
