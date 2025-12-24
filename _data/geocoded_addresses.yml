@@ -1713,6 +1713,9 @@
 1000 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+1000 E W Oak St, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 1000 East Broadway, Louisville, KY:
   lat: 38.2440573
   lng: -85.7351137
@@ -6173,6 +6176,7 @@
 1400 St. James Rae Pl. Police units were dispatched to assess the situation., Louisville, KY: null
 1400 St. James Rae Pl. Police units were dispatched, Louisville, KY: null
 1400 St. St James Ct., Louisville, KY: null
+1400 Street cross at Reutlinger Ave and Swan St and Kaiju, Louisville, KY: null
 1400 Texas Ave, Louisville, KY:
   lat: 38.223318
   lng: -85.736068
@@ -33414,6 +33418,7 @@ Regal Dr and Riata Dr, Louisville, KY: null
 Regal Rd and Grand Lakes Dr, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
+Reutlinger Ave and Swan St, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Blue Lick Rd, Louisville, KY: null
 Ripple Creek Dr and Cynthia Dr, Louisville, KY: null
