@@ -152,6 +152,7 @@
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
+100 Adam and 100 block of Baker, Louisville, KY: null
 100 Adam and 200 block of Baker, Louisville, KY: null
 100 Adam and Charlie, Louisville, KY: null
 100 Adam near South Clay and South Hancock, Louisville, KY:
@@ -5046,6 +5047,7 @@
 1300 Highway, Louisville, KY:
   lat: 38.235232
   lng: -85.787774
+1300 Home View, Louisville, KY: null
 ? 1300 Homeview Dr due to a reported gas leak. Upon arrival, a strong odor was detected
   both inside and outside the residence, though it was not definitively identified
   as natural gas. The situation was deemed manageable by the responding units, and
@@ -15480,6 +15482,7 @@
 : null
 300 and129, Louisville, KY: null
 '300 block of Civic Way)** (around 11:16 a.m. a.m. a.m.): A 65-year-old female was reported, Louisville, KY': null
+300 built-in road, Louisville, KY: null
 300 bullet line, Louisville, KY: null
 ? 300 north 35th Street, near Alfred and Duncan, to assist a 28-year-old female experiencing
   multiple seizures. The individual has a known history of epilepsy., Louisville,
@@ -25266,6 +25269,9 @@
   lat: 38.2458817
   lng: -85.4454988
 600 Gaines Avenue, Louisville, KY: null
+600 Garda Dr, Louisville, KY:
+  lat: 38.1723312
+  lng: -85.6752856
 600 Gilman Ave, Louisville, KY: null
 600 Glengarry Dr, Louisville, KY:
   lat: 38.1227346
