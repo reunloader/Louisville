@@ -25784,6 +25784,10 @@
 600 South10th Street, Louisville, KY:
   lat: 38.24992
   lng: -85.767932
+600 South18th Street alley, Louisville, KY: null
+600 South18th Street, Louisville, KY:
+  lat: 38.2513953
+  lng: -85.7812397
 600 South26th St, Louisville, KY:
   lat: 38.252882
   lng: -85.794613
@@ -33241,6 +33245,7 @@ El Pareto Street and Granada Dr, Louisville, KY: null
 Elda Dr and Terry Rd, Louisville, KY: null
 Eline Ave and Savage Dr, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
+Elmwood Ave and Cherrywood Rd, Louisville, KY: null
 Emerson Ave and Phillips Ln, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
@@ -33408,6 +33413,7 @@ Ladd Ave and Laurel St, Louisville, KY: null
 Lake Ave and Osborne Dr, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Lampton St and Roselane St, Louisville, KY: null
+Landis Villa Dr and English Villa Dr, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
 Langdon Dr and Ellsbury Road, Louisville, KY: null
 Larchmont Ave and Central Ave, Louisville, KY: null
