@@ -365,6 +365,9 @@
 100 E Main St, Louisville, KY:
   lat: 38.2577199
   lng: -85.7580289
+100 E Main St. The train was stopped near the flames, which had split, Louisville, KY:
+  lat: 38.2577199
+  lng: -85.7580289
 100 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
@@ -4003,6 +4006,12 @@
 1200 Dresden near Airport High School, Louisville, KY:
   lat: 38.1968179
   lng: -85.7810437
+1200 E Main St, Louisville, KY:
+  lat: 38.2529572
+  lng: -85.7261297
+1200 E Main St, near the tracks. The fire was initially thought, Louisville, KY:
+  lat: 38.2529572
+  lng: -85.7261297
 1200 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -11625,6 +11634,9 @@
   lng: -85.786227
 2100 St. Louise Ave. Child services were notified., Louisville, KY: null
 2100 St. St Xavier St, Louisville, KY: null
+2100 Sycamore Ave near N S Clifton Ave and Vernon Ave, Louisville, KY:
+  lat: 38.255889
+  lng: -85.707374
 2100 Ticklemore Avenue, Ticklemore Heights Nursing Home, Louisville, KY: null
 2100 Trevilian Way, Louisville, KY:
   lat: 38.2216736
@@ -25562,6 +25574,9 @@
 600 South26th St, Louisville, KY:
   lat: 38.252882
   lng: -85.794613
+600 South26th Street near Magazine St and Plymouth Ct, Louisville, KY:
+  lat: 38.252882
+  lng: -85.794613
 600 South26th Street, Louisville, KY:
   lat: 38.252882
   lng: -85.794613
@@ -30058,6 +30073,9 @@
   lat: 38.210811
   lng: -85.770778
 800 Woodstock Rd, Louisville, KY: null
+800 Zorn Ave near Mellwood Ave and Riverwood Dr, Louisville, KY:
+  lat: 38.2708365
+  lng: -85.6975316
 ? 800 a building. A work van was discovered with its door left open. Responding units
   investigated the situation, Louisville, KY
 : lat: 38.2494194
@@ -32867,6 +32885,9 @@ Cleveland Blvd and North Hyde Avenue, Louisville, KY: null
 Cliff Ave and Bellevue Ave, Louisville, KY: null
 Cliff Ave and Denmark St, Louisville, KY: null
 Clifton Ave and South Bel Air Avenue, Louisville, KY: null
+Clifton Ave and Vernon Ave, Louisville, KY:
+  lat: 38.2552281
+  lng: -85.7073697
 Closet Slide Drive and Benbow Dr, Louisville, KY: null
 Cofer Ave and Margo Ave, Louisville, KY: null
 Cole Ave and Beaver St, Louisville, KY: null
@@ -33141,6 +33162,7 @@ Lexington Rd and Baxter Ave, Louisville, KY: null
 Lexington Rd and Frankfort Ave, Louisville, KY: null
 Lexington Rd and Grand St, Louisville, KY: null
 Lexington Rd and Payne St, Louisville, KY: null
+Liberty St and Baxter Ave, Louisville, KY: null
 Liberty St and Jeff Commerce Dr, Louisville, KY: null
 Liberty St and Marshall St, Louisville, KY: null
 Liggy Lane and Scrim Ave, Louisville, KY: null
@@ -33200,6 +33222,7 @@ Mellwood Ave and Frankfort Ave, Louisville, KY:
   lng: -85.7191192
 Mellwood Ave and Highwood Dr, Louisville, KY: null
 Mellwood Ave and Lake Ave, Louisville, KY: null
+Mellwood Ave and Riverwood Dr, Louisville, KY: null
 Melvin Dr and Dover Rd, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
