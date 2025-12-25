@@ -10934,6 +10934,7 @@
 200 eastbound at mile marker 11, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+200 eastbound at mile18, Louisville, KY: null
 200 eastbound at the 19, Louisville, KY: null
 200 eastbound near the 15-mile marker, Louisville, KY: null
 200 eastbound near the 21, Louisville, KY: null
@@ -11041,6 +11042,7 @@
 200 westbound at exit 8A, Louisville, KY: null
 200 westbound bridge, Louisville, KY: null
 200 westbound from the fairgrounds, Louisville, KY: null
+200 westbound just east of Breck, Louisville, KY: null
 200 westbound, Louisville, KY: null
 200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
 200 with Texas tag, Louisville, KY: null
@@ -27071,6 +27073,7 @@
 6400 Southside Dr, Louisville, KY:
   lat: 38.164146
   lng: -85.7651135
+6400 Tradesmill Dr, Louisville, KY: null
 6400 Westwind Way, Louisville, KY: null
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
@@ -32397,6 +32400,9 @@
 9000 Beulah Church, Louisville, KY:
   lat: 38.147254
   lng: -85.595159
+9000 Brandywyne Dr, Louisville, KY:
+  lat: 38.1636882
+  lng: -85.5912962
 9000 Dixie Hwy at Baggy City Furniture, Louisville, KY:
   lat: 38.1250336
   lng: -85.852618
