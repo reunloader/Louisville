@@ -1097,6 +1097,9 @@
 100 South 42nd Street. The situation involved an 88-year-old female who was found, Louisville, KY:
   lat: 38.2649095
   lng: -85.8179133
+100 South 43rd Street near West Market, Louisville, KY:
+  lat: 38.2651697
+  lng: -85.8189753
 100 South 4th Street, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
@@ -4067,6 +4070,9 @@
 1200 Bicknell Ave, Louisville, KY:
   lat: 38.1831819
   lng: -85.781116
+1200 Boone St. Emergency medical services were called but canceled after the woman left the scene, Louisville, KY:
+  lat: 38.2060075
+  lng: -85.7144322
 1200 Boston Ct, Louisville, KY:
   lat: 38.2641926
   lng: -85.8173786
@@ -27418,6 +27424,9 @@
 6500 South 7th Street, Louisville, KY:
   lat: 38.2231367
   lng: -85.7727441
+6500 South Dr near Tierney Ave and Sealston Dr, Louisville, KY:
+  lat: 38.087855
+  lng: -85.8832522
 6500 St, Louisville, KY: null
 6500 Strawberry Ln, Louisville, KY:
   lat: 38.1608055
@@ -31948,6 +31957,10 @@
   lat: 38.2435378
   lng: -85.547026
 900 Blinkenbaker Parkway, Louisville, KY: null
+900 Boone St near East Kentucky and Highland Ave, Louisville, KY:
+  lat: 38.2060075
+  lng: -85.7144322
+900 Boone St, suspected, Louisville, KY: null
 900 Boynton Baker Parkway, Louisville, KY: null
 900 Boynton Baker Parkway. The call was, Louisville, KY: null
 900 Breckenridge Ln, Louisville, KY:
@@ -34582,6 +34595,7 @@ Thickston Lane and Independence School Rd, Louisville, KY: null
 Third Street and Central Ave, Louisville, KY: null
 Thompson Ave and Delmont Ave, Louisville, KY: null
 Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
+Tierney Ave and Sealston Dr, Louisville, KY: null
 Tile Factory Road and Selinda Ave, Louisville, KY: null
 Tiny Ln and Loney Ln, Louisville, KY: null
 Toll Plaza Rd and Lower Terminal Dr, Louisville, KY: null
