@@ -8684,6 +8684,7 @@
 1900 Alfresco Pl, near St. Francis School,, Louisville, KY:
   lat: 38.2247589
   lng: -85.7002092
+1900 B5, Louisville, KY: null
 1900 Baird St, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
@@ -10168,6 +10169,9 @@
 ? 200 Shepard's River Rd. The person, described as a male in his 60s wearing a black
   metal, black coat, and blue jeans, was allegedly attempting, Louisville, KY
 : null
+200 Snow Goose Ct, Louisville, KY:
+  lat: 38.1135357
+  lng: -85.7611829
 200 South 11th Street, Louisville, KY:
   lat: 38.256393
   lng: -85.768474
