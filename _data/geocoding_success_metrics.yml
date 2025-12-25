@@ -52175,4 +52175,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 2
   batch_new_successes: 2
-last_updated: '2025-12-25T20:13:59.264997'
+- timestamp: '2025-12-25T20:24:07.754257'
+  total_addresses: 14908
+  successful: 7582
+  failed: 7326
+  success_rate: 50.86
+  failure_rate: 49.14
+  failure_patterns:
+    Contains location qualifiers (near/at): 2180
+    Intersection format: 1440
+    Incomplete/vague address: 1739
+    Other/Unknown: 1473
+    Contains extra sentences/context: 485
+    Police phonetic codes: 9
+  batch_success_rate: 50.0
+  batch_new_addresses: 2
+  batch_new_successes: 1
+last_updated: '2025-12-25T20:24:07.754386'
