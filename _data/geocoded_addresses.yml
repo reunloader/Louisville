@@ -7590,6 +7590,9 @@
 16800 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+16900 Ash Hill Dr, Louisville, KY:
+  lat: 38.2318343
+  lng: -85.4411101
 17 Butler Rd, Louisville, KY: null
 17 Dana Dr, Louisville, KY:
   lat: 38.1843698
@@ -17036,6 +17039,9 @@
   lat: 38.2848035
   lng: -85.5016557
 3300 Preston Hwy near Extended Stay Hotel, Louisville, KY:
+  lat: 38.2009951
+  lng: -85.7342881
+3300 Preston Hwy near the extended stay hotel, Louisville, KY:
   lat: 38.2009951
   lng: -85.7342881
 3300 Preston Hwy, Louisville, KY:
@@ -30364,6 +30370,7 @@
   lng: -85.7779081
 800 Iroquois Avenue 05:34 p, Louisville, KY: null
 800 Iroquois Avenue 05:34 p.m., Louisville, KY: null
+800 Jacqueline Lay, Louisville, KY: null
 800 Jenny Lindrob near D Road, Louisville, KY: null
 800 John Law Ct, Louisville, KY:
   lat: 38.0924641
