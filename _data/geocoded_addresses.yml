@@ -9916,6 +9916,9 @@
 200 North 19th Street at Columbia and Rowan, Louisville, KY:
   lat: 38.26085
   lng: -85.781193
+200 North 23rd Street, Louisville, KY:
+  lat: 38.261589
+  lng: -85.787802
 200 North 26th St between Columbia St and Rowan St, Louisville, KY: null
 200 North 26th Street, Crop St, Duncan and Columbia, Louisville, KY: null
 200 North 26th Street, Louisville, KY:
@@ -13194,6 +13197,7 @@
 2421 West Jefferson Street, Louisville, KY:
   lat: 38.2579022
   lng: -85.7915813
+24700 golf, but the vehicle was not immediately found, Louisville, KY: null
 25 New Main St, Louisville, KY:
   lat: 38.2536473
   lng: -85.708842
@@ -14202,6 +14206,9 @@
 27400 Bamboo Ct, Louisville, KY: null
 27600 Smithfield Greene Ln, Louisville, KY: null
 27600 Smithfield Greene Ln. Responding units were en route, Louisville, KY: null
+28 Bank St, Louisville, KY:
+  lat: 38.272279
+  lng: -85.7991803
 2800 7th St Rene Rd, Louisville, KY: null
 2800 7th Street, Louisville, KY:
   lat: 38.210865
@@ -21742,6 +21749,7 @@
 4500 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
+4500 Arrows Drive, Louisville, KY: null
 4500 Balaton Dr, Louisville, KY:
   lat: 38.171553
   lng: -85.676583
@@ -26349,6 +26357,9 @@
 6000 Whispering Hills, Louisville, KY:
   lat: 38.1470566
   lng: -85.6477603
+6000 Woodhaven Place Cir, Louisville, KY:
+  lat: 38.1697543
+  lng: -85.6379431
 60600 Beechburg Court, Louisville, KY: null
 60700 Brook Terrace Dr, Louisville, KY:
   lat: 38.1511527
@@ -29904,6 +29915,9 @@
   lat: 38.135173
   lng: -85.66959
 7900 Arloush Drive, near Paramount Dr and Oak Park Dr, Louisville, KY: null
+7900 Arnoldtown Rd, Louisville, KY:
+  lat: 38.1330524
+  lng: -85.8148043
 7900 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
