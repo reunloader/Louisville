@@ -9357,6 +9357,7 @@
 200 Cambridge Dr, Louisville, KY:
   lat: 38.1629212
   lng: -85.7679383
+200 Cambridge Station Rd, Louisville, KY: null
 200 Cane Run, Louisville, KY:
   lat: 38.222489
   lng: -85.811113
@@ -10184,6 +10185,9 @@
 200 North35th Street. Responders were assigned, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
+200 North37th Street, Louisville, KY:
+  lat: 38.2653079
+  lng: -85.8105746
 200 North39th Street involving a subject acting aggressively, Louisville, KY: null
 200 North39th Street, Louisville, KY:
   lat: 38.2657911
@@ -14925,6 +14929,9 @@
   lat: 38.1775655
   lng: -85.8531941
 2900 Rockford Ln near Leeds and Teaneck, Louisville, KY:
+  lat: 38.1803995
+  lng: -85.8526466
+2900 Rockford Ln, Louisville, KY:
   lat: 38.1803995
   lng: -85.8526466
 2900 Rodman St and at Rodman and Berkman, Louisville, KY: null
