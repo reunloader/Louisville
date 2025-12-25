@@ -27027,6 +27027,7 @@
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
   lng: -85.5025766
+6400 Downs Farmway, Louisville, KY: null
 6400 Dutchman's Parkway, Louisville, KY: null
 6400 Dutchman's Parkway. Further details, Louisville, KY: null
 6400 Gatehouse Ln, Louisville, KY: null
@@ -27204,6 +27205,9 @@
 6500 Ladd Ave, Louisville, KY:
   lat: 38.1907335
   lng: -85.8616317
+6500 Lucerne Ave, Louisville, KY:
+  lat: 38.192871
+  lng: -85.874892
 6500 Mary F Mary F Hackley Aly DRIVE, Louisville, KY: null
 ? 6500 Mary F Mary F Hackley Aly DRIVE. Responding units assessed the situation and
   subsequently cleared the scene. Further details regarding the nature of the emergency
@@ -27736,6 +27740,9 @@
   lat: 38.1496381
   lng: -85.592082
 6800 South First Floor, Louisville, KY: null
+6800 South Watterson Trail, Louisville, KY:
+  lat: 38.1579784
+  lng: -85.6145379
 6800 Southside Dr, Louisville, KY:
   lat: 38.1590857
   lng: -85.7646433
@@ -32776,6 +32783,9 @@
 9300 Longhorn Ct, Louisville, KY:
   lat: 38.11634
   lng: -85.764177
+9300 Meadow Valley Ln, Louisville, KY:
+  lat: 38.1058279
+  lng: -85.5635567
 9300 New LaGrange Road, Louisville, KY: null
 9300 Phillips Ln near the fairgrounds, Louisville, KY:
   lat: 38.1901008
