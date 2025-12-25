@@ -25081,6 +25081,9 @@
 5500 Billtown Rd, Louisville, KY:
   lat: 38.165321
   lng: -85.568698
+5500 Brinson Dr, near Rome Rd, Louisville, KY:
+  lat: 38.1720157
+  lng: -85.8159658
 5500 Count Fleet Dr, Louisville, KY:
   lat: 38.1147098
   lng: -85.8729314
@@ -27690,6 +27693,9 @@
 6600 Shenandoah Dr, Louisville, KY:
   lat: 38.3113177
   lng: -85.5486489
+6600 Skyline Dr, Louisville, KY:
+  lat: 38.1124129
+  lng: -85.8825448
 6600 South 3rd Street prompted a police response, Louisville, KY: null
 6600 South 3rd Street, Louisville, KY:
   lat: 38.1634895
@@ -30227,6 +30233,9 @@
   lat: 38.1406002
   lng: -85.8540073
 7700 I-65 South, Louisville, KY: null
+7700 Johnson School Rd, near Smith Ln and Gainsborough Dr, Louisville, KY:
+  lat: 38.1349699
+  lng: -85.5995149
 7700 Kendrick Crossing Ln, Louisville, KY:
   lat: 38.1290527
   lng: -85.5615396
@@ -34607,6 +34616,7 @@ Six Mile Ln and Conn Lake Drive, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
 Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 Slack Ave and Peachtree Ave, Louisville, KY: null
+Smith Ln and Gainsborough Dr, Louisville, KY: null
 Smith Ln and Peabody Ln, Louisville, KY: null
 Snow Street Road and Pond Station Rd, Louisville, KY: null
 Snow Street and Pond Station Rd, Louisville, KY: null
