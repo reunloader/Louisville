@@ -5786,6 +5786,7 @@
 1400 Bellarmine Blvd, Louisville, KY:
   lat: 38.2188313
   lng: -85.7034735
+1400 Blago, Berry, Louisville, KY: null
 ? 1400 Bland Street to investigate the situation. The initial report indicated the
   caller was screaming, prompting a swift response. Further details confirmed the
   presence of a weapon and the involvement of a brother., Louisville, KY
@@ -14270,6 +14271,9 @@
   jacket, was reportedly handling an item and refusing, Louisville, KY
 : lat: 38.249441
   lng: -85.796749
+2700 West Jefferson, Louisville, KY:
+  lat: 38.2577882
+  lng: -85.7951838
 2700 West Kentucky, Louisville, KY:
   lat: 38.2432335
   lng: -85.7975556
@@ -17006,6 +17010,9 @@
 3300 Frankfort Ave, Louisville, KY:
   lat: 38.2539302
   lng: -85.6728829
+3300 Garland Ave, Louisville, KY:
+  lat: 38.2454724
+  lng: -85.8075151
 3300 Gilmore Industrial Blvd, B2 Tower, Louisville, KY: null
 3300 Ginkgo Trail, Louisville, KY: null
 3300 Goldsmith Ln, near Dean Dr and Flora Ave, Louisville, KY:
@@ -19384,6 +19391,9 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+400 East Main at Slugger Field, Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 400 East Muhammad Ali, Dasker Manor, Louisville, KY: null
 400 East Muhammad Ali, Louisville, KY:
   lat: 38.249878
