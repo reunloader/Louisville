@@ -395,6 +395,9 @@
 100 E Main St. The train was stopped near the flames, which had split, Louisville, KY:
   lat: 38.2577199
   lng: -85.7580289
+100 E W Ashland Ave, Louisville, KY:
+  lat: 38.1863661
+  lng: -85.7805448
 100 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
@@ -1051,6 +1054,9 @@
 100 South 22nd Street, Louisville, KY:
   lat: 38.259118
   lng: -85.786561
+100 South 23rd Street, Louisville, KY:
+  lat: 38.259997
+  lng: -85.788089
 100 South 2nd Street near W Market St, Louisville, KY:
   lat: 38.2558105
   lng: -85.7536001
@@ -14022,6 +14028,7 @@
 2700 Garland Ave, Louisville, KY:
   lat: 38.244613
   lng: -85.7973498
+2700 Garland cross of 28th and 26th, Louisville, KY: null
 2700 Grand Ave, Louisville, KY:
   lat: 38.2403765
   lng: -85.7979315
@@ -15548,6 +15555,9 @@
 300 South 20th Street, Louisville, KY:
   lat: 38.256743
   lng: -85.784366
+300 South 23rd Street, Louisville, KY:
+  lat: 38.2437855
+  lng: -85.7915823
 300 South 39th Street near Clarkwood and Herman, Louisville, KY:
   lat: 38.2596432
   lng: -85.8148894
@@ -26183,6 +26193,9 @@
   lat: 38.251484
   lng: -85.5574282
 600 Timberwood Cir, Title Agency Support, Louisville, KY: null
+600 Upland Rd, Louisville, KY:
+  lat: 38.2474275
+  lng: -85.692023
 600 Valley College Dr at Ponder Creek Estates, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
