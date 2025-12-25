@@ -91,6 +91,9 @@
 06 Bruns Dr, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
+06 Casper Dr, Louisville, KY:
+  lat: 38.1396109
+  lng: -85.869194
 06 Falcon Crest Dr, Louisville, KY:
   lat: 38.1183325
   lng: -85.6929215
@@ -1326,6 +1329,7 @@
 100 West Orange Beach Avenue to provide care and transport., Louisville, KY: null
 100 West Orange Beach Avenue, Louisville, KY: null
 100 West Orange V Ave, Louisville, KY: null
+100 West Penny Avenue, Louisville, KY: null
 100 West W, Louisville, KY:
   lat: 38.2575113
   lng: -85.7629961
@@ -2990,6 +2994,9 @@
 11 Rosedale Ave, Louisville, KY:
   lat: 38.2235747
   lng: -85.7032029
+11 Sherry Rd, Louisville, KY:
+  lat: 38.2098403
+  lng: -85.7479622
 1100 17th Street, but this was later corrected, Louisville, KY: null
 1100 Algonquin Pky, Louisville, KY:
   lat: 38.2138395
@@ -5820,6 +5827,9 @@
 : lat: 38.2358015
   lng: -85.710346
 1400 Choptep Street, Louisville, KY: null
+1400 Christie Ave, Louisville, KY:
+  lat: 38.1636297
+  lng: -85.8238404
 1400 Clara Ave, Louisville, KY:
   lat: 38.1995558
   lng: -85.7843185
@@ -10362,6 +10372,7 @@
   lat: 38.2305239
   lng: -85.8144957
 200 South39, Louisville, KY: null
+200 South43rd Street (Holiday Inn), Louisville, KY: null
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
@@ -22810,6 +22821,9 @@
   lat: 38.0762726
   lng: -85.8819062
 4900 Out of Loop, Louisville, KY: null
+4900 Outer Loop near Speedway, Louisville, KY:
+  lat: 38.1373115
+  lng: -85.6687256
 4900 Outer Loop, Louisville, KY:
   lat: 38.1373115
   lng: -85.6687256
