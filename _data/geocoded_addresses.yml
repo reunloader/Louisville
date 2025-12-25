@@ -17053,6 +17053,7 @@
 3300 Davis. Police units were dispatched, Louisville, KY: null
 3300 Donald Dr, Louisville, KY: null
 3300 Donald Dr, with a specific concern noted about a rear door. Responding units arrived, Louisville, KY: null
+3300 Dr, Louisville, KY: null
 3300 Ducart involving a neighbor at the door, Louisville, KY:
   lat: 38.1516133
   lng: -85.8405499
@@ -33057,6 +33058,9 @@
 9400 Watermark Pl, Louisville, KY: null
 9400 Watermark Pl. The patient was waiting at the front entrance, Louisville, KY: null
 9400 Westport Rd and 900 block of Willman Bear, Louisville, KY: null
+9400 Westport Rd at 7th and Brew, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 9400 Westport Rd, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
@@ -33377,6 +33381,9 @@
 9800 Balloons For A Lane, Louisville, KY: null
 9800 Balloons, Louisville, KY: null
 9800 Blue Caray, Louisville, KY: null
+9800 Blue Lick Rd near Blue Lick Elementary, Louisville, KY:
+  lat: 38.1060729
+  lng: -85.6928522
 9800 Brownsboro Rd, Louisville, KY:
   lat: 38.3125224
   lng: -85.5668407
