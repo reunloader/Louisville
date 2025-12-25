@@ -21199,6 +21199,7 @@
 4200 Southern Pky, Louisville, KY:
   lat: 38.1937856
   lng: -85.7672087
+4200 Spring-borne Way, Louisville, KY: null
 4200 Springbourne Way, Louisville, KY: null
 4200 Springbourne Way, near Spring Arbor Dr. Units were dispatched, Louisville, KY:
   lat: 38.2906346
@@ -22827,6 +22828,9 @@
 4800 Preston Hwy. The vehicle's license plate had reportedly been removed. Police units were working, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
+4800 Preston Spring Ct near Preston Spring Dr, Louisville, KY:
+  lat: 38.1081089
+  lng: -85.6671909
 4800 Preston Spring Ct, across Preston Spring Dr, Louisville, KY: null
 4800 Ranchland Dr, Louisville, KY:
   lat: 38.1745069
@@ -24972,6 +24976,9 @@
 5500 LaFleur Way, Louisville, KY: null
 5500 Ladima Way, Louisville, KY: null
 5500 Limits Street, Louisville, KY: null
+5500 Mount Washington Rd near Ray Nan Dr and Maple Way, Louisville, KY:
+  lat: 38.0917235
+  lng: -85.6630567
 5500 Mount Washington Rd, Louisville, KY:
   lat: 38.0917235
   lng: -85.6630567
@@ -32435,6 +32442,7 @@
 900 Southgate Manor Dr. Later, units were dispatched to Dungdale Drive, Louisville, KY:
   lat: 38.0893129
   lng: -85.6721306
+900 Stage5 Tower 2, Louisville, KY: null
 900 Starlet Ct, Louisville, KY:
   lat: 38.1067862
   lng: -85.7642196
