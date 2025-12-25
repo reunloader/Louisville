@@ -14542,6 +14542,9 @@
 2800 Magazine St, Louisville, KY:
   lat: 38.251978
   lng: -85.798005
+2800 Montana, Louisville, KY:
+  lat: 38.2098192
+  lng: -85.7739224
 2800 Narragansett Dr, Louisville, KY:
   lat: 38.2255957
   lng: -85.8025926
@@ -16917,6 +16920,9 @@
 3200 Marion Ct. Police units responded, Louisville, KY:
   lat: 38.2500716
   lng: -85.6917161
+3200 Melody Acres Ln, Louisville, KY:
+  lat: 38.1855029
+  lng: -85.8503718
 3200 North 30th Street near Alford Ave and W Kenton St, Louisville, KY:
   lat: 38.2648549
   lng: -85.8000349
@@ -17355,6 +17361,7 @@
   lat: 38.1921668
   lng: -85.8509711
 3400 Cathy Daschick Way, Louisville, KY: null
+3400 Cathy Dasher Quay, Louisville, KY: null
 3400 Cathy Dexter, Louisville, KY: null
 3400 Cathy Dykstra, Louisville, KY: null
 3400 Cathy Dystra, unit 202, Louisville, KY: null
@@ -23644,6 +23651,9 @@
 500 Minette Cir, Louisville, KY:
   lat: 38.1290238
   lng: -85.8514949
+500 Morningside Dr, Louisville, KY:
+  lat: 38.248645
+  lng: -85.671991
 500 Mount Holly Rd, Louisville, KY:
   lat: 38.1037287
   lng: -85.7576846
@@ -30754,6 +30764,7 @@
 800 Lake Forest Pky, Louisville, KY:
   lat: 38.2508607
   lng: -85.4832231
+800 Lewis Coleman Jr, Louisville, KY: null
 800 Lincoln King Baker, Louisville, KY: null
 800 Lincoln King Baker., Louisville, KY: null
 800 Linwood Ave, Louisville, KY:
