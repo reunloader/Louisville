@@ -2017,6 +2017,9 @@
   lat: 38.1819023
   lng: -85.7203622
 1000 N S Beckley Station Rd (St, Louisville, KY: null
+1000 Neighborhood Pl, Louisville, KY:
+  lat: 38.1159005
+  lng: -85.7510211
 1000 New Main St, Frankfort Ave, Louisville, KY: null
 ? 1000 North 35th Street following a report of a carbon monoxide detector alarm. After
   an investigation, the alarm was found to be false., Louisville, KY
@@ -12091,6 +12094,7 @@
 2200 Dixie Hwy, Louisville, KY:
   lat: 38.2185305
   lng: -85.7949258
+2200 Duncan St and 5700 block of Nally Ct, Louisville, KY: null
 2200 East Broadway, Louisville, KY:
   lat: 38.2446794
   lng: -85.7394849
@@ -17228,6 +17232,9 @@
 3400 Hale Ave, Louisville, KY:
   lat: 38.24025
   lng: -85.810196
+3400 Herman St, Louisville, KY:
+  lat: 38.258866
+  lng: -85.80747
 3400 High Climb, Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
 3400 Kathy Baxter, Louisville, KY: null
