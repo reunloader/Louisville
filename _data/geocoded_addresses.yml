@@ -12408,6 +12408,9 @@
 2200 Village Dr, Louisville, KY:
   lat: 38.2282397
   lng: -85.6920058
+2200 W Amherst Ave, Louisville, KY:
+  lat: 38.1746783
+  lng: -85.7671089
 2200 W Jefferson St, Louisville, KY:
   lat: 38.257076
   lng: -85.786979
@@ -19738,6 +19741,7 @@
 400 Massie Ave, Louisville, KY: null
 400 McBray Road, Louisville, KY: null
 400 McLean Avenue, Louisville, KY: null
+400 Meridian Hills Dr near Poplar Leafway and Meridian Ridge, Louisville, KY: null
 400 Meridian Hills Dr, Louisville, KY: null
 400 Merritt Avenue, Louisville, KY: null
 400 Merritt Avenue, apartment 4, Louisville, KY: null
@@ -29297,6 +29301,7 @@
 7100 Fegenbush Ln. Upon arrival, officers found a victim with multiple stab wounds, Louisville, KY:
   lat: 38.146237
   lng: -85.628049
+7100 Fox Valley Ct near Fox Valley Dr, Louisville, KY: null
 7100 Global Dr due to suspicious activity. Units were dispatched to investigate., Louisville, KY: null
 7100 Global Dr due, Louisville, KY: null
 7100 Global Dr, Louisville, KY:
@@ -33047,6 +33052,9 @@
 9400 Chambers Way, Louisville, KY:
   lat: 38.1117849
   lng: -85.6496184
+9400 Dalton Dr near Lawman Road and Salvation Road, Louisville, KY:
+  lat: 38.1137158
+  lng: -85.8641486
 9400 Darrell Ct, Louisville, KY:
   lat: 38.1635967
   lng: -85.8478704
@@ -34160,6 +34168,7 @@ Larchmont Ave and Taylor Blvd, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lauderdale Rd and Hill Rd, Louisville, KY: null
 Lausanne Avenue and Dumesnil St, Louisville, KY: null
+Lawman Road and Salvation Road, Louisville, KY: null
 Lee St and West Galbra Avenue, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
 Lexington Ave and Payne St, Louisville, KY: null
