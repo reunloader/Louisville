@@ -4740,6 +4740,7 @@
 12100 LaGrange Road, Louisville, KY:
   lat: 38.2804338
   lng: -85.5167542
+12100 Red Spire Drill, Louisville, KY: null
 12100 Stroll Ct, Louisville, KY: null
 12100 Stroll Ct. Further details, Louisville, KY: null
 12100 Winding Spring Ct to take the report and investigate the alleged behavior., Louisville, KY: null
@@ -23730,6 +23731,9 @@
 5000 Red Oak Ln, Louisville, KY:
   lat: 38.172359
   lng: -85.6696273
+5000 Rosette Blvd, Louisville, KY:
+  lat: 38.170727
+  lng: -85.668936
 5000 Rossmoor Dr, Louisville, KY:
   lat: 38.147382
   lng: -85.668218
@@ -26885,6 +26889,9 @@
 6400 Riverdale Rd, Louisville, KY:
   lat: 38.0946276
   lng: -85.884
+6400 Seaton Ln, Louisville, KY:
+  lat: 38.153874
+  lng: -85.581712
 6400 South Dr, Louisville, KY:
   lat: 38.0874459
   lng: -85.8800672
