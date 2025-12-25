@@ -9656,6 +9656,9 @@
 200 East at Poplar Level Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at River Park Dr, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Shelbyville, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -21893,6 +21896,7 @@
   worry about potential vehicle break-ins in the area. Police units were dispatched,
   Louisville, KY
 : null
+4400 Royal Trail, Louisville, KY: null
 4400 S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
@@ -25502,6 +25506,9 @@
 5800 Keewood Ct, Louisville, KY: null
 5800 Lion's Paris Dr, Louisville, KY: null
 5800 Lions Arms Dr, Louisville, KY: null
+5800 Lisa Ct, Louisville, KY:
+  lat: 38.164268
+  lng: -85.6081829
 5800 Mary Ellen Dr, Louisville, KY:
   lat: 38.136037
   lng: -85.7718054
@@ -26318,6 +26325,7 @@
 600 South 8th Street, Louisville, KY:
   lat: 38.248258
   lng: -85.764852
+600 South Baker, Louisville, KY: null
 600 South Crescent Street, Louisville, KY: null
 600 South Fourth Street, Louisville, KY: null
 600 South Hirshbaum Parkway near Corner Steakhouse and Stone Creek Pky, Louisville, KY: null
@@ -31816,6 +31824,7 @@
 8800 Dixie Hwy, Louisville, KY:
   lat: 38.125443
   lng: -85.8527303
+8800 Dixie Hwy, Republic Bank, Louisville, KY: null
 8800 Eli Dr, Louisville, KY:
   lat: 38.1199267
   lng: -85.5994283
