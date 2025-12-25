@@ -3793,6 +3793,7 @@
   KY
 : lat: 38.088173
   lng: -85.866483
+11400 Double Trace, Louisville, KY: null
 11400 Electron Dr, Louisville, KY:
   lat: 38.2023336
   lng: -85.5472496
@@ -7288,6 +7289,9 @@
 1600 Harold Ave, Louisville, KY:
   lat: 38.21787
   lng: -85.78834
+1600 Hunnington Pl, Louisville, KY:
+  lat: 38.2238897
+  lng: -85.587231
 1600 Huntington Ln, Louisville, KY:
   lat: 38.1419722
   lng: -85.6875526
@@ -17174,6 +17178,9 @@
 3400 Boxelder Rd, Louisville, KY:
   lat: 38.197263
   lng: -85.842053
+3400 Breckenridge, Louisville, KY:
+  lat: 38.200333
+  lng: -85.623711
 3400 Cathay-Dykstra Way, Louisville, KY: null
 3400 Cathe Dykstra Way, Louisville, KY:
   lat: 38.1921668
