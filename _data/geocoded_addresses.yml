@@ -120,6 +120,9 @@
   lat: 38.2182659
   lng: -85.7774103
 1 Tying Road, Louisville, KY: null
+1 Varble Ave, Louisville, KY:
+  lat: 38.24953
+  lng: -85.8297252
 1 court, Louisville, KY: null
 10 Audubon Plaza Dr at Little Sisters of the Poor, Louisville, KY:
   lat: 38.2143091
@@ -133,6 +136,9 @@
   lat: 38.2344233
   lng: -85.7405196
 10 Peoplecrest Drive, Louisville, KY: null
+10 Raylon Dr, Louisville, KY:
+  lat: 38.121253
+  lng: -85.8489555
 10 Standing Saver Street, Louisville, KY: null
 10 Sunday Dr, Louisville, KY:
   lat: 38.1510298
@@ -12786,6 +12792,7 @@
 2300 West Jefferson, Louisville, KY:
   lat: 38.2574167
   lng: -85.7900164
+2300 West Ormsky Ave, Louisville, KY: null
 2300 Woodbourne Ave, Louisville, KY:
   lat: 38.2269034
   lng: -85.6851901
