@@ -4260,6 +4260,9 @@
   lat: 38.2256132
   lng: -85.7333897
 1200 Hardwick Rd, Louisville, KY: null
+1200 Heafer Rd, Louisville, KY:
+  lat: 38.264749
+  lng: -85.51773
 1200 Heflane near Meadowlark Ave, Louisville, KY:
   lat: 38.2505742
   lng: -85.6840451
@@ -4601,6 +4604,7 @@
   lng: -85.7774103
 1200 South Third Street crossing, Louisville, KY: null
 1200 South Third Street, Louisville, KY: null
+1200 South15-3, Louisville, KY: null
 1200 South1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
@@ -17776,6 +17780,9 @@
 3500 Moyers Cir, Louisville, KY:
   lat: 38.257301
   lng: -85.6685408
+3500 Newburg Rd at the Newburgh Garage, Louisville, KY:
+  lat: 38.2019855
+  lng: -85.6889834
 3500 Newburg Rd near Abernathy Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -24065,6 +24072,7 @@
 5000 Hanses Dr, Louisville, KY:
   lat: 38.1601786
   lng: -85.6794729
+5000 Hoffman Ln, Louisville, KY: null
 5000 Kauffman, Louisville, KY: null
 5000 Kaufman Ln, Louisville, KY:
   lat: 38.180849
@@ -31957,6 +31965,9 @@
 8900 Auburn Woods Rd, Louisville, KY:
   lat: 38.1389626
   lng: -85.7762939
+8900 Beulah Church, Louisville, KY:
+  lat: 38.1442085
+  lng: -85.5963775
 8900 Bobrader Ct, Louisville, KY: null
 8900 Cedar Creek Rd, Louisville, KY:
   lat: 38.1182448
