@@ -14095,6 +14095,9 @@
   lat: 38.244613
   lng: -85.7973498
 2700 Garland cross of 28th and 26th, Louisville, KY: null
+2700 Goldsmith Ln, Louisville, KY:
+  lat: 38.212475
+  lng: -85.6599615
 2700 Grand Ave, Louisville, KY:
   lat: 38.2403765
   lng: -85.7979315
@@ -21202,6 +21205,7 @@
 4200 Southern Pky, Louisville, KY:
   lat: 38.1937856
   lng: -85.7672087
+4200 Spring-Born Way, Louisville, KY: null
 4200 Spring-borne Way, Louisville, KY: null
 4200 Springbourne Way, Louisville, KY: null
 4200 Springbourne Way, near Spring Arbor Dr. Units were dispatched, Louisville, KY:
@@ -25504,6 +25508,7 @@
   lat: 38.1629609
   lng: -85.6093455
 5900 Mount Pleasant Drive, Louisville, KY: null
+5900 New Cut Rd (Circle K), Louisville, KY: null
 5900 New Pet Road, Louisville, KY: null
 5900 Old Cedar Ct, Louisville, KY:
   lat: 38.330207
@@ -26844,6 +26849,9 @@
 6200 Oak Valley Dr, Louisville, KY:
   lat: 38.1632109
   lng: -85.8167454
+6200 Orion Rd, Louisville, KY:
+  lat: 38.3075117
+  lng: -85.6332222
 6200 Preston Hwy near Warranty Drive and Forest Dr, Louisville, KY:
   lat: 38.1613928
   lng: -85.7001322
@@ -29045,6 +29053,7 @@
   lat: 38.1444986
   lng: -85.5908912
 7000 Crossroads, Louisville, KY: null
+7000 Dudley Garden Way, Louisville, KY: null
 7000 East Broadway, Louisville, KY:
   lat: 38.2446794
   lng: -85.7394849
@@ -29114,6 +29123,9 @@
 7000 Preston Hwy, Louisville, KY:
   lat: 38.1504308
   lng: -85.6940618
+7000 Ridge Rd, Louisville, KY:
+  lat: 38.2184913
+  lng: -85.7015596
 7000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -31057,6 +31069,9 @@
 8000 National Eastern Pike, Louisville, KY: null
 8000 New LaGrange Road, Louisville, KY: null
 8000 North Bardstown Rd, Louisville, KY: null
+8000 Park Rd, Louisville, KY:
+  lat: 38.1074779
+  lng: -85.6374745
 ? 8000 Preston Highway. Paramedics arrived on scene to provide care for an individual
   experiencing a medical emergency. The patient was assessed and treated by the medical
   team. Following their evaluation, the individual was transported to a local hospital
