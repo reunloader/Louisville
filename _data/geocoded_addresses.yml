@@ -367,6 +367,7 @@
   lat: 38.1448137
   lng: -85.7700673
 100 Dixie Hwy and the 100 block of Preston Hwy. Further details, Louisville, KY: null
+100 Dixie Hwy, Circle K, Louisville, KY: null
 100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -1557,6 +1558,7 @@
 1000 Broadway, Louisville, KY:
   lat: 38.24673
   lng: -85.7687534
+1000 Brookfield Ave, Louisville, KY: null
 ? 1000 Brookline Ave following a report of a holdup. Information gathered indicated
   the suspect may have then headed towards Iroquois High School., Louisville, KY
 : null
@@ -6110,6 +6112,9 @@
   lat: 38.1389378
   lng: -85.7899009
 1400 Peach St, Louisville, KY: null
+1400 Phyllis Ave, Louisville, KY:
+  lat: 38.2055679
+  lng: -85.7816073
 1400 Poclova Road, Speedway, Louisville, KY: null
 1400 Poplar Level Rd, Louisville, KY:
   lat: 38.2210553
@@ -23836,6 +23841,7 @@
   lat: 38.2504753
   lng: -85.7237738
 500 or519, Louisville, KY: null
+500 responded to a three-story building, Louisville, KY: null
 500 south 4th Street, Louisville, KY:
   lat: 38.2509279
   lng: -85.7578311
@@ -25558,6 +25564,7 @@
 : null
 600 Baker and the 700 block of Baker, Louisville, KY: null
 600 Baker following a report of a suspicious person. One female was detained by officers at the scene., Louisville, KY: null
+600 Baker, Circle K, Louisville, KY: null
 600 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -31999,6 +32006,9 @@
   lat: 38.1964843
   lng: -85.7749692
 900 Farigal Road, Louisville, KY: null
+900 Fenley Ave, Louisville, KY:
+  lat: 38.2564292
+  lng: -85.6723688
 900 Fern Creek Rd near Fern Creek High School, Louisville, KY:
   lat: 38.158292
   lng: -85.5898849
