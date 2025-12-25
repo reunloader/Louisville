@@ -9962,6 +9962,9 @@
 200 North at Bardstown Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at Brownsboro, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at Old Ender, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -23362,6 +23365,9 @@
   but the alarm company confirmed they were still receiving signals from the location.,
   Louisville, KY
 : null
+500 Preston Hwy at Meyer Tour, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 ? 500 Quails Run in response to a residential alarm. The alarm was later canceled
   and determined to be technical in nature., Louisville, KY
 : null
