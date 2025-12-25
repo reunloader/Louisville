@@ -3934,6 +3934,9 @@
 11700 English Meadow Dr, Louisville, KY:
   lat: 38.0870756
   lng: -85.6014982
+11700 Hidden Creek Rd, Louisville, KY:
+  lat: 38.3444942
+  lng: -85.5816227
 11700 Leman Dr, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
@@ -12016,6 +12019,9 @@
 2100 St. Louise Ave. Child services were notified., Louisville, KY: null
 2100 St. St Xavier St, Louisville, KY: null
 2100 Sycamore Ave near N S Clifton Ave and Vernon Ave, Louisville, KY:
+  lat: 38.255889
+  lng: -85.707374
+2100 Sycamore Ave, Louisville, KY:
   lat: 38.255889
   lng: -85.707374
 2100 Ticklemore Avenue, Ticklemore Heights Nursing Home, Louisville, KY: null
@@ -33235,6 +33241,7 @@
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
+9400 Viking Center Dr, Louisville, KY: null
 9400 Viking Court Drive, Louisville, KY: null
 9400 Walbridge Ct, Louisville, KY: null
 9400 Watermark Pl, Louisville, KY: null
