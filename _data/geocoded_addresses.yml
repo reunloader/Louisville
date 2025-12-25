@@ -3996,6 +3996,9 @@
 12 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
+12 Taylor Blvd, Louisville, KY:
+  lat: 38.1857396
+  lng: -85.7840032
 120 Magazine Street, Louisville, KY:
   lat: 38.2496514
   lng: -85.7763551
@@ -10740,6 +10743,9 @@
 200 West near Kentucky Drive, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West near River Park Dr, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West near Taylor Blvd, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
