@@ -2352,6 +2352,9 @@
 1000 South Second Street, Louisville, KY: null
 1000 South Third Street, Louisville, KY: null
 1000 South at Arthur St, Louisville, KY: null
+1000 South28th Street, Louisville, KY:
+  lat: 38.2434873
+  lng: -85.799649
 1000 South29th Street, Louisville, KY:
   lat: 38.243639
   lng: -85.801107
@@ -20059,6 +20062,7 @@
 400 South2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South38 Street, Louisville, KY: null
 400 South4th Street, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
@@ -27846,6 +27850,7 @@
   lat: 38.1176974
   lng: -85.885696
 6800 [Street Name Missing], Louisville, KY: null
+6900 Adams, 300 block of West Jefferson, Crocker Memorial Bridge, and 2600 block of W Kentucky St, Louisville, KY: null
 6900 Arbor Creek Dr, Louisville, KY:
   lat: 38.122131
   lng: -85.616247
