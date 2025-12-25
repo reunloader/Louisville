@@ -7203,6 +7203,12 @@
 1600 Congress St, Louisville, KY:
   lat: 38.256661
   lng: -85.776921
+1600 Conn St near Georgetown Cir, Louisville, KY:
+  lat: 38.195779
+  lng: -85.791645
+1600 Conn St, Louisville, KY:
+  lat: 38.195779
+  lng: -85.791645
 1600 Cypress St, Louisville, KY:
   lat: 38.229039
   lng: -85.7990648
@@ -14126,6 +14132,9 @@
 2700 Montana Ave, Louisville, KY:
   lat: 38.2117062
   lng: -85.7715999
+2700 Montana Ave. The child appeared, Louisville, KY:
+  lat: 38.2117062
+  lng: -85.7715999
 ? 2700 Montana Ave. The location was described as being in a state of disrepair. Police
   units were dispatched, Louisville, KY
 : lat: 38.2117062
@@ -17214,6 +17223,7 @@
   lat: 38.200333
   lng: -85.623711
 3400 Brecker and Mitchell Ln, Louisville, KY: null
+3400 Burrell Dr, Louisville, KY: null
 3400 Cathay-Dykstra Way, Louisville, KY: null
 3400 Cathe Dykstra Way, Louisville, KY:
   lat: 38.1921668
@@ -27838,6 +27848,7 @@
 6900 Arbor Creek Dr. Responding units were dispatched, Louisville, KY:
   lat: 38.122131
   lng: -85.616247
+6900 Bardstown Rd in front of Kroger, Louisville, KY: null
 6900 Bardstown Rd, Louisville, KY:
   lat: 38.1461678
   lng: -85.5880381
@@ -29273,6 +29284,7 @@
   lat: 38.0795787
   lng: -85.8955746
 7100 US Highway 42, Louisville, KY: null
+7100 Vettel Lane, Louisville, KY: null
 7100 W Shefford Ln, Louisville, KY:
   lat: 38.2861839
   lng: -85.6197265
