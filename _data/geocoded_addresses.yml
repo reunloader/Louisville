@@ -6314,6 +6314,7 @@
   lng: -85.5265157
 1400 Tulpa Street, Louisville, KY: null
 1400 Twin Ridge Rd, Louisville, KY: null
+1400 Veet Street, Louisville, KY: null
 1400 W Jefferson St, Louisville, KY: null
 1400 West Broadway at HPI office, Louisville, KY:
   lat: 38.2475587
@@ -11940,6 +11941,7 @@
 2100 Wally and Court, Louisville, KY: null
 2100 Wally and Court. EMS later canceled their request, Louisville, KY: null
 2100 Wesley Street, Louisville, KY: null
+2100 West Albert, Louisville, KY: null
 2100 West Alley near a liquor store, Louisville, KY: null
 2100 West Broadway [Date & Time], Louisville, KY: null
 ? 2100 West Broadway to address the situation. Officers worked to secure the vehicle
@@ -14841,6 +14843,9 @@
 2900 W Kentucky St, Louisville, KY:
   lat: 38.243682
   lng: -85.80115
+2900 W Main St, Louisville, KY:
+  lat: 38.261272
+  lng: -85.79915
 2900 W Market St, Louisville, KY:
   lat: 38.2600523
   lng: -85.7996489
@@ -26375,6 +26380,9 @@
 6000 Lynnview Dr, Louisville, KY:
   lat: 38.1908289
   lng: -85.8437633
+6000 Manslick Rd, Louisville, KY:
+  lat: 38.169809
+  lng: -85.7978011
 6000 Mint Spring Branch Rd, Louisville, KY:
   lat: 38.336449
   lng: -85.581821
@@ -31251,6 +31259,9 @@
 8500 La Grange Rd, Louisville, KY:
   lat: 38.2786316
   lng: -85.5174174
+8500 LaGrange Road at Brooke Hospital KMI campus, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 8500 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
