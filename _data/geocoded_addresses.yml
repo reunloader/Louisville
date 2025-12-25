@@ -8819,6 +8819,7 @@
 1900 Lancaster Ave, Louisville, KY:
   lat: 38.1732277
   lng: -85.7889038
+1900 Leopold Woods Loop, Louisville, KY: null
 1900 Lewis and Dowell, near the intersections of Lampter and Joy. The fire was specifically noted, Louisville, KY: null
 1900 Lewiston, Louisville, KY:
   lat: 38.172611
@@ -8893,6 +8894,9 @@
 1900 Payne St, Louisville, KY:
   lat: 38.2522204
   lng: -85.712845
+1900 Peabody Ln, Louisville, KY:
+  lat: 38.204792
+  lng: -85.678716
 1900 Polaka, Louisville, KY: null
 1900 Polo View, Louisville, KY: null
 1900 Ramser Ct, Louisville, KY: null
@@ -9458,6 +9462,7 @@
   lng: -85.7499296
 200 East Early Morning, Louisville, KY: null
 200 East Europe Street near South 3rd and 2nd Streets, Louisville, KY: null
+200 East I-17, Louisville, KY: null
 200 East I-200 at Cane Run Rd, Louisville, KY:
   lat: 38.222489
   lng: -85.811113
@@ -29358,6 +29363,7 @@
 7400 Jefferson Blvd, Louisville, KY:
   lat: 38.1432203
   lng: -85.6757506
+7400 Leopold Woods Loop, Louisville, KY: null
 7400 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
