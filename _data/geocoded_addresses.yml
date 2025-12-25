@@ -13760,6 +13760,9 @@
 2600 Kings Hwy, Louisville, KY:
   lat: 38.2219672
   lng: -85.672165
+2600 Langdon Dr, Louisville, KY:
+  lat: 38.2844429
+  lng: -85.5825047
 2600 Lansford Ct, Louisville, KY:
   lat: 38.0918799
   lng: -85.8657407
@@ -21282,6 +21285,9 @@
 4300 East Kentucky, Louisville, KY:
   lat: 38.2361113
   lng: -85.7383171
+4300 Edgin Ave, Louisville, KY:
+  lat: 38.1863845
+  lng: -85.8295973
 4300 Estate Dr, Louisville, KY:
   lat: 38.1824941
   lng: -85.80531
@@ -24802,6 +24808,7 @@
 5400 Winding Rd, Louisville, KY:
   lat: 38.150748
   lng: -85.770867
+5400 Yale Post Road, Louisville, KY: null
 5400 Ye Old Post Rd, Louisville, KY:
   lat: 38.151731
   lng: -85.659588
@@ -25301,6 +25308,10 @@
 5800 Bonfire Dr, Louisville, KY: null
 5800 Bonfire Dr, reportedly triggered by a side window, Louisville, KY: null
 5800 Bruns Dr, Louisville, KY:
+  lat: 38.171284
+  lng: -85.8186862
+5800 Bruns and surrounding areas, Louisville, KY: null
+5800 Bruns, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
 5800 Coach Gate, Louisville, KY: null
@@ -29788,6 +29799,9 @@
 76 an unspecified street, Louisville, KY: null
 7600 3rd St Rene Rd near Cartledge Avenue, Louisville, KY: null
 7600 3rd St Rene Rd, Louisville, KY: null
+7600 Arnoldtown Rd, Louisville, KY:
+  lat: 38.137516
+  lng: -85.819856
 7600 Ashby Landings Dr, Louisville, KY:
   lat: 38.11215
   lng: -85.89607
