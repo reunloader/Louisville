@@ -8909,6 +8909,7 @@
   lat: 38.2204526
   lng: -85.6948778
 1900 Owen St & 1700 block of O'Odaniel Ave, Louisville, KY: null
+1900 P body lane, Louisville, KY: null
 ? 1900 Payne St to address a medical emergency. The patient, a 68-year-old male who
   recently underwent open heart surgery, was experiencing difficulties maintaining
   stable blood pressure and oxygen levels when he stood up. EMS provided care at the
@@ -11140,6 +11141,7 @@
 2000 Columbia St, Louisville, KY:
   lat: 38.261487
   lng: -85.78282
+2000 Creston Dr and Park Blvd, Louisville, KY: null
 ? 2000 Crown Vic. Fortunately, she later returned home, and the case was canceled.
   Authorities continue to remind residents to stay vigilant, Louisville, KY
 : null
@@ -22929,6 +22931,9 @@
 4900 Valley Station Rd, Louisville, KY:
   lat: 38.105853
   lng: -85.851149
+4900 Wabash Pl, Louisville, KY:
+  lat: 38.1764934
+  lng: -85.759572
 4900 Waterbrook Ct, Louisville, KY:
   lat: 38.1051393
   lng: -85.6121628
@@ -30020,6 +30025,9 @@
 7900 Daleray Dr, Louisville, KY:
   lat: 38.1655549
   lng: -85.675783
+7900 Emma Ct, Louisville, KY:
+  lat: 38.1376739
+  lng: -85.5662781
 7900 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
@@ -33547,6 +33555,7 @@ Cresig Ram Road and Norbourne Blvd, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
 Crested Towsville Drive and Accomack Dr, Louisville, KY: null
 Crestline Rd and Justan Ave, Louisville, KY: null
+Creston Dr and Park Blvd, Louisville, KY: null
 Crestwood Ave and Frankfort Ave, Louisville, KY: null
 Creswell Warren Avenue and Cliff Ave, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
