@@ -2786,6 +2786,9 @@
   lat: 38.2084711
   lng: -85.7734951
 10400 Thrift Dr, Louisville, KY: null
+10400 Vista Hills Blvd, Louisville, KY:
+  lat: 38.093783
+  lng: -85.5647893
 10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
 10400 Watermark Pl, Louisville, KY: null
 10400 West Manslake Road near Mason Ln and Sharon Ln, Louisville, KY: null
@@ -17280,6 +17283,9 @@
 3400 Gate Creek, Louisville, KY:
   lat: 38.0451323
   lng: -85.902075
+3400 Gatecreek Rd near Hi View Ln and Holiday Dr, Louisville, KY:
+  lat: 38.1191004
+  lng: -85.8262158
 3400 Glendale Ave in response to a call, Louisville, KY: null
 ? 3400 Glendale Ave was attended to after she fainted and became unresponsive. Responders
   made contact with the patient and concluded their services around 2:17 p.m., Louisville,
@@ -18826,6 +18832,7 @@
 3900 Flans Avenue, Louisville, KY: null
 3900 Flans Avenue. Responders were instructed to wait outside the residence for the patient., Louisville, KY: null
 3900 Flans Avenue. Responders were instructed to wait outside the residence, Louisville, KY: null
+3900 Gordon and Anshire, Louisville, KY: null
 3900 Greenhouse Driller, Louisville, KY: null
 3900 Heller St, Louisville, KY:
   lat: 38.1807123
@@ -33970,6 +33977,7 @@ Hepburn Ave and Baxter Ave, Louisville, KY: null
 Herman St and Glendora Ave, Louisville, KY: null
 Hewitt Ave and Martha Ave, Louisville, KY: null
 Hi View Ln and Gatecreek Rd, Louisville, KY: null
+Hi View Ln and Holiday Dr, Louisville, KY: null
 Hi View Ln and Sale Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
 Highwood Dr and Lake Ave, Louisville, KY: null
