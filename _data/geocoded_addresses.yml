@@ -6865,6 +6865,9 @@
   at the time of the report., Louisville, KY
 : null
 1500 Gallagher Street due, Louisville, KY: null
+1500 Goddard Ave, Louisville, KY:
+  lat: 38.2326539
+  lng: -85.7205807
 1500 Golfland Parkway, Louisville, KY: null
 ? 1500 Golfland Parkway. The vehicle was described as an orange sedan and was found
   in the vicinity of the Delta 3 area. Police units were sent to investigate the circumstances
@@ -8937,6 +8940,9 @@
 18300 Standwick Dr near Standwick Way, Louisville, KY:
   lat: 38.237591
   lng: -85.4136666
+18400 Landwood Dr, Louisville, KY:
+  lat: 38.1200919
+  lng: -85.5757475
 18800 Long Grove Way, Louisville, KY:
   lat: 38.24512
   lng: -85.41632
@@ -28134,6 +28140,7 @@
 6600 Sun Ray Dr, Louisville, KY:
   lat: 38.1096486
   lng: -85.8823864
+6600 Sun Ray Dr, where a male with a gun was causing trouble with his brother and refusing, Louisville, KY: null
 ? 6600 Sylvania Rd, apartment number 4. Police units were dispatched to search for
   the individual, with assistance from the 300 block of Adam and the 300 block of
   David., Louisville, KY
@@ -31338,6 +31345,9 @@
 800 S Jackson St. Responding units investigated the premises and determined the alarm, Louisville, KY:
   lat: 38.24185
   lng: -85.746268
+800 S Preston St, Louisville, KY:
+  lat: 38.2423956
+  lng: -85.7484368
 800 S Shelby St, Louisville, KY:
   lat: 38.240608
   lng: -85.740319
