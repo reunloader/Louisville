@@ -3139,6 +3139,7 @@
 1100 Clay Ave, Louisville, KY:
   lat: 38.1416327
   lng: -85.6949115
+1100 Clay Hall, Louisville, KY: null
 1100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
@@ -30022,6 +30023,9 @@
   lat: 38.139241
   lng: -85.780463
 7300 Beechhorns, Louisville, KY: null
+7300 Billtown Rd, Louisville, KY:
+  lat: 38.138161
+  lng: -85.5393749
 7300 Brookline Ave, Louisville, KY:
   lat: 38.1751694
   lng: -85.7789644
