@@ -7156,6 +7156,7 @@
 1500 and 1510, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+1500 and 1524, Louisville, KY: null
 1500 black over root for, Louisville, KY: null
 1500 the 1000 block of Ash St, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
@@ -19187,6 +19188,9 @@
   lng: -85.789937
 3900 Creski Way, Louisville, KY: null
 3900 Delphi, Louisville, KY: null
+3900 Dixie Hwy at Speedway, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
 3900 Dixie Hwy near Schmitts Ln and Park Rd, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
@@ -34841,6 +34845,7 @@ Manslick Rd and Berry Blvd, Louisville, KY:
   lat: 38.1968196
   lng: -85.7987971
 Manslick Rd and Holly Park Dr, Louisville, KY: null
+Manslick Rd and Mariposa Dr, Louisville, KY: null
 Manslick Rd and Pikes Peak Blvd, Louisville, KY: null
 Manslick Rd and Varble Ave, Louisville, KY: null
 Maple Crest Avenue and Crescent Ave, Louisville, KY: null
