@@ -1087,6 +1087,9 @@
 100 South 30th Street, Louisville, KY:
   lat: 38.261375
   lng: -85.8009286
+100 South 32nd Street, Louisville, KY:
+  lat: 38.262054
+  lng: -85.804552
 100 South 35th Street near Roland Ave, Louisville, KY:
   lat: 38.262208
   lng: -85.808319
@@ -1941,6 +1944,9 @@
   lat: 38.2484525
   lng: -85.7680848
 1000 Magazine St, and the situation was assessed as stable, Louisville, KY: null
+? 1000 Magazine St, described as a 15-year-old and a 12-year-old, both black males,
+  with details about their clothing, Louisville, KY
+: null
 1000 Margetown Road, Louisville, KY: null
 1000 Millers Ln following a report of a male found hanging from a tree. Police and EMS were en route, Louisville, KY: null
 1000 Millers Ln, Louisville, KY:
@@ -3958,6 +3964,9 @@
 11700 Leman Dr, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
+11700 Maple Way, Louisville, KY:
+  lat: 38.0947333
+  lng: -85.6621015
 11700 Pierce Way, Louisville, KY:
   lat: 38.086173
   lng: -85.871034
@@ -11339,6 +11348,7 @@
   lng: -85.713684
 2000 Chevy Apollo, Louisville, KY: null
 2000 Chevy Silverado, Louisville, KY: null
+2000 Chevy Tahoe (possibly a black GMC Ugon), Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
@@ -26504,6 +26514,7 @@
 600 South 44th Street, Louisville, KY:
   lat: 38.256241
   lng: -85.824617
+600 South 48th Street, Louisville, KY: null
 600 South 4th Street at Sicilian, Louisville, KY:
   lat: 38.248816
   lng: -85.7581019
@@ -27788,6 +27799,7 @@
 6600 Preston at Winners Cir, Louisville, KY:
   lat: 38.156696
   lng: -85.696994
+6600 Putnam Street, Louisville, KY: null
 6600 Rolling Pasture Way, cross Longview, Louisville, KY: null
 ? 6600 Rutledge Rd following a report. While the specific reason for the call was
   not detailed in the scanner feed, officers were sent to address the situation.,
