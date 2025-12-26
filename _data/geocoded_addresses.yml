@@ -21383,6 +21383,7 @@
   lng: -85.835033
 4200 Flintlock Dr, between Doughline Road and Milner Rd,, Louisville, KY: null
 4200 Foreman Plain, Louisville, KY: null
+4200 Front Lock Drive, Louisville, KY: null
 4200 Glen Eagle Dr, Louisville, KY: null
 ? 4200 Glen Eagle Dr. Further checks revealed the van was registered to a company
   in Indianapolis, Indiana. The investigation involved multiple police units., Louisville,
@@ -27640,6 +27641,7 @@
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
   lng: -85.6630867
+64500 Springdale Rd, Vitality Living, Louisville, KY: null
 647 Main St, Louisville, KY:
   lat: 38.2549368
   lng: -85.740394
@@ -27666,6 +27668,9 @@
   lng: -85.6024786
 6500 Brattleview Circle, Louisville, KY: null
 6500 Brooks-Bendway, Louisville, KY: null
+6500 Dixie Hwy at Toyota, Louisville, KY:
+  lat: 38.156028
+  lng: -85.834706
 6500 Dixie near Circle K, Louisville, KY:
   lat: 38.156028
   lng: -85.834706
