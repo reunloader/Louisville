@@ -53375,4 +53375,20 @@ history:
   batch_success_rate: 40.0
   batch_new_addresses: 5
   batch_new_successes: 2
-last_updated: '2025-12-26T16:50:10.350348'
+- timestamp: '2025-12-26T17:00:40.441808'
+  total_addresses: 15148
+  successful: 7702
+  failed: 7446
+  success_rate: 50.84
+  failure_rate: 49.16
+  failure_patterns:
+    Contains location qualifiers (near/at): 2198
+    Intersection format: 1464
+    Incomplete/vague address: 1782
+    Other/Unknown: 1507
+    Contains extra sentences/context: 486
+    Police phonetic codes: 9
+  batch_success_rate: 100.0
+  batch_new_addresses: 5
+  batch_new_successes: 5
+last_updated: '2025-12-26T17:00:40.441979'
