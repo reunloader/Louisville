@@ -9300,6 +9300,13 @@
 200 Amy Ave, Louisville, KY:
   lat: 38.261491
   lng: -85.813215
+? 200 Ashbury. Officers checked surveillance footage and observed a person matching
+  the description walking eastbound on Kingston around 7:48 p.m. The suspect was last
+  seen in a common area basement with his jacket pulled up. Authorities attempted
+  to verify his identity and location, with some units holding parties and monitoring
+  the area, Louisville, KY
+: lat: 38.171895
+  lng: -85.764847
 200 Ashland and Kathleen Ave, Louisville, KY: null
 200 Atom Street, Louisville, KY: null
 200 Baker and 100 block of Baker, Louisville, KY: null
@@ -14877,6 +14884,9 @@
   following an argument related, Louisville, KY
 : lat: 38.266613
   lng: -85.6580484
+2900 Brownsboro Rd at Super USA, Louisville, KY:
+  lat: 38.2598544
+  lng: -85.6878487
 2900 Brownsboro Rd, Louisville, KY:
   lat: 38.2598544
   lng: -85.6878487
