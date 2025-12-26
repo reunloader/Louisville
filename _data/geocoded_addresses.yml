@@ -2574,6 +2574,7 @@
 1000 police pursuit initiation, Louisville, KY: null
 1000 unspecified location, Louisville, KY: null
 1000 unspecified street, Louisville, KY: null
+1000 vehicle, Louisville, KY: null
 10000 Ashby Farm Dr, Louisville, KY:
   lat: 38.1122843
   lng: -85.8958289
@@ -7800,6 +7801,9 @@
   lat: 38.2318343
   lng: -85.4411101
 17 Butler Rd, Louisville, KY: null
+17 Dale Ave, Louisville, KY:
+  lat: 38.1732022
+  lng: -85.7741076
 17 Dana Dr, Louisville, KY:
   lat: 38.1843698
   lng: -85.8017491
@@ -8923,6 +8927,9 @@
 19 Charles St, Louisville, KY:
   lat: 38.2296897
   lng: -85.734991
+19 Saturn Dr, Louisville, KY:
+  lat: 38.1063816
+  lng: -85.6938331
 19 South Arch Street, Louisville, KY: null
 19 South Fifth St, Louisville, KY: null
 19 Virginia Ave, Louisville, KY:
@@ -25861,6 +25868,7 @@
 5800 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1029536
   lng: -85.6537319
+5800 Cresolalean Drive, Louisville, KY: null
 5800 Crockett Dr, Louisville, KY:
   lat: 38.167516
   lng: -85.873559
@@ -27462,6 +27470,9 @@
 6300 Cottagemeadow Dr, Louisville, KY:
   lat: 38.178505
   lng: -85.646968
+6300 Eureka Ave, Louisville, KY:
+  lat: 38.1902417
+  lng: -85.8605893
 6300 Fairground Rd, Louisville, KY:
   lat: 38.1740102
   lng: -85.5830729
@@ -31255,6 +31266,7 @@
 800 Phillips Ln, near the airport. A person was reported, Louisville, KY:
   lat: 38.1908906
   lng: -85.7431851
+800 Ransum Dr, Louisville, KY: null
 800 Riedley Ct, Louisville, KY:
   lat: 38.2020181
   lng: -85.8286747
@@ -33353,6 +33365,7 @@
 9100 Greyling Dr. The deputy was expected, Louisville, KY:
   lat: 38.115048
   lng: -85.8015183
+9100 Lesparrow Drive, Louisville, KY: null
 9100 Lexington Rd, Louisville, KY:
   lat: 38.2485889
   lng: -85.6808373
