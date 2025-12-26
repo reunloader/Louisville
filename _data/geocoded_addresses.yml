@@ -307,6 +307,7 @@
   lat: 38.202901
   lng: -85.75091
 100 Charlestown Ct, Louisville, KY: null
+100 Charlie and 100 block of Adam, Louisville, KY: null
 100 Charlie and 100 block of Baker, Louisville, KY: null
 100 Charlie and 100 block of Baker, were en route, Louisville, KY: null
 100 Charlie, Louisville, KY:
@@ -9285,6 +9286,9 @@
 2 North Ln, Louisville, KY:
   lat: 38.059521
   lng: -85.8746765
+2 Taylor Blvd, Louisville, KY:
+  lat: 38.1857396
+  lng: -85.7840032
 2 Wiltshire Ave, Louisville, KY:
   lat: 38.2516536
   lng: -85.655682
@@ -21710,6 +21714,7 @@
   lat: 38.2591747
   lng: -85.8219191
 4300 Lindsey Dr, Louisville, KY: null
+4300 Lindview Draws, Louisville, KY: null
 4300 Lonsdale Ave, Louisville, KY:
   lat: 38.1781683
   lng: -85.7864904
@@ -31975,6 +31980,7 @@
 8500 Jan Way, Louisville, KY:
   lat: 38.1272603
   lng: -85.6924261
+8500 Kathy, Department 301, Louisville, KY: null
 8500 La Grange Rd, Louisville, KY:
   lat: 38.2786316
   lng: -85.5174174
@@ -32268,6 +32274,9 @@
   lng: -85.603933
 8800 block, Louisville, KY: null
 8809 Peterborough Dr, Louisville, KY: null
+8900 Artisan Way, Louisville, KY:
+  lat: 38.154511
+  lng: -85.653606
 8900 Auburn Woods Rd, Louisville, KY:
   lat: 38.1389626
   lng: -85.7762939
