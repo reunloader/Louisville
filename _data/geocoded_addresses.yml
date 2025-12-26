@@ -2058,6 +2058,9 @@
   lat: 38.1819023
   lng: -85.7203622
 1000 N S Beckley Station Rd (St, Louisville, KY: null
+1000 N S Beckley Station Rd near Beckley Crossing Dr and Lake Forest Dr, Louisville, KY:
+  lat: 38.2203617
+  lng: -85.4783836
 1000 Neighborhood Pl, Louisville, KY:
   lat: 38.1159005
   lng: -85.7510211
@@ -26445,6 +26448,9 @@
 600 Phillips Ln, Louisville, KY:
   lat: 38.1903862
   lng: -85.7452345
+600 Pine Valley Trail near Woodlily Trail, Louisville, KY:
+  lat: 38.0857556
+  lng: -85.6061256
 600 Pinnacle Gardens Cir, Louisville, KY:
   lat: 38.2866095
   lng: -85.505973
@@ -26736,6 +26742,7 @@
   lat: 38.251484
   lng: -85.5574282
 600 Timberwood Cir, Title Agency Support, Louisville, KY: null
+600 Trade Port Dr and Chadron Dr, Louisville, KY: null
 600 Upland Rd, Louisville, KY:
   lat: 38.2474275
   lng: -85.692023
@@ -34155,6 +34162,7 @@ Beaumont Rd and Hawthorne Ave, Louisville, KY: null
 Beaver St and Adams St, Louisville, KY: null
 Beaver St and Charles St, Louisville, KY: null
 Becker Ave and Park Brook Ln, Louisville, KY: null
+Beckley Crossing Dr and Lake Forest Dr, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Beckley Woods Dr and Westport Rd, Louisville, KY: null
 Bellarmine Blvd and Richmond Dr, Louisville, KY: null
@@ -35056,6 +35064,7 @@ Tiny Ln and Loney Ln, Louisville, KY: null
 Toll Plaza Rd and Lower Terminal Dr, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
 Towers Row Road and Bardstown Rd, Louisville, KY: null
+Trade Port Dr and Chadron Dr, Louisville, KY: null
 Trout Creek Dr and Twin Creek Dr, Louisville, KY: null
 Tyler Ave and Eleanor Ave, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
