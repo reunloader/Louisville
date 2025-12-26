@@ -3209,6 +3209,9 @@
 ? 1100 Easton Parkway. The patient had reportedly vomited three times throughout the
   day. EMS and police units were dispatched, Louisville, KY
 : null
+1100 Elmore St, Louisville, KY:
+  lat: 38.1703081
+  lng: -85.8352336
 1100 Englewood Ave, Louisville, KY:
   lat: 38.2267297
   lng: -85.6284189
@@ -4202,6 +4205,7 @@
   400 block of Adam and 400 block of Baker, responded to the scene, and EMS was on
   standby, Louisville, KY
 : null
+1200 Dixdale Ave, working, Louisville, KY: null
 1200 Dixie Hwy, Louisville, KY:
   lat: 38.236285
   lng: -85.787342
@@ -4358,6 +4362,7 @@
   lng: -85.7433783
 1200 I65 South, Louisville, KY: null
 1200 Idlewood, and Porpinia Avenue, Louisville, KY: null
+1200 Ivinell Ave, working, Louisville, KY: null
 1200 Kentucky Mills Dr, Louisville, KY: null
 1200 Kremer Ave, Louisville, KY:
   lat: 38.170823
@@ -4710,6 +4715,7 @@
 1200 Springdale, Louisville, KY:
   lat: 38.191809
   lng: -85.726961
+1200 St Rene Rd. They provided emergency care to the young girl and transported her, Louisville, KY: null
 1200 St, Louisville, KY: null
 1200 Story Ave near Bickel and Cable, Louisville, KY:
   lat: 38.2551819
@@ -4722,6 +4728,9 @@
   KY'
 : null
 1200 Story Ave, Louisville, KY:
+  lat: 38.2551819
+  lng: -85.7280531
+1200 Story Ave. The patient was assessed and received care on scene, with responders working, Louisville, KY:
   lat: 38.2551819
   lng: -85.7280531
 1200 Taylor's Road, Louisville, KY: null
@@ -13233,6 +13242,7 @@
   lng: -85.7015076
 2400 Bustown Road, Louisville, KY: null
 2400 Chamberlain Cross and Drive, Louisville, KY: null
+2400 Clark Station Rd and 25 Poplar Hill Rd, Louisville, KY: null
 ? 2400 Concord Dr following a concerning report. The call indicated a possible stabbing
   involving a 15-year-old female and her mother. Information received suggested a
   history of non-credible calls from the residence. Police and EMS units arrived,
@@ -28413,6 +28423,7 @@
 6900 Brooklyn. A BOLO was issued with a description of the vehicle, and officers responded, Louisville, KY: null
 6900 Brooklyn. The vehicle theft remains under investigation as officers work, Louisville, KY: null
 6900 Butler's Road, Louisville, KY: null
+6900 Cabel St and 1200 block of Story Ave, Louisville, KY: null
 6900 Carslaw Ct, Louisville, KY:
   lat: 38.3413488
   lng: -85.6213737
@@ -28445,6 +28456,9 @@
   lat: 38.0881678
   lng: -85.6509403
 6900 Crosswinds Dr, across the Creek Valley, Marengo, Louisville, KY: null
+6900 Dixdale Ave near South 23rd and South 22nd, Louisville, KY:
+  lat: 38.2225783
+  lng: -85.7985796
 6900 Dixie Hwy, Louisville, KY:
   lat: 38.1504767
   lng: -85.8377877
@@ -28468,6 +28482,9 @@
 6900 Holly Lake Dr near Cedar Lake Dr, Louisville, KY:
   lat: 38.1470179
   lng: -85.5842127
+6900 Ivinell Ave near Crush Hill, Louisville, KY:
+  lat: 38.1700409
+  lng: -85.6001707
 6900 Kentucky, Louisville, KY:
   lat: 38.1537352
   lng: -85.819662
@@ -28528,6 +28545,7 @@
 6900 Southside Dr, Louisville, KY:
   lat: 38.157992
   lng: -85.764776
+6900 St Rene Rd, Louisville, KY: null
 6900 Sylvania Rd, Louisville, KY:
   lat: 38.153508
   lng: -85.876225
