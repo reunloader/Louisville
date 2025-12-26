@@ -2635,6 +2635,7 @@
   lat: 38.291103
   lng: -85.564658
 10000 Whipps Mill Rd, Crop St, Kingman Blvd, Louisville, KY: null
+10000 Windcrest Farms Ln, Louisville, KY: null
 ? 10000 Wingfield Rd. Occupants experienced burning eyes but declined medical attention
   and were advised to leave the building., Louisville, KY
 : null
@@ -6410,6 +6411,7 @@
 1400 South4th Street, Louisville, KY:
   lat: 38.2289095
   lng: -85.7617931
+1400 South7th Street gas station, Louisville, KY: null
 1400 South8th Street, Louisville, KY:
   lat: 38.229071
   lng: -85.769064
@@ -17903,6 +17905,9 @@
 3500 Fincastle Rd, Louisville, KY:
   lat: 38.207673
   lng: -85.715359
+3500 Foreman Ln, Louisville, KY:
+  lat: 38.1313274
+  lng: -85.6992198
 3500 Garrison Rd, Louisville, KY:
   lat: 38.1375649
   lng: -85.7572713
