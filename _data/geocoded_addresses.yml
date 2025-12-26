@@ -3199,6 +3199,9 @@
   a bleeding issue related, Louisville, KY
 : lat: 38.253828
   lng: -85.7314324
+1100 Eastern Parkway at Swiss DMS, Louisville, KY:
+  lat: 38.224057
+  lng: -85.72999
 1100 Eastern Parkway, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
@@ -15750,6 +15753,7 @@
 300 Manchester and 1000 block of East Indian Trail, Louisville, KY: null
 300 Manchester before proceeding to the 1000 block of East Indian Trail. The reason, Louisville, KY: null
 300 Marengo Dr, Louisville, KY: null
+300 Market and Roy Wilkins, Louisville, KY: null
 300 Masonic Home Dr, Louisville, KY:
   lat: 38.2557331
   lng: -85.6652257
@@ -24028,6 +24032,7 @@
   lat: 38.2691315
   lng: -85.805995
 500 North Hubbard Lane, Louisville, KY: null
+500 North Hubbard and St, Louisville, KY: null
 500 North at mile marker6, Louisville, KY:
   lat: 38.2531521
   lng: -85.580631
@@ -25457,6 +25462,7 @@
 5500 Hunt Club Ln, near 3rd St Rene Rd,, Louisville, KY:
   lat: 38.143656
   lng: -85.777398
+5500 Indian Oaks Cir from 4900 block of Papa Level, Louisville, KY: null
 5500 Indian Oaks Cir, Louisville, KY:
   lat: 38.1695373
   lng: -85.6869482
@@ -28028,6 +28034,7 @@
 6600 Newbridge Pl, Louisville, KY:
   lat: 38.1578121
   lng: -85.5895715
+6600 Oak Valley Dr B1, Louisville, KY: null
 6600 Our Hunters Trace, Louisville, KY: null
 6600 Outer Loop, Louisville, KY:
   lat: 38.1370478
@@ -31317,6 +31324,9 @@
   lat: 38.240608
   lng: -85.740319
 800 Salt Lick Ln, Louisville, KY: null
+800 Samoa Way at Circle Hill Rd and Starlite Dr, Louisville, KY:
+  lat: 38.2406976
+  lng: -85.6672774
 800 Sandal, Middletown area, Louisville, KY: null
 800 Santa Fe Trail, Louisville, KY:
   lat: 38.1670069
@@ -34497,6 +34507,7 @@ Church Rd and Cooper Chapel Rd, Louisville, KY:
   lng: -85.6424154
 Church Rd and Renwood Blvd, Louisville, KY: null
 Churchman Ave and Bicknell Ave, Louisville, KY: null
+Circle Hill Rd and Starlite Dr, Louisville, KY: null
 Clara Ave and Taylor Blvd, Louisville, KY: null
 Clark Run Rd and Cane Run Rd, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
