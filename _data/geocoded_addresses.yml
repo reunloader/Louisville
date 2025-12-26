@@ -17250,6 +17250,9 @@
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
+3300 Bardstown Rd, near Louisville Tire Distributors, Louisville, KY:
+  lat: 38.2076242
+  lng: -85.6693366
 3300 Bardstown Rd, near Valmont and Doe Smith, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
@@ -19176,6 +19179,7 @@
 3900 Preston Hwy, Louisville, KY:
   lat: 38.1950923
   lng: -85.7300334
+3900 Produce Rd, Louisville Tire Distributors, Louisville, KY: null
 3900 Rankin due, Louisville, KY: null
 3900 Rankin, Louisville, KY:
   lat: 38.199021
@@ -33810,6 +33814,7 @@
   lng: -85.7004356
 9700 U, Louisville, KY: null
 9700 Vaughan Almond Corporation, Louisville, KY: null
+9700 West Mill Road, Creekside, West Mill, Louisville, KY: null
 9700 Westport Rd, Louisville, KY:
   lat: 38.287983
   lng: -85.571271
