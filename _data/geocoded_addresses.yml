@@ -2282,6 +2282,9 @@
 1000 Samuel St at Eastern Star Nursing Home, Louisville, KY:
   lat: 38.2289555
   lng: -85.7364545
+1000 Samuel St, Louisville, KY:
+  lat: 38.2289555
+  lng: -85.7364545
 1000 Seatonville Rd, Louisville, KY:
   lat: 38.1431383
   lng: -85.5614901
@@ -3881,6 +3884,9 @@
 11400 Electron Dr, Louisville, KY:
   lat: 38.2023336
   lng: -85.5472496
+11400 Garden Trace Dr, Louisville, KY:
+  lat: 38.082761
+  lng: -85.6574631
 11400 Leman Dr between Windy Willow and Rockwater, Louisville, KY: null
 11400 Leman Dr. The patient is a 21-year-old female experiencing chest pain and was able, Louisville, KY:
   lat: 38.2055725
@@ -5913,6 +5919,9 @@
   lat: 38.2188313
   lng: -85.7034735
 1400 Blago, Berry, Louisville, KY: null
+1400 Bland St, Louisville, KY:
+  lat: 38.226677
+  lng: -85.743198
 ? 1400 Bland Street to investigate the situation. The initial report indicated the
   caller was screaming, prompting a swift response. Further details confirmed the
   presence of a weapon and the involvement of a brother., Louisville, KY
@@ -27667,6 +27676,7 @@
   lat: 38.1552702
   lng: -85.7125852
 65 South First Gethsemane Ave, Louisville, KY: null
+65 South Second Street, Louisville, KY: null
 6500 Applegate Ln after a caller instructed someone, Louisville, KY: null
 6500 Applegate Ln, Louisville, KY:
   lat: 38.130385
@@ -32424,6 +32434,9 @@
 900 Black Powder Ln, Louisville, KY:
   lat: 38.1196636
   lng: -85.6049356
+900 Blackberry Dr, Louisville, KY:
+  lat: 38.1160452
+  lng: -85.7894781
 900 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -32881,6 +32894,7 @@
 900 South Brook, Louisville, KY:
   lat: 38.241061
   lng: -85.752613
+900 South District, Crusher Spratt Street, and Krieger St, Louisville, KY: null
 900 South Fifth Street, Louisville, KY: null
 ? 900 South Fifth Street. A 36-year-old male victim sustained injuries including a
   broken elbow and head trauma. EMS was dispatched to provide medical attention and
@@ -34710,6 +34724,7 @@ Mary Catherine Dr and Ecton Ln, Louisville, KY: null
 Mason Ln and Sharon Ln, Louisville, KY: null
 Mason Rd and Belmont Rd, Louisville, KY: null
 Mason Rd and Chenoweth Run Rd, Louisville, KY: null
+Mason Rd and South Firstborn Parkway, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
 Mayfair Ln and Basswood Ln, Louisville, KY: null
 Mayfield Rd and Dillon Road, Louisville, KY: null
