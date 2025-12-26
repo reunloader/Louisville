@@ -254,6 +254,7 @@
   lat: 38.1716047
   lng: -85.7633871
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
+100 Breaker, Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
   lng: -85.655303
@@ -15580,6 +15581,7 @@
 300 East Burnett, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
+300 East Chatham Street, Louisville, KY: null
 300 East Colbrook Avenue at Quality Inn, Louisville, KY:
   lat: 38.2242172
   lng: -85.7521083
@@ -34078,6 +34080,9 @@
   lat: 38.1064109
   lng: -85.6721115
 9800 Rid-shod Drive, Louisville, KY: null
+9800 Saturn Dr, Louisville, KY:
+  lat: 38.106409
+  lng: -85.693931
 9800 Seville Dr, Louisville, KY:
   lat: 38.1140967
   lng: -85.8526359
