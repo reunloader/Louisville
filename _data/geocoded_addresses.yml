@@ -964,6 +964,9 @@
 100 Pope St near Arlington Street, Louisville, KY:
   lat: 38.254043
   lng: -85.71819
+100 Pope St, Louisville, KY:
+  lat: 38.254043
+  lng: -85.71819
 100 Pope Street, [Date] 4:00 a, Louisville, KY: null
 100 Pope Street, [Date] 4:00 a.m., Louisville, KY: null
 ? 100 Pope Street. The individual is described as a 35-year-old female. She was last
@@ -22696,6 +22699,7 @@
   lat: 38.1731815
   lng: -85.4590633
 4600 Tell Boulevard, Louisville, KY: null
+4600 Tip C Circle, parking lot, Louisville, KY: null
 4600 Valley Station Rd, Louisville, KY:
   lat: 38.1069091
   lng: -85.8414002
@@ -23206,6 +23210,7 @@
 4900 Hanses Dr, Louisville, KY:
   lat: 38.1601786
   lng: -85.6794729
+4900 Hardy Park Drive, Louisville, KY: null
 4900 Heathmoore Ct, Louisville, KY: null
 4900 K W Drive, Louisville, KY: null
 4900 Kermit's Run Road, Louisville, KY: null
@@ -23222,6 +23227,9 @@
 4900 Mile Of Sunshine, Louisville, KY:
   lat: 38.149979
   lng: -85.669439
+4900 Minute Men Ct, Louisville, KY:
+  lat: 38.1323622
+  lng: -85.7618916
 4900 Norton Healthcare Blvd, Louisville, KY:
   lat: 38.3121875
   lng: -85.5731564
@@ -30794,6 +30802,10 @@
 800 E Gray St, Louisville, KY:
   lat: 38.245743
   lng: -85.739167
+800 E Main St behind a construction building, Louisville, KY: null
+800 E Main St, Louisville, KY:
+  lat: 38.2543888
+  lng: -85.7376467
 800 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -31098,6 +31110,7 @@
 800 South23rd Street. No injuries were reported, and officers are working, Louisville, KY:
   lat: 38.246744
   lng: -85.790185
+800 South26 Street and laundromat, Louisville, KY: null
 800 South32nd Street, Louisville, KY:
   lat: 38.2476663
   lng: -85.8059077
