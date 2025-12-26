@@ -28648,6 +28648,7 @@
 700 Farmingham Rd near Alloway Ct and Bell Rock Ct, Louisville, KY: null
 700 Feel Nice, Waycross Ave, Louisville, KY: null
 700 Feel Nice, Waycross Ave,, Louisville, KY: null
+700 Fill It’s Lane, Louisville, KY: null
 700 Fill a Sign Street, Louisville, KY: null
 700 Films, Louisville, KY: null
 700 Fox Skate Road, Louisville, KY: null
@@ -28851,6 +28852,9 @@
   up and the keys were left inside. Police units were involved in assessing the situation.,
   Louisville, KY
 : null
+700 Phillips Ln, Louisville, KY:
+  lat: 38.1902756
+  lng: -85.7443853
 ? 700 Phillips Ln. A male was detained by officers. The detention was related to an
   assault that reportedly took place shortly after. A red Buick was also noted in
   connection with the incident., Louisville, KY
@@ -31036,6 +31040,9 @@
 800 South 25th Street, Louisville, KY:
   lat: 38.245514
   lng: -85.79349
+800 South 26th Street, Louisville, KY:
+  lat: 38.246164
+  lng: -85.795377
 ? 800 South 28th Street following a request for a medical emergency or a welfare check.
   Responders confirmed their location and availability to assist. Further details
   regarding the nature of the call or the outcome were not immediately available.,
@@ -32701,6 +32708,7 @@
 900 South I-65, Louisville, KY: null
 900 South Second Street, Louisville, KY: null
 900 South Second, CrossFit Baxter, Louisville, KY: null
+900 South Second, Louisville, KY: null
 900 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
