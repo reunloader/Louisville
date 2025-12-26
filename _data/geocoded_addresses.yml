@@ -426,6 +426,7 @@
 100 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+100 E W Market St crossing, Louisville, KY: null
 100 E W Market St near White Castle, Louisville, KY:
   lat: 38.2554323
   lng: -85.7586619
@@ -3582,6 +3583,7 @@
 : lat: 38.241236
   lng: -85.820584
 1100 South4th Street area, Louisville, KY: null
+1100 South4th Street cross of Oak and St, Louisville, KY: null
 1100 South4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -7954,6 +7956,9 @@
 1700 Garland, Louisville, KY:
   lat: 38.2427981
   lng: -85.7820403
+? 1700 Greenwood Ave, prompting a BOLO (Be On Lookout) alert. Responders were alerted
+  to locate and monitor the vehicle, Louisville, KY
+: null
 1700 Gresham Rd near Woodvilleville and Fleming, Louisville, KY:
   lat: 38.2158036
   lng: -85.6939991
@@ -33132,6 +33137,7 @@
   lat: 38.2415729
   lng: -85.7595586
 900 South4th Street, River Oaks Rehab Center, Louisville, KY: null
+900 South4th Street, Salvation Army, Louisville, KY: null
 ? '900 South5th Street)** (around 10:37 a.m. a.m. a.m.): EMS responded to a 73-year-old
   female experiencing shortness of breath. The incident occurred at the cross of Garland
   and Baseball, specifically in. Units involved included . - **Structure Fire (10-400
