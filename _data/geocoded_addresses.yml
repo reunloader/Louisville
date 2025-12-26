@@ -3924,6 +3924,9 @@
   lat: 38.2282869
   lng: -85.4306933
 11600 Grange Row, Louisville, KY: null
+11600 Larkin Fore Way, Louisville, KY:
+  lat: 38.1048113
+  lng: -85.5633667
 11600 Main St, Louisville, KY:
   lat: 38.2446121
   lng: -85.5412585
@@ -23129,6 +23132,9 @@
   Louisville, KY
 : null
 4800 Poplova Road, Louisville, KY: null
+4800 Preston Dr, Louisville, KY:
+  lat: 38.1778509
+  lng: -85.7159232
 4800 Preston Hwy, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
@@ -25920,6 +25926,7 @@
 600 Adam. Emergency services were dispatched, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+600 Adams and Baker, Louisville, KY: null
 600 Airport Hotels Blvd, Louisville, KY: null
 600 Apex C Dr, Louisville, KY: null
 600 Arthur St, Louisville, KY:
