@@ -3223,6 +3223,7 @@
 1100 Everett Ave, Louisville, KY:
   lat: 38.239542
   lng: -85.717603
+1100 Ford, Judge Blvd, Louisville, KY: null
 1100 Fretling Row, Louisville, KY: null
 1100 Gagel, Louisville, KY:
   lat: 38.1728712
@@ -20282,6 +20283,9 @@
 400 South 4th, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
+400 South 5th Street at Metro Development, Louisville, KY:
+  lat: 38.253135
+  lng: -85.758928
 400 South 5th Street, Louisville, KY:
   lat: 38.253135
   lng: -85.758928
@@ -22022,6 +22026,9 @@
   lat: 38.1125665
   lng: -85.8631151
 4400 Dixie Hwy near Lowell Memorial Gardens, Crescent State Union I-264, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
+4400 Dixie Hwy near Memorial Gardens, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
 ? 4400 Dixie Hwy to assist a person experiencing chest pain. Further details regarding
@@ -31553,6 +31560,7 @@
   lng: -85.8651361
 8000 Cortland Dr was reported, Louisville, KY: null
 8000 Current Drive, Louisville, KY: null
+8000 DeRonia Ave, Minnacle Delta, Louisville, KY: null
 8000 Dickinson Dr, Louisville, KY: null
 8000 Dixie Hwy, Louisville, KY:
   lat: 38.1353679
@@ -35228,6 +35236,7 @@ Wolfpin Branch Road and Springdale Road, Louisville, KY: null
 Woodbourne Ave and Boletta Road, Louisville, KY: null
 Woodgate Lane and Manor Hill Drive, Louisville, KY: null
 Woodland Ave and Catalpa St, Louisville, KY: null
+Woodruff Ave and Camden Ave, Louisville, KY: null
 Worthington Ln and Elder Ln, Louisville, KY: null
 Worthington Ln and Stone School Rd, Louisville, KY: null
 York St and Global Dr, Louisville, KY: null
