@@ -567,6 +567,9 @@
 100 Gilmore. The specific reason, Louisville, KY:
   lat: 38.1789198
   lng: -85.7056127
+100 Goddard Ave, Louisville, KY:
+  lat: 38.2324719
+  lng: -85.7214607
 100 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
@@ -14644,6 +14647,9 @@
 28 Bank St, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
+28 Magazine St, Louisville, KY:
+  lat: 38.2493289
+  lng: -85.7734408
 28 Shelvis Dr, Louisville, KY:
   lat: 38.18811
   lng: -85.8404812
@@ -30631,6 +30637,7 @@
   lat: 38.12541
   lng: -85.893176
 7600 Tradeport, Louisville, KY: null
+7600 Traighport Drive, Louisville, KY: null
 7600 West Dr, Louisville, KY:
   lat: 38.1577479
   lng: -85.730657
