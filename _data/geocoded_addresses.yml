@@ -3165,6 +3165,9 @@
 1100 East Broadway. The vehicle was observed, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
+1100 East Market, Louisville, KY:
+  lat: 38.2518705
+  lng: -85.7309248
 1100 East W Market St, Louisville, KY: null
 1100 East W Market St, a location known as the Home of the Innocents, due, Louisville, KY: null
 ? 1100 East W Market St, near S Johnson St. The patient was a 24-year-old female experiencing
@@ -6474,6 +6477,9 @@
 1400 West Market, Louisville, KY:
   lat: 38.256993
   lng: -85.773508
+1400 Weyler Ave, Louisville, KY:
+  lat: 38.2030143
+  lng: -85.7863676
 1400 Willow Ave was assessed by EMS, Louisville, KY: null
 1400 Willow Ave, Louisville, KY:
   lat: 38.2357366
@@ -10987,6 +10993,7 @@
   lng: -85.7745966
 200 Westbound at mile marker 71, Louisville, KY: null
 200 Westbound at number14, Louisville, KY: null
+200 Westbound expressway, Louisville, KY: null
 200 Westbound near Breckridge and St, Louisville, KY: null
 200 Westbound near Southern Pky, Louisville, KY:
   lat: 38.1747458
