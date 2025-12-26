@@ -3229,6 +3229,9 @@
 : null
 1100 King Arthur Ln, Louisville, KY: null
 1100 Lewis Coleman Jr, Louisville, KY: null
+1100 Lincoln Ave at the cross of Colorado and Utah, Louisville, KY:
+  lat: 38.2117499
+  lng: -85.7744423
 1100 Lincoln Ave near Lindbergh Dr and Colorado Ave, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
@@ -5551,6 +5554,9 @@
 1300 W Chestnut St, Louisville, KY:
   lat: 38.2502801
   lng: -85.7733327
+1300 W Kentucky St, Louisville, KY:
+  lat: 38.2409326
+  lng: -85.7743233
 1300 W Market St across South15th and South 13th Street, Louisville, KY: null
 1300 W Market St at Disney St Patrick cross of South15th and South 13th, Louisville, KY:
   lat: 38.256806
@@ -7543,6 +7549,9 @@
 1600 Stone Bluff Rd, Louisville, KY:
   lat: 38.1633395
   lng: -85.6222787
+1600 Story Ave near Brownsboro, Louisville, KY:
+  lat: 38.2588187
+  lng: -85.7212346
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
@@ -8876,6 +8885,9 @@
 ? 1900 Dubarque Avenue, near Fitzgerald and Wartell. The alarm was identified as a
   smoke detector. Responders investigated the activation, Louisville, KY
 : null
+1900 Duncan St near 28th and 19th Streets, Louisville, KY:
+  lat: 38.261955
+  lng: -85.781051
 1900 Duncan St, Louisville, KY:
   lat: 38.261955
   lng: -85.781051
@@ -32521,6 +32533,7 @@
   was provided to the person at the scene., Louisville, KY
 : null
 900 South 4th St following a report of an individual who had fallen. Assistance was provided, Louisville, KY: null
+900 South 4th St, across from Friendship House, Louisville, KY: null
 900 South 4th Street at the Friendship House, Louisville, KY:
   lat: 38.2402331
   lng: -85.7594042
