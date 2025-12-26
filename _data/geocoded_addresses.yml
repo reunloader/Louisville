@@ -11276,6 +11276,7 @@
 200 southbound I- near Cannons Ln, Louisville, KY:
   lat: 38.235109
   lng: -85.65801
+200 southbound I-200 near mile markers 2 and 3, Louisville, KY: null
 200 southbound I-64 at New Cudden, Louisville, KY: null
 200 southbound I-64 near New Cut Rd ramp, Louisville, KY: null
 200 southbound at Avila Church, Louisville, KY: null
@@ -19202,6 +19203,7 @@
 : lat: 38.1807123
   lng: -85.6574369
 3900 Hope Cross Drive, Louisville, KY: null
+3900 Horchard Lake, Louisville, KY: null
 3900 Iron Horse Way near Heavenly Way, Louisville, KY:
   lat: 38.1000305
   lng: -85.8328339
@@ -25095,6 +25097,9 @@
 5300 Milner Rd, Louisville, KY:
   lat: 38.1619458
   lng: -85.8354956
+5300 Mitscher Ave near Value Market, Louisville, KY:
+  lat: 38.1713857
+  lng: -85.7709066
 5300 Mitscher Ave, Louisville, KY:
   lat: 38.1713857
   lng: -85.7709066
