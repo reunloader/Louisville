@@ -1292,6 +1292,9 @@
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
   lng: -85.6228053
+100 West Broadway at Hotel Louisville, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 West Broadway at Hotel of Louisville, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -3230,6 +3233,9 @@
 1100 King Arthur Ln, Louisville, KY: null
 1100 Lewis Coleman Jr, Louisville, KY: null
 1100 Lincoln Ave at the cross of Colorado and Utah, Louisville, KY:
+  lat: 38.2117499
+  lng: -85.7744423
+1100 Lincoln Ave near Colorado and Utah, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
 1100 Lincoln Ave near Lindbergh Dr and Colorado Ave, Louisville, KY:
@@ -5582,6 +5588,9 @@
 1300 West Chestnut, Louisville, KY:
   lat: 38.2502801
   lng: -85.7733327
+1300 West Kentucky at a private trust, Louisville, KY:
+  lat: 38.2474957
+  lng: -85.773462
 1300 West Markridge Street, Louisville, KY: null
 1300 West41st St, Louisville, KY: null
 '1300 Whirling Tiger)** (around 12:47 a.m. p.m. a.m.): A 29-year-old female was reported, Louisville, KY': null
@@ -7552,6 +7561,9 @@
 1600 Story Ave near Brownsboro, Louisville, KY:
   lat: 38.2588187
   lng: -85.7212346
+1600 Story Ave, Louisville, KY:
+  lat: 38.2588187
+  lng: -85.7212346
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
@@ -9112,6 +9124,9 @@
   not observe any other immediate issues. The units cleared the scene, Louisville,
   KY
 : null
+1900 Union St, Louisville, KY:
+  lat: 38.2045499
+  lng: -85.7160259
 1900 Vito, Louisville, KY: null
 1900 W Chestnut St experiencing a severe cough and fits, which were suspected, Louisville, KY: null
 1900 W Chestnut St, Louisville, KY:
@@ -15677,6 +15692,7 @@
 300 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+300 Ralph Street heading toward Dixie Hwy, Louisville, KY: null
 300 Revolutionary Rd, Louisville, KY:
   lat: 38.133711
   lng: -85.761212
@@ -20556,6 +20572,9 @@
 4000 Lambert Ave, Louisville, KY:
   lat: 38.1831717
   lng: -85.6533872
+4000 Larkwood, Louisville, KY:
+  lat: 38.25871
+  lng: -85.816467
 4000 Laurelwood Ave, Louisville, KY:
   lat: 38.226391
   lng: -85.634019
@@ -27581,6 +27600,7 @@
   lat: 38.0757648
   lng: -85.8753075
 6508 Winter View Dr, Louisville, KY: null
+658 (location unclear), Louisville, KY: null
 658 South Point Street, Louisville, KY: null
 6600 Adam Ridge Pl, Louisville, KY: null
 6600 Ashby Ln, Louisville, KY:
@@ -32581,6 +32601,9 @@
 900 South First Street near Cosmo Street and West Berkman Street, Louisville, KY: null
 900 South First Street, Louisville, KY: null
 900 South Fork Street, Breckenridge, Louisville, KY: null
+900 South Forth at Friendship House, Louisville, KY:
+  lat: 38.2402331
+  lng: -85.7594042
 900 South Forth, Louisville, KY: null
 900 South Fourth Street, Louisville, KY: null
 900 South Grove Street, near the Salvation Army in Brooklyn Ridge,, Louisville, KY: null
