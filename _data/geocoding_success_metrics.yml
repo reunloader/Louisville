@@ -53439,4 +53439,20 @@ history:
   batch_success_rate: 40.0
   batch_new_addresses: 10
   batch_new_successes: 4
-last_updated: '2025-12-26T17:51:27.958728'
+- timestamp: '2025-12-26T17:56:57.047962'
+  total_addresses: 15164
+  successful: 7707
+  failed: 7457
+  success_rate: 50.82
+  failure_rate: 49.18
+  failure_patterns:
+    Contains location qualifiers (near/at): 2200
+    Intersection format: 1467
+    Incomplete/vague address: 1785
+    Other/Unknown: 1509
+    Contains extra sentences/context: 487
+    Police phonetic codes: 9
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2025-12-26T17:56:57.048112'
