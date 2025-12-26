@@ -3129,6 +3129,9 @@
 1100 DeLore Avenue near Catholic Boulevard and Hickory St, Louisville, KY: null
 1100 DeLore Avenue, Louisville, KY: null
 1100 Dixie Hwy, Louisville, KY: null
+1100 Dixie, Louisville, KY:
+  lat: 38.2398168
+  lng: -85.785976
 1100 Dorsey Ln, Louisville, KY:
   lat: 38.263411
   lng: -85.5633473
@@ -5095,6 +5098,9 @@
 1300 Central Ave, Louisville, KY:
   lat: 38.2096295
   lng: -85.7791015
+1300 Cherokee Rd, Louisville, KY:
+  lat: 38.2359273
+  lng: -85.7142243
 ? 1300 Chestnut View Ct after an officer conducted a check on a Kentucky license plate.
   The vehicle involved in the stop was identified as a black Lincoln Sudan., Louisville,
   KY
@@ -12580,6 +12586,7 @@
 2200 W W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+2200 Walbert Straub, Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched, Louisville, KY: null
 2200 West Ali Blvd, Louisville, KY:
@@ -30997,6 +31004,7 @@
   lng: -85.5612938
 800 North Polk Lake Road, Louisville, KY: null
 800 Ontario Road, Louisville, KY: null
+800 Overdale Dr, Louisville, KY: null
 800 Oxford Avenue, Louisville, KY: null
 800 Paper Birch Way and Hickory, Louisville, KY: null
 800 Pflanz Ave, Louisville, KY:
