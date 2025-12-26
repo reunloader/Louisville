@@ -2888,6 +2888,9 @@
   lat: 38.099744
   lng: -85.852204
 10600 Leading Street, Louisville, KY: null
+10600 Meeting St, Louisville, KY:
+  lat: 38.3229566
+  lng: -85.5658962
 10600 Moraine Cir, Louisville, KY: null
 10600 Newton Woods Trail, Louisville, KY: null
 10600 Newtown Woods Trail, Louisville, KY: null
@@ -18911,6 +18914,9 @@
   lat: 38.258492
   lng: -85.7798203
 3800 South Hunsborne Parkway, Louisville, KY: null
+3800 South38th Street, Louisville, KY:
+  lat: 38.240538
+  lng: -85.8166821
 3800 Stockridge Rd, Louisville, KY:
   lat: 38.3064162
   lng: -85.6226363
@@ -21118,6 +21124,7 @@
 4100 Sherman Ave, Louisville, KY:
   lat: 38.198047
   lng: -85.718596
+4100 Sinser Street, Louisville, KY: null
 4100 South 2nd Street (Morning), Louisville, KY: null
 ? 4100 South 2nd Street following a report of a domestic dispute involving violence.
   The situation reportedly involved a grandson and his girlfriend, with the caller
@@ -21802,6 +21809,7 @@
   lng: -85.78458
 4300 Wisteria Ave, Louisville, KY: null
 4300 Wisteria Landing Cir, Louisville, KY: null
+4300 Wooded Way Ct, Louisville, KY: null
 4300 Wooded-Jay Ct, Louisville, KY: null
 4300 York St, Louisville, KY:
   lat: 38.243908
