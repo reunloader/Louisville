@@ -624,6 +624,7 @@
   lng: -85.7771132
 100 Kilmarie Avenue, Louisville, KY: null
 100 LaFontaine Drive, Louisville, KY: null
+100 LaFontana Drive, Louisville, KY: null
 100 Lafayette Dr, Louisville, KY:
   lat: 38.1940389
   lng: -85.7941733
@@ -11267,6 +11268,9 @@
   lat: 38.2039503
   lng: -85.7607432
 200 ramp, Lowell Memorial Gardens, Crop St, St, Louisville, KY: null
+200 south at Dixie Hwy, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 south near the 2-mile marker, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -26936,6 +26940,9 @@
   lat: 38.2388402
   lng: -85.4177414
 600 Whiskey Delta Echo near Taylor Blvd and Walter Ave, Louisville, KY: null
+600 Wickfield Dr, Louisville, KY:
+  lat: 38.2308389
+  lng: -85.4894081
 600 Wimbleton Ct, Louisville, KY: null
 600 Windale, Louisville, KY: null
 600 Windsor Pl near Moss Roads, Louisville, KY:
@@ -34007,6 +34014,9 @@
   lat: 38.3125224
   lng: -85.5668407
 9800 Bucharest Road, Louisville, KY: null
+9800 Bunsen Parkway, Louisville, KY:
+  lat: 38.2421112
+  lng: -85.6153728
 ? 9800 Cedar Garden Drive. Responding officers arrived to investigate the cause of
   the alarm. The situation was addressed by the units on scene., Louisville, KY
 : null
@@ -34511,6 +34521,7 @@ Dawson Hill Rd and Charlie Brush Run Rd, Louisville, KY: null
 Dawson Hill Rd and Wood Valley Ln, Louisville, KY: null
 Dean Dr and Flora Ave, Louisville, KY: null
 Delor Ave and Kansas Boulevard, Louisville, KY: null
+Denver Ln and Herod Lane, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dockby Drive and Wenderspoon Street, Louisville, KY: null
 Dohn Ave and Veronica Dr, Louisville, KY: null
