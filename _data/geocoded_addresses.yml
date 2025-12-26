@@ -2558,6 +2558,9 @@
 1000 [Street Name Unclear], Louisville, KY:
   lat: 38.1394402
   lng: -85.7834796
+1000 [unspecified location], Louisville, KY:
+  lat: 38.1394402
+  lng: -85.7834796
 1000 a street, Louisville, KY: null
 ? 1000 a street. A silver Dodge Caliber was observed in the area, and four individuals,
   three males and one female, were reportedly seen nearby., Louisville, KY
@@ -7816,6 +7819,9 @@
 17 Paradise Ln, Louisville, KY:
   lat: 38.1376816
   lng: -85.8711228
+17 Red Fern Rd, Louisville, KY:
+  lat: 38.1733237
+  lng: -85.6668487
 17 Sharon Dr, Louisville, KY:
   lat: 38.1546747
   lng: -85.8284379
@@ -18845,6 +18851,7 @@
   lat: 38.2497939
   lng: -85.812841
 3700 West Leap, Louisville, KY: null
+3700 West Leaton Ward Drive, Louisville, KY: null
 3700 West Leitmore, Louisville, KY: null
 3700 West Weedmore Drive, Louisville, KY: null
 3700 West Wheatmore, Louisville, KY:
@@ -22802,6 +22809,9 @@
   at the 6100 block of Janes Farm Dr, a 70-year-old female with shoulder pain was
   attended, Louisville, KY
 : null
+4600 Outer Loop, Louisville, KY:
+  lat: 38.137966
+  lng: -85.676653
 4600 Preston Hwy near I-65 exit, Louisville, KY:
   lat: 38.1819958
   lng: -85.720909
@@ -25888,6 +25898,9 @@
 5800 Fern Valley Rd, Louisville, KY:
   lat: 38.1544757
   lng: -85.6531881
+5800 Flagstone Ct, Louisville, KY:
+  lat: 38.1482146
+  lng: -85.6515267
 5800 Granwood Ln, Louisville, KY:
   lat: 38.154547
   lng: -85.8601546
