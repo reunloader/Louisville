@@ -5064,6 +5064,7 @@
 12500 Saxony Park Cir, Louisville, KY:
   lat: 38.1856818
   lng: -85.5224806
+12500 Taylor'sville Road, Louisville, KY: null
 12500 W Road, Kroger gas station, Louisville, KY: null
 12600 Bay Arbor Pl, Louisville, KY: null
 12600 Charles Farm Cir, Louisville, KY: null
@@ -5817,10 +5818,12 @@
 1316 Kremer Ave, Louisville, KY:
   lat: 38.1715665
   lng: -85.7011457
+1320 a street, Louisville, KY: null
 13200 Cain Ln, Louisville, KY:
   lat: 38.2932179
   lng: -85.513383
 13200 Fourth Circle, Louisville, KY: null
+13200 Little Forest Drive, Louisville, KY: null
 13200 Middle One Drive, Louisville, KY: null
 13200 block, Louisville, KY: null
 13300 Conductor Cir, Louisville, KY: null
@@ -7226,6 +7229,7 @@
 1500 Trotters Pointe Dr, Louisville, KY:
   lat: 38.3198511
   lng: -85.5580633
+1500 Tuff Salary Street, Louisville, KY: null
 1500 W Chestnut St, Louisville, KY:
   lat: 38.2508017
   lng: -85.7763382
