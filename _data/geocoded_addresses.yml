@@ -1562,6 +1562,9 @@
   lat: 38.1318053
   lng: -85.7849783
 1000 Arrowhead Rd, Louisville, KY: null
+1000 Ash St near McHenry and Hickory, Louisville, KY:
+  lat: 38.2267347
+  lng: -85.7372918
 1000 Ash St, Louisville, KY:
   lat: 38.2267347
   lng: -85.7372918
@@ -10272,6 +10275,7 @@
 200 New Cud, Louisville, KY: null
 200 New York Street, Louisville, KY: null
 200 Niles Hill Lane, Louisville, KY: null
+200 Nits near grocery stores, Louisville, KY: null
 200 Nob Hill Ln, Louisville, KY:
   lat: 38.2594642
   lng: -85.702128
