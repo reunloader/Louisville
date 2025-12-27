@@ -1139,6 +1139,9 @@
 100 South 4th Street, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
+100 South 5th Street near West Edelman Avenue and Truss Den Avenue, Louisville, KY:
+  lat: 38.256688
+  lng: -85.758304
 100 South 65th Street, Louisville, KY: null
 100 South 6th Street, Louisville, KY:
   lat: 38.256869
@@ -10557,6 +10560,9 @@
 200 South 11th Street, Louisville, KY:
   lat: 38.256393
   lng: -85.768474
+200 South 12th Street, Louisville, KY:
+  lat: 38.256575
+  lng: -85.770131
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
@@ -15254,6 +15260,10 @@
 2900 Rodman St, Louisville, KY:
   lat: 38.20817
   lng: -85.770312
+2900 Sledden Street, Louisville, KY: null
+2900 Slevin St, Louisville, KY:
+  lat: 38.2662444
+  lng: -85.7978469
 2900 South 29th Street, Louisville, KY:
   lat: 38.2533414
   lng: -85.7992827
@@ -35431,6 +35441,7 @@ Weddington Parkway and South Hurstborn Parkway, Louisville, KY: null
 Wessel Rd and Burnley Rd, Louisville, KY: null
 West Bennett Avenue and Oakland Ave, Louisville, KY: null
 West Dr and Roy Wilkins Ave, Louisville, KY: null
+West Edelman Avenue and Truss Den Avenue, Louisville, KY: null
 West Main Street and South Second Street, Louisville, KY: null
 West Mojave Valley Boulevard and Village West Dr, Louisville, KY: null
 West Oak Lane and North Oak Lane, Louisville, KY: null
