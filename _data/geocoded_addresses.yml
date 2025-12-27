@@ -9946,6 +9946,7 @@
   Law enforcement initiated the stop, Louisville, KY
 : lat: 38.2519478
   lng: -85.7504208
+200 East and Breckenridge, Louisville, KY: null
 200 East at Bardstown Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -11580,6 +11581,9 @@
   lat: 38.259507
   lng: -85.707085
 2000 Brownsboro Rd., Louisville, KY:
+  lat: 38.259507
+  lng: -85.707085
+2000 Brownsboro near Taco Bell, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
 2000 Brownsboro, Louisville, KY:
@@ -16631,6 +16635,7 @@
 3000 Portland Ave at Family Dollar, Louisville, KY:
   lat: 38.273366
   lng: -85.796644
+3000 Portland Ave behind Family Dollar, Louisville, KY: null
 3000 Preston Hwy due, Louisville, KY: null
 3000 Preston Hwy, Louisville, KY:
   lat: 38.2065795
@@ -26930,6 +26935,7 @@
 600 Shanks Ln, Louisville, KY:
   lat: 38.1972672
   lng: -85.8467736
+600 Shelby St courtyard, Louisville, KY: null
 600 Shelbyville Rd, Hunter's Trace, Louisville, KY: null
 600 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
@@ -27101,6 +27107,9 @@
   lat: 38.253236
   lng: -85.797728
 600 South29th Street, Louisville, KY:
+  lat: 38.252119
+  lng: -85.7996
+600 South29th, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
 600 South38, Louisville, KY: null
