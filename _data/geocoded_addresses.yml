@@ -13793,6 +13793,9 @@
 2500 Catalpa St, Louisville, KY:
   lat: 38.235066
   lng: -85.8018737
+2500 Cedar St. Officers responded to investigate but did not pursue any suspects, as the area was secured, Louisville, KY:
+  lat: 38.25624
+  lng: -85.7928786
 2500 Chair Crossing at Mercedes, Louisville, KY: null
 2500 Chair Crossing, Louisville, KY: null
 2500 Chair Crossing. Responding units were sent, Louisville, KY: null
@@ -20667,6 +20670,9 @@
   lng: -85.7673115
 400 South10th Street, with zones 0 and 10 triggered, Louisville, KY: null
 400 South20th, back alley, Louisville, KY: null
+400 South26th Street, Louisville, KY:
+  lat: 38.2572065
+  lng: -85.7942524
 400 South27th Street, Louisville, KY:
   lat: 38.256603
   lng: -85.795448
@@ -27244,6 +27250,9 @@
   lat: 38.2502401
   lng: -85.7231987
 600 [Street Name Redacted], Louisville, KY:
+  lat: 38.2502401
+  lng: -85.7231987
+600 [location], Louisville, KY:
   lat: 38.2502401
   lng: -85.7231987
 600 a gas station, Louisville, KY: null
