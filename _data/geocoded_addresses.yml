@@ -1493,6 +1493,7 @@
 100 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
+100 flight, Louisville, KY: null
 ? 100 for a medical emergency. Details regarding the specific nature of the medical
   issue were not immediately available. Responders were on the scene to provide assistance.,
   Louisville, KY
@@ -3224,6 +3225,9 @@
 1100 E W Market St, specifically, Louisville, KY: null
 1100 E W W Market St, Louisville, KY: null
 1100 E W Washington St, Derby City Prep Clinic, Louisville, KY: null
+1100 E W Washington St, at River Horse, Louisville, KY:
+  lat: 38.257724
+  lng: -85.7605474
 1100 East Broadway, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
@@ -4255,6 +4259,9 @@
   lat: 38.237748
   lng: -85.797674
 1200 Cypress, Louisville, KY: null
+1200 De Mel Ave, Louisville, KY:
+  lat: 38.1704839
+  lng: -85.8025679
 1200 DeOre Place, Louisville, KY: null
 1200 Dicknail Avenue, Louisville, KY: null
 ? 1200 Dicknail Avenue. The complainant alleged that her boyfriend assaulted her and
@@ -14821,6 +14828,7 @@
   lat: 38.1694043
   lng: -85.8048999
 2800 DeMille Avenue, Louisville, KY: null
+2800 E-mail Avenue, Louisville, KY: null
 2800 East Kingston, Louisville, KY: null
 2800 Eddy St, Louisville, KY:
   lat: 38.256079
@@ -25123,6 +25131,9 @@
 5200 North 35th Street, Louisville, KY:
   lat: 38.2735722
   lng: -85.804438
+5200 North33rd Street near Portland Plaza, Louisville, KY:
+  lat: 38.2737912
+  lng: -85.8008349
 5200 Oldshire Rd, Louisville, KY:
   lat: 38.1079199
   lng: -85.6625608
