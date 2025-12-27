@@ -5996,6 +5996,9 @@
 14 Russell Lee Dr, Louisville, KY:
   lat: 38.2288147
   lng: -85.81672
+14 South 4th street, Louisville, KY:
+  lat: 38.2243241
+  lng: -85.7623964
 1400 2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
@@ -6850,6 +6853,9 @@
 1500 Bayport Rd, Louisville, KY:
   lat: 38.183428
   lng: -85.5634829
+1500 Becker, Louisville, KY:
+  lat: 38.1720002
+  lng: -85.708019
 1500 Beech St area of 1609, Louisville, KY: null
 1500 Beech St between Annie St and Southern Ave, Louisville, KY: null
 1500 Beech St, Crestree, Fanny Street, and Southern Ave, Louisville, KY: null
@@ -7173,6 +7179,9 @@
 1500 South 30th Street due, Louisville, KY: null
 1500 South 3rd Street, Crop St of York St, West Broadway, Louisville, KY: null
 1500 South 4th Street, Louisville, KY:
+  lat: 38.225886
+  lng: -85.762033
+1500 South 4th street, Louisville, KY:
   lat: 38.225886
   lng: -85.762033
 1500 South 7th Street, Louisville, KY:
@@ -18663,6 +18672,9 @@
   lng: -85.7924737
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
+3600 Powell Ave, Louisville, KY:
+  lat: 38.1943697
+  lng: -85.7911856
 3600 River Park Dr at Regiemer Church, Louisville, KY:
   lat: 38.2546082
   lng: -85.8107537
@@ -21179,6 +21191,9 @@
 4000 Poplar Level Rd, Louisville, KY:
   lat: 38.2011546
   lng: -85.7097969
+4000 Preston Hwy near Nick's Smoke Shop, Louisville, KY:
+  lat: 38.194556
+  lng: -85.729684
 4000 Preston Hwy, Louisville, KY:
   lat: 38.194556
   lng: -85.729684
@@ -24654,6 +24669,9 @@
   lat: 38.2007912
   lng: -85.8304039
 500 Wayne Wright, Louisville, KY: null
+500 Webster St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 500 West Ashland, Louisville, KY:
   lat: 38.1852168
   lng: -85.7691521
