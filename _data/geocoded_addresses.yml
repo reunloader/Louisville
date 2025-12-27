@@ -381,6 +381,7 @@
   lat: 38.207696
   lng: -85.6253811
 100 David and 229, Louisville, KY: null
+100 David requesting police help, Louisville, KY: null
 100 David, 201, 100 block of Baker, and 229, Louisville, KY: null
 100 David, Louisville, KY:
   lat: 38.2066421
@@ -11019,6 +11020,9 @@
 200 West Kenton, Louisville, KY:
   lat: 38.198108
   lng: -85.763485
+200 West Kentucky, Louisville, KY:
+  lat: 38.238503
+  lng: -85.756491
 200 West Kinney Avenue, Louisville, KY: null
 200 West LaVon Avenue, Louisville, KY: null
 200 West Lawrence, Louisville, KY: null
@@ -23335,6 +23339,7 @@
 4700 Bellevue Ave, Louisville, KY:
   lat: 38.1823251
   lng: -85.7751994
+4700 Berkeley, Louisville, KY: null
 4700 Brownsboro Gardens Dr near Brownsboro Gardens Cir, Louisville, KY:
   lat: 38.309234
   lng: -85.566726
