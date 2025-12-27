@@ -6770,6 +6770,9 @@
 15 Cypress St, Louisville, KY:
   lat: 38.2214381
   lng: -85.8005435
+15 Egypt Ln, Louisville, KY:
+  lat: 38.1457881
+  lng: -85.6870815
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -15791,6 +15794,9 @@
 300 East Colbrook Avenue at Quality Inn, Louisville, KY:
   lat: 38.2242172
   lng: -85.7521083
+300 East Kentucky, Louisville, KY:
+  lat: 38.2378216
+  lng: -85.7508614
 300 East Lee, Louisville, KY:
   lat: 38.22236
   lng: -85.753585
