@@ -6684,6 +6684,9 @@
 14400 Adkins Rd. No specific details, Louisville, KY:
   lat: 38.1237646
   lng: -85.6631004
+14400 Charmane Dr, Louisville, KY:
+  lat: 38.1412532
+  lng: -85.6626633
 14400 Harkaway Ave, Louisville, KY:
   lat: 38.227493
   lng: -85.49891
@@ -13153,6 +13156,7 @@
 2300 Medford Ln. Medical assistance was provided, Louisville, KY:
   lat: 38.2043249
   lng: -85.6600541
+2300 Miller's Lane, Louisville, KY: null
 2300 Montgomery St, Louisville, KY:
   lat: 38.27077
   lng: -85.785284
