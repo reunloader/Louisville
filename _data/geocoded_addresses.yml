@@ -2415,6 +2415,9 @@
 1000 South Second Street, Louisville, KY: null
 1000 South Third Street, Louisville, KY: null
 1000 South at Arthur St, Louisville, KY: null
+1000 South28th St, Louisville, KY:
+  lat: 38.2434873
+  lng: -85.799649
 1000 South28th Street, Louisville, KY:
   lat: 38.2434873
   lng: -85.799649
@@ -5658,6 +5661,9 @@
 1300 Valley View Terrace, Louisville, KY:
   lat: 38.115907
   lng: -85.672898
+1300 Virginia Ave, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 1300 W Chestnut St, Louisville, KY:
   lat: 38.2502801
   lng: -85.7733327
@@ -10701,6 +10707,9 @@
 200 South16th, Louisville, KY:
   lat: 38.257315
   lng: -85.776754
+200 South26th Street, Louisville, KY:
+  lat: 38.25939
+  lng: -85.793856
 200 South28th St, Louisville, KY:
   lat: 38.259684
   lng: -85.796593
@@ -16700,6 +16709,7 @@
 3100 Cartledge Ct, Louisville, KY:
   lat: 38.1379611
   lng: -85.7872762
+3100 Chinkapin Ln, Louisville, KY: null
 3100 Chinquapin Ln, Louisville, KY:
   lat: 38.1675066
   lng: -85.7009733
@@ -33801,6 +33811,9 @@
   lng: -85.5671626
 9400 Playwood Road, Louisville, KY: null
 9400 Red Deer Cir, Louisville, KY: null
+9400 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
