@@ -473,6 +473,7 @@
 100 East Center Height Avenue, Louisville, KY: null
 100 East Center Height Avenue, between Crestle Allman and Fort St,, Louisville, KY: null
 100 East Chesapeake, Louisville, KY: null
+100 East Elfman Blvd, Louisville, KY: null
 100 East Halfland Boulevard, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
   lat: 38.1716047
@@ -5516,6 +5517,9 @@
   lat: 38.236638
   lng: -85.800454
 1300 South 28th and nearby streets, Louisville, KY: null
+1300 South 28th, Louisville, KY:
+  lat: 38.236638
+  lng: -85.800454
 1300 South 2nd St, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
@@ -9646,6 +9650,9 @@
   lat: 38.1193287
   lng: -85.5990283
 200 Colonial Dr, Louisville, KY: null
+200 Columbia, Louisville, KY:
+  lat: 38.2621193
+  lng: -85.7877246
 200 Coral West near Breckenridge, Louisville, KY:
   lat: 38.1988391
   lng: -85.6228053
@@ -18098,6 +18105,9 @@
 3500 Greenwood Ave, Louisville, KY:
   lat: 38.2429805
   lng: -85.8111798
+3500 Grissom Way, Louisville, KY:
+  lat: 38.110154
+  lng: -85.6996511
 3500 Henry Ave, Louisville, KY:
   lat: 38.195156
   lng: -85.781946
@@ -25442,6 +25452,9 @@
 5400 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
+5400 Preston Hwy near Taco Land, Louisville, KY:
+  lat: 38.1701339
+  lng: -85.7087206
 5400 Ripple Ln, Louisville, KY:
   lat: 38.171621
   lng: -85.670246
@@ -31053,6 +31066,7 @@
 7900 Niemann Dr, Louisville, KY:
   lat: 38.1373334
   lng: -85.5684412
+7900 Poinsettia Dr and Jessamine Ln, Louisville, KY: null
 7900 Preston Hwy, last seen southbound. A BOLO was issued, Louisville, KY: null
 7900 Shelby Field Road, Louisville, KY: null
 7900 Shelby Grove Road, Louisville, KY: null
@@ -32152,6 +32166,9 @@
 8300 Smart Oak Parkway, Louisville, KY: null
 8300 South of the Way, Louisville, KY: null
 8300 South of the Way. Responding units were en route, Louisville, KY: null
+8300 Sunny Ridge Ct, Louisville, KY:
+  lat: 38.1843169
+  lng: -85.6034595
 8300 Walker Rd, Louisville, KY:
   lat: 38.1319484
   lng: -85.8566957
@@ -33883,6 +33900,9 @@
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
+9400 Titan Dr, Louisville, KY:
+  lat: 38.11284
+  lng: -85.697151
 9400 Viking Center Dr, Louisville, KY: null
 9400 Viking Court Drive, Louisville, KY: null
 9400 Walbridge Ct, Louisville, KY: null
@@ -35158,6 +35178,7 @@ Phillips Ln and Cole Ave, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
 Placker Road and Dogwood Rd, Louisville, KY: null
 Plantside Dr and Ardenia Ln, Louisville, KY: null
+Poinsettia Dr and Jessamine Ln, Louisville, KY: null
 Polacka Road and Dogwood Rd, Louisville, KY: null
 Poplar Level Rd and Audubon Parkway, Louisville, KY: null
 Poplar Level Rd and Eastern Parkway, Louisville, KY: null
