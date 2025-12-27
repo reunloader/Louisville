@@ -5450,6 +5450,7 @@
 1300 Olive St, Louisville, KY:
   lat: 38.236524
   lng: -85.799155
+1300 Oxford Charlie Lane, Louisville, KY: null
 1300 Pembroke Rd, Louisville, KY:
   lat: 38.2238961
   lng: -85.6240166
@@ -25290,6 +25291,9 @@
 5200 Terrace Green Cir, Louisville, KY:
   lat: 38.178102
   lng: -85.663655
+5200 Valkyrie Way near Renaissance Valley and Ree Ct, Louisville, KY:
+  lat: 38.106518
+  lng: -85.858125
 5200 Valkyrie Way, Louisville, KY:
   lat: 38.106518
   lng: -85.858125
@@ -30205,6 +30209,9 @@
   or why it was considered suspicious. Units were dispatched, Louisville, KY
 : lat: 38.1381438
   lng: -85.8905994
+7100 Green Oak Dr near Green Acres Dr, Louisville, KY:
+  lat: 38.1719064
+  lng: -85.8822027
 7100 Green Spring Dr, Louisville, KY: null
 7100 Greengate Ct, Louisville, KY: null
 7100 Greenridge Farm Dr, Louisville, KY: null
@@ -32507,6 +32514,9 @@
 ? 8500 Blue Lick Road. The suspect was described as a white male in a blue shirt,
   possibly under the influence of medication., Louisville, KY
 : null
+8500 Bost Ln near Kiki Ct and Longbranch Ct, Louisville, KY:
+  lat: 38.1281809
+  lng: -85.6954544
 8500 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
