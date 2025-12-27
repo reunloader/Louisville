@@ -1651,6 +1651,9 @@
   of the situation requiring the check was not specified., Louisville, KY
 : null
 1000 Cresthorn Road, Louisville, KY: null
+1000 Cristland Rd, Louisville, KY:
+  lat: 38.140466
+  lng: -85.781929
 ? 1000 Dixie Hwy following a report of a medical emergency that occurred in conjunction
   with a traffic accident. Units arrived, Louisville, KY
 : null
@@ -2516,6 +2519,9 @@
   lat: 38.249975
   lng: -85.76799
 1000 West Derston Street, Louisville, KY: null
+1000 West Indian Trail, Louisville, KY:
+  lat: 38.1605327
+  lng: -85.7080186
 1000 West Ln near Second Street, Louisville, KY:
   lat: 38.1312493
   lng: -85.8759227
@@ -2548,6 +2554,9 @@
 1000 Winkler Ave, Louisville, KY:
   lat: 38.2126909
   lng: -85.7723935
+1000 Woodmore, Louisville, KY:
+  lat: 38.1515984
+  lng: -85.7731206
 1000 Worthington Ln, Louisville, KY:
   lat: 38.32875
   lng: -85.5591466
@@ -7592,6 +7601,9 @@
 1600 River Shore Dr. The vehicle owner was being checked on, Louisville, KY:
   lat: 38.2653485
   lng: -85.7242962
+1600 Rosewood Ave at the intersection of Moth Rose and Baxter, Louisville, KY:
+  lat: 38.2327148
+  lng: -85.7179677
 1600 Rosewood Ct, Louisville, KY:
   lat: 38.1412186
   lng: -85.610363
@@ -11052,6 +11064,7 @@
   lng: -85.7636078
 200 West, which presented some logistical challenges for emergency responders., Louisville, KY: null
 200 West, which presented some logistical challenges, Louisville, KY: null
+200 West, with EMS arriving on scene, Louisville, KY: null
 ? 200 West. A Mustang reportedly struck a barrier, resulting in injuries to the driver.
   Emergency medical personnel attended to the individual who sustained a head laceration.
   The circumstances leading to the accident are being investigated by authorities.,
@@ -28733,6 +28746,9 @@
 700 Baker., Louisville, KY:
   lat: 38.240435
   lng: -85.740403
+700 Bank St, Louisville, KY:
+  lat: 38.272279
+  lng: -85.7991803
 700 Barge Down at Coles, Louisville, KY: null
 ? 700 Barret Ave in response to a CIT caller who had reportedly refused assistance.
   The situation was later updated, indicating the caller had returned., Louisville,
@@ -30769,6 +30785,9 @@
 7800 Apple Valley Dr, Louisville, KY:
   lat: 38.1351054
   lng: -85.6214767
+7800 Appleview Ln at the intersection of Appletree Way and Apple Valley Dr, Louisville, KY:
+  lat: 38.133612
+  lng: -85.61895
 7800 Appleview Ln, Louisville, KY:
   lat: 38.133612
   lng: -85.61895
