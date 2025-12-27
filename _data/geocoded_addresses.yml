@@ -22906,6 +22906,9 @@
   The patient was stabilized and responders returned, Louisville, KY
 : lat: 38.1503238
   lng: -85.6751223
+4600 Mount Holly Ave, Louisville, KY:
+  lat: 38.2600803
+  lng: -85.703198
 4600 North 28th Street, Louisville, KY:
   lat: 38.2683439
   lng: -85.794838
@@ -24727,6 +24730,7 @@
 5000 block, at Circle K, Louisville, KY:
   lat: 38.2682365
   lng: -85.783177
+5000 press in highway (Godfather's), Louisville, KY: null
 51 Alford Ave, Louisville, KY:
   lat: 38.2661152
   lng: -85.8051111
@@ -34807,6 +34811,7 @@ Genevieve Drive and Old Shepherdsville Rd, Louisville, KY: null
 Georgetown Road and Edenside Ave, Louisville, KY: null
 Gibson Ln and Donklin Parkway, Louisville, KY: null
 Gillette Ave and Camp Crown Road, Louisville, KY: null
+Gilmore Ln and Rose Dr, Louisville, KY: null
 Gladden Dr and Elba Dr, Louisville, KY: null
 Glen Stone Rd and Spring Gate Dr, Louisville, KY: null
 Glendora Ave and Herman St, Louisville, KY: null
