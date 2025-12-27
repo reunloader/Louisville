@@ -7340,6 +7340,9 @@
 15900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+16 Bartlett Rd, Louisville, KY:
+  lat: 38.1955514
+  lng: -85.6274095
 16 Colorado Ave, Louisville, KY:
   lat: 38.2122679
   lng: -85.7762454
@@ -16094,6 +16097,7 @@
   lng: -85.769085
 300 Paul Henry, Louisville, KY: null
 300 Paul Victor, Louisville, KY: null
+300 Peach St, Louisville, KY: null
 300 Powhatan Ct, Louisville, KY:
   lat: 38.3041994
   lng: -85.5401557
@@ -27334,6 +27338,7 @@
   lng: -85.7231987
 600 a gas station, Louisville, KY: null
 600 an unspecified street due, Louisville, KY: null
+600 an unspecified street, indicating ongoing investigation, Louisville, KY: null
 600 and 600 block of, Louisville, KY: null
 600 at Arlington Meadows, Louisville, KY:
   lat: 38.2502401
