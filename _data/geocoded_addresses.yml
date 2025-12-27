@@ -3116,6 +3116,7 @@
   lat: 38.2138395
   lng: -85.7734051
 1100 Apex View Dr, Louisville, KY: null
+1100 Backstreet Avenue, Louisville, KY: null
 1100 Barch John Road, Louisville, KY: null
 1100 Barchetown Road, Louisville, KY: null
 1100 Bardstown Rd at Orton, Louisville, KY:
@@ -6589,6 +6590,9 @@
 1400 Woodland Ave, Louisville, KY:
   lat: 38.2342544
   lng: -85.8028824
+1400 Woody Ave, Louisville, KY:
+  lat: 38.1775963
+  lng: -85.7847485
 1400 World's Woody Ave, Louisville, KY: null
 1400 [Street Name Not Provided], Louisville, KY:
   lat: 38.2347369
@@ -9055,6 +9059,7 @@
   lat: 38.1217372
   lng: -85.5651121
 1900 Bluegrass Avenue, Morning, Louisville, KY: null
+1900 Brownsboro Rd, Family Dollar, Louisville, KY: null
 1900 Brownsboro Rd, Louisville, KY:
   lat: 38.2588516
   lng: -85.7125223
@@ -12381,6 +12386,7 @@
   lat: 38.26209
   lng: -85.7840605
 2120 2120, Louisville, KY: null
+2120 an unnamed alley, Louisville, KY: null
 215 I 64 West, Louisville, KY: null
 21900 Ottawa Ave, Louisville, KY:
   lat: 38.1881115
@@ -18723,6 +18729,9 @@
 3700 Diane Marie at Walmart, Louisville, KY:
   lat: 38.0886678
   lng: -85.6638615
+3700 Downing Way, Louisville, KY:
+  lat: 38.2021882
+  lng: -85.6542403
 3700 E W Wheatmore Dr near Jacob Elementary, Louisville, KY:
   lat: 38.1901621
   lng: -85.7991619
@@ -21423,6 +21432,7 @@
 4100 South5th Street, Louisville, KY:
   lat: 38.192854
   lng: -85.768425
+4100 Southbrook St, Louisville, KY: null
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
