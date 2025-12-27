@@ -21779,6 +21779,7 @@
   lat: 38.160267
   lng: -85.835033
 4200 Flintlock Dr, between Doughline Road and Milner Rd,, Louisville, KY: null
+4200 Foot Lock Drive, Louisville, KY: null
 4200 Foreman Plain, Louisville, KY: null
 4200 Front Lock Drive, Louisville, KY: null
 4200 Glen Eagle Dr, Louisville, KY: null
@@ -30843,6 +30844,7 @@
 7500 Apple Blossom Pl, Louisville, KY:
   lat: 38.1368502
   lng: -85.6208334
+7500 Argonis Trail, Louisville, KY: null
 7500 Aron Rd, lot 183, Louisville, KY: null
 7500 Autumn Pointe Dr near Autumn Trace Hollow, Louisville, KY:
   lat: 38.1406751
@@ -34239,6 +34241,9 @@
   lng: -85.5446721
 9400 an unspecified street, Louisville, KY: null
 9500 Barbour Road, Louisville, KY: null
+9500 Bartley Dr, Louisville, KY:
+  lat: 38.1372403
+  lng: -85.5863138
 9500 Baxter Ave, Louisville, KY:
   lat: 38.2469712
   lng: -85.7295363
