@@ -5776,6 +5776,9 @@
 1300 [Street Name Not Fully Provided], Louisville, KY:
   lat: 38.2325507
   lng: -85.7594371
+1300 [Street Name], Louisville, KY:
+  lat: 38.2263414
+  lng: -85.7200485
 '1300 block of Joni Dr) (around 6:05 a.m. a.m. a.m.): responded to a medical emergency, Louisville, KY': null
 ? 1300 block of Shawnee Terrace, where a basement smoke detector was triggered. The
   alarm was determined to be false, caused by cooking, and was reset before the units
@@ -16425,6 +16428,9 @@
 3000 Autumn Lake Dr, Louisville, KY:
   lat: 38.0718916
   lng: -85.8775827
+3000 Bank St, Louisville, KY:
+  lat: 38.271712
+  lng: -85.797837
 3000 Barchetown Road, Louisville, KY: null
 3000 Bardstown Rd, Louisville, KY:
   lat: 38.2150181
@@ -20604,6 +20610,9 @@
   lat: 38.2593522
   lng: -85.8122752
 400 South 3rd Street, Louisville, KY:
+  lat: 38.2527349
+  lng: -85.7557747
+400 South 3rd, Louisville, KY:
   lat: 38.2527349
   lng: -85.7557747
 400 South 41st Street, Louisville, KY:
@@ -32447,6 +32456,9 @@
   lat: 38.1299043
   lng: -85.8487866
 8400 Dr, Louisville, KY: null
+8400 Emrich Ave, Louisville, KY:
+  lat: 38.1683589
+  lng: -85.6026525
 8400 Fairmount Rd, Louisville, KY:
   lat: 38.1125951
   lng: -85.5575935
