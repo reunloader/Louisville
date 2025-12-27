@@ -19661,6 +19661,9 @@
 400 Amy Ave near Larkwood and Herman, Louisville, KY:
   lat: 38.2593959
   lng: -85.8135537
+400 Amy Ave, Louisville, KY:
+  lat: 38.2593959
+  lng: -85.8135537
 400 Atom, Louisville, KY: null
 400 Atom, with a suspect described as possibly being outside and wearing a black jacket, Louisville, KY: null
 400 Babe Dr, Louisville, KY:
@@ -29853,6 +29856,7 @@
   lat: 38.2667863
   lng: -85.6914418
 700 [Street Name] and 747 block of [Street Name], Louisville, KY: null
+700 area, Louisville, KY: null
 700 back room, Louisville, KY: null
 ? 700 block of Ben Franklin Ct. The subjects were seen trying to access the vehicle
   and subsequently fled on foot when approached by police. - **Disturbance/Fight (around
