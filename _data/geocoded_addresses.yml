@@ -3315,6 +3315,7 @@
 1100 Garvin Pl., Louisville, KY:
   lat: 38.2371411
   lng: -85.7618045
+1100 Hamstrace, Louisville, KY: null
 1100 Hathaway Ave, Louisville, KY:
   lat: 38.1951035
   lng: -85.7797139
@@ -18254,6 +18255,9 @@
 3500 Lynn St, Louisville, KY:
   lat: 38.2168145
   lng: -85.7478063
+3500 Melon Ct, Louisville, KY:
+  lat: 38.1497431
+  lng: -85.6707797
 ? 3500 Moir Circle this morning. They responded to a call concerning a 71-year-old
   female who was found unconscious and not breathing. Emergency personnel arrived
   on scene and immediately began CPR., Louisville, KY
@@ -22509,6 +22513,9 @@
 4400 Preston Hwy, Louisville, KY:
   lat: 38.1847879
   lng: -85.7228748
+4400 Preston, Louisville, KY:
+  lat: 38.1814067
+  lng: -85.7199773
 4400 Rockwood Dr, Louisville, KY:
   lat: 38.2308789
   lng: -85.6205219
@@ -28090,6 +28097,9 @@
   lat: 38.1842595
   lng: -85.8425262
 6500 Bethany Ln, Sun Valley Park, Louisville, KY: null
+6500 Birchline Blvd, Louisville, KY:
+  lat: 38.1533029
+  lng: -85.5986463
 6500 Blevins Gap Rd at the Veterans of Foreign Wars, Louisville, KY:
   lat: 38.070548
   lng: -85.881355
@@ -32369,6 +32379,7 @@
 8300 Walker Rd, Louisville, KY:
   lat: 38.1319484
   lng: -85.8566957
+8300 Watershed Trail, Louisville, KY: null
 8300 Waterston Trail near Wattman Lane, Louisville, KY: null
 8300 West Overdrive, G Trail, Louisville, KY: null
 8300 Zelma Fields Ave, Louisville, KY:
