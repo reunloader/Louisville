@@ -892,6 +892,9 @@
   lat: 38.2625338
   lng: -85.8099022
 100 North38th Street concerning an adult female who had lost consciousness and was unresponsive, Louisville, KY: null
+100 North38th Street near Trinity Cir and Margee Dr, Louisville, KY:
+  lat: 38.2634695
+  lng: -85.8118587
 100 North38th Street, Louisville, KY:
   lat: 38.2634695
   lng: -85.8118587
@@ -16775,6 +16778,9 @@
   lng: -85.686322
 3000 Wolfman Avenue, Louisville, KY: null
 3000 Working Ridge Lane, Louisville, KY: null
+3000 [Street Name], Louisville, KY:
+  lat: 38.2136143
+  lng: -85.7231475
 ? 3000 an unspecified street for a medical emergency. Multiple units were dispatched
   to the scene. The nature of the injury was described as an "Injured 9," and the
   call indicated an interior location within the residence. Responders worked to assess
