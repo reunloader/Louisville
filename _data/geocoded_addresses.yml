@@ -2266,6 +2266,7 @@
   lat: 38.1609984
   lng: -85.5821652
 1000 Ringing Bell Ln, Louisville, KY: null
+1000 Rita June Way, Louisville, KY: null
 1000 Royal Gardens Ct and surrounding areas, Louisville, KY: null
 1000 Rubel Ave, Louisville, KY:
   lat: 38.2379209
@@ -14904,6 +14905,9 @@
 2800 Lytle St, Louisville, KY:
   lat: 38.2711128
   lng: -85.7932668
+2800 Mae Ave, Louisville, KY:
+  lat: 38.1969694
+  lng: -85.8293597
 2800 Magazine St, Louisville, KY:
   lat: 38.251978
   lng: -85.798005
@@ -25348,6 +25352,9 @@
 ? 5300 Molly Manor Dr, where a 23-year-old female was experiencing a medical condition.
   Additionally, EMS was dispatched to the 9300 block of Civic Way, Louisville, KY
 : null
+5300 Mr, Louisville, KY:
+  lat: 38.2567065
+  lng: -85.450765
 5300 Nall Ave, Louisville, KY:
   lat: 38.1577414
   lng: -85.8384827
