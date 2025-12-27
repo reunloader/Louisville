@@ -5149,6 +5149,9 @@
 12900 Willow Forest Dr, Louisville, KY:
   lat: 38.302114
   lng: -85.514676
+13 Bardstown Rd, Louisville, KY:
+  lat: 38.2392301
+  lng: -85.7224699
 13 Gaywood Dr, Louisville, KY:
   lat: 38.1038739
   lng: -85.8336536
@@ -16906,6 +16909,9 @@
 3100 Bridwell Dr, Louisville, KY:
   lat: 38.176994
   lng: -85.855138
+3100 Brooklawn Campus Dr at Brookline Child and Family Services, Louisville, KY:
+  lat: 38.2083474
+  lng: -85.6733372
 3100 Brooklawn Campus Dr, Louisville, KY:
   lat: 38.2083474
   lng: -85.6733372
@@ -23942,6 +23948,9 @@
 5 Berea Dr, Louisville, KY:
   lat: 38.1228956
   lng: -85.607913
+5 Clearwater Farm Blvd, Louisville, KY:
+  lat: 38.1548553
+  lng: -85.6630102
 5 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
@@ -24582,6 +24591,7 @@
 500 South Eight, Louisville, KY: null
 500 South Fifth, Louisville, KY: null
 500 South Jacks, Louisville, KY: null
+500 South Jackson University Hospital, PACU Bay 10, Louisville, KY: null
 500 South Jackson, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
@@ -32724,6 +32734,9 @@
 8600 Gainsborough Dr, Louisville, KY:
   lat: 38.1343021
   lng: -85.6017824
+8600 Gary Way, Louisville, KY:
+  lat: 38.124431
+  lng: -85.7563611
 8600 Harvard Commons Ct, Louisville, KY:
   lat: 38.1151902
   lng: -85.5732468
