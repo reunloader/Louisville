@@ -178,6 +178,7 @@
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
+100 Adam and 100 block of Acre, Louisville, KY: null
 100 Adam and 100 block of Baker, Louisville, KY: null
 100 Adam and 200 block of Baker, Louisville, KY: null
 100 Adam and Charlie, Louisville, KY: null
@@ -5959,6 +5960,9 @@
 14 Old North Church Rd, Louisville, KY:
   lat: 38.1427386
   lng: -85.7639347
+14 Russell Lee Dr, Louisville, KY:
+  lat: 38.2288147
+  lng: -85.81672
 1400 2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
