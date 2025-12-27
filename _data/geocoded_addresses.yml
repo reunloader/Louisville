@@ -21570,6 +21570,9 @@
 4100 Sherman Ave, Louisville, KY:
   lat: 38.198047
   lng: -85.718596
+4100 Simcoe Ln, Louisville, KY:
+  lat: 38.30517
+  lng: -85.570811
 4100 Sinser Street, Louisville, KY: null
 4100 South 2nd Street (Morning), Louisville, KY: null
 ? 4100 South 2nd Street following a report of a domestic dispute involving violence.
@@ -25716,6 +25719,9 @@
   lng: -85.659588
 5400 Yield Close Road, Louisville, KY: null
 5400 road, Louisville, KY: null
+5406 [Street Name], Louisville, KY:
+  lat: 38.1509102
+  lng: -85.6589193
 542018 Speed Ave, Louisville, KY: null
 548 Big D and Drive, Louisville, KY: null
 55 Eastern Parkway, Louisville, KY:
@@ -34333,6 +34339,7 @@
 9600 Fairmount Rd. Responders provided a lift assist, Louisville, KY:
   lat: 38.1121071
   lng: -85.5851049
+9600 Gateway Dr, Louisville, KY: null
 9600 Highway 60, Louisville, KY:
   lat: 38.1174114
   lng: -85.8594242
