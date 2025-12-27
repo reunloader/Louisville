@@ -9841,6 +9841,7 @@
   lng: -85.6419291
 200 East Money Avenue due, Louisville, KY: null
 200 East Money Avenue, Louisville, KY: null
+200 East S9, Louisville, KY: null
 ? 200 East Street. This stop involved a vehicle displaying a Kentucky license plate.
   Law enforcement initiated the stop for reasons that are not immediately clear from
   the initial report. The details of this traffic stop are being processed., Louisville,
@@ -23021,6 +23022,9 @@
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
   lng: -85.7594126
+4700 Arroyo Trail near Brookley Dr and Mass Pierce Way, Louisville, KY:
+  lat: 38.0860047
+  lng: -85.6774926
 4700 Bardstown Rd, Louisville, KY:
   lat: 38.1787602
   lng: -85.623961
@@ -34715,6 +34719,7 @@ Emerson Ave and Phillips Ln, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
 Evans St and Catharine St, Louisville, KY: null
+Evergreen Rd and Ridge Rd, Louisville, KY: null
 Ewing Ave and Brinkford Road, Louisville, KY: null
 Factory Ln and Chamberlain Ln, Louisville, KY: null
 Factory Ln and La Grange Rd, Louisville, KY: null
