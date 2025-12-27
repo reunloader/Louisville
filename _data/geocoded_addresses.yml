@@ -70,6 +70,9 @@
 01 Logistics Dr, Louisville, KY:
   lat: 38.1687352
   lng: -85.8847613
+01 Mackie Ln, Louisville, KY:
+  lat: 38.1408403
+  lng: -85.7646787
 01 River Bend Dr, Louisville, KY:
   lat: 38.26863
   lng: -85.6992415
@@ -26012,6 +26015,7 @@
 5700 Tommy Tucker Way, Louisville, KY:
   lat: 38.1762335
   lng: -85.8621885
+5700 Unstrave, Louisville, KY: null
 5700 W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
