@@ -905,6 +905,9 @@
 : null
 100 North of S Jane St, Louisville, KY: null
 100 North20, Louisville, KY: null
+100 North20th Street, Louisville, KY:
+  lat: 38.26038
+  lng: -85.782963
 100 North28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
@@ -1193,6 +1196,7 @@
 100 South Canterbury's Golden Dr, Louisville, KY: null
 100 South East Street who was experiencing stomach problems. Police units were available, Louisville, KY: null
 100 South First Street, Louisville, KY: null
+100 South Glaciere, Crop St East, Orange Street Avenue, Camp St, Louisville, KY: null
 100 South Harris Blount Parkway, Louisville, KY: null
 100 South Preston near Volunteers of America, Louisville, KY:
   lat: 38.255337
@@ -7666,6 +7670,7 @@
 1600 Conn St, Louisville, KY:
   lat: 38.195779
   lng: -85.791645
+1600 Court4916, Louisville, KY: null
 1600 Cypress St, Louisville, KY:
   lat: 38.229039
   lng: -85.7990648
@@ -8077,6 +8082,7 @@
   Check (around 4:23 p.m. a.m. p.m.):** Officers were dispatched to the 4900 block
   of block of Manslick Rd, Louisville, KY
 : null
+1600 responded, Louisville, KY: null
 1600 west west oak street, Louisville, KY: null
 1600, Louisville, KY:
   lat: 38.2243053
@@ -16447,6 +16453,9 @@
 300 South Third Street, Louisville, KY: null
 300 South Winslow Street, Louisville, KY: null
 300 South at I-65, Louisville, KY: null
+300 South18th Street, Louisville, KY:
+  lat: 38.256265
+  lng: -85.7803764
 300 South41st near Larkwood and Herman, Louisville, KY:
   lat: 38.2604204
   lng: -85.8178928
