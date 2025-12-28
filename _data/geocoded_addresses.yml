@@ -6609,6 +6609,9 @@
 1400 Thornberry Ave, Louisville, KY:
   lat: 38.206006
   lng: -85.7807193
+1400 Thornberry Ave. Units responded, Louisville, KY:
+  lat: 38.206006
+  lng: -85.7807193
 1400 Thornberry, Louisville, KY:
   lat: 38.206006
   lng: -85.7807193
@@ -11736,6 +11739,7 @@
   lat: 38.2042665
   lng: -85.6765066
 2000 Grand Eason Road, Louisville, KY: null
+2000 Gray Nissan, Louisville, KY: null
 2000 Gray, was reported stolen from Moorhaven Dr. The vehicle was last seen approximately two hours prior, Louisville, KY: null
 2000 Greenhaven Dr, Louisville, KY: null
 2000 Greenhaven, Louisville, KY: null
