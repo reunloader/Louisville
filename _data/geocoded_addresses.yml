@@ -31,6 +31,9 @@
   lat: 38.1772112
   lng: -85.7983653
 0 Margo Ave, cross street of Margo Ct and Stewart Ave, Louisville, KY: null
+0 North, Louisville, KY:
+  lat: 38.1428812
+  lng: -85.7612518
 0 Oak Bay Dr, Louisville, KY:
   lat: 38.3115497
   lng: -85.5314588
@@ -3045,6 +3048,9 @@
 10700 Grafton Hall Rd, Louisville, KY:
   lat: 38.098963
   lng: -85.8548419
+10700 Grecian Rd, Louisville, KY:
+  lat: 38.0989034
+  lng: -85.8523527
 10700 Harrison Ln, Louisville, KY:
   lat: 38.094388
   lng: -85.7379631
@@ -15045,6 +15051,9 @@
 2800 Montana, Louisville, KY:
   lat: 38.2098192
   lng: -85.7739224
+2800 Montgomery St, Louisville, KY:
+  lat: 38.2734045
+  lng: -85.792978
 2800 Narragansett Dr, Louisville, KY:
   lat: 38.2255957
   lng: -85.8025926
@@ -18440,6 +18449,9 @@
 3500 Springhurst Commons Dr, Louisville, KY:
   lat: 38.2968249
   lng: -85.5616267
+3500 Sudbury Ln, Louisville, KY:
+  lat: 38.208688
+  lng: -85.626375
 3500 Taylor Blvd, Louisville, KY:
   lat: 38.1961144
   lng: -85.7833672
@@ -18796,6 +18808,7 @@
   lng: -85.7906052
 3600 Vantage Pointe Dr, Louisville, KY: null
 3600 Varsity Down Road, Freedomville, Louisville, KY: null
+3600 Vaughan Avenue, Louisville, KY: null
 3600 Village West, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -24652,6 +24665,7 @@
 500 South Blue Street, Louisville, KY: null
 500 South Churchway, Louisville, KY: null
 500 South Eight, Louisville, KY: null
+500 South Fifth Street, Louisville, KY: null
 500 South Fifth, Louisville, KY: null
 500 South Jacks, Louisville, KY: null
 500 South Jackson University Hospital, PACU Bay 10, Louisville, KY: null
@@ -32400,6 +32414,7 @@
 8100 Terry Rd, Louisville, KY:
   lat: 38.1364602
   lng: -85.8736278
+8100 Tunga Court, Louisville, KY: null
 8100 Watterson Trail, Louisville, KY:
   lat: 38.180834
   lng: -85.6158758
