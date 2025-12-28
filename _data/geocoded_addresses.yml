@@ -5627,6 +5627,9 @@
   and malnutrition, prompting a request, Louisville, KY
 : lat: 38.232443
   lng: -85.757511
+1300 South 32nd Street near Kirby Ave and Doonville Street, Louisville, KY:
+  lat: 38.2372518
+  lng: -85.8074639
 1300 South 39th Street, Louisville, KY:
   lat: 38.2597455
   lng: -85.8146313
@@ -16697,6 +16700,9 @@
 : null
 3000 Magazine St, indicating that shots may have been fired. Police units were dispatched, Louisville, KY: null
 3000 Marchtown Road, Louisville, KY: null
+3000 Melbourne Ave near Rosemont and Taylorsville, Louisville, KY:
+  lat: 38.220174
+  lng: -85.63269
 3000 Melbourne Ave, Louisville, KY:
   lat: 38.220174
   lng: -85.63269
@@ -21770,6 +21776,9 @@
   lat: 38.2577115
   lng: -85.8188551
 4100 West Broadway at 3 Brothers, Louisville, KY:
+  lat: 38.2500156
+  lng: -85.8194782
+4100 West Broadway near 15th and 13th Streets, Louisville, KY:
   lat: 38.2500156
   lng: -85.8194782
 4100 West Broadway, Crochet House, South 21st Street, Louisville, KY: null
@@ -35427,6 +35436,7 @@ Keyline Road and Terry Rd, Louisville, KY: null
 King Run Road and Camp Ground Rd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
 Kingston Ave and Country Club Rd, Louisville, KY: null
+Kirby Ave and Doonville Street, Louisville, KY: null
 La Boca Avenue and Parker Ave, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
 Labor Ln and Level Street, Louisville, KY: null
