@@ -2759,6 +2759,9 @@
 10100 Fallen Sky Dr, Louisville, KY:
   lat: 38.1123493
   lng: -85.6651194
+10100 Grand Ave at Valley Dr and Taylor's Road, Louisville, KY:
+  lat: 38.2406987
+  lng: -85.7980734
 ? 10100 Laurent Way. The location was described as a complex situated near a pond.
   Responding officers experienced some initial difficulty pinpointing the exact building
   number and received guidance to locate it., Louisville, KY
@@ -25904,6 +25907,9 @@
 5400 Bungalow Dr, Louisville, KY:
   lat: 38.156796
   lng: -85.842318
+5400 Carnae Ct, Louisville, KY:
+  lat: 38.160225
+  lng: -85.834987
 5400 Carol Way, Louisville, KY:
   lat: 38.137873
   lng: -85.79488
@@ -33955,6 +33961,7 @@
   lat: 38.1067862
   lng: -85.7642196
 900 Stoke-on-Trent, Louisville, KY: null
+900 Stoneykirk Dr, Louisville, KY: null
 900 Stratford Ave, Louisville, KY:
   lat: 38.2195796
   lng: -85.6682404
