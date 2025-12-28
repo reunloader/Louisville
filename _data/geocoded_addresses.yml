@@ -17698,6 +17698,9 @@
 3200 West Ali under the viaduct, Louisville, KY: null
 3200 West Alley, Louisville, KY: null
 3200 West Kentucky in the Dutchman plane complex, Louisville, KY: null
+3200 West Kentucky, Louisville, KY:
+  lat: 38.244126
+  lng: -85.806135
 3200 White Hat and Black Jacket, Louisville, KY: null
 3200 Young Ave, Louisville, KY:
   lat: 38.229848
@@ -31296,6 +31299,7 @@
 ? 7600 Green Lawn, taking pictures of parked cars, which raised suspicion of potential
   vehicle theft activity. Officers continued, Louisville, KY
 : null
+7600 Green Line Road, Louisville, KY: null
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
   lng: -85.6197042
