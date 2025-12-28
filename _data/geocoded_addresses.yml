@@ -5263,6 +5263,9 @@
 1300 Brookhurst Ct, Louisville, KY:
   lat: 38.1214526
   lng: -85.7410414
+1300 Carlisle Ave, Louisville, KY:
+  lat: 38.1940475
+  lng: -85.7840277
 1300 Catalpa St, Louisville, KY:
   lat: 38.236756
   lng: -85.801731
@@ -15654,6 +15657,7 @@
   lat: 38.1550559
   lng: -85.8008399
 30 South Bridge Street, Louisville, KY: null
+30 Sprowl Rd, Louisville, KY: null
 300 (location unspecified), Louisville, KY: null
 300 A Craig Ave, Louisville, KY:
   lat: 38.1916656
