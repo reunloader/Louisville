@@ -7332,6 +7332,9 @@
 1500 W Chestnut St, Louisville, KY:
   lat: 38.2508017
   lng: -85.7763382
+1500 W Jefferson St, Louisville, KY:
+  lat: 38.255772
+  lng: -85.775385
 1500 W Madison St, Louisville, KY:
   lat: 38.251981
   lng: -85.776056
@@ -21912,6 +21915,7 @@
 4100 Wooded Acre Ln near Forest Springs Nursing Home, Louisville, KY:
   lat: 38.2962839
   lng: -85.5096063
+4100 Wooded Acre Ln, Forest Springs, Louisville, KY: null
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
@@ -32728,6 +32732,7 @@
 8200 St. St Andrews Village Dr, Louisville, KY:
   lat: 38.2957056
   lng: -85.5975753
+8200 Standard Club Ln, St Andrews Village Dr, Louisville, KY: null
 8200 West Mill Road, Louisville, KY: null
 8200 Whipsnull Road, Louisville, KY: null
 8200 Woodstock Rd (Magnolia Springs), Louisville, KY: null
