@@ -2851,6 +2851,7 @@
   lat: 38.122017
   lng: -85.576064
 10200 Lynn station road at UTA College, Louisville, KY: null
+10200 Radford Rd, Louisville, KY: null
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
@@ -5245,6 +5246,7 @@
 13 Bardstown Rd, Louisville, KY:
   lat: 38.2392301
   lng: -85.7224699
+13 Charter Oaks Dr, Louisville, KY: null
 13 Gaywood Dr, Louisville, KY:
   lat: 38.1038739
   lng: -85.8336536
@@ -13718,6 +13720,7 @@
 2400 Cross Hill Rd, Louisville, KY:
   lat: 38.247969
   lng: -85.6981703
+2400 Doorhopper, Louisville, KY: null
 ? '2400 Douglass Blvd)** (around 2:42 p.m. a.m. p.m.): An 83-year-old male was reported
   passed out and bleeding from the head. responded and administered Narcan due to
   a possible overdose. Multiple units were involved in the response, including , and
@@ -16510,6 +16513,9 @@
   lat: 38.1608055
   lng: -85.7609469
 300 Tallwood Ct, Louisville, KY: null
+300 Taylor Blvd, Louisville, KY:
+  lat: 38.1857396
+  lng: -85.7840032
 300 Torrington Rd, Louisville, KY:
   lat: 38.0966603
   lng: -85.8626584
@@ -20554,6 +20560,7 @@
 400 HGF, at Wayside, Louisville, KY:
   lat: 38.2013307
   lng: -85.7648895
+400 Hallway, Louisville, KY: null
 400 Harkway, Louisville, KY: null
 400 Hazelwood Ave, Louisville, KY:
   lat: 38.175196
@@ -25550,6 +25557,9 @@
 : lat: 38.172419
   lng: -85.667665
 5100 Reed Ave near W Kenwood Dr and Lyman Ave, Louisville, KY:
+  lat: 38.163624
+  lng: -85.7772246
+5100 Reed Ave, Louisville, KY:
   lat: 38.163624
   lng: -85.7772246
 5100 South 3rd Street, Louisville, KY:
@@ -33538,6 +33548,9 @@
 8900 Willowcreek Dr, Louisville, KY:
   lat: 38.121161
   lng: -85.6991967
+9 Dearing Ave, Louisville, KY:
+  lat: 38.1734046
+  lng: -85.7156582
 9 York St, Louisville, KY:
   lat: 38.243908
   lng: -85.7562365
