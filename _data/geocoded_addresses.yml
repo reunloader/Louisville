@@ -636,6 +636,9 @@
   lat: 38.2687913
   lng: -85.7028155
 100 Hindle Ave, Louisville, KY: null
+100 Hodge, Louisville, KY:
+  lat: 38.259607
+  lng: -85.784579
 100 Howard St, Louisville, KY:
   lat: 38.2458748
   lng: -85.7911181
@@ -8064,6 +8067,9 @@
 1600 Zorn Ave, Louisville, KY:
   lat: 38.2788352
   lng: -85.7002974
+1600 [Street Name], Louisville, KY:
+  lat: 38.2243053
+  lng: -85.7626449
 1600 a street with a net rate of16, Louisville, KY: null
 ? 1600 block of Dyna Way. The fire was confirmed as a controlled burn, and no further
   action was required. - **Medical Emergency (around 4:11 p.m. a.m. p.m.):** was dispatched
@@ -15926,6 +15932,7 @@
 300 Camden Ave, Louisville, KY:
   lat: 38.1928396
   lng: -85.7877594
+300 Camden, Wood, Place, and Crestwood, Louisville, KY: null
 300 Castleview Dr, Louisville, KY: null
 300 Cathy Baxter Way, Louisville, KY: null
 300 Caton Ave, Louisville, KY:
@@ -22028,6 +22035,7 @@
 4100 Wheeler Ave, Louisville, KY:
   lat: 38.183076
   lng: -85.789051
+4100 Wheeler Ave, cross of Alma Ave and Big Mill Avenue, Louisville, KY: null
 4100 Winnrose Way, Louisville, KY:
   lat: 38.239014
   lng: -85.8222
@@ -27115,6 +27123,9 @@
   lng: -85.7745627
 600 E W Oak St, Number 4, Louisville, KY: null
 600 East Armsby, Louisville, KY: null
+600 East Broadway at the Cho-Kat station, Louisville, KY:
+  lat: 38.2446184
+  lng: -85.7432819
 600 East Broadway behind Chicken King, Louisville, KY: null
 ? 600 East Broadway following a report of an individual down. Upon arrival, responders
   found the person covered by a blanket. Emergency medical services assessed the situation
@@ -35312,6 +35323,7 @@ Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
+Alma Ave and Big Mill Avenue, Louisville, KY: null
 Alton Rd and Citation Rd, Louisville, KY: null
 Alumsum Hollow Road and Carter Ln, Louisville, KY: null
 Alumsum Hollow Road and Scarborough Ave, Louisville, KY: null
