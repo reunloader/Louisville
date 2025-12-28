@@ -5846,6 +5846,7 @@
 1300 hours the previous day. The house was found open, but she was not present. Authorities are continuing, Louisville, KY: null
 1300 station railway, Louisville, KY: null
 13000 Ash1, Louisville, KY: null
+13000 Ashlon, Louisville, KY: null
 13000 Bessell's Boulevard, Louisville, KY: null
 ? 13000 Bessell's Boulevard. The alarm was triggered by cooking, and residents did
   not have the necessary code, Louisville, KY
@@ -32435,6 +32436,9 @@
   lat: 38.134596
   lng: -85.659052
 8000 Sneath Ave, Louisville, KY: null
+8000 Summit Ave, Louisville, KY:
+  lat: 38.2274537
+  lng: -85.7229973
 8000 Trillium Dr, Louisville, KY:
   lat: 38.1374825
   lng: -85.8663763
@@ -35747,6 +35751,7 @@ Oak St and Webster St, Louisville, KY: null
 Oboe Dr and Broadleaf Dr, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
 Old Henry Rd and Gee Snider Road, Louisville, KY: null
+Old Henry Rd and Likens Ave, Louisville, KY: null
 Old Henry Rd and Shelbydale Road, Louisville, KY: null
 Old Henry Rd and Terra Crossing Blvd, Louisville, KY: null
 Old Injury Road and Bush Farm Rd, Louisville, KY: null
