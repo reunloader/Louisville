@@ -7272,6 +7272,9 @@
 1500 Sadie Ln, Louisville, KY:
   lat: 38.180822
   lng: -85.808232
+1500 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 1500 Shingo Ave, Louisville, KY:
   lat: 38.1744846
   lng: -85.7865232
@@ -35682,6 +35685,7 @@ Eastern Parkway and Bradley Ave, Louisville, KY:
   lat: 38.2126547
   lng: -85.7470694
 Eastern Parkway and Cranston Dr, Louisville, KY: null
+Eastern Parkway and Ireland Dr, Louisville, KY: null
 Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
