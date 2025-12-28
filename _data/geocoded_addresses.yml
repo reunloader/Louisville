@@ -20259,6 +20259,9 @@
 400 E W Chestnut St at UofL parking garage, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
+400 E W Chestnut St at UofL, Louisville, KY:
+  lat: 38.2489207
+  lng: -85.7576467
 400 E W Chestnut St near Jackson and Preston Streets, Louisville, KY: null
 400 E W Chestnut St near W Chestnut St parking garage, Louisville, KY:
   lat: 38.2489207
@@ -27747,6 +27750,9 @@
   lng: -85.7632171
 600 this morning, Louisville, KY: null
 600 unspecified street, Louisville, KY: null
+6000 6th Street, Louisville, KY:
+  lat: 38.2087338
+  lng: -85.7683067
 6000 Action Ave, Louisville, KY:
   lat: 38.193669
   lng: -85.64707
