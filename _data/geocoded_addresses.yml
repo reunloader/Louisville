@@ -1554,6 +1554,7 @@
   from fire services. Fortunately, no injuries have been reported at this time, and
   crews are working, Louisville, KY
 : null
+100 mile marker southbound, Louisville, KY: null
 100 mile marker, Louisville, KY: null
 100 north height avenue, Louisville, KY: null
 100 on65 North, Louisville, KY: null
@@ -4914,6 +4915,9 @@
   The patient was reportedly waiting, Louisville, KY
 : null
 1200 Triple Crown Ct, Louisville, KY: null
+1200 W Ashland Ave, Louisville, KY:
+  lat: 38.1861303
+  lng: -85.7813325
 1200 W Fairmont Ave near 2nd Street, Louisville, KY:
   lat: 38.1953681
   lng: -85.7649559
@@ -5278,6 +5282,9 @@
   lat: 38.196239
   lng: -85.783114
 1300 Berry Blvd, Louisville, KY: null
+1300 Bessels Blvd, Louisville, KY:
+  lat: 38.0637973
+  lng: -85.8987762
 1300 Bluegrass Ave, Louisville, KY:
   lat: 38.179503
   lng: -85.783403
@@ -8719,6 +8726,9 @@
   stop was concluded without further incident., Louisville, KY
 : lat: 38.255242
   lng: -85.71663
+1800 Baird St, Louisville, KY:
+  lat: 38.263944
+  lng: -85.777999
 ? 1800 Bakes Street involving a white Dodge pickup truck. This stop was initiated
   following multiple calls from the public. The incident involved young children,
   and an arrest was ultimately made., Louisville, KY
@@ -20149,6 +20159,10 @@
 400 Charlie and 6 David, Louisville, KY: null
 400 Charlie and 6 David., Louisville, KY: null
 400 Charlie and I-400 block of Charlie, Louisville, KY: null
+? 400 Charlie and ended with the vehicle stopped at the mile marker. The vehicle was
+  described as scar-colored, and multiple units were involved in the pursuit. The
+  situation was brought, Louisville, KY
+: null
 400 Charlie and the 400 block of Baker to ensure the individual's well-being., Louisville, KY: null
 400 Charlie and the 400 block of Baker, Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
@@ -23690,6 +23704,9 @@
 : null
 4700 Mill Trace Place. The caller indicated that family members were attempting, Louisville, KY: null
 4700 Mill Trace Ple, Louisville, KY: null
+4700 Mills, Louisville, KY:
+  lat: 38.1522861
+  lng: -85.8305197
 4700 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
