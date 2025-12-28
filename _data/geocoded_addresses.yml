@@ -5292,6 +5292,7 @@
 1300 Carlisle Ave, Louisville, KY:
   lat: 38.1940475
   lng: -85.7840277
+1300 Castle Rd, Miami Ave, Louisville, KY: null
 1300 Catalpa St, Louisville, KY:
   lat: 38.236756
   lng: -85.801731
@@ -23974,6 +23975,7 @@
 4800 South3rd Street, Louisville, KY:
   lat: 38.1784756
   lng: -85.7671303
+4800 Southside Dr, Americana Community Center, Louisville, KY: null
 4800 Southside Dr, Louisville, KY:
   lat: 38.179087
   lng: -85.76486
@@ -27130,6 +27132,10 @@
   lng: -85.7185867
 600 Holding, Louisville, KY: null
 600 I-65 South, Louisville, KY: null
+600 Inverness Ave across Grand Ave, South Beach Street, Louisville, KY: null
+600 Inverness Ave, Louisville, KY:
+  lat: 38.1673893
+  lng: -85.7740338
 600 John Adams Way, Louisville, KY:
   lat: 38.0628557
   lng: -85.8935539
