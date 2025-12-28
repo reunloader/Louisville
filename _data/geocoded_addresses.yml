@@ -6868,6 +6868,9 @@
 1500 Arcade Ave**, Louisville, KY:
   lat: 38.2064431
   lng: -85.7850134
+1500 Arcade Ave, Louisville, KY:
+  lat: 38.2064431
+  lng: -85.7850134
 1500 Argetown Road near Crop St, Louisville, KY:
   lat: 38.2616479
   lng: -85.7955417
@@ -35810,6 +35813,7 @@ South Fifth Street and Cedar Road, Louisville, KY: null
 South First Street Parkway and Shane Dr, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
+South Hirsborne Parkway and Fegenbush Ln, Louisville, KY: null
 South Hirsborne Parkway and Hurstbourne Park Blvd, Louisville, KY: null
 South Hirshbaum Parkway and Hirshbaum Park Boulevard, Louisville, KY: null
 South Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
