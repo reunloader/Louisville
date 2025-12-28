@@ -93,6 +93,9 @@
 03 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
+04 Garrow Ave, Louisville, KY:
+  lat: 38.1401735
+  lng: -85.6952887
 04 Knoblet Drive, Louisville, KY: null
 04 Maldon Dr, Louisville, KY:
   lat: 38.1711031
@@ -1846,6 +1849,9 @@
 1000 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+1000 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 1000 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -15346,6 +15352,9 @@
 2900 Alford Ave. Responders were unable, Louisville, KY:
   lat: 38.2653078
   lng: -85.7987596
+2900 Allen Ave, Louisville, KY:
+  lat: 38.207396
+  lng: -85.76754
 2900 Anton Pkwy, Louisville, KY: null
 2900 Bank St as part of the ongoing investigation, Louisville, KY: null
 ? 2900 Bank St following a report of a medical emergency involving a 40-year-old male.
@@ -35696,6 +35705,7 @@ Kingston Ave and Country Club Rd, Louisville, KY: null
 Kirby Ave and Doonville Street, Louisville, KY: null
 La Boca Avenue and Parker Ave, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
+La Grange Rd and Spring St, Louisville, KY: null
 Labor Ln and Level Street, Louisville, KY: null
 Ladd Ave and Laurel St, Louisville, KY: null
 Lake Ave and Osborne Dr, Louisville, KY: null
