@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2025-12-28 12:43:30
+**Generated:** 2025-12-28 13:20:53
 
 ---
 
@@ -8,9 +8,9 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 15,625 |
-| **Successfully Geocoded** | 7,939 |
-| **Failed to Geocode** | 7,686 |
+| **Total Addresses** | 15,632 |
+| **Successfully Geocoded** | 7,942 |
+| **Failed to Geocode** | 7,690 |
 | **Success Rate** | 50.81% |
 | **Failure Rate** | 49.19% |
 
@@ -18,11 +18,10 @@
 
 ## Recent Changes
 
-- **4** new addresses processed
-- **0** successfully geocoded
+- **7** new addresses processed
+- **3** successfully geocoded
 - **4** failed to geocode
-- **This batch success rate: 0.00%** ⚠️
-- Overall rate changed by **-0.01%** 📉
+- **This batch success rate: 42.86%** ⚡
 
 ---
 
@@ -30,10 +29,10 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 2237 | 29.1% |
-| Incomplete/vague address | 1871 | 24.3% |
-| Other/Unknown | 1550 | 20.2% |
-| Intersection format | 1529 | 19.9% |
+| Contains location qualifiers (near/at) | 2238 | 29.1% |
+| Incomplete/vague address | 1872 | 24.3% |
+| Other/Unknown | 1551 | 20.2% |
+| Intersection format | 1530 | 19.9% |
 | Contains extra sentences/context | 489 | 6.4% |
 | Police phonetic codes | 10 | 0.1% |
 
@@ -43,7 +42,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2025-12-28 | 4 | 0 | 0.0% ⚠️ | 15,608 | 50.80% |
 | 2025-12-28 | 1 | 1 | 100.0% 🎯 | 15,609 | 50.80% |
 | 2025-12-28 | 1 | 1 | 100.0% 🎯 | 15,610 | 50.81% |
 | 2025-12-28 | 1 | 1 | 100.0% 🎯 | 15,611 | 50.81% |
@@ -53,6 +51,7 @@
 | 2025-12-28 | 1 | 1 | 100.0% 🎯 | 15,619 | 50.82% |
 | 2025-12-28 | 2 | 2 | 100.0% 🎯 | 15,621 | 50.82% |
 | 2025-12-28 | 4 | 0 | 0.0% ⚠️ | 15,625 | 50.81% |
+| 2025-12-28 | 7 | 3 | 42.9% ⚡ | 15,632 | 50.81% |
 
 ---
 

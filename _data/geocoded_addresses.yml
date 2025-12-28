@@ -7874,6 +7874,9 @@
 1600 South25th Street and near 1st and Kenwood, Louisville, KY: null
 1600 South30th alley, Louisville, KY: null
 1600 South35th Street and East Broadway, Louisville, KY: null
+1600 Spring Dr near Cherokee Rd and Cowling Ave, Louisville, KY:
+  lat: 38.232958
+  lng: -85.700208
 1600 St, Louisville, KY: null
 1600 Steeplecrest Cir, Louisville, KY:
   lat: 38.2438101
@@ -11746,6 +11749,7 @@
   lat: 38.2345
   lng: -85.713684
 2000 Chevy Apollo, Louisville, KY: null
+2000 Chevy Malibu, Louisville, KY: null
 2000 Chevy Silverado, Louisville, KY: null
 2000 Chevy Tahoe (possibly a black GMC Ugon), Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
@@ -19517,6 +19521,9 @@
 3800 South38th Street, Louisville, KY:
   lat: 38.240538
   lng: -85.8166821
+3800 Spring Arbor Dr, Louisville, KY:
+  lat: 38.290226
+  lng: -85.502779
 3800 Stockridge Rd, Louisville, KY:
   lat: 38.3064162
   lng: -85.6226363
@@ -27161,6 +27168,7 @@
 600 Montana Ave, Louisville, KY:
   lat: 38.2118235
   lng: -85.7679616
+600 Newton Woods Trail, Louisville, KY: null
 600 North 25th Street, Louisville, KY:
   lat: 38.270809
   lng: -85.788873
@@ -28817,6 +28825,9 @@
   lng: -85.5948852
 6700 Bay and Reed Ave to assess a 45-year-old male experiencing difficulty breathing., Louisville, KY: null
 6700 Bay and Reed Ave, Louisville, KY: null
+6700 Black Locust Way, Louisville, KY:
+  lat: 38.0974804
+  lng: -85.8819753
 6700 Bohne Ave, Louisville, KY:
   lat: 38.2289649
   lng: -85.8177751
@@ -29469,6 +29480,7 @@
 700 Creel Ave, Louisville, KY:
   lat: 38.2128685
   lng: -85.769496
+700 Crossey near Concordia Luther King Church, Louisville, KY: null
 700 Curtin Woods, Louisville, KY: null
 700 Cypress Station Dr, Louisville, KY: null
 700 Denmark St in front of the elementary school, Louisville, KY: null
@@ -35316,6 +35328,7 @@ Chenilis Lane and Massie Ave, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
 Cherokee Pky and Longest Ave, Louisville, KY: null
 Cherokee Pky and Parkstone Road, Louisville, KY: null
+Cherokee Rd and Cowling Ave, Louisville, KY: null
 Cherokee Rd and Longest Ave, Louisville, KY: null
 Cherokee Rd and Valley Station Rd, Louisville, KY: null
 Cherokee Road and Alta Avenue, Louisville, KY: null
