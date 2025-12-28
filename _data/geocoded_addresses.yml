@@ -2131,6 +2131,7 @@
 1000 N S Beckley Station Rd near Beckley Crossing Dr and Lake Forest Dr, Louisville, KY:
   lat: 38.2203617
   lng: -85.4783836
+1000 NW, Louisville, KY: null
 1000 Neighborhood Pl, Louisville, KY:
   lat: 38.1159005
   lng: -85.7510211
@@ -13487,6 +13488,7 @@
 2329 Keswick Boulevard, Louisville, KY:
   lat: 38.2170735
   lng: -85.7367914
+238 St, Louisville, KY: null
 24 Meadow Dr, Louisville, KY:
   lat: 38.2083084
   lng: -85.6593503
@@ -29212,6 +29214,9 @@
 6900 Oakview Ct, Louisville, KY:
   lat: 38.1487184
   lng: -85.6187751
+6900 Pecan Way, Louisville, KY:
+  lat: 38.1093203
+  lng: -85.7705406
 6900 Preston Hwy, Louisville, KY:
   lat: 38.1517049
   lng: -85.694765
