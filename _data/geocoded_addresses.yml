@@ -30484,6 +30484,9 @@
 7000 Southside Dr at Kimball, Louisville, KY:
   lat: 38.1560243
   lng: -85.7650129
+7000 Southside Dr, Louisville, KY:
+  lat: 38.1560243
+  lng: -85.7650129
 7000 Sugarwood Ct, Louisville, KY:
   lat: 38.2958207
   lng: -85.6197931
@@ -30730,6 +30733,7 @@
 7200 Billtown Rd, Louisville, KY:
   lat: 38.1398214
   lng: -85.5402269
+7200 Bond Mill, Louisville, KY: null
 7200 Boxwood Rd, Louisville, KY: null
 7200 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1097984
