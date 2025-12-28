@@ -17780,6 +17780,9 @@
 3300 Hale Ave, Louisville, KY:
   lat: 38.2400104
   lng: -85.8083843
+3300 Hardwood Forest Dr at Alltown Roach, Louisville, KY:
+  lat: 38.1381371
+  lng: -85.825728
 3300 Hikes Ln, Louisville, KY:
   lat: 38.218158
   lng: -85.628398
@@ -22875,6 +22878,9 @@
   KY
 : lat: 38.2088999
   lng: -85.8457995
+4500 Cane Run Rd near Margee Dr and Coventry Commons Dr, Louisville, KY:
+  lat: 38.195192
+  lng: -85.842962
 4500 Cane Run Rd, Louisville, KY:
   lat: 38.195192
   lng: -85.842962
@@ -35541,6 +35547,7 @@ Maple Crest Avenue and Crescent Ave, Louisville, KY: null
 Maple Ln and Bellewood Rd, Louisville, KY: null
 March Blvd and Tallow Avenue, Louisville, KY: null
 Marchtown Road and Belmont Rd, Louisville, KY: null
+Margee Dr and Coventry Commons Dr, Louisville, KY: null
 Market St and Main St, Louisville, KY: null
 Market St and Renate Rd, Louisville, KY: null
 Marshall Road and Setonville Road, Louisville, KY: null
