@@ -1194,6 +1194,9 @@
 100 South39th Street, Louisville, KY:
   lat: 38.2636546
   lng: -85.8135907
+100 South44th Street, Louisville, KY:
+  lat: 38.265562
+  lng: -85.8201234
 ? '100 South4th Street)** (around 8:48 p.m. a.m. p.m.): Units responded to a commercial
   alarm at Derby City Gaming, Louisville, KY'
 : lat: 38.1855446
@@ -2677,6 +2680,7 @@
 10000 Old Preston Hwy, Louisville, KY:
   lat: 38.10325
   lng: -85.673053
+10000 Operts Terrible, Louisville, KY: null
 10000 Place John, Louisville, KY: null
 ? 10000 Place John. Specific details regarding the patient's condition or the nature
   of the emergency were not immediately available., Louisville, KY
@@ -19314,6 +19318,7 @@
 3800 I 64 West, Louisville, KY: null
 3800 In-Town Suites near Combs Way and South Harris-Morne Parkway, Louisville, KY: null
 3800 In-Town Suites, cross of Combs Way and South Harris-Morne Parkway, Louisville, KY: null
+3800 Jupiter Rd, Beach 5, Louisville, KY: null
 3800 Klondike Ln near Klonway Dr, Louisville, KY:
   lat: 38.209664
   lng: -85.639452
