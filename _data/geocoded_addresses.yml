@@ -1554,6 +1554,9 @@
 100 mile marker, Louisville, KY: null
 100 north height avenue, Louisville, KY: null
 100 on65 North, Louisville, KY: null
+100 outer loop at Wendy’s, Louisville, KY:
+  lat: 38.12637
+  lng: -85.7935486
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
 100 the 2000 block of Toyota Corolla, Louisville, KY: null
@@ -20639,6 +20642,9 @@
 400 Merritt Avenue, Louisville, KY: null
 400 Merritt Avenue, apartment 4, Louisville, KY: null
 400 Merritt Avenue, second floor of a VA, Louisville, KY: null
+400 Miami Ave., Louisville, KY:
+  lat: 38.2727122
+  lng: -85.8115126
 400 Mockingbird Valley Rd, Louisville, KY:
   lat: 38.27223
   lng: -85.6880439
