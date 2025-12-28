@@ -10669,6 +10669,9 @@
 200 Pleasantview Ave, Louisville, KY:
   lat: 38.2520977
   lng: -85.6855423
+? 200 Pointe Arbor Ln near Arbor Pointe Dr. The individual was not conscious but was
+  breathing normally. EMS responded quickly and provided assistance, Louisville, KY
+: null
 200 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
@@ -35779,6 +35782,7 @@ Phillips Ln and Cribden Road, Louisville, KY: null
 Placker Road and Dogwood Rd, Louisville, KY: null
 Plantside Dr and Ardenia Ln, Louisville, KY: null
 Poinsettia Dr and Jessamine Ln, Louisville, KY: null
+Pointe Arbor Ln and Arbor Pointe Dr, Louisville, KY: null
 Polacka Road and Dogwood Rd, Louisville, KY: null
 Poplar Level Rd and Audubon Parkway, Louisville, KY: null
 Poplar Level Rd and Eastern Parkway, Louisville, KY: null
