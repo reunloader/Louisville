@@ -321,6 +321,7 @@
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
+100 Charleston, Wynette Drive, Louisville, KY: null
 100 Charlestown Ct, Louisville, KY: null
 100 Charlie and 100 block of Adam, Louisville, KY: null
 100 Charlie and 100 block of Baker, Louisville, KY: null
@@ -30553,6 +30554,9 @@
   lat: 38.1097984
   lng: -85.6319967
 7200 Creel Ave & 1300 block of Catalpa St, Louisville, KY: null
+7200 Denmark St, Louisville, KY:
+  lat: 38.1957419
+  lng: -85.7727344
 7200 Dixie Hwy, Louisville, KY:
   lat: 38.1465645
   lng: -85.8388245
