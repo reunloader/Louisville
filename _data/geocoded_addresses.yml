@@ -3157,6 +3157,7 @@
 10900 W Florence Ave, Louisville, KY:
   lat: 38.1910686
   lng: -85.7727391
+10900 Youngtown Dr, Louisville, KY: null
 ? 10900 Youngtown Dr, with concerns that a subject involved may be in possession of
   a firearm. The individual reportedly left the area in a burgundy Chevrolet Trax,
   heading towards Braves Ln. Police units were alerted to search for the vehicle.,
@@ -3256,6 +3257,9 @@
   lat: 38.1416327
   lng: -85.6949115
 1100 Clay Hall, Louisville, KY: null
+1100 Clear Stream Ct, Louisville, KY:
+  lat: 38.1432586
+  lng: -85.5694186
 1100 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
@@ -28868,6 +28872,9 @@
   lng: -85.8470945
 6600 Upper Hunters Trees, Louisville, KY: null
 6600 Upper Hunters, Tavon, Louisville, KY: null
+6600 Vandre Ave, Louisville, KY:
+  lat: 38.1354025
+  lng: -85.6391939
 6600 Watch Hill Rd near Cross Creek Blvd, Louisville, KY: null
 6600 Zagan Bush Lane, Louisville, KY: null
 6700 Ashby Drive, Louisville, KY:
@@ -31924,6 +31931,9 @@
   lat: 38.245466
   lng: -85.783588
 800 Dixie Hwy near Garland and Breckenridge, Louisville, KY:
+  lat: 38.245466
+  lng: -85.783588
+800 Dixie Hwy, Louisville, KY:
   lat: 38.245466
   lng: -85.783588
 800 Douglas Park, Louisville, KY:
