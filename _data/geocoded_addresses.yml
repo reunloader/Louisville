@@ -465,6 +465,9 @@
 100 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+100 E W Ormsby Ave, Louisville, KY:
+  lat: 38.2336503
+  lng: -85.7699347
 100 E W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -7519,6 +7522,9 @@
 1600 Albany Ave, Louisville, KY:
   lat: 38.1705767
   lng: -85.8206166
+1600 Arcade Ave, Louisville, KY:
+  lat: 38.2078063
+  lng: -85.7862058
 1600 Arcade, Louisville, KY:
   lat: 38.2078063
   lng: -85.7862058
@@ -14757,6 +14763,7 @@
 2700 Broadway. The individual was reportedly refusing, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
+2700 Brownsboro Rd and property room, Louisville, KY: null
 2700 Brownsboro Rd, Louisville, KY:
   lat: 38.2586523
   lng: -85.6973656
@@ -26864,6 +26871,9 @@
 600 Adams and Baker, Louisville, KY: null
 600 Airport Hotels Blvd, Louisville, KY: null
 600 Apex C Dr, Louisville, KY: null
+600 Arcade Ave, Louisville, KY:
+  lat: 38.2058407
+  lng: -85.7842971
 600 Arthur St, Louisville, KY:
   lat: 38.2209861
   lng: -85.7517448
