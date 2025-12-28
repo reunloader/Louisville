@@ -124,6 +124,9 @@
   lat: 38.1565043
   lng: -85.8545813
 08 Whirl Avenue, Louisville, KY: null
+09 Longfield Ave, Louisville, KY:
+  lat: 38.1986001
+  lng: -85.780092
 09 Morning Glory, Louisville, KY:
   lat: 38.1357767
   lng: -85.8707138
@@ -985,6 +988,7 @@
   lat: 38.137451
   lng: -85.872971
 100 Parker Street, Louisville, KY: null
+100 Paul Henry George, Louisville, KY: null
 100 Pearl, Louisville, KY: null
 100 Pearl. Responding officers were en route to the location., Louisville, KY: null
 100 Pearl. Responding officers were en route, Louisville, KY: null
@@ -17547,6 +17551,9 @@
 3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
   lat: 38.20267
   lng: -85.7352633
+3200 Radiance Rd, Louisville, KY:
+  lat: 38.2122428
+  lng: -85.6489432
 3200 Ralph Ave, Louisville, KY:
   lat: 38.2078701
   lng: -85.8247553
@@ -17888,6 +17895,7 @@
 3300 Terrier Ct, Louisville, KY:
   lat: 38.207331
   lng: -85.665427
+3300 Trout Creek Dr and nearby areas, Louisville, KY: null
 3300 Trout Creek Dr, Louisville, KY:
   lat: 38.2051535
   lng: -85.6800776
@@ -32373,6 +32381,7 @@
 8000 Shepherdsville Rd, Louisville, KY:
   lat: 38.134596
   lng: -85.659052
+8000 Sneath Ave, Louisville, KY: null
 8000 Trillium Dr, Louisville, KY:
   lat: 38.1374825
   lng: -85.8663763
