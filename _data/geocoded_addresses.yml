@@ -2829,6 +2829,9 @@
 10200 Judith Ct, Louisville, KY:
   lat: 38.2504593
   lng: -85.5658386
+10200 Landwood Dr, Louisville, KY:
+  lat: 38.1198766
+  lng: -85.5756646
 10200 Lark Meadow Dr, Louisville, KY:
   lat: 38.1054278
   lng: -85.5592814
@@ -14390,6 +14393,7 @@
 2600 Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
+2600 Cessna, Louisville, KY: null
 2600 Cleveland Blvd, Louisville, KY:
   lat: 38.260725
   lng: -85.702196
@@ -28537,6 +28541,9 @@
 6400 Southside Dr, Louisville, KY:
   lat: 38.164146
   lng: -85.7651135
+6400 Strawberry Ln, Louisville, KY:
+  lat: 38.1588349
+  lng: -85.7636758
 6400 Tradesmill Dr, Louisville, KY: null
 6400 Westwind Way, Louisville, KY: null
 6400 [unspecified], Louisville, KY:
