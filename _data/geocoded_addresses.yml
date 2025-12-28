@@ -16833,6 +16833,9 @@
 3000 South4th Street. Responding units checked the premises and found that everything appeared, Louisville, KY:
   lat: 38.2063275
   lng: -85.7657394
+3000 South6th Street, Louisville, KY:
+  lat: 38.2066585
+  lng: -85.768932
 3000 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
@@ -18380,6 +18383,7 @@
 3500 Illinois Ave, Louisville, KY:
   lat: 38.211744
   lng: -85.712405
+3500 K-Lord, Louisville, KY: null
 3500 Kramer's Lane, Louisville, KY: null
 3500 Lee Flame, Louisville, KY: null
 3500 Lodge Line, Louisville, KY: null
@@ -26532,6 +26536,9 @@
 5900 Mercury Dr, Louisville, KY:
   lat: 38.1629609
   lng: -85.6093455
+5900 Milo Dr, Louisville, KY:
+  lat: 38.1974703
+  lng: -85.6439898
 5900 Mount Pleasant Drive, Louisville, KY: null
 5900 New Cut Rd (Circle K), Louisville, KY: null
 5900 New Pet Road, Louisville, KY: null
@@ -27405,6 +27412,7 @@
   lat: 38.2273201
   lng: -85.7034553
 600 Stivers Rd, Louisville, KY: null
+600 Summit Crest Dr, Louisville, KY: null
 600 Sun Beam Ct, Louisville, KY: null
 600 Sunnyside Dr, Louisville, KY:
   lat: 38.2440403
@@ -31190,6 +31198,10 @@
 7600 Granwood Pl, Louisville, KY:
   lat: 38.1545559
   lng: -85.8591967
+7600 Green Lawn, Louisville, KY: null
+? 7600 Green Lawn, taking pictures of parked cars, which raised suspicion of potential
+  vehicle theft activity. Officers continued, Louisville, KY
+: null
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
   lng: -85.6197042
