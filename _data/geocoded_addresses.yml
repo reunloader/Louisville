@@ -28543,6 +28543,7 @@
 6500 Woodhaven Place Cir, Louisville, KY:
   lat: 38.1695495
   lng: -85.638975
+6500 Woodrose Ct, Louisville, KY: null
 6508 Winter View Dr, Louisville, KY: null
 658 (location unclear), Louisville, KY: null
 658 South Point Street, Louisville, KY: null
@@ -30906,6 +30907,7 @@
 7400 Beechview Way, Louisville, KY:
   lat: 38.1425656
   lng: -85.6785558
+7400 Blenheim Rd, Louisville, KY: null
 7400 Candace Way, Louisville, KY:
   lat: 38.142768
   lng: -85.771953
@@ -34703,6 +34705,9 @@
   lng: -85.5797824
 9700 Linn Station Rd, Louisville, KY: null
 9700 Lyric Ln, Louisville, KY: null
+9700 Mason Ln near Linda Dr, Louisville, KY:
+  lat: 38.1093081
+  lng: -85.7652068
 9700 Northridge Dr, Louisville, KY:
   lat: 38.1135144
   lng: -85.8284852
