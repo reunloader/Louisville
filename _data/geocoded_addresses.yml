@@ -2877,6 +2877,9 @@
 10400 Dixie Hwy, Louisville, KY:
   lat: 38.1041743
   lng: -85.8695254
+10400 Dixie, Louisville, KY:
+  lat: 38.1041743
+  lng: -85.8695254
 10400 Got It Court, Louisville, KY: null
 10400 Green Crest Ln, Louisville, KY:
   lat: 38.2421384
@@ -3865,6 +3868,7 @@
 11100 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+11100 Compass Ave, Louisville, KY: null
 11100 Court near Unseld Blvd, Louisville, KY:
   lat: 38.2519114
   lng: -85.5499427
@@ -10273,6 +10277,9 @@
 200 Gilliland Rd, Louisville, KY:
   lat: 38.2321187
   lng: -85.4567286
+200 Glendora Ave, Louisville, KY:
+  lat: 38.263761
+  lng: -85.820949
 200 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
@@ -10478,6 +10485,7 @@
 200 North Summer Parkway, Louisville, KY: null
 200 North Tadwick Road. Investigators are looking into whether this incident may be connected, Louisville, KY: null
 200 North Westport Road, Louisville, KY: null
+200 North and 200 block of East, Louisville, KY: null
 200 North and Old Taylorsville Rd due, Louisville, KY: null
 200 North and South between mile markers 6 and 7 near New Cut Rd and National Turnpike, Louisville, KY: null
 200 North at 34-mile marker, Louisville, KY:
@@ -11727,6 +11735,7 @@
 2000 Goldsmith Ln, Louisville, KY:
   lat: 38.2042665
   lng: -85.6765066
+2000 Grand Eason Road, Louisville, KY: null
 2000 Gray, was reported stolen from Moorhaven Dr. The vehicle was last seen approximately two hours prior, Louisville, KY: null
 2000 Greenhaven Dr, Louisville, KY: null
 2000 Greenhaven, Louisville, KY: null
@@ -23652,6 +23661,9 @@
 4800 Old Dixie Hwy. Responding units were dispatched, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4800 Olympia Park Plaza, Louisville, KY:
+  lat: 38.3109258
+  lng: -85.5802943
 4800 Outer Loop Mall, Louisville, KY: null
 4800 Outer Loop at Verizon, Louisville, KY:
   lat: 38.1376893
