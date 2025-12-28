@@ -127,6 +127,9 @@
   lat: 38.1565043
   lng: -85.8545813
 08 Whirl Avenue, Louisville, KY: null
+09 Freeport Dr, Louisville, KY:
+  lat: 38.1272962
+  lng: -85.8816303
 09 Longfield Ave, Louisville, KY:
   lat: 38.1986001
   lng: -85.780092
@@ -5049,6 +5052,9 @@
 12000 Shelbyville Rd. Instructions were given not to dispatch emergency units, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+12000 South 3rd Street, Louisville, KY:
+  lat: 38.2191858
+  lng: -85.7614601
 ? 12000 block of Meadow Ln. Queen 31 responded and was on scene shortly after the
   call. Thes in service by around 10:02 p.m. a.m. p.m. - **Medical Emergency (around
   9:47 p.m. a.m. p.m.):** responded to assist EMS at the 7800 block of block of New
@@ -15347,6 +15353,9 @@
 2800 Whitlock St, Louisville, KY:
   lat: 38.1581809
   lng: -85.712559
+2800 Windsor Forest Dr, Louisville, KY:
+  lat: 38.1213691
+  lng: -85.8074652
 28800 Mae Ave near Varble Ave, Louisville, KY:
   lat: 38.1969694
   lng: -85.8293597
