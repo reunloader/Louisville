@@ -10759,6 +10759,9 @@
   lat: 38.260732
   lng: -85.811955
 200 South 39th, Louisville, KY: null
+200 South 3rd Street, Louisville, KY:
+  lat: 38.254936
+  lng: -85.755245
 ? 200 South 42nd Street. The alarm was triggered by a pull station at the intersection
   of Herman St and W Market St. After an investigation, it was determined, Louisville,
   KY
@@ -34934,6 +34937,10 @@
   lat: 38.0762726
   lng: -85.8819062
 9900 Prairie Dr, Louisville, KY: null
+9900 Shining Willow Dr and Guardian Ct, Louisville, KY: null
+9900 Shining Willow Dr, Louisville, KY:
+  lat: 38.2886807
+  lng: -85.5661889
 9900 Taylor's Hill Rd, Louisville, KY: null
 9900 Waterson Trail near Walnut Wood and Locust, Louisville, KY: null
 9900 West Ave, Louisville, KY: null
