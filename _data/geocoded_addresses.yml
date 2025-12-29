@@ -7390,6 +7390,7 @@
 1500 Story Ave near Frankfort Ave and the I-64 ramp, Louisville, KY:
   lat: 38.2572148
   lng: -85.7245684
+1500 Story Ave, property 64 in Frankfort, Louisville, KY: null
 ? 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
@@ -8898,6 +8899,9 @@
   of Engine 17. Engine 6 was also sent, Louisville, KY
 : null
 1800 Deer Park Ave across North Ln and Fernwood Ave, Louisville, KY: null
+1800 Deer Park Ave near North Ln and Fernwood Ave, Louisville, KY:
+  lat: 38.2258793
+  lng: -85.7072745
 1800 Deer Park Ave, Louisville, KY:
   lat: 38.2258793
   lng: -85.7072745
@@ -23615,6 +23619,9 @@
 4600 Southcrest Dr, Louisville, KY:
   lat: 38.1855953
   lng: -85.7726672
+4600 Southern Pky near W Kenwood Way and West Wellington, Louisville, KY:
+  lat: 38.1850135
+  lng: -85.7679527
 4600 Southern Pky, Louisville, KY:
   lat: 38.1850945
   lng: -85.7687368
@@ -32180,6 +32187,7 @@
 800 Ellison Ave near Moe's Funeral Home, Louisville, KY:
   lat: 38.2303667
   lng: -85.7338915
+800 Faradow Road, Louisville, KY: null
 800 Ferndale Rd, Louisville, KY:
   lat: 38.1556282
   lng: -85.6023088
