@@ -13827,6 +13827,9 @@
 ? 2400 Blankenbaker Pky PARKWAY. Police units were involved in the stop. The incident
   was cleared without further issue., Louisville, KY
 : null
+2400 Bonnie Ln, Louisville, KY:
+  lat: 38.1906685
+  lng: -85.6368625
 2400 Broadway, Louisville, KY:
   lat: 38.249256
   lng: -85.791726
@@ -18194,6 +18197,9 @@
 3300 Indian Creek Ct**, Louisville, KY:
   lat: 38.2068909
   lng: -85.6770824
+3300 Indian Trail, Louisville, KY:
+  lat: 38.16864
+  lng: -85.698875
 3300 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
@@ -30262,6 +30268,9 @@
   under the influence of alcohol., Louisville, KY
 : null
 700 I-65 South, Louisville, KY: null
+700 Indian Trail, Louisville, KY:
+  lat: 38.1686132
+  lng: -85.7003124
 700 Industry Rd, Louisville, KY:
   lat: 38.2210439
   lng: -85.7755794
@@ -33736,6 +33745,7 @@
   lng: -85.6012574
 8700 Sonora Trail, prompting a response from emergency units, Louisville, KY: null
 8700 Timor-Londrava near Galway and Ponsolui, Louisville, KY: null
+8700 Ulcer Drive, Louisville, KY: null
 8700 Vision Pl, Louisville, KY: null
 8700 Warbler Branch Way, Louisville, KY:
   lat: 38.0858425

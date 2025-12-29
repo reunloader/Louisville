@@ -57599,4 +57599,20 @@ history:
   batch_success_rate: 75.0
   batch_new_addresses: 4
   batch_new_successes: 3
-last_updated: '2025-12-29T15:50:18.789197'
+- timestamp: '2025-12-29T16:04:42.177806'
+  total_addresses: 15943
+  successful: 8122
+  failed: 7821
+  success_rate: 50.94
+  failure_rate: 49.06
+  failure_patterns:
+    Contains location qualifiers (near/at): 2255
+    Intersection format: 1564
+    Incomplete/vague address: 1919
+    Other/Unknown: 1582
+    Contains extra sentences/context: 491
+    Police phonetic codes: 10
+  batch_success_rate: 75.0
+  batch_new_addresses: 4
+  batch_new_successes: 3
+last_updated: '2025-12-29T16:04:42.178027'
