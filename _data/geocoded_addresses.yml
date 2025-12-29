@@ -5116,6 +5116,7 @@
 12200 Dixie Hwy at Speedway, Louisville, KY:
   lat: 38.0798536
   lng: -85.8838678
+12200 John L, Louisville, KY: null
 12200 Redspire Dr, Louisville, KY:
   lat: 38.2036114
   lng: -85.5318704
@@ -6093,6 +6094,9 @@
 13700 Windy Haven Way, Louisville, KY:
   lat: 38.1825073
   lng: -85.5175986
+13800 Brush Run Rd at True Range, Louisville, KY:
+  lat: 38.1227336
+  lng: -85.4920112
 13800 English Villa Dr at Norton Brownsboro ER, Louisville, KY:
   lat: 38.240397
   lng: -85.497004
