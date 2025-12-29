@@ -8897,6 +8897,7 @@
 ? 1800 Day Street. The initial report indicated a trash fire, prompting the dispatch
   of Engine 17. Engine 6 was also sent, Louisville, KY
 : null
+1800 Deer Park Ave across North Ln and Fernwood Ave, Louisville, KY: null
 1800 Deer Park Ave, Louisville, KY:
   lat: 38.2258793
   lng: -85.7072745
@@ -32112,6 +32113,9 @@
 800 Dixie Hwy, Louisville, KY:
   lat: 38.245466
   lng: -85.783588
+800 Dixie, Louisville, KY:
+  lat: 38.245466
+  lng: -85.783588
 800 Douglas Park, Louisville, KY:
   lat: 38.179853
   lng: -85.76166
@@ -36088,6 +36092,7 @@ North Height Avenue and Brown Crow Road, Louisville, KY: null
 North Height Avenue and Cleveland Blvd, Louisville, KY: null
 North Hersborn Parkway and Westport Rd, Louisville, KY: null
 North Horsborne Parkway and Westport Rd, Louisville, KY: null
+North Ln and Fernwood Ave, Louisville, KY: null
 North Ln and Staebler Ave, Louisville, KY: null
 Northbound Drive and Welman Dr, Louisville, KY: null
 Northumberland Dr and Bay Run Dr, Louisville, KY: null
