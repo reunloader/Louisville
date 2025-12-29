@@ -17085,6 +17085,7 @@
 3000 Poplar Level Rd, Louisville, KY:
   lat: 38.2136444
   lng: -85.723149
+3000 Popper Lovell Road, Louisville, KY: null
 3000 Portland Ave at Family Dollar, Louisville, KY:
   lat: 38.273366
   lng: -85.796644
@@ -21147,6 +21148,7 @@
 400 South 4th Street, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
+400 South 4th Street, post office, Louisville, KY: null
 400 South 4th, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
@@ -26493,6 +26495,7 @@
   lat: 38.0917235
   lng: -85.6630567
 5500 National Term Pike (White Castle), Louisville, KY: null
+5500 National Turnpike, Dairy Queen, Louisville, KY: null
 5500 National Turnpike, Louisville, KY:
   lat: 38.151626
   lng: -85.764299
@@ -35574,6 +35577,9 @@
 : null
 9900 Daniel Drivember 2, Louisville, KY: null
 9900 Dixie Hwy, Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
+9900 Dixie Hwy, at the credit union, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
 9900 Dixie Hwy. This call may have been initiated to confirm a status or as a potential welfare check., Louisville, KY:
