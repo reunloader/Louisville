@@ -8710,6 +8710,9 @@
   lng: -85.7830138
 1700 W W W Gaulbert Ave, Louisville, KY: null
 1700 W W W Kentucky St, Louisville, KY: null
+1700 Walker Rd, Louisville, KY:
+  lat: 38.1316635
+  lng: -85.8564041
 1700 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
@@ -25150,6 +25153,9 @@
 500 North 26th Street, Louisville, KY:
   lat: 38.269472
   lng: -85.791002
+500 North 26th Street. The area is being checked, Louisville, KY:
+  lat: 38.269472
+  lng: -85.791002
 500 North 27th Street, Louisville, KY:
   lat: 38.270252
   lng: -85.793137
@@ -25852,6 +25858,7 @@
 5100 Frey Dr, Louisville, KY:
   lat: 38.157554
   lng: -85.677317
+5100 Garden Greenway, Louisville, KY: null
 5100 Greenwood Rd, Louisville, KY:
   lat: 38.14391
   lng: -85.850898
@@ -26122,6 +26129,9 @@
 5200 Red Oak Ln, Louisville, KY:
   lat: 38.172296
   lng: -85.665233
+5200 River Rd, Louisville, KY:
+  lat: 38.2750509
+  lng: -85.7028488
 5200 Rosette Blvd, Louisville, KY:
   lat: 38.1704191
   lng: -85.6652652
