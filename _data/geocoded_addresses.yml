@@ -7844,6 +7844,9 @@
 1600 Greyling Dr, Louisville, KY:
   lat: 38.119064
   lng: -85.795396
+1600 Hale Ave, Louisville, KY:
+  lat: 38.237571
+  lng: -85.780986
 1600 Harold Ave, Louisville, KY:
   lat: 38.21787
   lng: -85.78834
@@ -10927,6 +10930,10 @@
   lng: -85.7088272
 200 Ring Rd near Cordova, Louisville, KY: null
 200 Rippsville Road, Louisville, KY: null
+200 River Park Dr and 1600 block of Hale Ave, Louisville, KY: null
+200 River Park Dr, Louisville, KY:
+  lat: 38.2536492
+  lng: -85.8002952
 200 Road Run, Louisville, KY:
   lat: 38.2347946
   lng: -85.4410253
@@ -11226,6 +11233,9 @@
 200 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
+200 Virginia, Louisville, KY:
+  lat: 38.2408965
+  lng: -85.816811
 200 W Breckinridge St, Louisville, KY:
   lat: 38.241468
   lng: -85.755972
