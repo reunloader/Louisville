@@ -11893,6 +11893,9 @@
 2000 Adams St, Louisville, KY:
   lat: 38.2579958
   lng: -85.7255089
+2000 Alexander Ave, Louisville, KY:
+  lat: 38.220404
+  lng: -85.742576
 2000 Apartment1, Louisville, KY: null
 2000 Appleton Ln, Louisville, KY: null
 2000 Arnold Palmer Blvd, Louisville, KY:
@@ -25038,6 +25041,9 @@
 500 Kentucky 500 and Poplar Indian Trail, Louisville, KY: null
 500 Lakefront Pl, Louisville, KY: null
 500 Lakefront Pl. Initially, the alarm was noted as a dry system test, with dispatch instructed, Louisville, KY: null
+500 Landis Lakes Dr, Louisville, KY:
+  lat: 38.2320323
+  lng: -85.4932342
 500 Lester Ave, Louisville, KY:
   lat: 38.1979096
   lng: -85.7865422
@@ -29069,6 +29075,7 @@
 6500 East Broadway, Louisville, KY:
   lat: 38.2446794
   lng: -85.7394849
+6500 Estele Ave, Louisville, KY: null
 6500 Frankfort Ave, Louisville, KY:
   lat: 38.2611284
   lng: -85.7234073
