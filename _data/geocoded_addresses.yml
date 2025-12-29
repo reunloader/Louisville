@@ -3160,6 +3160,9 @@
 10900 Fashion Way, Louisville, KY:
   lat: 38.0970254
   lng: -85.8749133
+10900 Hidden Trail Ct, Louisville, KY:
+  lat: 38.0881208
+  lng: -85.6489018
 10900 Hobbs Station Rd, Louisville, KY:
   lat: 38.2662626
   lng: -85.5563221
@@ -9364,6 +9367,9 @@
   lat: 38.1217372
   lng: -85.5651121
 1900 Bluegrass Avenue, Morning, Louisville, KY: null
+1900 Bonnycastle Ave, Louisville, KY:
+  lat: 38.2293464
+  lng: -85.7070069
 1900 Brownsboro Rd, Family Dollar, Louisville, KY: null
 1900 Brownsboro Rd, Louisville, KY:
   lat: 38.2588516
@@ -9605,6 +9611,9 @@
 1900 South Hirsch Hornets, causing concern, Louisville, KY: null
 1900 South Hurstburn Parkway, Louisville, KY: null
 1900 South Third, Louisville, KY: null
+1900 South30th Street, Louisville, KY:
+  lat: 38.223112
+  lng: -85.806537
 1900 Southwest One Parkway at Malibu Jax, Louisville, KY: null
 1900 Speed Ave, Louisville, KY:
   lat: 38.226708
@@ -19151,6 +19160,9 @@
   lat: 38.2496687
   lng: -85.8109978
 3600 West Homeland, Louisville, KY: null
+3600 West Jefferson, Louisville, KY:
+  lat: 38.2600465
+  lng: -85.8097816
 3600 West Market, Louisville, KY:
   lat: 38.2610294
   lng: -85.8097551
