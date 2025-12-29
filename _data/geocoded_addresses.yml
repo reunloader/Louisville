@@ -16788,6 +16788,9 @@
   lng: -85.7665338
 300 [Unspecified Location], Louisville, KY: null
 300 [Unspecified Street], Louisville, KY: null
+300 [location unclear], Louisville, KY:
+  lat: 38.1814493
+  lng: -85.7665338
 300 [location unspecified], Louisville, KY:
   lat: 38.1814493
   lng: -85.7665338
@@ -33318,6 +33321,9 @@
 8400 Melrose Ave near Lenoxy Court, Louisville, KY:
   lat: 38.1916028
   lng: -85.8768554
+8400 National Turnpike near Thorntons and Circle K, Louisville, KY:
+  lat: 38.1282441
+  lng: -85.7495601
 8400 National Turnpike, Louisville, KY:
   lat: 38.1282441
   lng: -85.7495601
@@ -33662,6 +33668,13 @@
 8800 Hudson Ave, Louisville, KY:
   lat: 38.2221493
   lng: -85.8141208
+8800 Jan Way, Louisville, KY:
+  lat: 38.122436
+  lng: -85.692182
+? 8800 Jan Way, prompting a search involving police units, a drone, and K-9 teams.
+  The drone and K-9 units focused on fenced-in backyards, where one suspect was believed,
+  Louisville, KY
+: null
 8800 Justify Way, Louisville, KY: null
 8800 Justify Way. No further information was available, Louisville, KY: null
 8800 Legendary Ln, Louisville, KY: null
