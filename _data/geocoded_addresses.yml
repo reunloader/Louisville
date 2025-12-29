@@ -32239,6 +32239,9 @@
 800 Baker and the 400 block of an unspecified street, Louisville, KY: null
 800 Baker and the 800 block of Adam, Louisville, KY: null
 800 Baker and the 800 block of Adam., Louisville, KY: null
+800 Baker at Champion Farms Dr, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 800 Baker at the request of a caller who was not, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -33837,6 +33840,9 @@
 900 Algonquin Pky at Bolero, Louisville, KY:
   lat: 38.214179
   lng: -85.773177
+900 Allmond Ave, Louisville, KY:
+  lat: 38.1848746
+  lng: -85.7583102
 900 Alma Ave, Louisville, KY:
   lat: 38.1807378
   lng: -85.7903209
