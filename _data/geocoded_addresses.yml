@@ -13134,6 +13134,9 @@
 2200 W Market St near 23rd and 22nd, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
+2200 W Market St near the parking garage, Louisville, KY:
+  lat: 38.2581443
+  lng: -85.7870316
 2200 W Market St, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
@@ -20873,6 +20876,9 @@
   lat: 38.263955
   lng: -85.783775
 400 North34, Louisville, KY: null
+400 North38th Street, Louisville, KY:
+  lat: 38.269496
+  lng: -85.8111684
 400 Northgate Rd involving an 84-year-old female who was having trouble breathing, Louisville, KY: null
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
@@ -32286,6 +32292,9 @@
 800 Forrest St. The specific reason, Louisville, KY:
   lat: 38.221639
   lng: -85.74239
+800 Fountain Ave, Louisville, KY:
+  lat: 38.2627739
+  lng: -85.6177586
 800 Foxgate Rd, Louisville, KY:
   lat: 38.252958
   lng: -85.552025
@@ -33594,6 +33603,7 @@
 8800 Talon Ridge Dr, Louisville, KY:
   lat: 38.086445
   lng: -85.603933
+8800 Vision Pl near Reality Trail United Boulevard, Louisville, KY: null
 8800 block, Louisville, KY: null
 8809 Peterborough Dr, Louisville, KY: null
 8900 Artisan Way, Louisville, KY:
@@ -34302,6 +34312,9 @@
   lat: 38.1067862
   lng: -85.7642196
 900 Stoke-on-Trent, Louisville, KY: null
+900 Stone St, Louisville, KY:
+  lat: 38.212164
+  lng: -85.730713
 900 Stoneykirk Dr, Louisville, KY: null
 900 Stratford Ave, Louisville, KY:
   lat: 38.2195796
@@ -36605,6 +36618,7 @@ Willis Ave and Pee Wee Reese Rd, Louisville, KY: null
 Willmar Ave and Bruce Ave, Louisville, KY: null
 Willow Ave and Edgeland Ave, Louisville, KY: null
 Willow Ave and Glenmary Ave, Louisville, KY: null
+Wilson Ave and Parker Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Wimbrough Drive and Colorado Ave, Louisville, KY: null
 Winchester Rd and Delray Rd, Louisville, KY: null
