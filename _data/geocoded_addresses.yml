@@ -1313,6 +1313,8 @@
   and outcome of this stop were not detailed in the initial report., Louisville, KY
 : null
 100 Trace and Soting Way due, Louisville, KY: null
+100 Tuff Street, Louisville, KY: null
+100 Tuff Street. Responding officers worked to resolve the situation and ensure safety, Louisville, KY: null
 100 Turing Court, Grusso Turing Drive, Louisville, KY: null
 100 US 42, Louisville, KY:
   lat: 38.2632527
@@ -11590,6 +11592,9 @@
 200 West. One unit was dispatched, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West. The fire was quickly brought under control, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West. The vehicle was observed, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
