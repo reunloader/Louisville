@@ -3569,6 +3569,9 @@
 1100 River Rd, Louisville, KY:
   lat: 38.261542
   lng: -85.736495
+1100 Rostrevor Cir, Louisville, KY:
+  lat: 38.2361335
+  lng: -85.6811508
 1100 S Brook St due, Louisville, KY: null
 1100 S Brook St, Louisville, KY:
   lat: 38.2366186
@@ -8186,6 +8189,9 @@
   lat: 38.263097
   lng: -85.776785
 1700 Baird St, between South 17th and South 18th Streets,, Louisville, KY: null
+1700 Bardstown Rd at Kiwami Raymond and 1200 block of Bardstown Rd, Louisville, KY:
+  lat: 38.230002
+  lng: -85.7037117
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
@@ -10671,6 +10677,9 @@
 200 North 38th Street, Louisville, KY:
   lat: 38.2652828
   lng: -85.8116457
+200 North 39th Street, Louisville, KY:
+  lat: 38.2657912
+  lng: -85.8133557
 200 North Arbor Park near South Arbor Park, Louisville, KY:
   lat: 38.1642831
   lng: -85.7670724
@@ -24468,6 +24477,8 @@
   lat: 38.1536611
   lng: -85.7652516
 500 2000 block of Wilson, Louisville, KY: null
+500 Adam and 500 block of Baker, Louisville, KY: null
+500 Adam and Baker streets. Responding units arrived, Louisville, KY: null
 500 Adam and the 500 block of Baker, Louisville, KY: null
 500 Adam and the 500 block of Baker., Louisville, KY: null
 500 Adam were involved, Louisville, KY: null
