@@ -14824,6 +14824,9 @@
 2600 Virginia Ave, Louisville, KY:
   lat: 38.2374918
   lng: -85.7968374
+2600 W Burnett Ave near Olive St and Cypress St, Louisville, KY:
+  lat: 38.232277
+  lng: -85.798492
 ? 2600 W Jefferson St and South 28th Street, involving fire and rescue units. The
   incident remains under investigation as authorities continue to search, Louisville,
   KY
@@ -21080,6 +21083,7 @@
 400 Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
+400 Sensor Street, Louisville, KY: null
 400 Shadow Ridge Ln, Louisville, KY:
   lat: 38.3181135
   lng: -85.5573463
@@ -22471,6 +22475,9 @@
 4200 Poplar Level Rd, Louisville, KY:
   lat: 38.1989702
   lng: -85.7081925
+4200 Quiet Way, Louisville, KY:
+  lat: 38.1617284
+  lng: -85.6838502
 4200 Ring Rd, Louisville, KY: null
 4200 Riviera Dr, Louisville, KY:
   lat: 38.291347
@@ -25955,6 +25962,9 @@
   lat: 38.1598499
   lng: -85.6727475
 5200 Micro-Airboard Core, Louisville, KY: null
+5200 Monticello Ave, Louisville, KY:
+  lat: 38.1890388
+  lng: -85.6631635
 5200 Mount Blanc Rd near Alps Rd and Mount Holyoke, Louisville, KY:
   lat: 38.170403
   lng: -85.855259
@@ -29339,6 +29349,7 @@
 6700 Decoy Road. The value of the stolen items was reported, Louisville, KY:
   lat: 38.150714
   lng: -85.600459
+6700 Dixie Hwy (Starbucks), Louisville, KY: null
 6700 Elm Cross Circle, Louisville, KY: null
 6700 Elmcroft Cir, Louisville, KY:
   lat: 38.3158928
@@ -33805,6 +33816,7 @@
   lat: 38.086445
   lng: -85.603933
 8800 Vision Pl near Reality Trail United Boulevard, Louisville, KY: null
+8800 Wisdom Ln, Louisville, KY: null
 8800 block, Louisville, KY: null
 8809 Peterborough Dr, Louisville, KY: null
 8900 Artisan Way, Louisville, KY:
@@ -36453,6 +36465,7 @@ Old New Cut Rd and Commerce Park Dr, Louisville, KY: null
 Old South Park Rd and Marlin Dr, Louisville, KY: null
 Old South Park Rd and South Park Rd, Louisville, KY: null
 Old Westport Rd and Westport Rd, Louisville, KY: null
+Olive St and Cypress St, Louisville, KY: null
 Ottoman Plaza Drive and Thruston Ave, Louisville, KY: null
 Outside Dundee Rd and Emerson Ave, Louisville, KY: null
 Overdale Dr and Mellwood Ave, Louisville, KY: null
@@ -36738,6 +36751,7 @@ Taylor Zero Road and Park Ave, Louisville, KY: null
 Taylorsville Lake Rd and Old Taylorsville Rd, Louisville, KY: null
 Taylorsville Lake Rd and Routt Rd, Louisville, KY: null
 Taylorsville Rd and Bardstown Rd, Louisville, KY: null
+Taylorsville Rd and Patti Ln, Louisville, KY: null
 Taylorsville Rd and Peel Street, Louisville, KY: null
 Teak Dr and Murphy Ln, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
