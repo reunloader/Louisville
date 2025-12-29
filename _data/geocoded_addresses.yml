@@ -12673,6 +12673,9 @@
 2100 W Madison St, Louisville, KY:
   lat: 38.253087
   lng: -85.78599
+2100 W Market St at the Commitment House, Louisville, KY:
+  lat: 38.258287
+  lng: -85.785077
 2100 W Market St, Louisville, KY:
   lat: 38.258287
   lng: -85.785077
@@ -19575,6 +19578,7 @@
 3800 Gaywood Dr, Louisville, KY:
   lat: 38.105024
   lng: -85.833114
+3800 Gildcrest Way, Louisville, KY: null
 3800 Grandview Ave, Louisville, KY:
   lat: 38.2476484
   lng: -85.6534958
@@ -22313,6 +22317,9 @@
 4200 South Second Street, Louisville, KY: null
 4200 South White Barrett, Wayside Ave, Louisville, KY: null
 4200 South2nd Street, Louisville, KY: null
+4200 South3rd Street near Kroger's, Louisville, KY:
+  lat: 38.1951223
+  lng: -85.7653057
 4200 South3rd Street near W Whitney Ave and W Fairmont Ave, Louisville, KY:
   lat: 38.1951223
   lng: -85.7653057
@@ -25269,6 +25276,9 @@
 5000 Red Oak Ln, Louisville, KY:
   lat: 38.172359
   lng: -85.6696273
+5000 Roaming Plains Ct, Louisville, KY:
+  lat: 38.1069721
+  lng: -85.6641886
 5000 Rosette Blvd, Louisville, KY:
   lat: 38.170727
   lng: -85.668936
