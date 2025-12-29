@@ -217,6 +217,9 @@
 100 Alger Ave near South Second and Southside Dr, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
+100 Alger Ave, Louisville, KY:
+  lat: 38.166136
+  lng: -85.764955
 100 Alger Ave. Both police and EMS were en route, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
@@ -5678,6 +5681,9 @@
 1300 South 17th Street, Louisville, KY:
   lat: 38.2346886
   lng: -85.782553
+1300 South 1st Street, Louisville, KY:
+  lat: 38.23181
+  lng: -85.755929
 1300 South 20th Street near St, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
@@ -10907,6 +10913,7 @@
 ? 200 Shepard's River Rd. The person, described as a male in his 60s wearing a black
   metal, black coat, and blue jeans, was allegedly attempting, Louisville, KY
 : null
+200 Shepherd's Hill, Louisville, KY: null
 200 Simmons Emergency Shelter, 400 block of S Jackson St, Gretchen South, Louisville, KY: null
 200 Snow Goose Ct, Louisville, KY:
   lat: 38.1135357
@@ -18294,6 +18301,7 @@
   lng: -85.80747
 3400 High Climb, Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
+3400 Janell Rd, Louisville, KY: null
 3400 Kathy Baxter, Louisville, KY: null
 ? 3400 Kathy Baxter. Responding officers were investigating an alarm activation in
   the area. The complainant remained on the line with dispatchers as officers worked,
@@ -19929,6 +19937,7 @@
 3900 Oaklawn Dr, Louisville, KY:
   lat: 38.1484892
   lng: -85.6893461
+3900 Oklahoma Drive, Louisville, KY: null
 3900 Old Brownsboro Rd near Westwind Rd and Indian Hills Green, Louisville, KY: null
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
@@ -20065,6 +20074,7 @@
   lat: 38.2573446
   lng: -85.8151884
 3965 Tattersville Road, Louisville, KY: null
+4 Permanent Drive, Louisville, KY: null
 4 Ralph Ave, Louisville, KY:
   lat: 38.2107404
   lng: -85.8323503
