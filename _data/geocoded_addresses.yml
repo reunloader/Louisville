@@ -3633,6 +3633,9 @@
 1100 South 3rd Street. A complainant stated her ex-boyfriend was attempting, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
+1100 South 40th Street, Louisville, KY:
+  lat: 38.241931
+  lng: -85.818716
 1100 South 41st Street, Louisville, KY:
   lat: 38.241236
   lng: -85.820584
@@ -10916,6 +10919,7 @@
 200 South 1st Street, Louisville, KY:
   lat: 38.253941
   lng: -85.75204
+200 South 22nd and West Lee, Louisville, KY: null
 200 South 23rd Street, Louisville, KY:
   lat: 38.258731
   lng: -85.789011
@@ -14235,6 +14239,9 @@
 2500 McGee Drive, Louisville, KY:
   lat: 38.1661664
   lng: -85.8570513
+2500 Montgomery St near North 26 and North 23, Louisville, KY:
+  lat: 38.2717777
+  lng: -85.7885805
 2500 Montgomery St near North 26th and North 25th, Louisville, KY:
   lat: 38.2717777
   lng: -85.7885805
@@ -15424,6 +15431,9 @@
   lng: -85.7722465
 2800 Timber Hills Rd to investigate the suspicious activity and ensure the property's safety., Louisville, KY: null
 2800 Timber Hills Rd, Louisville, KY: null
+2800 Virginia Ave, Louisville, KY:
+  lat: 38.238038
+  lng: -85.800461
 2800 W Main St at Shawnee Post, Louisville, KY:
   lat: 38.2607783
   lng: -85.7976047
@@ -16559,6 +16569,7 @@
 300 Taylor Blvd, Louisville, KY:
   lat: 38.1857396
   lng: -85.7840032
+300 Tom Robert Yanke near Kirsten Market, Louisville, KY: null
 300 Torrington Rd, Louisville, KY:
   lat: 38.0966603
   lng: -85.8626584
@@ -22564,6 +22575,7 @@
 4300 Manse Dr, Louisville, KY:
   lat: 38.1290623
   lng: -85.8727765
+4300 Meridian Hills Dr, Louisville, KY: null
 4300 Nanin, responders observed light smoke showing from the rear of the property and the roof, Louisville, KY: null
 ? 4300 Nanin, responders observed light smoke showing from the rear of the property
   and the roof. The incident was managed by the responding fire units., Louisville,
