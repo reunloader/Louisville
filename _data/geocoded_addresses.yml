@@ -1326,6 +1326,9 @@
 100 W College St, Louisville, KY:
   lat: 38.243155
   lng: -85.754841
+100 W Esplanade Ave, Louisville, KY:
+  lat: 38.162441
+  lng: -85.770986
 100 W Evelyn Ave, Louisville, KY:
   lat: 38.196729
   lng: -85.761718
@@ -4490,6 +4493,7 @@
 1200 East, Louisville, KY:
   lat: 38.2437703
   lng: -85.7296726
+1200 Easter Railroad, Louisville, KY: null
 1200 Eastern Parkway, Louisville, KY:
   lat: 38.2249352
   lng: -85.7239258
@@ -4698,6 +4702,7 @@
 1200 Payne St, Louisville, KY:
   lat: 38.2469586
   lng: -85.7270574
+1200 Peach St, Louisville, KY: null
 1200 Picknill Avenue 7:00 a, Louisville, KY: null
 1200 Picknill Avenue 7:00 a.m., Louisville, KY: null
 ? 1200 Picknill Avenue. Upon arrival, they found a 29-year-old female experiencing
@@ -9721,6 +9726,7 @@
 1900 W Main St, Louisville, KY:
   lat: 38.2590525
   lng: -85.7816717
+1900 W Main St, Williams Auto and Truck, Louisville, KY: null
 1900 W Market St, Louisville, KY:
   lat: 38.2575145
   lng: -85.7818456
@@ -18453,6 +18459,7 @@
 3400 High Climb, Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
 3400 Janell Rd, Louisville, KY: null
+3400 Kathleen Dykstra, Louisville, KY: null
 3400 Kathy Baxter, Louisville, KY: null
 ? 3400 Kathy Baxter. Responding officers were investigating an alarm activation in
   the area. The complainant remained on the line with dispatchers as officers worked,
@@ -23471,6 +23478,9 @@
 4500 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+4500 Gordon Rd, Louisville, KY:
+  lat: 38.162743
+  lng: -85.676935
 4500 Grand Ave near Southwestern Pky and South 45th Street, Louisville, KY:
   lat: 38.2436989
   lng: -85.8279584
@@ -36669,6 +36679,7 @@ Shelby St and Goss Ave, Louisville, KY: null
 Shelby St and Lydia St, Louisville, KY: null
 Shelby Station Dr and Fairway Park Dr, Louisville, KY: null
 Shelbyville Rd and Adams St, Louisville, KY: null
+Shelbyville Rd and Arterburn Dr, Louisville, KY: null
 Shelbyville Rd and Beckley Creek Pky, Louisville, KY: null
 Shelbyville Rd and Bircham Rd, Louisville, KY: null
 Shelbyville Rd and Brown Ave, Louisville, KY: null
