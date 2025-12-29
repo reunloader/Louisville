@@ -3141,6 +3141,7 @@
   lng: -85.8819062
 10700 Pugle Lane, Louisville, KY: null
 10700 Sparrow Cir, as well as at an apartment complex and the 1800 block of Bluegrass Ave, Louisville, KY: null
+10700 Taylor's Row Road, Louisville, KY: null
 10700 Westport Rd, at the Aloft Hotel, Louisville, KY:
   lat: 38.296198
   lng: -85.553131
@@ -20678,6 +20679,9 @@
   lat: 38.2298984
   lng: -85.7515509
 400 Fairway Park Dr, Louisville, KY: null
+400 Fairway Vista Dr, Louisville, KY:
+  lat: 38.2663846
+  lng: -85.4808934
 400 Farmington Ave, Louisville, KY:
   lat: 38.200317
   lng: -85.7533528
