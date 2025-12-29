@@ -10881,6 +10881,7 @@
 : lat: 38.1819023
   lng: -85.7203622
 200 Purple Lover Road at Seaway, Louisville, KY: null
+200 Quentin, Louisville, KY: null
 ? 200 Quistad Drive. When officers arrived, they found the area noisy with yelling,
   and the line was disconnected before further details could be obtained. The situation
   was monitored, Louisville, KY
@@ -15200,6 +15201,9 @@
 28 Bank St, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
+28 Haley Ln, Louisville, KY:
+  lat: 38.3156896
+  lng: -85.5945733
 28 Magazine St, Louisville, KY:
   lat: 38.2493289
   lng: -85.7734408
@@ -25908,6 +25912,7 @@
 5200 Pebble Creek Pl, Louisville, KY:
   lat: 38.320212
   lng: -85.542286
+5200 Red Fern Rd, Radley, Finridge Crest, Louisville, KY: null
 5200 Red Oak Ln, Louisville, KY:
   lat: 38.172296
   lng: -85.665233
@@ -28824,6 +28829,9 @@
   lat: 38.1588349
   lng: -85.7636758
 6400 Tradesmill Dr, Louisville, KY: null
+6400 Venango Dr, Louisville, KY:
+  lat: 38.1454561
+  lng: -85.870255
 6400 Westwind Way, Louisville, KY: null
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
@@ -29324,6 +29332,9 @@
 6700 UPS, Louisville, KY: null
 6700 Wayne-Vernon Ave, Louisville, KY: null
 6700 Wild Fox Ln, Louisville, KY: null
+6700 Wolf Pen Branch Rd, Louisville, KY:
+  lat: 38.3224663
+  lng: -85.624818
 6700 Woodrow, Louisville, KY:
   lat: 38.1515422
   lng: -85.6368016
