@@ -10508,6 +10508,7 @@
 200 Indian Lake Dr, Louisville, KY:
   lat: 38.2946775
   lng: -85.5524855
+200 Inverness Ave across South 3rd Street and Southside Dr, Louisville, KY: null
 200 Kaiser Street and Kaiser Ct, Louisville, KY: null
 200 Kentucky280-735, Louisville, KY: null
 200 LaFontaine Drive, Louisville, KY: null
@@ -26647,6 +26648,9 @@
 57 Mouser Hill Rd, Louisville, KY:
   lat: 38.1056494
   lng: -85.4949782
+5700 Azalea Ln, Louisville, KY:
+  lat: 38.1430129
+  lng: -85.8610415
 5700 Bardstown Rd, Louisville, KY:
   lat: 38.1628763
   lng: -85.5970273
@@ -34117,6 +34121,9 @@
   lat: 38.2415729
   lng: -85.7595586
 900 South 5th Street at Chapel House, Louisville, KY:
+  lat: 38.241573
+  lng: -85.7608634
+900 South 5th Street at the Chapel House, Louisville, KY:
   lat: 38.241573
   lng: -85.7608634
 900 South 5th Street, Louisville, KY:
