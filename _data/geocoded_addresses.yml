@@ -2840,6 +2840,10 @@
 10100 Old Dixie Hwy. Further details, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10100 Rolling Stone Dr, Crop St, Louisville, KY: null
+10100 Rolling Stone Dr, Crop St, Rolling Stone Ct, at Blue Creek Dr, Louisville, KY:
+  lat: 38.1011136
+  lng: -85.6963954
 10100 Spring Gate Dr, Louisville, KY:
   lat: 38.3105264
   lng: -85.5613534
@@ -4145,6 +4149,7 @@
   lat: 38.0983101
   lng: -85.6808359
 11500 Harry Plane near North Waterstone Trail, Louisville, KY: null
+11500 Herrick Ln, Christian Village Cir, Christian Community Care, Louisville, KY: null
 11500 Maple Brook Dr, Louisville, KY:
   lat: 38.3020407
   lng: -85.541966
@@ -13834,6 +13839,7 @@
 2400 Bonnie Ln, Louisville, KY:
   lat: 38.1906685
   lng: -85.6368625
+2400 Boulevard of Hullian, Louisville, KY: null
 2400 Broadway, Louisville, KY:
   lat: 38.249256
   lng: -85.791726
@@ -16169,6 +16175,7 @@
 300 Cole Ave, Louisville, KY:
   lat: 38.1589782
   lng: -85.8653425
+300 Collins Ln, Crop St, Matthews Ave and Richland Ave, basement, Louisville, KY: null
 300 Collins Ln, Louisville, KY:
   lat: 38.2892011
   lng: -85.5152696
@@ -16708,6 +16715,7 @@
 300 Trafalgar Square, Louisville, KY:
   lat: 38.209258
   lng: -85.6708645
+300 Trista Dr, Crop St, Ian Ct, Blair Ct, Louisville, KY: null
 300 University Blvd at McDonald's, Louisville, KY:
   lat: 38.2145178
   lng: -85.7540812
@@ -19702,6 +19710,9 @@
 3754 Craig Ave, Louisville, KY:
   lat: 38.1894223
   lng: -85.7902689
+38 Grand Ave, Louisville, KY:
+  lat: 38.241364
+  lng: -85.8090995
 3800 7th St Rene Rd, Louisville, KY: null
 3800 Alanadale Dr, Louisville, KY:
   lat: 38.1101136
@@ -27113,6 +27124,7 @@
 5900 Cooper Chapel Rd, and responding units began an investigation, Louisville, KY: null
 5900 Cooper Chapel Rd, and responding units began an investigation., Louisville, KY: null
 5900 East Chesapeake Street near dialysis center, Louisville, KY: null
+5900 Farrington Dr, Crop St of Progress Blvd and Butteville Bank Rd, Louisville, KY: null
 5900 Farrington Dr, Louisville, KY:
   lat: 38.1693957
   lng: -85.832772
@@ -36409,6 +36421,7 @@ Mason Rd and Belmont Rd, Louisville, KY: null
 Mason Rd and Chenoweth Run Rd, Louisville, KY: null
 Mason Rd and South Firstborn Parkway, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
+Matthews Ave and Richland Ave, Louisville, KY: null
 Mayfair Ln and Basswood Ln, Louisville, KY: null
 Mayfield Rd and Dillon Road, Louisville, KY: null
 Mayshan Lane and Starlite Ln, Louisville, KY: null
@@ -36566,6 +36579,7 @@ Princeton Dr and Bardstown Rd, Louisville, KY: null
 Princeton Dr and Barge Town Road, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
 Produce Rd and Pinewood Rd, Louisville, KY: null
+Progress Blvd and Butteville Bank Rd, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
 Pueblo Rd and Quahala Rd, Louisville, KY: null
 Ralph Ave and Camp Ground Rd, Louisville, KY: null
