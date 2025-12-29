@@ -119,6 +119,9 @@
   lat: 38.2687352
   lng: -85.4748792
 06 Springford Avenue, Louisville, KY: null
+07 Barn Rd, Louisville, KY:
+  lat: 38.132939
+  lng: -85.5948852
 07 Garrison Rd, Louisville, KY:
   lat: 38.1375649
   lng: -85.7572713
@@ -3879,6 +3882,9 @@
   lat: 38.0936504
   lng: -85.8565656
 11000 Greenock Ct, Louisville, KY: null
+11000 Haley Ln, Louisville, KY:
+  lat: 38.3156896
+  lng: -85.5945733
 ? 11000 Hill Rd on a report of a possible break-in in progress. Two subjects were
   observed near a structure after working hours, prompting the investigation., Louisville,
   KY
@@ -29737,6 +29743,9 @@
 7 Tyler Parkway, Louisville, KY:
   lat: 38.232595
   lng: -85.7142149
+7 Wolf Pen Ln, Louisville, KY:
+  lat: 38.3210554
+  lng: -85.5932751
 700 Acre, Louisville, KY:
   lat: 38.2970412
   lng: -85.50779
@@ -31352,6 +31361,9 @@
 7300 Patrick Henry Rd, Louisville, KY:
   lat: 38.141105
   lng: -85.756759
+7300 Rainbow Dr, Louisville, KY:
+  lat: 38.0567848
+  lng: -85.9008111
 7300 Ridenway, Louisville, KY: null
 7300 Right Way, Louisville, KY: null
 7300 Right-hand Way, Louisville, KY: null
