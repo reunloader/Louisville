@@ -2571,6 +2571,7 @@
   lat: 38.210382
   lng: -85.774372
 1000 Tennessee Ave. The officer conducting the stop confirmed they were safe., Louisville, KY: null
+1000 University of Louisville, Louisville, KY: null
 ? 1000 Uracoid Gardens Drive. Reports indicated that an ex-boyfriend was present inside
   the residence. Law enforcement arrived to assess the situation and de-escalate any
   potential conflict. The incident was handled by responding officers., Louisville,
@@ -2601,6 +2602,9 @@
   lat: 38.2560618
   lng: -85.7671133
 1000 W Oak St, Louisville, KY: null
+1000 W Ormsby Ave near South 10th and South 11th, Louisville, KY:
+  lat: 38.2325024
+  lng: -85.7713588
 1000 W Ormsby Ave, Louisville, KY:
   lat: 38.2325024
   lng: -85.7713588
@@ -5703,6 +5707,9 @@
 1300 South 13th Street, Louisville, KY:
   lat: 38.234199
   lng: -85.775763
+1300 South 15th Street, Louisville, KY:
+  lat: 38.230749
+  lng: -85.779427
 1300 South 16th Street, Louisville, KY:
   lat: 38.234563
   lng: -85.780762
@@ -13498,6 +13505,7 @@
   lat: 38.2167854
   lng: -85.7984832
 2300 Hirshhorn Village Drive, Louisville, KY: null
+2300 Hurstbourne Village Dr, Louisville, KY: null
 ? 2300 I 64 West following a report of live wires hanging dangerously low in the alleyway.
   The incident was located near the 22nd and 24th Street areas., Louisville, KY
 : null
@@ -15926,6 +15934,7 @@
 30 South Bridge Street, Louisville, KY: null
 30 Sprowl Rd, Louisville, KY: null
 300 (location unspecified), Louisville, KY: null
+300 A Catholic Way near the 100 and 201 apartment blocks, Louisville, KY: null
 300 A Craig Ave, Louisville, KY:
   lat: 38.1916656
   lng: -85.7898357
@@ -17225,6 +17234,9 @@
   lat: 38.2489207
   lng: -85.7576467
 3000 W Kentucky St at PSD Fabrics, Louisville, KY:
+  lat: 38.2434084
+  lng: -85.8033096
+3000 W Kentucky St near South 32nd and South 29th Street, Louisville, KY:
   lat: 38.2434084
   lng: -85.8033096
 3000 W Kentucky St, Louisville, KY:
