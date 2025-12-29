@@ -5194,6 +5194,7 @@
 : null
 12500 Faxme Park Circle, Louisville, KY: null
 12500 Kettlesville Road, Louisville, KY: null
+12500 Kirkland Road, Louisville, KY: null
 12500 Laverton Ave, Louisville, KY:
   lat: 38.0606856
   lng: -85.894423
@@ -5844,6 +5845,9 @@
   lat: 38.2182659
   lng: -85.7774103
 1300 South Third Street, Louisville, KY: null
+1300 South15th Street, Louisville, KY:
+  lat: 38.230749
+  lng: -85.779427
 1300 South26 near Woodlawn and Duhamel, Louisville, KY: null
 1300 South28th Street, Louisville, KY:
   lat: 38.236638
@@ -8385,6 +8389,9 @@
 1700 Mary St, Louisville, KY:
   lat: 38.2344233
   lng: -85.7405196
+1700 McCloskey Avenue, Louisville, KY:
+  lat: 38.224262
+  lng: -85.787924
 1700 Meadow Lane Ct, Louisville, KY: null
 ? 1700 Mellwood Ave following an alarm activation. Upon arrival, responders found
   no signs of a fire. The incident was quickly determined, Louisville, KY
@@ -21249,6 +21256,7 @@
 400 South Eighth Street, Louisville, KY: null
 400 South Fifth, Louisville, KY: null
 400 South First Barn Parkway, Agustado's Mexican Grill, Louisville, KY: null
+400 South First Street, Metro London Center, Louisville, KY: null
 400 South H Street, Louisville, KY: null
 400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
 400 South H3, Louisville, KY: null
@@ -22316,6 +22324,9 @@
   plate. No further details regarding the reason, Louisville, KY
 : lat: 38.202031
   lng: -85.833948
+4200 Chambers Way, Louisville, KY:
+  lat: 38.1117849
+  lng: -85.6496184
 ? 4200 Clara Ave involving a child's father who refused to leave the premises. The
   suspect was described as a 35-year-old black male heading towards Park Hill. Separately,
   a call from the 4200 block of Southern Pky reported a male and female arguing, with
@@ -28184,6 +28195,9 @@
 6000 Gabriel Dr, Louisville, KY:
   lat: 38.1565043
   lng: -85.8545813
+6000 Garvin Pl, Louisville, KY:
+  lat: 38.2368528
+  lng: -85.7616902
 6000 Golden Rule Way, Louisville, KY:
   lat: 38.2426387
   lng: -85.7597853
@@ -35281,6 +35295,9 @@
 9600 Dock Rd, Louisville, KY:
   lat: 38.1312704
   lng: -85.5931443
+9600 El Prado St, Louisville, KY:
+  lat: 38.115743
+  lng: -85.856256
 9600 Fairmount Rd. Responders provided a lift assist, Louisville, KY:
   lat: 38.1121071
   lng: -85.5851049
