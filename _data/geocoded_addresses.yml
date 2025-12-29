@@ -8246,6 +8246,9 @@
 1700 Blanton Ln, Louisville, KY:
   lat: 38.1574191
   lng: -85.8303183
+1700 Bolling Ave, Louisville, KY:
+  lat: 38.228692
+  lng: -85.784831
 1700 Bonnyville Blvd, Louisville, KY:
   lat: 38.165238
   lng: -85.825072
@@ -27079,6 +27082,9 @@
 5900 Cooper Chapel Rd, and responding units began an investigation, Louisville, KY: null
 5900 Cooper Chapel Rd, and responding units began an investigation., Louisville, KY: null
 5900 East Chesapeake Street near dialysis center, Louisville, KY: null
+5900 Farrington Dr, Louisville, KY:
+  lat: 38.1693957
+  lng: -85.832772
 5900 Full Moon Ct, Louisville, KY:
   lat: 38.16863
   lng: -85.848698
@@ -33276,6 +33282,9 @@
 8200 Preston Hwy, Louisville, KY:
   lat: 38.1332639
   lng: -85.6846969
+8200 Red Stone Hill Rd, Louisville, KY:
+  lat: 38.138126
+  lng: -85.800997
 8200 Roseborough Rd to provide a lift assist, Louisville, KY: null
 8200 Roseborough Rd, Louisville, KY:
   lat: 38.1277823
@@ -36328,6 +36337,7 @@ Lowell Ave and Bardstown Rd, Louisville, KY: null
 Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lydia St and Brewster Ave, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
+Lyndale Ave and Bolling Ave, Louisville, KY: null
 Lynn St and Shelby St, Louisville, KY: null
 Mae St and Kidd Avenue, Louisville, KY:
   lat: 38.2296677
