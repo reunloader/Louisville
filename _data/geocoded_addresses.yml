@@ -1567,6 +1567,9 @@
 100 mile marker 65 North near Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+? 100 mile marker on 65 North involving a black Mustang and a Chevy pickup, as well
+  as another incident at Fagan Bush. Responding units staged, Louisville, KY
+: null
 ? 100 mile marker on the right shoulder of southbound I-65, prompting a quick response
   from fire services. Fortunately, no injuries have been reported at this time, and
   crews are working, Louisville, KY
@@ -5342,6 +5345,9 @@
 1300 Brookhurst Ct, Louisville, KY:
   lat: 38.1214526
   lng: -85.7410414
+1300 Brookridge Village Blvd, Louisville, KY:
+  lat: 38.1452844
+  lng: -85.5844796
 1300 Carlisle Ave, Louisville, KY:
   lat: 38.1940475
   lng: -85.7840277
@@ -21933,6 +21939,9 @@
 4100 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.093486
   lng: -85.8578124
+4100 Handley Ave, Louisville, KY:
+  lat: 38.180447
+  lng: -85.648293
 4100 Hartwick Village Pl, Louisville, KY:
   lat: 38.305041
   lng: -85.571424
