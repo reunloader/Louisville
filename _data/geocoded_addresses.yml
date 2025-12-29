@@ -246,6 +246,9 @@
 100 Baker. The reporting officer requested, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+100 Ballard St, Louisville, KY:
+  lat: 38.2507416
+  lng: -85.7350586
 100 Bank St, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
@@ -16693,6 +16696,11 @@
   lat: 38.2457716
   lng: -85.7569119
 300 West Broadway, potentially due, Louisville, KY: null
+? 300 West Broadway, who was unresponsive and expressing thoughts of self-harm after
+  taking muscle relaxers and depression medications. A third incident involved a 40-year-old
+  male experiencing chest pain near the 1100 block of Southside Dr, close, Louisville,
+  KY
+: null
 300 West Chesapeake, Louisville, KY: null
 ? 300 West Fairmont Avenue regarding a report of disorderly conduct. The incident
   involved an individual described as a college advisor who was reportedly refusing
@@ -35544,6 +35552,7 @@ Alarby Avenue and Woodbourne Ave, Louisville, KY: null
 Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
+Allen Ave and Carolyn Rd, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
 Alma Ave and Big Mill Avenue, Louisville, KY: null
 Alton Rd and Citation Rd, Louisville, KY: null
