@@ -3886,6 +3886,7 @@
 11000 Decimal Dr, Louisville, KY: null
 11000 Decimal Dr. Responding units were unable to make contact, and the call was left in a pending status., Louisville, KY: null
 11000 Decimal Dr. Responding units were unable, Louisville, KY: null
+11000 Eagle's Cove Dr, Louisville, KY: null
 11000 Electron Dr, Louisville, KY:
   lat: 38.1992711
   lng: -85.5541487
@@ -4137,6 +4138,7 @@
   lat: 38.2990576
   lng: -85.5393666
 11400 Willow Pond Dr, Louisville, KY: null
+11400 Work League Drive (Skyline Dr area), Louisville, KY: null
 11400 anymore Enridge Dr, Louisville, KY: null
 11400 interchange drive near interchange way and commerce crossing, Louisville, KY:
   lat: 38.0983101
@@ -20799,6 +20801,9 @@
   lat: 38.206344
   lng: -85.765508
 400 Hillbaker, Louisville, KY: null
+400 Hillcrest Ave, Louisville, KY:
+  lat: 38.2606734
+  lng: -85.6862108
 400 Hodel Rd at 53rd Street, Louisville, KY:
   lat: 38.1921011
   lng: -85.7050204
@@ -24320,6 +24325,7 @@
 4800 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
   lng: -85.6833215
+4800 Sherburn Ln (cross street Quail's Run), Louisville, KY: null
 4800 Sherburn Ln, Louisville, KY: null
 4800 Simpson Dr, Louisville, KY:
   lat: 38.1825206
@@ -33994,6 +34000,7 @@
 900 Blackberry Dr, Louisville, KY:
   lat: 38.1160452
   lng: -85.7894781
+900 Blankenbaker Pky (near old Blankenbaker Rd and Maxon Dr), Louisville, KY: null
 900 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -35894,6 +35901,7 @@ Billtown Rd and Shaffer Ln, Louisville, KY: null
 Bishop Ln and Jennings Ln, Louisville, KY: null
 Bishop Ln and Newburg Rd, Louisville, KY: null
 Blankenbaker Pky and Upland Rd, Louisville, KY: null
+Blankenbaker Rd and Maxon Dr, Louisville, KY: null
 Blanket Baker Parkway and Electron Dr, Louisville, KY: null
 Blast On Road and Engine Drive, Louisville, KY: null
 Blenheim Rd and North Harpers Lane, Louisville, KY: null
@@ -36711,6 +36719,7 @@ Springs Station Rd and Colonial Springs Rd, Louisville, KY: null
 Springtime Ave and Crop St, Louisville, KY: null
 Springtime Ave and Westport Rd, Louisville, KY: null
 St Andrews Church Rd and Auburn Ave, Louisville, KY: null
+St Anthony Church Rd and Blanton Ln, Louisville, KY: null
 St Catherine St and Evans St, Louisville, KY: null
 St Rene Rd and Algonquin Pky, Louisville, KY: null
 St Rene Rd and Chris Lynn Road, Louisville, KY: null
