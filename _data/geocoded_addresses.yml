@@ -5818,6 +5818,7 @@
 1300 Southwestern Pky. The alarm was triggered in a laundry room and may have been related, Louisville, KY:
   lat: 38.2357993
   lng: -85.8322684
+1300 Spillett's Avenue. The patient received medical care, Louisville, KY: null
 1300 St Anthony Pl, Louisville, KY:
   lat: 38.2422818
   lng: -85.7316043
@@ -5888,6 +5889,9 @@
 1300 William St, Louisville, KY:
   lat: 38.2580859
   lng: -85.7172366
+1300 Willis Ave, Louisville, KY:
+  lat: 38.2524346
+  lng: -85.6526787
 ? 1300 Winter Ave. Officers checked on the vehicle, and it was cleared as non-suspicious
   approximately ten minutes before the report was logged., Louisville, KY
 : null
@@ -13101,6 +13105,7 @@
 2200 W W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+2200 Wadsworth Ave, Louisville, KY: null
 2200 Walbert Straub, Louisville, KY: null
 2200 Walridge, Louisville, KY: null
 2200 Waterdale. Responding officers were dispatched to assess the situation., Louisville, KY: null
@@ -22230,6 +22235,7 @@
   lat: 38.1659744
   lng: -85.6817999
 4200 Menene Drive, Louisville, KY: null
+4200 Modellian Court, Louisville, KY: null
 4200 Morat Ave, Louisville, KY: null
 4200 Morgan Jaymes Dr, Louisville, KY: null
 4200 Naomi Dr, Louisville, KY:
@@ -32038,6 +32044,9 @@
   lat: 38.1599559
   lng: -85.7179761
 800 Blake Baker Parkway, Louisville, KY: null
+800 Blue Lick Rd. Responders arrived, Louisville, KY:
+  lat: 38.1335683
+  lng: -85.6845835
 800 Brentwood Ave, Louisville, KY:
   lat: 38.1946055
   lng: -85.7727962
@@ -34177,6 +34186,9 @@
 900 Southgate Manor Dr. Later, units were dispatched to Dungdale Drive, Louisville, KY:
   lat: 38.0893129
   lng: -85.6721306
+900 St. Clark St. EMS arrived promptly, Louisville, KY:
+  lat: 38.2559441
+  lng: -85.7353619
 900 Stage5 Tower 2, Louisville, KY: null
 900 Starlet Ct, Louisville, KY:
   lat: 38.1067862
@@ -35881,6 +35893,7 @@ Iowa Ave and Cole Ave, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jackson St and Kenrose Ln, Louisville, KY: null
+Jackson St and South Crescent Street, Louisville, KY: null
 Jacob St and South First Street, Louisville, KY: null
 Jaeger Ave and Eastern Parkway, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
