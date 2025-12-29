@@ -16555,6 +16555,9 @@
 : lat: 38.259626
   lng: -85.69278
 300 North Height Avenue, Louisville, KY: null
+300 North Shawnee Terrace, Louisville, KY:
+  lat: 38.267752
+  lng: -85.8211759
 300 North22nd Street near Garfield Ave, Louisville, KY:
   lat: 38.262708
   lng: -85.785939
@@ -17123,6 +17126,9 @@
   lng: -85.6402132
 3000 Hunsinger Blvd, Louisville, KY: null
 3000 I 65 South, Louisville, KY: null
+3000 Imperator Ln, Louisville, KY:
+  lat: 38.2848685
+  lng: -85.5004779
 3000 Industrial Blvd, Louisville, KY:
   lat: 38.1544975
   lng: -85.7088219
@@ -18736,6 +18742,7 @@
 3500 Bowman, Louisville, KY:
   lat: 38.2219639
   lng: -85.6542693
+3500 Broadway and 1800 block of Magazine, Louisville, KY: null
 3500 Brockton Ln, Louisville, KY:
   lat: 38.21917
   lng: -85.654817
@@ -24595,6 +24602,9 @@
 4900 Red Oak Ln, Louisville, KY:
   lat: 38.1724779
   lng: -85.6714205
+4900 Rockaway Cir, Louisville, KY:
+  lat: 38.1805601
+  lng: -85.8564944
 4900 Ronwood Dr, Louisville, KY:
   lat: 38.143694
   lng: -85.669167
