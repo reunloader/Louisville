@@ -1449,6 +1449,9 @@
 100 West Market. Officers were dispatched, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
+100 West Muhammad Ali at the Holiday Inn, Louisville, KY:
+  lat: 38.2525973
+  lng: -85.7707846
 ? 100 West Oak Street this morning following a report of a fall. A 46-year-old male
   was found to have slipped and fallen in his shower. Responders arrived on scene
   to assess the individual's condition. Medical personnel provided necessary care
@@ -12025,6 +12028,8 @@
   lat: 38.2042665
   lng: -85.6765066
 2000 Grand Eason Road, Louisville, KY: null
+2000 Gray CRV, Louisville, KY: null
+2000 Gray Ford Fusion, Louisville, KY: null
 2000 Gray Nissan, Louisville, KY: null
 2000 Gray, was reported stolen from Moorhaven Dr. The vehicle was last seen approximately two hours prior, Louisville, KY: null
 2000 Greenhaven Dr, Louisville, KY: null
@@ -20893,6 +20898,7 @@
 400 Locust Ct, Louisville, KY:
   lat: 38.2265467
   lng: -85.484074
+400 Lotis Way, Crop St, Louisville, KY: null
 400 Louisville Ave, Louisville, KY:
   lat: 38.1875265
   lng: -85.7565466
@@ -21704,6 +21710,7 @@
 4000 Mapleton Avenue, Louisville, KY:
   lat: 38.186389
   lng: -85.779155
+4000 Mashapay Drive, Louisville, KY: null
 4000 Norbourne Blvd, Louisville, KY:
   lat: 38.2425193
   lng: -85.6544619
@@ -27112,6 +27119,9 @@
 5900 Milo Dr, Louisville, KY:
   lat: 38.1974703
   lng: -85.6439898
+5900 Morning Glory Ln, Louisville, KY:
+  lat: 38.1353555
+  lng: -85.8638169
 5900 Mount Pleasant Drive, Louisville, KY: null
 5900 New Cut Rd (Circle K), Louisville, KY: null
 5900 New Pet Road, Louisville, KY: null
