@@ -1251,6 +1251,9 @@
   alarm at Derby City Gaming, Louisville, KY'
 : lat: 38.1855446
   lng: -85.7094553
+100 South4th Street, Louisville, KY:
+  lat: 38.2563822
+  lng: -85.7570333
 100 Southview Square, Louisville, KY:
   lat: 38.152344
   lng: -85.7674185
@@ -3649,6 +3652,7 @@
 1100 Samuel St, Louisville, KY:
   lat: 38.2277043
   lng: -85.734546
+1100 Security, Louisville, KY: null
 1100 Silvercrest Ln, Louisville, KY: null
 ? 1100 Silvercrest Ln. Further details on the nature of the alarm or any subsequent
   actions were not immediately available., Louisville, KY
@@ -9496,6 +9500,9 @@
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
   lng: -85.7054914
+1900 Dixie Hwy. Emergency crews arrived, Louisville, KY:
+  lat: 38.223072
+  lng: -85.792655
 1900 DuBorg Avenue, Louisville, KY: null
 1900 Dubarque Avenue, Louisville, KY: null
 ? 1900 Dubarque Avenue, near Fitzgerald and Wartell. The alarm was identified as a
@@ -20761,6 +20768,7 @@
 400 East Broadway, near the CBS store, due, Louisville, KY:
   lat: 38.2449978
   lng: -85.7474066
+400 East Emerson Street, Louisville, KY: null
 400 East Ever, Louisville, KY: null
 400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
 400 East Great Lawn, Louisville, KY: null
