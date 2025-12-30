@@ -904,6 +904,7 @@
 100 North 6th Street, near Washington and Main St, close, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
+100 North Bailey Avenue near Field Ave and Victor Pl, Louisville, KY: null
 ? 100 North Bardstown Rd and North Bel Air, near Emerald and Frankfort. The alarm
   was triggered by a smoke detector in a vacant property. Upon arrival, responders
   found no visible smoke or flames and confirmed the structure was secure. The incident
@@ -18585,6 +18586,7 @@
   lat: 38.2313578
   lng: -85.8123939
 3400 Coventry Common Travel, Louisville, KY: null
+3400 Coventry Commons Dr, Department 103, Louisville, KY: null
 3400 Coventry Commons Dr, unit 104, Louisville, KY: null
 3400 Covington Commons Drive, Crescent K1 Road, Louisville, KY: null
 3400 Crestfield Cir, Louisville, KY:
@@ -24193,6 +24195,7 @@
   lat: 38.1787602
   lng: -85.623961
 4700 Barsham Road, Louisville, KY: null
+4700 Bella Road, Louisville, KY: null
 4700 Bellevue Ave, Louisville, KY:
   lat: 38.1823251
   lng: -85.7751994
@@ -24255,6 +24258,11 @@
   lng: -85.8382103
 4700 Kofar Avenue, Louisville, KY: null
 4700 Lynn Lea Rd near San Jose and Spenlia, Louisville, KY: null
+4700 Malibu Road, Louisville, KY: null
+? 4700 Malibu Road. The vehicle was last observed in the vicinity of Crums Ln and
+  Park Row Dr at 2:36 a.m. Authorities are actively searching, Louisville, KY
+: lat: 38.2542376
+  lng: -85.759407
 4700 Manslick Rd across from Clover Trace Pl and Bluegrass Ave, Louisville, KY: null
 4700 Maris Ln, Louisville, KY:
   lat: 38.3137905
@@ -27461,6 +27469,7 @@
   lat: 38.32875
   lng: -85.5591466
 5900 Yucca Road. Fire and EMS units arrived to assess the scene and prepare, Louisville, KY: null
+598 unspecified street, Louisville, KY: null
 6 East Wheaton Ward Drive, Louisville, KY: null
 6 Miles Ln, Louisville, KY:
   lat: 38.1245012
@@ -29982,6 +29991,7 @@
 6900 Bardstown Rd, Louisville, KY:
   lat: 38.1461678
   lng: -85.5880381
+6900 Barsound Road (Kroger), Louisville, KY: null
 6900 Betsy Ross Dr, Louisville, KY:
   lat: 38.056368
   lng: -85.893516
@@ -34789,6 +34799,7 @@
 900 South 5th Street, Louisville, KY:
   lat: 38.241573
   lng: -85.7608634
+900 South 6th Street, Department 204, Louisville, KY: null
 900 South 6th Street, Louisville, KY:
   lat: 38.242233
   lng: -85.762535
