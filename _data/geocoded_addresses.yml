@@ -10934,6 +10934,9 @@
 200 North. The incident involved a white Honda CRV and a silver F-150. Units worked, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North. The vehicle was last seen heading southbound, prompting a BOLO (Be On Lookout), Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North17th Street near Duncan and Columbia at Roosevelt, Louisville, KY:
   lat: 38.2606552
   lng: -85.7779157
@@ -23162,6 +23165,9 @@
 44 Catalpa St, Louisville, KY:
   lat: 38.235066
   lng: -85.8018737
+44 River Park Dr, Louisville, KY:
+  lat: 38.2536492
+  lng: -85.8002952
 44 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -25056,6 +25062,9 @@
   KY
 : lat: 38.1686412
   lng: -85.5627268
+500 Clark St, Louisville, KY:
+  lat: 38.1958555
+  lng: -85.7118088
 500 Clay Hill Ln, Louisville, KY:
   lat: 38.2262119
   lng: -85.5012993
@@ -29758,6 +29767,7 @@
   lat: 38.059685
   lng: -85.8894115
 6700 Senski Lane, Louisville, KY: null
+6700 Strawberry Ln, Clark St, Thalia Ave, and Estele Ave, Louisville, KY: null
 6700 Strawberry Ln, Louisville, KY:
   lat: 38.1596246
   lng: -85.763096
