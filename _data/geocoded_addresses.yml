@@ -15947,6 +15947,7 @@
 2900 Bon Air, Louisville, KY:
   lat: 38.2083483
   lng: -85.6587646
+2900 Booth Creek Road, Peet-a-Ville, Louisville, KY: null
 2900 Bowman Ave, Louisville, KY:
   lat: 38.2230556
   lng: -85.6555702
@@ -18161,6 +18162,7 @@
 3200 Fordhaven Rd, Louisville, KY:
   lat: 38.147965
   lng: -85.8178207
+3200 Frankfort Ave, Foundation Insurance Group, Louisville, KY: null
 3200 Frankfort Ave, Louisville, KY:
   lat: 38.254134
   lng: -85.675278
@@ -27801,6 +27803,7 @@
 600 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+600 Becker In, Louisville, KY: null
 600 Beecher St, Louisville, KY:
   lat: 38.1919432
   lng: -85.7698047
@@ -29707,6 +29710,7 @@
 6600 Bardstown Rd, Louisville, KY:
   lat: 38.1517338
   lng: -85.5886035
+6600 Bardstown Rd, Walgreens, Louisville, KY: null
 6600 Bardstown Rd. The specific reason, Louisville, KY:
   lat: 38.1517338
   lng: -85.5886035
@@ -30276,6 +30280,9 @@
   action to potentially mitigate long-term effects., Louisville, KY
 : null
 6900 Cedar Lake Court due, Louisville, KY: null
+6900 Cedar Lake Ct, Louisville, KY:
+  lat: 38.1471799
+  lng: -85.5828575
 6900 Chippenham Rd, Louisville, KY: null
 6900 Colrain Cir, Louisville, KY:
   lat: 38.1295542
@@ -36221,6 +36228,9 @@
 9800 Blue Lick Rd near Blue Lick Elementary, Louisville, KY:
   lat: 38.1060729
   lng: -85.6928522
+9800 Brookside Dr, Louisville, KY:
+  lat: 38.2484744
+  lng: -85.5535534
 9800 Brownsboro Rd, Louisville, KY:
   lat: 38.3125224
   lng: -85.5668407
