@@ -6047,6 +6047,7 @@
 13100 Magisterial Dr. Unit 800 requested to be held on the scene, indicating they would be occupied, Louisville, KY:
   lat: 38.2676169
   lng: -85.5093974
+13100 Metal Line Drive, Louisville, KY: null
 1316 Kremer Ave, Louisville, KY:
   lat: 38.1715665
   lng: -85.7011457
@@ -8241,6 +8242,9 @@
 16900 Ash Hill Dr, Louisville, KY:
   lat: 38.2318343
   lng: -85.4411101
+16900 Matthews Rd, Louisville, KY:
+  lat: 38.1265566
+  lng: -85.8775854
 17 Briden Ave, Louisville, KY:
   lat: 38.1926346
   lng: -85.7288573
@@ -27165,6 +27169,7 @@
 5700 W Southern Heights Ave, near a local park. The driver became combative when asked, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
+5700 Warp You Court, Louisville, KY: null
 5700 [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2794337
   lng: -85.6457104
