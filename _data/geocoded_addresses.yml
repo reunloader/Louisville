@@ -1270,6 +1270,9 @@
 100 South39th Street, Louisville, KY:
   lat: 38.2636546
   lng: -85.8135907
+100 South3rd Street, Louisville, KY:
+  lat: 38.256328
+  lng: -85.754983
 100 South44th Street, Louisville, KY:
   lat: 38.265562
   lng: -85.8201234
@@ -9032,6 +9035,7 @@
 1800 Bluegrass, near Crustle Mill Trace and Churchman. Upon investigation, the alarm was found, Louisville, KY:
   lat: 38.1826348
   lng: -85.7948645
+1800 Bonny Castle, across Burnwood and North Ln, Louisville, KY: null
 1800 Bonnycastle Ave, Louisville, KY:
   lat: 38.2284934
   lng: -85.7094927
@@ -14955,6 +14959,7 @@
   lng: -85.7894902
 2600 Northwestern Pky, Louisville, KY: null
 2600 Northwestern Pky, between North 27th and North 26th Streets,, Louisville, KY: null
+2600 Olive St and 3000 block of Crittenden Dr, Louisville, KY: null
 2600 Outer Loop, Louisville, KY:
   lat: 38.1342654
   lng: -85.7207797
@@ -30246,6 +30251,7 @@
 6900 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+6900 Nicolas Farms Ct, Louisville, KY: null
 6900 Norlynn Dr near Deep Spring Ct, Louisville, KY:
   lat: 38.1459175
   lng: -85.6345623
