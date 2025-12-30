@@ -1925,6 +1925,9 @@
 1000 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+1000 E W Southland Blvd, Louisville, KY:
+  lat: 38.17145
+  lng: -85.7640441
 1000 East Broadway, Louisville, KY:
   lat: 38.2440573
   lng: -85.7351137
@@ -12098,6 +12101,9 @@
 2000 E W Lee St, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
+2000 Edgeland Ave, Louisville, KY:
+  lat: 38.233682
+  lng: -85.711264
 2000 Fern Valley Rd, Louisville, KY:
   lat: 38.154705
   lng: -85.7254323
@@ -17337,6 +17343,9 @@
 3000 South Fourth, Louisville, KY: null
 3000 South Number 4, Louisville, KY: null
 3000 South Third Street, Louisville, KY: null
+3000 South3rd Street, Louisville, KY:
+  lat: 38.2061506
+  lng: -85.7640979
 3000 South4th Street, Louisville, KY:
   lat: 38.2063275
   lng: -85.7657394
