@@ -2061,6 +2061,9 @@
   and red coat, and was reportedly consuming alcohol and smoking. The individual was
   refusing, Louisville, KY
 : null
+1000 Jeff, Louisville, KY:
+  lat: 38.1537856
+  lng: -85.671884
 1000 Kaiser Ct, Louisville, KY:
   lat: 38.244535
   lng: -85.82644
@@ -2699,6 +2702,7 @@
 1000 West Indian Trail, Louisville, KY:
   lat: 38.1605327
   lng: -85.7080186
+1000 West Jeff, Louisville, KY: null
 1000 West Ln near Second Street, Louisville, KY:
   lat: 38.1312493
   lng: -85.8759227
@@ -7735,6 +7739,7 @@
 16 Meadowcreek Dr, Louisville, KY: null
 16 Stites Station, Louisville, KY: null
 16 Stites Station. Patrol units were dispatched, Louisville, KY: null
+1600 13th David, Louisville, KY: null
 1600 Albany Ave, Louisville, KY:
   lat: 38.1705767
   lng: -85.8206166
@@ -18252,6 +18257,9 @@
 3200 Marion Ct. Police units responded, Louisville, KY:
   lat: 38.2500716
   lng: -85.6917161
+3200 Meadow Bluff Way, Louisville, KY:
+  lat: 38.288238
+  lng: -85.473906
 3200 Melody Acres Ln, Louisville, KY:
   lat: 38.1855029
   lng: -85.8503718
