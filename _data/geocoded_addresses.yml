@@ -927,6 +927,7 @@
 100 North Hirshhorn Parkway, Louisville, KY: null
 100 North James Street in Sycamore, Louisville, KY: null
 100 North James Street, Louisville, KY: null
+100 North Keith Avenue, Louisville, KY: null
 100 North Shawnee Terrace, Louisville, KY:
   lat: 38.2662037
   lng: -85.8218263
@@ -15962,6 +15963,9 @@
 2900 Noe Ct, Louisville, KY:
   lat: 38.2113762
   lng: -85.6418868
+2900 Outer Loop, Louisville, KY:
+  lat: 38.1356381
+  lng: -85.7163358
 2900 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
@@ -26558,6 +26562,10 @@
 5300 Southdale Rd, Louisville, KY:
   lat: 38.151808
   lng: -85.778781
+? 5300 Speedway Ave. The male, described as Hispanic and shirtless with black pants,
+  was seen throwing the female, Louisville, KY
+: lat: 38.1176179
+  lng: -85.8604394
 5300 Speedway, Louisville, KY:
   lat: 38.1176179
   lng: -85.8604394
@@ -36414,6 +36422,7 @@ Cross Hill Rd and Morgan Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
 Crosshore Harsey Avenue and Harold Ave, Louisville, KY: null
+Crossing Campobello St and Carroll Ave, Louisville, KY: null
 Crossleaf Avenue and Willow Ave, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
 Crosstimbers Dr and Keating Dr, Louisville, KY: null
