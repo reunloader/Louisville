@@ -7457,6 +7457,9 @@
 1500 River Shore, Louisville, KY:
   lat: 38.264544
   lng: -85.7264337
+1500 Riverport Dr, Louisville, KY:
+  lat: 38.1630563
+  lng: -85.8839366
 1500 Rivershore, Louisville, KY: null
 1500 Rowan St, Louisville, KY:
   lat: 38.259949
@@ -18307,6 +18310,7 @@
 3200 Robin Rd, Louisville, KY:
   lat: 38.1997067
   lng: -85.7299289
+3200 Rose Wedgeway near Euclidean Court, Louisville, KY: null
 3200 Sem Street Road, Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South 4th St, Louisville, KY:
@@ -28305,6 +28309,9 @@
 600 Rubel Ave, Louisville, KY:
   lat: 38.2456192
   lng: -85.7311427
+600 S Floyd St, Louisville, KY:
+  lat: 38.247895
+  lng: -85.749356
 600 S Hancock St, Louisville, KY:
   lat: 38.245481
   lng: -85.743587
