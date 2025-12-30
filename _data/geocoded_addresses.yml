@@ -6835,6 +6835,7 @@
 1400 Walter Ave, Louisville, KY:
   lat: 38.1758167
   lng: -85.7848688
+1400 West Broadway and 3100 block of Greenwood Ave, Louisville, KY: null
 1400 West Broadway at HPI office, Louisville, KY:
   lat: 38.2475587
   lng: -85.7755724
@@ -9381,6 +9382,7 @@
 1800 [Street Name], Louisville, KY:
   lat: 38.2228553
   lng: -85.7928954
+1800 a street (exact street not specified), Louisville, KY: null
 1800 block of W Lee St, cross of 22nd and Dixie Hwy,, Louisville, KY: null
 1800 hours (UofL area), Louisville, KY: null
 1800 to8th Street, Louisville, KY: null
@@ -11535,6 +11537,9 @@
 200 West near the five-mile marker, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West near the off-ramps, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West onto I-64 East Bound, Louisville, KY: null
 200 West over top Taylor's Road, Louisville, KY: null
 ? 200 West to Dixie Hwy South. The incident involved a white Toyota Corolla and another
@@ -14516,6 +14521,9 @@
   as a medical Charlie call, indicating a need, Louisville, KY
 : null
 2500 St. St Xavier St, Louisville, KY: null
+2500 Standard Ave, Louisville, KY:
+  lat: 38.2324602
+  lng: -85.7961815
 2500 Stanley Call Parkway, Louisville, KY: null
 2500 Terra Crossing Blvd, Louisville, KY:
   lat: 38.272571
