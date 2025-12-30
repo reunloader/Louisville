@@ -487,6 +487,9 @@
   lat: 38.1715694
   lng: -85.7733598
 100 E W W Kingston Ave, Louisville, KY: null
+100 E W Whitney Ave, Louisville, KY:
+  lat: 38.1938894
+  lng: -85.7701262
 100 EPO, Patton Ct, and Gray Ln exit, Louisville, KY: null
 ? 100 East 10th Avenue. The individual is reportedly suffering from a spinal infection
   and has expressed a desire for drugs, possibly indicating intravenous use, before
@@ -8290,6 +8293,9 @@
 1700 Bonnyville Blvd, Louisville, KY:
   lat: 38.165238
   lng: -85.825072
+1700 Bowen Ave, Louisville, KY:
+  lat: 38.052096
+  lng: -85.8956025
 1700 Brentmoor Ln, Louisville, KY: null
 1700 Bridgeview Ln, Louisville, KY: null
 1700 Brownland, Louisville, KY: null
@@ -8331,6 +8337,9 @@
 1700 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
+1700 East Jefferson, Louisville, KY:
+  lat: 38.2516
+  lng: -85.7364656
 1700 Eastern Parkway, Louisville, KY:
   lat: 38.2300597
   lng: -85.7122977
@@ -36098,6 +36107,7 @@ Brokerage Lane and Westville Road, Louisville, KY: null
 Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
 Brosnan Street and Central Ave, Louisville, KY: null
+Browns Ln and Goldsmith Ln, Louisville, KY: null
 Browns World Road and Montclair Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Barbers Ln, Louisville, KY: null
