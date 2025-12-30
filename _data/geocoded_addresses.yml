@@ -14222,6 +14222,9 @@
 2400 Rockford Ln, Louisville, KY:
   lat: 38.1833115
   lng: -85.8539547
+2400 Rowan St, Louisville, KY:
+  lat: 38.261576
+  lng: -85.789555
 2400 S Floyd St at Denny Krum Hall, Louisville, KY:
   lat: 38.213035
   lng: -85.755478
@@ -27050,6 +27053,9 @@
   playing, prompting officers, Louisville, KY
 : lat: 38.1732308
   lng: -85.7767834
+5500 Southside Dr near Cumberland Ave and Rochester Dr, Louisville, KY:
+  lat: 38.1693743
+  lng: -85.7650117
 5500 Southside Dr, Louisville, KY:
   lat: 38.1693743
   lng: -85.7650117
@@ -36582,6 +36588,7 @@ Crums Ln and May Ave, Louisville, KY: null
 Crums Ln and Park Row Dr, Louisville, KY: null
 Crums Ln and Schmitts Ln, Louisville, KY: null
 Crusher Leeds Lane and Teaneck Ln, Louisville, KY: null
+Cumberland Ave and Rochester Dr, Louisville, KY: null
 Cypress St and Dumanale St, Louisville, KY: null
 Dart Dr and Peabody Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
