@@ -5552,6 +5552,7 @@
 1300 Ellison Ave, Louisville, KY:
   lat: 38.2310656
   lng: -85.7281587
+1300 Etow Avenue, Louisville, KY: null
 1300 Everett Ave, Louisville, KY:
   lat: 38.2367176
   lng: -85.7127065
@@ -15771,6 +15772,9 @@
 2800 W Market St, Louisville, KY:
   lat: 38.259563
   lng: -85.7966655
+2800 West Broadway at Goodwill Opportunity Center, Louisville, KY:
+  lat: 38.249486
+  lng: -85.798435
 2800 West Broadway near Goodwill Opportunity, Louisville, KY:
   lat: 38.249486
   lng: -85.798435
@@ -33229,6 +33233,9 @@
   lat: 38.246744
   lng: -85.790185
 800 South26 Street and laundromat, Louisville, KY: null
+800 South26th Street, Louisville, KY:
+  lat: 38.246164
+  lng: -85.795377
 800 South32nd Street, Louisville, KY:
   lat: 38.2476663
   lng: -85.8059077
@@ -33980,6 +33987,9 @@
   possibly under the influence of medication., Louisville, KY
 : null
 8500 Bost Ln near Kiki Ct and Longbranch Ct, Louisville, KY:
+  lat: 38.1281809
+  lng: -85.6954544
+8500 Bost Ln, Louisville, KY:
   lat: 38.1281809
   lng: -85.6954544
 8500 Brownsboro Rd, Louisville, KY:
