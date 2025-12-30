@@ -11250,6 +11250,9 @@
   lat: 38.2305239
   lng: -85.8144957
 200 South39, Louisville, KY: null
+200 South39th Street, Louisville, KY:
+  lat: 38.261854
+  lng: -85.814317
 200 South43rd Street (Holiday Inn), Louisville, KY: null
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
@@ -15680,6 +15683,7 @@
   lng: -85.7722465
 2800 Timber Hills Rd to investigate the suspicious activity and ensure the property's safety., Louisville, KY: null
 2800 Timber Hills Rd, Louisville, KY: null
+2800 Tosla Road at Air Devils Inn, Louisville, KY: null
 2800 Virginia Ave, Louisville, KY:
   lat: 38.238038
   lng: -85.800461
@@ -20870,6 +20874,9 @@
 400 East Main at Slugger Field, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
+400 East Market, Louisville, KY:
+  lat: 38.253966
+  lng: -85.745958
 400 East Muhammad Ali, Dasker Manor, Louisville, KY: null
 400 East Muhammad Ali, Louisville, KY:
   lat: 38.249878
