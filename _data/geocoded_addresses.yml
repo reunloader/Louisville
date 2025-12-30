@@ -285,6 +285,12 @@
 100 Blankenbaker Ln, Louisville, KY:
   lat: 38.2744077
   lng: -85.6461132
+100 Blue Creek Ct near West Greenberg Drive, Louisville, KY:
+  lat: 38.104083
+  lng: -85.697541
+100 Blue Creek Ct, Louisville, KY:
+  lat: 38.104083
+  lng: -85.697541
 100 Blue Lick Rd, Southside Christian Care and Preschool, Louisville, KY: null
 100 Boulevard, Louisville, KY:
   lat: 38.1716047
@@ -6220,6 +6226,9 @@
 14 South 4th street, Louisville, KY:
   lat: 38.2243241
   lng: -85.7623964
+14 Wolfe Ave, Louisville, KY:
+  lat: 38.1971085
+  lng: -85.7290566
 1400 (location unspecified), Louisville, KY: null
 1400 2nd Street, Louisville, KY:
   lat: 38.228655
