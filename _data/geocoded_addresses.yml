@@ -8160,6 +8160,7 @@
 1600 West Muhammad Ali, Louisville, KY:
   lat: 38.2531319
   lng: -85.7775215
+1600 West Ormsey Avenue, Louisville, KY: null
 1600 Westport Rd, Louisville, KY: null
 1600 Whippoorwill Rd, Louisville, KY:
   lat: 38.2103386
@@ -23806,6 +23807,9 @@
   the call., Louisville, KY
 : null
 4500 Swaco Lane, Louisville, KY: null
+4500 Trumpet Way, Louisville, KY:
+  lat: 38.1941718
+  lng: -85.8514121
 4500 Unsealed, Louisville, KY: null
 4500 Virginia Ave, Louisville, KY:
   lat: 38.2403558
@@ -25878,6 +25882,7 @@
 5100 Auburndale Ave, Louisville, KY:
   lat: 38.172581
   lng: -85.7749371
+5100 Baldwin Avenue, Louisville, KY: null
 5100 Bardstown Rd, Louisville, KY:
   lat: 38.1744331
   lng: -85.6151359
