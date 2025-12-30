@@ -12909,6 +12909,9 @@
 2100 Poplar Level Rd, Louisville, KY:
   lat: 38.2157433
   lng: -85.7249572
+2100 Portland Ave at Circle K, Louisville, KY:
+  lat: 38.2682365
+  lng: -85.783177
 2100 Portland Ave, Louisville, KY:
   lat: 38.2682365
   lng: -85.783177
@@ -29456,6 +29459,7 @@
   lat: 38.1454561
   lng: -85.870255
 6400 Westwind Way, Louisville, KY: null
+6400 Wooded Way Ct, Louisville, KY: null
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
   lng: -85.6630867
@@ -30923,6 +30927,9 @@
 700 Orange Beach, possibly due, Louisville, KY: null
 700 Ornsby, Louisville, KY: null
 700 Outer Loop and 700 block of Grade, Louisville, KY: null
+700 Outer Loop near Target, Louisville, KY:
+  lat: 38.126456
+  lng: -85.752489
 700 Owen St, Louisville, KY:
   lat: 38.2626066
   lng: -85.7802078
@@ -31776,6 +31783,7 @@
 7100 West, Louisville, KY:
   lat: 38.2861839
   lng: -85.6197265
+7100 Wooded Way Ct, Louisville, KY: null
 7100 an unspecified street, Louisville, KY: null
 7200 Adam Meadow Ct, Louisville, KY:
   lat: 38.1553623
@@ -35089,6 +35097,7 @@
 900 South Second Street, Louisville, KY: null
 900 South Second, CrossFit Baxter, Louisville, KY: null
 900 South Second, Louisville, KY: null
+900 South Sixth Street, Louisville, KY: null
 900 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
