@@ -7443,6 +7443,9 @@
 1500 River Shore Dr, Louisville, KY:
   lat: 38.264544
   lng: -85.7264337
+1500 River Shore, Louisville, KY:
+  lat: 38.264544
+  lng: -85.7264337
 1500 Rivershore, Louisville, KY: null
 1500 Rowan St, Louisville, KY:
   lat: 38.259949
@@ -10267,6 +10270,7 @@
 200 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
+200 E W Chestnut St and Croft area, Louisville, KY: null
 200 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -17782,6 +17786,7 @@
   lat: 38.1712758
   lng: -85.7025823
 3100 Marlin Rd, Louisville, KY: null
+3100 Marlin Rd, possibly needing assistance or medical evaluation, Louisville, KY: null
 3100 Maywood Pl, Louisville, KY:
   lat: 38.219384
   lng: -85.640857
@@ -31468,6 +31473,9 @@
 7000 Fisherville Road, Louisville, KY:
   lat: 38.190172
   lng: -85.4542078
+? 7000 Fox Chase Pl, involving another female in her 90s with the same symptoms. Both
+  patients received medical attention from EMS personnel, Louisville, KY
+: null
 7000 Foxcroft Pl, Louisville, KY: null
 7000 Global Dr following a report of a male individual who had sustained a gunshot wound, Louisville, KY: null
 7000 Global Dr, Louisville, KY:
@@ -31884,6 +31892,9 @@
 7200 Southside Dr, Louisville, KY:
   lat: 38.15067
   lng: -85.768461
+7200 Springdale Rd near Green Spring Dr and Wolf Pen Branch Rd, Louisville, KY:
+  lat: 38.3196698
+  lng: -85.6129126
 7200 Springdale Rd, Louisville, KY:
   lat: 38.3196698
   lng: -85.6129126
@@ -36844,6 +36855,7 @@ Grange Road and Nelson Miller Pky, Louisville, KY: null
 Grange Road and Shelbyville Rd, Louisville, KY: null
 Granger Rd and Factory Ln, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
+Green Spring Dr and Wolf Pen Branch Rd, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
 Greenwood Rd and Aron Rd, Louisville, KY: null
 Greenwood Rd and Lucille Ave, Louisville, KY: null
