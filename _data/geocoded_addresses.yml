@@ -3772,6 +3772,9 @@
   lat: 38.2413227
   lng: -85.8067247
 1100 South32nd Street, cross with Virginia and Hale Ave, Louisville, KY: null
+1100 South36th St, Louisville, KY:
+  lat: 38.241911
+  lng: -85.813225
 1100 South3rd Street, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
@@ -10081,6 +10084,9 @@
 ? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
+200 Chickasaw Park, Louisville, KY:
+  lat: 38.2423223
+  lng: -85.8331322
 200 Claremont Ave, Louisville, KY:
   lat: 38.2568138
   lng: -85.6770385
@@ -11483,6 +11489,12 @@
 200 West at Dumanil, Louisville, KY: null
 200 West at I-265, Louisville, KY: null
 200 West at Kirtland, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
+200 West at Newburg Rd Spur, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
+200 West at Newburg Rd, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
 200 West at Taylor Blvd, Louisville, KY:
@@ -17169,6 +17181,7 @@
 3000 Jefferson Green Dr due, Louisville, KY: null
 3000 Jefferson Green Dr, Louisville, KY: null
 3000 Jefferson Green, Louisville, KY: null
+3000 Joanne Way, Louisville, KY: null
 3000 Juniper Hill, Louisville, KY:
   lat: 38.24284
   lng: -85.679935
@@ -23673,6 +23686,7 @@
 4500 Shelbyville Rd. Police units responded promptly, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+4500 Sheldes Dr, Louisville, KY: null
 4500 Sheldes Drive, Louisville, KY: null
 4500 Shells First Born, Louisville, KY: null
 4500 Shells First Born. Specifics, Louisville, KY: null
@@ -26483,6 +26497,7 @@
 5400 Angus Ct, Louisville, KY:
   lat: 38.101763
   lng: -85.863165
+5400 Antle Dr Speedway, Louisville, KY: null
 5400 Bardstown Rd, Louisville, KY:
   lat: 38.1701301
   lng: -85.6079258
