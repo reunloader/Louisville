@@ -5051,6 +5051,7 @@
 1200 Story Ave. The patient was assessed and received care on scene, with responders working, Louisville, KY:
   lat: 38.2551819
   lng: -85.7280531
+1200 Sugar Pond Terrace. The response aimed, Louisville, KY: null
 1200 Taylor's Road, Louisville, KY: null
 1200 Telford Street, Louisville, KY: null
 1200 Top Hill Rd, Louisville, KY:
@@ -10442,6 +10443,9 @@
   lng: -85.6419291
 200 East Money Avenue due, Louisville, KY: null
 200 East Money Avenue, Louisville, KY: null
+200 East Muhammad Ali, Louisville, KY:
+  lat: 38.250332
+  lng: -85.750886
 200 East S9, Louisville, KY: null
 ? 200 East Street. This stop involved a vehicle displaying a Kentucky license plate.
   Law enforcement initiated the stop for reasons that are not immediately clear from
@@ -26815,6 +26819,7 @@
   lat: 38.1712212
   lng: -85.7686312
 5300 South Papa Street, Louisville, KY: null
+5300 South Third Street near Iroquois Shoes and More, Louisville, KY: null
 5300 South3rd Street, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
@@ -30066,6 +30071,9 @@
 6800 Beard Ct, Louisville, KY:
   lat: 38.1293675
   lng: -85.6344442
+6800 Brittany Oak Dr, Louisville, KY:
+  lat: 38.0864263
+  lng: -85.6354896
 6800 Brook Bend Way, Louisville, KY:
   lat: 38.09811
   lng: -85.6505997
@@ -30206,6 +30214,7 @@
 6800 Sherry Ln near Beulah Church Rd, Louisville, KY:
   lat: 38.1496381
   lng: -85.592082
+6800 South Fifth Street, Louisville, KY: null
 6800 South First Floor, Louisville, KY: null
 6800 South Watterson Trail, Louisville, KY:
   lat: 38.1579784
