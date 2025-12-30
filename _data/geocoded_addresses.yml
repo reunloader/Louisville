@@ -16840,6 +16840,9 @@
 300 Rowland Ave, Louisville, KY:
   lat: 38.2514912
   lng: -85.6949532
+300 Roy Wilkins Ave, Louisville, KY:
+  lat: 38.25463
+  lng: -85.76542
 300 Royer Ct, Louisville, KY:
   lat: 38.2590233
   lng: -85.6871544
@@ -29643,6 +29646,7 @@
 6600 Beechbrook Ct, Louisville, KY:
   lat: 38.1838926
   lng: -85.6427044
+6600 Bray Ave, Louisville, KY: null
 6600 Brighton Hill Ln, Louisville, KY:
   lat: 38.1570342
   lng: -85.5886124
