@@ -455,6 +455,12 @@
 100 E Main St. The train was stopped near the flames, which had split, Louisville, KY:
   lat: 38.2577199
   lng: -85.7580289
+100 E W Amherst Ave, Louisville, KY:
+  lat: 38.1746783
+  lng: -85.7671089
+? 100 E W Amherst Ave, heading east toward Amherst and Wabash. No description was
+  provided, and officers checked the area, Louisville, KY
+: null
 100 E W Ashland Ave, Louisville, KY:
   lat: 38.1863661
   lng: -85.7805448
@@ -612,6 +618,9 @@
 100 Fort Lillian Avenue, Louisville, KY: null
 100 Fort Lillian Avenue. A silver Honda HRV was noted in connection with this incident., Louisville, KY: null
 100 Founder's Court, Louisville, KY: null
+100 Freeman Ave, Louisville, KY:
+  lat: 38.165209
+  lng: -85.764966
 100 Front Walk Top, Louisville, KY: null
 100 Georgia King Norah, Louisville, KY: null
 100 Gillette Ave, Louisville, KY:
@@ -7240,6 +7249,9 @@
   at the time of the report., Louisville, KY
 : null
 1500 Gallagher Street due, Louisville, KY: null
+1500 Garland, Louisville, KY:
+  lat: 38.242547
+  lng: -85.778313
 1500 Goddard Ave, Louisville, KY:
   lat: 38.2326539
   lng: -85.7205807
@@ -30245,6 +30257,9 @@
 700 Cedar Creek Rd. They also responded, Louisville, KY:
   lat: 38.0695318
   lng: -85.6255144
+700 Cedar Grove Ct, Louisville, KY:
+  lat: 38.274744
+  lng: -85.80561
 700 Cedar Ridge Ct, Hillock Dr, Louisville, KY: null
 700 Cedar St, Louisville, KY:
   lat: 38.2929065
@@ -36379,6 +36394,7 @@ Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
 Crosshore Harsey Avenue and Harold Ave, Louisville, KY: null
 Crossleaf Avenue and Willow Ave, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
+Crosstimbers Dr and Keating Dr, Louisville, KY: null
 Crosswood Jackson Avenue and Fischer Ave, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
