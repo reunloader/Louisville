@@ -364,6 +364,9 @@
   lat: 38.1686412
   lng: -85.5627268
 100 Charter Oak Strives, Louisville, KY: null
+100 Claremont Ave, Louisville, KY:
+  lat: 38.2548122
+  lng: -85.6773386
 100 Clinton, Louisville, KY: null
 100 Clooney Oaks Court, Louisville, KY: null
 100 Closterwood Dr, Louisville, KY:
@@ -1344,6 +1347,9 @@
 100 Tempest Way, Louisville, KY:
   lat: 38.1649908
   lng: -85.8269005
+100 Tipsy Cir, Louisville, KY:
+  lat: 38.1915572
+  lng: -85.844917
 ? 100 Trace and Soting Way due to a suspicious license plate. The specific circumstances
   and outcome of this stop were not detailed in the initial report., Louisville, KY
 : null
@@ -10530,6 +10536,9 @@
   lng: -85.7582215
 200 East near Kentucky Ave, Louisville, KY: null
 200 East near Marchtown Road, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East near Newburg Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East near River Park, Louisville, KY:
@@ -34830,6 +34839,9 @@
   lat: 38.2622602
   lng: -85.7765678
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
+900 Indian Oaks Cir, Louisville, KY:
+  lat: 38.1685734
+  lng: -85.6856731
 900 Iola Rd, Louisville, KY:
   lat: 38.242236
   lng: -85.657594
