@@ -10921,6 +10921,9 @@
 200 North at Brownsboro, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at La Grange Rd, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at Old Ender, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -11964,6 +11967,7 @@
 200 northbound, Louisville, KY: null
 200 off ramp, Louisville, KY: null
 200 or217, Louisville, KY: null
+200 or219, Louisville, KY: null
 200 overpass, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
@@ -18174,6 +18178,9 @@
 3200 Larkwood Ave, Louisville, KY:
   lat: 38.257556
   lng: -85.806106
+3200 Leith Ln, Louisville, KY:
+  lat: 38.2029
+  lng: -85.682338
 3200 Lena Ln area, Louisville, KY: null
 3200 Lena Ln, Louisville, KY:
   lat: 38.1065676
@@ -19327,6 +19334,7 @@
 3600 Crown Ave, Louisville, KY:
   lat: 38.2329994
   lng: -85.7280197
+3600 Dale Park Terrace, Louisville, KY: null
 3600 Dutchman's Lane near Cannons Ln, Louisville, KY:
   lat: 38.235109
   lng: -85.65801
@@ -33203,6 +33211,9 @@
   lat: 38.246276
   lng: -85.78039
 800 South 17th Street, which may have been connected, Louisville, KY: null
+800 South 24th Street, Louisville, KY:
+  lat: 38.246948
+  lng: -85.792275
 ? 800 South 25th Street for a report of an unresponsive 82-year-old female. Engine
   17 responded to the scene. Shortly after, another medical call was received for
   a different location on Oregon Avenue around 2:28 p.m.PM, involving a 53-year-old
