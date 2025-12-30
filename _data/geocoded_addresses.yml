@@ -4207,6 +4207,7 @@
 11400 interchange drive near interchange way and commerce crossing, Louisville, KY:
   lat: 38.0983101
   lng: -85.6808359
+1150 Manneville, Louisville, KY: null
 11500 Harry Plane near North Waterstone Trail, Louisville, KY: null
 11500 Herrick Ln, Christian Village Cir, Christian Community Care, Louisville, KY: null
 11500 Maple Brook Dr, Louisville, KY:
@@ -5199,6 +5200,8 @@
   9:47 p.m. a.m. p.m.):** responded to assist EMS at the 7800 block of block of New
   La Grange Rd, Louisville, KY
 : null
+1202 unknown street, Louisville, KY: null
+1206 unknown street, Louisville, KY: null
 12100 Kentucky Mills Dr, Louisville, KY: null
 12100 Kentucky Mills Dr. The call was in reference, Louisville, KY: null
 12100 LaGrange Road, Louisville, KY:
@@ -5265,6 +5268,9 @@
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
   lng: -85.7171011
+12500 Alley and Avenue at the Holiday Express, Louisville, KY:
+  lat: 38.2021532
+  lng: -85.6855388
 12500 Davis Ct, Louisville, KY: null
 ? 12500 Davis Ct. The patient, a 24-year-old male, was reportedly experiencing low
   blood sugar and was unresponsive. Medical personnel were on scene, Louisville, KY
@@ -20394,6 +20400,7 @@
   lat: 38.1484892
   lng: -85.6893461
 3900 Oklahoma Drive, Louisville, KY: null
+3900 Old Brownsboro Hills Rd near 2000 block of Columbia Freightliner, Louisville, KY: null
 3900 Old Brownsboro Rd near Westwind Rd and Indian Hills Green, Louisville, KY: null
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
@@ -22141,6 +22148,7 @@
 4000 Serene Way, Louisville, KY:
   lat: 38.159645
   lng: -85.6881029
+4000 Service Row, Louisville, KY: null
 4000 Shady Villa Dr, Louisville, KY:
   lat: 38.162765
   lng: -85.687973
@@ -24295,6 +24303,9 @@
 47 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
+4700 Aledo Ct, Louisville, KY:
+  lat: 38.0869967
+  lng: -85.6772524
 4700 Alito Corp, Barkley Dr, Louisville, KY: null
 4700 Allmond Ave, Louisville, KY:
   lat: 38.179887
@@ -28071,6 +28082,7 @@
   lng: -85.5485
 600 Mall Rd, Louisville, KY: null
 600 Mallard Creek Rd, Louisville, KY: null
+600 Manneville, Louisville, KY: null
 600 Marchtown near the 600 block of Baker, Louisville, KY: null
 600 Maryhill Ln, Louisville, KY: null
 ? 600 Maryhill Ln. The initial report of the location was unclear, prompting further
@@ -29316,6 +29328,7 @@
   building with no visible signs of fire. Responding units investigated and determined
   the activation, Louisville, KY
 : null
+6400 Main in Montego Bay Row, Louisville, KY: null
 6400 Man-Bridleview Cir, Louisville, KY: null
 6400 Mandigal Road, Louisville, KY: null
 6400 Manor View Cir, Louisville, KY:
@@ -35532,6 +35545,9 @@
   The vehicle was confirmed stolen, and units were advised to be on the lookout, Louisville,
   KY
 : null
+9200 highway, Louisville, KY:
+  lat: 38.1174315
+  lng: -85.6779117
 921 Barrett Ln, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
