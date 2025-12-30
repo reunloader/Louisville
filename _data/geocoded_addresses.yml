@@ -20933,6 +20933,9 @@
 400 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
+400 E W Chestnut St, near South Jackson and South Preston, Louisville, KY:
+  lat: 38.2506816
+  lng: -85.7736056
 400 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
@@ -23727,6 +23730,9 @@
 4500 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
+4500 Aron Rd, near Custer WMJ Drive and Covington Commons Drive, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 4500 Arrows Drive, Louisville, KY: null
 4500 Balaton Dr, Louisville, KY:
   lat: 38.171553
@@ -24058,6 +24064,7 @@
   lat: 38.2524346
   lng: -85.6526787
 4500 Winnrose Way, Louisville, KY: null
+4500 outer loop, Lambert and Nottemeyer Line, Louisville, KY: null
 4512 Tray Place, Louisville, KY: null
 46 Prince Ln, Louisville, KY: null
 46 Stonyrun Dr, Louisville, KY:
@@ -28920,6 +28927,9 @@
   lat: 38.2395063
   lng: -85.8207933
 6100 South Waterston Trail, Louisville, KY: null
+6100 South Watterson Trail, Louisville, KY:
+  lat: 38.1579784
+  lng: -85.6145379
 6100 South29th Street at Magazine St and W Chestnut St, Louisville, KY:
   lat: 38.2533414
   lng: -85.7992827
