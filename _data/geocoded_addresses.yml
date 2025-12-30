@@ -1906,6 +1906,7 @@
 1000 Dixie Hwy. Units were dispatched, Louisville, KY:
   lat: 38.2416641
   lng: -85.7852707
+1000 Dixie and Heaton, Louisville, KY: null
 1000 Dixon Ave, Louisville, KY:
   lat: 38.220538
   lng: -85.732121
@@ -34593,6 +34594,9 @@
 900 Brentwood Ave, Louisville, KY:
   lat: 38.1946159
   lng: -85.774954
+900 Brewster Ave, Louisville, KY:
+  lat: 38.2486238
+  lng: -85.8297915
 900 Burton Ave, Louisville, KY:
   lat: 38.206738
   lng: -85.773152
@@ -37035,6 +37039,7 @@ Mellwood Ave and Lake Ave, Louisville, KY: null
 Mellwood Ave and Riverwood Dr, Louisville, KY: null
 Melvin Dr and Dover Rd, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
+Merchant Road and River Rd, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
 Meridian Ave and Breckmarch Lane, Louisville, KY: null
 Michael Ray Dr and Rochelle Rd, Louisville, KY: null
