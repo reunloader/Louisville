@@ -12366,6 +12366,9 @@
 2000 Robin Hill Dr, Louisville, KY:
   lat: 38.1368382
   lng: -85.6045352
+2000 Rowan St, Louisville, KY:
+  lat: 38.260834
+  lng: -85.782933
 2000 Rowan, Louisville, KY:
   lat: 38.260834
   lng: -85.782933
@@ -33448,6 +33451,7 @@
 8100 Bardstown Rd, Louisville, KY:
   lat: 38.131357
   lng: -85.578224
+8100 Bardstown Rd, Town Suites, Louisville, KY: null
 8100 Carnal Town Road, Louisville, KY: null
 8100 Carnes Dr, Louisville, KY:
   lat: 38.1326196
