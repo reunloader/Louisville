@@ -2669,6 +2669,7 @@
   lat: 38.210382
   lng: -85.774372
 1000 Tennessee Ave. The officer conducting the stop confirmed they were safe., Louisville, KY: null
+1000 Timothy Faulkner, Louisville, KY: null
 1000 Tom Lindsay, Louisville, KY: null
 1000 University of Louisville, Louisville, KY: null
 ? 1000 Uracoid Gardens Drive. Reports indicated that an ex-boyfriend was present inside
@@ -6912,6 +6913,9 @@
 1400 South Second Street. The specific unit involved was number two. Officers were present, Louisville, KY: null
 1400 South Second, Louisville, KY: null
 1400 South Third St, Louisville, KY: null
+1400 South, Louisville, KY:
+  lat: 38.2289347
+  lng: -85.760211
 1400 South1st Street, Louisville, KY:
   lat: 38.228491
   lng: -85.7567193
@@ -13314,6 +13318,9 @@
   lat: 38.1334661
   lng: -85.6665574
 2200 Chair Cross, Louisville, KY: null
+2200 Cleveland, Louisville, KY:
+  lat: 38.264872
+  lng: -85.784898
 2200 Congress St, Louisville, KY:
   lat: 38.257775
   lng: -85.786854
@@ -15289,6 +15296,7 @@
 2600 West Broadway near 27th and 26th streets, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
+2600 West Broadway, Broadway, and Teal and McGree, Louisville, KY: null
 2600 West Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
@@ -17608,6 +17616,9 @@
   lat: 38.209388
   lng: -85.63889
 3000 Mid Dale Ln, which appeared, Louisville, KY: null
+3000 Montana Ave, Louisville, KY:
+  lat: 38.2086834
+  lng: -85.7751761
 3000 Montgomery St, Louisville, KY:
   lat: 38.27457
   lng: -85.795887
@@ -21065,6 +21076,9 @@
   lng: -85.764369
 400 Cross Winch Drive, Louisville, KY: null
 400 Cross section near 18th Street and W Market St, Louisville, KY: null
+400 Crowley near Lauderdale Rd, Louisville, KY:
+  lat: 38.2293168
+  lng: -85.6924959
 400 David Ave, Louisville, KY: null
 400 David Street and 400 block of Adams St, Louisville, KY: null
 400 David Street, Louisville, KY: null
@@ -30719,9 +30733,13 @@
 6900 Pecan Way, Louisville, KY:
   lat: 38.1093203
   lng: -85.7705406
+6900 Preston Hwy near 65 south lanes, Louisville, KY:
+  lat: 38.1517049
+  lng: -85.694765
 6900 Preston Hwy, Louisville, KY:
   lat: 38.1517049
   lng: -85.694765
+6900 Preston Hwy, prompting a pursuit BOLO. Authorities are actively searching, Louisville, KY: null
 6900 Redwoods Road, Louisville, KY: null
 6900 Riverport Dr, Louisville, KY:
   lat: 38.1609416
@@ -35156,6 +35174,9 @@
 900 East, Louisville, KY:
   lat: 38.2358993
   lng: -85.7391191
+900 Eastern Parkway, Louisville, KY:
+  lat: 38.2174658
+  lng: -85.7371914
 900 Eastern Star Ct near Highland Ave, Louisville, KY:
   lat: 38.242879
   lng: -85.723559
