@@ -991,6 +991,9 @@
 100 North4th Street, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
+100 North4th near the courthouse, Louisville, KY:
+  lat: 38.256754
+  lng: -85.756584
 100 Northington Ln, Louisville, KY:
   lat: 38.321213
   lng: -85.5521743
@@ -11064,6 +11067,7 @@
   the alarm. Crews arrived, Louisville, KY
 : null
 200 North23rd Street and other locations, Louisville, KY: null
+200 North26 and 217, Louisville, KY: null
 200 North26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
@@ -13522,6 +13526,7 @@
 2200 W Oak St, Louisville, KY:
   lat: 38.237383
   lng: -85.790435
+2200 W Oak St, Sylmar, Louisville, KY: null
 2200 W W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -21974,6 +21979,9 @@
 400 West Ornstein near Garvin and 4th, Louisville, KY: null
 400 West Ornstein, Louisville, KY: null
 400 West Penny Avenue, Louisville, KY: null
+400 West Valley, Louisville, KY:
+  lat: 38.1533993
+  lng: -85.6971709
 400 West W Oak St, Louisville, KY: null
 400 West Wonsby Avenue, Louisville, KY: null
 400 Wetstein Ave, Louisville, KY:
@@ -25815,6 +25823,9 @@
   lat: 38.255237
   lng: -85.795685
 500 South4th Street, Louisville, KY:
+  lat: 38.2509279
+  lng: -85.7578311
+500 South4th Street. Officers responded, Louisville, KY:
   lat: 38.2509279
   lng: -85.7578311
 500 South8th Street, Louisville, KY:
