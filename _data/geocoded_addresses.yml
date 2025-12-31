@@ -8048,6 +8048,7 @@
 1600 Mellwood Ave, Louisville, KY:
   lat: 38.25664
   lng: -85.720659
+1600 Moore Ct, Hershey's Cuffier Drive, Louisville, KY: null
 1600 Moore Ct, Louisville, KY:
   lat: 38.2251564
   lng: -85.7748253
@@ -11980,6 +11981,9 @@
   number was communicated to the relevant authorities, Louisville, KY
 : null
 200 east Canada, Louisville, KY: null
+200 east at Poplar Level Rd, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 east near Brownsboro and Hatcher Ave, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
