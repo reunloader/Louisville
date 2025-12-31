@@ -1289,6 +1289,9 @@
 100 South4th Street, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
+100 South5th Street near West Main and W Market St, Louisville, KY:
+  lat: 38.256688
+  lng: -85.758304
 100 Southview Square, Louisville, KY:
   lat: 38.152344
   lng: -85.7674185
@@ -7648,6 +7651,9 @@
   lat: 38.2556496
   lng: -85.5536202
 1500 West Brick and Ridge Street near 16th and 15th, Louisville, KY: null
+1500 West Broadway at Masterphone, Louisville, KY:
+  lat: 38.248188
+  lng: -85.776718
 1500 West Broadway, Louisville, KY:
   lat: 38.248188
   lng: -85.776718
@@ -28518,6 +28524,9 @@
 600 South10th Street, Louisville, KY:
   lat: 38.24992
   lng: -85.767932
+600 South11th Street, Louisville, KY:
+  lat: 38.25011
+  lng: -85.76958
 600 South18th Street alley, Louisville, KY: null
 600 South18th Street, Louisville, KY:
   lat: 38.2513953
