@@ -4454,6 +4454,7 @@
 ? 120 Magazine Street. The individual was described as being okay, though the situation
   required medical attention and assessment., Louisville, KY
 : null
+1200 (location incomplete), Louisville, KY: null
 1200 45 Court, Louisville, KY: null
 1200 Adam Realms, Louisville, KY: null
 1200 Algonquin Pky PARKWAY, Louisville, KY:
@@ -15017,6 +15018,9 @@
   lat: 38.2489909
   lng: -85.7951833
 2600 Cessna, Louisville, KY: null
+2600 Chestnut, Louisville, KY:
+  lat: 38.2526608
+  lng: -85.794789
 2600 Cleveland Blvd, Louisville, KY:
   lat: 38.260725
   lng: -85.702196
@@ -31730,6 +31734,7 @@
   lat: 38.1316635
   lng: -85.8564041
 700 West Alhomid Ali Boulevard, Louisville, KY: null
+700 West Bain, Louisville, KY: null
 700 West Broadway at White Castle, cross of South 8th and South 7th, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
