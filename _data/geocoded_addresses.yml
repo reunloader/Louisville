@@ -4100,6 +4100,9 @@
   lat: 38.087364
   lng: -85.667759
 11200 Preston Hwy, Louisville, KY: null
+11200 Preston, Louisville, KY:
+  lat: 38.087364
+  lng: -85.667759
 11200 St, Louisville, KY: null
 11200 Vista Greens Dr, Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
@@ -7663,6 +7666,7 @@
 1500 West Kentucky, Louisville, KY:
   lat: 38.253024
   lng: -85.7758516
+1500 West Motley Boulevard, Louisville, KY: null
 1500 Winter Ave, Louisville, KY:
   lat: 38.237341
   lng: -85.724132
@@ -8344,6 +8348,7 @@
 16400 Donnington Ct, Louisville, KY:
   lat: 38.238878
   lng: -85.448613
+16500 Tottenvale Road, Louisville, KY: null
 1661 Garland Avenue, Louisville, KY:
   lat: 38.2433686
   lng: -85.7810275
@@ -10120,6 +10125,7 @@
 200 Barret Ave, Louisville, KY:
   lat: 38.2397775
   lng: -85.7308215
+200 Bartsana, Louisville, KY: null
 200 Bassett Ave, Louisville, KY:
   lat: 38.2391565
   lng: -85.7113038
@@ -28876,6 +28882,9 @@
 6000 Mint Spring Branch Rd, Louisville, KY:
   lat: 38.336449
   lng: -85.581821
+6000 Morning Glory Ln, Louisville, KY:
+  lat: 38.1353831
+  lng: -85.86512
 6000 Mount Washington Rd, Louisville, KY:
   lat: 38.0832292
   lng: -85.627986
