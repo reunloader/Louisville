@@ -60415,4 +60415,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 6
   batch_new_successes: 3
-last_updated: '2025-12-31T14:54:19.948707'
+- timestamp: '2025-12-31T15:18:09.334436'
+  total_addresses: 16434
+  successful: 8362
+  failed: 8072
+  success_rate: 50.88
+  failure_rate: 49.12
+  failure_patterns:
+    Contains location qualifiers (near/at): 2291
+    Intersection format: 1623
+    Incomplete/vague address: 2003
+    Other/Unknown: 1651
+    Contains extra sentences/context: 493
+    Police phonetic codes: 11
+  batch_success_rate: 0.0
+  batch_new_addresses: 2
+  batch_new_successes: 0
+last_updated: '2025-12-31T15:18:09.334577'
