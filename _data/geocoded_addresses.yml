@@ -13810,6 +13810,9 @@
 2300 Bardstown Rd. The alarm was triggered by a front motion sensor. Upon investigation, it was determined, Louisville, KY:
   lat: 38.223761
   lng: -85.6901595
+2300 Bolling Ave near 25th and 23rd streets, Louisville, KY:
+  lat: 38.2302085
+  lng: -85.7950795
 2300 Bolling Ave near unknown cross street, Louisville, KY:
   lat: 38.2302085
   lng: -85.7950795
@@ -36265,6 +36268,9 @@
   lng: -85.5001371
 9400 Delcenium Street, Louisville, KY: null
 9400 Delcenium Street, believing she was being assaulted by her boyfriend, Louisville, KY: null
+9400 Dixie Hwy near Dixie Animal Hospital, Louisville, KY:
+  lat: 38.1190656
+  lng: -85.8579227
 9400 Doral Ct, Louisville, KY:
   lat: 38.223781
   lng: -85.5832764
