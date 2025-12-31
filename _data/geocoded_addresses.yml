@@ -149,6 +149,9 @@
 1 Golden Dr, Louisville, KY:
   lat: 38.0964864
   lng: -85.8555519
+1 Highland Ave, Louisville, KY:
+  lat: 38.2373084
+  lng: -85.7310027
 1 Shelby Station Dr, Louisville, KY: null
 1 South Forth Street, Louisville, KY: null
 1 South St, Louisville, KY:
@@ -10554,6 +10557,7 @@
   lat: 38.228367
   lng: -85.754588
 200 East Margaret Street and West Liberty, Louisville, KY: null
+200 East Medea across Longfield Ave, Louisville, KY: null
 200 East Mill Pl, Louisville, KY:
   lat: 38.3112529
   lng: -85.6419291
@@ -18936,6 +18940,7 @@
 3400 Brecker and Mitchell Ln, Louisville, KY: null
 3400 Burrell Dr, Louisville, KY: null
 3400 Cathay-Dykstra Way, Louisville, KY: null
+3400 Cathe Dykstra Way, Liverpool Ln, Taylor Blvd, and South Watterson Trail, Louisville, KY: null
 3400 Cathe Dykstra Way, Louisville, KY:
   lat: 38.1921668
   lng: -85.8509711
