@@ -15452,6 +15452,7 @@
 2700 Isaac Pl, Louisville, KY:
   lat: 38.236223
   lng: -85.799843
+2700 Let's Bomb Le Drug Activity, Louisville, KY: null
 2700 Lexington Rd, Louisville, KY:
   lat: 38.245036
   lng: -85.691923
@@ -25982,6 +25983,7 @@
   lng: -85.7475716
 500 South Service Street, Louisville, KY: null
 500 South Third Street, Louisville, KY: null
+500 South and 1300 block of Dixie Hwy, Louisville, KY: null
 500 South, Louisville, KY: null
 500 South-A, Louisville, KY: null
 500 South15th Street, Louisville, KY:
@@ -28426,6 +28428,9 @@
   lng: -85.5238482
 600 Lymington Ct, Louisville, KY: null
 600 Lyndale Ave, Louisville, KY: null
+600 Main St, Louisville, KY:
+  lat: 38.256721
+  lng: -85.7601786
 ? 600 Malcolm Avenue. The call reported a patient experiencing severe abdominal pain
   and feeling faint. Medical personnel attended to the individual. The patient's condition
   was assessed and appropriate care was provided., Louisville, KY
