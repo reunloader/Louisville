@@ -60543,4 +60543,20 @@ history:
   batch_success_rate: 80.0
   batch_new_addresses: 5
   batch_new_successes: 4
-last_updated: '2025-12-31T17:21:19.002958'
+- timestamp: '2025-12-31T17:25:00.355055'
+  total_addresses: 16460
+  successful: 8374
+  failed: 8086
+  success_rate: 50.87
+  failure_rate: 49.13
+  failure_patterns:
+    Contains location qualifiers (near/at): 2293
+    Intersection format: 1625
+    Incomplete/vague address: 2008
+    Other/Unknown: 1655
+    Contains extra sentences/context: 494
+    Police phonetic codes: 11
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2025-12-31T17:25:00.355204'
