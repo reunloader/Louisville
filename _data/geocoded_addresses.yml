@@ -649,6 +649,9 @@
 100 Goddard Ave, Louisville, KY:
   lat: 38.2324719
   lng: -85.7214607
+100 Goose Creek Rd, Louisville, KY:
+  lat: 38.2931898
+  lng: -85.5865376
 100 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
@@ -7422,6 +7425,7 @@
 1500 Lewis Coleman Jr, Louisville, KY: null
 1500 Lewis Coleman Jr. Drive, Louisville, KY: null
 1500 Lewis Ln at Immaculate Heart of Mary, Louisville, KY: null
+1500 Lidle Street, Louisville, KY: null
 1500 Lighthouse Street, Louisville, KY: null
 1500 Lincoln Hill Way, Louisville, KY: null
 1500 Longfield Ave in the 4th Division, Louisville, KY: null
@@ -31681,6 +31685,9 @@
   lng: -85.6725941
 700 V Street, Louisville, KY: null
 700 Valley College Dr, Louisville, KY: null
+700 Varble Ave near State Draft in Manslick Rd, Louisville, KY:
+  lat: 38.24953
+  lng: -85.8297252
 700 Varble Ave, Louisville, KY:
   lat: 38.24953
   lng: -85.8297252
