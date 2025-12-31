@@ -29765,6 +29765,7 @@
 6400 Outer Loop, Louisville, KY:
   lat: 38.13786
   lng: -85.641744
+6400 Preston Hwy (Cash America Pond), Louisville, KY: null
 6400 Preston Hwy at Cash America, Louisville, KY:
   lat: 38.159117
   lng: -85.698352
@@ -31116,6 +31117,9 @@
 700 Front Heat Circle, Louisville, KY: null
 700 Gagel Ave concerning a missing 14-year-old female, Louisville, KY: null
 700 Gagel Ave, Louisville, KY:
+  lat: 38.1704336
+  lng: -85.7986686
+700 Gagel, Louisville, KY:
   lat: 38.1704336
   lng: -85.7986686
 700 Gale St, Louisville, KY:
