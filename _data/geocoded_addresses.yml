@@ -6647,6 +6647,9 @@
 : lat: 38.2542653
   lng: -85.6624316
 1400 McCoy Avenue, Louisville, KY: null
+1400 McKinley Avenue, Louisville, KY:
+  lat: 38.212968
+  lng: -85.725084
 1400 Meeting St, Louisville, KY:
   lat: 38.3251652
   lng: -85.5667177
@@ -10500,6 +10503,7 @@
 200 East Magnolia at Floyd, Louisville, KY:
   lat: 38.228367
   lng: -85.754588
+200 East Margaret Street and West Liberty, Louisville, KY: null
 200 East Mill Pl, Louisville, KY:
   lat: 38.3112529
   lng: -85.6419291
@@ -12746,6 +12750,7 @@
   lat: 38.2983417
   lng: -85.5413774
 206 Hi View Ln, Louisville, KY: null
+21 Poplar Hill Rd, Louisville, KY: null
 21 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
@@ -20037,6 +20042,7 @@
   lng: -85.648926
 3700 S W Wheatmore Dr, Louisville, KY: null
 3700 Seventh Street Rene Road, Louisville, KY: null
+3700 Sheehan Landing, Louisville, KY: null
 3700 Sourwood Ct, Louisville, KY:
   lat: 38.214216
   lng: -85.629305
@@ -22787,6 +22793,10 @@
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
+4100 Spring-Born Way near Springmere, Louisville, KY:
+  lat: 38.2993419
+  lng: -85.5620644
+4100 Spring-Born Way, Louisville, KY: null
 4100 Springcrest Dr near Fisher Park, Louisville, KY: null
 4100 Springlake Dr, Louisville, KY: null
 4100 Spyglass Ct, Louisville, KY: null

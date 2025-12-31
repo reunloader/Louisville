@@ -60319,4 +60319,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2025-12-31T12:57:42.271369'
+- timestamp: '2025-12-31T13:23:59.702103'
+  total_addresses: 16415
+  successful: 8353
+  failed: 8062
+  success_rate: 50.89
+  failure_rate: 49.11
+  failure_patterns:
+    Contains location qualifiers (near/at): 2291
+    Intersection format: 1621
+    Incomplete/vague address: 1998
+    Other/Unknown: 1649
+    Contains extra sentences/context: 493
+    Police phonetic codes: 10
+  batch_success_rate: 33.33
+  batch_new_addresses: 6
+  batch_new_successes: 2
+last_updated: '2025-12-31T13:23:59.702240'
