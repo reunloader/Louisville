@@ -1770,6 +1770,9 @@
 1000 Brownsboro Rd, Louisville, KY:
   lat: 38.3012117
   lng: -85.5911063
+1000 Burwell Ave, Louisville, KY:
+  lat: 38.2261448
+  lng: -85.7939294
 1000 Caldwell St, Louisville, KY:
   lat: 38.2381521
   lng: -85.7366708
@@ -8197,6 +8200,7 @@
 1600 South 13th, Louisville, KY:
   lat: 38.225331
   lng: -85.777324
+1600 South 13th, building 38, Louisville, KY: null
 1600 South 28th Street, Louisville, KY:
   lat: 38.2304151
   lng: -85.801496
@@ -11443,6 +11447,9 @@
 200 South16th, Louisville, KY:
   lat: 38.257315
   lng: -85.776754
+200 South23rd Street, Louisville, KY:
+  lat: 38.258731
+  lng: -85.789011
 200 South26th Street, Louisville, KY:
   lat: 38.25939
   lng: -85.793856
@@ -14748,6 +14755,9 @@
 2500 Phoenix, Louisville, KY:
   lat: 38.289727
   lng: -85.650155
+2500 Plantside Dr, Louisville, KY:
+  lat: 38.2114937
+  lng: -85.5241319
 2500 Portland Ave, Louisville, KY:
   lat: 38.2703586
   lng: -85.7892425
@@ -22746,6 +22756,7 @@
 4100 River Rd, Louisville, KY:
   lat: 38.2898964
   lng: -85.6787531
+4100 Shady Villa, Creston Rain Lane and Lula Way, Louisville, KY: null
 4100 Shelby Rd, Louisville, KY:
   lat: 38.2085025
   lng: -85.7126899
@@ -28061,6 +28072,7 @@
 600 Charlie division responded, Louisville, KY: null
 600 Charlie was dispatched to investigate the activation., Louisville, KY: null
 600 Charlie was dispatched, Louisville, KY: null
+600 Charlie, 6100 block of I-855, and 200 block of South, Louisville, KY: null
 600 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
