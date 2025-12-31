@@ -7658,6 +7658,7 @@
 1500 W Jefferson St, Louisville, KY:
   lat: 38.255772
   lng: -85.775385
+1500 W Jefferson St, Papa John’s, Louisville, KY: null
 1500 W Kentucky St near South 32nd and South 29th Street, Louisville, KY:
   lat: 38.241283
   lng: -85.777771
@@ -12730,6 +12731,9 @@
 2000 the highway. Investigators are working, Louisville, KY: null
 2000 unspecified street, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
+2001 State St, Louisville, KY:
+  lat: 38.2575999
+  lng: -85.7146413
 2009 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
@@ -23062,6 +23066,9 @@
   lat: 38.273645
   lng: -85.815048
 4200 Out of Loop at TNC Bank of Argo, Louisville, KY: null
+4200 Outer Loop at the Best Buy Geek Squad, Louisville, KY:
+  lat: 38.1372312
+  lng: -85.682402
 4200 Outer Loop westbound, Louisville, KY: null
 4200 Outer Loop, Louisville, KY:
   lat: 38.1372312
@@ -25971,6 +25978,7 @@
 500 W Jefferson St, Louisville, KY:
   lat: 38.2538197
   lng: -85.7591668
+500 W Jefferson St, McBayer PLLC, Louisville, KY: null
 500 W Liberty St, Louisville, KY:
   lat: 38.253265
   lng: -85.759729
