@@ -17255,6 +17255,7 @@
 300 West Main, Louisville, KY:
   lat: 38.2562065
   lng: -85.755089
+300 West Mill Valley Blvd at Vandy Carroll, Louisville, KY: null
 300 West Orange near Red House, Louisville, KY:
   lat: 38.1609795
   lng: -85.7161939
@@ -18844,6 +18845,9 @@
 33600 Garland Ave, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+34 Southern Pky, Louisville, KY:
+  lat: 38.1748115
+  lng: -85.7745087
 3400 3rd St Rene Rd, Louisville, KY: null
 3400 Anatahan Ct, Louisville, KY: null
 3400 Atwork Hall, Louisville, KY: null
@@ -32859,6 +32863,9 @@
 7700 Crop St, Louisville, KY:
   lat: 38.2599675
   lng: -85.7803993
+7700 Daffodil Dr, Louisville, KY:
+  lat: 38.14303
+  lng: -85.859592
 7700 Fair Ln, Louisville, KY:
   lat: 38.1588786
   lng: -85.6187012
