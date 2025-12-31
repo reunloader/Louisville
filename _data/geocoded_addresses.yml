@@ -21944,6 +21944,7 @@
 400 Stilz Ave, Louisville, KY:
   lat: 38.2496491
   lng: -85.6817957
+400 Sussex, Louisville, KY: null
 400 Taylor Blvd, Louisville, KY:
   lat: 38.2079291
   lng: -85.7741776
@@ -26010,6 +26011,12 @@
   lat: 38.245851
   lng: -85.7605615
 500 West Cormsby, Louisville, KY: null
+500 West Jefferson at McBrayer PLLC, Louisville, KY:
+  lat: 38.2350131
+  lng: -85.762185
+500 West Jefferson, Louisville, KY:
+  lat: 38.2350131
+  lng: -85.762185
 500 West Market, Louisville, KY:
   lat: 38.2552875
   lng: -85.7588431
@@ -28164,6 +28171,9 @@
 600 East Main, Louisville, KY:
   lat: 38.2547305
   lng: -85.7413632
+600 East Market at St, Louisville, KY:
+  lat: 38.2532694
+  lng: -85.7419011
 600 East Market, Louisville, KY:
   lat: 38.2532694
   lng: -85.7419011
@@ -30931,6 +30941,7 @@
 ? 700 East Service Road, indicating a potential issue with a new alarm loop. The initial
   response was cancelled, and another unit was assigned, Louisville, KY
 : null
+700 East Valley, Louisville, KY: null
 700 East W Chestnut St, Louisville, KY: null
 700 East W Muhammad Ali Blvd, Louisville, KY: null
 700 Eastern Parkway near South Shelby and South Preston, Louisville, KY:
