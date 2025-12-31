@@ -21999,6 +21999,14 @@
 400 Watermark Pl near Thrift Dr, Louisville, KY: null
 400 Wayside between Jefferson Cross St and S Preston St, Louisville, KY: null
 400 West Alley, Louisville, KY: null
+400 West Ave, Louisville, KY:
+  lat: 38.1089403
+  lng: -85.8525494
+? 400 West Ave. EMS arrived promptly to assist the child, who was evaluated on scene.
+  The situation was stabilized, and the child was likely transported, Louisville,
+  KY
+: lat: 38.1089403
+  lng: -85.8525494
 400 West Barker Road Street, Louisville, KY: null
 400 West Chessman Street, Louisville, KY: null
 400 West Chestnut in response, Louisville, KY: null
@@ -30482,6 +30490,9 @@
 6900 Ivinell Ave near Crush Hill, Louisville, KY:
   lat: 38.1700409
   lng: -85.6001707
+6900 John Adams Way, Louisville, KY:
+  lat: 38.0625224
+  lng: -85.8934585
 6900 Kentucky, Louisville, KY:
   lat: 38.1537352
   lng: -85.819662
@@ -36880,6 +36891,7 @@ Clark Run Rd and Cane Run Rd, Louisville, KY: null
 Clarks Ln and Mayer Ave, Louisville, KY: null
 Clarks Ln and Minoma Ave, Louisville, KY: null
 Clay St and Shelby St, Louisville, KY: null
+Clay St and South Plain Street, Louisville, KY: null
 Cleveland Ave and Griffiths Ave, Louisville, KY: null
 Cleveland Ave and Mount Holly Ave, Louisville, KY: null
 Cleveland Blvd and Cleveland Ave, Louisville, KY: null
