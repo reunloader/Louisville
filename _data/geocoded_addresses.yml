@@ -29633,6 +29633,10 @@
 6400 Seaton Ln, Louisville, KY:
   lat: 38.153874
   lng: -85.581712
+6400 Shepherdsville Rd area, Louisville, KY: null
+6400 Shepherdsville Rd, Louisville, KY:
+  lat: 38.1572213
+  lng: -85.659942
 6400 South Dr, Louisville, KY:
   lat: 38.0874459
   lng: -85.8800672
@@ -29659,6 +29663,7 @@
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
   lng: -85.6630867
+6400 block, Louisville, KY: null
 64500 Springdale Rd, Vitality Living, Louisville, KY: null
 647 Main St, Louisville, KY:
   lat: 38.2549368
