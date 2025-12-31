@@ -355,6 +355,9 @@
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
+100 Charles, Louisville, KY:
+  lat: 38.1860532
+  lng: -85.6643879
 100 Charleston, Wynette Drive, Louisville, KY: null
 100 Charlestown Ct, Louisville, KY: null
 100 Charlie and 100 block of Adam, Louisville, KY: null
@@ -33498,6 +33501,12 @@
   lat: 38.246276
   lng: -85.78039
 800 South 17th Street, which may have been connected, Louisville, KY: null
+800 South 22nd Street near Garland Ave and Howard St, Louisville, KY:
+  lat: 38.247096
+  lng: -85.78868
+800 South 22nd Street, Louisville, KY:
+  lat: 38.247096
+  lng: -85.78868
 800 South 24th Street, Louisville, KY:
   lat: 38.246948
   lng: -85.792275
@@ -34984,6 +34993,9 @@
   lat: 38.239093
   lng: -85.728107
 900 Esau, W Muhammad Ali Blvdmber 2, Louisville, KY: null
+900 Euclid Ave, Louisville, KY:
+  lat: 38.211438
+  lng: -85.772574
 900 Evelyn near Hathaway, Louisville, KY:
   lat: 38.1964843
   lng: -85.7749692
@@ -37093,6 +37105,7 @@ Gale St and Vincent Drive, Louisville, KY: null
 Garland Ave and Cecil Ave, Louisville, KY: null
 Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Garland Ave and Hound Street, Louisville, KY: null
+Garland Ave and Howard St, Louisville, KY: null
 Garrison Rd and Lee Ave, Louisville, KY: null
 Gatehouse Road and Burnsdale Rd, Louisville, KY: null
 Gathwright Dr and Shelton Ave, Louisville, KY: null
