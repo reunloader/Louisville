@@ -140,6 +140,9 @@
 09 Morning Glory, Louisville, KY:
   lat: 38.1357767
   lng: -85.8707138
+09 Powell Ave, Louisville, KY:
+  lat: 38.1929879
+  lng: -85.7910523
 1 Audubon Plaza Dr, Louisville, KY:
   lat: 38.2155102
   lng: -85.7220735
@@ -299,6 +302,9 @@
 100 Blue Sky Ct, Louisville, KY:
   lat: 38.1861828
   lng: -85.8306918
+100 Boston Ct, Louisville, KY:
+  lat: 38.2646317
+  lng: -85.8169456
 100 Boulevard, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
@@ -7745,6 +7751,7 @@
   lng: -85.759407
 1500 and 1524, Louisville, KY: null
 1500 black over root for, Louisville, KY: null
+1500 pickup truck, Louisville, KY: null
 1500 the 1000 block of Ash St, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
 1500 west west oak street, Louisville, KY: null
@@ -14491,6 +14498,7 @@
   lng: -85.7875475
 2400 St, Louisville, KY: null
 2400 St. St Xavier St, Louisville, KY: null
+2400 Stanley Gold Parkway, Louisville, KY: null
 ? 2400 Taylor Blvd following a report of a medical emergency. A 24-year-old man was
   found to have been struck by a vehicle. The individual driving a black COVID van,
   described as a black male, fled the scene before authorities arrived., Louisville,
@@ -19308,6 +19316,7 @@
 3500 Foreman Ln, Louisville, KY:
   lat: 38.1313274
   lng: -85.6992198
+3500 Forrest Wall Avenue, Louisville, KY: null
 3500 Garrison Rd, Louisville, KY:
   lat: 38.1375649
   lng: -85.7572713
