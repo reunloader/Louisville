@@ -427,6 +427,9 @@
   lng: -85.6253811
 100 David and 229, Louisville, KY: null
 100 David and was assessed, Louisville, KY: null
+100 David near Indiana, Louisville, KY:
+  lat: 38.2066421
+  lng: -85.6738206
 100 David requesting police help, Louisville, KY: null
 100 David, 201, 100 block of Baker, and 229, Louisville, KY: null
 100 David, Louisville, KY:
@@ -1572,6 +1575,7 @@
   lng: -85.7728425
 100 Winnow Drop around 7:35 a, Louisville, KY: null
 100 Workinridge Lane, Louisville, KY: null
+100 Zebra Robert Henry near 19th and Jeff, Louisville, KY: null
 100 [Street Name Missing] and 100 block of [Street Name Missing], Louisville, KY: null
 100 [Street Name Missing], Louisville, KY:
   lat: 38.2397699
@@ -11651,6 +11655,7 @@
 200 West Kentucky, Louisville, KY:
   lat: 38.238503
   lng: -85.756491
+200 West Kingston, Louisville, KY: null
 200 West Kinney Avenue, Louisville, KY: null
 200 West LaVon Avenue, Louisville, KY: null
 200 West Lawrence, Louisville, KY: null
@@ -35485,6 +35490,7 @@
 900 South Forth at Friendship House, Louisville, KY:
   lat: 38.2402331
   lng: -85.7594042
+900 South Forth near Breckenridge and Baseball Alley, Louisville, KY: null
 900 South Forth, Louisville, KY: null
 900 South Fourth Street, Louisville, KY: null
 900 South Grove Street, near the Salvation Army in Brooklyn Ridge,, Louisville, KY: null
