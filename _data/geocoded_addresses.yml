@@ -2067,6 +2067,7 @@
 1000 Fisk St, Crop St South 11th and South 10th, Louisville, KY: null
 1000 Floyd and Farmington, Louisville, KY: null
 1000 Floyd and Farmington. Coordination with dispatch was necessary to clarify details and arrange, Louisville, KY: null
+1000 Forrest View Dr. Police responded, Louisville, KY: null
 1000 Franklin St, Louisville, KY:
   lat: 38.255854
   lng: -85.733264
@@ -11075,6 +11076,9 @@
 200 North 23rd Street, Louisville, KY:
   lat: 38.261589
   lng: -85.787802
+? 200 North 23rd and North 25th Streets. Officers responded to the scene, but no suspects
+  or injuries were immediately located. The area was secured, Louisville, KY
+: null
 200 North 26th St between Columbia St and Rowan St, Louisville, KY: null
 200 North 26th Street, Crop St, Duncan and Columbia, Louisville, KY: null
 200 North 26th Street, Louisville, KY:
@@ -22498,6 +22502,9 @@
 4000 James Rd, Louisville, KY:
   lat: 38.1920024
   lng: -85.7436865
+4000 Johnston Way, Louisville, KY:
+  lat: 38.2126391
+  lng: -85.6459694
 4000 Keely Park Lane, Louisville, KY: null
 4000 Kresge Way at Baptist Cancer Center, Louisville, KY:
   lat: 38.2386809
