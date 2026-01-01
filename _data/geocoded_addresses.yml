@@ -1753,6 +1753,7 @@
 1000 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+1000 Bardstown Rd alley, Louisville, KY: null
 1000 Bardstown Rd, Louisville, KY:
   lat: 38.240016
   lng: -85.724091
@@ -3406,6 +3407,7 @@
 1100 Bardstown Rd, near the Speedway, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Bars Down at The Hub, Louisville, KY: null
 1100 Barts near Old Urban Outfitters, Louisville, KY: null
 1100 Baxter Ave, Louisville, KY:
   lat: 38.2369184
@@ -13685,6 +13687,9 @@
 2200 W Jefferson St, Louisville, KY:
   lat: 38.257076
   lng: -85.786979
+2200 W Kentucky St, Louisville, KY:
+  lat: 38.242076
+  lng: -85.789609
 2200 W Madison St near South 24th Street, Louisville, KY:
   lat: 38.2530165
   lng: -85.787731
@@ -24276,6 +24281,9 @@
 4500 East Indian Trail, Louisville, KY:
   lat: 38.177699
   lng: -85.677698
+4500 Estate Dr, Louisville, KY:
+  lat: 38.176965
+  lng: -85.80538
 4500 Flushing Way, Louisville, KY:
   lat: 38.0986756
   lng: -85.8466163
