@@ -65,6 +65,9 @@
 01 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
+01 Illinois Ave, Louisville, KY:
+  lat: 38.188288
+  lng: -85.7002505
 01 International Dr, Louisville, KY:
   lat: 38.1664748
   lng: -85.8856852
@@ -7846,6 +7849,9 @@
   lng: -85.6476657
 16 Lincoln Run Rd, Louisville, KY: null
 16 Meadowcreek Dr, Louisville, KY: null
+16 Orchard Lake Blvd, Louisville, KY:
+  lat: 38.190256
+  lng: -85.6209667
 16 Stites Station, Louisville, KY: null
 16 Stites Station. Patrol units were dispatched, Louisville, KY: null
 1600 13th David, Louisville, KY: null
