@@ -4984,6 +4984,7 @@
 1200 S Shelby St, Louisville, KY:
   lat: 38.2332794
   lng: -85.7418048
+1200 San Jose Ave, Louisville, KY: null
 1200 Shelbyville Rd, Medical Associates, Louisville, KY: null
 1200 South 1st Street involving a 40-year-old male experiencing chest pain. EMS was present, Louisville, KY: null
 1200 South 1st Street, Louisville, KY:
@@ -8563,6 +8564,9 @@
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
+1700 Beech St, Louisville, KY:
+  lat: 38.227425
+  lng: -85.804907
 1700 Belmar Dr, Louisville, KY:
   lat: 38.2022294
   lng: -85.7137603
@@ -18085,6 +18089,9 @@
 31 Larkwood Ave, Louisville, KY:
   lat: 38.2586244
   lng: -85.8149325
+31 Poplar Level Rd, Louisville, KY:
+  lat: 38.1581079
+  lng: -85.646379
 3100 71 South, Louisville, KY: null
 3100 Adams St, Louisville, KY:
   lat: 38.2579958
