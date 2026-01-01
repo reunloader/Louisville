@@ -4478,6 +4478,9 @@
   lat: 38.0829696
   lng: -85.900505
 11900 Palm Creek Draws, Louisville, KY: null
+11900 Poplarwood Dr, Louisville, KY:
+  lat: 38.0829701
+  lng: -85.8701493
 11900 Sanford Plaza in response, Louisville, KY: null
 11900 Sanford Plaza, Louisville, KY: null
 11900 Shelbyville Rd, Louisville, KY:
@@ -11133,6 +11136,9 @@
 200 North 35th Street, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
+200 North 36th Street, Louisville, KY:
+  lat: 38.2638115
+  lng: -85.8097065
 200 North 37th Street, Louisville, KY:
   lat: 38.2653079
   lng: -85.8105746
@@ -12434,6 +12440,9 @@
 2000 Brownsboro, Louisville, KY:
   lat: 38.259507
   lng: -85.707085
+2000 Buechel Bank Rd, Louisville, KY:
+  lat: 38.18222
+  lng: -85.64821
 2000 Buick LaCrosse with expired registration was pulled over. The vehicle was stopped, Louisville, KY: null
 2000 Cadillac XPS registered, Louisville, KY: null
 2000 Caldwell St, Louisville, KY:
@@ -17211,6 +17220,7 @@
 300 Outer Loop, Louisville, KY:
   lat: 38.125884
   lng: -85.769085
+300 Palazzo Cir, Louisville, KY: null
 300 Paul Henry, Louisville, KY: null
 300 Paul Victor, Louisville, KY: null
 300 Peach St, Louisville, KY: null
@@ -17954,6 +17964,9 @@
   lat: 38.2191751
   lng: -85.703267
 3000 Varsun Road and Christy Green's lot, Louisville, KY: null
+3000 Virginia Ave, Louisville, KY:
+  lat: 38.238332
+  lng: -85.803796
 3000 Vogue Ave, Louisville, KY:
   lat: 38.207532
   lng: -85.635854
@@ -24718,6 +24731,9 @@
 4600 Glenbrook, Louisville, KY:
   lat: 38.1911382
   lng: -85.8730729
+4600 Greenup Rd, Louisville, KY:
+  lat: 38.2130189
+  lng: -85.7315322
 4600 Greenwood Rd, Louisville, KY:
   lat: 38.1434841
   lng: -85.8415387
@@ -37759,6 +37775,7 @@ Grange Road and Shelbyville Rd, Louisville, KY: null
 Granger Rd and Factory Ln, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Green Spring Dr and Wolf Pen Branch Rd, Louisville, KY: null
+Greenup Rd and Poplar Level Rd, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
 Greenwood Rd and Aron Rd, Louisville, KY: null
 Greenwood Rd and Lucille Ave, Louisville, KY: null
