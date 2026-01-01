@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2026-01-01 14:03:42
+**Generated:** 2026-01-01 14:13:04
 
 ---
 
@@ -8,20 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 16,661 |
+| **Total Addresses** | 16,667 |
 | **Successfully Geocoded** | 8,476 |
-| **Failed to Geocode** | 8,185 |
-| **Success Rate** | 50.87% |
-| **Failure Rate** | 49.13% |
+| **Failed to Geocode** | 8,191 |
+| **Success Rate** | 50.85% |
+| **Failure Rate** | 49.15% |
 
 ---
 
 ## Recent Changes
 
-- **2** new addresses processed
-- **1** successfully geocoded
-- **1** failed to geocode
-- **This batch success rate: 50.00%** 🎯
+- **6** new addresses processed
+- **0** successfully geocoded
+- **6** failed to geocode
+- **This batch success rate: 0.00%** ⚠️
+- Overall rate changed by **-0.02%** 📉
 
 ---
 
@@ -29,11 +30,11 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 2313 | 28.3% |
-| Incomplete/vague address | 2040 | 24.9% |
-| Other/Unknown | 1681 | 20.5% |
-| Intersection format | 1644 | 20.1% |
-| Contains extra sentences/context | 496 | 6.1% |
+| Contains location qualifiers (near/at) | 2313 | 28.2% |
+| Incomplete/vague address | 2041 | 24.9% |
+| Other/Unknown | 1682 | 20.5% |
+| Intersection format | 1647 | 20.1% |
+| Contains extra sentences/context | 497 | 6.1% |
 | Police phonetic codes | 11 | 0.1% |
 
 ---
@@ -42,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2026-01-01 | 1 | 0 | 0.0% ⚠️ | 16,639 | 50.88% |
 | 2026-01-01 | 3 | 1 | 33.3% ⚡ | 16,642 | 50.88% |
 | 2026-01-01 | 3 | 1 | 33.3% ⚡ | 16,645 | 50.87% |
 | 2026-01-01 | 2 | 1 | 50.0% 🎯 | 16,647 | 50.87% |
@@ -52,6 +52,7 @@
 | 2026-01-01 | 5 | 3 | 60.0% 🎯 | 16,656 | 50.87% |
 | 2026-01-01 | 3 | 2 | 66.7% 🎯 | 16,659 | 50.87% |
 | 2026-01-01 | 2 | 1 | 50.0% 🎯 | 16,661 | 50.87% |
+| 2026-01-01 | 6 | 0 | 0.0% ⚠️ | 16,667 | 50.85% |
 
 ---
 
