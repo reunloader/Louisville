@@ -2790,6 +2790,9 @@
 1000 Woodmore, Louisville, KY:
   lat: 38.1515984
   lng: -85.7731206
+1000 Woodway Ln, Louisville, KY:
+  lat: 38.245599
+  lng: -85.8234498
 1000 Worthington Ln, Louisville, KY:
   lat: 38.32875
   lng: -85.5591466
@@ -11264,6 +11267,9 @@
   lat: 38.2721361
   lng: -85.7929587
 200 Preston Hwy and 1000 block of McDonald's, Louisville, KY: null
+200 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 ? 200 Preston Hwy. The vehicle was last seen heading north along the railroad tracks.
   Officers are actively searching, Louisville, KY
 : lat: 38.1819023
@@ -11874,6 +11880,7 @@
 200 West near the off-ramps, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West of the recrosses, Louisville, KY: null
 200 West onto I-64 East Bound, Louisville, KY: null
 200 West over top Taylor's Road, Louisville, KY: null
 200 West side near March Down Road, Louisville, KY: null
