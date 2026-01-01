@@ -7511,6 +7511,9 @@
   lat: 38.1985284
   lng: -85.786642
 1500 Longfield and Saw, Louisville, KY: null
+1500 Longfield, Louisville, KY:
+  lat: 38.1985285
+  lng: -85.786642
 1500 Lou Gene Ave, Louisville, KY:
   lat: 38.1777302
   lng: -85.8088167
@@ -22783,6 +22786,7 @@
 4000 Taylorsville Rd near Mcmahan and Goodwill Way, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
+4000 Taylorsville Rd, Golden Corral, Louisville, KY: null
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
@@ -26522,6 +26526,7 @@
   lat: 38.0830482
   lng: -85.6581967
 5000 Green Bridgeway, Louisville, KY: null
+5000 Green Fireways, Louisville, KY: null
 5000 Greenbridge Way, Louisville, KY: null
 5000 Hames Trace, Louisville, KY:
   lat: 38.1677647
