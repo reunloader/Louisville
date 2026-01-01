@@ -13688,6 +13688,7 @@
 2200 West Broadway, Louisville, KY:
   lat: 38.2490337
   lng: -85.7884977
+2200 West Brockway, Louisville, KY: null
 2200 West Burnett, Louisville, KY:
   lat: 38.2307783
   lng: -85.7935852
@@ -17764,6 +17765,9 @@
   prompting a significant response from emergency services. First responders arrived,
   Louisville, KY
 : null
+3000 South 4th Street near Heywood Ave, Louisville, KY:
+  lat: 38.2063275
+  lng: -85.7657394
 3000 South 4th Street near Western Hospital, Louisville, KY:
   lat: 38.2063275
   lng: -85.7657394
@@ -28390,6 +28394,7 @@
   lat: 38.2254263
   lng: -85.7467887
 600 East Derpsons, Louisville, KY: null
+600 East Hornsby Avenue, Louisville, KY: null
 600 East Main, Louisville, KY:
   lat: 38.2547305
   lng: -85.7413632
@@ -35545,6 +35550,9 @@
 900 Sinclair, Louisville, KY:
   lat: 38.1210779
   lng: -85.7498506
+900 South 17th Street, Louisville, KY:
+  lat: 38.243475
+  lng: -85.781901
 900 South 1st Street, Louisville, KY:
   lat: 38.2408661
   lng: -85.7544294
