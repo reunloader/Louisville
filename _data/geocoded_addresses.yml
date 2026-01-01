@@ -9883,6 +9883,9 @@
 1900 Lytle St, Louisville, KY:
   lat: 38.264883
   lng: -85.780384
+1900 Magazine St, Louisville, KY:
+  lat: 38.250313
+  lng: -85.783107
 1900 Manor House Dr, Louisville, KY:
   lat: 38.2215107
   lng: -85.6347495
@@ -9935,6 +9938,10 @@
 1900 Newburg Rd, Louisville, KY:
   lat: 38.221707
   lng: -85.710457
+? 1900 Newburg Rd, where a person was chased off the property during a confrontation.
+  Police units responded promptly to address the disturbance and ensure safety, Louisville,
+  KY
+: null
 ? 1900 Newburgh Road. Engine 20 and Quint 7 were dispatched to investigate the alarm
   at the multi-story church building. Upon arrival, crews began their assessment of
   the situation. The alarm was investigated thoroughly by the responding fire units.
@@ -10015,6 +10022,9 @@
 1900 South Hirsch Hornets, causing concern, Louisville, KY: null
 1900 South Hurstburn Parkway, Louisville, KY: null
 1900 South Hurston Parkway near Brunson Parkway, Louisville, KY: null
+1900 South Preston, Louisville, KY:
+  lat: 38.220387
+  lng: -85.748652
 1900 South Third, Louisville, KY: null
 1900 South30th Street, Louisville, KY:
   lat: 38.223112
@@ -36401,6 +36411,9 @@
   lat: 38.1174315
   lng: -85.6779117
 9200 Rainbow Springs Ct, Louisville, KY: null
+9200 South Preston, Louisville, KY:
+  lat: 38.2144909
+  lng: -85.7430152
 9200 South63rd Street, Louisville, KY: null
 9200 Spring Grove Way, Louisville, KY:
   lat: 38.147191
