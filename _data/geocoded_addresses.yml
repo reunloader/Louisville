@@ -573,6 +573,7 @@
   lng: -85.7633871
 100 East Kingston, Department 4, Louisville, KY: null
 100 East Kingston, Louisville, KY: null
+100 East Longsby, Louisville, KY: null
 100 East Market, Louisville, KY:
   lat: 38.2544597
   lng: -85.7516001
@@ -12597,6 +12598,9 @@
   lat: 38.1832378
   lng: -85.6437701
 2000 Last Chest Night, Louisville, KY: null
+2000 Lauderdale Rd, Louisville, KY:
+  lat: 38.225994
+  lng: -85.696841
 2000 Leahurst Ct, Louisville, KY: null
 2000 Lincoln MKX, and it was confirmed, Louisville, KY: null
 ? 2000 Lincoln Nautilus. The reporting party believed the vehicle might be present
@@ -14517,6 +14521,9 @@
 2400 I-65 South regarding a caller's request, Louisville, KY: null
 2400 I-65 South, Louisville, KY: null
 2400 Idle-Wileys Ct, Louisville, KY: null
+2400 Jefferson St, Louisville, KY:
+  lat: 38.2574083
+  lng: -85.7912216
 2400 Lamar Ave, Louisville, KY:
   lat: 38.171153
   lng: -85.837048
@@ -33162,6 +33169,7 @@
 7500 South 5th Street, Louisville, KY:
   lat: 38.2098564
   lng: -85.7664245
+7500 Springvale Dr, Louisville, KY: null
 7500 Terry Rd, Louisville, KY:
   lat: 38.1442017
   lng: -85.8725769
