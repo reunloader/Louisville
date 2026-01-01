@@ -3897,6 +3897,9 @@
 1100 South Slater, Louisville, KY: null
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
+1100 South17th Street, Louisville, KY:
+  lat: 38.238336
+  lng: -85.783811
 1100 South17th, trying, Louisville, KY: null
 1100 South32nd Street, Louisville, KY:
   lat: 38.2413227
@@ -28693,6 +28696,9 @@
   lat: 38.2096965
   lng: -85.7462389
 600 Mila Marie Dr, Louisville, KY: null
+600 Miller Ave, Louisville, KY:
+  lat: 38.2134665
+  lng: -85.7451005
 ? 600 Mix Ave had been broken into. Police units were dispatched to the facility,
   and the caller was waiting on-site for their arrival., Louisville, KY
 : null
