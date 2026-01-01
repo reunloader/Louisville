@@ -11683,6 +11683,9 @@
 200 W Woodlawn Ave, Louisville, KY:
   lat: 38.181322
   lng: -85.764737
+200 Wabash Pl, Louisville, KY:
+  lat: 38.1757504
+  lng: -85.7590041
 200 Waterstone Way, Louisville, KY:
   lat: 38.233504
   lng: -85.46195
@@ -12265,6 +12268,7 @@
 200 the eastbound lanes. Emergency units were on standby with Metro. The details, Louisville, KY: null
 200 the location, who stated they were alright, and officers cleared the scene, Louisville, KY: null
 200 unspecified location, Louisville, KY: null
+200 unspecified street, Louisville, KY: null
 200 west before the Smear Net exit, Louisville, KY: null
 200 west ramp from I-64, Louisville, KY: null
 200 west ramp, Louisville, KY: null
@@ -22902,6 +22906,7 @@
   lat: 38.258937
   lng: -85.8185
 4100 Leave, Louisville, KY: null
+4100 Lee’s Lane, Louisville, KY: null
 4100 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
@@ -36014,6 +36019,9 @@
 9000 Brandywyne Dr, Louisville, KY:
   lat: 38.1636882
   lng: -85.5912962
+9000 Crowne Springs Cir, Louisville, KY:
+  lat: 38.3102949
+  lng: -85.582164
 9000 Dixie Hwy at Baggy City Furniture, Louisville, KY:
   lat: 38.1250336
   lng: -85.852618
