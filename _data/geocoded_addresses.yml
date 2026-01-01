@@ -1292,6 +1292,9 @@
 100 South Canterbury's Golden Dr, Louisville, KY: null
 100 South East Street who was experiencing stomach problems. Police units were available, Louisville, KY: null
 100 South First Street, Louisville, KY: null
+100 South Floyd, Louisville, KY:
+  lat: 38.255034
+  lng: -85.748106
 100 South Glaciere, Crop St East, Orange Street Avenue, Camp St, Louisville, KY: null
 100 South Harris Blount Parkway, Louisville, KY: null
 100 South Preston near Volunteers of America, Louisville, KY:
@@ -12066,6 +12069,9 @@
 200 Wolf Pen Branch Rd. Police units were actively searching, Louisville, KY:
   lat: 38.3212788
   lng: -85.5710543
+200 Wood Rd, Louisville, KY:
+  lat: 38.1498274
+  lng: -85.8714288
 200 Wood,, Louisville, KY:
   lat: 38.202624
   lng: -85.4410529
@@ -16738,6 +16744,7 @@
   lng: -85.6660952
 300 Charles St and 300 block of David Street, Louisville, KY: null
 300 Charleville Lane, Louisville, KY: null
+300 Charlie Queen Yankee near East Market and South Clay, Louisville, KY: null
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 327, Louisville, KY:
   lat: 38.1686412
@@ -20605,6 +20612,9 @@
 3800 River Park Dr, Louisville, KY:
   lat: 38.2549894
   lng: -85.8147135
+3800 Ruth Ave, Louisville, KY:
+  lat: 38.2227034
+  lng: -85.7088957
 3800 South 18th Street, Louisville, KY:
   lat: 38.258492
   lng: -85.7798203
@@ -28721,6 +28731,9 @@
   lng: -85.5238482
 600 Lymington Ct, Louisville, KY: null
 600 Lyndale Ave, Louisville, KY: null
+600 Madelon Ct, Louisville, KY:
+  lat: 38.252783
+  lng: -85.809366
 600 Main St, Louisville, KY:
   lat: 38.256721
   lng: -85.7601786
