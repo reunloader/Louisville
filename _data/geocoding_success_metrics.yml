@@ -62095,4 +62095,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-01-01T19:45:38.312580'
+- timestamp: '2026-01-01T20:01:28.199370'
+  total_addresses: 16717
+  successful: 8506
+  failed: 8211
+  success_rate: 50.88
+  failure_rate: 49.12
+  failure_patterns:
+    Contains location qualifiers (near/at): 2318
+    Intersection format: 1650
+    Incomplete/vague address: 2045
+    Other/Unknown: 1689
+    Contains extra sentences/context: 498
+    Police phonetic codes: 11
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-01T20:01:28.199512'
