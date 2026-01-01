@@ -1496,6 +1496,9 @@
 100 West Broadway near Greyhound bus station, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+100 West Broadway near South Second and South First Streets, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -11427,6 +11430,7 @@
   lat: 38.2554063
   lng: -85.7620447
 200 South Fifth, Louisville, KY: null
+200 South First Street, Louisville, KY: null
 200 South Forest, Louisville, KY: null
 ? 200 South Forest. The individual, a male, was observed sitting near an elevator
   on the sixth floor, exhibiting unusual behavior and calling out to people. Police
