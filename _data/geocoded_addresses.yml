@@ -1320,6 +1320,9 @@
 100 South20th Street, Louisville, KY:
   lat: 38.259446
   lng: -85.783128
+100 South38th Street, Louisville, KY:
+  lat: 38.2631651
+  lng: -85.8119073
 100 South38th Street, indicating multiple locations involved in gunfire, Louisville, KY: null
 100 South39th Street, Louisville, KY:
   lat: 38.2636546
@@ -5535,6 +5538,7 @@
 1300 B Lane, Crop St, Steadie, Gray Ln, and nearby blocks, Louisville, KY: null
 1300 B Lane, Crop St, Steadie, Gray Ln, and surrounding blocks, Louisville, KY: null
 1300 B Lane, Louisville, KY: null
+1300 Baker Radio, Louisville, KY: null
 ? 1300 Bardstown Rd regarding an unresponsive 55-year-old female, who may have been
   heavily intoxicated. Police and EMS were on site, with access needed through the
   Rosewood Ave side, Louisville, KY
@@ -13368,6 +13372,9 @@
   lat: 38.1881115
   lng: -85.7579503
 21919 an unconfirmed street. The reason, Louisville, KY: null
+22 Griffiths Ave, Louisville, KY:
+  lat: 38.2650846
+  lng: -85.7872589
 22 La Saver Drive, Louisville, KY: null
 2200 20th Street, Louisville, KY:
   lat: 38.2486783
@@ -21791,6 +21798,7 @@
   lat: 38.27223
   lng: -85.6880439
 400 Mount Holly Ave, Clifton Oak Nursing Home**, Louisville, KY: null
+400 Mount Holly Ave, Clifton Oaks nursing home, Louisville, KY: null
 400 Mount Holly Ave, Crestwood, Louisville, KY: null
 400 Mount Holly Ave, Louisville, KY:
   lat: 38.2608215
@@ -31022,6 +31030,7 @@
   Louisville, KY
 : null
 6900 Lethbridge Road, Louisville, KY: null
+6900 Masonic Home Dr, Masonic Homes Grove Point, Louisville, KY: null
 6900 Mayna Dr, Louisville, KY:
   lat: 38.158072
   lng: -85.868293
