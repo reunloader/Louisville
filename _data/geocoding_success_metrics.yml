@@ -61855,4 +61855,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2026-01-01T15:46:21.492997'
+- timestamp: '2026-01-01T16:04:28.869545'
+  total_addresses: 16678
+  successful: 8482
+  failed: 8196
+  success_rate: 50.86
+  failure_rate: 49.14
+  failure_patterns:
+    Contains location qualifiers (near/at): 2313
+    Intersection format: 1648
+    Incomplete/vague address: 2043
+    Other/Unknown: 1684
+    Contains extra sentences/context: 497
+    Police phonetic codes: 11
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-01T16:04:28.869680'
