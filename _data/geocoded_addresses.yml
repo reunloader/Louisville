@@ -17112,6 +17112,7 @@
 300 North Shawnee Terrace, Louisville, KY:
   lat: 38.267752
   lng: -85.8211759
+300 North, 24th Street, Louisville, KY: null
 300 North22nd Street near Garfield Ave, Louisville, KY:
   lat: 38.262708
   lng: -85.785939
@@ -19786,6 +19787,9 @@
   outcome were provided., Louisville, KY
 : null
 3600 Green Meadows Straws, Louisville, KY: null
+3600 Greenwood Ave, Louisville, KY:
+  lat: 38.243444
+  lng: -85.813796
 3600 Henry Ave, Louisville, KY:
   lat: 38.1932393
   lng: -85.7820559
@@ -31389,6 +31393,9 @@
 700 Glengarry Dr, Louisville, KY:
   lat: 38.1228878
   lng: -85.7534925
+700 Grissom Way, Louisville, KY:
+  lat: 38.1119552
+  lng: -85.6970048
 700 Hamilton Ave, Louisville, KY:
   lat: 38.2472374
   lng: -85.7320382
@@ -33947,6 +33954,9 @@
 800 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+800 Sherrard Dr, Louisville, KY:
+  lat: 38.1323489
+  lng: -85.8968
 800 South 15th Street, Louisville, KY:
   lat: 38.244781
   lng: -85.777159
@@ -36453,6 +36463,7 @@
   lat: 38.115054
   lng: -85.766116
 9400 Bayberry Green Ln, Louisville, KY: null
+9400 Benson Parkway (C&M LLC) as well, Louisville, KY: null
 9400 Blairwood Rd, Baymont by Wyndham, Louisville, KY: null
 9400 Bonson Parkway, Louisville, KY: null
 9400 Bronzeridge Pl, Louisville, KY:
