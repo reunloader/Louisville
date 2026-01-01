@@ -1205,6 +1205,7 @@
 100 Silverwood Ln, Louisville, KY:
   lat: 38.1086372
   lng: -85.8291615
+100 South (location unspecified), Louisville, KY: null
 100 South 12th Street. The officer requested backup as they prepared to pull the vehicle over., Louisville, KY: null
 100 South 12th Street. The officer requested backup as they prepared, Louisville, KY:
   lat: 38.257963
@@ -19603,6 +19604,9 @@
   as clear within minutes. Fire units were involved in the response., Louisville,
   KY
 : null
+3500 Woodruff Ave, Louisville, KY:
+  lat: 38.195533
+  lng: -85.784502
 3500 block of Dollar General, Louisville, KY: null
 ? 35000 Quahala Road following a report of an assault. A 29-year-old female stated
   she had been attacked by a neighbor approximately eight hours earlier and had sustained
@@ -30452,6 +30456,9 @@
 6700 I 65 South, Louisville, KY: null
 6700 I-65 South, Louisville, KY: null
 6700 I-65 South. Further information about this call was not provided in the scanner traffic., Louisville, KY: null
+6700 Mansfield, Louisville, KY:
+  lat: 38.1762282
+  lng: -85.6622448
 6700 Morocco Dr, Louisville, KY:
   lat: 38.1647613
   lng: -85.7967454
