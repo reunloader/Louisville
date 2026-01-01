@@ -10738,6 +10738,9 @@
 200 East near Newburg Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East near Poplar Level, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near River Park, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -21149,6 +21152,7 @@
 ? 400 Cathedral Way following a report of a 50-year-old male who was found unconscious
   and had experienced multiple seizures. Responders worked, Louisville, KY
 : null
+400 Cedar Meadows Ct, Louisville, KY: null
 400 Central Ave, Louisville, KY:
   lat: 38.205089
   lng: -85.765734
@@ -33472,6 +33476,9 @@
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
 7900 Cannon-Narrow-Way, Louisville, KY: null
 7900 Chisholm Trailway, Louisville, KY: null
+7900 Cultivator Ct, Louisville, KY:
+  lat: 38.1403318
+  lng: -85.6016223
 7900 Daleray Dr, Louisville, KY:
   lat: 38.1655549
   lng: -85.675783
@@ -36264,6 +36271,9 @@
   lat: 38.1927238
   lng: -85.5911424
 917 Pump 15, Louisville, KY: null
+9200 Alexander Ave, Louisville, KY:
+  lat: 38.121185
+  lng: -85.858797
 ? 9200 Ash, Spring Grove, on Cross Meadows Cir for a medical emergency. An elderly
   gentleman was found unconscious and possibly not breathing after falling from his
   bed and making an unusual noise. EMS provided immediate care., Louisville, KY
