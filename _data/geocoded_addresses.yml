@@ -384,6 +384,9 @@
   lat: 38.1686412
   lng: -85.5627268
 100 Charter Oak Strives, Louisville, KY: null
+100 Chickering, Louisville, KY:
+  lat: 38.2953613
+  lng: -85.6220664
 100 Claremont Ave, Louisville, KY:
   lat: 38.2548122
   lng: -85.6773386
@@ -16420,6 +16423,9 @@
 2900 South 4th Street, near Elquisit Hall,, Louisville, KY:
   lat: 38.2075282
   lng: -85.7654809
+2900 South 5th St, Louisville, KY:
+  lat: 38.2077993
+  lng: -85.7670412
 2900 South 6th Street, Louisville, KY:
   lat: 38.2079392
   lng: -85.7686938
@@ -22239,6 +22245,9 @@
 : lat: 38.1089403
   lng: -85.8525494
 400 West Barker Road Street, Louisville, KY: null
+400 West Broadway, Louisville, KY:
+  lat: 38.2493863
+  lng: -85.7932064
 400 West Chessman Street, Louisville, KY: null
 400 West Chestnut in response, Louisville, KY: null
 400 West Chestnut, Louisville, KY:
@@ -27630,6 +27639,7 @@
   lat: 38.0942448
   lng: -85.6560955
 5500 Texas Roadhouse, Louisville, KY: null
+5500 VVF Place, Louisville, KY: null
 5500 Valley Station Rd, Louisville, KY:
   lat: 38.1068509
   lng: -85.8647626
@@ -29274,6 +29284,7 @@
 6000 Halma Dr. They were responding, Louisville, KY:
   lat: 38.1111216
   lng: -85.8730401
+6000 Helmet Drive, Louisville, KY: null
 6000 Highliner Dr, Louisville, KY:
   lat: 38.162659
   lng: -85.609985
@@ -29321,6 +29332,7 @@
 6000 Poplar Level, Louisville, KY:
   lat: 38.1583581
   lng: -85.6483207
+6000 Ray Count Drive, Louisville, KY: null
 6000 South 63rd Street, Louisville, KY: null
 6000 South39th Street, Louisville, KY:
   lat: 38.2597455
@@ -37396,6 +37408,7 @@ Crums Ln and Park Row Dr, Louisville, KY: null
 Crums Ln and Schmitts Ln, Louisville, KY: null
 Crusher Leeds Lane and Teaneck Ln, Louisville, KY: null
 Cumberland Ave and Rochester Dr, Louisville, KY: null
+Cypress St and Burwell Ave, Louisville, KY: null
 Cypress St and Dumanale St, Louisville, KY: null
 Dart Dr and Peabody Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
