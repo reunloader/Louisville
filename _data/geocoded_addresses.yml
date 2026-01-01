@@ -4542,6 +4542,9 @@
 1200 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+1200 Becker Ave, Louisville, KY:
+  lat: 38.171307
+  lng: -85.709043
 1200 Beech St, Louisville, KY:
   lat: 38.238337
   lng: -85.804327
@@ -33002,6 +33005,7 @@
   lat: 38.1328958
   lng: -85.8964517
 7500 and1D Court, Louisville, KY: null
+75000 Hickory Bend, Hollow, Louisville, KY: null
 76 Abbey Rd, Louisville, KY:
   lat: 38.0714152
   lng: -85.8950484
@@ -36046,6 +36050,7 @@
 9000 Hi View Ln, Louisville, KY: null
 9000 Hirschborn Club Lane, Louisville, KY: null
 9000 Linden Dr, Louisville, KY: null
+9000 Mullico Pine Court, Louisville, KY: null
 9000 Pegasus Pointe Dr, Louisville, KY:
   lat: 38.1192155
   lng: -85.696221
