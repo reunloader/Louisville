@@ -5653,6 +5653,9 @@
 1300 Earl Jones Way, Louisville, KY: null
 1300 East Breckenridge, Louisville, KY: null
 1300 East Breckham Ridge Street, Louisville, KY: null
+1300 Edgeland Ave near LaGrange Road, Louisville, KY:
+  lat: 38.23212
+  lng: -85.7135685
 1300 Elderberry Ridge Ln in Ashley Pointe Dr, Louisville, KY: null
 1300 Ellison Ave at Moe's Funeral Home, Louisville, KY:
   lat: 38.2310656
@@ -9967,6 +9970,7 @@
 1900 South First Street, Louisville, KY: null
 1900 South Hirsch Hornets, causing concern, Louisville, KY: null
 1900 South Hurstburn Parkway, Louisville, KY: null
+1900 South Hurston Parkway near Brunson Parkway, Louisville, KY: null
 1900 South Third, Louisville, KY: null
 1900 South30th Street, Louisville, KY:
   lat: 38.223112
@@ -12538,6 +12542,7 @@
 2000 Nelson Miller Pky, Louisville, KY:
   lat: 38.2722475
   lng: -85.5102464
+2000 Nessa Miller Parkway, Louisville, KY: null
 2000 Newburg Rd near Mason Blvd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -23722,6 +23727,7 @@
   lng: -85.7138445
 4400 Century Drive, Louisville, KY: null
 4400 Century Rd, Crest Street, Louisville, KY: null
+4400 Champions Tracelane, Louisville, KY: null
 4400 Charlotte Ann Dr near Tara Gale Dr, Louisville, KY:
   lat: 38.1910848
   lng: -85.8425095
@@ -32585,6 +32591,7 @@
   lng: -85.810558
 7300 Six Mile Lanex, Louisville, KY: null
 7300 Six Mile Lanex. Police units were involved in responding, Louisville, KY: null
+7300 South Address, Louisville, KY: null
 7300 South41st Street, Louisville, KY: null
 7300 Southside Dr near Lillian Wayne Lackaw Road, Louisville, KY:
   lat: 38.148666
@@ -36233,6 +36240,9 @@
 9300 Civic Way, Louisville, KY:
   lat: 38.3199891
   lng: -85.5689659
+9300 Cloverwood Ln, Louisville, KY:
+  lat: 38.1663331
+  lng: -85.5840826
 9300 Dayflower St, Louisville, KY:
   lat: 38.3214513
   lng: -85.567239
@@ -37689,6 +37699,7 @@ Nancy Ln and Lila Ave, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Naples Rd and Furman Blvd, Louisville, KY: null
 Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
+Near Ring Rd and Valley Station Rd, Louisville, KY: null
 Near Sadie Ln and Sanders Ln, Louisville, KY: null
 Nepperhan Rd and Mamaroneck Rd, Louisville, KY: null
 Nepperhan Rd and Maranac Rd, Louisville, KY: null
