@@ -61359,4 +61359,20 @@ history:
   batch_success_rate: 25.0
   batch_new_addresses: 4
   batch_new_successes: 1
-last_updated: '2026-01-01T04:58:03.021306'
+- timestamp: '2026-01-01T06:46:28.514079'
+  total_addresses: 16607
+  successful: 8449
+  failed: 8158
+  success_rate: 50.88
+  failure_rate: 49.12
+  failure_patterns:
+    Contains location qualifiers (near/at): 2308
+    Intersection format: 1640
+    Incomplete/vague address: 2031
+    Other/Unknown: 1674
+    Contains extra sentences/context: 494
+    Police phonetic codes: 11
+  batch_success_rate: 60.0
+  batch_new_addresses: 5
+  batch_new_successes: 3
+last_updated: '2026-01-01T06:46:28.514207'

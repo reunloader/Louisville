@@ -9252,6 +9252,9 @@
 1800 Burwell Ave, Louisville, KY:
   lat: 38.225492
   lng: -85.791733
+1800 Carl Ct near Dena Dr, Louisville, KY:
+  lat: 38.19116
+  lng: -85.802221
 1800 Carl Ct, Louisville, KY:
   lat: 38.19116
   lng: -85.802221
@@ -14852,6 +14855,9 @@
   lat: 38.1934133
   lng: -85.7960886
 2500 North Broadway, Louisville, KY: null
+2500 Osage, Louisville, KY:
+  lat: 38.2395415
+  lng: -85.7945964
 2500 Owen St, Louisville, KY:
   lat: 38.263663
   lng: -85.790886
@@ -22324,6 +22330,7 @@
 400 baker, Louisville, KY:
   lat: 38.1410492
   lng: -85.7716085
+400 blank lane, Louisville, KY: null
 ? 400 block of S Hancock St, near the intersection with Marshall and Liberty. The
   patient was located in, and units were able to assist her. - **Traffic Accident
   (around 6:34 a.m. a.m. a.m.):** responded to a two-vehicle motor vehicle accident
@@ -27646,6 +27653,9 @@
 56 Baxter Ave, Louisville, KY:
   lat: 38.2495483
   lng: -85.7315323
+56 Maco Ln, Louisville, KY:
+  lat: 38.1454158
+  lng: -85.6577232
 56 Nichols Dr, Louisville, KY: null
 5600 Aces Trail, Louisville, KY: null
 5600 Alta Cir, Louisville, KY:
@@ -37764,6 +37774,7 @@ Nancy Ln and Gerald Ave, Louisville, KY: null
 Nancy Ln and Lila Ave, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Naples Rd and Furman Blvd, Louisville, KY: null
+Near Fagan Bush Lane and Wilshire Blvd, Louisville, KY: null
 Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
 Near Ring Rd and Valley Station Rd, Louisville, KY: null
 Near Sadie Ln and Sanders Ln, Louisville, KY: null
