@@ -61727,4 +61727,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2026-01-01T13:59:09.196486'
+- timestamp: '2026-01-01T14:03:40.706568'
+  total_addresses: 16661
+  successful: 8476
+  failed: 8185
+  success_rate: 50.87
+  failure_rate: 49.13
+  failure_patterns:
+    Contains location qualifiers (near/at): 2313
+    Intersection format: 1644
+    Incomplete/vague address: 2040
+    Other/Unknown: 1681
+    Contains extra sentences/context: 496
+    Police phonetic codes: 11
+  batch_success_rate: 50.0
+  batch_new_addresses: 2
+  batch_new_successes: 1
+last_updated: '2026-01-01T14:03:40.706718'
