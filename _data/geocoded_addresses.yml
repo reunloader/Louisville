@@ -10268,6 +10268,9 @@
 200 Brookside Dr near Brookside Ct and Crenshide Lane, Louisville, KY:
   lat: 38.2485707
   lng: -85.5523585
+200 Brookside Dr, Louisville, KY:
+  lat: 38.2485707
+  lng: -85.5523585
 200 Brown Plain, Louisville, KY: null
 200 Brown, Louisville, KY:
   lat: 38.1211338
@@ -12173,6 +12176,7 @@
 200 overpass. This vehicle was linked, Louisville, KY:
   lat: 38.2039503
   lng: -85.7607432
+200 ramp and Chestnut Road, Louisville, KY: null
 200 ramp, Louisville, KY:
   lat: 38.2621141
   lng: -85.7378387
@@ -15113,6 +15117,9 @@
 2600 Garland, Louisville, KY:
   lat: 38.2442419
   lng: -85.7956355
+2600 Green Alley, Louisville, KY:
+  lat: 38.257175
+  lng: -85.794197
 2600 Hale Ave, Louisville, KY:
   lat: 38.2389716
   lng: -85.7961981
@@ -16289,6 +16296,9 @@
 2900 Noe Ct, Louisville, KY:
   lat: 38.2113762
   lng: -85.6418868
+2900 Northwestern Pky, Louisville, KY:
+  lat: 38.275036
+  lng: -85.793821
 2900 Outer Loop, Louisville, KY:
   lat: 38.1356381
   lng: -85.7163358
@@ -18959,6 +18969,7 @@
   lng: -85.8509711
 3400 Cathy Daschick Way, Louisville, KY: null
 3400 Cathy Dasher Quay, Louisville, KY: null
+3400 Cathy Dexter Way, Louisville, KY: null
 3400 Cathy Dexter, Louisville, KY: null
 3400 Cathy Dykstra, Louisville, KY: null
 3400 Cathy Dystra, unit 202, Louisville, KY: null
