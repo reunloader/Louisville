@@ -11196,6 +11196,9 @@
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
 200 Northbound near the 30 mile marker, Louisville, KY: null
 200 Northbound, Louisville, KY: null
+200 Northwestern Pky, Louisville, KY:
+  lat: 38.2685519
+  lng: -85.8241817
 200 Old Henry Rd, Louisville, KY:
   lat: 38.2720074
   lng: -85.4958216
@@ -19211,6 +19214,9 @@
   lat: 38.197522
   lng: -85.777079
 3400 West Broadway, Louisville, KY:
+  lat: 38.2496303
+  lng: -85.8087791
+3400 West Broadway. EMS responded immediately, Louisville, KY:
   lat: 38.2496303
   lng: -85.8087791
 3400 West Broadway. Further details on the incident and response were being gathered., Louisville, KY: null
