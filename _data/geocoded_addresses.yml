@@ -27769,6 +27769,9 @@
 5300 Torrington Ct, Louisville, KY:
   lat: 38.0929513
   lng: -85.8645476
+5300 Valkyrie Way, Louisville, KY:
+  lat: 38.1070922
+  lng: -85.8611243
 5300 W Pages Ln, Louisville, KY:
   lat: 38.1301902
   lng: -85.8553669
@@ -31683,6 +31686,9 @@
 700 Camden Ave, Louisville, KY:
   lat: 38.1927749
   lng: -85.7712615
+700 Carnation Dr, Louisville, KY:
+  lat: 38.1393644
+  lng: -85.8610486
 700 Cedar Creek Rd, Louisville, KY:
   lat: 38.0695318
   lng: -85.6255144
@@ -32419,6 +32425,9 @@
   Louisville, KY
 : null
 700 South Jackson Street, Louisville, KY:
+  lat: 38.243285
+  lng: -85.74602
+700 South Jackson, Louisville, KY:
   lat: 38.243285
   lng: -85.74602
 700 South Jackson, and EMS response was canceled, Louisville, KY: null
