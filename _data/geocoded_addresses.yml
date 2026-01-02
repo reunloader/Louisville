@@ -32514,6 +32514,9 @@
 7000 South Side Drop near Brownsboro, Louisville, KY:
   lat: 38.3140959
   lng: -85.5732474
+7000 Southern Ave, Louisville, KY:
+  lat: 38.2322114
+  lng: -85.8098959
 7000 Southside Dr at Kimball, Louisville, KY:
   lat: 38.1560243
   lng: -85.7650129
@@ -36268,6 +36271,9 @@
 900 Swan St, Louisville, KY:
   lat: 38.239386
   lng: -85.736691
+900 Taylor Blvd, Louisville, KY:
+  lat: 38.1857396
+  lng: -85.7840032
 900 Texas Ave, Louisville, KY:
   lat: 38.2176271
   lng: -85.7417015
@@ -38053,6 +38059,7 @@ Inca Dr and Johnsontown Rd, Louisville, KY: null
 Indian Falls Dr and River Trail Dr, Louisville, KY: null
 Indian Lake Dr and Westport Rd, Louisville, KY: null
 Iowa Ave and Cole Ave, Louisville, KY: null
+Iowa Ave and South Fish St, Louisville, KY: null
 Jackson Ave and Arlis Dr, Louisville, KY: null
 Jackson Ave and Taylor Ave, Louisville, KY: null
 Jackson St and Kenrose Ln, Louisville, KY: null
@@ -38568,6 +38575,7 @@ Taylor Blvd and Dresden Ave, Louisville, KY: null
 Taylor Blvd and Euclid Ave, Louisville, KY: null
 Taylor Blvd and Hathaway Ave, Louisville, KY: null
 Taylor Blvd and Huntoon Ave, Louisville, KY: null
+Taylor Blvd and Iowa Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Blvd and Lynnhurst Ave, Louisville, KY: null
 Taylor Blvd and Peachtree Ave, Louisville, KY: null
