@@ -48,6 +48,7 @@
 00 Aiken Rd near Johnson Rd and Centurion Way, Louisville, KY:
   lat: 38.2655914
   lng: -85.4687873
+00 Grazing Trace, Louisville, KY: null
 00 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
@@ -8663,6 +8664,9 @@
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
+1700 Beaver St, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 1700 Beech St, Louisville, KY:
   lat: 38.227425
   lng: -85.804907
@@ -8777,6 +8781,9 @@
 1700 Garland, Louisville, KY:
   lat: 38.2427981
   lng: -85.7820403
+1700 Gaymont Dr, Louisville, KY:
+  lat: 38.1464256
+  lng: -85.8264958
 ? 1700 Greenwood Ave, prompting a BOLO (Be On Lookout) alert. Responders were alerted
   to locate and monitor the vehicle, Louisville, KY
 : null
@@ -14544,6 +14551,7 @@
 24 West Broadway. The suspect reportedly forced entry through the emergency doors, Louisville, KY:
   lat: 38.2498591
   lng: -85.8070455
+24 unspecified street, Louisville, KY: null
 240 Grassland Dr, Louisville, KY: null
 2400 Arbor Pointe Dr, Louisville, KY: null
 2400 Arnold Palmer Blvd near Crest Street of Old Henry Rd, Louisville, KY:
@@ -29718,6 +29726,9 @@
   and resolve the situation., Louisville, KY
 : null
 600 Woodruff Ave in response, Louisville, KY: null
+600 Woodsman Ct, Louisville, KY:
+  lat: 38.1304645
+  lng: -85.6995662
 600 [Street Name - not provided], Louisville, KY:
   lat: 38.2502401
   lng: -85.7231987
