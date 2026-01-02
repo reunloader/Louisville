@@ -18721,6 +18721,9 @@
 : null
 3200 Callaway Drive, Louisville, KY: null
 3200 Christ Boiler Springs Drive, Louisville, KY: null
+3200 Commander Dr, Louisville, KY:
+  lat: 38.214276
+  lng: -85.653657
 3200 Cramsway and Crossroad, Louisville, KY: null
 3200 Dale Park Terrace, Louisville, KY: null
 3200 Dixie Hwy near Crop St, Appleton Ln, Neblett Ave, Louisville, KY:
@@ -21259,6 +21262,7 @@
   lat: 38.1919201
   lng: -85.6064742
 3900 Wayside Dr, Louisville, KY: null
+3900 West Broadway, Chinese Library, Louisville, KY: null
 3900 West Broadway, Crop St South 40th and South 39th, Louisville, KY: null
 3900 West Broadway, Louisville, KY:
   lat: 38.2498353
@@ -27792,6 +27796,9 @@
 5400 Layne Rd near Monaco Dr and Layne Ct, Louisville, KY:
   lat: 38.1410922
   lng: -85.6610176
+5400 Lois Ave, Louisville, KY:
+  lat: 38.1247688
+  lng: -85.6621584
 5400 Marlborough Court near Lilly Ln, Louisville, KY: null
 5400 Minier Drive, Louisville, KY: null
 5400 New Cut Rd, Louisville, KY:
