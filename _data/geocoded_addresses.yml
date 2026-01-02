@@ -173,6 +173,9 @@
   lat: 38.1291902
   lng: -85.5765828
 10 Block Street, Louisville, KY: null
+10 Castle Rd, Louisville, KY:
+  lat: 38.0699858
+  lng: -85.8919732
 10 Charter Oaks Dr, Louisville, KY: null
 10 Chubbitt Road, Louisville, KY: null
 10 Mary St, Louisville, KY:
@@ -17122,6 +17125,7 @@
   lat: 38.1830782
   lng: -85.5466556
 300 Henson Broadway and nearby streets, Louisville, KY: null
+300 Highway, Papa John’s, Louisville, KY: null
 300 Hillcrest, Louisville, KY:
   lat: 38.2582682
   lng: -85.6850962
@@ -35442,6 +35446,9 @@
 8800 Gladstonberry Pl, Louisville, KY:
   lat: 38.1259515
   lng: -85.8718293
+8800 High Point Cir, Louisville, KY:
+  lat: 38.1922367
+  lng: -85.5998907
 8800 Hudson Ave, Louisville, KY:
   lat: 38.2221493
   lng: -85.8141208
