@@ -10821,6 +10821,9 @@
 200 East at River Park Dr, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at River Park, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Shelbyville, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -26723,6 +26726,7 @@
 500 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+500 West Alley, Louisville, KY: null
 500 West Ashland, Louisville, KY:
   lat: 38.1852168
   lng: -85.7691521
