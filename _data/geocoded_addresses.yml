@@ -2048,6 +2048,9 @@
 1000 E W Southland Blvd, Louisville, KY:
   lat: 38.17145
   lng: -85.7640441
+1000 E W Washington St, Louisville, KY:
+  lat: 38.257724
+  lng: -85.7605474
 1000 East Broadway, Louisville, KY:
   lat: 38.2440573
   lng: -85.7351137
@@ -3759,6 +3762,9 @@
   lat: 38.2120941
   lng: -85.7433548
 1100 Nursery Ln, Louisville, KY: null
+1100 Old Cannons, Louisville, KY:
+  lat: 38.239316
+  lng: -85.664548
 1100 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -12551,6 +12557,7 @@
 2000 Chevy Silverado, Louisville, KY: null
 2000 Chevy Tahoe (possibly a black GMC Ugon), Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
+2000 Chevy Traverse, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
@@ -15983,6 +15990,9 @@
 28 Shelvis Dr, Louisville, KY:
   lat: 38.18811
   lng: -85.8404812
+28 Village West Dr, Louisville, KY:
+  lat: 38.2484393
+  lng: -85.7666809
 2800 7th St Rene Rd, Louisville, KY: null
 2800 7th Street, Louisville, KY:
   lat: 38.210865
@@ -16887,6 +16897,9 @@
   lng: -85.8780676
 300 Broadway and Road, Louisville, KY: null
 300 Brombe Street, Louisville, KY: null
+300 Bruns Dr, Louisville, KY:
+  lat: 38.171284
+  lng: -85.8186862
 300 Buckland Trace, Louisville, KY:
   lat: 38.2390446
   lng: -85.4485653
@@ -29586,6 +29599,8 @@
 600 responded to the scene., Louisville, KY: null
 600 responded, Louisville, KY: null
 600 runs, Louisville, KY: null
+600 streets, Louisville, KY: null
+600 streets, but no further details about the response or investigation were provided at this time, Louisville, KY: null
 600 the Toyota Camry, Louisville, KY: null
 600 the street, near St, Louisville, KY:
   lat: 38.2492082
