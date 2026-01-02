@@ -2766,6 +2766,9 @@
 1000 W Market St at Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 W Market St at The Healing Place, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
 1000 W Market St near 11th and Chapel at the Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -10996,6 +10999,9 @@
   lng: -85.667052
 200 Fairline Road,, Louisville, KY: null
 200 Fitzgerald Rd at Buckner Ave, Louisville, KY: null
+200 Fort St, Louisville, KY:
+  lat: 38.2161938
+  lng: -85.7515437
 200 Furman Blvd, Louisville, KY:
   lat: 38.2197421
   lng: -85.6465013
@@ -37298,6 +37304,9 @@
 9700 Brownsboro Rd, Louisville, KY:
   lat: 38.3117425
   lng: -85.5686854
+9700 Bunsen Parkway, Louisville, KY:
+  lat: 38.2421112
+  lng: -85.6153728
 9700 Cannonbury Dr, Louisville, KY:
   lat: 38.1252616
   lng: -85.7419306
@@ -38698,6 +38707,7 @@ Taylor Blvd and Huntoon Ave, Louisville, KY: null
 Taylor Blvd and Iowa Ave, Louisville, KY: null
 Taylor Blvd and Longfield Ave, Louisville, KY: null
 Taylor Blvd and Lynnhurst Ave, Louisville, KY: null
+Taylor Blvd and Montana Ave, Louisville, KY: null
 Taylor Blvd and Peachtree Ave, Louisville, KY: null
 Taylor Blvd and Showbox Avenue, Louisville, KY: null
 Taylor Blvd and Strader Ave, Louisville, KY: null
@@ -38827,6 +38837,7 @@ Winchester Rd and Hemingway Rd, Louisville, KY: null
 Windy Rolo Drive and Kendrick Dr, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Winstead Dr and Global Dr, Louisville, KY: null
+Winter Park Dr and Austin Ln, Louisville, KY: null
 Winter Park Dr and Herbert Ln, Louisville, KY: null
 Witherspoon St and River Rd, Louisville, KY: null
 Wizard Ave and Olenda Ave, Louisville, KY: null
