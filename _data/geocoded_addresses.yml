@@ -613,6 +613,7 @@
   lat: 38.213645
   lng: -85.762113
 100 Eastwood Long Avenue, Louisville, KY: null
+100 Echo Alpha Zulu, Louisville, KY: null
 100 Edgewood Way, Louisville, KY:
   lat: 38.249039
   lng: -85.553567
@@ -15615,6 +15616,9 @@
 2700 Ali, Louisville, KY:
   lat: 38.2550784
   lng: -85.795778
+2700 Alps Rd, Louisville, KY:
+  lat: 38.168204
+  lng: -85.856504
 2700 Bagby Way, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
@@ -22906,6 +22910,10 @@
 4000 W Market St, Louisville, KY:
   lat: 38.2623671
   lng: -85.8155151
+? 4000 W Market St, W Hill St, W Liberty St near West Liberty, Vermont at 43rd St,
+  and Herman St near Edward 5, Louisville, KY
+: lat: 38.2480947
+  lng: -85.8236967
 4000 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2575339
   lng: -85.8166853
@@ -35387,6 +35395,9 @@
   lat: 38.1994302
   lng: -85.600842
 8800 Bueller Church Rd, Louisville, KY: null
+8800 Cane Run Rd, Louisville, KY:
+  lat: 38.1278574
+  lng: -85.898335
 8800 Dixie Hwy at Kellerville Truck, Louisville, KY:
   lat: 38.125443
   lng: -85.8527303
