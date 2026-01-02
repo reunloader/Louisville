@@ -1888,6 +1888,9 @@
 1000 Cristland Rd, Louisville, KY:
   lat: 38.140466
   lng: -85.781929
+1000 Crittenden Dr, Louisville, KY:
+  lat: 38.1922166
+  lng: -85.7555947
 ? 1000 Dixie Hwy following a report of a medical emergency that occurred in conjunction
   with a traffic accident. Units arrived, Louisville, KY
 : null
@@ -5239,6 +5242,9 @@
   The patient was reportedly waiting, Louisville, KY
 : null
 1200 Triple Crown Ct, Louisville, KY: null
+1200 Union Ave, Louisville, KY:
+  lat: 38.198473
+  lng: -85.731959
 1200 W Ashland Ave, Louisville, KY:
   lat: 38.1861303
   lng: -85.7813325
@@ -26495,6 +26501,9 @@
 500 South 1st Street, Louisville, KY:
   lat: 38.250481
   lng: -85.752648
+500 South 27th, Louisville, KY:
+  lat: 38.255237
+  lng: -85.795685
 500 South 35th Street near Rowland Ave, Louisville, KY:
   lat: 38.255626
   lng: -85.809123
