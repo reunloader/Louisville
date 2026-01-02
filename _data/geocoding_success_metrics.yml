@@ -62815,4 +62815,20 @@ history:
   batch_success_rate: 75.0
   batch_new_addresses: 4
   batch_new_successes: 3
-last_updated: '2026-01-02T09:05:56.149119'
+- timestamp: '2026-01-02T09:11:09.078831'
+  total_addresses: 16847
+  successful: 8583
+  failed: 8264
+  success_rate: 50.95
+  failure_rate: 49.05
+  failure_patterns:
+    Contains location qualifiers (near/at): 2324
+    Intersection format: 1667
+    Incomplete/vague address: 2062
+    Other/Unknown: 1701
+    Contains extra sentences/context: 498
+    Police phonetic codes: 12
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-02T09:11:09.078963'
