@@ -62959,4 +62959,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 3
   batch_new_successes: 3
-last_updated: '2026-01-02T12:08:35.162685'
+- timestamp: '2026-01-02T12:15:37.327509'
+  total_addresses: 16873
+  successful: 8599
+  failed: 8274
+  success_rate: 50.96
+  failure_rate: 49.04
+  failure_patterns:
+    Contains location qualifiers (near/at): 2327
+    Intersection format: 1669
+    Incomplete/vague address: 2066
+    Other/Unknown: 1701
+    Contains extra sentences/context: 499
+    Police phonetic codes: 12
+  batch_success_rate: 100.0
+  batch_new_addresses: 3
+  batch_new_successes: 3
+last_updated: '2026-01-02T12:15:37.327643'

@@ -355,6 +355,9 @@
   lat: 38.2452409
   lng: -85.753739
 100 Brookridge Ln, Louisville, KY: null
+100 Brookridge Village Blvd, Louisville, KY:
+  lat: 38.1452844
+  lng: -85.5844796
 100 Brownsboro Rd, Louisville, KY:
   lat: 38.2661875
   lng: -85.6585602
@@ -3663,6 +3666,9 @@
 : null
 1100 King Arthur Ln, Louisville, KY: null
 1100 Larchtown Road, Louisville, KY: null
+1100 Lavista Way at Elijah Christian Child Care, Louisville, KY:
+  lat: 38.1456694
+  lng: -85.6949603
 1100 Lewis Coleman Jr, Louisville, KY: null
 1100 Lincoln Ave at the cross of Colorado and Utah, Louisville, KY:
   lat: 38.2117499
@@ -25448,6 +25454,9 @@
   lat: 38.3109258
   lng: -85.5802943
 4800 Outer Loop Mall, Louisville, KY: null
+4800 Outer Loop at H&M, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Outer Loop at Verizon, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
