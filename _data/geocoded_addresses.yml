@@ -25016,6 +25016,7 @@
   lng: -85.4590633
 4600 Tell Boulevard, Louisville, KY: null
 4600 Tip C Circle, parking lot, Louisville, KY: null
+4600 Toll House Ln, Louisville, KY: null
 4600 Valley Station Rd, Louisville, KY:
   lat: 38.1069091
   lng: -85.8414002
@@ -35218,6 +35219,9 @@
   KY
 : null
 8500 South28th Street, Louisville, KY: null
+8500 Standing Oak Dr, Louisville, KY:
+  lat: 38.1323306
+  lng: -85.8449967
 8500 Thompson Ln, Louisville, KY:
   lat: 38.1303925
   lng: -85.8634216
@@ -36433,6 +36437,9 @@
 9000 Brandywyne Dr, Louisville, KY:
   lat: 38.1636882
   lng: -85.5912962
+9000 Crowne Springs Cir near Crowne Springs Dr, Louisville, KY:
+  lat: 38.3102949
+  lng: -85.582164
 9000 Crowne Springs Cir, Louisville, KY:
   lat: 38.3102949
   lng: -85.582164
