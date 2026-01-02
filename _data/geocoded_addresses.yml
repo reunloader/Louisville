@@ -12022,6 +12022,9 @@
   from the collision. Responding units assessed the scene and managed the incident.,
   Louisville, KY
 : null
+200 West at Westport Rd. Responding units arrived, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West at mile marker 18, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -12198,6 +12201,9 @@
   and a dark blue SUV. A request was made, Louisville, KY
 : null
 200 Westport Rd near Dollar General, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
+200 Westport Rd near West, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
 200 Westport Rd, Louisville, KY:
@@ -22072,6 +22078,7 @@
 400 North 38th Street, Louisville, KY:
   lat: 38.269496
   lng: -85.8111684
+400 North First Parkway, Louisville, KY: null
 400 North Gate, Louisville, KY: null
 400 North Height Ave, Louisville, KY: null
 ? 400 North Height Avenue to attend to a 35-year-old female who was experiencing symptoms
@@ -24401,6 +24408,9 @@
 4400 Progress Blvd near International Paper, Louisville, KY:
   lat: 38.1862449
   lng: -85.6543248
+4400 River Park, Louisville, KY:
+  lat: 38.256287
+  lng: -85.82466
 4400 Rockwood Dr, Louisville, KY:
   lat: 38.2308789
   lng: -85.6205219
