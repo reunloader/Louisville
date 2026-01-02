@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2026-01-02 17:04:34
+**Generated:** 2026-01-02 17:13:26
 
 ---
 
@@ -8,20 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 16,914 |
-| **Successfully Geocoded** | 8,620 |
-| **Failed to Geocode** | 8,294 |
-| **Success Rate** | 50.96% |
-| **Failure Rate** | 49.04% |
+| **Total Addresses** | 16,920 |
+| **Successfully Geocoded** | 8,621 |
+| **Failed to Geocode** | 8,299 |
+| **Success Rate** | 50.95% |
+| **Failure Rate** | 49.05% |
 
 ---
 
 ## Recent Changes
 
-- **4** new addresses processed
-- **3** successfully geocoded
-- **1** failed to geocode
-- **This batch success rate: 75.00%** 🎯
+- **6** new addresses processed
+- **1** successfully geocoded
+- **5** failed to geocode
+- **This batch success rate: 16.67%** ⚠️
+- Overall rate changed by **-0.01%** 📉
 
 ---
 
@@ -29,11 +30,11 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Contains location qualifiers (near/at) | 2333 | 28.1% |
-| Incomplete/vague address | 2067 | 24.9% |
-| Other/Unknown | 1709 | 20.6% |
-| Intersection format | 1674 | 20.2% |
-| Contains extra sentences/context | 499 | 6.0% |
+| Contains location qualifiers (near/at) | 2334 | 28.1% |
+| Incomplete/vague address | 2068 | 24.9% |
+| Other/Unknown | 1710 | 20.6% |
+| Intersection format | 1675 | 20.2% |
+| Contains extra sentences/context | 500 | 6.0% |
 | Police phonetic codes | 12 | 0.1% |
 
 ---
@@ -42,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2026-01-02 | 2 | 0 | 0.0% ⚠️ | 16,891 | 50.95% |
 | 2026-01-02 | 3 | 0 | 0.0% ⚠️ | 16,894 | 50.94% |
 | 2026-01-02 | 1 | 0 | 0.0% ⚠️ | 16,895 | 50.94% |
 | 2026-01-02 | 1 | 0 | 0.0% ⚠️ | 16,896 | 50.94% |
@@ -52,6 +52,7 @@
 | 2026-01-02 | 3 | 1 | 33.3% ⚡ | 16,907 | 50.95% |
 | 2026-01-02 | 3 | 3 | 100.0% 🎯 | 16,910 | 50.96% |
 | 2026-01-02 | 4 | 3 | 75.0% 🎯 | 16,914 | 50.96% |
+| 2026-01-02 | 6 | 1 | 16.7% ⚠️ | 16,920 | 50.95% |
 
 ---
 
