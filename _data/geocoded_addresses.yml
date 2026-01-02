@@ -12052,6 +12052,9 @@
 200 West. The vehicle was observed, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 Westbound I-64 at W Market St, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 200 Westbound at Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
@@ -12261,6 +12264,7 @@
   multiple police units., Louisville, KY
 : null
 200 involving a motor vehicle exit at the natural turnpike. Crews arrived, Louisville, KY: null
+200 model, Louisville, KY: null
 200 near I-65 Northbound, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -19411,6 +19415,9 @@
 3400 W Jefferson St, Louisville, KY:
   lat: 38.259772
   lng: -85.8073335
+3400 W Kentucky St, Louisville, KY:
+  lat: 38.24442
+  lng: -85.80946
 3400 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2565209
   lng: -85.8073069
@@ -20094,6 +20101,9 @@
 3600 W Manslick Rd, Louisville, KY:
   lat: 38.1083742
   lng: -85.762655
+3600 W Market St, Louisville, KY:
+  lat: 38.2610294
+  lng: -85.8097551
 ? 3600 West Broadway. At the same time, EMS was responding to a separate medical call
   for a 51-year-old female experiencing breathing difficulties due to COPD in the
   800 block of West Bahama Valley Boulevard. The medical call was later canceled.,
@@ -23883,6 +23893,9 @@
 4300 York St, Louisville, KY:
   lat: 38.243908
   lng: -85.7562365
+4308 Willowview Blvd, Louisville, KY:
+  lat: 38.1817947
+  lng: -85.5549808
 432 East Jefferson Street, Louisville, KY:
   lat: 38.2521474
   lng: -85.7449551
