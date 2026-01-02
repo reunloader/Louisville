@@ -4217,6 +4217,7 @@
 : lat: 38.0946421
   lng: -85.8680694
 11100 Vista Greens Dr, Louisville, KY: null
+11200 Bluegrass Pky at Commerce Ct and Cold Wall, Louisville, KY: null
 11200 Deham Dr, Louisville, KY:
   lat: 38.3231294
   lng: -85.5413907
@@ -12000,6 +12001,9 @@
 200 West at Newburg Rd, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West at Shelbyville Rd, before Westport Rd, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West at Taylor Blvd, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -14927,6 +14931,7 @@
 2500 Bank St near 25th and 26th Streets, Louisville, KY:
   lat: 38.26839
   lng: -85.788647
+2500 Bank St, 60600 block of Parcel Pl, and Jefferson Blvd, Louisville, KY: null
 2500 Bank St, Louisville, KY:
   lat: 38.26839
   lng: -85.788647
