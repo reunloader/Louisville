@@ -4476,6 +4476,7 @@
 11700 Maple Way, Louisville, KY:
   lat: 38.0947333
   lng: -85.6621015
+11700 Nansim, Louisville, KY: null
 11700 Pierce Way, Louisville, KY:
   lat: 38.086173
   lng: -85.871034
@@ -14500,6 +14501,9 @@
   lat: 38.2421496
   lng: -85.7920187
 2300 West Morris V Avenue, Louisville, KY: null
+2300 West Oak, Louisville, KY:
+  lat: 38.2374834
+  lng: -85.7928454
 2300 West Orchard South, Louisville, KY: null
 2300 West Ormsky Ave, Louisville, KY: null
 2300 West Ornstein near Crossroads South 25th and South 23rd, Louisville, KY: null
@@ -33691,6 +33695,7 @@
 7600 Mayo Dr, Louisville, KY:
   lat: 38.2014671
   lng: -85.6715278
+7600 National Firm Play Field, Louisville, KY: null
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
   lng: -85.6197042
