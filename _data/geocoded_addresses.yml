@@ -4069,6 +4069,9 @@
 11000 Decimal Dr, Louisville, KY: null
 11000 Decimal Dr. Responding units were unable to make contact, and the call was left in a pending status., Louisville, KY: null
 11000 Decimal Dr. Responding units were unable, Louisville, KY: null
+11000 Dixie Hwy near Cracker Barrel, Louisville, KY:
+  lat: 38.0954962
+  lng: -85.8748655
 11000 Eagle's Cove Dr, Louisville, KY: null
 11000 Electron Dr, Louisville, KY:
   lat: 38.1992711
@@ -4493,6 +4496,7 @@
 11900 Poplarwood Dr, Louisville, KY:
   lat: 38.0829701
   lng: -85.8701493
+11900 Running Creek Rd, Louisville, KY: null
 11900 Sanford Plaza in response, Louisville, KY: null
 11900 Sanford Plaza, Louisville, KY: null
 11900 Shelbyville Rd, Louisville, KY:
@@ -17415,6 +17419,9 @@
 300 South41st near Larkwood and Herman, Louisville, KY:
   lat: 38.2604204
   lng: -85.8178928
+300 South42nd St, Louisville, KY:
+  lat: 38.2611397
+  lng: -85.8198953
 300 South43rd Street, Louisville, KY:
   lat: 38.2614562
   lng: -85.8208636
@@ -35152,6 +35159,9 @@
 8500 Old Heady Rd, Louisville, KY:
   lat: 38.1248755
   lng: -85.435408
+8500 Robin Hill Dr, Louisville, KY:
+  lat: 38.1365481
+  lng: -85.6043255
 8500 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 8500 South 28th Street, Louisville, KY:
   lat: 38.2549234
