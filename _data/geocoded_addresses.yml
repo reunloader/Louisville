@@ -7326,6 +7326,7 @@
 15 Cypress St, Louisville, KY:
   lat: 38.2214381
   lng: -85.8005435
+15 Eagleback Avenue, Louisville, KY: null
 15 Egypt Ln, Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
@@ -7606,6 +7607,9 @@
   lng: -85.774435
 1500 Lytle St, Dismas House, Louisville, KY: null
 1500 Lytle St, Louisville, KY:
+  lat: 38.261211
+  lng: -85.774435
+1500 Lytle St, near North 15th and North 17th, Louisville, KY:
   lat: 38.261211
   lng: -85.774435
 1500 Magazine St, Louisville, KY:
@@ -12170,6 +12174,7 @@
 200 Westbound I-64 at W Market St, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
+200 Westbound Newburg Rd, Louisville, KY: null
 200 Westbound at Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
@@ -31776,6 +31781,9 @@
 700 East Market at Paxton, Louisville, KY:
   lat: 38.2531216
   lng: -85.739834
+700 East Market at the AP Hotel, Louisville, KY:
+  lat: 38.2531216
+  lng: -85.739834
 700 East Market, Louisville, KY:
   lat: 38.2531216
   lng: -85.739834
@@ -31800,6 +31808,9 @@
   lng: -85.745319
 700 Eastern Parkway) (around 8:08 p.m. a.m. p.m.):** A medical call was received, Louisville, KY: null
 700 Eastern Parkway, Louisville, KY:
+  lat: 38.213507
+  lng: -85.745319
+700 Eastern Parkway, at North and Sterling, Louisville, KY:
   lat: 38.213507
   lng: -85.745319
 ? 700 Eastern Parkway. Reports indicated a woman, described as a 45-year-old Black
