@@ -11390,6 +11390,9 @@
 200 Pheasant Ave, Louisville, KY:
   lat: 38.1131354
   lng: -85.7631604
+200 Phillips Ln, Louisville, KY:
+  lat: 38.1901008
+  lng: -85.7477013
 200 Pleasantview Ave, Louisville, KY:
   lat: 38.2520977
   lng: -85.6855423
@@ -12863,6 +12866,9 @@
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
 2000 South2nd Street and Guthrie St, Louisville, KY: null
+2000 South40th Street, Louisville, KY:
+  lat: 38.22754
+  lng: -85.822344
 2000 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
