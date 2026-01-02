@@ -13308,6 +13308,10 @@
 2100 Smith Rd, Louisville, KY:
   lat: 38.095091
   lng: -85.726537
+? 2100 South 6th Street where a gas leak was reported inside. The building was quickly
+  ventilated to ensure safety, and no injuries were reported. Crews worked to contain
+  the leak and ensure the area was safe, Louisville, KY
+: null
 2100 South Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
@@ -21117,6 +21121,9 @@
   lat: 38.2573446
   lng: -85.8151884
 3965 Tattersville Road, Louisville, KY: null
+4 Beahl Blvd, Louisville, KY:
+  lat: 38.1462196
+  lng: -85.8685994
 4 Permanent Drive, Louisville, KY: null
 4 Ralph Ave, Louisville, KY:
   lat: 38.2107404
@@ -36423,6 +36430,9 @@
 9000 block of Grade Ln, near the fire station. Units responded, Louisville, KY:
   lat: 38.2534826
   lng: -85.750062
+901 Denmark St, Louisville, KY:
+  lat: 38.1959686
+  lng: -85.7749611
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
   lng: -85.81775
