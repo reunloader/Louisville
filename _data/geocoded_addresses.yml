@@ -28339,6 +28339,7 @@
   lng: -85.5970273
 5700 Barker Personal, Louisville, KY: null
 5700 Blue Springs Dr, Louisville, KY: null
+5700 Blue Spurs Ct, Louisville, KY: null
 5700 Bradby 4th Lane, Louisville, KY: null
 5700 Bruns Dr, Louisville, KY:
   lat: 38.171284
@@ -29396,6 +29397,9 @@
 ? 600 South 3rd Street. The initial request indicated a potential medical emergency.
   Responders assessed the situation, Louisville, KY
 : lat: 38.2486074
+  lng: -85.7563848
+600 South 3rd, Louisville, KY:
+  lat: 38.2486074
   lng: -85.7563848
 ? 600 South 40th Street for a 64-year-old male experiencing a seizure. Responders
   arrived on scene to provide assistance and transport., Louisville, KY
@@ -34015,6 +34019,9 @@
   lat: 38.1373334
   lng: -85.5684412
 7900 Poinsettia Dr and Jessamine Ln, Louisville, KY: null
+7900 Preston Hwy, Louisville, KY:
+  lat: 38.1377496
+  lng: -85.686871
 7900 Preston Hwy, last seen southbound. A BOLO was issued, Louisville, KY: null
 7900 Shelby Field Road, Louisville, KY: null
 7900 Shelby Grove Road, Louisville, KY: null
@@ -35104,6 +35111,7 @@
 8200 Nancy Ln, Louisville, KY:
   lat: 38.1354558
   lng: -85.8523215
+8200 National Turn Pike, Louisville, KY: null
 8200 National Turnpike at KO Storage, Louisville, KY:
   lat: 38.1314142
   lng: -85.7512479
