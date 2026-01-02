@@ -63055,4 +63055,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 2
   batch_new_successes: 0
-last_updated: '2026-01-02T14:11:32.304374'
+- timestamp: '2026-01-02T14:25:08.107548'
+  total_addresses: 16889
+  successful: 8606
+  failed: 8283
+  success_rate: 50.96
+  failure_rate: 49.04
+  failure_patterns:
+    Contains location qualifiers (near/at): 2328
+    Intersection format: 1671
+    Incomplete/vague address: 2067
+    Other/Unknown: 1706
+    Contains extra sentences/context: 499
+    Police phonetic codes: 12
+  batch_success_rate: 0.0
+  batch_new_addresses: 2
+  batch_new_successes: 0
+last_updated: '2026-01-02T14:25:08.107696'
