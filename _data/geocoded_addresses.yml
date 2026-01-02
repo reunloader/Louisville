@@ -19413,6 +19413,7 @@
 3400 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+3400 Taylor's Road, Louisville, KY: null
 3400 Taylor, Louisville, KY:
   lat: 38.1995175
   lng: -85.7829642
@@ -33663,6 +33664,9 @@
 7900 Bardstown Rd at Thorntons, Louisville, KY:
   lat: 38.134
   lng: -85.579647
+7900 Bardstown Rd at the Thortons, Louisville, KY:
+  lat: 38.134
+  lng: -85.579647
 7900 Bardstown Rd, Louisville, KY:
   lat: 38.134
   lng: -85.579647
@@ -34053,6 +34057,9 @@
 800 Hoock Ave, Louisville, KY:
   lat: 38.2150037
   lng: -85.6799718
+800 Humler St, Louisville, KY:
+  lat: 38.246238
+  lng: -85.79133
 800 Huntington Rd, Louisville, KY:
   lat: 38.2435456
   lng: -85.667321
