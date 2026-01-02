@@ -12576,6 +12576,7 @@
 2000 Chevy Tahoe (possibly a black GMC Ugon), Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
 2000 Chevy Traverse, Louisville, KY: null
+2000 Chrysler and Fawn Mill, Nauterloop, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
@@ -13236,6 +13237,10 @@
 2100 I-64 West, Louisville, KY: null
 2100 Janlyn Rd, Louisville, KY: null
 2100 John80 Place, Louisville, KY: null
+? 2100 Lexington Rd, 3800 block of Rock Bay Dr, 2600 block of West Kentucky, 500 block
+  of Briar Hill Rd, 600 block of Patton Ct, 7500 block of Auburn Place Dr, and 1200
+  block of Heafer Rd, Louisville, KY
+: null
 2100 Lexington Rd, Louisville, KY:
   lat: 38.2471011
   lng: -85.7073982
@@ -25356,6 +25361,7 @@
 4700 South3rd near Circle K, Louisville, KY:
   lat: 38.1810652
   lng: -85.766787
+4700 Southern Pky apartment 12, Louisville, KY: null
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
   lat: 38.105447
