@@ -370,6 +370,7 @@
 100 Catawba Hillsway, Louisville, KY: null
 100 Cedar Meadows Ct, Louisville, KY: null
 100 Cedar Meadows Ct. Responders arrived, Louisville, KY: null
+100 Central Ave (Super 8), Louisville, KY: null
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
@@ -1027,6 +1028,9 @@
 100 North42nd Street, Louisville, KY:
   lat: 38.2651355
   lng: -85.817821
+100 North43rd Street, Louisville, KY:
+  lat: 38.265411
+  lng: -85.8188879
 100 North45th Street, Louisville, KY: null
 100 North4th Street, Louisville, KY:
   lat: 38.256754
@@ -19038,6 +19042,9 @@
 3300 Indian Trail, Louisville, KY:
   lat: 38.16864
   lng: -85.698875
+3300 Kirby Ave, Louisville, KY:
+  lat: 38.2360442
+  lng: -85.809586
 3300 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
