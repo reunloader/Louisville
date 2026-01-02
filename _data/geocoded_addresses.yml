@@ -11293,6 +11293,9 @@
   lat: 38.2653079
   lng: -85.8105746
 200 North39th Street involving a subject acting aggressively, Louisville, KY: null
+200 North39th Street near Alford and Duncan, Louisville, KY:
+  lat: 38.2657912
+  lng: -85.8133557
 200 North39th Street, Louisville, KY:
   lat: 38.2657911
   lng: -85.8133557
@@ -11961,6 +11964,9 @@
   lat: 38.2369202
   lng: -85.7569546
 200 West near Taylor Blvd, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
+200 West near W Market St, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
 200 West near mile marker 2, Louisville, KY:
@@ -38104,6 +38110,7 @@ Nepperhan Rd and Mamaroneck Rd, Louisville, KY: null
 Nepperhan Rd and Maranac Rd, Louisville, KY: null
 Neville Dr and Garrs Ln, Louisville, KY: null
 New Cut Rd and Cogan Blvd, Louisville, KY: null
+New Cut Rd and Grant Ave, Louisville, KY: null
 New Cut Rd and Jean Ave, Louisville, KY: null
 New Cut Rd and Painted St, Louisville, KY: null
 New Cut Rd and Palatka Rd, Louisville, KY: null
