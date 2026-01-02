@@ -5382,6 +5382,7 @@
 12100 Stroll Ct. Further details, Louisville, KY: null
 12100 Winding Spring Ct to take the report and investigate the alleged behavior., Louisville, KY: null
 12100 Winding Spring Ct, Louisville, KY: null
+12200 Davidson Dr, Louisville, KY: null
 12200 Dixie Hwy at Speedway, Louisville, KY:
   lat: 38.0798536
   lng: -85.8838678
@@ -17319,6 +17320,9 @@
 300 North41st Street, Louisville, KY:
   lat: 38.2665202
   lng: -85.8158519
+300 Northwestern Pky, Louisville, KY:
+  lat: 38.2696813
+  lng: -85.8226403
 300 Notting Hill Blvd, Louisville, KY:
   lat: 38.2365735
   lng: -85.4127646
