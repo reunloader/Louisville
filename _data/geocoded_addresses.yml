@@ -7704,6 +7704,9 @@
 1500 South 15th Street. The patient, a 30-year-old female, was found, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
+1500 South 15th, Louisville, KY:
+  lat: 38.227846
+  lng: -85.780251
 1500 South 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
@@ -14468,6 +14471,9 @@
 2400 Bank St. Law enforcement continues to search, Louisville, KY:
   lat: 38.267712
   lng: -85.786762
+2400 Bardstown Rd near Kroger, Louisville, KY:
+  lat: 38.223758
+  lng: -85.689073
 2400 Bardstown Rd, Louisville, KY:
   lat: 38.223758
   lng: -85.689073
@@ -29030,6 +29036,9 @@
 600 North 27th Street at Portmanteau Community Center, Louisville, KY:
   lat: 38.2722764
   lng: -85.7922996
+600 North 27th Street, Louisville, KY:
+  lat: 38.2722764
+  lng: -85.7922996
 600 North 29th Street, Louisville, KY:
   lat: 38.273601
   lng: -85.794607
@@ -38115,6 +38124,7 @@ Jensen Street and Featherbell Blvd, Louisville, KY: null
 Jimson Pool St and Featherbell Blvd, Louisville, KY: null
 Johnson Rd and Aiken Rd, Louisville, KY: null
 Johnson School Rd and Cedar Creek Rd, Louisville, KY: null
+Johnson School Rd and Smith Ln, Louisville, KY: null
 Johnson School Rd and Wheeler Church Rd, Louisville, KY: null
 Juanita Ln and Marcitis Rd, Louisville, KY: null
 Jule Street and Duncan St, Louisville, KY: null
