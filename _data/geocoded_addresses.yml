@@ -9123,6 +9123,7 @@
 17100 Mallet Hill Dr. The specific reason, Louisville, KY:
   lat: 38.25985
   lng: -85.437033
+17100 Mount Hill Drive, Louisville, KY: null
 17100 Tempest Way, Louisville, KY:
   lat: 38.1649908
   lng: -85.8269005
@@ -11928,6 +11929,9 @@
   lat: 38.2369202
   lng: -85.7569546
 200 West at the 13 mile marker, Louisville, KY: null
+200 West at the 21, Louisville, KY:
+  lat: 38.2369202
+  lng: -85.7569546
 200 West at the 452, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -12240,6 +12244,7 @@
 200 eastbound and South25 near Franklin, Louisville, KY:
   lat: 38.1737608
   lng: -85.8378429
+200 eastbound and westbound ramps of Bank St, Louisville, KY: null
 200 eastbound at mile marker 11, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -19822,6 +19827,9 @@
 3600 Canterbury Ct, Louisville, KY:
   lat: 38.1308366
   lng: -85.7593277
+3600 Castle, Louisville, KY:
+  lat: 38.0724342
+  lng: -85.8908751
 3600 Chamberlain Ln, Louisville, KY:
   lat: 38.2977039
   lng: -85.5437235
@@ -22211,6 +22219,7 @@
 400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
 400 South H3, Louisville, KY: null
 400 South H3. A 43-year-old male patient was found, Louisville, KY: null
+400 South Harris Point Parkway, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
 ? 400 South Hubbard. The specific circumstances leading to the check were not detailed
   in the initial report., Louisville, KY
@@ -23384,6 +23393,9 @@
 4200 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.0926849
   lng: -85.8553918
+4200 Greenwell Ln, Louisville, KY:
+  lat: 38.192896
+  lng: -85.837275
 4200 Greenwood Ave, Louisville, KY:
   lat: 38.2442721
   lng: -85.8230343
@@ -31645,6 +31657,9 @@
 700 Iowa Ave, Louisville, KY:
   lat: 38.208257
   lng: -85.770815
+700 Jean Ave, Louisville, KY:
+  lat: 38.1758497
+  lng: -85.8431384
 ? 700 Jefferson St, which may have involved a welfare check or investigating suspicious
   activity. Additionally, officers were informed of a pending call, Louisville, KY
 : null
