@@ -3428,6 +3428,9 @@
 11 Carbine Ln, Louisville, KY:
   lat: 38.098422
   lng: -85.6887757
+11 Cherokee Rd, Louisville, KY:
+  lat: 38.2424298
+  lng: -85.6745465
 11 Logwood Ave, Louisville, KY:
   lat: 38.0804603
   lng: -85.8667825
@@ -5569,6 +5572,9 @@
 13 Bardstown Rd, Louisville, KY:
   lat: 38.2392301
   lng: -85.7224699
+13 Berkshire Ave, Louisville, KY:
+  lat: 38.2246152
+  lng: -85.6284767
 13 Charter Oaks Dr, Louisville, KY: null
 13 Gaywood Dr, Louisville, KY:
   lat: 38.1038739
@@ -19909,6 +19915,7 @@
   lat: 38.195533
   lng: -85.784502
 3500 block of Dollar General, Louisville, KY: null
+3500 location, Louisville, KY: null
 ? 35000 Quahala Road following a report of an assault. A 29-year-old female stated
   she had been attacked by a neighbor approximately eight hours earlier and had sustained
   a head injury. EMS was also on scene, Louisville, KY
@@ -27232,6 +27239,9 @@
 5200 Bardstown Rd, Louisville, KY:
   lat: 38.172184
   lng: -85.610779
+5200 Barn Rd, Louisville, KY:
+  lat: 38.132939
+  lng: -85.5948852
 5200 Benson Ct, Louisville, KY:
   lat: 38.0946956
   lng: -85.8586612
@@ -29841,6 +29851,9 @@
   lat: 38.1759724
   lng: -85.8134936
 6100 Desmond Parkway, Louisville, KY: null
+6100 Dixie Hwy, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
 ? 6100 Dumesnil St. Witnesses also observed smoke emanating from the vehicle, indicating
   a potential fire. Fire units were dispatched, Louisville, KY
 : lat: 38.2357119
@@ -35208,6 +35221,9 @@
   provided care to the patient., Louisville, KY
 : null
 8400 Roseboro Road, an area near Cross Meadows Cir, Warfield, and Bainbridge. EMS provided care, Louisville, KY: null
+8400 Roseborough Rd, Louisville, KY:
+  lat: 38.126831
+  lng: -85.633443
 8400 Sallee Ln, Louisville, KY: null
 8400 South 37th Street, Louisville, KY:
   lat: 38.2471327
