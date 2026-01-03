@@ -3256,6 +3256,7 @@
 10500 Sunlight Ln, Louisville, KY:
   lat: 38.1003874
   lng: -85.8411061
+10600 Charlene Dr, Louisville, KY: null
 10600 Dixie Hwy, Louisville, KY: null
 10600 Four Oaks Ct, Louisville, KY:
   lat: 38.1913107
@@ -4123,6 +4124,7 @@
 : null
 1100 block of [Location Unspecified], Louisville, KY: null
 1100 block, Louisville, KY: null
+1100 left Ali, Louisville, KY: null
 1100 the hospital, Louisville, KY: null
 11000 Brooksong Ct, Louisville, KY:
   lat: 38.2942719
@@ -12599,6 +12601,9 @@
   lng: -85.7821688
 2000 Bank St, West End Market, Louisville, KY: null
 2000 Bank St, approaching a vehicle, Louisville, KY: null
+2000 Bank St. EMS transported an individual, likely involved in the incident. The alarm was confirmed, Louisville, KY:
+  lat: 38.2652369
+  lng: -85.7821688
 2000 Bardstown Rd, Louisville, KY:
   lat: 38.225579
   lng: -85.696397
@@ -29798,6 +29803,12 @@
 600 West Manslake at the library, Louisville, KY:
   lat: 38.2449281
   lng: -85.7577588
+600 West Market, Louisville, KY:
+  lat: 38.2553263
+  lng: -85.7607449
+600 West Market. Responders arrived, Louisville, KY:
+  lat: 38.2553263
+  lng: -85.7607449
 600 West Orange B, Louisville, KY: null
 600 West Sherman Ranch Bridge, Louisville, KY: null
 600 Westmans Lake, Louisville, KY: null
