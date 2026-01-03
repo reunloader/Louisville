@@ -2940,6 +2940,9 @@
 10000 Dorton Dr, Louisville, KY:
   lat: 38.0958414
   lng: -85.8534439
+10000 National Turnpike, Louisville, KY:
+  lat: 38.1056813
+  lng: -85.742609
 ? 10000 Oak Bridge Cir to assist a 66-year-old female. The patient was reportedly
   suffering from shortness of breath and weakness on her left side., Louisville, KY
 : null
@@ -7742,6 +7745,7 @@
 1500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+1500 Shift Lane, Louisville, KY: null
 1500 Shingo Ave, Louisville, KY:
   lat: 38.1744846
   lng: -85.7865232
