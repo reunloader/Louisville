@@ -5285,6 +5285,7 @@
 1200 Top Hill Rd, Louisville, KY:
   lat: 38.078833
   lng: -85.7946386
+1200 Topper Street, Louisville, KY: null
 1200 Trio Ave, Louisville, KY:
   lat: 38.1303076
   lng: -85.6809054
@@ -7444,6 +7445,9 @@
 1500 Alley and Avenue, Louisville, KY: null
 1500 Alliant Avenue 9:00 a, Louisville, KY: null
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
+1500 Alton Ln, Louisville, KY:
+  lat: 38.0937367
+  lng: -85.7392696
 ? 1500 Anna Ln following a report of a medical emergency. A 64-year-old female was
   experiencing rectal bleeding. The caller was reportedly in a white Chevrolet Equinox
   near the intersection of Yolana and Clover Lee., Louisville, KY
@@ -20730,6 +20734,11 @@
 3700 Johnson Hall Dr, Louisville, KY:
   lat: 38.2566163
   lng: -85.6644273
+3700 Kailard Ave, Louisville, KY: null
+? 3700 Kailard Ave. A young female, possibly between 10 and 15 years old, was seen
+  walking on the shoulder wearing a gray and orange jacket and black pants. Authorities
+  are working, Louisville, KY
+: null
 ? 3700 Klein Dight Lane for a medical emergency involving a 23-year-old female who
   had just delivered her baby. The patient was in her third trimester, and the newborn
   was reported as delivered and healthy., Louisville, KY
@@ -24026,6 +24035,9 @@
   lat: 38.3076411
   lng: -85.5792533
 4200 Town Center, Louisville, KY: null
+4200 Village Dr, Louisville, KY:
+  lat: 38.2265936
+  lng: -85.6956565
 4200 W Ellington Ave, Louisville, KY: null
 4200 W Market St, Louisville, KY:
   lat: 38.2631659
@@ -31060,6 +31072,9 @@
   lat: 38.1695495
   lng: -85.638975
 6500 Woodrose Ct, Louisville, KY: null
+6500 Woody Ave, Louisville, KY:
+  lat: 38.1778344
+  lng: -85.7860726
 6508 Winter View Dr, Louisville, KY: null
 658 (location unclear), Louisville, KY: null
 658 South Point Street, Louisville, KY: null
