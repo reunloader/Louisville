@@ -6144,6 +6144,7 @@
   lat: 38.2313724
   lng: -85.7524629
 1300 South Foid Street, Louisville, KY: null
+1300 South Forth Street, Louisville, KY: null
 1300 South Hirsborne Pkwy, Holiday Inn, Louisville, KY: null
 1300 South Preston, Louisville, KY:
   lat: 38.23088
@@ -12568,6 +12569,9 @@
   the vehicle was associated with an individual named Robert. Further details, Louisville,
   KY
 : null
+2000 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 2000 Balfour Dr near Westmoreland and Foreign Home, Louisville, KY: null
 2000 Ballot Group, Louisville, KY: null
 2000 Bank St, Louisville, KY:
@@ -12829,6 +12833,9 @@
   caller mentioned hearing an explosion and expressed concern about potential fire
   spreading, Louisville, KY
 : null
+2000 Marine, Louisville, KY:
+  lat: 38.2762923
+  lng: -85.7892258
 2000 Mercedes ML350 with personalized plates. The vehicle was cleared, Louisville, KY: null
 2000 Mercury Mountaineer was reported near the mall. Officers responded, Louisville, KY:
   lat: 38.2465306
@@ -13481,6 +13488,12 @@
   ventilated to ensure safety, and no injuries were reported. Crews worked to contain
   the leak and ensure the area was safe, Louisville, KY
 : null
+2100 South 9th Street, Louisville, KY:
+  lat: 38.216849
+  lng: -85.772477
+2100 South 9th Street. Crews arrived, Louisville, KY:
+  lat: 38.216849
+  lng: -85.772477
 2100 South Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
