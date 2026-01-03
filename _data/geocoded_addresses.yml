@@ -1090,6 +1090,7 @@
   lat: 38.116375
   lng: -85.812006
 100 Ollie's parking lot, Louisville, KY: null
+100 One Topper Street, Louisville, KY: null
 100 Oster, Louisville, KY: null
 100 Ottawa Ave, Louisville, KY:
   lat: 38.187883
@@ -25115,6 +25116,7 @@
   lng: -85.7704769
 4500 South Bird Street, Louisville, KY: null
 4500 South First Corn Parkway, Louisville, KY: null
+4500 South First Form Parkway, Louisville, KY: null
 4500 South First One Parkway, Louisville, KY: null
 4500 South Fourth Street near W Liberty St, Louisville, KY:
   lat: 38.2534676
@@ -29201,6 +29203,9 @@
 : lat: 38.1784089
   lng: -85.7605676
 600 Dr, Louisville, KY: null
+600 Dresden Ave, Louisville, KY:
+  lat: 38.1975431
+  lng: -85.7699104
 600 Dry Ridge Rd, Louisville, KY:
   lat: 38.115186
   lng: -85.4524774
@@ -29972,6 +29977,9 @@
 600 West Jeff,, Louisville, KY: null
 600 West Jefferson (Hall of Justice), Louisville, KY: null
 600 West Jefferson, Louisville, KY:
+  lat: 38.2568339
+  lng: -85.7600287
+600 West Kentucky, Louisville, KY:
   lat: 38.2568339
   lng: -85.7600287
 600 West Liberty, Louisville, KY:
@@ -31048,6 +31056,7 @@
 6500 Shirley Ave, Louisville, KY:
   lat: 38.3485927
   lng: -85.6252749
+6500 Signature Dr (Baymont Inn), Louisville, KY: null
 ? 6500 Signature Dr following a report of a self-inflicted injury. A male individual
   reportedly shot himself in the head with a BB gun. The patient was described as
   wearing specific clothing., Louisville, KY
