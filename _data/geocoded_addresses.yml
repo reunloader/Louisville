@@ -1551,6 +1551,7 @@
   in responding to the scene. A sergeant was requested to the location, Louisville,
   KY
 : null
+100 West Chessman near Ronald McDonald House grocery, Louisville, KY: null
 ? 100 West Collins Court earlier this evening. A 51-year-old female was experiencing
   a heart issue. Firefighters and paramedics were dispatched to provide immediate
   assistance. The situation was handled by the responding medical teams., Louisville,
@@ -5896,6 +5897,9 @@
   they returned to service., Louisville, KY
 : null
 1300 Homeview Dr due, Louisville, KY: null
+1300 Huntington, Louisville, KY:
+  lat: 38.1419722
+  lng: -85.6875526
 1300 Huntoon Ave suggested as a possible location, Louisville, KY: null
 1300 I 64 East, Louisville, KY: null
 1300 I 64 East., Louisville, KY: null
@@ -21776,6 +21780,7 @@
 400 Colson Dr, Louisville, KY:
   lat: 38.1992428
   lng: -85.6170386
+400 Conway Ct, Crusher, Louisville, KY: null
 400 Craig, Louisville, KY: null
 400 Creel Ave, Louisville, KY:
   lat: 38.212873
@@ -22089,6 +22094,7 @@
 400 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+400 Grafton Hall Rd, Crusher's Church in Valley Station, Louisville, KY: null
 400 Granite Court, Louisville, KY: null
 400 Greten Ln, Louisville, KY: null
 400 Greten Ln. Officers secured the scene and began clearing nearby vehicles, Louisville, KY: null
@@ -24145,6 +24151,7 @@
 4300 East Kentucky, Louisville, KY:
   lat: 38.2361113
   lng: -85.7383171
+4300 Edgin Ave, Crop St of Dual Worth and Sedge Ct, Louisville, KY: null
 4300 Edgin Ave, Louisville, KY:
   lat: 38.1863845
   lng: -85.8295973
@@ -25300,12 +25307,16 @@
   at the 6100 block of Janes Farm Dr, a 70-year-old female with shoulder pain was
   attended, Louisville, KY
 : null
+4600 Outer Loop near Pet Smart, Louisville, KY:
+  lat: 38.137966
+  lng: -85.676653
 4600 Outer Loop near Sleep Outfitters, Louisville, KY:
   lat: 38.137966
   lng: -85.676653
 4600 Outer Loop, Louisville, KY:
   lat: 38.137966
   lng: -85.676653
+4600 Outer Loop, between TJ Maxx and other stores, Louisville, KY: null
 4600 Preston Hwy near I-65 exit, Louisville, KY:
   lat: 38.1819958
   lng: -85.720909
