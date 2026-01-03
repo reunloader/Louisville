@@ -245,6 +245,9 @@
 100 Alger Ave. Both police and EMS were en route, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
+100 Alley and Baker, Louisville, KY:
+  lat: 38.2404395
+  lng: -85.7412705
 100 Anchor, Louisville, KY: null
 100 Ashland, Louisville, KY:
   lat: 38.184865
@@ -6066,6 +6069,9 @@
   lat: 38.236638
   lng: -85.800454
 1300 South 2nd St, Louisville, KY:
+  lat: 38.232443
+  lng: -85.757511
+1300 South 2nd Street at Happy's Food Mart, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
 1300 South 2nd Street at Mag Bar, Louisville, KY:
@@ -31989,6 +31995,9 @@
 700 Farmingham Rd near Alloway Ct and Bell Rock Ct, Louisville, KY: null
 700 Feel Nice, Waycross Ave, Louisville, KY: null
 700 Feel Nice, Waycross Ave,, Louisville, KY: null
+700 Fernview Rd, Louisville, KY:
+  lat: 38.1500753
+  lng: -85.6096674
 700 Fill It’s Lane, Louisville, KY: null
 700 Fill a Sign Street, Louisville, KY: null
 700 Films, Louisville, KY: null
@@ -37975,6 +37984,7 @@ Barksdale Lane and Gardiner Ln, Louisville, KY: null
 Barksdown Road and Gardiner Ln, Louisville, KY: null
 Barn Rd and Southpointe Blvd, Louisville, KY: null
 Baroness Ave and Grand Ave, Louisville, KY: null
+Barret Ave and Eastern Parkway, Louisville, KY: null
 Barret Ave and Rueffer Street, Louisville, KY: null
 Barrett Ln and Christie Ave, Louisville, KY: null
 Barshawn Road and Eastern Parkway, Louisville, KY: null
