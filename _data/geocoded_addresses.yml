@@ -9672,6 +9672,9 @@
 1800 Oregon Ave, Louisville, KY:
   lat: 38.2208328
   lng: -85.7938119
+1800 Osage Ave, Louisville, KY:
+  lat: 38.238983
+  lng: -85.786967
 1800 Outer Loop, Louisville, KY:
   lat: 38.1280358
   lng: -85.7393457
@@ -26461,6 +26464,7 @@
 500 North 19th Street, Louisville, KY:
   lat: 38.2646455
   lng: -85.780857
+500 North 22nd Street McDonald's, Louisville, KY: null
 500 North 22nd Street near Clark St, Louisville, KY:
   lat: 38.266703
   lng: -85.783596
