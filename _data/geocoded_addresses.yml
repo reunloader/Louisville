@@ -10216,6 +10216,9 @@
   lng: -85.506916
 1900 New Burke, Louisville, KY: null
 1900 New Burke. Emergency units were dispatched, Louisville, KY: null
+1900 Newburg Rd near Richmond and Ruth, Louisville, KY:
+  lat: 38.221707
+  lng: -85.710457
 1900 Newburg Rd, Louisville, KY:
   lat: 38.221707
   lng: -85.710457
@@ -32160,6 +32163,9 @@
 700 E W Madison St, Louisville, KY:
   lat: 38.251774
   lng: -85.7733579
+700 E W Market St near Shelby and Clay at Galaxy, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 700 E W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
@@ -32935,6 +32941,7 @@
 700 Walker Rd, Louisville, KY:
   lat: 38.1316635
   lng: -85.8564041
+700 Washburn Ave in a backyard, Louisville, KY: null
 700 West Alhomid Ali Boulevard, Louisville, KY: null
 700 West Bain, Louisville, KY: null
 700 West Broadway at White Castle, cross of South 8th and South 7th, Louisville, KY:
