@@ -17688,6 +17688,9 @@
 300 South 1st Street near E Liberty St, Louisville, KY:
   lat: 38.2529394
   lng: -85.7525767
+300 South 1st Street near Shell Station, Louisville, KY:
+  lat: 38.2529394
+  lng: -85.7525767
 300 South 20th Street, Louisville, KY:
   lat: 38.256743
   lng: -85.784366
@@ -26755,6 +26758,9 @@
   lat: 38.249733
   lng: -85.756157
 500 South 3rd Street, number 506, Louisville, KY: null
+500 South 3rd, Louisville, KY:
+  lat: 38.249733
+  lng: -85.756157
 500 South 40th, Louisville, KY:
   lat: 38.257579
   lng: -85.816656
