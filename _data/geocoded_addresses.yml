@@ -30229,6 +30229,9 @@
   lng: -85.4852714
 6200 Current Circle, Louisville, KY: null
 6200 Elizabeth Ave, Louisville, KY: null
+6200 Elzie Rd, Louisville, KY:
+  lat: 38.1263057
+  lng: -85.8556348
 6200 Ferris Way, Louisville, KY: null
 6200 Global Dr, Louisville, KY:
   lat: 38.1397231
@@ -30610,6 +30613,9 @@
 6400 Manor View Cir, Louisville, KY:
   lat: 38.076756
   lng: -85.8820255
+6400 Manslick Rd, Louisville, KY:
+  lat: 38.169082
+  lng: -85.79727
 6400 Marina Dr, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
