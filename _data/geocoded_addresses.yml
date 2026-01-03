@@ -28428,6 +28428,7 @@
 5600 Harrods Glen, Louisville, KY:
   lat: 38.3254394
   lng: -85.6055802
+5600 Harrods Run Rd, Louisville, KY: null
 5600 Herr Ln, Louisville, KY:
   lat: 38.2823509
   lng: -85.6267183
@@ -33627,6 +33628,9 @@
 7400 Jefferson Blvd, Louisville, KY:
   lat: 38.1432203
   lng: -85.6757506
+7400 King William Ct, Louisville, KY:
+  lat: 38.1365294
+  lng: -85.7588175
 7400 Leopold Woods Loop, Louisville, KY: null
 7400 Linden Ln, Louisville, KY:
   lat: 38.2560805
