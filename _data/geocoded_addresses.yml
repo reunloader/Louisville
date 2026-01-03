@@ -7090,6 +7090,7 @@
   lat: 38.229071
   lng: -85.769064
 1400 South Air Sport Parkway, Louisville, KY: null
+1400 South Berks Street, Louisville, KY: null
 1400 South Crescent Street, Louisville, KY: null
 1400 South First Street, Louisville, KY: null
 1400 South Floor Street, Louisville, KY: null
@@ -25033,6 +25034,9 @@
 4500 South Second Street, Louisville, KY: null
 4500 South Side, Louisville, KY: null
 4500 South Third Street, Louisville, KY: null
+4500 South2nd Street, Louisville, KY:
+  lat: 38.189113
+  lng: -85.763864
 4500 South30th Street at Thornton's, Louisville, KY:
   lat: 38.2300585
   lng: -85.8061221
