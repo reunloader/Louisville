@@ -1523,6 +1523,9 @@
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
   lng: -85.6228053
+100 West Broadway at Hotel Louisville near South 2nd Street, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 West Broadway at Hotel Louisville, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -7190,6 +7193,9 @@
   lat: 38.2475587
   lng: -85.7755724
 1400 West Broadway near South 15th Street and South 13th Street, Louisville, KY:
+  lat: 38.2475587
+  lng: -85.7755724
+1400 West Broadway near South 15th Street, Louisville, KY:
   lat: 38.2475587
   lng: -85.7755724
 1400 West Broadway, Louisville, KY:
@@ -32216,6 +32222,9 @@
 ? 700 M Street following reports of suspicious activity. During the incident, a subject
   was detained, and officers were coordinating, Louisville, KY
 : null
+700 M Street near Taylor and Rodman, Louisville, KY:
+  lat: 38.209013
+  lng: -85.770131
 700 M Street, Louisville, KY:
   lat: 38.209013
   lng: -85.770131
