@@ -7188,6 +7188,9 @@
 1400 West Broadway at HPI office, Louisville, KY:
   lat: 38.2475587
   lng: -85.7755724
+1400 West Broadway near South 15th Street and South 13th Street, Louisville, KY:
+  lat: 38.2475587
+  lng: -85.7755724
 1400 West Broadway, Louisville, KY:
   lat: 38.2475587
   lng: -85.7755724
@@ -16781,6 +16784,7 @@
   lng: -85.635417
 2900 Quentin Full Court, Louisville, KY: null
 2900 Recreation Lane, Louisville, KY: null
+2900 Reed Alley near South 10th Street and Village West Dr, Louisville, KY: null
 2900 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
