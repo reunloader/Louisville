@@ -4427,6 +4427,9 @@
   lng: -85.7825407
 11500 Redwood Way, Louisville, KY: null
 11500 Tazewell, Louisville, KY: null
+11500 Tazwell Dr, Louisville, KY:
+  lat: 38.305822
+  lng: -85.535128
 11500 Willow Pond Dr, Louisville, KY: null
 11500 Willow Street, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
@@ -8490,6 +8493,7 @@
   lat: 38.2244187
   lng: -85.7608918
 1600 South Floyd and Phyllis, Louisville, KY: null
+1600 South Heist Parkway, Louisville, KY: null
 ? 1600 South Hirsborne Parkway for a patient experiencing wheezing and shortness of
   air. The individual, a 66-year-old female, was potentially suffering from pneumonia.
   The location is near the I-64 ramp., Louisville, KY
@@ -9055,6 +9059,9 @@
 1700 Shady Villa Ct, Louisville, KY:
   lat: 38.1632086
   lng: -85.6804864
+1700 Shakespeare's Drive near Middle Creek, Louisville, KY:
+  lat: 38.2796645
+  lng: -85.8611185
 1700 Somerset Pl, Louisville, KY:
   lat: 38.2219877
   lng: -85.585648
@@ -34397,6 +34404,7 @@
   lng: -85.7861501
 8 Oak New Crete Road, Louisville, KY: null
 800 10 Door, Louisville, KY: null
+800 17th and Esquire, Louisville, KY: null
 800 Adam and 1300 block of Beckley Creek Pky, Louisville, KY: null
 800 Adam and 3-David, Louisville, KY: null
 800 Adam and 800 block of Baker, Louisville, KY: null
