@@ -7425,6 +7425,9 @@
 15 Churchman Ave, Louisville, KY:
   lat: 38.1829126
   lng: -85.7922834
+15 Collins Ln, Louisville, KY:
+  lat: 38.2892011
+  lng: -85.5152696
 15 Cypress St, Louisville, KY:
   lat: 38.2214381
   lng: -85.8005435
@@ -21658,6 +21661,9 @@
 400 Baker near Colorado, Louisville, KY:
   lat: 38.1410492
   lng: -85.7716085
+400 Baker near Croaker, Louisville, KY:
+  lat: 38.1410492
+  lng: -85.7716085
 400 Baker to manage the scene and gather information., Louisville, KY: null
 400 Baker, 400 block of Adams, and 500 block of Phillips Ln, Louisville, KY: null
 400 Baker, 400 block of David, and 400 block of Charlie, Louisville, KY: null
@@ -27446,6 +27452,7 @@
 5100 East W Jacob St, Louisville, KY: null
 5100 Emery Ave, Louisville, KY: null
 5100 Fayhurst, Louisville, KY: null
+5100 First Floor Drive, Louisville, KY: null
 5100 Firwood Ln, Louisville, KY:
   lat: 38.1724036
   lng: -85.5800918
@@ -36883,6 +36890,9 @@
   lat: 38.243855
   lng: -85.795634
 900 South2nd Street at Bridge Haven, Louisville, KY:
+  lat: 38.240765
+  lng: -85.756042
+900 South2nd, Louisville, KY:
   lat: 38.240765
   lng: -85.756042
 900 South38th Street, Louisville, KY:
