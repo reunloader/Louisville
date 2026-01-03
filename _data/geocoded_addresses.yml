@@ -7571,6 +7571,9 @@
 1500 Farmington Ave, Louisville, KY:
   lat: 38.2002013
   lng: -85.7538527
+1500 Flat Road, near Publix, Louisville, KY:
+  lat: 38.262042
+  lng: -85.42537
 1500 Gallagher St, Louisville, KY:
   lat: 38.238366
   lng: -85.778893
@@ -11189,6 +11192,7 @@
   lng: -85.6433377
 200 Larchmont Boulevard, Louisville, KY: null
 200 Layne Ct and Bohne Ave, Louisville, KY: null
+200 Lenormadie Drive, Louisville, KY: null
 200 Level Road due, Louisville, KY: null
 200 Level Road, Louisville, KY:
   lat: 38.1670132
@@ -28251,6 +28255,7 @@
   lat: 38.0942448
   lng: -85.6560955
 5500 Texas Roadhouse, Louisville, KY: null
+5500 Undying Truck, Louisville, KY: null
 5500 VVF Place, Louisville, KY: null
 5500 Valley Station Rd, Louisville, KY:
   lat: 38.1068509
@@ -34300,6 +34305,7 @@
   lat: 38.2292347
   lng: -85.7416699
 800 Backer, conducting a thorough search, Louisville, KY: null
+800 Baker and 800 block of Adam, Louisville, KY: null
 800 Baker and 800 block of Adams, Louisville, KY: null
 800 Baker and the 400 block of an unspecified street, Louisville, KY: null
 800 Baker and the 800 block of Adam, Louisville, KY: null
