@@ -1908,6 +1908,9 @@
 1000 Crittenden Dr, Louisville, KY:
   lat: 38.1922166
   lng: -85.7555947
+1000 David, Louisville, KY:
+  lat: 38.2155106
+  lng: -85.7457745
 ? 1000 Dixie Hwy following a report of a medical emergency that occurred in conjunction
   with a traffic accident. Units arrived, Louisville, KY
 : null
@@ -4134,6 +4137,9 @@
 : null
 1100 block of [Location Unspecified], Louisville, KY: null
 1100 block, Louisville, KY: null
+1100 grade, Louisville, KY:
+  lat: 38.175194
+  lng: -85.7208366
 1100 left Ali, Louisville, KY: null
 1100 the hospital, Louisville, KY: null
 11000 Brooksong Ct, Louisville, KY:
@@ -7492,6 +7498,7 @@
 1500 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
+1500 Broadway behind the 99 cent store, Louisville, KY: null
 1500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
@@ -16313,6 +16320,9 @@
   hallway. The incident was located between South 29th and South 28th Streets., Louisville,
   KY
 : null
+2800 Elam Dr near Orange and Elam Ct, Louisville, KY:
+  lat: 38.1631833
+  lng: -85.7122139
 2800 Elam Dr, Louisville, KY:
   lat: 38.1631833
   lng: -85.7122139
@@ -36180,6 +36190,9 @@
 900 Alma Ave, Louisville, KY:
   lat: 38.1807378
   lng: -85.7903209
+900 Arlington Ave, Louisville, KY:
+  lat: 38.255594
+  lng: -85.7178015
 900 Ash St cross of Hortz and Chenery, Louisville, KY: null
 900 Ash St, Louisville, KY:
   lat: 38.227742
