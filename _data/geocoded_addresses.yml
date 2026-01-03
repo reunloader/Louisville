@@ -5783,6 +5783,9 @@
 1300 Clara Ave, Louisville, KY:
   lat: 38.199672
   lng: -85.783551
+1300 Clara, Louisville, KY:
+  lat: 38.199672
+  lng: -85.783551
 1300 Clare, Louisville, KY:
   lat: 38.2615454
   lng: -85.7051861
@@ -10695,6 +10698,7 @@
 200 Chickasaw Park, Louisville, KY:
   lat: 38.2423223
   lng: -85.8331322
+200 Church Down, Louisville, KY: null
 200 Claremont Ave, Louisville, KY:
   lat: 38.2568138
   lng: -85.6770385
@@ -11751,6 +11755,7 @@
   metal, black coat, and blue jeans, was allegedly attempting, Louisville, KY
 : null
 200 Shepherd's Hill, Louisville, KY: null
+200 Sierra Lane, Louisville, KY: null
 200 Simmons Emergency Shelter, 400 block of S Jackson St, Gretchen South, Louisville, KY: null
 200 Snow Goose Ct, Louisville, KY:
   lat: 38.1135357
@@ -35209,6 +35214,9 @@
   lng: -85.765197
 800 West Hall V crossing Ville's West Dr and Roy Wilkins Ave, Louisville, KY: null
 800 West Justin Street, Louisville, KY: null
+800 West Kinwood at BA Colonial, Louisville, KY:
+  lat: 38.1744506
+  lng: -85.7618487
 800 West Lee, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
