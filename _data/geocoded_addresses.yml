@@ -11741,6 +11741,9 @@
 ? 200 South Forest. The individual, a male, was observed sitting near an elevator
   on the sixth floor, exhibiting unusual behavior and calling out, Louisville, KY
 : null
+200 South Hancock, Louisville, KY:
+  lat: 38.2531474
+  lng: -85.7426966
 200 South History, Louisville, KY: null
 200 South Horsborne Parkway, CrossFit Holiday Park, Louisville, KY: null
 200 South Hubbard's Lane, Louisville, KY: null
@@ -12026,6 +12029,7 @@
   Louisville, KY
 : null
 200 West Chesaun ramp, Louisville, KY: null
+200 West Dixie Hwy, Louisville, KY: null
 200 West Early Morning, Louisville, KY: null
 200 West I-200 at Cane Run Rd, Louisville, KY:
   lat: 38.222489
@@ -15027,6 +15031,9 @@
 2400 West Ali, Louisville, KY:
   lat: 38.2546408
   lng: -85.7917199
+2400 West Broadway at Walgreens, Louisville, KY:
+  lat: 38.249256
+  lng: -85.791726
 2400 West Broadway, Louisville, KY:
   lat: 38.249256
   lng: -85.791726
