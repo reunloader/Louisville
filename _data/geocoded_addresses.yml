@@ -2909,6 +2909,7 @@
   three males and one female, were reportedly seen nearby., Louisville, KY
 : null
 1000 an unspecified street, Louisville, KY: null
+1000 and 10100 block of Grand Ave, Louisville, KY: null
 1000 building, Louisville, KY: null
 1000 hospital location, Louisville, KY: null
 ? 1000 incident. An officer from the First Division was involved in the stop. The
@@ -36324,6 +36325,9 @@
 900 E W Market St near Winslow and Campbell, Louisville, KY:
   lat: 38.2554323
   lng: -85.7586619
+900 E W Muhammad Ali Blvd near Campbell and Wendell, Louisville, KY:
+  lat: 38.2563581
+  lng: -85.8046069
 900 E W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
