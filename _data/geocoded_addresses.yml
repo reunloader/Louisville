@@ -2824,6 +2824,7 @@
   lat: 38.1932051
   lng: -85.7772854
 1000 W Whitney Ave, with a subsequent update confirming the location within the same block. Information, Louisville, KY: null
+1000 Wawa, Louisville, KY: null
 1000 West Broadway near 13th Street, Louisville, KY:
   lat: 38.24673
   lng: -85.7687534
@@ -5412,6 +5413,9 @@
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
 1200 call area, Louisville, KY: null
+1200 mark, Louisville, KY:
+  lat: 38.1278965
+  lng: -85.861312
 1200 unspecified street, Louisville, KY: null
 12000 Brookridge Village Blvd near Republic Make and Trust, Louisville, KY:
   lat: 38.1452844
@@ -6309,6 +6313,9 @@
   lat: 38.175747
   lng: -85.783492
 1300 Walter Ave, Louisville, KY:
+  lat: 38.175747
+  lng: -85.783492
+1300 Walter, Louisville, KY:
   lat: 38.175747
   lng: -85.783492
 1300 Weller Ave near Sharp and Lindbergh, Louisville, KY:
