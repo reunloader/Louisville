@@ -4421,6 +4421,7 @@
 11500 Redwood Way, Louisville, KY: null
 11500 Tazewell, Louisville, KY: null
 11500 Willow Pond Dr, Louisville, KY: null
+11500 Willow Street, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Chris Draft, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
@@ -8386,6 +8387,9 @@
   Other units were en route and available, Louisville, KY
 : lat: 38.21745
   lng: -85.72667
+1600 Prentice St, Louisville, KY:
+  lat: 38.240556
+  lng: -85.780501
 1600 Rangel and Rowe near Brenda, Louisville, KY:
   lat: 38.1704889
   lng: -85.6726748
@@ -10037,6 +10041,9 @@
 1900 Heather Ln, Louisville, KY:
   lat: 38.2076133
   lng: -85.6642191
+1900 Herr Ln near Lauder Elementary School, Louisville, KY:
+  lat: 38.2773002
+  lng: -85.6226985
 1900 Hikes Ln, Louisville, KY:
   lat: 38.2061085
   lng: -85.6488189
@@ -18908,6 +18915,7 @@
 ? 3200 Golden Turtle Circle early this morning. Upon arrival, they found a silver
   Toyota RAV4 engulfed in flames. Crews worked quickly, Louisville, KY
 : null
+3200 Grand Ave and 3200 block of Brand, Louisville, KY: null
 3200 Grand Ave, Louisville, KY:
   lat: 38.241378
   lng: -85.806623
