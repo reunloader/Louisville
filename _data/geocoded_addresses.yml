@@ -12596,6 +12596,7 @@
 2000 Bank St, Louisville, KY:
   lat: 38.2652369
   lng: -85.7821688
+2000 Bank St, West End Market, Louisville, KY: null
 2000 Bank St, approaching a vehicle, Louisville, KY: null
 2000 Bardstown Rd, Louisville, KY:
   lat: 38.225579
@@ -13748,6 +13749,7 @@
   lat: 38.2185305
   lng: -85.7949258
 2200 Duncan St and 5700 block of Nally Ct, Louisville, KY: null
+2200 EMS, Louisville, KY: null
 2200 East Broadway, Louisville, KY:
   lat: 38.2446794
   lng: -85.7394849
@@ -36491,7 +36493,11 @@
 900 South 4th Street, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
+900 South 4th Street, West Breckenridge, Louisville, KY: null
 900 South 4th Street, near the intersection of Baseball and Breckenridge at Friendship House,, Louisville, KY:
+  lat: 38.2415729
+  lng: -85.7595586
+900 South 4th Street. Fire units responded, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
 900 South 5th Street at Chapel House, Louisville, KY:
