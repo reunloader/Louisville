@@ -8418,6 +8418,9 @@
   lng: -85.7748253
 1600 Moore Hill Pl, Louisville, KY: null
 1600 Moore Hill Pl., Louisville, KY: null
+1600 New Stone Ct near 11200 block, Louisville, KY:
+  lat: 38.2497215
+  lng: -85.5484408
 1600 Norris Pl, Louisville, KY:
   lat: 38.2274184
   lng: -85.7090754
@@ -8716,6 +8719,9 @@
 16200 Shelbyville Rd, Louisville, KY:
   lat: 38.233555
   lng: -85.453095
+1633 [Street Name], Louisville, KY:
+  lat: 38.2234621
+  lng: -85.7621017
 16400 Donnington Ct, Louisville, KY:
   lat: 38.238878
   lng: -85.448613
