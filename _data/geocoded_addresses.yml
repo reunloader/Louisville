@@ -1741,6 +1741,7 @@
 100 outer loop at Wendy’s, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
+100 outer loop behind Gray Cliff near Newcote Road and Candleworth Dr, Louisville, KY: null
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
 100 the 2000 block of Toyota Corolla, Louisville, KY: null
@@ -5406,6 +5407,7 @@
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
 1200 call area, Louisville, KY: null
+1200 unspecified street, Louisville, KY: null
 12000 Brookridge Village Blvd near Republic Make and Trust, Louisville, KY:
   lat: 38.1452844
   lng: -85.5844796
@@ -31058,6 +31060,7 @@
 6508 Winter View Dr, Louisville, KY: null
 658 (location unclear), Louisville, KY: null
 658 South Point Street, Louisville, KY: null
+66 Loney Ln, Louisville, KY: null
 6600 Adam Ridge Pl, Louisville, KY: null
 6600 Adderloo, at 2100 hours, Louisville, KY: null
 6600 Adderloo. Specific details are limited, but authorities are on scene, Louisville, KY: null
@@ -31311,6 +31314,9 @@
 6700 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+6700 Green Manor Dr near Burn Hayden Road, Louisville, KY:
+  lat: 38.1470389
+  lng: -85.6361939
 6700 Green Manor Dr, Louisville, KY:
   lat: 38.1470389
   lng: -85.6361939
@@ -38921,6 +38927,7 @@ Newburg Rd and Bishop Ln, Louisville, KY: null
 Newburg Rd and Gardiner Ln, Louisville, KY: null
 Newburg Rd and Gold Street, Louisville, KY: null
 Newburg Rd and Speed Ave, Louisville, KY: null
+Newcote Road and Candleworth Dr, Louisville, KY: null
 Newcote Road and Palo Alto Road, Louisville, KY: null
 Norfolk Avenue and Landing Dr, Louisville, KY: null
 Norma Ln and Manila Ln, Louisville, KY: null
