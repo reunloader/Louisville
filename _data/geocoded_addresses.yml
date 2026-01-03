@@ -21176,6 +21176,7 @@
   lng: -85.6918601
 3900 Barks, Louisville, KY: null
 3900 Belltower Rd, Louisville, KY: null
+3900 Bishop Ln and surrounding area, Louisville, KY: null
 3900 Bishop Ln, Louisville, KY:
   lat: 38.1871224
   lng: -85.6950539
@@ -26928,6 +26929,9 @@
   lat: 38.3101965
   lng: -85.5216291
 500 X-ray Henry William, Louisville, KY: null
+500 Yorktown Rd, Louisville, KY:
+  lat: 38.1376837
+  lng: -85.7589608
 500 Young Mary John, Louisville, KY: null
 500 Zorn Ave, Louisville, KY:
   lat: 38.2633
@@ -27477,6 +27481,9 @@
 5200 Atwood St, Louisville, KY:
   lat: 38.2155748
   lng: -85.7485557
+5200 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 5200 Bardstown Rd, Louisville, KY:
   lat: 38.172184
   lng: -85.610779
@@ -33296,6 +33303,14 @@
 7200 Outer Loop, Louisville, KY:
   lat: 38.137221
   lng: -85.62825
+7200 Patrick Henry Ct, Louisville, KY:
+  lat: 38.139354
+  lng: -85.756789
+? 7200 Patrick Henry Ct. The area was secured with a perimeter established around
+  the 8100 block of Toll's Lane and Yorktown Rd. The suspects' vehicle was later found
+  abandoned or towed from the 3900 block of Bishop Ln, Louisville, KY
+: lat: 38.139354
+  lng: -85.756789
 7200 Quindaren Vaughan Mill Road, Louisville, KY: null
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
