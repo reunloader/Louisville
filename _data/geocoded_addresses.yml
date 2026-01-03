@@ -11273,6 +11273,9 @@
 200 North 19th Street at Columbia and Rowan, Louisville, KY:
   lat: 38.26085
   lng: -85.781193
+200 North 22nd Street, Louisville, KY:
+  lat: 38.261407
+  lng: -85.786162
 200 North 23rd Street, Louisville, KY:
   lat: 38.261589
   lng: -85.787802
@@ -39093,6 +39096,7 @@ Wilson Ave and Southern Ave, Louisville, KY: null
 Wimbrough Drive and Colorado Ave, Louisville, KY: null
 Winchester Rd and Delray Rd, Louisville, KY: null
 Winchester Rd and Hemingway Rd, Louisville, KY: null
+Windsor Forest Dr and Lakeridge Dr, Louisville, KY: null
 Windy Rolo Drive and Kendrick Dr, Louisville, KY: null
 Winkler Ave and Montana Ave, Louisville, KY: null
 Winstead Dr and Global Dr, Louisville, KY: null
