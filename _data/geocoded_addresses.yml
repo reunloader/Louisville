@@ -7424,6 +7424,9 @@
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+15 Paddock Ln, Louisville, KY:
+  lat: 38.1692628
+  lng: -85.8449974
 15 Portland Ave, Louisville, KY:
   lat: 38.2721361
   lng: -85.7929587
@@ -9803,6 +9806,9 @@
 1800 Sherwood Ave, Louisville, KY:
   lat: 38.2301382
   lng: -85.7108239
+1800 Sils Ave, Louisville, KY:
+  lat: 38.221474
+  lng: -85.690008
 1800 South 18th Street and W Jefferson St, Louisville, KY: null
 1800 South 23rd Street, Louisville, KY:
   lat: 38.2254613
@@ -21534,6 +21540,7 @@
   lat: 38.164391
   lng: -85.6840311
 40 Rieser Place, Louisville, KY: null
+400 (location unspecified), Louisville, KY: null
 400 223, then later at Ali and Shelby streets, Louisville, KY: null
 400 223. The scene was later moved, Louisville, KY: null
 400 Adam and 1 Adam to address the situation. The outcome of the police response was not specified., Louisville, KY: null
@@ -30730,6 +30737,7 @@
   Responding units are on scene, Louisville, KY
 : null
 6400 Avenue near Warwick Ave, Louisville, KY: null
+6400 Campground Lower Crusher, Louisville, KY: null
 6400 Clover Trace Cir, Louisville, KY:
   lat: 38.1768041
   lng: -85.7991196
@@ -32337,6 +32345,9 @@
 ? 700 Linden Dr. The alarm was triggered by a smoke detector in zone 8. The response
   was subsequently canceled., Louisville, KY
 : null
+700 Linden Ln, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
 700 Logan St, Louisville, KY:
   lat: 38.243866
   lng: -85.738418
@@ -36354,6 +36365,9 @@
 900 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+900 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 900 E W Madison St at Crop St, Louisville, KY:
   lat: 38.251774
   lng: -85.7733579
