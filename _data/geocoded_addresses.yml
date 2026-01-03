@@ -6938,6 +6938,7 @@
 1400 Old Dixie Hwy. The caller observed that the windows appeared, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+1400 Park Ridge Parkway, Louisville, KY: null
 ? 1400 Parkridge Pky PARKWAY for a 66-year-old male experiencing abdominal pain and
   who was not alert. Fire Engine 100 was among the units on scene., Louisville, KY
 : null
@@ -10874,6 +10875,9 @@
   lng: -85.7504208
 200 East and Breckenridge, Louisville, KY: null
 200 East and surrounding areas, Louisville, KY: null
+200 East at 65, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Bardstown Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -12575,6 +12579,7 @@
 200 southbound I-64 near New Cut Rd ramp, Louisville, KY: null
 200 southbound at Avila Church, Louisville, KY: null
 200 southbound at Gula Church, Louisville, KY: null
+200 southbound at the 11, Louisville, KY: null
 200 southbound at the 24, Louisville, KY: null
 200 southbound at the 24.1 mile marker, Louisville, KY: null
 200 southbound from Highway64, Louisville, KY: null
