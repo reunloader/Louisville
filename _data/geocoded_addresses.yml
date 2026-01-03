@@ -14210,6 +14210,7 @@
   lng: -85.6831816
 2300 Carrier Corember two, Louisville, KY: null
 2300 Carton Dr, Louisville, KY: null
+2300 Cedar Springs Blvd, marking a standard activity in the area, Louisville, KY: null
 2300 Cedar St, Louisville, KY:
   lat: 38.2559502
   lng: -85.7891852
@@ -31428,6 +31429,9 @@
 6900 Cedar Lake Ct, Louisville, KY:
   lat: 38.1471799
   lng: -85.5828575
+6900 Cedar Springs Blvd, Louisville, KY:
+  lat: 38.1432222
+  lng: -85.5848863
 6900 Chippenham Rd, Louisville, KY: null
 6900 Colrain Cir, Louisville, KY:
   lat: 38.1295542
