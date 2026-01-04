@@ -5528,6 +5528,9 @@
   lng: -85.7567626
 12400 Crosswinds Dr, Louisville, KY: null
 12400 Glengrove Cir, Louisville, KY: null
+12400 Hedgeapple Way, Louisville, KY:
+  lat: 38.0990467
+  lng: -85.8835024
 12400 Hersfield Rd at Heafer Rd and Hagen Rd, Louisville, KY:
   lat: 38.2650389
   lng: -85.5255806
@@ -7641,6 +7644,9 @@
 : lat: 38.1270111
   lng: -85.7598397
 1500 Eastern Parkway near Walgreens, Louisville, KY:
+  lat: 38.2317715
+  lng: -85.7091381
+1500 Eastern Parkway, Louisville, KY:
   lat: 38.2317715
   lng: -85.7091381
 1500 Eastlawn Ave, Louisville, KY:
@@ -26717,6 +26723,7 @@
 500 Maple Brook Dr, Louisville, KY:
   lat: 38.3022833
   lng: -85.5439993
+500 Maradel, Louisville, KY: null
 500 Markwell Ct, Louisville, KY:
   lat: 38.1398079
   lng: -85.6909351
@@ -32381,6 +32388,7 @@
   lat: 38.1183325
   lng: -85.6929215
 700 Farmingham Rd near Alloway Ct and Bell Rock Ct, Louisville, KY: null
+700 Farmingham Rd, Louisville, KY: null
 700 Feel Nice, Waycross Ave, Louisville, KY: null
 700 Feel Nice, Waycross Ave,, Louisville, KY: null
 700 Fernview Rd, Louisville, KY:
