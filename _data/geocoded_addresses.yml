@@ -11764,6 +11764,7 @@
 200 S Peterson Ave, Louisville, KY:
   lat: 38.2526177
   lng: -85.6981117
+200 S W Spring St, Louisville, KY: null
 200 Sand Lake Dr near Sand Lake Ct and Sandwood Pl, Louisville, KY:
   lat: 38.0926054
   lng: -85.8606495
@@ -18482,6 +18483,9 @@
   experiencing harassment through online channels. Police units were dispatched, Louisville,
   KY
 : null
+3000 Stegner Ave, Louisville, KY:
+  lat: 38.1812365
+  lng: -85.8511307
 3000 Taylor Blvd, Louisville, KY:
   lat: 38.2075565
   lng: -85.7751685
@@ -24431,6 +24435,9 @@
 4300 South 1st Street, Louisville, KY:
   lat: 38.193892
   lng: -85.761591
+4300 South 3rd St, Louisville, KY:
+  lat: 38.193839
+  lng: -85.765056
 4300 South 3rd Street, Louisville, KY:
   lat: 38.193839
   lng: -85.765056
@@ -26753,6 +26760,10 @@
 500 Meeting St, Louisville, KY:
   lat: 38.3251652
   lng: -85.5667177
+? 500 Meridian Hills Dr near Story Point, who was experiencing shortness of breath
+  and confusion. Both incidents required urgent medical attention, and multiple units
+  were dispatched, Louisville, KY
+: null
 ? 500 Meridian Hills Dr to attend to a medical situation. One response involved an
   88-year-old male who was experiencing symptoms of chest pain and difficulty breathing.,
   Louisville, KY
@@ -28259,6 +28270,7 @@
 5400 Jessamine Ln, Louisville, KY:
   lat: 38.1381812
   lng: -85.8558303
+5400 Kane Run, Louisville, KY: null
 5400 Layne Rd near Monaco Dr and Layne Ct, Louisville, KY:
   lat: 38.1410922
   lng: -85.6610176
