@@ -11070,6 +11070,9 @@
 200 East at Taylor Blvd. The vehicles were reportedly traveling at high speeds, posing a significant risk, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Taylor'sville Road, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at mile marker 17, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -12313,6 +12316,9 @@
   pants. EMS and fire personnel were dispatched, Louisville, KY
 : lat: 38.2000005
   lng: -85.7636078
+200 West at Taylor'sville Road, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at Virginia Ave, Louisville, KY: null
 ? 200 West at Virginia Ave. There were indications of possible injuries resulting
   from the collision. Responding units assessed the scene and managed the incident.,
@@ -33614,6 +33620,7 @@
 7100 Greengate Ct, Louisville, KY: null
 7100 Greenridge Farm Dr, Louisville, KY: null
 7100 Greenup Drive, Louisville, KY: null
+7100 Hawkins Road Drive, Louisville, KY: null
 7100 Hollow Oaks Dr, and a BOLO was issued, Louisville, KY: null
 7100 I 64 East, Louisville, KY: null
 7100 I-64 East, Louisville, KY: null
