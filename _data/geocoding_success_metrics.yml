@@ -66399,4 +66399,20 @@ history:
   batch_success_rate: 75.0
   batch_new_addresses: 4
   batch_new_successes: 3
-last_updated: '2026-01-04T22:45:44.803455'
+- timestamp: '2026-01-04T22:56:53.838031'
+  total_addresses: 17432
+  successful: 8872
+  failed: 8560
+  success_rate: 50.89
+  failure_rate: 49.11
+  failure_patterns:
+    Intersection format: 1731
+    Contains location qualifiers (near/at): 2383
+    Incomplete/vague address: 2156
+    Other/Unknown: 1773
+    Contains extra sentences/context: 505
+    Police phonetic codes: 12
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2026-01-04T22:56:53.838180'
