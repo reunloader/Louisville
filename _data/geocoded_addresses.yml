@@ -20261,6 +20261,9 @@
   status at OMBC, with further references, Louisville, KY
 : lat: 38.287939
   lng: -85.502012
+3500 Tyrone Dr, Louisville, KY:
+  lat: 38.201087
+  lng: -85.6739743
 3500 Versaille Ln, Louisville, KY:
   lat: 38.14975
   lng: -85.6970149
@@ -32120,6 +32123,7 @@
 700 Baird St, B2, Louisville, KY: null
 700 Baker and 200 block of North, Louisville, KY: null
 700 Baker and 3400 block of Fern Valley Rd, Louisville, KY: null
+700 Baker and 600 block of Baker, Louisville, KY: null
 700 Baker and 700 block of Charlie, Louisville, KY: null
 700 Baker and Fort Charlie, Louisville, KY: null
 700 Baker in response to a call, Louisville, KY: null
