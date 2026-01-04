@@ -10107,6 +10107,9 @@
 1900 Evergreen Rd, cross of Nall Ave and Valley View Rd, Louisville, KY: null
 1900 Farnsley Lane near Chase Rd and Dixie Hwy, Louisville, KY: null
 1900 First Parkway, Louisville, KY: null
+1900 Flanders Ct, Louisville, KY:
+  lat: 38.208504
+  lng: -85.6473715
 1900 Ford Ranger, Louisville, KY: null
 1900 Forum Ave, Louisville, KY:
   lat: 38.1739706
@@ -24179,6 +24182,7 @@
 4300 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+4300 Bishop Ln, unit 303, Louisville, KY: null
 ? 4300 Bishop Ln. This incident was categorized as a public assist, specifically a
   lift assist, indicating the individual needed help getting up. The response was
   handled by responding units., Louisville, KY
@@ -34131,6 +34135,9 @@
 ? 7600 Cousin Currier's Way. The call indicated a possible heart attack, and emergency
   medical personnel were on scene, Louisville, KY
 : null
+7600 Deer Meadow Dr near Deer Meadow Ct, Louisville, KY:
+  lat: 38.3166393
+  lng: -85.6065727
 7600 Deer Meadow Dr, Louisville, KY:
   lat: 38.3166393
   lng: -85.6065727
