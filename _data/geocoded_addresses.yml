@@ -24714,6 +24714,9 @@
   lng: -85.818722
 4400 John Rail Road Drive, Louisville, KY: null
 4400 Kazelle, Louisville, KY: null
+4400 Kern Ct, Louisville, KY:
+  lat: 38.1791126
+  lng: -85.6402833
 4400 Landside Dr, Louisville, KY:
   lat: 38.199829
   lng: -85.62227
@@ -26129,6 +26132,7 @@
   lng: -85.6794729
 4900 Hardy Park Drive, Louisville, KY: null
 4900 Heathmoore Ct, Louisville, KY: null
+4900 High Card Drive, Louisville, KY: null
 4900 K W Drive, Louisville, KY: null
 4900 Kermit's Run Road, Louisville, KY: null
 4900 Manslake Road, Louisville, KY: null
