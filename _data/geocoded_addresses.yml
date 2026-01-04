@@ -10311,6 +10311,9 @@
 1900 South 3rd Street, near the Patrick Henry Hughes Fields,, Louisville, KY:
   lat: 38.2203444
   lng: -85.7616989
+1900 South 4th Street, Louisville, KY:
+  lat: 38.219787
+  lng: -85.7638407
 ? 1900 South 6th Street for a 33-year-old male experiencing issues with infected hands
   and a bleeding disorder. The initial request for EMS was later canceled., Louisville,
   KY
@@ -28315,6 +28318,7 @@
 5500 Count Fleet Dr, Louisville, KY:
   lat: 38.1147098
   lng: -85.8729314
+5500 Del Maria Way, Louisville, KY: null
 5500 Down Maria Way, Louisville, KY: null
 5500 East Market, Louisville, KY:
   lat: 38.2531036
