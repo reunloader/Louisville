@@ -9315,6 +9315,7 @@
   lat: 38.234761
   lng: -85.782464
 1700 West Ornsby Avenue, Louisville, KY: null
+1700 West Testament Street, Louisville, KY: null
 1700 West Thornsby, Louisville, KY: null
 1700 West W Oak St, Louisville, KY: null
 ? 1700 West W Oak St. The nature of the incident and any resulting injuries or vehicle
@@ -19628,6 +19629,9 @@
 33600 Garland Ave, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+34 New Cut Rd, Louisville, KY:
+  lat: 38.1187636
+  lng: -85.776814
 34 Southern Pky, Louisville, KY:
   lat: 38.1748115
   lng: -85.7745087
@@ -25552,6 +25556,9 @@
   lat: 38.1385187
   lng: -85.695747
 4600 West Broadway**, Louisville, KY:
+  lat: 38.2503752
+  lng: -85.8298905
+4600 West Broadway, Louisville, KY:
   lat: 38.2503752
   lng: -85.8298905
 4600 West Marcus Street, Louisville, KY: null
