@@ -13394,6 +13394,9 @@
   lng: -85.5413774
 206 Hi View Ln, Louisville, KY: null
 21 Poplar Hill Rd, Louisville, KY: null
+21 Rowan St, Louisville, KY:
+  lat: 38.2628325
+  lng: -85.8001248
 21 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
@@ -19465,6 +19468,9 @@
 3300 Breaux Dr, Louisville, KY:
   lat: 38.212799
   lng: -85.62431
+3300 Breckenridge Ln near Landside Dr, Landerdale, Louisville, KY:
+  lat: 38.2051621
+  lng: -85.624039
 3300 Bridwell Dr, Louisville, KY:
   lat: 38.179909
   lng: -85.859554
