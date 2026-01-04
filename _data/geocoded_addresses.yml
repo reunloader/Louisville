@@ -17953,6 +17953,9 @@
 300 University Blvd at McDonald's, Louisville, KY:
   lat: 38.2145178
   lng: -85.7540812
+300 University Blvd near McDonald's, Louisville, KY:
+  lat: 38.2145178
+  lng: -85.7540812
 300 University Blvd, Louisville, KY:
   lat: 38.2146053
   lng: -85.7550162
@@ -19520,6 +19523,9 @@
 3300 Hikes Ln, Louisville, KY:
   lat: 38.218158
   lng: -85.628398
+3300 Hudson Ave, Louisville, KY:
+  lat: 38.221814
+  lng: -85.811876
 3300 I-64 East, Louisville, KY: null
 ? 3300 I-64 East. The individual, described as wearing a black jacket and pink leggings,
   was located near South Crest and I-65 South. EMS assessed the patient at the scene.,
