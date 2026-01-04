@@ -10061,6 +10061,9 @@
 1900 Baird St. The call involved an ex-partner who was alleged, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
+1900 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 1900 Bank St near North 19th and North 20th Streets, Louisville, KY:
   lat: 38.2641516
   lng: -85.7806611
@@ -13479,6 +13482,7 @@
   lat: 38.198204
   lng: -85.8349572
 2100 Date3 near 22nd Street and Dr, Louisville, KY: null
+2100 Deer Path Cir near Elk Ridge Dr, Louisville, KY: null
 2100 Digital Bank, Louisville, KY: null
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
@@ -17627,6 +17631,9 @@
 300 Kenilworth Rd. They were tasked with providing medical assistance, Louisville, KY:
   lat: 38.259748
   lng: -85.709145
+300 Kenny Blvd near LeSane and Elmer, Louisville, KY:
+  lat: 38.1362235
+  lng: -85.7712257
 300 Kilmoria, Louisville, KY: null
 300 Kilmory Ave, Louisville, KY:
   lat: 38.1595977
@@ -18210,6 +18217,7 @@
 3000 Breckenridge Ln near Meridian and Breckenridge, Louisville, KY:
   lat: 38.2166353
   lng: -85.6282985
+3000 Breckenridge Ln, Kastleburn Highway condos, Building 1, Louisville, KY: null
 3000 Breckenridge Ln, Louisville, KY:
   lat: 38.2166353
   lng: -85.6282985
@@ -24333,6 +24341,7 @@
 4300 Charlotte Dr, near Raydale Dr and South Crump Lane., Louisville, KY:
   lat: 38.194219
   lng: -85.840404
+4300 Churchill Rd in Delray, Louisville, KY: null
 4300 Churchman Ave, Louisville, KY:
   lat: 38.1795
   lng: -85.792421
@@ -34778,6 +34787,7 @@
 8 Haskin Ave, Louisville, KY:
   lat: 38.1728722
   lng: -85.7861501
+8 Lincoln Street, Louisville, KY: null
 8 Oak New Crete Road, Louisville, KY: null
 800 10 Door, Louisville, KY: null
 800 17th and Esquire, Louisville, KY: null
