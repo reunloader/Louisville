@@ -21014,6 +21014,9 @@
   was resolved, with the individuals agreeing to separate, Louisville, KY
 : lat: 38.191243
   lng: -85.788685
+3700 Wheeler, Louisville, KY:
+  lat: 38.191243
+  lng: -85.788685
 3700 Whitehall Ct, Louisville, KY:
   lat: 38.1064761
   lng: -85.8313497
@@ -36419,6 +36422,7 @@
 900 Burton Ave, Louisville, KY:
   lat: 38.206738
   lng: -85.773152
+900 Call, Louisville, KY: null
 900 Cecil Ave and other locations, Louisville, KY: null
 900 Charles St at the intersection with River Creek Street and Boyle St, Louisville, KY:
   lat: 38.2315713
