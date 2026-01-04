@@ -17223,6 +17223,9 @@
 300 Adelaide, Louisville, KY:
   lat: 38.3055248
   lng: -85.5693954
+300 Alpine Way near Westhall Ave, Louisville, KY:
+  lat: 38.1594884
+  lng: -85.776363
 300 Amberwell Park Rd, Louisville, KY:
   lat: 38.2889832
   lng: -85.5589923
@@ -25940,6 +25943,9 @@
 4700 South3rd near Circle K, Louisville, KY:
   lat: 38.1810652
   lng: -85.766787
+4700 South6th St, Louisville, KY:
+  lat: 38.182137
+  lng: -85.771372
 4700 Southern Pky apartment 12, Louisville, KY: null
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
@@ -27369,6 +27375,12 @@
   lat: 38.1601786
   lng: -85.6794729
 5000 Hoffman Ln, Louisville, KY: null
+5000 Invicta Dr near Bonnyville Blvd, Louisville, KY:
+  lat: 38.1680896
+  lng: -85.823069
+5000 Invicta Dr, Louisville, KY:
+  lat: 38.1680896
+  lng: -85.823069
 5000 Kauffman, Louisville, KY: null
 5000 Kaufman Ln, Louisville, KY:
   lat: 38.180849
