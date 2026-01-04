@@ -4661,6 +4661,9 @@
 1200 Atomic Place, Louisville, KY: null
 1200 Atomic Place., Louisville, KY: null
 1200 Avenue, JB Swift plant, Louisville, KY: null
+1200 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 1200 Bardstown Rd at Crescent Beach, Louisville, KY: null
 1200 Bardstown Rd at Mid City Mall, Louisville, KY:
   lat: 38.236869
@@ -20875,6 +20878,9 @@
   was reported as delivered and healthy., Louisville, KY
 : null
 3700 Klein Dight Lane, Louisville, KY: null
+3700 Klondike Ln at Lenny's Lane, Louisville, KY:
+  lat: 38.209512
+  lng: -85.6397607
 3700 Klondike Ln near Lenny's Lane, Louisville, KY:
   lat: 38.209512
   lng: -85.6397607
@@ -20950,6 +20956,7 @@
 3700 Quillman Dr, Louisville, KY:
   lat: 38.1523018
   lng: -85.8038074
+3700 Quondike Lane in the Mohawk area, Louisville, KY: null
 3700 Quondite Lane, Louisville, KY: null
 3700 River Park, Louisville, KY:
   lat: 38.255027
@@ -22797,6 +22804,7 @@
   lng: -85.7647916
 400 South A Street, Louisville, KY: null
 400 South A Trent Ave Plaza, Louisville, KY: null
+400 South A, Louisville, KY: null
 ? 400 South Eighth Street following a report of an unknown situation. Upon arrival,
   an adult male, approximately 42 years old, was found lying on a bench outdoors.
   Emergency medical services were en route, Louisville, KY
@@ -30024,6 +30032,7 @@
 600 South29th, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
+600 South38 Street, Louisville, KY: null
 600 South38, Louisville, KY: null
 600 South39th Street, Louisville, KY:
   lat: 38.255276
