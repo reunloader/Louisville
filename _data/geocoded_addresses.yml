@@ -15095,6 +15095,12 @@
 2400 Lindsay Ave, Louisville, KY:
   lat: 38.259724
   lng: -85.7074
+2400 Longest Ave near Ray Ave and Bassett Ave, Louisville, KY:
+  lat: 38.2382702
+  lng: -85.7096263
+2400 Longest Ave, Louisville, KY:
+  lat: 38.2382702
+  lng: -85.7096263
 2400 Lower Honors Trace, Louisville, KY: null
 2400 Lower Hunters Trace, Louisville, KY:
   lat: 38.1604042
@@ -27322,6 +27328,9 @@
   lat: 38.2007912
   lng: -85.8304039
 500 Wayne Wright, Louisville, KY: null
+500 Webster St near Catharine Street, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 500 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
@@ -39558,6 +39567,7 @@ Providence Street and Algonquin Pky, Louisville, KY: null
 Pueblo Rd and Quahala Rd, Louisville, KY: null
 Ralph Ave and Camp Ground Rd, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
+Ray Ave and Bassett Ave, Louisville, KY: null
 Raydale Dr and South Crump Lane, Louisville, KY: null
 Rd Street Rd and Central Ave, Louisville, KY: null
 Rd Street Rd and Euclid Ave, Louisville, KY: null
