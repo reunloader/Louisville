@@ -11340,6 +11340,9 @@
   lat: 38.2946775
   lng: -85.5524855
 200 Inverness Ave across South 3rd Street and Southside Dr, Louisville, KY: null
+200 Iroquois Ave, Louisville, KY:
+  lat: 38.170287
+  lng: -85.764869
 200 Kaiser Street and Kaiser Ct, Louisville, KY: null
 200 Kentucky280-735, Louisville, KY: null
 200 La Normandy Dr, Louisville, KY: null
@@ -30249,6 +30252,7 @@
   lat: 38.2502401
   lng: -85.7231987
 600 a gas station, Louisville, KY: null
+600 addresses, Louisville, KY: null
 600 an unspecified street due, Louisville, KY: null
 600 an unspecified street, indicating ongoing investigation, Louisville, KY: null
 600 and 600 block of, Louisville, KY: null
@@ -34645,6 +34649,7 @@
 7900 Emma Ct, Louisville, KY:
   lat: 38.1376739
   lng: -85.5662781
+7900 Fagelish Lane, Louisville, KY: null
 7900 Gateway Dr, Crawford, Louisville, KY: null
 7900 Georgia Ln, Louisville, KY:
   lat: 38.1464943
