@@ -3502,6 +3502,9 @@
 1100 Bardstown Rd at Orton, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Bardstown Rd near Elmwood Ave and Welch Dr, Louisville, KY:
+  lat: 38.238274
+  lng: -85.720911
 1100 Bardstown Rd near Elwood and Grinstead, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
@@ -19716,6 +19719,9 @@
 3400 Frankfort Ave, Louisville, KY:
   lat: 38.2537793
   lng: -85.6698989
+3400 Garland Ave near Lewis Columns, Louisville, KY:
+  lat: 38.2456389
+  lng: -85.8093039
 3400 Garland Ave, Louisville, KY:
   lat: 38.2456389
   lng: -85.8093039
@@ -38780,6 +38786,7 @@ Eline Ave and University Ave, Louisville, KY: null
 Ellsworth Ave and Eastern Parkway, Louisville, KY: null
 Elmwood Ave and Cherrywood Rd, Louisville, KY: null
 Elmwood Ave and Grimsay Drive, Louisville, KY: null
+Elmwood Ave and Welch Dr, Louisville, KY: null
 Emerson Ave and Phillips Ln, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
