@@ -26023,6 +26023,9 @@
 4700 South6th St, Louisville, KY:
   lat: 38.182137
   lng: -85.771372
+4700 South6th Street, Louisville, KY:
+  lat: 38.182137
+  lng: -85.771372
 4700 Southern Pky apartment 12, Louisville, KY: null
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
@@ -28446,6 +28449,7 @@
 5400 Decker Rd, Louisville, KY:
   lat: 38.126653
   lng: -85.863607
+5400 EEO post, Louisville, KY: null
 5400 Eton Rd, Louisville, KY: null
 5400 Farm Spring Ct, Louisville, KY:
   lat: 38.3220421
@@ -35290,6 +35294,9 @@
 800 Overdale Dr, Louisville, KY: null
 800 Oxford Avenue, Louisville, KY: null
 800 Paper Birch Way and Hickory, Louisville, KY: null
+800 Pendleton, Louisville, KY:
+  lat: 38.0505428
+  lng: -85.8665908
 800 Pflanz Ave, Louisville, KY:
   lat: 38.2739729
   lng: -85.8044847
@@ -36857,6 +36864,9 @@
 900 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+900 E W Liberty St at Paul City Brewery, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 900 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
