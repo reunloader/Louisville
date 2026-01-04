@@ -3960,6 +3960,9 @@
 1100 South 43rd Street, Louisville, KY:
   lat: 38.2425962
   lng: -85.8254794
+1100 South 44th Street, Louisville, KY:
+  lat: 38.2534329
+  lng: -85.8250528
 1100 South 4th Street across W Oak St and Webster St, Louisville, KY: null
 ? 1100 South 4th Street found the premises closed with no lights on. Police units
   were involved in the investigation, including those assigned to the 400 block of
@@ -15490,6 +15493,9 @@
 2500 Ralph Ave, Louisville, KY:
   lat: 38.2049789
   lng: -85.8126067
+2500 Ransdell Ave, Louisville, KY:
+  lat: 38.240444
+  lng: -85.709123
 2500 Rivermont Ct, Louisville, KY: null
 2500 Rockford Ln due, Louisville, KY: null
 2500 Rowan St, Louisville, KY:
@@ -17039,6 +17045,9 @@
 2900 Rodman St, Louisville, KY:
   lat: 38.20817
   lng: -85.770312
+2900 Rowan St, Louisville, KY:
+  lat: 38.262461
+  lng: -85.7993373
 2900 Sledden Street, Louisville, KY: null
 2900 Slevin St, Louisville, KY:
   lat: 38.2662444
@@ -23994,6 +24003,9 @@
   lat: 38.1883
   lng: -85.693746
 4200 Breckenridge Ln, Louisville, KY:
+  lat: 38.1872603
+  lng: -85.6266798
+4200 Breckenridge, Louisville, KY:
   lat: 38.1872603
   lng: -85.6266798
 4200 Browns Ln, Louisville, KY:
@@ -31842,6 +31854,9 @@
 ? 6800 Myers Circle. The child, described as a 45-year-old black male wearing a green
   shirt and tan pants, was seen running around the location, Louisville, KY
 : null
+6800 Norway, Louisville, KY:
+  lat: 38.1625263
+  lng: -85.7958662
 ? 6800 Old Dixie Hwy involving a 54-year-old male experiencing chest pain and sweating.
   EMS units responded to provide assistance., Louisville, KY
 : null
