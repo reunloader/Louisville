@@ -3632,6 +3632,9 @@
   a bleeding issue related, Louisville, KY
 : lat: 38.253828
   lng: -85.7314324
+1100 East Washington, Louisville, KY:
+  lat: 38.255996
+  lng: -85.73054
 1100 Eastern Parkway at Swiss DMS, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
@@ -9059,6 +9062,7 @@
 1700 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
+1700 Patton Ct, building 41, Louisville, KY: null
 ? 1700 Patton Ct, specifically in building 45. The report mentioned a 17-year-old
   male wearing specific clothing. Further details on the circumstances or any injuries
   were not immediately available., Louisville, KY
@@ -11855,6 +11859,7 @@
   lng: -85.587592
 200 South I-200 near mile marker 29, Louisville, KY: null
 200 South I-200, Louisville, KY: null
+200 South Jackson and South Preston, Louisville, KY: null
 200 South KY near Shelbyville Rd, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -34872,6 +34877,7 @@
 800 East Market, Louisville, KY:
   lat: 38.2529944
   lng: -85.7379033
+800 East Market, second floor, Louisville, KY: null
 800 East Market. The situation was assessed by officers, Louisville, KY:
   lat: 38.2529944
   lng: -85.7379033
