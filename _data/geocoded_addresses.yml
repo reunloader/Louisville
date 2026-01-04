@@ -19919,6 +19919,9 @@
 3400 Southern Ave**, Louisville, KY:
   lat: 38.232357
   lng: -85.812605
+3400 Southmeade Cir, Louisville, KY:
+  lat: 38.154532
+  lng: -85.821871
 3400 Stony Spring Cir, Louisville, KY:
   lat: 38.2001212
   lng: -85.6041337
@@ -31116,6 +31119,9 @@
 6500 Bella Woods Dr near Dover Rd, Louisville, KY:
   lat: 38.1842595
   lng: -85.8425262
+6500 Beth Rd, Louisville, KY:
+  lat: 38.1233159
+  lng: -85.6607974
 6500 Bethany Ln, Sun Valley Park, Louisville, KY: null
 6500 Birchline Blvd, Louisville, KY:
   lat: 38.1533029
@@ -37570,6 +37576,7 @@
 9200 Greyling Dr, Louisville, KY:
   lat: 38.115048
   lng: -85.8015183
+9200 Heatherville Boulevard, Louisville, KY: null
 9200 Hi View Ln, Louisville, KY: null
 9200 Independence School Rd, Louisville, KY:
   lat: 38.1012378
