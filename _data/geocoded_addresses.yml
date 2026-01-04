@@ -138,6 +138,7 @@
 08 Gabriel Dr, Louisville, KY:
   lat: 38.1565043
   lng: -85.8545813
+08 Hanzas Drive, Louisville, KY: null
 08 Heel Side Drive, Louisville, KY: null
 08 Whirl Avenue, Louisville, KY: null
 09 Freeport Dr, Louisville, KY:
@@ -29398,6 +29399,9 @@
   the rear of a residence, close, Louisville, KY
 : lat: 38.262923
   lng: -85.708053
+600 Ehrler Dr, Louisville, KY:
+  lat: 38.2125676
+  lng: -85.7153246
 600 Evans St, Catherine, Crop St South 5th Street, Louisville, KY: null
 600 Evans St, Louisville, KY:
   lat: 38.2298984
@@ -31939,6 +31943,9 @@
 6900 Rutledge Rd, near Woodendale,, Louisville, KY:
   lat: 38.1520188
   lng: -85.8779635
+6900 Southside Dr near Kinnick Court, Louisville, KY:
+  lat: 38.157992
+  lng: -85.764776
 6900 Southside Dr, Louisville, KY:
   lat: 38.157992
   lng: -85.764776
@@ -39220,6 +39227,7 @@ Regal Dr and Riata Dr, Louisville, KY: null
 Regal Rd and Grand Lakes Dr, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
+Retreat Rd and Norene Ln, Louisville, KY: null
 Reutlinger Ave and Swan St, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ripple Creek Dr and Blue Lick Rd, Louisville, KY: null
