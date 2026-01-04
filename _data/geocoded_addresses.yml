@@ -1758,6 +1758,8 @@
 100 outer loop behind Gray Cliff near Newcote Road and Candleworth Dr, Louisville, KY: null
 100 pounds, Louisville, KY: null
 100 radio, Louisville, KY: null
+100 record and 65 south at the 128, Louisville, KY: null
+100 record, and officers secured the scene at the southbound highway segment, Louisville, KY: null
 100 the 2000 block of Toyota Corolla, Louisville, KY: null
 100 the 2900 block of Dr, Louisville, KY: null
 100 the area linked, Louisville, KY: null
@@ -10574,6 +10576,7 @@
 200 Baker and 100 block of Baker, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
+200 Baker and 200 block of Adam, Louisville, KY: null
 200 Baker and W Kentucky St, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker area, 26th Street, Louisville, KY: null
@@ -21258,6 +21261,9 @@
 3800 Outer Loop, Louisville, KY:
   lat: 38.1369235
   lng: -85.6921906
+3800 Parker Ave, Louisville, KY:
+  lat: 38.2691566
+  lng: -85.8111584
 3800 Parkway, Louisville, KY:
   lat: 38.1926473
   lng: -85.6055637
@@ -34836,6 +34842,9 @@
   lat: 38.244586
   lng: -85.739364
 800 Brookline Ave, Louisville, KY: null
+800 Camden Ave near Pete Tree, Louisville, KY:
+  lat: 38.192851
+  lng: -85.772801
 800 Camden Ave, Louisville, KY:
   lat: 38.192851
   lng: -85.772801
