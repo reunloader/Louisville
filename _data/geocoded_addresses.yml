@@ -1637,6 +1637,9 @@
 : lat: 38.2575113
   lng: -85.7629961
 100 West Weather Spoon, Louisville, KY: null
+100 West Woodlawn, Louisville, KY:
+  lat: 38.18123
+  lng: -85.763904
 100 West, at Langland Pl, Louisville, KY: null
 ? 100 West, near Langland Pl. The fire was reported to be small and was extinguished
   by Engine 187. All units were cleared of service shortly after., Louisville, KY
@@ -8038,6 +8041,7 @@
 1500 Ward Ave, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
+1500 Webster St, Catherine, close, Louisville, KY: null
 1500 West Brick and Ridge Street near 16th and 15th, Louisville, KY: null
 1500 West Broadway at Masterphone, Louisville, KY:
   lat: 38.248188
@@ -14490,6 +14494,7 @@
 2300 Dixdale Avenue due, Louisville, KY: null
 2300 Dixville Avenue, Louisville, KY: null
 2300 Douglass Blvd in Crest Creek of Carolina Ave area, Louisville, KY: null
+2300 Douglass Blvd, Crop St of Carolina Ave in LRV, Louisville, KY: null
 2300 Douglass Blvd, Louisville, KY:
   lat: 38.22967
   lng: -85.684806
@@ -23781,6 +23786,7 @@
   lat: 38.2113439
   lng: -85.8357309
 4100 Reservoir Ave in Belmar, Louisville, KY: null
+4100 Reservoir Ave, Crop St of Indiana Ave in Belmar, Louisville, KY: null
 4100 Riedley Ct, Louisville, KY:
   lat: 38.20242
   lng: -85.828712
@@ -28060,6 +28066,7 @@
   lat: 38.155325
   lng: -85.663816
 5300 Crescent Highway, Louisville, KY: null
+5300 Devers Ave, Crop St of Gaines in Southland, Louisville, KY: null
 5300 Devers Ave, Louisville, KY:
   lat: 38.171182
   lng: -85.77444
@@ -34193,6 +34200,7 @@
 7500 Nottoway Cir, Louisville, KY:
   lat: 38.1600021
   lng: -85.8075365
+7500 Outer Loop, Sunbrook, Louisville, KY: null
 7500 Patrick Henry Rd, Louisville, KY:
   lat: 38.1392009
   lng: -85.7562006
