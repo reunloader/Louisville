@@ -11326,6 +11326,9 @@
 200 I 64 East, Louisville, KY: null
 200 I-200 Westbound, Louisville, KY: null
 200 I-200 at the 12, Louisville, KY: null
+200 I-200 near Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 200 I-200, Louisville, KY: null
 200 I-64, Louisville, KY:
   lat: 38.2781537
@@ -23289,6 +23292,7 @@
 4000 Norbourne Blvd. This incident was noted as potentially connected, Louisville, KY:
   lat: 38.2425193
   lng: -85.6544619
+4000 Oak Henry, Louisville, KY: null
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
