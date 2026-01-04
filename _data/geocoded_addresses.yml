@@ -19486,6 +19486,7 @@
 3300 Bridwell Dr, Louisville, KY:
   lat: 38.179909
   lng: -85.859554
+3300 Brownsboro Vista, Louisville, KY: null
 3300 Buckland Trace, Louisville, KY:
   lat: 38.2389408
   lng: -85.4484445
@@ -24799,6 +24800,9 @@
 4400 Estate Dr, Louisville, KY:
   lat: 38.1791542
   lng: -85.8055872
+4400 Exley Ct, Louisville, KY:
+  lat: 38.2410207
+  lng: -85.8268711
 4400 Fartistown Road, Louisville, KY: null
 4400 Green Pine Dr, Louisville, KY:
   lat: 38.221631
@@ -26792,6 +26796,9 @@
   lat: 38.2560044
   lng: -85.7342723
 500 Grand Vista Pl, Louisville, KY: null
+500 Green Vista, Louisville, KY:
+  lat: 38.2891408
+  lng: -85.5422616
 500 Hale Ave, Louisville, KY:
   lat: 38.2399073
   lng: -85.80531
@@ -36414,6 +36421,9 @@
 8800 Cane Run Rd, Louisville, KY:
   lat: 38.1278574
   lng: -85.898335
+8800 DC Highway near Republic Bank, Louisville, KY:
+  lat: 38.2197004
+  lng: -85.6307937
 8800 Dixie Hwy at Kellerville Truck, Louisville, KY:
   lat: 38.125443
   lng: -85.8527303
