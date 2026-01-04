@@ -759,6 +759,7 @@
 100 Indian Legends Dr. Responding units were assigned, Louisville, KY:
   lat: 38.294999
   lng: -85.5519612
+100 Irondale Ct near Spitfire Lake Pass, Louisville, KY: null
 100 Jensenpole Street, Louisville, KY: null
 100 Judy Ave, Louisville, KY: null
 100 Judy Ave. The driver was found, Louisville, KY:
@@ -3692,6 +3693,7 @@
 1100 Everett Ave, Louisville, KY:
   lat: 38.239542
   lng: -85.717603
+1100 Fairdale Rd (Valero), Louisville, KY: null
 1100 Ford, Judge Blvd, Louisville, KY: null
 1100 Fretling Row, Louisville, KY: null
 1100 Gagel, Louisville, KY:
@@ -6635,6 +6637,7 @@
 1400 Adam Victor Ocean Charlie Adam Ridge Drive, Louisville, KY: null
 1400 Aiken Ridge Dr, Louisville, KY: null
 1400 Alliant Ave, Louisville, KY: null
+1400 Anchorage Hills Dr, Louisville, KY: null
 1400 Anna Ln where a male had left a motorcycle in his driveway. The motorcycle was noted, Louisville, KY: null
 1400 Anna Ln, Louisville, KY:
   lat: 38.1810181
@@ -11365,6 +11368,9 @@
   lat: 38.170287
   lng: -85.764869
 200 Kaiser Street and Kaiser Ct, Louisville, KY: null
+200 Kenoak Dr, Louisville, KY:
+  lat: 38.1635392
+  lng: -85.7717334
 200 Kentucky280-735, Louisville, KY: null
 200 La Normandy Dr, Louisville, KY: null
 200 LaFontaine Drive, Louisville, KY: null
@@ -14066,6 +14072,7 @@
 ? 2200 Holiday Manor Center. The alarm was specifically reported at the warehouse
   main door. Fire units were dispatched, Louisville, KY
 : null
+2200 Holiday Manor, Louisville, KY: null
 2200 Holley, Louisville, KY: null
 2200 Lambert, Louisville, KY:
   lat: 38.1362257
@@ -30378,6 +30385,12 @@
 6000 Action Ave. A female was reported, Louisville, KY:
   lat: 38.193669
   lng: -85.64707
+6000 Apex Dr near Joyce and Cecilia Way, Louisville, KY:
+  lat: 38.1350699
+  lng: -85.6502488
+6000 Apex Dr, Louisville, KY:
+  lat: 38.1350699
+  lng: -85.6502488
 6000 Applegate Ln, Louisville, KY:
   lat: 38.1340461
   lng: -85.6507118
