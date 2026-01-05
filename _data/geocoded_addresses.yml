@@ -125,6 +125,9 @@
 06 Falcon Crest Dr, Louisville, KY:
   lat: 38.1183325
   lng: -85.6929215
+06 Pinecroft Dr, Louisville, KY:
+  lat: 38.1334226
+  lng: -85.6929061
 06 Ray Ave, Louisville, KY:
   lat: 38.2404557
   lng: -85.7093132
@@ -22602,6 +22605,7 @@
 400 East Broadway, near the CBS store, due, Louisville, KY:
   lat: 38.2449978
   lng: -85.7474066
+400 East Chescott near the dental school, Louisville, KY: null
 400 East Chestnut near outpatient care, Louisville, KY:
   lat: 38.247693
   lng: -85.747052
@@ -33641,6 +33645,7 @@
   lng: -85.7404959
 700 South Crescent Street, Louisville, KY: null
 700 South Creston, Louisville, KY: null
+700 South Eastern Parkway, Louisville, KY: null
 700 South Grove Street, Louisville, KY: null
 700 South Hancock, Apartment C23, Louisville, KY: null
 ? 700 South Hancock, Apartment C23. A young man reported being shot by his brother.
