@@ -2670,6 +2670,9 @@
 1000 Seatonville Rd, Louisville, KY:
   lat: 38.1431383
   lng: -85.5614901
+1000 Seelbach Ave, Louisville, KY:
+  lat: 38.1886505
+  lng: -85.7760713
 1000 Shining Willow Dr, Louisville, KY:
   lat: 38.2886807
   lng: -85.5661889
@@ -15097,6 +15100,7 @@
   lng: -85.7900907
 2300 West Calvert, Louisville, KY: null
 2300 West Elkhorn Street, Louisville, KY: null
+2300 West End, Louisville, KY: null
 2300 West Galbert Street, Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
 2300 West Gobert Avenue, Louisville, KY: null
@@ -15203,6 +15207,7 @@
   lat: 38.223758
   lng: -85.689073
 2400 Bardstown Rd, Northern Media Care Center, Louisville, KY: null
+2400 Barksland Rd, Louisville, KY: null
 2400 Blankenbaker Pky PARKWAY, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -24219,6 +24224,7 @@
 4100 Naomi Dr, Louisville, KY:
   lat: 38.1641852
   lng: -85.6855562
+4100 Norris Town Rd, Louisville, KY: null
 4100 Oak Branch Rd, Louisville, KY:
   lat: 38.2484647
   lng: -85.4903097
@@ -35109,6 +35115,9 @@
   lat: 38.2834873
   lng: -85.6157151
 7700 National Time Flight near Patrick Henry Rd and Yorktel Road, Louisville, KY: null
+7700 Niemann Dr near Wingfield Rd, Louisville, KY:
+  lat: 38.140453
+  lng: -85.568559
 7700 Norwood Dr, Louisville, KY: null
 7700 Outer Loop, Louisville, KY:
   lat: 38.1370967
