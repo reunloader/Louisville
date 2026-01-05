@@ -3419,6 +3419,13 @@
 10700 Westport Rd, at the Aloft Hotel, Louisville, KY:
   lat: 38.296198
   lng: -85.553131
+108 [unspecified], Louisville, KY:
+  lat: 38.1832587
+  lng: -85.6268885
+? 108 a street, possibly related to suspicious activity or a disturbance. EMS was
+  called to assist due to the person's incoherence. The individual received medical
+  attention and was taken into custody, Louisville, KY
+: null
 10800 Bardstown Woods Blvd, Louisville, KY:
   lat: 38.1117062
   lng: -85.5766418
@@ -10595,6 +10602,9 @@
 200 Abraham Flexner Way. Multiple fire trucks arrived, Louisville, KY:
   lat: 38.2503299
   lng: -85.7502142
+? 200 Adam and 100 block of David, completed their investigations and cleared from
+  the scene. All incidents were resolved or determined, Louisville, KY
+: null
 200 Adam and 200 block of Baker, Louisville, KY: null
 ? 200 Adam and 200 block of Charlie following a report of a fight involving several
   juveniles. It was indicated that one of the juveniles may have brandished a weapon
