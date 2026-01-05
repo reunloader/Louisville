@@ -11090,6 +11090,7 @@
 200 East Jacob Street, Louisville, KY:
   lat: 38.244097
   lng: -85.75177
+200 East Jusland, Louisville, KY: null
 200 East Kentucky Tag Tom0 Zebra 229, Louisville, KY: null
 200 East Kentucky apartments, suspected of overdose, Louisville, KY: null
 200 East Kentuckyth, Louisville, KY: null
@@ -15905,6 +15906,9 @@
   lat: 38.263334
   lng: -85.793424
 2600 Duncan St. Paramedics assessed the patient at the scene., Louisville, KY:
+  lat: 38.263334
+  lng: -85.793424
+2600 Duncan, Louisville, KY:
   lat: 38.263334
   lng: -85.793424
 2600 East, Louisville, KY:
@@ -25489,6 +25493,9 @@
   lat: 38.1836507
   lng: -85.7219049
 4500 Quintus Court, Louisville, KY: null
+4500 River Front Dr, Louisville, KY:
+  lat: 38.208532
+  lng: -85.862175
 4500 River Rd, Louisville, KY:
   lat: 38.2995204
   lng: -85.6655884
@@ -29810,6 +29817,7 @@
 600 East Ormsby, Louisville, KY:
   lat: 38.2304159
   lng: -85.7452941
+600 East Ramp, Louisville, KY: null
 600 East W Brandeis Ave in response, Louisville, KY: null
 600 East W Chestnut St and South Crescent Street, Louisville, KY: null
 600 East W Chestnut St in Dallas, Louisville, KY: null
@@ -33271,6 +33279,9 @@
   lat: 38.243928
   lng: -85.757184
 700 South 3rd Street near York and Broadway, Louisville, KY:
+  lat: 38.243928
+  lng: -85.757184
+700 South 3rd Street, Louisville, KY:
   lat: 38.243928
   lng: -85.757184
 700 South 42nd Street, Louisville, KY:
