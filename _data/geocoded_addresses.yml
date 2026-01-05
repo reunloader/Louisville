@@ -7509,6 +7509,7 @@
 14300 W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+1435 an unspecified street, Louisville, KY: null
 14400 Adkins Rd, Louisville, KY:
   lat: 38.1237646
   lng: -85.6631004
@@ -26308,6 +26309,9 @@
   lat: 38.1897402
   lng: -85.6935185
 4700 Rockford Plaza, Louisville, KY: null
+4700 Rome Rd near Kiefer Rd and Luckert Ave, Louisville, KY:
+  lat: 38.1722705
+  lng: -85.8161289
 4700 Rome Rd, Louisville, KY:
   lat: 38.1722705
   lng: -85.8161289
@@ -28761,6 +28765,9 @@
 5300 West Ave, Louisville, KY:
   lat: 38.1089403
   lng: -85.8525494
+5300 Westhall Ave near Wilderness Rd and Alpine Way, Louisville, KY:
+  lat: 38.1586771
+  lng: -85.7773152
 5300 Westhall Ave, Louisville, KY:
   lat: 38.1586771
   lng: -85.7773152
@@ -31434,6 +31441,7 @@
 6300 Hunters Grove, Louisville, KY:
   lat: 38.161341
   lng: -85.84161
+6300 K Road near Crossico Avenue and Noah Dr, Louisville, KY: null
 6300 Labor Ln, Louisville, KY:
   lat: 38.155272
   lng: -85.607968
@@ -37261,6 +37269,12 @@
   lat: 38.206738
   lng: -85.773152
 900 Call, Louisville, KY: null
+900 Camden Ave near Warren Ave and Cliff Ave, Louisville, KY:
+  lat: 38.1926656
+  lng: -85.77496
+900 Camden Ave, Louisville, KY:
+  lat: 38.1926656
+  lng: -85.77496
 900 Cecil Ave and other locations, Louisville, KY: null
 900 Charles St at the intersection with River Creek Street and Boyle St, Louisville, KY:
   lat: 38.2315713
@@ -39532,6 +39546,7 @@ Cross Hill Rd and Morgan Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
 Crosshore Harsey Avenue and Harold Ave, Louisville, KY: null
+Crossico Avenue and Noah Dr, Louisville, KY: null
 Crossing Campobello St and Carroll Ave, Louisville, KY: null
 Crossleaf Avenue and Willow Ave, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
@@ -39798,6 +39813,7 @@ Kenton St and Columbia St, Louisville, KY: null
 Kentucky St and Logan St, Louisville, KY: null
 Kenwood Dr and Lyman Ave, Louisville, KY: null
 Keyline Road and Terry Rd, Louisville, KY: null
+Kiefer Rd and Luckert Ave, Louisville, KY: null
 King Run Road and Camp Ground Rd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
 Kingston Ave and Country Club Rd, Louisville, KY: null
@@ -40382,6 +40398,7 @@ Walter Ave and Lonsdale Ave, Louisville, KY: null
 Walter Ave and Rosedale Ave, Louisville, KY: null
 Warranty Drive and Forest Dr, Louisville, KY: null
 Warren Ave and Carlisle Ave, Louisville, KY: null
+Warren Ave and Cliff Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
 Wattbourne Ln and Griffiths Ave, Louisville, KY: null
