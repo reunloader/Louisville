@@ -10913,6 +10913,9 @@
 200 E W Adair St near Allmond Ave and South Grove St, Louisville, KY:
   lat: 38.1904117
   lng: -85.7619737
+200 E W Adair St, Louisville, KY:
+  lat: 38.1904117
+  lng: -85.7619737
 ? 200 E W Adair St, also near Allmond Ave and South Grove St. This involved another
   woman who was attacked, fell over a railing, and hit a gas meter, resulting in a
   gas smell in the area. Battalion 3 units responded, Louisville, KY
@@ -12148,6 +12151,9 @@
 ? 200 St. Xavier, with a tag matching the BOLO "Sam 4, Victor 140." Law enforcement
   officers were actively checking, Louisville, KY
 : null
+200 Starlet Ct, Louisville, KY:
+  lat: 38.107973
+  lng: -85.7636153
 200 Starlite Ct, Louisville, KY:
   lat: 38.2388753
   lng: -85.6662901
@@ -25672,6 +25678,9 @@
 4600 Fagan Bush Lane, Louisville, KY: null
 4600 Fagan Bush Lane, near Belrad Dr and Norbrook Dr. EMS was dispatched, Louisville, KY: null
 4600 Federal Boulevard, Louisville, KY: null
+4600 Frel Rd, Louisville, KY:
+  lat: 38.1170869
+  lng: -85.8487375
 4600 Glenbrook, Louisville, KY:
   lat: 38.1911382
   lng: -85.8730729
@@ -29356,6 +29365,7 @@
 5900 Mount Pleasant Drive, Louisville, KY: null
 5900 New Cut Rd (Circle K), Louisville, KY: null
 5900 New Pet Road, Louisville, KY: null
+5900 O Cedar Ct, Louisville, KY: null
 5900 Old Cedar Ct, Louisville, KY:
   lat: 38.330207
   lng: -85.554524
@@ -29827,6 +29837,9 @@
 600 I-65 South, Louisville, KY: null
 600 Inverness Ave across Grand Ave, South Beach Street, Louisville, KY: null
 600 Inverness Ave, Louisville, KY:
+  lat: 38.1673893
+  lng: -85.7740338
+600 Inverness, Louisville, KY:
   lat: 38.1673893
   lng: -85.7740338
 600 John Adams Way, Louisville, KY:
@@ -34642,6 +34655,9 @@
 7700 Bardstown Rd, Louisville, KY:
   lat: 38.1354405
   lng: -85.5803445
+7700 Bramble Ln, Louisville, KY:
+  lat: 38.142324
+  lng: -85.8544104
 7700 Brewer Dr, No, Louisville, KY: null
 7700 Brickview, Louisville, KY: null
 7700 Brookfusier off Apartment5, Crossroad St, Louisville, KY: null
@@ -37670,6 +37686,7 @@
 900 an unspecified street. A BOLO had been issued, Louisville, KY: null
 900 and900 block of blocks of W, Louisville, KY: null
 900 at5-9-1-1, Louisville, KY: null
+900 backstrap mail, Louisville, KY: null
 ? 900 block of French Ave) (around 8:46 a.m. a.m. a.m.):** A medical emergency was
   reported at the 900 block of block of French Ave. Units were dispatched, Louisville,
   KY
