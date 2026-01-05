@@ -4847,6 +4847,9 @@
 1200 Dixie Hwy, Louisville, KY:
   lat: 38.236285
   lng: -85.787342
+1200 Dixie, Louisville, KY:
+  lat: 38.236285
+  lng: -85.787342
 1200 Dresden near Airport High School, Louisville, KY:
   lat: 38.1968179
   lng: -85.7810437
@@ -10675,6 +10678,9 @@
   lat: 38.2505653
   lng: -85.722615
 200 3rd Division area, Louisville, KY: null
+200 3rd Street, Louisville, KY:
+  lat: 38.254936
+  lng: -85.755245
 200 Abraham Flecks Northway at UofL Health ER, Louisville, KY:
   lat: 38.2496463
   lng: -85.7514083
@@ -10754,6 +10760,7 @@
 200 Bank St. Units responded, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
+200 Banks, Louisville, KY: null
 200 Bardstown Rd near Taylor's Road, Louisville, KY:
   lat: 38.2385615
   lng: -85.7212522
