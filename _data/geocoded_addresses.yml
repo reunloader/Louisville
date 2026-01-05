@@ -5303,6 +5303,9 @@
 1200 South Third Street near West Ornsby and West Oak, Louisville, KY: null
 1200 South Third Street, Louisville, KY: null
 1200 South15-3, Louisville, KY: null
+1200 South15th at Brady, Louisville, KY:
+  lat: 38.236534
+  lng: -85.778489
 1200 South1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
@@ -13142,6 +13145,7 @@
 2000 Highland Ave, Louisville, KY:
   lat: 38.240267
   lng: -85.724083
+2000 Honda Accord, Louisville, KY: null
 2000 Honda Accord, un-send area, Louisville, KY: null
 2000 Honda Civic, was checked and found, Louisville, KY: null
 2000 Honda HRV, Louisville, KY: null
@@ -13893,6 +13897,9 @@
 2100 South 9th Street. Crews arrived, Louisville, KY:
   lat: 38.216849
   lng: -85.772477
+2100 South Park Rd, Louisville, KY:
+  lat: 38.1167651
+  lng: -85.7269385
 2100 South Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
@@ -20243,6 +20250,9 @@
 35 Hill Rd, Louisville, KY:
   lat: 38.2298162
   lng: -85.7173581
+35 Hillpark Dr, Louisville, KY:
+  lat: 38.0962967
+  lng: -85.6948507
 35 South Baylor Avenue, Louisville, KY: null
 35 West Bank Road, Louisville, KY: null
 350 [Street Name Missing], Louisville, KY: null
@@ -20434,6 +20444,9 @@
 3500 Newburg Rd., Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+3500 Norlynn Dr, Louisville, KY:
+  lat: 38.145006
+  lng: -85.6314698
 3500 North 35th Street, Louisville, KY:
   lat: 38.2735722
   lng: -85.804438
@@ -38360,6 +38373,7 @@
 9500 Baxter Ave, Louisville, KY:
   lat: 38.2469712
   lng: -85.7295363
+9500 Blue Lake, Louisville, KY: null
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
   lng: -85.4388263
