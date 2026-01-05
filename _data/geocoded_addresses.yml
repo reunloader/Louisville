@@ -1406,6 +1406,9 @@
 100 South5th Street near West Main and W Market St, Louisville, KY:
   lat: 38.256688
   lng: -85.758304
+100 Southgate Ave, Louisville, KY:
+  lat: 38.2008013
+  lng: -85.7853295
 100 Southview Square, Louisville, KY:
   lat: 38.152344
   lng: -85.7674185
@@ -9214,6 +9217,9 @@
 : null
 1700 Patton, Building 55, Louisville, KY: null
 1700 Patton, South 13th Street, Louisville, KY: null
+1700 Payne, Louisville, KY:
+  lat: 38.2521883
+  lng: -85.7169129
 1700 Pear Ln, Louisville, KY:
   lat: 38.1925635
   lng: -85.6192137
@@ -27531,6 +27537,9 @@
 500 W Market St, Louisville, KY:
   lat: 38.2552875
   lng: -85.7588431
+500 W Oak St, Louisville, KY:
+  lat: 38.2350131
+  lng: -85.762185
 500 W Ormsby Ave, Louisville, KY:
   lat: 38.2327682
   lng: -85.7626288
