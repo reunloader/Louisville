@@ -956,6 +956,7 @@
   difficulties, with EMS expected, Louisville, KY
 : lat: 38.2624675
   lng: -85.808437
+100 North 36th Street in a green Dodge Ram, Louisville, KY: null
 100 North 37th Street, division 1-B, Louisville, KY: null
 100 North 38th Street near Slevin St, Louisville, KY:
   lat: 38.2634695
@@ -4211,6 +4212,7 @@
 1100 West Broadway, near South 11th Street,, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
+1100 West Chesa, Louisville, KY: null
 1100 West Hawley, Louisville, KY: null
 1100 West Hawley. Officers were on duty and available, Louisville, KY: null
 1100 West Indian Trail near Breslin Highway and Marigold Ave, Louisville, KY:
@@ -4986,6 +4988,9 @@
 1200 Goff Ln, Louisville, KY:
   lat: 38.0775176
   lng: -85.7878967
+1200 Goss Ave near Brewster Ave and Texas Ave, Louisville, KY:
+  lat: 38.2256132
+  lng: -85.7333897
 1200 Goss Ave, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
@@ -5522,6 +5527,9 @@
 1200 West Kentucky. Police units were actively searching, Louisville, KY:
   lat: 38.2272814
   lng: -85.7757137
+1200 West at Newberg and 200 block of West at Newberg, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 ? 1200 Westhill Cir for a 67-year-old male experiencing significant shortness of breath
   and dizziness. Emergency medical services were observed in the vicinity of Furman
   and Taylorsville Rd, responding to provide assistance to the individual., Louisville,
@@ -29273,6 +29281,7 @@
 ? 5600 Merriman Rd, involving a dark gray SUV. Fortunately, no injuries were reported
   as a result of this incident. Police units responded, Louisville, KY
 : null
+5600 New Cap Rd, Louisville, KY: null
 5600 New Cut Rd, Louisville, KY:
   lat: 38.142499
   lng: -85.774598
