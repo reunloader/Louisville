@@ -6537,6 +6537,9 @@
 13400 Kinross Blvd. The individual was reportedly beginning, Louisville, KY:
   lat: 38.0633409
   lng: -85.889869
+13400 Old Henry Rd, Louisville, KY:
+  lat: 38.2665178
+  lng: -85.5039868
 13400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -10907,6 +10910,13 @@
 200 E Main St, Louisville, KY:
   lat: 38.2553291
   lng: -85.7495916
+200 E W Adair St near Allmond Ave and South Grove St, Louisville, KY:
+  lat: 38.1904117
+  lng: -85.7619737
+? 200 E W Adair St, also near Allmond Ave and South Grove St. This involved another
+  woman who was attacked, fell over a railing, and hit a gas meter, resulting in a
+  gas smell in the area. Battalion 3 units responded, Louisville, KY
+: null
 200 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -10952,6 +10962,11 @@
 200 E W Washington St, Louisville, KY:
   lat: 38.257724
   lng: -85.7605474
+200 East Baird St near Allmond Ave and South Grove St, Louisville, KY: null
+? 200 East Baird St, responders arrived after a woman was attacked, fell over a railing,
+  and hit a gas meter. This incident caused a noticeable gas leak, prompting units
+  from Battalion 3 and police, Louisville, KY
+: null
 200 East Broadway behind Dollar General Market, Louisville, KY: null
 200 East Broadway between Crop St and South Floyd and South Brook, Louisville, KY: null
 200 East Broadway following a report of a medical emergency. A male individual was found, Louisville, KY: null
@@ -38399,6 +38414,9 @@
 9600 Hunting Ground Ct, Louisville, KY:
   lat: 38.1183636
   lng: -85.6075096
+9600 Janna Dr, Louisville, KY:
+  lat: 38.1025185
+  lng: -85.8807159
 9600 Kelly's Little Road, Louisville, KY: null
 9600 Lamborne Blvd, Louisville, KY:
   lat: 38.1134765
@@ -38809,6 +38827,7 @@ Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
 Allen Ave and Carolyn Rd, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
+Allmond Ave and South Grove St, Louisville, KY: null
 Alma Ave and Big Mill Avenue, Louisville, KY: null
 Alton Rd and Citation Rd, Louisville, KY: null
 Alumsum Hollow Road and Carter Ln, Louisville, KY: null
