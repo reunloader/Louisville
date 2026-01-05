@@ -4133,6 +4133,9 @@
   lat: 38.238336
   lng: -85.783811
 1100 South17th, trying, Louisville, KY: null
+1100 South26th Street, Louisville, KY:
+  lat: 38.2403792
+  lng: -85.7963793
 1100 South32nd Street, Louisville, KY:
   lat: 38.2413227
   lng: -85.8067247
@@ -16093,6 +16096,9 @@
 2600 Garland, Louisville, KY:
   lat: 38.2442419
   lng: -85.7956355
+2600 Grand Ave, Louisville, KY:
+  lat: 38.240491
+  lng: -85.796684
 2600 Green Alley, Louisville, KY:
   lat: 38.257175
   lng: -85.794197
@@ -19944,6 +19950,7 @@
 3300 Indian Trail, Louisville, KY:
   lat: 38.16864
   lng: -85.698875
+3300 Janell Rd, Louisville, KY: null
 3300 Kathy Dykstra, Louisville, KY: null
 3300 Kirby Ave across Louis Coleman Jr Dr and South 32nd Street, Louisville, KY: null
 3300 Kirby Ave, Louisville, KY:
@@ -25948,6 +25955,7 @@
 4600 Dover Rd, Louisville, KY:
   lat: 38.183401
   lng: -85.840082
+4600 Dover Rd, with 12 rounds fired in the area, Louisville, KY: null
 4600 E Manslick Rd near Spohbaker, Louisville, KY:
   lat: 38.1170528
   lng: -85.6753477
