@@ -2151,6 +2151,9 @@
 1000 East Kentucky, Louisville, KY:
   lat: 38.2522668
   lng: -85.7333901
+1000 East Liberty, Louisville, KY:
+  lat: 38.2496406
+  lng: -85.73423
 1000 East O Street, Louisville, KY: null
 1000 East Oak, Louisville, KY:
   lat: 38.2327741
@@ -33818,6 +33821,9 @@
 7000 Watson Ln, Louisville, KY:
   lat: 38.0580101
   lng: -85.8948015
+7000 West Broadway, Louisville, KY:
+  lat: 38.2493863
+  lng: -85.7932064
 7000 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
