@@ -3552,6 +3552,9 @@
 11 Cherokee Rd, Louisville, KY:
   lat: 38.2424298
   lng: -85.6745465
+11 Doe Run Rd, Louisville, KY:
+  lat: 38.1623849
+  lng: -85.8382955
 11 Logwood Ave, Louisville, KY:
   lat: 38.0804603
   lng: -85.8667825
@@ -6693,6 +6696,9 @@
 13900 South41st Street, Louisville, KY: null
 13900 Subwayville Road, Louisville, KY: null
 13900 Taylor's Hill Rd, Louisville, KY: null
+14 Bishop Ln, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 14 Estate Dr, Louisville, KY:
   lat: 38.1728605
   lng: -85.8052468
@@ -10117,6 +10123,7 @@
 1800 W W W Hill St, Louisville, KY: null
 1800 Walling Street, Louisville, KY: null
 1800 Walling Street, near its intersections with 19th and 18th Streets. Emergency personnel worked, Louisville, KY: null
+1800 Washington Blvd near Crop St and Wilson Ave, Louisville, KY: null
 1800 Webster St, Louisville, KY: null
 1800 Wenatchee Pl, Louisville, KY:
   lat: 38.2263568
@@ -22009,6 +22016,9 @@
 4 Ralph Ave, Louisville, KY:
   lat: 38.2107404
   lng: -85.8323503
+40 Kaufman Ln, Louisville, KY:
+  lat: 38.180849
+  lng: -85.8620818
 40 Naomi Dr, Louisville, KY:
   lat: 38.164391
   lng: -85.6840311
@@ -39245,6 +39255,7 @@ Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
 Brosnan Street and Central Ave, Louisville, KY: null
 Browns Ln and Goldsmith Ln, Louisville, KY: null
+Browns Village Rd and Fallowsville Road, Louisville, KY: null
 Browns World Road and Montclair Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Barbers Ln, Louisville, KY: null
@@ -39401,6 +39412,7 @@ Crop St and Krieger St, Louisville, KY: null
 Crop St and Martha Ave, Louisville, KY: null
 Crop St and Meadow Dr, Louisville, KY: null
 Crop St and Slack Ave, Louisville, KY: null
+Crop St and Wilson Ave, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross Hill Rd and Morgan Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
