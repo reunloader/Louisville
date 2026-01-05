@@ -1891,6 +1891,9 @@
 1000 Berry Blvd at Peachtree Ave and Warren Ave, Louisville, KY:
   lat: 38.1959677
   lng: -85.7771672
+1000 Berry Blvd, Louisville, KY:
+  lat: 38.1959677
+  lng: -85.7771672
 1000 Blue Lick, Louisville, KY:
   lat: 38.1168066
   lng: -85.6894841
@@ -4760,6 +4763,9 @@
   lat: 38.236869
   lng: -85.7184884
 1200 Bardstown Rd. The subjects were described by a witness, and officers were dispatched, Louisville, KY:
+  lat: 38.236869
+  lng: -85.7184884
+1200 Bardstown, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
 1200 Barker, Sunrose, Louisville, KY: null
@@ -12709,6 +12715,9 @@
 200 Westport Rd, heading toward I-64 Eastbound. Paramedics attended to her condition and transported her, Louisville, KY: null
 200 Westport and Old Westport, Louisville, KY: null
 200 Westwood. The scene was addressed promptly, and the situation was stabilized shortly, Louisville, KY: null
+200 Wildwood Ln, Louisville, KY:
+  lat: 38.1192949
+  lng: -85.8128564
 200 William, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
@@ -17699,6 +17708,9 @@
   KY'
 : null
 300 E Main St, Crosby, South Creston, South Floyd, Louisville, KY: null
+300 E W Breckinridge St at Associates and Behavioral Health, Louisville, KY:
+  lat: 38.2418164
+  lng: -85.758428
 300 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
@@ -25279,6 +25291,7 @@
 4400 S Preston St. A caretaker reported that a son had assaulted their boyfriend and was refusing, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
+4400 Savage Dr, Louisville, KY: null
 4400 Shady Villa Dr, Louisville, KY:
   lat: 38.1624901
   lng: -85.679752
@@ -39471,6 +39484,7 @@ Dockby Drive and Wenderspoon Street, Louisville, KY: null
 Dodge Ln and Valley Station Rd, Louisville, KY: null
 Dohn Ave and Veronica Dr, Louisville, KY: null
 Donna Rd and Dover Rd, Louisville, KY: null
+Donna Rd and Dulworth Dr, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
