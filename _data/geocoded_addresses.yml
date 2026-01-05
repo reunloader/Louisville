@@ -8048,6 +8048,7 @@
 1500 South 7th Street, Louisville, KY:
   lat: 38.22668
   lng: -85.769157
+1500 South Conklin Parkway, Louisville, KY: null
 1500 South District Station House Apartments, Louisville, KY: null
 1500 South Gate in response to a flagged vehicle. The vehicle, a black Chevrolet Malibu, was noted, Louisville, KY: null
 1500 South Gate, Louisville, KY: null
@@ -9995,6 +9996,7 @@
 1800 Portland Ave, Louisville, KY:
   lat: 38.2643015
   lng: -85.777583
+1800 Portland Ave, cross 19th and 18th streets, Louisville, KY: null
 1800 Princeton Dr, Louisville, KY:
   lat: 38.2210554
   lng: -85.7031766
@@ -11027,6 +11029,9 @@
 200 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+200 E W Kenton St, Louisville, KY:
+  lat: 38.1981735
+  lng: -85.7650332
 200 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -12956,6 +12961,9 @@
 200 west, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 westbound at Crittenden Dr, Louisville, KY:
+  lat: 38.1922166
+  lng: -85.7555947
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at Tell Boulevard, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
