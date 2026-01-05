@@ -3450,6 +3450,9 @@
 10700 Harrison Ln, Louisville, KY:
   lat: 38.094388
   lng: -85.7379631
+10700 Hidden Creek Ln, Louisville, KY:
+  lat: 38.088369
+  lng: -85.576342
 10700 Imogene Way near Juanita Ln and Marcitis Rd, Louisville, KY: null
 10700 Jefferson Hill Rd, Louisville, KY:
   lat: 38.093751
@@ -12057,6 +12060,7 @@
 : null
 200 Shepherd's Hill, Louisville, KY: null
 200 Sierra Lane, Louisville, KY: null
+200 Silver Chevy Equinox, Louisville, KY: null
 200 Simmons Emergency Shelter, 400 block of S Jackson St, Gretchen South, Louisville, KY: null
 200 Snow Goose Ct, Louisville, KY:
   lat: 38.1135357
@@ -12479,6 +12483,7 @@
   this traffic enforcement action., Louisville, KY
 : null
 200 West and West Hill, Louisville, KY: null
+200 West approaching Taylor Blvd, Louisville, KY: null
 200 West at Bank St, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
