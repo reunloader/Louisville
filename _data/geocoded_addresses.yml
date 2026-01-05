@@ -3313,6 +3313,9 @@
 10500 Seatonville Rd. Responding units arrived to find that the individual responsible, Louisville, KY:
   lat: 38.145184
   lng: -85.566692
+10500 Shadow Ridge Ln, Louisville, KY:
+  lat: 38.3177917
+  lng: -85.5558447
 10500 Sunlight Ln, Louisville, KY:
   lat: 38.1003874
   lng: -85.8411061
@@ -23382,6 +23385,7 @@
   KY
 : null
 400 east direction street, Louisville, KY: null
+400 east jeverson, Louisville, KY: null
 400 or400 block of, Louisville, KY: null
 400 south 2nd, Louisville, KY:
   lat: 38.2521786
@@ -37757,6 +37761,9 @@
   a blue long-sleeve shirt, neon green undershirt, and black pants. The victim was
   located near the scene, and officers secured the area, Louisville, KY
 : null
+900 south42nd, Louisville, KY:
+  lat: 38.2469133
+  lng: -85.8226256
 900 the street, Louisville, KY: null
 900 unspecified location, Louisville, KY: null
 ? 900 where the line was answered and then abruptly disconnected. Responding units
