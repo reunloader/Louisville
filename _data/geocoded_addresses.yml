@@ -2958,6 +2958,7 @@
 1000 Will Way, Louisville, KY:
   lat: 38.1448569
   lng: -85.5859842
+1000 Williamsburg Ct, Louisville, KY: null
 1000 Willway, Crop St, and Caratree Lane, Louisville, KY: null
 1000 Winkler Ave, Louisville, KY:
   lat: 38.2126909
@@ -5382,6 +5383,9 @@
 1200 South3rd Street, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
+1200 South41st Street, Louisville, KY:
+  lat: 38.2397711
+  lng: -85.8209979
 1200 South4th Street near 7th Street, Louisville, KY:
   lat: 38.2325348
   lng: -85.7661517
@@ -17240,6 +17244,9 @@
   secondary fire reported in the 1600 block of Hemlock Ct. Multiple fire units and
   a Battalion Chief were dispatched, Louisville, KY
 : null
+2900 Duncan St, Louisville, KY:
+  lat: 38.2638054
+  lng: -85.7986882
 2900 Eve Dr, Louisville, KY:
   lat: 38.1049006
   lng: -85.8439482
@@ -27441,6 +27448,9 @@
 500 North35th Street, Louisville, KY:
   lat: 38.2691315
   lng: -85.805995
+500 North42nd Street near Miami Ave and Bank St, Louisville, KY:
+  lat: 38.271786
+  lng: -85.814821
 500 North42nd Street, Louisville, KY:
   lat: 38.271786
   lng: -85.814821
@@ -39955,6 +39965,7 @@ Mercer Ave and Belmar Dr, Louisville, KY: null
 Merchant Road and River Rd, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
 Meridian Ave and Breckmarch Lane, Louisville, KY: null
+Miami Ave and Bank St, Louisville, KY: null
 Michael Ray Dr and Rochelle Rd, Louisville, KY: null
 Michael Ray Dr and Valley Pine Dr, Louisville, KY: null
 Mid Dale Ln and Kena Ln, Louisville, KY: null
