@@ -7641,6 +7641,7 @@
 1500 Buechel Bank Rd. The alarm was activated due, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
+1500 Building 3,, Louisville, KY: null
 1500 Carl Ct, Louisville, KY:
   lat: 38.1912497
   lng: -85.8023203
@@ -9410,6 +9411,9 @@
   lat: 38.248647
   lng: -85.780022
 1700 West Creek Way, Louisville, KY: null
+1700 West Hill, Louisville, KY:
+  lat: 38.2277495
+  lng: -85.7849266
 1700 West Kentucky, Louisville, KY:
   lat: 38.241855
   lng: -85.783285
@@ -21251,6 +21255,9 @@
 3700 Union St, Louisville, KY:
   lat: 38.204877
   lng: -85.716394
+3700 Vanguard Dr, Louisville, KY:
+  lat: 38.1090268
+  lng: -85.6964461
 3700 W Magnolia Ave near 38th Street, Louisville, KY:
   lat: 38.2338952
   lng: -85.816972
@@ -39917,6 +39924,7 @@ St Anthony Church Rd and Blanton Ln, Louisville, KY: null
 St Catherine St and Evans St, Louisville, KY: null
 St Michael St and Ellison Ave, Louisville, KY: null
 St Rene Rd and Algonquin Pky, Louisville, KY: null
+St Rene Rd and Berry Blvd, Louisville, KY: null
 St Rene Rd and Chris Lynn Road, Louisville, KY: null
 St Rene Rd and Kentucky Ave, Louisville, KY: null
 St Rene Rd and Lindbergh Dr, Louisville, KY: null
