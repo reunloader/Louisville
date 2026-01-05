@@ -656,6 +656,9 @@
 100 Edgewood Way, Louisville, KY:
   lat: 38.249039
   lng: -85.553567
+100 Edward, Louisville, KY:
+  lat: 38.172881
+  lng: -85.5883185
 100 Egypt Ln, Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
@@ -18578,6 +18581,9 @@
 3000 Hale Ave, Louisville, KY:
   lat: 38.239672
   lng: -85.80358
+3000 Hartlage Ct, Louisville, KY:
+  lat: 38.1986766
+  lng: -85.8324247
 ? 3000 Hathaway Avenue following a report of a patient experiencing bleeding from
   both the nose and mouth. Fire Department Engine 10 was assigned to this incident.
   However, before responders could fully assess the situation, the call was canceled
@@ -36190,6 +36196,7 @@
 8100 Red Cedar Way near Crested Gay Way and Geneva Way, Louisville, KY:
   lat: 38.1332946
   lng: -85.6651641
+8100 Red Seat Way, Louisville, KY: null
 8100 Road Seeker Way, across street from Gayeway Dr, Louisville, KY: null
 8100 Rory Way near Famous Way and Annella Way, Louisville, KY:
   lat: 38.1325876
