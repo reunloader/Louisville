@@ -22288,6 +22288,9 @@
 400 East Broadway, near the CBS store, due, Louisville, KY:
   lat: 38.2449978
   lng: -85.7474066
+400 East Chestnut near outpatient care, Louisville, KY:
+  lat: 38.247693
+  lng: -85.747052
 400 East Emerson Street, Louisville, KY: null
 400 East Ever, Louisville, KY: null
 400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
@@ -32802,6 +32805,7 @@
 700 Kentucky Ave, Louisville, KY:
   lat: 38.1936279
   lng: -85.7712693
+700 Kentucky pasture, Louisville, KY: null
 700 Lakeheath Dr, Louisville, KY:
   lat: 38.1714069
   lng: -85.701805
