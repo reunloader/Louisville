@@ -376,6 +376,7 @@
 100 Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+100 Brock St, Louisville, KY: null
 100 Brookridge Ln, Louisville, KY: null
 100 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1452844
@@ -5227,6 +5228,9 @@
   lng: -85.7418048
 1200 San Jose Ave, Louisville, KY: null
 1200 Shelbyville Rd, Medical Associates, Louisville, KY: null
+1200 Slack Ave, Louisville, KY:
+  lat: 38.1101382
+  lng: -85.689338
 1200 South 1st Street involving a 40-year-old male experiencing chest pain. EMS was present, Louisville, KY: null
 1200 South 1st Street, Louisville, KY:
   lat: 38.2344706
@@ -6391,6 +6395,7 @@
   lat: 38.2182659
   lng: -85.7774103
 1300 South Third Street, Louisville, KY: null
+1300 South15th Street, Amazon Warehouse, Louisville, KY: null
 1300 South15th Street, Louisville, KY:
   lat: 38.230749
   lng: -85.779427
@@ -13328,6 +13333,9 @@
   lng: -85.7394499
 2000 Lyndon Green Cir, Louisville, KY: null
 2000 Lynn St Walk, Louisville, KY: null
+2000 Lytle St, Louisville, KY:
+  lat: 38.26612
+  lng: -85.781407
 2000 Main St, Louisville, KY:
   lat: 38.2531707
   lng: -85.710411
@@ -27426,6 +27434,9 @@
 500 North35th Street, Louisville, KY:
   lat: 38.2691315
   lng: -85.805995
+500 North42nd Street, Louisville, KY:
+  lat: 38.271786
+  lng: -85.814821
 500 Nottingham Pky, Louisville, KY: null
 500 Old Cannon's Lane, Louisville, KY: null
 500 Old Harrods Creek Rd regarding a subject who was knocking on a door. The individual claimed, Louisville, KY: null
@@ -38976,6 +38987,7 @@
 9800 Balloons For A Lane, Louisville, KY: null
 9800 Balloons, Louisville, KY: null
 9800 Blue Caray, Louisville, KY: null
+9800 Blue Lake Drive, Louisville, KY: null
 9800 Blue Lick Rd near Blue Lick Elementary, Louisville, KY:
   lat: 38.1060729
   lng: -85.6928522
