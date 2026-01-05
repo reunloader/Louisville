@@ -256,6 +256,9 @@
 100 Alger Ave. Both police and EMS were en route, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
+100 Algonquin Pky, Louisville, KY:
+  lat: 38.2243763
+  lng: -85.8083806
 100 Alley and Baker, Louisville, KY:
   lat: 38.2404395
   lng: -85.7412705
@@ -1885,6 +1888,9 @@
 : null
 1000 Belltower Ct, Louisville, KY: null
 1000 Berkshaw Road, Louisville, KY: null
+1000 Berry Blvd at Peachtree Ave and Warren Ave, Louisville, KY:
+  lat: 38.1959677
+  lng: -85.7771672
 1000 Blue Lick, Louisville, KY:
   lat: 38.1168066
   lng: -85.6894841
@@ -12928,6 +12934,9 @@
 200 southbound I-64 at New Cudden, Louisville, KY: null
 200 southbound I-64 near New Cut Rd ramp, Louisville, KY: null
 200 southbound at Avila Church, Louisville, KY: null
+200 southbound at Brownsboro, Louisville, KY:
+  lat: 38.3140959
+  lng: -85.5732474
 200 southbound at Gula Church, Louisville, KY: null
 200 southbound at the 11, Louisville, KY: null
 200 southbound at the 24, Louisville, KY: null
@@ -22391,6 +22400,7 @@
 : null
 400 E Jefferson St, between Peachtree Ave and Westwood Ave, Louisville, KY: null
 400 E Jefferson St, described as a black male in a red hat and black clothing, reportedly returned, Louisville, KY: null
+400 E Jefferson St, lobby, Louisville, KY: null
 400 E Jefferson St. Responders were sent, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -29661,6 +29671,9 @@
 600 Auburn Place Ct, Louisville, KY:
   lat: 38.1421654
   lng: -85.778253
+600 B East Broadway, Louisville, KY:
+  lat: 38.2446794
+  lng: -85.7394849
 600 B Street, Louisville, KY: null
 600 Baker and 300 block of, Louisville, KY: null
 600 Baker and Charlie, with references, Louisville, KY: null
@@ -30532,6 +30545,9 @@
 600 South41st Street, Louisville, KY:
   lat: 38.25563
   lng: -85.819148
+600 South42nd Street, Louisville, KY:
+  lat: 38.255932
+  lng: -85.821847
 600 South43rd Street concerning threats that were allegedly made, Louisville, KY: null
 600 South43rd Street, Louisville, KY:
   lat: 38.256075
@@ -39931,6 +39947,7 @@ Payne St and Barret Ave, Louisville, KY: null
 Peach Meadow Dr and Maple Ln, Louisville, KY: null
 Peach St and Cypress St, Louisville, KY: null
 Peach St and Westwood Dr, Louisville, KY: null
+Peachtree Ave and Warren Ave, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
@@ -40266,6 +40283,7 @@ Utah Ave and Montana Ave, Louisville, KY: null
 Valley College Dr and Stone St, Louisville, KY: null
 Valley Station Rd and Grafton Hall Rd, Louisville, KY: null
 Vantage Plaza Dr and Goddard Road, Louisville, KY: null
+Venus Road and Mercury Dr, Louisville, KY: null
 Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
