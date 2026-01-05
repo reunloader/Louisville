@@ -1139,6 +1139,9 @@
   lat: 38.137451
   lng: -85.872971
 100 Parker Street, Louisville, KY: null
+100 Parsons Pl near Lisa Ave and Flying Castle Avenue, Louisville, KY:
+  lat: 38.2322978
+  lng: -85.7031639
 100 Paul Henry George, Louisville, KY: null
 100 Pearl, Louisville, KY: null
 100 Pearl. Responding officers were en route to the location., Louisville, KY: null
@@ -5730,6 +5733,9 @@
   lat: 38.1038739
   lng: -85.8336536
 13 Mellwood Ave, Louisville, KY: null
+13 Narcissus Dr, Louisville, KY:
+  lat: 38.1197851
+  lng: -85.6862836
 13 Oakwood Ave, Louisville, KY:
   lat: 38.1772911
   lng: -85.7802634
@@ -5872,6 +5878,9 @@
 1300 Dixie Hwy Apartment3, Louisville, KY: null
 1300 Dixie Hwy and 1500 block of Dixie Hwy, Louisville, KY: null
 1300 Dixie Hwy near St, Louisville, KY:
+  lat: 38.235232
+  lng: -85.787774
+1300 Dixie Hwy near Wilson and W Ormsby Ave, Louisville, KY:
   lat: 38.235232
   lng: -85.787774
 1300 Dixie Hwy near Wilson and West Wormsby, Louisville, KY:
@@ -14417,6 +14426,7 @@
   lat: 38.2307783
   lng: -85.7935852
 2200 West Holley, Louisville, KY: null
+2200 West Hollywood Boulevard near South 24th and South 22nd, Louisville, KY: null
 2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
   and showing signs of facial drooping. This was classified as a medical Delta call,
@@ -16340,6 +16350,7 @@
   units were dispatched, Louisville, KY
 : lat: 38.2117062
   lng: -85.7715999
+2700 Park Long Drive near Melford Ave and Thruston Ave, Louisville, KY: null
 2700 Pikes Peak Blvd, Louisville, KY:
   lat: 38.1661875
   lng: -85.8083629
@@ -27697,6 +27708,9 @@
   lat: 38.2246434
   lng: -85.776873
 5000 South third, Louisville, KY: null
+5000 South3rd Street near West Kingston and W Amherst Ave, Louisville, KY:
+  lat: 38.174602
+  lng: -85.767556
 5000 South3rd Street, Louisville, KY:
   lat: 38.174602
   lng: -85.767556
@@ -39503,6 +39517,7 @@ Lincoln Ave and Taylor Ave, Louisville, KY: null
 Lincoln Rd and Shelbyville Rd, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Lindsay Ave and University Ave, Louisville, KY: null
+Lisa Ave and Flying Castle Avenue, Louisville, KY: null
 Locust Ave and Canterbury Dr, Louisville, KY: null
 Locust St and Wilkin Street, Louisville, KY: null
 Locust St and Wilson Street, Louisville, KY: null
@@ -39562,6 +39577,7 @@ Mayo Dr and Garvey Dr, Louisville, KY: null
 Mayshan Lane and Starlite Ln, Louisville, KY: null
 Meadow Dr and Terrier Ln, Louisville, KY: null
 Meadow Hill Rd and Pounds Ln, Louisville, KY: null
+Melford Ave and Thruston Ave, Louisville, KY: null
 Mellwood Ave and Frankfort Ave, Louisville, KY:
   lat: 38.2576668
   lng: -85.7191192
