@@ -5869,6 +5869,7 @@
   lat: 38.2111767
   lng: -85.6563578
 1300 Dimm Drive, Louisville, KY: null
+1300 Dixie Hwy Apartment3, Louisville, KY: null
 1300 Dixie Hwy and 1500 block of Dixie Hwy, Louisville, KY: null
 1300 Dixie Hwy near St, Louisville, KY:
   lat: 38.235232
@@ -6360,6 +6361,9 @@
 1300 St. St Anthony Gardens Dr, specifically on the third floor of the building. They responded, Louisville, KY:
   lat: 38.2402937
   lng: -85.7309237
+1300 Story Ave near Whirling Tiger, Louisville, KY:
+  lat: 38.2558684
+  lng: -85.7275818
 1300 Tafloid Street, Louisville, KY: null
 1300 Talbot Street, Louisville, KY: null
 1300 Thornberry Ave, Louisville, KY:
@@ -26299,6 +26303,9 @@
 4800 Roxann Blvd, Louisville, KY:
   lat: 38.1794144
   lng: -85.6279999
+4800 Saddlebrook Ln near Saddlebrook Ct in Rockford Ln, Louisville, KY:
+  lat: 38.1789913
+  lng: -85.8498486
 4800 Saddlebrook Ln, Louisville, KY:
   lat: 38.1789913
   lng: -85.8498486
@@ -35644,6 +35651,9 @@
 800 W Evelyn Ave, Louisville, KY:
   lat: 38.196586
   lng: -85.772824
+800 W Jefferson St near Tom Places, Louisville, KY:
+  lat: 38.2542456
+  lng: -85.7643692
 800 W Main St, Louisville, KY:
   lat: 38.2568585
   lng: -85.7637124
