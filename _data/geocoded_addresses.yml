@@ -17562,6 +17562,7 @@
 2900 Windsor Park, Louisville, KY:
   lat: 38.1176714
   lng: -85.8076781
+2900 location, Louisville, KY: null
 2945 Breckenridge Lane, Louisville, KY:
   lat: 38.221172
   lng: -85.6309322
@@ -18448,6 +18449,9 @@
 300 Vendetta Way, Louisville, KY:
   lat: 38.2848035
   lng: -85.5016557
+300 Vernon Ave, Louisville, KY:
+  lat: 38.2570559
+  lng: -85.7070097
 300 Victor King William, Louisville, KY: null
 300 Victor King William. No injuries or contact were reported in connection with this incident., Louisville, KY: null
 300 W Brandeis Ave, Louisville, KY:
@@ -18629,6 +18633,7 @@
 300 pounds, Louisville, KY: null
 300 scene, Louisville, KY: null
 300 the South on-ramp, Louisville, KY: null
+300 the area, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
 3000 Aron Rd, Louisville, KY:
@@ -20604,6 +20609,7 @@
 3500 Dutchman's Lane. Responding units were dispatched to investigate the cause of the activation., Louisville, KY: null
 3500 Dutchman's Lane. Responding units were dispatched, Louisville, KY: null
 3500 Dutchmans Ln, Seneca Place, Louisville, KY: null
+3500 East Robson St, Louisville, KY: null
 3500 Endeavor Way, Louisville, KY:
   lat: 38.12986
   lng: -85.698034
@@ -39441,6 +39447,9 @@
   lat: 38.2886807
   lng: -85.5661889
 9900 Taylor's Hill Rd, Louisville, KY: null
+9900 VISTA Way, Louisville, KY:
+  lat: 38.1644894
+  lng: -85.5720491
 9900 VUK Drive, Louisville, KY: null
 9900 Waterson Trail near Walnut Wood and Locust, Louisville, KY: null
 9900 West Ave, Louisville, KY: null
