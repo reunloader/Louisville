@@ -1116,6 +1116,9 @@
 100 Northington Ln, Louisville, KY:
   lat: 38.321213
   lng: -85.5521743
+100 Northwestern Pky, Louisville, KY:
+  lat: 38.2664537
+  lng: -85.8255236
 ? 100 Norwood Dr following a request from a concerned third party. The caller reported
   that a service person was allegedly being unkind to a family at the residence. No
   specific details about the service person were provided., Louisville, KY
@@ -10992,6 +10995,9 @@
 200 Burwell Ave, Louisville, KY:
   lat: 38.2261448
   lng: -85.7939294
+200 Cambridge Dr near 3rd and 2nd streets, Louisville, KY:
+  lat: 38.1629212
+  lng: -85.7679383
 200 Cambridge Dr, Louisville, KY:
   lat: 38.1629212
   lng: -85.7679383
