@@ -5471,6 +5471,9 @@
 1200 South Third Street near West Ornsby and West Oak, Louisville, KY: null
 1200 South Third Street, Louisville, KY: null
 1200 South15-3, Louisville, KY: null
+1200 South15th Street, Louisville, KY:
+  lat: 38.236534
+  lng: -85.778489
 1200 South15th at Brady, Louisville, KY:
   lat: 38.236534
   lng: -85.778489
@@ -38060,6 +38063,7 @@
 900 Jones Dr, Louisville, KY:
   lat: 38.1481773
   lng: -85.7770712
+900 Jones drop of E, Louisville, KY: null
 900 Keswick Blvd, Louisville, KY:
   lat: 38.2184615
   lng: -85.7423356
