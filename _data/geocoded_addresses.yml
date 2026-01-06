@@ -1727,6 +1727,7 @@
 100 West, near Langland Pl. The fire was reported, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+100 Westbound, Louisville, KY: null
 100 Westport Rd and reported the area clear, Louisville, KY: null
 100 Westport Ridgeway, Louisville, KY: null
 100 Wetstein Ave, Louisville, KY:
@@ -26236,6 +26237,9 @@
   lat: 38.1469614
   lng: -85.7334363
 4600 Adderley, Louisville, KY: null
+4600 Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 4600 Beech Tree Ct, Louisville, KY:
   lat: 38.2133319
   lng: -85.6176999
@@ -40712,6 +40716,7 @@ Ripple Creek Dr and Rolling St, Louisville, KY: null
 River Creek Street and Boyle St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
 River Rd and Brighton Dr, Louisville, KY: null
+River Rd and Dockview Rd, Louisville, KY: null
 River Rd and River Shore Dr, Louisville, KY: null
 Robinwood Rd and Regal Dr, Louisville, KY: null
 Rochdale Road and Sonoma Parkway, Louisville, KY: null
