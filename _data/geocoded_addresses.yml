@@ -6144,6 +6144,7 @@
 1300 Lexington Rd, Louisville, KY:
   lat: 38.2498197
   lng: -85.7271354
+1300 Lillian Ave and alley of Colorado in Utah, Louisville, KY: null
 1300 Lillian Ave, Louisville, KY:
   lat: 38.2102297
   lng: -85.7777266
@@ -11035,6 +11036,9 @@
 200 Crescent Ave, Louisville, KY:
   lat: 38.2593424
   lng: -85.6883421
+200 Crescent Hill Pl, Louisville, KY:
+  lat: 38.256505
+  lng: -85.704097
 200 Cumberland Lake Cir, Louisville, KY: null
 200 Dale Tucker Lane, Louisville, KY: null
 200 Derby Ave, Louisville, KY:
@@ -17832,6 +17836,13 @@
   KY'
 : null
 300 E Main St, Crosby, South Creston, South Floyd, Louisville, KY: null
+? 300 E Southside Ct where smoke was reported. Upon arrival, fire units confirmed
+  the presence of smoke, indicating a potential fire situation. The scene was assessed,
+  and efforts are ongoing, Louisville, KY
+: null
+300 E Southside Ct, Louisville, KY:
+  lat: 38.161549
+  lng: -85.758073
 300 E W Breckinridge St at Associates and Behavioral Health, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
