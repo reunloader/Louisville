@@ -18474,6 +18474,9 @@
 300 West Main, Louisville, KY:
   lat: 38.2562065
   lng: -85.755089
+300 West Market, Louisville, KY:
+  lat: 38.254983
+  lng: -85.75529
 300 West Mill Valley Blvd at Vandy Carroll, Louisville, KY: null
 300 West Orange near Red House, Louisville, KY:
   lat: 38.1609795
@@ -39949,6 +39952,7 @@ Labor Ln and Level Street, Louisville, KY: null
 Ladd Ave and Laurel St, Louisville, KY: null
 Lake Ave and Osborne Dr, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
+Lake Road and Bluegrass Ave, Louisville, KY: null
 Lampton St and Roselane St, Louisville, KY: null
 Landis Villa Dr and English Villa Dr, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
