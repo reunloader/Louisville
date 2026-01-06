@@ -1378,6 +1378,9 @@
   lng: -85.748106
 100 South Glaciere, Crop St East, Orange Street Avenue, Camp St, Louisville, KY: null
 100 South Harris Blount Parkway, Louisville, KY: null
+100 South Park Rd, Louisville, KY:
+  lat: 38.085463
+  lng: -85.719764
 100 South Preston near Volunteers of America, Louisville, KY:
   lat: 38.255337
   lng: -85.74598
@@ -16855,6 +16858,7 @@
 : lat: 38.198204
   lng: -85.8349572
 2800 D Miller Ave, Louisville, KY: null
+2800 Danzig Pl, Louisville, KY: null
 2800 De Mel Ave, Louisville, KY:
   lat: 38.1694043
   lng: -85.8048999
