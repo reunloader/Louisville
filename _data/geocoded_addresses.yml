@@ -13282,6 +13282,9 @@
   lng: -85.7449988
 2000 Canterworth Place near Harmon Ct and Bardstown Rd, Louisville, KY: null
 2000 Carrol Lane. Officers responded, Louisville, KY: null
+2000 Cedar, Louisville, KY:
+  lat: 38.255447
+  lng: -85.784648
 2000 Chadwick Glen Pl, Louisville, KY: null
 2000 Charlie Ocean George, with charges currently unknown, Louisville, KY: null
 2000 Chattanooga Ave. Police units responded, Louisville, KY:
@@ -13867,6 +13870,11 @@
   lat: 38.1531234
   lng: -85.8025178
 2100 Cave Spring Pl, Louisville, KY: null
+? 2100 Cedar. The vehicle is currently being processed at the hold lot as part of
+  ongoing investigations. Theft reports like this are taken seriously, Louisville,
+  KY
+: lat: 38.255547
+  lng: -85.785559
 2100 Cherokee Pky near Cherokee Rd, Louisville, KY:
   lat: 38.235329
   lng: -85.712271
@@ -18039,6 +18047,9 @@
 300 East St. Catherine Street, Louisville, KY:
   lat: 38.236346
   lng: -85.750781
+300 East W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 300 East W Lee St, Louisville, KY:
   lat: 38.2232049
   lng: -85.7607107
@@ -22554,6 +22565,9 @@
 400 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+400 Charlie. Authorities responded, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 ? 400 Charlie. The reporting party stated they had been shoved by another individual.
   Officers responded to assess the situation., Louisville, KY
 : lat: 38.1686412
@@ -23089,6 +23103,10 @@
 : null
 400 Mann division, Louisville, KY: null
 400 Mann division. The handgun was taken from two seats inside the vehicle. Officers are working, Louisville, KY: null
+? 400 Manslick. Responders are investigating the incident, which caused property damage
+  but no reported injuries. Authorities are seeking information, Louisville, KY
+: lat: 38.1235971
+  lng: -85.6360321
 400 Markwell Ct, Louisville, KY:
   lat: 38.1396814
   lng: -85.6908164
