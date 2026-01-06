@@ -2986,6 +2986,9 @@
 1000 Worthington Ln. Further details, Louisville, KY:
   lat: 38.32875
   lng: -85.5591466
+1000 Yakima St, Louisville, KY:
+  lat: 38.1485739
+  lng: -85.7899034
 1000 Zorn Ave near Valero, Louisville, KY:
   lat: 38.2788352
   lng: -85.7002974
@@ -13250,6 +13253,7 @@
 2000 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+2000 Dodge Caravan. A BOLO alert has been issued, Louisville, KY: null
 2000 Dodge Challenger, Louisville, KY: null
 2000 Dodge Charger, Louisville, KY: null
 2000 Dodge Ram, Louisville, KY: null
@@ -25065,6 +25069,7 @@
 4300 South4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
+4300 Southbrook Street, Louisville, KY: null
 4300 Southern Pky apartment2, Louisville, KY: null
 4300 Southern Pky, Louisville, KY:
   lat: 38.1923896
@@ -26702,6 +26707,7 @@
   lng: -85.6833215
 4800 Sherburn Ln (cross street Quail's Run), Louisville, KY: null
 4800 Sherburn Ln, Louisville, KY: null
+4800 Shiloh Drive, Louisville, KY: null
 4800 Simpson Dr, Louisville, KY:
   lat: 38.1825206
   lng: -85.6729724
@@ -28457,6 +28463,7 @@
 5200 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+5200 Beat 3, Louisville, KY: null
 5200 Benson Ct, Louisville, KY:
   lat: 38.0946956
   lng: -85.8586612
@@ -31360,6 +31367,7 @@
   hearing activity inside but was hesitant, Louisville, KY
 : null
 6200 Baker Aly STREET, Louisville, KY: null
+6200 Beat 3, Louisville, KY: null
 6200 Billtown Rd, Louisville, KY:
   lat: 38.154966
   lng: -85.560285
@@ -35337,6 +35345,9 @@
 7800 Newton Dr, Louisville, KY:
   lat: 38.1354978
   lng: -85.6199016
+7800 Nicole Ct, Louisville, KY:
+  lat: 38.2087398
+  lng: -85.6173119
 7800 Nottoway Cir, Louisville, KY:
   lat: 38.16109
   lng: -85.803318
@@ -35633,6 +35644,9 @@
   lat: 38.1599559
   lng: -85.7179761
 800 Blake Baker Parkway, Louisville, KY: null
+800 Blue Creek Dr, Louisville, KY:
+  lat: 38.1011136
+  lng: -85.6963954
 800 Blue Lick Rd. Responders arrived, Louisville, KY:
   lat: 38.1335683
   lng: -85.6845835
