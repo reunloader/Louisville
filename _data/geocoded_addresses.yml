@@ -1421,6 +1421,8 @@
 100 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+100 South exit, Louisville, KY: null
+100 South exit, possibly, Louisville, KY: null
 100 South near Mormon and Lower River Rd, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
@@ -2919,6 +2921,10 @@
 ? 1000 Uracoid Gardens Drive. Reports indicated that an ex-boyfriend was present inside
   the residence. Law enforcement arrived, Louisville, KY
 : null
+1000 Vine St, Louisville, KY:
+  lat: 38.235566
+  lng: -85.729962
+1000 Vine St, likely as part of a police stop or investigation. Specific details about the reason, Louisville, KY: null
 1000 W Jefferson St near 11th and 10th Streets, Louisville, KY:
   lat: 38.2547629
   lng: -85.767472
@@ -29386,6 +29392,7 @@
 55 Eastern Parkway, Louisville, KY:
   lat: 38.2154837
   lng: -85.7414654
+55 Nolo Parkway, Louisville, KY: null
 55 Rundill Rd, Louisville, KY:
   lat: 38.1628677
   lng: -85.7807434
