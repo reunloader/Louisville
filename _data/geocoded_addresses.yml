@@ -59,6 +59,7 @@
 00 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
+00 Olmstee Park Place, Louisville, KY: null
 00 Ranger Rd, Louisville, KY: null
 00 Southern Pky, Louisville, KY:
   lat: 38.1818658
@@ -21515,6 +21516,9 @@
 3700 Downing Way, Louisville, KY:
   lat: 38.2021882
   lng: -85.6542403
+3700 E W Wheatmore Dr near Cold Shores Lane and March Blvd, Louisville, KY:
+  lat: 38.1901621
+  lng: -85.7991619
 3700 E W Wheatmore Dr near Jacob Elementary, Louisville, KY:
   lat: 38.1901621
   lng: -85.7991619
@@ -25876,6 +25880,7 @@
 4500 Beechbrook Rd, Louisville, KY:
   lat: 38.183585
   lng: -85.641503
+4500 Biles Ct across Hite Creek Rd, Louisville, KY: null
 4500 Bishop Ln at Flex Space, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
@@ -33422,6 +33427,7 @@
 700 Dresden, Louisville, KY:
   lat: 38.1974565
   lng: -85.771628
+700 E Gray St crossing South Shelby and South Clay, Louisville, KY: null
 700 E Gray St, Louisville, KY:
   lat: 38.245726
   lng: -85.741227
@@ -40076,6 +40082,7 @@ Clifton Ave and Vernon Ave, Louisville, KY:
 Closet Slide Drive and Benbow Dr, Louisville, KY: null
 Club Ln and Kenhurst Dr, Louisville, KY: null
 Cofer Ave and Margo Ave, Louisville, KY: null
+Cold Shores Lane and March Blvd, Louisville, KY: null
 Cole Ave and Beaver St, Louisville, KY: null
 Colorado Ave and Lincoln Ave, Louisville, KY: null
 Colson Dr and Silver Springs Dr, Louisville, KY: null
@@ -40538,6 +40545,7 @@ Moorhampton Dr and Port Antonio Rd, Louisville, KY: null
 Moran Ave and Stratton Ave, Louisville, KY: null
 Moredale Rd and Westport Rd, Louisville, KY: null
 Morgan St and Hickory St, Louisville, KY: null
+Morningview Dr and Brownsboro Rd, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
 Moser Rd and Shelbyville Rd, Louisville, KY: null
@@ -40986,6 +40994,7 @@ Valley College Dr and Stone St, Louisville, KY: null
 Valley Station Rd and Deering Rd, Louisville, KY: null
 Valley Station Rd and Grafton Hall Rd, Louisville, KY: null
 Vantage Plaza Dr and Goddard Road, Louisville, KY: null
+Varble Ave and San Jose Ave, Louisville, KY: null
 Venus Road and Mercury Dr, Louisville, KY: null
 Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
