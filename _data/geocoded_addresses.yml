@@ -3658,6 +3658,9 @@
   lng: -85.7734051
 1100 Apex View Dr, Louisville, KY: null
 1100 Backstreet Avenue, Louisville, KY: null
+1100 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 1100 Barch John Road, Louisville, KY: null
 1100 Barchetown Road, Louisville, KY: null
 1100 Bardstown Rd at Orton, Louisville, KY:
@@ -20658,6 +20661,7 @@
 3500 Brockton Ln, Louisville, KY:
   lat: 38.21917
   lng: -85.654817
+3500 Burnley Rd, Louisville, KY: null
 3500 Callard Avenue, Louisville, KY: null
 3500 Cane Run Rd, Louisville, KY:
   lat: 38.2225867
@@ -30521,6 +30525,9 @@
 600 Inverness, Louisville, KY:
   lat: 38.1673893
   lng: -85.7740338
+600 Jean Ave, Louisville, KY:
+  lat: 38.1758497
+  lng: -85.8431384
 600 John Adams Way, Louisville, KY:
   lat: 38.0628557
   lng: -85.8935539
@@ -33567,6 +33574,7 @@
 700 Jean Ave, Louisville, KY:
   lat: 38.1758497
   lng: -85.8431384
+700 Jeans, Louisville, KY: null
 ? 700 Jefferson St, which may have involved a welfare check or investigating suspicious
   activity. Additionally, officers were informed of a pending call, Louisville, KY
 : null
