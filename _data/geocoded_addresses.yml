@@ -1157,6 +1157,12 @@
 100 Out of Loop at Peddler's Mall, Louisville, KY:
   lat: 38.1369356
   lng: -85.6543838
+100 Outer Loop at Great Clips near Crosstreet New Cut Road and Candleworth Dr, Louisville, KY:
+  lat: 38.12637
+  lng: -85.7935486
+100 Outer Loop near Crosstreet Newcote Road and Candlewick Drive, Louisville, KY:
+  lat: 38.12637
+  lng: -85.7935486
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
@@ -1459,6 +1465,7 @@
   lat: 38.2542376
   lng: -85.759407
 100 Standing Way, Louisville, KY: null
+100 Stanley Ave, 300 block of W Hill St, and 4800 block of Sebree Ln, Louisville, KY: null
 100 Stanley Ave, Louisville, KY:
   lat: 38.1891921
   lng: -85.7789464
@@ -29898,6 +29905,9 @@
 5800 Greenwood Rd, Louisville, KY:
   lat: 38.1441592
   lng: -85.8620055
+5800 Harrods Glen Dr near Harrods Ridge Dr, Louisville, KY:
+  lat: 38.3290489
+  lng: -85.6049646
 ? 5800 Haynes Trace following a report of a domestic disturbance. The initial call
   indicated a juvenile was allegedly smoking marijuana inside the residence and described
   as being under the influence. Responding officers worked, Louisville, KY
@@ -31471,6 +31481,9 @@
 6100 Forge Cir, Louisville, KY:
   lat: 38.0642225
   lng: -85.8922633
+6100 Guardian Ct near Crosstreet Lackley Lane, Louisville, KY:
+  lat: 38.1618255
+  lng: -85.7015895
 6100 Guardian Ct, Louisville, KY:
   lat: 38.1618255
   lng: -85.7015895
@@ -35318,6 +35331,7 @@
 7600 Mayo Dr, Louisville, KY:
   lat: 38.2014671
   lng: -85.6715278
+7600 Nancy Ln near Belmont Ave and Barbara Ave, Louisville, KY: null
 7600 National Firm Play Field, Louisville, KY: null
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
@@ -39769,6 +39783,7 @@ Bellarmine Blvd and Richmond Dr, Louisville, KY: null
 Bellevue Ave and Beecher St, Louisville, KY: null
 Bellevue Ave and South Fitz Street, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
+Belmont Ave and Barbara Ave, Louisville, KY: null
 Belmont Ave and Hawthorne Ave, Louisville, KY: null
 Belmont Rd and Goldsmith Ln, Louisville, KY: null
 Belmont Rd and Gunston Ln, Louisville, KY: null
@@ -39999,6 +40014,8 @@ Crossleaf Avenue and Willow Ave, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
 Crosstimbers Dr and Keating Dr, Louisville, KY: null
 Crosstimbers Dr and Keening Drive, Louisville, KY: null
+Crosstreet New Cut Road and Candleworth Dr, Louisville, KY: null
+Crosstreet Newcote Road and Candlewick Drive, Louisville, KY: null
 Crosswood Jackson Avenue and Fischer Ave, Louisville, KY: null
 Crumbs Lane and Sunflower Avenue, Louisville, KY: null
 Crums Lane and Sunflower Avenue, Louisville, KY: null
