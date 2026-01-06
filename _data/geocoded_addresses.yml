@@ -15731,6 +15731,9 @@
   daughter. Police units responded, Louisville, KY
 : null
 2500 Brownsboro Rd and 600 block of E W Oak St, Louisville, KY: null
+2500 Brownsboro Rd, Louisville, KY:
+  lat: 38.2583727
+  lng: -85.6988552
 2500 Buechel Bank Rd to investigate the situation., Louisville, KY: null
 2500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
@@ -19942,6 +19945,9 @@
 3300 Bank St, Louisville, KY:
   lat: 38.27253
   lng: -85.801137
+3300 Bardstown Rd near the brown suburban hotel, Louisville, KY:
+  lat: 38.2076242
+  lng: -85.6693366
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
@@ -37264,6 +37270,7 @@
 8700 William Penn Way, Louisville, KY:
   lat: 38.1221027
   lng: -85.6361054
+8700 William Pinway, Louisville, KY: null
 8700 Windridge Creekway near Twin Ridge Rd, Louisville, KY: null
 8700 Wisdom Ln, Louisville, KY: null
 8700 Wolflor Branchway, Louisville, KY: null
