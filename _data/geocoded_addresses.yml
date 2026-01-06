@@ -57,6 +57,9 @@
   lat: 38.2635452
   lng: -85.6998797
 00 Ranger Rd, Louisville, KY: null
+00 Southern Pky, Louisville, KY:
+  lat: 38.1818658
+  lng: -85.7683443
 00 Wally and Court, Louisville, KY: null
 01 Blackthorn Rd, Louisville, KY: null
 01 Cedar Springs Boulevard, Louisville, KY:
@@ -8278,6 +8281,7 @@
 1500 and 1524, Louisville, KY: null
 1500 black over root for, Louisville, KY: null
 1500 pickup truck, Louisville, KY: null
+1500 single cab Chevy, Louisville, KY: null
 1500 the 1000 block of Ash St, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
 1500 west west oak street, Louisville, KY: null
@@ -34677,6 +34681,9 @@
 7300 Patrick Henry Rd, Louisville, KY:
   lat: 38.141105
   lng: -85.756759
+7300 Preston Hwy, Louisville, KY:
+  lat: 38.146278
+  lng: -85.691174
 7300 Rainbow Dr, Louisville, KY:
   lat: 38.0567848
   lng: -85.9008111
