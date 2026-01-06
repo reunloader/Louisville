@@ -3540,6 +3540,9 @@
 10800 Sparrow Cir, Louisville, KY:
   lat: 38.1142896
   lng: -85.7611733
+1085 [Street], Louisville, KY:
+  lat: 37.0039958
+  lng: -86.4292092
 1086 unspecified street, Louisville, KY: null
 10900 Albion Dr, Louisville, KY:
   lat: 38.0966305
@@ -30671,6 +30674,7 @@
 600 Presidents Blvd, Louisville, KY:
   lat: 38.2146048
   lng: -85.7460808
+600 Preston Hallway, Louisville, KY: null
 600 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -38410,6 +38414,7 @@
   reported at the 900 block of block of French Ave. Units were dispatched, Louisville,
   KY
 : null
+900 block, Louisville, KY: null
 900 hang-up call prompted officers, Louisville, KY: null
 900 hang-up reported an upset individual at Bolero, claiming her Uber driver refused, Louisville, KY: null
 900 minutes apart, Louisville, KY: null
