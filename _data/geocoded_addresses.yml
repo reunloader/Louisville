@@ -4003,6 +4003,9 @@
 1100 Poplar Level Plaza, Louisville, KY:
   lat: 38.219525
   lng: -85.728402
+1100 Queen Ave, Louisville, KY:
+  lat: 38.2016537
+  lng: -85.7787413
 1100 River Rd, Louisville, KY:
   lat: 38.261542
   lng: -85.736495
@@ -19969,6 +19972,9 @@
   lat: 38.2058857
   lng: -85.6782739
 3300 Berth and Ritz Lane, Louisville, KY: null
+3300 Blanton Ln, Louisville, KY:
+  lat: 38.152798
+  lng: -85.8211
 3300 Breaux Dr, Louisville, KY:
   lat: 38.212799
   lng: -85.62431
@@ -37716,6 +37722,9 @@
 900 Edward St, Louisville, KY:
   lat: 38.239093
   lng: -85.728107
+900 Ellison Ave, Louisville, KY:
+  lat: 38.2321039
+  lng: -85.7370764
 900 Esau, W Muhammad Ali Blvdmber 2, Louisville, KY: null
 900 Euclid Ave, Louisville, KY:
   lat: 38.211438
