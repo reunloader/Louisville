@@ -1077,6 +1077,9 @@
 100 North28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
+100 North28th, Louisville, KY:
+  lat: 38.261975
+  lng: -85.79728
 100 North34, Louisville, KY: null
 100 North35th Street, Louisville, KY:
   lat: 38.2624675
@@ -13086,6 +13089,7 @@
 200 northbound shoulder, Louisville, KY: null
 200 northbound, Louisville, KY: null
 200 off ramp, Louisville, KY: null
+200 on19, Louisville, KY: null
 200 or217, Louisville, KY: null
 200 or219, Louisville, KY: null
 200 overpass, Louisville, KY:
@@ -13857,6 +13861,9 @@
 2100 Bearcamp Rd, Louisville, KY:
   lat: 38.0802328
   lng: -85.8063179
+2100 Belmont Rd, Louisville, KY:
+  lat: 38.2028313
+  lng: -85.6725264
 2100 Bent Creek Dr, Louisville, KY:
   lat: 38.2056344
   lng: -85.6775264
@@ -14635,6 +14642,9 @@
 2200 S Preston St, Louisville, KY:
   lat: 38.215321
   lng: -85.743914
+2200 Saratoga Dr, Louisville, KY:
+  lat: 38.221699
+  lng: -85.699393
 2200 Shady Acres, Louisville, KY: null
 2200 Shelley Ave, Louisville, KY:
   lat: 38.2168747
@@ -16099,6 +16109,7 @@
   lng: -85.7949572
 2500 West Alley at Kroger’s Little Clinic, Louisville, KY: null
 2500 West Alley, Louisville, KY: null
+2500 West Barnett, Louisville, KY: null
 2500 West Broadway at Truist Bank, Louisville, KY:
   lat: 38.2490471
   lng: -85.7937107
