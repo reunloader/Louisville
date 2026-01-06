@@ -1549,6 +1549,9 @@
   lat: 38.250493
   lng: -85.752382
 100 W Oak St and 3rd and Webster St, Louisville, KY: null
+100 W Oak St, Louisville, KY:
+  lat: 38.234492
+  lng: -85.755504
 100 W Ormsby Ave, Louisville, KY:
   lat: 38.232072
   lng: -85.7560919
@@ -21668,6 +21671,7 @@
   lat: 38.187962
   lng: -85.793918
 3800 Corvair Court, near Foverbrook Drive., Louisville, KY: null
+3800 Cova Dr, Beach 6, Louisville, KY: null
 3800 Dixie Hwy, Louisville, KY:
   lat: 38.1466897
   lng: -85.8382378
@@ -23062,6 +23066,9 @@
 400 North38th Street, Louisville, KY:
   lat: 38.269496
   lng: -85.8111684
+400 North39th Street, Louisville, KY:
+  lat: 38.2699294
+  lng: -85.8129254
 400 Northgate Rd involving an 84-year-old female who was having trouble breathing, Louisville, KY: null
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
@@ -33957,6 +33964,7 @@
   lat: 38.2345368
   lng: -85.7675997
 700 West Ornstein, Louisville, KY: null
+700 West Railway, Louisville, KY: null
 700 Westport Rd and Stonehurst Dr, Louisville, KY: null
 ? 700 Winkler Ave following a report of domestic trouble. The individual involved
   was described as a black male wearing all black clothing., Louisville, KY
