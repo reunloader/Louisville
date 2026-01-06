@@ -3901,6 +3901,7 @@
   lat: 38.2560805
   lng: -85.6939124
 1100 Linden Ln, Linden Crossing, Louisville, KY: null
+1100 Linden Ln, Linden Crossings, Louisville, KY: null
 1100 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
@@ -23958,6 +23959,9 @@
   lat: 38.2425193
   lng: -85.6544619
 4000 Oak Henry, Louisville, KY: null
+4000 Oaklawn Dr near Crest Street-Preston Hwy, Louisville, KY:
+  lat: 38.147947
+  lng: -85.6862134
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
