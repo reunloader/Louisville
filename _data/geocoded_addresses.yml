@@ -4139,6 +4139,7 @@
 1100 South First Street, Louisville, KY: null
 1100 South First Street. The reporting party indicated they did not wish, Louisville, KY: null
 1100 South Forest Street, Louisville, KY: null
+1100 South Forest near St, Louisville, KY: null
 1100 South Forster Street, Louisville, KY: null
 1100 South Forth Street, Louisville, KY: null
 1100 South Forth Street, where a caller stated her son was refusing, Louisville, KY: null
@@ -14245,6 +14246,9 @@
   lat: 38.2650846
   lng: -85.7872589
 22 La Saver Drive, Louisville, KY: null
+22 Lisbon Ln, Louisville, KY:
+  lat: 38.2065763
+  lng: -85.6581736
 2200 20th Street, Louisville, KY:
   lat: 38.2486783
   lng: -85.784939
@@ -19163,6 +19167,9 @@
 3100 Chinquapin Ln, Louisville, KY:
   lat: 38.1675066
   lng: -85.7009733
+3100 Churchill Pl, Louisville, KY:
+  lat: 38.214454
+  lng: -85.626671
 3100 Clinton Pl near Ralph Ave, Louisville, KY:
   lat: 38.2107404
   lng: -85.8323503
@@ -24066,6 +24073,13 @@
 4000 West Broadway, Louisville, KY:
   lat: 38.2498825
   lng: -85.8179864
+4000 White Blossom Estates was confirmed, Louisville, KY: null
+4000 White Blossom Estates, Louisville, KY:
+  lat: 38.3002154
+  lng: -85.5732999
+4000 White Blossom, Louisville, KY:
+  lat: 38.3002154
+  lng: -85.5732999
 4000 White Plains Ct, Louisville, KY:
   lat: 38.2012598
   lng: -85.6353957
@@ -37123,6 +37137,7 @@
 8700 Cotswold Dr, Louisville, KY:
   lat: 38.126506
   lng: -85.869914
+8700 Cunningham Y-8 cross street, Louisville, KY: null
 8700 Destiny Cove, Louisville, KY: null
 8700 Filson Fields Ct, Louisville, KY:
   lat: 38.1224567
