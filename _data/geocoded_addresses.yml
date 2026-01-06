@@ -3631,6 +3631,9 @@
 11 Doe Run Rd, Louisville, KY:
   lat: 38.1623849
   lng: -85.8382955
+11 Grade Ln, Louisville, KY:
+  lat: 38.1592088
+  lng: -85.7287136
 11 Logwood Ave, Louisville, KY:
   lat: 38.0804603
   lng: -85.8667825
@@ -19398,6 +19401,7 @@
 3100 Park Church Ln. The incident was logged at 2056. Further details, Louisville, KY:
   lat: 38.215882
   lng: -85.622971
+3100 Pee-wee Rees, Louisville, KY: null
 3100 Pequod Circle, Louisville, KY: null
 ? 3100 Poplar Level Rd to attend to a 77-year-old male experiencing low blood sugar
   and low blood pressure. The patient's condition required immediate medical attention.,
@@ -34153,6 +34157,7 @@
 700 Woodmore Ave, Louisville, KY:
   lat: 38.149501
   lng: -85.770284
+700 Zebra Lima Whiskey, indicating ongoing police activity, Louisville, KY: null
 700 Zorn Ave (no visible fire), Louisville, KY: null
 700 Zorn Ave at Casa Grande, Louisville, KY:
   lat: 38.2667863
@@ -39293,6 +39298,7 @@
 9700 Cornell Trace Rd, Louisville, KY:
   lat: 38.2915594
   lng: -85.5742907
+9700 Dixie Hwy (Kids' Dentistry), Louisville, KY: null
 9700 Dixie Hwy, Louisville, KY:
   lat: 38.115491
   lng: -85.860743
