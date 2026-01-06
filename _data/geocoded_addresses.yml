@@ -113,6 +113,7 @@
 04 Red Stone Hill Rd, Louisville, KY:
   lat: 38.1366772
   lng: -85.7986454
+05 Club Trace Place, Louisville, KY: null
 05 Rosewood Ave, Louisville, KY:
   lat: 38.2325761
   lng: -85.7185625
@@ -326,6 +327,9 @@
 100 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
+100 Blackburn Ave, Louisville, KY:
+  lat: 38.254775
+  lng: -85.675639
 100 Blankenbaker Ln, Louisville, KY:
   lat: 38.2744077
   lng: -85.6461132
@@ -23563,6 +23567,9 @@
   lng: -85.7571981
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
+400 West Oak, Louisville, KY:
+  lat: 38.234946
+  lng: -85.760492
 400 West Ornstein near Garvin and 4th, Louisville, KY: null
 400 West Ornstein, Louisville, KY: null
 400 West Penny Avenue, Louisville, KY: null
@@ -29020,6 +29027,9 @@
   lng: -85.6589193
 542018 Speed Ave, Louisville, KY: null
 548 Big D and Drive, Louisville, KY: null
+55 Brookview Dr, Louisville, KY:
+  lat: 38.1510439
+  lng: -85.8174691
 55 Eastern Parkway, Louisville, KY:
   lat: 38.2154837
   lng: -85.7414654
@@ -29311,6 +29321,9 @@
 5600 Bruns Dr. She was moved to a nearby residence at the 4900 block of Brick Kiln Ln, Louisville, KY:
   lat: 38.1713674
   lng: -85.8189187
+5600 Carolyn Way, Louisville, KY:
+  lat: 38.1687423
+  lng: -85.6879282
 5600 Chenoweth Run Rd, Crest Street of Goose Ln and Mason Rd, Louisville, KY: null
 5600 Dittmar Dr, Louisville, KY:
   lat: 38.1479855
@@ -37373,6 +37386,9 @@
 900 Camden Ave, Louisville, KY:
   lat: 38.1926656
   lng: -85.77496
+900 Carolyn Way, Louisville, KY:
+  lat: 38.1682534
+  lng: -85.6872058
 900 Cecil Ave and other locations, Louisville, KY: null
 900 Charles St at the intersection with River Creek Street and Boyle St, Louisville, KY:
   lat: 38.2315713
@@ -40104,6 +40120,7 @@ Newburg Rd and Gold Street, Louisville, KY: null
 Newburg Rd and Speed Ave, Louisville, KY: null
 Newcote Road and Candleworth Dr, Louisville, KY: null
 Newcote Road and Palo Alto Road, Louisville, KY: null
+Norene Ln and Jeanine Dr, Louisville, KY: null
 Norfolk Avenue and Landing Dr, Louisville, KY: null
 Norma Ln and Manila Ln, Louisville, KY: null
 North Bardstown Rd and Fern Valley Rd, Louisville, KY: null
