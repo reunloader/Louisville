@@ -10181,6 +10181,9 @@
 1800 W Muhammad Ali Blvd. Responding units were dispatched, Louisville, KY:
   lat: 38.2535809
   lng: -85.7808488
+1800 W Oak St near Hodge and Dixie, Louisville, KY:
+  lat: 38.2368906
+  lng: -85.7872142
 1800 W Oak St, Louisville, KY:
   lat: 38.2368906
   lng: -85.7872142
@@ -10721,6 +10724,9 @@
 20 Arthur St, Louisville, KY:
   lat: 38.2209861
   lng: -85.7517448
+20 Bardstown Rd, Louisville, KY:
+  lat: 38.1532061
+  lng: -85.5888316
 20 Barge Down Road, Louisville, KY: null
 20 Calumet Dr, Louisville, KY:
   lat: 38.1269463
@@ -11514,6 +11520,7 @@
   The situation was resolved, and the vehicle was cleared from the area., Louisville,
   KY
 : null
+200 Engine Ct, Louisville, KY: null
 200 Engineering Dr, Louisville, KY: null
 200 Eric Ct, Louisville, KY:
   lat: 38.146714
@@ -21448,6 +21455,9 @@
 3700 Stonecrest Dr, Louisville, KY:
   lat: 38.1201172
   lng: -85.8100049
+3700 Stratton Ave near 38th and Russell Lee Dr, Louisville, KY:
+  lat: 38.2294728
+  lng: -85.8166836
 3700 Stratton Ave, Crest south, Louisville, KY: null
 3700 Stratton Ave, Louisville, KY:
   lat: 38.2294728
@@ -40135,6 +40145,7 @@ Park Row Dr and Hillview Ave, Louisville, KY: null
 Patrick Henry Rd and Yorktel Road, Louisville, KY: null
 Payless Hill Road and Furman Blvd, Louisville, KY: null
 Payne St and Barret Ave, Louisville, KY: null
+Payne St and Baxter Ave, Louisville, KY: null
 Peach Meadow Dr and Maple Ln, Louisville, KY: null
 Peach St and Cypress St, Louisville, KY: null
 Peach St and Westwood Dr, Louisville, KY: null
