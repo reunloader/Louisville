@@ -14509,6 +14509,9 @@
 2200 Main St as multiple units are responding, Louisville, KY: null
 2200 Mary Catherine Dr near Burrell Dr and Heatherfield Dr, Louisville, KY: null
 2200 Mary Catherine Dr, Louisville, KY: null
+2200 Millvale Rd, Louisville, KY:
+  lat: 38.230519
+  lng: -85.684183
 2200 Mount Blanc Rd near Alps Rd and Mount Holyoke, Louisville, KY:
   lat: 38.1689481
   lng: -85.8558628
@@ -30291,6 +30294,9 @@
 600 E W Hill St, Louisville, KY:
   lat: 38.2273582
   lng: -85.7745627
+600 E W Market St, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 600 E W Oak St, Number 4, Louisville, KY: null
 600 East Alley, Louisville, KY:
   lat: 38.245496
