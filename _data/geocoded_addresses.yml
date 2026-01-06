@@ -15614,6 +15614,7 @@
 2400 Parliament Ct, Louisville, KY:
   lat: 38.1117787
   lng: -85.8079513
+2400 Point Quartz, Louisville, KY: null
 2400 Ridgeview Ave, Louisville, KY:
   lat: 38.234461
   lng: -85.62313
@@ -32031,6 +32032,9 @@
 6400 Dawson Hill Rd, Louisville, KY:
   lat: 38.1187659
   lng: -85.5025766
+6400 Deming Ln near Leemont Dr and Terry Rd, Louisville, KY:
+  lat: 38.1472136
+  lng: -85.8715257
 6400 Downs Farmway, Louisville, KY: null
 6400 Dutchman's Parkway, Louisville, KY: null
 6400 Dutchman's Parkway. Further details, Louisville, KY: null
@@ -33662,6 +33666,9 @@
 ? 700 Linden Dr. The alarm was triggered by a smoke detector in zone 8. The response
   was subsequently canceled., Louisville, KY
 : null
+700 Linden Ln near Vine Crest Ave and Lyndon Lofts Ln, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
 700 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
@@ -34748,6 +34755,9 @@
   lng: -85.845118
 7200 Main St Northeast in Lanesville, Indiana, prompting law enforcement, Louisville, KY: null
 7200 National Turnpike at the Brady SPC, Louisville, KY:
+  lat: 38.1428729
+  lng: -85.7563021
+7200 National Turnpike near Yorktown Rd and Recovery Rd, Louisville, KY:
   lat: 38.1428729
   lng: -85.7563021
 7200 National Turnpike near Yorktown, Louisville, KY:
@@ -40382,6 +40392,7 @@ Lauderdale Rd and Hill Rd, Louisville, KY: null
 Lausanne Avenue and Dumesnil St, Louisville, KY: null
 Lawman Road and Salvation Road, Louisville, KY: null
 Lee St and West Galbra Avenue, Louisville, KY: null
+Leemont Dr and Terry Rd, Louisville, KY: null
 Lencott Dr and Terry Rd, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
 Lexham Rd and Eastside Dr, Louisville, KY: null
@@ -40949,6 +40960,7 @@ Vantage Plaza Dr and Goddard Road, Louisville, KY: null
 Venus Road and Mercury Dr, Louisville, KY: null
 Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
+Vine Crest Ave and Lyndon Lofts Ln, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Walter Ave and Lonsdale Ave, Louisville, KY: null
 Walter Ave and Rosedale Ave, Louisville, KY: null
