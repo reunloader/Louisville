@@ -12987,6 +12987,7 @@
   lng: -85.7582215
 200 east of Virginia, Louisville, KY: null
 200 east of the 14, close, Louisville, KY: null
+200 eastbound I-200 near Mine Worker2, Louisville, KY: null
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
   lng: -85.6410214
@@ -13080,6 +13081,7 @@
 200 southbound I- near Cannons Ln, Louisville, KY:
   lat: 38.235109
   lng: -85.65801
+200 southbound I-200 at the 10-mile marker, Louisville, KY: null
 200 southbound I-200 near mile markers 2 and 3, Louisville, KY: null
 200 southbound I-64 at New Cudden, Louisville, KY: null
 200 southbound I-64 near New Cut Rd ramp, Louisville, KY: null
@@ -27188,6 +27190,10 @@
 500 Belgravia Ct, Louisville, KY:
   lat: 38.2266147
   lng: -85.7636713
+500 Belmar Dr, Louisville, KY:
+  lat: 38.2021382
+  lng: -85.7140233
+500 Belmar Dr, close, Louisville, KY: null
 500 Blankenbaker, Louisville, KY:
   lat: 38.2865521
   lng: -85.6547365
