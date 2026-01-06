@@ -10781,6 +10781,7 @@
 20 Narcissus Dr, Louisville, KY:
   lat: 38.1197851
   lng: -85.6862836
+20 New Bird Road, Louisville, KY: null
 20 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
@@ -23447,6 +23448,9 @@
 400 South28th Street, Louisville, KY:
   lat: 38.2575152
   lng: -85.7971377
+400 South2nd Street at Connell Lodge, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South2nd Street near West Alley and W Liberty St, Louisville, KY: null
 400 South2nd Street, Louisville, KY:
   lat: 38.2521786
@@ -28856,6 +28860,9 @@
 5300 Pebble Creek Pl, Louisville, KY:
   lat: 38.321784
   lng: -85.5417472
+5300 Preston Hwy at Thornton and Loretta, Louisville, KY:
+  lat: 38.1713235
+  lng: -85.7099528
 5300 Preston Hwy at Thornton, Louisville, KY:
   lat: 38.1713235
   lng: -85.7099528
