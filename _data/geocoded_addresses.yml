@@ -3479,6 +3479,7 @@
 : null
 10700 Alberta Dr, Crest Street, Louisville, KY: null
 10700 Alberta Dr, Louisville, KY: null
+10700 Bell Tucker Ln near Chamberlain Ln and Henning Way, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
 10700 Belmont Ct, Louisville, KY:
   lat: 38.205583
@@ -20815,6 +20816,9 @@
 3500 Herb Ln. Medical evaluation and care were provided, Louisville, KY:
   lat: 38.2166005
   lng: -85.6539282
+3500 Huon Dr, Louisville, KY:
+  lat: 38.2006794
+  lng: -85.6761025
 3500 Hurstbourne Ridge Blvd, Louisville, KY:
   lat: 38.1973871
   lng: -85.6066928
@@ -26486,6 +26490,7 @@
 47 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
+4700 Alarm-y Court near Sickle and Rock, Louisville, KY: null
 4700 Aledo Ct, Louisville, KY:
   lat: 38.0869967
   lng: -85.6772524
