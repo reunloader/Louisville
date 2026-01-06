@@ -4281,6 +4281,9 @@
 1100 W Chestnut St near UofL, Louisville, KY:
   lat: 38.250157
   lng: -85.769625
+1100 W Chestnut St, Louisville, KY:
+  lat: 38.250157
+  lng: -85.769625
 1100 W Liberty St, Louisville, KY:
   lat: 38.253688
   lng: -85.769004
@@ -5544,6 +5547,9 @@
 1200 W Ashland Ave, Louisville, KY:
   lat: 38.1861303
   lng: -85.7813325
+1200 W Chestnut St, Louisville, KY:
+  lat: 38.2504252
+  lng: -85.7720595
 1200 W Fairmont Ave near 2nd Street, Louisville, KY:
   lat: 38.1953681
   lng: -85.7649559
@@ -7508,6 +7514,7 @@
 1400 Tucker Station Rd, Louisville, KY:
   lat: 38.2211
   lng: -85.5265157
+1400 Tucker Station Rd, number 132, Louisville, KY: null
 1400 Tulpa Street, Louisville, KY: null
 1400 Twin Ridge Rd, Louisville, KY: null
 1400 Varchetown and Lillian, Louisville, KY: null
@@ -25212,6 +25219,7 @@
 4300 Preston Hwy, Louisville, KY:
   lat: 38.1818344
   lng: -85.7204275
+4300 Pruitt Ct, Crest Street, Louisville, KY: null
 ? 4300 River Park Drive to investigate the packages left on the porch. The delivery
   was noted to have occurred earlier in the day., Louisville, KY
 : null
