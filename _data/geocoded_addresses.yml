@@ -236,6 +236,7 @@
 100 Adam and 200 block of Baker, Louisville, KY: null
 100 Adam and 600 block of North 29th Street, Louisville, KY: null
 100 Adam and Charlie, Louisville, KY: null
+100 Adam and surrounding areas, Louisville, KY: null
 100 Adam near South Clay and South Hancock, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -244,6 +245,10 @@
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+? 100 Adam, including a 10-54 response indicating a possible incident. Multiple officers
+  from different divisions are on scene managing the situation. Additionally, a female
+  child was transported, Louisville, KY
+: null
 ? 100 Adams St. Fire units confirmed they could handle the incident, ensuring the
   fire was contained and no further damage occurred. The scene was cleared, Louisville,
   KY
