@@ -3535,6 +3535,7 @@
 10700 Pugle Lane, Louisville, KY: null
 10700 Sparrow Cir, as well as at an apartment complex and the 1800 block of Bluegrass Ave, Louisville, KY: null
 10700 Taylor's Row Road, Louisville, KY: null
+10700 Vail Tucker Lane, Louisville, KY: null
 10700 Westport Rd, at the Aloft Hotel, Louisville, KY:
   lat: 38.296198
   lng: -85.553131
@@ -7388,6 +7389,9 @@
   Holbergen Avenue that had been ongoing, Louisville, KY
 : lat: 38.2289095
   lng: -85.7617931
+1400 South 5th Street, Louisville, KY:
+  lat: 38.2098564
+  lng: -85.7664245
 1400 South 5th Street, near East Burnett and the 65-Ramp, Louisville, KY:
   lat: 38.2098564
   lng: -85.7664245
@@ -7831,6 +7835,7 @@
 1500 Black Iron Rd, Louisville, KY:
   lat: 38.1217372
   lng: -85.5651121
+1500 Blue Jay Dr, Louisville, KY: null
 1500 Broadway behind the 99 cent store, Louisville, KY: null
 1500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
@@ -8336,6 +8341,9 @@
 1500 West Kentucky, Louisville, KY:
   lat: 38.253024
   lng: -85.7758516
+1500 West Market, Louisville, KY:
+  lat: 38.2570576
+  lng: -85.7751703
 1500 West Motley Boulevard, Louisville, KY: null
 1500 Winter Ave, Louisville, KY:
   lat: 38.237341
@@ -8680,6 +8688,9 @@
 1600 Garland Ave, Louisville, KY:
   lat: 38.2425776
   lng: -85.780875
+? 1600 Garley, following a disturbance at the 1400 block of Garley. The situation
+  was contained, and the individual was taken into custody, Louisville, KY
+: null
 1600 Girard Dr, Louisville, KY:
   lat: 38.1594757
   lng: -85.7112444
@@ -9273,6 +9284,9 @@
 1700 Harrod Ct, Louisville, KY:
   lat: 38.2237642
   lng: -85.7789557
+1700 Herr Ln, Louisville, KY:
+  lat: 38.2823509
+  lng: -85.6267183
 1700 I 64 West, Louisville, KY: null
 1700 Jefferson St near Wayside and South Jackson, Louisville, KY:
   lat: 38.2295455
@@ -21699,6 +21713,7 @@
   lng: -85.6459478
 3700 Teller Boulevard, Louisville, KY: null
 3700 Teller Boulevard. Responding officers investigated the circumstances. A callback, Louisville, KY: null
+3700 Thackerton Crest Drive, unit 206, Louisville, KY: null
 3700 Tie In Place, Louisville, KY: null
 3700 Union St, Louisville, KY:
   lat: 38.204877
@@ -37377,6 +37392,9 @@
 8700 Gary Way, Louisville, KY:
   lat: 38.122853
   lng: -85.755907
+8700 Glenfield Way, Louisville, KY:
+  lat: 38.3003818
+  lng: -85.589526
 8700 Highview Dr, Louisville, KY:
   lat: 38.1414982
   lng: -85.6249975
