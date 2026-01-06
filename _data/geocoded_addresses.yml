@@ -1972,6 +1972,7 @@
 1000 Carriage Pass Pl, Louisville, KY:
   lat: 38.1740487
   lng: -85.5233113
+1000 Cathy Dexter, Louisville, KY: null
 1000 Caven Ave, Louisville, KY:
   lat: 38.104178
   lng: -85.6893341
@@ -14425,6 +14426,9 @@
 2200 Frankfort Ave, Louisville, KY:
   lat: 38.253507
   lng: -85.705991
+2200 Franklin Ave, Louisville, KY:
+  lat: 38.1733457
+  lng: -85.833702
 2200 Garland Ave, Louisville, KY:
   lat: 38.2439246
   lng: -85.7892936
@@ -23316,6 +23320,9 @@
 400 South 12th, Louisville, KY:
   lat: 38.254398
   lng: -85.770511
+400 South 13th Street, Louisville, KY:
+  lat: 38.253278
+  lng: -85.772432
 400 South 18th Street near Avenue Plazamber 812, Louisville, KY:
   lat: 38.2556623
   lng: -85.7805526
@@ -29666,6 +29673,9 @@
 5600 Shorewood Dr. The patient reported experiencing shoulder, back, and chest pain, Louisville, KY:
   lat: 38.1457155
   lng: -85.7784108
+5600 South 12th Street, Louisville, KY:
+  lat: 38.2303687
+  lng: -85.7746478
 5600 Spring Gate Dr, Louisville, KY:
   lat: 38.3097365
   lng: -85.5638547
@@ -32976,6 +32986,9 @@
 6900 Oakview Ct, Louisville, KY:
   lat: 38.1487184
   lng: -85.6187751
+6900 Oakwood Ave, Louisville, KY:
+  lat: 38.1772907
+  lng: -85.7802678
 6900 Pecan Way, Louisville, KY:
   lat: 38.1093203
   lng: -85.7705406
@@ -38051,6 +38064,7 @@
 900 Sinclair, Louisville, KY:
   lat: 38.1210779
   lng: -85.7498506
+900 South 13th Street, Greten Ln, Louisville, KY: null
 900 South 17th Street, Louisville, KY:
   lat: 38.243475
   lng: -85.781901
