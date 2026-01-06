@@ -5962,6 +5962,9 @@
   lat: 38.2558623
   lng: -85.4945443
 1300 Cleo Ave B2, Louisville, KY: null
+1300 Cleo Ave, Louisville, KY:
+  lat: 38.1724772
+  lng: -85.7044421
 1300 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
@@ -38807,6 +38810,7 @@
   lat: 38.110791
   lng: -85.693392
 9500 US Highway 42, Louisville, KY: null
+9500 Westmore Road, Louisville, KY: null
 9500 Westport Rd near Indian Lake Dr, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
