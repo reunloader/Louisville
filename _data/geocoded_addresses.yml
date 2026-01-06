@@ -8149,6 +8149,7 @@
 1500 Sadie Ln, Louisville, KY:
   lat: 38.180822
   lng: -85.808232
+1500 Safford Street, Louisville, KY: null
 1500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -18060,6 +18061,7 @@
 300 East Burnett, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
+300 East Calvary Avenue, Louisville, KY: null
 300 East Chatham Street, Louisville, KY: null
 300 East Chestnut near Lumad Commons Park, Louisville, KY:
   lat: 38.247908
@@ -32411,6 +32413,9 @@
 6600 Everton Dr, Louisville, KY:
   lat: 38.1598329
   lng: -85.8587888
+6600 Greenup Rd, Louisville, KY:
+  lat: 38.2130189
+  lng: -85.7315322
 6600 Harrods View Cir, Crest Street, Woodrow's Court, Louisville, KY: null
 6600 Hertz View Circle, Louisville, KY: null
 6600 Hunter's Creek, Louisville, KY: null
