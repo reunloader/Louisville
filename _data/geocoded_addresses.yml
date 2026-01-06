@@ -953,6 +953,7 @@
 100 Nolin Pl, Louisville, KY:
   lat: 38.1731176
   lng: -85.7582745
+100 Norberg Drive, Louisville, KY: null
 ? 100 North 19th Street to attend to a 25-year-old female. The patient was experiencing
   both chest and abdominal pain, and medical personnel provided care., Louisville,
   KY
@@ -6583,6 +6584,9 @@
   lat: 38.2502801
   lng: -85.7733327
 1300 West Kentucky at a private trust, Louisville, KY:
+  lat: 38.2474957
+  lng: -85.773462
+1300 West Kentucky, Louisville, KY:
   lat: 38.2474957
   lng: -85.773462
 1300 West Markridge Street, Louisville, KY: null
@@ -27921,6 +27925,7 @@
 500 South4th Street. Officers responded, Louisville, KY:
   lat: 38.2509279
   lng: -85.7578311
+500 South8, Louisville, KY: null
 500 South8th Street, Louisville, KY:
   lat: 38.250978
   lng: -85.764372
