@@ -2467,6 +2467,10 @@
   lat: 38.2203617
   lng: -85.4783836
 1000 NW, Louisville, KY: null
+1000 Narragansett Dr, Louisville, KY:
+  lat: 38.2257798
+  lng: -85.8024807
+1000 Narragansett Dr, but no one was heard when officers called back, Louisville, KY: null
 1000 Neighborhood Pl, Louisville, KY:
   lat: 38.1159005
   lng: -85.7510211
@@ -26476,6 +26480,7 @@
   lat: 38.1766443
   lng: -85.7992227
 4700 Mill Trace Pl, Louisville, KY: null
+4700 Mill Trace Pl, specifically in tent 203, Louisville, KY: null
 ? 4700 Mill Trace Place. The caller indicated that family members were attempting
   to harm them and refused to provide a specific apartment number. Responding units
   were dispatched to investigate the situation and ensure the safety of those involved.,
@@ -27435,6 +27440,9 @@
 500 East Jefferson, Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
+500 East Liberty, Louisville, KY:
+  lat: 38.251015
+  lng: -85.744424
 500 East Oak Cross, Louisville, KY: null
 500 East W Jacob St, Louisville, KY: null
 500 East W Jacob St, specifically in building 15, zone 6, Louisville, KY: null
@@ -29903,6 +29911,9 @@
 5900 Full Moon Ct, Louisville, KY:
   lat: 38.16863
   lng: -85.848698
+5900 Gardiner Ln, Louisville, KY:
+  lat: 38.2095394
+  lng: -85.6780905
 5900 Grandel Meadow Ct, Louisville, KY:
   lat: 38.1572617
   lng: -85.8607252
