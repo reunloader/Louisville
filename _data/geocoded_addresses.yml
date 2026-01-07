@@ -2845,6 +2845,9 @@
 1000 South Hancock, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
+1000 South Jackson near East Kentucky and Evans St, Louisville, KY:
+  lat: 38.2374663
+  lng: -85.747069
 1000 South Jackson near East Kentucky and St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
@@ -10755,6 +10758,9 @@
   lng: -85.7734909
 1900 South 7th Street, White Castle, Louisville, KY: null
 1900 South First Street, Louisville, KY: null
+1900 South Floyd near East Brandeis and East Bloom, Louisville, KY:
+  lat: 38.2197325
+  lng: -85.754633
 1900 South Hirsch Hornets, causing concern, Louisville, KY: null
 1900 South Hurstburn Parkway, Louisville, KY: null
 1900 South Hurston Parkway near Brunson Parkway, Louisville, KY: null
@@ -34352,6 +34358,7 @@
 700 West Oak, Louisville, KY:
   lat: 38.235384
   lng: -85.765257
+700 West Oaks near South 7th and South 9th Street ramp, Louisville, KY: null
 700 West Orange City, Louisville, KY: null
 700 West Orangeby Avenue near 9th Street, Louisville, KY:
   lat: 38.2345368
