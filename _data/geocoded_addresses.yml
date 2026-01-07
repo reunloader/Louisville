@@ -7033,6 +7033,7 @@
   lng: -85.7407906
 1400 Brown Plain, Louisville, KY: null
 1400 Browns Ln, Crop St of Ravenwood and Dutchman, Louisville, KY: null
+1400 Browns Ln, Health Group, Louisville, KY: null
 1400 Browns Ln, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
@@ -13480,6 +13481,8 @@
 2000 Cypress St, Louisville, KY:
   lat: 38.220986
   lng: -85.800482
+2000 DNC Sierra, Louisville, KY: null
+2000 DNC Sierra. Responding units were actively searching, Louisville, KY: null
 2000 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
@@ -14834,6 +14837,9 @@
 2200 Stony Board Drive who reported experiencing chest pains. Responding units were able, Louisville, KY: null
 2200 Stony Board Drive, Louisville, KY: null
 2200 Stony Grove, Garrow Ct, Louisville, KY: null
+2200 Talbott Ave, Louisville, KY:
+  lat: 38.227106
+  lng: -85.683795
 2200 Taylor's Road, Louisville, KY: null
 2200 Taylor's Road. Responding units were dispatched, Louisville, KY: null
 2200 Telliersville Road, Louisville, KY: null
@@ -18321,6 +18327,7 @@
   lat: 38.255761
   lng: -85.775666
 300 Greenhaven Dr, Louisville, KY: null
+300 Greenwood Rd, possibly related, Louisville, KY: null
 300 Hatcher Ave, Louisville, KY:
   lat: 38.153733
   lng: -85.765394
@@ -23476,6 +23483,7 @@
 400 Northgate Rd, Louisville, KY:
   lat: 38.1109175
   lng: -85.7702303
+400 Oak Colony Cove, Louisville, KY: null
 400 Oak and Marlis, Louisville, KY: null
 400 Ohio near South 45 at Cecil Ave, Louisville, KY:
   lat: 38.1063316
@@ -33420,6 +33428,9 @@
 6900 Triangle Dr, Louisville, KY:
   lat: 38.1615302
   lng: -85.8015495
+6900 W Jefferson St, Louisville, KY:
+  lat: 38.2559959
+  lng: -85.7766293
 ? 6900 Yuma Way involving a rollover accident with a four-wheeler. Reports indicated
   that an intoxicated driver was involved, and the victim was pinned by the vehicle.
   Authorities noted the presence of a firearm, Louisville, KY
@@ -41333,6 +41344,7 @@ West Towson Boulevard and Buckner Ave, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westbrook Rd and Fox Ave, Louisville, KY: null
 Western Ave and Esther Blvd, Louisville, KY: null
+Western Ave and Woodbourne Ave, Louisville, KY: null
 Westlawn Ave and Southern Pky, Louisville, KY: null
 Westport Rd and Accomack Dr, Louisville, KY: null
 Westport Rd and Ackermann Road, Louisville, KY: null
