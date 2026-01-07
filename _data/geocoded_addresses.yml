@@ -3466,6 +3466,9 @@
 10500 Sunlight Ln, Louisville, KY:
   lat: 38.1003874
   lng: -85.8411061
+10500 Westport Rd, Louisville, KY:
+  lat: 38.2938379
+  lng: -85.5578527
 10600 Charlene Dr, Louisville, KY: null
 10600 Dixie Hwy at New Life Ministries, Louisville, KY:
   lat: 38.101287
@@ -20497,6 +20500,9 @@
 3400 Barton Road, Louisville, KY:
   lat: 38.114744
   lng: -85.8695175
+3400 Bonaventure, Louisville, KY:
+  lat: 38.122611
+  lng: -85.70017
 3400 Boxelder Rd, Louisville, KY:
   lat: 38.197263
   lng: -85.842053
@@ -20583,6 +20589,7 @@
   lat: 38.258866
   lng: -85.80747
 3400 High Climb, Louisville, KY: null
+3400 Hollins Rd (access road), Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
 3400 Janell Rd, Louisville, KY: null
 3400 Kathleen Dykstra, Louisville, KY: null
@@ -20906,6 +20913,9 @@
   lat: 38.200581
   lng: -85.602288
 3500 Fern Lea Rd near Crums Ln and Lee Herge Ct, Louisville, KY: null
+3500 Fern Lea Rd near Crums Ln, Louisville, KY:
+  lat: 38.1991874
+  lng: -85.8371074
 3500 Fern Lea Rd, Louisville, KY: null
 3500 Fincastle Rd, Louisville, KY:
   lat: 38.207673
@@ -28857,6 +28867,9 @@
 5100 W W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
+5100 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 5100 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
@@ -31651,6 +31664,7 @@
 6000 Stone Bluff Rd, Louisville, KY:
   lat: 38.16241
   lng: -85.622481
+6000 Street, Louisville, KY: null
 6000 Timber Ridge Dr, Louisville, KY: null
 6000 Upper Hunter's Trace, Louisville, KY: null
 6000 W Madison St, Louisville, KY:
@@ -37964,6 +37978,7 @@
   lat: 38.227742
   lng: -85.738702
 900 Avenue**, Louisville, KY: null
+900 Baker State Drive, Louisville, KY: null
 900 Barret Ave and 1A La Grange Rd, Louisville, KY: null
 900 Barret Ave at Big Bad Breakfast, Louisville, KY:
   lat: 38.239507
