@@ -1738,6 +1738,9 @@
   lng: -85.759407
 100 Westbound, Louisville, KY: null
 100 Westport Rd and reported the area clear, Louisville, KY: null
+100 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 100 Westport Ridgeway, Louisville, KY: null
 100 Wetstein Ave, Louisville, KY:
   lat: 38.2256323
@@ -36181,6 +36184,7 @@
 ? 800 Baker, a blue SUV and a black SUV collided with a building on Langdon Dr. The
   impact caused one vehicle, Louisville, KY
 : null
+800 Bakers Ln, Louisville, KY: null
 800 Bardstown Rd, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
@@ -36518,6 +36522,7 @@
   lat: 38.1908906
   lng: -85.7431851
 800 Pigsley Highway in Rockford Ln, Louisville, KY: null
+800 Radio Lane, Louisville, KY: null
 800 Ransum Dr, Louisville, KY: null
 800 Riedley Ct, Louisville, KY:
   lat: 38.2020181
