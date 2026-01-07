@@ -8225,6 +8225,7 @@
   lat: 38.180822
   lng: -85.808232
 1500 Safford Street, Louisville, KY: null
+1500 San Jose Ave, number 7, Louisville, KY: null
 1500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -13379,6 +13380,7 @@
   lat: 38.2188313
   lng: -85.7034735
 2000 Berry Blvd and 1700 block of South 3rd Street, Louisville, KY: null
+2000 Blackmail, Louisville, KY: null
 2000 Bonnycastle Ave, Crest Street, Parsons Pl, Bardstown Rd, Louisville, KY: null
 2000 Boulevard Napoleon near Princeton Dr, Louisville, KY:
   lat: 38.225669
@@ -16679,6 +16681,9 @@
   lat: 38.2604854
   lng: -85.7937799
 2600 West Jefferson, Louisville, KY:
+  lat: 38.2604854
+  lng: -85.7937799
+2600 West Jefferson, near South 26th and South 28th, Louisville, KY:
   lat: 38.2604854
   lng: -85.7937799
 2600 West Kentucky in the South Alley, Louisville, KY: null
