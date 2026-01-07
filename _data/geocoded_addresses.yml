@@ -18508,6 +18508,9 @@
 300 North 19th Street, Louisville, KY:
   lat: 38.262152
   lng: -85.780963
+300 North 20th Street, Louisville, KY:
+  lat: 38.262339
+  lng: -85.782615
 300 North 22nd Street, Louisville, KY:
   lat: 38.262708
   lng: -85.785939
@@ -23074,6 +23077,7 @@
 400 E W Chestnut St near W Chestnut St parking garage, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
+400 E W Chestnut St parking garage, Louisville, KY: null
 400 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
