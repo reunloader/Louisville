@@ -2017,6 +2017,9 @@
 1000 Cherry Way, Louisville, KY:
   lat: 38.1759724
   lng: -85.8134936
+1000 Clay Ave, Louisville, KY:
+  lat: 38.142
+  lng: -85.700748
 1000 Clove Tree Ct, Louisville, KY:
   lat: 38.1120328
   lng: -85.6133925
@@ -3305,6 +3308,9 @@
 10300 Arbor Oak Dr, Louisville, KY:
   lat: 38.1107685
   lng: -85.6602102
+10300 Brookridge Village Blvd, Louisville, KY:
+  lat: 38.1435922
+  lng: -85.5811458
 10300 Dixie Hwy, Louisville, KY:
   lat: 38.1060157
   lng: -85.8683925
@@ -3461,6 +3467,9 @@
   lat: 38.1003874
   lng: -85.8411061
 10600 Charlene Dr, Louisville, KY: null
+10600 Dixie Hwy at New Life Ministries, Louisville, KY:
+  lat: 38.101287
+  lng: -85.8712324
 10600 Dixie Hwy, Louisville, KY: null
 10600 Four Oaks Ct, Louisville, KY:
   lat: 38.1913107
@@ -12151,6 +12160,7 @@
 200 North39th Street, Louisville, KY:
   lat: 38.2657911
   lng: -85.8133557
+200 Northbound I-200 near the 29-mile marker, Louisville, KY: null
 200 Northbound at Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
