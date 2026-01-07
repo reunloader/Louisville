@@ -3041,6 +3041,7 @@
 1000 West Market at The Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 West Market, Crop St of Chapel St in South 11th, Louisville, KY: null
 1000 West Market, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -17627,6 +17628,7 @@
 2900 Brownsboro Rd at Super USA, Louisville, KY:
   lat: 38.2598544
   lng: -85.6878487
+2900 Brownsboro Rd, Crop St of Rebel Rd in Crescent Ave, Louisville, KY: null
 2900 Brownsboro Rd, Louisville, KY:
   lat: 38.2598544
   lng: -85.6878487
@@ -34348,6 +34350,9 @@
   lat: 38.243928
   lng: -85.757184
 700 South 42nd Street, Louisville, KY:
+  lat: 38.250247
+  lng: -85.822174
+700 South 42nd Street. Units are responding, Louisville, KY:
   lat: 38.250247
   lng: -85.822174
 700 South 43rd Street, Louisville, KY:
