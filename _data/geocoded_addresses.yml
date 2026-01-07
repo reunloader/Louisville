@@ -7684,6 +7684,7 @@
 14400 Tyrone Dr, Louisville, KY:
   lat: 38.200409
   lng: -85.6731002
+14500 Beercross Pike, Louisville, KY: null
 14500 English Park Cir, Louisville, KY:
   lat: 38.2242842
   lng: -85.4953906
@@ -15293,6 +15294,7 @@
   lat: 38.2587765
   lng: -85.7890959
 2300 W Muhammad Ali Blvd, cross of 24th and 22nd, Louisville, KY: null
+2300 W Oak St rear, Louisville, KY: null
 2300 West Armsby Street, Louisville, KY: null
 2300 West Broadway 3:00 a, Louisville, KY: null
 2300 West Broadway 3:00 a.m., Louisville, KY: null
@@ -17395,6 +17397,7 @@
   lat: 38.2879362
   lng: -85.5657696
 2900 Blackbarktown Road, Louisville, KY: null
+2900 Bon Air Ave crossing Hawthorne Ave and Kings Hwy, Louisville, KY: null
 2900 Bon Air Ave, Louisville, KY:
   lat: 38.221389
   lng: -85.667517
@@ -38216,6 +38219,9 @@
 900 S Clay St, Louisville, KY:
   lat: 38.239502
   lng: -85.742564
+900 S Shelby St near East Kentucky and Caldwell, Louisville, KY:
+  lat: 38.2398145
+  lng: -85.7406323
 900 S Shelby St reported trouble with a former property owner attempting, Louisville, KY: null
 900 S Shelby St, Louisville, KY:
   lat: 38.2398145
@@ -39916,6 +39922,7 @@ Bellarmine Blvd and Richmond Dr, Louisville, KY: null
 Bellevue Ave and Beecher St, Louisville, KY: null
 Bellevue Ave and South Fitz Street, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
+Bellwortsville Road and Brownsboro Rd, Louisville, KY: null
 Belmont Ave and Barbara Ave, Louisville, KY: null
 Belmont Ave and Hawthorne Ave, Louisville, KY: null
 Belmont Rd and Goldsmith Ln, Louisville, KY: null
