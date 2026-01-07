@@ -17844,6 +17844,9 @@
   lat: 38.1408403
   lng: -85.7646787
 30 Charter Oaks Dr, Louisville, KY: null
+30 Hikes Ln, Louisville, KY:
+  lat: 38.2061085
+  lng: -85.6488189
 30 Industry Rd, Louisville, KY:
   lat: 38.2139783
   lng: -85.7642889
@@ -31256,6 +31259,7 @@
 600 South18th Street, Louisville, KY:
   lat: 38.2513953
   lng: -85.7812397
+600 South26, Louisville, KY: null
 600 South26th St, Louisville, KY:
   lat: 38.252882
   lng: -85.794613
@@ -31903,6 +31907,9 @@
   lat: 38.1263057
   lng: -85.8556348
 6200 Ferris Way, Louisville, KY: null
+6200 Forest at Goodwill, Louisville, KY:
+  lat: 38.1607226
+  lng: -85.6831717
 6200 Global Dr, Louisville, KY:
   lat: 38.1397231
   lng: -85.8923691
@@ -41254,6 +41261,7 @@ Vetter Ave and Atwood St, Louisville, KY: null
 Villa Church Road and Bardstown Rd, Louisville, KY: null
 Vine Crest Ave and Lyndon Lofts Ln, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
+Waller Ln and Columbia Dr, Louisville, KY: null
 Walter Ave and Lonsdale Ave, Louisville, KY: null
 Walter Ave and Rosedale Ave, Louisville, KY: null
 Warranty Drive and Forest Dr, Louisville, KY: null
