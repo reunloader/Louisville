@@ -2700,6 +2700,9 @@
 1000 S Jackson St near Crop St, Kentucky, and Evans St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
+1000 S Jackson St near East Kentucky and Evans St, Louisville, KY:
+  lat: 38.2374663
+  lng: -85.747069
 1000 S Jackson St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
@@ -18319,6 +18322,9 @@
 300 Modern Way, Louisville, KY:
   lat: 38.2040002
   lng: -85.8365628
+300 Morat Ave near Ralph Ave, Louisville, KY:
+  lat: 38.2107404
+  lng: -85.8323503
 300 New Cut Rd, Louisville, KY:
   lat: 38.1574318
   lng: -85.7779933
@@ -34297,6 +34303,9 @@
 700 W Muhammad Ali Blvd. The alarm company confirmed they were dispatching the call, Louisville, KY:
   lat: 38.251615
   lng: -85.762625
+700 W Oak St near South 7th and South 9th Street ramp, Louisville, KY:
+  lat: 38.235384
+  lng: -85.765257
 700 W Oak St, Louisville, KY:
   lat: 38.235384
   lng: -85.765257
@@ -36377,6 +36386,12 @@
   lat: 38.268037
   lng: -85.7001384
 800 Rubble Avenue, Louisville, KY: null
+800 S Crescent St near Valero, Louisville, KY:
+  lat: 38.255314
+  lng: -85.7217401
+800 S Floyd St, Louisville, KY:
+  lat: 38.242619
+  lng: -85.750277
 800 S Hancock St, Louisville, KY:
   lat: 38.241639
   lng: -85.744251
