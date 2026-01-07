@@ -18375,6 +18375,9 @@
 300 Kenny Blvd near LeSane and Elmer, Louisville, KY:
   lat: 38.1362235
   lng: -85.7712257
+300 Kenny Blvd, Louisville, KY:
+  lat: 38.1362235
+  lng: -85.7712257
 300 Kilmoria, Louisville, KY: null
 300 Kilmory Ave, Louisville, KY:
   lat: 38.1595977
@@ -18850,6 +18853,9 @@
 300 West Woodmont, Louisville, KY:
   lat: 38.2900837
   lng: -85.4846712
+300 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 300 Whiskey King John, and the owner was not local. Police attempted, Louisville, KY: null
 300 Williamson Parkway. The situation is being assessed, Louisville, KY: null
 300 Winkler Ave, Louisville, KY:
@@ -20560,6 +20566,9 @@
 3400 Chauncey Ave, Louisville, KY:
   lat: 38.2313578
   lng: -85.8123939
+3400 Collins Ln, Louisville, KY:
+  lat: 38.2931018
+  lng: -85.5196502
 3400 Coventry Common Travel, Louisville, KY: null
 3400 Coventry Commons Dr, Department 103, Louisville, KY: null
 3400 Coventry Commons Dr, unit 104, Louisville, KY: null
@@ -33731,6 +33740,7 @@
 700 East Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
+700 East Jail, Louisville, KY: null
 700 East Jefferson (Tempo by Hilton), Louisville, KY: null
 700 East Jefferson Street 8:00 a, Louisville, KY: null
 700 East Jefferson Street 8:00 a.m.AM, Louisville, KY: null
