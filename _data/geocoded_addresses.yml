@@ -65,6 +65,9 @@
   lat: 38.1818658
   lng: -85.7683443
 00 Wally and Court, Louisville, KY: null
+01 Bardstown Rd, Louisville, KY:
+  lat: 38.1532061
+  lng: -85.5888316
 01 Blackthorn Rd, Louisville, KY: null
 01 Cedar Springs Boulevard, Louisville, KY:
   lat: 38.1432222
@@ -11989,6 +11992,12 @@
 200 N S Chadwick Rd, Louisville, KY: null
 200 New Bourne Road, Louisville, KY: null
 200 New Cud, Louisville, KY: null
+200 New Cut near South, Louisville, KY:
+  lat: 38.1187636
+  lng: -85.776814
+200 New Cut. One person was reported, Louisville, KY:
+  lat: 38.1187636
+  lng: -85.776814
 200 New York Street, Louisville, KY: null
 200 Niles Hill Lane, Louisville, KY: null
 200 Nits near grocery stores, Louisville, KY: null
@@ -12617,6 +12626,9 @@
 200 Starlite Ct, Louisville, KY:
   lat: 38.2388753
   lng: -85.6662901
+200 Stone St near I-200, Louisville, KY:
+  lat: 38.2126649
+  lng: -85.7298221
 200 Support, Louisville, KY: null
 200 Sycamore Ave, Louisville, KY:
   lat: 38.2558311
@@ -32434,6 +32446,7 @@
 6400 Marina Dr, near Marina Cove, Louisville, KY:
   lat: 38.330943
   lng: -85.6276684
+6400 McAnlis Circle, Louisville, KY: null
 6400 Montego Bay Rd, Louisville, KY:
   lat: 38.155313
   lng: -85.640974
@@ -34321,6 +34334,9 @@
 700 Shelby Pkwy, Louisville, KY:
   lat: 38.231952
   lng: -85.743079
+700 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 700 Shiloh Trail, Louisville, KY: null
 700 South 11th Street, Louisville, KY:
   lat: 38.247204
@@ -37730,6 +37746,9 @@
 85000 Bost Ln, Louisville, KY:
   lat: 38.1271262
   lng: -85.6956247
+8509 Moody Rd, Louisville, KY:
+  lat: 38.1268937
+  lng: -85.6905721
 ? 8600 Ambrose Lane following reports of three aggressive pit bulls. Animal control
   services were contacted to assist with the situation and ensure public safety.,
   Louisville, KY
