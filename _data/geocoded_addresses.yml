@@ -3736,6 +3736,9 @@
 1100 Brookline Ave, Louisville, KY:
   lat: 38.1750246
   lng: -85.7782791
+1100 Canopy Ct, Louisville, KY:
+  lat: 38.241975
+  lng: -85.813861
 ? 1100 Carabao Way. Paramedics responded to provide assistance for a reported medical
   emergency. The nature of the medical issue required immediate attention from the
   dispatched unit., Louisville, KY
@@ -11004,6 +11007,7 @@
 200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker area, 26th Street, Louisville, KY: null
 200 Baker was subsequently reported as clear of any related activity, Louisville, KY: null
+200 Baker, 500 block of South 41st Street, and Broadway, Louisville, KY: null
 200 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -41120,6 +41124,7 @@ West Towson Boulevard and Buckner Ave, Louisville, KY: null
 Westbrook Rd and Aiken Ridge Dr, Louisville, KY: null
 Westbrook Rd and Fox Ave, Louisville, KY: null
 Western Ave and Esther Blvd, Louisville, KY: null
+Westlawn Ave and Southern Pky, Louisville, KY: null
 Westport Rd and Accomack Dr, Louisville, KY: null
 Westport Rd and Ackermann Road, Louisville, KY: null
 Westport Rd and Chamberlain Ln, Louisville, KY: null
