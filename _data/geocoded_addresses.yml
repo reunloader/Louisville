@@ -1387,6 +1387,9 @@
 100 South 43rd Street near West Market, Louisville, KY:
   lat: 38.2651697
   lng: -85.8189753
+100 South 43rd Street, Louisville, KY:
+  lat: 38.2651697
+  lng: -85.8189753
 100 South 4th Street, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
@@ -17085,6 +17088,9 @@
 2800 Baganville Ct, Louisville, KY: null
 2800 Big Inhale Lane, Louisville, KY: null
 2800 Blake and Baker Parkway, Louisville, KY: null
+2800 Blankenbaker Pky, Louisville, KY:
+  lat: 38.2435378
+  lng: -85.547026
 2800 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
@@ -40863,6 +40869,7 @@ New Cut Rd and Southern Pky, Louisville, KY: null
 New La Grange Rd and Factory Ln, Louisville, KY: null
 New Lynnview Dr and South Crum Lane, Louisville, KY: null
 New York Street and Lentz Ave, Louisville, KY: null
+Newbridge Rd and Barchow Road, Louisville, KY: null
 Newburg Rd and Abernathy Rd, Louisville, KY: null
 Newburg Rd and Baxter Manor Lane, Louisville, KY: null
 Newburg Rd and Bellarmine Blvd, Louisville, KY: null
