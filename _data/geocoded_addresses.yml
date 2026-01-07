@@ -12093,6 +12093,9 @@
 200 North. Police units were actively searching, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North. The caller reported flashing lights from the vehicle, and responders checked, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North. The incident involved a white Honda CRV and a silver F-150. Units worked, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -31375,6 +31378,9 @@
   lat: 38.2330794
   lng: -85.7155013
 600 Winkler Ave, Louisville, KY: null
+600 Woodlake Dr, Louisville, KY:
+  lat: 38.2492386
+  lng: -85.483545
 ? 600 Woodruff Ave in response to a fire. The incident was reported as a trash fire
   located on the side porch of a vacant house. The responding units were able to manage
   and resolve the situation., Louisville, KY
@@ -33086,6 +33092,7 @@
 6900 Brookley Dr, Louisville, KY:
   lat: 38.0910295
   lng: -85.6742718
+6900 Brooklyn, Louisville, KY: null
 6900 Brooklyn. A BOLO was issued with a description of the vehicle, and officers responded, Louisville, KY: null
 6900 Brooklyn. The vehicle theft remains under investigation as officers work, Louisville, KY: null
 6900 Butler's Road, Louisville, KY: null
