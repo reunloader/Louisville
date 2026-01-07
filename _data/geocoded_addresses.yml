@@ -29956,6 +29956,10 @@
 5700 Bardstown Rd, Louisville, KY:
   lat: 38.1628763
   lng: -85.5970273
+5700 Bardstown Rd, with units arriving, Louisville, KY: null
+5700 Bardstown Rd,, Louisville, KY:
+  lat: 38.1628763
+  lng: -85.5970273
 5700 Barker Personal, Louisville, KY: null
 5700 Blue Springs Dr, Louisville, KY: null
 5700 Blue Spurs Ct, Louisville, KY: null
@@ -31412,6 +31416,7 @@
   lat: 38.2330794
   lng: -85.7155013
 600 Winkler Ave, Louisville, KY: null
+600 Woodbluff Trace, Crestridge Lake Forest Parkway, Louisville, KY: null
 600 Woodlake Dr, Louisville, KY:
   lat: 38.2492386
   lng: -85.483545
