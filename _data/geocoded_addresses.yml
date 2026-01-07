@@ -2326,6 +2326,9 @@
 1000 Lampton Alley, Louisville, KY:
   lat: 38.23999
   lng: -85.736268
+1000 Layne Ct, Louisville, KY:
+  lat: 38.1415118
+  lng: -85.6606289
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
@@ -9344,6 +9347,9 @@
   lng: -85.8187666
 1700 Kentucky 29, Louisville, KY: null
 1700 Kentucky 29. During the check, the vehicle was confirmed to be clear and current, Louisville, KY: null
+1700 Lang Ct, Louisville, KY:
+  lat: 38.2290972
+  lng: -85.815357
 1700 Lepanto Ave, Louisville, KY: null
 1700 Liberty Bell Way, Louisville, KY:
   lat: 38.194681
@@ -17125,6 +17131,9 @@
 2800 Grinstead Dr, Louisville, KY:
   lat: 38.250485
   lng: -85.688393
+2800 Hale Ave, Louisville, KY:
+  lat: 38.239368
+  lng: -85.80023
 2800 Highwood Pl, Louisville, KY:
   lat: 38.2687913
   lng: -85.7028155
@@ -40103,6 +40112,7 @@ Caple Ave and London Dr, Louisville, KY: null
 Caple Ave and Manslake Road, Louisville, KY: null
 Cardinal Dr and Henderson Ave, Louisville, KY: null
 Carmelwood Dr and Kentucky Ave, Louisville, KY: null
+Carol Ave and Hannah Ave, Louisville, KY: null
 Carolyn Rd and Tecumseh Ave, Louisville, KY: null
 Carthobe Woodpoint Blvd and Napa Valley Dr, Louisville, KY: null
 Cartier Firmly Rd and Janell Rd, Louisville, KY: null
