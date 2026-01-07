@@ -14692,6 +14692,7 @@
 2200 N. Similar Parkway. While one unit was responding, the alarm company contacted the call taker, Louisville, KY:
   lat: 38.1428812
   lng: -85.7612518
+2200 Newmarket Dr, Louisville, KY: null
 2200 North 17th Street, Louisville, KY:
   lat: 38.262859
   lng: -85.7768541
@@ -27747,6 +27748,9 @@
   Louisville, KY
 : lat: 38.2146706
   lng: -85.7748283
+500 Evergreen, Louisville, KY:
+  lat: 38.3083846
+  lng: -85.5156038
 500 Falkirk Ct, Louisville, KY: null
 500 Five Feet, Louisville, KY: null
 500 Five Feet. Emergency services were dispatched, Louisville, KY: null
@@ -31096,6 +31100,9 @@
   Louisville, KY
 : null
 600 South 2nd Street, between West Broadway and West Chester Street,, Louisville, KY: null
+600 South 2nd, Louisville, KY:
+  lat: 38.24847
+  lng: -85.754691
 600 South 35th Street, Louisville, KY:
   lat: 38.254531
   lng: -85.809314
@@ -36836,6 +36843,7 @@
 800 south 4th street, Louisville, KY:
   lat: 38.2440401
   lng: -85.7592478
+800 the highway, Louisville, KY: null
 800 westbound between Bardstown and Wheelichurch, Louisville, KY: null
 8000 Afterglow Dr, Louisville, KY:
   lat: 38.1342766
