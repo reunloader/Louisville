@@ -3855,6 +3855,9 @@
 1100 East Broadway. The vehicle was observed, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
+1100 East Market near the purple horse entrance, Louisville, KY:
+  lat: 38.2518705
+  lng: -85.7309248
 1100 East Market, Louisville, KY:
   lat: 38.2518705
   lng: -85.7309248
@@ -9058,6 +9061,7 @@
   lat: 38.2366926
   lng: -85.7811138
 1600 W Oak St, the 100 block of West Oak, and the 1000 block of Dr, Louisville, KY: null
+1600 Webster St, California Community Center, Louisville, KY: null
 1600 West Broadway, Louisville, KY:
   lat: 38.24828
   lng: -85.7784033
@@ -16037,6 +16041,9 @@
 2500 Elliott Ave, Louisville, KY:
   lat: 38.2503305
   lng: -85.7933262
+2500 Ellsworth Ave near Crop St, Irving Avenue, and Harrison Ave, Louisville, KY:
+  lat: 38.213192
+  lng: -85.745382
 2500 Export Dr, Louisville, KY:
   lat: 38.1203161
   lng: -85.7167713
@@ -28228,6 +28235,9 @@
 500 South Fifth, Louisville, KY: null
 500 South Jacks, Louisville, KY: null
 500 South Jackson University Hospital, PACU Bay 10, Louisville, KY: null
+500 South Jackson near an ambulatory care building, Louisville, KY:
+  lat: 38.249645
+  lng: -85.744921
 500 South Jackson, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
