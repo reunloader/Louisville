@@ -9541,6 +9541,7 @@
   lat: 38.1806477
   lng: -85.8101697
 1700 Sadie Ln, across from Sanders Ln, Louisville, KY: null
+1700 San Jose Ave, Louisville, KY: null
 1700 Shady Villa Ct, Louisville, KY:
   lat: 38.1632086
   lng: -85.6804864
@@ -29776,6 +29777,11 @@
   lat: 38.1687423
   lng: -85.6879282
 5600 Chenoweth Run Rd, Crest Street of Goose Ln and Mason Rd, Louisville, KY: null
+5600 Christian Ridge Ct and 1700 block of San Jose Ave, Louisville, KY: null
+5600 Christian Ridge Ct and the 1700 block of San Jose Ave, Louisville, KY: null
+? 5600 Christian Ridge Ct and the 1700 block of San Jose Ave, as part of their investigation
+  into the incident, Louisville, KY
+: null
 5600 Dittmar Dr, Louisville, KY:
   lat: 38.1479855
   lng: -85.6774792
