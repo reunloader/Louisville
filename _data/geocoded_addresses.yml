@@ -13020,6 +13020,7 @@
 200 West. The vehicle was observed, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 Westbound I-200 at Southern Pky ramp, Louisville, KY: null
 200 Westbound I-64 at W Market St, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
@@ -17910,6 +17911,9 @@
 29900 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
+3 Blankenbaker Pky, Louisville, KY:
+  lat: 38.2435378
+  lng: -85.547026
 3 Mackie Ln, Louisville, KY:
   lat: 38.1408403
   lng: -85.7646787
@@ -26824,6 +26828,7 @@
   lng: -85.7679452
 4700 Carat Plain, Louisville, KY: null
 4700 Carat Plain., Louisville, KY: null
+4700 Carrack, Louisville, KY: null
 4700 Carrick Lane, Louisville, KY: null
 4700 Cofer Ave, Louisville, KY:
   lat: 38.137464
