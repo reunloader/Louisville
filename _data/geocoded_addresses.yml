@@ -4080,6 +4080,9 @@
 1100 Rostrevor Cir, Louisville, KY:
   lat: 38.2361335
   lng: -85.6811508
+1100 Rufer Ave, Louisville, KY:
+  lat: 38.232392
+  lng: -85.732094
 1100 S Brook St due, Louisville, KY: null
 1100 S Brook St, Louisville, KY:
   lat: 38.2366186
@@ -13268,6 +13271,7 @@
 200 west, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 westbound I-, Louisville, KY: null
 200 westbound at Crittenden Dr, Louisville, KY:
   lat: 38.1922166
   lng: -85.7555947
@@ -17339,6 +17343,7 @@
   lat: 38.2231367
   lng: -85.7727441
 2800 South 8th Street at Cardinal Stadium, Louisville, KY: null
+2800 South Forst Street, Louisville, KY: null
 2800 South Station Road, Louisville, KY:
   lat: 38.2203617
   lng: -85.4783836
