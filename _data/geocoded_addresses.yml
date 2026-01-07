@@ -10552,6 +10552,9 @@
   lng: -85.6284189
 1900 Evergreen Rd, cross of Nall Ave and Valley View Rd, Louisville, KY: null
 1900 Farnsley Lane near Chase Rd and Dixie Hwy, Louisville, KY: null
+1900 Farrington Dr near Graston Ave in Fielding Way, Louisville, KY:
+  lat: 38.1691103
+  lng: -85.8304169
 1900 First Parkway, Louisville, KY: null
 1900 Flanders Ct, Louisville, KY:
   lat: 38.208504
@@ -15607,6 +15610,12 @@
 2400 I-65 South regarding a caller's request, Louisville, KY: null
 2400 I-65 South, Louisville, KY: null
 2400 Idle-Wileys Ct, Louisville, KY: null
+2400 Idlewylde Ct near Idlewylde Dr, Louisville, KY:
+  lat: 38.2577435
+  lng: -85.6996236
+2400 Idlewylde Ct, Louisville, KY:
+  lat: 38.2577435
+  lng: -85.6996236
 2400 Jefferson St, Louisville, KY:
   lat: 38.2574083
   lng: -85.7912216
