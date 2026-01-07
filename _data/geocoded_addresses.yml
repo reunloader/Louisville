@@ -10797,6 +10797,7 @@
 1900 Stonegate Manor Dr, Louisville, KY:
   lat: 38.0812767
   lng: -85.883845
+1900 Travillion Way, Louisville, KY: null
 1900 Tri-Z Beyond LaSalle Avenue, Louisville, KY: null
 ? 1900 Tri-Z Beyond LaSalle Avenue. The complaint was anonymous, and officers did
   not observe any other immediate issues. The units cleared the scene after their
@@ -19103,6 +19104,9 @@
 3000 Oread Rd near Napanee Rd, Louisville, KY:
   lat: 38.2651724
   lng: -85.6573807
+3000 Pamela Way, Louisville, KY:
+  lat: 38.216784
+  lng: -85.623446
 3000 Parkland Ct, Louisville, KY: null
 3000 Parkstone Ct, Louisville, KY:
   lat: 38.2887238
@@ -37519,6 +37523,8 @@
   lat: 38.1462326
   lng: -85.8248355
 8600 Longborough Way, Louisville, KY: null
+8600 National Turnpike Circle and Goose Creek Rd and Blossom Ln area, Louisville, KY: null
+8600 National Turnpike Circle. He was refusing, Louisville, KY: null
 8600 National Turnpike and 300 block of Baker, Louisville, KY: null
 8600 National Turnpike, Louisville, KY:
   lat: 38.1253139
@@ -40097,6 +40103,7 @@ Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
 Brosnan Street and Central Ave, Louisville, KY: null
 Browns Ln and Goldsmith Ln, Louisville, KY: null
+Browns Village Rd and Creighton Inn Drive, Louisville, KY: null
 Browns Village Rd and Fallowsville Road, Louisville, KY: null
 Browns World Road and Montclair Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
@@ -40417,6 +40424,7 @@ Global Dr and Renate Rd, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
 Goldsmith Ln and Newburgh Road, Louisville, KY: null
 Goldsmith Ln and Peabody Ln, Louisville, KY: null
+Goose Creek Rd and Blossom Ln, Louisville, KY: null
 Goose Ln and Mason Rd, Louisville, KY: null
 Goss Ave and Eastern Parkway, Louisville, KY: null
 Goss Ave and Hoertz Ave, Louisville, KY: null
