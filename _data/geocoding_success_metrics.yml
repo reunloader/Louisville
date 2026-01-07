@@ -69919,4 +69919,20 @@ history:
   batch_success_rate: 57.14
   batch_new_addresses: 7
   batch_new_successes: 4
-last_updated: '2026-01-07T14:53:25.938016'
+- timestamp: '2026-01-07T15:15:50.786671'
+  total_addresses: 18086
+  successful: 9208
+  failed: 8878
+  success_rate: 50.91
+  failure_rate: 49.09
+  failure_patterns:
+    Intersection format: 1810
+    Contains location qualifiers (near/at): 2441
+    Incomplete/vague address: 2266
+    Other/Unknown: 1838
+    Contains extra sentences/context: 509
+    Police phonetic codes: 14
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-07T15:15:50.786826'
