@@ -11001,6 +11001,7 @@
 200 3rd Street, Louisville, KY:
   lat: 38.254936
   lng: -85.755245
+200 ASN Adam, Louisville, KY: null
 200 Abraham Flecks Northway at UofL Health ER, Louisville, KY:
   lat: 38.2496463
   lng: -85.7514083
@@ -11181,6 +11182,9 @@
   lat: 38.2261448
   lng: -85.7939294
 200 Cambridge Dr near 3rd and 2nd streets, Louisville, KY:
+  lat: 38.1629212
+  lng: -85.7679383
+200 Cambridge Dr near South 3rd Street and South 2nd Street, Louisville, KY:
   lat: 38.1629212
   lng: -85.7679383
 200 Cambridge Dr, Louisville, KY:
@@ -21553,6 +21557,9 @@
   lat: 38.23921
   lng: -85.813755
 3600 W Jefferson St cross-street, Louisville, KY: null
+3600 W Jefferson St near Lindell Ave, Louisville, KY:
+  lat: 38.2600465
+  lng: -85.8097816
 3600 W Jefferson St, Louisville, KY:
   lat: 38.2600465
   lng: -85.8097816
@@ -24049,6 +24056,7 @@
 400 West Market, Louisville, KY:
   lat: 38.2549259
   lng: -85.7571981
+400 West Muhammad Ali alley, Louisville, KY: null
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
 400 West Oak, Louisville, KY:
@@ -24275,6 +24283,9 @@
 4000 Larkwood, Louisville, KY:
   lat: 38.25871
   lng: -85.816467
+4000 Laurelwood Ave near Crop St of Englewood Ave and Richland Ave, Louisville, KY:
+  lat: 38.226391
+  lng: -85.634019
 4000 Laurelwood Ave, Louisville, KY:
   lat: 38.226391
   lng: -85.634019
@@ -25297,6 +25308,7 @@
 4300 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+4300 Bishop Ln, Will E, Louisville, KY: null
 4300 Bishop Ln, unit 303, Louisville, KY: null
 ? 4300 Bishop Ln. This incident was categorized as a public assist, specifically a
   lift assist, indicating the individual needed help getting up. The response was
@@ -36697,6 +36709,9 @@
   lat: 38.2470453
   lng: -85.7988198
 800 South 2nd Street, Louisville, KY:
+  lat: 38.243198
+  lng: -85.755616
+800 South 2nd near West College and West Breckenridge, Louisville, KY:
   lat: 38.243198
   lng: -85.755616
 800 South 31st Street near West Broadway, Louisville, KY:
