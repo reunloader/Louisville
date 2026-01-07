@@ -8019,6 +8019,7 @@
 1500 Farmington Ave, Louisville, KY:
   lat: 38.2002013
   lng: -85.7538527
+1500 Final Street, Louisville, KY: null
 1500 Flat Road, near Publix, Louisville, KY:
   lat: 38.262042
   lng: -85.42537
@@ -31101,6 +31102,9 @@
 600 South 19th Street, Louisville, KY:
   lat: 38.251574
   lng: -85.782833
+600 South 26th Street, Louisville, KY:
+  lat: 38.252882
+  lng: -85.794613
 600 South 27th Street, Louisville, KY:
   lat: 38.251746
   lng: -85.796306
