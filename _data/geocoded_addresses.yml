@@ -1548,6 +1548,7 @@
 100 W Burnett Ave, Louisville, KY:
   lat: 38.2266025
   lng: -85.7569082
+100 W Chestnut St and 2100 block of West Chestnut, Louisville, KY: null
 100 W College St, Louisville, KY:
   lat: 38.243155
   lng: -85.754841
@@ -13658,6 +13659,9 @@
 2000 Nistle Miller Parkway, Louisville, KY: null
 2000 No Veil Road, Louisville, KY: null
 2000 Olde English Ct, was aware of its whereabouts. Police units were dispatched, Louisville, KY: null
+2000 P-Brody Ln near P-Boyd Ct in Goldsmith Ln, Louisville, KY:
+  lat: 38.192182
+  lng: -85.609228
 2000 Pantry, Louisville, KY: null
 2000 Payne St, Louisville, KY:
   lat: 38.2522388
@@ -23315,9 +23319,15 @@
 400 North 20th St, Louisville, KY:
   lat: 38.2636644
   lng: -85.7824983
+400 North 20th Street near Axe and Griffith, Louisville, KY:
+  lat: 38.2636644
+  lng: -85.7824983
 400 North 20th Street, Louisville, KY:
   lat: 38.2636644
   lng: -85.7824983
+? 400 North 20th Street, but no suspects or additional details are available at this
+  time. Authorities are investigating the theft and checking, Louisville, KY
+: null
 400 North 21st Street, near Cleveland Ave and Griffiths Ave, Louisville, KY:
   lat: 38.263955
   lng: -85.783775
