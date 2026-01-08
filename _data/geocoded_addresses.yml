@@ -3274,6 +3274,7 @@
   lat: 38.3105264
   lng: -85.5613534
 10100 Timberwood Cir, Louisville, KY: null
+10200 Afton Rd near Blue Ridge Rd, Louisville, KY: null
 10200 Blue Lick Rd, Louisville, KY:
   lat: 38.0993367
   lng: -85.6957414
@@ -5876,6 +5877,9 @@
   lat: 38.0798536
   lng: -85.8838678
 12200 John L, Louisville, KY: null
+12200 Old Henry, Louisville, KY:
+  lat: 38.2535023
+  lng: -85.5278619
 12200 Redspire Dr, Louisville, KY:
   lat: 38.2036114
   lng: -85.5318704
@@ -11269,6 +11273,9 @@
 200 Berkman Edge Lane, Louisville, KY: null
 200 Berkman Edge Lane. The outcome of this alert was not specified in the reports., Louisville, KY: null
 200 Berkside, Louisville, KY: null
+200 Beulah Church, Louisville, KY:
+  lat: 38.1315529
+  lng: -85.6140436
 200 Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
@@ -13842,6 +13849,9 @@
   lng: -85.5102464
 2000 Nessa Miller Parkway, Louisville, KY: null
 2000 Newburg Rd near Mason Blvd, Louisville, KY:
+  lat: 38.2189014
+  lng: -85.7104099
+2000 Newburg Rd near Our Lady of Peace, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
 2000 Newburg Rd, Louisville, KY:
