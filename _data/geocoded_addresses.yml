@@ -6659,6 +6659,7 @@
 1300 South Second Street, before officers ceased pursuit, Louisville, KY: null
 1300 South Second Street, before officers ceased pursuit., Louisville, KY: null
 1300 South Second [Morning], Louisville, KY: null
+1300 South Second, Louisville, KY: null
 1300 South Shelby, Louisville, KY:
   lat: 38.2300087
   lng: -85.7425387
@@ -7034,6 +7035,9 @@
 14 Glenview Ave, Louisville, KY:
   lat: 38.3018456
   lng: -85.6476657
+14 Iowa Ave, Louisville, KY:
+  lat: 38.2080744
+  lng: -85.7683847
 14 Lafayette Dr, Louisville, KY:
   lat: 38.1940389
   lng: -85.7941733
@@ -23280,6 +23284,7 @@
   with police presence., Louisville, KY
 : null
 400 Davis Street and the 400 block of Adams St. The disagreement centered, Louisville, KY: null
+400 Davis, Louisville, KY: null
 400 Dean's Avenue, Louisville, KY: null
 400 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
