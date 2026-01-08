@@ -9969,6 +9969,9 @@
 18 Robinwood Rd, Louisville, KY:
   lat: 38.1697358
   lng: -85.6680159
+18 Sprucewood Dr, Louisville, KY:
+  lat: 38.1686362
+  lng: -85.57709
 18 Village West Drive, Louisville, KY:
   lat: 38.2484393
   lng: -85.7666809
@@ -14220,6 +14223,7 @@
 2100 Cross Hill Ct, Louisville, KY:
   lat: 38.2694805
   lng: -85.7012174
+2100 Crumb Plain, Louisville, KY: null
 2100 Crums Ln. The license plate was unreadable. Police units were dispatched, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
@@ -14613,6 +14617,9 @@
   lat: 38.1757082
   lng: -85.8313913
 2100 an unspecified street, Louisville, KY: null
+2100 and 2104, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 2100 block of Royer Ct, Louisville, KY: null
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
@@ -24814,6 +24821,9 @@
 4100 Blue Lick Ct, Louisville, KY:
   lat: 38.0959355
   lng: -85.6956843
+4100 Bluegrass Ave, Louisville, KY:
+  lat: 38.1793262
+  lng: -85.7749596
 4100 Boones Grove Way near Mulberry Row Way, Louisville, KY: null
 4100 Boulevard, Louisville, KY:
   lat: 38.1827265
@@ -41430,6 +41440,7 @@ Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
 Pensive Ln and Goldenrod Rd, Louisville, KY: null
+Perry Rd and Alton Rd, Louisville, KY: null
 Peterson Ave and Grinstead Dr, Louisville, KY: null
 Phillips Ln and Cole Ave, Louisville, KY: null
 Phillips Ln and Cribden Road, Louisville, KY: null
