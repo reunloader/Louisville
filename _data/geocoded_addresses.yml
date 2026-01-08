@@ -1313,6 +1313,9 @@
 100 S Ewing Ave. The caller indicated they were in fear, Louisville, KY:
   lat: 38.252973
   lng: -85.699821
+100 S Jackson St near E W Kentucky St and St, Louisville, KY:
+  lat: 38.255118
+  lng: -85.743963
 100 S Jackson St, Louisville, KY:
   lat: 38.255118
   lng: -85.743963
@@ -9859,6 +9862,9 @@
 1700 W Chestnut St, Louisville, KY:
   lat: 38.2511195
   lng: -85.7796115
+1700 W College St near South First Street, Louisville, KY:
+  lat: 38.2432243
+  lng: -85.7546559
 1700 W Gaulbert Ave, Cresta Dixie, Howie, and McCloskey Avenue, Louisville, KY: null
 1700 W Gaulbert Ave, Louisville, KY:
   lat: 38.2269643
@@ -9955,6 +9961,9 @@
   lat: 38.218821
   lng: -85.789562
 1700 Wilart Dr near Dixie Hwy and Wallie Ann Ct, Louisville, KY:
+  lat: 38.218821
+  lng: -85.789562
+1700 Wilart Dr near Wally and Court and McCloskey Avenue, Louisville, KY:
   lat: 38.218821
   lng: -85.789562
 1700 Wilart Dr, Louisville, KY:
@@ -12273,6 +12282,7 @@
 200 North Haldeman Ave, Louisville, KY: null
 200 North Hubbard Lane, Louisville, KY: null
 200 North Hubbard's Lane, Louisville, KY: null
+200 North Hyde Avenue near Bridgeshell Road and Field Ave, Louisville, KY: null
 200 North I near Smyrna Parkway, Louisville, KY:
   lat: 38.1304
   lng: -85.6425666
@@ -21181,6 +21191,7 @@
 3400 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2565209
   lng: -85.8073069
+3400 Walks Elder Road near the 5:31 p, Louisville, KY: null
 3400 Warner Ave, Louisville, KY: null
 3400 Warren Ave, Louisville, KY:
   lat: 38.197522
@@ -31866,6 +31877,9 @@
   lat: 38.248816
   lng: -85.7581019
 600 South4th Street, possibly at a Mexican restaurant, Louisville, KY: null
+600 South6th Street near Spanish Ct and W Ashland Ave, Louisville, KY:
+  lat: 38.2492
+  lng: -85.761313
 600 South73, Louisville, KY: null
 600 Southern Pky, Louisville, KY:
   lat: 38.1836068
@@ -39799,6 +39813,9 @@
 9200 Linn Station Rd near Nottingham Pky and Holgros Drive, Louisville, KY:
   lat: 38.228702
   lng: -85.5815773
+9200 Linn Station Rd near Nottingham Pky and Hungroves Drive, Louisville, KY:
+  lat: 38.2287277
+  lng: -85.5812853
 9200 Linn Station Rd, Louisville, KY:
   lat: 38.2287277
   lng: -85.5812853
@@ -40440,6 +40457,9 @@
 9700 Stream View Trail, Louisville, KY:
   lat: 38.137705
   lng: -85.8814846
+9700 Thor Ave, Louisville, KY:
+  lat: 38.108548
+  lng: -85.69434
 ? 9700 Turnpike View Dr and found no signs of fire or any other issues. The alarm
   was determined to be false., Louisville, KY
 : null
@@ -40909,6 +40929,7 @@ Brent St and Vine St, Louisville, KY: null
 Brewster Ave and Texas Ave, Louisville, KY: null
 Bridge Hill Road and Field Ave, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
+Bridgeshell Road and Field Ave, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
 Brighton Springs Ln and Spring Lawn Dr, Louisville, KY: null
 Brinson Dr and Highland Ave, Louisville, KY: null
@@ -41184,6 +41205,7 @@ Fairground Rd and Barchetown Road, Louisville, KY: null
 Fairground Rd and Fern Brook Ln, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Fairway Park Dr and Charlieville Road, Louisville, KY: null
+Falmouth Dr and Oak Park Dr, Louisville, KY: null
 Farge Town Road and Cedar Lake Dr, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
 Fay Ave and Stone St, Louisville, KY: null
@@ -41584,6 +41606,7 @@ Northumberland Dr and Bay Run Dr, Louisville, KY: null
 Northwestern Pky and Mae St, Louisville, KY: null
 Norton Healthcare Blvd and Brownsboro Rd, Louisville, KY: null
 Nottingham Pky and Holgros Drive, Louisville, KY: null
+Nottingham Pky and Hungroves Drive, Louisville, KY: null
 Oak New Crete Road and Commerce Park Dr, Louisville, KY: null
 Oak St and Barret Ave, Louisville, KY: null
 Oak St and Bertrand St, Louisville, KY: null
