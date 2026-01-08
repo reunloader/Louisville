@@ -6596,6 +6596,7 @@
   lng: -85.7524629
 1300 South Foid Street, Louisville, KY: null
 1300 South Forth Street, Louisville, KY: null
+1300 South Hearthborne Parkway at Thornton Sean, Louisville, KY: null
 1300 South Hirsborne Pkwy, Holiday Inn, Louisville, KY: null
 1300 South Preston, Louisville, KY:
   lat: 38.23088
@@ -9859,6 +9860,9 @@
   lat: 38.2166528
   lng: -85.4806891
 1700 Wilart Dr near Dixie Hwy and Clovelly Ct, Louisville, KY:
+  lat: 38.218821
+  lng: -85.789562
+1700 Wilart Dr near Dixie Hwy and Wallie Ann Ct, Louisville, KY:
   lat: 38.218821
   lng: -85.789562
 1700 Wilart Dr, Louisville, KY:
@@ -26074,6 +26078,9 @@
   lat: 38.1823469
   lng: -85.7990434
 4400 Louise Underwood Way in the Bingham Gardens area, Louisville, KY: null
+4400 Louise Underwood Way near Bingham Garden Pl, Louisville, KY:
+  lat: 38.1823469
+  lng: -85.7990434
 4400 Louise Underwood Way near Bingham Garden, Louisville, KY:
   lat: 38.1823469
   lng: -85.7990434
