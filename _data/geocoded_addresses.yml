@@ -7196,6 +7196,9 @@
 1400 Fairdale Rd near Farmer's Lane and National Turnpike, Louisville, KY:
   lat: 38.1138885
   lng: -85.7408536
+1400 Fairdale Rd, Louisville, KY:
+  lat: 38.1138885
+  lng: -85.7408536
 1400 Fort St, Louisville, KY:
   lat: 38.2161938
   lng: -85.7515437
@@ -18786,6 +18789,9 @@
 300 South18th Street, Louisville, KY:
   lat: 38.256265
   lng: -85.7803764
+300 South26th Street near Green Alley, Louisville, KY:
+  lat: 38.257822
+  lng: -85.794069
 300 South38th Street, Louisville, KY:
   lat: 38.2603698
   lng: -85.8121667
@@ -18814,6 +18820,7 @@
   lat: 38.2551213
   lng: -85.7161717
 300 Steffan Road, Louisville, KY: null
+300 Storming All Over Road, Frays Hill, Louisville, KY: null
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
   lng: -85.6245297
