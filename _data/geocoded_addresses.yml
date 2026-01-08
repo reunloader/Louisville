@@ -10489,6 +10489,7 @@
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
+1800 Travillion Way near Dunby Road and Gresham Rd, Louisville, KY: null
 1800 Travillion Way, Louisville, KY: null
 1800 Trevelyum Way, Louisville, KY: null
 1800 W Hill St, Louisville, KY:
@@ -30471,6 +30472,9 @@
 5700 Nally Ct, Louisville, KY:
   lat: 38.187287
   lng: -85.857296
+5700 New Cut Rd at Auburndale Elementary School, Louisville, KY:
+  lat: 38.1372198
+  lng: -85.7735363
 5700 New Cut Rd at Crop St, West Indian Jail, Louisville, KY:
   lat: 38.1372198
   lng: -85.7735363
@@ -40975,6 +40979,7 @@ Dover Rd and Mercer Ave, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
 Dublin Ln and Lexington Rd, Louisville, KY: null
 Dukehart Dr and Star Ln, Louisville, KY: null
+Dunby Road and Gresham Rd, Louisville, KY: null
 Duncan St and Columbia St, Louisville, KY: null
 Dupont Rd and Rems Rd, Louisville, KY: null
 Earl Ave and Hale Ave, Louisville, KY: null
