@@ -8429,6 +8429,9 @@
 1500 South38th Street, Louisville, KY:
   lat: 38.232312
   lng: -85.818307
+1500 South3rd Street near West Colbert and West Hill, Louisville, KY:
+  lat: 38.2257577
+  lng: -85.7608378
 1500 South5th Street, Louisville, KY:
   lat: 38.2251398
   lng: -85.7642499
@@ -18453,6 +18456,9 @@
 300 East Broadway near Preston and South Floyd, Louisville, KY:
   lat: 38.245346
   lng: -85.749534
+300 East Broadway near South Preston and South Floyd, Louisville, KY:
+  lat: 38.245346
+  lng: -85.749534
 300 East Broadway near Turner's Building, Louisville, KY:
   lat: 38.245346
   lng: -85.749534
@@ -22768,6 +22774,9 @@
   lng: -85.781119
 3900 Petrie Avenue, Louisville, KY: null
 3900 Petrie Avenue. Upon its recovery, a threatening note was discovered inside the vehicle., Louisville, KY: null
+3900 Poplar Level Rd near Russell Ave and Cheak St, Louisville, KY:
+  lat: 38.2035483
+  lng: -85.7120192
 3900 Preston Hwy, Louisville, KY:
   lat: 38.1950923
   lng: -85.7300334
@@ -28870,6 +28879,9 @@
 5000 Markwell Ct, Louisville, KY:
   lat: 38.1395916
   lng: -85.6908695
+5000 Meremont Ridge Rd near Meremont Ridge Ct and Meremont Lake Rd, Louisville, KY:
+  lat: 38.2557222
+  lng: -85.4193267
 5000 Minette Ct, Louisville, KY:
   lat: 38.1281188
   lng: -85.8518941
@@ -29053,6 +29065,7 @@
   a 62-year-old female, was also reportedly suffering from a rash and fever. Emergency
   medical personnel were dispatched, Louisville, KY
 : null
+5000 West Pages, Dixie Hwy, Louisville, KY: null
 5000 Windstone Ct, Crop St Valley Pine Dr, Louisville, KY: null
 5000 Wolfpen Woods Dr, Louisville, KY:
   lat: 38.3206542
@@ -41602,6 +41615,7 @@ Roselane St and Nogonquin Parkway, Louisville, KY: null
 Row Road and Yorkshire Blvd, Louisville, KY: null
 Royalwood Dr and Angiomape Drive, Louisville, KY: null
 Rundale Road and Uphill Road, Louisville, KY: null
+Russell Ave and Cheak St, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
 Saddlebrook Ln and Teaneck Ln, Louisville, KY: null
 Sadie Ln and Sanders Ln, Louisville, KY: null
