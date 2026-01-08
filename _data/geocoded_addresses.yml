@@ -11159,6 +11159,9 @@
 200 Baker and W Kentucky St, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker area, 26th Street, Louisville, KY: null
+200 Baker near 4100 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 200 Baker was subsequently reported as clear of any related activity, Louisville, KY: null
 200 Baker, 500 block of South 41st Street, and Broadway, Louisville, KY: null
 200 Baker, Louisville, KY:
@@ -19396,6 +19399,9 @@
   lat: 38.273366
   lng: -85.796644
 3000 Portland Ave behind Family Dollar, Louisville, KY: null
+3000 Portland Ave near Family Dollar, Louisville, KY:
+  lat: 38.273366
+  lng: -85.796644
 3000 Preston Hwy due, Louisville, KY: null
 3000 Preston Hwy, Louisville, KY:
   lat: 38.2065795
@@ -19978,6 +19984,9 @@
 3100 W Jefferson St, Louisville, KY:
   lat: 38.259411
   lng: -85.803356
+3100 W Kentucky St, Louisville, KY:
+  lat: 38.2439668
+  lng: -85.8043491
 3100 W Magnolia Ave, Louisville, KY:
   lat: 38.233181
   lng: -85.806414
