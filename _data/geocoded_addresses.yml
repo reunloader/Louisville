@@ -6347,6 +6347,9 @@
 1300 Highway, Louisville, KY:
   lat: 38.235232
   lng: -85.787774
+1300 Holly Ave, Louisville, KY:
+  lat: 38.1017066
+  lng: -85.7430243
 1300 Home View, Louisville, KY: null
 ? 1300 Homeview Dr due to a reported gas leak. Upon arrival, a strong odor was detected
   both inside and outside the residence, though it was not definitively identified
@@ -7365,6 +7368,9 @@
 1400 Lexington Rd, Louisville, KY:
   lat: 38.25048
   lng: -85.720565
+1400 Lillian Ave near Sharp Ave and Lindbergh, Louisville, KY:
+  lat: 38.2136784
+  lng: -85.7796172
 1400 Lillian Ave, Louisville, KY:
   lat: 38.2136784
   lng: -85.7796172
@@ -31162,6 +31168,9 @@
   lat: 38.226901
   lng: -85.7579424
 600 E W Burnett Ave, Crosstree South, Louisville, KY: null
+600 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 600 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -40894,6 +40903,7 @@ Breckinridge St and Southbrook Street, Louisville, KY: null
 Breckinridge St and Southfield Street, Louisville, KY: null
 Brent St and Vine St, Louisville, KY: null
 Brewster Ave and Texas Ave, Louisville, KY: null
+Bridge Hill Road and Field Ave, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
 Brighton Springs Ln and Spring Lawn Dr, Louisville, KY: null
