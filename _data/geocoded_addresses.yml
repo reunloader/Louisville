@@ -5539,6 +5539,9 @@
 1200 South 6th Street, Louisville, KY:
   lat: 38.235228
   lng: -85.7640084
+1200 South Brook, Louisville, KY:
+  lat: 38.2343
+  lng: -85.753799
 1200 South Brooke, Louisville, KY: null
 1200 South Brooks Street, Louisville, KY: null
 ? 1200 South Brooks Street, requiring the attention of emergency medical personnel.
@@ -9820,6 +9823,7 @@
 1700 West Broadway, Louisville, KY:
   lat: 38.248647
   lng: -85.780022
+1700 West Copper Avenue, Louisville, KY: null
 1700 West Creek Way, Louisville, KY: null
 1700 West Hill, Louisville, KY:
   lat: 38.2277495
