@@ -3686,6 +3686,9 @@
 10900 Oak Harbor Dr, Louisville, KY:
   lat: 38.1635575
   lng: -85.5550366
+10900 Oxford Commons Ct, Louisville, KY:
+  lat: 38.1146786
+  lng: -85.5765068
 10900 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -7905,6 +7908,9 @@
 15 Egypt Ln, Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
+15 Jeffrey Dr, Louisville, KY:
+  lat: 38.1632034
+  lng: -85.8672317
 15 Mount Everest Dr, Louisville, KY:
   lat: 38.1659656
   lng: -85.8527864
@@ -19533,6 +19539,9 @@
 3000 South 4th Street, Louisville, KY:
   lat: 38.2063275
   lng: -85.7657394
+3000 South 6th Street, Louisville, KY:
+  lat: 38.2066585
+  lng: -85.768932
 3000 South Forth Street, Louisville, KY: null
 3000 South Fourth, Louisville, KY: null
 3000 South Number 4, Louisville, KY: null
@@ -39084,6 +39093,9 @@
 : null
 900 South 4th St following a report of an individual who had fallen. Assistance was provided, Louisville, KY: null
 900 South 4th St, across from Friendship House, Louisville, KY: null
+900 South 4th Street at Friendship House, Louisville, KY:
+  lat: 38.2415729
+  lng: -85.7595586
 900 South 4th Street at the Friendship House, Louisville, KY:
   lat: 38.2402331
   lng: -85.7594042
