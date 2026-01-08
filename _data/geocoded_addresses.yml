@@ -2204,6 +2204,9 @@
 1000 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+1000 E W Burnett Ave at Elbeck-Burnett Head Start, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 1000 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
@@ -3064,6 +3067,9 @@
 1000 West Market at the Healing Place, Crop St, South 11th, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 West Market at the Healing Place, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
 1000 West Market, Crop St of Chapel St in South 11th, Louisville, KY: null
 1000 West Market, Louisville, KY:
   lat: 38.2560618
@@ -3863,6 +3869,9 @@
 1100 Crop St near Texas Ave and Hickory St, Louisville, KY:
   lat: 38.2616479
   lng: -85.7955417
+1100 Crosstimbers Dr, Louisville, KY:
+  lat: 38.260448
+  lng: -85.4552685
 1100 DeLore Avenue near Catholic Boulevard and Hickory St, Louisville, KY: null
 1100 DeLore Avenue, Louisville, KY: null
 1100 Dixie Hwy, Louisville, KY: null
@@ -10230,6 +10239,9 @@
   lng: -85.7607146
 1800 Farnsley Rd and observed smoke coming from the rear of a single-family home, Louisville, KY: null
 1800 Farnsley Rd and observed smoke coming from the rear of a single-family home., Louisville, KY: null
+1800 Farnsley Rd at Signature Summerfield, Louisville, KY:
+  lat: 38.200783
+  lng: -85.802433
 1800 Farnsley Rd at Summerfield nursing rehab, Louisville, KY: null
 1800 Farnsley Rd near Crumpet Janelle Road and Dixie Hwy, Louisville, KY: null
 1800 Farnsley Rd near Janell Rd and Dixie Hwy, Louisville, KY:
@@ -11848,6 +11860,7 @@
 200 East, near the intersection of Creighton and Dry, following a traffic accident. Units were requested, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East, prompting concern and a police check of the vehicle, Louisville, KY: null
 ? 200 East, under the overpass. The vehicle that was struck was a silver sedan, while
   the striking vehicle was identified as a black Ford F-150. Police units were sent,
   Louisville, KY
@@ -21182,6 +21195,9 @@
   lat: 38.2245619
   lng: -85.8144583
 3500 Autumn Way, Crop St, Lisbon Ln, Meadow Dr, Louisville, KY: null
+3500 Autumn Way, Louisville, KY:
+  lat: 38.20726
+  lng: -85.661118
 3500 Bank St, Louisville, KY: null
 3500 Barchetown Road, Louisville, KY: null
 3500 Bardstown Rd near Paris and Bashford Manor, Louisville, KY:
@@ -29936,6 +29952,7 @@
   lat: 38.1247688
   lng: -85.6621584
 5400 Marlborough Court near Lilly Ln, Louisville, KY: null
+5400 McBean, Louisville, KY: null
 5400 Minier Drive, Louisville, KY: null
 5400 Nadina Dr, Louisville, KY:
   lat: 38.2179873
@@ -36596,6 +36613,9 @@
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
 7900 Cannon-Narrow-Way, Louisville, KY: null
 7900 Chisholm Trailway, Louisville, KY: null
+7900 Creston, Louisville, KY:
+  lat: 38.1431283
+  lng: -85.879335
 7900 Cultivator Ct, Louisville, KY:
   lat: 38.1403318
   lng: -85.6016223
