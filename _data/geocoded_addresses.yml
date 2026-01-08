@@ -188,6 +188,9 @@
 1 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+1 Southgate Manor Dr, Louisville, KY:
+  lat: 38.0893129
+  lng: -85.6721306
 1 Tying Road, Louisville, KY: null
 1 Varble Ave, Louisville, KY:
   lat: 38.24953
@@ -25476,6 +25479,9 @@
 42500 Southcrest Dr, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
+426 South3rd Street, Louisville, KY:
+  lat: 38.251815
+  lng: -85.7557887
 43 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
@@ -34066,6 +34072,9 @@
 700 East Valley, Louisville, KY: null
 700 East W Chestnut St, Louisville, KY: null
 700 East W Muhammad Ali Blvd, Louisville, KY: null
+700 Eastern Parkway at Wright Castle, Louisville, KY:
+  lat: 38.213507
+  lng: -85.745319
 700 Eastern Parkway near South Shelby and South Preston, Louisville, KY:
   lat: 38.213507
   lng: -85.745319
@@ -40398,6 +40407,7 @@
 9900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+9900 Pilate Way, Louisville, KY: null
 9900 Prairie Dr, Louisville, KY: null
 9900 Shining Willow Dr and Guardian Ct, Louisville, KY: null
 9900 Shining Willow Dr, Louisville, KY:
