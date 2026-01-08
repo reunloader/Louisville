@@ -4344,6 +4344,9 @@
 1100 South3rd Street, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
+1100 South3rd, Louisville, KY:
+  lat: 38.237136
+  lng: -85.758543
 1100 South40th Street at Covenant Baptist Church near Hale Ave and Sunset Ave, Louisville, KY:
   lat: 38.241931
   lng: -85.818716
@@ -5100,6 +5103,9 @@
   standby, Louisville, KY
 : null
 1200 Dixdale Ave, working, Louisville, KY: null
+1200 Dixie Hwy at Valor General, Louisville, KY:
+  lat: 38.236285
+  lng: -85.787342
 1200 Dixie Hwy, Louisville, KY:
   lat: 38.236285
   lng: -85.787342
@@ -25371,6 +25377,7 @@
 4200 Clara Ave, Louisville, KY:
   lat: 38.1999013
   lng: -85.7878076
+4200 Clark St after receiving a concerning text from his brother. Crisis intervention teams engaged, Louisville, KY: null
 4200 David Way, Louisville, KY:
   lat: 38.1005732
   lng: -85.6671148
@@ -35520,6 +35527,7 @@
 7200 Home Park Dr, Louisville, KY:
   lat: 38.167603
   lng: -85.888526
+7200 Jans Place, Louisville, KY: null
 7200 Jefferson Blvd, Louisville, KY:
   lat: 38.1435266
   lng: -85.6747742
