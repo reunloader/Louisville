@@ -12770,6 +12770,9 @@
 200 W Market St near the commitment house, Louisville, KY:
   lat: 38.2546697
   lng: -85.7537855
+200 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2506701
+  lng: -85.7544799
 200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
@@ -23688,6 +23691,9 @@
 ? 400 North 20th Street, but no suspects or additional details are available at this
   time. Authorities are investigating the theft and checking, Louisville, KY
 : null
+400 North 21st Street, Louisville, KY:
+  lat: 38.263955
+  lng: -85.783775
 400 North 21st Street, near Cleveland Ave and Griffiths Ave, Louisville, KY:
   lat: 38.263955
   lng: -85.783775
@@ -32479,6 +32485,9 @@
 6300 Fernview Rd, Louisville, KY:
   lat: 38.154623
   lng: -85.609062
+6300 Forest Way Pl, Louisville, KY:
+  lat: 38.1511431
+  lng: -85.8677655
 ? 6300 Greenwood Rd following a hold-up alarm. The incident was reported as a commercial
   panic alarm activation., Louisville, KY
 : null
@@ -37830,6 +37839,9 @@
 8400 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+8400 Candleworth Dr, Louisville, KY:
+  lat: 38.1279286
+  lng: -85.7863749
 8400 Color Report Dr, Louisville, KY: null
 8400 Dixie Hwy, Louisville, KY:
   lat: 38.1299043
@@ -40011,6 +40023,9 @@
 9500 Westport Rd. Police units responded, Louisville, KY:
   lat: 38.2909338
   lng: -85.5653666
+9500 Yellow Pine Ct, Louisville, KY:
+  lat: 38.1087027
+  lng: -85.6453233
 96 Roth Rd, Louisville, KY:
   lat: 38.1236764
   lng: -85.6512538
@@ -40731,6 +40746,7 @@ Caldwell St and Birkenridge Street, Louisville, KY: null
 Calhoun Ave and Taylor Blvd, Louisville, KY: null
 Calumet Dr and Wilshire Blvd, Louisville, KY: null
 Camden Ave and Carol Ave, Louisville, KY: null
+Camp Ground Rd and Lees Ln, Louisville, KY: null
 Camp Ground Rd and Wilmoth Ave, Louisville, KY: null
 Campobello St and Carroll Ave, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
