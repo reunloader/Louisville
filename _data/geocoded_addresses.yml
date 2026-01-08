@@ -8883,6 +8883,9 @@
 1600 Lucia Ave, Louisville, KY:
   lat: 38.2356966
   lng: -85.720509
+1600 Lytle St, Louisville, KY:
+  lat: 38.2620585
+  lng: -85.7761039
 1600 Main St, Louisville, KY:
   lat: 38.2585071
   lng: -85.7771784
@@ -24740,6 +24743,7 @@
   lat: 38.302644
   lng: -85.5407794
 4100 Browns Ln at the American Kidney Center, Louisville, KY: null
+4100 Bubling Overdrive, Louisville, KY: null
 4100 Buckland Trace, Louisville, KY:
   lat: 38.2389408
   lng: -85.4484445
@@ -28447,6 +28451,9 @@
 500 South19th Street, Louisville, KY:
   lat: 38.253208
   lng: -85.782546
+500 South20th Street, Louisville, KY:
+  lat: 38.2540593
+  lng: -85.7849797
 500 South27th Street, Louisville, KY:
   lat: 38.255237
   lng: -85.795685
