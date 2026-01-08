@@ -21539,6 +21539,7 @@
 3600 Fincastle Rd, Louisville, KY:
   lat: 38.2066385
   lng: -85.7174537
+3600 Fremilley Road, Louisville, KY: null
 3600 Gateview Cir, Louisville, KY:
   lat: 38.118823
   lng: -85.828332
@@ -24908,6 +24909,9 @@
   lat: 38.1286501
   lng: -85.6868183
 4100 Front Lock Drive, Louisville, KY: null
+4100 Garland Ave, Louisville, KY:
+  lat: 38.2464648
+  lng: -85.8196531
 4100 Gingerwood Dr, Louisville, KY:
   lat: 38.2014872
   lng: -85.6276294
@@ -38578,6 +38582,9 @@
   lng: -85.8051111
 900 Domino Street, Louisville, KY: null
 900 E Gray St and Cedar, Louisville, KY: null
+900 E Jefferson St, Louisville, KY:
+  lat: 38.2513639
+  lng: -85.7361567
 900 E Main St, Louisville, KY:
   lat: 38.2540355
   lng: -85.735541
