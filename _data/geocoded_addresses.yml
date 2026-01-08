@@ -2750,6 +2750,7 @@
 1000 S Jackson St near East Kentucky and Evans St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
+1000 S Jackson St, Crop St of E W Kentucky St and St, Louisville, KY: null
 1000 S Jackson St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
@@ -9836,6 +9837,7 @@
   lat: 38.228573
   lng: -85.7110967
 1700 Stewart Ave, Louisville, KY: null
+1700 Street, Louisville, KY: null
 1700 Tempest Way, Louisville, KY:
   lat: 38.1642333
   lng: -85.8253597
@@ -9966,6 +9968,7 @@
 1700 Wilart Dr near Wally and Court and McCloskey Avenue, Louisville, KY:
   lat: 38.218821
   lng: -85.789562
+1700 Wilart Dr, Crop St of Wally and Court in McCloskey Avenue, Louisville, KY: null
 1700 Wilart Dr, Louisville, KY:
   lat: 38.218821
   lng: -85.789562
@@ -17499,6 +17502,7 @@
   lat: 38.2541178
   lng: -85.690105
 2800 Frosted Lane, Crop St of Lee's Lane in Phoenix, Louisville, KY: null
+2800 Garfield Ave, Crop St of North 29th and North 28th, Louisville, KY: null
 2800 Garland Ave. The caller expressed concern after not hearing from the individual, Louisville, KY:
   lat: 38.244897
   lng: -85.799254
@@ -17600,6 +17604,7 @@
 2800 Portland Ave, Louisville, KY:
   lat: 38.2723649
   lng: -85.7938489
+2800 Portland and 4600 block of South6th Street, Louisville, KY: null
 2800 Preston Hwy, Louisville, KY:
   lat: 38.21001
   lng: -85.739661
@@ -27083,6 +27088,9 @@
 4600 South2nd Street, Louisville, KY:
   lat: 38.183564
   lng: -85.7647202
+4600 South6th Street, Louisville, KY:
+  lat: 38.185474
+  lng: -85.7709417
 4600 Southcrest Dr, Louisville, KY:
   lat: 38.1855953
   lng: -85.7726672
@@ -27418,6 +27426,9 @@
   lat: 38.182137
   lng: -85.771372
 4700 Southern Pky apartment 12, Louisville, KY: null
+4700 Southern Pky, Louisville, KY:
+  lat: 38.1816324
+  lng: -85.7698151
 4700 Spindly Road, Louisville, KY: null
 4700 Valley Station Rd, Louisville, KY:
   lat: 38.105447
@@ -31880,6 +31891,7 @@
 600 South6th Street near Spanish Ct and W Ashland Ave, Louisville, KY:
   lat: 38.2492
   lng: -85.761313
+600 South6th Street, Crop St of Spanish Ct in W Ashland Ave, Louisville, KY: null
 600 South73, Louisville, KY: null
 600 Southern Pky, Louisville, KY:
   lat: 38.1836068
