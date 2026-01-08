@@ -3741,6 +3741,9 @@
 11 Sherry Rd, Louisville, KY:
   lat: 38.2098403
   lng: -85.7479622
+11 Virginia Ave, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 1100 17th Street, but this was later corrected, Louisville, KY: null
 1100 Algonquin Pky, Louisville, KY:
   lat: 38.2138395
@@ -15447,6 +15450,9 @@
 2300 Nichols View Ct, Louisville, KY:
   lat: 38.1928255
   lng: -85.7946726
+2300 Northwestern Pky, Louisville, KY:
+  lat: 38.271863
+  lng: -85.784671
 2300 Oregon Ave, Louisville, KY:
   lat: 38.2211453
   lng: -85.7981096
