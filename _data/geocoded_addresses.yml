@@ -580,6 +580,7 @@
   the 500 block of Adam and the 400 block of Baker were involved in the response.,
   Louisville, KY
 : null
+100 E W Kingston Ave near Wabash and Terry, Louisville, KY: null
 100 E W Kingston Ave, Louisville, KY: null
 100 E W Liberty St, Louisville, KY:
   lat: 38.2534676
@@ -6130,6 +6131,9 @@
   lat: 38.0968167
   lng: -85.6409213
 1300 Clara Ave due, Louisville, KY: null
+1300 Clara Ave near Leicester and Taylor, Louisville, KY:
+  lat: 38.199672
+  lng: -85.783551
 1300 Clara Ave near Western Ave and Esther Blvd at the Quick Shop Food Mart, Louisville, KY:
   lat: 38.199672
   lng: -85.783551
@@ -12451,6 +12455,7 @@
   lng: -85.7620447
 200 South Fifth, Louisville, KY: null
 200 South First Street, Louisville, KY: null
+200 South Ford Street, Louisville, KY: null
 200 South Forest, Louisville, KY: null
 ? 200 South Forest. The individual, a male, was observed sitting near an elevator
   on the sixth floor, exhibiting unusual behavior and calling out to people. Police
@@ -13630,6 +13635,9 @@
 2000 Highland Ave, Louisville, KY:
   lat: 38.240267
   lng: -85.724083
+2000 Home Park Dr, Louisville, KY:
+  lat: 38.16821
+  lng: -85.8898345
 2000 Honda Accord, Louisville, KY: null
 2000 Honda Accord, un-send area, Louisville, KY: null
 2000 Honda Civic, was checked and found, Louisville, KY: null
@@ -27114,6 +27122,9 @@
 4715 Preston Hwy, Louisville, KY:
   lat: 38.1794727
   lng: -85.7176764
+48 Home Park Dr, Louisville, KY:
+  lat: 38.16821
+  lng: -85.8898345
 48 Poplova Road, Louisville, KY: null
 4800 Allmond Ave, Louisville, KY:
   lat: 38.1750257
@@ -35191,6 +35202,9 @@
 7200 Hill Park Way, Louisville, KY:
   lat: 38.214449
   lng: -85.62461
+7200 Home Park Dr, Louisville, KY:
+  lat: 38.167603
+  lng: -85.888526
 7200 Jefferson Blvd, Louisville, KY:
   lat: 38.1435266
   lng: -85.6747742
