@@ -17317,6 +17317,7 @@
 2700 West Broadway near South28th and 27th, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
+2700 West Broadway, Crosstree South near 27th and South 28th, Louisville, KY: null
 2700 West Broadway, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -31153,6 +31154,7 @@
 600 E W Burnett Ave near Clay and Hancock, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
+600 E W Burnett Ave, Crosstree South, Louisville, KY: null
 600 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -38800,6 +38802,9 @@
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
+900 East Broadway, Goodwill Crosstree Brent Street near South Campbell, Louisville, KY:
+  lat: 38.2474473
+  lng: -85.7369783
 900 East Broadway, Louisville, KY:
   lat: 38.2442432
   lng: -85.7373692
