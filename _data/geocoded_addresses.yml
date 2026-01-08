@@ -407,6 +407,7 @@
   lat: 38.2452409
   lng: -85.753739
 100 Brock St, Louisville, KY: null
+100 Broken Jacob, Louisville, KY: null
 100 Brookridge Ln, Louisville, KY: null
 100 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1452844
@@ -16531,6 +16532,9 @@
   KY
 : lat: 38.2527733
   lng: -85.7932062
+2500 W Jefferson St, Louisville, KY:
+  lat: 38.2574345
+  lng: -85.7920604
 2500 W Madison St and 2041, Louisville, KY:
   lat: 38.2538718
   lng: -85.7930556
@@ -33156,6 +33160,9 @@
 6600 Ashby Ln, Louisville, KY:
   lat: 38.1084934
   lng: -85.8839448
+6600 Astral Dr, Louisville, KY:
+  lat: 38.157114
+  lng: -85.855945
 6600 Bardstown Rd, Louisville, KY:
   lat: 38.1517338
   lng: -85.5886035
