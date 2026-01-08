@@ -52,6 +52,7 @@
   lng: -85.7632017
 0 W Market St and Chapel, Louisville, KY: null
 0 Whiteoak Park Rd, Louisville, KY: null
+0 responding, Louisville, KY: null
 00 Aiken Rd near Johnson Rd and Centurion Way, Louisville, KY:
   lat: 38.2655914
   lng: -85.4687873
@@ -2761,6 +2762,9 @@
 1000 Seelbach Ave, Louisville, KY:
   lat: 38.1886505
   lng: -85.7760713
+1000 Shadow Ridge Ln, Louisville, KY:
+  lat: 38.3181135
+  lng: -85.5573463
 1000 Shining Willow Dr, Louisville, KY:
   lat: 38.2886807
   lng: -85.5661889
@@ -15137,6 +15141,9 @@
 2300 Austinwood Rd, Louisville, KY:
   lat: 38.1479729
   lng: -85.79683
+2300 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 2300 Bardstown Rd, Louisville, KY:
   lat: 38.223761
   lng: -85.6901595
@@ -36979,6 +36986,9 @@
 800 South26th Street, Louisville, KY:
   lat: 38.246164
   lng: -85.795377
+800 South28th Street at Norton West ER, Louisville, KY:
+  lat: 38.2470453
+  lng: -85.7988198
 800 South32nd Street, Louisville, KY:
   lat: 38.2476663
   lng: -85.8059077
@@ -40343,6 +40353,7 @@ Alumsum Hollow Road and Carter Ln, Louisville, KY: null
 Alumsum Hollow Road and Scarborough Ave, Louisville, KY: null
 Ambrosse Ln and Six Mile Ln, Louisville, KY: null
 Amherst Ave and East Kenny Avenue, Louisville, KY: null
+Amy Ave and Larkwood Ave, Louisville, KY: null
 Amy Ave and Vermont St, Louisville, KY: null
 Amy Ave and Vermont Street, Louisville, KY: null
 Annie St and Southern Ave, Louisville, KY: null
