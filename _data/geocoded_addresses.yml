@@ -10594,6 +10594,7 @@
   lng: -85.648437
 1900 Camargo Rd, Crop St of High Ridge Rd, Louisville, KY: null
 1900 Cerberich Circle, Louisville, KY: null
+1900 Crazy Horse Blaine, Louisville, KY: null
 1900 Crimson Dr, Louisville, KY: null
 1900 Crop Hollow View, Louisville, KY: null
 1900 Crop St, Louisville, KY:
@@ -15575,6 +15576,9 @@
   lat: 38.1404396
   lng: -85.7801839
 2400 Ballad Blvd, Louisville, KY: null
+2400 Bank St near North24th, Louisville, KY:
+  lat: 38.267712
+  lng: -85.786762
 2400 Bank St, Louisville, KY:
   lat: 38.267712
   lng: -85.786762
@@ -16691,6 +16695,9 @@
 2600 South6th Street, Louisville, KY:
   lat: 38.211481
   lng: -85.767931
+2600 South7th Street, Louisville, KY:
+  lat: 38.2231367
+  lng: -85.7727441
 2600 Stone Alley, Louisville, KY:
   lat: 38.254584
   lng: -85.794486
@@ -21989,6 +21996,9 @@
 3700 Stratton Ave, near 38th Street and Russell E Drive, due, Louisville, KY:
   lat: 38.2294728
   lng: -85.8166836
+3700 Sudbury Ln, Louisville, KY:
+  lat: 38.2079933
+  lng: -85.6220608
 3700 Susan Ln near Blue Lick Rd, Louisville, KY:
   lat: 38.0937661
   lng: -85.695759
@@ -22375,6 +22385,9 @@
 38800 Adams St, Louisville, KY:
   lat: 38.2579958
   lng: -85.7255089
+39 Brownsboro Hill Rd, Louisville, KY:
+  lat: 38.2657473
+  lng: -85.6569492
 39 Pigeon Pass Rd, Louisville, KY:
   lat: 38.1791951
   lng: -85.7111995
@@ -39056,6 +39069,9 @@
   KY
 : null
 900 block, Louisville, KY: null
+900 close, Louisville, KY:
+  lat: 38.264467
+  lng: -85.685496
 900 hang-up call prompted officers, Louisville, KY: null
 900 hang-up reported an upset individual at Bolero, claiming her Uber driver refused, Louisville, KY: null
 900 minutes apart, Louisville, KY: null
@@ -39850,6 +39866,7 @@
 9600 Toledo Ln, Louisville, KY:
   lat: 38.1145648
   lng: -85.8548936
+9600 Wainborn Boulevard, Louisville, KY: null
 9600 West Mansfield Road across from Old New Cut Rd, Louisville, KY: null
 9600 Westport Rd, Louisville, KY:
   lat: 38.2909338
