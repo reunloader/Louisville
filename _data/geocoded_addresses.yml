@@ -3449,6 +3449,9 @@
 10405 Preston Hwy, Louisville, KY:
   lat: 38.0993972
   lng: -85.6716879
+10500 Allen Dr near Mount Holly, Louisville, KY:
+  lat: 38.1660083
+  lng: -85.607583
 10500 Bay Pointe Ct, Louisville, KY:
   lat: 38.3026745
   lng: -85.5549039
@@ -36269,6 +36272,9 @@
   lat: 38.1383719
   lng: -85.6581015
 7700 Shepherdsville Rd, Galvertree, Louisville, KY: null
+7700 Smyrna Parkway near Crest Street, Louisville, KY:
+  lat: 38.1377299
+  lng: -85.6421484
 7700 St, Louisville, KY:
   lat: 38.139572
   lng: -85.8101212
@@ -41400,6 +41406,7 @@ Oak St and Fischer Ave, Louisville, KY: null
 Oak St and Owen St, Louisville, KY: null
 Oak St and Webster St, Louisville, KY: null
 Oboe Dr and Broadleaf Dr, Louisville, KY: null
+Old Heady Rd and Taylorsville Rd, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
 Old Henry Rd and Gee Snider Road, Louisville, KY: null
 Old Henry Rd and Likens Ave, Louisville, KY: null
