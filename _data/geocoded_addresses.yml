@@ -1261,6 +1261,9 @@
 100 Reckon Ridge Square, Louisville, KY: null
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 Retro Row, Louisville, KY: null
+100 River Park Dr, Louisville, KY:
+  lat: 38.2536492
+  lng: -85.8002952
 100 River Rd (Joe's Craft Shack), Louisville, KY: null
 100 River Rd at Joe's Crab Shack cross street of W River Rd, Louisville, KY:
   lat: 38.2750509
@@ -3649,6 +3652,9 @@
 10900 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+10900 Eagles Cove Dr, Louisville, KY:
+  lat: 38.303851
+  lng: -85.543609
 10900 Farm Oaks Ct cross of Windy Oaks Rd, Louisville, KY: null
 ? 10900 Fashion Way involving a 63-year-old male who appeared to be suffering a stroke.
   Responders faced a challenge as the patient was initially unable to open the door,
@@ -8164,6 +8170,9 @@
 1500 Lewis Coleman Jr, Louisville, KY: null
 1500 Lewis Coleman Jr. Drive, Louisville, KY: null
 1500 Lewis Ln at Immaculate Heart of Mary, Louisville, KY: null
+1500 Lewis, Louisville, KY:
+  lat: 38.3402233
+  lng: -85.64051
 1500 Lidle Street, Louisville, KY: null
 1500 Lighthouse Street, Louisville, KY: null
 1500 Lincoln Hill Way, Louisville, KY: null
@@ -8626,6 +8635,9 @@
 1600 Albany Ave, Louisville, KY:
   lat: 38.1705767
   lng: -85.8206166
+1600 Algonquin Pky, Louisville, KY:
+  lat: 38.2219374
+  lng: -85.7830999
 1600 Arcade Ave, Louisville, KY:
   lat: 38.2078063
   lng: -85.7862058
@@ -10492,6 +10504,7 @@
 1800 Travillion Way near Dunby Road and Gresham Rd, Louisville, KY: null
 1800 Travillion Way, Louisville, KY: null
 1800 Trevelyum Way, Louisville, KY: null
+1800 Tribilion Way, Louisville, KY: null
 1800 W Hill St, Louisville, KY:
   lat: 38.228248
   lng: -85.790658
