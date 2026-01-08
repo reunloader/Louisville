@@ -10856,6 +10856,9 @@
 1900 Rowan St, Louisville, KY:
   lat: 38.2605375
   lng: -85.7813194
+1900 S Floyd St, Louisville, KY:
+  lat: 38.2197325
+  lng: -85.754633
 1900 San Jose Ave, Louisville, KY: null
 1900 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
@@ -20389,6 +20392,7 @@
 3300 Bank St, Louisville, KY:
   lat: 38.27253
   lng: -85.801137
+3300 Bardstown Rd (Brown Suburban Hotel), Louisville, KY: null
 3300 Bardstown Rd near the brown suburban hotel, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
@@ -28745,6 +28749,9 @@
   lat: 38.2529394
   lng: -85.7525767
 5000 Purple Road, Louisville, KY: null
+5000 Quail Hollow Rd, Louisville, KY:
+  lat: 38.1774958
+  lng: -85.6952612
 5000 Red Oak Ln, Louisville, KY:
   lat: 38.172359
   lng: -85.6696273
@@ -39970,6 +39977,7 @@
   lat: 38.1074176
   lng: -85.6472948
 9600 Millstone Dr, Louisville, KY: null
+9600 Native Boulevard, Crop St of Grimhada, Inventura, Louisville, KY: null
 9600 Preston Beeston Blvd, Louisville, KY: null
 ? 9600 Preston Spring Dr. The incident involved an intoxicated boyfriend who allegedly
   assaulted a female. The female declined, Louisville, KY
@@ -39984,6 +39992,9 @@
 9600 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
+9600 Thor Ave, Louisville, KY:
+  lat: 38.1098438
+  lng: -85.6939815
 9600 Toledo Ln, Louisville, KY:
   lat: 38.1145648
   lng: -85.8548936
