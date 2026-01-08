@@ -2207,6 +2207,7 @@
 1000 E W Burnett Ave, Louisville, KY:
   lat: 38.226901
   lng: -85.7579424
+1000 E W Burnett Ave, Obeck Burnett Head Start, Louisville, KY: null
 1000 E W Kentucky St near South Bowling and Southbrook, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -3058,6 +3059,9 @@
 1000 West Market Street 10:15 a, Louisville, KY: null
 1000 West Market Street 10:15 a.m.AM, Louisville, KY: null
 1000 West Market at The Healing Place, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
+1000 West Market at the Healing Place, Crop St, South 11th, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
 1000 West Market, Crop St of Chapel St in South 11th, Louisville, KY: null
@@ -16779,6 +16783,7 @@
 2600 Northwestern Pky, Louisville, KY: null
 2600 Northwestern Pky, between North 27th and North 26th Streets,, Louisville, KY: null
 2600 Olive St and 3000 block of Crittenden Dr, Louisville, KY: null
+2600 Olive St, Crop St, Dixdale Ave, South 28th, Louisville, KY: null
 2600 Outer Loop, Louisville, KY:
   lat: 38.1342654
   lng: -85.7207797
@@ -21176,6 +21181,7 @@
 3500 Algonquin Pky, near Russell Lee and 35th Street,, Louisville, KY:
   lat: 38.2245619
   lng: -85.8144583
+3500 Autumn Way, Crop St, Lisbon Ln, Meadow Dr, Louisville, KY: null
 3500 Bank St, Louisville, KY: null
 3500 Barchetown Road, Louisville, KY: null
 3500 Bardstown Rd near Paris and Bashford Manor, Louisville, KY:
