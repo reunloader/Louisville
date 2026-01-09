@@ -17221,6 +17221,9 @@
 2700 Ali, Louisville, KY:
   lat: 38.2550784
   lng: -85.795778
+2700 Alice Ave, Louisville, KY:
+  lat: 38.2146448
+  lng: -85.6604371
 2700 Alps Rd, Louisville, KY:
   lat: 38.168204
   lng: -85.856504
@@ -29889,6 +29892,9 @@
   lng: -85.602422
 5200 St. Gambriel Ct, Louisville, KY: null
 5200 St. St Gabriel Ln, Louisville, KY: null
+5200 Stony Brook Dr, Louisville, KY:
+  lat: 38.1724302
+  lng: -85.6030143
 5200 Tamerlane Rd, Louisville, KY:
   lat: 38.287555
   lng: -85.654016
