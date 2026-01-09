@@ -11901,6 +11901,9 @@
 200 East at Poplar Level Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Poplar Level, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at River Park Dr, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -26597,6 +26600,9 @@
   lat: 38.2665501
   lng: -85.7872972
 4400 O'Riom Lane, Louisville, KY: null
+4400 Oboe Dr, Louisville, KY:
+  lat: 38.195381
+  lng: -85.8475944
 4400 Outer Loop, Louisville, KY:
   lat: 38.1380709
   lng: -85.6792728
@@ -27853,6 +27859,9 @@
 4800 Outer Loop at Verizon, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
+4800 Outer Loop near Jefferson Mall Food Court, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Outer Loop near Walmart, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
@@ -28195,6 +28204,9 @@
   Police units were dispatched, Louisville, KY
 : null
 4900 West Side Dr, Louisville, KY: null
+4900 Woodsend Rd, Louisville, KY:
+  lat: 38.1112071
+  lng: -85.6677426
 ? 4900 block of Bluebird Ave) (around 7:18 p.m. a.m. p.m.):** A 56-year-old male was
   reported with possible stroke symptoms and shortness of breath. Quinn 66 responded
   to the scene and provided medical assistance. The patient was assessed and transported
@@ -38061,6 +38073,7 @@
 8000 Merriman Rd, Louisville, KY: null
 8000 Merriman Rd. Responding units were dispatched, Louisville, KY: null
 8000 National Eastern Pike, Louisville, KY: null
+8000 National Template Crush, Louisville, KY: null
 8000 New LaGrange Road, Louisville, KY: null
 8000 North Bardstown Rd, Louisville, KY: null
 8000 Park Rd, Louisville, KY:
@@ -38759,6 +38772,9 @@
   lng: -85.7749547
 8700 Bayberry Pl, Louisville, KY: null
 8700 Big Tree Cir and 9100 block of Walter Ave, Louisville, KY: null
+8700 Big Tree Cir, Louisville, KY:
+  lat: 38.199863
+  lng: -85.60203
 8700 Chase Gather Place, Louisville, KY: null
 8700 Cotswold Dr, Louisville, KY:
   lat: 38.126506
