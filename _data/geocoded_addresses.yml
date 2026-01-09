@@ -11551,6 +11551,7 @@
 200 Champion Lakes Pl, Louisville, KY:
   lat: 38.2766832
   lng: -85.4806552
+200 Champion's Alarms Drive, Louisville, KY: null
 200 Chariot Court 5:00 a, Louisville, KY: null
 200 Chariot Court 5:00 a.m., Louisville, KY: null
 ? 200 Chariot Court. A maroon vehicle was observed parked within a designated fire
@@ -11801,6 +11802,7 @@
   lng: -85.7499296
 200 East Early Morning, Louisville, KY: null
 200 East Europe Street near South 3rd and 2nd Streets, Louisville, KY: null
+200 East Highway, Louisville, KY: null
 200 East I-17, Louisville, KY: null
 200 East I-200 at Cane Run Rd, Louisville, KY:
   lat: 38.222489
@@ -16686,6 +16688,9 @@
   lat: 38.2128532
   lng: -85.7644902
 2500 South 4th Street, indicating that the situation was becoming physical. Police units were sent, Louisville, KY: null
+2500 South 4th Street. Responding units attempted, Louisville, KY:
+  lat: 38.2128532
+  lng: -85.7644902
 ? 2500 South 5th Street following a report of a subject experiencing a mental health
   crisis. The individual was described as rambling and the situation was being handled
   by the Crisis Intervention Team. Officers were coordinating, Louisville, KY
@@ -29075,6 +29080,9 @@
   lat: 38.2538197
   lng: -85.7591668
 500 W Jefferson St, McBayer PLLC, Louisville, KY: null
+500 W Kingston Ave, Louisville, KY:
+  lat: 38.1728488
+  lng: -85.7658685
 500 W Liberty St, Louisville, KY:
   lat: 38.253265
   lng: -85.759729
