@@ -520,6 +520,7 @@
 100 Dandor Rd, Louisville, KY:
   lat: 38.207696
   lng: -85.6253811
+100 David Rios, Louisville, KY: null
 100 David and 229, Louisville, KY: null
 100 David and 3800 block of Cutler Rd, Louisville, KY: null
 100 David and was assessed, Louisville, KY: null
@@ -2913,6 +2914,9 @@
 1000 South Second Street, Louisville, KY: null
 1000 South Third Street, Louisville, KY: null
 1000 South at Arthur St, Louisville, KY: null
+1000 South, Louisville, KY:
+  lat: 38.2434557
+  lng: -85.7996592
 1000 South28th St, Louisville, KY:
   lat: 38.2434873
   lng: -85.799649
@@ -40024,6 +40028,7 @@
 9300 Meadow Valley Ln, Louisville, KY:
   lat: 38.1058279
   lng: -85.5635567
+9300 Nelson Hill Road, Louisville, KY: null
 9300 New LaGrange Road, Louisville, KY: null
 9300 Phillips Ln near the fairgrounds, Louisville, KY:
   lat: 38.1901008
