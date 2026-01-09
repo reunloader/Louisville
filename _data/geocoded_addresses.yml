@@ -3385,6 +3385,9 @@
 10200 Worthington Ln, Louisville, KY:
   lat: 38.3283165
   lng: -85.5606978
+1024 [Street Name], Louisville, KY:
+  lat: 38.2410392
+  lng: -85.7207412
 10300 Arbor Oak Dr, Louisville, KY:
   lat: 38.1107685
   lng: -85.6602102
@@ -8288,6 +8291,9 @@
 1500 Hemlock St, Louisville, KY:
   lat: 38.2318358
   lng: -85.8039888
+1500 Hepburn Ave, Louisville, KY:
+  lat: 38.2381766
+  lng: -85.7247673
 ? 1500 Highland Ave to conduct a welfare check at a business. The purpose of the check
   was to ensure the safety and well-being of individuals at the location. The outcome
   of the welfare check was not specified., Louisville, KY
@@ -13997,6 +14003,7 @@
 2000 Kendall Ln, Louisville, KY: null
 2000 Kia Optima, Louisville, KY: null
 2000 Kindle Lane near Spinley Road and O'Obrien Ct, Louisville, KY: null
+2000 Kogan House, Louisville, KY: null
 2000 Lambert Ct, Louisville, KY:
   lat: 38.18352
   lng: -85.647147
@@ -32492,6 +32499,9 @@
 6000 Hunsinger Ln, Louisville, KY:
   lat: 38.2088582
   lng: -85.6192779
+6000 Hunting Rd, Louisville, KY:
+  lat: 38.2823789
+  lng: -85.6374708
 6000 Intercontinental Way, Louisville, KY: null
 ? 6000 Intercontinental Way. Details regarding the nature of the activity or any individuals
   involved were not immediately available. Police units were sent, Louisville, KY
