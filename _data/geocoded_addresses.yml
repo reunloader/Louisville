@@ -6931,6 +6931,7 @@
 1316 Kremer Ave, Louisville, KY:
   lat: 38.1715665
   lng: -85.7011457
+132 unknown street, Louisville, KY: null
 1320 a street, Louisville, KY: null
 13200 Cain Ln, Louisville, KY:
   lat: 38.2932179
@@ -10164,6 +10165,9 @@
   lng: -85.7666809
 1800 22nd and WJ Hodge. The fire was contained, Louisville, KY: null
 1800 Adam18, Louisville, KY: null
+1800 Adams, Louisville, KY:
+  lat: 38.2592106
+  lng: -85.7264871
 1800 Alconcum Parkway, Louisville, KY: null
 1800 Alfresco Pl, Louisville, KY:
   lat: 38.2224596
@@ -28935,6 +28939,7 @@
 500 South and 1300 block of Dixie Hwy, Louisville, KY: null
 500 South, Louisville, KY: null
 500 South-A, Louisville, KY: null
+500 South15th Street Peeling Place, Louisville, KY: null
 500 South15th Street, Louisville, KY:
   lat: 38.25303
   lng: -85.775822
