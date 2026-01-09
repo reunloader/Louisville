@@ -183,6 +183,9 @@
 1 Highland Ave, Louisville, KY:
   lat: 38.2373084
   lng: -85.7310027
+1 Hillbrook Dr, Louisville, KY:
+  lat: 38.2277762
+  lng: -85.6310168
 1 Shelby Station Dr, Louisville, KY: null
 1 South Forth Street, Louisville, KY: null
 1 South St, Louisville, KY:
@@ -1453,6 +1456,7 @@
   lng: -85.748106
 100 South Glaciere, Crop St East, Orange Street Avenue, Camp St, Louisville, KY: null
 100 South Hancock and East Madison, Louisville, KY: null
+100 South Harbor Park, Louisville, KY: null
 100 South Harris Blount Parkway, Louisville, KY: null
 100 South Park Rd, Louisville, KY:
   lat: 38.085463
@@ -8113,6 +8117,7 @@
 1500 Bellamy Pl. Concerns were raised, Louisville, KY: null
 1500 Bellamy's Place, Louisville, KY: null
 1500 Bellevue Place, Department 203, Louisville, KY: null
+1500 Berksham Road, Louisville, KY: null
 1500 Bernstrahl, Louisville, KY: null
 1500 Bicknell Ave, Louisville, KY:
   lat: 38.183496
@@ -34617,6 +34622,9 @@
 700 East Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
+700 East Hill, Louisville, KY:
+  lat: 38.2241
+  lng: -85.744953
 700 East Jail, Louisville, KY: null
 700 East Jefferson (Tempo by Hilton), Louisville, KY: null
 700 East Jefferson Street 8:00 a, Louisville, KY: null
@@ -38041,6 +38049,9 @@
 8000 Trillium Dr, Louisville, KY:
   lat: 38.1374825
   lng: -85.8663763
+8000 Village Gate Ct, Louisville, KY:
+  lat: 38.1462547
+  lng: -85.6111675
 8000 Vine Crest Ave, Louisville, KY: null
 8000 Water Firm Way, Louisville, KY: null
 8000 Waterfern Way, Louisville, KY:
