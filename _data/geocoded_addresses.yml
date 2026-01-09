@@ -21110,6 +21110,7 @@
 3400 Coventry Common Travel, Louisville, KY: null
 3400 Coventry Commons Dr, Department 103, Louisville, KY: null
 3400 Coventry Commons Dr, unit 104, Louisville, KY: null
+3400 Coventry Commons on St, Louisville, KY: null
 3400 Covington Commons Drive, Crescent K1 Road, Louisville, KY: null
 3400 Crestfield Cir, Louisville, KY:
   lat: 38.2344555
@@ -27508,6 +27509,7 @@
 4700 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+4700 Old Brownsboro Ct, Louisville, KY: null
 4700 Outer Loop, Louisville, KY:
   lat: 38.137848
   lng: -85.673595
@@ -33531,6 +33533,9 @@
 6600 Maple Ct, Louisville, KY:
   lat: 38.2585425
   lng: -85.6883385
+6600 Morning Star Way, Louisville, KY:
+  lat: 38.1149498
+  lng: -85.8820728
 6600 Morning Star Way, moving towards Snyder and Stone Streets, Louisville, KY: null
 6600 Newbridge Pl, Louisville, KY:
   lat: 38.1578121
@@ -35202,6 +35207,9 @@
   lng: -85.7774103
 700 South Third Street across New York and Broadway, Louisville, KY: null
 700 South Third Street, Louisville, KY: null
+700 South, Louisville, KY:
+  lat: 38.2499785
+  lng: -85.8253016
 700 South15th, Louisville, KY:
   lat: 38.248142
   lng: -85.776675
@@ -37858,6 +37866,9 @@
 8000 Browns Road near Circle K, Louisville, KY:
   lat: 38.1920654
   lng: -85.7643027
+8000 Brownsboro Rd at Circle K, Louisville, KY:
+  lat: 38.2588952
+  lng: -85.6971281
 8000 Candleglow Ln, Louisville, KY:
   lat: 38.1360048
   lng: -85.7827411
