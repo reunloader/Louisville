@@ -5720,6 +5720,9 @@
 1200 South3rd Street, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
+1200 South3rd, Louisville, KY:
+  lat: 38.234755
+  lng: -85.758791
 1200 South41st Street, Louisville, KY:
   lat: 38.2397711
   lng: -85.8209979
@@ -19527,6 +19530,7 @@
 300 built-in road, Louisville, KY: null
 300 bullet line, Louisville, KY: null
 300 holding on5, Louisville, KY: null
+300 location, Louisville, KY: null
 ? 300 north 35th Street, near Alfred and Duncan, to assist a 28-year-old female experiencing
   multiple seizures. The individual has a known history of epilepsy., Louisville,
   KY
@@ -36952,6 +36956,9 @@
 7700 Trade Port Dr, Louisville, KY:
   lat: 38.1242375
   lng: -85.8950273
+7700 US42, Louisville, KY:
+  lat: 38.1256372
+  lng: -85.8942541
 7700 Wictor Ct, Louisville, KY:
   lat: 38.209842
   lng: -85.6141349
