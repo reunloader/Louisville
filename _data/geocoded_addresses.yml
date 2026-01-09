@@ -24983,6 +24983,9 @@
 4000 Oaklawn Dr near Crest Street-Preston Hwy, Louisville, KY:
   lat: 38.147947
   lng: -85.6862134
+4000 Oaklawn Dr, Louisville, KY:
+  lat: 38.147947
+  lng: -85.6862134
 4000 Outer Loop, Louisville, KY:
   lat: 38.1381387
   lng: -85.6882058
@@ -32135,6 +32138,7 @@
 600 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+600 South Swinett, Louisville, KY: null
 600 South, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
@@ -35547,6 +35551,9 @@
   lat: 38.109789
   lng: -85.88966
 7000 Attaloo, Crescent Vaughan Mill, Louisville, KY: null
+7000 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 7000 Bardstown Rd, Louisville, KY:
   lat: 38.1474148
   lng: -85.5861497
@@ -37563,6 +37570,9 @@
   lat: 38.1908906
   lng: -85.7431851
 800 Pigsley Highway in Rockford Ln, Louisville, KY: null
+800 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 800 Radio Lane, Louisville, KY: null
 800 Ransum Dr, Louisville, KY: null
 800 Riedley Ct, Louisville, KY:
