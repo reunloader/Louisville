@@ -11978,6 +11978,7 @@
 200 East at the off-ramp, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East before Dixie Hwy, Louisville, KY: null
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East driveway, 10th Dollar General, Louisville, KY: null
 200 East exit, Louisville, KY: null
@@ -33110,6 +33111,9 @@
 ? 6300 Greenwood Rd following a hold-up alarm. The incident was reported as a commercial
   panic alarm activation., Louisville, KY
 : null
+6300 Greenwood Rd near River City Bank, Louisville, KY:
+  lat: 38.1442369
+  lng: -85.8684506
 6300 Greenwood Rd, Louisville, KY:
   lat: 38.1442369
   lng: -85.8684506
