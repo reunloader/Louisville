@@ -8411,6 +8411,9 @@
 1500 S Brook St near Paradise Tomato Kitchen, Louisville, KY:
   lat: 38.2250647
   lng: -85.7556462
+1500 S Floyd St, Louisville, KY:
+  lat: 38.224735
+  lng: -85.753427
 1500 S Shelby St, Louisville, KY:
   lat: 38.2248292
   lng: -85.7428829
@@ -19648,6 +19651,7 @@
 3000 Oread Rd near Napanee Rd, Louisville, KY:
   lat: 38.2651724
   lng: -85.6573807
+3000 Oread Rd, Louisville, KY: null
 3000 Pamela Way, Louisville, KY:
   lat: 38.216784
   lng: -85.623446
@@ -29090,6 +29094,9 @@
 5000 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
+5000 Fay Ave near Crosshair Lyman Avenue and Bauer Ave, Louisville, KY:
+  lat: 38.164915
+  lng: -85.776064
 5000 Fay Ave, Louisville, KY:
   lat: 38.164915
   lng: -85.776064
@@ -30551,6 +30558,9 @@
   KY
 : lat: 38.1642573
   lng: -85.5986147
+5600 Barrett Ln, Louisville, KY:
+  lat: 38.1013185
+  lng: -85.8645855
 5600 Barrett and Charlie's Flight, Louisville, KY: null
 5600 Brinson Dr, Louisville, KY:
   lat: 38.1703588
@@ -41339,6 +41349,7 @@ Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross Hill Rd and Morgan Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
+Crosshair Lyman Avenue and Bauer Ave, Louisville, KY: null
 Crosshore Harsey Avenue and Harold Ave, Louisville, KY: null
 Crossico Avenue and Noah Dr, Louisville, KY: null
 Crossing Campobello St and Carroll Ave, Louisville, KY: null
