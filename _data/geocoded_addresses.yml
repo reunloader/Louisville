@@ -13542,6 +13542,7 @@
 200 southbound near the 6-mile marker, Louisville, KY: null
 200 southbound near the National Turnpike and Fertile exits, Louisville, KY: null
 200 southbound towards the 7th Street exit, Louisville, KY: null
+200 southbound, Louisville, KY: null
 ? 200 southbound, originating from Highway 64. The chase concluded when the fleeing
   vehicle crashed into a ditch past the 23-mile marker. Multiple police divisions
   were involved in monitoring or responding, Louisville, KY
@@ -21305,6 +21306,7 @@
 3500 Craig Ave, Louisville, KY:
   lat: 38.19568
   lng: -85.789656
+3500 Crossland, Louisville, KY: null
 3500 Curry Dr, Louisville, KY:
   lat: 38.2660068
   lng: -85.4389785
@@ -28745,6 +28747,9 @@
 500 South27th Street, Louisville, KY:
   lat: 38.255237
   lng: -85.795685
+500 South30th Street, Louisville, KY:
+  lat: 38.254142
+  lng: -85.800946
 500 South3rd, Louisville, KY:
   lat: 38.249733
   lng: -85.756157
