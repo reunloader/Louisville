@@ -15626,6 +15626,9 @@
 2300 Miller's Lane near 50 Gerald Road and Plantation Dr, Louisville, KY: null
 2300 Miller's Lane, Louisville, KY: null
 2300 Millers Ln, Crop St, Louisville, KY: null
+2300 Millers Ln, Louisville, KY:
+  lat: 38.2149251
+  lng: -85.8001732
 2300 Montgomery St, Louisville, KY:
   lat: 38.27077
   lng: -85.785284
@@ -38505,6 +38508,7 @@
   be verified, prompting concern and investigation by responding units., Louisville,
   KY
 : null
+8600 Stony Falls Way near Stony Farm Dr, Louisville, KY: null
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
