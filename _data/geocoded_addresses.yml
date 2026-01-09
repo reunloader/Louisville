@@ -5720,6 +5720,9 @@
 1200 Story Ave. The patient was assessed and received care on scene, with responders working, Louisville, KY:
   lat: 38.2551819
   lng: -85.7280531
+1200 Street at Avenue Plaza, Louisville, KY:
+  lat: 38.3101697
+  lng: -85.577436
 1200 Sugar Pond Terrace. The response aimed, Louisville, KY: null
 1200 Taylor's Road, Louisville, KY: null
 1200 Telford Street, Louisville, KY: null
@@ -10675,6 +10678,9 @@
   lat: 38.2190386
   lng: -85.7918062
 1800 Williams and Court, Louisville Recovery Center, Louisville, KY: null
+1800 Williamson Ct at McCall Spiro, Louisville, KY:
+  lat: 38.2694343
+  lng: -85.5048369
 1800 Williamson Ct, Louisville, KY:
   lat: 38.2694343
   lng: -85.5048369
@@ -22828,6 +22834,9 @@
   lat: 38.18484
   lng: -85.789937
 3900 Creski Way, Louisville, KY: null
+3900 Crittenden Dr, Louisville, KY:
+  lat: 38.1971475
+  lng: -85.751422
 3900 Delphi, Louisville, KY: null
 3900 Dixie Hwy at Speedway, Louisville, KY:
   lat: 38.1130706
@@ -34093,6 +34102,7 @@
 6900 W Jefferson St, Louisville, KY:
   lat: 38.2559959
   lng: -85.7766293
+6900 Willard, Louisville, KY: null
 ? 6900 Yuma Way involving a rollover accident with a four-wheeler. Reports indicated
   that an intoxicated driver was involved, and the victim was pinned by the vehicle.
   Authorities noted the presence of a firearm, Louisville, KY
