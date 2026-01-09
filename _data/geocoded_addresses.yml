@@ -4964,6 +4964,9 @@
 11900 Deer Park Ave, Louisville, KY:
   lat: 38.2248164
   lng: -85.7093907
+11900 Dixie Hwy, Louisville, KY:
+  lat: 38.085305
+  lng: -85.879994
 11900 Lower River Rd, Louisville, KY:
   lat: 38.0829696
   lng: -85.900505
@@ -13115,6 +13118,9 @@
 : null
 200 West and West Hill, Louisville, KY: null
 200 West approaching Taylor Blvd, Louisville, KY: null
+200 West at Algonquin, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at Bank St, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -19552,6 +19558,9 @@
   lat: 38.1585139
   lng: -85.8591368
 3000 Fern Valley Rd, McDonald's, Louisville, KY: null
+3000 Fleming Ave, Louisville, KY:
+  lat: 38.264071
+  lng: -85.693
 3000 Ford Haven, Louisville, KY: null
 3000 Fordhaven Rd, Louisville, KY:
   lat: 38.1489023
@@ -36399,6 +36408,9 @@
   were partially blocking traffic lanes, and units responded, Louisville, KY
 : null
 7500 Manslick Rd, Louisville, KY:
+  lat: 38.1480517
+  lng: -85.7908992
+7500 Manslick Rd. The patient was stabilized and transported, Louisville, KY:
   lat: 38.1480517
   lng: -85.7908992
 7500 Maria Ave, Louisville, KY:
