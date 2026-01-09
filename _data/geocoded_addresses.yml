@@ -8922,6 +8922,9 @@
   lat: 38.2287209
   lng: -85.7148597
 1600 Eastward Cutoff Road, Louisville, KY: null
+1600 Edenside Ave, Louisville, KY:
+  lat: 38.229732
+  lng: -85.715706
 1600 Ehrler Dr, Louisville, KY:
   lat: 38.2118351
   lng: -85.7160786
@@ -9233,6 +9236,9 @@
   lng: -85.4537797
 1600 Trevilian Way, Crop St Valley Vista in Ashwood, Louisville, KY: null
 1600 Tunisian Way near Crop St, Morocco Tribe, and Norway Tribe, Louisville, KY:
+  lat: 38.1664346
+  lng: -85.7957339
+1600 Tunisian Way, Louisville, KY:
   lat: 38.1664346
   lng: -85.7957339
 1600 Two Strings, Louisville, KY: null
@@ -18081,6 +18087,9 @@
   lat: 38.1443808
   lng: -85.8602956
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
+2900 Kozy Kreek Dr, Louisville, KY:
+  lat: 38.21026
+  lng: -85.639403
 2900 Lindsay and nearby areas, Louisville, KY: null
 2900 Lindsay near Perfect Country Club in Birchwood, Louisville, KY:
   lat: 38.2648437
@@ -18395,6 +18404,10 @@
   KY
 : null
 300 Baker, with additional units responding, Louisville, KY: null
+? 300 Baker. The situation was routine, with no signs of forced entry or additional
+  concerns. Responders remained on scene briefly before returning, Louisville, KY
+: lat: 38.1417259
+  lng: -85.7685179
 300 Baker., Louisville, KY:
   lat: 38.1417259
   lng: -85.7685179
@@ -25052,6 +25065,7 @@
   lat: 38.1847673
   lng: -85.7796505
 4020 an unspecified street, Louisville, KY: null
+409 (unknown), Louisville, KY: null
 41 Brownsboro Rd, Louisville, KY:
   lat: 38.2663448
   lng: -85.6586242
@@ -37669,6 +37683,9 @@
   lng: -85.765197
 800 West Hall V crossing Ville's West Dr and Roy Wilkins Ave, Louisville, KY: null
 800 West Justin Street, Louisville, KY: null
+800 West Kenwood, Louisville, KY:
+  lat: 38.161513
+  lng: -85.778155
 800 West Kinwood at BA Colonial, Louisville, KY:
   lat: 38.1744506
   lng: -85.7618487
@@ -41628,6 +41645,7 @@ Lee St and West Galbra Avenue, Louisville, KY: null
 Leemont Dr and Terry Rd, Louisville, KY: null
 Lena Ln and Newburg Rd, Louisville, KY: null
 Lencott Dr and Terry Rd, Louisville, KY: null
+Leroy Ave and Matheis Ln, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
 Lexham Rd and Eastside Dr, Louisville, KY: null
 Lexington Ave and Payne St, Louisville, KY: null
@@ -41746,6 +41764,7 @@ Moran Ave and Stratton Ave, Louisville, KY: null
 Moredale Rd and Westport Rd, Louisville, KY: null
 Morgan St and Hickory St, Louisville, KY: null
 Morningview Dr and Brownsboro Rd, Louisville, KY: null
+Morocco Dr and Norway Dr, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
 Moser Rd and Shelbyville Rd, Louisville, KY: null
