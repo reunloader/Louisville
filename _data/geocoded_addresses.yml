@@ -11584,6 +11584,9 @@
 ? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
+200 Cherokee Rd, Louisville, KY:
+  lat: 38.2362985
+  lng: -85.6973252
 200 Chickasaw Park, Louisville, KY:
   lat: 38.2423223
   lng: -85.8331322
@@ -37793,6 +37796,9 @@
   lng: -85.762146
 800 South 7th Street, Crossroads, Louisville, KY: null
 800 South Forth, Louisville, KY: null
+800 South Hancock, Louisville, KY:
+  lat: 38.241639
+  lng: -85.744251
 800 South Jackson, Louisville, KY:
   lat: 38.24185
   lng: -85.746268
