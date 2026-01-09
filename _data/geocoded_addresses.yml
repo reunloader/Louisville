@@ -1247,6 +1247,9 @@
   searching, Louisville, KY
 : lat: 38.254043
   lng: -85.71819
+100 Poplar Level Ct at Speedway, Louisville, KY:
+  lat: 38.164827
+  lng: -85.678529
 100 Poplar Level Ct, Louisville, KY:
   lat: 38.164827
   lng: -85.678529
@@ -14077,6 +14080,7 @@
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
+2000 South with no registered owner, Louisville, KY: null
 2000 South2nd Street and Guthrie St, Louisville, KY: null
 2000 South40th Street, Louisville, KY:
   lat: 38.22754
@@ -24134,6 +24138,9 @@
   lat: 38.253135
   lng: -85.758928
 400 South 6th Street at the jail, Louisville, KY:
+  lat: 38.2532016
+  lng: -85.761072
+400 South 6th Street near the jail, Louisville, KY:
   lat: 38.2532016
   lng: -85.761072
 400 South 6th Street, Louisville, KY:
