@@ -6101,6 +6101,9 @@
 12600 Valley Pine Dr, Louisville, KY:
   lat: 38.172095
   lng: -85.5388022
+12600 Westport Rd near Con Agro Brands, Louisville, KY:
+  lat: 38.302126
+  lng: -85.516501
 12700 Abbey Rd, Louisville, KY:
   lat: 38.0721501
   lng: -85.8951203
@@ -23684,6 +23687,9 @@
 400 E W Brandeis Ave, Louisville, KY:
   lat: 38.2193858
   lng: -85.7622692
+400 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 400 E W Chestnut St at UofL parking garage, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -24539,6 +24545,7 @@
   lat: 38.2521786
   lng: -85.7548825
 400 South Second Street, Louisville, KY: null
+400 South Second, Louisville, KY: null
 400 South Sixth Street, Louisville, KY: null
 400 South St near US W Liberty St, Louisville, KY:
   lat: 38.219248
@@ -29238,6 +29245,9 @@
 5000 Belmont Ave near Nancy Ln and Gerald Ave, Louisville, KY:
   lat: 38.1391652
   lng: -85.849572
+5000 Belmont, Louisville, KY:
+  lat: 38.1391652
+  lng: -85.849572
 5000 Bruce Ave, Louisville, KY:
   lat: 38.145655
   lng: -85.7815212
@@ -32820,6 +32830,9 @@
   and investigate the accident., Louisville, KY
 : null
 6100 West Wampum and 2nd. Police units responded, Louisville, KY: null
+6100 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 6100 acre and 600 block of Adam, Louisville, KY: null
 6100 train, Louisville, KY:
   lat: 38.0795787
