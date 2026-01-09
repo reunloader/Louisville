@@ -3160,6 +3160,9 @@
   West Dr, has previous convictions, Louisville, KY
 : null
 1000 location, Louisville, KY: null
+1000 magazine, Louisville, KY:
+  lat: 38.2484525
+  lng: -85.7680848
 1000 neighborhood plays near Crosshore National Turnpike, Louisville, KY: null
 1000 on1, Louisville, KY: null
 1000 police pursuit initiation, Louisville, KY: null
@@ -12659,6 +12662,7 @@
   lng: -85.7672337
 200 Seltos, Louisville, KY: null
 200 Sequel Crest Court, Louisville, KY: null
+200 Sheehan Landing Dr, Louisville, KY: null
 200 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -29177,6 +29181,7 @@
 5000 Mount Holyoke Dr, Louisville, KY:
   lat: 38.1704809
   lng: -85.8503505
+5000 Mud Ln (AT&T building), Louisville, KY: null
 5000 Mud Ln, Louisville, KY:
   lat: 38.0881724
   lng: -85.669577
