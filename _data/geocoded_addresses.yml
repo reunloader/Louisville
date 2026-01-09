@@ -1192,6 +1192,7 @@
 100 Outer Loop near Crosstreet Newcote Road and Candlewick Drive, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
+100 Outer Loop, Crusher, Louisville, KY: null
 100 Outer Loop, Louisville, KY:
   lat: 38.12637
   lng: -85.7935486
@@ -3504,6 +3505,9 @@
   lat: 38.124978
   lng: -85.5827217
 10500 Rile Rd, Louisville, KY: null
+10500 Sawyer Pl, Louisville, KY:
+  lat: 38.2903073
+  lng: -85.5570975
 10500 Seatonville Rd, Louisville, KY:
   lat: 38.145184
   lng: -85.566692
@@ -4805,6 +4809,7 @@
 11500 Tazwell Dr, Louisville, KY:
   lat: 38.305822
   lng: -85.535128
+11500 Ulrich Rd, Crusher, Louisville, KY: null
 11500 Willow Pond Dr, Louisville, KY: null
 11500 Willow Street, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
