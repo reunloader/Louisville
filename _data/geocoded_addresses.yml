@@ -221,6 +221,9 @@
 10 Raylon Dr, Louisville, KY:
   lat: 38.121253
   lng: -85.8489555
+10 Seatonville Rd, Louisville, KY:
+  lat: 38.1431383
+  lng: -85.5614901
 10 Standing Saver Street, Louisville, KY: null
 10 Sunday Dr, Louisville, KY:
   lat: 38.1510298
@@ -1423,6 +1426,9 @@
 100 South 43rd Street, Louisville, KY:
   lat: 38.2651697
   lng: -85.8189753
+100 South 46th Street, Louisville, KY:
+  lat: 38.266176
+  lng: -85.8227946
 100 South 4th Street, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
