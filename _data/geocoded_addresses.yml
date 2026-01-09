@@ -4884,6 +4884,9 @@
 11600 Winding Stream Way, Louisville, KY:
   lat: 38.0833635
   lng: -85.8771769
+11700 Antonia Way, Louisville, KY:
+  lat: 38.09414
+  lng: -85.670806
 11700 Bluegrass Ave, Louisville, KY:
   lat: 38.1793257
   lng: -85.7749547
@@ -13871,6 +13874,9 @@
 2000 Dodge Challenger, Louisville, KY: null
 2000 Dodge Charger, Louisville, KY: null
 2000 Dodge Ram, Louisville, KY: null
+2000 Dodge, Louisville, KY:
+  lat: 38.1012346
+  lng: -85.8460573
 2000 Douglass Blvd, Louisville, KY:
   lat: 38.2247267
   lng: -85.6929625
@@ -13909,6 +13915,7 @@
 2000 Ford Focus near Adamant radio, Louisville, KY: null
 2000 Ford Focus, registered to DJ's Auto Sales, was reported in the area. Authorities have issued a BOLO, Louisville, KY: null
 2000 Ford Fusion. Units responded, Louisville, KY: null
+2000 Ford Mustang registered out of Boone County, Louisville, KY: null
 2000 Ford Taurus near Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -39722,6 +39729,9 @@
   lng: -85.7608634
 900 South63, Louisville, KY: null
 900 Southbrook Street, Louisville, KY: null
+900 Southern Pky, Louisville, KY:
+  lat: 38.1818658
+  lng: -85.7683443
 900 Southgate Manor Dr, Louisville, KY:
   lat: 38.0893129
   lng: -85.6721306
@@ -41433,6 +41443,7 @@ Crestline Rd and Justan Ave, Louisville, KY: null
 Creston Dr and Park Blvd, Louisville, KY: null
 Crestwood Ave and Frankfort Ave, Louisville, KY: null
 Creswell Warren Avenue and Cliff Ave, Louisville, KY: null
+Crittenden Dr and Chicopee Ave, Louisville, KY: null
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crittenden Dr and Lilly Ave, Louisville, KY: null
 Crittenden Dr and Morgan Ave, Louisville, KY: null
