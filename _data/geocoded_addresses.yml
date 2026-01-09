@@ -1328,6 +1328,9 @@
 100 S Longworth Ave, Louisville, KY:
   lat: 38.2664881
   lng: -85.8238165
+100 S Shelby St, Louisville, KY:
+  lat: 38.254461
+  lng: -85.737913
 100 Sam Dr, Louisville, KY:
   lat: 38.141126
   lng: -85.765606
@@ -24811,6 +24814,7 @@
   lat: 38.2425193
   lng: -85.6544619
 4000 Oak Henry, Louisville, KY: null
+4000 Oak Line, Louisville, KY: null
 4000 Oaklawn Dr near Crest Street-Preston Hwy, Louisville, KY:
   lat: 38.147947
   lng: -85.6862134
@@ -32165,6 +32169,9 @@
   lat: 38.2388402
   lng: -85.4177414
 600 Whiskey Delta Echo near Taylor Blvd and Walter Ave, Louisville, KY: null
+600 Whispering Hills Blvd, Louisville, KY:
+  lat: 38.1473573
+  lng: -85.6491619
 600 White male, Louisville, KY: null
 600 Wickfield Dr, Louisville, KY:
   lat: 38.2308389
@@ -32256,6 +32263,9 @@
   provided. Police units were dispatched, Louisville, KY
 : lat: 38.158737
   lng: -85.591605
+6000 Barley Ave, Louisville, KY:
+  lat: 38.179062
+  lng: -85.6477951
 6000 Bellevue Ave to look into the circumstances., Louisville, KY: null
 6000 Bellevue Ave, Louisville, KY:
   lat: 38.1964886
