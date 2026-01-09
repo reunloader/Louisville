@@ -12359,6 +12359,7 @@
 200 North 39th Street, Louisville, KY:
   lat: 38.2657912
   lng: -85.8133557
+200 North 64th Street, Louisville, KY: null
 200 North Arbor Park near South Arbor Park, Louisville, KY:
   lat: 38.1642831
   lng: -85.7670724
@@ -29083,6 +29084,9 @@
 5000 Bruce Ave, Louisville, KY:
   lat: 38.145655
   lng: -85.7815212
+5000 Buckner, Louisville, KY:
+  lat: 38.1700757
+  lng: -85.7727382
 5000 Cedarburg Court, Louisville, KY: null
 5000 Chamberlain Ln, Louisville, KY:
   lat: 38.3197551
