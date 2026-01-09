@@ -3477,6 +3477,9 @@
 10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
 10400 Watermark Pl, Louisville, KY: null
 10400 West Manslake Road near Mason Ln and Sharon Ln, Louisville, KY: null
+10400 Westport Rd, Louisville, KY:
+  lat: 38.293766
+  lng: -85.558972
 10405 Preston Hwy, Louisville, KY:
   lat: 38.0993972
   lng: -85.6716879
@@ -36594,6 +36597,9 @@
 7800 Appleview Ln, Louisville, KY:
   lat: 38.133612
   lng: -85.61895
+7800 Barbour Manor Dr, Louisville, KY:
+  lat: 38.3050231
+  lng: -85.6074246
 7800 Beulah Church Rd, Louisville, KY:
   lat: 38.1352487
   lng: -85.6137499
@@ -39715,6 +39721,7 @@
   lat: 38.1217875
   lng: -85.8765201
 9000 Haviland Ave, Louisville, KY: null
+9000 Henry Clay Dr, Louisville, KY: null
 9000 Hi View Ln, Louisville, KY: null
 9000 Hirschborn Club Lane, Louisville, KY: null
 9000 Lethborough Dr, Crop St of San Marcos, Louisville, KY: null
