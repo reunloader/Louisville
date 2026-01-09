@@ -8031,6 +8031,7 @@
 1500 Anna Ln, Louisville, KY:
   lat: 38.179538
   lng: -85.8027049
+1500 Arcade Ave parking lot, Louisville, KY: null
 1500 Arcade Ave**, Louisville, KY:
   lat: 38.2064431
   lng: -85.7850134
@@ -8538,6 +8539,9 @@
 1500 Talmadge Way, Louisville, KY:
   lat: 38.176211
   lng: -85.809941
+1500 Taylor Ave, Louisville, KY:
+  lat: 38.1950652
+  lng: -85.7145993
 ? 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
@@ -9121,6 +9125,7 @@
 1600 Rowan St, Louisville, KY:
   lat: 38.2599339
   lng: -85.7763331
+1600 Russell Ave, cross of Illinois Ave and Poplar Level Rd, Louisville, KY: null
 1600 Sale Ave, Louisville, KY:
   lat: 38.19768
   lng: -85.790838
@@ -11321,6 +11326,9 @@
 200 Ashland and Kathleen Ave, Louisville, KY: null
 200 Atom Street, Louisville, KY: null
 200 Atom was reported. Responders arrived, Louisville, KY: null
+200 Aubert Ave, Louisville, KY:
+  lat: 38.2498463
+  lng: -85.6817665
 200 Baker and 100 block of Baker, Louisville, KY: null
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
@@ -15529,6 +15537,7 @@
 2300 Glenmary Ave near Bassett Ave, Louisville, KY:
   lat: 38.2391887
   lng: -85.7136877
+2300 Glenmary Ave parking lot, Louisville, KY: null
 2300 Glenmary Ave, Louisville, KY:
   lat: 38.2391887
   lng: -85.7136877
@@ -38929,6 +38938,9 @@
 900 Collins Ln, Louisville, KY:
   lat: 38.2892011
   lng: -85.5152696
+900 Competition Ct, Louisville, KY:
+  lat: 38.167856
+  lng: -85.5960256
 900 Conn St, Louisville, KY:
   lat: 38.1958423
   lng: -85.7910469
@@ -41526,6 +41538,7 @@ Hurston Parkway and Bardstown Rd, Louisville, KY: null
 Hurstport Parkway and Westport Rd, Louisville, KY: null
 Hutcherson Dr and Cove Dr, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
+Illinois Ave and Poplar Level Rd, Louisville, KY: null
 Inca Dr and Johnsontown Rd, Louisville, KY: null
 Indian Falls Dr and River Trail Dr, Louisville, KY: null
 Indian Lake Dr and Westport Rd, Louisville, KY: null
