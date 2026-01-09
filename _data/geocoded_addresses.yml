@@ -5880,6 +5880,7 @@
 1200 Willow Ave, Louisville, KY:
   lat: 38.239071
   lng: -85.714023
+1200 Winter Springs Ct, Louisville, KY: null
 1200 Wood Valley Ln, Louisville, KY: null
 1200 [Street Name Missing], Louisville, KY: null
 1200 call area, Louisville, KY: null
@@ -15428,6 +15429,9 @@
 23 Magazine St, Louisville, KY:
   lat: 38.2493289
   lng: -85.7734408
+23 Phyllis Ave, Louisville, KY:
+  lat: 38.2053882
+  lng: -85.7811774
 23 Ralston Ave, Louisville, KY:
   lat: 38.1426872
   lng: -85.8480559
@@ -34327,6 +34331,7 @@
 700 Adams, Louisville, KY:
   lat: 38.2592106
   lng: -85.7264871
+700 Alexandra Woods Ct, Louisville, KY: null
 700 Algonquin Pky, Louisville, KY:
   lat: 38.2113098
   lng: -85.7705003
