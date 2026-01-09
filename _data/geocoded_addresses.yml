@@ -4884,6 +4884,7 @@
 11600 Winding Stream Way, Louisville, KY:
   lat: 38.0833635
   lng: -85.8771769
+11700 5th Third Lane, Louisville, KY: null
 11700 Antonia Way, Louisville, KY:
   lat: 38.09414
   lng: -85.670806
@@ -14947,6 +14948,7 @@
   lng: -85.6937899
 2200 Beargrass Ave and Shepherd Avenue Court, Louisville, KY: null
 2200 Bermuda, Louisville, KY: null
+2200 Bertram Road, Louisville, KY: null
 2200 Bonnycastle Ave, Louisville, KY:
   lat: 38.233694
   lng: -85.699703
@@ -17092,6 +17094,7 @@
 2600 Stone Alley, Louisville, KY:
   lat: 38.254584
   lng: -85.794486
+2600 Task-E Dr, Louisville, KY: null
 2600 Titleist Rd near Blossom Ln, Louisville, KY:
   lat: 38.288499
   lng: -85.5784941
@@ -20461,6 +20464,7 @@
 3200 Commander Dr, Louisville, KY:
   lat: 38.214276
   lng: -85.653657
+3200 County Street Rd, Louisville, KY: null
 3200 Cramsway and Crossroad, Louisville, KY: null
 3200 Dale Park Terrace, Louisville, KY: null
 3200 Dixie Hwy near Crop St, Appleton Ln, Neblett Ave, Louisville, KY:
@@ -20909,6 +20913,7 @@
 3300 Hardwood Forest Dr at Alltown Roach, Louisville, KY:
   lat: 38.1381371
   lng: -85.825728
+3300 Hikes Ln (Mainz, Americas), Louisville, KY: null
 3300 Hikes Ln, Louisville, KY:
   lat: 38.218158
   lng: -85.628398
@@ -21347,6 +21352,7 @@
 3400 Susanna Dr, Louisville, KY:
   lat: 38.169793
   lng: -85.698532
+3400 Task-E Dr, Louisville, KY: null
 3400 Taylor Blvd at Marathon, Louisville, KY:
   lat: 38.1995175
   lng: -85.7829642
@@ -30799,6 +30805,9 @@
 5600 South 12th Street, Louisville, KY:
   lat: 38.2303687
   lng: -85.7746478
+5600 Southern Pky, Louisville, KY:
+  lat: 38.1726265
+  lng: -85.777611
 5600 Spring Gate Dr, Louisville, KY:
   lat: 38.3097365
   lng: -85.5638547
@@ -31514,6 +31523,7 @@
   lat: 38.2335579
   lng: -85.7455533
 600 East Orangeby Avenue, Louisville, KY: null
+600 East Ormsby Street, Louisville, KY: null
 600 East Ormsby, Louisville, KY:
   lat: 38.2304159
   lng: -85.7452941
