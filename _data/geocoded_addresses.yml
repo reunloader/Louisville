@@ -7520,6 +7520,7 @@
 1400 Mount Claire Ave, Louisville, KY:
   lat: 38.2124726
   lng: -85.742471
+1400 Mount Holly Rd, Louisville, KY: null
 1400 New Cub Road, Louisville, KY: null
 ? 1400 Night and Gale due to reports of suspicious activity, with a tarp being a noted
   detail. Responding officers encountered individuals and detained them for investigation.
@@ -21696,6 +21697,9 @@
 3500 Herb Ln. Medical evaluation and care were provided, Louisville, KY:
   lat: 38.2166005
   lng: -85.6539282
+3500 Hudson Ave, Louisville, KY:
+  lat: 38.222147
+  lng: -85.81454
 3500 Huon Dr, Louisville, KY:
   lat: 38.2006794
   lng: -85.6761025
