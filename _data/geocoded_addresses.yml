@@ -9366,6 +9366,9 @@
   lat: 38.251069
   lng: -85.77791
 1600 W Chestnut St, between 16th and 17th streets,, Louisville, KY: null
+1600 W Chestnut St, near Sobriety Soldiers, Louisville, KY:
+  lat: 38.251069
+  lng: -85.77791
 1600 W Kentucky St, Louisville, KY:
   lat: 38.2414959
   lng: -85.7803273
@@ -16243,6 +16246,7 @@
 2400 Frankfort Ave, Louisville, KY:
   lat: 38.2536081
   lng: -85.6995897
+2400 Frankfort Ave, arched-heady funeral home, Louisville, KY: null
 2400 Frankfort Ave, near a funeral home. The circumstances leading, Louisville, KY:
   lat: 38.2536081
   lng: -85.6995897
@@ -39928,6 +39932,7 @@
 900 Rosemary Dr, Louisville, KY:
   lat: 38.2048725
   lng: -85.7329409
+900 Rowan St William, Louisville, KY: null
 900 Rowan St, Louisville, KY:
   lat: 38.2599004
   lng: -85.7738324
