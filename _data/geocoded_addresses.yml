@@ -24236,6 +24236,9 @@
 400 North 28th Street, Louisville, KY:
   lat: 38.267459
   lng: -85.795458
+400 North 30th Street, Louisville, KY:
+  lat: 38.266789
+  lng: -85.799312
 400 North 34th Street, Louisville, KY:
   lat: 38.2663348
   lng: -85.8063969
@@ -24867,6 +24870,9 @@
   lng: -85.6971709
 400 West W Oak St, Louisville, KY: null
 400 West Wonsby Avenue, Louisville, KY: null
+400 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 400 Wetstein Ave, Louisville, KY:
   lat: 38.2256323
   lng: -85.6819226
@@ -31885,6 +31891,7 @@
 600 Joni Dr, Louisville, KY:
   lat: 38.1815421
   lng: -85.8015578
+600 KMO near Green Haven and Gerson Viewway, Louisville, KY: null
 600 Kaiser Ct, Louisville, KY:
   lat: 38.2413865
   lng: -85.8266395
@@ -41814,6 +41821,7 @@ Dawson Hill Rd and Wood Valley Ln, Louisville, KY: null
 Dean Dr and Flora Ave, Louisville, KY: null
 Delor Ave and Kansas Boulevard, Louisville, KY: null
 Denver Ln and Herod Lane, Louisville, KY: null
+Denver Valley Station Road and Endearing Road, Louisville, KY: null
 Devers Ave and Buckner Ave, Louisville, KY: null
 Devonshire Dr and Scottwood Dr, Louisville, KY: null
 Dixie Avenue and Wheeler Ave, Louisville, KY: null
