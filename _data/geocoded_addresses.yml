@@ -6591,6 +6591,9 @@
 1300 Plantside Dr. Responders were dispatched, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
+1300 Quinn, Louisville, KY:
+  lat: 38.2549362
+  lng: -85.7831337
 ? 1300 Ramers Avenue following a report of a domestic disturbance. The initial call
   indicated that a caller had been assaulted by her boyfriend. Further details from
   the caller suggested that another woman had also been subjected to violence. Medical
@@ -15739,6 +15742,9 @@
 2300 Deer Path Cir, Louisville, KY: null
 2300 Devon House Street, Louisville, KY: null
 2300 Dimmel Avenue, Louisville, KY: null
+2300 Dixdale Ave near Cypress St and South 23rd Street, Louisville, KY:
+  lat: 38.222353
+  lng: -85.7980581
 2300 Dixdale Avenue 6:00 a, Louisville, KY: null
 2300 Dixdale Avenue 6:00 a.m., Louisville, KY: null
 ? 2300 Dixdale Avenue due to a report of a domestic disturbance. The initial call
@@ -26044,6 +26050,9 @@
   lat: 38.2442721
   lng: -85.8230343
 4200 Ground Review Avenue, Louisville, KY: null
+4200 Hale Ave near South 43rd and South 42nd Streets, Louisville, KY:
+  lat: 38.241438
+  lng: -85.823216
 4200 Hale Ave was also triggered by a CO detector that had been sounding intermittently throughout the day, Louisville, KY: null
 ? 4200 Hale Ave. Specific details regarding the nature of the emergency or the patient's
   condition were not immediately available., Louisville, KY
@@ -32005,6 +32014,7 @@
 600 Fox Horn Cir, Louisville, KY:
   lat: 38.1638756
   lng: -85.8554355
+600 Gaines Avenue near Grant Ave and Lone Oak Trail, Louisville, KY: null
 600 Gaines Avenue, Louisville, KY: null
 600 Galaxie Dr, Louisville, KY:
   lat: 38.157211
@@ -33458,6 +33468,9 @@
   lat: 38.1621073
   lng: -85.8353823
 6300 Mint Spring Branch Rd near Chamberlain Ln, Louisville, KY:
+  lat: 38.3332461
+  lng: -85.5801407
+6300 Mint Spring Branch Rd near Crestridge Chamberlain Lane, Louisville, KY:
   lat: 38.3332461
   lng: -85.5801407
 6300 Mistflower Cir, Louisville, KY:
@@ -35544,6 +35557,9 @@
 700 S Shelby St, near Lampton St and Roselane St. Of concern was the fact that food had been left cooking, Louisville, KY:
   lat: 38.244568
   lng: -85.739634
+700 S, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 700 Savoy Rd, Louisville, KY:
   lat: 38.252508
   lng: -85.556469
