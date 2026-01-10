@@ -698,6 +698,7 @@
 100 East, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
+100 Eastern Parkway, Crop St, Hahn St, and South 3rd Street, Louisville, KY: null
 100 Eastern Parkway, Louisville, KY:
   lat: 38.213645
   lng: -85.762113
@@ -15778,6 +15779,9 @@
 2300 Grand Ave, Louisville, KY:
   lat: 38.2402708
   lng: -85.7923609
+2300 Granger Rd, Louisville, KY:
+  lat: 38.1008749
+  lng: -85.7241192
 2300 Greenwood Ave, Louisville, KY:
   lat: 38.2412212
   lng: -85.7921946
@@ -29135,6 +29139,7 @@
   lng: -85.736857
 500 S Jackson St in a hospital, Louisville, KY: null
 500 S Jackson St, Ambulatory Care Building, Louisville, KY: null
+500 S Jackson St, Ambulatory care building, Louisville, KY: null
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
@@ -33349,6 +33354,9 @@
 6300 Hunters Grove, Louisville, KY:
   lat: 38.161341
   lng: -85.84161
+6300 Johnsontown Rd at Valley, Louisville, KY:
+  lat: 38.115876
+  lng: -85.885061
 6300 K Road near Crossico Avenue and Noah Dr, Louisville, KY: null
 6300 Labor Ln, Louisville, KY:
   lat: 38.155272
