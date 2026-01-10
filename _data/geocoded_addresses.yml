@@ -18583,6 +18583,9 @@
   lat: 38.1408403
   lng: -85.7646787
 30 Charter Oaks Dr, Louisville, KY: null
+30 Grand Ave, Louisville, KY:
+  lat: 38.2414053
+  lng: -85.8090925
 30 Hikes Ln, Louisville, KY:
   lat: 38.2061085
   lng: -85.6488189
@@ -27869,6 +27872,7 @@
   lng: -85.6735927
 4700 East Minslick Road, Louisville, KY: null
 4700 Echo Zulu, Louisville, KY: null
+4700 Eton Rd, Lowe's, Louisville, KY: null
 4700 Faxon Ct, Louisville, KY:
   lat: 38.1434987
   lng: -85.8786865
@@ -41485,6 +41489,9 @@
   lat: 38.310144
   lng: -85.577819
 9800 Preston Crossing Blvd, Louisville, KY:
+  lat: 38.1064109
+  lng: -85.6721115
+9800 Preston Crossing, Louisville, KY:
   lat: 38.1064109
   lng: -85.6721115
 9800 Preston, Louisville, KY:
