@@ -13199,6 +13199,7 @@
 200 West Liberty, Louisville, KY:
   lat: 38.252634
   lng: -85.754015
+200 West Liberty, Omni residence, Louisville, KY: null
 200 West Market, Louisville, KY:
   lat: 38.2546697
   lng: -85.7537855
@@ -23661,6 +23662,9 @@
   lat: 38.1686412
   lng: -85.5627268
 400 Charter, Louisville, KY: null
+400 Chickasaw Park near tennis courts, Louisville, KY:
+  lat: 38.2423223
+  lng: -85.8331322
 400 Chieftain and 6300 block of Commerce Park Ct, Louisville, KY: null
 400 Christian Village Cir, Louisville, KY: null
 400 Christian Village Cir, near Herrick Ln and Christian Village Ct,, Louisville, KY: null
@@ -42156,6 +42160,7 @@ Larson Drive and River Park Dr, Louisville, KY: null
 Lauderdale Rd and Hill Rd, Louisville, KY: null
 Lausanne Avenue and Dumesnil St, Louisville, KY: null
 Lawman Road and Salvation Road, Louisville, KY: null
+Lee Ave and Sherman Ave, Louisville, KY: null
 Lee St and West Galbra Avenue, Louisville, KY: null
 Leemont Dr and Terry Rd, Louisville, KY: null
 Lena Ln and Newburg Rd, Louisville, KY: null
