@@ -10628,6 +10628,7 @@
 1800 Newburg Rd, Louisville, KY:
   lat: 38.222825
   lng: -85.7113475
+1800 Newburg Rd, St, Louisville, KY: null
 1800 Newburg Rd., Louisville, KY:
   lat: 38.222825
   lng: -85.7113475
@@ -29133,6 +29134,7 @@
   lat: 38.248768
   lng: -85.736857
 500 S Jackson St in a hospital, Louisville, KY: null
+500 S Jackson St, Ambulatory Care Building, Louisville, KY: null
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
