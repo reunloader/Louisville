@@ -14134,6 +14134,7 @@
 2000 Mobile, Louisville, KY:
   lat: 38.2045522
   lng: -85.8356961
+2000 NW-233-28, Louisville, KY: null
 2000 Nelson Miller Pky, Louisville, KY:
   lat: 38.2722475
   lng: -85.5102464
@@ -17108,6 +17109,9 @@
   lat: 38.2709594
   lng: -85.7901708
 2600 Ralph Ave, cross of Westville and Charnley, Louisville, KY: null
+2600 Ralston Ave, Louisville, KY:
+  lat: 38.1426872
+  lng: -85.8480559
 2600 River Green, Louisville, KY:
   lat: 38.2750549
   lng: -85.7073397
