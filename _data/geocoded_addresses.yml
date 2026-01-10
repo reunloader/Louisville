@@ -6940,6 +6940,9 @@
 13000 Dixie Hwy, Louisville, KY:
   lat: 38.0675868
   lng: -85.8858689
+13000 Forest Centre Ct, Louisville, KY:
+  lat: 38.276001
+  lng: -85.510475
 13000 Hinchbrook Blvd, Louisville, KY:
   lat: 38.0632925
   lng: -85.8909174
@@ -19295,6 +19298,9 @@
 300 South38th Street, Louisville, KY:
   lat: 38.2603698
   lng: -85.8121667
+300 South41st Street, Louisville, KY:
+  lat: 38.2604204
+  lng: -85.8178928
 300 South41st near Larkwood and Herman, Louisville, KY:
   lat: 38.2604204
   lng: -85.8178928
@@ -24611,6 +24617,9 @@
 400 South2nd Street at Connell Lodge, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South2nd Street near Pisa, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South2nd Street near West Alley and W Liberty St, Louisville, KY: null
 400 South2nd Street, Louisville, KY:
   lat: 38.2521786
@@ -27458,6 +27467,9 @@
 4600 South2nd Street, Louisville, KY:
   lat: 38.183564
   lng: -85.7647202
+4600 South41st Street, Louisville, KY:
+  lat: 38.2395063
+  lng: -85.8207933
 4600 South6th Street, 4700 block of Southern Pky, and 2400 block of South4th Street, Louisville, KY: null
 4600 South6th Street, Louisville, KY:
   lat: 38.185474
@@ -31586,6 +31598,9 @@
 600 David were involved in this stop., Louisville, KY: null
 600 Desmond, Louisville, KY: null
 600 Dimmed Drives, Louisville, KY: null
+600 Dixie Beach Rd, Louisville, KY:
+  lat: 38.0195229
+  lng: -85.9212355
 600 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -40525,6 +40540,9 @@
 9300 Hill Ridge, Louisville, KY:
   lat: 38.1544853
   lng: -85.7743918
+9300 LaGrange Road, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 9300 Lee's Wingate Rd, Louisville, KY: null
 9300 Longhorn Ct, Louisville, KY:
   lat: 38.11634
