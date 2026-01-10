@@ -4340,6 +4340,9 @@
   lat: 38.2534329
   lng: -85.8250528
 1100 South 4th Street across W Oak St and Webster St, Louisville, KY: null
+1100 South 4th Street at 10 Catfork Road Apartments, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South 4th Street at St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -6234,6 +6237,9 @@
 1300 Arcade Ave, Louisville, KY:
   lat: 38.2041394
   lng: -85.7831176
+1300 Arthur St near East Lee and East Galbert, Louisville, KY:
+  lat: 38.2209861
+  lng: -85.7517448
 1300 Avenue, Louisville, KY: null
 1300 B Lane, Crop St, Steadie, Gray Ln, and nearby blocks, Louisville, KY: null
 1300 B Lane, Crop St, Steadie, Gray Ln, and surrounding blocks, Louisville, KY: null
@@ -31941,6 +31947,9 @@
 600 East W Oak St, Louisville, KY: null
 600 East Warnsbury Avenue, Louisville, KY: null
 600 East Wonsby Avenue near South Quay Street and S Hancock St, Louisville, KY: null
+600 Eastbourne Ave, Louisville, KY:
+  lat: 38.2557357
+  lng: -85.6733234
 600 Eastern Parkway, Louisville, KY:
   lat: 38.2122359
   lng: -85.7468325
