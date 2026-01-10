@@ -13412,6 +13412,9 @@
 200 West near 9, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West near Berkman Ridge, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near Breckenridge Ln, Louisville, KY:
   lat: 38.2251872
   lng: -85.6347733
@@ -17885,6 +17888,7 @@
 2800 Englewood Ave, Louisville, KY:
   lat: 38.228252
   lng: -85.629807
+2800 Fairview Way, Louisville, KY: null
 2800 Fairview, Louisville, KY:
   lat: 38.209828
   lng: -85.775479
@@ -18517,6 +18521,9 @@
 2900 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
+2900 Springdale Rd, Louisville, KY:
+  lat: 38.2507362
+  lng: -85.6865649
 2900 Springfield Dr, Louisville, KY:
   lat: 38.1472696
   lng: -85.8152738
@@ -35940,6 +35947,7 @@
   lng: -85.7675997
 700 West Ornstein, Louisville, KY: null
 700 West Railway, Louisville, KY: null
+700 West of Arms, Louisville, KY: null
 700 Westport Rd and Stonehurst Dr, Louisville, KY: null
 ? 700 Winkler Ave following a report of domestic trouble. The individual involved
   was described as a black male wearing all black clothing., Louisville, KY
