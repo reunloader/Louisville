@@ -3642,6 +3642,9 @@
 : null
 10700 Alberta Dr, Crest Street, Louisville, KY: null
 10700 Alberta Dr, Louisville, KY: null
+10700 Allen Dr, Louisville, KY:
+  lat: 38.1660083
+  lng: -85.607583
 10700 Bell Tucker Ln near Chamberlain Ln and Henning Way, Louisville, KY: null
 10700 Bell Tucker Ln, Louisville, KY: null
 10700 Belmont Ct, Louisville, KY:
@@ -5393,6 +5396,9 @@
 1200 Holly Berry Dr near Taylor and Peachtree, Louisville, KY: null
 1200 Holsworth Ln, Louisville, KY: null
 1200 Homeview Dr near Montana Ave, Louisville, KY:
+  lat: 38.2064911
+  lng: -85.7796848
+1200 Homeview Dr, Louisville, KY:
   lat: 38.2064911
   lng: -85.7796848
 1200 Huntington Ln, Louisville, KY:
@@ -15769,6 +15775,7 @@
 2300 Clemons Way, Louisville, KY:
   lat: 38.207007
   lng: -85.436419
+2300 Coventry Commons Dr, Louisville, KY: null
 2300 Cross Hill Rd, Louisville, KY:
   lat: 38.245803
   lng: -85.69614
@@ -21455,6 +21462,7 @@
   lng: -85.5196502
 3400 Coventry Common Travel, Louisville, KY: null
 3400 Coventry Commons Dr, Department 103, Louisville, KY: null
+3400 Coventry Commons Dr, Louisville, KY: null
 3400 Coventry Commons Dr, unit 104, Louisville, KY: null
 3400 Coventry Commons on St, Louisville, KY: null
 3400 Covington Commons Drive, Crescent K1 Road, Louisville, KY: null
@@ -41947,6 +41955,7 @@ Brokerage Lane and Westville Road, Louisville, KY: null
 Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
 Brosnan Street and Central Ave, Louisville, KY: null
+Browns Ln and Bowling Blvd, Louisville, KY: null
 Browns Ln and Goldsmith Ln, Louisville, KY: null
 Browns Village Rd and Creighton Inn Drive, Louisville, KY: null
 Browns Village Rd and Fallowsville Road, Louisville, KY: null
