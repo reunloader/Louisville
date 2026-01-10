@@ -74415,4 +74415,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 2
   batch_new_successes: 1
-last_updated: '2026-01-10T17:11:34.984014'
+- timestamp: '2026-01-10T17:46:51.182869'
+  total_addresses: 18869
+  successful: 9633
+  failed: 9236
+  success_rate: 51.05
+  failure_rate: 48.95
+  failure_patterns:
+    Intersection format: 1898
+    Contains location qualifiers (near/at): 2500
+    Incomplete/vague address: 2392
+    Other/Unknown: 1919
+    Contains extra sentences/context: 513
+    Police phonetic codes: 14
+  batch_success_rate: 66.67
+  batch_new_addresses: 3
+  batch_new_successes: 2
+last_updated: '2026-01-10T17:46:51.183004'

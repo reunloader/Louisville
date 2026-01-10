@@ -17848,6 +17848,9 @@
 2800 Fern Valley Rd at Dump and Donuts, Louisville, KY:
   lat: 38.1566356
   lng: -85.713253
+2800 Fern Valley Rd near Waffle House, Louisville, KY:
+  lat: 38.1566356
+  lng: -85.713253
 2800 Fern Valley Rd, Dunkin' Donuts, Louisville, KY: null
 2800 Fern Valley Rd, Louisville, KY:
   lat: 38.1566356
@@ -30145,6 +30148,9 @@
 5200 Jenny June Dr, Louisville, KY:
   lat: 38.17453
   lng: -85.695848
+5200 Kilmer Blvd, Louisville, KY:
+  lat: 38.176105
+  lng: -85.676611
 5200 Laurel Grove Ct, Louisville, KY:
   lat: 38.1289808
   lng: -85.6279894
@@ -37724,6 +37730,7 @@
 800 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
+800 E W Chestnut St, Maven at 806, Louisville, KY: null
 800 E W Kentucky St near S Shelby St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
