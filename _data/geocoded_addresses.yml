@@ -1659,6 +1659,9 @@
 100 W River Rd, Louisville, KY:
   lat: 38.2750509
   lng: -85.7028488
+100 W Southern Heights Ave, Louisville, KY:
+  lat: 38.189173
+  lng: -85.761647
 100 W Southland Blvd, Louisville, KY:
   lat: 38.171678
   lng: -85.763489
@@ -14601,6 +14604,7 @@
 2100 Cross Hill Ct, Louisville, KY:
   lat: 38.2694805
   lng: -85.7012174
+2100 Crumb Flames near Park Row Dr and Hillview Ave, Louisville, KY: null
 2100 Crumb Plain, Louisville, KY: null
 2100 Crums Ln, Louisville, KY:
   lat: 38.1991874
