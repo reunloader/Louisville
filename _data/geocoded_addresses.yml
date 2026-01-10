@@ -6792,6 +6792,10 @@
   lat: 38.2182659
   lng: -85.7774103
 1300 South Third Street, Louisville, KY: null
+1300 South13th Street, Louisville, KY:
+  lat: 38.234199
+  lng: -85.775763
+1300 South13th Street, zone 2, riser 6, Louisville, KY: null
 1300 South15th Street, Amazon Warehouse, Louisville, KY: null
 1300 South15th Street, Louisville, KY:
   lat: 38.230749
@@ -10325,6 +10329,9 @@
   lat: 38.179474
   lng: -85.792768
 1800 Bluegrass Ave, St, Louisville, KY: null
+1800 Bluegrass Ave, at St, Louisville, KY:
+  lat: 38.179474
+  lng: -85.792768
 1800 Bluegrass at St, Louisville, KY:
   lat: 38.1826348
   lng: -85.7948645
