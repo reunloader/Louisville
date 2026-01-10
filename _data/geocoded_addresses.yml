@@ -10963,6 +10963,10 @@
 1900 Crop St, Louisville, KY:
   lat: 38.259998
   lng: -85.781397
+? 1900 Crop St. Upon arrival, they discovered a small trash fire at 856 that was quickly
+  contained. The fire involved two male squatters known, Louisville, KY
+: lat: 38.259998
+  lng: -85.781397
 1900 Crossgate, Louisville, KY: null
 1900 Crossroads 1st and Shorewood McDonald's, Louisville, KY: null
 1900 Deer Park Ave, crossing Spartanwood, Louisville, KY: null
@@ -16634,6 +16638,9 @@
 2500 Ellsworth Ave near Crop St, Irving Avenue, and Harrison Ave, Louisville, KY:
   lat: 38.213192
   lng: -85.745382
+2500 Elmhurst, Louisville, KY:
+  lat: 38.175312
+  lng: -85.838675
 2500 Export Dr, Louisville, KY:
   lat: 38.1203161
   lng: -85.7167713
@@ -20978,6 +20985,9 @@
   lng: -85.7841205
 3259 David Street, Louisville, KY: null
 33 Autumn Hill Cross West Over Drive, Louisville, KY: null
+33 Evanwood Dr, Louisville, KY:
+  lat: 38.105421
+  lng: -85.6103431
 33 Hunter Bridgetown Road, Louisville, KY: null
 3300 Algonquin Pky, Louisville, KY:
   lat: 38.224408
@@ -36806,6 +36816,9 @@
 7500 Frank8 Drive, Louisville, KY: null
 7500 Frontgate Dr, Louisville, KY: null
 7500 Garrison Rd and Lee Ave, Louisville, KY: null
+7500 Garrison Rd near Revolutionary Rd and Garrison Ct, Louisville, KY:
+  lat: 38.1370945
+  lng: -85.757227
 7500 Garrison Rd, Louisville, KY:
   lat: 38.1370945
   lng: -85.757227
@@ -41242,6 +41255,7 @@
   lng: -85.7004356
 9700 U, Louisville, KY: null
 9700 Vaughan Almond Corporation, Louisville, KY: null
+9700 Vaughan, Walden Baker, Louisville, KY: null
 9700 West Mill Road, Creekside, West Mill, Louisville, KY: null
 9700 Westport Rd, Louisville, KY:
   lat: 38.287983
