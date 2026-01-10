@@ -21247,6 +21247,7 @@
 3300 Renwood Blvd, Louisville, KY:
   lat: 38.1563588
   lng: -85.8166391
+3300 Research Dr, Louisville, KY: null
 3300 Richard Ave, Louisville, KY:
   lat: 38.2508407
   lng: -85.6701338
@@ -39489,6 +39490,9 @@
 900 Avenue**, Louisville, KY: null
 900 Baker State Drive, Louisville, KY: null
 900 Barret Ave and 1A La Grange Rd, Louisville, KY: null
+900 Barret Ave at Altenheim, Louisville, KY:
+  lat: 38.239507
+  lng: -85.730723
 900 Barret Ave at Big Bad Breakfast, Louisville, KY:
   lat: 38.239507
   lng: -85.730723
