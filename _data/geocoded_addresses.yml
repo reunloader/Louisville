@@ -9354,6 +9354,9 @@
   lng: -85.700208
 1600 St, Louisville, KY: null
 1600 Stafford Ave, cross street Lincoln Drive, Louisville, KY: null
+1600 Stafford Ave, near Lincoln Drive, Louisville, KY:
+  lat: 38.173998
+  lng: -85.8110351
 1600 Steeplecrest Cir, Louisville, KY:
   lat: 38.2438101
   lng: -85.6179721
@@ -12264,6 +12267,9 @@
   lat: 38.252434
   lng: -85.667052
 200 Fairline Road,, Louisville, KY: null
+200 Fawnridge Pl, Louisville, KY:
+  lat: 38.1135712
+  lng: -85.6550344
 200 Fitzgerald Rd at Buckner Ave, Louisville, KY: null
 200 Fort St, Louisville, KY:
   lat: 38.2161938
@@ -39847,6 +39853,7 @@
 900 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+900 Grade Ln, UPS Work Port Facility, Louisville, KY: null
 ? 900 Grade Ln. Responding units were dispatched to investigate the alarm. The incident
   was later reviewed via camera footage by the RTCC., Louisville, KY
 : null
@@ -41732,6 +41739,7 @@ Bardstown Rd and Beulah Church Rd, Louisville, KY: null
 Bardstown Rd and Breckenridge Ln, Louisville, KY: null
 Bardstown Rd and Brighton Dr, Louisville, KY: null
 Bardstown Rd and Brighton Springs Ln, Louisville, KY: null
+Bardstown Rd and Broad Run Pky, Louisville, KY: null
 Bardstown Rd and Bruce Ave, Louisville, KY: null
 Bardstown Rd and Cedar Springs Blvd, Louisville, KY: null
 Bardstown Rd and Churchman Ave, Louisville, KY: null
