@@ -445,6 +445,7 @@
 100 Central Ave, Louisville, KY:
   lat: 38.202901
   lng: -85.75091
+100 Central Ave, Super 8, Louisville, KY: null
 100 Charles, Louisville, KY:
   lat: 38.1860532
   lng: -85.6643879
@@ -1158,6 +1159,7 @@
   lat: 38.265411
   lng: -85.8188879
 100 North45th Street, Louisville, KY: null
+100 North46, Louisville, KY: null
 100 North4th Street, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
@@ -15059,6 +15061,9 @@
 22 Lisbon Ln, Louisville, KY:
   lat: 38.2065763
   lng: -85.6581736
+22 Woodruff Ave, Louisville, KY:
+  lat: 38.1923478
+  lng: -85.7846246
 2200 20th Street, Louisville, KY:
   lat: 38.2486783
   lng: -85.784939
