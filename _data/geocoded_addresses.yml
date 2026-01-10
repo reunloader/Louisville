@@ -3380,6 +3380,9 @@
   lng: -85.576064
 10200 Lynn station road at UTA College, Louisville, KY: null
 10200 Radford Rd, Louisville, KY: null
+10200 Seatonville Rd, Louisville, KY:
+  lat: 38.1473589
+  lng: -85.5722124
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
@@ -22775,6 +22778,7 @@
   lat: 38.1910205
   lng: -85.7836633
 3700 Taylor Blvd, which escalated, Louisville, KY: null
+3700 Taylor's Hill Rd, Louisville, KY: null
 3700 Taylor, Louisville, KY:
   lat: 38.1910205
   lng: -85.7836633
