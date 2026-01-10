@@ -7550,6 +7550,7 @@
 1400 Longfield Ave, Louisville, KY:
   lat: 38.1985704
   lng: -85.7850056
+1400 Longfoot Avenue, Louisville, KY: null
 1400 Lost Hall Avenue, Louisville, KY: null
 1400 Lytle St, Louisville, KY:
   lat: 38.26113
@@ -25253,6 +25254,9 @@
   lat: 38.260271
   lng: -85.817216
 4000 High Cliff Avenue, Louisville, KY: null
+4000 Hispanyola Ct, Louisville, KY:
+  lat: 38.0992167
+  lng: -85.689349
 ? 4000 Houston Bank Road to assist a 28-year-old pregnant female experiencing recurrent
   fainting spells. Responders were directed to use a specific gate, Louisville, KY
 : null
@@ -32715,6 +32719,12 @@
 600 Valley College Dr, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
+600 Valley College Drought, Louisville, KY: null
+? 600 Valley College Drought, prompting a crisis intervention response. Nearby, police
+  checked on a suspicious person near the 700 block of East Market, with a white male
+  and female last seen heading southbound. Additionally, officers responded, Louisville,
+  KY
+: null
 600 Valley College, Brookside Senior Living Community, Louisville, KY: null
 600 Valley College, Louisville, KY:
   lat: 38.119945
