@@ -20263,6 +20263,9 @@
 3100 Montana Ave, Louisville, KY:
   lat: 38.2083349
   lng: -85.7761468
+3100 Montana, Louisville, KY:
+  lat: 38.2083349
+  lng: -85.7761468
 3100 North First Farm Parkway, Louisville, KY: null
 3100 North31st Street, Louisville, KY: null
 ? 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched
@@ -21001,6 +21004,9 @@
   Louisville, KY
 : null
 3300 Ducart, Louisville, KY: null
+3300 Duncan St, Louisville, KY:
+  lat: 38.264677
+  lng: -85.805301
 3300 Duvalle Dr, Louisville, KY:
   lat: 38.2270982
   lng: -85.8106733
@@ -34441,6 +34447,9 @@
 6900 Oakwood Ave, Louisville, KY:
   lat: 38.1772907
   lng: -85.7802678
+6900 Parkway, Louisville, KY:
+  lat: 38.1597229
+  lng: -85.6245119
 6900 Pecan Way, Louisville, KY:
   lat: 38.1093203
   lng: -85.7705406
@@ -34451,6 +34460,9 @@
   lat: 38.1517049
   lng: -85.694765
 6900 Preston Hwy, prompting a pursuit BOLO. Authorities are actively searching, Louisville, KY: null
+6900 Ralston Ave, Louisville, KY:
+  lat: 38.1426872
+  lng: -85.8480559
 6900 Redwoods Road, Louisville, KY: null
 6900 Riverport Dr, Louisville, KY:
   lat: 38.1609416
@@ -38085,6 +38097,7 @@
   lng: -85.7652134
 800 and 400 block of Baker, Louisville, KY: null
 800 and the 900 block of and Savage Dr, Louisville, KY: null
+800 area, Louisville, KY: null
 ? 800 block of Willow Ave. The fire was reported on the second floor of a 2.5 story
   wood frame building, caused by a Christmas tree falling into a candle. Multiple
   units including Battalion 4, were on scene to manage the situation. - **Medical
