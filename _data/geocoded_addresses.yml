@@ -5392,6 +5392,9 @@
 1200 Hogarth Dr, near Hogarth Ct, Louisville, KY: null
 1200 Holly Berry Dr near Taylor and Peachtree, Louisville, KY: null
 1200 Holsworth Ln, Louisville, KY: null
+1200 Homeview Dr near Montana Ave, Louisville, KY:
+  lat: 38.2064911
+  lng: -85.7796848
 1200 Huntington Ln, Louisville, KY:
   lat: 38.141666
   lng: -85.688349
@@ -11826,6 +11829,9 @@
 200 E W Chestnut St, near Floyd and Brook, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
+200 E W College St near the 115 address, Louisville, KY:
+  lat: 38.2432243
+  lng: -85.7546559
 200 E W College St, Louisville, KY:
   lat: 38.2432243
   lng: -85.7546559
