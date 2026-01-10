@@ -10095,6 +10095,7 @@
   lng: -85.780022
 1700 West Copper Avenue, Louisville, KY: null
 1700 West Creek Way, Louisville, KY: null
+1700 West Gilbert Avenue, Louisville, KY: null
 1700 West Hill, Louisville, KY:
   lat: 38.2277495
   lng: -85.7849266
@@ -11363,6 +11364,7 @@
   lat: 38.1532061
   lng: -85.5888316
 20 Barge Down Road, Louisville, KY: null
+20 Bergen Ridge near McDonald's across Hikes Ln and Taylor's Mall Rd, Louisville, KY: null
 20 Blackpool Dr, Louisville, KY: null
 20 Calumet Dr, Louisville, KY:
   lat: 38.1269463
@@ -28175,6 +28177,9 @@
 4800 Thurman Rd, Louisville, KY:
   lat: 38.1662469
   lng: -85.4724683
+4800 Valley Rd, Louisville, KY:
+  lat: 38.2287999
+  lng: -85.7212004
 4800 Wooded Oak Cir, Louisville, KY:
   lat: 38.3137462
   lng: -85.5370899
@@ -29132,6 +29137,9 @@
 500 South 1st Street, Louisville, KY:
   lat: 38.250481
   lng: -85.752648
+500 South 26th Street, Louisville, KY:
+  lat: 38.255083
+  lng: -85.794377
 500 South 27th, Louisville, KY:
   lat: 38.255237
   lng: -85.795685
