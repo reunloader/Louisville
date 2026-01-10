@@ -24457,6 +24457,9 @@
 400 North21st Street, Louisville, KY:
   lat: 38.263955
   lng: -85.783775
+400 North25th Street, Louisville, KY:
+  lat: 38.26617
+  lng: -85.789902
 400 North29th Street, Louisville, KY:
   lat: 38.266583
   lng: -85.797713
@@ -24485,6 +24488,9 @@
 400 Oxy Rd, Louisville, KY:
   lat: 38.2209779
   lng: -85.8280463
+400 Park Ave, Louisville, KY:
+  lat: 38.231342
+  lng: -85.761131
 400 Poplar Level Ct, Louisville, KY:
   lat: 38.1642964
   lng: -85.6790227
@@ -35966,6 +35972,7 @@
   lat: 38.246384
   lng: -85.76354
 700 West Hornsby, Louisville, KY: null
+700 West Horsey, Louisville, KY: null
 700 West Main, Louisville, KY:
   lat: 38.256802
   lng: -85.7618553
