@@ -7136,6 +7136,7 @@
 13400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+13400 South near mile marker 65 South, Louisville, KY: null
 13400 South, Louisville, KY:
   lat: 38.1125689
   lng: -85.7477389
@@ -24222,6 +24223,9 @@
 400 East Main at Slugger Field, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
+400 East Main near Slugger Field, Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 400 East Main near South Preston and South Jackson, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
@@ -25242,6 +25246,9 @@
 400 Yankee Tom X-ray, Louisville, KY: null
 400 [Street Name Unclear] and 400 block of [Street Name Unclear], Louisville, KY: null
 400 [Street Name Unclear], Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
+400 [Unspecified Street], Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
 400 an unspecified area, Louisville, KY: null
