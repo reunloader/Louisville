@@ -18345,6 +18345,7 @@
 2800 Tower Rd at Air Devils Inn, Louisville, KY:
   lat: 38.1522087
   lng: -85.6897021
+2800 Vaughan-Alamo Ct, Louisville, KY: null
 2800 Virginia Ave, Louisville, KY:
   lat: 38.238038
   lng: -85.800461
@@ -31523,6 +31524,9 @@
 ? 5600 Christian Ridge Ct and the 1700 block of San Jose Ave, as part of their investigation
   into the incident, Louisville, KY
 : null
+5600 Christian Ridge Ct, Louisville, KY:
+  lat: 38.1711643
+  lng: -85.8727367
 5600 Dittmar Dr, Louisville, KY:
   lat: 38.1479855
   lng: -85.6774792
