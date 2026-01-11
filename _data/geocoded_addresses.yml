@@ -1052,6 +1052,9 @@
 100 North 44th Street, Louisville, KY:
   lat: 38.2656607
   lng: -85.8200501
+100 North 44th, Louisville, KY:
+  lat: 38.2656607
+  lng: -85.8200501
 100 North 45th Street, Louisville, KY:
   lat: 38.2660064
   lng: -85.8210911
@@ -18594,6 +18597,7 @@
 2900 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
+2900 Southhurst One Parkway, Louisville, KY: null
 2900 Springdale Rd, Louisville, KY:
   lat: 38.2507362
   lng: -85.6865649
@@ -28487,6 +28491,7 @@
 4900 Basking Dr, Louisville, KY:
   lat: 38.181037
   lng: -85.86351
+4900 Brownsboro Rd and 2900 block of Southhurst One Parkway, Louisville, KY: null
 4900 Brownsboro Rd, Louisville, KY:
   lat: 38.282331
   lng: -85.630682
@@ -39539,6 +39544,9 @@
 8800 Blue Lick Rd, Louisville, KY:
   lat: 38.1220652
   lng: -85.6898513
+8800 Brown Austin Rd, Louisville, KY:
+  lat: 38.1228894
+  lng: -85.7735497
 8800 Bueller Church Rd, Louisville, KY: null
 8800 Cane Run Rd, Louisville, KY:
   lat: 38.1278574
