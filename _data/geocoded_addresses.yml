@@ -11040,6 +11040,9 @@
 1800 Williamson Ct, Louisville, KY:
   lat: 38.2694343
   lng: -85.5048369
+1800 Wilson Ave near Olive St and Woodland Ave, Louisville, KY:
+  lat: 38.234678
+  lng: -85.788587
 1800 Windway, Louisville, KY: null
 1800 Winter Place, Louisville, KY: null
 1800 Winter Plate, Louisville, KY: null
@@ -31044,6 +31047,7 @@
   lng: -85.7686312
 5300 South Papa Street, Louisville, KY: null
 5300 South Third Street near Iroquois Shoes and More, Louisville, KY: null
+5300 South Third Street, Louisville, KY: null
 5300 South3rd Street at the Family Dollar, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
@@ -32165,6 +32169,9 @@
 600 Athens Dr. Units responded, Louisville, KY:
   lat: 38.1627962
   lng: -85.6747137
+600 Atwood St, Louisville, KY:
+  lat: 38.215521
+  lng: -85.748461
 600 Auburn Place Court, Louisville, KY:
   lat: 38.1421654
   lng: -85.778253
@@ -43235,6 +43242,7 @@ Old South Park Rd and South Park Rd, Louisville, KY: null
 Old Westport Rd and Westport Rd, Louisville, KY: null
 Oleanda Ave and Perth Dr, Louisville, KY: null
 Olive St and Cypress St, Louisville, KY: null
+Olive St and Woodland Ave, Louisville, KY: null
 Ottoman Plaza Drive and Thruston Ave, Louisville, KY: null
 Our State Drive and Undine Dr, Louisville, KY: null
 Outside Dundee Rd and Emerson Ave, Louisville, KY: null
