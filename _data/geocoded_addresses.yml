@@ -440,6 +440,9 @@
 100 Cambridge Dr, Louisville, KY:
   lat: 38.161304
   lng: -85.764989
+100 Camp Ground Rd, Louisville, KY:
+  lat: 38.2141038
+  lng: -85.8263688
 100 Carraway, Louisville, KY: null
 100 Catawba Hillsway, Louisville, KY: null
 100 Cedar Meadows Ct, Louisville, KY: null
@@ -12527,6 +12530,9 @@
 200 N Lakeview Dr, Louisville, KY:
   lat: 38.2079112
   lng: -85.6787057
+200 N Old Preston Hwy, Louisville, KY:
+  lat: 38.0998213
+  lng: -85.6719196
 200 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
@@ -33466,6 +33472,9 @@
 6200 Camp Ground Rd, Louisville, KY:
   lat: 38.1936731
   lng: -85.863904
+6200 Campground, Louisville, KY:
+  lat: 38.0748568
+  lng: -85.7608422
 6200 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1091203
   lng: -85.6473066
