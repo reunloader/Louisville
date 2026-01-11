@@ -18747,6 +18747,7 @@
 2900 Ward Ave, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
+2900 West Galbert, Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p, Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY: null
 2900 Westfield Rd, Louisville, KY: null
@@ -39617,6 +39618,9 @@
 8600 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+8600 Shenandoah Dr, Louisville, KY:
+  lat: 38.3113177
+  lng: -85.5486489
 8600 Soverign Way, Louisville, KY:
   lat: 38.1517039
   lng: -85.8640994
