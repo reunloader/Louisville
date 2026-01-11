@@ -12541,6 +12541,7 @@
 200 Magazine, Louisville, KY:
   lat: 38.2493289
   lng: -85.7734408
+200 Marengo Draft, Louisville, KY: null
 200 Marina Dr, Louisville, KY:
   lat: 38.3312116
   lng: -85.6256915
@@ -33505,6 +33506,9 @@
 6100 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+6100 Dobson Ct, Louisville, KY:
+  lat: 38.114561
+  lng: -85.6479017
 ? 6100 Dumesnil St. Witnesses also observed smoke emanating from the vehicle, indicating
   a potential fire. Fire units were dispatched, Louisville, KY
 : lat: 38.2357119
@@ -39305,6 +39309,9 @@
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
 828 South Hirsborne Parkway, Louisville, KY: null
+8300 Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 8300 Billy Doom Road, Louisville, KY: null
 8300 C-4 Drive near Panax Ln and Morning Glory Ln, Louisville, KY: null
 8300 C-4th Drive, Louisville, KY: null
@@ -39795,6 +39802,9 @@
   lat: 38.0858425
   lng: -85.6188613
 8700 West4 Road, Louisville, KY: null
+8700 William Penn Ct, Louisville, KY:
+  lat: 38.1201135
+  lng: -85.638166
 8700 William Penn Way, Louisville, KY:
   lat: 38.1221027
   lng: -85.6361054
@@ -41389,6 +41399,9 @@
 9300 Ponder Ln at Lilac Vista Dr and Hacienda Dr, Louisville, KY:
   lat: 38.1166945
   lng: -85.8631205
+9300 Siesta, Louisville, KY:
+  lat: 38.1330647
+  lng: -85.6736077
 9300 Walhampton Dr, Louisville, KY: null
 9300 Walhampton Dr. They were attending, Louisville, KY: null
 9400 600 block of Lane, Louisville, KY: null
