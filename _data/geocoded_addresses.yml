@@ -7226,6 +7226,9 @@
 13800 English Villa Dr at Norton Brownsboro ER, Louisville, KY:
   lat: 38.240397
   lng: -85.497004
+13800 English Villa Dr, Louisville, KY:
+  lat: 38.240397
+  lng: -85.497004
 13800 Fancy Gap Dr, Louisville, KY:
   lat: 38.1781729
   lng: -85.5168228
@@ -35008,6 +35011,9 @@
   lat: 38.158072
   lng: -85.868293
 6900 Middletown Road, with the confirmed address being that of a grandparent, Louisville, KY: null
+6900 Mount Calvary Dr, Louisville, KY:
+  lat: 38.1546324
+  lng: -85.8079622
 6900 Mount Washington Rd, Louisville, KY:
   lat: 38.0834096
   lng: -85.63505
