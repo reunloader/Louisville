@@ -105,6 +105,9 @@
   lat: 38.2556205
   lng: -85.7288269
 02 Farmingham Rd, Louisville, KY: null
+02 Linwood Ave, Louisville, KY:
+  lat: 38.222561
+  lng: -85.8086927
 03 Arlington Ave, Louisville, KY:
   lat: 38.2545625
   lng: -85.7142596
@@ -1197,6 +1200,9 @@
 100 Northwestern Pky, Louisville, KY:
   lat: 38.2664537
   lng: -85.8255236
+100 Norton Healthcare Blvd, Louisville, KY:
+  lat: 38.3138353
+  lng: -85.575028
 ? 100 Norwood Dr following a request from a concerned third party. The caller reported
   that a service person was allegedly being unkind to a family at the residence. No
   specific details about the service person were provided., Louisville, KY
@@ -21813,6 +21819,7 @@
 3400 Hollins Rd (access road), Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
 3400 Janell Rd, Louisville, KY: null
+3400 John King, Louisville, KY: null
 3400 Kathleen Dykstra, Louisville, KY: null
 3400 Kathy Baxter, Louisville, KY: null
 ? 3400 Kathy Baxter. Responding officers were investigating an alarm activation in
@@ -28344,6 +28351,9 @@
 : lat: 38.2542376
   lng: -85.759407
 4700 Manslick Rd across from Clover Trace Pl and Bluegrass Ave, Louisville, KY: null
+4700 Marcy Ave near Miller's Lane and Perrytown Drive, Louisville, KY:
+  lat: 38.1043607
+  lng: -85.8498776
 4700 Maris Ln, Louisville, KY:
   lat: 38.3137905
   lng: -85.5951283
@@ -32796,6 +32806,9 @@
   KY
 : null
 600 Parthenia, with indications of related evidence. Further details, Louisville, KY: null
+600 Phillips Ln at the Fairfield Inn, Louisville, KY:
+  lat: 38.1903862
+  lng: -85.7452345
 600 Phillips Ln near James Rd in Southern Heights, Louisville, KY:
   lat: 38.1903862
   lng: -85.7452345
