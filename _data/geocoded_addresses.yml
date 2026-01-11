@@ -9950,6 +9950,9 @@
 1700 Mary St, Louisville, KY:
   lat: 38.2344233
   lng: -85.7405196
+1700 Matt Ct, Louisville, KY:
+  lat: 38.1318223
+  lng: -85.8606073
 1700 McCloskey Avenue, Louisville, KY:
   lat: 38.224262
   lng: -85.787924
@@ -16023,6 +16026,9 @@
 2300 Garland Ave, Louisville, KY:
   lat: 38.2440697
   lng: -85.791688
+? 2300 Garland after being parked at the Big Four Bridge area. The vehicle’s starting
+  mileage was noted as 719. Units are monitoring the situation, Louisville, KY
+: null
 2300 Glenmary Ave near Bassett Ave, Louisville, KY:
   lat: 38.2391887
   lng: -85.7136877
@@ -33576,6 +33582,7 @@
 6100 Cherry Way, Louisville, KY:
   lat: 38.1759724
   lng: -85.8134936
+6100 Count Turf Job, Louisville, KY: null
 6100 Desmond Parkway, Louisville, KY: null
 6100 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
@@ -41174,6 +41181,7 @@
 901 Denmark St, Louisville, KY:
   lat: 38.1959686
   lng: -85.7749611
+90600 Leopold Wood Loop, Louisville, KY: null
 9100 3Rd Street Rd, Louisville, KY:
   lat: 38.116625
   lng: -85.81775
