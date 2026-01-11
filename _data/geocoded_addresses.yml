@@ -3067,6 +3067,9 @@
 1000 W Jefferson St, Louisville, KY:
   lat: 38.2547629
   lng: -85.767472
+1000 W Kentucky St, Louisville, KY:
+  lat: 38.240488
+  lng: -85.769889
 1000 W Liberty St, Louisville, KY:
   lat: 38.253515
   lng: -85.767348
@@ -17184,6 +17187,7 @@
 2600 Chestnut, Louisville, KY:
   lat: 38.2526608
   lng: -85.794789
+2600 Chorozin Road, Louisville, KY: null
 2600 Cleveland Blvd, Louisville, KY:
   lat: 38.260725
   lng: -85.702196
@@ -18131,6 +18135,9 @@
   lat: 38.1362901
   lng: -85.7120092
 '2800 Palmaroy Drive)** (around 1:17 a.m. a.m. a.m.): responded to a call, Louisville, KY': null
+2800 Park Brook Ln, Louisville, KY:
+  lat: 38.1704832
+  lng: -85.7121312
 2800 Park Long Drive, cross read of Packard Ave, Louisville, KY: null
 2800 Parklawn Dr near Packard Ave, Louisville, KY:
   lat: 38.211442
@@ -18409,6 +18416,9 @@
   lat: 38.224051
   lng: -85.634089
 2900 Breckenridge Ln near Hikes Ln, Louisville, KY:
+  lat: 38.224051
+  lng: -85.634089
+2900 Breckenridge Ln near Speedway, Louisville, KY:
   lat: 38.224051
   lng: -85.634089
 2900 Breckenridge Ln, Louisville, KY:
@@ -22986,6 +22996,7 @@
   lat: 38.1910205
   lng: -85.7836633
 3700 Taylor Blvd, which escalated, Louisville, KY: null
+3700 Taylor Road, Louisville, KY: null
 3700 Taylor's Hill Rd, Louisville, KY: null
 3700 Taylor, Louisville, KY:
   lat: 38.1910205
