@@ -7287,6 +7287,7 @@
 14 South 4th street, Louisville, KY:
   lat: 38.2243241
   lng: -85.7623964
+14 Springford Avenue, Louisville, KY: null
 14 Tindall Ln, Louisville, KY:
   lat: 38.2244851
   lng: -85.4815021
@@ -13834,6 +13835,7 @@
   lng: -85.7582215
 200 east of Virginia, Louisville, KY: null
 200 east of the 14, close, Louisville, KY: null
+200 eastbound 16 mile marker, Louisville, KY: null
 200 eastbound I-200 near Mine Worker2, Louisville, KY: null
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
@@ -26115,6 +26117,7 @@
   lat: 38.2192089
   lng: -85.6209778
 4100 Taylorsville Rd, TJ Maxx, Louisville, KY: null
+4100 Thorntons Boulevard, Louisville, KY: null
 4100 Tish Rd, Louisville, KY:
   lat: 38.0771637
   lng: -85.8400757
@@ -29188,6 +29191,9 @@
 500 Eastern Parkway, Louisville, KY:
   lat: 38.2115
   lng: -85.751085
+500 Emery Rd, Louisville, KY:
+  lat: 38.261902
+  lng: -85.689463
 500 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
