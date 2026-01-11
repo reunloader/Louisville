@@ -3590,6 +3590,9 @@
 10500 Charleswood Rd, Louisville, KY:
   lat: 38.0974536
   lng: -85.658652
+10500 Dixie Hwy at Waffle House, Louisville, KY:
+  lat: 38.1028185
+  lng: -85.8702135
 10500 Dixie Hwy, Louisville, KY:
   lat: 38.1028185
   lng: -85.8702135
@@ -3685,6 +3688,7 @@
 : null
 10700 Alberta Dr, Crest Street, Louisville, KY: null
 10700 Alberta Dr, Louisville, KY: null
+10700 Albrighta Draft, Louisville, KY: null
 10700 Allen Dr, Louisville, KY:
   lat: 38.1660083
   lng: -85.607583
