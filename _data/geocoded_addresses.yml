@@ -3532,6 +3532,9 @@
 10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
 10400 Watermark Pl, Louisville, KY: null
 10400 West Manslake Road near Mason Ln and Sharon Ln, Louisville, KY: null
+10400 Westport Rd near Pachettos, Louisville, KY:
+  lat: 38.293766
+  lng: -85.558972
 10400 Westport Rd, Louisville, KY:
   lat: 38.293766
   lng: -85.558972
@@ -6069,6 +6072,7 @@
   investigated the incident., Louisville, KY
 : null
 1225 South Fifth Street in response, Louisville, KY: null
+12300 Center Grove Ln, Louisville, KY: null
 12300 Dominion Way. EMS assisted with the situation, which appeared, Louisville, KY:
   lat: 38.1901948
   lng: -85.5308495
@@ -28380,6 +28384,7 @@
 4800 Valley Rd, Louisville, KY:
   lat: 38.2287999
   lng: -85.7212004
+4800 Walmart outer loop, pharmacy section, Louisville, KY: null
 4800 Wooded Oak Cir, Louisville, KY:
   lat: 38.3137462
   lng: -85.5370899
@@ -30182,6 +30187,9 @@
 5100 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
+5100 Wolfpen Woods Dr, Louisville, KY:
+  lat: 38.3227751
+  lng: -85.6064224
 5100 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
@@ -34158,6 +34166,7 @@
 6600 Preston Hwy, Louisville, KY:
   lat: 38.156696
   lng: -85.696994
+6600 Preston Hwy, in front of Sam's Club, Louisville, KY: null
 6600 Preston Hwy. It was noted that accidents, Louisville, KY:
   lat: 38.156696
   lng: -85.696994
@@ -39403,6 +39412,7 @@
 8700 Old Bardstown Rd, Louisville, KY:
   lat: 38.1188827
   lng: -85.5730054
+8700 Pointe Arbor Ln, Louisville, KY: null
 8700 Running Fox Cir, Louisville, KY:
   lat: 38.1492888
   lng: -85.6011837
