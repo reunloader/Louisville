@@ -8058,6 +8058,7 @@
   lat: 38.2030143
   lng: -85.7863676
 1400 Willow Ave was assessed by EMS, Louisville, KY: null
+1400 Willow Ave, Cherokee Rd area, Louisville, KY: null
 1400 Willow Ave, Louisville, KY:
   lat: 38.2357366
   lng: -85.7094398
@@ -32989,6 +32990,7 @@
 600 South Baker, Louisville, KY: null
 600 South Crescent Street at the 7 Counties Addiction Recovery Unit, Louisville, KY: null
 600 South Crescent Street, Louisville, KY: null
+600 South Fifteenth Street, Louisville, KY: null
 600 South Fourth Street, Louisville, KY: null
 600 South Hirshbaum Parkway near Corner Steakhouse and Stone Creek Pky, Louisville, KY: null
 600 South Point Seven, Louisville, KY: null
@@ -35127,6 +35129,9 @@
 6900 Franklin Farmer Way involved a 25-year-old male named Emmanuel, Louisville, KY: null
 6900 Grazy Medals Lane, Louisville, KY: null
 6900 Green Manor Dr, Louisville, KY:
+  lat: 38.147023
+  lng: -85.631902
+6900 Green Manor Dr, near English Ave, Fernhaven Rd, Louisville, KY:
   lat: 38.147023
   lng: -85.631902
 6900 Greenwich Rd, Louisville, KY:
@@ -42810,6 +42815,7 @@ Height Avenue and Frankfort Ave, Louisville, KY: null
 Helm St and Winkler Ave, Louisville, KY: null
 Helmsdale Ln and Gatehouse Ln, Louisville, KY: null
 Hendrik Dr and Hirspurn View Drive, Louisville, KY: null
+Henry Ave and Ethridge Ave, Louisville, KY: null
 Hepburn Ave and Baxter Ave, Louisville, KY: null
 Herman St and Glendora Ave, Louisville, KY: null
 Hewitt Ave and Martha Ave, Louisville, KY: null
