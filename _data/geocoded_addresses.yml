@@ -307,6 +307,7 @@
 100 Baker and 200 block of Adam, Louisville, KY: null
 100 Baker and 281, Louisville, KY: null
 100 Baker and Charlie, responded, Louisville, KY: null
+100 Baker with no reported injuries or obstructions, Louisville, KY: null
 100 Baker, 200 block of Baker, and 200 block of Adam, Louisville, KY: null
 100 Baker, 3rd Street side, Louisville, KY: null
 100 Baker, Louisville, KY:
@@ -19804,6 +19805,9 @@
 300 West Jefferson, Louisville, KY:
   lat: 38.1938057
   lng: -85.7653323
+300 West Main near Actors Theater, Louisville, KY:
+  lat: 38.2562065
+  lng: -85.755089
 300 West Main, Louisville, KY:
   lat: 38.2562065
   lng: -85.755089
