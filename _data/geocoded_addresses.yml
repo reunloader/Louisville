@@ -1661,6 +1661,7 @@
 100 W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+100 W Liberty St, Palpatine's, Louisville, KY: null
 ? 100 W Liberty St. A 36-year-old male had reportedly experienced a single episode
   and lost consciousness. EMS was already present and attending, Louisville, KY
 : lat: 38.2534676
@@ -19863,6 +19864,7 @@
 300 scene, Louisville, KY: null
 300 the South on-ramp, Louisville, KY: null
 300 the area, Louisville, KY: null
+300 unknown street, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
 3000 Amy Ave, Louisville, KY:
@@ -40800,6 +40802,7 @@
 9000 Henry Clay Dr, Louisville, KY: null
 9000 Hi View Ln, Louisville, KY: null
 9000 Hirschborn Club Lane, Louisville, KY: null
+9000 King Run Road, Louisville, KY: null
 9000 Lethborough Dr, Crop St of San Marcos, Louisville, KY: null
 9000 Linden Dr, Louisville, KY: null
 9000 Mullico Pine Court, Louisville, KY: null
