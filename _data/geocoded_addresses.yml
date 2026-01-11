@@ -17447,6 +17447,9 @@
 2600 West Broadway near 27th and 26th streets, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
+2600 West Broadway near South 26 and South 27, Louisville, KY:
+  lat: 38.2489909
+  lng: -85.7951833
 2600 West Broadway near South 27th and South 26th, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
@@ -24219,6 +24222,9 @@
 400 East Main at Slugger Field, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
+400 East Main near South Preston and South Jackson, Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 400 East Market, Louisville, KY:
   lat: 38.253966
   lng: -85.745958
@@ -25371,6 +25377,7 @@
   lng: -85.8345273
 4000 Druid Hills Row, Louisville, KY: null
 4000 Dutchman's Lane, Louisville, KY: null
+4000 Dutchman's Lane, Norton Women and Children's Hospital, Louisville, KY: null
 4000 Dutchman's, Louisville, KY: null
 4000 Dutchmans Ln (ER), Louisville, KY:
   lat: 38.2280743
