@@ -22203,6 +22203,9 @@
 3600 Bohne Ave, Louisville, KY:
   lat: 38.2281396
   lng: -85.8148255
+3600 Brad Ct, Louisville, KY:
+  lat: 38.209696
+  lng: -85.623362
 3600 Brendenwood Rd, Louisville, KY:
   lat: 38.1092452
   lng: -85.8288239
@@ -32158,6 +32161,9 @@
 600 Fern Crest Rd. The individuals involved then attempted, Louisville, KY:
   lat: 38.1543846
   lng: -85.6118433
+600 Field Ave, Louisville, KY:
+  lat: 38.2579998
+  lng: -85.6860542
 600 Fincastle Rd, Louisville, KY:
   lat: 38.2044239
   lng: -85.7174825
@@ -34703,6 +34709,7 @@
   lng: -85.5880381
 6900 Barsound Road (Kroger), Louisville, KY: null
 6900 Barstown and Stephens, Louisville, KY: null
+6900 Bellcrest Port and 7100 block of Briscoe Ln, Louisville, KY: null
 6900 Betsy Ross Dr, Louisville, KY:
   lat: 38.056368
   lng: -85.893516
@@ -36354,6 +36361,9 @@
 7100 Blue Stream Ct, Louisville, KY:
   lat: 38.137794
   lng: -85.8836859
+7100 Briscoe Ln, Louisville, KY:
+  lat: 38.1410384
+  lng: -85.6311811
 7100 Bronner Cir, Louisville, KY:
   lat: 38.1863175
   lng: -85.628687
@@ -41852,6 +41862,7 @@ Allmond Ave and South First Street, Louisville, KY: null
 Allmond Ave and South Grove St, Louisville, KY: null
 Alma Ave and Big Mill Avenue, Louisville, KY: null
 Alton Rd and Citation Rd, Louisville, KY: null
+Alton Rd and Shaffer Ln, Louisville, KY: null
 Alumsum Hollow Road and Carter Ln, Louisville, KY: null
 Alumsum Hollow Road and Scarborough Ave, Louisville, KY: null
 Ambrosse Ln and Six Mile Ln, Louisville, KY: null
