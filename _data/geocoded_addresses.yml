@@ -4835,6 +4835,9 @@
   lng: -85.7609073
 11300 Oasis Ct, Louisville, KY: null
 11300 Old La Grange Rd, Louisville, KY: null
+11300 Patton Ct, Louisville, KY:
+  lat: 38.2237734
+  lng: -85.778564
 11300 Pheasant Hill Cir, Louisville, KY:
   lat: 38.0867241
   lng: -85.6461039
@@ -8357,6 +8360,9 @@
 1500 Chet Ln, Louisville, KY:
   lat: 38.137483
   lng: -85.7897318
+1500 Clara Ave, Louisville, KY:
+  lat: 38.1996606
+  lng: -85.7865926
 ? 1500 Clara Avenue after a resident reported a vehicle break-in. The caller stated
   that an alarm was sounding and the car door was found ajar. Responding units investigated
   the scene to gather evidence and determine if any items were taken., Louisville,
@@ -13437,6 +13443,7 @@
   this traffic enforcement action., Louisville, KY
 : null
 200 West and West Hill, Louisville, KY: null
+200 West and surrounding roads, Louisville, KY: null
 200 West approaching Taylor Blvd, Louisville, KY: null
 200 West at Algonquin, Louisville, KY:
   lat: 38.2322753
@@ -13580,6 +13587,9 @@
 200 West near the 14 mile marker, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West near the 6200 block, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near the five-mile marker, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -21063,6 +21073,9 @@
   lat: 38.2540355
   lng: -85.6657009
 3200 Judson's Lane, Louisville, KY: null
+3200 Kemmons Dr, Louisville, KY:
+  lat: 38.2046787
+  lng: -85.6809268
 3200 Kevin's Drive, Louisville, KY: null
 3200 Kevin's Drive. Further details about this incident are not yet available., Louisville, KY: null
 3200 Kimmins Drive, Louisville, KY: null
@@ -42236,6 +42249,7 @@ Barn Rd and Southpointe Blvd, Louisville, KY: null
 Baroness Ave and Grand Ave, Louisville, KY: null
 Barret Ave and Eastern Parkway, Louisville, KY: null
 Barret Ave and Rueffer Street, Louisville, KY: null
+Barret Ave and Winter Ave, Louisville, KY: null
 Barrett Ln and Christie Ave, Louisville, KY: null
 Barshawn Road and Eastern Parkway, Louisville, KY: null
 Barshtown Road and Eastern Parkway, Louisville, KY: null
