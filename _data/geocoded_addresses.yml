@@ -1011,6 +1011,9 @@
 100 North 28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
+100 North 33rd Street, Louisville, KY:
+  lat: 38.2622756
+  lng: -85.8056489
 100 North 34th Street, Louisville, KY:
   lat: 38.2623476
   lng: -85.806988
@@ -1490,6 +1493,7 @@
 100 South Preston near Volunteers of America, Louisville, KY:
   lat: 38.255337
   lng: -85.74598
+100 South S Longworth Ave, Louisville, KY: null
 100 South Salisbury, Wayne, Louisville, KY: null
 100 South Saunders Court, Louisville, KY: null
 100 South Second Street Courtyard, Louisville, KY: null
@@ -4142,6 +4146,9 @@
 1100 Lavista Way at Elijah Christian Child Care, Louisville, KY:
   lat: 38.1456694
   lng: -85.6949603
+1100 Lehigh Ave, Louisville, KY:
+  lat: 38.1807044
+  lng: -85.77924
 1100 Lewis Coleman Jr, Louisville, KY: null
 1100 Lexington Rd, Louisville, KY:
   lat: 38.24854
@@ -7826,6 +7833,9 @@
   The swift response aimed to address the immediate threat., Louisville, KY
 : null
 1400 South 7th Street in response, Louisville, KY: null
+1400 South 7th Street near Marathon Gas Station, Louisville, KY:
+  lat: 38.228975
+  lng: -85.767975
 1400 South 7th Street, Louisville, KY:
   lat: 38.228975
   lng: -85.767975
@@ -8252,6 +8262,9 @@
 1500 Beech St between Annie St and Southern Ave, Louisville, KY: null
 1500 Beech St, Crestree, Fanny Street, and Southern Ave, Louisville, KY: null
 1500 Beech St, Louisville, KY:
+  lat: 38.2318602
+  lng: -85.8055137
+1500 Beech, Louisville, KY:
   lat: 38.2318602
   lng: -85.8055137
 ? 1500 Bellamy Pl reported feeling unsafe after someone was heard knocking at their
@@ -18907,6 +18920,9 @@
   lng: -85.6660952
 300 Charles St and 300 block of David Street, Louisville, KY: null
 300 Charleville Lane, Louisville, KY: null
+? 300 Charlie George Union. The vehicle was last seen heading toward Dixie, and authorities
+  are actively pursuing the suspect, Louisville, KY
+: null
 300 Charlie Queen Yankee near East Market and South Clay, Louisville, KY: null
 300 Charlie and 300 block of Adam, Louisville, KY: null
 300 Charlie and 327, Louisville, KY:
@@ -19340,6 +19356,9 @@
 300 North 43rd Street, Louisville, KY:
   lat: 38.2670782
   lng: -85.8181961
+300 North 44th Street, Louisville, KY:
+  lat: 38.2673521
+  lng: -85.819296
 300 North Birchwood, Louisville, KY:
   lat: 38.259626
   lng: -85.69278
