@@ -4548,6 +4548,9 @@
   and assess her condition. She was stabilized and transported, Louisville, KY
 : lat: 38.241236
   lng: -85.820584
+1100 South4th St near St, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South4th Street area, Louisville, KY: null
 1100 South4th Street cross of Oak and St, Louisville, KY: null
 1100 South4th Street near Oak and St, Louisville, KY:
@@ -9987,6 +9990,9 @@
 1700 Northwestern Pky at Metro Park, Louisville, KY:
   lat: 38.264815
   lng: -85.775314
+1700 Northwood Dr, Louisville, KY:
+  lat: 38.2341055
+  lng: -85.6236363
 1700 O'Odaniel Ave, Louisville, KY: null
 1700 Oglegrafts Avenue, Louisville, KY: null
 1700 Old Bluegrass Ave, Louisville, KY:
@@ -17709,6 +17715,9 @@
   lat: 38.205234
   lng: -85.750903
 2700 Cypress and Olive, Louisville, KY: null
+2700 Duncan St near North28th and North 26th St, Louisville, KY:
+  lat: 38.2635194
+  lng: -85.795078
 2700 Duncan St, Louisville, KY:
   lat: 38.2635194
   lng: -85.795078
@@ -22124,6 +22133,7 @@
 3500 Edgewood Pl, Louisville, KY:
   lat: 38.2327965
   lng: -85.7024078
+3500 Edmond Ln near Abigail Dr and Cannons Ln at Seneca Place, Louisville, KY: null
 3500 Endeavor Way, Louisville, KY:
   lat: 38.12986
   lng: -85.698034
@@ -24219,6 +24229,9 @@
 400 E Jefferson St near South Jackson and South Preston, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
+400 E Jefferson St near Wayside Men's Emergency Shelter, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
 400 E Jefferson St near Wayside Minch, Seltzer, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -25172,6 +25185,9 @@
   lng: -85.7673115
 400 South10th Street, with zones 0 and 10 triggered, Louisville, KY: null
 400 South20th, back alley, Louisville, KY: null
+400 South24th Street, Louisville, KY:
+  lat: 38.256822
+  lng: -85.791261
 400 South26th Street, Louisville, KY:
   lat: 38.2572065
   lng: -85.7942524
@@ -42266,6 +42282,7 @@
   lng: -85.6260958
 9900 Zuccaray Dr, Louisville, KY: null
 Abell Ave and Olive St, Louisville, KY: null
+Abigail Dr and Cannons Ln, Louisville, KY: null
 Ackermack Drive and North Tassville Drive, Louisville, KY: null
 Adams St and Charles St, Louisville, KY: null
 Adams St and Weller Ave, Louisville, KY: null
