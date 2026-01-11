@@ -4214,6 +4214,7 @@
 1100 Longfield, Louisville, KY:
   lat: 38.198414
   lng: -85.7785067
+1100 Lorshtown Road, Louisville, KY: null
 1100 Maple Brook Dr, Louisville, KY:
   lat: 38.3022833
   lng: -85.5439993
@@ -12082,6 +12083,7 @@
   Law enforcement initiated the stop, Louisville, KY
 : lat: 38.2519478
   lng: -85.7504208
+200 East Tasham Road, Louisville, KY: null
 200 East and Breckenridge, Louisville, KY: null
 200 East and surrounding areas, Louisville, KY: null
 200 East at 65, Louisville, KY:
@@ -14179,6 +14181,15 @@
 2000 Edgeland Ave, Louisville, KY:
   lat: 38.233682
   lng: -85.711264
+2000 Fay Ave and Bluegrass, Louisville, KY: null
+? 2000 Fay Ave was being followed by a complainant in a grey Jeep Renegade. The stolen
+  vehicle turned onto Bluegrass, prompting a pursuit as officers attempted, Louisville,
+  KY
+: null
+2000 Fay Ave, Louisville, KY:
+  lat: 38.1632913
+  lng: -85.7758384
+2000 Fay Ave, with a tracker indicating it was last seen traveling, Louisville, KY: null
 2000 Fern Valley Rd, Louisville, KY:
   lat: 38.154705
   lng: -85.7254323
@@ -23272,6 +23283,9 @@
   lng: -85.7134974
 3800 Poplar Level Rd, specifically at a side door, Louisville, KY: null
 3800 Poplova Road, Louisville, KY: null
+3800 Powell Ave near Irquay High School, Louisville, KY:
+  lat: 38.1883271
+  lng: -85.7916085
 3800 Produce Rd and Moore Ct, Louisville, KY: null
 3800 Produce Rd, Exeter, Louisville, KY: null
 3800 Produce Rd, Louisville, KY:
@@ -25438,6 +25452,9 @@
 4000 Dutchmans Ln (ER), Louisville, KY:
   lat: 38.2280743
   lng: -85.6469297
+4000 Dutchmans Ln, Louisville, KY:
+  lat: 38.224491
+  lng: -85.6538671
 4000 Eden Ln, Louisville, KY: null
 4000 Fisherman Ct, Louisville, KY:
   lat: 38.3194641
@@ -34875,6 +34892,9 @@
 6900 Billtown Rd, Louisville, KY:
   lat: 38.144329
   lng: -85.5455369
+6900 Bluegrass, Louisville, KY:
+  lat: 38.1795803
+  lng: -85.7913019
 6900 Bradley Square Road, Louisville, KY: null
 6900 Brooklawn Dr, Louisville, KY:
   lat: 38.1538637
