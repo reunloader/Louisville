@@ -1049,6 +1049,9 @@
 100 North 43rd, Louisville, KY:
   lat: 38.2480947
   lng: -85.8236967
+100 North 44th Street, Louisville, KY:
+  lat: 38.2656607
+  lng: -85.8200501
 100 North 45th Street, Louisville, KY:
   lat: 38.2660064
   lng: -85.8210911
@@ -1068,6 +1071,9 @@
 : lat: 38.2662485
   lng: -85.8227499
 100 North 4th Street at the Gold House East, Louisville, KY:
+  lat: 38.256754
+  lng: -85.756584
+100 North 4th Street at the Gold House, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
 100 North 4th Street, Louisville, KY:
@@ -21943,6 +21949,7 @@
   lat: 38.1313274
   lng: -85.6992198
 3500 Forrest Wall Avenue, Louisville, KY: null
+3500 Foxglove Ln, Louisville, KY: null
 3500 Garrison Rd, Louisville, KY:
   lat: 38.1375649
   lng: -85.7572713
