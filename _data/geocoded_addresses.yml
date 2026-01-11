@@ -13112,6 +13112,9 @@
 200 Southern Ave, Louisville, KY:
   lat: 38.1886289
   lng: -85.7589791
+200 Southern Pky, Louisville, KY:
+  lat: 38.1748115
+  lng: -85.7745087
 200 Southwestern Pky, Louisville, KY:
   lat: 38.2477827
   lng: -85.829606
@@ -18640,6 +18643,9 @@
 3 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
+3 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 3 Mackie Ln, Louisville, KY:
   lat: 38.1408403
   lng: -85.7646787
@@ -21422,6 +21428,9 @@
 33600 Garland Ave, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+34 Mellwood Ave, Louisville, KY:
+  lat: 38.2579018
+  lng: -85.7192605
 34 New Cut Rd, Louisville, KY:
   lat: 38.1187636
   lng: -85.776814
@@ -24963,6 +24972,7 @@
   lat: 38.2079291
   lng: -85.7741776
 400 Trace and Race Rd, Louisville, KY: null
+400 Tri Razor, Louisville, KY: null
 400 Trinity Hills Ln, Louisville, KY: null
 400 University Blvd, Louisville, KY:
   lat: 38.214119
@@ -26250,6 +26260,9 @@
 4200 Quiet Way, Louisville, KY:
   lat: 38.1617284
   lng: -85.6838502
+4200 Retreat Rd, Louisville, KY:
+  lat: 38.1609919
+  lng: -85.6838108
 4200 Ring Rd, Louisville, KY: null
 4200 Riviera Dr, Louisville, KY:
   lat: 38.291347
@@ -42310,6 +42323,7 @@ Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and Holbergen Avenue, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frankfort Ave and Prestwood Dr, Louisville, KY: null
+Frankfort Ave and Stevenson Ave, Louisville, KY: null
 Franklin Ave and Fayette Ave, Louisville, KY: null
 French Ave and Thruston Ave, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
