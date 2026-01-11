@@ -24828,6 +24828,7 @@
   Officers were dispatched, Louisville, KY
 : lat: 38.1642964
   lng: -85.6790227
+400 Poplova Court, Louisville, KY: null
 400 Radiator, Louisville, KY: null
 400 Reg Smith Cir near Scholar House building 102, Louisville, KY:
   lat: 38.22309
@@ -25877,6 +25878,9 @@
   lat: 38.2663448
   lng: -85.6586242
 41 Candor Ave, Louisville, KY: null
+41 Hersfield Rd, Louisville, KY:
+  lat: 38.2653928
+  lng: -85.5250459
 41 Olive St, Louisville, KY:
   lat: 38.2219585
   lng: -85.8025651
