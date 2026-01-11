@@ -20016,6 +20016,9 @@
   the situation to ensure the property was secure., Louisville, KY
 : null
 3000 Crittenden Drive in response, Louisville, KY: null
+3000 Dartmouth Ave, Louisville, KY:
+  lat: 38.2213247
+  lng: -85.6643239
 3000 Dell Brooke Ave, Louisville, KY:
   lat: 38.2083926
   lng: -85.6495969
@@ -31692,6 +31695,9 @@
 5700 Southern Pky., Louisville, KY:
   lat: 38.1712571
   lng: -85.7794468
+5700 Taylorsville Rd, Louisville, KY:
+  lat: 38.152601
+  lng: -85.431226
 5700 Tommy Tucker Way, Louisville, KY:
   lat: 38.1762335
   lng: -85.8621885
@@ -36509,6 +36515,7 @@
 7000 West Broadway, Louisville, KY:
   lat: 38.2493863
   lng: -85.7932064
+7000 West Orio, Louisville, KY: null
 7000 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
@@ -38335,6 +38342,9 @@
 800 Lotus Ave, Louisville, KY:
   lat: 38.161114
   lng: -85.717279
+800 Main St, Louisville, KY:
+  lat: 38.2568585
+  lng: -85.7637124
 800 Malford, Louisville, KY: null
 800 Mango Dr, Louisville, KY:
   lat: 38.1414787
