@@ -4143,6 +4143,9 @@
   lat: 38.1456694
   lng: -85.6949603
 1100 Lewis Coleman Jr, Louisville, KY: null
+1100 Lexington Rd, Louisville, KY:
+  lat: 38.24854
+  lng: -85.730515
 1100 Lincoln Ave at the cross of Colorado and Utah, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
@@ -12278,6 +12281,7 @@
 200 Eastbound near exit 20A, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
+200 Eastbound near the Holley exit, Louisville, KY: null
 200 Eastbound, Louisville, KY: null
 200 Eastbound, just before the Bells Ln exit. The vehicle, an SUV, was observed, Louisville, KY: null
 ? 200 Eastern Parkway where children were making repeated hang-up calls or activating
