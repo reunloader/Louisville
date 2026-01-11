@@ -2850,6 +2850,9 @@
 1000 Shadow Ridge Ln, Louisville, KY:
   lat: 38.3181135
   lng: -85.5573463
+1000 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 1000 Shining Willow Dr, Louisville, KY:
   lat: 38.2886807
   lng: -85.5661889
@@ -8754,6 +8757,7 @@
   lat: 38.2267625
   lng: -85.7750909
 1500 South15 Street, Louisville, KY: null
+1500 South15th Place, Louisville, KY: null
 1500 South15th Street near Westley and West Hill Streets, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
@@ -30527,6 +30531,9 @@
   Louisville, KY
 : null
 5200 C-dress and ALBA, Louisville, KY: null
+5200 Chase Ct, Louisville, KY:
+  lat: 38.1092254
+  lng: -85.6411773
 5200 Chasewood Pl, Louisville, KY:
   lat: 38.096026
   lng: -85.6655633
