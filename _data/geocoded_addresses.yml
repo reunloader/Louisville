@@ -3899,6 +3899,9 @@
 1100 Bardstown Rd near Elwood and Grinstead, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Bardstown Rd near the nowhere bar, Louisville, KY:
+  lat: 38.238274
+  lng: -85.720911
 1100 Bardstown Rd, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
@@ -26305,6 +26308,9 @@
 4200 Hillview Ave, Louisville, KY: null
 4200 Hillview Ave, near Neville Dr and Garrs Ln. Emergency medical services arrived on scene, Louisville, KY: null
 4200 Holly Tree Dr cross of Day Lilly Ct, Louisville, KY: null
+4200 Holly Tree Dr, Louisville, KY:
+  lat: 38.3055787
+  lng: -85.5615249
 4200 IroLoop, Louisville, KY: null
 4200 Jean Ave, Louisville, KY:
   lat: 38.1758497
