@@ -283,6 +283,9 @@
   lng: -85.725484
 100 Aircoys Garden Drive, Louisville, KY: null
 100 Aircoys Garden Drive. Police units were dispatched, Louisville, KY: null
+100 Alger Ave near South 2nd and Southside Dr, Louisville, KY:
+  lat: 38.166136
+  lng: -85.764955
 100 Alger Ave near South Second and Southside Dr, Louisville, KY:
   lat: 38.166136
   lng: -85.764955
@@ -4200,9 +4203,13 @@
 1100 Lincoln Ave, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
+1100 Linden Ln at Linden Crossing, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
 1100 Linden Ln at Linden Crossings, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
+1100 Linden Ln in Crescent Valley, Louisville, KY: null
 1100 Linden Ln, Linden Crossing, Louisville, KY: null
 1100 Linden Ln, Linden Crossings, Louisville, KY: null
 1100 Linden Ln, Louisville, KY:
@@ -9323,6 +9330,7 @@
 1600 Mellwood Ave, Louisville, KY:
   lat: 38.25664
   lng: -85.720659
+1600 Middle town square, Louisville, KY: null
 1600 Moore Ct, Hershey's Cuffier Drive, Louisville, KY: null
 1600 Moore Ct, Louisville, KY:
   lat: 38.2251564
@@ -36369,6 +36377,9 @@
 700 W Jefferson St, specifically at the Judicial Center,, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
+700 W Main St at North8th and North 7th, Louisville, KY:
+  lat: 38.256802
+  lng: -85.7618553
 700 W Main St near North 8th and North 7th, Louisville, KY:
   lat: 38.256802
   lng: -85.7618553
@@ -39562,6 +39573,9 @@
 8400 Sunny Stone Ln, across from Sunny Crossing Dr, Louisville, KY: null
 8400 Tapestry Cir, Louisville, KY: null
 8400 Tapestry Cir, Spring House Apartments, Louisville, KY: null
+8400 Teton Ln near Roger Roman Drive and Barchitone Road, Louisville, KY:
+  lat: 38.1213093
+  lng: -85.6012818
 8400 Voss Lane, Louisville, KY: null
 ? 8400 W Muhammad Ali Blvd following a report of a shooting. Officers were observed
   discussing the incident and checking, Louisville, KY
@@ -41051,6 +41065,9 @@
   lat: 38.3102949
   lng: -85.582164
 9000 Dixie Hwy at Baggy City Furniture, Louisville, KY:
+  lat: 38.1250336
+  lng: -85.852618
+9000 Dixie Hwy near Louisville Overstock Warehouse, Louisville, KY:
   lat: 38.1250336
   lng: -85.852618
 9000 Dorrance Dr, Louisville, KY:
@@ -43266,6 +43283,7 @@ Rodman Avenue and Winkler Ave, Louisville, KY: null
 Rodman St and Atwood St, Louisville, KY: null
 Rodman St and Hardy Ave, Louisville, KY: null
 Rodman St and Winkler Ave, Louisville, KY: null
+Roger Roman Drive and Barchitone Road, Louisville, KY: null
 Rollington Rd and Willow Forest Dr, Louisville, KY: null
 Rosehurst Farm Parkway and Olme State Station Road, Louisville, KY: null
 Roselane St and Nogonquin Parkway, Louisville, KY: null
