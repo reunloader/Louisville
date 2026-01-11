@@ -15224,6 +15224,7 @@
 2200 Arthur St, Louisville, KY:
   lat: 38.2154945
   lng: -85.7528626
+2200 Arthur St, Speedway, Louisville, KY: null
 2200 Auburn Dr, Louisville, KY:
   lat: 38.1396626
   lng: -85.7770771
@@ -24229,6 +24230,10 @@
 ? 400 East Kentucky. Concerns were raised about a possible child assault or neglect
   occurring at the location., Louisville, KY
 : null
+400 East Kenwood and 300 block of Arthur St, Louisville, KY: null
+400 East Kenwood, Louisville, KY:
+  lat: 38.1568285
+  lng: -85.7668547
 400 East Main at Slugger Field, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
@@ -40423,6 +40428,7 @@
   lat: 38.2402331
   lng: -85.7594042
 900 South 4th Street, CrossFit Base, at French House, Louisville, KY: null
+900 South 4th Street, Friendship House, Louisville, KY: null
 900 South 4th Street, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
