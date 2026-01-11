@@ -21650,6 +21650,9 @@
 3400 Emerald Dr, Louisville, KY:
   lat: 38.1584154
   lng: -85.6696676
+3400 Fern Valley Rd, Louisville, KY:
+  lat: 38.1556516
+  lng: -85.7015245
 3400 Foreman Ln, with multiple units responding, Louisville, KY: null
 3400 Frankfort Ave, Louisville, KY:
   lat: 38.2537793
@@ -22222,6 +22225,9 @@
   status at OMBC, with further references, Louisville, KY
 : lat: 38.287939
   lng: -85.502012
+3500 Tolls Ave, Louisville, KY:
+  lat: 38.1337136
+  lng: -85.7564224
 3500 Tyrone Dr, Louisville, KY:
   lat: 38.201087
   lng: -85.6739743
@@ -28396,6 +28402,7 @@
 4800 Dixie Hwy near Goodwill Industry, Louisville, KY:
   lat: 38.1730709
   lng: -85.8254585
+4800 Dixie Hwy, Creswell, Louisville, KY: null
 4800 Dixie Hwy, Louisville, KY:
   lat: 38.1730709
   lng: -85.8254585
