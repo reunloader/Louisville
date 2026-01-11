@@ -3421,6 +3421,9 @@
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
+10200 Starlight Way, Louisville, KY:
+  lat: 38.1057251
+  lng: -85.8402185
 10200 Valley Farms Blvd, Louisville, KY:
   lat: 38.1090936
   lng: -85.8572627
@@ -3864,6 +3867,9 @@
 11 Doe Run Rd, Louisville, KY:
   lat: 38.1623849
   lng: -85.8382955
+11 Eastern Parkway, Louisville, KY:
+  lat: 38.2154837
+  lng: -85.7414654
 11 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
@@ -20578,6 +20584,9 @@
 3100 Garland Ave, Louisville, KY:
   lat: 38.245319
   lng: -85.804036
+3100 Goose Creek Rd, Louisville, KY:
+  lat: 38.2912376
+  lng: -85.584711
 3100 Grand Ave, Louisville, KY:
   lat: 38.2410644
   lng: -85.8050687
@@ -25715,6 +25724,9 @@
   lat: 38.3081143
   lng: -85.577641
 4000 Summit Positive Drive, Louisville, KY: null
+4000 Sunflower Ave, Louisville, KY:
+  lat: 38.1966552
+  lng: -85.8337658
 4000 Taylor Ave, Louisville, KY:
   lat: 38.2016802
   lng: -85.7027508
@@ -37551,6 +37563,9 @@
   lng: -85.6715278
 7600 Nancy Ln near Belmont Ave and Barbara Ave, Louisville, KY: null
 7600 National Firm Play Field, Louisville, KY: null
+7600 National Turnpike, Louisville, KY:
+  lat: 38.1393259
+  lng: -85.7542798
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
   lng: -85.6197042
