@@ -4584,6 +4584,9 @@
 1100 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
+1100 Vernon Ct, Louisville, KY:
+  lat: 38.256399
+  lng: -85.7060504
 1100 Vesper Ln, Louisville, KY:
   lat: 38.1052658
   lng: -85.8662311
@@ -21029,6 +21032,9 @@
 ? 3200 Ellis Way following a report of a known injury. The incident involved an unknown
   vehicle. Medical personnel are on scene, Louisville, KY
 : null
+3200 Farnsley Rd, Louisville, KY:
+  lat: 38.2034135
+  lng: -85.8350908
 3200 Fern Valley Rd near Old Preston Hwy and Norwich Avenue, Louisville, KY:
   lat: 38.1562221
   lng: -85.7059979
@@ -21725,6 +21731,9 @@
 3400 Emerald Dr, Louisville, KY:
   lat: 38.1584154
   lng: -85.6696676
+3400 Farnsley Rd, Louisville, KY:
+  lat: 38.2035502
+  lng: -85.8365736
 3400 Fern Valley Rd, Louisville, KY:
   lat: 38.1556516
   lng: -85.7015245
@@ -26399,6 +26408,9 @@
 4200 Falls Creek, Louisville, KY:
   lat: 38.3049677
   lng: -85.6247008
+4200 Farnsley Rd, Louisville, KY:
+  lat: 38.2034135
+  lng: -85.8350908
 4200 Flintlock Dr, Louisville, KY:
   lat: 38.160267
   lng: -85.835033
@@ -33848,6 +33860,9 @@
   lat: 38.1550799
   lng: -85.5903615
 6300 Bass Rd BASS Road Nursing Home, Louisville, KY: null
+6300 Bass Rd at Rivers Edge Nursing Home, Louisville, KY:
+  lat: 38.3504019
+  lng: -85.6285044
 6300 Bass Rd, Louisville, KY:
   lat: 38.3504019
   lng: -85.6285044
@@ -35191,6 +35206,7 @@
 6900 Oakwood Ave, Louisville, KY:
   lat: 38.1772907
   lng: -85.7802678
+6900 Olenda Ave, Louisville, KY: null
 6900 Parkway, Louisville, KY:
   lat: 38.1597229
   lng: -85.6245119
@@ -39618,6 +39634,9 @@
 8500 Standing Oak Dr, Louisville, KY:
   lat: 38.1323306
   lng: -85.8449967
+8500 Terry Rd, Louisville, KY:
+  lat: 38.1312507
+  lng: -85.874684
 8500 Thompson Ln, Louisville, KY:
   lat: 38.1303925
   lng: -85.8634216
