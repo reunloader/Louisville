@@ -3062,6 +3062,11 @@
 ? 1000 Uracoid Gardens Drive. Reports indicated that an ex-boyfriend was present inside
   the residence. Law enforcement arrived, Louisville, KY
 : null
+? 1000 Valley Vista Rd. It was later confirmed that the juvenile had previously been
+  reported missing but had since returned home. The investigation was being cross-referenced,
+  Louisville, KY
+: lat: 38.2158069
+  lng: -85.6977633
 1000 Vine St, Louisville, KY:
   lat: 38.235566
   lng: -85.729962
@@ -16457,6 +16462,7 @@
   lat: 38.2036668
   lng: -85.6714017
 2400 Eton Rd, Louisville, KY: null
+2400 Farge Town Road in Rockledge, Louisville, KY: null
 2400 Forest Dr, Louisville, KY:
   lat: 38.16587
   lng: -85.6901078
@@ -26176,6 +26182,9 @@
 4100 South2nd Street, Louisville, KY:
   lat: 38.1966619
   lng: -85.763648
+4100 South3rd Street, Louisville, KY:
+  lat: 38.1966683
+  lng: -85.7652773
 4100 South5th Street, Louisville, KY:
   lat: 38.192854
   lng: -85.768425
@@ -29285,6 +29294,7 @@
 500 East Jefferson, Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
+500 East Lawrence V Avenue, Louisville, KY: null
 500 East Liberty, Louisville, KY:
   lat: 38.251015
   lng: -85.744424
