@@ -31901,6 +31901,9 @@
 60 Garden Dr, Louisville, KY:
   lat: 38.245859
   lng: -85.6785148
+60 Norton Healthcare Blvd, Louisville, KY:
+  lat: 38.3138353
+  lng: -85.575028
 600 (location unspecified), Louisville, KY: null
 600 Adam Ridge Pl and 600 block of Baker Aly STREET, Louisville, KY: null
 600 Adam and 600 block of Baker near Cozy Creek, Louisville, KY: null
@@ -32666,6 +32669,9 @@
 600 Shop29 Street at Eclipse, Louisville, KY:
   lat: 38.2531996
   lng: -85.6559586
+600 South 10th Street at the library, Louisville, KY:
+  lat: 38.24992
+  lng: -85.767932
 600 South 10th Street, Louisville, KY:
   lat: 38.24992
   lng: -85.767932
@@ -42755,6 +42761,7 @@ Mamaroneck Rd and Pomeroy Dr, Louisville, KY: null
 Manslick Rd and Berry Blvd, Louisville, KY:
   lat: 38.1968196
   lng: -85.7987971
+Manslick Rd and Fairdale Rd, Louisville, KY: null
 Manslick Rd and Holly Park Dr, Louisville, KY: null
 Manslick Rd and Mariposa Dr, Louisville, KY: null
 Manslick Rd and Pikes Peak Blvd, Louisville, KY: null
