@@ -857,6 +857,9 @@
 100 Judy Ave. The driver was found, Louisville, KY:
   lat: 38.14635
   lng: -85.7771132
+100 Kenwood Ct, Louisville, KY:
+  lat: 38.1796224
+  lng: -85.7622319
 100 Kilmarie Avenue, Louisville, KY: null
 100 LaFontaine Drive, Louisville, KY: null
 100 LaFontana Drive, Louisville, KY: null
@@ -11909,6 +11912,9 @@
   zone. This placement can impede access, Louisville, KY
 : lat: 38.1265148
   lng: -85.6664806
+200 Charles Ct, Louisville, KY:
+  lat: 38.2104801
+  lng: -85.6618468
 200 Charlestown Ct, Louisville, KY: null
 200 Charlie and 200 block of David, Louisville, KY: null
 200 Charlie, 200 block of David, and 200 block of Baker, Louisville, KY: null
@@ -12148,6 +12154,9 @@
 200 East Chestnut 7:00 p, Louisville, KY: null
 200 East Chestnut 7:00 p.m.AM, Louisville, KY: null
 200 East Chestnut Street, Louisville, KY:
+  lat: 38.2477668
+  lng: -85.7499296
+200 East Chestnut at Northern Children's, Louisville, KY:
   lat: 38.2477668
   lng: -85.7499296
 200 East Chestnut near 34th and Kentucky, Louisville, KY:
@@ -22631,6 +22640,9 @@
   lat: 38.2494527
   lng: -85.665685
 3600 Ethelwood Dr, Louisville, KY: null
+3600 Fern Valley Rd near Chewy Pharmacy, Louisville, KY:
+  lat: 38.1566234
+  lng: -85.6954991
 3600 Fern Valley Rd, Louisville, KY:
   lat: 38.1566234
   lng: -85.6954991
@@ -25837,6 +25849,9 @@
 ? 4000 Pop Level Road. Upon arrival, authorities investigated the alarm. It is possible
   this incident may be connected, Louisville, KY
 : null
+4000 Poplar Level Rd at Wendy's, Louisville, KY:
+  lat: 38.2011546
+  lng: -85.7097969
 4000 Poplar Level Rd, Lindy's, Louisville, KY: null
 4000 Poplar Level Rd, Louisville, KY:
   lat: 38.2011546
