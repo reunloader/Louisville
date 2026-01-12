@@ -10782,6 +10782,7 @@
 1800 Dixie Hwy. Responders arrived on the scene shortly, Louisville, KY:
   lat: 38.224592
   lng: -85.7922937
+1800 E W Ashland Ave, Louisville, KY: null
 1800 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
@@ -33889,6 +33890,9 @@
   lat: 38.1583581
   lng: -85.6483207
 6000 Ray Count Drive, Louisville, KY: null
+6000 South 2nd Street, Louisville, KY:
+  lat: 38.2517255
+  lng: -85.7540197
 6000 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -33919,6 +33923,7 @@
 6000 Whispering Hills, Louisville, KY:
   lat: 38.1470566
   lng: -85.6477603
+6000 White Castle sign, Louisville, KY: null
 6000 Wood Twist, Louisville, KY: null
 6000 Woodhaven Place Cir, Louisville, KY:
   lat: 38.1697543
@@ -36998,6 +37003,7 @@
 7000 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+7000 Bruce Daly, Louisville, KY: null
 7000 Bush Farm Rd, Louisville, KY:
   lat: 38.2761784
   lng: -85.4914486
@@ -37384,6 +37390,9 @@
   lng: -85.5402269
 7200 Bond Mill, Louisville, KY: null
 7200 Boxwood Rd, Louisville, KY: null
+7200 Cedar Springs Blvd, Louisville, KY:
+  lat: 38.1446253
+  lng: -85.5852742
 7200 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1097984
   lng: -85.6319967
@@ -39708,6 +39717,7 @@
 8100 Terry Rd, Louisville, KY:
   lat: 38.1364602
   lng: -85.8736278
+8100 Timmy Wayne Drive, Louisville, KY: null
 8100 Tunga Court, Louisville, KY: null
 8100 Watterson Trail, Louisville, KY:
   lat: 38.180834
