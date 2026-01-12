@@ -18949,6 +18949,7 @@
 300 Amberwell Park Rd, Louisville, KY:
   lat: 38.2889832
   lng: -85.5589923
+300 American Stars, Louisville, KY: null
 300 Anderson Ave, Louisville, KY:
   lat: 38.1892715
   lng: -85.6490939
@@ -35747,6 +35748,9 @@
 700 East Market, Louisville, KY:
   lat: 38.2531216
   lng: -85.739834
+700 East Market,, Louisville, KY:
+  lat: 38.2531216
+  lng: -85.739834
 700 East Morgan Street, Louisville, KY: null
 700 East Muhammad Ali at St, Louisville, KY:
   lat: 38.249024
@@ -37672,6 +37676,9 @@
 7500 Westbrook Rd, Louisville, KY:
   lat: 38.1447309
   lng: -85.8816289
+7500 Wimstock Ave, Louisville, KY:
+  lat: 38.0644187
+  lng: -85.9026069
 ? 7500 Winstead Dr, near Jean Cain Pl, to assist a 48-year-old male. The individual
   was reportedly experiencing sudden weakness on one side of his body, along with
   numbness., Louisville, KY
@@ -42043,6 +42050,10 @@
   lat: 38.1482981
   lng: -85.5797824
 9700 Linn Station Rd, Louisville, KY: null
+9700 Lower River Rd and W Wheatmore Dr, Louisville, KY: null
+9700 Lower River Rd, Louisville, KY:
+  lat: 38.1156213
+  lng: -85.8939431
 9700 Lyric Ln, Louisville, KY: null
 9700 Mason Ln near Linda Dr, Louisville, KY:
   lat: 38.1093081
@@ -43562,6 +43573,7 @@ Subway Road and Red Leaf Rd, Louisville, KY: null
 Sugartree Ln and Top Hill Rd, Louisville, KY: null
 Summers Ave and Morrison Ave, Louisville, KY: null
 Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
+Sun Valley Dr and Indian Austin Town Rd, Louisville, KY: null
 Swan St and Lampton St, Louisville, KY: null
 Sweeney Ln and Carrington Greene Dr, Louisville, KY: null
 Tamerlane Rd and Roxbury Rd, Louisville, KY: null
