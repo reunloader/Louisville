@@ -4395,6 +4395,9 @@
   lat: 38.2361335
   lng: -85.6811508
 1100 Round Ridge Rd, Louisville, KY: null
+1100 Royal Gardens Ct, Louisville, KY:
+  lat: 38.1399774
+  lng: -85.7851185
 1100 Rufer Ave, Louisville, KY:
   lat: 38.232392
   lng: -85.732094
@@ -7366,6 +7369,9 @@
 13800 Fancy Gap Dr, Louisville, KY:
   lat: 38.1781729
   lng: -85.5168228
+13800 Lake Point Way, Louisville, KY:
+  lat: 38.2719016
+  lng: -85.5062536
 13800 Lakemont Ct, Louisville, KY:
   lat: 38.1848086
   lng: -85.5149856
@@ -38159,6 +38165,9 @@
 7700 Bardstown Rd, Louisville, KY:
   lat: 38.1354405
   lng: -85.5803445
+7700 Bluebonnet Rd, Louisville, KY:
+  lat: 38.1419353
+  lng: -85.8587698
 7700 Bramble Ln, Louisville, KY:
   lat: 38.142324
   lng: -85.8544104
@@ -38911,6 +38920,7 @@
   lng: -85.7779081
 800 Iroquois Avenue 05:34 p, Louisville, KY: null
 800 Iroquois Avenue 05:34 p.m., Louisville, KY: null
+800 JCPS bus stop, Louisville, KY: null
 800 Jacqueline Lay, Louisville, KY: null
 800 Jenny Lindrob near D Road, Louisville, KY: null
 800 John Law Ct, Louisville, KY:
