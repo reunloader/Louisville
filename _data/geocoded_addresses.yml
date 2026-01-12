@@ -14066,6 +14066,7 @@
   lng: -85.7555947
 200 westbound at Old Dixie Hwy exit, Louisville, KY: null
 200 westbound at Tell Boulevard, Louisville, KY: null
+200 westbound at exit 20 and a domestic disturbance on 30s B, where parties were separated, Louisville, KY: null
 200 westbound at exit 8A, Louisville, KY: null
 200 westbound bridge, Louisville, KY: null
 200 westbound from the fairgrounds, Louisville, KY: null
@@ -22903,6 +22904,9 @@
   lng: -85.7755904
 3700 Cliff Ave, who was vomiting and having difficulty breathing, Louisville, KY: null
 3700 Craig Ave, Louisville, KY:
+  lat: 38.1913101
+  lng: -85.7901309
+3700 Craig, Louisville, KY:
   lat: 38.1913101
   lng: -85.7901309
 ? 3700 Crest Ct Ct, with one resident reporting that their daughter was having her
