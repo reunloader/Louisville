@@ -1438,6 +1438,9 @@
   lat: 38.259997
   lng: -85.788089
 100 South 25, Louisville, KY: null
+100 South 29th St, Louisville, KY:
+  lat: 38.2611924
+  lng: -85.7992392
 100 South 2nd Street near W Market St, Louisville, KY:
   lat: 38.2558105
   lng: -85.7536001
@@ -26655,6 +26658,9 @@
 4200 Brownsboro Rd, Louisville, KY:
   lat: 38.2691514
   lng: -85.655428
+4200 Bryant Park Dr, Louisville, KY:
+  lat: 38.1831
+  lng: -85.535379
 4200 Bubbling Overdrive near Camp Ground Rd, Louisville, KY:
   lat: 38.2141038
   lng: -85.8263688
@@ -42852,6 +42858,7 @@ Blue Lick Rd and South Park Rd, Louisville, KY: null
 Bluegrass Ave and Taylor Blvd, Louisville, KY: null
 Bonnyville Blvd and Valley Dr, Louisville, KY: null
 Borschtown Road and Fairmount Rd, Louisville, KY: null
+Boxley Ave and Crittenden Dr, Louisville, KY: null
 Boyle St and Logan St, Louisville, KY: null
 Boyle St and South Lake Street, Louisville, KY: null
 Bradford Dr and Glen Oak Dr, Louisville, KY: null
