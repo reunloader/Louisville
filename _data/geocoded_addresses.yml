@@ -15308,6 +15308,7 @@
   lng: -85.7840605
 2120 2120, Louisville, KY: null
 2120 an unnamed alley, Louisville, KY: null
+2140 Fremdale Road, Louisville, KY: null
 215 I 64 West, Louisville, KY: null
 21900 Ottawa Ave, Louisville, KY:
   lat: 38.1881115
@@ -34383,6 +34384,7 @@
 6500 Frankfort Ave, Louisville, KY:
   lat: 38.2611284
   lng: -85.7234073
+6500 Fremdale Road, Louisville, KY: null
 ? 6500 Gabriel Dr to assist a 44-year-old female experiencing a medical emergency.
   The patient was reportedly yelling, Louisville, KY
 : null
@@ -38443,6 +38445,9 @@
 800 Dixie, Louisville, KY:
   lat: 38.245466
   lng: -85.783588
+800 Dorsey Ln, Louisville, KY:
+  lat: 38.257328
+  lng: -85.560157
 800 Douglas Park, Louisville, KY:
   lat: 38.179853
   lng: -85.76166
