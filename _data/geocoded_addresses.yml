@@ -32192,6 +32192,7 @@
 600 Adam. Emergency services were dispatched, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+600 Adams St and 5000 block of Rosettes, Louisville, KY: null
 600 Adams and 1100 block of, Louisville, KY: null
 600 Adams and Baker, Louisville, KY: null
 600 Adams, indicating a possible related disturbance, Louisville, KY: null
@@ -32563,6 +32564,9 @@
 600 English Ave, Louisville, KY:
   lat: 38.2564514
   lng: -85.6850063
+600 Evans St and St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
 600 Evans St, Catherine, Crop St South 5th Street, Louisville, KY: null
 600 Evans St, Louisville, KY:
   lat: 38.2298984
@@ -34900,6 +34904,7 @@
 ? 6700 Strawberry Ln. The patient, a 51-year-old female, was experiencing chest pain
   and shortness of breath., Louisville, KY
 : null
+6700 Thalia Street, Louisville, KY: null
 6700 UPS, Louisville, KY: null
 6700 Vandre Ave, Louisville, KY:
   lat: 38.1352998
