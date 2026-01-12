@@ -13308,6 +13308,9 @@
 200 South at Stone St, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South at Stonestreet Rd, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South at U, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -29858,6 +29861,9 @@
   lat: 38.2691315
   lng: -85.805995
 500 North 35th Street, in front of a Kroger bus stop, Louisville, KY: null
+500 North 35th, Louisville, KY:
+  lat: 38.2691315
+  lng: -85.805995
 500 North 42nd, Louisville, KY:
   lat: 38.271786
   lng: -85.814821
