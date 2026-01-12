@@ -2264,6 +2264,9 @@
   lat: 38.2416641
   lng: -85.7852707
 1000 Dixie and Heaton, Louisville, KY: null
+1000 Dixie, Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
 1000 Dixon Ave, Louisville, KY:
   lat: 38.220538
   lng: -85.732121
@@ -4528,6 +4531,7 @@
   lng: -85.7774103
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
+1100 South17, Louisville, KY: null
 1100 South17th Street, Louisville, KY:
   lat: 38.238336
   lng: -85.783811
@@ -23483,6 +23487,9 @@
 3800 South38th Street, Louisville, KY:
   lat: 38.240538
   lng: -85.8166821
+3800 Southern Pky, Louisville, KY:
+  lat: 38.200559
+  lng: -85.76529
 3800 Spring Arbor Dr, Louisville, KY:
   lat: 38.290226
   lng: -85.502779
@@ -42267,6 +42274,7 @@
   lat: 38.156523
   lng: -85.5878417
 9800 Willowview Blvd, Louisville, KY: null
+9800 Zuccaray, Louisville, KY: null
 9801 Gateway Drive, Louisville, KY: null
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
