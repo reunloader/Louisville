@@ -1320,6 +1320,9 @@
 100 Radio near LMGC, Louisville, KY: null
 100 Radio, Louisville, KY: null
 100 Reckon Ridge Square, Louisville, KY: null
+100 Redbourne Ct, Louisville, KY:
+  lat: 38.1451288
+  lng: -85.5600763
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 Retro Row, Louisville, KY: null
 100 River Park Dr, Louisville, KY:
@@ -9316,6 +9319,9 @@
 1600 Greyling Dr, Louisville, KY:
   lat: 38.119064
   lng: -85.795396
+1600 Grove Ave, Louisville, KY:
+  lat: 38.198519
+  lng: -85.712336
 1600 Hale Ave, Louisville, KY:
   lat: 38.237571
   lng: -85.780986
