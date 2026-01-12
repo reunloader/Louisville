@@ -4550,6 +4550,7 @@
 1100 South Fourth Street at Therina Ct Apartments, Louisville, KY: null
 1100 South Fourth Street, Louisville, KY: null
 1100 South Hirshborn near Mr, Louisville, KY: null
+1100 South North26 near Walker Alley, Louisville, KY: null
 1100 South Park Rd, Louisville, KY:
   lat: 38.1078462
   lng: -85.7348276
@@ -5894,6 +5895,9 @@
 1200 South Third Street crossing, Louisville, KY: null
 1200 South Third Street near West Ornsby and West Oak, Louisville, KY: null
 1200 South Third Street, Louisville, KY: null
+1200 South, Louisville, KY:
+  lat: 38.23524
+  lng: -85.7640086
 1200 South15-3, Louisville, KY: null
 1200 South15th Street, Louisville, KY:
   lat: 38.236534
@@ -16716,6 +16720,9 @@
 2400 Lyme-Killalane, Louisville, KY: null
 2400 Manslick Rd and Manslick Ct, Louisville, KY: null
 2400 Marine St, Louisville, KY: null
+2400 Marktown Road at Kroger, Louisville, KY:
+  lat: 38.2886468
+  lng: -85.5099194
 2400 Marymount Ct, Louisville, KY:
   lat: 38.2850585
   lng: -85.6178338
@@ -17396,6 +17403,9 @@
 2600 Allston Ave, Louisville, KY:
   lat: 38.2200297
   lng: -85.8004003
+2600 Bank St at PNC Bank, Louisville, KY:
+  lat: 38.2692147
+  lng: -85.7914568
 2600 Bank St, Louisville, KY:
   lat: 38.2692147
   lng: -85.7914568
@@ -39652,6 +39662,7 @@
 8200 Limehouse Ln near Hawkshead Ln, Louisville, KY:
   lat: 38.2255981
   lng: -85.6048047
+8200 McDonald's, Louisville, KY: null
 8200 Minor Ln at Holiday Mobile Home Park, Louisville, KY:
   lat: 38.130265
   lng: -85.71077
