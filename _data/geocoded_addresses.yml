@@ -5193,6 +5193,7 @@
 11800 Mahogany Dr, Louisville, KY:
   lat: 38.0844127
   lng: -85.8734453
+11800 Sandpiper, Brook Lane, Louisville, KY: null
 11800 Standiford Plaza Dr, Louisville, KY:
   lat: 38.0921635
   lng: -85.6679085
@@ -26104,6 +26105,7 @@
 4000 Starks Dr, Louisville, KY:
   lat: 38.1857997
   lng: -85.6700405
+4000 Summit Plaza Dr in AT&T, Louisville, KY: null
 4000 Summit Plaza Dr, Louisville, KY:
   lat: 38.3081143
   lng: -85.577641
@@ -34690,6 +34692,9 @@
 6500 Bridleview Cir, Louisville, KY: null
 6500 Brooks-Bendway, Louisville, KY: null
 6500 Cow Ridge Way, Louisville, KY: null
+6500 Daytona Ave, Louisville, KY:
+  lat: 38.191145
+  lng: -85.87113
 6500 Dixie Hwy at Toyota, Louisville, KY:
   lat: 38.156028
   lng: -85.834706
@@ -39845,6 +39850,7 @@
   lat: 38.2957056
   lng: -85.5975753
 8200 Standard Club Ln, St Andrews Village Dr, Louisville, KY: null
+8200 Sutherland Farm Rd, Louisville, KY: null
 8200 West Mill Road, Louisville, KY: null
 8200 Whipsnull Road, Louisville, KY: null
 8200 Willow Grove Ct, Louisville, KY:
@@ -40216,6 +40222,7 @@
   lat: 38.1462326
   lng: -85.8248355
 8600 Longborough Way, Louisville, KY: null
+8600 Loyal Dr, Louisville, KY: null
 8600 Moody Rd, Louisville, KY:
   lat: 38.1251478
   lng: -85.6910719
@@ -41544,6 +41551,9 @@
   lat: 38.1636882
   lng: -85.5912962
 9000 Cardiff Rd, Louisville, KY: null
+9000 Chenault Rd, Louisville, KY:
+  lat: 38.123791
+  lng: -85.867973
 9000 Crowne Springs Cir near Crowne Springs Dr, Louisville, KY:
   lat: 38.3102949
   lng: -85.582164
