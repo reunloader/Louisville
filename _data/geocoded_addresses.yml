@@ -5504,6 +5504,9 @@
 1200 Gilmore Industrial Blvd. Fire units were dispatched, Louisville, KY:
   lat: 38.1783943
   lng: -85.6997887
+1200 Gilmore Ln, Louisville, KY:
+  lat: 38.174729
+  lng: -85.712453
 1200 Global Dr, Louisville, KY:
   lat: 38.1397231
   lng: -85.8923691
@@ -37572,6 +37575,7 @@
 7300 Rainbow Dr, Louisville, KY:
   lat: 38.0567848
   lng: -85.9008111
+7300 Ridden Lake, Louisville, KY: null
 7300 Ridenway, Louisville, KY: null
 7300 Right Way, Louisville, KY: null
 7300 Right-hand Way, Louisville, KY: null
@@ -43321,6 +43325,7 @@ Jaeger Ave and Eastern Parkway, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
+Jefferson Blvd and Horizon Ln, Louisville, KY: null
 Jefferson St and Baxter Ave, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
 Jefferson St and Greystone Ave, Louisville, KY: null
