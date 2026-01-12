@@ -9714,6 +9714,9 @@
 16900 Ash Hill Dr, Louisville, KY:
   lat: 38.2318343
   lng: -85.4411101
+16900 Dry Ridge Rd, Louisville, KY:
+  lat: 38.116669
+  lng: -85.4457682
 16900 Matthews Rd, Louisville, KY:
   lat: 38.1265566
   lng: -85.8775854
@@ -16773,6 +16776,9 @@
 ? 2400 West Mahama Valley. The patient, a 49-year-old female, was suffering from a
   significant nosebleed. After attending, Louisville, KY
 : null
+2400 West Main, Louisville, KY:
+  lat: 38.2601536
+  lng: -85.78995
 2400 West Market, Louisville, KY:
   lat: 38.2589016
   lng: -85.7903761
@@ -17451,6 +17457,7 @@
   cab F-100 with damage to its front end. Responding units were dispatched to search
   the vicinity, Louisville, KY
 : null
+2600 Llandovery Dr, Louisville, KY: null
 2600 Lynxville Lane, Louisville, KY: null
 2600 Madison, Louisville, KY:
   lat: 38.2540077
