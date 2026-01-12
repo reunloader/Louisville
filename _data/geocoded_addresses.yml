@@ -29542,6 +29542,9 @@
 : null
 500 Meridian Hills Dr, Louisville, KY: null
 500 Meridian Hills Dr, number 109, Louisville, KY: null
+500 Meter Ct, Midwest Meadow cross at Nelson Miller Pky, Louisville, KY:
+  lat: 38.2747128
+  lng: -85.5068888
 500 Milner Rd, Louisville, KY:
   lat: 38.1621073
   lng: -85.8353823
@@ -42154,6 +42157,9 @@
   lat: 38.3125224
   lng: -85.5668407
 9800 Bucharest Road, Louisville, KY: null
+9800 Buckingham Dr, Louisville, KY:
+  lat: 38.1267829
+  lng: -85.7411149
 9800 Bunsen Parkway, Louisville, KY:
   lat: 38.2421112
   lng: -85.6153728
