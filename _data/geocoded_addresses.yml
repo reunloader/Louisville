@@ -317,6 +317,9 @@
 100 Baker and 200 block of Adam, Louisville, KY: null
 100 Baker and 281, Louisville, KY: null
 100 Baker and Charlie, responded, Louisville, KY: null
+100 Baker near billboard, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 100 Baker with no reported injuries or obstructions, Louisville, KY: null
 100 Baker, 200 block of Baker, and 200 block of Adam, Louisville, KY: null
 100 Baker, 3rd Street side, Louisville, KY: null
@@ -327,6 +330,10 @@
 100 Baker, were dispatched, Louisville, KY: null
 100 Baker. Further details, Louisville, KY:
   lat: 38.1412684
+  lng: -85.7716218
+? 100 Baker. Multiple police units arrived on scene to manage the situation, which
+  involved coordinating traffic and ensuring safety, Louisville, KY
+: lat: 38.1412684
   lng: -85.7716218
 100 Baker. The chase was ongoing as officers tried, Louisville, KY:
   lat: 38.1412684
@@ -10904,6 +10911,9 @@
 1800 McCloskey Avenue, Louisville, KY:
   lat: 38.2236135
   lng: -85.7879957
+1800 Mellwood Ave at Melwood Art Center, Louisville, KY:
+  lat: 38.2614349
+  lng: -85.7154776
 1800 Mellwood Ave, Louisville, KY:
   lat: 38.2614349
   lng: -85.7154776
