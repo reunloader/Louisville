@@ -10558,6 +10558,7 @@
 1800 Baird St, Louisville, KY:
   lat: 38.263944
   lng: -85.777999
+1800 Baker Parkway, Louisville, KY: null
 ? 1800 Bakes Street involving a white Dodge pickup truck. This stop was initiated
   following multiple calls from the public. The incident involved young children,
   and an arrest was ultimately made., Louisville, KY
@@ -37637,6 +37638,7 @@
   lng: -85.6441902
 7400 Michael Drab, Dr, Louisville, KY: null
 7400 Mormon near Farnsley Historic Home, Louisville, KY: null
+7400 Mormon, Louisville, KY: null
 7400 Old Mill Rd, Louisville, KY: null
 7400 Our Way, Louisville, KY:
   lat: 38.121122
@@ -38363,6 +38365,9 @@
 7900 Kenhurst Dr, Louisville, KY:
   lat: 38.1377577
   lng: -85.878319
+7900 Lindsay Ave, Louisville, KY:
+  lat: 38.2635452
+  lng: -85.6998797
 7900 Loft Ct due, Louisville, KY: null
 7900 Loft Ct, Louisville, KY:
   lat: 38.1320351
