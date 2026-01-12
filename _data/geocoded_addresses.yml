@@ -5159,6 +5159,9 @@
 11700 Wiltonwood Ct, Louisville, KY:
   lat: 38.0833425
   lng: -85.8662722
+11800 Antonia Way, Louisville, KY:
+  lat: 38.0930965
+  lng: -85.672221
 11800 Beacon Ct, Louisville, KY:
   lat: 38.1474903
   lng: -85.5550043
@@ -7296,6 +7299,7 @@
 13500 Rock Bay Ct, Louisville, KY:
   lat: 38.2911604
   lng: -85.5060035
+13500 Sheehan Landing Dr, Louisville, KY: null
 ? 13500 Sheehan Landing Dr. Emergency medical services were already en route to the
   scene. The situation was classified as a Code 13501., Louisville, KY
 : null
@@ -9314,6 +9318,7 @@
 1600 Evanwood Dr, Louisville, KY:
   lat: 38.105421
   lng: -85.6103431
+1600 Excel, Louisville, KY: null
 1600 Folger Court, Louisville, KY: null
 1600 Foot Kill Line, Louisville, KY: null
 1600 Frankfort Ave, Louisville, KY:
@@ -10547,6 +10552,7 @@
   lat: 38.2484393
   lng: -85.7666809
 1800 22nd and WJ Hodge. The fire was contained, Louisville, KY: null
+1800 Adam and 200 block of Baker, Louisville, KY: null
 1800 Adam18, Louisville, KY: null
 1800 Adams, Louisville, KY:
   lat: 38.2592106
@@ -12242,6 +12248,9 @@
   lat: 38.228367
   lng: -85.754588
 200 East Margaret Street and West Liberty, Louisville, KY: null
+200 East Market, Louisville, KY:
+  lat: 38.254211
+  lng: -85.7500224
 200 East Medea across Longfield Ave, Louisville, KY: null
 200 East Mill Pl, Louisville, KY:
   lat: 38.3112529
@@ -14752,6 +14761,9 @@
   was coded, Louisville, KY
 : lat: 38.2570741
   lng: -85.7584952
+2000 Star Ln, Louisville, KY:
+  lat: 38.1294827
+  lng: -85.7764397
 2000 Strathmoor Blvd near Bardstown Rd and Eleanor Ave, Louisville, KY:
   lat: 38.2171953
   lng: -85.6859985
@@ -28834,6 +28846,7 @@
 4800 E Manslick Rd, Louisville, KY:
   lat: 38.1188896
   lng: -85.6714101
+4800 Fagan-Visualing, Louisville, KY: null
 4800 Fern Valley Rd. Police units were responding to investigate the activation., Louisville, KY: null
 4800 Fern Valley Rd. Police units were responding, Louisville, KY:
   lat: 38.1569645
@@ -32464,6 +32477,7 @@
   lng: -85.7394849
 600 B Street, Louisville, KY: null
 600 Baker and 300 block of, Louisville, KY: null
+600 Baker and Charlie, Louisville, KY: null
 600 Baker and Charlie, with references, Louisville, KY: null
 600 Baker and Surfside Service, Louisville, KY: null
 ? 600 Baker and the 700 block of Baker to investigate the situation. The duration
