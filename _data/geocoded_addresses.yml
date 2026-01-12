@@ -17196,6 +17196,9 @@
 : null
 2500 Tregaron Ave, Louisville, KY: null
 2500 Tregaron Ave. Assigned units were dispatched, Louisville, KY: null
+2500 Tremont Dr, Louisville, KY:
+  lat: 38.2120858
+  lng: -85.6805292
 2500 Trubart Ln, Louisville, KY:
   lat: 38.181441
   lng: -85.839505
@@ -18454,6 +18457,9 @@
   lat: 38.259563
   lng: -85.7966655
 2800 West Broadway at Goodwill Opportunity Center, Louisville, KY:
+  lat: 38.249486
+  lng: -85.798435
+2800 West Broadway near Goodwill Opportunity Center, Louisville, KY:
   lat: 38.249486
   lng: -85.798435
 2800 West Broadway near Goodwill Opportunity, Louisville, KY:
