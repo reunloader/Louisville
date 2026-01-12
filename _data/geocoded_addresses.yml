@@ -211,6 +211,9 @@
 10 Bardstown Rd, Louisville, KY:
   lat: 38.1291902
   lng: -85.5765828
+10 Bartlett Rd, Louisville, KY:
+  lat: 38.1955514
+  lng: -85.6274095
 10 Block Street, Louisville, KY: null
 10 Castle Rd, Louisville, KY:
   lat: 38.0699858
@@ -254,6 +257,7 @@
   lng: -85.627892
 100 Acres, south of South Jackson,, Louisville, KY: null
 100 Adam Blount Street, Louisville, KY: null
+100 Adam Island, Louisville, KY: null
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
@@ -3005,6 +3009,9 @@
   lat: 38.2374663
   lng: -85.747069
 1000 South Jackson near East Kentucky and St, Louisville, KY:
+  lat: 38.2374663
+  lng: -85.747069
+1000 South Jackson near St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
 1000 South Jackson, Louisville, KY:
@@ -9454,6 +9461,7 @@
 1600 Rangel and Rowe near Brenda, Louisville, KY:
   lat: 38.1704889
   lng: -85.6726748
+1600 Richmond Dr in JCCS, Louisville, KY: null
 1600 River Shore Dr, Louisville, KY:
   lat: 38.2653485
   lng: -85.7242962
@@ -10334,6 +10342,9 @@
 1700 W Oak St, Louisville, KY:
   lat: 38.2368649
   lng: -85.7830138
+1700 W Ormsby Ave, Louisville, KY:
+  lat: 38.234761
+  lng: -85.782464
 1700 W W W Gaulbert Ave, Louisville, KY: null
 1700 W W W Kentucky St, Louisville, KY: null
 1700 Walker Rd, Louisville, KY:
@@ -12572,6 +12583,7 @@
   lng: -85.762913
 200 Headnote Place. Police units were assigned to this case., Louisville, KY: null
 200 Headnote Place. Police units were assigned, Louisville, KY: null
+200 Heady Ave, Louisville, KY: null
 200 Hersfield Rd, Louisville, KY:
   lat: 38.2653928
   lng: -85.5250459
@@ -22506,6 +22518,9 @@
   lat: 38.24988
   lng: -85.810225
 3500 Wheeler Ave near Crop St, Carlisle Ave, and Conn St, Louisville, KY:
+  lat: 38.195646
+  lng: -85.788368
+3500 Wheeler Ave, Louisville, KY:
   lat: 38.195646
   lng: -85.788368
 ? 3500 Wheeler Ave. Upon arrival, crews reported nothing visible from the outside.
