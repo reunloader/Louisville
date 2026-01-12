@@ -7440,6 +7440,9 @@
 1400 Bardstown Rd. The request was made, Louisville, KY:
   lat: 38.232971
   lng: -85.711276
+1400 Beach, Louisville, KY:
+  lat: 38.3411792
+  lng: -85.6399617
 1400 Beech St, Louisville, KY:
   lat: 38.2343146
   lng: -85.8051463
@@ -13830,6 +13833,7 @@
   lng: -85.7745966
 200 Westbound at mile marker 71, Louisville, KY: null
 200 Westbound at number14, Louisville, KY: null
+200 Westbound before Bardstown Rd, Louisville, KY: null
 200 Westbound expressway, Louisville, KY: null
 200 Westbound near Breckridge and St, Louisville, KY: null
 200 Westbound near Southern Pky, Louisville, KY:
@@ -14329,6 +14333,9 @@
   lng: -85.800482
 2000 DNC Sierra, Louisville, KY: null
 2000 DNC Sierra. Responding units were actively searching, Louisville, KY: null
+2000 Delmont Ave, Louisville, KY:
+  lat: 38.2617668
+  lng: -85.7120607
 2000 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
@@ -18792,6 +18799,7 @@
 2900 Marigold Ave, Louisville, KY:
   lat: 38.1663983
   lng: -85.7093768
+2900 McNean Boulevard, Louisville, KY: null
 2900 Mile Of Sunshine Dr, Louisville, KY:
   lat: 38.1499538
   lng: -85.6685635
@@ -25819,6 +25827,10 @@
 4000 Lambert Ave, Louisville, KY:
   lat: 38.1831717
   lng: -85.6533872
+4000 Larkwood Ave, Louisville, KY:
+  lat: 38.25871
+  lng: -85.816467
+4000 Larkwood Ave, indicating a recent gunfire incident in the area, Louisville, KY: null
 4000 Larkwood, Louisville, KY:
   lat: 38.25871
   lng: -85.816467
