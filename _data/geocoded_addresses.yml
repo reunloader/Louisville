@@ -5249,6 +5249,9 @@
   lng: -85.7155388
 12 Overbrook Rd, Louisville, KY: null
 12 Papa Lover Road, Louisville, KY: null
+12 Reigh Count Dr, Louisville, KY:
+  lat: 38.1108531
+  lng: -85.8748606
 12 Taylor Blvd, Louisville, KY:
   lat: 38.1857396
   lng: -85.7840032
@@ -20736,6 +20739,9 @@
   lng: -85.686322
 3000 Wolfman Avenue, Louisville, KY: null
 3000 Working Ridge Lane, Louisville, KY: null
+3000 Young Ave, Louisville, KY:
+  lat: 38.22974
+  lng: -85.806319
 3000 [Street Name], Louisville, KY:
   lat: 38.2136143
   lng: -85.7231475
@@ -32414,6 +32420,7 @@
   lng: -85.5591466
 5900 Yucca Road. Fire and EMS units arrived to assess the scene and prepare, Louisville, KY: null
 598 unspecified street, Louisville, KY: null
+6 Boxhill Ln, Louisville, KY: null
 6 Clay Ave, Louisville, KY:
   lat: 38.1418452
   lng: -85.6950372
@@ -39207,6 +39214,9 @@
 800 South28th Street at Norton West ER, Louisville, KY:
   lat: 38.2470453
   lng: -85.7988198
+800 South31st, Louisville, KY:
+  lat: 38.2475166
+  lng: -85.8039944
 800 South32nd Street, Louisville, KY:
   lat: 38.2476663
   lng: -85.8059077
@@ -43831,6 +43841,7 @@ Shelbyville Rd and North Hurstborne Parkway, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
 Shelbyville Rd and South Linden Lane, Louisville, KY: null
 Shelbyville Rd and Valhalla View Dr, Louisville, KY: null
+Shelbyville Rd and Whittington Pky, Louisville, KY: null
 Shelly Parkway and Chester Ave, Louisville, KY: null
 Shep Road and Rangeland Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
