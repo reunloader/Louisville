@@ -5177,6 +5177,7 @@
 12 Clara Ave, Louisville, KY:
   lat: 38.1999013
   lng: -85.7878076
+12 Covenant Stav, Louisville, KY: null
 12 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
@@ -31923,6 +31924,9 @@
 5800 Farrington Dr, Louisville, KY:
   lat: 38.1693957
   lng: -85.832772
+5800 Fern Dr, Louisville, KY:
+  lat: 38.2067202
+  lng: -85.7306021
 5800 Fern Valley Rd at Fireplace Distributors, Louisville, KY:
   lat: 38.1544757
   lng: -85.6531881
