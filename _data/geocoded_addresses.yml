@@ -2962,6 +2962,10 @@
 1000 South 3rd Street, Louisville, KY:
   lat: 38.2384976
   lng: -85.7585373
+1000 South 40th, Crop St of Greenwood Ave, Louisville, KY: null
+1000 South 40th, Louisville, KY:
+  lat: 38.2452239
+  lng: -85.8186424
 1000 South 41st, Louisville, KY:
   lat: 38.2453151
   lng: -85.819884
@@ -33289,6 +33293,7 @@
 600 South 40th Street, Louisville, KY:
   lat: 38.255478
   lng: -85.817791
+600 South 41st Cross Street Elliott Avenue and River Park Dr, Louisville, KY: null
 600 South 41st Street near Elliott Ave, Louisville, KY:
   lat: 38.25563
   lng: -85.819148
@@ -43058,6 +43063,7 @@ Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross Hill Rd and Morgan Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
 Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
+Cross Street Elliott Avenue and River Park Dr, Louisville, KY: null
 Crosshair Lyman Avenue and Bauer Ave, Louisville, KY: null
 Crosshore Harsey Avenue and Harold Ave, Louisville, KY: null
 Crossico Avenue and Noah Dr, Louisville, KY: null
