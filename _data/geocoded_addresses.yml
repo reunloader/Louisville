@@ -3038,6 +3038,7 @@
 1000 South Preston, Louisville, KY:
   lat: 38.237651
   lng: -85.748955
+1000 South Second Baptist Hours, Louisville, KY: null
 1000 South Second Street, Louisville, KY: null
 1000 South Third Street, Louisville, KY: null
 1000 South at Arthur St, Louisville, KY: null
@@ -3967,6 +3968,9 @@
 11 Sherry Rd, Louisville, KY:
   lat: 38.2098403
   lng: -85.7479622
+11 Stout Rd, Louisville, KY:
+  lat: 38.1191207
+  lng: -85.5360224
 11 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
