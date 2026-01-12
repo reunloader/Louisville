@@ -2998,6 +2998,9 @@
 1000 South Jackson near East Kentucky and St, Louisville, KY:
   lat: 38.2374663
   lng: -85.747069
+1000 South Jackson, Louisville, KY:
+  lat: 38.2374663
+  lng: -85.747069
 1000 South Jacksono, Louisville, KY: null
 1000 South Preston, Louisville, KY:
   lat: 38.237651
@@ -15210,6 +15213,9 @@
 2100 South Park Rd, Louisville, KY:
   lat: 38.1167651
   lng: -85.7269385
+2100 South Park, Louisville, KY:
+  lat: 38.1125689
+  lng: -85.7477389
 2100 South Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
