@@ -11291,6 +11291,9 @@
 1900 Lewiston, Louisville, KY:
   lat: 38.172611
   lng: -85.82968
+1900 Linden Ln, Louisville, KY:
+  lat: 38.2560805
+  lng: -85.6939124
 1900 Lytle St, Louisville, KY:
   lat: 38.264883
   lng: -85.780384
@@ -17807,6 +17810,7 @@
   lat: 38.1673238
   lng: -85.8571346
 2700 Martin House Ln, Louisville, KY: null
+2700 Maxi Lane, Louisville, KY: null
 2700 Melvin Corbett and 600 block of alley, Louisville, KY: null
 2700 Melvin Corbett, Louisville, KY: null
 2700 Melvin Ct near Melvin Dr, Louisville, KY:
@@ -32576,6 +32580,9 @@
 600 Glengarry Dr, Louisville, KY:
   lat: 38.1227346
   lng: -85.7555604
+600 Greendale Dr, Louisville, KY:
+  lat: 38.1825125
+  lng: -85.8517373
 600 Greta, Louisville, KY:
   lat: 38.1376681
   lng: -85.8502438
