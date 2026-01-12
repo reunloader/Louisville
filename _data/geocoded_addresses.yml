@@ -2348,6 +2348,9 @@
   that no break-in had occurred., Louisville, KY
 : null
 1000 East Kentucky Drive., Louisville, KY: null
+1000 East Kentucky near Schiller Ave and Swan St, Louisville, KY:
+  lat: 38.2522668
+  lng: -85.7333901
 1000 East Kentucky, Louisville, KY:
   lat: 38.2522668
   lng: -85.7333901
@@ -10323,6 +10326,9 @@
 1700 West Hill, Louisville, KY:
   lat: 38.2277495
   lng: -85.7849266
+1700 West Jefferson, Louisville, KY:
+  lat: 38.256146
+  lng: -85.778703
 1700 West Kentucky, Louisville, KY:
   lat: 38.241855
   lng: -85.783285
@@ -43502,6 +43508,7 @@ Same Pit Lane and Sand Lake Dr, Louisville, KY: null
 Sanford Paws Drive and Mount Washington Rd, Louisville, KY: null
 Scanlon St and Central Station Blvd, Louisville, KY: null
 Scarborough Ave and Greyling Dr, Louisville, KY: null
+Schiller Ave and Swan St, Louisville, KY: null
 Schmielander Avenue and Oleanda Ave, Louisville, KY: null
 Schmitts Ln and Park Rd, Louisville, KY: null
 Scottsdale Blvd and New Cut Rd, Louisville, KY:
