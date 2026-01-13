@@ -13848,6 +13848,7 @@
 ? 200 West, a Chevy Avalanche experienced a blowout in the far left lane. Roadside
   assistance was en route, and units checked, Louisville, KY
 : null
+200 West, and efforts, Louisville, KY: null
 200 West, and ongoing traffic stops at different locations, Louisville, KY: null
 ? 200 West, initially involving a black vehicle and a white Accord. The situation
   escalated into a larger collision involving a Tesla and a Nissan Murano. Emergency
@@ -14021,6 +14022,9 @@
 200 [Street Name Unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 [Street Name], Louisville, KY:
+  lat: 38.2516962
+  lng: -85.6240798
 200 [location unclear], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -15195,6 +15199,12 @@
 2100 I-64 West, Louisville, KY: null
 2100 Janlyn Rd, Louisville, KY: null
 2100 John80 Place, Louisville, KY: null
+2100 Kenilworth Pl, Louisville, KY:
+  lat: 38.2281835
+  lng: -85.6979871
+2100 Kenilworth, Louisville, KY:
+  lat: 38.2281835
+  lng: -85.6979871
 2100 Lakeside Dr, Louisville, KY:
   lat: 38.2217784
   lng: -85.6869823
