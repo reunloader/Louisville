@@ -4934,6 +4934,9 @@
 11200 Deham Dr, Louisville, KY:
   lat: 38.3231294
   lng: -85.5413907
+11200 Eider Dr, Louisville, KY:
+  lat: 38.144705
+  lng: -85.8908135
 11200 Goose Ln, Louisville, KY:
   lat: 38.1842698
   lng: -85.5460761
@@ -19116,6 +19119,7 @@
 2900 Marigold Ave, Louisville, KY:
   lat: 38.1663983
   lng: -85.7093768
+2900 Mason Rd, Louisville, KY: null
 2900 McNean Boulevard, Louisville, KY: null
 2900 Mile Of Sunshine Dr, Louisville, KY:
   lat: 38.1499538
@@ -25102,6 +25106,9 @@
 400 Hillcrest Ave, Louisville, KY:
   lat: 38.2606734
   lng: -85.6862108
+400 Hinchbrook Blvd, Louisville, KY:
+  lat: 38.0632925
+  lng: -85.8909174
 400 Hodel Rd at 53rd Street, Louisville, KY:
   lat: 38.1921011
   lng: -85.7050204
@@ -29610,6 +29617,7 @@
 4900 Terry Rd, Louisville, KY:
   lat: 38.178
   lng: -85.86195
+4900 Turn with Run Road, Louisville, KY: null
 4900 Unseld Blvd, Louisville, KY: null
 4900 Valley Station Rd, Louisville, KY:
   lat: 38.105853
@@ -33523,6 +33531,7 @@
   lat: 38.253626
   lng: -85.545518
 600 One Year Reca Drive, Louisville, KY: null
+600 Osbury Drive, Louisville, KY: null
 600 Oxford Ct, Louisville, KY:
   lat: 38.1594611
   lng: -85.6028256
@@ -40934,6 +40943,7 @@
 8800 Wisnett-Flicker Rd near Regents and Larkin Dr, Enbridge Street, Louisville, KY: null
 8800 XT highway, Louisville, KY: null
 8800 block, Louisville, KY: null
+8800 relation, Louisville, KY: null
 8809 Peterborough Dr, Louisville, KY: null
 8900 Artisan Way, Louisville, KY:
   lat: 38.154511
