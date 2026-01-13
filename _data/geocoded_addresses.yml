@@ -8894,6 +8894,7 @@
   lng: -85.7882726
 1500 San Jose Ave, Louisville, KY: null
 1500 San Jose Ave, number 7, Louisville, KY: null
+1500 San Jose Aveur, Louisville, KY: null
 1500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -10024,6 +10025,7 @@
 1700 Brentmoor Ln, Louisville, KY: null
 1700 Bridgeview Ln, Louisville, KY: null
 1700 Brownland, Louisville, KY: null
+1700 Cardinal Ct, with references, Louisville, KY: null
 1700 Casselberry Rd, Louisville, KY:
   lat: 38.23429
   lng: -85.693876
@@ -17918,6 +17920,9 @@
 2600 Royal Gardens Ct, Louisville, KY:
   lat: 38.1398434
   lng: -85.7840769
+2600 Seminary Dr near Hillary Ct, Aspenwood Ave, Louisville, KY:
+  lat: 38.2900643
+  lng: -85.624195
 ? 2600 Shelbyville Rd in response to an unspecified medical emergency. Details regarding
   the patient's condition or the exact nature of the medical issue were not provided
   in the initial dispatch. Responders reported being clear of the scene shortly after
@@ -27779,6 +27784,7 @@
 4400 Cole Ave. Metro units responded, Louisville, KY:
   lat: 38.1589782
   lng: -85.8653425
+4400 Cordova Rd near Sage Rd and Tyne Rd, Louisville, KY: null
 4400 Cosby Ct, Louisville, KY:
   lat: 38.1837745
   lng: -85.6770651
@@ -44348,6 +44354,7 @@ Russell Ave and Cheak St, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
 Saddlebrook Ln and Teaneck Ln, Louisville, KY: null
 Sadie Ln and Sanders Ln, Louisville, KY: null
+Sage Rd and Tyne Rd, Louisville, KY: null
 Sale Ave and Longfield Ave, Louisville, KY: null
 Same Pit Lane and Sand Lake Dr, Louisville, KY: null
 Sanford Paws Drive and Mount Washington Rd, Louisville, KY: null
