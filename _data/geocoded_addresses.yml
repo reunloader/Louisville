@@ -12536,6 +12536,9 @@
 200 East near River Park, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East near Settle Blvd and Southern Pky, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near exit 19A, Louisville, KY: null
 200 East near group8, Louisville, KY:
   lat: 38.1861148
@@ -22505,6 +22508,9 @@
 3500 Algonquin Pky, near Russell Lee and 35th Street,, Louisville, KY:
   lat: 38.2245619
   lng: -85.8144583
+3500 Ali, Louisville, KY:
+  lat: 38.256762
+  lng: -85.808968
 3500 Autumn Way, Crop St, Lisbon Ln, Meadow Dr, Louisville, KY: null
 3500 Autumn Way, Louisville, KY:
   lat: 38.20726
@@ -34042,6 +34048,7 @@
 6000 Action Ave. A female was reported, Louisville, KY:
   lat: 38.193669
   lng: -85.64707
+6000 Airport Hotels Blvd, Louisville, KY: null
 6000 Apex Dr near Joyce and Cecilia Way, Louisville, KY:
   lat: 38.1350699
   lng: -85.6502488
@@ -34085,6 +34092,9 @@
 6000 Corinth Way near Hikes in Huntsinger, Louisville, KY:
   lat: 38.164171
   lng: -85.673453
+6000 Dixie Hwy, Louisville, KY:
+  lat: 38.1127713
+  lng: -85.8629441
 6000 Eastlawn Ave due, Louisville, KY: null
 6000 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
@@ -37881,6 +37891,7 @@
   lng: -85.6563578
 7300 E W Market St, Louisville, KY: null
 7300 Egypt Line, Louisville, KY: null
+7300 Fagan Bush, Louisville, KY: null
 7300 Fairhill Dr, Louisville, KY:
   lat: 38.2691938
   lng: -85.6916813
@@ -44206,6 +44217,7 @@ Second St and Main St, Louisville, KY: null
 Second Street and Kentucky Ave, Louisville, KY: null
 Second Street and Main St, Louisville, KY: null
 Seneca Blvd and Taylorsville Rd, Louisville, KY: null
+Settle Blvd and Southern Pky, Louisville, KY: null
 Seville Dr and Scrim Ave, Louisville, KY: null
 Shadwell Ln and Robsion Rd, Louisville, KY: null
 Shane Dr and South Hirschburg Parkway, Louisville, KY: null
