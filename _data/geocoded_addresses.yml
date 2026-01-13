@@ -163,6 +163,7 @@
   lng: -85.8545813
 08 Hanzas Drive, Louisville, KY: null
 08 Heel Side Drive, Louisville, KY: null
+08 Twin Hill Rd, Louisville, KY: null
 08 Whirl Avenue, Louisville, KY: null
 09 Freeport Dr, Louisville, KY:
   lat: 38.1272962
@@ -10055,6 +10056,12 @@
 1700 Crums Ln, Louisville, KY:
   lat: 38.1896816
   lng: -85.8073586
+1700 David, Louisville, KY:
+  lat: 38.2155106
+  lng: -85.7457745
+1700 David. Units arrived, Louisville, KY:
+  lat: 38.2155106
+  lng: -85.7457745
 1700 Diminil, Louisville, KY: null
 ? 1700 Diminil. Responding officers spoke with a woman who was outside at the location
   and reported hearing nothing unusual. Police units investigated the area, Louisville,
@@ -41831,6 +41838,9 @@
   lat: 38.2414201
   lng: -85.7577026
 900 South4, Louisville, KY: null
+900 South47th Street, Louisville, KY:
+  lat: 38.2477935
+  lng: -85.8325847
 900 South4th Street at French F house, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
@@ -43336,6 +43346,7 @@ Alarby Avenue and Woodbourne Ave, Louisville, KY: null
 Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
+Algonquin Pky and Sharp Ave, Louisville, KY: null
 Algonquin Pky and Winkler Ave, Louisville, KY: null
 Allen Ave and Carolyn Rd, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
