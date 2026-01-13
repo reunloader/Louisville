@@ -6068,6 +6068,7 @@
   lng: -85.577436
 1200 Sugar Pond Terrace. The response aimed, Louisville, KY: null
 1200 Taylor's Road, Louisville, KY: null
+1200 Taylor'sville, Louisville, KY: null
 1200 Telford Street, Louisville, KY: null
 1200 Top Hill Rd, Louisville, KY:
   lat: 38.078833
@@ -7551,6 +7552,7 @@
 1400 Bardstown Rd. The request was made, Louisville, KY:
   lat: 38.232971
   lng: -85.711276
+1400 Barney Ave, Louisville, KY: null
 1400 Beach, Louisville, KY:
   lat: 38.3411792
   lng: -85.6399617
@@ -16963,6 +16965,9 @@
 2400 Lindsay Ave, Louisville, KY:
   lat: 38.259724
   lng: -85.7074
+2400 Lindsay, Louisville, KY:
+  lat: 38.259724
+  lng: -85.7074
 2400 Long Beach Avenue near Big Rock Park and Cherokee Park, Louisville, KY: null
 2400 Longest Ave near Ray Ave and Bassett Ave, Louisville, KY:
   lat: 38.2382702
@@ -18929,6 +18934,9 @@
   lng: -85.7957115
 2900 Bardstown Rd, Cormie, Louisville, KY: null
 2900 Bardstown Rd, Louisville, KY:
+  lat: 38.2161315
+  lng: -85.6764774
+2900 Bardstown, Louisville, KY:
   lat: 38.2161315
   lng: -85.6764774
 2900 Berkin Ranch Lane at the Speedway, Louisville, KY:
@@ -32936,6 +32944,9 @@
 600 Broadway, Louisville, KY:
   lat: 38.2446184
   lng: -85.7432819
+600 Brookline Ave, Louisville, KY:
+  lat: 38.176205
+  lng: -85.774057
 600 Butler, Louisville, KY:
   lat: 38.208567
   lng: -85.6389115
