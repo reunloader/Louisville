@@ -2171,6 +2171,9 @@
 1000 Cecil Ave, Louisville, KY:
   lat: 38.2454635
   lng: -85.8213121
+1000 Charles St near Spratt St, Louisville, KY:
+  lat: 38.2298435
+  lng: -85.7355996
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
@@ -4020,6 +4023,9 @@
   lat: 38.2386515
   lng: -85.8064326
 1100 17th Street, but this was later corrected, Louisville, KY: null
+1100 Algonquin Pky near Sharp Ave in Lombard Drive, Louisville, KY:
+  lat: 38.2138395
+  lng: -85.7734051
 1100 Algonquin Pky, Louisville, KY:
   lat: 38.2138395
   lng: -85.7734051
@@ -14807,6 +14813,9 @@
   lat: 38.2722475
   lng: -85.5102464
 2000 Nessa Miller Parkway, Louisville, KY: null
+2000 Newburg Rd at Olump near Bellarmine Blvd, Louisville, KY:
+  lat: 38.2189014
+  lng: -85.7104099
 2000 Newburg Rd near Mason Blvd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
