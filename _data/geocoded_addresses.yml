@@ -3812,6 +3812,9 @@
 10700 Eagle Ridge Pl, near Century Division Way, due, Louisville, KY:
   lat: 38.255025
   lng: -85.5580103
+10700 Glenmary Springs Dr at Old Bardstown Rd, Louisville, KY:
+  lat: 38.1259541
+  lng: -85.5772075
 10700 Grafton Hall Rd, Louisville, KY:
   lat: 38.098963
   lng: -85.8548419
@@ -8016,6 +8019,9 @@
 1400 South 2nd Street, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
+1400 South 32nd Street, Louisville, KY:
+  lat: 38.234611
+  lng: -85.807764
 1400 South 3rd Street, Louisville, KY:
   lat: 38.2289234
   lng: -85.7602103
@@ -12769,6 +12775,9 @@
   lat: 38.2985921
   lng: -85.5446721
 200 I-200, Louisville, KY: null
+200 I-264, Louisville, KY:
+  lat: 38.2127372
+  lng: -85.6685512
 200 I-64, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
