@@ -367,6 +367,9 @@
 100 Belle St, Louisville, KY:
   lat: 38.2318038
   lng: -85.5029265
+100 Bellevue Ave, Louisville, KY:
+  lat: 38.1964886
+  lng: -85.7726792
 100 Benson Ln near Glyndon Way, Louisville, KY:
   lat: 38.0952198
   lng: -85.8636046
@@ -870,6 +873,7 @@
 100 Judy Ave. The driver was found, Louisville, KY:
   lat: 38.14635
   lng: -85.7771132
+100 Kentucky, Baker, San, and 600 block of Nissan, Louisville, KY: null
 100 Kenwood Ct, Louisville, KY:
   lat: 38.1796224
   lng: -85.7622319
@@ -3312,6 +3316,7 @@
   lng: -85.7680848
 1000 neighborhood plays near Crosshore National Turnpike, Louisville, KY: null
 1000 on1, Louisville, KY: null
+1000 or 1086, Louisville, KY: null
 1000 police pursuit initiation, Louisville, KY: null
 1000 the previous night’s incident location, Louisville, KY: null
 1000 unspecified location, Louisville, KY: null
@@ -8970,6 +8975,9 @@
 1500 Taylor Ave, Louisville, KY:
   lat: 38.1950652
   lng: -85.7145993
+1500 Tennessee Ave, Louisville, KY:
+  lat: 38.2106204
+  lng: -85.7744265
 ? 1500 Texas Ave. The vehicle was reportedly traveling westbound. Police were attempting
   to make contact with the reporting party to gather more information and locate the
   suspect vehicle., Louisville, KY
@@ -14156,6 +14164,7 @@
 200 eastbound near the 15-mile marker, Louisville, KY: null
 200 eastbound near the 21, Louisville, KY: null
 200 eastbound on-ramp, Louisville, KY: null
+200 eastbound route, Louisville, KY: null
 200 eastbound to Newberg off ramp, Louisville, KY: null
 ? 200 eastbound to Newberg. Emergency medical services were already on scene and requested
   additional support from fire and police units., Louisville, KY
@@ -19362,6 +19371,7 @@
 300 Bermuda Ln, Louisville, KY:
   lat: 38.159921
   lng: -85.714808
+300 Bigger, Louisville, KY: null
 300 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
