@@ -9128,6 +9128,7 @@
 1500 and 1524, Louisville, KY: null
 1500 black over root for, Louisville, KY: null
 1500 home use, Louisville, KY: null
+1500 mile marker near South 6th Street and W Market St, Louisville, KY: null
 1500 pickup truck, Louisville, KY: null
 1500 single cab Chevy, Louisville, KY: null
 1500 the 1000 block of Ash St, Louisville, KY: null
@@ -10506,6 +10507,9 @@
   lat: 38.241855
   lng: -85.783285
 1700 W Kingston Ave near Crossroad Christopher Place and South St, Louisville, KY: null
+1700 W Lee St, Louisville, KY:
+  lat: 38.226233
+  lng: -85.785105
 1700 W Market St & I-64 East, Louisville, KY: null
 1700 W Market St, Louisville, KY:
   lat: 38.257543
@@ -26550,6 +26554,7 @@
   lat: 38.302644
   lng: -85.5407794
 4100 Browns Ln at the American Kidney Center, Louisville, KY: null
+4100 Bubbling Overdrive, Louisville, KY: null
 4100 Bubling Overdrive, Louisville, KY: null
 4100 Buckland Trace, Louisville, KY:
   lat: 38.2389408
@@ -27181,6 +27186,9 @@
 4200 Northwestern Pky, Louisville, KY:
   lat: 38.273645
   lng: -85.815048
+4200 Orchard Way, Louisville, KY:
+  lat: 38.198625
+  lng: -85.830331
 4200 Out of Loop at TNC Bank of Argo, Louisville, KY: null
 4200 Outer Loop at the Best Buy Geek Squad, Louisville, KY:
   lat: 38.1372312
