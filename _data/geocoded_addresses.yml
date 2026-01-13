@@ -3205,6 +3205,9 @@
   lat: 38.1605327
   lng: -85.7080186
 1000 West Jeff, Louisville, KY: null
+1000 West Jefferson, Louisville, KY:
+  lat: 38.2547629
+  lng: -85.767472
 1000 West Ln near Second Street, Louisville, KY:
   lat: 38.1312493
   lng: -85.8759227
@@ -8800,6 +8803,9 @@
   lat: 38.180822
   lng: -85.808232
 1500 Safford Street, Louisville, KY: null
+1500 Sale Ave, Louisville, KY:
+  lat: 38.1974978
+  lng: -85.7882726
 1500 San Jose Ave, Louisville, KY: null
 1500 San Jose Ave, number 7, Louisville, KY: null
 1500 Shelbyville Rd, Louisville, KY:
@@ -8896,6 +8902,9 @@
   lng: -85.7750909
 1500 South15 Street, Louisville, KY: null
 1500 South15th Place, Louisville, KY: null
+1500 South15th Street at the Healing Place, Louisville, KY:
+  lat: 38.227846
+  lng: -85.780251
 1500 South15th Street near Westley and West Hill Streets, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
@@ -10087,6 +10096,7 @@
   lat: 38.2577034
   lng: -85.7184651
 1700 Mellwood Ave. Responding fire units arrived, Louisville, KY: null
+1700 Meremont Ridge Ct, Louisville, KY: null
 1700 Merritt Avenue, Louisville, KY: null
 1700 Meyers Ln, Louisville, KY:
   lat: 38.162729
@@ -33560,6 +33570,9 @@
 600 Upland Rd, Louisville, KY:
   lat: 38.2474275
   lng: -85.692023
+600 Valencia Dr, Louisville, KY:
+  lat: 38.2353146
+  lng: -85.493905
 600 Valley College Dr at Ponder Creek Estates, Louisville, KY:
   lat: 38.119945
   lng: -85.842729
@@ -36504,6 +36517,7 @@
   lat: 38.243717
   lng: -85.743892
 700 S Hancock St, though the reason, Louisville, KY: null
+700 S Hancock St-12, Louisville, KY: null
 700 S Hancock St. A resident requested to speak with officers regarding the situation., Louisville, KY:
   lat: 38.243717
   lng: -85.743892
