@@ -1790,6 +1790,9 @@
 100 West Chestnut near Arnold McDonald House, Louisville, KY:
   lat: 38.248336
   lng: -85.753087
+100 West College. EMS responded, Louisville, KY:
+  lat: 38.243155
+  lng: -85.754841
 ? 100 West Collins Court earlier this evening. A 51-year-old female was experiencing
   a heart issue. Firefighters and paramedics were dispatched to provide immediate
   assistance. The situation was handled by the responding medical teams., Louisville,
@@ -36224,6 +36227,9 @@
 700 Crums Ln with similar symptoms, Louisville, KY: null
 700 Curtin Woods, Louisville, KY: null
 700 Cypress Station Dr, Louisville, KY: null
+700 Del Rio Pl, Louisville, KY:
+  lat: 38.2148467
+  lng: -85.6553436
 700 Delor Ave, Louisville, KY:
   lat: 38.2160682
   lng: -85.737701
@@ -40392,6 +40398,9 @@
 8500 3rd St Rene Rd near Winter Park Dr and Herbert Ln, Louisville, KY: null
 8500 3rd St Rene Rd, Louisville, KY: null
 '8500 Bambi Way)** (around 11:04 a.m. a.m. a.m.): responded to a medical call, Louisville, KY': null
+8500 Blossom Ln, Louisville, KY:
+  lat: 38.288499
+  lng: -85.5784941
 8500 Blue Lick Road, Louisville, KY:
   lat: 38.1273281
   lng: -85.6898638
@@ -41550,6 +41559,9 @@
   lat: 38.241061
   lng: -85.752613
 900 South District, Crusher Spratt Street, and Krieger St, Louisville, KY: null
+900 South District, Louisville, KY:
+  lat: 38.2513671
+  lng: -85.691205
 900 South Eighth Street Avenue Plaza, Louisville, KY: null
 900 South Fifth Street, Louisville, KY: null
 ? 900 South Fifth Street. A 36-year-old male victim sustained injuries including a
@@ -43011,6 +43023,9 @@
 9900 Dixie Hwy near Myers, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
+9900 Dixie Hwy near a credit union, Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
 9900 Dixie Hwy, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
@@ -44367,6 +44382,7 @@ Taylorsville Lake Rd and Routt Rd, Louisville, KY: null
 Taylorsville Rd and Bardstown Rd, Louisville, KY: null
 Taylorsville Rd and Patti Ln, Louisville, KY: null
 Taylorsville Rd and Peel Street, Louisville, KY: null
+Taylorsville Rd and West Town Road, Louisville, KY: null
 Teak Dr and Murphy Ln, Louisville, KY: null
 Tennessee Ave and Taylor Springs Dr, Louisville, KY: null
 Tenny Ave and Southern Pky, Louisville, KY: null
