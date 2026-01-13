@@ -4486,6 +4486,9 @@
 1100 South 32nd Street, Louisville, KY:
   lat: 38.2413227
   lng: -85.8067247
+1100 South 3rd Street at Walnut Street Baptist Church, Louisville, KY:
+  lat: 38.237136
+  lng: -85.758543
 1100 South 3rd Street, Louisville, KY:
   lat: 38.237136
   lng: -85.758543
@@ -15542,6 +15545,9 @@
   lat: 38.1881115
   lng: -85.7579503
 21919 an unconfirmed street. The reason, Louisville, KY: null
+22 Anna Ln, Louisville, KY:
+  lat: 38.1793067
+  lng: -85.8038096
 22 Griffiths Ave, Louisville, KY:
   lat: 38.2650846
   lng: -85.7872589
@@ -17221,6 +17227,7 @@
 2500 Hayward Rd, Louisville, KY:
   lat: 38.286262
   lng: -85.620313
+2500 Hearst, Bourne, Jim, Elaine, Louisville, KY: null
 2500 Hill Rd, Louisville, KY:
   lat: 38.2288093
   lng: -85.7185867
