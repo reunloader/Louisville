@@ -2787,6 +2787,7 @@
 1000 Patterson, Louisville, KY:
   lat: 38.1589025
   lng: -85.6758518
+1000 Philbach Avenue in Stanley, Louisville, KY: null
 1000 Pierce Falls, Louisville, KY: null
 1000 Place of Urge, Louisville, KY: null
 1000 Pleasant Glen Dr, Louisville, KY:
@@ -2898,6 +2899,7 @@
   lat: 38.2289555
   lng: -85.7364545
 1000 Scene Copy Traffic, Louisville, KY: null
+1000 Seabock Ave, Louisville, KY: null
 1000 Seal Rock Avenue near Peachtree and Stanley, Louisville, KY: null
 1000 Seatonville Rd, Louisville, KY:
   lat: 38.1431383
@@ -10809,6 +10811,7 @@
 1800 Deer Park Ave, Louisville, KY:
   lat: 38.2258793
   lng: -85.7072745
+1800 Dixdale, cross of Dixie, Louisville, KY: null
 1800 Dixie Gardens, Louisville, KY: null
 1800 Dixie Hwy following an initial report of an assault that was later updated, Louisville, KY: null
 1800 Dixie Hwy, Louisville, KY:
@@ -26663,6 +26666,9 @@
   lat: 38.1950146
   lng: -85.7673977
 4100 Southern Pky near West Whitney and W Fairmont Ave, Louisville, KY:
+  lat: 38.1950146
+  lng: -85.7673977
+4100 Southern Pky, Louisville, KY:
   lat: 38.1950146
   lng: -85.7673977
 4100 Spring-Born Way near Springmere, Louisville, KY:
