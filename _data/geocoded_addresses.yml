@@ -20214,6 +20214,7 @@
 300 Southgate Ave, Louisville, KY:
   lat: 38.2008006
   lng: -85.7853295
+300 St, Louisville, KY: null
 300 State St, Louisville, KY:
   lat: 38.2551213
   lng: -85.7161717
@@ -32098,6 +32099,9 @@
 5500 New Hampshire Blvd, Louisville, KY:
   lat: 38.150378
   lng: -85.658084
+5500 New Kent Road near Kroger, Louisville, KY:
+  lat: 38.2886468
+  lng: -85.5099194
 5500 Newcote Road, Louisville, KY: null
 5500 Nicott Road, Louisville, KY: null
 5500 O Drive near Crestridge, Robinwood Rd, and Regal Dr, Louisville, KY:
