@@ -7543,6 +7543,7 @@
 1400 Beach, Louisville, KY:
   lat: 38.3411792
   lng: -85.6399617
+1400 Beech St and I-64 East ramp, Louisville, KY: null
 1400 Beech St, Louisville, KY:
   lat: 38.2343146
   lng: -85.8051463
@@ -19759,6 +19760,9 @@
   lat: 38.2407286
   lng: -85.7112703
 300 Glenmary Ave, between Crossleaf Avenue and Willow Ave. Emergency medical personnel were sent, Louisville, KY: null
+300 Grand, Louisville, KY:
+  lat: 38.2406987
+  lng: -85.7980734
 300 Graves End Dr, Louisville, KY:
   lat: 38.255761
   lng: -85.775666
@@ -42830,6 +42834,9 @@
   lat: 38.2126649
   lng: -85.7298221
 9700 Stonestreet Rd near Brooklyn and Blanton, Louisville, KY:
+  lat: 38.1137802
+  lng: -85.840811
+9700 Stonestreet Rd, Louisville, KY:
   lat: 38.1137802
   lng: -85.840811
 9700 Stream View Trail, Louisville, KY:
