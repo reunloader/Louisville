@@ -4930,6 +4930,7 @@
   lat: 38.1842698
   lng: -85.5460761
 11200 Kendalton Pl, Crop St of Sussex Ct, Louisville, KY: null
+11200 Kendalton Pl, Louisville, KY: null
 11200 New Stone Ct, Louisville, KY:
   lat: 38.2491364
   lng: -85.549344
@@ -42797,6 +42798,9 @@
 9700 Northridge Dr, Louisville, KY:
   lat: 38.1135144
   lng: -85.8284852
+9700 Polaris Dr near Titan Dr and Van Gogh Dr, Louisville, KY:
+  lat: 38.10888
+  lng: -85.695595
 9700 Polaris Dr, Louisville, KY:
   lat: 38.10888
   lng: -85.695595
@@ -44436,6 +44440,7 @@ Tierney Ave and Sealston Dr, Louisville, KY: null
 Tile Factory Road and Selinda Ave, Louisville, KY: null
 Tiny Ln and Loney Ln, Louisville, KY: null
 Titan Dr and Atlas Rd, Louisville, KY: null
+Titan Dr and Van Gogh Dr, Louisville, KY: null
 Toll Plaza Rd and Lower Terminal Dr, Louisville, KY: null
 Tosler Road and Stonenberg Drive, Louisville, KY: null
 Towers Row Road and Bardstown Rd, Louisville, KY: null
