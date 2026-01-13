@@ -1965,6 +1965,9 @@
   lng: -85.7120997
 100 block of Kenwood Ct, Louisville, KY: null
 100 by65 south, Louisville, KY: null
+100 cross court, Louisville, KY:
+  lat: 38.1485029
+  lng: -85.6005299
 100 district guard, Louisville, KY: null
 100 exit, Louisville, KY:
   lat: 38.1859027
@@ -17664,6 +17667,9 @@
 26 Royal Dr, Louisville, KY:
   lat: 38.1286028
   lng: -85.7597473
+2600 Alford Ave, Louisville, KY:
+  lat: 38.2646517
+  lng: -85.7933107
 ? 2600 Algonquin Pky to attend to a 67-year-old male who was feeling unwell, weak,
   experiencing diarrhea, and had not been eating. This incident was located between
   Hoskins Beach Rd and Piper Ct., Louisville, KY
@@ -18939,6 +18945,7 @@
 2900 Bardstown, Louisville, KY:
   lat: 38.2161315
   lng: -85.6764774
+2900 Bars Town, Louisville, KY: null
 2900 Berkin Ranch Lane at the Speedway, Louisville, KY:
   lat: 38.1576618
   lng: -85.8334451
@@ -23437,6 +23444,9 @@
 3700 Diane Marie at Walmart, Louisville, KY:
   lat: 38.0886678
   lng: -85.6638615
+3700 Diann Marie Rd, Louisville, KY:
+  lat: 38.2997417
+  lng: -85.5429214
 3700 Dixie Hwy near Speedway, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
@@ -26774,6 +26784,7 @@
 4100 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+4100 Shelbyville Rd, State Farm office, Louisville, KY: null
 4100 Shelter's Old Road, Louisville, KY: null
 4100 Sherman Ave, Louisville, KY:
   lat: 38.198047
