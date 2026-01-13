@@ -2898,6 +2898,7 @@
   lat: 38.2289555
   lng: -85.7364545
 1000 Scene Copy Traffic, Louisville, KY: null
+1000 Seal Rock Avenue near Peachtree and Stanley, Louisville, KY: null
 1000 Seatonville Rd, Louisville, KY:
   lat: 38.1431383
   lng: -85.5614901
@@ -7524,6 +7525,9 @@
   lat: 38.2188313
   lng: -85.7034735
 1400 Blago, Berry, Louisville, KY: null
+1400 Bland St near East Hill and East Burnett, Louisville, KY:
+  lat: 38.226677
+  lng: -85.743198
 1400 Bland St, Louisville, KY:
   lat: 38.226677
   lng: -85.743198
@@ -11070,6 +11074,7 @@
   lng: -85.7879718
 1800 San Jose Ave near Crosso Hillside Drive and Dixie Hwy, Louisville, KY: null
 1800 San Jose Ave near E W Burnett Ave and Taylor Ct, Louisville, KY: null
+1800 San Jose Ave near Hillside and Dixie, Louisville, KY: null
 1800 San Jose Ave, Louisville, KY: null
 1800 San Jose Ave, across Hillside Dr and Dixie Hwy, Louisville, KY: null
 1800 Shady Ln, Louisville, KY:
@@ -11587,6 +11592,9 @@
 1900 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
   lng: -85.6833215
+1900 South 1st Street near Brandeis and Cardinal, Louisville, KY:
+  lat: 38.220106
+  lng: -85.758032
 1900 South 28th Street, Louisville, KY:
   lat: 38.22278
   lng: -85.80436
@@ -25279,6 +25287,9 @@
 400 S Clay St, Louisville, KY:
   lat: 38.2505296
   lng: -85.7407799
+400 S Hancock St, Louisville, KY:
+  lat: 38.250782
+  lng: -85.742669
 400 S Jackson St near Liberty and Marshall, Louisville, KY:
   lat: 38.251001
   lng: -85.744689
@@ -26648,6 +26659,9 @@
 4100 Southern Farm Blvd, Louisville, KY:
   lat: 38.1963467
   lng: -85.8352924
+4100 Southern Pky near West Whitney and Fairmont, Louisville, KY:
+  lat: 38.1950146
+  lng: -85.7673977
 4100 Southern Pky near West Whitney and W Fairmont Ave, Louisville, KY:
   lat: 38.1950146
   lng: -85.7673977
