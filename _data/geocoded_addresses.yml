@@ -3331,6 +3331,7 @@
 1000 the previous night’s incident location, Louisville, KY: null
 1000 unspecified location, Louisville, KY: null
 1000 unspecified street, Louisville, KY: null
+1000 vehicle call, Louisville, KY: null
 1000 vehicle, Louisville, KY: null
 10000 Ashby Farm Dr, Louisville, KY:
   lat: 38.1122843
@@ -12969,6 +12970,9 @@
   lat: 38.2626638
   lng: -85.7972793
 200 North 28th Street, Louisville, KY:
+  lat: 38.2626638
+  lng: -85.7972793
+200 North 28th, Louisville, KY:
   lat: 38.2626638
   lng: -85.7972793
 200 North 34th Street, Louisville, KY:
@@ -26801,6 +26805,9 @@
   lat: 38.2139627
   lng: -85.6207901
 4100 Sunset Ave, Louisville, KY: null
+4100 Talon Ridge Dr, Louisville, KY:
+  lat: 38.0878087
+  lng: -85.6031011
 4100 Tatum Ln, Louisville, KY:
   lat: 38.1725368
   lng: -85.8664289
@@ -37204,6 +37211,7 @@
 700 Washburn Ave in a backyard, Louisville, KY: null
 700 West Alhomid Ali Boulevard, Louisville, KY: null
 700 West Bain, Louisville, KY: null
+700 West Broadway (outside Social Security office), Louisville, KY: null
 700 West Broadway at White Castle, cross of South 8th and South 7th, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
