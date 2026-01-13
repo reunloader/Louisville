@@ -9816,6 +9816,9 @@
 1600 West Madison, Louisville, KY:
   lat: 38.2520441
   lng: -85.7777668
+1600 West Market, Louisville, KY:
+  lat: 38.2569964
+  lng: -85.7771317
 1600 West Muhammad Ali, Louisville, KY:
   lat: 38.2531319
   lng: -85.7775215
@@ -29642,6 +29645,9 @@
 5 W Manslick Rd, Louisville, KY:
   lat: 38.1646868
   lng: -85.7975829
+50 Mellwood Ave, Louisville, KY:
+  lat: 38.2579018
+  lng: -85.7192605
 50 Montana Ave, Louisville, KY:
   lat: 38.2093892
   lng: -85.7741339
@@ -35028,6 +35034,7 @@
 6500 Blevins Gap Rd, Louisville, KY:
   lat: 38.070548
   lng: -85.881355
+6500 Blue Bonnet, Louisville, KY: null
 6500 Blum Farm Ct, Louisville, KY:
   lat: 38.1536856
   lng: -85.6024786
@@ -38891,6 +38898,7 @@
   lat: 38.132939
   lng: -85.5948852
 7900 Birdstamper, Louisville, KY: null
+7900 Blue Bonnet, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
 7900 Cannon-Narrow-Way, Louisville, KY: null
