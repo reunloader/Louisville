@@ -2044,6 +2044,9 @@
   lat: 38.1318053
   lng: -85.7849783
 1000 Arrowhead Rd, Louisville, KY: null
+1000 Arthur St, Louisville, KY:
+  lat: 38.2209861
+  lng: -85.7517448
 1000 Ash St near McHenry and Hickory, Louisville, KY:
   lat: 38.2267347
   lng: -85.7372918
@@ -9695,6 +9698,7 @@
   lat: 38.1664346
   lng: -85.7957339
 1600 Two Strings, Louisville, KY: null
+1600 Tyler Parkway area, Louisville, KY: null
 1600 Tyler Parkway, Crop St of Parkstown and Tyler Park, Louisville, KY: null
 1600 Tyler Parkway, Louisville, KY:
   lat: 38.231557
@@ -10348,6 +10352,7 @@
 1700 South13th St, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South13th Street, Building 37, Louisville, KY: null
 1700 South13th Street, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
@@ -13052,6 +13057,9 @@
   lng: -85.7797189
 200 North17th Street in the Roosevelt Building at the intersection with W Kenton St and Columbia St, Louisville, KY: null
 200 North17th Street near Duncan and Columbia at Roosevelt, Louisville, KY:
+  lat: 38.2606552
+  lng: -85.7779157
+200 North17th Street, Louisville, KY:
   lat: 38.2606552
   lng: -85.7779157
 ? 200 North17th Street, where a female was reportedly screaming and possibly pulling
@@ -32673,6 +32681,9 @@
 600 Adams St and 5000 block of Rosettes, Louisville, KY: null
 600 Adams and 1100 block of, Louisville, KY: null
 600 Adams and Baker, Louisville, KY: null
+600 Adams, Louisville, KY:
+  lat: 38.2592106
+  lng: -85.7264871
 600 Adams, indicating a possible related disturbance, Louisville, KY: null
 600 Addamonte, Louisville, KY: null
 600 Airport Hotels Blvd, Louisville, KY: null
