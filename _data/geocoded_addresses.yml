@@ -788,6 +788,9 @@
 100 Front Walk Top, Louisville, KY: null
 100 Gallagher Run, Louisville, KY: null
 100 Georgia King Norah, Louisville, KY: null
+100 Gillette Ave near South 1st and Hiawatha Ave, Louisville, KY:
+  lat: 38.1857045
+  lng: -85.760107
 100 Gillette Ave, Louisville, KY:
   lat: 38.1857045
   lng: -85.760107
@@ -3517,6 +3520,9 @@
   lat: 38.122017
   lng: -85.576064
 10200 Lynn station road at UTA College, Louisville, KY: null
+10200 Ovo Court near Treetops Dr, Louisville, KY:
+  lat: 38.1309739
+  lng: -85.5719863
 10200 Radford Rd, Louisville, KY: null
 10200 Seatonville Rd, Louisville, KY:
   lat: 38.1473589
@@ -26434,6 +26440,9 @@
   lat: 38.2974974
   lng: -85.5546862
 4000 Towne Center Dr, identified as the McAllister's residence. Attempts, Louisville, KY: null
+4000 W Main St near North 4th and North 5th, Louisville, KY:
+  lat: 38.264095
+  lng: -85.814794
 4000 W Market St, Louisville, KY:
   lat: 38.2623671
   lng: -85.8155151
