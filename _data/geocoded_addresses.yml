@@ -9068,6 +9068,9 @@
 1500 Winter Ave, Louisville, KY:
   lat: 38.237341
   lng: -85.724132
+1500 Wurtele Ave, Louisville, KY:
+  lat: 38.2132618
+  lng: -85.780508
 1500 and 1510, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -10359,6 +10362,7 @@
 1700 South13th Street, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South13th Street, indicating a welfare check or transport, Louisville, KY: null
 1700 South13th, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
@@ -14033,6 +14037,7 @@
 200 Wilmington Ave, Louisville, KY:
   lat: 38.2507027
   lng: -85.6594324
+200 Wilson and Temple, Louisville, KY: null
 200 Wilson near Main, Louisville, KY:
   lat: 38.2345146
   lng: -85.7956353
@@ -34968,6 +34973,7 @@
 6500 Haynes Trace, Louisville, KY: null
 6500 Heckle Drive, Louisville, KY: null
 6500 Hereford Circle, Louisville, KY: null
+6500 Hunter's Chase Lane, Louisville, KY: null
 6500 Hunter's Dove Creek Blvd, Louisville, KY: null
 6500 Hunters Chase Ln, Louisville, KY:
   lat: 38.1643435
