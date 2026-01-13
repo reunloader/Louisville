@@ -6471,6 +6471,9 @@
 13 Gaywood Dr, Louisville, KY:
   lat: 38.1038739
   lng: -85.8336536
+13 Hemlock St, Louisville, KY:
+  lat: 38.2351976
+  lng: -85.8031638
 13 Mellwood Ave, Louisville, KY: null
 13 Narcissus Dr, Louisville, KY:
   lat: 38.1197851
@@ -11772,6 +11775,9 @@
   lat: 38.2526157
   lng: -85.7827234
 1900 West Market, Louisville, KY: null
+1900 Winston Ave, Louisville, KY:
+  lat: 38.2146924
+  lng: -85.6866879
 1900 [Street Name Not Fully Provided], Louisville, KY:
   lat: 38.1591032
   lng: -85.8354672
@@ -16779,6 +16785,9 @@
   lat: 38.1906685
   lng: -85.6368625
 2400 Boulevard of Hullian, Louisville, KY: null
+2400 Brenda Dr, Louisville, KY:
+  lat: 38.1704889
+  lng: -85.6726748
 2400 Broadway, Louisville, KY:
   lat: 38.249256
   lng: -85.791726
