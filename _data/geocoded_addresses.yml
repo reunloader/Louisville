@@ -4774,6 +4774,9 @@
 1100 West Muhammad. Officers were on duty and available, Louisville, KY:
   lat: 38.2522795
   lng: -85.7696575
+1100 Westport Rd at Conrad Grove Rands, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 1100 Woodcroft Ct near Pond Station Rd, Louisville, KY:
   lat: 38.1072784
   lng: -85.8230991
@@ -15440,6 +15443,9 @@
   lat: 38.2540871
   lng: -85.8042369
 2100 Rockford Ln near Dohn Rd and Lindley Rd, Louisville, KY:
+  lat: 38.1757082
+  lng: -85.8313913
+2100 Rockford Ln, Louisville, KY:
   lat: 38.1757082
   lng: -85.8313913
 2100 Roseway, Louisville, KY: null
@@ -30976,6 +30982,9 @@
   lat: 38.1774639
   lng: -85.8691131
 5100 Crescent Highway, Louisville, KY: null
+5100 Delaware Dr, Louisville, KY:
+  lat: 38.1882116
+  lng: -85.6642732
 5100 Dixie Hwy, Louisville, KY:
   lat: 38.1681545
   lng: -85.8297235
