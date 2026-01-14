@@ -4315,6 +4315,7 @@
 1100 Holly Ave, Louisville, KY:
   lat: 38.1011844
   lng: -85.745332
+1100 Hong Kong Parkway, Louisville, KY: null
 1100 I 64 East, Louisville, KY: null
 1100 I 65 South, Louisville, KY: null
 1100 I 65 South. The nature of the alarm was not specified., Louisville, KY: null
@@ -24670,6 +24671,7 @@
   lng: -85.50779
 400 Adam and 1 Adam to address the situation. The outcome of the police response was not specified., Louisville, KY: null
 400 Adam and 1 Adam, Louisville, KY: null
+400 Adam and 200 block of W Lansing Ave, Louisville, KY: null
 400 Adam and 400 block of Adam were dispatched, Louisville, KY: null
 400 Adam and 400 block of Adam were dispatched., Louisville, KY: null
 400 Adam and 400 block of Baker, Louisville, KY: null
@@ -30194,6 +30196,9 @@
   lat: 38.2694805
   lng: -85.7012174
 500 Dale Ave, Crossey Southern Parkway, Louisville, KY: null
+500 Dale Ave, Louisville, KY:
+  lat: 38.1721742
+  lng: -85.7732069
 500 David and 12-59 responded to assess and manage the situation., Louisville, KY: null
 500 David and 12-59 responded, Louisville, KY: null
 500 David and 900 block of Call, Louisville, KY: null
@@ -33303,6 +33308,9 @@
 600 Bellamy Cir. Medical assistance was provided, Louisville, KY:
   lat: 38.2251466
   lng: -85.7691344
+600 Bergman St, Louisville, KY:
+  lat: 38.2289236
+  lng: -85.7441317
 600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
@@ -33510,6 +33518,9 @@
   lat: 38.245496
   lng: -85.743318
 600 East Armsby, Louisville, KY: null
+600 East Broadway at Shell Station, Louisville, KY:
+  lat: 38.2446184
+  lng: -85.7432819
 600 East Broadway at the Cho-Kat station, Louisville, KY:
   lat: 38.2446184
   lng: -85.7432819
