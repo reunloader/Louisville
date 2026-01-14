@@ -17583,6 +17583,7 @@
   lat: 38.2459276
   lng: -85.793461
 2500 Hurstborn Parkway at Smokey Bones Barbecue, Louisville, KY: null
+2500 Hurtle Street, Louisville, KY: null
 2500 Jasper Dr near Plantside Dr, Louisville, KY:
   lat: 38.1167377
   lng: -85.8408577
@@ -31007,6 +31008,11 @@
   lat: 38.245851
   lng: -85.7605615
 500 West Cormsby, Louisville, KY: null
+500 West Hill and Keeble, Louisville, KY: null
+? 500 West Hill. They responded to a suspicious vehicle, a white Dodge Charger, and
+  coordinated with nearby units, Louisville, KY
+: lat: 38.2259812
+  lng: -85.7638775
 500 West Jefferson at McBrayer PLLC, Louisville, KY:
   lat: 38.2350131
   lng: -85.762185
@@ -38819,6 +38825,9 @@
 7400 Steve Cross Circle. Responding units were dispatched, Louisville, KY: null
 7400 Switch Bark Rd, Louisville, KY: null
 7400 Trade Port Dr, Louisville, KY:
+  lat: 38.1237735
+  lng: -85.892577
+7400 Trade Port, Louisville, KY:
   lat: 38.1237735
   lng: -85.892577
 7400 W Manslick Rd, Louisville, KY:
