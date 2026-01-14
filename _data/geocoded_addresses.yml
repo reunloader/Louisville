@@ -6527,6 +6527,9 @@
 13 Rochelle Rd, Louisville, KY:
   lat: 38.1290138
   lng: -85.6353438
+13 Southwestern Pky, Louisville, KY:
+  lat: 38.2535943
+  lng: -85.8267406
 13 Sunflower Ave, Louisville, KY:
   lat: 38.1919815
   lng: -85.8362886
@@ -19728,6 +19731,9 @@
 300 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
+300 E W College St, Louisville, KY:
+  lat: 38.2432243
+  lng: -85.7546559
 300 E W Esplanade Ave near Carolyn Rd and Tecumseh Ave, Louisville, KY:
   lat: 38.1641632
   lng: -85.7727959
@@ -25493,6 +25499,7 @@
   lng: -85.763372
 400 Reg Smith Cir, Scholar House building, Louisville, KY: null
 400 Reg Smith Cir, UofL, Louisville, KY: null
+400 Regency Ln, Louisville, KY: null
 ? 400 Regency Quarter following reports of a vehicle striking a building. A white
   Honda Pilot was involved in the incident, impacting the building's patio area. Fire
   and police units responded to assess the scene and manage the situation., Louisville,
