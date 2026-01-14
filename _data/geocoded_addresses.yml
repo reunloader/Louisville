@@ -1706,6 +1706,9 @@
   lat: 38.2266025
   lng: -85.7569082
 100 W Chestnut St and 2100 block of West Chestnut, Louisville, KY: null
+100 W College St near Wellspring's Crisis Unit, Louisville, KY:
+  lat: 38.243155
+  lng: -85.754841
 100 W College St, Louisville, KY:
   lat: 38.243155
   lng: -85.754841
@@ -22428,6 +22431,9 @@
 34 Southern Pky, Louisville, KY:
   lat: 38.1748115
   lng: -85.7745087
+34 Taylor Blvd, Louisville, KY:
+  lat: 38.1787414
+  lng: -85.7830902
 3400 3rd St Rene Rd, Louisville, KY: null
 3400 Anatahan Ct, Louisville, KY: null
 3400 Arquette Avenue, Louisville, KY: null
@@ -28889,6 +28895,7 @@
 4600 Cane Run Rd, Louisville, KY:
   lat: 38.1932867
   lng: -85.8458821
+4600 Carrick Lane, Louisville, KY: null
 4600 Caspian Dr, Louisville, KY:
   lat: 38.1696443
   lng: -85.6754213
@@ -37708,6 +37715,9 @@
 700 W Jefferson St, specifically at the Judicial Center,, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
+700 W Kentucky, Louisville, KY:
+  lat: 38.1936783
+  lng: -85.771273
 700 W Main St at North8th and North 7th, Louisville, KY:
   lat: 38.256802
   lng: -85.7618553
@@ -42612,6 +42622,9 @@
   lat: 38.118865
   lng: -85.7953928
 9000 West Manfolk Road, Louisville, KY: null
+9000 West Manslick, Louisville, KY:
+  lat: 38.118865
+  lng: -85.7953928
 9000 West and 700 block of W Ormsby Ave, Louisville, KY: null
 9000 Willowcreek Dr, Louisville, KY:
   lat: 38.1196701
@@ -44473,6 +44486,7 @@ Jaeger Ave and Eastern Parkway, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
+Jefferson Blvd and Bates Ave, Louisville, KY: null
 Jefferson Blvd and Horizon Ln, Louisville, KY: null
 Jefferson Blvd and Lambert Rd, Louisville, KY: null
 Jefferson St and Baxter Ave, Louisville, KY: null
@@ -45127,6 +45141,7 @@ Thickston Lane and Independence School Rd, Louisville, KY: null
 Third Street and Central Ave, Louisville, KY: null
 Thomas Ave and Garland Ave, Louisville, KY: null
 Thompson Ave and Delmont Ave, Louisville, KY: null
+Thornberry Ave and Homeview Dr, Louisville, KY: null
 Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tierney Ave and Sealston Dr, Louisville, KY: null
 Tile Factory Road and Selinda Ave, Louisville, KY: null
