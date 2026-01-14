@@ -16422,6 +16422,7 @@
 2300 Boulevard Napoleon. Responders were on scene, Louisville, KY:
   lat: 38.221638
   lng: -85.694698
+2300 Brennen Business Ct, Country Thompson Way, at 5 Works Corporation, Louisville, KY: null
 2300 Brent St, Louisville, KY:
   lat: 38.2441834
   lng: -85.7355087
@@ -34087,6 +34088,9 @@
 600 South18th Street, Louisville, KY:
   lat: 38.2513953
   lng: -85.7812397
+600 South22nd Street, Louisville, KY:
+  lat: 38.251462
+  lng: -85.787914
 600 South26, Louisville, KY: null
 600 South26th St, Louisville, KY:
   lat: 38.252882
@@ -41351,6 +41355,9 @@
 900 (unspecified street), Louisville, KY: null
 900 38th Street, Louisville, KY: null
 900 4th Street Market. The vehicle was pulled over, Louisville, KY: null
+900 9th and Kentucky, Louisville, KY:
+  lat: 38.242869
+  lng: -85.767561
 900 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -43704,6 +43711,7 @@ Beckley Woods Dr and Westport Rd, Louisville, KY: null
 Beelow Church Road and Barthes Town Road, Louisville, KY: null
 Beeston Blvd and Betsy Ross Dr, Louisville, KY: null
 Bellarmine Blvd and Richmond Dr, Louisville, KY: null
+Belle St and Broaddus St, Louisville, KY: null
 Bellevue Ave and Beecher St, Louisville, KY: null
 Bellevue Ave and South Fitz Street, Louisville, KY: null
 Bells Ln and Gibson Ln, Louisville, KY: null
@@ -43815,6 +43823,7 @@ Camp Ground Rd and Wilmoth Ave, Louisville, KY: null
 Campobello St and Carroll Ave, Louisville, KY: null
 Cane Run Rd and Algonquin Pky, Louisville, KY: null
 Cane Run Rd and Bells Ln, Louisville, KY: null
+Cane Run Rd and Lees Ln, Louisville, KY: null
 Cane Run Rd and Mary Rose Dr, Louisville, KY: null
 Cane Run Rd and Reamers Rd, Louisville, KY: null
 Cane Run Rd and Rockford Ln, Louisville, KY: null
