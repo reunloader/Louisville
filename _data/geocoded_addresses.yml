@@ -9505,6 +9505,9 @@
 1600 Crestwood, Louisville, KY:
   lat: 38.2537412
   lng: -85.6758659
+1600 Crop St, Louisville, KY:
+  lat: 38.259438
+  lng: -85.776433
 1600 Cypress St, Louisville, KY:
   lat: 38.229039
   lng: -85.7990648
@@ -10214,6 +10217,9 @@
 1700 Gagel Ave, Louisville, KY:
   lat: 38.1733587
   lng: -85.8184499
+1700 Gallagher St near Salem Ave and South17, Louisville, KY:
+  lat: 38.238873
+  lng: -85.783778
 1700 Gallagher St, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
@@ -25649,6 +25655,9 @@
 400 North21st Street, Louisville, KY:
   lat: 38.263955
   lng: -85.783775
+400 North25th Street near Assumption High School, Louisville, KY:
+  lat: 38.26617
+  lng: -85.789902
 400 North25th Street, Louisville, KY:
   lat: 38.26617
   lng: -85.789902
@@ -42480,6 +42489,9 @@
   lng: -85.766155
 900 West Jets9 Dr, Louisville, KY: null
 900 West Jets9 Drive, near W.J. Hodge. Police units arrived and confirmed the location was ready, Louisville, KY: null
+? 900 West Manslake. The juvenile was taken into custody by police after being involved
+  in a domestic-related incident and was found, Louisville, KY
+: null
 900 West River, Louisville, KY:
   lat: 38.2587828
   lng: -85.7594135
@@ -42622,6 +42634,8 @@
   lat: 38.118865
   lng: -85.7953928
 9000 West Manfolk Road, Louisville, KY: null
+9000 West Manslake Road, Louisville, KY: null
+9000 West Manslake, Louisville, KY: null
 9000 West Manslick, Louisville, KY:
   lat: 38.118865
   lng: -85.7953928
