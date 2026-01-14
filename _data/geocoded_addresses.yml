@@ -20089,6 +20089,7 @@
   lng: -85.7799264
 300 Marengo Dr, Louisville, KY: null
 300 Market and Roy Wilkins, Louisville, KY: null
+300 Masonic Home Dr, Crest Street, Louisville, KY: null
 300 Masonic Home Dr, Louisville, KY:
   lat: 38.2557331
   lng: -85.6652257
@@ -31812,6 +31813,12 @@
 5300 Clearwater, Louisville, KY:
   lat: 38.155325
   lng: -85.663816
+5300 Crantree Pl, Louisville, KY:
+  lat: 38.1010205
+  lng: -85.6618715
+5300 Crantree Pl, near Charleswood Rd, Louisville, KY:
+  lat: 38.1010205
+  lng: -85.6618715
 5300 Crescent Highway, Louisville, KY: null
 5300 Devers Ave near Dean's in W Southland Blvd, Louisville, KY:
   lat: 38.171182
@@ -44985,6 +44992,7 @@ University Rd and Cleveland Blvd, Louisville, KY: null
 Utah Ave and Euclid Ave, Louisville, KY: null
 Utah Ave and Montana Ave, Louisville, KY: null
 Valley College Dr and Stone St, Louisville, KY: null
+Valley College Dr and Stonestreet Rd, Louisville, KY: null
 Valley Station Rd and Deering Rd, Louisville, KY: null
 Valley Station Rd and Grafton Hall Rd, Louisville, KY: null
 Vantage Plaza Dr and Goddard Road, Louisville, KY: null
