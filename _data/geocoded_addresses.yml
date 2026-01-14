@@ -13510,6 +13510,7 @@
   lng: -85.6981124
 200 South and New Cut Rd, Louisville, KY: null
 200 South and North, Louisville, KY: null
+200 South and42, Louisville, KY: null
 200 South at Bardstown Rd, Louisville, KY:
   lat: 38.1506308
   lng: -85.587592
@@ -17970,6 +17971,7 @@
 2600 River Green, Louisville, KY:
   lat: 38.2750549
   lng: -85.7073397
+2600 Rock-Block Circle, Louisville, KY: null
 2600 Rowan St, Louisville, KY:
   lat: 38.262019
   lng: -85.793577
@@ -35172,6 +35174,9 @@
   lat: 38.1454561
   lng: -85.870255
 6400 Westwind Way, Louisville, KY: null
+6400 Winter View Dr, Louisville, KY:
+  lat: 38.0748917
+  lng: -85.8737409
 6400 Wooded Way Ct, Louisville, KY: null
 6400 [unspecified], Louisville, KY:
   lat: 38.1580507
