@@ -847,6 +847,9 @@
 100 Highway at the Circle K near Sappenfield Way, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+100 Highway, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 100 Highwood Pl, Louisville, KY:
   lat: 38.2687913
   lng: -85.7028155
@@ -18685,6 +18688,9 @@
   lat: 38.2935383
   lng: -85.619328
 2800 Baganville Ct, Louisville, KY: null
+2800 Bardstown Rd near Assumption High School, Louisville, KY:
+  lat: 38.216824
+  lng: -85.676303
 2800 Big Inhale Lane, Louisville, KY: null
 2800 Blake and Baker Parkway, Louisville, KY: null
 2800 Blankenbaker Pky, Louisville, KY:
@@ -27013,6 +27019,7 @@
 4100 Orchard Way, Louisville, KY:
   lat: 38.2026177
   lng: -85.830621
+4100 Peabody and Carey, Louisville, KY: null
 4100 Phantom Creek Rd near Butte Bank, Louisville, KY: null
 4100 Phantom Creek Rd, Louisville, KY: null
 4100 Phantom Creek Rd,, Louisville, KY: null
@@ -42030,6 +42037,9 @@
 900 S Clay St, Louisville, KY:
   lat: 38.239502
   lng: -85.742564
+900 S Floyd St at the Friendship House, Louisville, KY:
+  lat: 38.2400376
+  lng: -85.7509994
 900 S Shelby St near East Kentucky and Caldwell, Louisville, KY:
   lat: 38.2398145
   lng: -85.7406323
@@ -42127,6 +42137,9 @@
 900 South 4th Street at the Friendship House, Louisville, KY:
   lat: 38.2402331
   lng: -85.7594042
+900 South 4th Street at the Powerhouse Building, Louisville, KY:
+  lat: 38.2415729
+  lng: -85.7595586
 900 South 4th Street at the Prince of Palace, near Baseball Alley and W Breckinridge St, Louisville, KY:
   lat: 38.2415729
   lng: -85.7595586
