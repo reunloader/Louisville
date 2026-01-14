@@ -3189,6 +3189,9 @@
 1000 W Market St near 11th and Chapel at the Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 W Market St near The Healing Place, Louisville, KY:
+  lat: 38.2560618
+  lng: -85.7671133
 1000 W Market St, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -6874,6 +6877,7 @@
 1300 Morgan Ave, Louisville, KY:
   lat: 38.1945658
   lng: -85.7241341
+1300 N S Peterson Ave south of Calvin in Lexington, Louisville, KY: null
 1300 N S Peterson Ave, Louisville, KY:
   lat: 38.2491801
   lng: -85.6970953
@@ -31644,6 +31648,7 @@
   was detected in a hallway. Fire units were dispatched, Louisville, KY
 : lat: 38.106142
   lng: -85.661911
+5300 Buckner Ave south of Marshall Walk and W Southland Blvd, Louisville, KY: null
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
   lng: -85.773438
