@@ -80111,4 +80111,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-01-14T16:04:00.553689'
+- timestamp: '2026-01-14T16:18:47.911260'
+  total_addresses: 19889
+  successful: 10189
+  failed: 9700
+  success_rate: 51.23
+  failure_rate: 48.77
+  failure_patterns:
+    Intersection format: 2008
+    Contains location qualifiers (near/at): 2576
+    Incomplete/vague address: 2560
+    Other/Unknown: 2024
+    Contains extra sentences/context: 518
+    Police phonetic codes: 14
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-14T16:18:47.911425'
