@@ -10119,6 +10119,9 @@
 1700 Dumesnil St near 17th and Dixie, Louisville, KY:
   lat: 38.235944
   lng: -85.783183
+1700 Duncan St, Louisville, KY:
+  lat: 38.261584
+  lng: -85.777749
 1700 E Main St, Louisville, KY:
   lat: 38.2534469
   lng: -85.7267533
@@ -10788,6 +10791,7 @@
   lng: -85.7928989
 1800 Algonquin's family house. EMS was requested, Louisville, KY: null
 1800 Algonquin's family house. Law enforcement was actively searching the outskirts, Louisville, KY: null
+1800 Appleton Ln behind a red Kia Forte, Louisville, KY: null
 1800 Arlington Ave, Louisville, KY:
   lat: 38.255242
   lng: -85.71663
@@ -23781,6 +23785,7 @@
   lat: 38.0937661
   lng: -85.695759
 3700 Sweetmore, Louisville, KY: null
+3700 Talesville, Louisville, KY: null
 3700 Taylor Blvd, Louisville, KY:
   lat: 38.1910205
   lng: -85.7836633
@@ -26586,6 +26591,7 @@
 4000 Woodruff Ave, Louisville, KY:
   lat: 38.1862227
   lng: -85.7855169
+4000 area around growth, Louisville, KY: null
 401 East Chestnut Street, Louisville, KY:
   lat: 38.2481221
   lng: -85.7468305
@@ -27588,6 +27594,7 @@
   lat: 38.2591747
   lng: -85.8219191
 4300 Limb View Drive, Louisville, KY: null
+4300 Linden Dr near Lindhue, Louisville, KY: null
 4300 Lindsey Dr, Louisville, KY: null
 4300 Lindview Draws, Louisville, KY: null
 4300 Lonsdale Ave, Louisville, KY:
@@ -41719,6 +41726,9 @@
   investigation and communication, responders were able, Louisville, KY
 : null
 900 S Brook St near Brickenridge and S Brook St, Louisville, KY:
+  lat: 38.241061
+  lng: -85.752613
+900 S Brook St near Caldwell and Breckenridge, Louisville, KY:
   lat: 38.241061
   lng: -85.752613
 900 S Brook St, Louisville, KY:
