@@ -2060,6 +2060,7 @@
 100, Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
+1000 (location unclear), Louisville, KY: null
 ? 1000 Amphitheater Rd) (around 6:35 a.m. a.m. a.m.):** Multiple units, including
   , responded to a structure fire near a homeless camp at the 1000 block of block
   of Amphitheater Rd. The fire was reported to be near a building and was suspected
@@ -28721,6 +28722,7 @@
 4500 South Second Street, Louisville, KY: null
 4500 South Side, Louisville, KY: null
 4500 South Third Street, Louisville, KY: null
+4500 South Thurston Parkway, Louisville, KY: null
 4500 South1st Street, Louisville, KY:
   lat: 38.18914
   lng: -85.761611
@@ -31471,6 +31473,7 @@
 5100 Patterson Dr, Louisville, KY:
   lat: 38.160132
   lng: -85.6760225
+5100 Perry Rd, Louisville, KY: null
 5100 Princewood Pl, Louisville, KY:
   lat: 38.163559
   lng: -85.818091
@@ -33940,6 +33943,9 @@
 600 Rubel Ave, Louisville, KY:
   lat: 38.2456192
   lng: -85.7311427
+600 S Floyd St at Norton, Louisville, KY:
+  lat: 38.247895
+  lng: -85.749356
 600 S Floyd St, Louisville, KY:
   lat: 38.247895
   lng: -85.749356
