@@ -3635,6 +3635,9 @@
 10300 Worthington Ln, Louisville, KY:
   lat: 38.3283466
   lng: -85.5584125
+1032 South 1st Street, Louisville, KY:
+  lat: 38.2378653
+  lng: -85.7548598
 1035 South Crescent Street, Louisville, KY: null
 10400 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1427052
@@ -12429,6 +12432,7 @@
   and hit a gas meter. This incident caused a noticeable gas leak, prompting units
   from Battalion 3 and police, Louisville, KY
 : null
+200 East Broadway and 100 block of Adam, Louisville, KY: null
 200 East Broadway at a church, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -37344,6 +37348,9 @@
 700 South 11th Street, Louisville, KY:
   lat: 38.247204
   lng: -85.770042
+700 South 13th Street, Louisville, KY:
+  lat: 38.246447
+  lng: -85.7736
 700 South 15th Street, Louisville, KY:
   lat: 38.248142
   lng: -85.776675
