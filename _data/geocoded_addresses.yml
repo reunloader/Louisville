@@ -491,6 +491,9 @@
   lat: 38.1686412
   lng: -85.5627268
 100 Charter Oak Strives, Louisville, KY: null
+100 Chestnut, Louisville, KY:
+  lat: 38.248336
+  lng: -85.753087
 100 Chickering, Louisville, KY:
   lat: 38.2953613
   lng: -85.6220664
@@ -21770,6 +21773,7 @@
 3200 Elaine Dr, Louisville, KY:
   lat: 38.1223783
   lng: -85.6844039
+3200 Elaine Giraffe, Louisville, KY: null
 3200 Ellis Way [Morning], Louisville, KY: null
 ? 3200 Ellis Way following a report of a known injury. The incident involved an unknown
   vehicle. Medical personnel are on scene to provide care. The circumstances leading
@@ -22360,6 +22364,7 @@
 3300 Van Winkle Dr, Louisville, KY:
   lat: 38.202009
   lng: -85.833941
+3300 Varsan Road to address the disturbance and a BOLO was issued, Louisville, KY: null
 ? 3300 Vector Avenue following a report of a traffic accident. The incident was classified
   as non-injury, and police units responded to manage the scene., Louisville, KY
 : null
@@ -35937,6 +35942,9 @@
   lng: -85.600459
 6700 Deep Creek Drought, Louisville, KY: null
 6700 Dixie Hwy (Starbucks), Louisville, KY: null
+6700 Dixie Hwy, Louisville, KY:
+  lat: 38.153284
+  lng: -85.835929
 6700 Elm Cross Circle, Louisville, KY: null
 6700 Elmcroft Cir, Louisville, KY:
   lat: 38.3158928
@@ -36307,6 +36315,9 @@
   lat: 38.1795803
   lng: -85.7913019
 6900 Bradley Square Road, Louisville, KY: null
+6900 Brook Bend Way, Louisville, KY:
+  lat: 38.098038
+  lng: -85.647635
 6900 Brooklawn Dr, Louisville, KY:
   lat: 38.1538637
   lng: -85.8195569
