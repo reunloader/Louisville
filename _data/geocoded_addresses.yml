@@ -804,6 +804,7 @@
 100 Gilmore. The specific reason, Louisville, KY:
   lat: 38.1789198
   lng: -85.7056127
+100 Glen Drop, Louisville, KY: null
 100 Goddard Ave, Louisville, KY:
   lat: 38.2324719
   lng: -85.7214607
@@ -32070,6 +32071,9 @@
 5400 River Creek Ct, Louisville, KY:
   lat: 38.3291986
   lng: -85.6389379
+5400 Ronwood Dr, Louisville, KY:
+  lat: 38.143259
+  lng: -85.6606865
 5400 Rustic Way, Louisville, KY:
   lat: 38.172553
   lng: -85.671236
@@ -38790,6 +38794,9 @@
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
   lng: -85.6197042
+7600 Pintail Dr, Louisville, KY:
+  lat: 38.146316
+  lng: -85.889677
 7600 Port Rd, Louisville, KY:
   lat: 38.1631998
   lng: -85.8943245
