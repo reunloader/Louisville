@@ -6526,6 +6526,9 @@
 13 Yorkshire Blvd, Louisville, KY:
   lat: 38.2235258
   lng: -85.6301604
+1300 7th Street, Louisville, KY:
+  lat: 38.233221
+  lng: -85.765939
 1300 Algonquin in response to a reported disturbance., Louisville, KY: null
 1300 Algonquin in response, Louisville, KY: null
 1300 Algonquin, Louisville, KY:
@@ -34284,6 +34287,9 @@
 6000 Eastlawn Ave, Louisville, KY:
   lat: 38.2508906
   lng: -85.8053504
+6000 Eastwood Fisherville Rd. The circumstances leading, Louisville, KY:
+  lat: 38.190172
+  lng: -85.4542078
 6000 Eigelbach Ave, Louisville, KY: null
 6000 Fern Creek Rd, Louisville, KY:
   lat: 38.158292
@@ -40786,6 +40792,9 @@
 8600 National Turnpike, Louisville, KY:
   lat: 38.1253139
   lng: -85.7528932
+8600 Preston, Louisville, KY:
+  lat: 38.1280876
+  lng: -85.6815854
 8600 River Terrace Dr, Louisville, KY:
   lat: 38.1521349
   lng: -85.8671784
@@ -43894,6 +43903,7 @@ Foxboro Dr and Sterling Springs Rd, Louisville, KY: null
 Frankfort Ave and Fairlawn Rd, Louisville, KY: null
 Frankfort Ave and Hillcrest Ave, Louisville, KY: null
 Frankfort Ave and Holbergen Avenue, Louisville, KY: null
+Frankfort Ave and Lexington Rd, Louisville, KY: null
 Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frankfort Ave and Prestwood Dr, Louisville, KY: null
 Frankfort Ave and Stevenson Ave, Louisville, KY: null
@@ -44489,6 +44499,7 @@ Shelbyville Rd and North First Spring Parkway, Louisville, KY: null
 Shelbyville Rd and North Hersborn Parkway, Louisville, KY: null
 Shelbyville Rd and North Hurstborne Parkway, Louisville, KY: null
 Shelbyville Rd and Oxmoor Ln, Louisville, KY: null
+Shelbyville Rd and South English St, Louisville, KY: null
 Shelbyville Rd and South Linden Lane, Louisville, KY: null
 Shelbyville Rd and Valhalla View Dr, Louisville, KY: null
 Shelbyville Rd and Westport Rd, Louisville, KY: null
