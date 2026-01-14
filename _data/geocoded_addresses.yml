@@ -6351,6 +6351,7 @@
   lat: 38.2345255
   lng: -85.7567626
 12400 Crosswinds Dr, Louisville, KY: null
+12400 Flock Rd, Louisville, KY: null
 12400 Glengrove Cir, Louisville, KY: null
 12400 Hedgeapple Way, Louisville, KY:
   lat: 38.0990467
@@ -6466,6 +6467,9 @@
 12700 East Oro, Louisville, KY: null
 12700 Glengate Pl, Louisville, KY: null
 12800 Charles Farm Cir, Louisville, KY: null
+12800 Dixie Hwy, Louisville, KY:
+  lat: 38.0702006
+  lng: -85.8849791
 12800 Lower River Rd, Louisville, KY:
   lat: 38.0679453
   lng: -85.9054493
