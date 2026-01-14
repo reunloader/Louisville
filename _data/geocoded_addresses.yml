@@ -15097,6 +15097,7 @@
 2000 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+2000 St Rene Rd in front of Thorntons, Louisville, KY: null
 2000 St Rene Rd near Thorntons, Louisville, KY:
   lat: 38.1025361
   lng: -85.8694659
@@ -19420,6 +19421,7 @@
   lng: -85.7686938
 2900 South District Number Fivember Five One Six, Louisville, KY: null
 2900 South Firstborn Parkway, Louisville, KY: null
+2900 South Public Road, Louisville, KY: null
 2900 South St, Foundation Army Center, Louisville, KY: null
 2900 South Third Street, Louisville, KY: null
 2900 South6th Street, Louisville, KY:
@@ -20912,6 +20914,9 @@
 : null
 3000 Kersel Road. Responding units arrived, Louisville, KY: null
 3000 Kindred Court, Louisville, KY: null
+3000 Layne Rd, Louisville, KY:
+  lat: 38.1419815
+  lng: -85.661764
 3000 Lilly Ave, Crop St, South 32nd and South 28th, Louisville, KY: null
 3000 Magazine St, Louisville, KY:
   lat: 38.2520839
@@ -32702,6 +32707,9 @@
   as a result of this incident. Police units responded, Louisville, KY
 : null
 5600 New Cap Rd, Louisville, KY: null
+5600 New Cut Rd near Silver and Eastbound Road, Louisville, KY:
+  lat: 38.142499
+  lng: -85.774598
 5600 New Cut Rd, Louisville, KY:
   lat: 38.142499
   lng: -85.774598
@@ -40105,6 +40113,9 @@
 800 South36th Street, Louisville, KY:
   lat: 38.2479228
   lng: -85.8111376
+800 South37th Street, Louisville, KY:
+  lat: 38.248007
+  lng: -85.8130872
 800 South3A3 and 800 block of South3H, Louisville, KY: null
 800 South42nd Street, Louisville, KY:
   lat: 38.2483151
