@@ -80079,4 +80079,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 2
   batch_new_successes: 1
-last_updated: '2026-01-14T15:20:51.205482'
+- timestamp: '2026-01-14T15:52:28.709149'
+  total_addresses: 19887
+  successful: 10189
+  failed: 9698
+  success_rate: 51.23
+  failure_rate: 48.77
+  failure_patterns:
+    Intersection format: 2008
+    Contains location qualifiers (near/at): 2576
+    Incomplete/vague address: 2558
+    Other/Unknown: 2024
+    Contains extra sentences/context: 518
+    Police phonetic codes: 14
+  batch_success_rate: 0.0
+  batch_new_addresses: 2
+  batch_new_successes: 0
+last_updated: '2026-01-14T15:52:28.709289'
