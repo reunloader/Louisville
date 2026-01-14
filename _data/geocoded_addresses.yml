@@ -3347,6 +3347,7 @@
 : null
 1000 an unspecified street, Louisville, KY: null
 1000 and 10100 block of Grand Ave, Louisville, KY: null
+1000 back lane, Louisville, KY: null
 1000 building, Louisville, KY: null
 1000 hospital location, Louisville, KY: null
 ? 1000 incident. An officer from the First Division was involved in the stop. The
@@ -36645,6 +36646,9 @@
   lat: 38.244448
   lng: -85.7414498
 700 Brook Park and Drive, Louisville, KY: null
+700 Brookridge Village Blvd. The parties were separating, and officers were advised, Louisville, KY:
+  lat: 38.1452844
+  lng: -85.5844796
 700 Caldwell St near Clay and Shelby, Louisville, KY:
   lat: 38.238567
   lng: -85.742462
@@ -41083,6 +41087,9 @@
 8600 National Turnpike, Louisville, KY:
   lat: 38.1253139
   lng: -85.7528932
+8600 Preston Hwy, Louisville, KY:
+  lat: 38.1280876
+  lng: -85.6815854
 8600 Preston, Louisville, KY:
   lat: 38.1280876
   lng: -85.6815854
