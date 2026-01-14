@@ -80319,4 +80319,20 @@ history:
   batch_success_rate: 80.0
   batch_new_addresses: 5
   batch_new_successes: 4
-last_updated: '2026-01-14T19:59:44.683237'
+- timestamp: '2026-01-14T20:09:59.933599'
+  total_addresses: 19930
+  successful: 10214
+  failed: 9716
+  success_rate: 51.25
+  failure_rate: 48.75
+  failure_patterns:
+    Intersection format: 2013
+    Contains location qualifiers (near/at): 2578
+    Incomplete/vague address: 2564
+    Other/Unknown: 2029
+    Contains extra sentences/context: 518
+    Police phonetic codes: 14
+  batch_success_rate: 50.0
+  batch_new_addresses: 2
+  batch_new_successes: 1
+last_updated: '2026-01-14T20:09:59.933756'
