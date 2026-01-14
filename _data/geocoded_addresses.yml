@@ -758,6 +758,9 @@
 100 Fatima Ln near Walmart, Louisville, KY:
   lat: 38.3001886
   lng: -85.5457019
+100 Fay Ave, Louisville, KY:
+  lat: 38.1632913
+  lng: -85.7758384
 100 Fenley Ave, Louisville, KY:
   lat: 38.2546069
   lng: -85.6711865
@@ -6005,6 +6008,9 @@
 1200 South Crestle Street, Louisville, KY: null
 1200 South Creston, Louisville, KY: null
 1200 South Ferry Street, Hillbring House, Louisville, KY: null
+1200 South First Street and near Thornton's, Louisville, KY:
+  lat: 38.259782
+  lng: -85.7070119
 1200 South Firstree, Louisville, KY: null
 1200 South Fork Street, Louisville, KY: null
 1200 South Forth Street, Louisville, KY: null
@@ -8018,6 +8024,10 @@
 1400 Rutland Club Ct. Responding units were sent, Louisville, KY:
   lat: 38.2596662
   lng: -85.4506474
+1400 S Brook St and surrounding areas, Louisville, KY: null
+1400 S Brook St, Louisville, KY:
+  lat: 38.2283757
+  lng: -85.7550599
 1400 S Floyd St, Louisville, KY:
   lat: 38.228157
   lng: -85.7529726
@@ -23188,6 +23198,7 @@
 3600 Georgetown Pl, Louisville, KY:
   lat: 38.1944947
   lng: -85.7937446
+3600 Glenview Ave and Thornton's, Louisville, KY: null
 3600 Glenview Ave, Louisville, KY:
   lat: 38.2984672
   lng: -85.6443492
