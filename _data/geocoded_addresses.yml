@@ -4064,6 +4064,7 @@
 11 Sherry Rd, Louisville, KY:
   lat: 38.2098403
   lng: -85.7479622
+11 Southbrook Street, Louisville, KY: null
 11 Stout Rd, Louisville, KY:
   lat: 38.1191207
   lng: -85.5360224
@@ -11374,6 +11375,7 @@
 1800 Standard Ave, Louisville, KY:
   lat: 38.230905
   lng: -85.789583
+1800 Standard Ave, number 25, Louisville, KY: null
 1800 Standards, Louisville, KY: null
 1800 Stone Gate Rd, Louisville, KY: null
 1800 Story Ave, Louisville, KY:
@@ -14046,6 +14048,9 @@
 : lat: 38.2000005
   lng: -85.7636078
 200 West at Taylor'sville Road, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
+200 West at Taylorsville, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
 200 West at Virginia Ave, Louisville, KY: null
@@ -30226,6 +30231,9 @@
 : lat: 38.1686412
   lng: -85.5627268
 500 Cherokee Club Road, Louisville, KY: null
+500 Civic Way, Louisville, KY:
+  lat: 38.3212294
+  lng: -85.5643437
 500 Clark St, Louisville, KY:
   lat: 38.1958555
   lng: -85.7118088
@@ -35334,6 +35342,9 @@
 : lat: 38.0796483
   lng: -85.8768468
 6300 Sydney-René Way, Louisville, KY: null
+6300 Triplett Dr, Louisville, KY:
+  lat: 38.1631696
+  lng: -85.8639
 6300 lower Hunter's Trace, Louisville, KY: null
 631 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
