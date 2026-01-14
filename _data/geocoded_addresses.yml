@@ -4748,6 +4748,7 @@
   lat: 38.0802233
   lng: -85.7962565
 1100 Travillion Way, Louisville, KY: null
+1100 Trevelyan Way near the zoo, Louisville, KY: null
 1100 Ulrich Ave, Louisville, KY:
   lat: 38.1578742
   lng: -85.7037451
@@ -15758,6 +15759,9 @@
 2100 West Chestnut, Louisville, KY:
   lat: 38.2518042
   lng: -85.786227
+2100 West Madison, Louisville, KY:
+  lat: 38.253087
+  lng: -85.78599
 2100 West Market, Louisville, KY:
   lat: 38.258287
   lng: -85.785077
@@ -20127,6 +20131,9 @@
 300 North 20th Street, Louisville, KY:
   lat: 38.262339
   lng: -85.782615
+300 North 21st Street, Louisville, KY:
+  lat: 38.262464
+  lng: -85.783761
 300 North 22nd Street, Louisville, KY:
   lat: 38.262708
   lng: -85.785939
@@ -31872,6 +31879,7 @@
 5300 John John, Louisville, KY:
   lat: 38.1590827
   lng: -85.8021987
+5300 Kangaroo Road, Louisville, KY: null
 5300 Layne Rd. Responding units arrived, Louisville, KY:
   lat: 38.142111
   lng: -85.6624541
@@ -36652,6 +36660,9 @@
 700 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
+700 Chelsea Gardens Cir, Louisville, KY:
+  lat: 38.1590824
+  lng: -85.6193102
 ? 700 Chestnut View Ct to a secure location. Authorities indicated that Child Protective
   Services would be notified to address the circumstances further., Louisville, KY
 : null
@@ -36788,6 +36799,7 @@
 700 East Alley, Louisville, KY:
   lat: 38.2456348
   lng: -85.7444872
+700 East Alley, St, Louisville, KY: null
 700 East Broadway near Shelby and Clay, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
