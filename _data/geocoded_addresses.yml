@@ -2455,6 +2455,7 @@
 1000 Everett Ave, Louisville, KY:
   lat: 38.2415432
   lng: -85.7216499
+1000 Everett Ave, number 17, Highland Ave, Louisville, KY: null
 1000 Fenley Ave, Louisville, KY:
   lat: 38.2564292
   lng: -85.6723688
@@ -43644,6 +43645,9 @@
 9800 Vucre Drive, Louisville, KY: null
 9800 Vukra Drive, Louisville, KY: null
 9800 Westport Rd at Walkins United Methodist Church, Louisville, KY: null
+9800 Westport Rd, Louisville, KY:
+  lat: 38.2874561
+  lng: -85.5696908
 9800 Williamsborough Ln, Louisville, KY:
   lat: 38.156523
   lng: -85.5878417
@@ -43959,6 +43963,7 @@ Branning Rd and Woodmont Dr, Louisville, KY: null
 Breakerage Lane and Willis Ave, Louisville, KY: null
 Breckenridge Ln and Bardstown Rd, Louisville, KY: null
 Breckenridge Ln and Bartlett Rd, Louisville, KY: null
+Breckenridge Ln and Hikes Ln, Louisville, KY: null
 Breckenridge Ln and Landside Dr, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
 Breckinridge St and Belvar Ave, Louisville, KY: null
