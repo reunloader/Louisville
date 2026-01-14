@@ -15511,6 +15511,9 @@
 2100 Payne St at Sacred Heart Village, number 105, in response, Louisville, KY:
   lat: 38.252398
   lng: -85.707627
+2100 Payne St near Nazarene home, Louisville, KY:
+  lat: 38.252398
+  lng: -85.707627
 2100 Payne St near Sacred Heart Village, Louisville, KY:
   lat: 38.252398
   lng: -85.707627
@@ -28338,6 +28341,7 @@
   KY
 : lat: 38.2088999
   lng: -85.8457995
+4500 Cane Run Rd but was found, Louisville, KY: null
 4500 Cane Run Rd near Margee Dr and Coventry Commons Dr, Louisville, KY:
   lat: 38.195192
   lng: -85.842962
