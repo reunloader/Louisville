@@ -9584,6 +9584,7 @@
   lat: 38.2384839
   lng: -85.7808333
 1600 Gardiner Ln and 1600 block of Marne Ct, Louisville, KY: null
+1600 Gardiner Ln, Crop St, Halma Dr, and Sunny Ln, Louisville, KY: null
 1600 Gardiner Ln, Louisville, KY:
   lat: 38.2028947
   lng: -85.6896407
@@ -9698,6 +9699,7 @@
   vehicles at the residence had not moved, prompting the concern., Louisville, KY
 : null
 1600 North South Service, Louisville, KY: null
+1600 Olive St, Crop St West Galvert Avenue, Louisville, KY: null
 1600 Outback parking lot, Louisville, KY: null
 1600 Pal Rd, near Wells Dr and Final Ct. Fire services were initially requested, Louisville, KY:
   lat: 38.2372979
@@ -10220,6 +10222,7 @@
 1700 Gallagher St near Salem Ave and South17, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
+1700 Gallagher St, Cross Street Salem Avenue and South 17, Louisville, KY: null
 1700 Gallagher St, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
@@ -15727,6 +15730,7 @@
 2100 Tyler Ln, Louisville, KY:
   lat: 38.2158234
   lng: -85.6804258
+2100 Tyler Ln, in front of Assumption High School, Louisville, KY: null
 2100 Unity Pl, Louisville, KY:
   lat: 38.2178409
   lng: -85.7622826
@@ -42226,6 +42230,9 @@
 900 South 8th Street, Louisville, KY:
   lat: 38.2426819
   lng: -85.7662626
+900 South 9th Street, Louisville, KY:
+  lat: 38.242869
+  lng: -85.767561
 900 South Bore Street near The Friendship House, Louisville, KY:
   lat: 38.2402331
   lng: -85.7594042
