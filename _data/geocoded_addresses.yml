@@ -6111,6 +6111,9 @@
 1200 Story Ave near Bickel and Cable, Louisville, KY:
   lat: 38.2551819
   lng: -85.7280531
+1200 Story Ave near JV Swift and Company, Louisville, KY:
+  lat: 38.2551819
+  lng: -85.7280531
 ? '1200 Story Ave)** (around 6:55 p.m. a.m. p.m.): A commercial alarm was triggered
   at the 1200 block of block of Story Ave, specifically a 4A fire alarm indicating
   water flow in warehouse 2. Tower 2 responded to the scene to investigate the cause
@@ -6664,6 +6667,9 @@
 1300 Central Ave, Louisville, KY:
   lat: 38.2096295
   lng: -85.7791015
+1300 Challis Cir, Louisville, KY:
+  lat: 38.236413
+  lng: -85.8166317
 1300 Cherokee Rd, Louisville, KY:
   lat: 38.2359273
   lng: -85.7142243
@@ -11945,6 +11951,9 @@
 2 Durham Ridge Rd, Louisville, KY:
   lat: 38.1854546
   lng: -85.5184033
+2 Fenley Ave, Louisville, KY:
+  lat: 38.2564292
+  lng: -85.6723688
 2 Marshall St, Louisville, KY:
   lat: 38.2494928
   lng: -85.7360375
@@ -22502,6 +22511,7 @@
 3400 Hale Ave, Louisville, KY:
   lat: 38.24025
   lng: -85.810196
+3400 Harvard Forest Drive near Secretariat Dr and Rush Ct, Louisville, KY: null
 3400 Herman St, Louisville, KY:
   lat: 38.258866
   lng: -85.80747
@@ -27105,6 +27115,9 @@
 4100 Tatum Ln, Louisville, KY:
   lat: 38.1725368
   lng: -85.8664289
+4100 Taylor Blvd near Dairy Queen, Louisville, KY:
+  lat: 38.1827265
+  lng: -85.7842243
 4100 Taylor Blvd, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
@@ -44291,6 +44304,7 @@ Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hill Peak Rd and Routt Rd, Louisville, KY: null
 Hill Rd and Bardstown Rd, Louisville, KY: null
 Hill Rd and Grandview Dr, Louisville, KY: null
+Hillcrest Ave and Zorn Ave, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
