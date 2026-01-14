@@ -8191,11 +8191,15 @@
 : null
 1400 South Second Street. The specific unit involved was number two. Officers were present, Louisville, KY: null
 1400 South Second, Louisville, KY: null
+1400 South Temp Street near West Hill and West Burnett, Louisville, KY: null
 1400 South Temp Street, near West Hill and West Burnett, Louisville, KY: null
 1400 South Third St, Louisville, KY: null
 1400 South, Louisville, KY:
   lat: 38.2289347
   lng: -85.760211
+1400 South10th Street near train tracks, Louisville, KY:
+  lat: 38.229364
+  lng: -85.771544
 1400 South1st Street, Louisville, KY:
   lat: 38.228491
   lng: -85.7567193
@@ -14546,6 +14550,7 @@
 2000 Bashford Manor Ln, Louisville, KY:
   lat: 38.2037632
   lng: -85.6628081
+2000 Bear Path, Louisville, KY: null
 2000 Bellarmine Blvd, Louisville, KY:
   lat: 38.2188313
   lng: -85.7034735
@@ -24443,6 +24448,7 @@
 3900 Shelbyville Rd, near Roof Bar, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
+3900 Shepard's Run, Jeffersonville, Indiana, Louisville, KY: null
 3900 Shepherdsville Rd and 4100 block of Parchetown Rd, Louisville, KY: null
 3900 Sherbrooke's Hill Rd, Louisville, KY: null
 3900 South 1st Street, Louisville, KY:
@@ -25052,6 +25058,9 @@
   lng: -85.74737
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway near South Jackson and South Preston, Louisville, KY:
+  lat: 38.2449978
+  lng: -85.7474066
+400 East Broadway near South Track, Louisville, KY:
   lat: 38.2449978
   lng: -85.7474066
 400 East Broadway, Louisville, KY:
@@ -30462,6 +30471,9 @@
   lng: -85.814821
 500 Nottingham Pky, Louisville, KY: null
 500 Old Cannon's Lane, Louisville, KY: null
+500 Old Dixie Hwy, Louisville, KY:
+  lat: 38.0762726
+  lng: -85.8819062
 500 Old Harrods Creek Rd regarding a subject who was knocking on a door. The individual claimed, Louisville, KY: null
 500 Old Harrods Creek Rd, Louisville, KY:
   lat: 38.251992
@@ -41386,6 +41398,7 @@
   lat: 38.2060075
   lng: -85.7144322
 900 Boone St, suspected, Louisville, KY: null
+900 Bowling, Louisville, KY: null
 900 Boynton Baker Parkway, Louisville, KY: null
 900 Boynton Baker Parkway. The call was, Louisville, KY: null
 900 Breckenridge Ln, Louisville, KY:
