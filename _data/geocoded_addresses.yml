@@ -253,6 +253,9 @@
   lng: -85.7536001
 100 5th Street. Units were on scene, Louisville, KY: null
 100 7th Street and Lee Ave, Louisville, KY: null
+100 Acre at St, Louisville, KY:
+  lat: 38.2970412
+  lng: -85.50779
 100 Acres, Louisville, KY:
   lat: 38.183402
   lng: -85.627892
@@ -329,6 +332,7 @@
   lng: -85.7716218
 100 Baker, close, Louisville, KY: null
 100 Baker, were dispatched, Louisville, KY: null
+100 Baker-Sulisane, Louisville, KY: null
 100 Baker. Further details, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -18319,6 +18323,9 @@
 2700 Duncan St, Louisville, KY:
   lat: 38.2635194
   lng: -85.795078
+2700 East Alley at St, Louisville, KY:
+  lat: 38.2456348
+  lng: -85.7444872
 2700 Field Ave, Louisville, KY:
   lat: 38.25696
   lng: -85.694417
@@ -22397,6 +22404,7 @@
   lng: -85.623711
 3400 Brecker and Mitchell Ln, Louisville, KY: null
 3400 Burrell Dr, Louisville, KY: null
+3400 Camp Ground Rd, River Meadows, Louisville, KY: null
 3400 Cathay-Dykstra Way, Louisville, KY: null
 3400 Cathe Dykstra Way, Liverpool Ln, Taylor Blvd, and South Watterson Trail, Louisville, KY: null
 3400 Cathe Dykstra Way, Louisville, KY:
@@ -29478,6 +29486,7 @@
 4800 New Cut Rd, Louisville, KY:
   lat: 38.169681
   lng: -85.781311
+4800 Newcomb Road northbound lanes, Louisville, KY: null
 4800 No, Louisville, KY: null
 4800 Norton Healthcare Blvd, Louisville, KY:
   lat: 38.312493
@@ -44079,6 +44088,7 @@ Eastern Parkway and Bradley Ave, Louisville, KY:
   lat: 38.2126547
   lng: -85.7470694
 Eastern Parkway and Cranston Dr, Louisville, KY: null
+Eastern Parkway and Fernwood Ave, Louisville, KY: null
 Eastern Parkway and Ireland Dr, Louisville, KY: null
 Eastern Parkway and Poplar Level Rd, Louisville, KY:
   lat: 38.2238063
