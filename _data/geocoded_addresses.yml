@@ -22821,6 +22821,7 @@
 341 Bardstown Rd, Louisville, KY:
   lat: 38.1291902
   lng: -85.5765828
+35 Glenwood Rd, Louisville, KY: null
 35 Hill Rd, Louisville, KY:
   lat: 38.2298162
   lng: -85.7173581
@@ -36222,6 +36223,9 @@
 6800 Holly Lake Dr, Louisville, KY:
   lat: 38.148553
   lng: -85.583379
+6800 Homestead, Louisville, KY:
+  lat: 38.15641
+  lng: -85.7668094
 6800 John Paul Ln, Louisville, KY:
   lat: 38.1171985
   lng: -85.6397107
