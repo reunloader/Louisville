@@ -1022,6 +1022,9 @@
 100 N S Longworth Ave, Louisville, KY:
   lat: 38.2656295
   lng: -85.8239365
+100 N S Peterson Ave, Louisville, KY:
+  lat: 38.2491801
+  lng: -85.6970953
 100 Nat and 1900 block of Roland St, Louisville, KY: null
 100 Nat, Louisville, KY:
   lat: 38.2015813
@@ -13634,6 +13637,9 @@
 200 Southern Pky, Louisville, KY:
   lat: 38.1748115
   lng: -85.7745087
+200 Southside Dr. Officers attempted, Louisville, KY:
+  lat: 38.1536611
+  lng: -85.7652516
 200 Southwestern Pky, Louisville, KY:
   lat: 38.2477827
   lng: -85.829606
@@ -29355,6 +29361,7 @@
 4800 New Cut Rd, Louisville, KY:
   lat: 38.169681
   lng: -85.781311
+4800 No, Louisville, KY: null
 4800 Norton Healthcare Blvd, Louisville, KY:
   lat: 38.312493
   lng: -85.572565
@@ -31995,6 +32002,9 @@
 5400 Marlborough Court near Lilly Ln, Louisville, KY: null
 5400 McBean, Louisville, KY: null
 5400 Minier Drive, Louisville, KY: null
+5400 Mitchell, Louisville, KY:
+  lat: 38.1212621
+  lng: -85.8189764
 5400 Nadina Dr, Louisville, KY:
   lat: 38.2179873
   lng: -85.6527759
@@ -36366,6 +36376,9 @@
 700 Baker and 700 block of Charlie, Louisville, KY: null
 700 Baker and Fort Charlie, Louisville, KY: null
 700 Baker in response to a call, Louisville, KY: null
+700 Baker near Providence and Sanctuary Ln, Louisville, KY:
+  lat: 38.240435
+  lng: -85.740403
 ? 700 Baker responded to the scene. After an assessment, the individual was reported
   to be alert and conscious., Louisville, KY
 : null
