@@ -13577,6 +13577,7 @@
 200 South 4th Street near Kentucky International Convention Center, Louisville, KY:
   lat: 38.255117
   lng: -85.756908
+200 South 4th Street, UofL Community Park Dorm, Louisville, KY: null
 200 South 71, Louisville, KY: null
 200 South 7th Street, Louisville, KY:
   lat: 38.2554063
@@ -13872,6 +13873,9 @@
   lat: 38.2322753
   lng: -85.7575987
 200 W Southland Blvd near South 3rd Street, Louisville, KY:
+  lat: 38.171058
+  lng: -85.764873
+200 W Southland Blvd, Louisville, KY:
   lat: 38.171058
   lng: -85.764873
 200 W Tenny Ave toward Berkeley, Louisville, KY: null
