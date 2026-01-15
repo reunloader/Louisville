@@ -13862,6 +13862,9 @@
 200 Stone St near I-200, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
+200 Stone St, Louisville, KY:
+  lat: 38.2126649
+  lng: -85.7298221
 200 Support, Louisville, KY: null
 200 Sycamore Ave, Louisville, KY:
   lat: 38.2558311
@@ -41882,6 +41885,7 @@
   lat: 38.1734046
   lng: -85.7156582
 9 Rangewinds Drive, Louisville, KY: null
+9 St Rene Rd, Louisville, KY: null
 9 Utah Ave, Louisville, KY:
   lat: 38.2101398
   lng: -85.777659
