@@ -2477,6 +2477,9 @@
 1000 Franklin St, Louisville, KY:
   lat: 38.255854
   lng: -85.733264
+1000 Garland Ave, Louisville, KY:
+  lat: 38.2472111
+  lng: -85.8243903
 1000 Glen Meadow Rd near Glen Stone Rd and Spring Gate Drop, Louisville, KY:
   lat: 38.3108786
   lng: -85.5646017
@@ -40570,6 +40573,7 @@
 8000 Broad Run Rd, Louisville, KY:
   lat: 38.1292034
   lng: -85.5437009
+8000 Broadfern Draft, Louisville, KY: null
 8000 Browns Road near Circle K, Louisville, KY:
   lat: 38.1920654
   lng: -85.7643027
