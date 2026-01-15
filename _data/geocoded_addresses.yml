@@ -108,6 +108,9 @@
 02 Linwood Ave, Louisville, KY:
   lat: 38.222561
   lng: -85.8086927
+02 Trout Creek Dr, Louisville, KY:
+  lat: 38.2050839
+  lng: -85.6795771
 03 Arlington Ave, Louisville, KY:
   lat: 38.2545625
   lng: -85.7142596
@@ -17055,6 +17058,9 @@
 2300 West End, Louisville, KY: null
 2300 West Galbert Street, Louisville, KY: null
 2300 West Galvert Avenue near 25th and 23rd Streets, Louisville, KY: null
+2300 West Galvert near Taco Bell, Louisville, KY:
+  lat: 38.2121586
+  lng: -85.7204802
 2300 West Gobert Avenue, Louisville, KY: null
 2300 West Jefferson, Louisville, KY:
   lat: 38.2574167
@@ -40351,6 +40357,7 @@
 800 Overdale Dr, Louisville, KY: null
 800 Oxford Avenue, Louisville, KY: null
 800 Paper Birch Way and Hickory, Louisville, KY: null
+800 Peabrow Draft near Peabowsboro Court in South Chadwick, Louisville, KY: null
 800 Pendleton, Louisville, KY:
   lat: 38.0505428
   lng: -85.8665908
