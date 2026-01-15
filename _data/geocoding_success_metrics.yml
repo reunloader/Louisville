@@ -81759,4 +81759,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 4
   batch_new_successes: 2
-last_updated: '2026-01-15T21:25:27.509226'
+- timestamp: '2026-01-15T21:34:50.992507'
+  total_addresses: 20175
+  successful: 10333
+  failed: 9842
+  success_rate: 51.22
+  failure_rate: 48.78
+  failure_patterns:
+    Intersection format: 2050
+    Contains location qualifiers (near/at): 2589
+    Incomplete/vague address: 2610
+    Other/Unknown: 2058
+    Contains extra sentences/context: 521
+    Police phonetic codes: 14
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-15T21:34:50.992666'
