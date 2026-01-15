@@ -1971,6 +1971,9 @@
   lat: 38.2397699
   lng: -85.7540073
 100 [Street Name] and 100 block of [Street Name], Louisville, KY: null
+100 [location unspecified], Louisville, KY:
+  lat: 38.2397699
+  lng: -85.7540073
 ? 100 an exit. The vehicle, identified as a silver SUV, was observed making dangerous
   maneuvers, swerving across all lanes of traffic. Police units were alerted, Louisville,
   KY
@@ -14127,6 +14130,9 @@
 200 West near Kentucky Drive, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West near Millwood, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near River Park Dr, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -14212,6 +14218,9 @@
 200 West. A Mustang reportedly struck a barrier, resulting in injuries, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West. Authorities are alerting the public to be on the lookout, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West. Details, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
