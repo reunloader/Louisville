@@ -12943,6 +12943,9 @@
 200 Fawnridge Pl, Louisville, KY:
   lat: 38.1135712
   lng: -85.6550344
+200 Fern Valley at Gate1, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
 200 Fitzgerald Rd at Buckner Ave, Louisville, KY: null
 200 Fort St, Louisville, KY:
   lat: 38.2161938
@@ -21678,6 +21681,7 @@
   wearing a hoodie and riding a bicycle, and was reportedly rummaging through a dumpster,
   causing a disturbance. Police units were dispatched, Louisville, KY
 : null
+3100 South Second, Louisville, KY: null
 3100 South Secretary's, Louisville, KY: null
 ? '3100 South Third Street. No known direction of travel, and units attempted contact
   with the subject, but he was no longer present. No 10-42 reported. - Fire alarm
@@ -23972,6 +23976,9 @@
   not breathing, but upon dispatch, it was confirmed the child was breathing. EMS
   responded, Louisville, KY
 : null
+3700 Mud Ln, Louisville, KY:
+  lat: 38.0886849
+  lng: -85.6954275
 3700 Nixon Road (4-Trip Bank), Louisville, KY: null
 3700 Ovo Drive, Louisville, KY: null
 3700 Pamela Bray, Louisville, KY: null
@@ -30111,6 +30118,7 @@
   lng: -85.7635837
 4900 South First Run Parkway, Louisville, KY: null
 4900 South First Street, Louisville, KY: null
+4900 South Hirsborne Parkway, Louisville, KY: null
 4900 South Second Street, Louisville, KY: null
 4900 Southside Dr, Louisville, KY:
   lat: 38.1764876
@@ -33196,6 +33204,12 @@
 5800 Farrington Dr, Louisville, KY:
   lat: 38.1693957
   lng: -85.832772
+5800 Fegenbush Ln near Mercy Academy, Louisville, KY:
+  lat: 38.1721101
+  lng: -85.6398503
+5800 Fegenbush Ln, Louisville, KY:
+  lat: 38.1721101
+  lng: -85.6398503
 5800 Fern Dr, Louisville, KY:
   lat: 38.2067202
   lng: -85.7306021
@@ -34540,6 +34554,9 @@
   lat: 38.2222961
   lng: -85.6595681
 600 Terminal Dr, Little International Airport, Louisville, KY: null
+600 Terrace Creek Dr, Louisville, KY:
+  lat: 38.2885067
+  lng: -85.5024049
 600 Tessin Way, Louisville, KY:
   lat: 38.251484
   lng: -85.5574282
