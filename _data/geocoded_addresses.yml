@@ -13874,6 +13874,8 @@
 200 Starlite Ct, Louisville, KY:
   lat: 38.2388753
   lng: -85.6662901
+200 Steedly Dr near Project Estelle Avenue and Southside Dr, Louisville, KY: null
+200 Steedly Dr, Louisville, KY: null
 200 Stone St near I-200, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
@@ -24829,6 +24831,9 @@
 3900 Sunstree Road, Louisville, KY: null
 3900 Swarted Drive, Louisville, KY: null
 3900 Taylor Blvd in front of the 5-star Food Mart, Louisville, KY: null
+3900 Taylor Blvd near the DP station, Louisville, KY:
+  lat: 38.1880343
+  lng: -85.7836579
 3900 Taylor Blvd, Crosser Vibe, Louisville, KY: null
 3900 Taylor Blvd, Louisville, KY:
   lat: 38.1880343
@@ -41466,6 +41471,9 @@
 8500 Standing Oak Dr, Louisville, KY:
   lat: 38.1323306
   lng: -85.8449967
+8500 Terry Rd near Manson West Pages, Louisville, KY:
+  lat: 38.1312507
+  lng: -85.874684
 8500 Terry Rd, Louisville, KY:
   lat: 38.1312507
   lng: -85.874684
@@ -45224,6 +45232,7 @@ Princeton Dr and Barge Town Road, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
 Produce Rd and Pinewood Rd, Louisville, KY: null
 Progress Blvd and Butteville Bank Rd, Louisville, KY: null
+Project Estelle Avenue and Southside Dr, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
 Pueblo Rd and Quahala Rd, Louisville, KY: null
 Radford Rd and Robinwood Rd, Louisville, KY: null
