@@ -14234,6 +14234,7 @@
 200 Westbound I-64 at W Market St, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
+200 Westbound I-64 near Newberg and Bardstown Rd, Louisville, KY: null
 200 Westbound I-65, Louisville, KY: null
 200 Westbound Newburg Rd, Louisville, KY: null
 200 Westbound at Aron Rd, Louisville, KY:
@@ -15273,6 +15274,7 @@
   lat: 38.15827
   lng: -85.8413922
 2000 White-Zorn Ave. Responders arrived, Louisville, KY: null
+2000 Willard and Bernheim, Louisville, KY: null
 2000 Wilson Ave, waterfront area, Louisville, KY: null
 2000 Winding Bluff Trace, Louisville, KY:
   lat: 38.2813075
@@ -28957,6 +28959,9 @@
 4600 Brewster Ave, Louisville, KY:
   lat: 38.248538
   lng: -85.829672
+4600 Brownsboro Rd, Louisville, KY:
+  lat: 38.3012117
+  lng: -85.5911063
 4600 Camron Roll, Louisville, KY: null
 4600 Camron Roll. The vehicle, a blue Chevy Equinox, had reportedly been parked on the property, Louisville, KY: null
 4600 Cane Run Rd, Louisville, KY:
@@ -39941,6 +39946,9 @@
 800 Greten Ln. A white Ford Flex and a red sedan were involved in the collision. Responders arrived, Louisville, KY: null
 800 Grintwood Avenue 05:20 p, Louisville, KY: null
 800 Grintwood Avenue 05:20 p.m., Louisville, KY: null
+800 Harvest Grove Way, Louisville, KY:
+  lat: 38.2497859
+  lng: -85.4920061
 800 Hazel St, Louisville, KY:
   lat: 38.2475147
   lng: -85.8048321
