@@ -23104,6 +23104,9 @@
 3500 Pinecroft Dr, Louisville, KY:
   lat: 38.1345391
   lng: -85.6993569
+3500 Powell Ave, Louisville, KY:
+  lat: 38.195716
+  lng: -85.790941
 3500 Regatta Way, Louisville, KY:
   lat: 38.236863
   lng: -85.811957
@@ -38061,6 +38064,9 @@
   lat: 38.2184913
   lng: -85.7015596
 7000 Ridge Run, Sparkle, Louisville, KY: null
+7000 S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 7000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
