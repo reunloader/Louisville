@@ -3541,6 +3541,9 @@
 10200 Deer Vista Dr, Louisville, KY:
   lat: 38.1051019
   lng: -85.5604206
+10200 Dixie Hwy, Louisville, KY:
+  lat: 38.1077836
+  lng: -85.8680558
 10200 Esom Road, Louisville, KY: null
 10200 Eve Adam Dr, Louisville, KY:
   lat: 38.1056407
@@ -23781,6 +23784,7 @@
 3700 Eline Ave, Louisville, KY:
   lat: 38.2494527
   lng: -85.665685
+3700 Eline Ave, across West London Heights and Strader Ave, Louisville, KY: null
 3700 Ethelwood Dr, cross from Willowwood Way and Golden Dr, Louisville, KY: null
 3700 Falcon Crash Track, Louisville, KY: null
 3700 Falcon Crest Dr and 5400 block of Logwood Ave, Louisville, KY: null
@@ -33584,6 +33588,7 @@
   lat: 38.254656
   lng: -85.7417262
 600 E Main St, across from Hancock and Clay, Louisville, KY: null
+600 E Main St, across from North Hancock and North Clay, Louisville, KY: null
 600 E W Brandeis Ave, Louisville, KY:
   lat: 38.2193858
   lng: -85.7622692
