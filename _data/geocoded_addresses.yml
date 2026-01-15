@@ -4268,6 +4268,7 @@
 1100 East Washington, Louisville, KY:
   lat: 38.255996
   lng: -85.73054
+1100 East of Parkway, Louisville, KY: null
 1100 Eastern Parkway at Norton, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
@@ -23503,6 +23504,9 @@
 3600 Fern Valley Rd near Chewy Pharmacy, Louisville, KY:
   lat: 38.1566234
   lng: -85.6954991
+3600 Fern Valley Rd near Walgreens, Louisville, KY:
+  lat: 38.1566234
+  lng: -85.6954991
 3600 Fern Valley Rd, Louisville, KY:
   lat: 38.1566234
   lng: -85.6954991
@@ -32886,6 +32890,9 @@
   lng: -85.66151
 5500 West Hall, Louisville, KY: null
 5500 West Hall, with an execution in progress. Police units were dispatched, Louisville, KY: null
+5500 Woodcross Pl, Louisville, KY:
+  lat: 38.0959737
+  lng: -85.658929
 5500 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
