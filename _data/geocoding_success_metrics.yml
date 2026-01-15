@@ -81135,4 +81135,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2026-01-15T12:17:08.066394'
+- timestamp: '2026-01-15T12:23:27.804474'
+  total_addresses: 20070
+  successful: 10280
+  failed: 9790
+  success_rate: 51.22
+  failure_rate: 48.78
+  failure_patterns:
+    Intersection format: 2034
+    Contains location qualifiers (near/at): 2584
+    Incomplete/vague address: 2598
+    Other/Unknown: 2041
+    Contains extra sentences/context: 519
+    Police phonetic codes: 14
+  batch_success_rate: 20.0
+  batch_new_addresses: 5
+  batch_new_successes: 1
+last_updated: '2026-01-15T12:23:27.804628'

@@ -10542,6 +10542,9 @@
 1700 South 13th Street. Responders were dispatched, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South 13th, Louisville, KY:
+  lat: 38.2244068
+  lng: -85.7775916
 1700 South 26th Street, Louisville, KY:
   lat: 38.241277
   lng: -85.7958157
@@ -31347,6 +31350,7 @@
 5000 Preston Hwy, Louisville, KY:
   lat: 38.1751421
   lng: -85.7138531
+5000 Preston Hwy, Ollie's spoke shop, Louisville, KY: null
 5000 Preston Hwy. The dog was reported to be alive and in distress., Louisville, KY: null
 5000 Preston Hwy. The dog was reported, Louisville, KY:
   lat: 38.1751421
@@ -34232,6 +34236,8 @@
 600 Shepherdsville Rd. EMS was requested, Louisville, KY:
   lat: 38.1495553
   lng: -85.6598797
+600 Shop, Louisville, KY: null
+600 Shop. Police units responded promptly, Louisville, KY: null
 600 Shop29 Street at Eclipse, Louisville, KY:
   lat: 38.2531996
   lng: -85.6559586
@@ -45216,6 +45222,7 @@ South Hurst Farm Parkway and Bardstown Rd, Louisville, KY: null
 South Minden Lane and Shelbyville Road, Louisville, KY: null
 South Park Rd and Blue Lick Rd, Louisville, KY: null
 South Park Rd and Clarland Dr, Louisville, KY: null
+South Post Street and Winkler Ave, Louisville, KY: null
 South Second Street and Denmark St, Louisville, KY: null
 South Second Street and Ellington Ave, Louisville, KY: null
 South Second Street and West Kenny Street, Louisville, KY: null
