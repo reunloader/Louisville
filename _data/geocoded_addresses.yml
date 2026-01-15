@@ -12022,6 +12022,9 @@
   of the correct passcode, it was confirmed, Louisville, KY
 : lat: 38.242909
   lng: -85.416381
+192 [Street Name], Louisville, KY:
+  lat: 37.0029735
+  lng: -86.4316105
 1924 Newburgh Road, Louisville, KY: null
 1928 Charlie, Louisville, KY:
   lat: 38.1686412
@@ -22911,6 +22914,9 @@
 3400 Welford Ave at Metal Recycling, Louisville, KY:
   lat: 38.059435
   lng: -85.8947995
+3400 West Broadway at C&C, Louisville, KY:
+  lat: 38.2496303
+  lng: -85.8087791
 3400 West Broadway, Louisville, KY:
   lat: 38.2496303
   lng: -85.8087791
@@ -43188,6 +43194,9 @@
   lat: 38.1023548
   lng: -85.8678332
 9215 Baffauer Street, Louisville, KY: null
+930 [Street Name], Louisville, KY:
+  lat: 38.2496508
+  lng: -85.7674295
 9300 Blazing Star Ln, Louisville, KY:
   lat: 38.3261177
   lng: -85.569662
@@ -43274,6 +43283,9 @@
   lng: -85.6736077
 9300 Walhampton Dr, Louisville, KY: null
 9300 Walhampton Dr. They were attending, Louisville, KY: null
+940 [Street Name], Louisville, KY:
+  lat: 38.2409263
+  lng: -85.7629932
 9400 600 block of Lane, Louisville, KY: null
 9400 Amber Ridge Ct, Louisville, KY:
   lat: 38.1181052
