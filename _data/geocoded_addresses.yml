@@ -2357,6 +2357,9 @@
 1000 Dixon Ave, Louisville, KY:
   lat: 38.220538
   lng: -85.732121
+1000 Donard Park Ave, Louisville, KY:
+  lat: 38.2027677
+  lng: -85.6703698
 1000 Donau Ln, Louisville, KY:
   lat: 38.1089806
   lng: -85.8751233
@@ -16417,6 +16420,10 @@
 2200 West Market. Police responded, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
+2200 West Muhammad Ali and 600 block of South Shelby, Louisville, KY: null
+2200 West Muhammad Ali, Louisville, KY:
+  lat: 38.2542612
+  lng: -85.7875154
 ? 2200 West W Market St, near the Blue Store, following a report of an individual
   down on the side of the building, suspected of overdosing. The patient, a male,
   was reportedly confused and unresponsive., Louisville, KY
@@ -17567,6 +17574,8 @@
 2500 Coronet Dr, Louisville, KY:
   lat: 38.172112
   lng: -85.845274
+2500 Cottonwood Dr (Rocklish Drive), Louisville, KY: null
+2500 Cottonwood Dr, Louisville, KY: null
 2500 Cross Hill Ct, Louisville, KY:
   lat: 38.2691454
   lng: -85.7012304
@@ -27164,6 +27173,9 @@
   lat: 38.200165
   lng: -85.634035
 4100 Preston Hwy and later I-600 block of Adams, Louisville, KY: null
+4100 Preston, Louisville, KY:
+  lat: 38.1925381
+  lng: -85.728684
 4100 Progress Blvd, Louisville, KY:
   lat: 38.1892659
   lng: -85.6541553
