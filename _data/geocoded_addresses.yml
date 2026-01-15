@@ -22927,6 +22927,9 @@
 3400 West Broadway. Further details, Louisville, KY:
   lat: 38.2496303
   lng: -85.8087791
+3400 West Broadway. The situation remains under investigation as authorities work, Louisville, KY:
+  lat: 38.2496303
+  lng: -85.8087791
 3400 West Hill area, Louisville, KY: null
 3400 Westhill Cir, Louisville, KY: null
 3409 Box Elder Road, Louisville, KY: null
@@ -34337,6 +34340,7 @@
 600 South 29th Street, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
+600 South 29th Street, where a fire alarm at a four-story building was determined, Louisville, KY: null
 600 South 29th Street. Specific details, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
@@ -37406,6 +37410,13 @@
   lng: -85.741966
 700 Landis Ridge Dr, Louisville, KY:
   lat: 38.2330685
+  lng: -85.501433
+700 Landis Ridge, Louisville, KY:
+  lat: 38.2330685
+  lng: -85.501433
+? 700 Landis Ridge. The individual was possibly incarcerated in Louisville Metro,
+  and verification of their status was requested, Louisville, KY
+: lat: 38.2330685
   lng: -85.501433
 700 Leroy Ave, Louisville, KY: null
 700 Lewis Coleman Jr, Louisville, KY: null
