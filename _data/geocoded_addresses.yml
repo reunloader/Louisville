@@ -16823,6 +16823,9 @@
 2300 South 6th Street near West Jefferson, Louisville, KY:
   lat: 38.215144
   lng: -85.767306
+2300 South36th Street, Louisville, KY:
+  lat: 38.2238257
+  lng: -85.8155538
 2300 South3rd, Louisville, KY:
   lat: 38.2190218
   lng: -85.7616353
@@ -23850,6 +23853,9 @@
   lat: 38.209512
   lng: -85.6397607
 3700 Knoblet, Louisville, KY: null
+3700 Lentz Ave, Louisville, KY:
+  lat: 38.1911317
+  lng: -85.7862597
 3700 Lexington Rd, Louisville, KY:
   lat: 38.2515315
   lng: -85.6605487
@@ -42872,6 +42878,9 @@
 9200 Eastern Star Ct, Louisville, KY:
   lat: 38.2422122
   lng: -85.7228998
+9200 Fairridge Dr, Louisville, KY:
+  lat: 38.1148412
+  lng: -85.6494585
 9200 Fawnridge Pl, Louisville, KY:
   lat: 38.1142957
   lng: -85.6550298
