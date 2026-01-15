@@ -5116,6 +5116,9 @@
 11400 Berry Blvd, Louisville, KY:
   lat: 38.1964357
   lng: -85.7870485
+11400 Cedar Creek Rd, Louisville, KY:
+  lat: 38.080673
+  lng: -85.623975
 ? 11400 Crosswinds Dr to provide a public assist. The specific request was for a lift
   assist for an 80-year-old male resident. A specific unit was in service for this
   call., Louisville, KY
@@ -32993,6 +32996,7 @@
 5600 Taylor Blvd, Louisville, KY:
   lat: 38.2084711
   lng: -85.7734951
+5600 VVL Place, Louisville, KY: null
 5600 Walnut Way following a report of a garage fire. The fire was believed, Louisville, KY: null
 5600 Walnut Way, Louisville, KY:
   lat: 38.0937928
@@ -43251,6 +43255,9 @@
   lat: 38.2421112
   lng: -85.6153728
 9400 Burnheim Middle School, Louisville, KY: null
+9400 Cavalcade Ave, Louisville, KY:
+  lat: 38.1173158
+  lng: -85.8723016
 9400 Chambers Way due, Louisville, KY: null
 9400 Chambers Way, Louisville, KY:
   lat: 38.1117849
