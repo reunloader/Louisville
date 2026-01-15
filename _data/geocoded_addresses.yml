@@ -3939,6 +3939,9 @@
 10800 Golden Maple Pl, Louisville, KY:
   lat: 38.2593411
   lng: -85.5557159
+10800 Grafton Hall Rd, Louisville, KY:
+  lat: 38.0977211
+  lng: -85.8547883
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
@@ -21684,6 +21687,7 @@
 3100 Westone Way, Louisville, KY:
   lat: 38.2901141
   lng: -85.5605798
+3100 Whetstone Way, Cherry Parkstone Drive, Louisville, KY: null
 3100 Winkler Ave, Louisville, KY:
   lat: 38.2109077
   lng: -85.7697939
