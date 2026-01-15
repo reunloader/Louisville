@@ -6818,6 +6818,9 @@
 : null
 1300 E W Oak St, New Albany, Louisville, KY: null
 1300 Earl Ave, Louisville, KY: null
+1300 Earl Ave, near Montana and Taylor, Louisville, KY:
+  lat: 38.2039446
+  lng: -85.781618
 1300 Earl Jones Way, Louisville, KY: null
 1300 East Breckenridge, Louisville, KY: null
 1300 East Breckham Ridge Street, Louisville, KY: null
@@ -7330,6 +7333,9 @@
 1300 W Market St, near Dismas Charities,, Louisville, KY:
   lat: 38.256806
   lng: -85.771833
+1300 W Washington St, Louisville, KY:
+  lat: 38.257724
+  lng: -85.7605474
 1300 Walter Ave near Lonsdale Ave and Taylor Blvd, Louisville, KY:
   lat: 38.175747
   lng: -85.783492
@@ -22733,6 +22739,7 @@
 3400 Herman St, Louisville, KY:
   lat: 38.258866
   lng: -85.80747
+3400 High Cliff Avenue, Louisville, KY: null
 3400 High Climb, Louisville, KY: null
 3400 Hollins Rd (access road), Louisville, KY: null
 3400 Hurst-Hurstbourne Ridge Blvd, Louisville, KY: null
@@ -26161,6 +26168,7 @@
   lat: 38.2525979
   lng: -85.7647916
 400 South 8th Street, Ogdeny Plaza, Louisville, KY: null
+400 South 8th Street, Trent Ave Plaza, Louisville, KY: null
 ? 400 South 8th Street, near Enterprise. Reports indicated a male subject was seen
   looking into vehicles and going through the dumpster before setting it ablaze. Fire
   units arrived and reported the fire was manageable. Police units were also responding,
