@@ -2921,6 +2921,9 @@
 1000 Rubel Ave, Louisville, KY:
   lat: 38.2379209
   lng: -85.7247688
+1000 S Brook St, Louisville, KY:
+  lat: 38.237929
+  lng: -85.753163
 1000 S Clay St, Louisville, KY:
   lat: 38.237038
   lng: -85.742991
@@ -5531,6 +5534,7 @@
 1200 Carrico Ave, Louisville, KY:
   lat: 38.1841861
   lng: -85.7806311
+1200 Carter St and 500 block of Denmark St, Louisville, KY: null
 1200 Central Ave, Louisville, KY:
   lat: 38.2074097
   lng: -85.7774191
@@ -5549,6 +5553,7 @@
   lat: 38.148949
   lng: -85.791147
 1200 Crop St or Preston Hwy, Louisville, KY: null
+1200 Crouch St and 500 block of Denmark St, Louisville, KY: null
 1200 Cypher St, Louisville, KY: null
 ? 1200 Cypher Street. This incident had been ongoing for an extended period, approximately
   11.5 hours. No new calls related to this situation had been received for about 4.5
