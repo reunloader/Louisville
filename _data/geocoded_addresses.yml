@@ -13274,6 +13274,9 @@
 200 North at the 17 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at the 6-mile marker, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North near 5 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -15874,6 +15877,7 @@
   lng: -85.759407
 2100 block of Royer Ct, Louisville, KY: null
 2100 location, Louisville, KY: null
+2100 medical traffic, Louisville, KY: null
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
   lng: -85.7840605
@@ -18540,6 +18544,7 @@
 2700 Rockford Ln, Louisville, KY:
   lat: 38.1782287
   lng: -85.8484705
+2700 Rockford Ln, across Nose Street and Angola Road, Louisville, KY: null
 2700 Rodman St, Louisville, KY:
   lat: 38.21032
   lng: -85.769823
@@ -44859,6 +44864,7 @@ Northwestern Pky and Mae St, Louisville, KY: null
 Northwestern Pky and Pflanz Ave, Louisville, KY: null
 Norton Commons Blvd and Passage Flower Street, Louisville, KY: null
 Norton Healthcare Blvd and Brownsboro Rd, Louisville, KY: null
+Nose Street and Angola Road, Louisville, KY: null
 Nottingham Pky and Holgros Drive, Louisville, KY: null
 Nottingham Pky and Hungroves Drive, Louisville, KY: null
 Oak New Crete Road and Commerce Park Dr, Louisville, KY: null
