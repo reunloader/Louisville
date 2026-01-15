@@ -114,6 +114,9 @@
 03 Brownsboro Rd, Louisville, KY:
   lat: 38.3167721
   lng: -85.5616302
+03 Chapel Hill Rd, Louisville, KY:
+  lat: 38.1047243
+  lng: -85.6668792
 03 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
@@ -5381,6 +5384,9 @@
 11900 Sanford Plaza in response, Louisville, KY: null
 11900 Sanford Plaza, Louisville, KY: null
 11900 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
+11900 Shelbyville Rd, near the intersection of Ashcraft Ln and Daisy Ln, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
 11900 Standford Plaza, Louisville, KY: null
@@ -15463,6 +15469,9 @@
 2100 Brownsboro Rd, Louisville, KY:
   lat: 38.2587266
   lng: -85.7053275
+2100 Buechel Bank Rd, Louisville, KY:
+  lat: 38.1865584
+  lng: -85.6469754
 2100 Cambridge Dr, Louisville, KY:
   lat: 38.1625193
   lng: -85.7671139
@@ -27564,6 +27573,7 @@
 4200 Foot Lock Drive, Louisville, KY: null
 4200 Foreman Plain, Louisville, KY: null
 4200 Front Lock Drive, Louisville, KY: null
+4200 Gardner-Witt-Gardner, View Avenue, Resurrection Church, Louisville, KY: null
 4200 Glen Eagle Dr, Louisville, KY: null
 ? 4200 Glen Eagle Dr. Further checks revealed the van was registered to a company
   in Indianapolis, Indiana. The investigation involved multiple police units., Louisville,
@@ -44174,6 +44184,7 @@ Arthur St and University Blvd, Louisville, KY: null
 Ash Ave and South Central Ave, Louisville, KY: null
 Ashbrooke Gardens Dr and Garden Trace Dr, Louisville, KY: null
 Ashby Ln and Twilight Dr, Louisville, KY: null
+Ashcraft Ln and Daisy Ln, Louisville, KY: null
 Ashland Ave and Kathleen Ave, Louisville, KY: null
 Ashland Ave and Taylor Blvd, Louisville, KY: null
 Ashwood Dr and Monkford Drive, Louisville, KY: null

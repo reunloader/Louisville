@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2026-01-15 17:09:33
+**Generated:** 2026-01-15 17:25:55
 
 ---
 
@@ -8,9 +8,9 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 20,126 |
-| **Successfully Geocoded** | 10,307 |
-| **Failed to Geocode** | 9,819 |
+| **Total Addresses** | 20,131 |
+| **Successfully Geocoded** | 10,310 |
+| **Failed to Geocode** | 9,821 |
 | **Success Rate** | 51.21% |
 | **Failure Rate** | 48.79% |
 
@@ -18,11 +18,10 @@
 
 ## Recent Changes
 
-- **3** new addresses processed
-- **0** successfully geocoded
-- **3** failed to geocode
-- **This batch success rate: 0.00%** ⚠️
-- Overall rate changed by **-0.01%** 📉
+- **5** new addresses processed
+- **3** successfully geocoded
+- **2** failed to geocode
+- **This batch success rate: 60.00%** 🎯
 
 ---
 
@@ -30,10 +29,10 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Incomplete/vague address | 2607 | 26.6% |
+| Incomplete/vague address | 2608 | 26.6% |
 | Contains location qualifiers (near/at) | 2587 | 26.3% |
 | Other/Unknown | 2051 | 20.9% |
-| Intersection format | 2040 | 20.8% |
+| Intersection format | 2041 | 20.8% |
 | Contains extra sentences/context | 520 | 5.3% |
 | Police phonetic codes | 14 | 0.1% |
 
@@ -43,7 +42,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2026-01-15 | 6 | 2 | 33.3% ⚡ | 20,100 | 51.21% |
 | 2026-01-15 | 1 | 0 | 0.0% ⚠️ | 20,101 | 51.21% |
 | 2026-01-15 | 4 | 4 | 100.0% 🎯 | 20,105 | 51.22% |
 | 2026-01-15 | 4 | 3 | 75.0% 🎯 | 20,109 | 51.23% |
@@ -53,6 +51,7 @@
 | 2026-01-15 | 2 | 1 | 50.0% 🎯 | 20,121 | 51.22% |
 | 2026-01-15 | 2 | 1 | 50.0% 🎯 | 20,123 | 51.22% |
 | 2026-01-15 | 3 | 0 | 0.0% ⚠️ | 20,126 | 51.21% |
+| 2026-01-15 | 5 | 3 | 60.0% 🎯 | 20,131 | 51.21% |
 
 ---
 
