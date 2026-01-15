@@ -3671,6 +3671,7 @@
 10400 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1427052
   lng: -85.5769432
+10400 Cedar Meadows Ct, Louisville, KY: null
 10400 Champion Farms Dr, Louisville, KY:
   lat: 38.2960989
   lng: -85.5623389
@@ -35665,6 +35666,9 @@
 6400 Venango Dr, Louisville, KY:
   lat: 38.1454561
   lng: -85.870255
+6400 Wattbourne Ln, Louisville, KY:
+  lat: 38.1847268
+  lng: -85.6048019
 6400 Westwind Way, Louisville, KY: null
 6400 Winter View Dr, Louisville, KY:
   lat: 38.0748917
