@@ -20431,6 +20431,9 @@
 300 North 41st Street, Louisville, KY:
   lat: 38.2665202
   lng: -85.8158519
+300 North 42nd Street, Louisville, KY:
+  lat: 38.2669449
+  lng: -85.8171976
 300 North 43rd Street, Louisville, KY:
   lat: 38.2670782
   lng: -85.8181961
@@ -42493,6 +42496,9 @@
 900 S Floyd St at the Friendship House, Louisville, KY:
   lat: 38.2400376
   lng: -85.7509994
+900 S Jackson St, Louisville, KY:
+  lat: 38.240412
+  lng: -85.746516
 900 S Shelby St near East Kentucky and Caldwell, Louisville, KY:
   lat: 38.2398145
   lng: -85.7406323
