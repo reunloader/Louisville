@@ -18490,6 +18490,9 @@
   lat: 38.1512571
   lng: -85.7643303
 2700 Foxy Poise Rd, Louisville, KY: null
+2700 Garland Ave near South 28th and South 26th Street, Louisville, KY:
+  lat: 38.244613
+  lng: -85.7973498
 2700 Garland Ave, Louisville, KY:
   lat: 38.244613
   lng: -85.7973498
@@ -28064,6 +28067,9 @@
   lat: 38.30976
   lng: -85.5773702
 4300 Taylor Blvd and 100 block of Harlan Ave, Louisville, KY: null
+4300 Taylor Blvd near Crosha Oakwood Avenue and Lynnhurst Ave, Louisville, KY:
+  lat: 38.1784367
+  lng: -85.783335
 4300 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -44436,6 +44442,7 @@ Crop St and Martha Ave, Louisville, KY: null
 Crop St and Meadow Dr, Louisville, KY: null
 Crop St and Slack Ave, Louisville, KY: null
 Crop St and Wilson Ave, Louisville, KY: null
+Crosha Oakwood Avenue and Lynnhurst Ave, Louisville, KY: null
 Cross Creek Blvd and Ridge Cliff Rd, Louisville, KY: null
 Cross Hill Rd and Morgan Ave, Louisville, KY: null
 Cross River Road and River Shore Dr, Louisville, KY: null
