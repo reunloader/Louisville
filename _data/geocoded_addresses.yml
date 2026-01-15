@@ -5916,6 +5916,7 @@
 1200 S S Preston St, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
+1200 S Shelby St No, Louisville, KY: null
 1200 S Shelby St, Louisville, KY:
   lat: 38.2332794
   lng: -85.7418048
@@ -8283,6 +8284,7 @@
   caller mentioned the presence of firearms and individuals who were intoxicated.
   Units from the 4th Division were dispatched, Louisville, KY
 : null
+1400 Squaredale Road, Louisville, KY: null
 1400 St, Louisville, KY:
   lat: 38.2289347
   lng: -85.760211
@@ -9235,6 +9237,9 @@
 1500 Wurtele Ave, Louisville, KY:
   lat: 38.2132618
   lng: -85.780508
+1500 [Street Name], Louisville, KY:
+  lat: 38.226547
+  lng: -85.7749276
 1500 and 1510, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -28566,6 +28571,9 @@
 4500 Caspian Dr, Louisville, KY:
   lat: 38.169906
   lng: -85.676733
+4500 Central Court near Beacon Hill Dr, Louisville, KY:
+  lat: 38.1756231
+  lng: -85.8080903
 4500 Chenoweth Run Rd, Louisville, KY:
   lat: 38.1771142
   lng: -85.5523633
@@ -43720,6 +43728,9 @@
   lat: 38.1069399
   lng: -85.696862
 9800 Titan Drath near Thor Avenues, Louisville, KY: null
+9800 Turnpike View Dr, Louisville, KY:
+  lat: 38.1067381
+  lng: -85.7003623
 9800 VU Cady Dr, Louisville, KY: null
 9800 Valley Fair Way, Louisville, KY:
   lat: 38.1155215
