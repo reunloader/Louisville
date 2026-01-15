@@ -14159,6 +14159,7 @@
 200 West near the off-ramps, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West of Bardstown Rd, Louisville, KY: null
 200 West of the recrosses, Louisville, KY: null
 200 West onto I-64 East Bound, Louisville, KY: null
 200 West over top Taylor's Road, Louisville, KY: null
@@ -19212,6 +19213,9 @@
 2900 Bank, Louisville, KY:
   lat: 38.2708858
   lng: -85.7957115
+2900 Bardstown Rd near Circle K, Louisville, KY:
+  lat: 38.2161315
+  lng: -85.6764774
 2900 Bardstown Rd, Cormie, Louisville, KY: null
 2900 Bardstown Rd, Louisville, KY:
   lat: 38.2161315
@@ -24660,6 +24664,7 @@
   units were dispatched to investigate the situation., Louisville, KY
 : null
 3900 South Sioux Point Square. The alarm was reported as silent, and responding units were dispatched, Louisville, KY: null
+3900 South Third Street, Louisville, KY: null
 3900 South3rd Street, Louisville, KY:
   lat: 38.200478
   lng: -85.765216
@@ -32435,6 +32440,7 @@
 5500 Alicante Ln, Louisville, KY:
   lat: 38.0848456
   lng: -85.8663898
+5500 Ansel, Louisville, KY: null
 5500 Applegate Ln, Louisville, KY:
   lat: 38.134627
   lng: -85.65879
@@ -36672,6 +36678,7 @@
 6900 Yuma Way, Louisville, KY:
   lat: 38.1178905
   lng: -85.8869996
+6900 the overpass, Louisville, KY: null
 7 Baymeadow Dr, Louisville, KY:
   lat: 38.1506339
   lng: -85.8278343
