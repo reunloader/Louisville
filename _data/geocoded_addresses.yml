@@ -2041,6 +2041,7 @@
 100 radio, Louisville, KY: null
 100 record and 65 south at the 128, Louisville, KY: null
 100 record, and officers secured the scene at the southbound highway segment, Louisville, KY: null
+100 route 54, Louisville, KY: null
 100 the 2000 block of Toyota Corolla, Louisville, KY: null
 100 the 2900 block of Dr, Louisville, KY: null
 100 the area linked, Louisville, KY: null
@@ -12399,6 +12400,9 @@
   Louisville, KY
 : null
 200 Dixie Hwy in response, Louisville, KY: null
+200 Dixie Hwy near Kroger’s, Louisville, KY:
+  lat: 38.1127713
+  lng: -85.8629441
 200 Dixie Hwy to address the situation., Louisville, KY: null
 200 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
@@ -13908,6 +13912,9 @@
 200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2506701
   lng: -85.7544799
+200 W Oak St at the Triton Oaks Tower, Louisville, KY:
+  lat: 38.234647
+  lng: -85.757169
 200 W Oak St due, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
@@ -14559,6 +14566,7 @@
 200 northbound shoulder, Louisville, KY: null
 200 northbound, Louisville, KY: null
 200 off ramp, Louisville, KY: null
+200 on-ramp from 64 eastbound, Louisville, KY: null
 200 on19, Louisville, KY: null
 200 or217, Louisville, KY: null
 200 or219, Louisville, KY: null
@@ -32993,6 +33001,10 @@
 5600 Oakridge Pl, Louisville, KY:
   lat: 38.1114027
   lng: -85.6569025
+5600 Old Heady Rd and 200 block of Jefferson, Louisville, KY: null
+5600 Old Heady Rd, Louisville, KY:
+  lat: 38.165365
+  lng: -85.5114638
 5600 Oxford Ct, Louisville, KY:
   lat: 38.1602952
   lng: -85.6027169
