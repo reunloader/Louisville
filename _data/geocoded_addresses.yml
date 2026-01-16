@@ -1826,6 +1826,9 @@
 100 West Broadway at Hotel of Louisville, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+100 West Broadway near Crop St, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 West Broadway near Greyhound bus station, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -9127,6 +9130,9 @@
   lat: 38.1630563
   lng: -85.8839366
 1500 Rivershore, Louisville, KY: null
+1500 Rockford Ln, Louisville, KY:
+  lat: 38.1833115
+  lng: -85.8539547
 1500 Rowan St, Louisville, KY:
   lat: 38.259949
   lng: -85.775002
@@ -22271,6 +22277,7 @@
   lat: 38.1627856
   lng: -85.8496073
 3200 Hampstead Ct, Louisville, KY: null
+3200 Hansard Court, Louisville, KY: null
 3200 Harmon Street, Anderson St, Lewis Coleman Junior Drive, Louisville, KY: null
 3200 Heather Ln, Louisville, KY:
   lat: 38.2076133
@@ -29785,6 +29792,7 @@
   lat: 38.1823251
   lng: -85.7751994
 4700 Berkeley, Louisville, KY: null
+4700 Bowling Blvd, Bluegrass All-Outie, Louisville, KY: null
 4700 Brownsboro Gardens Dr and Old Brownsboro Ct, with EMS on scene at each location, Louisville, KY: null
 4700 Brownsboro Gardens Dr near Brownsboro Gardens Cir, Louisville, KY:
   lat: 38.309234
@@ -43588,6 +43596,9 @@
 9200 Alexander Ave, Louisville, KY:
   lat: 38.121185
   lng: -85.858797
+9200 Ash Spring Rd, Louisville, KY:
+  lat: 38.1456891
+  lng: -85.5900846
 ? 9200 Ash, Spring Grove, on Cross Meadows Cir for a medical emergency. An elderly
   gentleman was found unconscious and possibly not breathing after falling from his
   bed and making an unusual noise. EMS provided immediate care., Louisville, KY
@@ -43865,6 +43876,7 @@
 9400 Brownsboro Rd at Outback, Louisville, KY:
   lat: 38.3051743
   lng: -85.5766546
+9400 Brownsboro Rd, Kroger, Louisville, KY: null
 9400 Brownsboro Rd, Louisville, KY:
   lat: 38.3051743
   lng: -85.5766546
