@@ -18495,6 +18495,7 @@
 2600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2550265
   lng: -85.794407
+2600 West Broadway and surrounding area, Louisville, KY: null
 2600 West Broadway near 27th and 26th streets, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
@@ -18505,6 +18506,9 @@
   lat: 38.2489909
   lng: -85.7951833
 2600 West Broadway near South 27th and South 26th, Louisville, KY:
+  lat: 38.2489909
+  lng: -85.7951833
+2600 West Broadway near Zenos, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
 2600 West Broadway, Broadway, and Teal and McGree, Louisville, KY: null
@@ -21860,6 +21864,9 @@
   lat: 38.209995
   lng: -85.7247352
 3100 South 2nd Street at Kroger, Louisville, KY:
+  lat: 38.204435
+  lng: -85.763317
+3100 South 2nd Street near Kroger, Louisville, KY:
   lat: 38.204435
   lng: -85.763317
 3100 South 2nd Street near Scanlon St and Central Station Blvd, Louisville, KY:
