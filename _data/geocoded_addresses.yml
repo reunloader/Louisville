@@ -3167,6 +3167,9 @@
 1000 South2nd Street, Baptist Towers, Louisville, KY: null
 1000 South2nd Street, Louisville, KY: null
 1000 South38 Street, Louisville, KY: null
+1000 South38th Street, Louisville, KY:
+  lat: 38.243625
+  lng: -85.816295
 1000 South3rd Street, Louisville, KY:
   lat: 38.2384976
   lng: -85.7585373
@@ -11023,6 +11026,7 @@
   stop was concluded without further incident., Louisville, KY
 : lat: 38.255242
   lng: -85.71663
+1800 Arthur St in the lobby area, Louisville, KY: null
 1800 Ashfield Ln, Louisville, KY:
   lat: 38.2219964
   lng: -85.6133765
@@ -22713,6 +22717,9 @@
 3300 Woodland Dr, Louisville, KY:
   lat: 38.176862
   lng: -85.873196
+3300 Young Ave near Lois Johnson, Louisville, KY:
+  lat: 38.2299333
+  lng: -85.8099166
 3300 Young Ave, Louisville, KY:
   lat: 38.2299333
   lng: -85.8099166
@@ -35233,6 +35240,7 @@
 ? 6100 Airport Hotels Blvd. The alarm was specifically triggered in zone 247. Upon
   arrival, the alarm was confirmed, Louisville, KY
 : null
+6100 Airport Hotels, Louisville, KY: null
 6100 Apex Dr near Acme Way and Cecilia Way, Louisville, KY:
   lat: 38.1348
   lng: -85.648154
