@@ -25793,6 +25793,9 @@
 400 Heywood Ave, near 5th and 10th, Louisville, KY:
   lat: 38.206344
   lng: -85.765508
+? 400 Highland Rd, also near Highland Ave and Eastern Star Dr, with fire units responding
+  and clearing the scene quickly. The alarms appeared, Louisville, KY
+: null
 400 Hillbaker, Louisville, KY: null
 400 Hillcrest Ave, Louisville, KY:
   lat: 38.2606734
@@ -42305,6 +42308,9 @@
   lat: 38.2315713
   lng: -85.7384034
 900 Charlie Weber Road, Louisville, KY: null
+900 Cherokee Rd near Highland Ave and Eastern Star Dr, Louisville, KY:
+  lat: 38.2431148
+  lng: -85.7250509
 900 Cherokee Ridge Way, Louisville, KY:
   lat: 38.230709
   lng: -85.6858975
