@@ -6536,6 +6536,7 @@
 12400 Lower River Rd, Louisville, KY:
   lat: 38.075494
   lng: -85.902606
+12400 McDowell Drive, Crop St, Abigail Dr, and Stonehaven Ct, Louisville, KY: null
 12400 North Bardstown Rd, Louisville, KY: null
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
@@ -9819,6 +9820,9 @@
 1600 Lucia Ave, Louisville, KY:
   lat: 38.2356966
   lng: -85.720509
+1600 Lyman Johnson, Louisville, KY:
+  lat: 38.229971
+  lng: -85.809811
 1600 Lytle St, Louisville, KY:
   lat: 38.2620585
   lng: -85.7761039
@@ -35619,6 +35623,9 @@
 6200 Greenhaven Dr, Louisville, KY: null
 6200 Hanson's Drive, Louisville, KY: null
 6200 Helen Gene Way, Louisville, KY: null
+6200 Hines Mill Way, Louisville, KY:
+  lat: 38.1621571
+  lng: -85.5849446
 6200 Kansas Drive, Louisville, KY: null
 6200 Kenyon Dr, Louisville, KY:
   lat: 38.093853
