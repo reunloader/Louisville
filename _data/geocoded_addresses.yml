@@ -3300,6 +3300,7 @@
 : lat: 38.24673
   lng: -85.7687534
 1000 West Chess Street, Louisville, KY: null
+1000 West Chestnut and South26, Louisville, KY: null
 1000 West Chestnut, Louisville, KY:
   lat: 38.249975
   lng: -85.76799
@@ -6645,6 +6646,9 @@
 13 Oakwood Ave, Louisville, KY:
   lat: 38.1772911
   lng: -85.7802634
+13 Portland Ave, Louisville, KY:
+  lat: 38.2721361
+  lng: -85.7929587
 13 Rancho Dr, Louisville, KY:
   lat: 38.1067587
   lng: -85.8744974
