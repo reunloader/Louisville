@@ -6237,6 +6237,9 @@
 1200 Taylor's Road, Louisville, KY: null
 1200 Taylor'sville, Louisville, KY: null
 1200 Telford Street, Louisville, KY: null
+1200 Terrace Creek, Louisville, KY:
+  lat: 38.2885067
+  lng: -85.5024049
 1200 Top Hill Rd, Louisville, KY:
   lat: 38.078833
   lng: -85.7946386
@@ -7527,6 +7530,9 @@
   lng: -85.4583861
 13300 Shelterville Road, Louisville, KY: null
 13300 Station Railway, Louisville, KY: null
+13300 Vendetta Way, Louisville, KY:
+  lat: 38.2865942
+  lng: -85.5043452
 ? 13300 Vernetta Way due to ongoing reports of loud yelling from the parking lot.
   The disturbance appeared to involve an argument between a male and his girlfriend,
   with witnesses noting a white vehicle associated with the individuals., Louisville,
@@ -8581,6 +8587,7 @@
 14400 Harkaway Ave, Louisville, KY:
   lat: 38.227493
   lng: -85.49891
+14400 Lavaard Ln, Louisville, KY: null
 14400 Old Henry Rd, Louisville, KY:
   lat: 38.2720074
   lng: -85.4958216
@@ -36519,6 +36526,7 @@
 6700 I 65 South, Louisville, KY: null
 6700 I-65 South, Louisville, KY: null
 6700 I-65 South. Further information about this call was not provided in the scanner traffic., Louisville, KY: null
+6700 Lavaard Ln, Louisville, KY: null
 6700 Mansfield, Louisville, KY:
   lat: 38.1762282
   lng: -85.6622448
@@ -44053,6 +44061,9 @@
   lat: 38.1482981
   lng: -85.5797824
 9700 Linn Station Rd, Louisville, KY: null
+9700 Long Rifle Ln, Louisville, KY:
+  lat: 38.1160697
+  lng: -85.6022358
 9700 Lower River Rd and W Wheatmore Dr, Louisville, KY: null
 9700 Lower River Rd, Louisville, KY:
   lat: 38.1156213
