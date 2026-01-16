@@ -14196,6 +14196,7 @@
   lng: -85.7537855
 200 West Mohammed I'll read Boulevard, Louisville, KY: null
 200 West Newburg Rd, Louisville, KY: null
+200 West Newburgh, Louisville, KY: null
 200 West Oak, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
@@ -15394,6 +15395,9 @@
 2000 Sherwood Ave, Louisville, KY:
   lat: 38.231776
   lng: -85.707381
+2000 Silver Honda CRV at Circle K, Louisville, KY:
+  lat: 38.1920654
+  lng: -85.7643027
 2000 Silver Kia Forte, Louisville, KY: null
 2000 South 16th Street, Louisville, KY:
   lat: 38.2240638
@@ -19354,6 +19358,9 @@
 2800 S Floyd St, Louisville, KY:
   lat: 38.2057313
   lng: -85.7578876
+2800 Seminary Rd, Louisville, KY:
+  lat: 38.24815
+  lng: -85.691198
 2800 Seventh Street due, Louisville, KY: null
 2800 Seventh Street, Louisville, KY: null
 2800 Sexton Dr, Louisville, KY:
@@ -37783,6 +37790,9 @@
 700 Glengarry Dr, Louisville, KY:
   lat: 38.1228878
   lng: -85.7534925
+700 Greenridge Ln, Louisville, KY:
+  lat: 38.2687806
+  lng: -85.6896543
 700 Grissom Way, Louisville, KY:
   lat: 38.1119552
   lng: -85.6970048
