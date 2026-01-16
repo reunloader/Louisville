@@ -6142,6 +6142,7 @@
 1200 South, Louisville, KY:
   lat: 38.23524
   lng: -85.7640086
+1200 South12th Street, West Oak at the Clarion building, Louisville, KY: null
 1200 South15-3, Louisville, KY: null
 1200 South15th Street, Louisville, KY:
   lat: 38.236534
@@ -9202,6 +9203,9 @@
   lat: 38.227846
   lng: -85.780251
 1500 South15th Street, Louisville, KY: null
+1500 South15th, Louisville, KY:
+  lat: 38.227846
+  lng: -85.780251
 1500 South28th Street, Louisville, KY:
   lat: 38.2319235
   lng: -85.8012772
@@ -12181,6 +12185,7 @@
 200 3rd Street, Louisville, KY:
   lat: 38.254936
   lng: -85.755245
+200 A East Washington Road and River Crest Ct, Louisville, KY: null
 200 ASN Adam, Louisville, KY: null
 200 Abraham Flecks Northway at UofL Health ER, Louisville, KY:
   lat: 38.2496463
@@ -20187,6 +20192,7 @@
 300 East Calvary Avenue, Louisville, KY: null
 300 East Calvert Avenue, Louisville, KY: null
 300 East Chatham Street, Louisville, KY: null
+300 East Chesaunas, Louisville, KY: null
 300 East Chestnut near Lumad Commons Park, Louisville, KY:
   lat: 38.247908
   lng: -85.74909
@@ -31021,6 +31027,9 @@
 500 Peachtree Ave, Louisville, KY:
   lat: 38.1861993
   lng: -85.7811332
+500 Pennacook Rd, Louisville, KY:
+  lat: 38.1551934
+  lng: -85.8038002
 500 Perby, Louisville, KY: null
 ? 500 Perby. The exact nature of the alarm activation was not specified in the initial
   report. Further information regarding the resolution of this alarm is pending.,
