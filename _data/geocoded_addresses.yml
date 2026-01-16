@@ -4107,6 +4107,7 @@
 11 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+11 Greten Ln, Louisville, KY: null
 11 Linwood Ave, Louisville, KY:
   lat: 38.222561
   lng: -85.8086927
@@ -30530,6 +30531,9 @@
 500 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+? 500 Adams confirming the issue. Utility crews arrived, verified the outage, and
+  cleared the scene once the situation was confirmed, Louisville, KY
+: null
 500 Adams were involved in assessing the scene, Louisville, KY: null
 500 Adams were involved in assessing the scene., Louisville, KY: null
 500 Adams, 500 block of Baker, and 500 block of Farley, Louisville, KY: null
@@ -37828,6 +37832,9 @@
 700 Moran Ave, Louisville, KY:
   lat: 38.2265433
   lng: -85.6601116
+700 Moser Rd, Louisville, KY:
+  lat: 38.3282764
+  lng: -85.5517853
 700 Nav Hill. The specific reasons, Louisville, KY: null
 700 North Hyde Avenue, Louisville, KY: null
 700 North S Hite Ave, Louisville, KY: null
@@ -42472,6 +42479,7 @@
 900 Euclid Ave, Louisville, KY:
   lat: 38.211438
   lng: -85.772574
+900 Evans St and 400 block of Catherine, Louisville, KY: null
 900 Evelyn near Hathaway, Louisville, KY:
   lat: 38.1964843
   lng: -85.7749692
@@ -44539,6 +44547,7 @@ Bank St and Beaver St, Louisville, KY: null
 Bank St and Griffiths Ave, Louisville, KY: null
 Barchetown Rd and Fairmount Rd, Louisville, KY: null
 Barchetown Road and Fairground Rd, Louisville, KY: null
+Barchetown Road and Grinstead Dr, Louisville, KY: null
 Barchetown Road and Waterford Rd, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
 Bardstown Rd and Belmont Rd, Louisville, KY: null
