@@ -8657,6 +8657,7 @@
 15 Newburg Rd, Louisville, KY:
   lat: 38.2137922
   lng: -85.7014096
+15 North Hubbard Lane, Louisville, KY: null
 15 Paddock Ln, Louisville, KY:
   lat: 38.1692628
   lng: -85.8449974
@@ -11316,6 +11317,7 @@
 1800 Masonic Home Dr near Moyers Cir and Johnson Hall Dr, Louisville, KY:
   lat: 38.2541667
   lng: -85.6624046
+1800 McBraft, Louisville, KY: null
 1800 McCloskey Avenue, Evening, Louisville, KY: null
 1800 McCloskey Avenue, Louisville, KY:
   lat: 38.2236135
@@ -15306,6 +15308,9 @@
 2000 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+2000 Speed Ave, Louisville, KY:
+  lat: 38.228798
+  lng: -85.700158
 2000 St Rene Rd in front of Thorntons, Louisville, KY: null
 2000 St Rene Rd near Thorntons, Louisville, KY:
   lat: 38.1025361
@@ -17918,6 +17923,8 @@
 2500 South 3rd Street, Louisville, KY:
   lat: 38.213343
   lng: -85.762485
+2500 South 4 Street, Louisville, KY: null
+2500 South 4 Street. The scene was secured, and the affected individual was transported to the hospital, Louisville, KY: null
 2500 South 4th St, Louisville, KY:
   lat: 38.2128532
   lng: -85.7644902
@@ -22402,6 +22409,9 @@
 3300 Bass Creek Dr, Louisville, KY:
   lat: 38.2058857
   lng: -85.6782739
+3300 Bent Creek Ct, Louisville, KY:
+  lat: 38.2064556
+  lng: -85.6779249
 3300 Berth and Ritz Lane, Louisville, KY: null
 3300 Blanton Ln, Louisville, KY:
   lat: 38.152798
@@ -26293,6 +26303,7 @@
   lng: -85.7647916
 400 South A Street, Louisville, KY: null
 400 South A Trent Ave Plaza, Louisville, KY: null
+400 South A building, Louisville, KY: null
 400 South A, Louisville, KY: null
 400 South Bay, Avenue Plaza, Louisville, KY: null
 ? 400 South Eighth Street following a report of an unknown situation. Upon arrival,
