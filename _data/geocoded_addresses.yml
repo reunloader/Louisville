@@ -14551,6 +14551,10 @@
 200 Yew Ln, Louisville, KY:
   lat: 38.1762196
   lng: -85.6718083
+? 200 York St around 9:51 a.m., another medical emergency involved a male who had
+  passed out and was slurring his words, prompting EMS assistance. Both incidents
+  required careful medical attention, Louisville, KY
+: null
 200 York St near 3rd Street and 2nd, Louisville, KY:
   lat: 38.2436686
   lng: -85.7558736
@@ -15258,6 +15262,9 @@
 2000 Nistle Miller Parkway, Louisville, KY: null
 2000 No Veil Road, Louisville, KY: null
 2000 Olde English Ct, was aware of its whereabouts. Police units were dispatched, Louisville, KY: null
+2000 Orange, Louisville, KY:
+  lat: 38.1513623
+  lng: -85.6682249
 2000 P-Brody Ln near P-Boyd Ct in Goldsmith Ln, Louisville, KY:
   lat: 38.192182
   lng: -85.609228
