@@ -4161,6 +4161,7 @@
 1100 Bardstown Rd, near the Speedway, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Barge Town Road, Louisville, KY: null
 1100 Bars Down at The Hub, Louisville, KY: null
 1100 Bars down, Louisville, KY: null
 1100 Barts near Old Urban Outfitters, Louisville, KY: null
@@ -4704,6 +4705,9 @@
   to clear the scene and return to service shortly thereafter., Louisville, KY
 : null
 1100 South 4th Street, near West Oakland and St. Catherine. Responders were able, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
+1100 South 4th Street. Officers are investigating the incident and searching, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
 1100 South 4th Street. Responding officers checked the premises, Louisville, KY:
@@ -21902,6 +21906,9 @@
   lat: 38.1162065
   lng: -85.6832515
 3100 South Second St, Louisville, KY: null
+3100 South Second Street near Kroger, Louisville, KY:
+  lat: 38.2886468
+  lng: -85.5099194
 3100 South Second Street, Allstate building, Louisville, KY: null
 3100 South Second Street, Louisville, KY: null
 ? 3100 South Second Street. The person was described as a light-skinned Black man
