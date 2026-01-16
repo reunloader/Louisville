@@ -13995,6 +13995,9 @@
   lat: 38.261854
   lng: -85.814317
 200 South43rd Street (Holiday Inn), Louisville, KY: null
+200 South43rd Street, Louisville, KY:
+  lat: 38.2635279
+  lng: -85.8200058
 200 South44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
@@ -24176,6 +24179,9 @@
 37 South Third Street, Louisville, KY: null
 37 Tevis Dr, Louisville, KY: null
 3700 7th St Rene Rd, Louisville, KY: null
+3700 Astrocraft Dr, Louisville, KY:
+  lat: 38.111105
+  lng: -85.69441
 3700 Bardstown Rd, Louisville, KY:
   lat: 38.1986358
   lng: -85.6599605
@@ -26655,6 +26661,12 @@
 400 South10th Street, with zones 0 and 10 triggered, Louisville, KY: null
 400 South20th, back alley, Louisville, KY: null
 400 South24th Street, Louisville, KY:
+  lat: 38.256822
+  lng: -85.791261
+400 South24th, Louisville, KY:
+  lat: 38.256822
+  lng: -85.791261
+400 South24th. One male was detained at Bells Ln, Louisville, KY:
   lat: 38.256822
   lng: -85.791261
 400 South26th Street, Louisville, KY:
@@ -31294,6 +31306,7 @@
   lat: 38.271025
   lng: -85.795295
 500 North33, Louisville, KY: null
+500 North33rd Street, Louisville, KY: null
 500 North35th Street and 4500 block of Duminil, Louisville, KY: null
 ? 500 North35th Street) (around 10:34 a.m. a.m. a.m.):** A child was reported locked
   in a vehicle. was dispatched to the scene, was initially called but later canceled.
