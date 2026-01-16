@@ -19364,6 +19364,9 @@
 2800 Seminary Rd, Louisville, KY:
   lat: 38.24815
   lng: -85.691198
+2800 Seminary Rd,, Louisville, KY:
+  lat: 38.24815
+  lng: -85.691198
 2800 Seventh Street due, Louisville, KY: null
 2800 Seventh Street, Louisville, KY: null
 2800 Sexton Dr, Louisville, KY:
@@ -27334,6 +27337,9 @@
   lng: -85.8025651
 4100 Angel Terrace, Louisville, KY: null
 4100 Animal Precorrided, Louisville, KY: null
+4100 Arthur St, Louisville, KY:
+  lat: 38.2209861
+  lng: -85.7517448
 4100 Autumn Way, Louisville, KY:
   lat: 38.0735818
   lng: -85.8729266
