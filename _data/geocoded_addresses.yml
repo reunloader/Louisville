@@ -12096,6 +12096,9 @@
   lat: 38.2575145
   lng: -85.7818456
 1900 W Market St, requesting police assistance. Responders arrived, Louisville, KY: null
+1900 W Oak St, Louisville, KY:
+  lat: 38.2371613
+  lng: -85.7879183
 1900 Walbrook, Louisville, KY:
   lat: 38.2883026
   lng: -85.6276049
@@ -15702,6 +15705,7 @@
 2100 Emerson Ave, Louisville, KY:
   lat: 38.2177507
   lng: -85.6832782
+2100 Future Bank World, Louisville, KY: null
 2100 Gardiner Ln near Crest Street, Wellbrook and Eleanor, Louisville, KY:
   lat: 38.210797
   lng: -85.673912
@@ -17495,6 +17499,9 @@
 2400 Millwood, Louisville, KY:
   lat: 38.1674751
   lng: -85.5765149
+2400 Nelson Miller Pky at Siemens, Louisville, KY:
+  lat: 38.2779807
+  lng: -85.5126309
 2400 Nelson Miller Pky, Louisville, KY:
   lat: 38.2779807
   lng: -85.5126309
