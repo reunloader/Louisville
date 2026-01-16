@@ -11489,6 +11489,9 @@
 1800 South Horshorn Parkway near Munson, Louisville, KY: null
 1800 South Third Street, Louisville, KY: null
 1800 South West 14th Ave, Louisville, KY: null
+1800 South22nd Street near Algonquin Pky and Western Ave, Louisville, KY:
+  lat: 38.2250606
+  lng: -85.7947233
 1800 South3rd Street, Louisville, KY: null
 1800 Southbrook Street, Louisville, KY: null
 1800 Southwestern Pky, near the intersection with Herman St and W Market St, Louisville, KY:
@@ -28096,6 +28099,7 @@
 4300 Fagan Bush Lane at Norfolk, Louisville, KY:
   lat: 38.1815498
   lng: -85.641523
+4300 Fagan Bush Lane, Louisville, KY: null
 4300 Fagan Bush, Louisville, KY: null
 ? 4300 Fagan Bush. The vehicle in question had Kentucky plates. Police units were
   involved in identifying the vehicle and its occupants., Louisville, KY
@@ -38179,6 +38183,9 @@
 700 Vine St, Louisville, KY:
   lat: 38.2427558
   lng: -85.7355968
+700 W Ashland Ave, Louisville, KY:
+  lat: 38.185722
+  lng: -85.772558
 700 W Evelyn Ave, Louisville, KY:
   lat: 38.1965923
   lng: -85.7712149
@@ -40221,6 +40228,7 @@
 800 Douglas Park, Louisville, KY:
   lat: 38.179853
   lng: -85.76166
+800 Dresden Ave B-3, Louisville, KY: null
 800 Dresden Ave, Louisville, KY:
   lat: 38.1974105
   lng: -85.7728148
@@ -42080,6 +42088,9 @@
 900 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+900 Adams, Louisville, KY:
+  lat: 38.2592106
+  lng: -85.7264871
 900 Algonquin Pky at Bolero, Louisville, KY:
   lat: 38.214179
   lng: -85.773177
@@ -44353,6 +44364,7 @@ Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
 Algonquin Pky and Sharp Ave, Louisville, KY: null
+Algonquin Pky and Western Ave, Louisville, KY: null
 Algonquin Pky and Winkler Ave, Louisville, KY: null
 Allen Ave and Carolyn Rd, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
@@ -45254,6 +45266,7 @@ Near Ash Street and Reed Ave, Louisville, KY: null
 Near Fagan Bush Lane and Wilshire Blvd, Louisville, KY: null
 Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
 Near Klondike Ln and Hikes Ln, Louisville, KY: null
+Near Krieger St and Charles St, Louisville, KY: null
 Near Ring Rd and Valley Station Rd, Louisville, KY: null
 Near Rodman St and Winkler Ave, Louisville, KY: null
 Near Sadie Ln and Sanders Ln, Louisville, KY: null
