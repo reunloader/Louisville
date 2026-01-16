@@ -5881,6 +5881,9 @@
   threatening family members and refusing, Louisville, KY
 : lat: 38.1983878
   lng: -85.7803275
+1200 Lower River Rd, Louisville, KY:
+  lat: 38.1133877
+  lng: -85.8930314
 1200 Lydia St, Louisville, KY:
   lat: 38.2234692
   lng: -85.7356218
@@ -10483,6 +10486,7 @@
 1700 Harrod Ct, Louisville, KY:
   lat: 38.2237642
   lng: -85.7789557
+1700 Heritage Estate Dr, Louisville, KY: null
 1700 Herr Ln, Louisville, KY:
   lat: 38.2823509
   lng: -85.6267183
@@ -28455,6 +28459,7 @@
 4300 Poplar Level Rd, Louisville, KY:
   lat: 38.1937804
   lng: -85.7088379
+4300 Poplovo Rd, Louisville, KY: null
 4300 Preston Hwy, Louisville, KY:
   lat: 38.1818344
   lng: -85.7204275
@@ -33698,6 +33703,7 @@
 5800 Bronte Dr, Louisville, KY:
   lat: 38.1856642
   lng: -85.5178843
+5800 Bruin Strive, Louisville, KY: null
 5800 Bruns Dr, Louisville, KY:
   lat: 38.171284
   lng: -85.8186862
@@ -42265,6 +42271,9 @@
 8800 Eli Dr, Louisville, KY:
   lat: 38.1199267
   lng: -85.5994283
+8800 Ferndale Rd, Louisville, KY:
+  lat: 38.1550856
+  lng: -85.5973406
 8800 Gentlewind Way, Crescent Providence, Louisville, KY: null
 8800 Gladstonberry Pl, Louisville, KY:
   lat: 38.1259515
