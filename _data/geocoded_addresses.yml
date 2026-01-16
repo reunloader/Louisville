@@ -42,6 +42,7 @@
 0 Pheasant Hill Cir, Louisville, KY:
   lat: 38.0867241
   lng: -85.6461039
+0 Shepherd's Hill Rd, Louisville, KY: null
 0 Shillwego Road, Louisville, KY: null
 0 South 2nd Street, Louisville, KY:
   lat: 38.2517255
@@ -11958,6 +11959,9 @@
   lat: 38.2197325
   lng: -85.754633
 1900 San Jose Ave, Louisville, KY: null
+1900 Shady Springs Dr, Louisville, KY:
+  lat: 38.1948446
+  lng: -85.5230127
 1900 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
   lng: -85.6833215
@@ -21800,6 +21804,9 @@
 ? 3100 Sandpiper Brook Ln. Upon arrival at the two-story commercial structure, no
   smoke or fire was visible. The responding unit reported being, Louisville, KY
 : null
+3100 Shady Springs Dr, Louisville, KY:
+  lat: 38.195004
+  lng: -85.523138
 3100 Sora Ave, Louisville, KY:
   lat: 38.209995
   lng: -85.7247352
