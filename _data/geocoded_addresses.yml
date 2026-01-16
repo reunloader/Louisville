@@ -2226,6 +2226,7 @@
 1000 Charles St near Spratt St, Louisville, KY:
   lat: 38.2298435
   lng: -85.7355996
+1000 Charleswood Rd, with updates provided at 9:11 p, Louisville, KY: null
 1000 Cherokee Rd, Louisville, KY:
   lat: 38.2406458
   lng: -85.723027
@@ -15933,6 +15934,9 @@
   lat: 38.1910775
   lng: -85.6049197
 2100 South Third Street, Louisville, KY: null
+2100 South3rd Street. They encountered a fire close, Louisville, KY:
+  lat: 38.219192
+  lng: -85.761558
 2100 Speed Ave, Louisville, KY:
   lat: 38.2290712
   lng: -85.6992452
@@ -27921,7 +27925,11 @@
 4200 South Second Street, Louisville, KY: null
 4200 South White Barrett, Wayside Ave, Louisville, KY: null
 4200 South2nd Street, Louisville, KY: null
+4200 South3rd Street and Charleswood Rd, Louisville, KY: null
 4200 South3rd Street near Kroger's, Louisville, KY:
+  lat: 38.1951223
+  lng: -85.7653057
+4200 South3rd Street near Kroger, Louisville, KY:
   lat: 38.1951223
   lng: -85.7653057
 4200 South3rd Street near W Whitney Ave and W Fairmont Ave, Louisville, KY:
