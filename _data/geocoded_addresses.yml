@@ -2049,6 +2049,7 @@
 100 ground plane due, Louisville, KY: null
 100 ground plane, Louisville, KY: null
 100 holding a domestic report only, Louisville, KY: null
+100 hours, Louisville, KY: null
 100 in the stop, Louisville, KY: null
 100 involved road, Louisville, KY: null
 100 mile marker 65 North near Billtown Rd, Louisville, KY:
@@ -12558,6 +12559,7 @@
   lng: -85.6367535
 200 Dickinson Dr following the activation of a general alarm., Louisville, KY: null
 200 Dickinson Dr, Louisville, KY: null
+200 Dixie Alley, Louisville, KY: null
 ? 200 Dixie Hwy South. Concurrently, a medical emergency was reported at the 3900
   block of Dixie Hwy. Emergency services managed the chemical situation and responded,
   Louisville, KY
@@ -23701,6 +23703,9 @@
   ongoing., Louisville, KY
 : null
 3600 Barthinian. Police took statements and gathered information related, Louisville, KY: null
+3600 Bohne Ave near Carter Traditional, Louisville, KY:
+  lat: 38.2281396
+  lng: -85.8148255
 3600 Bohne Ave, Louisville, KY:
   lat: 38.2281396
   lng: -85.8148255
@@ -29428,6 +29433,9 @@
 4500 Waco Ct. The patient was experiencing symptoms of lightheadedness and abdominal pain., Louisville, KY: null
 4500 West Broadway and other locations, Louisville, KY: null
 4500 West Broadway at Shawnee Park, Louisville, KY:
+  lat: 38.250453
+  lng: -85.827127
+4500 West Broadway near Shawnee Park, Louisville, KY:
   lat: 38.250453
   lng: -85.827127
 4500 West Broadway, Louisville, KY:
