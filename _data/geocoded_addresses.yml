@@ -1614,6 +1614,9 @@
 100 South20th Street, Louisville, KY:
   lat: 38.259446
   lng: -85.783128
+100 South31st, Louisville, KY:
+  lat: 38.251628
+  lng: -85.803248
 100 South38th Street, Louisville, KY:
   lat: 38.2631651
   lng: -85.8119073
@@ -22685,6 +22688,9 @@
 3300 Old Outer Loop, Louisville, KY:
   lat: 38.135797
   lng: -85.697776
+3300 Outer Loop near Briarcliff Rd and Pine Crip Drive, Louisville, KY:
+  lat: 38.136604
+  lng: -85.702172
 3300 Palmer Ln near Belmont Rd and Sumner Rd, Louisville, KY:
   lat: 38.2062856
   lng: -85.6700765
@@ -29590,6 +29596,7 @@
 4600 Southern Pky near W Kenwood Way and West Wellington, Louisville, KY:
   lat: 38.1850135
   lng: -85.7679527
+4600 Southern Pky, Crop St, Kenwoodway, West Wellington, Louisville, KY: null
 4600 Southern Pky, Louisville, KY:
   lat: 38.1850945
   lng: -85.7687368
@@ -34105,6 +34112,7 @@
 600 East Alley, Louisville, KY:
   lat: 38.245496
   lng: -85.743318
+600 East Armsby Avenue, Louisville, KY: null
 600 East Armsby, Louisville, KY: null
 600 East Broadway at Shell Station, Louisville, KY:
   lat: 38.2446184
@@ -42673,6 +42681,9 @@
 900 N S S English Station Rd, Louisville, KY: null
 900 O'Rice Ave near Preston Hwy and Farm Valley, Louisville, KY: null
 900 Open Line**, Louisville, KY: null
+900 Oxy Rd, Louisville, KY:
+  lat: 38.2209779
+  lng: -85.8280463
 900 Packard Ave, Louisville, KY:
   lat: 38.2093791
   lng: -85.7353133
@@ -44701,6 +44712,7 @@ Breckinridge St and Southbrook Street, Louisville, KY: null
 Breckinridge St and Southfield Street, Louisville, KY: null
 Brent St and Vine St, Louisville, KY: null
 Brewster Ave and Texas Ave, Louisville, KY: null
+Briarcliff Rd and Pine Crip Drive, Louisville, KY: null
 Bridge Hill Road and Field Ave, Louisville, KY: null
 Bridge Tracer Road and Crop St, Louisville, KY: null
 Bridgeshell Road and Field Ave, Louisville, KY: null
