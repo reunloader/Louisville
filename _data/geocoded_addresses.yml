@@ -339,6 +339,9 @@
 100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+? 100 Baker, and officers checked the area but found no additional suspicious activity
+  or vehicles. The tow was likely related, Louisville, KY
+: null
 100 Baker, close, Louisville, KY: null
 100 Baker, were dispatched, Louisville, KY: null
 100 Baker-Sulisane, Louisville, KY: null
@@ -358,6 +361,9 @@
 100 Ballard St, Louisville, KY:
   lat: 38.2507416
   lng: -85.7350586
+? 100 Bank St involving a male and his girlfriend. Officers arrived to assess the
+  situation and ensure safety, Louisville, KY
+: null
 100 Bank St, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
@@ -6261,6 +6267,7 @@
 1200 W Hill St, Louisville, KY:
   lat: 38.2272936
   lng: -85.775801
+1200 W Hill St, refusing, Louisville, KY: null
 1200 W Jefferson St, Louisville, KY:
   lat: 38.255227
   lng: -85.770416
@@ -20562,6 +20569,8 @@
 300 North42nd Street, Louisville, KY:
   lat: 38.2669449
   lng: -85.8171976
+300 North42nd, possibly intoxicated or experiencing a mental health crisis. Officers responded, Louisville, KY: null
+300 North42nd, with reports of a female refusing, Louisville, KY: null
 300 Northwestern Pky, Louisville, KY:
   lat: 38.2696813
   lng: -85.8226403
