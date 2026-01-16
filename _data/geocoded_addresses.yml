@@ -326,6 +326,7 @@
   lat: 38.2404395
   lng: -85.7412705
 100 Anchor, Louisville, KY: null
+100 Armstrong Avenue, Louisville, KY: null
 100 Ashland, Louisville, KY:
   lat: 38.184865
   lng: -85.762415
@@ -20923,6 +20924,7 @@
 300 W Southside Ct near New Way and E Southside Ct, Louisville, KY:
   lat: 38.1615762
   lng: -85.7586954
+300 W Southside Ct, Curl Street and New Way and E Southside Ct, Louisville, KY: null
 300 W W W Cardinal Blvd, Louisville, KY: null
 300 W W W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY: null
 300 W Whitney Ave, Louisville, KY:
@@ -41134,6 +41136,9 @@
   responding units were able, Louisville, KY
 : lat: 38.1373907
   lng: -85.8651361
+8000 Conifer Dr, Louisville, KY:
+  lat: 38.1359092
+  lng: -85.8549527
 8000 Cortland Dr was reported, Louisville, KY: null
 8000 Current Drive, Louisville, KY: null
 8000 DeRonia Ave, Minnacle Delta, Louisville, KY: null
