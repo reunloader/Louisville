@@ -9478,6 +9478,9 @@
   lat: 38.2570576
   lng: -85.7751703
 1500 West Motley Boulevard, Louisville, KY: null
+1500 Wilson Ave, Louisville, KY:
+  lat: 38.233202
+  lng: -85.779085
 1500 Winter Ave, Louisville, KY:
   lat: 38.237341
   lng: -85.724132
@@ -10829,6 +10832,9 @@
 ? 1700 South 36th Street, where a 34-year-old male was experiencing shortness of breath.
   Emergency responders were on the scene, Louisville, KY
 : null
+1700 South 43rd. Firefighters worked, Louisville, KY:
+  lat: 38.2480947
+  lng: -85.8236967
 1700 South 4th Street near Ireland and M Street, Louisville, KY:
   lat: 38.2232086
   lng: -85.7630886
@@ -14993,6 +14999,9 @@
 ? 200 the Pop-a-Level Road exit ramp. This activity was initially noted as a potential
   traffic stop or other police-related incident. The units cleared the scene and returned,
   Louisville, KY
+: null
+? 200 the area and Engine 88. EMS was still en route at the time of the report, and
+  responders were managing the scene, Louisville, KY
 : null
 200 the eastbound lanes. Emergency units were on standby with Metro. The details, Louisville, KY: null
 200 the location, who stated they were alright, and officers cleared the scene, Louisville, KY: null
@@ -46448,6 +46457,7 @@ Shelly Parkway and Chester Ave, Louisville, KY: null
 Shep Road and Rangeland Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
 Shepherdsville Rd and Ferndale Rd, Louisville, KY: null
+Sherry Rd and Memory Ln, Louisville, KY: null
 Shingo Ave and Brookline Ave, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
 Silver Springs Dr and Raintree Dr, Louisville, KY: null
