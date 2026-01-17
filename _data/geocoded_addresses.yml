@@ -1200,6 +1200,9 @@
   lat: 38.2289024
   lng: -85.7017791
 100 North Bardstown Rd/ 100 block of North Bel Air, Louisville, KY: null
+100 North Bel Air Avenue near Onyx Ave, Louisville, KY:
+  lat: 38.2582425
+  lng: -85.7084225
 100 North Berkeley Hills, Louisville, KY: null
 100 North Course Street, Louisville, KY: null
 100 North First Blom Parkway, Louisville, KY: null
@@ -28105,6 +28108,10 @@
 4100 Woodmont Park Ln, Louisville, KY:
   lat: 38.2915528
   lng: -85.48886
+4100 Woodstone Way, Crop St, Twin Elms Ct, and Kaprun Ct, Louisville, KY: null
+4100 Woodstone Way, Louisville, KY:
+  lat: 38.3129386
+  lng: -85.6320854
 4100 [Street Name Missing], Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
@@ -29886,6 +29893,7 @@
 4600 Hartford Ln, Louisville, KY:
   lat: 38.1795503
   lng: -85.8618672
+4600 Hodel Rd in Genesis, St, Louisville, KY: null
 4600 Jo Lynn Dr, Louisville, KY: null
 ? 4600 Kastman Drive following a report of a medical emergency. The situation involved
   a 60-year-old female experiencing what was believed, Louisville, KY
@@ -35841,6 +35849,7 @@
   lat: 38.157636
   lng: -85.591087
 6100 Bardstown Rd, identified as a "Grab-and-go." Dispatchers were heading, Louisville, KY: null
+6100 Barkside Road, Louisville, KY: null
 ? 6100 Barley Ave suffering from chest and back pain, and other locations where patients
   showed signs of traumatic injuries and chest discomfort. EMS continues, Louisville,
   KY
@@ -41169,6 +41178,9 @@
 800 Pendleton, Louisville, KY:
   lat: 38.0505428
   lng: -85.8665908
+800 Perennial Dr, Louisville, KY:
+  lat: 38.2089767
+  lng: -85.7386248
 800 Pflanz Ave, Louisville, KY:
   lat: 38.2739729
   lng: -85.8044847
@@ -45712,6 +45724,7 @@ French Ave and Thruston Ave, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
+Gainesville Avenue and San Jose Ave, Louisville, KY: null
 Gale St and Vincent Drive, Louisville, KY: null
 Galene Dr and Dale Ln, Louisville, KY: null
 Gallagher St and Grand Ave, Louisville, KY: null
