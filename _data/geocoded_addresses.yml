@@ -3828,6 +3828,9 @@
 10405 Preston Hwy, Louisville, KY:
   lat: 38.0993972
   lng: -85.6716879
+10500 Adam near Blue Lick Rd, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 10500 Allen Dr near Mount Holly, Louisville, KY:
   lat: 38.1660083
   lng: -85.607583
@@ -12154,6 +12157,9 @@
 1900 South Preston, Louisville, KY:
   lat: 38.220387
   lng: -85.748652
+1900 South Third Street at PNC Bank, Louisville, KY:
+  lat: 38.2355202
+  lng: -85.7148818
 1900 South Third, Louisville, KY: null
 1900 South30th Street, Louisville, KY:
   lat: 38.223112
@@ -45960,6 +45966,7 @@ Nancy Ln and Lila Ave, Louisville, KY: null
 Nanka Rd and Valley Station Rd, Louisville, KY: null
 Naples Rd and Furman Blvd, Louisville, KY: null
 Near Ash Street and Reed Ave, Louisville, KY: null
+Near Blue Lick Rd and South Park Rd, Louisville, KY: null
 Near Fagan Bush Lane and Wilshire Blvd, Louisville, KY: null
 Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
 Near Klondike Ln and Hikes Ln, Louisville, KY: null
