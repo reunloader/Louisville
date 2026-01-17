@@ -4450,6 +4450,9 @@
   lat: 38.1011844
   lng: -85.745332
 1100 Hong Kong Parkway, Louisville, KY: null
+1100 Houston, Louisville, KY:
+  lat: 38.2165623
+  lng: -85.6163449
 1100 I 64 East, Louisville, KY: null
 1100 I 65 South, Louisville, KY: null
 1100 I 65 South. The nature of the alarm was not specified., Louisville, KY: null
@@ -21488,6 +21491,9 @@
   lat: 38.220686
   lng: -85.646409
 3000 Galvert Bridge, Louisville, KY: null
+3000 Garland Ave, Louisville, KY:
+  lat: 38.245153
+  lng: -85.802715
 3000 Gladstone Ave, Louisville, KY:
   lat: 38.2149831
   lng: -85.6846392
