@@ -12298,6 +12298,7 @@
 20 Welby Rd, Louisville, KY:
   lat: 38.1560283
   lng: -85.8308502
+20 West Silt Street, Louisville, KY: null
 200 . Fortunately, no injuries were reported in this incident. Police units were dispatched, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -13923,6 +13924,9 @@
 200 South at New Cut, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South at Old Henry, Louisville, KY:
+  lat: 38.2698955
+  lng: -85.5010546
 200 South at Peewee Valley exit, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -21704,6 +21708,7 @@
   lng: -85.8020322
 3000 West Hollywood Alley Blvd, Louisville, KY: null
 3000 West Hornsby Avenue, Louisville, KY: null
+3000 West Silt Street, Louisville, KY: null
 3000 West W Kentucky St, Louisville, KY: null
 3000 Whiteway Ave, Louisville, KY:
   lat: 38.2124161
@@ -30759,6 +30764,9 @@
 500 Altagate Rd. The specific alert was, Louisville, KY:
   lat: 38.2458103
   lng: -85.6862081
+500 Anderson Ave, Louisville, KY:
+  lat: 38.1899044
+  lng: -85.6493373
 500 Angel, Louisville, KY:
   lat: 38.3232443
   lng: -85.5712666
@@ -36924,6 +36932,9 @@
 6800 Brooklawn Dr, Louisville, KY:
   lat: 38.155458
   lng: -85.8180062
+6800 Brookley Dr, Louisville, KY:
+  lat: 38.0910295
+  lng: -85.6742718
 6800 Capella Ln, Louisville, KY:
   lat: 38.1542588
   lng: -85.8738237
@@ -46171,6 +46182,7 @@ Terry Rd and Paradise Ln, Louisville, KY: null
 Terry Rd and Raggard Rd, Louisville, KY: null
 Terry Rd and Theresa Ave, Louisville, KY: null
 Terry Rd and Triplett Dr, Louisville, KY: null
+Terry Rd and Westshire Dr, Louisville, KY: null
 Terry Road and Greenwood Road, Louisville, KY: null
 Texas Ave and Charles St, Louisville, KY: null
 Texas Ave and Hickory St, Louisville, KY: null
