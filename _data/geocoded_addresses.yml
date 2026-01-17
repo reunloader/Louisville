@@ -22266,6 +22266,9 @@
 3100 South2nd Street, Louisville, KY:
   lat: 38.204435
   lng: -85.763317
+3100 South3rd Street, Louisville, KY:
+  lat: 38.2191858
+  lng: -85.7614601
 3100 Springfield Dr, Louisville, KY:
   lat: 38.1474972
   lng: -85.8158609
@@ -43641,6 +43644,7 @@
   lat: 38.243366
   lng: -85.793868
 900 South26 Crosswalk, Louisville, KY: null
+900 South26th Street, Department 304, Louisville, KY: null
 900 South26th Street, Louisville, KY:
   lat: 38.243855
   lng: -85.795634
