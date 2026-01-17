@@ -8027,6 +8027,9 @@
 1400 Eastern Parkway near Hill Rd and Cross Rd, Louisville, KY:
   lat: 38.2274494
   lng: -85.7176804
+1400 Eastern Parkway, Louisville, KY:
+  lat: 38.2274494
+  lng: -85.7176804
 1400 Eline Ave near Lonsdale and Whitmore, Louisville, KY:
   lat: 38.2494527
   lng: -85.665685
@@ -9251,6 +9254,9 @@
   lng: -85.780251
 1500 South 15th Street crossing Westway and W Hill St, Louisville, KY: null
 1500 South 15th Street near Wesley Street, Louisville, KY:
+  lat: 38.227846
+  lng: -85.780251
+1500 South 15th Street near West Lee and West Hill, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
 1500 South 15th Street, Healing Place, Louisville, KY: null
@@ -36175,6 +36181,9 @@
 6300 Cottagemeadow Dr, Louisville, KY:
   lat: 38.178505
   lng: -85.646968
+? 6300 Doe Run Rd, 1200 block of South 16th Street, Powder Horn Dr, West Hornsby Ave,
+  Wilson Ave, Longest Ave, and Cowling Ave, Louisville, KY
+: null
 6300 Eureka Ave, Louisville, KY:
   lat: 38.1902417
   lng: -85.8605893
