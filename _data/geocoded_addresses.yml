@@ -12319,6 +12319,9 @@
   lat: 38.2505653
   lng: -85.722615
 200 3rd Division area, Louisville, KY: null
+200 3rd Street near Wheatley, Louisville, KY:
+  lat: 38.254936
+  lng: -85.755245
 200 3rd Street, Louisville, KY:
   lat: 38.254936
   lng: -85.755245
@@ -14743,6 +14746,11 @@
   intersection of 15th and Wilson, prompting a priority response from LG&E. The pole
   number was communicated to the relevant authorities, Louisville, KY
 : null
+? 200 but it fled the area. The vehicle was later identified as possibly stolen from
+  Tyler Ave and Dudley Ave. A BOLO was issued, and police units continued to monitor
+  the area, Louisville, KY
+: null
+200 but the vehicle left the area before being stopped. Law enforcement continues to monitor the area, Louisville, KY: null
 200 east Canada, Louisville, KY: null
 200 east at Bardstown Rd, Louisville, KY:
   lat: 38.1861148
@@ -25396,6 +25404,9 @@
 400 Amy Ave, Louisville, KY:
   lat: 38.2593959
   lng: -85.8135537
+400 Ash St, Louisville, KY:
+  lat: 38.2255898
+  lng: -85.7351074
 400 Atom, Louisville, KY: null
 400 Atom, with a suspect described as possibly being outside and wearing a black jacket, Louisville, KY: null
 400 Avenue, Louisville, KY: null
@@ -46318,6 +46329,7 @@ Towers Row Road and Bardstown Rd, Louisville, KY: null
 Trade Port Dr and Chadron Dr, Louisville, KY: null
 Trout Creek Dr and Twin Creek Dr, Louisville, KY: null
 Tuesday Eastern Parkway and Blue Lick Rd, Louisville, KY: null
+Tyler Ave and Dudley Ave, Louisville, KY: null
 Tyler Ave and Eleanor Ave, Louisville, KY: null
 Tyler Ave and Thornberry Ave, Louisville, KY: null
 Tyler Ln and Varsantown Rd, Louisville, KY: null
