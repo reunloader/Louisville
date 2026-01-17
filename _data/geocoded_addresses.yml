@@ -2312,6 +2312,7 @@
 1000 Dixie Hwy following a report of a medical emergency. Responders arrived on scene, Louisville, KY: null
 1000 Dixie Hwy following a report of a traffic accident. First responders worked, Louisville, KY: null
 1000 Dixie Hwy following a report of a traffic accident. They worked, Louisville, KY: null
+1000 Dixie Hwy in front of Walmart, Louisville, KY: null
 1000 Dixie Hwy prompted a response from patrol units. Officers were dispatched, Louisville, KY: null
 1000 Dixie Hwy to investigate the vehicle and its presence in the area., Louisville, KY: null
 1000 Dixie Hwy was again reported. Responding units were directed to the location, Louisville, KY: null
@@ -15136,6 +15137,7 @@
   lng: -85.713684
 2000 Chevy Apollo, Louisville, KY: null
 2000 Chevy Colorado near New Cut Rd and Air Quit Parks, Louisville, KY: null
+2000 Chevy Cruze with partial plate 493, Louisville, KY: null
 2000 Chevy Impala near Jefferson South and 11th Street, Louisville, KY: null
 2000 Chevy Low Road, Louisville, KY: null
 2000 Chevy Malibu, Louisville, KY: null
@@ -29982,6 +29984,9 @@
   lat: 38.176665
   lng: -85.6754448
 4600 Sheffield Blvd following a report of a fall. A 90-year-old female was found, Louisville, KY: null
+4600 Shelbyville Rd at Genesis, Louisville, KY:
+  lat: 38.2491946
+  lng: -85.6304565
 4600 Shelbyville Rd, Louisville, KY:
   lat: 38.2491946
   lng: -85.6304565
