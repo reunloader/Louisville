@@ -18402,6 +18402,9 @@
 26 Royal Dr, Louisville, KY:
   lat: 38.1286028
   lng: -85.7597473
+26 Taylor Blvd, Louisville, KY:
+  lat: 38.1787414
+  lng: -85.7830902
 2600 Alford Ave, Louisville, KY:
   lat: 38.2646517
   lng: -85.7933107
@@ -27105,6 +27108,9 @@
 400 West W Oak St, Louisville, KY: null
 400 West W Ormsby Ave, Louisville, KY: null
 400 West Wonsby Avenue, Louisville, KY: null
+400 West, Louisville, KY:
+  lat: 38.2549259
+  lng: -85.7571981
 400 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
