@@ -14006,6 +14006,9 @@
 200 South28th St, Louisville, KY:
   lat: 38.259684
   lng: -85.796593
+200 South28th Street, Louisville, KY:
+  lat: 38.259684
+  lng: -85.796593
 200 South36th Street, Louisville, KY:
   lat: 38.2305239
   lng: -85.8144957
@@ -26622,6 +26625,9 @@
 400 South A building, Louisville, KY: null
 400 South A, Louisville, KY: null
 400 South Bay, Avenue Plaza, Louisville, KY: null
+400 South Clay, Louisville, KY:
+  lat: 38.2505296
+  lng: -85.7407799
 ? 400 South Eighth Street following a report of an unknown situation. Upon arrival,
   an adult male, approximately 42 years old, was found lying on a bench outdoors.
   Emergency medical services were en route, Louisville, KY
@@ -37448,6 +37454,9 @@
 6900 W Jefferson St, Louisville, KY:
   lat: 38.2559959
   lng: -85.7766293
+6900 W Market St, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 6900 Willard, Louisville, KY: null
 6900 Wimbleton Ct, Louisville, KY: null
 ? 6900 Yuma Way involving a rollover accident with a four-wheeler. Reports indicated
@@ -43378,6 +43387,9 @@
 900 Starlet Ct, Louisville, KY:
   lat: 38.1067862
   lng: -85.7642196
+900 Starlet Dr, Louisville, KY:
+  lat: 38.1068434
+  lng: -85.7631793
 900 Stoke-on-Trent, Louisville, KY: null
 900 Stone St, Louisville, KY:
   lat: 38.212164
@@ -44697,6 +44709,7 @@
   lat: 38.3076087
   lng: -85.5657118
 9800 St, Louisville, KY: null
+9800 Starlet Dr in 3C. Details were limited, but responders checked the area, Louisville, KY: null
 9800 Titan Dr, Louisville, KY:
   lat: 38.1069399
   lng: -85.696862
