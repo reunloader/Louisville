@@ -11727,6 +11727,9 @@
 1800 West Broadway, Louisville, KY:
   lat: 38.248977
   lng: -85.783331
+1800 West Chestnut, Louisville, KY:
+  lat: 38.251429
+  lng: -85.781222
 1800 West Jeff, Louisville, KY: null
 1800 West Jefferson, Louisville, KY:
   lat: 38.2561291
@@ -19833,6 +19836,7 @@
   lat: 38.2910096
   lng: -85.5667133
 2900 Creekside Dr, Louisville, KY: null
+2900 Danzig Pl, Louisville, KY: null
 2900 Del Park Terrace, Louisville, KY:
   lat: 38.2527847
   lng: -85.8045015
@@ -22999,6 +23003,7 @@
 3300 Preston, Louisville, KY:
   lat: 38.2009951
   lng: -85.7342881
+3300 Preston, Room 401, Louisville, KY: null
 3300 Prodigy Place, Louisville, KY: null
 3300 Radiance Rd, Louisville, KY:
   lat: 38.2102524
@@ -25991,6 +25996,7 @@
 400 East Jefferson, Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
+400 East Jefferson, Wayside, Louisville, KY: null
 400 East Jersey Street, Louisville, KY: null
 400 East Jersey Street,, Louisville, KY: null
 400 East Kentucky Apartment 100 block, Louisville, KY: null
@@ -31044,6 +31050,9 @@
 500 Belgravia Ct, Louisville, KY:
   lat: 38.2266147
   lng: -85.7636713
+500 Bells Ln, Louisville, KY:
+  lat: 38.2216443
+  lng: -85.8164349
 500 Belmar Dr, Louisville, KY:
   lat: 38.2021382
   lng: -85.7140233
@@ -41953,6 +41962,7 @@
   lat: 38.1354558
   lng: -85.8523215
 8200 National Tarp, Louisville, KY: null
+8200 National Term Pike, Louisville, KY: null
 8200 National Turn Pike, Louisville, KY: null
 8200 National Turnpike at KO Storage, Louisville, KY:
   lat: 38.1314142
@@ -42257,6 +42267,9 @@
 8500 Bost Ln, Louisville, KY:
   lat: 38.1281809
   lng: -85.6954544
+8500 Branchtree Pl, Louisville, KY:
+  lat: 38.1317726
+  lng: -85.6037
 8500 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
