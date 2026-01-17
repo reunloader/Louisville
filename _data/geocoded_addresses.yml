@@ -2070,6 +2070,9 @@
 100 holding a domestic report only, Louisville, KY: null
 100 hours, Louisville, KY: null
 100 in the stop, Louisville, KY: null
+100 interchange, Louisville, KY:
+  lat: 38.0963729
+  lng: -85.6778651
 100 involved road, Louisville, KY: null
 100 mile marker 65 North near Billtown Rd, Louisville, KY:
   lat: 38.1647849
