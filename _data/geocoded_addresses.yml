@@ -33746,6 +33746,8 @@
 5600 Dittmar Dr, Louisville, KY:
   lat: 38.1479855
   lng: -85.6774792
+5600 Edmond Ln, Barge Town, and Cedar Springs, Louisville, KY: null
+5600 Edmond Ln, Louisville, KY: null
 5600 Fern Valley Rd near Redding Truck Equipment, Louisville, KY:
   lat: 38.1555765
   lng: -85.6568103
@@ -34060,6 +34062,13 @@
 5700 W Southland Blvd near Southland Terrace and Summers Ave, Louisville, KY:
   lat: 38.1697125
   lng: -85.7779942
+5700 W Southland Blvd, Louisville, KY:
+  lat: 38.1697125
+  lng: -85.7779942
+? 5700 W Southland Blvd, the 7100 block of Barge Town, and Glenmary Farm Dr. No injuries
+  were explicitly mentioned, but there were concerns about vehicles running over nails
+  and potential damage. Police and EMS responded, Louisville, KY
+: null
 5700 Warp You Court, Louisville, KY: null
 5700 [Street Name not fully transcribed], Louisville, KY:
   lat: 38.2794337
