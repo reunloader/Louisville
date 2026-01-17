@@ -2445,6 +2445,9 @@
   lng: -85.686278
 1000 Doric Cir, with the alarm sounding near a water heater. Fire units responded, Louisville, KY: null
 1000 Dr, Louisville, KY: null
+1000 Dresden Ave near Peachtree Ave and Warren Ave, Louisville, KY:
+  lat: 38.1968297
+  lng: -85.7771789
 1000 Dresden Ave, Louisville, KY:
   lat: 38.1968297
   lng: -85.7771789
@@ -11830,6 +11833,9 @@
   lat: 38.2247589
   lng: -85.7002092
 1900 B5, Louisville, KY: null
+1900 Baird St near North 19th, Louisville, KY:
+  lat: 38.2653168
+  lng: -85.7799118
 1900 Baird St, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
@@ -30687,6 +30693,9 @@
 4800 South3rd Street, Louisville, KY:
   lat: 38.1784756
   lng: -85.7671303
+4800 South6th Street near Brook Park Dr and Bluegrass Ave, Louisville, KY:
+  lat: 38.1790768
+  lng: -85.7739064
 4800 Southside Dr at the Americana Community Center, Louisville, KY:
   lat: 38.179087
   lng: -85.76486
@@ -45416,6 +45425,7 @@ Brighton Springs Ln and Spring Lawn Dr, Louisville, KY: null
 Brinson Dr and Highland Ave, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brokerage Lane and Westville Road, Louisville, KY: null
+Brook Park Dr and Bluegrass Ave, Louisville, KY: null
 Brook St and Conn St, Louisville, KY: null
 Brook St and East Brackenridge Street, Louisville, KY: null
 Brookhaven Ave and Woodmont Dr, Louisville, KY: null
