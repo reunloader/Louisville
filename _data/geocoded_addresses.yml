@@ -11445,6 +11445,9 @@
 1800 McCloskey Avenue, Louisville, KY:
   lat: 38.2236135
   lng: -85.7879957
+1800 Mccloskey Ave, Louisville, KY:
+  lat: 38.2236135
+  lng: -85.7879957
 1800 Mellwood Ave at Melwood Art Center, Louisville, KY:
   lat: 38.2614349
   lng: -85.7154776
@@ -13948,6 +13951,7 @@
   lng: -85.6981124
 200 South at the 22, Louisville, KY: null
 200 South due, Louisville, KY: null
+200 South just north of Old Henry, Louisville, KY: null
 200 South near 64 West, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -20931,6 +20935,7 @@
 300 South41st Street, Louisville, KY:
   lat: 38.2604204
   lng: -85.8178928
+300 South41st Street, middle of Herman St, Louisville, KY: null
 300 South41st near Larkwood and Herman, Louisville, KY:
   lat: 38.2604204
   lng: -85.8178928
@@ -24083,6 +24088,7 @@
   and reportedly expressed suicidal thoughts., Louisville, KY
 : lat: 38.1940133
   lng: -85.7834587
+3600 Tremblin Lane, Louisville, KY: null
 3600 Tyler Ave, Louisville, KY:
   lat: 38.2720352
   lng: -85.7906052
@@ -36508,6 +36514,9 @@
 6500 Sylvania Rd, Louisville, KY:
   lat: 38.158377
   lng: -85.877977
+6500 Valley Station Rd, Louisville, KY:
+  lat: 38.1053699
+  lng: -85.856402
 6500 Vandre Ave, No, Louisville, KY: null
 6500 Windhurst Rd, Louisville, KY: null
 6500 Winter View Dr, Louisville, KY:
