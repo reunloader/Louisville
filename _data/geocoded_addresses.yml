@@ -10324,6 +10324,9 @@
 16800 Arbor Creek Dr, Louisville, KY:
   lat: 38.1228132
   lng: -85.6168763
+16800 Dixie Hwy, Louisville, KY:
+  lat: 38.0118189
+  lng: -85.9285208
 16900 Ash Hill Dr, Louisville, KY:
   lat: 38.2318343
   lng: -85.4411101
@@ -29068,6 +29071,7 @@
   lat: 38.268448
   lng: -85.818722
 4400 John Rail Road Drive, Louisville, KY: null
+4400 Kane Road, Louisville, KY: null
 4400 Kazelle, Louisville, KY: null
 4400 Kern Ct, Louisville, KY:
   lat: 38.1791126
@@ -33925,6 +33929,9 @@
 5700 New Cut Rd, Louisville, KY:
   lat: 38.1372198
   lng: -85.7735363
+5700 Omega St, Louisville, KY:
+  lat: 38.125496
+  lng: -85.866836
 5700 Oxford Pl, Louisville, KY:
   lat: 38.1605773
   lng: -85.6018404
