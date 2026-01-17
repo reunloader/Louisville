@@ -1922,6 +1922,7 @@
   lat: 38.2544972
   lng: -85.7522553
 100 West Market8 Hardware, Louisville, KY: null
+100 West Mojave Valley Boulevard, Holiday Inn, Louisville, KY: null
 100 West Muhammad Ali at the Holiday Inn, Louisville, KY:
   lat: 38.2525973
   lng: -85.7707846
@@ -1936,6 +1937,9 @@
 100 West Orange Beach Avenue, Louisville, KY: null
 100 West Orange V Ave, Louisville, KY: null
 100 West Penny Avenue, Louisville, KY: null
+100 West Valley, Louisville, KY:
+  lat: 38.106181
+  lng: -85.8621855
 100 West W, Louisville, KY:
   lat: 38.2575113
   lng: -85.7629961
@@ -8020,6 +8024,9 @@
 1400 East Washington, Louisville, KY:
   lat: 38.2572541
   lng: -85.7267062
+1400 Eastern Parkway near Hill Rd and Cross Rd, Louisville, KY:
+  lat: 38.2274494
+  lng: -85.7176804
 1400 Eline Ave near Lonsdale and Whitmore, Louisville, KY:
   lat: 38.2494527
   lng: -85.665685
@@ -8236,6 +8243,7 @@
 1400 Phyllis Ave, Louisville, KY:
   lat: 38.2055679
   lng: -85.7816073
+1400 Piper Station Road, Louisville, KY: null
 1400 Poclova Road, Speedway, Louisville, KY: null
 1400 Poplar Level Rd, Louisville, KY:
   lat: 38.2210553
@@ -37596,6 +37604,9 @@
 6900 Rutledge Rd, near Woodendale,, Louisville, KY:
   lat: 38.1520188
   lng: -85.8779635
+6900 South35th Street, Louisville, KY:
+  lat: 38.2304489
+  lng: -85.8135887
 6900 Southside Dr near Kinnick Court, Louisville, KY:
   lat: 38.157992
   lng: -85.764776
@@ -44123,6 +44134,9 @@
   lat: 38.1023548
   lng: -85.8678332
 9215 Baffauer Street, Louisville, KY: null
+926 Rowan St, Louisville, KY:
+  lat: 38.2628325
+  lng: -85.8001248
 930 [Street Name], Louisville, KY:
   lat: 38.2496508
   lng: -85.7674295
@@ -45714,6 +45728,9 @@ Hikes Ln and Shepherdsville Rd, Louisville, KY: null
 Hikes Ln and Taylorsville Rd, Louisville, KY: null
 Hill Peak Rd and Routt Rd, Louisville, KY: null
 Hill Rd and Bardstown Rd, Louisville, KY: null
+Hill Rd and Cross Rd, Louisville, KY:
+  lat: 38.2474029
+  lng: -85.6985145
 Hill Rd and Grandview Dr, Louisville, KY: null
 Hillcrest Ave and Zorn Ave, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
