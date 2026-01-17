@@ -84079,4 +84079,20 @@ history:
   batch_success_rate: 75.0
   batch_new_addresses: 8
   batch_new_successes: 6
-last_updated: '2026-01-17T13:00:50.479718'
+- timestamp: '2026-01-17T13:33:20.212768'
+  total_addresses: 20574
+  successful: 10532
+  failed: 10042
+  success_rate: 51.19
+  failure_rate: 48.81
+  failure_patterns:
+    Intersection format: 2091
+    Contains location qualifiers (near/at): 2626
+    Incomplete/vague address: 2676
+    Other/Unknown: 2109
+    Contains extra sentences/context: 526
+    Police phonetic codes: 14
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2026-01-17T13:33:20.212950'

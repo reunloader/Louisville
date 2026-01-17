@@ -9605,6 +9605,8 @@
 1600 Arthur St, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
+1600 Arthur St, across from Eastleigh in East Calvert, Louisville, KY: null
+1600 Arthur St, lobby of the Arthur St Hotel, Louisville, KY: null
 1600 Arthur St. Emergency personnel responded promptly, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
@@ -33720,6 +33722,9 @@
 5600 Preston Howard at McDonald's, Louisville, KY:
   lat: 38.267342
   lng: -85.783509
+5600 Preston at McDonald's, Louisville, KY:
+  lat: 38.1682113
+  lng: -85.7066863
 5600 Ridgecrest Rd, Louisville, KY:
   lat: 38.1683958
   lng: -85.6679017
