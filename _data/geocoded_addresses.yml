@@ -9749,6 +9749,9 @@
   lat: 38.2273929
   lng: -85.7913037
 1600 Dixville, Louisville, KY: null
+1600 E W Hill St, Louisville, KY:
+  lat: 38.2273582
+  lng: -85.7745627
 1600 Earl, Louisville, KY:
   lat: 38.2083825
   lng: -85.7851152
@@ -14478,6 +14481,7 @@
   lng: -85.7569546
 200 West of Bardstown Rd, Louisville, KY: null
 200 West of the recrosses, Louisville, KY: null
+200 West on I-200, Louisville, KY: null
 200 West onto I-64 East Bound, Louisville, KY: null
 200 West over top Taylor's Road, Louisville, KY: null
 200 West side near March Down Road, Louisville, KY: null
@@ -25194,6 +25198,7 @@
   lat: 38.255323
   lng: -85.81603
 3900 Semishrew Road, Louisville, KY: null
+3900 Senate Plaza Drive (Stoney River), Louisville, KY: null
 3900 Shelbyville Rd near Roof Bar, Louisville, KY:
   lat: 38.2527039
   lng: -85.6547827
