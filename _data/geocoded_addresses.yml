@@ -7929,6 +7929,9 @@
 1400 Clover Trace, Louisville, KY:
   lat: 38.1766443
   lng: -85.7992227
+1400 Clover, Louisville, KY:
+  lat: 38.1766443
+  lng: -85.7992227
 1400 Court near Unseld Blvd, Louisville, KY:
   lat: 38.259923
   lng: -85.4488612
@@ -9857,6 +9860,9 @@
 1600 Longfield Ave, Louisville, KY:
   lat: 38.198753
   lng: -85.790775
+1600 Lucia Ave near Bardstown Rd and Baxter Ave, Louisville, KY:
+  lat: 38.2356966
+  lng: -85.720509
 1600 Lucia Ave, Louisville, KY:
   lat: 38.2356966
   lng: -85.720509
@@ -12861,6 +12867,7 @@
 200 East at Bardstown Rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Breckenridge Land, Louisville, KY: null
 200 East at Breckenridge Ln, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -38692,6 +38699,7 @@
 700 [Street Name] and 747 block of [Street Name], Louisville, KY: null
 700 area, Louisville, KY: null
 700 back room, Louisville, KY: null
+700 bake Smirnoff connector and Cooper Chapel, Louisville, KY: null
 ? 700 block of Ben Franklin Ct. The subjects were seen trying to access the vehicle
   and subsequently fled on foot when approached by police. - **Disturbance/Fight (around
   1:19 a.m. a.m. a.m.):** One subject was reported fighting inside a residence at
@@ -41655,6 +41663,7 @@
 8200 Nancy Ln, Louisville, KY:
   lat: 38.1354558
   lng: -85.8523215
+8200 National Tarp, Louisville, KY: null
 8200 National Turn Pike, Louisville, KY: null
 8200 National Turnpike at KO Storage, Louisville, KY:
   lat: 38.1314142
@@ -44846,6 +44855,7 @@ Barchetown Road and Fairground Rd, Louisville, KY: null
 Barchetown Road and Grinstead Dr, Louisville, KY: null
 Barchetown Road and Waterford Rd, Louisville, KY: null
 Barchtown Road and Gardiner Ln, Louisville, KY: null
+Bardstown Rd and Baxter Ave, Louisville, KY: null
 Bardstown Rd and Belmont Rd, Louisville, KY: null
 Bardstown Rd and Beulah Church Rd, Louisville, KY: null
 Bardstown Rd and Breckenridge Ln, Louisville, KY: null
