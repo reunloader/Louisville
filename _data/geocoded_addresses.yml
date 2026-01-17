@@ -9461,6 +9461,9 @@
 15000 Bircham Rd, Louisville, KY:
   lat: 38.2343827
   lng: -85.4741061
+15000 English Park Cir, Louisville, KY:
+  lat: 38.2242842
+  lng: -85.4953906
 15000 South 15th Street, Louisville, KY:
   lat: 38.2345873
   lng: -85.7787008
@@ -25734,6 +25737,7 @@
 400 Duncan St, Louisville, KY:
   lat: 38.2623371
   lng: -85.7836576
+400 Dutchman's Lane, Louisville, KY: null
 400 E Jefferson St at Wayside Men’s Emergency Shelter, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -27721,6 +27725,9 @@
   lng: -85.6703124
 4100 James Rae Pl, Louisville, KY: null
 4100 James Rae Pl., Louisville, KY: null
+4100 Joetta Ct, Louisville, KY:
+  lat: 38.1852945
+  lng: -85.806101
 4100 LaSalle Ave, Louisville, KY: null
 4100 LaSalle Avenue, Louisville, KY: null
 ? 4100 LaSalle following a report of a suspect who appeared to be breaking into a
@@ -46043,6 +46050,7 @@ Poplovo Road and Taylor Ave, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
 Potter Lane and Dalton Dr, Louisville, KY: null
 Prairie Boulevard and Powell Ave, Louisville, KY: null
+Prairie Dr and Nanjaro Road, Louisville, KY: null
 Pressure Elliott Avenue and River Park Dr, Louisville, KY: null
 Pressure Park Road and Leroy Ave, Louisville, KY: null
 Preston St and Atwood St, Louisville, KY: null
