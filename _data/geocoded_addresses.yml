@@ -1660,7 +1660,13 @@
 100 South3rd Street, Louisville, KY:
   lat: 38.256328
   lng: -85.754983
+100 South43rd near West Market, Louisville, KY:
+  lat: 38.2651697
+  lng: -85.8189753
 100 South43rd, Crop St West Market and North 43rd, Louisville, KY: null
+100 South43rd, Louisville, KY:
+  lat: 38.2651697
+  lng: -85.8189753
 100 South44th Street, Louisville, KY:
   lat: 38.265562
   lng: -85.8201234
@@ -20294,6 +20300,7 @@
   KY
 : null
 300 Baker, with additional units responding, Louisville, KY: null
+300 Baker, with follow-up actions reported. Responders are conducting routine checks and ensuring safety, Louisville, KY: null
 ? 300 Baker. The situation was routine, with no signs of forced entry or additional
   concerns. Responders remained on scene briefly before returning, Louisville, KY
 : lat: 38.1417259
@@ -25888,6 +25895,7 @@
 400 E Jefferson St near Wayside, Croucher, South Jackson, South Preston, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
+400 E Jefferson St off Eastside, Louisville, KY: null
 400 E Jefferson St, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
