@@ -1628,6 +1628,7 @@
 100 South. The vehicle has reportedly hit guardrails and continues, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
+100 South10th Street and West Broadway, Louisville, KY: null
 100 South20th Street, Louisville, KY:
   lat: 38.259446
   lng: -85.783128
@@ -14018,6 +14019,9 @@
 200 South39th Street, Louisville, KY:
   lat: 38.261854
   lng: -85.814317
+200 South39th Street. Both incidents required immediate medical attention, Louisville, KY:
+  lat: 38.261854
+  lng: -85.814317
 200 South43rd Street (Holiday Inn), Louisville, KY: null
 200 South43rd Street, Louisville, KY:
   lat: 38.2635279
@@ -16053,6 +16057,9 @@
 2100 S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
+2100 S Preston St near Nanza bar, Louisville, KY:
+  lat: 38.2173734
+  lng: -85.7461321
 2100 Shepherdsville Rd, Louisville, KY:
   lat: 38.1495553
   lng: -85.6598797
@@ -29619,6 +29626,9 @@
 4600 Caspian Dr, Louisville, KY:
   lat: 38.1696443
   lng: -85.6754213
+4600 Chamberlain Ln, Louisville, KY:
+  lat: 38.3106885
+  lng: -85.5669611
 4600 Cliff Ave, Louisville, KY:
   lat: 38.1833486
   lng: -85.7762782
@@ -33395,6 +33405,9 @@
 5500 Woodcross Pl, Louisville, KY:
   lat: 38.0959737
   lng: -85.658929
+5500 Yucca, Louisville, KY:
+  lat: 38.1459354
+  lng: -85.8584525
 5500 Zane St, Louisville, KY:
   lat: 38.2385867
   lng: -85.7618566
