@@ -25962,6 +25962,9 @@
 400 Eastern Parkway near Crittenden Dr, Louisville, KY:
   lat: 38.212862
   lng: -85.754074
+400 Eastern Parkway near Crop St and Denny, Louisville, KY:
+  lat: 38.212862
+  lng: -85.754074
 400 Eastern Parkway, Louisville, KY:
   lat: 38.212862
   lng: -85.754074
@@ -29229,6 +29232,7 @@
 4500 Bardstown Rd, Louisville, KY:
   lat: 38.1825231
   lng: -85.6302377
+4500 Barge Town Road, Louisville, KY: null
 4500 Beechbrook Rd, Louisville, KY:
   lat: 38.183585
   lng: -85.641503
