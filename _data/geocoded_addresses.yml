@@ -41324,6 +41324,9 @@
 8000 Air Commerce Dr, Louisville, KY:
   lat: 38.134236
   lng: -85.715166
+8000 Apple Valley Dr, Louisville, KY:
+  lat: 38.133648
+  lng: -85.618681
 ? 8000 Bardstown Rd following a report of a 60-year-old male experiencing chest pain.
   Responders arrived on scene and provided care to the patient. The individual was
   subsequently transported to a local hospital for further medical evaluation and
@@ -42637,6 +42640,9 @@
   lat: 38.1682534
   lng: -85.6872058
 900 Cecil Ave and other locations, Louisville, KY: null
+900 Cecil Ave, Louisville, KY:
+  lat: 38.246752
+  lng: -85.8211995
 900 Charles St at the intersection with River Creek Street and Boyle St, Louisville, KY:
   lat: 38.2315713
   lng: -85.7384034
