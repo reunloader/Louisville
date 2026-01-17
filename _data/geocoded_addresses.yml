@@ -1421,6 +1421,9 @@
   lat: 38.2750509
   lng: -85.7028488
 100 River Rd at Joe's Crab Shack, Louisville, KY: null
+100 River Rd near Joe's Crab Shack, Louisville, KY:
+  lat: 38.2750509
+  lng: -85.7028488
 100 River Rd, Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Louisville, KY:
   lat: 38.2750509
@@ -17127,6 +17130,9 @@
 2300 Nichols View Ct, Louisville, KY:
   lat: 38.1928255
   lng: -85.7946726
+2300 Northwestern Pky and Portland, Louisville, KY:
+  lat: 38.2736946
+  lng: -85.8151539
 2300 Northwestern Pky, Louisville, KY:
   lat: 38.271863
   lng: -85.784671
@@ -17498,6 +17504,7 @@
 2400 Dundee, Louisville, KY:
   lat: 38.2212216
   lng: -85.6920757
+2400 Earthling Road, Louisville, KY: null
 2400 Earthworm Road, Louisville, KY: null
 2400 East Point Parkway, Louisville, KY: null
 2400 Elliott Ave, Louisville, KY:
@@ -25941,6 +25948,9 @@
   lat: 38.2551156
   lng: -85.7458112
 400 Eastern Parkway following a report of two individuals refusing, Louisville, KY: null
+400 Eastern Parkway near Crittenden Dr, Louisville, KY:
+  lat: 38.212862
+  lng: -85.754074
 400 Eastern Parkway, Louisville, KY:
   lat: 38.212862
   lng: -85.754074
