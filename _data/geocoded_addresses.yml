@@ -20755,6 +20755,7 @@
   KY
 : null
 300 Home, Louisville, KY: null
+300 Hysterical (possibly a typo or shorthand), Louisville, KY: null
 300 I-64 East near I 64 East, Louisville, KY: null
 300 I-64 East near I 64 East. E St Catherine St, Louisville, KY: null
 300 I-64 East, Louisville, KY: null
@@ -32618,6 +32619,9 @@
   lat: 38.1728993
   lng: -85.5739001
 5100 King Run Road, Louisville, KY: null
+5100 Laughlin Ave, Louisville, KY:
+  lat: 38.1637396
+  lng: -85.7750033
 5100 Maryview Dr, Louisville, KY:
   lat: 38.162965
   lng: -85.821219
@@ -42822,6 +42826,10 @@
 8800 Hudson Ave, Louisville, KY:
   lat: 38.2221493
   lng: -85.8141208
+8800 James R Road, Louisville, KY:
+  lat: 38.1204001
+  lng: -85.7579054
+8800 James R Road, possibly related, Louisville, KY: null
 8800 Jan Way, Louisville, KY:
   lat: 38.122436
   lng: -85.692182
