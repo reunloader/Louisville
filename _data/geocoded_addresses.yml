@@ -4363,6 +4363,9 @@
 1100 E W Market St, specifically, Louisville, KY: null
 1100 E W W Market St, Louisville, KY: null
 1100 E W Washington St, Derby City Prep Clinic, Louisville, KY: null
+1100 E W Washington St, Louisville, KY:
+  lat: 38.2579616
+  lng: -85.7618141
 1100 E W Washington St, at River Horse, Louisville, KY:
   lat: 38.257724
   lng: -85.7605474
@@ -6976,6 +6979,7 @@
 : lat: 38.2018157
   lng: -85.6695817
 1300 Dorsey Village Dr, Louisville, KY: null
+1300 Durant Ln, Louisville, KY: null
 1300 E Main St, Louisville, KY:
   lat: 38.253697
   lng: -85.725506
@@ -30439,6 +30443,7 @@
 4700 Maris Ln, Louisville, KY:
   lat: 38.3137905
   lng: -85.5951283
+4700 Mil Trays, Louisville, KY: null
 4700 Mil-Trey Pl, Louisville, KY: null
 4700 Military's Place, Louisville, KY: null
 4700 Mill Trace Pl near Clover Trace Pl and Bluegrass Ave, Louisville, KY: null
@@ -34424,6 +34429,9 @@
   lng: -85.8638169
 5900 Mount Pleasant Drive, Louisville, KY: null
 5900 New Cut Rd (Circle K), Louisville, KY: null
+5900 New Cut Rd, Louisville, KY:
+  lat: 38.12707
+  lng: -85.775928
 5900 New Pet Road, Louisville, KY: null
 5900 Norton Ave, Louisville, KY:
   lat: 38.167805
