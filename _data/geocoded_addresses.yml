@@ -2090,6 +2090,9 @@
 100 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
+100 exit. The vehicle was pulled over, Louisville, KY:
+  lat: 38.1859027
+  lng: -85.7429972
 100 flight, Louisville, KY: null
 ? 100 for a medical emergency. Details regarding the specific nature of the medical
   issue were not immediately available. Responders were on the scene to provide assistance.,
@@ -35538,6 +35541,9 @@
   lat: 38.2182659
   lng: -85.7774103
 600 South Swinett, Louisville, KY: null
+600 South near mile marker 100, Louisville, KY:
+  lat: 38.2486074
+  lng: -85.7563848
 600 South, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
