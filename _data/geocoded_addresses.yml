@@ -5845,6 +5845,7 @@
 1200 Fairdale Rd, Louisville, KY:
   lat: 38.113428
   lng: -85.7444855
+1200 Farmedale, Louisville, KY: null
 1200 Fern St, Louisville, KY:
   lat: 38.248741
   lng: -85.72851
@@ -7203,6 +7204,9 @@
 1300 N S Peterson Ave, Louisville, KY:
   lat: 38.2491801
   lng: -85.6970953
+1300 Newton, Louisville, KY:
+  lat: 38.1347051
+  lng: -85.6195732
 1300 Oakwood, Louisville, KY:
   lat: 38.1766317
   lng: -85.7831597
@@ -37775,6 +37779,9 @@
   made, but the alarm was later determined, Louisville, KY
 : null
 6800 Dixie Manage Shelfing Center, Louisville, KY: null
+6800 Enterprise Dr near Pittsburgh paint shop, Louisville, KY:
+  lat: 38.1537076
+  lng: -85.7534523
 6800 Fayhurst, Louisville, KY: null
 6800 Feyhurst Dr, Louisville, KY:
   lat: 38.1516109
