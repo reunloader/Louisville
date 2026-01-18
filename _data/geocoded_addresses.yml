@@ -6530,6 +6530,7 @@
   lng: -85.529676
 12000 Park D Trice Drive, Louisville, KY: null
 12000 Park2 Trace, Louisville, KY: null
+12000 Parkside Vista Ln, with visible damage. A BOLO was issued, Louisville, KY: null
 12000 Plantsides Rav, Louisville, KY: null
 ? 12000 Plantsides Rav. Initial reports suggested the possibility of smoke and flames,
   leading to an evacuation. However, upon arrival, responders found no evidence of
@@ -15232,6 +15233,10 @@
   lat: 38.2345
   lng: -85.713684
 2000 Chevy Apollo, Louisville, KY: null
+? 2000 Chevy Camaro in the area of Christiana Woods Ct, passing lane. The vehicle
+  was actively being chased, though the pursuit was ongoing at the time of the report.
+  Authorities are working, Louisville, KY
+: null
 2000 Chevy Colorado near New Cut Rd and Air Quit Parks, Louisville, KY: null
 2000 Chevy Cruze with partial plate 493, Louisville, KY: null
 2000 Chevy Impala near Jefferson South and 11th Street, Louisville, KY: null
@@ -29543,6 +29548,7 @@
 ? 4400 Townsend Road, described as a "safe ambush, terrorist alarm." Units from the
   2nd Division were dispatched, Louisville, KY
 : null
+4400 Vista Plane, PSC property, Louisville, KY: null
 4400 Void Way, Louisville, KY: null
 4400 W Market St, Louisville, KY:
   lat: 38.263696
@@ -30751,6 +30757,9 @@
 4800 Old Dixie Hwy. Responding units were dispatched, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+4800 Olympia Park Plaza at Forge construction site, Louisville, KY:
+  lat: 38.3109258
+  lng: -85.5802943
 4800 Olympia Park Plaza, Louisville, KY:
   lat: 38.3109258
   lng: -85.5802943
