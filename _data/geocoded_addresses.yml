@@ -25954,6 +25954,9 @@
 400 Charlie and the 400 block of Baker, Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched to investigate., Louisville, KY: null
 400 Charlie and the 400 block of David were dispatched, Louisville, KY: null
+400 Charlie**, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 400 Charlie, Adam, and Baker,, Louisville, KY: null
 400 Charlie, Baker, and David streets, Louisville, KY: null
 400 Charlie, Logan and Mary area, Louisville, KY: null
@@ -30913,6 +30916,9 @@
   lat: 38.1081089
   lng: -85.6671909
 4800 Preston Spring Ct, across Preston Spring Dr, Louisville, KY: null
+4800 Preston**, Louisville, KY:
+  lat: 38.178026
+  lng: -85.7169632
 4800 Ranchland Dr, Louisville, KY:
   lat: 38.1745069
   lng: -85.8286437
