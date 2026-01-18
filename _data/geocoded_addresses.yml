@@ -7105,6 +7105,9 @@
   they returned to service., Louisville, KY
 : null
 1300 Homeview Dr due, Louisville, KY: null
+1300 Howard St, Louisville, KY:
+  lat: 38.1870925
+  lng: -85.7157991
 1300 Huntington, Louisville, KY:
   lat: 38.1419722
   lng: -85.6875526
@@ -30903,6 +30906,9 @@
 4800 Red Fern Rd, Louisville, KY:
   lat: 38.1733943
   lng: -85.6722068
+4800 Red Oak Ln, Louisville, KY:
+  lat: 38.17265
+  lng: -85.672358
 4800 Redstart Rd, Louisville, KY: null
 4800 Redwing Way, Louisville, KY: null
 4800 Redwing Way, near Biggs Avenue, led, Louisville, KY: null
@@ -44962,6 +44968,9 @@
   lat: 38.3002361
   lng: -85.5414963
 9500 Brownsboro Rd (Drury Inn), Louisville, KY: null
+9500 Brownsboro Rd near Drury Street, Louisville, KY:
+  lat: 38.3070784
+  lng: -85.5745442
 9500 Brownsboro Rd, Louisville, KY:
   lat: 38.3070784
   lng: -85.5745442
@@ -46084,6 +46093,7 @@ Dohn Ave and Veronica Dr, Louisville, KY: null
 Dohn Rd and Lindley Rd, Louisville, KY: null
 Donna Rd and Dover Rd, Louisville, KY: null
 Donna Rd and Dulworth Dr, Louisville, KY: null
+Dorothy Ave and Bardstown Rd, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
