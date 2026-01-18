@@ -1191,6 +1191,9 @@
 100 North 4th Street, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
+100 North 6th Street near West Washington and West Main, Louisville, KY:
+  lat: 38.2573689
+  lng: -85.7599314
 100 North 6th Street, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
@@ -3907,6 +3910,9 @@
 10500 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
+10500 Monteray Place Cir, Louisville, KY:
+  lat: 38.1014115
+  lng: -85.8664155
 10500 Moonlight Way, Louisville, KY:
   lat: 38.1011616
   lng: -85.8353954
@@ -31852,6 +31858,7 @@
   she had been beaten and was possibly experiencing a seizure. EMS and police units
   were dispatched, Louisville, KY
 : null
+500 Orwell Crossing, Louisville, KY: null
 500 Paradise Ln, Louisville, KY:
   lat: 38.1375779
   lng: -85.8704923
@@ -31897,6 +31904,9 @@
   and determined to be technical in nature., Louisville, KY
 : null
 500 Quails Run in response, Louisville, KY: null
+500 Queen 86 near Queen 88, Louisville, KY:
+  lat: 38.2018591
+  lng: -85.7790622
 500 Quest Dr, Louisville, KY:
   lat: 38.2524147
   lng: -85.7720083
@@ -33679,6 +33689,9 @@
 5500 East Market, Louisville, KY:
   lat: 38.2531036
   lng: -85.7372205
+5500 Eastern Parkway near Castlevale Dr and Poplar Level Rd, Louisville, KY:
+  lat: 38.224718
+  lng: -85.7290968
 5500 Eelgrass Ct, Louisville, KY:
   lat: 38.1445541
   lng: -85.8572293
@@ -45807,6 +45820,7 @@ Carthobe Woodpoint Blvd and Napa Valley Dr, Louisville, KY: null
 Cartier Firmly Rd and Janell Rd, Louisville, KY: null
 Carton Dr and Carton Dr, Louisville, KY: null
 Castlebrook Dr and Hollow Oaks Dr, Louisville, KY: null
+Castlevale Dr and Poplar Level Rd, Louisville, KY: null
 Castleview Dr and Poplar Parkway, Louisville, KY: null
 Castlewood Ave and Eastern Parkway, Louisville, KY: null
 Catherine Street and South Hancock Street, Louisville, KY: null
