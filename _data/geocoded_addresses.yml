@@ -1044,6 +1044,7 @@
   lng: -85.7748937
 100 Morgan Ave (near Henderson and Franklin), Louisville, KY: null
 100 Mount Marker, Louisville, KY: null
+100 N Peterson Ct and 47 River Crest Ct, Louisville, KY: null
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
@@ -10110,8 +10111,11 @@
 1600 South 3rd, Louisville, KY:
   lat: 38.2244187
   lng: -85.7608918
+1600 South Eleven Street, 1600 block of East Market, and 1700 block of South Firstport Parkway, Louisville, KY: null
 1600 South First Form Parkway, Louisville, KY: null
+1600 South Firstport Parkway, Louisville, KY: null
 1600 South Floyd and Phyllis, Louisville, KY: null
+1600 South Harris Ford Parkway, Louisville, KY: null
 1600 South Heist Parkway, Louisville, KY: null
 ? 1600 South Hirsborne Parkway for a patient experiencing wheezing and shortness of
   air. The individual, a 66-year-old female, was potentially suffering from pneumonia.
@@ -18902,6 +18906,9 @@
 26400 Birchline Blvd, Louisville, KY:
   lat: 38.1538803
   lng: -85.5982587
+265 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 27 Cypress St, Louisville, KY:
   lat: 38.2214381
   lng: -85.8005435
