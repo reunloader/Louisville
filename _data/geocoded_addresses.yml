@@ -21454,6 +21454,7 @@
 300 scene, Louisville, KY: null
 300 the South on-ramp, Louisville, KY: null
 300 the area, Louisville, KY: null
+300 the black Chrysler 300, Louisville, KY: null
 300 unknown street, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
@@ -25147,6 +25148,9 @@
   lng: -85.6927312
 3800 Tuesday Way. Further investigation into the incident was conducted by responding units., Louisville, KY: null
 3800 Vaughn, with the children's location specified as the 1700 block of South38, Louisville, KY: null
+3800 Vermont Ave, Louisville, KY:
+  lat: 38.2560801
+  lng: -85.8139793
 3800 W Main St, Louisville, KY:
   lat: 38.263212
   lng: -85.811791
@@ -34538,6 +34542,9 @@
 600 Baker., Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+600 Bakers, Louisville, KY:
+  lat: 38.1758439
+  lng: -85.5482321
 ? 600 Ballard St to aid a 68-year-old female experiencing difficulty breathing. Medical
   units arrived on scene to assess and provide care to the individual., Louisville,
   KY
@@ -42600,6 +42607,7 @@
 8500 Standing Oak Dr, Louisville, KY:
   lat: 38.1323306
   lng: -85.8449967
+8500 Tapestry Cir, Louisville, KY: null
 8500 Terry Rd near Manson West Pages, Louisville, KY:
   lat: 38.1312507
   lng: -85.874684
