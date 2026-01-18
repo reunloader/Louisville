@@ -34790,6 +34790,9 @@
 600 Colonial Oaks, Louisville, KY:
   lat: 38.1744506
   lng: -85.7618487
+600 Colorado Ave near Rodman and South 6, Louisville, KY:
+  lat: 38.2144189
+  lng: -85.7675071
 600 Colorado Ave, Louisville, KY:
   lat: 38.2144189
   lng: -85.7675071
@@ -35933,6 +35936,7 @@
   lat: 38.2492082
   lng: -85.7632171
 600 this morning, Louisville, KY: null
+600 unknown street, Louisville, KY: null
 600 unspecified street, Louisville, KY: null
 6000 20th Street, Louisville, KY:
   lat: 38.2486783
@@ -35981,6 +35985,7 @@
 6000 Big Horn Pl, Louisville, KY:
   lat: 38.1902247
   lng: -85.5485755
+6000 Bowl near Hunter's Plain Circle, Louisville, KY: null
 6000 Bristol Block Circle, Louisville, KY: null
 6000 Bristol Blood Circle near Bristol Blood Slay, Louisville, KY: null
 6000 Bristol Bluff Circle, Louisville, KY: null
