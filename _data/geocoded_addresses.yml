@@ -14264,6 +14264,7 @@
   lng: -85.6555527
 200 Utah Avenue 3:00 a, Louisville, KY: null
 200 Utah Avenue 3:00 a.m., Louisville, KY: null
+200 Vangeline and Steedly Dr, Louisville, KY: null
 200 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
@@ -15847,6 +15848,9 @@
 21 Bells Ln, Louisville, KY:
   lat: 38.2216443
   lng: -85.8164349
+21 Camp St, Louisville, KY:
+  lat: 38.2315119
+  lng: -85.7458501
 21 North Ln, Louisville, KY:
   lat: 38.059521
   lng: -85.8746765
@@ -16413,6 +16417,7 @@
 2120 an unnamed alley, Louisville, KY: null
 2140 Fremdale Road, Louisville, KY: null
 215 I 64 West, Louisville, KY: null
+216 Steedly Dr, Louisville, KY: null
 21900 Ottawa Ave, Louisville, KY:
   lat: 38.1881115
   lng: -85.7579503
@@ -21115,6 +21120,9 @@
 300 Shelby Station Dr, Valhalla Post, Louisville, KY: null
 300 Shelby Station, Louisville, KY: null
 300 Shelby Station. A female, described as shorter in stature, was reportedly involved in the incident., Louisville, KY: null
+300 Shelbyville Rd, Louisville, KY:
+  lat: 38.239185
+  lng: -85.490334
 300 Sherbrooke Rd, Louisville, KY:
   lat: 38.211322
   lng: -85.6767979
@@ -28524,6 +28532,9 @@
 4200 Poplar Road, Louisville, KY:
   lat: 38.1989702
   lng: -85.7081925
+4200 Preston Hwy, Louisville, KY:
+  lat: 38.182274
+  lng: -85.720866
 4200 Quiet Way, Louisville, KY:
   lat: 38.1617284
   lng: -85.6838502
@@ -39636,6 +39647,7 @@
 7100 Johnsontown Rd, Louisville, KY:
   lat: 38.1159595
   lng: -85.8907355
+7100 Lower Hunter Strait, Louisville, KY: null
 7100 Lower Hunters Trace, Louisville, KY:
   lat: 38.174218
   lng: -85.880228
