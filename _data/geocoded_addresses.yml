@@ -830,6 +830,9 @@
 100 Front Walk Top, Louisville, KY: null
 100 Gallagher Run, Louisville, KY: null
 100 Georgia King Norah, Louisville, KY: null
+100 Gerald Ct, Louisville, KY:
+  lat: 38.2012982
+  lng: -85.6606035
 100 Gillette Ave near South 1st and Hiawatha Ave, Louisville, KY:
   lat: 38.1857045
   lng: -85.760107
@@ -2011,6 +2014,9 @@
   lng: -85.7728425
 100 Winnow Drop around 7:35 a, Louisville, KY: null
 100 Woodbrook Ct near 9:37 p, Louisville, KY:
+  lat: 38.104113
+  lng: -85.698231
+100 Woodbrook Ct, Louisville, KY:
   lat: 38.104113
   lng: -85.698231
 100 Woodbrook Ct. The call was related, Louisville, KY:
@@ -10616,6 +10622,9 @@
   lng: -85.8187666
 1700 Kentucky 29, Louisville, KY: null
 1700 Kentucky 29. During the check, the vehicle was confirmed to be clear and current, Louisville, KY: null
+1700 Lafayette Dr, Louisville, KY:
+  lat: 38.193979
+  lng: -85.794805
 1700 Lang Ct, Louisville, KY:
   lat: 38.2290972
   lng: -85.815357
@@ -23788,6 +23797,9 @@
 3500 Georgetown Pl near Valley Forge and Conn St, Louisville, KY:
   lat: 38.195798
   lng: -85.793506
+3500 Georgetown Pl, Louisville, KY:
+  lat: 38.195798
+  lng: -85.793506
 3500 Georgetown, Louisville, KY:
   lat: 38.1957374
   lng: -85.7950925
@@ -33068,6 +33080,7 @@
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
   lng: -85.773438
+5300 Burgetown Road, Louisville, KY: null
 5300 Camden Ave, Louisville, KY:
   lat: 38.1928396
   lng: -85.7877594
