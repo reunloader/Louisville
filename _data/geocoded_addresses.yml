@@ -15159,6 +15159,9 @@
   lng: -85.7449988
 2000 Canterworth Place near Harmon Ct and Bardstown Rd, Louisville, KY: null
 2000 Carrol Lane. Officers responded, Louisville, KY: null
+2000 Cedar St, Louisville, KY:
+  lat: 38.255447
+  lng: -85.784648
 2000 Cedar, Louisville, KY:
   lat: 38.255447
   lng: -85.784648
@@ -17775,6 +17778,9 @@
 2400 Millwood, Louisville, KY:
   lat: 38.1674751
   lng: -85.5765149
+2400 Mount Claire Ave, Louisville, KY:
+  lat: 38.2124279
+  lng: -85.7425528
 2400 Nelson Miller Pky at Siemens, Louisville, KY:
   lat: 38.2779807
   lng: -85.5126309
@@ -30610,6 +30616,9 @@
 4800 Outer Loop at Verizon, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
+4800 Outer Loop at Walmart, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Outer Loop near Jefferson Mall Food Court, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
@@ -40150,6 +40159,9 @@
 7500 Dunwoody Ct, Louisville, KY:
   lat: 38.143377
   lng: -85.6875416
+7500 Fair Ln, Louisville, KY:
+  lat: 38.1588786
+  lng: -85.6187012
 7500 Frank8 Drive, Louisville, KY: null
 7500 Frontgate Dr, Louisville, KY: null
 7500 Garrison Rd and Lee Ave, Louisville, KY: null
