@@ -9792,6 +9792,7 @@
   lat: 38.195779
   lng: -85.791645
 1600 Court4916, Louisville, KY: null
+1600 Crested Buns, Louisville, KY: null
 1600 Crestwood, Louisville, KY:
   lat: 38.2537412
   lng: -85.6758659
@@ -13892,6 +13893,9 @@
 200 S Clay St, Louisville, KY:
   lat: 38.2376029
   lng: -85.7427829
+200 S Evergreen Rd, Louisville, KY:
+  lat: 38.2792505
+  lng: -85.5469034
 200 S Hancock St, Louisville, KY:
   lat: 38.2531474
   lng: -85.7426966
@@ -28849,6 +28853,9 @@
   lat: 38.1818344
   lng: -85.7204275
 4300 Pruitt Ct, Crest Street, Louisville, KY: null
+4300 River Park Dr, Louisville, KY:
+  lat: 38.2559385
+  lng: -85.8233035
 ? 4300 River Park Drive to investigate the packages left on the porch. The delivery
   was noted to have occurred earlier in the day., Louisville, KY
 : null
