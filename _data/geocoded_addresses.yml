@@ -10883,6 +10883,9 @@
 1700 South13th, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South19th Street, Louisville, KY:
+  lat: 38.2535186
+  lng: -85.7823901
 1700 South1st Street and 700 block of Belvar Ave, Louisville, KY: null
 1700 South2nd Street near West Breckenridge, Louisville, KY:
   lat: 38.2229276
@@ -26978,6 +26981,9 @@
   lat: 38.2540801
   lng: -85.7673115
 400 South10th Street, with zones 0 and 10 triggered, Louisville, KY: null
+400 South19th Street, Louisville, KY:
+  lat: 38.2558018
+  lng: -85.7822009
 400 South20th, back alley, Louisville, KY: null
 400 South24th Street, Louisville, KY:
   lat: 38.256822
@@ -28902,6 +28908,9 @@
   lng: -85.5773702
 4300 Taylor Blvd and 100 block of Harlan Ave, Louisville, KY: null
 4300 Taylor Blvd near Crosha Oakwood Avenue and Lynnhurst Ave, Louisville, KY:
+  lat: 38.1784367
+  lng: -85.783335
+4300 Taylor Blvd, Louisville, KY:
   lat: 38.1784367
   lng: -85.783335
 4300 Taylor Boulevard Avenue, Louisville, KY: null
@@ -43776,6 +43785,9 @@
   lat: 38.2414201
   lng: -85.7577026
 900 South4, Louisville, KY: null
+900 South43rd Street, Louisville, KY:
+  lat: 38.2470096
+  lng: -85.8240974
 900 South47th Street, Louisville, KY:
   lat: 38.2477935
   lng: -85.8325847
