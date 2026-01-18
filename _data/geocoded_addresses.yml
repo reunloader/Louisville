@@ -8914,6 +8914,9 @@
 15 Shallow Lake Rd, Louisville, KY: null
 15 South Hirshhorn Parkway, Louisville, KY: null
 15 South Horsham Parkway, Louisville, KY: null
+1500 19th Street, Louisville, KY:
+  lat: 38.2535186
+  lng: -85.7823901
 1500 Algonquin Pky near Dismas Charities, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
@@ -31467,6 +31470,9 @@
   lat: 38.185675
   lng: -85.7821746
 500 Beecher St, Louisville, KY:
+  lat: 38.1918563
+  lng: -85.7684561
+500 Beecher, Louisville, KY:
   lat: 38.1918563
   lng: -85.7684561
 500 Belgravia Ct near Crop St and Meadow Dr, Louisville, KY:
