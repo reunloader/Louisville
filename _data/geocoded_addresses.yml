@@ -35392,6 +35392,7 @@
 600 Mutual Bypass of the Tumbleweed, Louisville, KY: null
 600 Newberg near a wood line and trail, Louisville, KY: null
 600 Newton Woods Trail, Louisville, KY: null
+600 Newton Woods, Louisville, KY: null
 600 North 25th Street, Louisville, KY:
   lat: 38.270809
   lng: -85.788873
@@ -37791,6 +37792,9 @@
 6800 Enterprise Dr near Pittsburgh paint shop, Louisville, KY:
   lat: 38.1537076
   lng: -85.7534523
+6800 Enterprise Dr, Louisville, KY:
+  lat: 38.1537076
+  lng: -85.7534523
 6800 Fayhurst, Louisville, KY: null
 6800 Feyhurst Dr, Louisville, KY:
   lat: 38.1516109
@@ -39746,6 +39750,9 @@
 7000 Trade Port Dr. Details, Louisville, KY:
   lat: 38.121097
   lng: -85.88142
+7000 Universal Coach Dr, Louisville, KY:
+  lat: 38.132649
+  lng: -85.881563
 7000 Watson Ln, Louisville, KY:
   lat: 38.0580101
   lng: -85.8948015
