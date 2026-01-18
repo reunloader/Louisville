@@ -10028,6 +10028,9 @@
 1600 Main St, Louisville, KY:
   lat: 38.2585071
   lng: -85.7771784
+1600 McCloskey Avenue, Louisville, KY:
+  lat: 38.227199
+  lng: -85.787599
 1600 Mellwood Ave, Louisville, KY:
   lat: 38.25664
   lng: -85.720659
@@ -15290,6 +15293,7 @@
 2000 Chevy Colorado near New Cut Rd and Air Quit Parks, Louisville, KY: null
 2000 Chevy Cruze with partial plate 493, Louisville, KY: null
 2000 Chevy Impala near Jefferson South and 11th Street, Louisville, KY: null
+2000 Chevy Impala, Louisville, KY: null
 2000 Chevy Low Road, Louisville, KY: null
 2000 Chevy Malibu, Louisville, KY: null
 2000 Chevy Silverado, Louisville, KY: null
@@ -28766,6 +28770,9 @@
   lng: -85.783849
 4200 Taylor Blvd, Treasury, Lynnhurst Ave, and Bluegrass Ave, Louisville, KY: null
 4200 Town Center, Louisville, KY: null
+4200 Towne Center Dr, Louisville, KY:
+  lat: 38.3007023
+  lng: -85.5559389
 4200 Village Dr, Louisville, KY:
   lat: 38.2265936
   lng: -85.6956565
