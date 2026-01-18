@@ -2010,6 +2010,12 @@
   lat: 38.2138255
   lng: -85.7728425
 100 Winnow Drop around 7:35 a, Louisville, KY: null
+100 Woodbrook Ct near 9:37 p, Louisville, KY:
+  lat: 38.104113
+  lng: -85.698231
+100 Woodbrook Ct. The call was related, Louisville, KY:
+  lat: 38.104113
+  lng: -85.698231
 100 Woodmore Ave, Louisville, KY:
   lat: 38.150126
   lng: -85.7708235
@@ -27721,6 +27727,9 @@
   lat: 38.1862227
   lng: -85.7855169
 4000 area around growth, Louisville, KY: null
+401 Bullitt Ln, Louisville, KY:
+  lat: 38.2457595
+  lng: -85.6185347
 401 East Chestnut Street, Louisville, KY:
   lat: 38.2481221
   lng: -85.7468305
@@ -28220,6 +28229,7 @@
   lat: 38.3129386
   lng: -85.6320854
 4100 [Street Name Missing], Louisville, KY: null
+4100 town near 9:36 p, Louisville, KY: null
 4102 Barberview Drive, Louisville, KY: null
 4110 location, Louisville, KY: null
 416 Alton Rd, Louisville, KY: null
