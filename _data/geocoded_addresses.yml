@@ -12447,6 +12447,7 @@
   lat: 38.2526157
   lng: -85.7827234
 1900 West Market, Louisville, KY: null
+1900 Westbound264, Louisville, KY: null
 1900 Winston Ave, Louisville, KY:
   lat: 38.2146924
   lng: -85.6866879
@@ -16456,6 +16457,9 @@
 2100 W Hill St, Louisville, KY:
   lat: 38.2287537
   lng: -85.7930659
+2100 W Jefferson St, Louisville, KY:
+  lat: 38.256891
+  lng: -85.78532
 2100 W Kentucky St, Louisville, KY:
   lat: 38.2417983
   lng: -85.7879839
@@ -19058,6 +19062,7 @@
 2600 West9th Avenue, Louisville, KY:
   lat: 38.2543885
   lng: -85.7653514
+2600 Westbound264, Louisville, KY: null
 2600 Wilson Ave, Louisville, KY:
   lat: 38.23364
   lng: -85.797476
@@ -20741,6 +20746,9 @@
 300 E W Breckinridge St at Associates and Behavioral Health, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+300 E W Burnett Ave, Louisville, KY:
+  lat: 38.226901
+  lng: -85.7579424
 300 E W Chestnut St, Louisville, KY:
   lat: 38.2506816
   lng: -85.7736056
@@ -24898,6 +24906,9 @@
 3700 Lexington Rd. Police units were dispatched, Louisville, KY:
   lat: 38.2515315
   lng: -85.6605487
+3700 Lexington, Louisville, KY:
+  lat: 38.2515315
+  lng: -85.6605487
 3700 Locust Ave, Louisville, KY:
   lat: 38.1807555
   lng: -85.7936352
@@ -25565,6 +25576,9 @@
 3900 Fairdale Rd, near National Turnpike and Timberlake at Ovec Fairdale. EMS units were dispatched, Louisville, KY:
   lat: 38.1123715
   lng: -85.7482461
+3900 Fairfield Meadows Dr, Louisville, KY:
+  lat: 38.2934361
+  lng: -85.4911735
 ? 3900 Flans Avenue to assist a 44-year-old female who was complaining of chest pain.
   The individual was reportedly waiting outside for responders to arrive., Louisville,
   KY
@@ -26177,6 +26191,7 @@
   lat: 38.2623371
   lng: -85.7836576
 400 Dutchman's Lane, Louisville, KY: null
+400 E Croshoot, Louisville, KY: null
 400 E Jefferson St at Wayside Men’s Emergency Shelter, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -46440,6 +46455,7 @@ Garland Ave and Doerhoefer Ave, Louisville, KY: null
 Garland Ave and Hound Street, Louisville, KY: null
 Garland Ave and Howard St, Louisville, KY: null
 Garrison Rd and Lee Ave, Louisville, KY: null
+Garrs Ln and Eden Ln, Louisville, KY: null
 Gatehouse Road and Burnsdale Rd, Louisville, KY: null
 Gathwright Dr and Shelton Ave, Louisville, KY: null
 Gayle Dr and Poplar Level Rd, Louisville, KY: null
