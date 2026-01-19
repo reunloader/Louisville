@@ -26621,6 +26621,7 @@
 400 Kentucky Ave, Louisville, KY:
   lat: 38.1479417
   lng: -85.8483015
+400 Kentucky Passenger and Henry138, Louisville, KY: null
 400 Knock Shower Place. However, responding units were able, Louisville, KY: null
 400 Kohler Dr, Louisville, KY: null
 400 Landis Lakes Ct near Crop St, Louisville, KY:
@@ -27884,6 +27885,9 @@
 4000 South Fifth Street, Louisville, KY: null
 4000 South Fifth Street. EMS was involved in the response, and the situation was cleared by dispatch., Louisville, KY: null
 4000 South Fifth Street. Multiple units responded, Louisville, KY: null
+4000 South Oaklake Road at Parkland, Louisville, KY:
+  lat: 38.2422926
+  lng: -85.8157971
 4000 South Second Street, Louisville, KY: null
 4000 South3rd Street, Louisville, KY:
   lat: 38.1980524
