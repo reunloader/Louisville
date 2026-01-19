@@ -1935,6 +1935,9 @@
 : lat: 38.2000313
   lng: -85.7618272
 100 West Hill, Crop St, Louisville, KY: null
+100 West Jeff, Louisville, KY:
+  lat: 38.1537856
+  lng: -85.671884
 100 West Jefferson, Louisville, KY:
   lat: 38.253226
   lng: -85.752219
@@ -2127,6 +2130,7 @@
 100 ground plane due, Louisville, KY: null
 100 ground plane, Louisville, KY: null
 100 holding a domestic report only, Louisville, KY: null
+100 holding, Louisville, KY: null
 100 hours, Louisville, KY: null
 100 in the stop, Louisville, KY: null
 100 interchange, Louisville, KY:
@@ -13576,6 +13580,9 @@
 200 Mackie Ln, Louisville, KY:
   lat: 38.141674
   lng: -85.7669071
+200 Magazine St, Louisville, KY:
+  lat: 38.248384
+  lng: -85.7648627
 200 Magazine, Louisville, KY:
   lat: 38.2493289
   lng: -85.7734408
@@ -31769,6 +31776,7 @@
 500 Denmark, Louisville, KY:
   lat: 38.1955906
   lng: -85.7685576
+500 Diane Rd, Crosswood Pendleton, Louisville, KY: null
 500 Dixie Hwy, Louisville, KY: null
 500 Dorsey Way, Louisville, KY:
   lat: 38.252391
@@ -32205,6 +32213,9 @@
   which they suspected might have originated from a thermos. Fire units were dispatched,
   Louisville, KY
 : lat: 38.2524147
+  lng: -85.7720083
+500 Quest, Louisville, KY:
+  lat: 38.2524147
   lng: -85.7720083
 500 River Rd, Louisville, KY:
   lat: 38.2594624
@@ -33971,6 +33982,7 @@
 5500 Billtown Rd, Louisville, KY:
   lat: 38.165321
   lng: -85.568698
+5500 Bramston, Jaffa, Crosswood-Backs, Bridgesville, Louisville, KY: null
 5500 Brinson Dr, near Rome Rd, Louisville, KY:
   lat: 38.1720157
   lng: -85.8159658
