@@ -13569,6 +13569,9 @@
   lat: 38.2063146
   lng: -85.6509363
 200 Grahamville Drive, Louisville, KY: null
+? 200 Granvil Dr, 2000 block of Bashford Manor Ln, 100 block of Glen Oak Dr, and 19
+  Mary Ellen Dr. These checks appear, Louisville, KY
+: null
 200 Granvil Dr, Louisville, KY:
   lat: 38.1895335
   lng: -85.6350403
@@ -19489,6 +19492,9 @@
   lng: -85.769823
 2700 Sam Miller's Lane at Mobile Mini, Louisville, KY: null
 2700 Screet Boulevard, Louisville, KY: null
+2700 Slevin St, Louisville, KY:
+  lat: 38.2659283
+  lng: -85.7945377
 2700 South 1st Street, Louisville, KY:
   lat: 38.2450485
   lng: -85.7534965
@@ -32682,6 +32688,9 @@
   lat: 38.1852278
   lng: -85.7691524
 500 W Chestnut St near Olmstead Way and South 6th Street, Louisville, KY:
+  lat: 38.249145
+  lng: -85.760459
+500 W Chestnut St, Louisville, KY:
   lat: 38.249145
   lng: -85.760459
 500 W Jefferson St, Louisville, KY:
