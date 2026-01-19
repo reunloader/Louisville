@@ -20674,6 +20674,9 @@
 300 Adelaide, Louisville, KY:
   lat: 38.3055248
   lng: -85.5693954
+300 Air Commerce Dr, Louisville, KY:
+  lat: 38.1344443
+  lng: -85.719115
 300 Alger Ave, Louisville, KY:
   lat: 38.166412
   lng: -85.769049
@@ -32311,6 +32314,10 @@
 500 North 31st Street, Louisville, KY:
   lat: 38.272324
   lng: -85.798924
+500 North 34th Street and Bank St, Louisville, KY: null
+500 North 34th Street, Louisville, KY:
+  lat: 38.267672
+  lng: -85.806119
 500 North 35th Street, Louisville, KY:
   lat: 38.2691315
   lng: -85.805995
@@ -36683,6 +36690,9 @@
   lat: 38.1583581
   lng: -85.6483207
 6000 Poplova Road and Naomi, Louisville, KY: null
+6000 Preston Hwy, Louisville, KY:
+  lat: 38.1636609
+  lng: -85.7018578
 6000 Ray Count Drive, Louisville, KY: null
 6000 South 2nd Street, Louisville, KY:
   lat: 38.2517255
