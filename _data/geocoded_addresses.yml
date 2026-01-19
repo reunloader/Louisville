@@ -5649,6 +5649,7 @@
 1200 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+1200 Barchant Road, Louisville, KY: null
 1200 Bardstown Rd at Crescent Beach, Louisville, KY: null
 1200 Bardstown Rd at Mid City Mall, Louisville, KY:
   lat: 38.236869
@@ -14091,6 +14092,9 @@
 200 South 12th Street, Louisville, KY:
   lat: 38.256575
   lng: -85.770131
+200 South 13th Street, Louisville, KY:
+  lat: 38.2566985
+  lng: -85.7721561
 200 South 15th Street, Louisville, KY:
   lat: 38.257128
   lng: -85.775098
