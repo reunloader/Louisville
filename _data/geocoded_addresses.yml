@@ -15651,6 +15651,10 @@
 2000 Lauderdale Rd, Louisville, KY:
   lat: 38.225994
   lng: -85.696841
+? 2000 Lawson Ln. The vehicle was found unoccupied with the owner present. It has
+  been added to the police BOLO list, Louisville, KY
+: lat: 38.1727589
+  lng: -85.793567
 2000 Leahurst Ct, Louisville, KY: null
 2000 Lincoln MKX, and it was confirmed, Louisville, KY: null
 ? 2000 Lincoln Nautilus. The reporting party believed the vehicle might be present
@@ -15766,6 +15770,9 @@
 2000 Orange, Louisville, KY:
   lat: 38.1513623
   lng: -85.6682249
+2000 Osage Ave, Louisville, KY:
+  lat: 38.2390521
+  lng: -85.7877482
 2000 P-Brody Ln near P-Boyd Ct in Goldsmith Ln, Louisville, KY:
   lat: 38.192182
   lng: -85.609228
@@ -16952,6 +16959,9 @@
 : lat: 38.2649272
   lng: -85.810404
 2200 Osage Ave, Louisville, KY:
+  lat: 38.23915
+  lng: -85.7901282
+2200 Osage Ave. The vehicle is remotely controllable by the lien holder, and units responded, Louisville, KY:
   lat: 38.23915
   lng: -85.7901282
 2200 Paris Dr near Medford Ct and Liverpool Ln, Louisville, KY:
@@ -43202,6 +43212,9 @@
 85 Ambrosse Ln, Louisville, KY:
   lat: 38.1957296
   lng: -85.6033485
+85 Bicknell Ave, Louisville, KY:
+  lat: 38.183649
+  lng: -85.7894434
 85 Southpoint Dr, Louisville, KY:
   lat: 38.0943798
   lng: -85.6739771
@@ -46050,6 +46063,9 @@
 9900 Cedar Center Way. The collision involved a black Honda, and police units were dispatched, Louisville, KY:
   lat: 38.1450686
   lng: -85.5879341
+9900 Chapel Hill Rd, Louisville, KY:
+  lat: 38.1045495
+  lng: -85.6671475
 9900 Corporate Campus Dr, Louisville, KY: null
 ? 9900 Daniel Drivember 2 following a report of an individual who had fallen and sustained
   injuries. The extent of the injuries was described as "unknown," and EMS was en
