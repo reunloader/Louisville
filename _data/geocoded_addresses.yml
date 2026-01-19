@@ -5006,6 +5006,7 @@
 : null
 1100 South4th Street, Louisville, KY: null
 1100 South4th Street, St, Louisville, KY: null
+1100 South4th Street, high-rise building, Louisville, KY: null
 1100 South7th Street near Webster St, Catherine, and W Oak St, Louisville, KY:
   lat: 38.2376437
   lng: -85.7648692
@@ -10635,6 +10636,9 @@
 1700 Algonquin, with reports indicating a break in the front glass. However, the key holder was confirmed, Louisville, KY: null
 1700 Applewood Ln, Louisville, KY: null
 1700 Atoll Baker, Louisville, KY: null
+1700 Audubon Parkway, Louisville, KY:
+  lat: 38.2093058
+  lng: -85.7191592
 1700 Baird St, Louisville, KY:
   lat: 38.263097
   lng: -85.776785
@@ -15386,6 +15390,9 @@
 2000 Art Ln, near Dart Dr and Peabody Ln, Louisville, KY:
   lat: 38.2107036
   lng: -85.4287633
+2000 Auburn Dr near Cross Street Savage Drive and David Ave, Louisville, KY:
+  lat: 38.1396626
+  lng: -85.7770771
 2000 BMW four-door vehicle, Louisville, KY: null
 ? 2000 BMW four-door vehicle. The reporting party, who was on a landline, indicated
   the vehicle was associated with an individual named Robert. Further details, Louisville,
@@ -15530,6 +15537,9 @@
   Authorities continue to remind residents to stay vigilant, Louisville, KY
 : null
 2000 Crums Ln Unit 4, Louisville, KY: null
+2000 Crums Ln near Hillview Ave and Delores Ave, Louisville, KY:
+  lat: 38.1991874
+  lng: -85.8371074
 2000 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
@@ -20391,6 +20401,7 @@
   lat: 38.1443808
   lng: -85.8602956
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
+2900 Klondike Ln, Crop St, Louisville, KY: null
 2900 Kozy Kreek Dr, Louisville, KY:
   lat: 38.21026
   lng: -85.639403
@@ -46746,6 +46757,7 @@ Cross River Road and River Shore Dr, Louisville, KY: null
 Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
 Cross Street Corio Road and Whippoorough Road, Louisville, KY: null
 Cross Street Elliott Avenue and River Park Dr, Louisville, KY: null
+Cross Street Savage Drive and David Ave, Louisville, KY: null
 Crossford Borough Drive and Heatherfield Dr, Louisville, KY: null
 Crosshair Lyman Avenue and Bauer Ave, Louisville, KY: null
 Crosshore Harsey Avenue and Harold Ave, Louisville, KY: null
@@ -47018,6 +47030,7 @@ Hill Rd and Cross Rd, Louisville, KY:
 Hill Rd and Grandview Dr, Louisville, KY: null
 Hillcrest Ave and Zorn Ave, Louisville, KY: null
 Hillside Dr and Rockford Ln, Louisville, KY: null
+Hillview Ave and Delores Ave, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hillwood Dr and Crop St, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
