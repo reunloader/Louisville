@@ -86511,4 +86511,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-01-19T02:20:28.321338'
+- timestamp: '2026-01-19T02:49:54.093402'
+  total_addresses: 20984
+  successful: 10766
+  failed: 10218
+  success_rate: 51.31
+  failure_rate: 48.69
+  failure_patterns:
+    Intersection format: 2131
+    Contains location qualifiers (near/at): 2652
+    Incomplete/vague address: 2737
+    Other/Unknown: 2155
+    Contains extra sentences/context: 529
+    Police phonetic codes: 14
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2026-01-19T02:49:54.093542'
