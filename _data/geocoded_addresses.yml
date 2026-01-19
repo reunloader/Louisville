@@ -15979,6 +15979,9 @@
 21 Camp St, Louisville, KY:
   lat: 38.2315119
   lng: -85.7458501
+21 Lexington Rd, Louisville, KY:
+  lat: 38.2486645
+  lng: -85.68054
 21 North Ln, Louisville, KY:
   lat: 38.059521
   lng: -85.8746765
@@ -24882,6 +24885,7 @@
 3700 Lentz Ave, Louisville, KY:
   lat: 38.1911317
   lng: -85.7862597
+3700 Lexington Rd and Rainbow Blossom Grocery parking lot, Louisville, KY: null
 3700 Lexington Rd at CVS, Louisville, KY:
   lat: 38.2515315
   lng: -85.6605487
