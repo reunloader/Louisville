@@ -510,6 +510,7 @@
   lat: 38.202901
   lng: -85.75091
 100 Central Ave, Super 8, Louisville, KY: null
+100 Chamberlain Line, Louisville, KY: null
 100 Champion Farms Dr near Fairfield, Louisville, KY:
   lat: 38.2960989
   lng: -85.5623389
@@ -35507,6 +35508,9 @@
 600 Mall Rd, Louisville, KY: null
 600 Mallard Creek Rd, Louisville, KY: null
 600 Manneville, Louisville, KY: null
+600 Manslick Rd, Louisville, KY:
+  lat: 38.1772112
+  lng: -85.7983653
 600 Marchtown near the 600 block of Baker, Louisville, KY: null
 600 Maryhill Ln, Louisville, KY: null
 ? 600 Maryhill Ln. The initial report of the location was unclear, prompting further
@@ -39430,6 +39434,9 @@
 700 South Brooks near Sylvia St, Louisville, KY:
   lat: 38.2223304
   lng: -85.7404959
+700 South Clay, Louisville, KY:
+  lat: 38.24472
+  lng: -85.741662
 700 South Crescent Street, Louisville, KY: null
 700 South Creston, Louisville, KY: null
 700 South Eastern Parkway, Louisville, KY: null
@@ -39731,6 +39738,9 @@
 700 magazine, Louisville, KY:
   lat: 38.248125
   lng: -85.763242
+? 700 was reported stolen approximately 45 minutes earlier. The vehicle features black
+  rims, a red interior, and a dent, Louisville, KY
+: null
 7000 7Th St Rene Rd near Shorewood and Speedway, Louisville, KY: null
 7000 7th St Rene Rd, Louisville, KY: null
 7000 Allspice Ct, Louisville, KY:
