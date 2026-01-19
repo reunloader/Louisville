@@ -10942,6 +10942,7 @@
   lat: 38.2219877
   lng: -85.585648
 1700 Sonne Ave, Louisville, KY: null
+1700 Sonne Ave, cross of Lemmy Lane, Louisville, KY: null
 1700 South 13, Louisville, KY: null
 1700 South 13th Street in Park Hill, Louisville, KY: null
 1700 South 13th Street, Louisville, KY:
@@ -14354,6 +14355,9 @@
 200 Sycamore Ave, Louisville, KY:
   lat: 38.2558311
   lng: -85.706359
+200 Taylor Blvd, Louisville, KY:
+  lat: 38.1787414
+  lng: -85.7830902
 200 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
@@ -18494,6 +18498,9 @@
 2500 South 4th Street. Responding units attempted, Louisville, KY:
   lat: 38.2128532
   lng: -85.7644902
+2500 South 4th, Louisville, KY:
+  lat: 38.2128532
+  lng: -85.7644902
 ? 2500 South 5th Street following a report of a subject experiencing a mental health
   crisis. The individual was described as rambling and the situation was being handled
   by the Crisis Intervention Team. Officers were coordinating, Louisville, KY
@@ -18724,6 +18731,9 @@
   lat: 38.222604
   lng: -85.800516
 2600 Dixdale Ave**, Louisville, KY:
+  lat: 38.222604
+  lng: -85.800516
+2600 Dixdale, Louisville, KY:
   lat: 38.222604
   lng: -85.800516
 2600 Drayton Dr, Louisville, KY:
@@ -40381,6 +40391,7 @@
   an unspecified concern. All checks were conducted, Louisville, KY
 : null
 7300 Leggmore, Crop St, Royalwood Dr, and Supremus Dr, Louisville, KY: null
+7300 Leisure Core, cross of Leisure Ln, Louisville, KY: null
 7300 Leisure Ct, Louisville, KY:
   lat: 38.1003047
   lng: -85.6389932
