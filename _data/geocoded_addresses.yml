@@ -23799,6 +23799,9 @@
 3400 Vermont Ave, Louisville, KY:
   lat: 38.2554064
   lng: -85.8075985
+3400 Vermont, Louisville, KY:
+  lat: 38.2554064
+  lng: -85.8075985
 3400 Virginia Ave, Louisville, KY:
   lat: 38.2387086
   lng: -85.8105098
@@ -35915,6 +35918,9 @@
 600 South29th, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
+600 South30th Street, Louisville, KY:
+  lat: 38.253605
+  lng: -85.801039
 600 South38 Street, Louisville, KY: null
 600 South38, Louisville, KY: null
 600 South39th Street, Louisville, KY:
