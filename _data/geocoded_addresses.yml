@@ -5236,6 +5236,7 @@
 11200 Vista Greens Dr, Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched to assess the situation and confirm the cause of the alarm., Louisville, KY: null
 11200 Vista Greens Dr. Units were dispatched, Louisville, KY: null
+11200 Willowick Ct, Louisville, KY: null
 11200 Woodridge Lake Way, Louisville, KY:
   lat: 38.0930884
   lng: -85.863008
@@ -10513,6 +10514,9 @@
 17 Paradise Ln, Louisville, KY:
   lat: 38.1376816
   lng: -85.8711228
+17 Pinecroft Dr, Louisville, KY:
+  lat: 38.1334226
+  lng: -85.6929061
 17 Red Fern Rd, Louisville, KY:
   lat: 38.1733237
   lng: -85.6668487
@@ -31183,6 +31187,9 @@
 49 Nichols Dr, Louisville, KY:
   lat: 38.1953831
   lng: -85.7977947
+49 Peachtree Ave, Louisville, KY:
+  lat: 38.1861993
+  lng: -85.7811332
 49 Poplar Level Rd, Louisville, KY:
   lat: 38.1581079
   lng: -85.646379
@@ -32917,6 +32924,7 @@
 51 Walter Ave, Louisville, KY:
   lat: 38.1759795
   lng: -85.7864009
+51 an unspecified street, Louisville, KY: null
 5100 Acapulco Way, Louisville, KY: null
 5100 Antle Dr at Goodwill, Louisville, KY:
   lat: 38.0879159
@@ -46128,6 +46136,7 @@ Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
 Buckner Ave and Mitscher Ave, Louisville, KY: null
 Buckner Ave and Mix Ave, Louisville, KY: null
 Buffalo Trace Dr and Chrisley Road, Louisville, KY: null
+Bullock Road and Stuff Work Road, Louisville, KY: null
 Bunsen Parkway and Bluegrass Pky, Louisville, KY: null
 Bunton Rd and Watterson Park Rd, Louisville, KY: null
 Burnett Ave and Oakland Ave, Louisville, KY: null
