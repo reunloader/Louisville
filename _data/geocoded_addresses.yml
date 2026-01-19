@@ -3570,6 +3570,7 @@
 1000 or 1086, Louisville, KY: null
 1000 police pursuit initiation, Louisville, KY: null
 1000 the previous night’s incident location, Louisville, KY: null
+1000 the scene, with ongoing efforts, Louisville, KY: null
 1000 unspecified location, Louisville, KY: null
 1000 unspecified street, Louisville, KY: null
 1000 vehicle call, Louisville, KY: null
@@ -4930,6 +4931,9 @@
   lng: -85.7774103
 1100 South Third Street, Louisville, KY: null
 1100 South, Louisville, KY: null
+1100 South15th Street, Louisville, KY:
+  lat: 38.2392837
+  lng: -85.7781523
 1100 South17, Louisville, KY: null
 1100 South17th Street, Louisville, KY:
   lat: 38.238336
@@ -27464,6 +27468,9 @@
 400 South6th Street at the jail, Louisville, KY:
   lat: 38.2532015
   lng: -85.761072
+400 South6th Street, Louisville, KY:
+  lat: 38.2532016
+  lng: -85.761072
 400 South6th in the jail, Louisville, KY: null
 400 South6th near the jail, Louisville, KY:
   lat: 38.2532015
@@ -42605,6 +42612,9 @@
 8000 Dixie Hwy, Louisville, KY:
   lat: 38.1353679
   lng: -85.8452257
+8000 Eli Dr, Louisville, KY:
+  lat: 38.1200861
+  lng: -85.5969815
 8000 Gateway Dr, Louisville, KY: null
 8000 Gateway Dr. Responding units were dispatched, Louisville, KY: null
 8000 Glimmer Drive, Louisville, KY: null
@@ -44287,6 +44297,9 @@
   lat: 38.239502
   lng: -85.742564
 900 S Floyd St at the Friendship House, Louisville, KY:
+  lat: 38.2400376
+  lng: -85.7509994
+900 S Floyd St, Louisville, KY:
   lat: 38.2400376
   lng: -85.7509994
 900 S Hancock St, Louisville, KY:
