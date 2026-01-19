@@ -7453,6 +7453,7 @@
   lat: 38.2315709
   lng: -85.7543959
 1300 South Crescent Street, Louisville, KY: null
+1300 South First Street, Louisville, KY: null
 1300 South Firstborn Parkway, Louisville, KY: null
 1300 South Floyd, Louisville, KY:
   lat: 38.2313724
@@ -9878,6 +9879,7 @@
 1600 Clover St near Walnut Grove, Louisville, KY:
   lat: 38.170317
   lng: -85.8234769
+1600 Clover St, Hewitt, Louisville, KY: null
 1600 Clover St, Louisville, KY:
   lat: 38.170317
   lng: -85.8234769
@@ -25603,6 +25605,9 @@
 : lat: 38.1125665
   lng: -85.8631151
 3900 Dutchman's Lane, Louisville, KY: null
+3900 E W Pages Ln, Louisville, KY:
+  lat: 38.1308948
+  lng: -85.8702609
 3900 Elliott Ave, Louisville, KY:
   lat: 38.252897
   lng: -85.816444
@@ -46952,6 +46957,7 @@ Norton Healthcare Blvd and Brownsboro Rd, Louisville, KY: null
 Nose Street and Angola Road, Louisville, KY: null
 Nottingham Pky and Holgros Drive, Louisville, KY: null
 Nottingham Pky and Hungroves Drive, Louisville, KY: null
+Nupet Road and Tello Boulevard, Louisville, KY: null
 Oak New Crete Road and Commerce Park Dr, Louisville, KY: null
 Oak St and Arthur St, Louisville, KY: null
 Oak St and Barret Ave, Louisville, KY: null
