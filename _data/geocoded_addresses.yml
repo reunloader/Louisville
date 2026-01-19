@@ -5895,6 +5895,9 @@
 1200 Eastern Parkway, Louisville, KY:
   lat: 38.2249352
   lng: -85.7239258
+1200 English Villa Dr near Windermere and English Station Way, Louisville, KY:
+  lat: 38.2396936
+  lng: -85.49483
 1200 Euclid Ave, Louisville, KY:
   lat: 38.2170962
   lng: -85.7768264
@@ -22287,6 +22290,9 @@
 3000 Spring House Ln, Louisville, KY:
   lat: 38.1420698
   lng: -85.6043907
+3000 Springtime Ave near Mike Drive and Summer Cir, Louisville, KY:
+  lat: 38.070159
+  lng: -85.876047
 3000 Springtown Avenue, Louisville, KY: null
 3000 Sprowl Rd, Louisville, KY: null
 3000 St Anthony Gardens Dr, Louisville, KY: null
@@ -28041,6 +28047,7 @@
   lat: 38.2126391
   lng: -85.6459694
 4000 Keely Park Lane, Louisville, KY: null
+4000 King Island, Kinglan Rd, Louisville, KY: null
 4000 King Run Road near Marathon station, Louisville, KY:
   lat: 38.234893
   lng: -85.7273574
