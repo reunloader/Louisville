@@ -1859,6 +1859,7 @@
 100 W Main St, Louisville, KY:
   lat: 38.256015
   lng: -85.751767
+100 W Main St, Old Forster Distillery, Crop St South 2nd and East Main, Louisville, KY: null
 100 W Market St, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
@@ -11903,6 +11904,9 @@
 ? 1800 South 7th Street following a report of a female being thrown from a vehicle.
   Units 4-13 Charlie and 4-14 Adam, along with EMS, were dispatched, Louisville, KY
 : null
+1800 South 7th Street, Louisville, KY:
+  lat: 38.222458
+  lng: -85.77393
 1800 South Hirsborne Parkway, Louisville, KY: null
 1800 South Hirshborn, Louisville, KY: null
 1800 South Horshorn Parkway near Munson, Louisville, KY: null
@@ -19530,6 +19534,9 @@
   lat: 38.237794
   lng: -85.79772
 2700 Virginia, Office of Professional Standards, Louisville, KY: null
+2700 W Chestnut St, Louisville, KY:
+  lat: 38.2528863
+  lng: -85.7962457
 2700 W Jefferson St, Louisville, KY:
   lat: 38.2577882
   lng: -85.7951838
@@ -21171,6 +21178,9 @@
 : null
 300 Midfield Access Rd due, Louisville, KY: null
 300 Midfield Access Rd, Louisville, KY: null
+300 Miller Ave, Louisville, KY:
+  lat: 38.2134665
+  lng: -85.7451005
 300 Modern Way, Louisville, KY:
   lat: 38.2040002
   lng: -85.8365628
@@ -32387,6 +32397,7 @@
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
+500 S Jackson St, UofL Hospital, Louisville, KY: null
 500 S Preston St, Louisville, KY:
   lat: 38.2498099
   lng: -85.7475716
