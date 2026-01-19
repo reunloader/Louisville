@@ -1321,6 +1321,7 @@
 100 North6th Street near Muhammad Ali Center, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
+100 North6th Street, Muhammad Ali Center parking garage, Louisville, KY: null
 100 Northington Ln, Louisville, KY:
   lat: 38.321213
   lng: -85.5521743
@@ -10315,6 +10316,9 @@
 1600 Story Ave, Louisville, KY:
   lat: 38.2588187
   lng: -85.7212346
+1600 Texas Ave, Louisville, KY:
+  lat: 38.2206318
+  lng: -85.7389138
 1600 Thornberry Ave, Louisville, KY:
   lat: 38.2092826
   lng: -85.7831319
@@ -34307,6 +34311,9 @@
   lng: -85.66151
 5500 West Hall, Louisville, KY: null
 5500 West Hall, with an execution in progress. Police units were dispatched, Louisville, KY: null
+5500 Westhall Ave, Louisville, KY:
+  lat: 38.1510575
+  lng: -85.7751093
 5500 Woodcross Pl, Louisville, KY:
   lat: 38.0959737
   lng: -85.658929
