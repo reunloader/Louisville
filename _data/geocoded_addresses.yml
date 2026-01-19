@@ -945,6 +945,9 @@
   lat: 38.1920024
   lng: -85.7436865
 100 Jensenpole Street, Louisville, KY: null
+100 John, Louisville, KY:
+  lat: 38.2642606
+  lng: -85.7433783
 100 Judy Ave, Louisville, KY: null
 100 Judy Ave. The driver was found, Louisville, KY:
   lat: 38.14635
@@ -23352,6 +23355,9 @@
 3300 Kirby Ave, Louisville, KY:
   lat: 38.2360442
   lng: -85.809586
+3300 Kirby, Louisville, KY:
+  lat: 38.2360442
+  lng: -85.809586
 3300 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
@@ -28307,6 +28313,9 @@
 4100 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.093486
   lng: -85.8578124
+4100 Grand Ave, Louisville, KY:
+  lat: 38.2428284
+  lng: -85.8198306
 4100 Grand, Louisville, KY:
   lat: 38.2428284
   lng: -85.8198306
