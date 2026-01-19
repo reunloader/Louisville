@@ -8628,6 +8628,9 @@
 1400 South 8th Street, Louisville, KY:
   lat: 38.229071
   lng: -85.769064
+1400 South 9th Street near W Burnett Ave and Oakland Ave, Louisville, KY:
+  lat: 38.2297208
+  lng: -85.7710041
 1400 South Air Sport Parkway, Louisville, KY: null
 1400 South Berks Street, Louisville, KY: null
 1400 South Crescent Street, Louisville, KY: null
@@ -11458,6 +11461,9 @@
 : lat: 38.255242
   lng: -85.71663
 1800 Arthur St in the lobby area, Louisville, KY: null
+1800 Arthur St, Louisville, KY:
+  lat: 38.2208089
+  lng: -85.7521006
 1800 Ashfield Ln, Louisville, KY:
   lat: 38.2219964
   lng: -85.6133765
@@ -21322,6 +21328,9 @@
 300 North 24th Street, near Owen St and Duncan St,, Louisville, KY:
   lat: 38.263073
   lng: -85.789242
+300 North 26th St, Louisville, KY:
+  lat: 38.26498
+  lng: -85.793186
 ? 300 North 26th Street following a report of a residential fire alarm. The alarm
   company also alerted responders, Louisville, KY
 : null
@@ -32165,6 +32174,7 @@
   lng: -85.744424
 500 East Oak Cross, Louisville, KY: null
 500 East W Jacob St, Louisville, KY: null
+500 East W Jacob St, Shepherd Square C, Louisville, KY: null
 500 East W Jacob St, specifically in building 15, zone 6, Louisville, KY: null
 500 East W Kentucky St, Louisville, KY: null
 500 East W Market St, near the intersection of Hancock and Jackson, Louisville, KY: null
@@ -39419,6 +39429,9 @@
 700 Magazine St, Louisville, KY:
   lat: 38.248125
   lng: -85.763242
+700 Main St, Louisville, KY:
+  lat: 38.256802
+  lng: -85.7618553
 700 Marlowe's Radford Rd, Louisville, KY: null
 700 Marlowe's Radford Rd. The ex-boyfriend was present at the location, reportedly refusing, Louisville, KY:
   lat: 38.2187858
