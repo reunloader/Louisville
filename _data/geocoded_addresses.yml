@@ -11926,6 +11926,9 @@
   lat: 38.251429
   lng: -85.781222
 1800 West Jeff, Louisville, KY: null
+1800 West Jefferson at Joe's Palm Room, Louisville, KY:
+  lat: 38.2561291
+  lng: -85.780408
 1800 West Jefferson, Louisville, KY:
   lat: 38.2561291
   lng: -85.780408
@@ -13141,6 +13144,7 @@
 : lat: 38.2519478
   lng: -85.7504208
 200 East Tasham Road, Louisville, KY: null
+200 East W Oak St, Louisville, KY: null
 200 East and Breckenridge, Louisville, KY: null
 200 East and surrounding areas, Louisville, KY: null
 200 East at 65, Louisville, KY:
@@ -18911,6 +18915,9 @@
 2600 Meadow Dr, Louisville, KY:
   lat: 38.2089547
   lng: -85.6571197
+2600 Narragansett, Louisville, KY:
+  lat: 38.224949
+  lng: -85.801134
 2600 Narwood Dr, Louisville, KY: null
 2600 Neblick Ave, Louisville, KY: null
 2600 Neblick Avenue, near Hampstead Dr and Ralph Ave,, Louisville, KY: null
@@ -20416,6 +20423,7 @@
   lng: -85.799234
 2900 West Muhammad Ali Boulevard 7:00 p, Louisville, KY: null
 2900 West Muhammad Ali Boulevard 7:00 p.m.AM, Louisville, KY: null
+2900 West W Market St, Louisville, KY: null
 2900 Westfield Rd, Louisville, KY: null
 2900 Whittier Ave, Louisville, KY:
   lat: 38.2222856
@@ -27568,6 +27576,7 @@
 400 West Valley, Louisville, KY:
   lat: 38.1533993
   lng: -85.6971709
+400 West W Liberty St, Louisville, KY: null
 400 West W Oak St, Louisville, KY: null
 400 West W Ormsby Ave, Louisville, KY: null
 400 West Wonsby Avenue, Louisville, KY: null
@@ -42750,6 +42759,9 @@
   lng: -85.6048047
 8200 McDonald's, Louisville, KY: null
 8200 Minor Ln at Holiday Mobile Home Park, Louisville, KY:
+  lat: 38.130265
+  lng: -85.71077
+8200 Minor Ln near the Speedway, Louisville, KY:
   lat: 38.130265
   lng: -85.71077
 8200 Minor Ln, Louisville, KY:
