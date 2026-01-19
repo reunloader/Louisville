@@ -3371,6 +3371,10 @@
 1000 W Jefferson St, Louisville, KY:
   lat: 38.2547629
   lng: -85.767472
+? 1000 W Jefferson St. She has a history of self-harm and may be a crisis intervention
+  team (CIT) case. Responding police and EMS units are, Louisville, KY
+: lat: 38.2547629
+  lng: -85.767472
 1000 W Kentucky St, Louisville, KY:
   lat: 38.240488
   lng: -85.769889
@@ -27918,6 +27922,11 @@
   lat: 38.186217
   lng: -85.781235
 4000 Petrel Bank Road at GE Crop St, Louisville, KY: null
+4000 Phantom Creek Rd, Louisville, KY: null
+? 4000 Phantom Creek Rd. Emergency medical units responded quickly to the scene. They
+  are currently providing assistance and evaluating his condition. The situation remains
+  active as responders continue to care, Louisville, KY
+: null
 4000 Plymouth Rd, Louisville, KY:
   lat: 38.2396008
   lng: -85.6502891
@@ -36375,6 +36384,8 @@
 6000 College Ct, Louisville, KY:
   lat: 38.2409272
   lng: -85.765219
+6000 Com Riverway, Louisville, KY: null
+6000 Com Riverway. Emergency medical services responded promptly, Louisville, KY: null
 6000 Corinth Way near Hikes in Huntsinger, Louisville, KY:
   lat: 38.164171
   lng: -85.673453
