@@ -6915,6 +6915,10 @@
   lat: 38.1407464
   lng: -85.6853949
 1300 Bates Ave. This was a welfare-related assist., Louisville, KY: null
+1300 Beahl Blvd after reports of a person waiting, Louisville, KY: null
+1300 Beahl Blvd, Louisville, KY:
+  lat: 38.1462196
+  lng: -85.8685994
 1300 Beech Ave, Louisville, KY:
   lat: 38.1849238
   lng: -85.7942714
@@ -32332,6 +32336,9 @@
   lat: 38.1101382
   lng: -85.689338
 500 Sobriety Filters, Louisville, KY: null
+500 South 12th Street, Louisville, KY:
+  lat: 38.2303687
+  lng: -85.7746478
 500 South 18th Street near West Madison and West Muhammad Ali, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
@@ -45308,6 +45315,12 @@
 9400 Smyrna Parkway, Louisville, KY:
   lat: 38.1119053
   lng: -85.6457543
+9400 Stonelanding Pl, Louisville, KY:
+  lat: 38.1167651
+  lng: -85.8357215
+9400 Stonelanding Pl. The situation involved a welfare check, and units arrived, Louisville, KY:
+  lat: 38.1167651
+  lng: -85.8357215
 9400 Thor Ave, Louisville, KY:
   lat: 38.1116317
   lng: -85.6932303
