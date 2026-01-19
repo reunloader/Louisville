@@ -6831,6 +6831,9 @@
 12900 Willow Forest Dr, Louisville, KY:
   lat: 38.302114
   lng: -85.514676
+13 Bank St, Louisville, KY:
+  lat: 38.2654471
+  lng: -85.7821805
 13 Bardstown Rd, Louisville, KY:
   lat: 38.2392301
   lng: -85.7224699
@@ -14499,6 +14502,7 @@
   lat: 38.2573422
   lng: -85.7269577
 200 Wenham Way, Louisville, KY: null
+200 West (near South), Louisville, KY: null
 200 West Alley, Louisville, KY: null
 200 West Alley, while a gray Ford Fusion was observed moving through the 11100 block of Ornate Pl, Louisville, KY: null
 200 West Breckenridge near Third Street, Louisville, KY:
@@ -23379,6 +23383,9 @@
 3300 North44th Street, Louisville, KY:
   lat: 38.2686158
   lng: -85.8184861
+3300 Northland Dr, Louisville, KY:
+  lat: 38.1966635
+  lng: -85.8377806
 ? 3300 Northwestern Pky to investigate a water leak inside the structure. Responders
   worked to locate the source of the leak and the shut-off valve. Engine 6 concluded
   their response and returned to service a few minutes later., Louisville, KY
@@ -26303,6 +26310,7 @@
   lat: 38.2524
   lng: -85.744583
 400 E Jefferson St, Wayside Men's Emergency Shelter, Louisville, KY: null
+400 E Jefferson St, West, Louisville, KY: null
 ? 400 E Jefferson St, across from Jackson and Preston. responded to the scene. The
   fire was confirmed, and units were put on overrun, Louisville, KY
 : null
@@ -46784,6 +46792,7 @@ Lawman Road and Salvation Road, Louisville, KY: null
 Lee Ave and Sherman Ave, Louisville, KY: null
 Lee St and West Galbra Avenue, Louisville, KY: null
 Leemont Dr and Terry Rd, Louisville, KY: null
+Leith Ln and Meadowcreek Dr, Louisville, KY: null
 Lena Ln and Newburg Rd, Louisville, KY: null
 Lencott Dr and Terry Rd, Louisville, KY: null
 Leroy Ave and Matheis Ln, Louisville, KY: null
