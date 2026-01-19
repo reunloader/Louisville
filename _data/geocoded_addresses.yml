@@ -14801,6 +14801,7 @@
 200 West. The vehicle was observed, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West64 East near the St, Louisville, KY: null
 200 Westbound I-200 at Southern Pky ramp, Louisville, KY: null
 200 Westbound I-64 at W Market St, Louisville, KY:
   lat: 38.2627278
@@ -22321,6 +22322,7 @@
 3100 Furman Blvd, Louisville, KY:
   lat: 38.2179057
   lng: -85.6453983
+3100 Galway Ln, Louisville, KY: null
 3100 Garland Ave, Louisville, KY:
   lat: 38.245319
   lng: -85.804036
@@ -30917,6 +30919,9 @@
 4800 Bridal Den Way, Louisville, KY: null
 4800 Brownsboro Center, Louisville, KY: null
 4800 Brownsboro Center. Police units were sent, Louisville, KY: null
+4800 Brownsboro Rd near South Guard Bank and Trust, Louisville, KY:
+  lat: 38.2782932
+  lng: -85.6376591
 4800 Brownsboro Rd, Northern Children's Medical Group, Louisville, KY: null
 4800 Building Way, Louisville, KY: null
 4800 Burris Dr, Louisville, KY: null
