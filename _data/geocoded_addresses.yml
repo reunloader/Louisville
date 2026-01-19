@@ -575,6 +575,9 @@
 100 Coral Ave at Bingham Park, Louisville, KY:
   lat: 38.255753
   lng: -85.710754
+100 Coral Ave near Bingham Park, Emerald Ave, and Coral Ct, Louisville, KY:
+  lat: 38.255753
+  lng: -85.710754
 100 Coral Ave, Louisville, KY:
   lat: 38.255753
   lng: -85.710754
@@ -16161,6 +16164,7 @@
   lat: 38.230709
   lng: -85.6858975
 2100 Cherokee Ridgeway at Cherokee Park Rehab, Louisville, KY: null
+2100 Cherokee Ridgeway near Cherokee Park Rehab, Louisville, KY: null
 2100 Cherokee Ridgeway, Louisville, KY: null
 2100 Church Park Cir, Louisville, KY:
   lat: 38.2140553
