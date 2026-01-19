@@ -15970,6 +15970,9 @@
 2000 Unity Pl, Louisville, KY:
   lat: 38.2189265
   lng: -85.7621807
+2000 Unity Pl, near Greek Way and South 3rd Street, with responders arriving, Louisville, KY:
+  lat: 38.2189265
+  lng: -85.7621807
 2000 Vashra Green Alleyne, Louisville, KY: null
 2000 W Jefferson St, Louisville, KY:
   lat: 38.2566342
@@ -32642,6 +32645,9 @@
 500 W Ashland Ave., Louisville, KY:
   lat: 38.1852278
   lng: -85.7691524
+500 W Chestnut St near Olmstead Way and South 6th Street, Louisville, KY:
+  lat: 38.249145
+  lng: -85.760459
 500 W Jefferson St, Louisville, KY:
   lat: 38.2538197
   lng: -85.7591668
@@ -34539,6 +34545,9 @@
 5600 Jessamine, Louisville, KY:
   lat: 38.1389913
   lng: -85.8602314
+5600 Lagoona Dr, Louisville, KY:
+  lat: 38.1698947
+  lng: -85.6771558
 5600 Lana Dr, Louisville, KY:
   lat: 38.1045116
   lng: -85.6949665
@@ -43228,6 +43237,9 @@
   lat: 38.3053449
   lng: -85.5213912
 8400 Woodside Pl. Responding units arrived, Louisville, KY: null
+8410 [Street Name], Louisville, KY:
+  lat: 38.1937795
+  lng: -85.6025353
 85 Ambrosse Ln, Louisville, KY:
   lat: 38.1957296
   lng: -85.6033485
@@ -46923,6 +46935,7 @@ Johnson School Rd and Wheeler Church Rd, Louisville, KY: null
 Joyce Dr and General Ln, Louisville, KY: null
 Juanita Ln and Marcitis Rd, Louisville, KY: null
 Jule Street and Duncan St, Louisville, KY: null
+Justan Ave and Oneida Ave, Louisville, KY: null
 Kaleville Road and Lake Forest Dr, Louisville, KY: null
 Kay Avenue and Indiana Ave, Louisville, KY: null
 Kenjoy Dr and Midland Ave, Louisville, KY: null
