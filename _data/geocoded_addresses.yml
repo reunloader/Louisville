@@ -404,6 +404,7 @@
 100 Becker, Louisville, KY:
   lat: 38.1720002
   lng: -85.708019
+100 Beckley Springs Dr, Louisville, KY: null
 100 Beecher St, Louisville, KY:
   lat: 38.1919865
   lng: -85.7727467
@@ -3181,6 +3182,7 @@
 1000 South 29th Street. The incident involved a male victim who sustained a gunshot wound. Further details, Louisville, KY:
   lat: 38.243639
   lng: -85.801107
+1000 South 2nd Street Baptist Towers, Louisville, KY: null
 1000 South 2nd Street at Baptist Towers, Louisville, KY:
   lat: 38.2385476
   lng: -85.7570484
@@ -5784,6 +5786,9 @@
 1200 Constitution Dr, Louisville, KY:
   lat: 38.148949
   lng: -85.791147
+1200 Crop St West Kentucky near Webster St, Louisville, KY:
+  lat: 38.2573422
+  lng: -85.7269577
 1200 Crop St or Preston Hwy, Louisville, KY: null
 1200 Crouch St and 500 block of Denmark St, Louisville, KY: null
 1200 Cypher St, Louisville, KY: null
@@ -19231,6 +19236,9 @@
 265 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+27 Bank St, Louisville, KY:
+  lat: 38.2654471
+  lng: -85.7821805
 27 Cypress St, Louisville, KY:
   lat: 38.2214381
   lng: -85.8005435
@@ -19873,6 +19881,7 @@
 2800 Newburg Rd, Louisville, KY:
   lat: 38.2099142
   lng: -85.694737
+2800 North Hirshbaum Parkway, Louisville, KY: null
 2800 North Hurst-Bourne Parkway, Louisville, KY: null
 2800 Northwestern Pky across 29th and 28th, Louisville, KY: null
 2800 Northwestern Pky near 29th and 28th Streets, Louisville, KY:
@@ -37760,6 +37769,9 @@
   lng: -85.7315322
 6600 Harrods View Cir, Crest Street, Woodrow's Court, Louisville, KY: null
 6600 Hertz View Circle, Louisville, KY: null
+6600 Hollow Tree, Louisville, KY:
+  lat: 38.1540521
+  lng: -85.6221217
 6600 Hunter's Creek, Louisville, KY: null
 ? 6600 Jixie Highway. Responders encountered a female individual who appeared to be
   suffering from cold exposure. The individual also seemed to be in distress. Medical
