@@ -8924,6 +8924,7 @@
 14600 Landon Ct, Louisville, KY:
   lat: 38.2365686
   lng: -85.4946408
+147 unspecified street, Louisville, KY: null
 14700 Brush Run Rd, Louisville, KY:
   lat: 38.1227336
   lng: -85.4920112
@@ -28216,6 +28217,9 @@
 4000 Starks Dr, Louisville, KY:
   lat: 38.1857997
   lng: -85.6700405
+4000 Stoneview Dr near Indian Woods Dr, Louisville, KY:
+  lat: 38.2679924
+  lng: -85.6567245
 4000 Summit Plaza Dr in AT&T, Louisville, KY: null
 4000 Summit Plaza Dr, Louisville, KY:
   lat: 38.3081143
@@ -31335,6 +31339,9 @@
 4800 Outer Loop near Walmart, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
+4800 Outer Loop near the Lid Stores, Louisville, KY:
+  lat: 38.1376893
+  lng: -85.6734119
 4800 Outer Loop, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
@@ -33514,6 +33521,9 @@
   lng: -85.6125043
 5200 Citrus Circle, Louisville, KY: null
 5200 Commerce Crossing, in front of Orchid House, Louisville, KY: null
+5200 Cooper Chapel Rd near Charleswood Rd and Chapel Hill Rd, Louisville, KY:
+  lat: 38.1034503
+  lng: -85.6644534
 5200 Craig's Creek, Louisville, KY: null
 5200 Craigs Creek Dr, Louisville, KY:
   lat: 38.313667
@@ -46602,6 +46612,7 @@ Chamberlain Ln and Maripit Lane, Louisville, KY: null
 Chamberlain Ln and Westport Rd, Louisville, KY: null
 Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
 Chapman Ridge Rd and Taylorsville Lake Rd, Louisville, KY: null
+Charleswood Rd and Chapel Hill Rd, Louisville, KY: null
 Charleswood Rd and Cooper Chapel Rd, Louisville, KY: null
 Charlotte Dr and Raydale Dr, Louisville, KY: null
 Chase Rd and Steffan Drive, Louisville, KY: null
