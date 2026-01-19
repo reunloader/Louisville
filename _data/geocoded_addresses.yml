@@ -167,6 +167,9 @@
   lat: 38.2687352
   lng: -85.4748792
 06 Springford Avenue, Louisville, KY: null
+07 Bardstown Rd, Louisville, KY:
+  lat: 38.1568327
+  lng: -85.5905839
 07 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
@@ -16575,6 +16578,9 @@
 22 Anna Ln, Louisville, KY:
   lat: 38.1793067
   lng: -85.8038096
+22 Dixdale Ave, Louisville, KY:
+  lat: 38.2225783
+  lng: -85.7985796
 22 Griffiths Ave, Louisville, KY:
   lat: 38.2650846
   lng: -85.7872589
