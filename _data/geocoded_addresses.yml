@@ -9861,6 +9861,7 @@
 1600 Cedar St, Louisville, KY:
   lat: 38.254615
   lng: -85.777265
+1600 Chai Chester, Louisville, KY: null
 1600 Clarice Way, Louisville, KY:
   lat: 38.1764542
   lng: -85.812257
@@ -26611,6 +26612,9 @@
   lat: 38.218018
   lng: -85.771712
 400 Iowa Ave near Finn, Louisville, KY:
+  lat: 38.207651
+  lng: -85.765277
+400 Iowa Ave, Louisville, KY:
   lat: 38.207651
   lng: -85.765277
 400 Iroquois Gardens Dr, Louisville, KY:
