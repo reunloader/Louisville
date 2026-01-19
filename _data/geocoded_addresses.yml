@@ -357,6 +357,7 @@
 100 Baker near billboard, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+100 Baker responded, Louisville, KY: null
 100 Baker with no reported injuries or obstructions, Louisville, KY: null
 100 Baker, 200 block of Baker, and 200 block of Adam, Louisville, KY: null
 100 Baker, 3rd Street side, Louisville, KY: null
@@ -11133,6 +11134,7 @@
 1700 Stevens Ave near Quadrant Ave, North Ln, Highlands Nursing Home and rehab, Louisville, KY:
   lat: 38.228573
   lng: -85.7110967
+1700 Stevens Ave, Highland Mercy and Rehab, Bed 2, Louisville, KY: null
 1700 Stevens Ave, Louisville, KY:
   lat: 38.228573
   lng: -85.7110967
@@ -18508,6 +18510,9 @@
 2500 Leven Ct, Louisville, KY:
   lat: 38.094036
   lng: -85.651207
+2500 Lindsay Ave near Brownsboro Rd, Louisville, KY:
+  lat: 38.260707
+  lng: -85.7048022
 2500 Lindsay Ave, Louisville, KY:
   lat: 38.260707
   lng: -85.7048022
@@ -19162,6 +19167,7 @@
 2600 W Kentucky St, Louisville, KY:
   lat: 38.2430806
   lng: -85.7957604
+2600 W Madison St, Crop St, South 27th and South 26th, Louisville, KY: null
 2600 W Madison St, Louisville, KY:
   lat: 38.2540077
   lng: -85.7945055
@@ -32760,6 +32766,7 @@
 500 West Broadway, Louisville, KY:
   lat: 38.245851
   lng: -85.7605615
+500 West Chesna, Crop St, Chuck Olmstead Way, and South 6th Street, Louisville, KY: null
 500 West Cormsby, Louisville, KY: null
 500 West Hill and Keeble, Louisville, KY: null
 ? 500 West Hill. They responded to a suspicious vehicle, a white Dodge Charger, and
