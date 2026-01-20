@@ -15435,6 +15435,7 @@
 200 parking, Louisville, KY:
   lat: 38.1894844
   lng: -85.7554511
+200 passing Virginia, then onto 34 and northbound, Louisville, KY: null
 200 phone, south side, Louisville, KY: null
 200 ramp and Chestnut Road, Louisville, KY: null
 200 ramp, Louisville, KY:
@@ -15914,6 +15915,12 @@
   caller mentioned hearing an explosion and expressed concern about potential fire
   spreading, Louisville, KY
 : null
+2000 Manning Rd, Louisville, KY:
+  lat: 38.1977889
+  lng: -85.7332279
+2000 Manning Rd. The suspect was heading west on King Run Road. Authorities issued a BOLO, Louisville, KY:
+  lat: 38.1977889
+  lng: -85.7332279
 2000 Marine, Louisville, KY:
   lat: 38.2762923
   lng: -85.7892258
@@ -17742,6 +17749,9 @@
   lat: 38.245719
   lng: -85.790399
 2300 Howard St near the back alleyway, Louisville, KY:
+  lat: 38.245719
+  lng: -85.790399
+2300 Howard St, Louisville, KY:
   lat: 38.245719
   lng: -85.790399
 2300 Hurstbourne Village Dr, Louisville, KY: null
@@ -26994,6 +27004,7 @@
   lng: -85.74667
 400 East River Senate Wayside, Louisville, KY: null
 400 East Shepherd Street, Louisville, KY: null
+400 East South, Louisville, KY: null
 400 East Valley in building C, Louisville, KY: null
 400 East Valley, Oscar Manor, Building D, Crop St, South Jackson, and South Preston, Louisville, KY: null
 400 East W Chestnut St, Louisville, KY: null
@@ -28760,6 +28771,7 @@
 4100 Dellafay Dr, Louisville, KY:
   lat: 38.1587447
   lng: -85.6857415
+4100 Dennis Way, Louisville, KY: null
 4100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -28857,6 +28869,7 @@
   lat: 38.260451
   lng: -85.817807
 4100 Highlight Rain near John Silver's Core and Longboat Core, Louisville, KY: null
+4100 Hillview Ave, Louisville, KY: null
 4100 Jail at Boulevard Crossing, Louisville, KY: null
 ? 4100 Jail at Boulevard Crossing, to take a report for a stolen vehicle. The theft
   was reported to have occurred within the preceding 20 minutes., Louisville, KY
