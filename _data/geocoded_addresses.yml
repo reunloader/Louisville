@@ -7885,6 +7885,9 @@
   scene. The situation was classified as a Code 13501., Louisville, KY
 : null
 13500 Sheehan Landing Dr. Emergency medical services were already en route, Louisville, KY: null
+13500 Springs Station Rd, Louisville, KY:
+  lat: 38.2907263
+  lng: -85.507014
 13500 Triton Park Blvd, Louisville, KY:
   lat: 38.279377
   lng: -85.504782
@@ -24708,6 +24711,9 @@
 3600 Gateview Cir, Louisville, KY:
   lat: 38.118823
   lng: -85.828332
+3600 Georgetown Cir, Louisville, KY:
+  lat: 38.1941754
+  lng: -85.7965851
 3600 Georgetown Pl, Louisville, KY:
   lat: 38.1944947
   lng: -85.7937446
@@ -27022,6 +27028,9 @@
   lat: 38.1875265
   lng: -85.7565466
 400 Lyleck, Louisville, KY: null
+400 M St, Louisville, KY:
+  lat: 38.208957
+  lng: -85.765053
 400 M Street, Louisville, KY:
   lat: 38.208957
   lng: -85.765053
@@ -37847,6 +37856,9 @@
   lat: 38.087855
   lng: -85.8832522
 6500 Spitsberwood Court, Louisville, KY: null
+6500 St Bernadette Ave, Louisville, KY:
+  lat: 38.3349259
+  lng: -85.5625584
 6500 St, Louisville, KY: null
 6500 Strawberry Ln, Louisville, KY:
   lat: 38.1608055
@@ -42226,6 +42238,9 @@
 800 Hazel St, Louisville, KY:
   lat: 38.2475147
   lng: -85.8048321
+800 High Point Cir, Louisville, KY:
+  lat: 38.1921926
+  lng: -85.5988476
 800 Hoock Ave, Louisville, KY:
   lat: 38.2150037
   lng: -85.6799718
@@ -46711,6 +46726,7 @@ Central Ave and Burton Ave, Louisville, KY: null
 Central Ave and Lindenburg Street, Louisville, KY: null
 Central Ave and Taylor Blvd, Louisville, KY: null
 Chamberlain Ln and Bell Tucker Ln, Louisville, KY: null
+Chamberlain Ln and Blazing Star Ln, Louisville, KY: null
 Chamberlain Ln and Maripit Lane, Louisville, KY: null
 Chamberlain Ln and Westport Rd, Louisville, KY: null
 Champion Farms Dr and Springhurst Blvd, Louisville, KY: null
