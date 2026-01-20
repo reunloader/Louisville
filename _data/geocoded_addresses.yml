@@ -517,6 +517,10 @@
 100 Camp Ground Rd, Louisville, KY:
   lat: 38.2141038
   lng: -85.8263688
+? 100 Carnation Dr, 7400 block of Garrison Rd Apt4, 2900 block of Garey Ln, 7200 block
+  of Yorktown Rd Apt3, 9100 block of Gayle Dr, 1700 block of Lana Dr, and 1700 block
+  of Old Bluegrass Ave, Louisville, KY
+: null
 100 Carraway, Louisville, KY: null
 100 Catawba Hillsway, Louisville, KY: null
 100 Cedar Meadows Ct, Louisville, KY: null
@@ -2258,6 +2262,7 @@
   Louisville, KY
 : null
 100 with Kentucky tags James4, James 453, Louisville, KY: null
+100 with a license plate of George Robert8813, Louisville, KY: null
 100 yards towards Cane Run, Louisville, KY: null
 100, Louisville, KY:
   lat: 38.2397699
@@ -13030,6 +13035,7 @@
 200 Burwell Ave, Louisville, KY:
   lat: 38.2261448
   lng: -85.7939294
+200 CZ Drive, Louisville, KY: null
 200 Cambridge Dr near 3rd and 2nd streets, Louisville, KY:
   lat: 38.1629212
   lng: -85.7679383
@@ -28966,6 +28972,9 @@
 4100 Orchard Way, Louisville, KY:
   lat: 38.2026177
   lng: -85.830621
+4100 Outer Loop at CVS Health, Louisville, KY:
+  lat: 38.1380187
+  lng: -85.6860409
 4100 Peabody and Carey, Louisville, KY: null
 4100 Phantom Creek Rd near Butte Bank, Louisville, KY: null
 4100 Phantom Creek Rd, Louisville, KY: null
@@ -40480,6 +40489,7 @@
   lng: -85.765257
 700 West Oaks near South 7th and South 9th Street ramp, Louisville, KY: null
 700 West Orange City, Louisville, KY: null
+700 West Orange V, Louisville, KY: null
 700 West Orangeby Avenue near 9th Street, Louisville, KY:
   lat: 38.2345368
   lng: -85.7675997
@@ -44734,6 +44744,7 @@
   lat: 38.2321039
   lng: -85.7370764
 900 Esau, W Muhammad Ali Blvdmber 2, Louisville, KY: null
+900 Espar Alley, Louisville, KY: null
 900 Euclid Ave, Louisville, KY:
   lat: 38.211438
   lng: -85.772574
