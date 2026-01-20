@@ -321,6 +321,9 @@
   KY
 : lat: 38.257812
   lng: -85.725484
+100 Adams**, Louisville, KY:
+  lat: 38.257812
+  lng: -85.725484
 100 Adams, Louisville, KY:
   lat: 38.257812
   lng: -85.725484
@@ -23762,6 +23765,9 @@
 3300 Trout Creek Dr, Louisville, KY:
   lat: 38.2051535
   lng: -85.6800776
+3300 Utah Ave**, Louisville, KY:
+  lat: 38.2062816
+  lng: -85.7851095
 3300 Utah Ave, Louisville, KY:
   lat: 38.2062816
   lng: -85.7851095
@@ -29689,6 +29695,7 @@
 4300 South4th Street, Louisville, KY:
   lat: 38.2205383
   lng: -85.762938
+4300 Southbrook Street**, Louisville, KY: null
 4300 Southbrook Street, Louisville, KY: null
 4300 Southern Pky apartment2, Louisville, KY: null
 4300 Southern Pky, Louisville, KY:
