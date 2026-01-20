@@ -20805,6 +20805,9 @@
 2900 W Kentucky St, Louisville, KY:
   lat: 38.243682
   lng: -85.80115
+2900 W Madison St, Louisville, KY:
+  lat: 38.254562
+  lng: -85.799234
 2900 W Main St, Louisville, KY:
   lat: 38.261272
   lng: -85.79915
@@ -21295,6 +21298,9 @@
   to the lobby to meet the patient., Louisville, KY
 : null
 300 East Market Street, within the Nucleus Innovation Park,, Louisville, KY: null
+300 East Market, Louisville, KY:
+  lat: 38.2538759
+  lng: -85.7477145
 300 East Morgan, Louisville, KY:
   lat: 38.1942114
   lng: -85.7256258
@@ -28614,6 +28620,7 @@
   lat: 38.2974974
   lng: -85.5546862
 4000 Towne Center Dr, identified as the McAllister's residence. Attempts, Louisville, KY: null
+4000 Ula-Style, Louisville, KY: null
 4000 W Main St near North 4th and North 5th, Louisville, KY:
   lat: 38.264095
   lng: -85.814794
@@ -33830,6 +33837,9 @@
   lat: 38.2098564
   lng: -85.7664245
 5100 South First Street, Louisville, KY: null
+5100 South Overbrook, Louisville, KY:
+  lat: 38.2057447
+  lng: -85.862192
 5100 Southpoint Dr, Louisville, KY:
   lat: 38.0946718
   lng: -85.6744859
