@@ -1900,6 +1900,9 @@
   lat: 38.257183
   lng: -85.726966
 100 West Adairmber, Louisville, KY: null
+100 West Ali, Louisville, KY:
+  lat: 38.250493
+  lng: -85.752382
 100 West Alley Boulevard, Louisville, KY: null
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
@@ -14513,6 +14516,7 @@
 200 Sycamore Ave, Louisville, KY:
   lat: 38.2558311
   lng: -85.706359
+200 Tables, Louisville, KY: null
 200 Taylor Blvd, Louisville, KY:
   lat: 38.1787414
   lng: -85.7830902
@@ -27769,6 +27773,9 @@
 400 Watermark Pl due, Louisville, KY: null
 400 Watermark Pl near Thrift Dr, Louisville, KY: null
 400 Wayside between Jefferson Cross St and S Preston St, Louisville, KY: null
+400 West Ali, Louisville, KY:
+  lat: 38.25115
+  lng: -85.758368
 400 West Alley, Louisville, KY: null
 400 West Ave, Louisville, KY:
   lat: 38.1089403
@@ -32178,6 +32185,9 @@
 500 East Liberty, Louisville, KY:
   lat: 38.251015
   lng: -85.744424
+500 East Market, Louisville, KY:
+  lat: 38.253612
+  lng: -85.742705
 500 East Oak Cross, Louisville, KY: null
 500 East W Jacob St, Louisville, KY: null
 500 East W Jacob St, Shepherd Square C, Louisville, KY: null
