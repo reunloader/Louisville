@@ -1030,6 +1030,7 @@
   KY
 : null
 100 Lorry Valley, Louisville, KY: null
+100 Lowry Valley Road, Crop St, LaNormand D Drive, and LaFontaine Court, Louisville, KY: null
 100 Lytle, Louisville, KY:
   lat: 38.2617105
   lng: -85.7752953
@@ -1148,6 +1149,9 @@
 100 North 19th Street, Louisville, KY:
   lat: 38.259502
   lng: -85.781427
+100 North 21st, Louisville, KY:
+  lat: 38.260924
+  lng: -85.7844485
 100 North 28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
@@ -25592,6 +25596,9 @@
 3754 Craig Ave, Louisville, KY:
   lat: 38.1894223
   lng: -85.7902689
+38 Bardstown Rd, Louisville, KY:
+  lat: 38.1568327
+  lng: -85.5905839
 38 Grand Ave, Louisville, KY:
   lat: 38.241364
   lng: -85.8090995
@@ -30153,6 +30160,7 @@
 : lat: 38.1380709
   lng: -85.6792728
 4400 Ovo Drive, Louisville, KY: null
+4400 Park Center Road near Zips Car Wash, Louisville, KY: null
 4400 Parker Ave, Louisville, KY:
   lat: 38.2692008
   lng: -85.8183873
@@ -40576,6 +40584,7 @@
 7100 Alma June Way, Louisville, KY:
   lat: 38.1253054
   lng: -85.6407069
+7100 Bacon Bushland and Mandeville Rd, Louisville, KY: null
 7100 Bermuda Ln, Louisville, KY:
   lat: 38.1598508
   lng: -85.7162612
