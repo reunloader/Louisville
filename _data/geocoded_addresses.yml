@@ -9072,6 +9072,7 @@
   lng: -85.7800817
 1500 Alley and Avenue, Louisville, KY: null
 1500 Alliant Ave near Blue West Blackway Alliant Court, Louisville, KY: null
+1500 Alliant Ave near Bluegrass Pky and Alliant Ct, Louisville, KY: null
 1500 Alliant Avenue 9:00 a, Louisville, KY: null
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
 1500 Alton Ln, Louisville, KY:
@@ -29262,6 +29263,9 @@
 4200 Preston Hwy, Louisville, KY:
   lat: 38.182274
   lng: -85.720866
+4200 Progress Blvd, Louisville, KY:
+  lat: 38.1840483
+  lng: -85.6536046
 4200 Quiet Way, Louisville, KY:
   lat: 38.1617284
   lng: -85.6838502
@@ -29620,6 +29624,7 @@
 4300 Norfolk Dr, near Wichita Lane and Beechbrook Rd, Louisville, KY:
   lat: 38.184023
   lng: -85.641219
+4300 Norton Commons Blvd and Angel Trumpet Dr, Louisville, KY: null
 4300 Outer Loop (cosmetic section), Louisville, KY: null
 4300 Outer Loop, Louisville, KY:
   lat: 38.1375353
@@ -31334,6 +31339,7 @@
 4700 South First Street, backyard, Louisville, KY: null
 4700 South First, Louisville, KY: null
 4700 South Hirsborne Parkway at Morning Point, Louisville, KY: null
+4700 South Rettlin Avenue, Louisville, KY: null
 4700 South Rutland, Louisville, KY: null
 4700 South St, Louisville, KY:
   lat: 38.2182659
@@ -47143,6 +47149,7 @@ Flaxman Boulevard and Shepherdsville Rd, Louisville, KY: null
 Flicker Rd and Foreman Ln, Louisville, KY: null
 Florence Ave and Warren Ave, Louisville, KY: null
 Floyd Avenue and Olive St, Louisville, KY: null
+Floyd St and Bardstown Rd, Louisville, KY: null
 Floyd St and Caldwell St, Louisville, KY: null
 Floyd St and Central Ave, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
@@ -47590,6 +47597,7 @@ Northbound Drive and Welman Dr, Louisville, KY: null
 Northumberland Dr and Bay Run Dr, Louisville, KY: null
 Northwestern Pky and Mae St, Louisville, KY: null
 Northwestern Pky and Pflanz Ave, Louisville, KY: null
+Norton Commons Blvd and Angel Trumpet Dr, Louisville, KY: null
 Norton Commons Blvd and Passage Flower Street, Louisville, KY: null
 Norton Healthcare Blvd and Brownsboro Rd, Louisville, KY: null
 Nose Street and Angola Road, Louisville, KY: null

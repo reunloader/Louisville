@@ -88255,4 +88255,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 3
   batch_new_successes: 3
-last_updated: '2026-01-20T09:59:00.747928'
+- timestamp: '2026-01-20T10:08:57.914550'
+  total_addresses: 21319
+  successful: 10952
+  failed: 10367
+  success_rate: 51.37
+  failure_rate: 48.63
+  failure_patterns:
+    Intersection format: 2174
+    Contains location qualifiers (near/at): 2669
+    Incomplete/vague address: 2791
+    Other/Unknown: 2189
+    Contains extra sentences/context: 530
+    Police phonetic codes: 14
+  batch_success_rate: 16.67
+  batch_new_addresses: 6
+  batch_new_successes: 1
+last_updated: '2026-01-20T10:08:57.914735'
