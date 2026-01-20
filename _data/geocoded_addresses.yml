@@ -3355,6 +3355,9 @@
   influence. The individual was reportedly parked in an SUV in the area. A K-9 unit
   was requested, Louisville, KY
 : null
+1000 Strawberry Ln, Louisville, KY:
+  lat: 38.1588349
+  lng: -85.7636758
 1000 Taylor Ave, Louisville, KY:
   lat: 38.2016802
   lng: -85.7027508
@@ -15251,6 +15254,9 @@
 200 north I-200 at Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+200 north at Brownsboro Rd, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 north at the 32 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -38995,6 +39001,9 @@
   lng: -85.8331321
 700 China Walk, Linn Station Rd, Louisville, KY: null
 700 Class House, 2nd Street, Louisville, KY: null
+700 Cliff Ave, Louisville, KY:
+  lat: 38.1875105
+  lng: -85.775454
 700 Coke St, Louisville, KY:
   lat: 38.239504
   lng: -85.742312
@@ -46519,6 +46528,7 @@ Bignol Street and Parthenia Ave, Louisville, KY: null
 Bill Tom Road and Lovers Ln, Louisville, KY: null
 Billtown Rd and Mason Rd, Louisville, KY: null
 Billtown Rd and Schaffner Ave, Louisville, KY: null
+Billtown Rd and Seatonville Rd, Louisville, KY: null
 Billtown Rd and Shaffer Ln, Louisville, KY: null
 Bishop Ln and Jennings Ln, Louisville, KY: null
 Bishop Ln and Newburg Rd, Louisville, KY: null
