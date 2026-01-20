@@ -5123,6 +5123,7 @@
   lng: -85.7796572
 1100 West All E, Louisville, KY: null
 1100 West Alley, Louisville, KY: null
+1100 West Alley, number 103, Louisville, KY: null
 1100 West Broadway, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
@@ -25275,6 +25276,7 @@
 3700 Glenmeade Rd, Louisville, KY:
   lat: 38.206307
   lng: -85.648377
+3700 Hawk and Creston Dr, Louisville, KY: null
 3700 Hillsdale Rd, Louisville, KY:
   lat: 38.3063205
   lng: -85.6396081
@@ -25830,6 +25832,7 @@
 3800 Vermont Ave, Louisville, KY:
   lat: 38.2560801
   lng: -85.8139793
+3800 Vermont Ave, ensuring safe transportation, Louisville, KY: null
 3800 W Main St, Louisville, KY:
   lat: 38.263212
   lng: -85.811791
@@ -31308,6 +31311,9 @@
   lat: 38.179942
   lng: -85.718437
 4700 Preston Hwy, Louisville, KY:
+  lat: 38.179942
+  lng: -85.718437
+4700 Preston, Louisville, KY:
   lat: 38.179942
   lng: -85.718437
 4700 Quinn Dr, Louisville, KY: null
@@ -41617,6 +41623,9 @@
 7600 Rose Island Rd near Gingerwood Event Hall, Louisville, KY:
   lat: 38.358513
   lng: -85.6130547
+7600 South 2nd, Louisville, KY:
+  lat: 38.2517255
+  lng: -85.7540197
 7600 South Hancock, Louisville, KY:
   lat: 38.2252229
   lng: -85.7469708
@@ -42417,6 +42426,9 @@
   lng: -85.7759209
 800 Glenwood Rd, Louisville, KY: null
 800 Granite Dr, Louisville, KY: null
+800 Greenhurst Dr, Louisville, KY:
+  lat: 38.1906292
+  lng: -85.607742
 800 Greenwood Ave, Louisville, KY:
   lat: 38.2411234
   lng: -85.7886759
