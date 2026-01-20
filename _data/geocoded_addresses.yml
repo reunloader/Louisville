@@ -22225,6 +22225,9 @@
   lng: -85.8482166
 3000 Dr, Louisville, KY: null
 3000 Duncan St near North 30th Street, Louisville, KY: null
+3000 Dundee Rd, Louisville, KY:
+  lat: 38.2124668
+  lng: -85.6873164
 3000 Eagle Pass, Louisville, KY:
   lat: 38.2126508
   lng: -85.7253292
@@ -43584,6 +43587,9 @@
 8300 Grandel Forest Way, Louisville, KY:
   lat: 38.1531811
   lng: -85.8654472
+8300 Huntsman Trail, Louisville, KY:
+  lat: 38.139885
+  lng: -85.607389
 8300 Johnson School Rd, Louisville, KY:
   lat: 38.128094
   lng: -85.600795
