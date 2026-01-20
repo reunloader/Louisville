@@ -1831,6 +1831,9 @@
   and outcome of this stop were not detailed in the initial report., Louisville, KY
 : null
 100 Trace and Soting Way due, Louisville, KY: null
+100 Trafalgar Square. EMS was called, Louisville, KY:
+  lat: 38.2086424
+  lng: -85.6725054
 100 Tuff Street, Louisville, KY: null
 100 Tuff Street. Responding officers worked to resolve the situation and ensure safety, Louisville, KY: null
 100 Turing Court, Grusso Turing Drive, Louisville, KY: null
@@ -19248,6 +19251,9 @@
 2600 Ogonquin Parkway, Louisville, KY: null
 2600 Olive St and 3000 block of Crittenden Dr, Louisville, KY: null
 2600 Olive St, Crop St, Dixdale Ave, South 28th, Louisville, KY: null
+2600 Oregon Ave, Louisville, KY:
+  lat: 38.2208833
+  lng: -85.8006224
 2600 Outer Loop, Louisville, KY:
   lat: 38.1342654
   lng: -85.7207797
@@ -41660,6 +41666,9 @@
   lat: 38.133864
   lng: -85.760442
 7600 Frontgate Dr, Louisville, KY: null
+7600 Garrison Rd, Louisville, KY:
+  lat: 38.1360533
+  lng: -85.7563962
 7600 Glacier Lane, Louisville, KY: null
 7600 Granwood Pl, Louisville, KY:
   lat: 38.1545559
