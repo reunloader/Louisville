@@ -1911,6 +1911,9 @@
 100 West Broadway at City Gear, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+100 West Broadway at Hotel Austria South 2nd and South 1st Street, Louisville, KY:
+  lat: 38.2452409
+  lng: -85.753739
 100 West Broadway at Hotel Louisville near South 2nd Street, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -16838,6 +16841,9 @@
 2200 Auburn Dr, Louisville, KY:
   lat: 38.1396626
   lng: -85.7770771
+2200 Bank St at Baptist Church Auditorium, Louisville, KY:
+  lat: 38.2669335
+  lng: -85.7845855
 2200 Bank St at Northside Christian School and Shawnee Baptist Church, Louisville, KY:
   lat: 38.2669335
   lng: -85.7845855
@@ -19121,6 +19127,7 @@
   lat: 38.224949
   lng: -85.801134
 2600 Narwood Dr, Louisville, KY: null
+2600 Neblett Ave, Louisville, KY: null
 2600 Neblick Ave, Louisville, KY: null
 2600 Neblick Avenue, near Hampstead Dr and Ralph Ave,, Louisville, KY: null
 2600 New LaGrange Road, Louisville, KY: null
@@ -28568,6 +28575,9 @@
 4100 Fern Valley Rd at Cedar Grove, Louisville, KY:
   lat: 38.1571885
   lng: -85.6857729
+4100 Fern Valley Rd at South Nursing Station, Louisville, KY:
+  lat: 38.1571885
+  lng: -85.6857729
 4100 Fern Valley Rd, Louisville, KY:
   lat: 38.1571885
   lng: -85.6857729
@@ -29496,6 +29506,7 @@
 4300 Lake Dreamland Rd, Louisville, KY:
   lat: 38.2071938
   lng: -85.8572798
+4300 Landside Dr, cross of Enridge Dr and Brighton Springs Ln, Louisville, KY: null
 4300 Larkwood Ave, Louisville, KY:
   lat: 38.2591747
   lng: -85.8219191
@@ -29710,6 +29721,9 @@
 4300 York St, Louisville, KY:
   lat: 38.243908
   lng: -85.7562365
+4303 Landside Dr, Louisville, KY:
+  lat: 38.2005803
+  lng: -85.6229412
 4308 Willowview Blvd, Louisville, KY:
   lat: 38.1817947
   lng: -85.5549808
@@ -46982,6 +46996,7 @@ Elmwood Ave and Grimsay Drive, Louisville, KY: null
 Elmwood Ave and Welch Dr, Louisville, KY: null
 Emerson Ave and Phillips Ln, Louisville, KY: null
 Englewood Ave and Richland Ave, Louisville, KY: null
+Enridge Dr and Brighton Springs Ln, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
 Evans St and Catharine St, Louisville, KY: null
