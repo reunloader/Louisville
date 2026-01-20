@@ -6797,6 +6797,9 @@
   lng: -85.902606
 12400 McDowell Drive, Crop St, Abigail Dr, and Stonehaven Ct, Louisville, KY: null
 12400 North Bardstown Rd, Louisville, KY: null
+12400 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
   lng: -85.7171011
@@ -39132,6 +39135,9 @@
 700 Bermuda Ln, Louisville, KY:
   lat: 38.1599476
   lng: -85.7173425
+700 Berry Blvd, Louisville, KY:
+  lat: 38.1964357
+  lng: -85.7870485
 700 Bircham Rd, Louisville, KY:
   lat: 38.2345815
   lng: -85.4740018
