@@ -9211,6 +9211,9 @@
 1500 Catalpa St, Louisville, KY:
   lat: 38.2318135
   lng: -85.8025698
+1500 Catalpa, Louisville, KY:
+  lat: 38.2318135
+  lng: -85.8025698
 1500 Catawper Street, Louisville, KY: null
 1500 Central Ave (Larue Ave area), Louisville, KY: null
 1500 Central Ave, Louisville, KY:
@@ -19521,6 +19524,7 @@
   lat: 38.2586523
   lng: -85.6973656
 2700 Butler Rd, Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
+2700 Butler Rd, Louisville, KY: null
 2700 Carling Ct, Louisville, KY:
   lat: 38.081925
   lng: -85.8640965
