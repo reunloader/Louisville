@@ -36343,6 +36343,7 @@
 600 South Crescent Street at the 7 Counties Addiction Recovery Unit, Louisville, KY: null
 600 South Crescent Street, Louisville, KY: null
 600 South Fifteenth Street, Louisville, KY: null
+600 South Fifth Street, Louisville, KY: null
 600 South Fourth Street, Louisville, KY: null
 600 South Hirshbaum Parkway near Corner Steakhouse and Stone Creek Pky, Louisville, KY: null
 600 South Point Seven, Louisville, KY: null
@@ -41790,6 +41791,9 @@
   lng: -85.7919277
 7800 Stewart Ave, Louisville, KY: null
 7800 Stewart Ave, between Cofer Ave and Margo Ave,, Louisville, KY: null
+7800 Texlyn Ct, Louisville, KY:
+  lat: 38.1434196
+  lng: -85.888522
 7800 Thorobred Lane, Louisville, KY: null
 7800 Westbrook Rd, Louisville, KY:
   lat: 38.141237
@@ -44435,6 +44439,9 @@
   lat: 38.257023
   lng: -85.735139
 900 Gilliland Rd, Carls, Louisville, KY: null
+900 Gilliland Rd, Louisville, KY:
+  lat: 38.220992
+  lng: -85.459813
 900 Goss Ave near McHenry and Krieger St, Louisville, KY:
   lat: 38.230112
   lng: -85.740178
