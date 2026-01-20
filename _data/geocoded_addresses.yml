@@ -4774,6 +4774,9 @@
   lng: -85.8819062
 1100 Parktown Rd, Louisville, KY: null
 1100 Pierceway, Louisville, KY: null
+1100 Plato Terrace, Louisville, KY:
+  lat: 38.2429276
+  lng: -85.8290644
 1100 Poplar Level Plaza, Louisville, KY:
   lat: 38.219525
   lng: -85.728402
@@ -14379,6 +14382,7 @@
 200 South Hurstbourne Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
+200 South Hurston Parkway at Kinney Castle, Louisville, KY: null
 200 South Hurston Parkway, Louisville, KY: null
 200 South I-200 at Bardstown Rd, Louisville, KY:
   lat: 38.1506308
@@ -25009,6 +25013,7 @@
 3600 Southern Ave. Public safety officials were dispatched, Louisville, KY:
   lat: 38.232516
   lng: -85.814369
+3600 Spring Cards Boulevard, Louisville, KY: null
 3600 Spring-Houston Blvd and 1200 block of other streets, Louisville, KY: null
 3600 Springhurst Blvd, Louisville, KY:
   lat: 38.2994167
@@ -45250,6 +45255,9 @@
 900 Walterson Trail, Louisville, KY: null
 900 Wayside Dr, Tickerhart Village, Louisville, KY: null
 900 West Broadway [Date & Time], Louisville, KY: null
+900 West Broadway, Louisville, KY:
+  lat: 38.246804
+  lng: -85.76668
 ? 900 West Broadway. Officers approached the vehicle as part of routine safety checks
   to ensure compliance with traffic regulations. Such stops are crucial for maintaining
   road safety and deterring reckless driving behaviors. Officers are trained to handle
