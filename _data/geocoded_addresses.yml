@@ -4905,6 +4905,9 @@
 1100 South 4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
+1100 South 4th Street near W Oak St and W St Catherine St, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South 4th Street, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -7694,6 +7697,9 @@
 1300 Valley View Terrace, Louisville, KY:
   lat: 38.115907
   lng: -85.672898
+1300 Vim Dr, Louisville, KY:
+  lat: 38.1734872
+  lng: -85.7045106
 1300 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
@@ -25893,6 +25899,9 @@
 3900 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+3900 Baymeadow Dr near Barnum Wood Drive and Hyland Hills Ct, Louisville, KY:
+  lat: 38.1512383
+  lng: -85.829856
 3900 Bayonne Ct, Louisville, KY:
   lat: 38.190086
   lng: -85.590339
@@ -47873,6 +47882,7 @@ South Second Street and Denmark St, Louisville, KY: null
 South Second Street and Ellington Ave, Louisville, KY: null
 South Second Street and West Kenny Street, Louisville, KY: null
 South Sporn Parkway and Bunsen Parkway, Louisville, KY: null
+South St and Sharp Ave, Louisville, KY: null
 South Third Street and Central Ave, Louisville, KY: null
 South Third Street and West One Speed Avenue, Louisville, KY: null
 South Thurston Parkway and Weddington Parkway, Louisville, KY: null
