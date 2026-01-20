@@ -768,6 +768,7 @@
 100 East King Avenue, Louisville, KY: null
 100 East Kingston, Department 4, Louisville, KY: null
 100 East Kingston, Louisville, KY: null
+100 East Kingstone, Louisville, KY: null
 100 East Lawlington Avenue, Louisville, KY: null
 100 East Longsby, Louisville, KY: null
 100 East Market, Louisville, KY:
@@ -13386,6 +13387,7 @@
   lat: 38.250332
   lng: -85.750886
 200 East Orange Bay Avenue, Louisville, KY: null
+200 East Pasadena, Louisville, KY: null
 200 East S9, Louisville, KY: null
 ? 200 East Street. This stop involved a vehicle displaying a Kentucky license plate.
   Law enforcement initiated the stop for reasons that are not immediately clear from
@@ -19144,6 +19146,7 @@
 2600 East, Louisville, KY:
   lat: 38.213339
   lng: -85.730459
+2600 Edsil Johnson Way, Louisville, KY: null
 2600 El Patio Pl, Louisville, KY:
   lat: 38.2159938
   lng: -85.6310058
@@ -23242,6 +23245,9 @@
   lat: 38.1125665
   lng: -85.8631151
 3200 Dixie Hwy, helping ensure safety and support during the incident, Louisville, KY: null
+3200 Dixie, Louisville, KY:
+  lat: 38.151629
+  lng: -85.8345273
 3200 Duma Drive, Louisville, KY: null
 3200 Dumanell, Louisville, KY: null
 3200 Dumesnil St. Police units responded, Louisville, KY:
@@ -27100,6 +27106,9 @@
 400 Gunn Ct., Louisville, KY:
   lat: 38.1026175
   lng: -85.6892695
+400 Gwendolyn, Louisville, KY:
+  lat: 38.233385
+  lng: -85.748774
 400 HGF, at Wayside, Louisville, KY:
   lat: 38.2013307
   lng: -85.7648895
@@ -35781,6 +35790,10 @@
 600 Cecil near South 41st Street, Louisville, KY:
   lat: 38.255787
   lng: -85.820547
+600 Cecil near South 42nd Street and Broadway, Louisville, KY:
+  lat: 38.255787
+  lng: -85.820547
+600 Cecil was also handled by fire personnel. The situation was brought under control, Louisville, KY: null
 600 Cecil, Louisville, KY:
   lat: 38.255787
   lng: -85.820547
