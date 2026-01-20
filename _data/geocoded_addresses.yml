@@ -358,6 +358,9 @@
 100 Baker and 281, Louisville, KY: null
 100 Baker and Charlie, Louisville, KY: null
 100 Baker and Charlie, responded, Louisville, KY: null
+100 Baker near West Broadway, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 100 Baker near billboard, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -2031,6 +2034,7 @@
 100 West Orange Beach Avenue, Louisville, KY: null
 100 West Orange V Ave, Louisville, KY: null
 100 West Penny Avenue, Louisville, KY: null
+100 West Pocket, Louisville, KY: null
 100 West Valley, Louisville, KY:
   lat: 38.106181
   lng: -85.8621855
