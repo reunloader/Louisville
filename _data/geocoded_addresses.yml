@@ -12576,6 +12576,9 @@
 1900 South 1st Street near UofL United Tower Dorm, Louisville, KY:
   lat: 38.220106
   lng: -85.758032
+1900 South 1st Street, Louisville, KY:
+  lat: 38.220106
+  lng: -85.758032
 1900 South 28th Street, Louisville, KY:
   lat: 38.22278
   lng: -85.80436
@@ -18033,6 +18036,9 @@
   p.m. a.m.):** EMS requested assistance, Louisville, KY
 : null
 2300 hours at 800 block of South33rd Street, Louisville, KY: null
+2300 magazine, Louisville, KY:
+  lat: 38.2509386
+  lng: -85.7897525
 2319 Brownsboro Road, Louisville, KY:
   lat: 38.2586268
   lng: -85.7023985
@@ -20543,6 +20549,7 @@
   secondary fire reported in the 1600 block of Hemlock Ct. Multiple fire units and
   a Battalion Chief were dispatched, Louisville, KY
 : null
+2900 Duma North Street, Louisville, KY: null
 2900 Duncan St, Louisville, KY:
   lat: 38.2638054
   lng: -85.7986882
