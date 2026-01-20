@@ -6402,6 +6402,7 @@
   lat: 38.259782
   lng: -85.7070119
 1200 South Firstree, Louisville, KY: null
+1200 South Ford Street, Louisville, KY: null
 1200 South Fork Street, Louisville, KY: null
 1200 South Forth Street, Louisville, KY: null
 ? 1200 South Forth Street. The scene was secured, and the incident was cleared shortly
@@ -10509,6 +10510,9 @@
   lat: 38.2366926
   lng: -85.7811138
 1600 W Oak St, the 100 block of West Oak, and the 1000 block of Dr, Louisville, KY: null
+1600 Wallace Ave, Louisville, KY:
+  lat: 38.225277
+  lng: -85.6840726
 1600 Watson, Louisville, KY:
   lat: 38.0592288
   lng: -85.8964944
@@ -16963,6 +16967,9 @@
 2200 Cristland Rd, Louisville, KY:
   lat: 38.1422512
   lng: -85.7871446
+2200 Crittenden Dr near Lake Smokeshop, Louisville, KY:
+  lat: 38.2153025
+  lng: -85.7509423
 2200 Crop St, South Jackson, South Preston, Louisville, KY: null
 2200 Crum's Lane, Louisville, KY: null
 2200 Crums Ln at Brother Traditional High School, Louisville, KY:
@@ -23683,6 +23690,9 @@
 3300 Kirby, Louisville, KY:
   lat: 38.2360442
   lng: -85.809586
+3300 Lexington Rd, Louisville, KY:
+  lat: 38.2487717
+  lng: -85.6700646
 3300 Lilly Ave, Louisville, KY:
   lat: 38.2136242
   lng: -85.7495046
@@ -27515,6 +27525,9 @@
   lat: 38.2522941
   lng: -85.7525422
 400 South 1st Street., Louisville, KY:
+  lat: 38.2522941
+  lng: -85.7525422
+400 South 1st, Louisville, KY:
   lat: 38.2522941
   lng: -85.7525422
 400 South 20th Street, Louisville, KY:
