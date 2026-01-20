@@ -61,6 +61,7 @@
 0 Woodlily Trail, Louisville, KY:
   lat: 38.0854965
   lng: -85.6096683
+0 hours, Louisville, KY: null
 0 responding, Louisville, KY: null
 00 Aiken Rd near Johnson Rd and Centurion Way, Louisville, KY:
   lat: 38.2655914
@@ -3940,6 +3941,9 @@
 ? 10400 Southpointe Blvd. The call reported a suspicious individual who was observed
   staring at an ambulance. Officers investigated the situation, Louisville, KY
 : null
+10400 Station Rd near Production Ct, Louisville, KY:
+  lat: 38.224552
+  lng: -85.5606
 10400 Taylor Blvd, Louisville, KY:
   lat: 38.2084711
   lng: -85.7734951
@@ -17686,6 +17690,7 @@
 2300 Millers Ln, Louisville, KY:
   lat: 38.2149251
   lng: -85.8001732
+2300 Montgomery St and Lewis Coleman Jr, Louisville, KY: null
 2300 Montgomery St, Louisville, KY:
   lat: 38.27077
   lng: -85.785284
@@ -18963,6 +18968,7 @@
   lat: 38.260725
   lng: -85.702196
 2600 Coach Gate1, with investigators looking into a suspected commercial alarm at Chubbitt Road, Quill St, Louisville, KY: null
+2600 Comisota Avenue, Louisville, KY: null
 ? 2600 Conklin Parkway to attend to a 67-year-old male who was reportedly feeling
   unwell with symptoms including weakness, diarrhea, and a lack of appetite. Units
   reached the location within minutes to provide medical attention., Louisville, KY
@@ -27579,6 +27585,9 @@
 400 South Clay, Louisville, KY:
   lat: 38.2505296
   lng: -85.7407799
+400 South Creek Street near the jail, Louisville, KY:
+  lat: 38.2530704
+  lng: -85.7602589
 ? 400 South Eighth Street following a report of an unknown situation. Upon arrival,
   an adult male, approximately 42 years old, was found lying on a bench outdoors.
   Emergency medical services were en route, Louisville, KY
@@ -32334,6 +32343,9 @@
 500 Highwood Dr, Louisville, KY:
   lat: 38.2686799
   lng: -85.702526
+500 Hunt Club Ln, Louisville, KY:
+  lat: 38.1428833
+  lng: -85.7770499
 500 I 65 South. EMS units were dispatched to assess and provide care for the individual., Louisville, KY: null
 500 I 65 South. EMS units were dispatched to assess and provide care, Louisville, KY: null
 500 Industry Rd near 9th St and South 5th St, Louisville, KY:
