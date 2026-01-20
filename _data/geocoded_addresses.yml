@@ -3931,6 +3931,10 @@
 10400 Dixie Hwy, Louisville, KY:
   lat: 38.1041743
   lng: -85.8695254
+? 10400 Dixie Hwy. The caller was waiting in front of the scene wearing a blue hoodie
+  and gray sweats as units responded, Louisville, KY
+: lat: 38.1041743
+  lng: -85.8695254
 10400 Dixie, Louisville, KY:
   lat: 38.1041743
   lng: -85.8695254
@@ -9867,6 +9871,7 @@
 15300 Phyllis Ave, Louisville, KY:
   lat: 38.2053882
   lng: -85.7811774
+1531 Costa-Villero, Louisville, KY: null
 15400 Shelbyville Rd, Louisville, KY:
   lat: 38.2356193
   lng: -85.4755389
