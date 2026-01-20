@@ -1751,6 +1751,9 @@
 100 Southview Square, Louisville, KY:
   lat: 38.152344
   lng: -85.7674185
+100 Southview Terrace, Louisville, KY:
+  lat: 38.1479021
+  lng: -85.7831296
 100 Southwestern Pky, Louisville, KY:
   lat: 38.2663129
   lng: -85.8255735
@@ -5505,6 +5508,7 @@
 11500 Willow Pond Dr, Louisville, KY: null
 11500 Willow Street, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
+11600 Apex You Drive, Louisville, KY: null
 11600 Chris Draft, Louisville, KY: null
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
@@ -6142,6 +6146,7 @@
   lng: -85.5518839
 1200 Minotau Lane, Louisville, KY: null
 1200 Monticello Forest Cir, Louisville, KY: null
+1200 Moor Corps, building 10, Louisville, KY: null
 1200 Moore Ct and Elliott Park, Louisville, KY: null
 1200 Moore Ct due, Louisville, KY: null
 1200 Moore Ct, Louisville, KY:
@@ -19127,6 +19132,7 @@
 2600 Hale Ave. This incident involved a single round and occurred in close proximity, Louisville, KY:
   lat: 38.2389716
   lng: -85.7961981
+2600 Hampstead Dr, Louisville, KY: null
 2600 Howard St, Louisville, KY:
   lat: 38.245806
   lng: -85.795471
@@ -44525,6 +44531,7 @@
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
+900 East Broadway (Goodwill), Louisville, KY: null
 900 East Broadway at Goodwill, Louisville, KY:
   lat: 38.2442432
   lng: -85.7373692
