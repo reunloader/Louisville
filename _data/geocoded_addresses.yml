@@ -2711,6 +2711,7 @@
 1000 I 64 West, involving an individual who was reportedly refusing, Louisville, KY: null
 1000 I 65 South, Louisville, KY: null
 1000 I-64 West, Louisville, KY: null
+1000 I-64 ramp, Louisville, KY: null
 1000 Industrial Blvd, Louisville, KY:
   lat: 38.1521183
   lng: -85.7074006
@@ -42939,6 +42940,9 @@
   Louisville, KY
 : null
 800 Waterston Trail near Mayshan Lane and Starlite Ln, Louisville, KY: null
+800 West Alley at the Blanton House, Louisville, KY:
+  lat: 38.2517009
+  lng: -85.7648512
 800 West Broadway, Louisville, KY:
   lat: 38.246604
   lng: -85.765197
