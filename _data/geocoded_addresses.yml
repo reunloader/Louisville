@@ -4673,6 +4673,7 @@
 1100 Logan St., Louisville, KY:
   lat: 38.2351031
   lng: -85.7398515
+1100 London Street, Louisville, KY: null
 1100 Lone Oak Ave, Louisville, KY:
   lat: 38.1370132
   lng: -85.6939169
@@ -18905,6 +18906,7 @@
 2500 Wyckford Way, Louisville, KY:
   lat: 38.203596
   lng: -85.656272
+2500 email, Louisville, KY: null
 2500 tear crossings, Louisville, KY: null
 25200 Miles Ln, Louisville, KY:
   lat: 38.1245012
@@ -28059,6 +28061,9 @@
   lng: -85.6491734
 4000 Bardstown Road 10:45 a, Louisville, KY: null
 4000 Bardstown Road 10:45 a.m.AM, Louisville, KY: null
+4000 Billtown Rd, Louisville, KY:
+  lat: 38.1865983
+  lng: -85.5708463
 4000 Bishop Ln, Louisville, KY:
   lat: 38.1880209
   lng: -85.6932201
@@ -30137,6 +30142,7 @@
 4400 Progress Blvd near International Paper, Louisville, KY:
   lat: 38.1862449
   lng: -85.6543248
+4400 Rest of the boulevard, Louisville, KY: null
 4400 River Park, Louisville, KY:
   lat: 38.256287
   lng: -85.82466
@@ -31242,6 +31248,9 @@
   KY
 : null
 4700 Preston Hwy at Waffle House, Louisville, KY:
+  lat: 38.179942
+  lng: -85.718437
+4700 Preston Hwy at the Red Roof Inn, Louisville, KY:
   lat: 38.179942
   lng: -85.718437
 4700 Preston Hwy near Waffle House and Red Roof Inn, Louisville, KY:
@@ -47450,6 +47459,7 @@ Mason Rd and South Firstborn Parkway, Louisville, KY: null
 Massie Ave and Cherrywood Rd, Louisville, KY: null
 Matha Ave and Taylor Blvd, Louisville, KY: null
 Matthews Ave and Richland Ave, Louisville, KY: null
+Mayapple St and Moonseed St, Louisville, KY: null
 Mayfair Ln and Basswood Ln, Louisville, KY: null
 Mayfield Rd and Dillon Road, Louisville, KY: null
 Maylawn Ave and Eastern Parkway, Louisville, KY: null
@@ -47689,6 +47699,7 @@ Regal Dr and Riata Dr, Louisville, KY: null
 Regal Rd and Grand Lakes Dr, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
+Renown Dr and Indian Pipe Ln, Louisville, KY: null
 Retreat Rd and Norene Ln, Louisville, KY: null
 Reutlinger Ave and Swan St, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
