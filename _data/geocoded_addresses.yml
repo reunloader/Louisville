@@ -6686,6 +6686,7 @@
 1200 West Kentucky. Police units were actively searching, Louisville, KY:
   lat: 38.2272814
   lng: -85.7757137
+1200 West Russell Street or Creston12th Street Connector, Louisville, KY: null
 1200 West at Newberg and 200 block of West at Newberg, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -18148,6 +18149,10 @@
 2400 Bardstown Rd near Kroger, Louisville, KY:
   lat: 38.223758
   lng: -85.689073
+2400 Bardstown Rd near Norton Immediate Care Center, Louisville, KY:
+  lat: 38.223758
+  lng: -85.689073
+2400 Bardstown Rd, Kroger, Louisville, KY: null
 2400 Bardstown Rd, Louisville, KY:
   lat: 38.223758
   lng: -85.689073
