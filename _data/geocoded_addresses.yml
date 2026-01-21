@@ -4835,6 +4835,9 @@
   lng: -85.8819062
 1100 Parktown Rd, Louisville, KY: null
 1100 Pierceway, Louisville, KY: null
+1100 Plant5 Drive near FedEx, Louisville, KY:
+  lat: 38.1762028
+  lng: -85.6413748
 1100 Plato Terrace, Louisville, KY:
   lat: 38.2429276
   lng: -85.8290644
@@ -8931,6 +8934,9 @@
   lng: -85.7740103
 1400 W Jefferson St, Family Dollar, Louisville, KY: null
 1400 W Jefferson St, Louisville, KY: null
+1400 W Market St, Louisville, KY:
+  lat: 38.256993
+  lng: -85.773508
 1400 Walter Ave, Louisville, KY:
   lat: 38.1758167
   lng: -85.7848688
@@ -18380,6 +18386,7 @@
 2400 Dundee, Louisville, KY:
   lat: 38.2212216
   lng: -85.6920757
+2400 Earthline Road, Louisville, KY: null
 2400 Earthling Road, Louisville, KY: null
 2400 Earthworm Road, Louisville, KY: null
 2400 East Point Parkway, Louisville, KY: null
@@ -23528,6 +23535,9 @@
 ? 3200 Golden Turtle Circle early this morning. Upon arrival, they found a silver
   Toyota RAV4 engulfed in flames. Crews worked quickly, Louisville, KY
 : null
+3200 Goose Creek Rd, Louisville, KY:
+  lat: 38.2943958
+  lng: -85.5883999
 3200 Grand Ave and 3200 block of Brand, Louisville, KY: null
 3200 Grand Ave, Louisville, KY:
   lat: 38.241378
