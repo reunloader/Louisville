@@ -15425,6 +15425,7 @@
   lat: 38.1861148
   lng: -85.7582215
 200 eastbound 16 mile marker, Louisville, KY: null
+200 eastbound I-200 near Dumanil, Louisville, KY: null
 200 eastbound I-200 near Mine Worker2, Louisville, KY: null
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
@@ -40897,6 +40898,9 @@
 7000 S Jackson St, Louisville, KY:
   lat: 38.2345558
   lng: -85.7474259
+7000 Shannon, Louisville, KY:
+  lat: 38.2144449
+  lng: -85.6582666
 7000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -42664,6 +42668,7 @@
 800 Circus Avenue, Louisville, KY: null
 800 Clark Slane, Louisville, KY: null
 800 Cross your Sherry Lynn Ct, Louisville, KY: null
+800 Crushers or Oxy Rd at Devon Crick Chemicals, Louisville, KY: null
 800 Cut Road, Louisville, KY:
   lat: 38.1182679
   lng: -85.7761923
