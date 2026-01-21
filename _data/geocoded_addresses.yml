@@ -16550,6 +16550,7 @@
 2100 Emerson Ave, Louisville, KY:
   lat: 38.2177507
   lng: -85.6832782
+2100 Fayhurst, Louisville, KY: null
 2100 Future Bank World, Louisville, KY: null
 2100 Gardiner Ln near Crest Street, Wellbrook and Eleanor, Louisville, KY:
   lat: 38.210797
@@ -40938,6 +40939,7 @@
   lat: 38.0626042
   lng: -85.8959521
 7100 Fagin-Bliss Lane, Louisville, KY: null
+7100 Fayhurst, Louisville, KY: null
 7100 Fegenbush Ln, Louisville, KY:
   lat: 38.146237
   lng: -85.628049
@@ -42839,6 +42841,9 @@
 800 Ontario Road, Louisville, KY: null
 800 Overdale Dr, Louisville, KY: null
 800 Oxford Avenue, Louisville, KY: null
+800 Packard Ave, Louisville, KY:
+  lat: 38.208341
+  lng: -85.738295
 800 Paper Birch Way and Hickory, Louisville, KY: null
 800 Peabrow Draft near Peabowsboro Court in South Chadwick, Louisville, KY: null
 800 Pendleton, Louisville, KY:
