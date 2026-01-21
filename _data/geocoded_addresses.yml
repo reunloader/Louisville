@@ -14232,6 +14232,7 @@
 200 Overlook Meadows, Louisville, KY:
   lat: 38.1065351
   lng: -85.557816
+200 P-body, Louisville, KY: null
 200 Paradise Ln, Louisville, KY:
   lat: 38.1374
   lng: -85.8723473
@@ -34502,6 +34503,9 @@
 5300 Speedway Ave near Dixie Hwy, Louisville, KY:
   lat: 38.1176179
   lng: -85.8604394
+5300 Speedway Ave, Louisville, KY:
+  lat: 38.1176179
+  lng: -85.8604394
 ? 5300 Speedway Ave. The male, described as Hispanic and shirtless with black pants,
   was seen throwing the female, Louisville, KY
 : lat: 38.1176179
@@ -39156,6 +39160,7 @@
 6900 John Adams Way, Louisville, KY:
   lat: 38.0625224
   lng: -85.8934585
+6900 Katelyn Way, Louisville, KY: null
 6900 Kentucky, Louisville, KY:
   lat: 38.1537352
   lng: -85.819662
@@ -47895,6 +47900,7 @@ Mitchell Hill Rd and Top Hill Rd, Louisville, KY: null
 Mix Ave and Davies Ave, Louisville, KY: null
 Mob Avenue and Crums Ln, Louisville, KY: null
 Mockingbird Valley Rd and Glen Hill Rd, Louisville, KY: null
+Moncure Drive and Paintbrush Lane, Louisville, KY: null
 Montana Ave and Taylor Blvd, Louisville, KY: null
 Montgomery St and Tyler Ave, Louisville, KY: null
 Montrose Ave and Tyler Ln, Louisville, KY: null
