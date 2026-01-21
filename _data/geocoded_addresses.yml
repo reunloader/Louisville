@@ -5606,6 +5606,9 @@
 11600 Ridge Rd near Maple Ln and Bellewood Rd, Louisville, KY:
   lat: 38.2184913
   lng: -85.7015596
+11600 Semillon Ln, Louisville, KY:
+  lat: 38.0872754
+  lng: -85.8691104
 11600 Stonefield Way, Louisville, KY:
   lat: 38.104383
   lng: -85.563446
@@ -11188,6 +11191,9 @@
 1700 Pear Ln, Louisville, KY:
   lat: 38.1925635
   lng: -85.6192137
+1700 Pine Mountain Dr, Louisville, KY:
+  lat: 38.167696
+  lng: -85.8103306
 1700 Pine St, Louisville, KY:
   lat: 38.2485484
   lng: -85.7262126
@@ -43452,6 +43458,7 @@
   report mentioned potential trespassing. Responding officers were observed clearing
   the scene, Louisville, KY
 : null
+800 Starway, Louisville, KY: null
 800 Style Up, Louisville, KY: null
 ? 800 Style Up, at the intersection of Kimberlake and Foxboro. The specific nature
   of the medical issue was not detailed, but the call was categorized as "Medical
@@ -44792,6 +44799,7 @@
 8800 Smyrna Parkway, Louisville, KY:
   lat: 38.1216922
   lng: -85.6442708
+8800 Starway, Louisville, KY: null
 8800 Talon Ridge Dr and surrounding areas. The vehicle appeared, Louisville, KY: null
 8800 Talon Ridge Dr, Louisville, KY:
   lat: 38.086445
