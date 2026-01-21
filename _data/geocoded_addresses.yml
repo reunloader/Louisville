@@ -22796,6 +22796,9 @@
 31 Poplar Level Rd, Louisville, KY:
   lat: 38.1581079
   lng: -85.646379
+310 W Main St, Louisville, KY:
+  lat: 38.2563879
+  lng: -85.7551632
 310 an unspecified street, Louisville, KY: null
 3100 71 South, Louisville, KY: null
 3100 Adams St, Louisville, KY:
@@ -24823,6 +24826,7 @@
 3500 Tyrone Dr, Louisville, KY:
   lat: 38.201087
   lng: -85.6739743
+3500 Vermont reporting a male individual inside causing trouble, Louisville, KY: null
 3500 Versaille Ln, Louisville, KY:
   lat: 38.14975
   lng: -85.6970149
@@ -44987,6 +44991,9 @@
   lng: -85.80531
 900 Hang-Up / Welfare Check**, Louisville, KY: null
 900 Hang-up (Motel Six), Louisville, KY: null
+900 Hang-up near Vermont Ave, Louisville, KY:
+  lat: 38.2564101
+  lng: -85.8150421
 900 Hang-up**, Louisville, KY: null
 900 Hang-up, Louisville, KY: null
 900 Hang-up/Disturbance**, Louisville, KY: null
