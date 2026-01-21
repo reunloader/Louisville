@@ -5207,6 +5207,9 @@
 1100 West Muhammad. Officers were on duty and available, Louisville, KY:
   lat: 38.2522795
   lng: -85.7696575
+1100 West Oak, Louisville, KY:
+  lat: 38.235984
+  lng: -85.77188
 1100 Westport Rd at Conrad Grove Rands, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
@@ -9717,6 +9720,7 @@
 1500 South36th Street, Louisville, KY:
   lat: 38.2324174
   lng: -85.8144769
+1500 South38, Louisville, KY: null
 1500 South38th Street, Louisville, KY:
   lat: 38.232312
   lng: -85.818307
@@ -27068,6 +27072,7 @@
   lng: -85.747052
 400 East Emerson Street, Louisville, KY: null
 400 East Ever, Louisville, KY: null
+400 East Everston near Jackson and Preston, Louisville, KY: null
 400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
 400 East Great Lawn, Louisville, KY: null
 400 East Jeff, Louisville, KY: null
@@ -27263,6 +27268,9 @@
 400 Henry Ave near I-200 ramp, Louisville, KY:
   lat: 38.1812603
   lng: -85.7807885
+400 Henry, Louisville, KY:
+  lat: 38.2198527
+  lng: -85.6548199
 400 Herman St at Wayside, Louisville, KY:
   lat: 38.2615614
   lng: -85.820699
@@ -37275,6 +37283,9 @@
 6000 Jeanine Dr, Louisville, KY:
   lat: 38.162622
   lng: -85.6884649
+6000 Lewis Way, Louisville, KY:
+  lat: 38.0879864
+  lng: -85.8742599
 6000 Loretta St, Louisville, KY:
   lat: 38.1629754
   lng: -85.709896
@@ -39563,6 +39574,7 @@
 700 Charles St, Louisville, KY:
   lat: 38.2296897
   lng: -85.734991
+700 Charlie and 600 block of unfilled feeders, Louisville, KY: null
 700 Charlie, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -48392,6 +48404,7 @@ Sturgis Ave and Stoll Ave, Louisville, KY: null
 Subway Road and Red Leaf Rd, Louisville, KY: null
 Sugartree Ln and Top Hill Rd, Louisville, KY: null
 Summers Ave and Morrison Ave, Louisville, KY: null
+Summit Plaza Dr and Park Plaza Ave, Louisville, KY: null
 Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
 Sun Ray Dr and Twilight Dr, Louisville, KY: null
 Sun Valley Dr and Indian Austin Town Rd, Louisville, KY: null
