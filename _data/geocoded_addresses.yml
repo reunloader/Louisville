@@ -4074,6 +4074,9 @@
 10500 Sunlight Ln, Louisville, KY:
   lat: 38.1003874
   lng: -85.8411061
+? 10500 Vista View Dr, which had triggered a duress alarm from the back door. Officers
+  monitored these situations, Louisville, KY
+: null
 10500 Westport Rd, Louisville, KY:
   lat: 38.2938379
   lng: -85.5578527
@@ -7387,6 +7390,7 @@
 1300 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
   lng: -85.6998797
+1300 List of W Market St, Louisville, KY: null
 1300 Long Ridge Trace, Louisville, KY:
   lat: 38.2518777
   lng: -85.4154885
@@ -10287,12 +10291,16 @@
   lng: -85.6879103
 1600 Kentucky Rail, Louisville, KY: null
 1600 Lewis Coleman Jr, Louisville, KY: null
+1600 Lewis-Coman Junior Drive, Louisville, KY: null
 1600 Lindell Ave, Louisville, KY:
   lat: 38.2518455
   lng: -85.8121137
 1600 Longfield Ave, Louisville, KY:
   lat: 38.198753
   lng: -85.790775
+1600 Louis Coleman Jr Dr, Louisville, KY:
+  lat: 38.2301146
+  lng: -85.8121019
 1600 Lucia Ave near Bardstown Rd and Baxter Ave, Louisville, KY:
   lat: 38.2356966
   lng: -85.720509
@@ -20399,6 +20407,10 @@
 2800 Virginia Ave, Louisville, KY:
   lat: 38.238038
   lng: -85.800461
+? 2800 W Kentucky St. EMS and police units responded promptly to assess the youth’s
+  condition. The individual was evaluated and transported, Louisville, KY
+: lat: 38.243538
+  lng: -85.799491
 2800 W Madison St, Louisville, KY:
   lat: 38.254378
   lng: -85.797585
