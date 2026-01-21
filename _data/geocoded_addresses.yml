@@ -4414,6 +4414,9 @@
   lat: 38.238274
   lng: -85.720911
 1100 Barge Town Road, Louisville, KY: null
+1100 Barret Ave, Louisville, KY:
+  lat: 38.2345609
+  lng: -85.7270355
 1100 Bars Down at The Hub, Louisville, KY: null
 1100 Bars down, Louisville, KY: null
 1100 Barts near Old Urban Outfitters, Louisville, KY: null
@@ -27717,6 +27720,9 @@
 400 Powell Ave, Louisville, KY:
   lat: 38.1929879
   lng: -85.7910523
+400 Queen Ave, Louisville, KY:
+  lat: 38.2018591
+  lng: -85.7790622
 400 Queen, Louisville, KY:
   lat: 38.2018591
   lng: -85.7790622
@@ -35946,6 +35952,9 @@
   lat: 38.2385615
   lng: -85.7212522
 600 Barge Road, Louisville, KY: null
+600 Barret Ave at AG Enterprise, Louisville, KY:
+  lat: 38.2465976
+  lng: -85.731791
 600 Barret Ave, Crop St East, Broadway and Ruble, Louisville, KY: null
 600 Barret Ave, Louisville, KY:
   lat: 38.2465976
@@ -41876,6 +41885,7 @@
 7500 Harrison Ave, Louisville, KY:
   lat: 38.2124773
   lng: -85.7444232
+7500 Heyburn Ct, Louisville, KY: null
 7500 Jefferson Blvd, Hobby Lobby, Louisville, KY: null
 7500 King Run Road, Louisville, KY: null
 7500 Linden Ln near Shippen and Field, Louisville, KY:
