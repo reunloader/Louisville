@@ -7351,6 +7351,9 @@
 1300 Howard St, Louisville, KY:
   lat: 38.1870925
   lng: -85.7157991
+1300 Hunting, Louisville, KY:
+  lat: 38.1157851
+  lng: -85.5973162
 1300 Huntington, Louisville, KY:
   lat: 38.1419722
   lng: -85.6875526
@@ -18585,6 +18588,9 @@
 2400 Turnberry Dr near Grounds Street, Louisville, KY:
   lat: 38.12659
   lng: -85.5736678
+2400 Universal, Louisville, KY:
+  lat: 38.1338206
+  lng: -85.8846707
 2400 Ursuline Rd due, Louisville, KY: null
 2400 Ursuline Rd, Louisville, KY:
   lat: 38.2185882
@@ -39641,6 +39647,9 @@
   lat: 38.2929065
   lng: -85.482589
 700 Central Ave and Gate 17, Louisville, KY: null
+700 Central Ave at the Derby Museum, Crop St of South Pintin, Rodman, Louisville, KY:
+  lat: 38.2039043
+  lng: -85.7727677
 700 Central Ave near South 9th and Rodman, Louisville, KY:
   lat: 38.2039043
   lng: -85.7727677
@@ -42909,6 +42918,7 @@
 800 I 64 East, Louisville, KY: null
 800 I 64 West, Louisville, KY: null
 800 I-65 North, Louisville, KY: null
+800 Iroquois Ave, Crop St of New Cut Rd, Louisville, KY: null
 800 Iroquois Ave, Louisville, KY:
   lat: 38.1675381
   lng: -85.7779081
@@ -46646,6 +46656,7 @@
 9600 Lamborne Blvd, near Alumsum Hollow Road and Scarborough Ave. Responders provided assistance, Louisville, KY:
   lat: 38.1134765
   lng: -85.8144594
+9600 Legler Dr, Clash with Johnsontown Rd, Louisville, KY: null
 9600 Leopold Wood Loop, Louisville, KY: null
 9600 Leopold Wood, Louisville, KY: null
 9600 Leopold Wooden Loop, Louisville, KY: null
