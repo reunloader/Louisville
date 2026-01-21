@@ -14821,6 +14821,12 @@
 200 W Liberty St, Louisville, KY:
   lat: 38.252634
   lng: -85.754015
+200 W Madison St near exit four, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
+200 W Madison St, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
 200 W Magnolia Ave, Louisville, KY:
   lat: 38.228798
   lng: -85.759048
@@ -26097,6 +26103,9 @@
 3800 Ralph Ave near Larry Taylor residence, Louisville, KY:
   lat: 38.2100428
   lng: -85.8313769
+3800 Ralph Ave, Louisville, KY:
+  lat: 38.2100428
+  lng: -85.8313769
 3800 Recreable Parkway near Vantage Plaza Dr, Louisville, KY: null
 3800 Reprigl Parkway at Vantage Plaza Dr and Goddard Road, Louisville, KY: null
 ? 3800 River Park Dr following a report of bushes on fire in front of a residence.
@@ -28511,6 +28520,9 @@
 4000 Burrell Dr., with officers responding to the residence to check, Louisville, KY: null
 4000 Butyl Bank Road, Louisville, KY: null
 4000 Butyl Bank Road. Further details, Louisville, KY: null
+4000 Cane Run Rd at Day's End, Louisville, KY:
+  lat: 38.208347
+  lng: -85.825675
 4000 Cane Run Rd, Louisville, KY:
   lat: 38.208347
   lng: -85.825675
@@ -33197,6 +33209,9 @@
 500 South 26th Street, Louisville, KY:
   lat: 38.255083
   lng: -85.794377
+500 South 27th Street, Louisville, KY:
+  lat: 38.255237
+  lng: -85.795685
 500 South 27th, Louisville, KY:
   lat: 38.255237
   lng: -85.795685
@@ -35940,6 +35955,9 @@
 600 Bakers, Louisville, KY:
   lat: 38.1758439
   lng: -85.5482321
+600 Ballard St near South Clay and Hancock Green, Louisville, KY:
+  lat: 38.251414
+  lng: -85.741989
 ? 600 Ballard St to aid a 68-year-old female experiencing difficulty breathing. Medical
   units arrived on scene to assess and provide care to the individual., Louisville,
   KY
@@ -39767,6 +39785,9 @@
   lat: 38.1974565
   lng: -85.771628
 700 E Gray St crossing South Shelby and South Clay, Louisville, KY: null
+700 E Gray St near South Shelby and South Clay, Louisville, KY:
+  lat: 38.245726
+  lng: -85.741227
 700 E Gray St, Louisville, KY:
   lat: 38.245726
   lng: -85.741227
@@ -40673,6 +40694,9 @@
 700 W Evelyn Ave. EMS responded, Louisville, KY:
   lat: 38.1965923
   lng: -85.7712149
+700 W Jefferson St at the Judicial Center, Louisville, KY:
+  lat: 38.2540512
+  lng: -85.7625036
 700 W Jefferson St at the Public Defenders parking garage, Louisville, KY:
   lat: 38.2540512
   lng: -85.7625036
