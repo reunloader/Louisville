@@ -3405,6 +3405,9 @@
 1000 Spring Creek Ct, Louisville, KY: null
 1000 Springview Dr near Chelsea Drive and Final Dr, Louisville, KY: null
 1000 St, Louisville, KY: null
+1000 Stanley Ave, Louisville, KY:
+  lat: 38.1888374
+  lng: -85.7779985
 ? 1000 Stonehouse Lane following a report of a person suspected of driving under the
   influence. The individual was reportedly parked in an SUV in the area. A K-9 unit
   was requested to assist officers at the scene. Authorities investigated the situation
@@ -20358,6 +20361,9 @@
   lat: 38.2734045
   lng: -85.792978
 2800 Narragansett Dr, Louisville, KY:
+  lat: 38.2255957
+  lng: -85.8025926
+2800 Narragansett, Louisville, KY:
   lat: 38.2255957
   lng: -85.8025926
 2800 Newburg Rd, Louisville, KY:
