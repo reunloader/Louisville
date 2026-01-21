@@ -5592,6 +5592,11 @@
   lat: 38.0833635
   lng: -85.8771769
 11700 5th Third Lane, Louisville, KY: null
+11700 And7 Drive, Louisville, KY: null
+? 11700 And7 Drive, the 11700 block of Nance Timmons, and the 3300 block of Altabrook
+  Dr, with no injuries or further incidents reported. Routine traffic and chatter
+  continue, Louisville, KY
+: null
 11700 Antonia Way, Louisville, KY:
   lat: 38.09414
   lng: -85.670806
@@ -5636,6 +5641,7 @@
 11700 Maple Way, Louisville, KY:
   lat: 38.0947333
   lng: -85.6621015
+11700 Nance Timmons, Louisville, KY: null
 11700 Nansim, Louisville, KY: null
 11700 Pierce Way, Louisville, KY:
   lat: 38.086173
@@ -6841,6 +6847,7 @@
 12400 Crosswinds Dr, Louisville, KY: null
 12400 Flock Rd, Louisville, KY: null
 12400 Glengrove Cir, Louisville, KY: null
+12400 Heads Up Way, Louisville, KY: null
 12400 Hedgeapple Way, Louisville, KY:
   lat: 38.0990467
   lng: -85.8835024
@@ -23673,6 +23680,7 @@
 3300 Algonquin Pky, Louisville, KY:
   lat: 38.224408
   lng: -85.810404
+3300 Altabrook Dr, Louisville, KY: null
 3300 Arterburn Ave, Louisville, KY:
   lat: 38.254525
   lng: -85.673903
@@ -26925,6 +26933,12 @@
   lat: 38.2414889
   lng: -85.7789521
 400 E W Lee St concerning a vehicle break-in. The caller wished, Louisville, KY: null
+400 E W Market St near Jackson and Preston, and H-Millers Ln, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
+400 E W Market St near McDonald's Preston Market, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 400 E W Market St near McDonald's, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
