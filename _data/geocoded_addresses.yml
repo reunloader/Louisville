@@ -3632,6 +3632,9 @@
 1000 and 10100 block of Grand Ave, Louisville, KY: null
 1000 back lane, Louisville, KY: null
 1000 building, Louisville, KY: null
+1000 expressway, Louisville, KY:
+  lat: 38.189542
+  lng: -85.775529
 1000 hospital location, Louisville, KY: null
 ? 1000 incident. An officer from the First Division was involved in the stop. The
   vehicle in question had a temporary tag. The registered owner, who resides on Village
@@ -25439,6 +25442,7 @@
 3700 Broadway, Louisville, KY:
   lat: 38.2497939
   lng: -85.812841
+3700 Camera Road, Louisville, KY: null
 3700 Cane Run Rd, Louisville, KY:
   lat: 38.2177061
   lng: -85.8168102
