@@ -20888,6 +20888,7 @@
 3 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
+3 Creek Run Dr, Louisville, KY: null
 3 Crums Ln, Louisville, KY:
   lat: 38.1991874
   lng: -85.8371074
@@ -26090,6 +26091,7 @@
 3900 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+3900 Barstown, Louisville, KY: null
 3900 Baymeadow Dr near Barnum Wood Drive and Hyland Hills Ct, Louisville, KY:
   lat: 38.1512383
   lng: -85.829856
@@ -43882,6 +43884,9 @@
 8400 Shepherdsville Rd, Louisville, KY:
   lat: 38.127217
   lng: -85.664596
+8400 Smith Rd, Louisville, KY:
+  lat: 38.0957111
+  lng: -85.7258384
 8400 South 37th Street, Louisville, KY:
   lat: 38.2471327
   lng: -85.812901
@@ -47296,6 +47301,9 @@ Crestwood Ave and Frankfort Ave, Louisville, KY: null
 Crestwood Bradley Avenue and Sherry Rd, Louisville, KY: null
 Creswell Warren Avenue and Cliff Ave, Louisville, KY: null
 Crittenden Dr and Chicopee Ave, Louisville, KY: null
+Crittenden Dr and Crittenden Dr, Louisville, KY:
+  lat: 38.2103619
+  lng: -85.75119
 Crittenden Dr and Gray Ln, Louisville, KY: null
 Crittenden Dr and Lilly Ave, Louisville, KY: null
 Crittenden Dr and Morgan Ave, Louisville, KY: null
