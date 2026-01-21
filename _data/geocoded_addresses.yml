@@ -22209,6 +22209,9 @@
 300 West Main, Louisville, KY:
   lat: 38.2562065
   lng: -85.755089
+300 West Market near South 3rd and South 4th, Louisville, KY:
+  lat: 38.254983
+  lng: -85.75529
 300 West Market, Louisville, KY:
   lat: 38.254983
   lng: -85.75529
@@ -29564,6 +29567,7 @@
 4200 Foot Lock Drive, Louisville, KY: null
 4200 Foreman Plain, Louisville, KY: null
 4200 Front Lock Drive, Louisville, KY: null
+4200 Gamead, Louisville, KY: null
 4200 Gardner-Witt-Gardner, View Avenue, Resurrection Church, Louisville, KY: null
 4200 Glen Eagle Dr, Louisville, KY: null
 ? 4200 Glen Eagle Dr. Further checks revealed the van was registered to a company
@@ -34617,6 +34621,9 @@
 5300 Red Fern Rd, Louisville, KY:
   lat: 38.1729657
   lng: -85.663581
+5300 Regent Way, Louisville, KY:
+  lat: 38.1746461
+  lng: -85.6635084
 5300 Rest at Boulevard, Louisville, KY:
   lat: 38.3490187
   lng: -85.6288157
@@ -35690,6 +35697,9 @@
 : lat: 38.16515
   lng: -85.688011
 5800 Keewood Ct, Louisville, KY: null
+5800 Larkgrove Dr, Louisville, KY:
+  lat: 38.0879087
+  lng: -85.654553
 5800 Lion's Paris Dr, Louisville, KY: null
 5800 Lions Arms Dr, Louisville, KY: null
 5800 Lisa Ct, Louisville, KY:
@@ -48567,6 +48577,7 @@ Stone School Rd and Kilner Drive, Louisville, KY: null
 Stone St and Fern Valley Rd, Louisville, KY: null
 Stonestreet Rd and Bluffins Gap Road, Louisville, KY: null
 Stonestreet Rd and Pond Station Rd, Louisville, KY: null
+Stony Brook Dr and South Herschborn Parkway, Louisville, KY: null
 Stony Brook Dr and Teldersborn Parkway, Louisville, KY: null
 Story Ave and Frankfort Ave, Louisville, KY: null
 Strader Ave and Camden Ave, Louisville, KY: null

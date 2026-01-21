@@ -90223,4 +90223,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2026-01-21T18:49:21.215809'
+- timestamp: '2026-01-21T18:59:40.056195'
+  total_addresses: 21641
+  successful: 11113
+  failed: 10528
+  success_rate: 51.35
+  failure_rate: 48.65
+  failure_patterns:
+    Intersection format: 2206
+    Contains location qualifiers (near/at): 2695
+    Incomplete/vague address: 2852
+    Other/Unknown: 2230
+    Contains extra sentences/context: 531
+    Police phonetic codes: 14
+  batch_success_rate: 60.0
+  batch_new_addresses: 5
+  batch_new_successes: 3
+last_updated: '2026-01-21T18:59:40.056357'
