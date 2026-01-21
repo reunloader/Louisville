@@ -9718,6 +9718,9 @@
 1500 South28th Street, Louisville, KY:
   lat: 38.2319235
   lng: -85.8012772
+1500 South30th Street, Louisville, KY:
+  lat: 38.231909
+  lng: -85.805997
 1500 South36th Street, Louisville, KY:
   lat: 38.2324174
   lng: -85.8144769
@@ -13898,6 +13901,9 @@
   lat: 38.1635392
   lng: -85.7717334
 200 Kentucky280-735, Louisville, KY: null
+200 King, Louisville, KY:
+  lat: 38.1360651
+  lng: -85.7588537
 200 La Normandy Dr, Louisville, KY: null
 200 LaFontaine Drive, Louisville, KY: null
 200 LaGrange Road in Lyndon, Louisville, KY: null
@@ -44844,6 +44850,9 @@
   lng: -85.7910469
 900 Crashing Hall Road, Louisville, KY: null
 900 Creel Ave area, Louisville, KY: null
+900 Crop St near South Jackson and South Preston. EMS also responded, Louisville, KY:
+  lat: 38.2599675
+  lng: -85.7803993
 900 Dale Ave, Louisville, KY:
   lat: 38.1732022
   lng: -85.7741076
