@@ -21231,6 +21231,7 @@
 300 Blair Creek Ct. The specific circumstances leading, Louisville, KY:
   lat: 38.0914922
   lng: -85.6437538
+300 Blank and Baker, Louisville, KY: null
 300 Blinkenbaker Parkway, Louisville, KY: null
 300 Blue Lake, Louisville, KY: null
 300 Boxley Ave near Harwell and Helm, Louisville, KY:
@@ -40299,6 +40300,9 @@
 700 Razor Ridge Ct. They arrived, Louisville, KY:
   lat: 38.1742963
   lng: -85.5349945
+700 Ridge Top Ct, Louisville, KY:
+  lat: 38.3024177
+  lng: -85.6192533
 700 Rockery Way, Louisville, KY:
   lat: 38.2219373
   lng: -85.7681961
