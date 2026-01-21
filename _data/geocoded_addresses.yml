@@ -33625,6 +33625,9 @@
 5000 Roy William Pl, Louisville, KY:
   lat: 38.178171
   lng: -85.637079
+5000 S Jackson St, Louisville, KY:
+  lat: 38.2345558
+  lng: -85.7474259
 5000 Shady Villa Ct, Louisville, KY:
   lat: 38.1632184
   lng: -85.6802221
@@ -37349,6 +37352,9 @@
   lat: 38.261292
   lng: -85.819622
 6000 South 63rd Street, Louisville, KY: null
+6000 South 6th Street, Louisville, KY:
+  lat: 38.2087338
+  lng: -85.7683067
 6000 South39th Street, Louisville, KY:
   lat: 38.2597455
   lng: -85.8146313
