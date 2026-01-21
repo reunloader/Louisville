@@ -6511,6 +6511,7 @@
 : null
 1200 South Forth, Louisville, KY: null
 1200 South Fourth Street near Montana and Creel, Louisville, KY: null
+1200 South Hearthstone Parkway near Bacalli, Louisville, KY: null
 1200 South Jackson at a church, Louisville, KY:
   lat: 38.23365
   lng: -85.747679
@@ -14601,6 +14602,9 @@
 200 South Pass Lane, near Brownsboro,, Louisville, KY:
   lat: 38.3140959
   lng: -85.5732474
+200 South Preston at a bottle shop and tasting room, Louisville, KY:
+  lat: 38.253805
+  lng: -85.7463096
 200 South Second Street, Louisville, KY: null
 200 South Shawnee Terrace, Louisville, KY:
   lat: 38.264109
@@ -33163,6 +33167,9 @@
 500 North42nd Street, Louisville, KY:
   lat: 38.271786
   lng: -85.814821
+500 North44th Street, Louisville, KY:
+  lat: 38.269501
+  lng: -85.818219
 500 Nottingham Pky, Louisville, KY: null
 500 Old Cannon's Lane, Louisville, KY: null
 500 Old Dixie Hwy, Louisville, KY:
@@ -48617,6 +48624,7 @@ South First Form Parkway and Bunsen Parkway, Louisville, KY: null
 South First Street Parkway and Shane Dr, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
+South Harrisborne Parkway and Ambrosse Ln, Louisville, KY: null
 South Hirsborne Parkway and Fegenbush Ln, Louisville, KY: null
 South Hirsborne Parkway and Hurstbourne Park Blvd, Louisville, KY: null
 South Hirshbaum Parkway and Hirshbaum Park Boulevard, Louisville, KY: null
