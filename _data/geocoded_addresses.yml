@@ -2647,6 +2647,9 @@
   that no break-in had occurred., Louisville, KY
 : null
 1000 East Kentucky Drive., Louisville, KY: null
+1000 East Kentucky near Gold Post, Louisville, KY:
+  lat: 38.2522668
+  lng: -85.7333901
 1000 East Kentucky near Schiller Ave and Swan St, Louisville, KY:
   lat: 38.2522668
   lng: -85.7333901
@@ -6635,6 +6638,9 @@
 1200 W W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+1200 W Woodlawn Ave, Louisville, KY:
+  lat: 38.1816525
+  lng: -85.7795938
 1200 Waycross Ave, Louisville, KY:
   lat: 38.0938159
   lng: -85.6538909
@@ -14148,6 +14154,9 @@
   lat: 38.2607234
   lng: -85.7797189
 200 North17th Street in the Roosevelt Building at the intersection with W Kenton St and Columbia St, Louisville, KY: null
+200 North17th Street near Columbia and Rowan Streets, Louisville, KY:
+  lat: 38.2606552
+  lng: -85.7779157
 200 North17th Street near Duncan and Columbia at Roosevelt, Louisville, KY:
   lat: 38.2606552
   lng: -85.7779157
@@ -43052,6 +43061,9 @@
 800 South6th Street at Stanley Schultz Company, Louisville, KY:
   lat: 38.24444
   lng: -85.762146
+800 Southgate Manor Dr, Louisville, KY:
+  lat: 38.0893129
+  lng: -85.6721306
 800 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
