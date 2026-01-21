@@ -13566,6 +13566,9 @@
 200 East at the 65 South on-ramp, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at the 8-mile marker, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at the off-ramp to I-64, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -13614,6 +13617,9 @@
   lng: -85.7582215
 200 East near mile marker 8.5, Louisville, KY: null
 200 East near the 13, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East near the crit, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East near the19, Louisville, KY:
@@ -14589,6 +14595,9 @@
 200 South at Westport Rd, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South at exit 130, Louisville, KY:
+  lat: 38.1859027
+  lng: -85.7429972
 200 South at the 22, Louisville, KY: null
 200 South due, Louisville, KY: null
 200 South just north of Old Henry, Louisville, KY: null
@@ -14618,6 +14627,7 @@
   lng: -85.6981124
 200 South of Billtown, Louisville, KY: null
 200 South of Billtown. The vehicle was blocking the roadway., Louisville, KY: null
+200 South of Stone St, Louisville, KY: null
 200 South to Newcutt Road, turning onto Old Manslick Rd, Louisville, KY: null
 200 South, Louisville, KY:
   lat: 38.2526488
@@ -16872,6 +16882,9 @@
   lat: 38.2183383
   lng: -85.683734
 2100 Stucky South Road, Louisville, KY: null
+2100 Sunnybrook, Louisville, KY:
+  lat: 38.1500263
+  lng: -85.7808556
 2100 Sycamore Ave near N S Clifton Ave and Vernon Ave, Louisville, KY:
   lat: 38.255889
   lng: -85.707374
