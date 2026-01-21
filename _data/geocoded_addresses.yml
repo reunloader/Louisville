@@ -22733,6 +22733,9 @@
 3000 South Forth Street, Louisville, KY: null
 3000 South Fourth, Louisville, KY: null
 3000 South Number 4, Louisville, KY: null
+3000 South Park Rd, Louisville, KY:
+  lat: 38.0920442
+  lng: -85.7243274
 3000 South Third Street, Louisville, KY: null
 3000 South3rd Street, Louisville, KY:
   lat: 38.2061506
@@ -37551,6 +37554,7 @@
   lat: 38.1470566
   lng: -85.6477603
 6000 White Castle sign, Louisville, KY: null
+6000 Wolfram Branch Road, Louisville, KY: null
 6000 Wood Twist, Louisville, KY: null
 6000 Woodhaven Place Cir, Louisville, KY:
   lat: 38.1697543
