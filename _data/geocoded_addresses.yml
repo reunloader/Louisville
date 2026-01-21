@@ -13018,6 +13018,7 @@
   lat: 38.185675
   lng: -85.7821746
 200 Bellows No Road, Harrisburg, Kentucky, Louisville, KY: null
+200 Bells Light, Louisville, KY: null
 200 Berkman Edge Lane, Louisville, KY: null
 200 Berkman Edge Lane. The outcome of this alert was not specified in the reports., Louisville, KY: null
 200 Berkside, Louisville, KY: null
@@ -43440,6 +43441,9 @@
   lat: 38.2324277
   lng: -85.430899
 8000 K-1 Road, Louisville, KY: null
+8000 Magnolia Ridge Ct, Louisville, KY:
+  lat: 38.1376277
+  lng: -85.5967078
 8000 Merriman Rd, Louisville, KY: null
 8000 Merriman Rd. Responding units were dispatched, Louisville, KY: null
 8000 National Eastern Pike, Louisville, KY: null
