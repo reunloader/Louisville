@@ -6684,6 +6684,9 @@
 1200 West Broadway at Greenhump bus station, Louisville, KY:
   lat: 38.247499
   lng: -85.771798
+1200 West Broadway at Greyhound bus station, Louisville, KY:
+  lat: 38.247499
+  lng: -85.771798
 1200 West Broadway, Louisville, KY:
   lat: 38.247499
   lng: -85.771798
@@ -13946,6 +13949,9 @@
   lat: 38.259206
   lng: -85.703048
 200 Mount Marker14, Louisville, KY: null
+200 Muhammad Ali, Louisville, KY:
+  lat: 38.2506701
+  lng: -85.7544799
 200 N Lakeview Dr, Louisville, KY:
   lat: 38.2079112
   lng: -85.6787057
