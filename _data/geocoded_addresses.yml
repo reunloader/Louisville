@@ -2722,6 +2722,9 @@
 1000 Garland Ave, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+1000 Garland, Louisville, KY:
+  lat: 38.2472111
+  lng: -85.8243903
 1000 Glen Meadow Rd near Glen Stone Rd and Spring Gate Drop, Louisville, KY:
   lat: 38.3108786
   lng: -85.5646017
@@ -9287,6 +9290,7 @@
 1500 Algonquin Pky near South 13th and South 16th, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
+1500 Algonquin Pky, Crop St, Pacific Ave, and South 35th, Louisville, KY: null
 1500 Algonquin Pky, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
@@ -13529,6 +13533,7 @@
 ? 200 East Broadway, behind a Dollar General. The fire was described as a small campfire.
   Responders were able, Louisville, KY
 : null
+200 East Broadway, in front of Dollar General, Louisville, KY: null
 200 East Broadway, near Delaware General Market, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -17449,6 +17454,7 @@
 2200 Greenbelt Hwy, Louisville, KY:
   lat: 38.1635691
   lng: -85.8795608
+2200 Greenwood Ave, Crop St South 22nd and South 23rd, Louisville, KY: null
 2200 Griffiths Ave, Louisville, KY:
   lat: 38.2642252
   lng: -85.7852711
@@ -22211,6 +22217,9 @@
 300 South 39th Street near Clarkwood and Herman, Louisville, KY:
   lat: 38.2596432
   lng: -85.8148894
+300 South 3rd Street, Louisville, KY:
+  lat: 38.253543
+  lng: -85.755494
 300 South 41st, around 7:43 p, Louisville, KY: null
 300 South 43rd Street, Louisville, KY:
   lat: 38.2614562
@@ -30644,6 +30653,9 @@
   lat: 38.1981991
   lng: -85.8396306
 4400 Cane Run Rd, Louisville, KY:
+  lat: 38.1981991
+  lng: -85.8396306
+4400 Cane Run, Louisville, KY:
   lat: 38.1981991
   lng: -85.8396306
 4400 Cavelle Ave, Louisville, KY:
@@ -41172,6 +41184,9 @@
 700 W Kentucky, Louisville, KY:
   lat: 38.1936783
   lng: -85.771273
+700 W Madison St, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
 700 W Main St at North8th and North 7th, Louisville, KY:
   lat: 38.256802
   lng: -85.7618553
@@ -46438,6 +46453,7 @@
 9000 Henry Clay Dr, Louisville, KY: null
 9000 Hi View Ln, Louisville, KY: null
 9000 Hirschborn Club Lane, Louisville, KY: null
+9000 Hurstbourne Club Ln, Crop St of Linden Ln, Louisville, KY: null
 9000 Hurstbourne Club Ln, Louisville, KY: null
 9000 King Run Road, Louisville, KY: null
 9000 Lethborough Dr, Crop St of San Marcos, Louisville, KY: null
