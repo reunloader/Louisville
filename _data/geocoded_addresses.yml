@@ -4483,6 +4483,9 @@
   lng: -85.776375
 1100 Chamberlain Hill Rd, Louisville, KY: null
 1100 Charles St, Crop St, Texas, and Flat, Louisville, KY: null
+1100 Charles St, Louisville, KY:
+  lat: 38.2285589
+  lng: -85.7336547
 1100 Chelsea Job, Louisville, KY: null
 1100 Cherokee Rd, Louisville, KY:
   lat: 38.2389519
@@ -15142,6 +15145,7 @@
   vehicle. Further details about the reason for the stop were not immediately available.,
   Louisville, KY
 : null
+200 West from 65 South, Louisville, KY: null
 200 West from I-64 West, Louisville, KY: null
 200 West near 18-mile marker, Louisville, KY:
   lat: 38.2322753
@@ -18414,6 +18418,7 @@
 2400 Dundee, Louisville, KY:
   lat: 38.2212216
   lng: -85.6920757
+2400 Eagle-Aires Ct, Louisville, KY: null
 2400 Earthline Road, Louisville, KY: null
 2400 Earthling Road, Louisville, KY: null
 2400 Earthworm Road, Louisville, KY: null
@@ -22509,6 +22514,9 @@
   the situation to ensure the property was secure., Louisville, KY
 : null
 3000 Crittenden Drive in response, Louisville, KY: null
+3000 Curran Rd, Louisville, KY:
+  lat: 38.2208946
+  lng: -85.6652427
 3000 Dartmouth Ave, Louisville, KY:
   lat: 38.2213247
   lng: -85.6643239
@@ -35841,6 +35849,9 @@
 5800 South First Form Parkway, Louisville, KY: null
 5800 Taylor's Little Lake Road, Louisville, KY: null
 5800 Twice Wood Ln near the intersection with Timber Wood Dr and Tear It On Rd, Louisville, KY: null
+5800 W Pages Ln, Louisville, KY:
+  lat: 38.1304445
+  lng: -85.8642862
 5800 Wave One Circle, Louisville, KY: null
 5800 Whispering Hills Blvd near Rock Hollow Dr and Rock Forest Dr, Louisville, KY:
   lat: 38.1473866
@@ -46988,6 +46999,9 @@
 9700 Northridge Dr, Louisville, KY:
   lat: 38.1135144
   lng: -85.8284852
+9700 Nutsedge Ct, Louisville, KY:
+  lat: 38.1448355
+  lng: -85.5759
 9700 Polaris Dr near Titan Dr and Van Gogh Dr, Louisville, KY:
   lat: 38.10888
   lng: -85.695595
