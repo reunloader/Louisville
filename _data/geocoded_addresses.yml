@@ -25064,6 +25064,9 @@
   lat: 38.1961144
   lng: -85.7833672
 3500 Templewood Dr, cross Robin Hood and Hillwood Dr, Louisville, KY: null
+3500 Terrace Springs Dr, Louisville, KY:
+  lat: 38.287939
+  lng: -85.502012
 ? 3500 Terrace Springs Dr. The caller requested a check on an individual's incarceration
   status at OMBC, with further references, Louisville, KY
 : lat: 38.287939
@@ -25075,6 +25078,9 @@
   lat: 38.201087
   lng: -85.6739743
 3500 Vermont reporting a male individual inside causing trouble, Louisville, KY: null
+3500 Vermont, Louisville, KY:
+  lat: 38.2555244
+  lng: -85.8091757
 3500 Versaille Ln, Louisville, KY:
   lat: 38.14975
   lng: -85.6970149
@@ -25248,6 +25254,9 @@
   was subsequently canceled., Louisville, KY
 : null
 3600 Dutchmans Ln, 300 block of Fair Dutchman, Louisville, KY: null
+3600 Eastmeadow Ct, Louisville, KY:
+  lat: 38.15191
+  lng: -85.826226
 3600 Elderwood Way, Louisville, KY:
   lat: 38.194307
   lng: -85.800852
@@ -44279,6 +44288,9 @@
   lat: 38.128094
   lng: -85.600795
 8300 Laverne Dr, Louisville, KY:
+  lat: 38.1465483
+  lng: -85.6642271
+8300 Laverne, Louisville, KY:
   lat: 38.1465483
   lng: -85.6642271
 8300 Lindsay Ct, Louisville, KY:
