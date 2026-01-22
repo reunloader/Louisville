@@ -92015,4 +92015,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2026-01-22T23:50:25.544232'
+- timestamp: '2026-01-22T23:58:31.581524'
+  total_addresses: 21944
+  successful: 11272
+  failed: 10672
+  success_rate: 51.37
+  failure_rate: 48.63
+  failure_patterns:
+    Intersection format: 2242
+    Contains location qualifiers (near/at): 2723
+    Incomplete/vague address: 2899
+    Other/Unknown: 2257
+    Contains extra sentences/context: 535
+    Police phonetic codes: 16
+  batch_success_rate: 0.0
+  batch_new_addresses: 3
+  batch_new_successes: 0
+last_updated: '2026-01-22T23:58:31.581688'
