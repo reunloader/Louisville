@@ -763,6 +763,7 @@
   lat: 38.199361
   lng: -85.761342
 100 East Halfland Boulevard, Louisville, KY: null
+100 East Indian and Jennings, Louisville, KY: null
 100 East Jefferson, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
@@ -35937,6 +35938,7 @@
 5900 Cane Run Rd, Louisville, KY:
   lat: 38.1670524
   lng: -85.8928033
+5900 Carey Road, Louisville, KY: null
 5900 Carmelwood Dr, Tennessee, Louisville, KY: null
 5900 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1028594
@@ -42753,6 +42755,9 @@
 7900 Georgia Ln, Louisville, KY:
   lat: 38.1464943
   lng: -85.6591291
+7900 Grand Cascade Dr, Louisville, KY:
+  lat: 38.131647
+  lng: -85.6153501
 7900 Head Farm Rd, Louisville, KY:
   lat: 38.3134785
   lng: -85.563057
