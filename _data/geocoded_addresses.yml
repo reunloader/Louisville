@@ -5450,6 +5450,9 @@
 11300 Main St. The alarm was reportedly triggered at a building identified as Teller 3. Details, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
+11300 Maple Brook Dr at Liquor Junction, Louisville, KY:
+  lat: 38.3019095
+  lng: -85.5465593
 11300 Oasis Ct, Louisville, KY: null
 11300 Old La Grange Rd, Louisville, KY: null
 11300 Patton Ct, Louisville, KY:
@@ -9323,6 +9326,12 @@
   lat: 38.1217372
   lng: -85.5651121
 1500 Blue Jay Dr, Louisville, KY: null
+1500 Bluegrass Ave, Louisville, KY:
+  lat: 38.1793065
+  lng: -85.7899374
+1500 Bluegrass Ave. These patrols aimed, Louisville, KY:
+  lat: 38.1793065
+  lng: -85.7899374
 1500 Broadway behind the 99 cent store, Louisville, KY: null
 1500 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
@@ -12158,6 +12167,7 @@
 1800 Ratcliffe Ave, Louisville, KY:
   lat: 38.219213
   lng: -85.794329
+1800 Rillert near Dixie Hwy and Wally Inn Ct, Louisville, KY: null
 1800 Rodman St, Louisville, KY:
   lat: 38.208268
   lng: -85.7700736
@@ -43356,6 +43366,9 @@
 800 Phillips Ln at Crown Plaza Hotel parking lot, Louisville, KY:
   lat: 38.1908906
   lng: -85.7431851
+800 Phillips Ln at Hilton, Louisville, KY:
+  lat: 38.1908906
+  lng: -85.7431851
 ? '800 Phillips Ln)** (around 11:13 a.m. a.m. a.m.): responded to a commercial alarm
   at the Crown Plaza Hotel, where the fire alarm was sounding on the fourth floor.
   The hotel was evacuated, and upon investigation, nothing was showing, leading to
@@ -46596,6 +46609,9 @@
   lat: 38.2883418
   lng: -85.5138636
 9300 Lee's Wingate Rd, Louisville, KY: null
+9300 Longhorn Ct near Texas Ave, Louisville, KY:
+  lat: 38.11634
+  lng: -85.764177
 9300 Longhorn Ct, Louisville, KY:
   lat: 38.11634
   lng: -85.764177
