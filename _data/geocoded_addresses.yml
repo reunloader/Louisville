@@ -4999,6 +4999,9 @@
 1100 South 4th Street near W Oak St and W St Catherine St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
+1100 South 4th Street near West Oak and Webster St, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South 4th Street, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -11648,6 +11651,7 @@
   lat: 38.203914
   lng: -85.435846
 17400 Creek Run Dr, Louisville, KY: null
+17400 Kentucky King, Louisville, KY: null
 17500 McWay, Louisville, KY: null
 17500 Outer Loop, Louisville, KY:
   lat: 38.1356381
@@ -31417,6 +31421,9 @@
   the scene to assess the circumstances., Louisville, KY
 : null
 4600 Cliff Ave, near I 64 West. A third-party caller alerted authorities, Louisville, KY:
+  lat: 38.1833486
+  lng: -85.7762782
+4600 Cliff, Louisville, KY:
   lat: 38.1833486
   lng: -85.7762782
 4600 Commerce Crossing Strive near Corvine, Louisville, KY: null
