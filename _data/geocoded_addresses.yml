@@ -22851,6 +22851,7 @@
   lng: -85.699026
 3000 Rugal Park, Louisville, KY: null
 3000 San Anthony Gardens, Louisville, KY: null
+3000 Shorewood Dr, Crop St, 3rd St, Renate Rd, and Judy Ave, Louisville, KY: null
 3000 South 30th Street 1:30 a, Louisville, KY: null
 3000 South 30th Street 1:30 a.m.PM, Louisville, KY: null
 3000 South 30th Street and I-64 West, Louisville, KY: null
@@ -37840,6 +37841,9 @@
   KY
 : lat: 38.2155748
   lng: -85.7485557
+6100 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 6100 Bardstown Rd, Louisville, KY:
   lat: 38.157636
   lng: -85.591087
@@ -38411,6 +38415,7 @@
 : lat: 38.0796483
   lng: -85.8768468
 6300 Sydney-René Way, Louisville, KY: null
+6300 Terry Rowland, Louisville, KY: null
 6300 Triplett Dr, Louisville, KY:
   lat: 38.1631696
   lng: -85.8639
@@ -39722,6 +39727,9 @@
   lat: 38.1772907
   lng: -85.7802678
 6900 Olenda Ave, Louisville, KY: null
+6900 Paradise Ln, Louisville, KY:
+  lat: 38.1376816
+  lng: -85.8711228
 6900 Parkway, Louisville, KY:
   lat: 38.1597229
   lng: -85.6245119
@@ -41223,6 +41231,7 @@
 7000 Black Walnut Cir, Louisville, KY:
   lat: 38.0958593
   lng: -85.6459417
+7000 Breakfast, Louisville, KY: null
 7000 Bristol Bluffs Cir, Louisville, KY:
   lat: 38.1521511
   lng: -85.5439541
@@ -45890,6 +45899,9 @@
   lat: 38.2402331
   lng: -85.7594042
 900 South Boyd Street, Louisville, KY: null
+900 South Brook at Salvation Army, Louisville, KY:
+  lat: 38.241061
+  lng: -85.752613
 900 South Brook, Louisville, KY:
   lat: 38.241061
   lng: -85.752613
