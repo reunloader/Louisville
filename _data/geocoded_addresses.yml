@@ -16347,6 +16347,9 @@
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
 2000 South with no registered owner, Louisville, KY: null
+2000 South23rd Street, Louisville, KY:
+  lat: 38.222411
+  lng: -85.79796
 2000 South2nd Street and Guthrie St, Louisville, KY: null
 2000 South40th Street, Louisville, KY:
   lat: 38.22754
@@ -25731,6 +25734,9 @@
 3700 Glenmeade Rd, Louisville, KY:
   lat: 38.206307
   lng: -85.648377
+3700 Grand Ave, Louisville, KY:
+  lat: 38.242153
+  lng: -85.815612
 3700 Hawk and Creston Dr, Louisville, KY: null
 3700 Hillsdale Rd, Louisville, KY:
   lat: 38.3063205
