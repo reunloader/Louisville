@@ -9217,6 +9217,9 @@
 1500 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
+1500 Alexander Ave, Louisville, KY:
+  lat: 38.2149538
+  lng: -85.7395358
 1500 Algonquin Pky near Dismas Charities, Louisville, KY:
   lat: 38.2205411
   lng: -85.7800817
@@ -25058,6 +25061,7 @@
 3500 West Broadway, Louisville, KY:
   lat: 38.24988
   lng: -85.810225
+3500 West Broadway, Short East, Louisville, KY: null
 3500 West Mahalo Valley Boulevard, Louisville, KY: null
 3500 Wheeler Ave near Crop St, Carlisle Ave, and Conn St, Louisville, KY:
   lat: 38.195646
