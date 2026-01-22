@@ -25659,6 +25659,9 @@
 3600 Woodruff Ave, Louisville, KY:
   lat: 38.1940497
   lng: -85.784751
+3600 Woodruff Ave. Responding units checked the area and attempted, Louisville, KY:
+  lat: 38.1940497
+  lng: -85.784751
 3600 Young Ave near Crossroads of Onset and Young Ct, Louisville, KY:
   lat: 38.230765
   lng: -85.815405
@@ -45198,6 +45201,14 @@
   lng: -85.7562365
 900 (unspecified street), Louisville, KY: null
 900 38th Street, Louisville, KY: null
+900 3rd Street, Louisville, KY:
+  lat: 38.2414201
+  lng: -85.7577026
+? 900 3rd Street. Units arrived to monitor the situation but found no injuries or
+  specific conditions reported. They are continuing to observe the scene, Louisville,
+  KY
+: lat: 38.2414201
+  lng: -85.7577026
 900 4th Street Market. The vehicle was pulled over, Louisville, KY: null
 900 9th and Kentucky, Louisville, KY:
   lat: 38.242869
