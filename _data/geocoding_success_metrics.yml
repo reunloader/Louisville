@@ -91519,4 +91519,20 @@ history:
   batch_success_rate: 20.0
   batch_new_addresses: 5
   batch_new_successes: 1
-last_updated: '2026-01-22T16:01:53.710728'
+- timestamp: '2026-01-22T16:16:10.744092'
+  total_addresses: 21856
+  successful: 11224
+  failed: 10632
+  success_rate: 51.35
+  failure_rate: 48.65
+  failure_patterns:
+    Intersection format: 2228
+    Contains location qualifiers (near/at): 2719
+    Incomplete/vague address: 2892
+    Other/Unknown: 2247
+    Contains extra sentences/context: 531
+    Police phonetic codes: 15
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2026-01-22T16:16:10.744260'

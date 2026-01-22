@@ -5546,6 +5546,9 @@
 11400 Electron Dr, Louisville, KY:
   lat: 38.2023336
   lng: -85.5472496
+11400 Flowervale Ln, Louisville, KY:
+  lat: 38.0898878
+  lng: -85.8723836
 11400 Garden Trace Dr, Louisville, KY:
   lat: 38.082761
   lng: -85.6574631
@@ -31056,6 +31059,7 @@
 4500 Algonquin Pky, Louisville, KY:
   lat: 38.2324336
   lng: -85.8298062
+4500 Algonquin Pky, Morris Foreman Treatment Plant, Louisville, KY: null
 4500 Altamire 1, Louisville, KY: null
 4500 Aron Rd, Louisville, KY:
   lat: 38.1348403
@@ -46685,6 +46689,7 @@
   lat: 38.2496508
   lng: -85.7674295
 9300 Aylesbury Dr, Louisville, KY: null
+9300 Blairwood Rd, Louisville, KY: null
 9300 Blazing Star Ln, Louisville, KY:
   lat: 38.3261177
   lng: -85.569662
