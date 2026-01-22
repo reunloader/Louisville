@@ -7974,6 +7974,7 @@
 13000 Metal Lawn Drive, Louisville, KY: null
 13000 Middletown Industrial Blvd, Louisville, KY: null
 13000 Poplar Leaf Way near Darnton Ln and Liding Hills Drive, Louisville, KY: null
+13000 S Jackson St, Louisville, KY: null
 13100 Aiken Rd, Louisville, KY:
   lat: 38.2536159
   lng: -85.508945
@@ -19396,6 +19397,7 @@
 2600 Allston Ave, Louisville, KY:
   lat: 38.2200297
   lng: -85.8004003
+2600 Angler Dr, Louisville, KY: null
 2600 Bank St at PNC Bank, Louisville, KY:
   lat: 38.2692147
   lng: -85.7914568
@@ -20220,6 +20222,7 @@
 2700 West Ave. Police units were dispatched, Louisville, KY:
   lat: 38.1089403
   lng: -85.8525494
+2700 West Broadway (Kroger), Louisville, KY: null
 ? 2700 West Broadway and a seated female at 1300 block of South 36th Street, possibly
   distressed or worried about leaving home. Officers responded, Louisville, KY
 : null
@@ -23633,6 +23636,7 @@
   EMS provided assistance, Louisville, KY
 : null
 3200 Callaway Drive, Louisville, KY: null
+3200 Chiller Boulevard, Louisville, KY: null
 3200 Christ Boiler Springs Drive, Louisville, KY: null
 3200 Commander Dr, Louisville, KY:
   lat: 38.214276
@@ -46816,6 +46820,9 @@
 9400 Chambers Way, Louisville, KY:
   lat: 38.1117849
   lng: -85.6496184
+9400 Cornflower Rd, Louisville, KY:
+  lat: 38.117773
+  lng: -85.8732148
 9400 Dalton Dr near Lawman Road and Salvation Road, Louisville, KY:
   lat: 38.1137158
   lng: -85.8641486
