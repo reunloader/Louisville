@@ -2465,6 +2465,9 @@
 1000 Dixie Hwy following a report of a traffic accident. First responders worked, Louisville, KY: null
 1000 Dixie Hwy following a report of a traffic accident. They worked, Louisville, KY: null
 1000 Dixie Hwy in front of Walmart, Louisville, KY: null
+1000 Dixie Hwy near Walmart, Louisville, KY:
+  lat: 38.2416641
+  lng: -85.7852707
 1000 Dixie Hwy prompted a response from patrol units. Officers were dispatched, Louisville, KY: null
 1000 Dixie Hwy to investigate the vehicle and its presence in the area., Louisville, KY: null
 1000 Dixie Hwy was again reported. Responding units were directed to the location, Louisville, KY: null
@@ -22783,6 +22786,9 @@
 : null
 3000 Magazine St, indicating that shots may have been fired. Police units were dispatched, Louisville, KY: null
 3000 Marchtown Road, Louisville, KY: null
+3000 Meadow Bluff Way near Timmons Way, Louisville, KY:
+  lat: 38.2860011
+  lng: -85.4728007
 3000 Melbourne Ave near Rosemont and Taylorsville, Louisville, KY:
   lat: 38.220174
   lng: -85.63269
@@ -31103,6 +31109,9 @@
   lng: -85.641503
 4500 Biles Ct across Hite Creek Rd, Louisville, KY: null
 4500 Bishop Ln at Flex Space, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
+4500 Bishop Ln near Brant Heating and Cooling, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
 4500 Bishop Ln, with no signs of break-in or damage, Louisville, KY: null
