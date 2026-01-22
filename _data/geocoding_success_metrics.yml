@@ -91039,4 +91039,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2026-01-22T07:55:09.662364'
+- timestamp: '2026-01-22T08:15:31.592081'
+  total_addresses: 21771
+  successful: 11173
+  failed: 10598
+  success_rate: 51.32
+  failure_rate: 48.68
+  failure_patterns:
+    Intersection format: 2220
+    Contains location qualifiers (near/at): 2712
+    Incomplete/vague address: 2878
+    Other/Unknown: 2242
+    Contains extra sentences/context: 531
+    Police phonetic codes: 15
+  batch_success_rate: 25.0
+  batch_new_addresses: 4
+  batch_new_successes: 1
+last_updated: '2026-01-22T08:15:31.592223'
