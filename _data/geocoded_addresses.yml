@@ -8996,6 +8996,9 @@
 1400 West Market, Louisville, KY:
   lat: 38.256993
   lng: -85.773508
+1400 West Southern Heights, Louisville, KY:
+  lat: 38.189721
+  lng: -85.787553
 1400 Weyler Ave, Louisville, KY:
   lat: 38.2030143
   lng: -85.7863676
@@ -28456,6 +28459,7 @@
 400 W W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+400 Walsha, Louisville, KY: null
 400 Watermark Pl due, Louisville, KY: null
 400 Watermark Pl near Thrift Dr, Louisville, KY: null
 400 Wayside between Jefferson Cross St and S Preston St, Louisville, KY: null
