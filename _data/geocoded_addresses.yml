@@ -2257,6 +2257,7 @@
 100 south area near the facility, Louisville, KY:
   lat: 38.1891926
   lng: -85.7529199
+100 south of 25th Street, Louisville, KY: null
 100 the 2000 block of Toyota Corolla, Louisville, KY: null
 100 the 2900 block of Dr, Louisville, KY: null
 100 the area linked, Louisville, KY: null
@@ -39818,6 +39819,9 @@
 6900 Imperator Ln, Louisville, KY:
   lat: 38.2848685
   lng: -85.5004779
+6900 Indian Legends Dr, Louisville, KY:
+  lat: 38.294999
+  lng: -85.5519612
 6900 Ivinell Ave near Crush Hill, Louisville, KY:
   lat: 38.1700409
   lng: -85.6001707
