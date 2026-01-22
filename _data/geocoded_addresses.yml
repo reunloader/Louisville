@@ -1300,6 +1300,9 @@
   lat: 38.1733013
   lng: -85.706716
 100 North and 38-3 North, Louisville, KY: null
+100 North at Phillips Ln, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 ? 100 North of S Jane St involving a 59-year-old female who was found unconscious.
   Initial reports indicated she may have been experiencing a seizure and showed signs
   of bleeding and foam from her mouth. EMS was on scene, Louisville, KY
@@ -21790,6 +21793,9 @@
 300 Miller Ave, Louisville, KY:
   lat: 38.2134665
   lng: -85.7451005
+300 Mitchell Hill Rd near Jefferson Memorial Forest, Louisville, KY:
+  lat: 38.0895218
+  lng: -85.767262
 300 Mockingbird Hill Rd, Louisville, KY:
   lat: 38.2640169
   lng: -85.6797528
@@ -38483,6 +38489,12 @@
 6500 Applegate Ln, Louisville, KY:
   lat: 38.130385
   lng: -85.641014
+6500 Bardstown Rd near Grand Marquis, Louisville, KY:
+  lat: 38.1527294
+  lng: -85.589177
+6500 Bardstown Rd, Louisville, KY:
+  lat: 38.1527294
+  lng: -85.589177
 6500 Bella Woods Dr near Dover Rd, Louisville, KY:
   lat: 38.1842595
   lng: -85.8425262
