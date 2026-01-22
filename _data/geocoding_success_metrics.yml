@@ -90879,4 +90879,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-01-22T05:04:29.011963'
+- timestamp: '2026-01-22T05:44:08.012603'
+  total_addresses: 21746
+  successful: 11159
+  failed: 10587
+  success_rate: 51.32
+  failure_rate: 48.68
+  failure_patterns:
+    Intersection format: 2217
+    Contains location qualifiers (near/at): 2710
+    Incomplete/vague address: 2873
+    Other/Unknown: 2241
+    Contains extra sentences/context: 531
+    Police phonetic codes: 15
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-22T05:44:08.012788'
