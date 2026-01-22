@@ -12792,6 +12792,12 @@
 1900 South30th Street, Louisville, KY:
   lat: 38.223112
   lng: -85.806537
+1900 South7th Street at White Castle, Louisville, KY:
+  lat: 38.2222599
+  lng: -85.7763795
+1900 South7th, Louisville, KY:
+  lat: 38.2222599
+  lng: -85.7763795
 1900 Southwest One Parkway at Malibu Jax, Louisville, KY: null
 1900 Speed Ave, Louisville, KY:
   lat: 38.226708
@@ -34894,6 +34900,9 @@
 5300 South Papa Street, Louisville, KY: null
 5300 South Third Street near Iroquois Shoes and More, Louisville, KY: null
 5300 South Third Street, Louisville, KY: null
+5300 South3rd Street at Family Dollar, Louisville, KY:
+  lat: 38.1712212
+  lng: -85.7686312
 5300 South3rd Street at the Family Dollar, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
@@ -36034,6 +36043,7 @@
   lat: 38.1835384
   lng: -85.6433377
 5900 Hunting Rd, Louisville, KY: null
+5900 Judgement at Big Spring Country Club, Louisville, KY: null
 5900 Lines of Paris Dr, Louisville, KY: null
 5900 Lions Arms Dr, Louisville, KY: null
 5900 Mercury Dr near Keira Ridge, Louisville, KY:
@@ -43076,6 +43086,9 @@
   lat: 38.1182679
   lng: -85.7761923
 800 David Street, Louisville, KY: null
+800 David, Louisville, KY:
+  lat: 38.2155106
+  lng: -85.7457745
 800 Dearcy Ave, Louisville, KY:
   lat: 38.2002163
   lng: -85.7798573
@@ -46748,6 +46761,9 @@
 9400 Holiday Dr, Louisville, KY:
   lat: 38.118611
   lng: -85.828027
+9400 Hudson Ln, Louisville, KY:
+  lat: 38.1680236
+  lng: -85.5807261
 9400 Hurst Blonde Trace, Louisville, KY: null
 9400 King William Ct, Louisville, KY:
   lat: 38.1360651
