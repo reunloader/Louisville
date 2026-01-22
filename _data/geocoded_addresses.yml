@@ -21035,6 +21035,9 @@
 2900 Quentin Full Court, Louisville, KY: null
 2900 Recreation Lane, Louisville, KY: null
 2900 Reed Alley near South 10th Street and Village West Dr, Louisville, KY: null
+2900 Richland Ave near Pembroke Rd and Berkshire Ave, Louisville, KY:
+  lat: 38.224143
+  lng: -85.629101
 2900 Richmond Dr, Louisville, KY:
   lat: 38.2223031
   lng: -85.7068691
@@ -23122,6 +23125,7 @@
 3100 Bon Air Ave, Louisville, KY:
   lat: 38.2175923
   lng: -85.6647827
+3100 Bova Way near Kingsland Way and Wayside Dr, Louisville, KY: null
 3100 Bravo, Louisville, KY: null
 3100 Breckenridge, Louisville, KY:
   lat: 38.212579
@@ -44215,6 +44219,9 @@
 8100 Rory Way near Famous Way and Inela Way, Louisville, KY:
   lat: 38.1325876
   lng: -85.6706441
+8100 Rory Way near Namus Way and Nellow Way, Louisville, KY:
+  lat: 38.1325876
+  lng: -85.6706441
 8100 Rosswood Corp, Louisville, KY: null
 8100 Rosswood Ct, Crossfield, Selway, Louisville, KY: null
 8100 Rosswood Ct, Louisville, KY: null
@@ -44831,6 +44838,9 @@
 8600 National Turnpike, Louisville, KY:
   lat: 38.1253139
   lng: -85.7528932
+8600 Old Bardstown Rd near Fairmount Rd and Lane's Cawood Dr, Louisville, KY:
+  lat: 38.1227566
+  lng: -85.5749172
 8600 Peggy Dr, Louisville, KY:
   lat: 38.1255205
   lng: -85.6731779
@@ -48456,6 +48466,7 @@ Juanita Ln and Marcitis Rd, Louisville, KY: null
 Jule Street and Duncan St, Louisville, KY: null
 Justan Ave and Oneida Ave, Louisville, KY: null
 Kaleville Road and Lake Forest Dr, Louisville, KY: null
+Kansas Road and Old Bardstown Rd, Louisville, KY: null
 Kay Avenue and Indiana Ave, Louisville, KY: null
 Kenjoy Dr and Midland Ave, Louisville, KY: null
 Kennedy Rd and West Ave, Louisville, KY: null
@@ -48775,6 +48786,7 @@ Peachtree Ave and Warren Ave, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
 Peel Avenue and Dartmouth Ave, Louisville, KY: null
+Pembroke Rd and Berkshire Ave, Louisville, KY: null
 Pensive Ln and Goldenrod Rd, Louisville, KY: null
 Perry Rd and Alton Rd, Louisville, KY: null
 Peterson Ave and Grinstead Dr, Louisville, KY: null
