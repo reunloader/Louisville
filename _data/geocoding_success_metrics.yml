@@ -91295,4 +91295,20 @@ history:
   batch_success_rate: 42.86
   batch_new_addresses: 7
   batch_new_successes: 3
-last_updated: '2026-01-22T12:00:41.294953'
+- timestamp: '2026-01-22T12:24:42.667186'
+  total_addresses: 21811
+  successful: 11201
+  failed: 10610
+  success_rate: 51.35
+  failure_rate: 48.65
+  failure_patterns:
+    Intersection format: 2221
+    Contains location qualifiers (near/at): 2717
+    Incomplete/vague address: 2883
+    Other/Unknown: 2243
+    Contains extra sentences/context: 531
+    Police phonetic codes: 15
+  batch_success_rate: 100.0
+  batch_new_addresses: 2
+  batch_new_successes: 2
+last_updated: '2026-01-22T12:24:42.667354'
