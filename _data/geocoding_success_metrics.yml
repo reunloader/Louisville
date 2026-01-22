@@ -91263,4 +91263,20 @@ history:
   batch_success_rate: 83.33
   batch_new_addresses: 6
   batch_new_successes: 5
-last_updated: '2026-01-22T11:21:27.253128'
+- timestamp: '2026-01-22T11:44:18.762529'
+  total_addresses: 21802
+  successful: 11196
+  failed: 10606
+  success_rate: 51.35
+  failure_rate: 48.65
+  failure_patterns:
+    Intersection format: 2220
+    Contains location qualifiers (near/at): 2715
+    Incomplete/vague address: 2882
+    Other/Unknown: 2243
+    Contains extra sentences/context: 531
+    Police phonetic codes: 15
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2026-01-22T11:44:18.762677'
