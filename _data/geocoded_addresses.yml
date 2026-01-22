@@ -29403,6 +29403,7 @@
 4100 Phantom Creek Rd, Louisville, KY: null
 4100 Phantom Creek Rd,, Louisville, KY: null
 4100 Phantom Creek Rd. Officers were requested, Louisville, KY: null
+4100 Phantom Creek, Louisville, KY: null
 4100 Pine Cross, Louisville, KY: null
 4100 Pinecroft Dr, Louisville, KY:
   lat: 38.1335452
@@ -35048,6 +35049,9 @@
   lat: 38.1670132
   lng: -85.6814696
 5400 Preston Hwy near Taco Land, Louisville, KY:
+  lat: 38.1701339
+  lng: -85.7087206
+5400 Preston Hwy, Louisville, KY:
   lat: 38.1701339
   lng: -85.7087206
 5400 Reflection Dr, Louisville, KY:
