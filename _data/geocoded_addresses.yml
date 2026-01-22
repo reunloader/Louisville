@@ -834,6 +834,9 @@
 100 Egypt Ln., Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
+100 Ethan Allen, Louisville, KY:
+  lat: 38.0631689
+  lng: -85.8964127
 100 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
@@ -14099,6 +14102,9 @@
 200 Landing Dr, Louisville, KY:
   lat: 38.1835384
   lng: -85.6433377
+200 Landis Ridge, Louisville, KY:
+  lat: 38.2352755
+  lng: -85.5006186
 200 Larchmont Boulevard, Louisville, KY: null
 200 Layne Ct and Bohne Ave, Louisville, KY: null
 200 Lee's Lane, Louisville, KY: null
@@ -26886,6 +26892,7 @@
 3900 Taylor's Hill Rd, Louisville, KY: null
 3900 Taylor's Hole Road, Louisville, KY: null
 3900 Taylor's Road at El Napal, Louisville, KY: null
+3900 Taylor'sville Road inside a bank parking lot, Louisville, KY: null
 3900 Taylor'sville Road, Louisville, KY: null
 3900 Taylor, Louisville, KY:
   lat: 38.1880343
