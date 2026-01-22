@@ -11204,6 +11204,7 @@
   lat: 38.2237734
   lng: -85.778564
 1700 Patton Ct, building 41, Louisville, KY: null
+1700 Patton Ct, building 51, Louisville, KY: null
 ? 1700 Patton Ct, specifically in building 45. The report mentioned a 17-year-old
   male wearing specific clothing. Further details on the circumstances or any injuries
   were not immediately available., Louisville, KY
@@ -21170,6 +21171,9 @@
 300 A Craig Ave, Louisville, KY:
   lat: 38.1916656
   lng: -85.7898357
+300 Abraham Flexner Way, Louisville, KY:
+  lat: 38.248843
+  lng: -85.7480614
 300 Access Drive, Louisville, KY:
   lat: 38.1967062
   lng: -85.552633
@@ -29261,6 +29265,7 @@
 4100 Grand, Louisville, KY:
   lat: 38.2428284
   lng: -85.8198306
+4100 Hancroft Drive, Louisville, KY: null
 4100 Handley Ave, Louisville, KY:
   lat: 38.180447
   lng: -85.648293
