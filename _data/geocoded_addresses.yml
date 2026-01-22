@@ -1101,9 +1101,17 @@
 100 Mohawk Ave, Louisville, KY:
   lat: 38.187076
   lng: -85.761697
+? 100 Moore Ct and was eventually detained near the 1500 block of Moore Ct, where
+  he dropped a shoe and possibly an item with a heat signature. The coordinated effort
+  involved a foot pursuit and investigation, Louisville, KY
+: null
 100 Moore Ct, Louisville, KY:
   lat: 38.2263433
   lng: -85.7748937
+? 100 Moore Ct, possibly dropping an item with a heat signature near the 1500 block
+  of Moore Ct. Multiple units retraced the suspect’s path and searched, Louisville,
+  KY
+: null
 100 Morgan Ave (near Henderson and Franklin), Louisville, KY: null
 100 Mount Marker, Louisville, KY: null
 100 N Peterson Ct and 47 River Crest Ct, Louisville, KY: null
@@ -8786,6 +8794,9 @@
   lat: 38.2289234
   lng: -85.7602103
 1400 South 41st Street at Foster Traditional Academy, Louisville, KY: null
+1400 South 4th Street near Magnolia and Hill, Louisville, KY:
+  lat: 38.2289095
+  lng: -85.7617931
 1400 South 4th Street, Louisville, KY:
   lat: 38.2289095
   lng: -85.7617931
@@ -10134,6 +10145,9 @@
 1600 Beech St, Louisville, KY:
   lat: 38.2299302
   lng: -85.8056297
+1600 Behr Ct, Louisville, KY:
+  lat: 38.2003121
+  lng: -85.6190581
 1600 Belmar Dr, Louisville, KY:
   lat: 38.1990643
   lng: -85.7127234
@@ -12788,6 +12802,7 @@
 1900 South Preston, Louisville, KY:
   lat: 38.220387
   lng: -85.748652
+1900 South Second, Louisville, KY: null
 1900 South Third Street at PNC Bank, Louisville, KY:
   lat: 38.2355202
   lng: -85.7148818
@@ -12947,6 +12962,9 @@
 20 Barge Down Road, Louisville, KY: null
 20 Barsom Road, Louisville, KY: null
 20 Bergen Ridge near McDonald's across Hikes Ln and Taylor's Mall Rd, Louisville, KY: null
+20 Bishop Ln, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 20 Blackpool Dr, Louisville, KY: null
 20 Calumet Dr, Louisville, KY:
   lat: 38.1269463
@@ -48552,6 +48570,7 @@ Newburg Rd and Speed Ave, Louisville, KY: null
 Newcote Road and Candleworth Dr, Louisville, KY: null
 Newcote Road and Palo Alto Road, Louisville, KY: null
 Newland View Drive and Cane Line Road, Louisville, KY: null
+Newset Road and Air Force Garden Drive, Louisville, KY: null
 Norbrook Dr and Beechbrook Rd, Louisville, KY: null
 Norene Ln and Jeanine Dr, Louisville, KY: null
 Norfolk Avenue and Landing Dr, Louisville, KY: null
