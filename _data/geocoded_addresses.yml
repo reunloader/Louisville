@@ -14430,6 +14430,9 @@
 200 North at the 6-mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at the Lincoln Bridge, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North near 5 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -22153,6 +22156,9 @@
   lng: -85.8211759
 300 North, 24th Street, Louisville, KY: null
 300 North, 41st, Crest Street, Garfield Ave, and Jewell Ave, Louisville, KY: null
+300 North20th Street, Louisville, KY:
+  lat: 38.262339
+  lng: -85.782615
 300 North22nd Street near Garfield Ave, Louisville, KY:
   lat: 38.262708
   lng: -85.785939
@@ -23795,6 +23801,7 @@
 3200 Bardstown Rd, Louisville, KY:
   lat: 38.209554
   lng: -85.670014
+3200 Bardstown Rd, Thornton Ski, Louisville, KY: null
 3200 Bardstown Rd, Thornton's, Louisville, KY: null
 ? 3200 Bardstown Rd. EMS and police units responded to the scene. The patient was
   found inside near the door and later exhibited a decreased level of consciousness,
