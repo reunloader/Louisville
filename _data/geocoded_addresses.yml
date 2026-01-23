@@ -15379,6 +15379,9 @@
   lat: 38.2000005
   lng: -85.7636078
 200 West near mile marker 3.8, Louisville, KY: null
+200 West near the 11, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near the 14 mile marker, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -21713,6 +21716,9 @@
 300 E W Esplanade Ave near Carolyn Rd and Tecumseh Ave, Louisville, KY:
   lat: 38.1641632
   lng: -85.7727959
+300 E W Gaulbert Ave, Louisville, KY:
+  lat: 38.2246043
+  lng: -85.7613205
 300 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -44351,6 +44357,9 @@
 8000 National Eastern Pike, Louisville, KY: null
 8000 National Template Crush, Louisville, KY: null
 8000 New LaGrange Road, Louisville, KY: null
+8000 Noe Ct, Louisville, KY:
+  lat: 38.2116483
+  lng: -85.6420248
 8000 North Bardstown Rd, Louisville, KY: null
 8000 Park Rd, Louisville, KY:
   lat: 38.1074779
