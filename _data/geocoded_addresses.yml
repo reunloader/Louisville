@@ -14,6 +14,7 @@
 0 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+0 Cramer's Lane, Louisville, KY: null
 0 Dixie Hwy and sought further information. Attempts, Louisville, KY: null
 0 Dixie Hwy near Barrett Ln, Louisville, KY:
   lat: 38.1130706
@@ -257,6 +258,9 @@
   lng: -85.8919732
 10 Charter Oaks Dr, Louisville, KY: null
 10 Chubbitt Road, Louisville, KY: null
+10 Dupin Dr, Louisville, KY:
+  lat: 38.1452311
+  lng: -85.7024953
 10 Lenoak Dr, Louisville, KY:
   lat: 38.1483464
   lng: -85.7676574
@@ -23957,6 +23961,9 @@
 3200 Melody Acres Ln, Louisville, KY:
   lat: 38.1855029
   lng: -85.8503718
+3200 Mount Rainier Dr, Louisville, KY:
+  lat: 38.2979332
+  lng: -85.6266386
 3200 North 30th Street near Alford Ave and W Kenton St, Louisville, KY:
   lat: 38.2648549
   lng: -85.8000349
