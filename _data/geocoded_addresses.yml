@@ -1741,6 +1741,10 @@
   lat: 38.2182659
   lng: -85.7774103
 100 South Third Street and 900 block of South Fourth Street, Louisville, KY: null
+100 South West corn lane near Melbourne, Louisville, KY:
+  lat: 38.2184488
+  lng: -85.6322164
+100 South West corn lane, Louisville, KY: null
 100 South exit, Louisville, KY: null
 100 South exit, possibly, Louisville, KY: null
 100 South near Mormon and Lower River Rd, Louisville, KY:
@@ -31844,6 +31848,7 @@
 4600 Glenbrook, Louisville, KY:
   lat: 38.1911382
   lng: -85.8730729
+4600 Golden Eagles, Louisville, KY: null
 4600 Greenup Rd, Louisville, KY:
   lat: 38.2130189
   lng: -85.7315322
@@ -36869,6 +36874,9 @@
 600 E Gray St, Louisville, KY:
   lat: 38.245956
   lng: -85.743241
+600 E Jefferson St, Louisville, KY:
+  lat: 38.252139
+  lng: -85.742166
 600 E Main St at Icelock, Louisville, KY:
   lat: 38.254656
   lng: -85.7417262
@@ -39756,6 +39764,7 @@
 6800 Greenwood Rd, Louisville, KY:
   lat: 38.1437224
   lng: -85.877207
+6800 HV highway near St, Louisville, KY: null
 6800 Hempstead Rd in response, Louisville, KY: null
 6800 Hempstead Rd, Louisville, KY: null
 ? 6800 Hollow Creek Ct, near Hollow Creek Rd, for an elderly woman who had fallen.
