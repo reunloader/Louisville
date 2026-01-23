@@ -92319,4 +92319,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 3
   batch_new_successes: 3
-last_updated: '2026-01-23T04:40:36.630679'
+- timestamp: '2026-01-23T05:54:29.181885'
+  total_addresses: 22005
+  successful: 11301
+  failed: 10704
+  success_rate: 51.36
+  failure_rate: 48.64
+  failure_patterns:
+    Intersection format: 2257
+    Contains location qualifiers (near/at): 2728
+    Incomplete/vague address: 2908
+    Other/Unknown: 2259
+    Contains extra sentences/context: 536
+    Police phonetic codes: 16
+  batch_success_rate: 25.0
+  batch_new_addresses: 4
+  batch_new_successes: 1
+last_updated: '2026-01-23T05:54:29.182048'
