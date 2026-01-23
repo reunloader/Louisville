@@ -3935,6 +3935,9 @@
 10200 Starlight Way, Louisville, KY:
   lat: 38.1057251
   lng: -85.8402185
+10200 Valley Farms Blvd near Valley Station, Louisville, KY:
+  lat: 38.1090936
+  lng: -85.8572627
 10200 Valley Farms Blvd, Louisville, KY:
   lat: 38.1090936
   lng: -85.8572627
@@ -11261,6 +11264,7 @@
 1700 Lincoln Ave, Louisville, KY:
   lat: 38.197189
   lng: -85.707325
+1700 Linda Houseway, Louisville, KY: null
 1700 Lisbon Ave, Louisville, KY: null
 1700 Lomond Dr, Louisville, KY: null
 1700 Loney Ln, Louisville, KY: null
