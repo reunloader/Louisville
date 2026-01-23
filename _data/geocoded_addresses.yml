@@ -35465,6 +35465,9 @@
 5400 New Cut Rd, Louisville, KY:
   lat: 38.1503837
   lng: -85.77691
+5400 Outer Loop, Louisville, KY:
+  lat: 38.1380435
+  lng: -85.6607112
 5400 Poplar Level Rd, Louisville, KY:
   lat: 38.1670132
   lng: -85.6814696
@@ -41690,6 +41693,7 @@
   lat: 38.1444986
   lng: -85.5908912
 7000 Crossroads, Louisville, KY: null
+7000 Dinah Way, Louisville, KY: null
 7000 Dudley Garden Way, Louisville, KY: null
 7000 East Broadway, Louisville, KY:
   lat: 38.2446794
@@ -41812,6 +41816,9 @@
 7000 Sugarwood Ct. Responders were on scene, Louisville, KY:
   lat: 38.2958207
   lng: -85.6197931
+7000 Summit Vista Way, Louisville, KY:
+  lat: 38.2652467
+  lng: -85.4376581
 7000 Trade Port Dr, Louisville, KY:
   lat: 38.121097
   lng: -85.88142
