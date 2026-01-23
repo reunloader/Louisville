@@ -33867,6 +33867,9 @@
 500 South20th Street, Louisville, KY:
   lat: 38.2540593
   lng: -85.7849797
+500 South24th, Louisville, KY:
+  lat: 38.254784
+  lng: -85.791614
 500 South27th Street, Louisville, KY:
   lat: 38.255237
   lng: -85.795685
@@ -44059,6 +44062,9 @@
 800 Sutcliffe Ave, Louisville, KY:
   lat: 38.2479601
   lng: -85.8119999
+800 Sutcliffe, Louisville, KY:
+  lat: 38.2479601
+  lng: -85.8119999
 800 Terry Rose, Louisville, KY: null
 800 Timberbrook, Louisville, KY: null
 800 Varble Ave, Louisville, KY:
@@ -44357,6 +44363,7 @@
   lng: -85.5967078
 8000 Merriman Rd, Louisville, KY: null
 8000 Merriman Rd. Responding units were dispatched, Louisville, KY: null
+8000 Montero Ct, Louisville, KY: null
 8000 National Eastern Pike, Louisville, KY: null
 8000 National Template Crush, Louisville, KY: null
 8000 New LaGrange Road, Louisville, KY: null
@@ -44419,6 +44426,7 @@
   lat: 38.1526908
   lng: -85.611823
 8000 Waterson Trail, Louisville, KY: null
+8000 Wayanoke, Louisville, KY: null
 8000 Weyanoke Ct and 8000 block of Montero Ct, Louisville, KY: null
 8000 Wonderson Trail, Louisville, KY: null
 ? 8000 Wonderson Trail. The resident, a 97-year-old female, was repeatedly activating
