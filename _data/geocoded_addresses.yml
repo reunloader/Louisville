@@ -9515,6 +9515,7 @@
 1500 Clover Trace Pl, Louisville, KY:
   lat: 38.1765171
   lng: -85.7984715
+1500 Cold Spring Rd near Hazel River, Louisville, KY: null
 1500 Conquin Parkway, Louisville, KY: null
 1500 Crafty Dr near Crest and Gilmore, Louisville, KY:
   lat: 38.1748202
@@ -23565,6 +23566,7 @@
   lat: 38.2083349
   lng: -85.7761468
 3100 North First Farm Parkway, Louisville, KY: null
+3100 North Hurstborne Parkway at Willow's at Springhurst, Louisville, KY: null
 3100 North31st Street, Louisville, KY: null
 ? 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched
   for a 53-year-old female who was found unresponsive. Engine 6 confirmed they were
@@ -24866,6 +24868,9 @@
   lng: -85.7941733
 3400 Large Town Road, Louisville, KY: null
 3400 Largetown Road, Louisville, KY: null
+3400 Larkwood Ave near 38th and Lewis Coleman Junior Drive, Louisville, KY:
+  lat: 38.257727
+  lng: -85.80767
 3400 Larkwood Ave, Louisville, KY:
   lat: 38.257727
   lng: -85.80767
@@ -29106,6 +29111,7 @@
 4000 Britt Ln, Louisville, KY:
   lat: 38.1310826
   lng: -85.6880663
+4000 Brookfield Ave near Moserwood Rd and Sun Rapids Avenue, Louisville, KY: null
 4000 Brookfield, Louisville, KY:
   lat: 38.2380834
   lng: -85.4557917
@@ -39997,6 +40003,7 @@
   lng: -85.592082
 6800 South Fifth Street, Louisville, KY: null
 6800 South First Floor, Louisville, KY: null
+6800 South Harrisburg Parkway, Louisville, KY: null
 6800 South Watterson Trail, Louisville, KY:
   lat: 38.1579784
   lng: -85.6145379
@@ -49267,6 +49274,7 @@ Morocco Dr and Norway Dr, Louisville, KY: null
 Morton Ave and Christie Ave, Louisville, KY: null
 Moser Rd and Helmsdale Ln, Louisville, KY: null
 Moser Rd and Shelbyville Rd, Louisville, KY: null
+Moserwood Rd and Sun Rapids Avenue, Louisville, KY: null
 Moulton Ln and Belmont Rd, Louisville, KY: null
 Mount Everest Dr and Nigel Dr, Louisville, KY: null
 Mount Holly Rd and Mitchell Hill Rd, Louisville, KY: null
