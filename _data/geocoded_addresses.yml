@@ -2604,6 +2604,9 @@
 1000 Dixon Ave, Louisville, KY:
   lat: 38.220538
   lng: -85.732121
+1000 Donard Park Ave near Bachelor Marilane and College of Azimuth, Louisville, KY:
+  lat: 38.2027677
+  lng: -85.6703698
 1000 Donard Park Ave, Louisville, KY:
   lat: 38.2027677
   lng: -85.6703698
@@ -7553,6 +7556,7 @@
 1300 Newton, Louisville, KY:
   lat: 38.1347051
   lng: -85.6195732
+1300 North Ostage Road near Greten Ln, Louisville, KY: null
 1300 Oakwood, Louisville, KY:
   lat: 38.1766317
   lng: -85.7831597
@@ -22444,6 +22448,9 @@
 300 University Blvd at McDonald's, Louisville, KY:
   lat: 38.2145178
   lng: -85.7540812
+300 University Blvd at Sun Zero, Louisville, KY:
+  lat: 38.2145178
+  lng: -85.7540812
 300 University Blvd near McDonald's, Louisville, KY:
   lat: 38.2145178
   lng: -85.7540812
@@ -24956,6 +24963,9 @@
   lng: -85.8947995
 3400 West Broadway PNC, Louisville, KY: null
 3400 West Broadway at C&C, Louisville, KY:
+  lat: 38.2496303
+  lng: -85.8087791
+3400 West Broadway at PNC Bank, Louisville, KY:
   lat: 38.2496303
   lng: -85.8087791
 3400 West Broadway, Louisville, KY:
@@ -30410,6 +30420,9 @@
 4300 Cane Run Rd, with evidence of entry or exit through a rear door., Louisville, KY: null
 4300 Canoran Road, Louisville, KY: null
 4300 Catalpa Leaf Way, Louisville, KY: null
+4300 Cathay Ct near Linda, Louisville, KY:
+  lat: 38.1323486
+  lng: -85.680736
 4300 Cathay Ct, Crossmouth and Linda Rd, Louisville, KY: null
 4300 Cavelle Ave, Louisville, KY:
   lat: 38.190666
@@ -31841,6 +31854,7 @@
 4600 Lynnbrook Dr, Louisville, KY:
   lat: 38.2329773
   lng: -85.6162877
+4600 Mayo Station Road near 3rd Street and Tamm Ct, Louisville, KY: null
 4600 Melvin Dr, Louisville, KY:
   lat: 38.1820213
   lng: -85.8430689
