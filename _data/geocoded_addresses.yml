@@ -14370,6 +14370,9 @@
 200 North 26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
+200 North 26th, Louisville, KY:
+  lat: 38.262213
+  lng: -85.793497
 200 North 28th St, Louisville, KY:
   lat: 38.2626638
   lng: -85.7972793
@@ -18476,6 +18479,9 @@
 2300 W Gaulbert Ave, Louisville, KY:
   lat: 38.2284638
   lng: -85.7958077
+2300 W Jefferson St near 23rd and 24th, Louisville, KY:
+  lat: 38.2574167
+  lng: -85.7900164
 2300 W Jefferson St, Louisville, KY:
   lat: 38.2574167
   lng: -85.7900164
@@ -18630,6 +18636,9 @@
   lat: 38.1404396
   lng: -85.7801839
 2400 Ballad Blvd, Louisville, KY: null
+2400 Bank St near North 24th, Louisville, KY:
+  lat: 38.267712
+  lng: -85.786762
 2400 Bank St near North24th, Louisville, KY:
   lat: 38.267712
   lng: -85.786762
