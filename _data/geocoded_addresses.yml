@@ -9894,6 +9894,7 @@
   lng: -85.769157
 1500 South Conklin Parkway, Louisville, KY: null
 1500 South District Station House Apartments, Louisville, KY: null
+1500 South Fifth, Louisville, KY: null
 1500 South Gate in response to a flagged vehicle. The vehicle, a black Chevrolet Malibu, was noted, Louisville, KY: null
 1500 South Gate, Louisville, KY: null
 1500 South Gate. Police units were sent, Louisville, KY: null
@@ -17559,6 +17560,9 @@
   lat: 38.2185305
   lng: -85.7949258
 2200 Duncan St and 5700 block of Nally Ct, Louisville, KY: null
+2200 Dundee, Louisville, KY:
+  lat: 38.2243775
+  lng: -85.6941663
 2200 EMS, Louisville, KY: null
 2200 East Broadway, Louisville, KY:
   lat: 38.2446794
@@ -41705,6 +41709,9 @@
 700 West Thornsee, no leak or fire was confirmed. Crews remained on scene, Louisville, KY: null
 700 West of Arms, Louisville, KY: null
 700 Westport Rd and Stonehurst Dr, Louisville, KY: null
+700 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 700 Wildwood Cir, Louisville, KY:
   lat: 38.1754279
   lng: -85.6257196
