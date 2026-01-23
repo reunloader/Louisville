@@ -8273,6 +8273,9 @@
   lat: 38.2243241
   lng: -85.7623964
 14 Springford Avenue, Louisville, KY: null
+14 Sterling Rd, Louisville, KY:
+  lat: 38.2206039
+  lng: -85.6045806
 14 Tindall Ln, Louisville, KY:
   lat: 38.2244851
   lng: -85.4815021
@@ -29086,6 +29089,7 @@
 4000 Heavenly Way, Louisville, KY:
   lat: 38.0996303
   lng: -85.8392227
+4000 Herman St, City Academy of Shawnee, Louisville, KY: null
 4000 Herman St, Louisville, KY:
   lat: 38.260271
   lng: -85.817216
