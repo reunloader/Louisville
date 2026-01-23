@@ -11425,6 +11425,9 @@
   lat: 38.1819023
   lng: -85.7203622
 1700 Princess Street, Louisville, KY: null
+1700 Princess, Louisville, KY:
+  lat: 38.1326038
+  lng: -85.648856
 1700 Purdle St. The individual was suspected of planning, Louisville, KY: null
 1700 Rangeland Rd, Louisville, KY:
   lat: 38.1647239
@@ -11761,6 +11764,7 @@
   lat: 38.2296171
   lng: -85.8205939
 1700 William East Summer Street, Louisville, KY: null
+1700 William East Summers, Louisville, KY: null
 1700 Willmar Ave due, Louisville, KY: null
 ? 1700 Willmar Ave following reports of several individuals looking into cars in a
   parking lot. Officers arrived, Louisville, KY
@@ -13805,6 +13809,9 @@
 200 East at Manslick overpass, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Newberg, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at Newburgh, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -14822,6 +14829,7 @@
 200 South 7th Street, Louisville, KY:
   lat: 38.2554063
   lng: -85.7620447
+200 South Avila Church Road, Louisville, KY: null
 200 South Fifth, Louisville, KY: null
 200 South First Street, Louisville, KY: null
 200 South Ford Street, Louisville, KY: null
