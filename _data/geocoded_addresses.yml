@@ -24524,6 +24524,9 @@
 3300 Virginia Ave, Louisville, KY:
   lat: 38.2387608
   lng: -85.8086322
+3300 West Broadway, Louisville, KY:
+  lat: 38.249793
+  lng: -85.808
 3300 Woodland Dr, Louisville, KY:
   lat: 38.176862
   lng: -85.873196
@@ -46196,6 +46199,7 @@
 900 South 29th Street, Louisville, KY:
   lat: 38.2533414
   lng: -85.7992827
+900 South 2nd Street and 500 block of West Kentucky, Louisville, KY: null
 900 South 2nd Street apartments, Louisville, KY: null
 900 South 2nd Street, Louisville, KY:
   lat: 38.240765
