@@ -20050,6 +20050,9 @@
   lat: 38.244613
   lng: -85.7973498
 2700 Garland cross of 28th and 26th, Louisville, KY: null
+2700 Gilligan, Louisville, KY:
+  lat: 38.2692117
+  lng: -85.7930152
 2700 Goldsmith Ln, Louisville, KY:
   lat: 38.212475
   lng: -85.6599615
@@ -20158,6 +20161,9 @@
   KY
 : null
 2700 Rivanna Dr, Louisville, KY: null
+2700 River Rd at Champions Park, Louisville, KY:
+  lat: 38.273041
+  lng: -85.706108
 2700 River Rd near Champions Park, Louisville, KY:
   lat: 38.273041
   lng: -85.706108
@@ -35519,6 +35525,7 @@
 5500 Livington Spall. Units arrived to assess the situation and provide help as needed, ensuring safety, Louisville, KY: null
 5500 Low DMA Way, Louisville, KY: null
 5500 Mariemont Rd, Pinnacle Delta, Louisville, KY: null
+5500 McBean Road, Louisville, KY: null
 5500 Minor Ln, Louisville, KY:
   lat: 38.141698
   lng: -85.7012773
