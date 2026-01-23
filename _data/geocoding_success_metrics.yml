@@ -92095,4 +92095,20 @@ history:
   batch_success_rate: 20.0
   batch_new_addresses: 5
   batch_new_successes: 1
-last_updated: '2026-01-23T00:55:45.535235'
+- timestamp: '2026-01-23T00:59:19.436935'
+  total_addresses: 21957
+  successful: 11276
+  failed: 10681
+  success_rate: 51.35
+  failure_rate: 48.65
+  failure_patterns:
+    Intersection format: 2246
+    Contains location qualifiers (near/at): 2724
+    Incomplete/vague address: 2902
+    Other/Unknown: 2257
+    Contains extra sentences/context: 536
+    Police phonetic codes: 16
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2026-01-23T00:59:19.437102'
