@@ -17252,6 +17252,9 @@
   lat: 38.255889
   lng: -85.707374
 2100 Ticklemore Avenue, Ticklemore Heights Nursing Home, Louisville, KY: null
+2100 Trafalgar Square, Louisville, KY:
+  lat: 38.2088088
+  lng: -85.6713529
 2100 Trevilian Way, Louisville, KY:
   lat: 38.2216736
   lng: -85.6860571
@@ -35496,6 +35499,7 @@
   lat: 38.1381812
   lng: -85.8558303
 5400 Kane Run, Louisville, KY: null
+5400 Ladino Way, Louisville, KY: null
 5400 Layne Rd near Monaco Dr and Layne Ct, Louisville, KY:
   lat: 38.1410922
   lng: -85.6610176
@@ -39625,6 +39629,9 @@
 6700 Elmcroft Cir., Louisville, KY:
   lat: 38.3158928
   lng: -85.6236773
+? 6700 Elmcroft Ln, also triggered responses, with smoke detected but no fire found,
+  and alarms not resetting, Louisville, KY
+: null
 6700 Enterprise Dr due, Louisville, KY: null
 6700 Enterprise Dr, Louisville, KY:
   lat: 38.1563129
@@ -42063,6 +42070,9 @@
 7100 Johnsontown Rd, Louisville, KY:
   lat: 38.1159595
   lng: -85.8907355
+7100 Leisure Ln, Louisville, KY:
+  lat: 38.1011869
+  lng: -85.636813
 7100 Lower Hunter Strait, Louisville, KY: null
 7100 Lower Hunters Trace, Louisville, KY:
   lat: 38.174218
