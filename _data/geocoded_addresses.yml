@@ -10924,6 +10924,9 @@
   lat: 38.1926346
   lng: -85.7288573
 17 Butler Rd, Louisville, KY: null
+17 Cherokee Pky, Louisville, KY:
+  lat: 38.2360279
+  lng: -85.7109602
 17 Dale Ave, Louisville, KY:
   lat: 38.1732022
   lng: -85.7741076
@@ -10971,6 +10974,7 @@
   lat: 38.263097
   lng: -85.776785
 1700 Baird St, between South 17th and South 18th Streets,, Louisville, KY: null
+1700 Barchetown Road, Louisville, KY: null
 1700 Bardstown Rd at Kiwami Raymond and 1200 block of Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
