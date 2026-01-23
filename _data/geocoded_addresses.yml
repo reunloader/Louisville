@@ -22200,6 +22200,7 @@
 300 Outer Loop, Louisville, KY:
   lat: 38.125884
   lng: -85.769085
+300 Palazzo Cir near the lease gate, Louisville, KY: null
 300 Palazzo Cir, Louisville, KY: null
 300 Paul Charlie Mary at Bohannon Ave, Louisville, KY:
   lat: 38.0545414
@@ -36102,6 +36103,9 @@
 5700 Moser Farm Rd. Details, Louisville, KY:
   lat: 38.3267286
   lng: -85.5538609
+5700 Nally Ct near Zelma, Louisville, KY:
+  lat: 38.187287
+  lng: -85.857296
 5700 Nally Ct, Louisville, KY:
   lat: 38.187287
   lng: -85.857296
@@ -38764,6 +38768,9 @@
   lng: -85.7433136
 64 Blanche Street, Louisville, KY: null
 64 East Cannon Ln, Louisville, KY: null
+64 Grand Ave, Louisville, KY:
+  lat: 38.2412297
+  lng: -85.8091223
 6400 (likely) block of unknown street, Louisville, KY: null
 6400 Area64 eastbound near 9th Street, Louisville, KY:
   lat: 38.2345368
