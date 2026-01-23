@@ -25863,6 +25863,9 @@
 37 Bayberry Dr, Louisville, KY:
   lat: 38.1878614
   lng: -85.8363623
+37 Beecher St, Louisville, KY:
+  lat: 38.1919865
+  lng: -85.7727467
 37 Brentwood Ave, Louisville, KY:
   lat: 38.1948087
   lng: -85.7727267
@@ -48779,6 +48782,7 @@ Jane St and Sycamore Ave, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jefferson Blvd and Bates Ave, Louisville, KY: null
 Jefferson Blvd and Horizon Ln, Louisville, KY: null
+Jefferson Blvd and Jefferson Green Dr, Louisville, KY: null
 Jefferson Blvd and Lambert Rd, Louisville, KY: null
 Jefferson St and Baxter Ave, Louisville, KY: null
 Jefferson St and Dixie Garden Dr, Louisville, KY: null
