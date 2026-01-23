@@ -6118,6 +6118,9 @@
 1200 Fisk St, near a black Nissan Altima. Units were dispatched, Louisville, KY:
   lat: 38.2530864
   lng: -85.7689686
+1200 Forest Dr near Robin Hood and Forest Park, Louisville, KY:
+  lat: 38.161166
+  lng: -85.692743
 1200 Fort St, Louisville, KY:
   lat: 38.2161938
   lng: -85.7515437
@@ -8510,6 +8513,9 @@
   lat: 38.1138885
   lng: -85.7408536
 1400 Faradow Road, Louisville, KY: null
+1400 Forest Dr near Tarragon and Melda, Louisville, KY:
+  lat: 38.16543
+  lng: -85.690032
 1400 Fort St, Louisville, KY:
   lat: 38.2161938
   lng: -85.7515437
@@ -9314,6 +9320,9 @@
 1500 Alliant Ave near Bluegrass Pky and Alliant Ct, Louisville, KY: null
 1500 Alliant Avenue 9:00 a, Louisville, KY: null
 1500 Alliant Avenue 9:00 a.m.AM, Louisville, KY: null
+1500 Alma Ave, Louisville, KY:
+  lat: 38.180559
+  lng: -85.788845
 1500 Alton Ln, Louisville, KY:
   lat: 38.0937367
   lng: -85.7392696
@@ -31584,6 +31593,9 @@
 4500 Taylorsville Rd, Louisville, KY:
   lat: 38.218652
   lng: -85.601355
+4500 Trey Ct near Trey Pl, Louisville, KY:
+  lat: 38.2030802
+  lng: -85.6213261
 4500 Trey Ct, Louisville, KY:
   lat: 38.2030802
   lng: -85.6213261
@@ -40145,6 +40157,7 @@
   lat: 38.2113098
   lng: -85.7705003
 700 Algonquin, prompting a police alert, Louisville, KY: null
+700 Alma Ave and 100 block of Alma Ave, Louisville, KY: null
 700 Autumn Hill, they found a two-story home north of the area, Louisville, KY: null
 700 Autumn Trace Dr, Louisville, KY:
   lat: 38.1397095
