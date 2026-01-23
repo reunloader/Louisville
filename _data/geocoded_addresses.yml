@@ -3132,6 +3132,9 @@
   lng: -85.6758518
 1000 Philbach Avenue in Stanley, Louisville, KY: null
 1000 Pierce Falls, Louisville, KY: null
+1000 Place Rouge, Louisville, KY:
+  lat: 38.25032
+  lng: -85.7669025
 1000 Place of Urge, Louisville, KY: null
 1000 Pleasant Glen Dr, Louisville, KY:
   lat: 38.1790292
@@ -11496,6 +11499,10 @@
 ? 1700 South 36th Street, where a 34-year-old male was experiencing shortness of breath.
   Emergency responders were on the scene, Louisville, KY
 : null
+1700 South 38th Street, Louisville, KY:
+  lat: 38.2295009
+  lng: -85.818753
+1700 South 38th Street, in a storage area, Louisville, KY: null
 1700 South 43rd. Firefighters worked, Louisville, KY:
   lat: 38.2480947
   lng: -85.8236967
@@ -31342,6 +31349,9 @@
 45 Heywood Ave, Louisville, KY:
   lat: 38.2065953
   lng: -85.7669965
+45 Quail Hollow Rd, Louisville, KY:
+  lat: 38.1777885
+  lng: -85.6952587
 45 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -46232,6 +46242,9 @@
   lat: 38.193672
   lng: -85.739235
 900 Piccadilly, Louisville, KY: null
+900 Place Rouge, Louisville, KY:
+  lat: 38.2502463
+  lng: -85.7668277
 900 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
