@@ -92111,4 +92111,20 @@ history:
   batch_success_rate: 33.33
   batch_new_addresses: 3
   batch_new_successes: 1
-last_updated: '2026-01-23T00:59:19.437102'
+- timestamp: '2026-01-23T01:09:29.463490'
+  total_addresses: 21959
+  successful: 11277
+  failed: 10682
+  success_rate: 51.35
+  failure_rate: 48.65
+  failure_patterns:
+    Intersection format: 2246
+    Contains location qualifiers (near/at): 2724
+    Incomplete/vague address: 2902
+    Other/Unknown: 2258
+    Contains extra sentences/context: 536
+    Police phonetic codes: 16
+  batch_success_rate: 50.0
+  batch_new_addresses: 2
+  batch_new_successes: 1
+last_updated: '2026-01-23T01:09:29.463624'
