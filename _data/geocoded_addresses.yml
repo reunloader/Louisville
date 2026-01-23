@@ -4668,6 +4668,7 @@
 1100 Eastern Parkway, Louisville, KY:
   lat: 38.224057
   lng: -85.72999
+1100 Eastern Parkway, Medical Arts Building, Louisville, KY: null
 1100 Eastern Parkway, across from Castleview Dr and Poplar Parkway, Louisville, KY: null
 ? 1100 Eastern Pky for a report of a combative patient. The individual, described
   as a female with a history of schizophrenia, was reportedly agitated and striking
@@ -27369,6 +27370,9 @@
 ? 400 Cathedral Way following a report of a 50-year-old male who was found unconscious
   and had experienced multiple seizures. Responders worked, Louisville, KY
 : null
+400 Cathedral Way, Louisville, KY:
+  lat: 38.2516565
+  lng: -85.7581215
 400 Cedar Meadows Ct, Louisville, KY: null
 400 Central Ave, Louisville, KY:
   lat: 38.205089
