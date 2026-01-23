@@ -9651,6 +9651,9 @@
   lng: -85.7836025
 1500 I65 South at Veterans Dr and 3rd 3Rd Street Rd, Louisville, KY: null
 1500 Ladle3, Louisville, KY: null
+1500 Leamington Spa Dr, Louisville, KY:
+  lat: 38.1691395
+  lng: -85.7013052
 1500 Lewis Coleman Jr, Louisville, KY: null
 1500 Lewis Coleman Jr. Drive, Louisville, KY: null
 1500 Lewis Ln at Immaculate Heart of Mary, Louisville, KY: null
@@ -26298,6 +26301,9 @@
   lng: -85.814618
 3700 St. Andrews Church, providing medical assistance. The patient was transported, Louisville, KY: null
 3700 St. Louis Boulevard, Louisville, KY: null
+3700 Star Hill Dr, Louisville, KY:
+  lat: 38.1605786
+  lng: -85.6170069
 3700 Stonecrest Dr, Louisville, KY:
   lat: 38.1201172
   lng: -85.8100049
@@ -29300,6 +29306,7 @@
   lat: 38.2011546
   lng: -85.7097969
 4000 Poplarover Road, Louisville, KY: null
+4000 Preston Hwy across Short St and Belmar Dr, Louisville, KY: null
 4000 Preston Hwy near Nick's Smoke Shop, Louisville, KY:
   lat: 38.194556
   lng: -85.729684
@@ -32854,6 +32861,7 @@
   lat: 38.166935
   lng: -85.677106
 4900 Manslake Road, Louisville, KY: null
+4900 Manslick Rd across Hazelwood and Frydenway, Louisville, KY: null
 4900 Manslick Rd at Barbary Hair Studio, Louisville, KY:
   lat: 38.1751656
   lng: -85.7981771
@@ -34695,6 +34703,7 @@
 5100 Jeff Commerce Dr. Units from the 7th division were sent, Louisville, KY:
   lat: 38.1537856
   lng: -85.671884
+5100 Joe Conway Cir across Tom Lairmore and Bob Davenport, Louisville, KY: null
 5100 Johnsontown Rd, Louisville, KY:
   lat: 38.121128
   lng: -85.855849
@@ -40218,6 +40227,7 @@
 6900 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
+6900 N S Jane St across Sycamore Ave and Frankfort Ave, Louisville, KY: null
 6900 Nicolas Farms Ct, Louisville, KY: null
 6900 Norlynn Dr near Deep Spring Ct, Louisville, KY:
   lat: 38.1459175
@@ -49514,6 +49524,7 @@ Shepherdsville Rd and Rangeland Rd, Louisville, KY: null
 Sherry Rd and Memory Ln, Louisville, KY: null
 Shingo Ave and Brookline Ave, Louisville, KY: null
 Shingo Ave and Lonsdale Ave, Louisville, KY: null
+Short St and Belmar Dr, Louisville, KY: null
 Silver Springs Dr and Raintree Dr, Louisville, KY: null
 Sioux Ave and Chicopee Ave, Louisville, KY: null
 Six Mile Ln and Conn Lake Drive, Louisville, KY: null
@@ -49623,6 +49634,7 @@ Sun Ray Dr and Twilight Dr, Louisville, KY: null
 Sun Valley Dr and Indian Austin Town Rd, Louisville, KY: null
 Swan St and Lampton St, Louisville, KY: null
 Sweeney Ln and Carrington Greene Dr, Louisville, KY: null
+Sycamore Ave and Frankfort Ave, Louisville, KY: null
 Tamerlane Rd and Roxbury Rd, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Tavisboro Road and Chinawas Run Road, Louisville, KY: null
