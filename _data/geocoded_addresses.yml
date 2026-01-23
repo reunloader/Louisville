@@ -305,6 +305,7 @@
 100 Adam Rue, Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched to investigate the activation., Louisville, KY: null
 100 Adam Rue. Responding officers were dispatched, Louisville, KY: null
+100 Adam Service. Authorities responded, Louisville, KY: null
 100 Adam and 100 block of Acre, Louisville, KY: null
 100 Adam and 100 block of Baker, Louisville, KY: null
 100 Adam and 200 block of Baker, Louisville, KY: null
@@ -6688,6 +6689,9 @@
   lng: -85.726961
 1200 St Rene Rd. They provided emergency care to the young girl and transported her, Louisville, KY: null
 1200 St, Louisville, KY: null
+1200 Standard Ave, Louisville, KY:
+  lat: 38.2323759
+  lng: -85.7950418
 1200 Stanley Ave, Louisville, KY:
   lat: 38.188548
   lng: -85.78084
