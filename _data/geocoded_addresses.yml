@@ -15218,6 +15218,7 @@
 200 West Chestnut, Louisville, KY:
   lat: 38.248477
   lng: -85.7547841
+200 West Denny, Louisville, KY: null
 200 West Dixie Hwy, Louisville, KY: null
 200 West Early Morning, Louisville, KY: null
 200 West Farm Street, Louisville, KY: null
@@ -35246,6 +35247,9 @@
 5300 Melton Ave, Louisville, KY:
   lat: 38.1457842
   lng: -85.7306924
+5300 Mercury Dr, Louisville, KY:
+  lat: 38.1583904
+  lng: -85.8540228
 5300 Millwood Ct, Louisville, KY:
   lat: 38.1682321
   lng: -85.5763589
@@ -47436,6 +47440,7 @@
   responders were dispatched, Louisville, KY
 : null
 9400 Hardin Drive, Louisville, KY: null
+9400 Hilo Ct, Louisville, KY: null
 9400 Holiday Dr, Louisville, KY:
   lat: 38.118611
   lng: -85.828027
