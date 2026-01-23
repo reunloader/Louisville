@@ -2184,6 +2184,9 @@
   lat: 38.2397699
   lng: -85.7540073
 100 [Street Name] and 100 block of [Street Name], Louisville, KY: null
+100 [Street], Louisville, KY:
+  lat: 38.2397587
+  lng: -85.7540071
 100 [location unspecified], Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
@@ -10000,6 +10003,9 @@
   lat: 38.2570576
   lng: -85.7751703
 1500 West Motley Boulevard, Louisville, KY: null
+1500 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 1500 Wilson Ave, Louisville, KY:
   lat: 38.233202
   lng: -85.779085
@@ -34091,6 +34097,9 @@
 5000 Euclid Ave, Louisville, KY:
   lat: 38.2146706
   lng: -85.7748283
+5000 Fairdale Rd, Louisville, KY:
+  lat: 38.1123715
+  lng: -85.7482461
 5000 Fay Ave near Crosshair Lyman Avenue and Bauer Ave, Louisville, KY:
   lat: 38.164915
   lng: -85.776064
