@@ -6634,6 +6634,7 @@
 : null
 1200 South Forth, Louisville, KY: null
 1200 South Fourth Street near Montana and Creel, Louisville, KY: null
+1200 South Freshness Street, Louisville, KY: null
 1200 South Hearthstone Parkway near Bacalli, Louisville, KY: null
 1200 South Jackson at a church, Louisville, KY:
   lat: 38.23365
@@ -12726,6 +12727,9 @@
   lat: 38.2012566
   lng: -85.8114268
 1900 Farrington Dr near Graston Ave in Fielding Way, Louisville, KY:
+  lat: 38.1691103
+  lng: -85.8304169
+1900 Farrington Dr, Louisville, KY:
   lat: 38.1691103
   lng: -85.8304169
 1900 Fashion Manner Lane, Louisville, KY: null
