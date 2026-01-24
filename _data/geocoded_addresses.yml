@@ -17175,6 +17175,7 @@
 2100 I-64 West, Louisville, KY: null
 2100 Janlyn Rd, Louisville, KY: null
 2100 John80 Place, Louisville, KY: null
+2100 Keep Spring Place, Louisville, KY: null
 2100 Kenilworth Pl, Louisville, KY:
   lat: 38.2281835
   lng: -85.6979871
@@ -44540,6 +44541,9 @@
 800 South 26th Street, Louisville, KY:
   lat: 38.246164
   lng: -85.795377
+? 800 South 28th Street after completing standby duties spanning from the 1500 to
+  1900 blocks, ensuring readiness, Louisville, KY
+: null
 800 South 28th Street and 2300, Louisville, KY:
   lat: 38.2470453
   lng: -85.7988198
