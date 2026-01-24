@@ -673,6 +673,9 @@
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
+100 Drive/Twin Dr, Louisville, KY:
+  lat: 38.2852886
+  lng: -85.4861204
 100 E Ellington Ave near Sugar Garden Street, Louisville, KY: null
 100 E Ellington Ave, Crop St, Lyman Ave and South 1st Street, Louisville, KY: null
 100 E Ellington Ave, Louisville, KY:
@@ -5004,6 +5007,9 @@
 1100 South 11th Street, Louisville, KY:
   lat: 38.2440029
   lng: -85.7704431
+1100 South 15th Street, Louisville, KY:
+  lat: 38.2392837
+  lng: -85.7781523
 ? 1100 South 17th Street following a report of a possible overdose. The incident involved
   a young child who was found unresponsive. Emergency medical services were able,
   Louisville, KY
@@ -32740,6 +32746,7 @@
   lng: -85.8353464
 4800 Half Court Cross Street of Holter Hall Drive, Louisville, KY: null
 4800 Holly Ave, Louisville, KY: null
+4800 Home View Park at Locust Creek Community, Louisville, KY: null
 4800 Kirtanen and other locations, Louisville, KY: null
 4800 Kirtanen, Louisville, KY: null
 4800 Manslick Rd, Louisville, KY:
@@ -47154,6 +47161,7 @@
 9000 King Run Road, Louisville, KY: null
 9000 Lethborough Dr, Crop St of San Marcos, Louisville, KY: null
 9000 Linden Dr, Louisville, KY: null
+9000 Maple View, Louisville, KY: null
 9000 Mullico Pine Court, Louisville, KY: null
 9000 Pegasus Pointe Dr, Louisville, KY:
   lat: 38.1192155
