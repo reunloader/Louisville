@@ -15694,6 +15694,7 @@
 200 Westbound I-64 near Newberg and Bardstown Rd, Louisville, KY: null
 200 Westbound I-65, Louisville, KY: null
 200 Westbound Newburg Rd, Louisville, KY: null
+200 Westbound and 65 North ramp, Louisville, KY: null
 200 Westbound at Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
@@ -15712,6 +15713,9 @@
   lng: -85.7745966
 200 Westbound at mile marker 71, Louisville, KY: null
 200 Westbound at number14, Louisville, KY: null
+200 Westbound at the ramp, Louisville, KY:
+  lat: 38.2621141
+  lng: -85.7378387
 200 Westbound before Bardstown Rd, Louisville, KY: null
 200 Westbound expressway, Louisville, KY: null
 200 Westbound near Breckridge and St, Louisville, KY: null
