@@ -11687,6 +11687,7 @@
 1700 Tempest, Louisville, KY:
   lat: 38.1642333
   lng: -85.8253597
+1700 Third Street, Louisville, KY: null
 1700 Trent Ave, Louisville, KY:
   lat: 38.1613597
   lng: -85.8300741
@@ -46339,6 +46340,9 @@
 900 Burton Ave, Louisville, KY:
   lat: 38.206738
   lng: -85.773152
+900 Burton, Louisville, KY:
+  lat: 38.206738
+  lng: -85.773152
 900 Call, Louisville, KY: null
 900 Camden Ave near Warren Ave and Cliff Ave, Louisville, KY:
   lat: 38.1926656
@@ -47024,6 +47028,7 @@
 900 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+900 South Third Street, Louisville, KY: null
 900 South of New Orleans**, Louisville, KY: null
 900 South25th Street, Louisville, KY:
   lat: 38.243366
