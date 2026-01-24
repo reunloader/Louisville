@@ -2892,6 +2892,9 @@
 ? 1000 Magazine St, described as a 15-year-old and a 12-year-old, both black males,
   with details about their clothing, Louisville, KY
 : null
+1000 Manslick Rd, Louisville, KY:
+  lat: 38.1772112
+  lng: -85.7983653
 1000 Margetown Road, Louisville, KY: null
 1000 Mary St, Louisville, KY:
   lat: 38.2337014
@@ -14390,6 +14393,9 @@
 200 North 24th Street, Louisville, KY:
   lat: 38.261775
   lng: -85.789468
+200 North 25th Street, Louisville, KY:
+  lat: 38.261953
+  lng: -85.791125
 200 North 26th St between Columbia St and Rowan St, Louisville, KY: null
 200 North 26th Street, Crop St, Duncan and Columbia, Louisville, KY: null
 200 North 26th Street, Louisville, KY:
@@ -15101,6 +15107,7 @@
 200 Stone St, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
+200 Suburban at 8th and West Main, Louisville, KY: null
 200 Support, Louisville, KY: null
 200 Sycamore Ave, Louisville, KY:
   lat: 38.2558311
@@ -36450,6 +36457,7 @@
 5800 Charles Farm Cir, Louisville, KY: null
 5800 Coach Gate, Louisville, KY: null
 5800 Coach Gate. Emergency Medical Services were initially dispatched, Louisville, KY: null
+5800 Colby Lane, Louisville, KY: null
 5800 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1029536
   lng: -85.6537319
