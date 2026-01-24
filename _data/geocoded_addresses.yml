@@ -25244,6 +25244,9 @@
 3400 Virginia Ave, Louisville, KY:
   lat: 38.2387086
   lng: -85.8105098
+3400 Vogt Ave at EcoTech, Louisville, KY:
+  lat: 38.2064874
+  lng: -85.8339824
 3400 W Jefferson St, Louisville, KY:
   lat: 38.259772
   lng: -85.8073335
@@ -31010,6 +31013,9 @@
 4300 South 1st Street, Louisville, KY:
   lat: 38.193892
   lng: -85.761591
+4300 South 2nd Street, Louisville, KY:
+  lat: 38.1938497
+  lng: -85.7637745
 4300 South 3rd St, Louisville, KY:
   lat: 38.193839
   lng: -85.765056
@@ -33684,6 +33690,9 @@
   lat: 38.2414889
   lng: -85.7789521
 500 E W Kentucky St, South Hancock and South Jackson, Louisville, KY: null
+500 E W Liberty St at Crosstree St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 500 E W Liberty St at St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -49123,6 +49132,7 @@ Crossleaf Avenue and Willow Ave, Louisville, KY: null
 Crossmoor Ln and Hispanyola Ln, Louisville, KY: null
 Crosstimbers Dr and Keating Dr, Louisville, KY: null
 Crosstimbers Dr and Keening Drive, Louisville, KY: null
+Crosstree Vernon Avenue and North Bel Air Avenue, Louisville, KY: null
 Crosstreet New Cut Road and Candleworth Dr, Louisville, KY: null
 Crosstreet Newcote Road and Candlewick Drive, Louisville, KY: null
 Crosswood Jackson Avenue and Fischer Ave, Louisville, KY: null
@@ -49166,6 +49176,7 @@ Dorsey Station Rd and Mill Brook Rd, Louisville, KY: null
 Doughline Road and Milner Rd, Louisville, KY: null
 Dover Rd and Mercer Ave, Louisville, KY: null
 Dover Road and Looker Avenue, Louisville, KY: null
+Downes Ln and Strawberry Ln, Louisville, KY: null
 Dublin Ln and Lexington Rd, Louisville, KY: null
 Dukehart Dr and Star Ln, Louisville, KY: null
 Dunby Road and Gresham Rd, Louisville, KY: null
