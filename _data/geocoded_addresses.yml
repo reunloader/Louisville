@@ -18744,6 +18744,7 @@
 24 Greenwood Ave, Louisville, KY:
   lat: 38.2411234
   lng: -85.7886759
+24 Homadalli Boulevard, Louisville, KY: null
 24 Meadow Dr, Louisville, KY:
   lat: 38.2083084
   lng: -85.6593503
@@ -25335,6 +25336,7 @@
 3500 Bardstown Rd, Louisville, KY:
   lat: 38.20391
   lng: -85.6657011
+3500 Bardstown Rd, close, Louisville, KY: null
 3500 Bells Ln, Louisville, KY:
   lat: 38.2204149
   lng: -85.8151669
@@ -37847,10 +37849,14 @@
   lng: -85.739251
 600 Sangam Creek Road, Louisville, KY: null
 600 Satthard Street Road, Louisville, KY: null
+600 Scholar House Ct near Bradley Ave, Louisville, KY:
+  lat: 38.2149823
+  lng: -85.7479588
 600 Scholar House Ct, Cross Street Bradley Avenue, Louisville, KY: null
 600 Scholar House Ct, Louisville, KY:
   lat: 38.2149823
   lng: -85.7479588
+600 Scholar House Ct, with units confirming a blaze in the alley adjacent, Louisville, KY: null
 600 Scone Ct due, Louisville, KY: null
 600 Scone Ct, Louisville, KY: null
 ? 600 Scotts Gap Rd, with additional reports of 14 shots near the 668 and 13,400 blocks
@@ -49801,6 +49807,7 @@ Panax Ln and Morning Glory Ln, Louisville, KY: null
 Papa Lovell Road and Thruston Ave, Louisville, KY: null
 Papua River Road and Gardiner Ln, Louisville, KY: null
 Paramount Dr and Oak Park Dr, Louisville, KY: null
+Paris Dr and Bashford Manor Ln, Louisville, KY: null
 Park Blvd and Green Spring Dr, Louisville, KY: null
 Park Boundary Rd and Shack Park Road, Louisville, KY: null
 Park Rd and Leroy Ave, Louisville, KY: null
