@@ -12549,6 +12549,9 @@
 1800 West Jefferson, Louisville, KY:
   lat: 38.2561291
   lng: -85.780408
+1800 West Market, Louisville, KY:
+  lat: 38.257732
+  lng: -85.780115
 1800 West Valley, Louisville, KY:
   lat: 38.1533993
   lng: -85.6971709
@@ -37979,6 +37982,9 @@
 600 South28th Street, Louisville, KY:
   lat: 38.253236
   lng: -85.797728
+600 South29th St, Louisville, KY:
+  lat: 38.252119
+  lng: -85.7996
 600 South29th Street, Crest Street 7 Magazine in West Chestnut, Louisville, KY: null
 600 South29th Street, Louisville, KY:
   lat: 38.252119
@@ -38051,6 +38057,7 @@
 600 Steeplecrest Cir, Louisville, KY:
   lat: 38.2411039
   lng: -85.6173933
+600 Stillit's Wayne, Louisville, KY: null
 600 Stivers Rd, Louisville, KY: null
 600 Summit Crest Dr, Louisville, KY: null
 600 Sun Beam Ct, Louisville, KY: null
