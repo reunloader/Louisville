@@ -2166,6 +2166,9 @@
 100 Wickfield Dr. with a lift, helping him, Louisville, KY:
   lat: 38.2380583
   lng: -85.4873461
+100 Willow Dr, Louisville, KY:
+  lat: 38.1832035
+  lng: -85.700345
 100 Wiltshire Ave, Louisville, KY:
   lat: 38.2521012
   lng: -85.6563324
@@ -7481,6 +7484,9 @@
   lat: 38.2310656
   lng: -85.7281587
 1300 Etow Avenue, Louisville, KY: null
+1300 Evangeline Ave, Louisville, KY:
+  lat: 38.1613635
+  lng: -85.7616364
 1300 Everett Ave, Louisville, KY:
   lat: 38.2367176
   lng: -85.7127065
@@ -26317,6 +26323,7 @@
 3700 East Indian Trail, Louisville, KY:
   lat: 38.169993
   lng: -85.691836
+3700 East Sweetmore Drive, Louisville, KY: null
 3700 East Weavemore Drive, Louisville, KY: null
 3700 East Wheatmore at Jacobs Elementary, Louisville, KY:
   lat: 38.1919809
@@ -48141,6 +48148,7 @@
 9600 Leopold Wood Loop, Louisville, KY: null
 9600 Leopold Wood, Louisville, KY: null
 9600 Leopold Wooden Loop, Louisville, KY: null
+9600 Leopold Woodloop, Louisville, KY: null
 9600 Leopold Woods Loop, Louisville, KY: null
 ? 9600 Leopold Woods Loop. An employee found the child and brought her into their
   office, unsure of her residence. Police units responded to investigate., Louisville,
