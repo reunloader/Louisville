@@ -15359,6 +15359,9 @@
 200 West at Bank St, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
+200 West at Bardstown Rd, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at Breckenridge Ln, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -26536,6 +26539,9 @@
   lng: -85.8313497
 3700 Whitehall Ct, where a woman was not answering the door. Responders are investigating the situation, Louisville, KY: null
 3700 Whitland Mills, Louisville, KY: null
+3700 Willmar Ave, Louisville, KY:
+  lat: 38.2026724
+  lng: -85.6529209
 3700 Woodgreen Ct, Louisville, KY:
   lat: 38.189985
   lng: -85.799011
@@ -37579,6 +37585,7 @@
   lat: 38.2146048
   lng: -85.7460808
 600 Preston Hallway, Louisville, KY: null
+600 Preston Hwy and Income Suites, Louisville, KY: null
 600 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -47701,6 +47708,7 @@
 9500 Baxter Ave, Louisville, KY:
   lat: 38.2469712
   lng: -85.7295363
+9500 Blue Grass Parkway at Car Max, Louisville, KY: null
 9500 Blue Lake, Louisville, KY: null
 9500 Braided Tail Ct, Louisville, KY:
   lat: 38.2670204
