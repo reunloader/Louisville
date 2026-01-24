@@ -5963,6 +5963,7 @@
   reportedly walking around the mall and making sexually inappropriate comments, Louisville,
   KY
 : null
+1200 Barstown, Louisville, KY: null
 1200 Baxter, Louisville, KY:
   lat: 38.233506
   lng: -85.719039
@@ -21043,7 +21044,11 @@
   lat: 38.207396
   lng: -85.76754
 2900 Anton Pkwy, Louisville, KY: null
+2900 Bank St and River Shore Dr, Louisville, KY: null
 2900 Bank St as part of the ongoing investigation, Louisville, KY: null
+2900 Bank St but was later recovered at River Shore Dr. An individual was taken into custody related, Louisville, KY:
+  lat: 38.2655065
+  lng: -85.724565
 ? 2900 Bank St following a report of a medical emergency involving a 40-year-old male.
   The individual was reportedly experiencing seizures and may have been assaulted.
   EMS and police units were dispatched, Louisville, KY
@@ -26515,6 +26520,9 @@
 38 Grand Ave, Louisville, KY:
   lat: 38.241364
   lng: -85.8090995
+38 Sherwood Ave, Louisville, KY:
+  lat: 38.2334241
+  lng: -85.7051
 3800 7th St Rene Rd, Louisville, KY: null
 3800 7th St near Crawford Street, Leroy Ave, and Nobel Pl, Louisville, KY:
   lat: 38.2020617
@@ -36749,6 +36757,7 @@
   lat: 38.2446794
   lng: -85.7394849
 600 B Street, Louisville, KY: null
+600 Backstra Ave, Louisville, KY: null
 600 Baker Queen Frank, Louisville, KY: null
 600 Baker and 300 block of, Louisville, KY: null
 600 Baker and Charlie, Louisville, KY: null
@@ -41016,6 +41025,7 @@
   lat: 38.1936279
   lng: -85.7712693
 700 Kentucky pasture, Louisville, KY: null
+700 Kilo 4 Sierra, Louisville, KY: null
 700 Kirchway at Meander Way and Intercontin Road, Louisville, KY: null
 700 Lake Forest Pky, Northridge area, Louisville, KY: null
 700 Lakeheath Dr, Louisville, KY:
@@ -44023,6 +44033,9 @@
 800 Melford, Louisville, KY:
   lat: 38.210141
   lng: -85.739451
+800 Milton St, Louisville, KY:
+  lat: 38.22523
+  lng: -85.74106
 800 Minutecircle, Louisville, KY: null
 800 Muhammad Ali, Louisville, KY:
   lat: 38.251797
@@ -48370,6 +48383,7 @@ Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Balmoral Dr and Bramton Rd, Louisville, KY: null
 Bank St and Beaver St, Louisville, KY: null
 Bank St and Griffiths Ave, Louisville, KY: null
+Bank St and River Shore Dr, Louisville, KY: null
 Barchetown Rd and Fairmount Rd, Louisville, KY: null
 Barchetown Road and Fairground Rd, Louisville, KY: null
 Barchetown Road and Grinstead Dr, Louisville, KY: null
