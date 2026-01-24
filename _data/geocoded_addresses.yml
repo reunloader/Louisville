@@ -5814,6 +5814,9 @@
   lat: 38.0844127
   lng: -85.8734453
 11800 Peak Pl, Louisville, KY: null
+11800 Pierce, Louisville, KY:
+  lat: 38.084175
+  lng: -85.8722101
 11800 Sandpiper, Brook Lane, Louisville, KY: null
 11800 Standiford Plaza Dr, Louisville, KY:
   lat: 38.0921635
@@ -13082,6 +13085,9 @@
 1900 the area, Louisville, KY: null
 1900 the area., Louisville, KY: null
 1900 the fire station, Louisville, KY: null
+1900, Louisville, KY:
+  lat: 38.2197179
+  lng: -85.7634361
 19000 Long Grove Way near Locust Creek Blvd and Park Creek Cir, Louisville, KY:
   lat: 38.242909
   lng: -85.416381
@@ -14394,6 +14400,7 @@
   lat: 38.2626638
   lng: -85.7972793
 200 North 32nd Street, Louisville, KY: null
+200 North 343, Louisville, KY: null
 200 North 34th Street, Louisville, KY:
   lat: 38.2636279
   lng: -85.8068436
@@ -40974,6 +40981,9 @@
 700 Indian Trail, Louisville, KY:
   lat: 38.1686132
   lng: -85.7003124
+700 Indiana, Louisville, KY:
+  lat: 38.1975108
+  lng: -85.7164179
 700 Industry Rd, Louisville, KY:
   lat: 38.2210439
   lng: -85.7755794
@@ -45981,6 +45991,9 @@
 900 Crop St near South Jackson and South Preston. EMS also responded, Louisville, KY:
   lat: 38.2599675
   lng: -85.7803993
+900 Cross, Louisville, KY:
+  lat: 38.3140959
+  lng: -85.5732474
 900 Dale Ave, Louisville, KY:
   lat: 38.1732022
   lng: -85.7741076
