@@ -93615,4 +93615,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2026-01-24T01:29:23.789307'
+- timestamp: '2026-01-24T01:37:08.151467'
+  total_addresses: 22220
+  successful: 11401
+  failed: 10819
+  success_rate: 51.31
+  failure_rate: 48.69
+  failure_patterns:
+    Intersection format: 2292
+    Contains location qualifiers (near/at): 2745
+    Incomplete/vague address: 2950
+    Other/Unknown: 2278
+    Contains extra sentences/context: 538
+    Police phonetic codes: 16
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2026-01-24T01:37:08.151635'
