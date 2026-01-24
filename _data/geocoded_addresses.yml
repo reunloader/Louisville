@@ -9414,7 +9414,11 @@
 1500 Arling Ave, Louisville, KY:
   lat: 38.1736194
   lng: -85.786731
+1500 Avenue, Holiday Inn, Louisville, KY: null
 1500 Avenue, Louisville, KY: null
+? 1500 Avenue. Responding fire units found a fire throughout the building in zone
+  1, but it was later confirmed, Louisville, KY
+: null
 1500 Bardstown Rd, Louisville, KY:
   lat: 38.2316448
   lng: -85.7088797
@@ -37864,6 +37868,9 @@
 600 South near mile marker 100, Louisville, KY:
   lat: 38.2486074
   lng: -85.7563848
+600 South, 2nd Street, and near 60 South, 2nd Street. These communications appeared, Louisville, KY:
+  lat: 38.2590366
+  lng: -85.7864667
 600 South, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
