@@ -2448,6 +2448,7 @@
 1000 Carriage Pass Pl, Louisville, KY:
   lat: 38.1740487
   lng: -85.5233113
+1000 Casa Landa, Louisville, KY: null
 1000 Cathy Dexter, Louisville, KY: null
 1000 Caven Ave, Louisville, KY:
   lat: 38.104178
@@ -4790,6 +4791,7 @@
   The medical response was subsequently canceled., Louisville, KY
 : null
 1100 King Arthur Ln, Louisville, KY: null
+1100 LaFontana Court, Louisville, KY: null
 1100 Larchtown Road, Louisville, KY: null
 1100 Lavista Way at Elijah Christian Child Care, Louisville, KY:
   lat: 38.1456694
@@ -22672,6 +22674,7 @@
 300 W Cardinal Blvd. Responding units investigated the sounding alarm., Louisville, KY:
   lat: 38.220488
   lng: -85.761346
+300 W Chestnut St behind Hilton Garden Inn, Louisville, KY: null
 300 W Chestnut St, Louisville, KY:
   lat: 38.2486683
   lng: -85.7563843
@@ -26110,6 +26113,9 @@
 37 South Third Street, Louisville, KY: null
 37 Tevis Dr, Louisville, KY: null
 3700 7th St Rene Rd, Louisville, KY: null
+3700 Alma Ave, Louisville, KY:
+  lat: 38.1807378
+  lng: -85.7903209
 3700 Astrocraft Dr, Louisville, KY:
   lat: 38.111105
   lng: -85.69441
@@ -28417,6 +28423,9 @@
 400 Oxy Rd, Louisville, KY:
   lat: 38.2209779
   lng: -85.8280463
+400 Paradise Ln, Louisville, KY:
+  lat: 38.1375983
+  lng: -85.8711184
 400 Park Ave, Louisville, KY:
   lat: 38.231342
   lng: -85.761131
