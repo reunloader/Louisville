@@ -5246,6 +5246,9 @@
   lng: -85.8299446
 1100 St, Louisville, KY: null
 1100 St. Catharines Court, Louisville, KY: null
+1100 Sterling Rd, Louisville, KY:
+  lat: 38.22204
+  lng: -85.6029558
 1100 Stock173, Louisville, KY:
   lat: 38.1157851
   lng: -85.5973162
@@ -30277,6 +30280,9 @@
   lat: 38.183076
   lng: -85.789051
 4100 Wheeler Ave, cross of Alma Ave and Big Mill Avenue, Louisville, KY: null
+4100 Winchester Rd, Louisville, KY:
+  lat: 38.2453865
+  lng: -85.6434488
 4100 Winnrose Way, Louisville, KY:
   lat: 38.239014
   lng: -85.8222
@@ -34075,6 +34081,9 @@
 500 Preston Hwy at Meyer Tour, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
+500 Preston Hwy, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 ? 500 Quails Run in response to a residential alarm. The alarm was later canceled
   and determined to be technical in nature., Louisville, KY
 : null
@@ -34914,6 +34923,9 @@
 5100 Cane Run Rd. A mother had shot herself outside the location, and responders arrived, Louisville, KY:
   lat: 38.1774639
   lng: -85.8691131
+5100 Crafty Dr, Louisville, KY:
+  lat: 38.1747464
+  lng: -85.7108456
 5100 Crescent Highway, Louisville, KY: null
 5100 Delaware Dr, Louisville, KY:
   lat: 38.1882116
