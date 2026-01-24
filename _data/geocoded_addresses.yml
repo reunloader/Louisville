@@ -1078,6 +1078,9 @@
 100 Magazine St, Louisville, KY:
   lat: 38.2493289
   lng: -85.7734408
+100 Main St, Louisville, KY:
+  lat: 38.2577199
+  lng: -85.7580289
 100 Mallet Hill Dr, Louisville, KY:
   lat: 38.2596858
   lng: -85.4366213
@@ -5944,6 +5947,7 @@
 1200 Bardstown Rd near Big Bar, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
+1200 Bardstown Rd, 100 block of Adams St, and 100 block of Tait Pl, Louisville, KY: null
 1200 Bardstown Rd, Louisville, KY:
   lat: 38.236869
   lng: -85.7184884
@@ -40881,6 +40885,7 @@
   lat: 38.2456348
   lng: -85.7444872
 700 East Alley, St, Louisville, KY: null
+700 East Brackenridge Street, Louisville, KY: null
 700 East Broadway near Shelby and Clay, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
