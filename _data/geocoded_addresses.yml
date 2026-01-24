@@ -8308,6 +8308,9 @@
 14 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+14 Camden Ave, Louisville, KY:
+  lat: 38.1929339
+  lng: -85.7727407
 14 Colorado Ave, Louisville, KY:
   lat: 38.2122679
   lng: -85.7762454
@@ -8333,6 +8336,9 @@
 14 Russell Lee Dr, Louisville, KY:
   lat: 38.2288147
   lng: -85.81672
+14 South 4th Street at St, Louisville, KY:
+  lat: 38.2243241
+  lng: -85.7623964
 14 South 4th street, Louisville, KY:
   lat: 38.2243241
   lng: -85.7623964
@@ -48747,6 +48753,7 @@ Blackberry Dr and Ashley Floyd Drive, Louisville, KY: null
 Blankenbaker Pky and Shelbyville Rd, Louisville, KY: null
 Blankenbaker Pky and Upland Rd, Louisville, KY: null
 Blankenbaker Rd and Maxon Dr, Louisville, KY: null
+Blankenbaker Rd and Ransum Dr, Louisville, KY: null
 Blanket Baker Parkway and Electron Dr, Louisville, KY: null
 Blast On Road and Engine Drive, Louisville, KY: null
 Blenheim Rd and North Harpers Lane, Louisville, KY: null
@@ -49940,6 +49947,7 @@ Sprigwood Ln and Mary Dell Ln, Louisville, KY: null
 Spring Dr and Bardstown Rd, Louisville, KY: null
 Spring Dr and Rock Bay Dr, Louisville, KY: null
 Spring Meadow Ln and Crosswood Countryside Lane, Louisville, KY: null
+Spring St and Mellwood Ave, Louisville, KY: null
 Springdale Rd and Brownsboro Rd, Louisville, KY:
   lat: 38.2933856
   lng: -85.6039019
