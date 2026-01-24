@@ -94255,4 +94255,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 3
   batch_new_successes: 2
-last_updated: '2026-01-24T13:10:00.297688'
+- timestamp: '2026-01-24T13:24:01.131546'
+  total_addresses: 22317
+  successful: 11450
+  failed: 10867
+  success_rate: 51.31
+  failure_rate: 48.69
+  failure_patterns:
+    Intersection format: 2302
+    Contains location qualifiers (near/at): 2751
+    Incomplete/vague address: 2966
+    Other/Unknown: 2294
+    Contains extra sentences/context: 538
+    Police phonetic codes: 16
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2026-01-24T13:24:01.131746'
