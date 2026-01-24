@@ -20656,6 +20656,7 @@
 : lat: 38.198204
   lng: -85.8349572
 2800 D Miller Ave, Louisville, KY: null
+2800 D-Emil Ave, Louisville, KY: null
 2800 Danzig Pl, Louisville, KY: null
 2800 De Mel Ave, Louisville, KY:
   lat: 38.1694043
@@ -23421,6 +23422,9 @@
 31 Larkwood Ave, Louisville, KY:
   lat: 38.2586244
   lng: -85.8149325
+31 Manslick Rd, Louisville, KY:
+  lat: 38.1772112
+  lng: -85.7983653
 31 Poplar Level Rd, Louisville, KY:
   lat: 38.1581079
   lng: -85.646379
