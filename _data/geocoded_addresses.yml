@@ -35800,6 +35800,9 @@
   lat: 38.2345558
   lng: -85.7474259
 5400 Sadlows, Louisville, KY: null
+5400 Sanita Rd, Louisville, KY:
+  lat: 38.191777
+  lng: -85.707621
 5400 Shepherdsville Rd, Louisville, KY:
   lat: 38.170756
   lng: -85.6595
@@ -36811,6 +36814,9 @@
 5900 Shepherd Crossing Dr, Louisville, KY:
   lat: 38.1278035
   lng: -85.6590582
+5900 Stone Bluff Rd, Louisville, KY:
+  lat: 38.1630653
+  lng: -85.6226579
 ? 5900 Toby Lane, prompting a response from emergency services. A 42-year-old female
   was experiencing significant abdominal pain, and responders were dispatched to provide
   assistance., Louisville, KY
@@ -39505,6 +39511,7 @@
 6500 Ladd Ave, Louisville, KY:
   lat: 38.1907335
   lng: -85.8616317
+6500 Lover's Lane, Louisville, KY: null
 6500 Lucerne Ave, Louisville, KY:
   lat: 38.192871
   lng: -85.874892
