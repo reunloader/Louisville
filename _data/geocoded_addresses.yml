@@ -33782,6 +33782,7 @@
 500 Eastern Parkway, Louisville, KY:
   lat: 38.2115
   lng: -85.751085
+500 Edward Polenor, Louisville, KY: null
 500 Emery Rd, Louisville, KY:
   lat: 38.261902
   lng: -85.689463
@@ -38136,6 +38137,9 @@
   lng: -85.801039
 600 South35th Street, 100 block of Somage, and 8300 block of Aldridge Way, Louisville, KY: null
 600 South37th Street, Louisville, KY:
+  lat: 38.254982
+  lng: -85.813352
+600 South37th, Louisville, KY:
   lat: 38.254982
   lng: -85.813352
 600 South38 Street, Louisville, KY: null
