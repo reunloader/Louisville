@@ -3215,6 +3215,7 @@
 1000 Riva Rd, Louisville, KY:
   lat: 38.2531892
   lng: -85.5604565
+1000 River two, Louisville, KY: null
 1000 Royal Gardens Ct and surrounding areas, Louisville, KY: null
 1000 Rubel Ave, Louisville, KY:
   lat: 38.2379209
@@ -5813,6 +5814,9 @@
 11700 Tierney Ave, Louisville, KY:
   lat: 38.0886712
   lng: -85.8872223
+11700 Wicker Ct, Louisville, KY:
+  lat: 38.181462
+  lng: -85.540579
 11700 Wiltonwood Ct, Louisville, KY:
   lat: 38.0833425
   lng: -85.8662722
@@ -7116,6 +7120,9 @@
 12600 Orell Crossing Cir, Louisville, KY: null
 12600 Oreo Crossings, Louisville, KY: null
 12600 Raise Your Court, Louisville, KY: null
+12600 Saxony Park Cir, Louisville, KY:
+  lat: 38.184713
+  lng: -85.52199
 12600 Shady Villa Dr, Louisville, KY:
   lat: 38.1626202
   lng: -85.6833215
@@ -14571,10 +14578,14 @@
 200 North at the Lincoln Bridge, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North between Shelbyville and Old Henry, Louisville, KY: null
 200 North near 5 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
 200 North near Australian Motors, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
+200 North near Shelbyville, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
 200 North of Preston, Louisville, KY: null
@@ -17273,6 +17284,9 @@
 2100 Railroad Ave, Louisville, KY:
   lat: 38.147278
   lng: -85.8504609
+2100 Reynolds Ln, Louisville, KY:
+  lat: 38.192794
+  lng: -85.653748
 2100 River Bluff Rd, Louisville, KY:
   lat: 38.2837229
   lng: -85.6796464
@@ -21641,6 +21655,7 @@
 300 Adam and 300 block of Baker, Louisville, KY: null
 300 Adam and 300 block of Charlie were not fully detailed in the initial reports, Louisville, KY: null
 300 Adam and 300 block of Charlie, Louisville, KY: null
+300 Adam and nearby areas, Louisville, KY: null
 ? 300 Adam in response to a medical situation. One unit was with a subject and appeared
   to be investigating the location of a prior incident. Additional assistance was
   requested to help manage the situation., Louisville, KY
@@ -29170,6 +29185,9 @@
   lat: 38.2256323
   lng: -85.6819226
 400 Whiteheath Ln, Louisville, KY: null
+400 Wicker Ct, Louisville, KY:
+  lat: 38.1815975
+  lng: -85.539805
 400 Wilmoth Ave, Louisville, KY:
   lat: 38.1939623
   lng: -85.873059
@@ -37376,6 +37394,7 @@
 600 Flat Rock Rd, Louisville, KY:
   lat: 38.2458817
   lng: -85.4454988
+600 Forest B, Louisville, KY: null
 600 Fox Horn Cir, Louisville, KY:
   lat: 38.1638756
   lng: -85.8554355
