@@ -8702,6 +8702,7 @@
 1400 Indiana Ave, Louisville, KY:
   lat: 38.194265
   lng: -85.718987
+1400 Jane Granddale Meadow Ct, Louisville, KY: null
 1400 Kentucky Mills Dr, Louisville, KY: null
 1400 Knight and Gale, Louisville, KY: null
 1400 Lamar Ave, Louisville, KY:
@@ -34716,6 +34717,9 @@
 5000 Shallow Trail. Reports indicate that Battalion 76 arrived and established their presence, Louisville, KY: null
 5000 Shelby Grove Road, Louisville, KY: null
 5000 Shelbyville Rd close, Louisville, KY: null
+5000 Shelbyville Rd near Maple St, Louisville, KY:
+  lat: 38.247028
+  lng: -85.6228127
 5000 Shelbyville Rd, Louisville, KY:
   lat: 38.247028
   lng: -85.6228127
@@ -35467,6 +35471,9 @@
 5300 Colmar Dr near Cross Rd of Rosewell and South 36, Louisville, KY:
   lat: 38.2359337
   lng: -85.8141613
+5300 Commerce Park at Woods Creek, Louisville, KY:
+  lat: 38.1159709
+  lng: -85.7202584
 5300 Crantree Pl, Louisville, KY:
   lat: 38.1010205
   lng: -85.6618715
