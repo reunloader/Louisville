@@ -19695,6 +19695,12 @@
 : lat: 38.2222129
   lng: -85.6835707
 2600 Bell and Tray Circle, Louisville, KY: null
+2600 Benoch Ave, Louisville, KY:
+  lat: 38.186161
+  lng: -85.840828
+2600 Benoch Ave. Officers checked the area and surrounding streets, Louisville, KY:
+  lat: 38.186161
+  lng: -85.840828
 2600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
@@ -30510,6 +30516,7 @@
   lat: 38.1792592
   lng: -85.783849
 4200 Taylor Blvd, Treasury, Lynnhurst Ave, and Bluegrass Ave, Louisville, KY: null
+4200 Taylor Willivar, Louisville, KY: null
 4200 Town Center, Louisville, KY: null
 4200 Towne Center Dr, Louisville, KY:
   lat: 38.3007023
@@ -37542,6 +37549,9 @@
   lat: 38.2722316
   lng: -85.7923243
 600 North27th, possibly related, Louisville, KY: null
+600 North29th Street near 16th Street, Louisville, KY:
+  lat: 38.273601
+  lng: -85.794607
 600 North39th Street, Louisville, KY:
   lat: 38.2727871
   lng: -85.8118778
