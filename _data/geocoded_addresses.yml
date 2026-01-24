@@ -19380,6 +19380,9 @@
   lat: 38.1934133
   lng: -85.7960886
 2500 North Broadway, Louisville, KY: null
+2500 Osage Ave, Louisville, KY:
+  lat: 38.2395415
+  lng: -85.7945964
 2500 Osage, Louisville, KY:
   lat: 38.2395415
   lng: -85.7945964
@@ -37873,6 +37876,9 @@
   lat: 38.253605
   lng: -85.801039
 600 South35th Street, 100 block of Somage, and 8300 block of Aldridge Way, Louisville, KY: null
+600 South37th Street, Louisville, KY:
+  lat: 38.254982
+  lng: -85.813352
 600 South38 Street, Louisville, KY: null
 600 South38, Louisville, KY: null
 600 South39th Street, Louisville, KY:
@@ -40476,6 +40482,7 @@
 7 Southwestern Pky, Louisville, KY:
   lat: 38.2477827
   lng: -85.829606
+7 St Rene Rd, Louisville, KY: null
 7 Tyler Parkway, Louisville, KY:
   lat: 38.232595
   lng: -85.7142149
