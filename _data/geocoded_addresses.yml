@@ -6256,6 +6256,7 @@
 1200 Homeview Dr, Louisville, KY:
   lat: 38.2064911
   lng: -85.7796848
+1200 Homeview Dr, Parkland, Louisville, KY: null
 1200 Huntington Ln, Louisville, KY:
   lat: 38.141666
   lng: -85.688349
@@ -12430,6 +12431,12 @@
 1800 South Hirsborne Parkway, Louisville, KY: null
 1800 South Hirshborn, Louisville, KY: null
 1800 South Horshorn Parkway near Munson, Louisville, KY: null
+1800 South St, Louisville, KY:
+  lat: 38.2182659
+  lng: -85.7774103
+? 1800 South St, suspected to be a fraternity house, with noise audible from half
+  a block away. The driver was stopped, Louisville, KY
+: null
 1800 South Third Street, Louisville, KY: null
 1800 South West 14th Ave, Louisville, KY: null
 1800 South22nd Street near Algonquin Pky and Western Ave, Louisville, KY:
@@ -32134,6 +32141,7 @@
 4600 South 63rd Street, Louisville, KY: null
 4600 South Air Sport Parkway, Louisville, KY: null
 4600 South Cross Drive, Louisville, KY: null
+4600 South First Street, Louisville, KY: null
 4600 South Press Drive near Westwood Lawn, Louisville, KY: null
 4600 South Second Street, Louisville, KY: null
 4600 South Sir, helping officers recover the stolen car and prevent further incidents, Louisville, KY: null
