@@ -1324,6 +1324,7 @@
   occurred at the Callhouse East, east of W River Rd and W Main St. EMS responded,
   Louisville, KY
 : null
+100 North Fourth Street, Louisville, KY: null
 100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
 100 North Horsburn Parkway, Louisville, KY: null
@@ -17435,6 +17436,9 @@
 2100 West Chestnut, Louisville, KY:
   lat: 38.2518042
   lng: -85.786227
+2100 West Lee, Louisville, KY:
+  lat: 38.2269883
+  lng: -85.7938013
 2100 West Madison, Louisville, KY:
   lat: 38.253087
   lng: -85.78599
@@ -22410,6 +22414,7 @@
   lat: 38.1819023
   lng: -85.7203622
 300 Primrose Dr, across Dellridge Dr in Beaman Lane, Louisville, KY: null
+300 Quinn25, Louisville, KY: null
 300 Ralph Street heading toward Dixie Hwy, Louisville, KY: null
 300 Revolutionary Rd, Louisville, KY:
   lat: 38.133711
@@ -23103,6 +23108,9 @@
 3000 Jefferson Green Dr, Louisville, KY: null
 3000 Jefferson Green, Louisville, KY: null
 3000 Joanne Way, Louisville, KY: null
+3000 Juniper Hill Rd, Louisville, KY:
+  lat: 38.24284
+  lng: -85.679935
 3000 Juniper Hill, Louisville, KY:
   lat: 38.24284
   lng: -85.679935
@@ -37218,6 +37226,7 @@
 600 East Market, Louisville, KY:
   lat: 38.2532694
   lng: -85.7419011
+600 East Metal Court, Louisville, KY: null
 600 East Oak, Louisville, KY:
   lat: 38.2335579
   lng: -85.7455533
