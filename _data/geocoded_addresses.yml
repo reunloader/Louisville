@@ -21318,6 +21318,7 @@
 2900 Greenwood Rd, Louisville, KY:
   lat: 38.1443808
   lng: -85.8602956
+2900 Harrison Ave in Croshaw, Louisville, KY: null
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
 2900 Klondike Ln, Crop St, Louisville, KY: null
 2900 Kozy Kreek Dr, Louisville, KY:
@@ -41692,6 +41693,9 @@
 700 South, Louisville, KY:
   lat: 38.2499785
   lng: -85.8253016
+700 South15th Street, Louisville, KY:
+  lat: 38.248142
+  lng: -85.776675
 700 South15th, Louisville, KY:
   lat: 38.248142
   lng: -85.776675
