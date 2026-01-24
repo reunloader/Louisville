@@ -8941,6 +8941,9 @@
 1400 South 10th Street near West Hill and West Burnett, Louisville, KY:
   lat: 38.229364
   lng: -85.771544
+1400 South 15th Street, Louisville, KY:
+  lat: 38.2294683
+  lng: -85.7799671
 1400 South 1st Street, Louisville, KY:
   lat: 38.228491
   lng: -85.7567193
@@ -23821,6 +23824,9 @@
   lat: 38.2114486
   lng: -85.7209123
 3100 Popple Lover Road, Louisville, KY: null
+3100 Portland Ave, Louisville, KY:
+  lat: 38.27388
+  lng: -85.798085
 ? 3100 Quinn following a report of an overdose. There was concern that the incident
   might also involve a suicide attempt, given the individual's known history of mental
   health challenges., Louisville, KY
@@ -24985,6 +24991,7 @@
   lat: 38.2344555
   lng: -85.4204802
 3400 Crossroads Chamberland, Louisville, KY: null
+3400 DRC Avenue, Louisville, KY: null
 3400 Dale Park Terrace. The activation was due, Louisville, KY: null
 3400 Dale Rd near Mary Catherine, Louisville, KY:
   lat: 38.1505046
@@ -34206,6 +34213,9 @@
 500 South 1st Street, Louisville, KY:
   lat: 38.250481
   lng: -85.752648
+500 South 20th Street, Louisville, KY:
+  lat: 38.2540593
+  lng: -85.7849797
 500 South 26th Street, Louisville, KY:
   lat: 38.255083
   lng: -85.794377
