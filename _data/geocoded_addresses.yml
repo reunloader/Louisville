@@ -4925,6 +4925,9 @@
 : null
 1100 March 1 Avenue, Louisville, KY: null
 1100 March1 Avenue, Louisville, KY: null
+1100 Marguerite Dr, Louisville, KY:
+  lat: 38.1664096
+  lng: -85.8540671
 1100 Mark near Our Lady of Peace, Crop St, Bellarmine Blvd, and Richmond Dr, Louisville, KY:
   lat: 38.1758132
   lng: -85.8486545
@@ -24958,6 +24961,9 @@
 3300 Royal Dr, Louisville, KY:
   lat: 38.129104
   lng: -85.759231
+3300 Rudd Ave, Louisville, KY:
+  lat: 38.2761605
+  lng: -85.8013011
 3300 Scarsdale Rd, Louisville, KY: null
 3300 Schneiter Ave, Louisville, KY:
   lat: 38.201681
@@ -26336,6 +26342,9 @@
 3600 West Market, Louisville, KY:
   lat: 38.2610294
   lng: -85.8097551
+3600 West Muhammad Ali, Louisville, KY:
+  lat: 38.2520932
+  lng: -85.7662128
 3600 Wheeler Ave near Strader Street, Louisville, KY:
   lat: 38.1942564
   lng: -85.7886117
@@ -26894,6 +26903,9 @@
 3800 Alanadale Dr, Louisville, KY:
   lat: 38.1101136
   lng: -85.8675313
+3800 Alford Ave, Louisville, KY:
+  lat: 38.266779
+  lng: -85.812854
 3800 Bank St near 38th and 39th Street, Louisville, KY:
   lat: 38.271863
   lng: -85.810797
@@ -43561,6 +43573,7 @@
 ? 7500 Manslick Rd involving a gray Toyota Tundra and a blue Nissan truck. Vehicles
   were partially blocking traffic lanes, and units responded, Louisville, KY
 : null
+7500 Manslick Rd, Crop St, Franelm Rd, and Timber Trace, Louisville, KY: null
 7500 Manslick Rd, Louisville, KY:
   lat: 38.1480517
   lng: -85.7908992
