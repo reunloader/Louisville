@@ -3523,6 +3523,9 @@
 1000 Taylor Ave, Louisville, KY:
   lat: 38.2016802
   lng: -85.7027508
+1000 Taylor Blvd, Louisville, KY:
+  lat: 38.2097956
+  lng: -85.7718278
 1000 Taylor and Bluegrass, Louisville, KY: null
 1000 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
@@ -33090,6 +33093,9 @@
   lat: 38.1778509
   lng: -85.7159232
 4800 Preston Hwy (Super 8), Louisville, KY: null
+4800 Preston Hwy at the Super8 Motel, Louisville, KY:
+  lat: 38.178026
+  lng: -85.7169632
 4800 Preston Hwy, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
@@ -38848,6 +38854,7 @@
 : null
 6100 135th Street this morning due, Louisville, KY: null
 6100 135th Street, Louisville, KY: null
+6100 Airport Hotels Blvd at Hotel6, Louisville, KY: null
 6100 Airport Hotels Blvd near Motel 6, Louisville, KY: null
 6100 Airport Hotels Blvd, Louisville, KY: null
 ? 6100 Airport Hotels Blvd. The alarm was specifically triggered in zone 247. Upon
