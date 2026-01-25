@@ -20623,6 +20623,7 @@
 2700 Virginia Ave, Louisville, KY:
   lat: 38.237794
   lng: -85.79772
+2700 Virginia and 28th Street, Louisville, KY: null
 2700 Virginia, Office of Professional Standards, Louisville, KY: null
 2700 W Chestnut St, Louisville, KY:
   lat: 38.2528863
@@ -29670,6 +29671,9 @@
   lat: 38.2110233
   lng: -85.8341508
 4000 Richland Ave, Louisville, KY: null
+4000 River Park Dr, Louisville, KY:
+  lat: 38.255525
+  lng: -85.817836
 4000 River, Louisville, KY:
   lat: 38.255525
   lng: -85.817836
@@ -36272,6 +36276,9 @@
 5500 Pikewood Field Way, Louisville, KY:
   lat: 38.1438756
   lng: -85.6544274
+5500 Preston Hwy, Louisville, KY:
+  lat: 38.1687839
+  lng: -85.7072984
 5500 Ridgecrest in relation, Louisville, KY: null
 5500 Ridgecrest, Louisville, KY:
   lat: 38.1709163
@@ -48336,6 +48343,9 @@
 9600 Millstone Dr, Louisville, KY: null
 9600 Native Boulevard, Crop St of Grimhada, Inventura, Louisville, KY: null
 9600 Preston Beeston Blvd, Louisville, KY: null
+9600 Preston Crossing Blvd, Louisville, KY:
+  lat: 38.1075018
+  lng: -85.6696745
 9600 Preston Crossings, Louisville, KY: null
 ? 9600 Preston Spring Dr. The incident involved an intoxicated boyfriend who allegedly
   assaulted a female. The female declined, Louisville, KY
