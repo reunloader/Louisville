@@ -3635,6 +3635,9 @@
 1000 West Broadway near 13th Street, Louisville, KY:
   lat: 38.24673
   lng: -85.7687534
+1000 West Broadway near Platinum Food Mart, Louisville, KY:
+  lat: 38.24673
+  lng: -85.7687534
 1000 West Broadway this morning. The specific reasons, Louisville, KY: null
 1000 West Broadway, Louisville, KY:
   lat: 38.24673
@@ -7985,6 +7988,9 @@
 1300 South3rd Street, Louisville, KY:
   lat: 38.2325507
   lng: -85.7594371
+1300 South43rd, Louisville, KY:
+  lat: 38.239281
+  lng: -85.825632
 1300 South4th Street, Louisville, KY:
   lat: 38.2324909
   lng: -85.7610176
@@ -14083,6 +14089,9 @@
 200 East near mile marker 19, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East near mile marker 2, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near mile marker 8, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -14653,6 +14662,9 @@
   lat: 38.2607234
   lng: -85.7797189
 200 North at the 17 mile marker, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
+200 North at the 32 right lane, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
 200 North at the 6-mile marker, Louisville, KY:
@@ -27356,6 +27368,9 @@
 3900 Meadowfield Dr, Louisville, KY:
   lat: 38.2917671
   lng: -85.4902052
+3900 Miami Ave, Louisville, KY:
+  lat: 38.272613
+  lng: -85.811747
 3900 Nappany Road, Louisville, KY: null
 3900 Newburg Rd at Shell, Louisville, KY:
   lat: 38.1806429
@@ -40882,6 +40897,9 @@
 ? 6900 North Bardstown Rd. Responding officers conducted a thorough check of the property
   and determined the alarm was a false activation., Louisville, KY
 : null
+6900 Northwestern Pky, Louisville, KY:
+  lat: 38.2705013
+  lng: -85.7832431
 6900 Oakview Ct, Louisville, KY:
   lat: 38.1487184
   lng: -85.6187751
