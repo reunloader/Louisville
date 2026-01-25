@@ -1712,6 +1712,9 @@
 100 South 3rd Street, Louisville, KY:
   lat: 38.256328
   lng: -85.754983
+100 South 40th, Louisville, KY:
+  lat: 38.2640503
+  lng: -85.8148695
 100 South 41st Street, Louisville, KY:
   lat: 38.2644191
   lng: -85.8161393
@@ -3468,6 +3471,7 @@
   lng: -85.748955
 1000 South Second Baptist Hours, Louisville, KY: null
 1000 South Second Street, Louisville, KY: null
+1000 South Second, Baptist Towers, Louisville, KY: null
 1000 South Third Street, Louisville, KY: null
 1000 South at Arthur St, Louisville, KY: null
 1000 South, Louisville, KY:
@@ -10483,6 +10487,9 @@
 1600 Clarice Way, Louisville, KY:
   lat: 38.1764542
   lng: -85.812257
+1600 Cleveland Blvd, Louisville, KY:
+  lat: 38.2635139
+  lng: -85.6972118
 ? 1600 Clover St following a report of smoke and a sounding fire alarm. The incident
   occurred near the intersection of Walnut Grove and Brick Chilling. Upon arrival,
   responders investigated the source of the smoke within the building., Louisville,
@@ -35690,6 +35697,9 @@
   lng: -85.7002974
 '5200 block of Marty Ln): Around 6:15 p, Louisville, KY': null
 5200 ramp and 10 Pin Lane, Louisville, KY: null
+52200 W Pages Ln, Louisville, KY:
+  lat: 38.1308948
+  lng: -85.8702609
 52500 Taylor'sville Road. First responders provided necessary medical aid, Louisville, KY: null
 526 Lindsay Ave, Louisville, KY:
   lat: 38.2635452
@@ -47040,6 +47050,7 @@
 900 Link Way. The male was refusing, Louisville, KY:
   lat: 38.0648787
   lng: -85.8933989
+900 Long Meadow Way, Louisville, KY: null
 900 Long Street Lane, Louisville, KY: null
 900 Longfield Ave, Louisville, KY:
   lat: 38.1984115
