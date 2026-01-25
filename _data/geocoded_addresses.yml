@@ -4053,6 +4053,7 @@
 10400 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1427052
   lng: -85.5769432
+10400 Brookridge Village Blvd, West Spring Suites, Louisville, KY: null
 10400 Cedar Meadows Ct, Louisville, KY: null
 10400 Champion Farms Dr, Louisville, KY:
   lat: 38.2960989
@@ -30786,6 +30787,7 @@
   lat: 38.1883
   lng: -85.693746
 4300 Bishop Ln, Will E, Louisville, KY: null
+4300 Bishop Ln, Willie C, CA Plaza, Louisville, KY: null
 4300 Bishop Ln, Willie State Plaza, Grange Gardner Lane, Louisville, KY: null
 4300 Bishop Ln, unit 303, Louisville, KY: null
 ? 4300 Bishop Ln. This incident was categorized as a public assist, specifically a
@@ -31107,6 +31109,9 @@
   lat: 38.3010535
   lng: -85.556485
 4300 Trio Way, Louisville, KY: null
+4300 Twillingate Ln, Louisville, KY:
+  lat: 38.308227
+  lng: -85.583184
 4300 Twin Elms Ct near Woodstone, Louisville, KY:
   lat: 38.3147059
   lng: -85.6351555
@@ -36856,6 +36861,7 @@
 5900 Bardstown Rd, Louisville, KY:
   lat: 38.1609119
   lng: -85.5937148
+5900 Bardstown Rd, O'Reillys, Louisville, KY: null
 5900 Bradbe Farm Ln, Louisville, KY:
   lat: 38.1511158
   lng: -85.4660018
@@ -45068,6 +45074,9 @@
 8000 Park Rd, Louisville, KY:
   lat: 38.1074779
   lng: -85.6374745
+8000 Pina Way, Louisville, KY:
+  lat: 38.1343075
+  lng: -85.6705785
 ? 8000 Preston Highway. Paramedics arrived on scene to provide care for an individual
   experiencing a medical emergency. The patient was assessed and treated by the medical
   team. Following their evaluation, the individual was transported to a local hospital
@@ -49919,6 +49928,7 @@ Preston St and Atwood St, Louisville, KY: null
 Preston St and Roselane St, Louisville, KY: null
 Princeton Dr and Bardstown Rd, Louisville, KY: null
 Princeton Dr and Barge Town Road, Louisville, KY: null
+Problem Level Road and Rangeland Rd, Louisville, KY: null
 Produce Rd and Fern Valley Rd, Louisville, KY: null
 Produce Rd and Pinewood Rd, Louisville, KY: null
 Progress Blvd and Butteville Bank Rd, Louisville, KY: null
