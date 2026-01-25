@@ -17711,6 +17711,7 @@
 2200 Broadway, Louisville, KY:
   lat: 38.2490337
   lng: -85.7884977
+2200 Browns Village Rd prompted a call, Louisville, KY: null
 2200 Brownsboro Hill Rd, Louisville, KY:
   lat: 38.266613
   lng: -85.6580484
@@ -19137,6 +19138,9 @@
 2400 Mount Claire Ave, Louisville, KY:
   lat: 38.2124279
   lng: -85.7425528
+2400 N Peterson Ct, Louisville, KY:
+  lat: 38.2574869
+  lng: -85.6994427
 2400 Nelson Miller Pky at Siemens, Louisville, KY:
   lat: 38.2779807
   lng: -85.5126309
@@ -21382,6 +21386,7 @@
 2900 Brooklawn, Louisville, KY:
   lat: 38.1539793
   lng: -85.8191405
+2900 Browns Village Rd, Louisville, KY: null
 ? 2900 Brownsboro Hill Rd. The incident involved a subject banging on a car window
   following an argument related to parking. The suspect was reportedly driving a maroon
   Ram pickup truck and was chasing a victim in a tan Impala., Louisville, KY
@@ -24932,6 +24937,7 @@
 3300 Taylor, Louisville, KY:
   lat: 38.2022323
   lng: -85.7817945
+3300 Teguia Drive, Louisville, KY: null
 3300 Terrier Ct, Louisville, KY:
   lat: 38.207331
   lng: -85.665427
@@ -31962,6 +31968,7 @@
 4500 Hale Ave, Louisville, KY:
   lat: 38.2417516
   lng: -85.8281832
+4500 Hawthorne Level Road, Louisville, KY: null
 4500 Hillside Dr, Louisville, KY:
   lat: 38.1406018
   lng: -85.8271841
@@ -43667,6 +43674,7 @@
 7600 Rose Island Rd near Gingerwood Event Hall, Louisville, KY:
   lat: 38.358513
   lng: -85.6130547
+7600 Shelby Blue Rd, Louisville, KY: null
 7600 South 2nd, Louisville, KY:
   lat: 38.2517255
   lng: -85.7540197
@@ -45486,6 +45494,9 @@
   lat: 38.2093889
   lng: -85.4688351
 8200 East Oppressive Highway, Louisville, KY: null
+8200 Edsel Ln, Louisville, KY:
+  lat: 38.1586318
+  lng: -85.6073
 8200 Farmwood Way, Louisville, KY:
   lat: 38.1384458
   lng: -85.6099555
