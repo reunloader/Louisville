@@ -1810,6 +1810,9 @@
 100 South3rd Street, Louisville, KY:
   lat: 38.256328
   lng: -85.754983
+100 South40th, Louisville, KY:
+  lat: 38.2640503
+  lng: -85.8148695
 100 South43rd near West Market, Louisville, KY:
   lat: 38.2651697
   lng: -85.8189753
@@ -2502,6 +2505,9 @@
 1000 Cherry Way, Louisville, KY:
   lat: 38.1759724
   lng: -85.8134936
+1000 Clarks Ln, Louisville, KY:
+  lat: 38.2184101
+  lng: -85.7311962
 1000 Clay Ave, Louisville, KY:
   lat: 38.142
   lng: -85.700748
@@ -16506,6 +16512,9 @@
 2000 Greenhaven Dr, Louisville, KY: null
 2000 Greenhaven, Louisville, KY: null
 2000 Greenhaven, in the area of Greenbridge Way and Silos,, Louisville, KY: null
+2000 Grinstead Dr, Louisville, KY:
+  lat: 38.238793
+  lng: -85.720078
 2000 Hattinson Avenue, Louisville, KY: null
 2000 Heights Lane, Louisville, KY: null
 2000 Herr Ln, Louisville, KY:

@@ -96047,4 +96047,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 2
   batch_new_successes: 0
-last_updated: '2026-01-25T21:32:26.427521'
+- timestamp: '2026-01-25T21:45:19.219956'
+  total_addresses: 22607
+  successful: 11591
+  failed: 11016
+  success_rate: 51.27
+  failure_rate: 48.73
+  failure_patterns:
+    Intersection format: 2342
+    Contains location qualifiers (near/at): 2771
+    Incomplete/vague address: 3022
+    Other/Unknown: 2327
+    Contains extra sentences/context: 538
+    Police phonetic codes: 16
+  batch_success_rate: 100.0
+  batch_new_addresses: 3
+  batch_new_successes: 3
+last_updated: '2026-01-25T21:45:19.220154'
