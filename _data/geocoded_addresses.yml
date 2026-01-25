@@ -365,6 +365,9 @@
   lat: 38.184865
   lng: -85.762415
 100 Baker Lincoln Henry Whiskey, was transported, Louisville, KY: null
+100 Baker Radio near 2nd Liberty, Louisville, KY:
+  lat: 38.2525892
+  lng: -85.7540109
 100 Baker and 1100 block of South 28th, Louisville, KY: null
 100 Baker and 200 block of Adam, Louisville, KY: null
 100 Baker and 281, Louisville, KY: null
@@ -10297,6 +10300,7 @@
 16 Orchard Lake Blvd, Louisville, KY:
   lat: 38.190256
   lng: -85.6209667
+16 Pumino St, Louisville, KY: null
 16 Sale Ave, Louisville, KY:
   lat: 38.1977542
   lng: -85.7798314
@@ -17620,6 +17624,9 @@
 22 Dixdale Ave, Louisville, KY:
   lat: 38.2225783
   lng: -85.7985796
+22 Dogwood Dr, Louisville, KY:
+  lat: 38.216971
+  lng: -85.6400523
 22 Griffiths Ave, Louisville, KY:
   lat: 38.2650846
   lng: -85.7872589
@@ -31273,6 +31280,9 @@
   lat: 38.235066
   lng: -85.8018737
 44 Dubino Street, Louisville, KY: null
+44 Olive St, Louisville, KY:
+  lat: 38.2219585
+  lng: -85.8025651
 44 River Park Dr, Louisville, KY:
   lat: 38.2536492
   lng: -85.8002952
@@ -46985,6 +46995,7 @@
 900 Roadway Ave, Louisville, KY:
   lat: 38.2078038
   lng: -85.7748305
+900 Rocky Rd, Cane Run Rd, and Dixdale, Louisville, KY: null
 900 Rosemary Dr, Louisville, KY:
   lat: 38.2048725
   lng: -85.7329409
@@ -47317,6 +47328,7 @@
   lng: -85.7608634
 900 South63, Louisville, KY: null
 900 Southbrook Street, Louisville, KY: null
+900 Southbrook near Salvation Army, Louisville, KY: null
 900 Southern Pky, Louisville, KY:
   lat: 38.1818658
   lng: -85.7683443
