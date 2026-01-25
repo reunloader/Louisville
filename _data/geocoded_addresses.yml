@@ -13182,6 +13182,7 @@
 ? 1900 block of Palacko. EMS was dispatched to the scene, and Agent 40 arrived to
   assist. The patient was a caregiver, Louisville, KY
 : null
+1900 hours, possibly related, Louisville, KY: null
 1900 the area, Louisville, KY: null
 1900 the area., Louisville, KY: null
 1900 the fire station, Louisville, KY: null
@@ -13389,6 +13390,9 @@
 200 Bank St. Units responded, Louisville, KY:
   lat: 38.272279
   lng: -85.7991803
+200 Bank. The individual, identified as Anthony Keith Stinson, had not been in contact, Louisville, KY:
+  lat: 38.1915772
+  lng: -85.6476394
 200 Banks, Louisville, KY: null
 200 Bardstown Rd near Taylor's Road, Louisville, KY:
   lat: 38.2385615
@@ -34366,6 +34370,7 @@
 500 South15th Street, Louisville, KY:
   lat: 38.25303
   lng: -85.775822
+500 South17, Louisville, KY: null
 500 South18th Street at a three-story building, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
@@ -36157,6 +36162,9 @@
 5500 Limits Street, Louisville, KY: null
 5500 Livington Spall, Louisville, KY: null
 5500 Livington Spall. Units arrived to assess the situation and provide help as needed, ensuring safety, Louisville, KY: null
+5500 Lodema Way, Louisville, KY:
+  lat: 38.1704439
+  lng: -85.6855176
 5500 Low DMA Way, Louisville, KY: null
 5500 Mariemont Rd, Pinnacle Delta, Louisville, KY: null
 5500 McBean Road, Louisville, KY: null
@@ -48695,6 +48703,9 @@
 : null
 9900 Daniel Drivember 2, Louisville, KY: null
 9900 Dixie Hwy (a credit union) were triggered, likely false alarms, Louisville, KY: null
+9900 Dixie Hwy at Meyer, Louisville, KY:
+  lat: 38.1132852
+  lng: -85.8631828
 9900 Dixie Hwy near Myers, Louisville, KY:
   lat: 38.1132852
   lng: -85.8631828
