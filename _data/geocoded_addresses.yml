@@ -8573,6 +8573,7 @@
   cleared from the scene., Louisville, KY
 : null
 1400 E W Burnett Ave, identified as the UofL Autism Center. Fire units responded, Louisville, KY: null
+1400 E W Kingston Ave, Louisville, KY: null
 1400 E W Washington St, Louisville, KY:
   lat: 38.2579616
   lng: -85.7618141
@@ -30811,6 +30812,7 @@
   lng: -85.8362732
 4300 Begg and Bush, Louisville, KY: null
 4300 Bell Red, Louisville, KY: null
+4300 Bishop Ln (Millie State Plaza), Louisville, KY: null
 4300 Bishop Ln near the Speedway, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
@@ -31109,6 +31111,9 @@
 4300 Southern Pky, Louisville, KY:
   lat: 38.1923896
   lng: -85.7671926
+4300 Sparks Town Road at McDonald's, Louisville, KY:
+  lat: 38.267342
+  lng: -85.783509
 4300 Stoltz Ct, Louisville, KY:
   lat: 38.179299
   lng: -85.787693
@@ -35673,6 +35678,9 @@
   lat: 38.154173
   lng: -85.77726
 5300 Newcott Road,, Louisville, KY: null
+5300 North 20th Street near Portland and Lytle, Louisville, KY:
+  lat: 38.2624273
+  lng: -85.7824944
 5300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -40768,6 +40776,9 @@
   lat: 38.1520188
   lng: -85.8779635
 6900 Six Mile and Huntsinger, Louisville, KY: null
+6900 South 26th Street, Louisville, KY:
+  lat: 38.2374559
+  lng: -85.7962891
 6900 South35th Street, Louisville, KY:
   lat: 38.2304489
   lng: -85.8135887
@@ -42145,6 +42156,9 @@
   lat: 38.246384
   lng: -85.76354
 700 West Broadway near South 8th Street, Louisville, KY:
+  lat: 38.246384
+  lng: -85.76354
+700 West Broadway near White Castle, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
 ? 700 West Broadway to attend to a 37-year-old male experiencing severe abdominal
