@@ -17700,6 +17700,7 @@
   lng: -85.8349572
 2200 Crystal Road, Louisville, KY: null
 2200 Dade Crest Street, Louisville, KY: null
+2200 Dade near Medicalville and Las Amas, Louisville, KY: null
 2200 Date St, Louisville, KY:
   lat: 38.2429123
   lng: -85.7894705
@@ -20939,6 +20940,9 @@
   lat: 38.2184488
   lng: -85.6322164
 2800 Milburn Ave, Louisville, KY: null
+2800 Miller Ave, Louisville, KY:
+  lat: 38.2134665
+  lng: -85.7451005
 2800 Montana, Louisville, KY:
   lat: 38.2098192
   lng: -85.7739224
@@ -22327,6 +22331,9 @@
 300 McCready Avenue, Louisville, KY:
   lat: 38.250801
   lng: -85.6723638
+300 Meadowood Ct near Southside Dr, Louisville, KY:
+  lat: 38.1508839
+  lng: -85.7686919
 300 Meadowood Ct, Louisville, KY:
   lat: 38.1508839
   lng: -85.7686919
@@ -39778,6 +39785,7 @@
 6500 Sylvania Rd, Louisville, KY:
   lat: 38.158377
   lng: -85.877977
+6500 Two Rows Drive, Louisville, KY: null
 6500 Valley Station Rd, Louisville, KY:
   lat: 38.1053699
   lng: -85.856402
@@ -44954,6 +44962,9 @@
 8000 Apple Valley Dr, Louisville, KY:
   lat: 38.133648
   lng: -85.618681
+8000 Arbor Creek Dr, Louisville, KY:
+  lat: 38.1228132
+  lng: -85.6168763
 ? 8000 Bardstown Rd following a report of a 60-year-old male experiencing chest pain.
   Responders arrived on scene and provided care to the patient. The individual was
   subsequently transported to a local hospital for further medical evaluation and
@@ -47755,6 +47766,9 @@
   lat: 38.1971085
   lng: -85.7290566
 9200 Woodreed Ct, Louisville, KY: null
+9200 [Location], Louisville, KY:
+  lat: 38.1457363
+  lng: -85.5899228
 ? 9200 block of Rainbow Springs Ct. There were mental health concerns reported, with
   the subject feeling that people were spying on him and tracking his computer. The
   caller requested a callback after the check was completed. - **Suspicious Activity
