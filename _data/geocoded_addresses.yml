@@ -13846,6 +13846,9 @@
 200 East Jusland, Louisville, KY: null
 200 East Kentucky Tag Tom0 Zebra 229, Louisville, KY: null
 200 East Kentucky apartments, suspected of overdose, Louisville, KY: null
+200 East Kentucky, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East Kentuckyth, Louisville, KY: null
 200 East Magnolia at Floyd, Louisville, KY:
   lat: 38.228367
@@ -13869,6 +13872,7 @@
 200 East Orange Bay Avenue, Louisville, KY: null
 200 East Pasadena, Louisville, KY: null
 200 East S9, Louisville, KY: null
+200 East Ship Street Walk, UofL South Natick Academic Building, Louisville, KY: null
 ? 200 East Street. This stop involved a vehicle displaying a Kentucky license plate.
   Law enforcement initiated the stop for reasons that are not immediately clear from
   the initial report. The details of this traffic stop are being processed., Louisville,
@@ -24047,6 +24051,7 @@
   lat: 38.256133
   lng: -85.803357
 3100 Wayside Dr, Louisville, KY: null
+3100 West Broadway, Crop St South 32nd and Hazel, Louisville, KY: null
 3100 Westone Way, Louisville, KY:
   lat: 38.2901141
   lng: -85.5605798
@@ -24739,6 +24744,7 @@
 3300 Kirby Ave, Louisville, KY:
   lat: 38.2360442
   lng: -85.809586
+3300 Kirby Ave, South 32nd, Louisville, KY: null
 3300 Kirby, Louisville, KY:
   lat: 38.2360442
   lng: -85.809586
