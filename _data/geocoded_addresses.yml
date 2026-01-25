@@ -15682,6 +15682,7 @@
   medical services transported one patient, Louisville, KY
 : null
 200 West, just before Kane Run. Fire and EMS units were dispatched, Louisville, KY: null
+200 West, near 3 mile marker, Louisville, KY: null
 200 West, near Kentucky Drive. Police units responded, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -29152,6 +29153,7 @@
   lat: 38.214119
   lng: -85.751109
 400 Varsha Road at the KSC, Louisville, KY: null
+400 Venom, Louisville, KY: null
 400 Vicker, Louisville, KY: null
 400 Virginia Ave, Louisville, KY:
   lat: 38.2386515
@@ -33647,6 +33649,9 @@
 500 Camden, Louisville, KY:
   lat: 38.192895
   lng: -85.768479
+500 Camp, Louisville, KY:
+  lat: 38.2315261
+  lng: -85.7477887
 500 Caton Ave, Louisville, KY:
   lat: 38.1088196
   lng: -85.7710151
