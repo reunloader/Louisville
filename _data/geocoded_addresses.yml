@@ -9273,6 +9273,14 @@
 1400 Willow Ave, Louisville, KY:
   lat: 38.2357366
   lng: -85.7094398
+1400 Willow Ave. Authorities observed a subject waiting, Louisville, KY:
+  lat: 38.2357366
+  lng: -85.7094398
+? 1400 Willow Ave. Authorities were likely assessing the well-being of a subject who
+  may have been in distress or in need of assistance. The situation appeared, Louisville,
+  KY
+: lat: 38.2357366
+  lng: -85.7094398
 1400 Winter Ave, Louisville, KY:
   lat: 38.2364974
   lng: -85.7256849
@@ -23695,6 +23703,9 @@
   a knife and a taser, and also possessed mace, while a 16-year-old was reportedly
   hiding in a bedroom., Louisville, KY
 : null
+3000 Wentworth Ave, Louisville, KY:
+  lat: 38.249073
+  lng: -85.68076
 3000 Wentworth Avenue, Louisville, KY:
   lat: 38.249073
   lng: -85.68076
@@ -49217,6 +49228,7 @@ Bardstown Rd and Lakeside Dr, Louisville, KY: null
 Bardstown Rd and Lancashire Ave, Louisville, KY: null
 Bardstown Rd and Longest Ave, Louisville, KY: null
 Bardstown Rd and Lowell Ave, Louisville, KY: null
+Bardstown Rd and Maryland Ave, Louisville, KY: null
 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 Bardstown Rd and Old Bardstown Rd, Louisville, KY: null
 Bardstown Rd and Paris Dr, Louisville, KY: null
