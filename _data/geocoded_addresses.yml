@@ -3537,6 +3537,9 @@
   lng: -85.639367
 1000 Spring Creek Ct, Louisville, KY: null
 1000 Springview Dr near Chelsea Drive and Final Dr, Louisville, KY: null
+1000 St Andrews Church Rd, Louisville, KY:
+  lat: 38.1525309
+  lng: -85.8026497
 1000 St, Louisville, KY: null
 1000 Stanley Ave, Louisville, KY:
   lat: 38.1888374
@@ -10631,6 +10634,7 @@
 1600 Gardiner Ln, Louisville, KY:
   lat: 38.2028947
   lng: -85.6896407
+1600 Gardiner Ln, number 215, Louisville, KY: null
 1600 Garland Ave across South 17th and South 16th, Louisville, KY: null
 ? 1600 Garland Ave following a report of a medical emergency. The call involved a
   79-year-old female experiencing chest pain, who was found in the building's lobby.
@@ -12265,6 +12269,7 @@
   lat: 38.224592
   lng: -85.7922937
 1800 E W Ashland Ave, Louisville, KY: null
+1800 E W Kentucky St, Louisville, KY: null
 1800 Eastern Parkway across Fernwood Ave in North Ln, Louisville, KY: null
 1800 Euclid Ave, Louisville, KY:
   lat: 38.2146706
@@ -26381,6 +26386,9 @@
 3600 W Market St, Louisville, KY:
   lat: 38.2610294
   lng: -85.8097551
+3600 W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.2568827
+  lng: -85.8111454
 ? 3600 West Broadway. At the same time, EMS was responding to a separate medical call
   for a 51-year-old female experiencing breathing difficulties due to COPD in the
   800 block of West Bahama Valley Boulevard. The medical call was later canceled.,
@@ -36247,6 +36255,9 @@
   10, Louisville, KY
 : null
 5400 Valley Station Rd was being searched for, possibly connected, Louisville, KY: null
+5400 Valley Station Rd, Louisville, KY:
+  lat: 38.1049991
+  lng: -85.8644365
 ? 5400 Valley Station Rd. The situation was initially described as a rescue, and police
   were requested to help manage the scene and ensure clear access, Louisville, KY
 : lat: 38.1049991
