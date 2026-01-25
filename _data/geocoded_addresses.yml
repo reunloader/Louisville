@@ -10067,6 +10067,9 @@
   lat: 38.3198511
   lng: -85.5580633
 1500 Tuff Salary Street, Louisville, KY: null
+1500 Tyler Park, Louisville, KY:
+  lat: 38.230727
+  lng: -85.71958
 1500 Valley Station Rd, Purple Cave, Louisville, KY: null
 1500 W Chestnut St, Louisville, KY:
   lat: 38.2508017
@@ -15315,6 +15318,7 @@
   lat: 38.234647
   lng: -85.757169
 200 W Oak St due, Louisville, KY: null
+200 W Oak St parking lot, Louisville, KY: null
 200 W Oak St, Louisville, KY:
   lat: 38.234647
   lng: -85.757169
