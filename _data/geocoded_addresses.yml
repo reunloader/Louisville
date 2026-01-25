@@ -20478,6 +20478,9 @@
 2700 East Alley at St, Louisville, KY:
   lat: 38.2456348
   lng: -85.7444872
+2700 East Ave, Louisville, KY:
+  lat: 38.1087477
+  lng: -85.8495141
 2700 Field Ave, Louisville, KY:
   lat: 38.25696
   lng: -85.694417
@@ -30526,6 +30529,7 @@
   lat: 38.1568327
   lng: -85.5905839
 42 Garland Ave, Louisville, KY: null
+42 Parkside Vista Ln, Louisville, KY: null
 4200 Acklemat, Louisville, KY: null
 4200 Allmond Ave, Louisville, KY:
   lat: 38.193913
