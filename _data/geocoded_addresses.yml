@@ -4371,6 +4371,9 @@
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
+10800 Southgate Manor Dr, Louisville, KY:
+  lat: 38.0910989
+  lng: -85.6721841
 10800 Sparrow Cir, Louisville, KY:
   lat: 38.1142896
   lng: -85.7611733
@@ -32199,6 +32202,9 @@
   lat: 38.1348403
   lng: -85.8762697
 4600 Atterberry Ct, Louisville, KY: null
+4600 Bardstown Rd at Circle K, Louisville, KY:
+  lat: 38.1804976
+  lng: -85.6265166
 4600 Bardstown Rd near U-Haul, Louisville, KY:
   lat: 38.1804976
   lng: -85.6265166
@@ -33713,6 +33719,7 @@
 500 Cross Hill Ct, Louisville, KY:
   lat: 38.2694805
   lng: -85.7012174
+500 DC, Louisville, KY: null
 500 Dale Ave, Crossey Southern Parkway, Louisville, KY: null
 500 Dale Ave, Louisville, KY:
   lat: 38.1721742
@@ -39789,6 +39796,9 @@
 6500 Old New Cut Rd, Louisville, KY:
   lat: 38.117295
   lng: -85.776002
+6500 Paramount Park Dr at the Holiday Inn, Louisville, KY:
+  lat: 38.1552702
+  lng: -85.7125852
 6500 Paramount Park Dr near Fern Valley Rd, Louisville, KY:
   lat: 38.1552702
   lng: -85.7125852
