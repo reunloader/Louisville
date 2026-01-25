@@ -977,6 +977,7 @@
 100 Hodge, Louisville, KY:
   lat: 38.259607
   lng: -85.784579
+100 Hollett Park Place, Louisville, KY: null
 100 Howard St, Louisville, KY:
   lat: 38.2458748
   lng: -85.7911181
@@ -13546,6 +13547,9 @@
 ? 200 Chattanooga Ave. The circumstances prompting the check and the results of the
   officers' visit are not provided. Police units responded, Louisville, KY
 : null
+200 Cherokee Pky, Louisville, KY:
+  lat: 38.2360279
+  lng: -85.7109602
 200 Cherokee Rd, Louisville, KY:
   lat: 38.2362985
   lng: -85.6973252
@@ -13990,6 +13994,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East at the off-ramp, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East at the17 and 7, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East before Dixie Hwy, Louisville, KY: null
@@ -36891,6 +36898,9 @@
 5900 Grandel Meadow Ct, Louisville, KY:
   lat: 38.1572617
   lng: -85.8607252
+5900 Greenwood Rd at CRB High School parking lot, Louisville, KY:
+  lat: 38.1442091
+  lng: -85.8631056
 5900 Greenwood Rd near Pleasure Ridge Park Haskell, Louisville, KY:
   lat: 38.1442091
   lng: -85.8631056
