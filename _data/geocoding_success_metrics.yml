@@ -95215,4 +95215,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-01-25T04:40:24.368636'
+- timestamp: '2026-01-25T05:03:27.560583'
+  total_addresses: 22482
+  successful: 11534
+  failed: 10948
+  success_rate: 51.3
+  failure_rate: 48.7
+  failure_patterns:
+    Intersection format: 2324
+    Contains location qualifiers (near/at): 2762
+    Incomplete/vague address: 2994
+    Other/Unknown: 2314
+    Contains extra sentences/context: 538
+    Police phonetic codes: 16
+  batch_success_rate: 40.0
+  batch_new_addresses: 5
+  batch_new_successes: 2
+last_updated: '2026-01-25T05:03:27.560733'
