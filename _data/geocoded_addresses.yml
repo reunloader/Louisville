@@ -6195,6 +6195,9 @@
 1200 Euclid Ave. Dispatch confirmed there were no active medical runs in that area., Louisville, KY:
   lat: 38.2170962
   lng: -85.7768264
+1200 Everett Ave, Louisville, KY:
+  lat: 38.2386324
+  lng: -85.7163489
 1200 Fairdale Rd, Louisville, KY:
   lat: 38.113428
   lng: -85.7444855
@@ -7039,6 +7042,9 @@
 12200 Shelbyville Rd near Juneau, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+12200 Westport Rd at Hearns Industrial, Louisville, KY:
+  lat: 38.3025904
+  lng: -85.5252733
 ? 1225 South Fifth Street in response to a report of suspicious activity. A male individual
   was observed climbing a fence at Radiance Recycling. It appeared the person may
   have been attempting to gain unauthorized access to the scrap yard. Authorities
@@ -11134,6 +11140,9 @@
   to cancel the dispatch of emergency services., Louisville, KY
 : null
 1700 Algonquin, with reports indicating a break in the front glass. However, the key holder was confirmed, Louisville, KY: null
+1700 Allen Ave, Louisville, KY:
+  lat: 38.2073104
+  lng: -85.7674809
 1700 Applewood Ln, Louisville, KY: null
 1700 Arid Ln, Louisville, KY:
   lat: 38.1747064
@@ -47591,6 +47600,9 @@
 9100 Broad Run Rd, Louisville, KY:
   lat: 38.1127153
   lng: -85.5433396
+9100 Brown Austin Rd, Louisville, KY:
+  lat: 38.1195215
+  lng: -85.7676855
 9100 Catania Dr, Louisville, KY:
   lat: 38.1915585
   lng: -85.5908034
@@ -47719,6 +47731,9 @@
   lng: -85.8015183
 9200 Heatherville Boulevard, Louisville, KY: null
 9200 Hi View Ln, Louisville, KY: null
+9200 Hillstone Dr, Louisville, KY:
+  lat: 38.1880838
+  lng: -85.6040487
 9200 Independence School Rd, Louisville, KY:
   lat: 38.1012378
   lng: -85.5924749
