@@ -31097,6 +31097,9 @@
 : null
 4300 Norbrook Dr, Louisville, KY: null
 4300 Norbrook Dr, number 7, Louisville, KY: null
+4300 Norbrook, Louisville, KY:
+  lat: 38.1828925
+  lng: -85.6406077
 4300 Norene Ln, Louisville, KY:
   lat: 38.165602
   lng: -85.682853
@@ -36252,6 +36255,7 @@
 5500 Fern Valley Rd, Louisville, KY:
   lat: 38.1556056
   lng: -85.6590131
+5500 Fern View from downtown area, Louisville, KY: null
 5500 Fernfield Dr, Louisville, KY:
   lat: 38.1492435
   lng: -85.6566782
@@ -40868,6 +40872,9 @@
   lng: -85.6676088
 6900 N S Jane St across Sycamore Ave and Frankfort Ave, Louisville, KY: null
 6900 Nicolas Farms Ct, Louisville, KY: null
+6900 Norbrook, Louisville, KY:
+  lat: 38.1830634
+  lng: -85.6402696
 6900 Norlynn Dr near Deep Spring Ct, Louisville, KY:
   lat: 38.1459175
   lng: -85.6345623
@@ -50061,6 +50068,7 @@ North Ln and Fernwood Ave, Louisville, KY: null
 North Ln and Staebler Ave, Louisville, KY: null
 Northbound Drive and Welman Dr, Louisville, KY: null
 Northumberland Dr and Bay Run Dr, Louisville, KY: null
+Northwestern Pky and Crop St, Louisville, KY: null
 Northwestern Pky and Mae St, Louisville, KY: null
 Northwestern Pky and Pflanz Ave, Louisville, KY: null
 Norton Commons Blvd and Angel Trumpet Dr, Louisville, KY: null
