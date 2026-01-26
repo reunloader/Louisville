@@ -4024,6 +4024,7 @@
 10200 Shelbyville Rd, Louisville, KY:
   lat: 38.2451468
   lng: -85.5671581
+10200 Springside Pl, Louisville, KY: null
 10200 Starlight Way, Louisville, KY:
   lat: 38.1057251
   lng: -85.8402185
@@ -8677,6 +8678,9 @@
   lat: 38.1825441
   lng: -85.8055398
 1400 Ditchy Holloway, Louisville, KY: null
+1400 Dixdale Ave, Louisville, KY:
+  lat: 38.2225783
+  lng: -85.7985796
 1400 Dixie Hwy, Louisville, KY:
   lat: 38.231667
   lng: -85.789217
@@ -32541,6 +32545,7 @@
   the call., Louisville, KY
 : null
 4500 Swaco Lane, Louisville, KY: null
+4500 Swing Dr, Louisville, KY: null
 4500 Tail Over the Road, Louisville, KY: null
 4500 Taylorsville Rd, Louisville, KY:
   lat: 38.218652
@@ -32937,6 +32942,9 @@
 4600 West Broadway, Louisville, KY:
   lat: 38.2503752
   lng: -85.8298905
+4600 West Jefferson, Louisville, KY:
+  lat: 38.250335
+  lng: -85.8298969
 4600 West Marcus Street, Louisville, KY: null
 4600 Westchester Ave, Louisville, KY:
   lat: 38.245751
@@ -46545,6 +46553,7 @@
 8600 Hudson Ln, Louisville, KY:
   lat: 38.1691578
   lng: -85.5980636
+8600 Landback Lane near Hilo Ct and Cornerstone Ct, Louisville, KY: null
 8600 Locklee Rd, Louisville, KY:
   lat: 38.1462326
   lng: -85.8248355
