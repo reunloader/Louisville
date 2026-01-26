@@ -10246,6 +10246,9 @@
   lat: 38.2570576
   lng: -85.7751703
 1500 West Motley Boulevard, Louisville, KY: null
+1500 West Valley, Louisville, KY:
+  lat: 38.1533993
+  lng: -85.6971709
 1500 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
@@ -25090,6 +25093,9 @@
 3300 Preston Hwy near Extended Stay Hotel, Louisville, KY:
   lat: 38.2009951
   lng: -85.7342881
+3300 Preston Hwy near Hart Ave and Audubon Parkway, Louisville, KY:
+  lat: 38.2009951
+  lng: -85.7342881
 3300 Preston Hwy near the extended stay hotel, Louisville, KY:
   lat: 38.2009951
   lng: -85.7342881
@@ -30172,6 +30178,9 @@
 41 Olive St, Louisville, KY:
   lat: 38.2219585
   lng: -85.8025651
+41 Sunset Ave, Louisville, KY:
+  lat: 38.2424539
+  lng: -85.8231078
 4100 Angel Terrace, Louisville, KY: null
 4100 Animal Precorrided, Louisville, KY: null
 4100 Arthur St, Louisville, KY:
@@ -33906,6 +33915,9 @@
 500 Baxter Ave, Louisville, KY:
   lat: 38.24769
   lng: -85.730217
+500 Beaver St near Mellwood Ave, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 500 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -37482,6 +37494,9 @@
   lat: 38.2075051
   lng: -85.6171438
 600 Adams St and 5000 block of Rosettes, Louisville, KY: null
+600 Adams St, Louisville, KY:
+  lat: 38.2579958
+  lng: -85.7255089
 600 Adams and 1100 block of, Louisville, KY: null
 600 Adams and Baker, Louisville, KY: null
 600 Adams, 2000 block of Shady Grove, and 4800 block of Deagan Bush Lane, Louisville, KY: null
@@ -50078,6 +50093,7 @@ Hampstead Dr and Ralph Ave, Louisville, KY: null
 Harrods Glen Dr and Harrods Ridge Dr, Louisville, KY: null
 Harshawn Road and Maryland Ave, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
+Hart Ave and Audubon Parkway, Louisville, KY: null
 Hawthorne Ave and Bardstown Rd, Louisville, KY: null
 Hayward Rd and Brownsboro Rd, Louisville, KY: null
 Hazel St and South Second Street, Louisville, KY: null
