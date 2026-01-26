@@ -10147,6 +10147,9 @@
 1500 South5th Street, Louisville, KY:
   lat: 38.2251398
   lng: -85.7642499
+1500 South6th Street, Louisville, KY:
+  lat: 38.2260412
+  lng: -85.765733
 1500 Southgate Ave near Lawrence and Wester, Louisville, KY:
   lat: 38.200766
   lng: -85.786713
@@ -22963,6 +22966,9 @@
 300 South18th Street, Louisville, KY:
   lat: 38.256265
   lng: -85.7803764
+300 South24th Street, Louisville, KY:
+  lat: 38.2575
+  lng: -85.791144
 300 South26th Street near Green Alley, Louisville, KY:
   lat: 38.257822
   lng: -85.794069
@@ -34652,6 +34658,7 @@
 500 Shadyside Dr near Russell Lee, Louisville, KY:
   lat: 38.2268819
   lng: -85.8161858
+500 Sheehan Landing, Louisville, KY: null
 500 Slack Ave, Louisville, KY:
   lat: 38.1101382
   lng: -85.689338
