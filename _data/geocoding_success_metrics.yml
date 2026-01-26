@@ -97215,4 +97215,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-01-26T18:45:35.585029'
+- timestamp: '2026-01-26T19:16:16.236308'
+  total_addresses: 22816
+  successful: 11703
+  failed: 11113
+  success_rate: 51.29
+  failure_rate: 48.71
+  failure_patterns:
+    Intersection format: 2374
+    Contains location qualifiers (near/at): 2785
+    Incomplete/vague address: 3049
+    Other/Unknown: 2351
+    Contains extra sentences/context: 538
+    Police phonetic codes: 16
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-26T19:16:16.236443'
