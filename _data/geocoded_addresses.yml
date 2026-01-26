@@ -5755,6 +5755,9 @@
   lng: -85.535128
 11500 Ulrich Rd, Crusher, Louisville, KY: null
 11500 Unit 204, with no further medical concern reported, Louisville, KY: null
+11500 Willow Branch Dr, Louisville, KY:
+  lat: 38.1466319
+  lng: -85.5592053
 11500 Willow Pond Dr, Louisville, KY: null
 11500 Willow Street, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
@@ -35715,6 +35718,7 @@
 5200 Terrace Green Cir, Louisville, KY:
   lat: 38.178102
   lng: -85.663655
+5200 Twinkle Dr in Sky Blue Ave, Louisville, KY: null
 5200 Valkyrie Way near Renaissance Valley and Ree Ct, Louisville, KY:
   lat: 38.106518
   lng: -85.858125
@@ -38446,6 +38450,9 @@
 600 South18th Street, Louisville, KY:
   lat: 38.2513953
   lng: -85.7812397
+600 South19th Street, Louisville, KY:
+  lat: 38.251574
+  lng: -85.782833
 600 South22nd Street, Louisville, KY:
   lat: 38.251462
   lng: -85.787914
