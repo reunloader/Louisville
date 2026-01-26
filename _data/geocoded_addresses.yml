@@ -27562,6 +27562,9 @@
 3900 Newburg Rd at Shell, Louisville, KY:
   lat: 38.1806429
   lng: -85.6613662
+3900 Northwestern Pky, Louisville, KY:
+  lat: 38.274108
+  lng: -85.811913
 3900 Oaklawn Dr, Louisville, KY:
   lat: 38.1484892
   lng: -85.6893461
@@ -30644,6 +30647,9 @@
 4100 West Broadway, involving a male individual who was reportedly threatening others and appeared, Louisville, KY: null
 4100 West Mahoney Alley Boulevard, Louisville, KY: null
 4100 West Monvillier Boulevard, Gershwin South 43rd and South 41st Street, Louisville, KY: null
+4100 Western Ave, Louisville, KY:
+  lat: 38.188749
+  lng: -85.874842
 4100 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
@@ -47155,6 +47161,7 @@
 900 Gilliland Rd, Louisville, KY:
   lat: 38.220992
   lng: -85.459813
+900 Glenbarr Ct, Louisville, KY: null
 900 Goss Ave near McHenry and Krieger St, Louisville, KY:
   lat: 38.230112
   lng: -85.740178
@@ -48703,6 +48710,9 @@
 9500 Portland Ave, Louisville, KY:
   lat: 38.2721361
   lng: -85.7929587
+9500 Preston Hwy near Meijer, Louisville, KY:
+  lat: 38.1126543
+  lng: -85.6797064
 9500 Preston Hwy, Louisville, KY:
   lat: 38.1126543
   lng: -85.6797064
