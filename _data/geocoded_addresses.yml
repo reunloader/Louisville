@@ -210,6 +210,9 @@
 09 Morning Glory, Louisville, KY:
   lat: 38.1357767
   lng: -85.8707138
+09 Oaklawn Dr, Louisville, KY:
+  lat: 38.1483705
+  lng: -85.6879187
 09 Powell Ave, Louisville, KY:
   lat: 38.1929879
   lng: -85.7910523
@@ -348,6 +351,7 @@
   lng: -85.725484
 100 Aircoys Garden Drive, Louisville, KY: null
 100 Aircoys Garden Drive. Police units were dispatched, Louisville, KY: null
+100 Airport Hotels Blvd, Louisville, KY: null
 100 Alder Ave, Louisville, KY:
   lat: 38.172684
   lng: -85.7162019
@@ -9327,6 +9331,9 @@
 1400 West Southern Heights, Louisville, KY:
   lat: 38.189721
   lng: -85.787553
+1400 West Whitney, Louisville, KY:
+  lat: 38.1938894
+  lng: -85.7701262
 1400 Weyler Ave, Louisville, KY:
   lat: 38.2030143
   lng: -85.7863676
@@ -34767,6 +34774,7 @@
 500 South 3rd Street, Louisville, KY:
   lat: 38.249733
   lng: -85.756157
+500 South 3rd Street, View Apartments, Louisville, KY: null
 500 South 3rd Street, number 506, Louisville, KY: null
 500 South 3rd, Louisville, KY:
   lat: 38.249733
@@ -35799,6 +35807,9 @@
   lat: 38.1645712
   lng: -85.8311729
 5200 Dixie Hwy near 3rd Bank, Louisville, KY:
+  lat: 38.1645712
+  lng: -85.8311729
+5200 Dixie Hwy near Cottingham Way and C4th Drive, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
 5200 Dixie Hwy, Louisville, KY:
