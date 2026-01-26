@@ -41413,6 +41413,9 @@
 700 Baker and Fort Charlie, Louisville, KY: null
 700 Baker and the 700 block of Adams. EMS was dispatched, Louisville, KY: null
 700 Baker in response to a call, Louisville, KY: null
+700 Baker near Dunkin Donuts, Louisville, KY:
+  lat: 38.240435
+  lng: -85.740403
 700 Baker near Providence and Sanctuary Ln, Louisville, KY:
   lat: 38.240435
   lng: -85.740403
@@ -45286,6 +45289,9 @@
   lat: 38.2470453
   lng: -85.7988198
 800 South28th Street near Norton West Lowell Hospital, Louisville, KY:
+  lat: 38.2470453
+  lng: -85.7988198
+800 South28th Street, Louisville, KY:
   lat: 38.2470453
   lng: -85.7988198
 800 South31st, Louisville, KY:
