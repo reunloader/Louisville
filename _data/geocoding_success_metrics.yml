@@ -96415,4 +96415,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 2
   batch_new_successes: 2
-last_updated: '2026-01-26T02:21:21.856200'
+- timestamp: '2026-01-26T02:25:47.409467'
+  total_addresses: 22680
+  successful: 11637
+  failed: 11043
+  success_rate: 51.31
+  failure_rate: 48.69
+  failure_patterns:
+    Intersection format: 2351
+    Contains location qualifiers (near/at): 2776
+    Incomplete/vague address: 3028
+    Other/Unknown: 2334
+    Contains extra sentences/context: 538
+    Police phonetic codes: 16
+  batch_success_rate: 60.0
+  batch_new_addresses: 5
+  batch_new_successes: 3
+last_updated: '2026-01-26T02:25:47.409655'

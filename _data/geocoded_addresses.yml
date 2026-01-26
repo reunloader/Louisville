@@ -6402,6 +6402,10 @@
 1200 Larchmont Ave, Louisville, KY:
   lat: 38.2069983
   lng: -85.7785835
+1200 Larchmont, Louisville, KY:
+  lat: 38.2069983
+  lng: -85.7785835
+1200 Larchmont, with units from the 400 block of David currently, Louisville, KY: null
 1200 Larchtown Road, Louisville, KY: null
 ? 1200 Largetown Road to manage a traffic accident. Further details regarding the
   nature or severity of the collision were not immediately available., Louisville,
@@ -17895,6 +17899,10 @@
   lat: 38.2481655
   lng: -85.7507284
 2200 Eastland Channel, Louisville, KY: null
+2200 Eastview, Louisville, KY:
+  lat: 38.221564
+  lng: -85.682136
+2200 Eastview, possibly connected, Louisville, KY: null
 ? 2200 Elmhurst Ave. The incident was located across from Graham Ave. Further details
   on the extent of the fire and the response are not immediately available., Louisville,
   KY
@@ -20753,6 +20761,9 @@
   lat: 38.2099173
   lng: -85.7635386
 2700 South3rd Street near Helm St and Winkler Ave, Louisville, KY:
+  lat: 38.2099173
+  lng: -85.7635386
+2700 South3rd Street, Louisville, KY:
   lat: 38.2099173
   lng: -85.7635386
 2700 St, Louisville, KY: null
