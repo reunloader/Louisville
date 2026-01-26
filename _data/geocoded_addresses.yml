@@ -12072,6 +12072,7 @@
 18 Greentree Ln, Louisville, KY:
   lat: 38.1028056
   lng: -85.8637671
+18 Howard Place, Louisville, KY: null
 18 Mackie Ln, Louisville, KY:
   lat: 38.1408403
   lng: -85.7646787
@@ -29036,6 +29037,7 @@
   lng: -85.759407
 400 Sapling Spring Pl, Louisville, KY: null
 400 Savage Dr, Louisville, KY: null
+400 Seabaker, Louisville, KY: null
 400 Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
@@ -37925,6 +37927,7 @@
   lng: -85.7452941
 600 East Ramp, Louisville, KY: null
 600 East Sheraton, Louisville, KY: null
+600 East South Forrest Street and Breckman Street, Louisville, KY: null
 600 East W Brandeis Ave in response, Louisville, KY: null
 600 East W Chestnut St and South Crescent Street, Louisville, KY: null
 600 East W Chestnut St in Dallas, Louisville, KY: null
@@ -49926,6 +49929,7 @@ East Ave and East Avenue Lane, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 East Newburgh Road and Kentucky Ave, Louisville, KY: null
 East Pharrell Road and Flowervale Ln, Louisville, KY: null
+East South Forrest Street and Breckman Street, Louisville, KY: null
 East Washington Breckinridge Street and South Brooks Street, Louisville, KY: null
 Eastern Ave and Ash St, Louisville, KY: null
 Eastern Parkway and Arta Street, Louisville, KY: null
@@ -50467,6 +50471,9 @@ Newburg Rd and Bellarmine Blvd, Louisville, KY: null
 Newburg Rd and Bishop Ln, Louisville, KY: null
 Newburg Rd and Gardiner Ln, Louisville, KY: null
 Newburg Rd and Gold Street, Louisville, KY: null
+Newburg Rd and Shepherdsville Rd, Louisville, KY:
+  lat: 38.1776893
+  lng: -85.6594076
 Newburg Rd and Speed Ave, Louisville, KY: null
 Newcote Road and Candleworth Dr, Louisville, KY: null
 Newcote Road and Palo Alto Road, Louisville, KY: null
