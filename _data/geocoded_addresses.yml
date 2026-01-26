@@ -14411,6 +14411,7 @@
 200 Glendora Ave, Louisville, KY:
   lat: 38.263761
   lng: -85.820949
+200 Goldfinch Ct (close, Louisville, KY: null
 200 Goldfinch Ct, Louisville, KY:
   lat: 38.113205
   lng: -85.7621003
@@ -26101,6 +26102,9 @@
   lat: 38.2346744
   lng: -85.4583861
 36 Willow Pond Dr, Louisville, KY: null
+3600 Adventure Rd, Louisville, KY:
+  lat: 38.2038116
+  lng: -85.8345888
 3600 Apex Gardens Dr, Louisville, KY: null
 3600 Arling Ave (JCPS bus compound), Louisville, KY: null
 3600 Arling Ave, Louisville, KY:
@@ -45328,6 +45332,9 @@
 800 South28th Street, Louisville, KY:
   lat: 38.2470453
   lng: -85.7988198
+800 South2nd Street, Louisville, KY:
+  lat: 38.243198
+  lng: -85.755616
 800 South31st, Louisville, KY:
   lat: 38.2475166
   lng: -85.8039944
@@ -47376,6 +47383,9 @@
   lng: -85.7763551
 900 Maintenance Office, Louisville, KY: null
 900 Mallard Creek Rd, Louisville, KY: null
+900 Marble Ct, Louisville, KY:
+  lat: 38.1478823
+  lng: -85.6583712
 900 Marcy Ave, Crest Street, and Millers Ln at Tarrytowne Dr, Louisville, KY:
   lat: 38.1012113
   lng: -85.8493291
