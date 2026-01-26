@@ -4828,6 +4828,9 @@
 1100 Hathaway Avenue, Louisville, KY:
   lat: 38.1951035
   lng: -85.7797139
+1100 Hennepin Dr near Iute and Arapaho Dr, Louisville, KY:
+  lat: 38.1504886
+  lng: -85.7883306
 1100 Hennepin Dr, Louisville, KY:
   lat: 38.1504886
   lng: -85.7883306
@@ -34225,6 +34228,7 @@
 500 Landis Lakes Dr, Louisville, KY:
   lat: 38.2320323
   lng: -85.4932342
+500 Langholm Pl, Louisville, KY: null
 500 Leicester Cir, Crested Leaster Court, and Seaton Springs Pky, Louisville, KY: null
 500 Lester Ave, Louisville, KY:
   lat: 38.1979096
