@@ -12161,6 +12161,7 @@
 1800 Ashfield Ln, Louisville, KY:
   lat: 38.2219964
   lng: -85.6133765
+1800 Austin Avenue, Louisville, KY: null
 1800 Avenue, Louisville, KY: null
 1800 Baird St, Louisville, KY:
   lat: 38.263944
@@ -42352,6 +42353,9 @@
 700 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+700 Sasse Ct, Louisville, KY:
+  lat: 38.283968
+  lng: -85.4771929
 700 Savoy Rd, Louisville, KY:
   lat: 38.252508
   lng: -85.556469
@@ -46224,6 +46228,7 @@
   lat: 38.1299043
   lng: -85.8487866
 8400 Dr, Louisville, KY: null
+8400 Emmeridge Avenue, Louisville, KY: null
 8400 Emrich Ave, Louisville, KY:
   lat: 38.1683589
   lng: -85.6026525
@@ -46576,6 +46581,7 @@
   KY
 : null
 8600 Stony Falls Way near Stony Farm Dr, Louisville, KY: null
+8600 Timber Hall or Court, Louisville, KY: null
 8600 Timber Hollow Ct, Louisville, KY:
   lat: 38.1244283
   lng: -85.6989229
