@@ -4564,6 +4564,9 @@
   lng: -85.7734051
 1100 Apex View Dr, Louisville, KY: null
 1100 Arnold Town and St, Louisville, KY: null
+1100 Ash St, Louisville, KY:
+  lat: 38.2257977
+  lng: -85.7357582
 1100 Backstreet Avenue, Louisville, KY: null
 1100 Baker, Louisville, KY:
   lat: 38.1412684
@@ -27937,6 +27940,7 @@
   lng: -85.7726792
 400 Bermuda Ct, Louisville, KY: null
 400 Birk Ln, Louisville, KY: null
+400 Blue Lick Rd and 700 block of Berry Blvd, Louisville, KY: null
 400 Blue's Coleman Junior Drive, Louisville, KY: null
 400 Bowen Ave, Louisville, KY:
   lat: 38.052096
@@ -38136,6 +38140,9 @@
   lat: 38.1772112
   lng: -85.7983653
 600 Marchtown near the 600 block of Baker, Louisville, KY: null
+600 Marshall St, Louisville, KY:
+  lat: 38.2500246
+  lng: -85.7424511
 600 Maryhill Ln, Louisville, KY: null
 ? 600 Maryhill Ln. The initial report of the location was unclear, prompting further
   checks in surrounding areas to ensure the well-being of any individuals involved.,
@@ -48843,6 +48850,7 @@
 9600 Lamborne Blvd, near Alumsum Hollow Road and Scarborough Ave. Responders provided assistance, Louisville, KY:
   lat: 38.1134765
   lng: -85.8144594
+9600 Lamborne Blvdur, Louisville, KY: null
 9600 Legler Dr, Clash with Johnsontown Rd, Louisville, KY: null
 9600 Leopold Wood Loop, Louisville, KY: null
 9600 Leopold Wood, Louisville, KY: null
