@@ -14545,6 +14545,7 @@
 200 I-200 near Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
+200 I-200 westbound near Bells Ln ramp, Louisville, KY: null
 200 I-200, Louisville, KY: null
 200 I-264, Louisville, KY:
   lat: 38.2127372
@@ -41896,6 +41897,9 @@
 700 East Jefferson. Officers were en route, Louisville, KY:
   lat: 38.251917
   lng: -85.740147
+700 East Kentucky, Louisville, KY:
+  lat: 38.2368768
+  lng: -85.7427215
 700 East Liberty Avenue, Louisville, KY: null
 700 East Madison alley, Louisville, KY: null
 700 East Market at Paxton, Louisville, KY:
@@ -44991,6 +44995,9 @@
 800 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
+800 E W Market St at the Mayan Cafe, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 800 E W Market St near Route 8, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
