@@ -5894,6 +5894,7 @@
 11700 River Beauty Loop, Louisville, KY:
   lat: 38.3324934
   lng: -85.5673749
+11700 San Piper near Hummingbird, Jenness Ct, and World Liberation Way, Louisville, KY: null
 11700 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -40368,6 +40369,9 @@
   lat: 38.1548215
   lng: -85.8366977
 6600 Dixie Hwy at Ortho Boulevard, Louisville, KY: null
+6600 Dixie Hwy at Sternberg, Louisville, KY:
+  lat: 38.1548215
+  lng: -85.8366977
 6600 Dixie Hwy, Louisville, KY:
   lat: 38.1548215
   lng: -85.8366977
