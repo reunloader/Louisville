@@ -1373,6 +1373,9 @@
 100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
 100 North Horsburn Parkway, Louisville, KY: null
+100 North I-65, Louisville, KY:
+  lat: 38.2642606
+  lng: -85.7433783
 100 North James Street in Sycamore, Louisville, KY: null
 100 North James Street, Louisville, KY: null
 100 North Keith Avenue, Louisville, KY: null
@@ -30213,6 +30216,9 @@
 4000 Towne Center Dr, identified as the McAllister's residence. Attempts, Louisville, KY: null
 4000 Ula-Style, Louisville, KY: null
 4000 Valley View Dr near Fred Warrenway Crumbs Lane, Louisville, KY: null
+4000 W Chestnut St, Louisville, KY:
+  lat: 38.2491911
+  lng: -85.7601224
 4000 W Main St near North 4th and North 5th, Louisville, KY:
   lat: 38.264095
   lng: -85.814794
@@ -36435,6 +36441,9 @@
   lng: -85.8640584
 5400 Kane Run, Louisville, KY: null
 5400 Ladino Way, Louisville, KY: null
+5400 Lagoona Dr, Louisville, KY:
+  lat: 38.1726795
+  lng: -85.676884
 5400 Layne Rd near Monaco Dr and Layne Ct, Louisville, KY:
   lat: 38.1410922
   lng: -85.6610176
@@ -43434,6 +43443,7 @@
 7200 Lentz Ave, Louisville, KY:
   lat: 38.1922412
   lng: -85.7859322
+7200 Long Mill Road, Louisville, KY: null
 7200 Lower Hunter Straits, Louisville, KY: null
 7200 Lower Hunter's Trace, Louisville, KY: null
 7200 Lucille Ave, Louisville, KY:
