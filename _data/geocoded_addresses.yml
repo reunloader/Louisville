@@ -13225,6 +13225,9 @@
 1900 W Jefferson St, Louisville, KY:
   lat: 38.256524
   lng: -85.78201
+1900 W Madison St, Louisville, KY:
+  lat: 38.2526157
+  lng: -85.7827234
 1900 W Main St at RK Bluegrass, Louisville, KY:
   lat: 38.2590525
   lng: -85.7816717
@@ -13317,6 +13320,9 @@
   lat: 38.1267386
   lng: -85.7747208
 1935 Gardner Lane, Louisville, KY: null
+2 Baxter Ave, Louisville, KY:
+  lat: 38.2495483
+  lng: -85.7315323
 2 Durham Ridge Rd, Louisville, KY:
   lat: 38.1854546
   lng: -85.5184033
@@ -16998,6 +17004,7 @@
 2000 Washington, Louisville, KY:
   lat: 38.2551204
   lng: -85.7356497
+2000 Water Pooley, Louisville, KY: null
 ? 2000 Weiser Avenue due to a carbon monoxide alarm sounding. Firefighters conducted
   searches of the property to ensure no one was experiencing illness from the detected
   levels. The alarm was located in the basement., Louisville, KY
@@ -34793,6 +34800,7 @@
   lng: -85.7510851
 500 Walker Alley, Crossbital Street, Louisville, KY: null
 500 Washburn Ave, Louisville, KY: null
+500 Water Pooley, Louisville, KY: null
 500 Wayne Rd to attend to a person experiencing a medical complaint., Louisville, KY: null
 500 Wayne Rd, Louisville, KY:
   lat: 38.2007912
@@ -36736,6 +36744,9 @@
 5600 Gaskin Ct, Louisville, KY:
   lat: 38.0859979
   lng: -85.6631567
+5600 Genny Ct, Louisville, KY:
+  lat: 38.13921
+  lng: -85.77263
 5600 Green Acre, Louisville, KY: null
 5600 Green Acres Dr, Louisville, KY:
   lat: 38.1734501
