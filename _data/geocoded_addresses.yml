@@ -1367,6 +1367,10 @@
 100 North Shawnee Terrace, Louisville, KY:
   lat: 38.2662037
   lng: -85.8218263
+? 100 North Shawnee Terrace. Emergency services responded promptly, checked his condition,
+  and reset the system, Louisville, KY
+: lat: 38.2662037
+  lng: -85.8218263
 100 North Waterston Trail near Frank Ave, Louisville, KY:
   lat: 38.1733013
   lng: -85.706716
@@ -19373,6 +19377,9 @@
   lat: 38.2589016
   lng: -85.7903761
 2400 Wileys Ct, Louisville, KY: null
+2400 Woodmont Dr, Louisville, KY:
+  lat: 38.2335631
+  lng: -85.6237891
 2400 [Street Name Missing], Louisville, KY:
   lat: 38.2678774
   lng: -85.7047987
@@ -37901,6 +37908,7 @@
 600 Inverness, Louisville, KY:
   lat: 38.1673893
   lng: -85.7740338
+600 Italian Ct, Louisville, KY: null
 600 Jean Ave, Louisville, KY:
   lat: 38.1758497
   lng: -85.8431384
@@ -42377,6 +42385,9 @@
   lat: 38.2154873
   lng: -85.6409203
 700 Stauber's Road, Louisville, KY: null
+700 Stevens Ave, Louisville, KY:
+  lat: 38.2295785
+  lng: -85.7098644
 700 Stivers Rd, Louisville, KY: null
 700 Stratton Ave, Louisville, KY:
   lat: 38.2295951
@@ -48181,6 +48192,9 @@
 9200 Westport Rd, specifically at the Harbor Freight location. A unit was assigned, Louisville, KY: null
 9200 Westport, [Date] 8:00 a, Louisville, KY: null
 9200 Westport, [Date] 8:00 a.m.AM, Louisville, KY: null
+9200 Winkler Ave, Louisville, KY:
+  lat: 38.2103031
+  lng: -85.7644019
 9200 Winslow Cir, Louisville, KY:
   lat: 38.096984
   lng: -85.8666105
