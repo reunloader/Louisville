@@ -7383,6 +7383,7 @@
 1300 Algonquin, Louisville, KY:
   lat: 38.2195376
   lng: -85.7771032
+1300 Alp Coulthard, Louisville, KY: null
 1300 Arcade Ave, Louisville, KY:
   lat: 38.2041394
   lng: -85.7831176
@@ -7676,6 +7677,9 @@
   lat: 38.1419722
   lng: -85.6875526
 1300 Huntoon Ave suggested as a possible location, Louisville, KY: null
+1300 Huntoon Ave, Louisville, KY:
+  lat: 38.171452
+  lng: -85.782619
 1300 I 64 East, Louisville, KY: null
 1300 I 64 East., Louisville, KY: null
 1300 I 64 West, Louisville, KY: null
@@ -8122,6 +8126,7 @@
   lat: 38.1889622
   lng: -85.7174663
 1300 Tycoon Way, Louisville, KY: null
+1300 U80 Place. Medical teams arrived promptly, Louisville, KY: null
 1300 VINJAS, Louisville, KY: null
 1300 Valley View Terrace, Louisville, KY:
   lat: 38.115907
@@ -39125,6 +39130,9 @@
 6000 Corinth Way, Louisville, KY:
   lat: 38.164171
   lng: -85.673453
+6000 Corinth Way. Responders arrived, Louisville, KY:
+  lat: 38.164171
+  lng: -85.673453
 6000 Corroder, Louisville, KY: null
 6000 Dixie Hwy, Louisville, KY:
   lat: 38.1127713
@@ -50250,6 +50258,7 @@ Hi View Ln and Sale Ave, Louisville, KY: null
 Hickory St and Horace Ave, Louisville, KY: null
 Highland Ave and Eastern Star Dr, Louisville, KY: null
 Highland Ave and Easton Ln, Louisville, KY: null
+Highland Ave and Morton Ave, Louisville, KY: null
 Highwood Dr and Lake Ave, Louisville, KY: null
 Hikes Ln and Bardstown Rd, Louisville, KY: null
 Hikes Ln and Bashford Ave, Louisville, KY: null
