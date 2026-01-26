@@ -14746,6 +14746,7 @@
   lat: 38.1304
   lng: -85.6425666
 200 North I- [location], Louisville, KY: null
+200 North I-200 near Taylor's exit, Louisville, KY: null
 200 North I-65 overpass, Louisville, KY: null
 200 North I-65 ramp, Louisville, KY: null
 200 North NDA from a vehicle, Louisville, KY: null
@@ -21057,6 +21058,9 @@
 2800 Conroy Pl, Louisville, KY:
   lat: 38.199855
   lng: -85.639132
+2800 Constant Comment Pl, Louisville, KY:
+  lat: 38.2037866
+  lng: -85.5347384
 2800 Constant, Louisville, KY:
   lat: 38.2037866
   lng: -85.5347384
