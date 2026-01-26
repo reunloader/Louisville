@@ -6225,6 +6225,9 @@
   KY
 : lat: 38.2437332
   lng: -85.7296723
+1200 East Kentucky, Louisville, KY:
+  lat: 38.2437703
+  lng: -85.7296726
 1200 East, Louisville, KY:
   lat: 38.2437703
   lng: -85.7296726
@@ -17801,6 +17804,9 @@
   lat: 38.2579292
   lng: -85.7042909
 2200 Brownsboro Rd, Victoria Garage, Louisville, KY: null
+2200 Brownsboro, Louisville, KY:
+  lat: 38.2579292
+  lng: -85.7042909
 2200 Burwell Ave, Louisville, KY:
   lat: 38.2264163
   lng: -85.7953853
