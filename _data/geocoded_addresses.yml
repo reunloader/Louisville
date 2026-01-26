@@ -8310,6 +8310,9 @@
 13400 Spring Villa Ct, Louisville, KY:
   lat: 38.292264
   lng: -85.5066825
+13500 Dixie Hwy at Saffronfield Lane and Pendleton Rd, Louisville, KY:
+  lat: 38.0607047
+  lng: -85.887813
 13500 Laverton Ave, Louisville, KY:
   lat: 38.060904
   lng: -85.894365
@@ -23230,6 +23233,7 @@
 300 unknown street, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
+3000 4th Street across Central and Haywood, Louisville, KY: null
 3000 Amy Ave, Louisville, KY:
   lat: 38.260603
   lng: -85.813209
@@ -37420,10 +37424,14 @@
 600 Adams St and 5000 block of Rosettes, Louisville, KY: null
 600 Adams and 1100 block of, Louisville, KY: null
 600 Adams and Baker, Louisville, KY: null
+600 Adams, 2000 block of Shady Grove, and 4800 block of Deagan Bush Lane, Louisville, KY: null
 600 Adams, Louisville, KY:
   lat: 38.2592106
   lng: -85.7264871
 600 Adams, indicating a possible related disturbance, Louisville, KY: null
+600 Adams,, Louisville, KY:
+  lat: 38.2592106
+  lng: -85.7264871
 600 Addamonte, Louisville, KY: null
 600 Airport Hotels Blvd, Louisville, KY: null
 600 Apex C Dr, Louisville, KY: null
@@ -37455,6 +37463,7 @@
 600 Backstra Ave, Louisville, KY: null
 600 Baker Queen Frank, Louisville, KY: null
 600 Baker and 300 block of, Louisville, KY: null
+600 Baker and 600 block of Adams, Louisville, KY: null
 600 Baker and Charlie, Louisville, KY: null
 600 Baker and Charlie, with references, Louisville, KY: null
 600 Baker and Surfside Service, Louisville, KY: null
@@ -43790,6 +43799,9 @@
 7500 Nottoway Cir, Louisville, KY:
   lat: 38.1600021
   lng: -85.8075365
+7500 Oswego Cir, Louisville, KY:
+  lat: 38.1587226
+  lng: -85.8074814
 7500 Outer Loop, Louisville, KY:
   lat: 38.1374183
   lng: -85.6199192
@@ -50532,6 +50544,7 @@ Russell Ave and Cheak St, Louisville, KY: null
 Russell Ave and Grenade Ave, Louisville, KY: null
 Saddlebrook Ln and Teaneck Ln, Louisville, KY: null
 Sadie Ln and Sanders Ln, Louisville, KY: null
+Saffronfield Lane and Pendleton Rd, Louisville, KY: null
 Sage Rd and Tyne Rd, Louisville, KY: null
 Sale Ave and Longfield Ave, Louisville, KY: null
 Samarna Parkway and Vandre Ave, Louisville, KY: null
