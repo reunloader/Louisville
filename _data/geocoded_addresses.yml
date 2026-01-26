@@ -17327,6 +17327,9 @@
 2100 Dixdale Ave, Louisville, KY:
   lat: 38.2221645
   lng: -85.795784
+2100 Dixdale, Louisville, KY:
+  lat: 38.2221645
+  lng: -85.795784
 2100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -36245,6 +36248,7 @@
 5300 South Papa Street, Louisville, KY: null
 5300 South Third Street near Iroquois Shoes and More, Louisville, KY: null
 5300 South Third Street, Louisville, KY: null
+5300 South33, Iroquois in W Southland Blvd, Louisville, KY: null
 5300 South3rd Street at Family Dollar, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
