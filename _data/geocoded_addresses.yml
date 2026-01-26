@@ -149,6 +149,9 @@
 04 Maldon Dr, Louisville, KY:
   lat: 38.1711031
   lng: -85.8622494
+04 Old Bates Rd, Louisville, KY:
+  lat: 38.1198122
+  lng: -85.6232798
 04 Red Stone Hill Rd, Louisville, KY:
   lat: 38.1366772
   lng: -85.7986454
@@ -20081,6 +20084,7 @@
 2600 Broadway, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
+2600 Brought Me, Louisville, KY: null
 2600 Cessna, Louisville, KY: null
 2600 Chamberlain Ln, Louisville, KY:
   lat: 38.289667
@@ -31924,6 +31928,9 @@
 4400 Oboe Dr, Louisville, KY:
   lat: 38.195381
   lng: -85.8475944
+4400 Old Manslick Rd, Louisville, KY:
+  lat: 38.185962
+  lng: -85.799628
 4400 Outer Loop, Louisville, KY:
   lat: 38.1380709
   lng: -85.6792728
@@ -38329,6 +38336,9 @@
   lat: 38.2727871
   lng: -85.8118778
 600 Northside Avenue, Louisville, KY: null
+600 Northwestern Pky, Louisville, KY:
+  lat: 38.2705013
+  lng: -85.7832431
 600 O-rail crossing, Louisville, KY: null
 600 Old Harrods Creek Rd, Louisville, KY:
   lat: 38.253626
@@ -38941,6 +38951,7 @@
   lng: -85.760971
 600 West Orange B, Louisville, KY: null
 600 West Sherman Ranch Bridge, Louisville, KY: null
+600 West Wormsby, Louisville, KY: null
 600 Westlawn Ave, Louisville, KY:
   lat: 38.250523
   lng: -85.806302
