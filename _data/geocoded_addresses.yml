@@ -5959,6 +5959,7 @@
 11900 Lower River Rd. Evacuations were underway as fire units responded, Louisville, KY:
   lat: 38.0829696
   lng: -85.900505
+11900 Mineson Circle, Louisville, KY: null
 11900 Palm Creek Draws, Louisville, KY: null
 11900 Parkview Trace Dr near Walnut Canyon Way, Louisville, KY:
   lat: 38.0857615
@@ -15577,6 +15578,7 @@
   lng: -85.7575987
 200 West Penny Avenue, Louisville, KY: null
 200 West Ragniglia, Louisville, KY: null
+200 West Secret Mid Drive, Louisville, KY: null
 200 West Stolemsby, North Alley, Louisville, KY: null
 ? 200 West Street. The vehicle in question was observed to be a black car lacking
   any license plates. Officers initiated the stop to address the equipment violation.
@@ -41366,6 +41368,7 @@
 700 Baker and 600 block of Baker, Louisville, KY: null
 700 Baker and 700 block of Charlie, Louisville, KY: null
 700 Baker and Fort Charlie, Louisville, KY: null
+700 Baker and the 700 block of Adams. EMS was dispatched, Louisville, KY: null
 700 Baker in response to a call, Louisville, KY: null
 700 Baker near Providence and Sanctuary Ln, Louisville, KY:
   lat: 38.240435
@@ -45808,6 +45811,7 @@
   lng: -85.5888379
 8200 Blueleg, Louisville, KY: null
 8200 Broccolo Court, Louisville, KY: null
+8200 Campbell Go Lane, Louisville, KY: null
 8200 Candelabra, Louisville, KY: null
 8200 Cane Run Rd, Louisville, KY:
   lat: 38.1371078
@@ -46873,6 +46877,9 @@
 ? 900 Baxter Ave. The incident involved the theft of a wallet, and a vehicle was also
   taken. The suspect was believed, Louisville, KY
 : lat: 38.2424865
+  lng: -85.7264428
+900 Baxter near Starbucks, Louisville, KY:
+  lat: 38.2424865
   lng: -85.7264428
 900 Baxter, Louisville, KY:
   lat: 38.2424865
@@ -50555,6 +50562,7 @@ Reed St and Eastern Parkway, Louisville, KY: null
 Reeves Rd and Isaacs Road, Louisville, KY: null
 Regal Dr and Riata Dr, Louisville, KY: null
 Regal Rd and Grand Lakes Dr, Louisville, KY: null
+Regal Rd and Lime Pinal Lane, Louisville, KY: null
 Regal Springs Dr and Grand Lake St, Louisville, KY: null
 Renate Rd and Southside Dr, Louisville, KY: null
 Renown Dr and Indian Pipe Ln, Louisville, KY: null

@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2026-01-26 06:15:16
+**Generated:** 2026-01-26 06:44:20
 
 ---
 
@@ -8,20 +8,20 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 22,718 |
-| **Successfully Geocoded** | 11,661 |
-| **Failed to Geocode** | 11,057 |
-| **Success Rate** | 51.33% |
-| **Failure Rate** | 48.67% |
+| **Total Addresses** | 22,724 |
+| **Successfully Geocoded** | 11,662 |
+| **Failed to Geocode** | 11,062 |
+| **Success Rate** | 51.32% |
+| **Failure Rate** | 48.68% |
 
 ---
 
 ## Recent Changes
 
-- **4** new addresses processed
-- **0** successfully geocoded
-- **4** failed to geocode
-- **This batch success rate: 0.00%** ⚠️
+- **6** new addresses processed
+- **1** successfully geocoded
+- **5** failed to geocode
+- **This batch success rate: 16.67%** ⚠️
 - Overall rate changed by **-0.01%** 📉
 
 ---
@@ -30,10 +30,10 @@
 
 | Pattern | Count | % of Failures |
 |---------|-------|---------------|
-| Incomplete/vague address | 3030 | 27.4% |
-| Contains location qualifiers (near/at) | 2778 | 25.1% |
-| Intersection format | 2359 | 21.3% |
-| Other/Unknown | 2336 | 21.1% |
+| Incomplete/vague address | 3031 | 27.4% |
+| Contains location qualifiers (near/at) | 2779 | 25.1% |
+| Intersection format | 2360 | 21.3% |
+| Other/Unknown | 2338 | 21.1% |
 | Contains extra sentences/context | 538 | 4.9% |
 | Police phonetic codes | 16 | 0.1% |
 
@@ -43,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2026-01-26 | 1 | 1 | 100.0% 🎯 | 22,683 | 51.31% |
 | 2026-01-26 | 3 | 2 | 66.7% 🎯 | 22,686 | 51.31% |
 | 2026-01-26 | 7 | 3 | 42.9% ⚡ | 22,693 | 51.31% |
 | 2026-01-26 | 5 | 5 | 100.0% 🎯 | 22,698 | 51.32% |
@@ -53,6 +52,7 @@
 | 2026-01-26 | 4 | 3 | 75.0% 🎯 | 22,710 | 51.33% |
 | 2026-01-26 | 4 | 3 | 75.0% 🎯 | 22,714 | 51.34% |
 | 2026-01-26 | 4 | 0 | 0.0% ⚠️ | 22,718 | 51.33% |
+| 2026-01-26 | 6 | 1 | 16.7% ⚠️ | 22,724 | 51.32% |
 
 ---
 
