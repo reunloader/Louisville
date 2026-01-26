@@ -16102,6 +16102,9 @@
 200 east at exit 4, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 east near 64 westbound underneath Freedom Way, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 east near Brownsboro and Hatcher Ave, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -20497,6 +20500,9 @@
 2700 Autumn Lake Dr, Louisville, KY:
   lat: 38.0762112
   lng: -85.8774363
+2700 Bagby Way near Mount Holyoke Dr and Dione Ave, Louisville, KY:
+  lat: 38.1658197
+  lng: -85.8607985
 2700 Bagby Way, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
@@ -34208,6 +34214,9 @@
 500 Green Vista, Louisville, KY:
   lat: 38.2891408
   lng: -85.5422616
+500 Greenhurst, Louisville, KY:
+  lat: 38.1906292
+  lng: -85.607742
 500 Hale Ave, Louisville, KY:
   lat: 38.2399073
   lng: -85.80531
@@ -50329,6 +50338,7 @@ Moserwood Rd and Sun Rapids Avenue, Louisville, KY: null
 Moulton Ln and Belmont Rd, Louisville, KY: null
 Mount Everest Dr and Nigel Dr, Louisville, KY: null
 Mount Holly Rd and Mitchell Hill Rd, Louisville, KY: null
+Mount Holyoke Dr and Dione Ave, Louisville, KY: null
 Mount Washington Rd and Rocky Rd, Louisville, KY: null
 Moza Road and Whiteheath Ln, Louisville, KY: null
 Mud Ln and Oleanda Ave, Louisville, KY: null
