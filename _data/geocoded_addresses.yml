@@ -278,6 +278,9 @@
 10 Raylon Dr, Louisville, KY:
   lat: 38.121253
   lng: -85.8489555
+10 Saffron Ave, Louisville, KY:
+  lat: 38.1454978
+  lng: -85.8377926
 10 Seatonville Rd, Louisville, KY:
   lat: 38.1431383
   lng: -85.5614901
@@ -5610,6 +5613,7 @@
 11200 Woodridge Lake Way, Louisville, KY:
   lat: 38.0930884
   lng: -85.863008
+11300 Blood Chimester, Louisville, KY: null
 11300 Blue Lick Rd, Louisville, KY:
   lat: 38.0869317
   lng: -85.6997833
