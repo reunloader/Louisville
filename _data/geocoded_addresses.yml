@@ -6677,6 +6677,9 @@
 1200 South 2nd Street, Louisville, KY:
   lat: 38.2345868
   lng: -85.7573175
+1200 South 2nd Street. A suspect ex-partner was present with a knife and attempted, Louisville, KY:
+  lat: 38.2345868
+  lng: -85.7573175
 1200 South 3rd Crop St, Louisville, KY: null
 1200 South 3rd Street at the Hellebrand House, Louisville, KY:
   lat: 38.234755
@@ -12682,6 +12685,7 @@
 1800 South 23rd Street, Louisville, KY:
   lat: 38.2254613
   lng: -85.7972565
+1800 South 23rd was received. No additional details were provided, but officers responded, Louisville, KY: null
 1800 South 23rd, Louisville, KY:
   lat: 38.2254613
   lng: -85.7972565
@@ -29334,7 +29338,14 @@
 400 South 2nd Street. Responding units were dispatched, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+? 400 South 34th Street. Two rounds were fired in an unknown direction, prompting
+  a response from police and drone units, Louisville, KY
+: lat: 38.2588342
+  lng: -85.8075886
 400 South 38th Street, Louisville, KY:
+  lat: 38.2593522
+  lng: -85.8122752
+400 South 38th Street. The individuals refused, Louisville, KY:
   lat: 38.2593522
   lng: -85.8122752
 ? 400 South 38th Street. The patient, a 33-year-old male, was reported to have ingested
@@ -40167,6 +40178,9 @@
   lng: -85.8715257
 6400 Desmond Parkway, Louisville, KY: null
 6400 Downs Farm Way, Louisville, KY:
+  lat: 38.1580506
+  lng: -85.6268715
+6400 Downs Farm Way. Officers responded, Louisville, KY:
   lat: 38.1580506
   lng: -85.6268715
 6400 Downs Farmway, Louisville, KY: null
