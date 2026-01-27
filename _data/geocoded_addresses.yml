@@ -350,6 +350,9 @@
 100 Adams, Louisville, KY:
   lat: 38.257812
   lng: -85.725484
+100 Afterglow Dr, Louisville, KY:
+  lat: 38.1314388
+  lng: -85.7878325
 100 Aircoys Garden Drive, Louisville, KY: null
 100 Aircoys Garden Drive. Police units were dispatched, Louisville, KY: null
 100 Airport Hotels Blvd, Louisville, KY: null
@@ -17259,6 +17262,9 @@
 2000 Winding Bluff Trace, Louisville, KY:
   lat: 38.2813075
   lng: -85.6403977
+2000 Winnrose Way, Louisville, KY:
+  lat: 38.2392133
+  lng: -85.8264252
 2000 Woodbourne Ave near Dorothy, Louisville, KY:
   lat: 38.224092
   lng: -85.690973
@@ -40262,6 +40268,7 @@
   Responding units are on scene, Louisville, KY
 : null
 6400 Avenue near Warwick Ave, Louisville, KY: null
+6400 Beeler Church Road, Louisville, KY: null
 6400 Campground Lower Crusher, Louisville, KY: null
 6400 Clover Trace Cir, Louisville, KY:
   lat: 38.1768041
