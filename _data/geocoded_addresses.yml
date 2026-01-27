@@ -6165,6 +6165,9 @@
 1200 Central Ave, Louisville, KY:
   lat: 38.2074097
   lng: -85.7774191
+1200 Charles Ct, Louisville, KY:
+  lat: 38.2104801
+  lng: -85.6618468
 1200 Cherokee Rd, Louisville, KY:
   lat: 38.237933
   lng: -85.7178479
@@ -13474,6 +13477,7 @@
 2 North Ln, Louisville, KY:
   lat: 38.059521
   lng: -85.8746765
+2 Powerhouse Ln, Louisville, KY: null
 2 Taylor Blvd, Louisville, KY:
   lat: 38.1857396
   lng: -85.7840032
@@ -27071,6 +27075,9 @@
 3700 Ovo Drive, Louisville, KY: null
 3700 Pamela Bray, Louisville, KY: null
 3700 Pamela Rae Dr (Waffle House), Louisville, KY: null
+3700 Pamela Rae Dr near Oscar Rd, Louisville, KY:
+  lat: 38.300878
+  lng: -85.54284
 3700 Pamela Rae Dr, Louisville, KY:
   lat: 38.300878
   lng: -85.54284
@@ -43240,6 +43247,7 @@
 7000 Montana Ave, Louisville, KY:
   lat: 38.2093892
   lng: -85.7741339
+7000 Nathan Haleway, Louisville, KY: null
 7000 No, Louisville, KY: null
 7000 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
@@ -46551,6 +46559,7 @@
 8400 Fieldcrest Ct, Louisville, KY:
   lat: 38.189261
   lng: -85.602595
+8400 Furnale, Louisville, KY: null
 8400 Gainsborough Dr, Louisville, KY:
   lat: 38.134869
   lng: -85.604418
