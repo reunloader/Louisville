@@ -4101,6 +4101,7 @@
 10300 Pine Glen Cir near Jessica Wray, Louisville, KY:
   lat: 38.1270978
   lng: -85.5838661
+10300 S Dodge Ln, Crosshead-Dodge Ct, Louisville, KY: null
 10300 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -25028,6 +25029,7 @@
 3300 Bardstown Road due, Louisville, KY: null
 3300 Barge Town Road, Louisville, KY: null
 3300 Barkshawn Road near Creshoot and Ballmont and Goldsmith, Louisville, KY: null
+3300 Barsound Road, Crosshead-Tillman Rd, Louisville, KY: null
 3300 Barthetown Road, Louisville, KY: null
 3300 Bass Creek Dr, Louisville, KY:
   lat: 38.2058857
@@ -46962,6 +46964,9 @@
   lng: -85.6898513
 8800 Booth Lane near Tim Reholtwell and Kanaquish Court, Louisville, KY: null
 8800 Brown Austin Rd, Louisville, KY:
+  lat: 38.1228894
+  lng: -85.7735497
+8800 Brown-Austin Road, Louisville, KY:
   lat: 38.1228894
   lng: -85.7735497
 8800 Bueller Church Rd, Louisville, KY: null

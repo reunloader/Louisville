@@ -97823,4 +97823,20 @@ history:
   batch_success_rate: 80.0
   batch_new_addresses: 5
   batch_new_successes: 4
-last_updated: '2026-01-27T08:18:10.192033'
+- timestamp: '2026-01-27T08:34:52.080202'
+  total_addresses: 22934
+  successful: 11762
+  failed: 11172
+  success_rate: 51.29
+  failure_rate: 48.71
+  failure_patterns:
+    Intersection format: 2380
+    Contains location qualifiers (near/at): 2795
+    Incomplete/vague address: 3067
+    Other/Unknown: 2372
+    Contains extra sentences/context: 542
+    Police phonetic codes: 16
+  batch_success_rate: 33.33
+  batch_new_addresses: 3
+  batch_new_successes: 1
+last_updated: '2026-01-27T08:34:52.080347'
