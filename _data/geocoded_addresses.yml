@@ -14481,6 +14481,7 @@
 200 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
+200 FLOC at Dr, Louisville, KY: null
 200 Fairlawn Rd near Beverly Ave and Richard Ave, Louisville, KY:
   lat: 38.252434
   lng: -85.667052
@@ -15715,6 +15716,9 @@
 200 West I-200 near Beat Forward 16, Louisville, KY: null
 200 West I-64 at the 3, Louisville, KY: null
 200 West I-712, Louisville, KY: null
+200 West Jefferson near St, Louisville, KY:
+  lat: 38.253409
+  lng: -85.753877
 200 West Jefferson, Louisville, KY:
   lat: 38.253409
   lng: -85.753877
@@ -16443,6 +16447,7 @@
   were involved in monitoring or responding, Louisville, KY
 : null
 200 southbound. Responding units checked on the vehicle, which appeared, Louisville, KY: null
+200 the 65 split, Louisville, KY: null
 200 the I-200 block of Ramp. The reason, Louisville, KY: null
 ? 200 the Pop-a-Level Road exit ramp. This activity was initially noted as a potential
   traffic stop or other police-related incident. The units cleared the scene and returned,
@@ -17784,6 +17789,9 @@
 2100 South3rd Street. They encountered a fire close, Louisville, KY:
   lat: 38.219192
   lng: -85.761558
+2100 Speed Ave near Hampden Ct, Louisville, KY:
+  lat: 38.2290712
+  lng: -85.6992452
 2100 Speed Ave, Louisville, KY:
   lat: 38.2290712
   lng: -85.6992452
@@ -19733,6 +19741,9 @@
 2500 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
+2500 Auburndale Ave near Southern Pky and W Southland Blvd, Louisville, KY:
+  lat: 38.172581
+  lng: -85.7749371
 2500 Bang, Louisville, KY: null
 2500 Bank St near 25th and 26th Streets, Louisville, KY:
   lat: 38.26839
@@ -20104,6 +20115,7 @@
 2500 Trubart Ln, Louisville, KY:
   lat: 38.181441
   lng: -85.839505
+2500 Truvillion Way, Louisville, KY: null
 2500 Veronica Dr near Diamond Way and Dover Rd, Louisville, KY:
   lat: 38.185302
   lng: -85.833338
@@ -25220,6 +25232,9 @@
   lng: -85.8075151
 3300 Gilmore Industrial Blvd, B2 Tower, Louisville, KY: null
 3300 Ginkgo Trail, Louisville, KY: null
+3300 Goldsmith Ln near Dean, Louisville, KY:
+  lat: 38.2135622
+  lng: -85.656914
 3300 Goldsmith Ln, Louisville, KY:
   lat: 38.2135622
   lng: -85.656914
@@ -29465,6 +29480,9 @@
 400 South 4th Street, behind the parking garage, Louisville, KY: null
 400 South 4th Street, post office, Louisville, KY: null
 400 South 4th Street, site 180, Louisville, KY: null
+400 South 4th near Liberty, Louisville, KY:
+  lat: 38.2528789
+  lng: -85.7574044
 400 South 4th, Louisville, KY:
   lat: 38.2528789
   lng: -85.7574044
@@ -47464,6 +47482,9 @@
 900 Breckenridge Ln, Louisville, KY:
   lat: 38.2277761
   lng: -85.6360795
+900 Brentwood Ave near Warren, Louisville, KY:
+  lat: 38.1946159
+  lng: -85.774954
 900 Brentwood Ave, Louisville, KY:
   lat: 38.1946159
   lng: -85.774954
