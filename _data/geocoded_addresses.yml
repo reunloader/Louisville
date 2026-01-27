@@ -22417,6 +22417,9 @@
 300 Dumesnil St, Louisville, KY:
   lat: 38.2357119
   lng: -85.7798286
+300 E Jefferson St, Louisville, KY:
+  lat: 38.2526687
+  lng: -85.7481177
 ? '300 E Main St)** (around 11:33 a.m. a.m. a.m.): A report of a 30-foot plane was
   noted, with a limited combustible situation at a hostile commission center. Fire
   units were dispatched to assess the situation, but nothing was showing upon arrival.
@@ -42243,6 +42246,9 @@
   activity. Additionally, officers were informed of a pending call, Louisville, KY
 : null
 700 John King, Louisville, KY: null
+? 700 Kentucky 740 and surrounding streets, but no further details about the vehicle’s
+  whereabouts or suspects were available at this time, Louisville, KY
+: null
 700 Kentucky Ave, Louisville, KY:
   lat: 38.1936279
   lng: -85.7712693
@@ -44952,6 +44958,9 @@
   lat: 38.2292347
   lng: -85.7416699
 800 Backer, conducting a thorough search, Louisville, KY: null
+800 Baker and 800 block of Adam near the Hilton Garden Inn, Louisville, KY:
+  lat: 38.3105992
+  lng: -85.5761842
 800 Baker and 800 block of Adam, Louisville, KY: null
 800 Baker and 800 block of Adams, Louisville, KY: null
 800 Baker and the 400 block of an unspecified street, Louisville, KY: null
@@ -49543,6 +49552,7 @@
 9800 Park Plaza Ave, Louisville, KY:
   lat: 38.310144
   lng: -85.577819
+9800 Park Plaza Ave, and units cleared, Louisville, KY: null
 9800 Preston Crossing Blvd, Louisville, KY:
   lat: 38.1064109
   lng: -85.6721115
