@@ -17092,6 +17092,9 @@
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
+2000 South Preston, Louisville, KY:
+  lat: 38.2195706
+  lng: -85.7480574
 2000 South with no registered owner, Louisville, KY: null
 2000 South23rd Street, Louisville, KY:
   lat: 38.222411
@@ -24874,6 +24877,9 @@
 3200 Poplar View Dr, Louisville, KY:
   lat: 38.181509
   lng: -85.848954
+3200 Preston Hwy, Louisville, KY:
+  lat: 38.20267
+  lng: -85.7352633
 3200 Preston Hwy. Responding units checked the premises, Louisville, KY:
   lat: 38.20267
   lng: -85.7352633
@@ -47343,6 +47349,9 @@
 900 Avenue**, Louisville, KY: null
 900 B2, Louisville, KY: null
 900 Baker State Drive, Louisville, KY: null
+900 Bank St, Louisville, KY:
+  lat: 38.2654471
+  lng: -85.7821805
 900 Barret Ave and 1A La Grange Rd, Louisville, KY: null
 900 Barret Ave at Altenheim, Louisville, KY:
   lat: 38.239507
