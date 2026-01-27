@@ -97855,4 +97855,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 4
   batch_new_successes: 2
-last_updated: '2026-01-27T08:41:29.740698'
+- timestamp: '2026-01-27T09:03:48.133284'
+  total_addresses: 22939
+  successful: 11764
+  failed: 11175
+  success_rate: 51.28
+  failure_rate: 48.72
+  failure_patterns:
+    Intersection format: 2381
+    Contains location qualifiers (near/at): 2796
+    Incomplete/vague address: 3067
+    Other/Unknown: 2373
+    Contains extra sentences/context: 542
+    Police phonetic codes: 16
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-01-27T09:03:48.133457'
