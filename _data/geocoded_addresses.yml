@@ -3610,6 +3610,7 @@
 1000 Trevelyan Way near Poplar Level Rd, Louisville, KY:
   lat: 38.1581079
   lng: -85.646379
+1000 Trumpet Whey near Station Rd, Louisville, KY: null
 1000 Ulrich Ave, Louisville, KY: null
 1000 University of Louisville, Louisville, KY: null
 ? 1000 Uracoid Gardens Drive. Reports indicated that an ex-boyfriend was present inside
@@ -24644,6 +24645,9 @@
 3200 Brightside Ct, Louisville, KY:
   lat: 38.2003115
   lng: -85.6081245
+3200 Broadway near Happy Jack Whey, Louisville, KY:
+  lat: 38.2495522
+  lng: -85.8058871
 3200 Broeck Pointe Cir, Louisville, KY: null
 ? 3200 Broeck Pointe Cir, near Rock Point Road, who was experiencing an asthma attack.
   EMS provided assistance, Louisville, KY
@@ -48483,6 +48487,9 @@
 9000 Hurstbourne Club Ln, Crop St of Linden Ln, Louisville, KY: null
 9000 Hurstbourne Club Ln, Louisville, KY: null
 9000 King Run Road, Louisville, KY: null
+9000 Lake Ave, Louisville, KY:
+  lat: 38.2669978
+  lng: -85.7029783
 9000 Lethborough Dr, Crop St of San Marcos, Louisville, KY: null
 9000 Linden Dr, Louisville, KY: null
 9000 Maple View, Louisville, KY: null
