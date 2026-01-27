@@ -6402,6 +6402,7 @@
   lat: 38.2064911
   lng: -85.7796848
 1200 Homeview Dr, Parkland, Louisville, KY: null
+1200 Honey Hive Pl, Louisville, KY: null
 1200 Huntington Ln, Louisville, KY:
   lat: 38.141666
   lng: -85.688349
@@ -6831,6 +6832,9 @@
 1200 South1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
+1200 South2nd Street, Louisville, KY:
+  lat: 38.2345868
+  lng: -85.7573175
 1200 South32nd Street and nearby areas, Louisville, KY: null
 1200 South3rd St, Louisville, KY:
   lat: 38.234755
@@ -29564,6 +29568,9 @@
   lat: 38.2521786
   lng: -85.7548825
 400 South38 Street, Louisville, KY: null
+400 South38th Street, Louisville, KY:
+  lat: 38.2593522
+  lng: -85.8122752
 400 South40th, Louisville, KY:
   lat: 38.2586691
   lng: -85.8165431
@@ -40156,6 +40163,9 @@
   lat: 38.1472136
   lng: -85.8715257
 6400 Desmond Parkway, Louisville, KY: null
+6400 Downs Farm Way, Louisville, KY:
+  lat: 38.1580506
+  lng: -85.6268715
 6400 Downs Farmway, Louisville, KY: null
 6400 Dutchman Parkway, Louisville, KY: null
 6400 Dutchman's Parkway near 8:07 a, Louisville, KY:
@@ -46910,6 +46920,9 @@
   lat: 38.0858425
   lng: -85.6188613
 8700 West4 Road, Louisville, KY: null
+8700 Westport Rd, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 8700 William Penn Ct, Louisville, KY:
   lat: 38.1201135
   lng: -85.638166
