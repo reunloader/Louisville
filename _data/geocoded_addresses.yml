@@ -14945,6 +14945,9 @@
 200 North at Brownsboro, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at I-64, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North at La Grange Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -34210,6 +34213,9 @@
   Police units were dispatched, Louisville, KY
 : null
 4900 Wernicke Way, Louisville, KY: null
+4900 West Pages, Louisville, KY:
+  lat: 38.130098
+  lng: -85.848015
 4900 West Side Dr, Louisville, KY: null
 4900 Woodsend Rd, Louisville, KY:
   lat: 38.1112071
