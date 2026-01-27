@@ -97519,4 +97519,20 @@ history:
   batch_success_rate: 75.0
   batch_new_addresses: 4
   batch_new_successes: 3
-last_updated: '2026-01-27T00:11:21.919967'
+- timestamp: '2026-01-27T00:21:44.480019'
+  total_addresses: 22884
+  successful: 11735
+  failed: 11149
+  success_rate: 51.28
+  failure_rate: 48.72
+  failure_patterns:
+    Intersection format: 2379
+    Contains location qualifiers (near/at): 2793
+    Incomplete/vague address: 3057
+    Other/Unknown: 2363
+    Contains extra sentences/context: 541
+    Police phonetic codes: 16
+  batch_success_rate: 50.0
+  batch_new_addresses: 4
+  batch_new_successes: 2
+last_updated: '2026-01-27T00:21:44.480213'

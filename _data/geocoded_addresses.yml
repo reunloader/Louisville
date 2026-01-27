@@ -15414,6 +15414,9 @@
   lng: -85.7586393
 200 Southbound I-265 near the 16, Louisville, KY: null
 200 Southbound at the 2-over-9 ramp, Louisville, KY: null
+200 Southbound near a house, Louisville, KY:
+  lat: 38.2408645
+  lng: -85.7548989
 200 Southbound near the 10 mile marker, Louisville, KY: null
 200 Southbound, Louisville, KY: null
 200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
@@ -15632,6 +15635,7 @@
 200 West I-200 at Cane Run Rd, Louisville, KY:
   lat: 38.222489
   lng: -85.811113
+200 West I-200 near Beat Forward 16, Louisville, KY: null
 200 West I-64 at the 3, Louisville, KY: null
 200 West I-712, Louisville, KY: null
 200 West Jefferson, Louisville, KY:
@@ -25986,6 +25990,9 @@
 3500 Kramer's Lane, Louisville, KY: null
 3500 Lash Lane, Crest Street of Six Mile, Louisville, KY: null
 3500 Lee Flame, Louisville, KY: null
+3500 Lena Ln, Louisville, KY:
+  lat: 38.1065676
+  lng: -85.5036462
 3500 Listen Rain, Louisville, KY: null
 3500 Lodge Line, Louisville, KY: null
 3500 Lodge Ln, Louisville, KY:
@@ -33884,6 +33891,7 @@
 4900 South First Run Parkway, Louisville, KY: null
 4900 South First Street, Louisville, KY: null
 4900 South Hirsborne Parkway, Louisville, KY: null
+4900 South Hirsborne Pkwy, Louisville, KY: null
 4900 South Second Street, Louisville, KY: null
 4900 South Watterson Trail, Louisville, KY:
   lat: 38.1579784
