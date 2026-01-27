@@ -11326,6 +11326,7 @@
 17 Dana Dr, Louisville, KY:
   lat: 38.1843698
   lng: -85.8017491
+17 Kings Ln, Louisville, KY: null
 17 Lake Ave, Louisville, KY:
   lat: 38.2665526
   lng: -85.7005781
@@ -37322,6 +37323,9 @@
 5600 Preston Howard at McDonald's, Louisville, KY:
   lat: 38.267342
   lng: -85.783509
+5600 Preston Hwy near Vinewood and East Indian Trail, Louisville, KY:
+  lat: 38.1682113
+  lng: -85.7066863
 5600 Preston at McDonald's, Louisville, KY:
   lat: 38.1682113
   lng: -85.7066863
@@ -45633,6 +45637,9 @@
 800 South 28th Street, Louisville, KY:
   lat: 38.2470453
   lng: -85.7988198
+800 South 28th, Louisville, KY:
+  lat: 38.2470453
+  lng: -85.7988198
 800 South 2nd Street, Louisville, KY:
   lat: 38.243198
   lng: -85.755616
@@ -49183,6 +49190,7 @@
 9500 Brownsboro Rd, Louisville, KY:
   lat: 38.3070784
   lng: -85.5745442
+9500 Candywood Ln, Louisville, KY: null
 9500 Civic Way at CCG, Verandah, Crestcomb, Starr, Mary St, Louisville, KY:
   lat: 38.321115
   lng: -85.564417
@@ -51519,6 +51527,7 @@ Warren Ave and Carlisle Ave, Louisville, KY: null
 Warren Ave and Cliff Ave, Louisville, KY: null
 Washburn Ave and New La Grange Rd, Louisville, KY: null
 Washburn Ave and Seton Hill Dr, Louisville, KY: null
+Washington St and Old Forest Street, Louisville, KY: null
 Wattbourne Ln and Griffiths Ave, Louisville, KY: null
 Watterson Park Rd and Gardiner Ln, Louisville, KY: null
 Wayside Ave and Cemetery Dr, Louisville, KY: null
