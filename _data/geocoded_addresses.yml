@@ -10239,6 +10239,9 @@
 1500 South30th Street, Louisville, KY:
   lat: 38.231909
   lng: -85.805997
+1500 South31st, Louisville, KY:
+  lat: 38.231946
+  lng: -85.807205
 1500 South36th Street, Louisville, KY:
   lat: 38.2324174
   lng: -85.8144769
@@ -23277,6 +23280,7 @@
 300 State St. Police units were assigned, Louisville, KY:
   lat: 38.2551213
   lng: -85.7161717
+300 Station Railway, zone 11, Louisville, KY: null
 300 Steffan Road, Louisville, KY: null
 300 Storming All Over Road, Frays Hill, Louisville, KY: null
 300 Stovall Pl, Louisville, KY:
@@ -35552,6 +35556,9 @@
 ? 5000 North Bardstown Rd. Upon arrival, it was determined that a female at the scene
   had provided an incorrect passcode., Louisville, KY
 : null
+5000 Norton Healthcare Blvd at Big Bang breakfast across Angie's Way, Louisville, KY:
+  lat: 38.3155316
+  lng: -85.5738968
 5000 Nuka Road, Kings and Aircoys area, Louisville, KY: null
 5000 Old Heady Rd, Louisville, KY:
   lat: 38.171212
@@ -36637,6 +36644,9 @@
 5300 Valkyrie Way, Louisville, KY:
   lat: 38.1070922
   lng: -85.8611243
+5300 Vista John Dr, Louisville, KY:
+  lat: 38.1590827
+  lng: -85.8021987
 5300 W Pages Ln, Louisville, KY:
   lat: 38.1301902
   lng: -85.8553669
