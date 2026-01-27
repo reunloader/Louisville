@@ -5397,6 +5397,9 @@
 1100 W Liberty St, Louisville, KY:
   lat: 38.253688
   lng: -85.769004
+1100 W Magnolia Ave, Louisville, KY:
+  lat: 38.2301066
+  lng: -85.7719805
 1100 W Market St, Louisville, KY:
   lat: 38.2560592
   lng: -85.7686409
@@ -30072,6 +30075,9 @@
   lat: 38.129192
   lng: -85.689312
 4000 Fourth and W Oak St, Louisville, KY: null
+4000 Franklin Ave, Louisville, KY:
+  lat: 38.1947244
+  lng: -85.7262175
 4000 Future Bank Road near Progress Blvd, Louisville, KY: null
 4000 Gardiner Point Dr at Sullivan University Residential Hall, Louisville, KY: null
 4000 Gardiner Point Dr near Sullivan University Residence Hall, Louisville, KY: null
