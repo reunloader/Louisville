@@ -14955,6 +14955,9 @@
 200 North26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
+200 North29th Street, Louisville, KY:
+  lat: 38.26281
+  lng: -85.798847
 200 North35th Street, Louisville, KY:
   lat: 38.2637287
   lng: -85.8083072
@@ -19118,6 +19121,7 @@
 2300 magazine, Louisville, KY:
   lat: 38.2509386
   lng: -85.7897525
+2300 road on10-54, Louisville, KY: null
 2319 Brownsboro Road, Louisville, KY:
   lat: 38.2586268
   lng: -85.7023985
@@ -35144,6 +35148,9 @@
 500 W Ormsby Ave, Louisville, KY:
   lat: 38.2327682
   lng: -85.7626288
+500 W St Catherine St, Louisville, KY:
+  lat: 38.2372079
+  lng: -85.7608797
 500 W W Ashland Ave, Louisville, KY:
   lat: 38.1861535
   lng: -85.7756446
