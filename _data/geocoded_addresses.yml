@@ -7736,6 +7736,7 @@
   lat: 38.2091404
   lng: -85.7801385
 1300 Lewis Coleman and 1000 block of Family, Louisville, KY: null
+1300 Lexington Bluff, Louisville, KY: null
 1300 Lexington Rd at Headliners Music Hall, Louisville, KY:
   lat: 38.2498197
   lng: -85.7271354
@@ -12631,6 +12632,7 @@
 1800 Payne St, Louisville, KY:
   lat: 38.252319
   lng: -85.714496
+1800 Playgrounds, Louisville, KY: null
 1800 Poplar Road, Louisville, KY:
   lat: 38.2167683
   lng: -85.7259839
@@ -19341,6 +19343,9 @@
   lat: 38.2652399
   lng: -85.7883019
 2400 Grinstead Dr (Galita Club), Louisville, KY: null
+2400 Grinstead Dr, Louisville, KY:
+  lat: 38.242651
+  lng: -85.710782
 ? 2400 Hermitage Way following a report of a gas leak. Occupants detected a smell
   of gas inside the venue and were preparing, Louisville, KY
 : null
