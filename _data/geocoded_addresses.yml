@@ -8893,6 +8893,7 @@
 1400 Lexington Rd, Louisville, KY:
   lat: 38.25048
   lng: -85.720565
+1400 Lido Street, Louisville, KY: null
 1400 Lillian Ave near Sharp Ave and Lindbergh, Louisville, KY:
   lat: 38.2136784
   lng: -85.7796172
@@ -11540,6 +11541,7 @@
   lat: 38.2377007
   lng: -85.7839822
 1700 Harrett Court, Building 49, Louisville, KY: null
+1700 Harris, Louisville, KY: null
 1700 Harrod Ct, Louisville, KY:
   lat: 38.2237642
   lng: -85.7789557
@@ -33678,6 +33680,9 @@
 4800 Preston Hwy at the Super8 Motel, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
+4800 Preston Hwy at the Super8, Louisville, KY:
+  lat: 38.178026
+  lng: -85.7169632
 4800 Preston Hwy, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
@@ -42228,6 +42233,7 @@
 ? 700 Hardee Avenue where a two-year-old child had been accidentally locked inside
   a black Kia Rio. The child had been in the vehicle, Louisville, KY
 : null
+700 Haynes Trace, Louisville, KY: null
 700 Haywood, Louisville, KY: null
 700 Hazel St, Louisville, KY:
   lat: 38.24964
