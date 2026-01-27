@@ -19745,6 +19745,7 @@
 2500 Crums Ln, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
+2500 Data Dr near Plantside Dr and All Pickens Company, Louisville, KY: null
 2500 Data Dr, Louisville, KY: null
 2500 Dumesnil St, Louisville, KY:
   lat: 38.236439
@@ -31878,6 +31879,9 @@
 4400 Charlotte Ann Dr near Tara Gale Dr, Louisville, KY:
   lat: 38.1910848
   lng: -85.8425095
+4400 Charlotte Dr near Cherokee Lane and Crums Ln, Louisville, KY:
+  lat: 38.1910848
+  lng: -85.8425095
 4400 Chenwood Ln, Louisville, KY:
   lat: 38.18023
   lng: -85.55725
@@ -35189,6 +35193,9 @@
 500 West Jefferson, Louisville, KY:
   lat: 38.2350131
   lng: -85.762185
+500 West Liberty near Armory and South 6th Street, Louisville, KY:
+  lat: 38.253265
+  lng: -85.759729
 500 West Mahalo Alley at Lowell Gardens, Louisville, KY: null
 500 West Main, Louisville, KY:
   lat: 38.2566397
@@ -50106,6 +50113,7 @@ Chase Rd and Steffan Drive, Louisville, KY: null
 Chelsea Drive and Final Dr, Louisville, KY: null
 Chenilis Lane and Massie Ave, Louisville, KY: null
 Chenoweth Ln and Druid Hills Rd, Louisville, KY: null
+Cherokee Lane and Crums Ln, Louisville, KY: null
 Cherokee Pky and Longest Ave, Louisville, KY: null
 Cherokee Pky and Parkstone Road, Louisville, KY: null
 Cherokee Rd and Cowling Ave, Louisville, KY: null

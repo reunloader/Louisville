@@ -97887,4 +97887,20 @@ history:
   batch_success_rate: 50.0
   batch_new_addresses: 4
   batch_new_successes: 2
-last_updated: '2026-01-27T09:14:55.647971'
+- timestamp: '2026-01-27T09:34:14.179920'
+  total_addresses: 22947
+  successful: 11768
+  failed: 11179
+  success_rate: 51.28
+  failure_rate: 48.72
+  failure_patterns:
+    Intersection format: 2383
+    Contains location qualifiers (near/at): 2798
+    Incomplete/vague address: 3067
+    Other/Unknown: 2373
+    Contains extra sentences/context: 542
+    Police phonetic codes: 16
+  batch_success_rate: 50.0
+  batch_new_addresses: 4
+  batch_new_successes: 2
+last_updated: '2026-01-27T09:34:14.180063'
