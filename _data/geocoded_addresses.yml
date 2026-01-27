@@ -7016,6 +7016,9 @@
 1200 West Alley, Louisville, KY:
   lat: 38.2620848
   lng: -85.801873
+1200 West Ashland, Louisville, KY:
+  lat: 38.1863661
+  lng: -85.7805448
 1200 West Broadway and 3000 block of River Park Dr, Louisville, KY: null
 1200 West Broadway and nearby locations, with some units already, Louisville, KY: null
 1200 West Broadway and surrounding areas, Louisville, KY: null
@@ -35073,6 +35076,9 @@
   lng: -85.7285936
 500 South Jacks, Louisville, KY: null
 500 South Jackson University Hospital, PACU Bay 10, Louisville, KY: null
+500 South Jackson near Muhammad Ali and Chestnut, Louisville, KY:
+  lat: 38.249645
+  lng: -85.744921
 500 South Jackson near an ambulatory care building, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
@@ -45066,6 +45072,9 @@
   lat: 38.1412684
   lng: -85.7716218
 800 Baker near Atomite Drive, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
+800 Baker near Chevrolet Monroe Road, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
 800 Baker near Norton Healthcare Blvd, Louisville, KY:
