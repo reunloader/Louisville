@@ -1411,6 +1411,9 @@
 100 North20th Street, Louisville, KY:
   lat: 38.26038
   lng: -85.782963
+100 North20th, Louisville, KY:
+  lat: 38.26038
+  lng: -85.782963
 100 North28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
@@ -3526,6 +3529,9 @@
 1000 South, Louisville, KY:
   lat: 38.2434557
   lng: -85.7996592
+1000 South12th Street, Louisville, KY:
+  lat: 38.240753
+  lng: -85.772919
 1000 South26th Street, Louisville, KY:
   lat: 38.243162
   lng: -85.795713
@@ -34239,6 +34245,7 @@
   lat: 38.1976722
   lng: -85.7879718
 5 South First One Parkway, Louisville, KY: null
+5 South Hirshborn Parkway, Louisville, KY: null
 5 South Horsborne Parkway, Louisville, KY: null
 5 Sunnyside Dr, Louisville, KY:
   lat: 38.2448901
@@ -47789,6 +47796,9 @@
   lng: -85.7370764
 900 Esau, W Muhammad Ali Blvdmber 2, Louisville, KY: null
 900 Espar Alley, Louisville, KY: null
+900 Esquire Alley, Louisville, KY:
+  lat: 38.248146
+  lng: -85.7706805
 900 Euclid Ave, Louisville, KY:
   lat: 38.211438
   lng: -85.772574
@@ -47918,6 +47928,9 @@
 900 Lake Forest Pky, Louisville, KY:
   lat: 38.2513909
   lng: -85.4864475
+900 Lakeridge Dr, Louisville, KY:
+  lat: 38.1240977
+  lng: -85.8178207
 ? '900 Lampter Ave)** (around 2:28 p.m. a.m. p.m.): A car versus ditch incident was
   reported with no injuries. Officers were dispatched, Louisville, KY'
 : null
