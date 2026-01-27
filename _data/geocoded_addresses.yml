@@ -1617,6 +1617,7 @@
 100 Road South, Louisville, KY:
   lat: 38.085463
   lng: -85.719764
+100 Rochester Dr, Tyson, Louisville, KY: null
 100 Rowan St and nearby addresses, Louisville, KY: null
 ? 100 Royal Court. The incident occurred in the evening, and the suspect was seen
   fleeing the scene. The suspect reportedly headed towards a nearby alleyway after
@@ -23528,6 +23529,7 @@
 300 south 1st street, Louisville, KY:
   lat: 38.2529394
   lng: -85.7525767
+300 station railway, building 1, short line way and data vault drive, Louisville, KY: null
 300 the 008-300 block, Louisville, KY: null
 300 the South on-ramp, Louisville, KY: null
 300 the area, Louisville, KY: null
@@ -37373,6 +37375,9 @@
 5600 Preston Howard at McDonald's, Louisville, KY:
   lat: 38.267342
   lng: -85.783509
+5600 Preston Hwy at Indian Trail Branch, Louisville, KY:
+  lat: 38.1682113
+  lng: -85.7066863
 5600 Preston Hwy near Vinewood and East Indian Trail, Louisville, KY:
   lat: 38.1682113
   lng: -85.7066863
@@ -50012,6 +50017,7 @@ Ashby Ln and Twilight Dr, Louisville, KY: null
 Ashcraft Ln and Daisy Ln, Louisville, KY: null
 Ashland Ave and Kathleen Ave, Louisville, KY: null
 Ashland Ave and Taylor Blvd, Louisville, KY: null
+Ashmoor Ln and Wismore Rd, Louisville, KY: null
 Ashwood Dr and Monkford Drive, Louisville, KY: null
 Aubert Ave and Paramount Park Dr, Louisville, KY: null
 Audubon Parkway and Chickadee Rd, Louisville, KY: null
