@@ -7632,6 +7632,7 @@
 1300 Earl Jones Way, Louisville, KY: null
 1300 East Breckenridge, Louisville, KY: null
 1300 East Breckham Ridge Street, Louisville, KY: null
+1300 Eastbrook Ridge, Louisville, KY: null
 1300 Edgeland Ave near LaGrange Road, Louisville, KY:
   lat: 38.23212
   lng: -85.7135685
@@ -43810,6 +43811,9 @@
 7200 Whipple Rd. The patient, a 36-year-old male, was reported, Louisville, KY:
   lat: 38.0702634
   lng: -85.8958562
+7200 Wynde Manor Ct, Louisville, KY:
+  lat: 38.1532171
+  lng: -85.6396416
 7200 Wyndefair Ct across Olde Creek Way, Louisville, KY: null
 7200 Yorktown Rd, off Garrison Rd and Yorktown Ct, Louisville, KY: null
 7200 block of Green Oak, Louisville, KY: null
@@ -45757,6 +45761,9 @@
 800 South40th, Louisville, KY:
   lat: 38.2481695
   lng: -85.8182177
+800 South41st Street, Louisville, KY:
+  lat: 38.2482119
+  lng: -85.819627
 800 South42nd Street, Louisville, KY:
   lat: 38.2483151
   lng: -85.8224985
