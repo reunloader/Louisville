@@ -14877,6 +14877,9 @@
 200 North near Australian Motors, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North near Fern Valley Rd, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
 200 North near Shelbyville, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -21133,6 +21136,9 @@
 2800 Cannon Plane near Cross of Dutchman, Louisville, KY: null
 2800 Carfoot Avenue, Louisville, KY: null
 2800 Clark Shrine Road, Louisville, KY: null
+2800 Cleveland Ave, Louisville, KY:
+  lat: 38.26854
+  lng: -85.794897
 ? 2800 Cleveland Boulevard. The caller reported that the dogs, described as two Shepherd-type
   breeds, were loose and aggressive. Animal control was requested to respond to the
   scene to safely manage the animals. The owner was present and attempting to secure
@@ -21211,6 +21217,7 @@
 2800 Fern Valley Rd near Waffle House, Louisville, KY:
   lat: 38.1566356
   lng: -85.713253
+2800 Fern Valley Rd, Dunkin Donuts, Louisville, KY: null
 2800 Fern Valley Rd, Dunkin' Donuts, Louisville, KY: null
 2800 Fern Valley Rd, Louisville, KY:
   lat: 38.1566356
@@ -46240,6 +46247,9 @@
   lat: 38.138126
   lng: -85.800997
 8200 Redwing Way, Louisville, KY: null
+8200 Rocky Gap Rd, Louisville, KY:
+  lat: 38.1322769
+  lng: -85.7670315
 8200 Roseborough Rd near Laurel Grove Ct and Sandidge Dr, Louisville, KY:
   lat: 38.1277823
   lng: -85.6323099
@@ -50157,6 +50167,7 @@ Cumberland Ave and Rochester Dr, Louisville, KY: null
 Cypress St and Burwell Ave, Louisville, KY: null
 Cypress St and Dumanale St, Louisville, KY: null
 Cypress St and South Fourth Street, Louisville, KY: null
+Dale Ave and Woody Ave, Louisville, KY: null
 Darnton Ln and Liding Hills Drive, Louisville, KY: null
 Dart Dr and Peabody Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
