@@ -8855,6 +8855,9 @@
 1400 Haskin Ave, Louisville, KY:
   lat: 38.1725038
   lng: -85.7846516
+1400 Hazel, Louisville, KY:
+  lat: 38.234441
+  lng: -85.806185
 1400 Hemlock St and 100 block of Kenny Blvd, Louisville, KY: null
 1400 Hemlock St, Louisville, KY:
   lat: 38.234176
@@ -17943,6 +17946,9 @@
 2100 West Madison, Louisville, KY:
   lat: 38.253087
   lng: -85.78599
+2100 West Main, Louisville, KY:
+  lat: 38.2595621
+  lng: -85.7848386
 2100 West Market, Louisville, KY:
   lat: 38.258287
   lng: -85.785077
@@ -29033,6 +29039,7 @@
   lat: 38.1407681
   lng: -85.5936717
 400 Lewis Coleman Jr, Louisville, KY: null
+400 Lewis Coleman Junior Drive, Louisville, KY: null
 400 Lewis Coleman, Juniper Dr, cross with Markwood and Herman, Louisville, KY: null
 400 Lewis Colvin Jr, Louisville, KY: null
 400 Libby Ln, Louisville, KY:
