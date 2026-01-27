@@ -97999,4 +97999,20 @@ history:
   batch_success_rate: 33.33
   batch_new_addresses: 3
   batch_new_successes: 1
-last_updated: '2026-01-27T11:10:28.054168'
+- timestamp: '2026-01-27T11:14:05.952823'
+  total_addresses: 22960
+  successful: 11775
+  failed: 11185
+  success_rate: 51.28
+  failure_rate: 48.72
+  failure_patterns:
+    Intersection format: 2385
+    Contains location qualifiers (near/at): 2798
+    Incomplete/vague address: 3071
+    Other/Unknown: 2373
+    Contains extra sentences/context: 542
+    Police phonetic codes: 16
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2026-01-27T11:14:05.952959'
