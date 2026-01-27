@@ -5093,6 +5093,9 @@
 1100 S Floyd St, Louisville, KY:
   lat: 38.234987
   lng: -85.751627
+1100 S Johnson St, Louisville, KY:
+  lat: 38.253828
+  lng: -85.7314324
 1100 S Preston St, Louisville, KY:
   lat: 38.236101
   lng: -85.749224
@@ -7091,6 +7094,7 @@
 1200 area near Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+1200 building122, Louisville, KY: null
 1200 call area, Louisville, KY: null
 1200 mark, Louisville, KY:
   lat: 38.1278965
@@ -27619,6 +27623,9 @@
 3800 South38th Street, Louisville, KY:
   lat: 38.240538
   lng: -85.8166821
+3800 Southern Pky near Kenton, Louisville, KY:
+  lat: 38.200559
+  lng: -85.76529
 3800 Southern Pky, Louisville, KY:
   lat: 38.200559
   lng: -85.76529
