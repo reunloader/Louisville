@@ -19513,6 +19513,9 @@
   lat: 38.2185882
   lng: -85.7031849
 2400 Varshtown Road, Louisville, KY: null
+2400 W Chestnut St, Louisville, KY:
+  lat: 38.2525848
+  lng: -85.792039
 2400 W Jefferson St, Louisville, KY:
   lat: 38.2574083
   lng: -85.7912216
@@ -23398,6 +23401,7 @@
 3000 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
+3000 Automobile Ave, Louisville, KY: null
 3000 Autumn Lake Dr, Louisville, KY:
   lat: 38.0718916
   lng: -85.8775827
@@ -23617,6 +23621,9 @@
 3000 Jefferson Green Dr due, Louisville, KY: null
 3000 Jefferson Green Dr, Louisville, KY: null
 3000 Jefferson Green, Louisville, KY: null
+3000 Jefferson St, Louisville, KY:
+  lat: 38.1472056
+  lng: -85.8143902
 3000 Joanne Way, Louisville, KY: null
 3000 Juniper Hill Rd, Louisville, KY:
   lat: 38.24284
