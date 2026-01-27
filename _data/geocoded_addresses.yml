@@ -698,6 +698,9 @@
 100 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+100 Dixie, Louisville, KY:
+  lat: 38.151629
+  lng: -85.8345273
 100 Double K, Louisville, KY: null
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
@@ -2358,6 +2361,7 @@
 100 radio, Louisville, KY: null
 100 record and 65 south at the 128, Louisville, KY: null
 100 record, and officers secured the scene at the southbound highway segment, Louisville, KY: null
+100 responding, Louisville, KY: null
 100 route 54, Louisville, KY: null
 100 south area near the facility, Louisville, KY:
   lat: 38.1891926
@@ -4646,6 +4650,7 @@
 1100 Bicknell Ave, Louisville, KY:
   lat: 38.183382
   lng: -85.780251
+1100 Blackthorn Rd, Louisville, KY: null
 1100 Blade Way, Louisville, KY:
   lat: 38.0921913
   lng: -85.5689234
@@ -10392,6 +10397,7 @@
 1500 home use, Louisville, KY: null
 1500 mile marker near South 6th Street and W Market St, Louisville, KY: null
 1500 pickup truck, Louisville, KY: null
+1500 responding, Louisville, KY: null
 1500 single cab Chevy, Louisville, KY: null
 1500 the 1000 block of Ash St, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
@@ -29048,6 +29054,7 @@
 400 Lewis Coleman Junior Drive, Louisville, KY: null
 400 Lewis Coleman, Juniper Dr, cross with Markwood and Herman, Louisville, KY: null
 400 Lewis Colvin Jr, Louisville, KY: null
+400 Lewis-Clemen, Jr, Louisville, KY: null
 400 Libby Ln, Louisville, KY:
   lat: 38.1123052
   lng: -85.8518082
@@ -34599,6 +34606,7 @@
 500 East Liberty, Louisville, KY:
   lat: 38.251015
   lng: -85.744424
+500 East Madison, UofL Hospital ER, Louisville, KY: null
 500 East Market, Louisville, KY:
   lat: 38.253612
   lng: -85.742705
@@ -42950,6 +42958,7 @@
 700 South Second Street near West Jacob and York, Louisville, KY: null
 700 South Second Street, Louisville, KY: null
 700 South Seconds, Louisville, KY: null
+700 South Side, Crasher's, West Jacob and York, Louisville, KY: null
 700 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
