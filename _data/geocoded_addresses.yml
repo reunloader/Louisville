@@ -7109,6 +7109,7 @@
   lng: -85.529676
 12000 Park D Trice Drive, Louisville, KY: null
 12000 Park2 Trace, Louisville, KY: null
+12000 Parkside Vista Ln, Cascade Falls Trail, Louisville, KY: null
 12000 Parkside Vista Ln, with visible damage. A BOLO was issued, Louisville, KY: null
 12000 Plantsides Rav, Louisville, KY: null
 ? 12000 Plantsides Rav. Initial reports suggested the possibility of smoke and flames,
@@ -15174,6 +15175,9 @@
   lat: 38.253072
   lng: -85.738158
 200 S W Spring St, Louisville, KY: null
+200 S near National, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 200 Saganbush near Fannam Creek, Louisville, KY: null
 200 Sale Ave, Louisville, KY:
   lat: 38.1977542
@@ -28835,6 +28839,7 @@
   smoke showing from all sides. The alarm panel was reportedly reset, and the situation
   was being assessed., Louisville, KY
 : null
+400 Huntington Park Dr, Louisville, KY: null
 400 Huntington Park, Louisville, KY: null
 400 I 64 East, Louisville, KY: null
 400 I 64 East., Louisville, KY: null
@@ -46552,6 +46557,9 @@
 8400 Fairmount Rd, Louisville, KY:
   lat: 38.1125951
   lng: -85.5575935
+8400 Ferndale Rd, Louisville, KY:
+  lat: 38.155643
+  lng: -85.604704
 ? 8400 Fieldcrest Ct due to a significant water leak. Reports indicated that water
   was flowing from a hydrant and causing flooding in the street., Louisville, KY
 : null
