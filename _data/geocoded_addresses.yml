@@ -7699,6 +7699,9 @@
   they returned to service., Louisville, KY
 : null
 1300 Homeview Dr due, Louisville, KY: null
+1300 Homeview Dr, Louisville, KY:
+  lat: 38.2086446
+  lng: -85.7812199
 1300 Houston and East Oak, Louisville, KY: null
 1300 Howard St, Louisville, KY:
   lat: 38.1870925
@@ -17622,6 +17625,9 @@
   lat: 38.2390037
   lng: -85.7885013
 2100 Osage Ave, with cross streets of 22nd and Dr, Louisville, KY: null
+2100 Patterson Ave, Louisville, KY:
+  lat: 38.238142
+  lng: -85.717478
 2100 Payne St at Sacred Heart Village, number 105, in response, Louisville, KY:
   lat: 38.252398
   lng: -85.707627
@@ -27106,6 +27112,7 @@
 3700 S W Wheatmore Dr, Louisville, KY: null
 3700 Seventh Street Rene Road, Louisville, KY: null
 3700 Sheehan Landing, Louisville, KY: null
+3700 Sonoma Ln, Woodbridge Meadows, Louisville, KY: null
 3700 Sourwood Ct, Louisville, KY:
   lat: 38.214216
   lng: -85.629305
