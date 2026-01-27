@@ -139,6 +139,9 @@
 03 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
+04 Craycraft Ave, Louisville, KY:
+  lat: 38.2008249
+  lng: -85.6477863
 04 Garrow Ave, Louisville, KY:
   lat: 38.1401735
   lng: -85.6952887
@@ -18967,6 +18970,7 @@
 2300 Payne St, Louisville, KY:
   lat: 38.251984
   lng: -85.7028108
+2300 Peaslee Rd, Louisville, KY: null
 2300 Pee Wee Reef, Louisville, KY: null
 2300 Phoenix Hill Dr. EMS arrived quickly to assist, providing necessary care, Louisville, KY:
   lat: 38.2859608
@@ -20305,6 +20309,9 @@
   reached the location within minutes to provide medical attention., Louisville, KY
 : null
 2600 Conklin Parkway, Louisville, KY: null
+2600 Craycraft Ave, Louisville, KY:
+  lat: 38.2002903
+  lng: -85.6481517
 2600 Crums Ln, Louisville, KY:
   lat: 38.1991874
   lng: -85.8371074
@@ -21293,6 +21300,9 @@
   lat: 38.214152
   lng: -85.657089
 2800 Dimmel Avenue, Louisville, KY: null
+2800 Dixie Hwy, Louisville, KY:
+  lat: 38.1127713
+  lng: -85.8629441
 2800 E-mail Avenue, Louisville, KY: null
 2800 East Kingston, Louisville, KY: null
 2800 Eddy St, Louisville, KY:
@@ -42675,6 +42685,7 @@
 700 S Jackson St, Louisville, KY:
   lat: 38.243285
   lng: -85.74602
+700 S Jackson St, Sheppard Square, Louisville, KY: null
 700 S Preston St and American Kidney Center, Louisville, KY: null
 700 S Preston St at CrossFit Center in East Broadway, Louisville, KY:
   lat: 38.244129

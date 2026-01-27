@@ -98399,4 +98399,20 @@ history:
   batch_success_rate: 66.67
   batch_new_addresses: 9
   batch_new_successes: 6
-last_updated: '2026-01-27T18:59:34.622613'
+- timestamp: '2026-01-27T19:21:06.020008'
+  total_addresses: 23031
+  successful: 11815
+  failed: 11216
+  success_rate: 51.3
+  failure_rate: 48.7
+  failure_patterns:
+    Intersection format: 2388
+    Contains location qualifiers (near/at): 2801
+    Incomplete/vague address: 3088
+    Other/Unknown: 2381
+    Contains extra sentences/context: 542
+    Police phonetic codes: 16
+  batch_success_rate: 60.0
+  batch_new_addresses: 5
+  batch_new_successes: 3
+last_updated: '2026-01-27T19:21:06.020150'
