@@ -17410,6 +17410,9 @@
   lat: 38.2983417
   lng: -85.5413774
 206 Hi View Ln, Louisville, KY: null
+21 Ballard St, Louisville, KY:
+  lat: 38.2507416
+  lng: -85.7350586
 21 Bells Ln, Louisville, KY:
   lat: 38.2216443
   lng: -85.8164349
@@ -17864,6 +17867,7 @@
 2100 South Parkway, Louisville, KY:
   lat: 38.1910775
   lng: -85.6049197
+2100 South Preston and Zanzibar, Louisville, KY: null
 2100 South Third Street, Louisville, KY: null
 2100 South3rd Street. They encountered a fire close, Louisville, KY:
   lat: 38.219192
@@ -20881,6 +20885,7 @@
   lng: -85.6973656
 2700 Butler Rd, Cross Street Burrell Drive and Addison Ln, Louisville, KY: null
 2700 Butler Rd, Louisville, KY: null
+2700 Cannons Ln, Norton Transport, Louisville, KY: null
 2700 Carling Ct, Louisville, KY:
   lat: 38.081925
   lng: -85.8640965
@@ -22059,6 +22064,9 @@
 2900 Pomeroy Dr, Louisville, KY:
   lat: 38.199453
   lng: -85.635417
+2900 Portland Ave, Louisville, KY:
+  lat: 38.272581
+  lng: -85.794454
 2900 Preston Hwy, Louisville, KY:
   lat: 38.208222
   lng: -85.738509
@@ -28570,6 +28578,9 @@
 400 David at Second and Warranty, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
+400 David near 2100 block of South Preston, Louisville, KY:
+  lat: 38.2155106
+  lng: -85.7457745
 400 David near Marquette Avenue, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
@@ -33829,6 +33840,7 @@
   lng: -85.5802943
 4800 Outer Loop (Longhorn Steakhouse), Louisville, KY: null
 4800 Outer Loop Mall, Louisville, KY: null
+4800 Outer Loop and U of L, Louisville, KY: null
 4800 Outer Loop at Chesterton Mall, Louisville, KY:
   lat: 38.1376893
   lng: -85.6734119
