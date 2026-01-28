@@ -15199,6 +15199,9 @@
 200 Poplar Level Rd. Both vehicles involved were reported, Louisville, KY:
   lat: 38.1581079
   lng: -85.646379
+200 Poplar Level, Louisville, KY:
+  lat: 38.1645538
+  lng: -85.6785688
 200 Poplovo Road, Louisville, KY: null
 200 Poplovo Road. Emergency personnel were dispatched, Louisville, KY: null
 200 Portland Ave near 23rd and Carter, Louisville, KY:
@@ -29775,6 +29778,7 @@
 400 South Fifth, Louisville, KY: null
 400 South First Barn Parkway, Agustado's Mexican Grill, Louisville, KY: null
 400 South First Street, Metro London Center, Louisville, KY: null
+400 South Forge Street, Louisville, KY: null
 400 South Fork Street, Louisville, KY: null
 400 South H Street, Louisville, KY: null
 400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
@@ -35972,6 +35976,9 @@
   lng: -85.7864009
 51 an unspecified street, Louisville, KY: null
 5100 Acapulco Way, Louisville, KY: null
+5100 Airfreight Dr near Poplar Level Rd, Louisville, KY:
+  lat: 38.1862764
+  lng: -85.7463412
 5100 Antle Dr at Goodwill, Louisville, KY:
   lat: 38.0879159
   lng: -85.6702489
@@ -39504,6 +39511,7 @@
   lat: 38.246252
   lng: -85.761882
 600 West Brockway, Louisville, KY: null
+600 West Chess, Louisville, KY: null
 600 West Chestnut, Louisville, KY:
   lat: 38.249246
   lng: -85.761357
@@ -45190,6 +45198,9 @@
 7900 Blue Bonnet, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a, Louisville, KY: null
 7900 Breitlinger Park Place 3:00 a.m., Louisville, KY: null
+7900 Bridlevista Rd, Louisville, KY:
+  lat: 38.1451498
+  lng: -85.6514901
 7900 Cannon-Narrow-Way, Louisville, KY: null
 7900 Chisholm Trailway, Louisville, KY: null
 7900 Creston, Louisville, KY:
