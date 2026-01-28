@@ -6388,6 +6388,7 @@
 1200 Gagel Ave near Family Dollar, Louisville, KY:
   lat: 38.1729158
   lng: -85.8107396
+1200 Gallant Fox Run Rd, Louisville, KY: null
 1200 Garden Creek Cir, Louisville, KY:
   lat: 38.261867
   lng: -85.558696
@@ -25323,6 +25324,7 @@
 3300 Bardstown Rd near the brown suburban hotel, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
+3300 Bardstown Rd, Brown Suburban Hotel, Louisville, KY: null
 3300 Bardstown Rd, Louisville, KY:
   lat: 38.2076242
   lng: -85.6693366
@@ -36852,6 +36854,7 @@
 5300 Rolling Rock Ct, Louisville, KY:
   lat: 38.3212349
   lng: -85.5556022
+5300 Rolling Rock Ct, unit 202, Louisville, KY: null
 5300 Rollingwood Trail, Louisville, KY:
   lat: 38.155333
   lng: -85.772475
@@ -49014,6 +49017,9 @@
 9000 Hirschborn Club Lane, Louisville, KY: null
 9000 Hurstbourne Club Ln, Crop St of Linden Ln, Louisville, KY: null
 9000 Hurstbourne Club Ln, Louisville, KY: null
+9000 John Paul Ct, Louisville, KY:
+  lat: 38.1172637
+  lng: -85.6361778
 9000 King Run Road, Louisville, KY: null
 9000 Lake Ave, Louisville, KY:
   lat: 38.2669978
