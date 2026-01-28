@@ -3629,6 +3629,9 @@
 1000 Taylorsville Rd. The details surrounding the reason, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
+1000 Tennessee Ave near Utah Ave and Fairview Ave, Louisville, KY:
+  lat: 38.210382
+  lng: -85.774372
 1000 Tennessee Ave, Louisville, KY:
   lat: 38.210382
   lng: -85.774372
@@ -25518,6 +25521,7 @@
 3300 Oleanda Ave, Louisville, KY:
   lat: 38.203589
   lng: -85.7853
+3300 Oleander near South Gate and Weyler Ave, Louisville, KY: null
 3300 Outer Loop near Briarcliff Rd and Pine Crip Drive, Louisville, KY:
   lat: 38.136604
   lng: -85.702172
@@ -28877,6 +28881,7 @@
 400 East Everston near Jackson and Preston, Louisville, KY: null
 400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
 400 East Great Lawn, Louisville, KY: null
+400 East Jeff near South Jackson and South Preston, Louisville, KY: null
 400 East Jeff, Louisville, KY: null
 400 East Jeff, across Jackson and Preston, Louisville, KY: null
 400 East Jeff. The situation was taken seriously, and assistance was provided, Louisville, KY: null
@@ -35381,6 +35386,7 @@
   lat: 38.2498099
   lng: -85.7475716
 500 South Service Street, Louisville, KY: null
+500 South Third Street near Q3 and West Muhammad Ali, Louisville, KY: null
 500 South Third Street, Louisville, KY: null
 500 South West Point Parkway, Louisville, KY: null
 500 South and 1300 block of Dixie Hwy, Louisville, KY: null
@@ -51922,6 +51928,7 @@ University Blvd and Arthur Avenue, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 University Rd and Cleveland Blvd, Louisville, KY: null
 Utah Ave and Euclid Ave, Louisville, KY: null
+Utah Ave and Fairview Ave, Louisville, KY: null
 Utah Ave and Montana Ave, Louisville, KY: null
 Valley College Dr and Stone St, Louisville, KY: null
 Valley College Dr and Stonestreet Rd, Louisville, KY: null
