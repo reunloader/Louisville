@@ -8597,6 +8597,9 @@
 14 Colorado Ave, Louisville, KY:
   lat: 38.2122679
   lng: -85.7762454
+14 Creel Ave, Louisville, KY:
+  lat: 38.2129883
+  lng: -85.7687203
 14 Estate Dr, Louisville, KY:
   lat: 38.1728605
   lng: -85.8052468
@@ -13168,6 +13171,9 @@
   lng: -85.6284189
 1900 Evergreen Rd, cross of Nall Ave and Valley View Rd, Louisville, KY: null
 1900 Farnsley Lane near Chase Rd and Dixie Hwy, Louisville, KY: null
+1900 Farnsley Rd near Janel and Dixie, Louisville, KY:
+  lat: 38.2012566
+  lng: -85.8114268
 1900 Farnsley Rd, Louisville, KY:
   lat: 38.2012566
   lng: -85.8114268
@@ -13730,6 +13736,9 @@
 200 Allentree Pl, Louisville, KY:
   lat: 38.0987519
   lng: -85.6542203
+200 Alvina Way near Southside Dr and Gerber Ave, Louisville, KY:
+  lat: 38.1492286
+  lng: -85.7675862
 200 Alvina Way, Louisville, KY:
   lat: 38.1492286
   lng: -85.7675862
@@ -35555,6 +35564,9 @@
 500 W Kingston Ave, Louisville, KY:
   lat: 38.1728488
   lng: -85.7658685
+500 W Liberty St near Armory Pl South, Louisville, KY:
+  lat: 38.253265
+  lng: -85.759729
 500 W Liberty St, Louisville, KY:
   lat: 38.253265
   lng: -85.759729
@@ -51513,6 +51525,7 @@ North Height Avenue and Cleveland Blvd, Louisville, KY: null
 North Hersborn Parkway and Westport Rd, Louisville, KY: null
 North Hirsborne Parkway and Shelbyville Rd, Louisville, KY: null
 North Horsborne Parkway and Westport Rd, Louisville, KY: null
+North Hyde Ave and Mount Holly Ave, Louisville, KY: null
 North Ln and Fernwood Ave, Louisville, KY: null
 North Ln and Staebler Ave, Louisville, KY: null
 Northbound Drive and Welman Dr, Louisville, KY: null
@@ -51838,6 +51851,7 @@ Southern Pky and West Edelman Avenue, Louisville, KY: null
 Southern Pky and Wetstein Ave, Louisville, KY: null
 Southland Blvd and Southside Dr, Louisville, KY: null
 Southside Dr and Evangeline Ave, Louisville, KY: null
+Southside Dr and Gerber Ave, Louisville, KY: null
 Southside Dr and New Cut Rd, Louisville, KY: null
 Southside Dr and Strawberry Ln, Louisville, KY: null
 Speedway Crusher Park Road and Ligaray Avenue, Louisville, KY: null
