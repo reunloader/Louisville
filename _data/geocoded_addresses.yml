@@ -6903,6 +6903,7 @@
   lat: 38.2345868
   lng: -85.7573175
 1200 South32nd Street and nearby areas, Louisville, KY: null
+1200 South38 near Progress Market, Louisville, KY: null
 1200 South3rd St, Louisville, KY:
   lat: 38.234755
   lng: -85.758791
@@ -27161,6 +27162,10 @@
 3700 Dixie Hwy near Speedway, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+3700 Downing Way across Sunder Ave and Hikes Ln, Louisville, KY: null
+3700 Downing Way near Logan St, Louisville, KY:
+  lat: 38.2021882
+  lng: -85.6542403
 3700 Downing Way, Louisville, KY:
   lat: 38.2021882
   lng: -85.6542403
@@ -39588,6 +39593,9 @@
 600 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
+600 Weyler Ave near Algonquin Pky and South 6th Street, Louisville, KY:
+  lat: 38.2035961
+  lng: -85.7855934
 600 Weymuth Pl, Louisville, KY:
   lat: 38.2388402
   lng: -85.4177414
@@ -51782,6 +51790,7 @@ Summit Plaza Dr and Park Plaza Ave, Louisville, KY: null
 Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
 Sun Ray Dr and Twilight Dr, Louisville, KY: null
 Sun Valley Dr and Indian Austin Town Rd, Louisville, KY: null
+Sunder Ave and Hikes Ln, Louisville, KY: null
 Swan St and Lampton St, Louisville, KY: null
 Sweeney Ln and Carrington Greene Dr, Louisville, KY: null
 Sycamore Ave and Frankfort Ave, Louisville, KY: null
