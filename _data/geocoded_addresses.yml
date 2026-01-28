@@ -21097,6 +21097,8 @@
 2700 Pikes Peak Blvd, Louisville, KY:
   lat: 38.1661875
   lng: -85.8083629
+2700 Pioneer Rd at the cross of Weigel Rd and Farnsley Rd, Louisville, KY: null
+2700 Pioneer Rd, Louisville, KY: null
 2700 Portland Ave, Louisville, KY:
   lat: 38.2717512
   lng: -85.7923909
@@ -31159,6 +31161,9 @@
   lat: 38.1725368
   lng: -85.8664289
 4100 Taylor Blvd near Dairy Queen, Louisville, KY:
+  lat: 38.1827265
+  lng: -85.7842243
+4100 Taylor Blvd near Lehigh Ave and W Woodlawn Ave, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
 4100 Taylor Blvd, Louisville, KY:
@@ -51925,6 +51930,7 @@ Wayside Dr and Oxford Avenue, Louisville, KY: null
 Webster St and Catharine Street, Louisville, KY: null
 Webster St and Catharines Street, Louisville, KY: null
 Weddington Parkway and South Hurstborn Parkway, Louisville, KY: null
+Weigel Rd and Farnsley Rd, Louisville, KY: null
 Weissinger Rd and Langdon Dr, Louisville, KY: null
 Wessel Rd and Burnley Rd, Louisville, KY: null
 West Bank Avenue and Webster St, Louisville, KY: null
