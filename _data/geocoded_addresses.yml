@@ -15498,6 +15498,9 @@
 200 South at the 22, Louisville, KY: null
 200 South due, Louisville, KY: null
 200 South just north of Old Henry, Louisville, KY: null
+200 South near 36, Louisville, KY:
+  lat: 38.2526488
+  lng: -85.6981124
 200 South near 64 West, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -33524,6 +33527,7 @@
   in the care of those present., Louisville, KY
 : null
 4700 Hunter's Dupont Cir, Louisville, KY: null
+4700 John Law Ct, Crest Street, Louisville, KY: null
 4700 Kerrick Ln, Louisville, KY:
   lat: 38.1538871
   lng: -85.8382103
