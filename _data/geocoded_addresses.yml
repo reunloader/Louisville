@@ -7624,6 +7624,8 @@
 1300 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+1300 Cromwell Caleb and 4700 block of Valla Rd, Louisville, KY: null
+1300 Cromwell Caleb, Louisville, KY: null
 1300 Cypress St, Louisville, KY:
   lat: 38.236412
   lng: -85.797861
@@ -33773,6 +33775,9 @@
 4700 Strawberry at Vestler's, Louisville, KY:
   lat: 38.1808994
   lng: -85.7550522
+4700 Valla Rd, Louisville, KY:
+  lat: 38.1754469
+  lng: -85.6888031
 4700 Valley Station Rd, Louisville, KY:
   lat: 38.105447
   lng: -85.8458937
@@ -43532,6 +43537,7 @@
 : null
 700 both Eli Dr and an adjacent street, Louisville, KY: null
 700 both streets, Louisville, KY: null
+700 lane to3-H drive, Louisville, KY: null
 700 magazine, Louisville, KY:
   lat: 38.248125
   lng: -85.763242
