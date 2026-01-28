@@ -1792,6 +1792,7 @@
 100 South Arbor Park, Louisville, KY:
   lat: 38.162258
   lng: -85.765003
+100 South Brooks, Louisville, KY: null
 100 South Canterbury's Golden Dr, Louisville, KY: null
 100 South East Street who was experiencing stomach problems. Police units were available, Louisville, KY: null
 100 South First Street, Louisville, KY: null
@@ -5688,6 +5689,9 @@
   lng: -85.8522426
 11300 Boulds Forbes, Louisville, KY: null
 11300 Decimal Drop Road, Louisville, KY: null
+11300 Halifax Dr, Louisville, KY:
+  lat: 38.3102043
+  lng: -85.5378508
 11300 Main St, Louisville, KY:
   lat: 38.2570952
   lng: -85.7609073
@@ -19624,6 +19628,7 @@
 2400 McKendree Court, Louisville, KY:
   lat: 38.2484299
   lng: -85.7932797
+2400 McKendrick Court, Louisville, KY: null
 2400 Mellwood Ave in response, Louisville, KY: null
 2400 Mellwood Ave near Highwood Dr and Lake Ave, Louisville, KY:
   lat: 38.2676236
@@ -35527,6 +35532,9 @@
 500 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+500 West Alley near Louisville Gardens, Louisville, KY:
+  lat: 38.2521662
+  lng: -85.7602265
 500 West Alley, Louisville, KY: null
 500 West Ashland, Louisville, KY:
   lat: 38.1852168
