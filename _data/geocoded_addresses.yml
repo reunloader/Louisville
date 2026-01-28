@@ -12227,6 +12227,9 @@
   lat: 38.19707
   lng: -85.6275703
 1700 west W Gaulbert Ave, Louisville, KY: null
+17000 Bowline View Trail, Louisville, KY:
+  lat: 38.2661137
+  lng: -85.4359884
 17000 Green Crest Ln near Glen Lakes Dr and Rockcrest Way, Louisville, KY:
   lat: 38.243501
   lng: -85.451286
@@ -38744,6 +38747,7 @@
 600 Haldeman Ave, Louisville, KY:
   lat: 38.2549563
   lng: -85.7131512
+600 Harris Pl, Louisville, KY: null
 600 Harrison Ave, Louisville, KY:
   lat: 38.2111922
   lng: -85.7467823
@@ -44537,6 +44541,9 @@
 7400 Mormon near Farnsley Historic Home, Louisville, KY: null
 7400 Mormon, Louisville, KY: null
 7400 Old Mill Rd, Louisville, KY: null
+7400 Old North Church Rd, Louisville, KY:
+  lat: 38.1424093
+  lng: -85.764145
 7400 Our Way, Louisville, KY:
   lat: 38.121122
   lng: -85.4401389
