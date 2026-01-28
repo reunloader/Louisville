@@ -6646,6 +6646,9 @@
   lng: -85.6688172
 1200 Ritz Lane near Schooler Ave and Dunwoody Ct, Louisville, KY: null
 1200 Roofer, Louisville, KY: null
+1200 Royal Ave, Louisville, KY:
+  lat: 38.225048
+  lng: -85.724465
 1200 S Brook St near East Orangeview Avenue and E W Oak St, Louisville, KY:
   lat: 38.2343
   lng: -85.753799
@@ -35406,6 +35409,9 @@
 500 West Ashland, Louisville, KY:
   lat: 38.1852168
   lng: -85.7691521
+500 West Broadway near 6th and 5th Streets, Louisville, KY:
+  lat: 38.245851
+  lng: -85.7605615
 500 West Broadway, Louisville, KY:
   lat: 38.245851
   lng: -85.7605615
@@ -36950,6 +36956,9 @@
   lat: 38.150748
   lng: -85.770867
 5400 Yale Post Road, Louisville, KY: null
+5400 Yankee Ln, Louisville, KY:
+  lat: 38.151078
+  lng: -85.659623
 5400 Ye Old Post Rd, Louisville, KY:
   lat: 38.151731
   lng: -85.659588
@@ -45407,6 +45416,7 @@
 800 Dresden Ave, Louisville, KY:
   lat: 38.1974105
   lng: -85.7728148
+800 Dubanil Street near W, Louisville, KY: null
 800 E Gray St and 1700 block of Cowling Ave, Louisville, KY: null
 800 E Gray St, Louisville, KY:
   lat: 38.245743
