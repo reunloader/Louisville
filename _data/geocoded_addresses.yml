@@ -16609,6 +16609,7 @@
   were involved in monitoring or responding, Louisville, KY
 : null
 200 southbound. Responding units checked on the vehicle, which appeared, Louisville, KY: null
+200 streets, prompting fire units, Louisville, KY: null
 200 the 65 split, Louisville, KY: null
 200 the I-200 block of Ramp. The reason, Louisville, KY: null
 ? 200 the Pop-a-Level Road exit ramp. This activity was initially noted as a potential
@@ -18777,6 +18778,9 @@
 2200 block of South3rd Street has suffered a stroke and is unable, Louisville, KY: null
 2200 block, reported experiencing air and respiratory distress. Medical Echo 1100 block of were dispatched, Louisville, KY: null
 2200 hours. Units are patrolling the area, Louisville, KY: null
+2220 Fenley Ave, Louisville, KY:
+  lat: 38.2564292
+  lng: -85.6723688
 2225 unknown street, Louisville, KY: null
 227 Browns Lane, Louisville, KY:
   lat: 38.2332318
@@ -46001,6 +46005,9 @@
   lng: -85.7203622
 800 Radio Lane, Louisville, KY: null
 800 Ransum Dr, Louisville, KY: null
+800 Reading Rd., 1400 block of W Jefferson St., and several addresses, Louisville, KY:
+  lat: 38.2113827
+  lng: -85.7402012
 800 Riedley Ct, Louisville, KY:
   lat: 38.2020181
   lng: -85.8286747
