@@ -11541,6 +11541,9 @@
 1700 Cloverbrook Dr, Louisville, KY:
   lat: 38.188038
   lng: -85.792831
+1700 Conn St, Louisville, KY:
+  lat: 38.19584
+  lng: -85.793555
 1700 Cowling Ave and Bowling, Louisville, KY: null
 1700 Cowling Ave, Louisville, KY:
   lat: 38.231231
@@ -28307,6 +28310,9 @@
 3900 Taylor, Louisville, KY:
   lat: 38.1880343
   lng: -85.7836579
+3900 Taylorsville Rd at Dallas Center, Louisville, KY:
+  lat: 38.2200933
+  lng: -85.6309937
 ? 3900 Taylorsville Rd following the activation of a commercial alarm at a local business.
   The alarm system reported both a rear motion detector and a signal indicating forced
   entry at the front door. Responding officers investigated the premises, Louisville,
@@ -49346,6 +49352,9 @@
   lat: 38.1174315
   lng: -85.6779117
 9200 Rainbow Springs Ct, Louisville, KY: null
+9200 S Preston St, Louisville, KY:
+  lat: 38.2296475
+  lng: -85.7502292
 9200 South Preston, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
@@ -51140,6 +51149,7 @@ Greenville Street and Third Street, Louisville, KY: null
 Greenwood Ave and Osage Ave, Louisville, KY: null
 Greenwood Rd and Aron Rd, Louisville, KY: null
 Greenwood Rd and Columbine Dr, Louisville, KY: null
+Greenwood Rd and Daffodil Dr, Louisville, KY: null
 Greenwood Rd and Daisy Ave, Louisville, KY: null
 Greenwood Rd and Kentucky Ave, Louisville, KY: null
 Greenwood Rd and Lucille Ave, Louisville, KY: null
