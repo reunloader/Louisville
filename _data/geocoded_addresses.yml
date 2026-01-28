@@ -10439,6 +10439,9 @@
 15000 English Park Cir, Louisville, KY:
   lat: 38.2242842
   lng: -85.4953906
+15000 Galston Blvd near John Adams Way and Link Way, Louisville, KY:
+  lat: 38.064934
+  lng: -85.89379
 15000 South 15th Street, Louisville, KY:
   lat: 38.2345873
   lng: -85.7787008
@@ -27164,6 +27167,9 @@
 3700 Grand Ave, Louisville, KY:
   lat: 38.242153
   lng: -85.815612
+3700 Greenstone Core near Bartlett Rd, Louisville, KY:
+  lat: 38.1955514
+  lng: -85.6274095
 3700 Hawk and Creston Dr, Louisville, KY: null
 3700 Hillsdale Rd, Louisville, KY:
   lat: 38.3063205
@@ -47288,6 +47294,9 @@
 8700 Glenfield Way, Louisville, KY:
   lat: 38.3003818
   lng: -85.589526
+8700 Hickory Ct, Louisville, KY:
+  lat: 38.3100816
+  lng: -85.5499707
 8700 Highview Dr, Louisville, KY:
   lat: 38.1414982
   lng: -85.6249975
