@@ -1674,6 +1674,7 @@
 100 S Shelby St, Louisville, KY:
   lat: 38.254461
   lng: -85.737913
+100 S W Spring St, Louisville, KY: null
 100 Sam Dr, Louisville, KY:
   lat: 38.141126
   lng: -85.765606
@@ -38903,6 +38904,9 @@
   and the caller was waiting on-site, Louisville, KY
 : null
 600 Mix Ave, Louisville, KY:
+  lat: 38.221921
+  lng: -85.77027
+600 Mix, Louisville, KY:
   lat: 38.221921
   lng: -85.77027
 600 Montana Ave near 6th Street, Louisville, KY:
