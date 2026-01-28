@@ -31111,6 +31111,7 @@
   lng: -85.6860409
 4100 Peabody and Carey, Louisville, KY: null
 4100 Phantom Creek Rd near Butte Bank, Louisville, KY: null
+4100 Phantom Creek Rd near Cross-street Visual Bank, Louisville, KY: null
 4100 Phantom Creek Rd, Louisville, KY: null
 4100 Phantom Creek Rd,, Louisville, KY: null
 4100 Phantom Creek Rd. Officers were requested, Louisville, KY: null
@@ -33875,6 +33876,9 @@
 ? 4700 W W Southern Heights Ave. Responding units were dispatched to the location
   to assess and manage the situation., Louisville, KY
 : null
+4700 Walnut Grove, Louisville, KY:
+  lat: 38.1733683
+  lng: -85.821426
 4715 Preston Hwy, Louisville, KY:
   lat: 38.1794727
   lng: -85.7176764
@@ -34840,6 +34844,7 @@
 500 E W Jacob St, Louisville, KY:
   lat: 38.2444725
   lng: -85.7544415
+500 E W Kentucky St (around 5:39 p.m.), 17 E W Breckinridge St (around 5:42 p.m.), and 77 Stoke, Louisville, KY: null
 500 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -36463,6 +36468,9 @@
 5200 Dixie Hwy, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
+5200 Dorsey Ln at Maryhurst, Louisville, KY:
+  lat: 38.2499121
+  lng: -85.5614561
 5200 Douglas Park, Louisville, KY:
   lat: 38.1784089
   lng: -85.7605676
@@ -44678,6 +44686,7 @@
 7400 Winstead Dr, Louisville, KY:
   lat: 38.1328579
   lng: -85.8950217
+7400 Woodreed Pl, Louisville, KY: null
 ? 7400 block of South43rd Street. The situation involved a vehicle that was reported
   as a 2000 block of Ford F-150, black in color, with an occupant known to be armed
   with a Smith & Wesson 9mm. The responding units were advised to keep the area monitored
@@ -47717,6 +47726,9 @@
 8800 Sanctuary Ln, Louisville, KY:
   lat: 38.122357
   lng: -85.577885
+8800 Shelbyville Rd, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 ? 8800 Smirno Parkway, involving an unconscious and non-breathing patient at the crash
   site. Responders arrived quickly, Louisville, KY
 : null
