@@ -1621,6 +1621,7 @@
 100 River Rd, Louisville, KY:
   lat: 38.2750509
   lng: -85.7028488
+100 River Rd, waterfront development, Louisville, KY: null
 100 Road South, Louisville, KY:
   lat: 38.085463
   lng: -85.719764
@@ -7278,6 +7279,9 @@
 12400 Hiawatha Ave, Louisville, KY:
   lat: 38.2661428
   lng: -85.5241549
+12400 La Grange Rd, Louisville, KY:
+  lat: 38.289509
+  lng: -85.512131
 12400 LaGrange Road, Louisville, KY:
   lat: 38.288619
   lng: -85.513507
@@ -21776,6 +21780,9 @@
 2800 Virginia Ave, Louisville, KY:
   lat: 38.238038
   lng: -85.800461
+2800 W Chestnut St, Louisville, KY:
+  lat: 38.2531795
+  lng: -85.7977918
 ? 2800 W Kentucky St. EMS and police units responded promptly to assess the youth’s
   condition. The individual was evaluated and transported, Louisville, KY
 : lat: 38.243538
