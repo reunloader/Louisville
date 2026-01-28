@@ -4945,6 +4945,9 @@
   lat: 38.1551305
   lng: -85.5665179
 1100 Jefferson Trace Blvd, indicating that someone was attempting, Louisville, KY: null
+1100 Johnsontown Rd, Louisville, KY:
+  lat: 38.1164249
+  lng: -85.8946089
 ? 1100 King Arthur Ln to evaluate an 80-year-old male suspected of having a stroke.
   The medical response was subsequently canceled., Louisville, KY
 : null
@@ -40773,6 +40776,7 @@
   lat: 38.1158773
   lng: -85.8855122
 6400 Judgeman's Parkway, Louisville, KY: null
+6400 L Orange Dr, Louisville, KY: null
 6400 Ladd Ave, Louisville, KY:
   lat: 38.1915206
   lng: -85.8577272
