@@ -15337,6 +15337,9 @@
 200 South 23rd Street, Louisville, KY:
   lat: 38.258731
   lng: -85.789011
+200 South 2nd Street, Louisville, KY:
+  lat: 38.16364
+  lng: -85.7672387
 200 South 31st Street, Louisville, KY:
   lat: 38.2475613
   lng: -85.8037969
@@ -26045,6 +26048,9 @@
   lat: 38.2496303
   lng: -85.8087791
 3400 West Hill area, Louisville, KY: null
+3400 West Muhammad Ali, Louisville, KY:
+  lat: 38.2520932
+  lng: -85.7662128
 3400 West Virginia, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
