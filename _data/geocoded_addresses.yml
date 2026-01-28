@@ -11511,6 +11511,9 @@
 1700 David. Units arrived, Louisville, KY:
   lat: 38.2155106
   lng: -85.7457745
+1700 Deerwood Ave, Louisville, KY:
+  lat: 38.2259873
+  lng: -85.7104751
 1700 Diminil, Louisville, KY: null
 ? 1700 Diminil. Responding officers spoke with a woman who was outside at the location
   and reported hearing nothing unusual. Police units investigated the area, Louisville,
@@ -13715,6 +13718,9 @@
   lat: 38.1412684
   lng: -85.7716218
 200 Baker, around 7:43 p, Louisville, KY: null
+200 Baker. Officers responded, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 ? 200 Baker. The person was described as potentially carrying a weapon and having
   a history of suicidal threats. Police units were dispatched, Louisville, KY
 : lat: 38.1412684
@@ -26122,6 +26128,7 @@
 3500 Charmane Dr, Louisville, KY:
   lat: 38.1412532
   lng: -85.6626633
+3500 Cherian Dr, Louisville, KY: null
 3500 Coholla Road, Louisville, KY: null
 3500 Colmar Dr near South 36th Street and Roseville Avenue, Louisville, KY:
   lat: 38.2354695
@@ -31241,6 +31248,7 @@
 4200 Breckenridge, Louisville, KY:
   lat: 38.1872603
   lng: -85.6266798
+4200 Brown Flank, Louisville, KY: null
 4200 Brown's Lane, Louisville, KY: null
 4200 Browns Ln near Global East Post, Louisville, KY:
   lat: 38.2212774
@@ -32577,6 +32585,9 @@
 45 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+45 Catalpa St, Louisville, KY:
+  lat: 38.2350659
+  lng: -85.8018737
 45 Chevy Chase Rd, Louisville, KY:
   lat: 38.1988695
   lng: -85.6531399
