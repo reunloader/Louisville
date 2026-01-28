@@ -22873,6 +22873,7 @@
 300 Lentz Ave, Louisville, KY:
   lat: 38.1922412
   lng: -85.7859322
+300 Limba, Louisville, KY: null
 300 Limewood Cir, Louisville, KY:
   lat: 38.2928899
   lng: -85.6333594
@@ -24815,6 +24816,9 @@
   lat: 38.1223783
   lng: -85.6844039
 3200 Elaine Giraffe, Louisville, KY: null
+3200 Elba Dr, Louisville, KY:
+  lat: 38.2016241
+  lng: -85.6753273
 3200 Ellis Way [Morning], Louisville, KY: null
 ? 3200 Ellis Way following a report of a known injury. The incident involved an unknown
   vehicle. Medical personnel are on scene to provide care. The circumstances leading
@@ -41410,6 +41414,7 @@
 6800 John Paul Ln, Louisville, KY:
   lat: 38.1171985
   lng: -85.6397107
+6800 KC Place, Louisville, KY: null
 6800 Landstar Dr, Louisville, KY:
   lat: 38.0657814
   lng: -85.8860131
@@ -46663,6 +46668,9 @@
 8200 Sunlight Ln crossing Papercourt, Louisville, KY: null
 8200 Sutherland Farm Rd, Louisville, KY: null
 8200 Terra V-Trail, Louisville, KY: null
+8200 Virginia Rd, Louisville, KY:
+  lat: 38.133126
+  lng: -85.857882
 8200 West Mill Road, Louisville, KY: null
 8200 Whipsnull Road, Louisville, KY: null
 8200 Willow Grove Ct, Louisville, KY:
@@ -48525,6 +48533,9 @@
 900 Vine, Louisville, KY:
   lat: 38.239276
   lng: -85.732806
+900 Virginia Rd, Louisville, KY:
+  lat: 38.1318626
+  lng: -85.8576525
 900 W Breckinridge St at the New Leaf Clinic, Louisville, KY:
   lat: 38.2428122
   lng: -85.7665892
