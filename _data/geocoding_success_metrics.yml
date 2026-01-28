@@ -99215,4 +99215,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 1
   batch_new_successes: 1
-last_updated: '2026-01-28T14:06:00.818243'
+- timestamp: '2026-01-28T14:31:27.274341'
+  total_addresses: 23174
+  successful: 11893
+  failed: 11281
+  success_rate: 51.32
+  failure_rate: 48.68
+  failure_patterns:
+    Intersection format: 2401
+    Contains location qualifiers (near/at): 2810
+    Incomplete/vague address: 3116
+    Other/Unknown: 2395
+    Contains extra sentences/context: 543
+    Police phonetic codes: 16
+  batch_success_rate: 100.0
+  batch_new_addresses: 1
+  batch_new_successes: 1
+last_updated: '2026-01-28T14:31:27.274495'
