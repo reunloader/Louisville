@@ -16014,6 +16014,9 @@
   lat: 38.2000005
   lng: -85.7636078
 200 West near mile marker 3.8, Louisville, KY: null
+200 West near ramp, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near the 11, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
@@ -17981,6 +17984,7 @@
   lat: 38.2518042
   lng: -85.786227
 2100 West D Street, Louisville, KY: null
+2100 West Galbert, Louisville, KY: null
 2100 West Lee, Louisville, KY:
   lat: 38.2269883
   lng: -85.7938013
@@ -23129,6 +23133,7 @@
 300 Ridgedale Rd, Louisville, KY:
   lat: 38.259099
   lng: -85.696636
+300 Ring Rd, Crushes or Fox Run Rd, Garrow Ct, Louisville, KY: null
 300 Robert X-Ray Mary near Eastern Parkway, Louisville, KY:
   lat: 38.2296512
   lng: -85.7136668
@@ -25428,6 +25433,8 @@
 3300 Palmer Ln near Belmont Rd and Sumner Rd, Louisville, KY:
   lat: 38.2062856
   lng: -85.6700765
+3300 Paul Ave, 1200 block of Royal Ave, Beverly County, Louisville, KY: null
+3300 Paul Ave, a residential alarm at 1200 block of Royal Ave, and a fire watch at a property, Louisville, KY: null
 3300 Portage8 Place, Louisville, KY: null
 ? 3300 Portage8 Place, near Vendetta Way, to assist EMS with a lock-in situation.
   Reports indicated a resident at a nearby address was unable to provide a key, and
@@ -35488,6 +35495,9 @@
 5000 Belmont, Louisville, KY:
   lat: 38.1391652
   lng: -85.849572
+5000 Billtown Rd, Louisville, KY:
+  lat: 38.1723296
+  lng: -85.5729888
 5000 Bruce Ave, Louisville, KY:
   lat: 38.145655
   lng: -85.7815212
@@ -40731,6 +40741,9 @@
 6500 Ladd Ave, Louisville, KY:
   lat: 38.1907335
   lng: -85.8616317
+6500 Leisure Ln, Louisville, KY:
+  lat: 38.101728
+  lng: -85.64163
 6500 Lover's Lane, Louisville, KY: null
 6500 Lucerne Ave, Louisville, KY:
   lat: 38.192871
@@ -42136,6 +42149,9 @@
 700 Commerce Center Pl, Louisville, KY:
   lat: 38.22168
   lng: -85.8113458
+700 Compton St, Louisville, KY:
+  lat: 38.2137387
+  lng: -85.7693365
 700 Creel Ave, Louisville, KY:
   lat: 38.2128685
   lng: -85.769496
