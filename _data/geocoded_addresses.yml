@@ -14764,6 +14764,7 @@
 200 Megan Thompson Way, Louisville, KY: null
 200 Megan Thompson Way. Officers were dispatched to address the noise complaint and assess the situation., Louisville, KY: null
 200 Megan Thompson Way. Officers were dispatched, Louisville, KY: null
+200 Merge Circle, Louisville, KY: null
 ? 200 Mervin Avenue regarding an individual experiencing a mental health crisis who
   was also complaining of a medical issue., Louisville, KY
 : null
@@ -15114,6 +15115,7 @@
   lat: 38.2720074
   lng: -85.4958216
 200 Old Shelbyville Rd, Louisville, KY: null
+200 Old Squad Hill Rd, Louisville, KY: null
 200 Olde English Ct, Louisville, KY:
   lat: 38.1157978
   lng: -85.8113074
@@ -22775,6 +22777,7 @@
   lat: 38.1606275
   lng: -85.8389367
 300 Florence Kentucky, Nora, Louisville, KY: null
+300 Ford Run, Louisville, KY: null
 300 Fox Haven Rd, Louisville, KY:
   lat: 38.0973881
   lng: -85.6478347
@@ -35497,6 +35500,7 @@
 500 [Street Name Redacted], Louisville, KY:
   lat: 38.2504753
   lng: -85.7237738
+500 and 326, Louisville, KY: null
 500 barn road, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
@@ -36992,6 +36996,9 @@
   lng: -85.6589193
 542018 Speed Ave, Louisville, KY: null
 548 Big D and Drive, Louisville, KY: null
+55 Barn Rd, Louisville, KY:
+  lat: 38.132939
+  lng: -85.5948852
 55 Brookview Dr, Louisville, KY:
   lat: 38.1510439
   lng: -85.8174691
@@ -41433,6 +41440,9 @@
 6800 Homestead, Louisville, KY:
   lat: 38.15641
   lng: -85.7668094
+6800 James Madison Way, Louisville, KY:
+  lat: 38.0652434
+  lng: -85.8902249
 6800 John Paul Ln, Louisville, KY:
   lat: 38.1171985
   lng: -85.6397107
@@ -50900,6 +50910,7 @@ Hill Rd and Cross Rd, Louisville, KY:
   lat: 38.2474029
   lng: -85.6985145
 Hill Rd and Grandview Dr, Louisville, KY: null
+Hill Ridge Rd and Wilderness Rd, Louisville, KY: null
 Hillcrest Ave and Zorn Ave, Louisville, KY: null
 Hillside Dr and Rockford Ln, Louisville, KY: null
 Hillview Ave and Delores Ave, Louisville, KY: null
