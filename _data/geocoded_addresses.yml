@@ -19382,6 +19382,9 @@
 24 Adventure Rd, Louisville, KY:
   lat: 38.2036422
   lng: -85.8345758
+24 Brownsboro Rd, Louisville, KY:
+  lat: 38.2657861
+  lng: -85.6566621
 24 Greenwood Ave, Louisville, KY:
   lat: 38.2411234
   lng: -85.7886759
@@ -34258,6 +34261,9 @@
   lat: 38.1601786
   lng: -85.6794729
 4900 Hardy Park Drive, Louisville, KY: null
+4900 Hazelwood Ave, Louisville, KY:
+  lat: 38.173024
+  lng: -85.794452
 4900 Heathmoore Ct, Louisville, KY: null
 4900 High Card Drive, Louisville, KY: null
 4900 Hyde Park Dr, Louisville, KY:
@@ -48800,6 +48806,7 @@
 900 Texas Ave, Louisville, KY:
   lat: 38.2176271
   lng: -85.7417015
+900 U of L area, Louisville, KY: null
 900 Ulrich Ave, Louisville, KY:
   lat: 38.1580798
   lng: -85.7071991
