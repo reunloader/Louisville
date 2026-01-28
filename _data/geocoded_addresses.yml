@@ -1617,6 +1617,7 @@
 100 River Rd near Joe's Crab Shack, Louisville, KY:
   lat: 38.2750509
   lng: -85.7028488
+100 River Rd, Austin Building, Louisville, KY: null
 100 River Rd, Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Louisville, KY:
   lat: 38.2750509
@@ -22266,6 +22267,7 @@
   at the scene., Louisville, KY
 : null
 2900 Thistlewood Dr. The vehicle, a red truck, was observed, Louisville, KY: null
+2900 Tom Will Pass, Louisville, KY: null
 2900 Valley Rd, Louisville, KY:
   lat: 38.2287999
   lng: -85.7212004
@@ -39381,8 +39383,12 @@
 600 South29th St, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
+600 South29th Street and Greenwood Ave, Louisville, KY: null
 600 South29th Street, Crest Street 7 Magazine in West Chestnut, Louisville, KY: null
 600 South29th Street, Louisville, KY:
+  lat: 38.252119
+  lng: -85.7996
+600 South29th Street. Units attempted, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
 600 South29th, Louisville, KY:
