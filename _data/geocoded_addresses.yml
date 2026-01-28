@@ -16454,6 +16454,7 @@
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
   lng: -85.6410214
+200 eastbound Stony Brook Dr, Louisville, KY: null
 200 eastbound and South25 near Franklin, Louisville, KY:
   lat: 38.1737608
   lng: -85.8378429
@@ -32748,9 +32749,13 @@
 4500 Bishop Ln at Flex Space, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+4500 Bishop Ln at Master Supply, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 4500 Bishop Ln near Brant Heating and Cooling, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+4500 Bishop Ln, Louisville, KY: null
 4500 Bishop Ln, with no signs of break-in or damage, Louisville, KY: null
 4500 Broadleaf Dr, Louisville, KY: null
 ? 4500 Broadleaf Drive following a report of a medical emergency. A 66-year-old male
@@ -35965,6 +35970,9 @@
 5000 Spirit Avenue, Louisville, KY: null
 5000 Step and Drive and 3100 block of River Rd, Louisville, KY: null
 5000 Step and Drive, and, Louisville, KY: null
+5000 Stony Brook Dr, Louisville, KY:
+  lat: 38.1752587
+  lng: -85.5997909
 5000 Tolkien Ct early this morning. The call was, Louisville, KY: null
 5000 Tolkien Ct, Louisville, KY:
   lat: 38.110382
