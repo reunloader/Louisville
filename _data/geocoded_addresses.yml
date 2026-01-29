@@ -117,6 +117,9 @@
 01 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
+02 Apex Dr, Louisville, KY:
+  lat: 38.1347772
+  lng: -85.6464028
 02 Farmingham Rd, Louisville, KY: null
 02 Kenhurst Dr, Louisville, KY:
   lat: 38.1385374
@@ -9710,6 +9713,7 @@
 15 Churchman Ave, Louisville, KY:
   lat: 38.1829126
   lng: -85.7922834
+15 Client Side Drive, Louisville, KY: null
 15 Collins Ln, Louisville, KY:
   lat: 38.2892011
   lng: -85.5152696
@@ -50248,6 +50252,7 @@
   lat: 38.2205383
   lng: -85.762938
 9600 Starmont Rd, Louisville, KY: null
+9600 Sue Helen Dr, Louisville, KY: null
 9600 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
