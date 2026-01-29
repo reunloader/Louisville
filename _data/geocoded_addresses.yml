@@ -6615,6 +6615,9 @@
   lng: -85.780845
 1200 Manitow Lane, Louisville, KY: null
 1200 Manitow, Louisville, KY: null
+1200 Marietta, Louisville, KY:
+  lat: 38.1422897
+  lng: -85.8945928
 1200 Market, Louisville, KY:
   lat: 38.256622
   lng: -85.770176
@@ -30322,6 +30325,9 @@
 400 Trace and Race Rd, Louisville, KY: null
 400 Tri Razor, Louisville, KY: null
 400 Trinity Hills Ln, Louisville, KY: null
+400 Union, Louisville, KY:
+  lat: 38.1988737
+  lng: -85.7311805
 400 University Blvd, Louisville, KY:
   lat: 38.214119
   lng: -85.751109
