@@ -737,6 +737,7 @@
 100 E Jefferson St, Louisville, KY:
   lat: 38.2528794
   lng: -85.7515837
+100 E Main St inside the Humana building, Louisville, KY: null
 100 E Main St, Louisville, KY:
   lat: 38.2577199
   lng: -85.7580289
@@ -36133,6 +36134,9 @@
   lat: 38.137712
   lng: -85.666729
 5000 Pearson Ct, Louisville, KY: null
+5000 Preston Hwy at Circle K, Louisville, KY:
+  lat: 38.1751421
+  lng: -85.7138531
 5000 Preston Hwy, Louisville, KY:
   lat: 38.1751421
   lng: -85.7138531
@@ -40782,6 +40786,7 @@
   it before police arrived. Officers responded, Louisville, KY
 : null
 6300 Commerce Park Ct for a lift assist. This was a non-emergency medical situation., Louisville, KY: null
+6300 Commerce Park Ct near Old New Cut Rd and Commerce Park Dr, Louisville, KY: null
 6300 Commerce Park Ct, Louisville, KY: null
 6300 Commerce Park Ct, Sweet 217, near Old New Cut Rd and Commerce Park Dr, Louisville, KY: null
 ? 6300 Commerce Park Ct. The specific nature of the disturbance was not detailed in
