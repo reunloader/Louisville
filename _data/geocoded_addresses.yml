@@ -441,6 +441,9 @@
   Dr. These movements suggest routine patrols and clearance, Louisville, KY
 : null
 100 Banker, Louisville, KY: null
+100 Beaver St near K-1 Road, Louisville, KY:
+  lat: 38.185675
+  lng: -85.7821746
 100 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -41517,6 +41520,7 @@
 6600 Shenandoah Dr, Louisville, KY:
   lat: 38.3113177
   lng: -85.5486489
+6600 Skyler Ridge, Louisville, KY: null
 6600 Skyline Dr, Louisville, KY:
   lat: 38.1124129
   lng: -85.8825448
