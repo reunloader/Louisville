@@ -9925,6 +9925,9 @@
   lng: -85.808617
 1500 Dignal Avenue, Louisville, KY: null
 1500 Dixie Hwy across from San Jose Ave, Louisville, KY: null
+1500 Dixie Hwy near Thorntons, Cole Ave, and W Hill St, Louisville, KY:
+  lat: 38.227527
+  lng: -85.790903
 1500 Dixie Hwy, Louisville, KY:
   lat: 38.227527
   lng: -85.790903
@@ -10709,6 +10712,7 @@
 1600 Bluegrass Ave, Louisville, KY:
   lat: 38.179522
   lng: -85.791728
+1600 Boulder Ct from Annie Alley, Louisville, KY: null
 1600 Boulder Ct, Louisville, KY:
   lat: 38.2901548
   lng: -85.653129
@@ -17732,6 +17736,9 @@
 2100 Griffiths Ave, Louisville, KY:
   lat: 38.2635474
   lng: -85.7836466
+2100 H Street near 22nd and Dr, Louisville, KY:
+  lat: 38.2273785
+  lng: -85.659039
 2100 Hale Ave by blocking vehicles and behaving rudely. Police arrived, Louisville, KY: null
 2100 Hale Ave near South 22nd and Hodge, Louisville, KY:
   lat: 38.2380544
@@ -20230,6 +20237,9 @@
   lng: -85.6383436
 2500 Savings Avia Street, Louisville, KY: null
 2500 Schillerville Road, Louisville, KY: null
+2500 Seneca Dr near Valletta Rd, Louisville, KY:
+  lat: 38.2242584
+  lng: -85.6762871
 2500 Six Mile Ln, Louisville, KY:
   lat: 38.1987182
   lng: -85.6042955
