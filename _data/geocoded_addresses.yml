@@ -4751,6 +4751,9 @@
 : null
 1100 Carabao Way. Paramedics responded to provide assistance, Louisville, KY: null
 1100 Caribou, Louisville, KY: null
+1100 Carlisle Ave, Louisville, KY:
+  lat: 38.1941004
+  lng: -85.7796976
 1100 Cecil, Louisville, KY:
   lat: 38.2422062
   lng: -85.8218092
@@ -40983,6 +40986,9 @@
 6300 Mount Everest Dr, Louisville, KY:
   lat: 38.1635493
   lng: -85.8544906
+6300 Nigel Dr, Louisville, KY:
+  lat: 38.1641921
+  lng: -85.8528752
 6300 Outer Loop, Louisville, KY:
   lat: 38.1371055
   lng: -85.6457202
