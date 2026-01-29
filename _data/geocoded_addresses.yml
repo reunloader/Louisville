@@ -50536,6 +50536,9 @@
 9900 Harvest Dr, Louisville, KY:
   lat: 38.1698085
   lng: -85.8629033
+9900 Indian Falls Dr, Louisville, KY:
+  lat: 38.10593
+  lng: -85.660685
 9900 LaGrange Road near Circle K, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
@@ -51156,6 +51159,7 @@ Evans St and Catharine St, Louisville, KY: null
 Evergreen Rd and Ridge Rd, Louisville, KY: null
 Ewing Ave and Brinkford Road, Louisville, KY: null
 Explorer Dr and Fox Ave, Louisville, KY: null
+Expressway Ave and Bellevue Ave, Louisville, KY: null
 Factory Ln and Chamberlain Ln, Louisville, KY: null
 Factory Ln and La Grange Rd, Louisville, KY: null
 Factory Ln and Nelson Miller Pky, Louisville, KY: null
