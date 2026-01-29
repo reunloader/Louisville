@@ -17750,6 +17750,9 @@
 2100 Crums Ln. The license plate was unreadable. Police units were dispatched, Louisville, KY:
   lat: 38.198204
   lng: -85.8349572
+2100 Dahlia Ave, Louisville, KY:
+  lat: 38.213346
+  lng: -85.678232
 2100 Date St, Louisville, KY:
   lat: 38.2427142
   lng: -85.78782
@@ -49276,6 +49279,7 @@
 9000 Crowne Springs Cir, Louisville, KY:
   lat: 38.3102949
   lng: -85.582164
+9000 Dixie Hwy and Emerald TISL, Louisville, KY: null
 9000 Dixie Hwy at Baggy City Furniture, Louisville, KY:
   lat: 38.1250336
   lng: -85.852618
