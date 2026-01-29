@@ -12334,6 +12334,9 @@
 ? 1700 Wilson Ave, an area bordered by Baldwin and South 17th Street. Medical personnel
   assessed and treated the individual., Louisville, KY
 : null
+1700 [Street Name], Louisville, KY:
+  lat: 38.2246773
+  lng: -85.7776073
 1700 and 1705, Louisville, KY:
   lat: 38.2662697
   lng: -85.7240125
@@ -14804,6 +14807,7 @@
 200 Garland Ave. This incident appears, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+200 Gatehouse Ln, Louisville, KY: null
 200 Gene Snyder, Louisville, KY:
   lat: 38.1154735
   lng: -85.704578
@@ -36975,6 +36979,9 @@
 5200 Wainwright Ave, Louisville, KY:
   lat: 38.2127452
   lng: -85.749325
+5200 Woodhill Ln near Rockwood and Monaco, Louisville, KY:
+  lat: 38.1442688
+  lng: -85.6645344
 5200 Woodhill Ln, Louisville, KY:
   lat: 38.1442688
   lng: -85.6645344
@@ -39744,6 +39751,7 @@
 600 South Fourth Street, Louisville, KY: null
 600 South Hirschbaum Parkway, Louisville, KY: null
 600 South Hirshbaum Parkway near Corner Steakhouse and Stone Creek Pky, Louisville, KY: null
+600 South Horsborne Parkway, near Stone Creek and West X, Louisville, KY: null
 600 South Point Seven, Louisville, KY: null
 600 South Shelby, Louisville, KY:
   lat: 38.246802
