@@ -25902,6 +25902,7 @@
 33600 Garland Ave, Louisville, KY:
   lat: 38.2472111
   lng: -85.8243903
+337 the Family Dollar, Louisville, KY: null
 34 Lincote Drive, Louisville, KY: null
 34 Mellwood Ave, Louisville, KY:
   lat: 38.2579018
@@ -39927,6 +39928,9 @@
 600 West Muhammad near Gene Center Federal Courthouse, Louisville, KY:
   lat: 38.251433
   lng: -85.760971
+600 West Oak, Louisville, KY:
+  lat: 38.235252
+  lng: -85.763814
 600 West Oak, likely false or caused by malfunctioning equipment, Louisville, KY: null
 600 West Orange B, Louisville, KY: null
 600 West Sherman Ranch Bridge, Louisville, KY: null
@@ -42382,6 +42386,9 @@
 6900 Stardust, Louisville, KY:
   lat: 38.0671918
   lng: -85.8888331
+6900 Steeplecrest Cir, Louisville, KY:
+  lat: 38.2411039
+  lng: -85.6173933
 6900 Sun Kiss, Louisville, KY: null
 6900 Sunset Ave, Louisville, KY:
   lat: 38.2424539
@@ -44008,6 +44015,9 @@
 7000 Meadow Ridge Dr, Louisville, KY:
   lat: 38.1883265
   lng: -85.6222753
+7000 Memory Ln, Louisville, KY:
+  lat: 38.1508664
+  lng: -85.87278
 7000 Mill Race Rd, Louisville, KY: null
 7000 Montana Ave, Louisville, KY:
   lat: 38.2093892
