@@ -14142,6 +14142,9 @@
   lat: 38.226901
   lng: -85.7579424
 200 E W Chestnut St and Croft area, Louisville, KY: null
+200 E W Chestnut St near Norton Children Hospital, Louisville, KY:
+  lat: 38.2491911
+  lng: -85.7601224
 200 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
@@ -34134,6 +34137,7 @@
   lng: -85.781311
 4800 Newcomb Road northbound lanes, Louisville, KY: null
 4800 No, Louisville, KY: null
+4800 Northern Hillscote Boulevard, Louisville, KY: null
 4800 Norton Healthcare Blvd, Louisville, KY:
   lat: 38.312493
   lng: -85.572565
