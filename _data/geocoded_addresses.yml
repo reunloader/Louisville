@@ -6353,6 +6353,9 @@
   KY
 : lat: 38.2437332
   lng: -85.7296723
+1200 East Indian Trail near 9th and 22nd Streets, Louisville, KY:
+  lat: 38.1687876
+  lng: -85.7060513
 1200 East Kentucky, Louisville, KY:
   lat: 38.2437703
   lng: -85.7296726
@@ -7138,6 +7141,9 @@
 1200 West Kentucky. Police units were actively searching, Louisville, KY:
   lat: 38.2272814
   lng: -85.7757137
+1200 West Oak, Louisville, KY:
+  lat: 38.2359727
+  lng: -85.7738197
 1200 West Russell Street or Creston12th Street Connector, Louisville, KY: null
 1200 West at Newberg and 200 block of West at Newberg, Louisville, KY:
   lat: 38.2542376
@@ -18915,6 +18921,7 @@
 2300 Austinwood Rd, Louisville, KY:
   lat: 38.1479729
   lng: -85.79683
+2300 Avenue, Louisville, KY: null
 2300 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
