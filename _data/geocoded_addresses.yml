@@ -30127,6 +30127,9 @@
   lat: 38.2540801
   lng: -85.7673115
 400 South10th Street, with zones 0 and 10 triggered, Louisville, KY: null
+400 South16th Street, Louisville, KY:
+  lat: 38.25457
+  lng: -85.777223
 400 South19th Street, Louisville, KY:
   lat: 38.2558018
   lng: -85.7822009
@@ -45783,6 +45786,7 @@
 800 Adams, Louisville, KY:
   lat: 38.2592106
   lng: -85.7264871
+800 Afton Rd, Louisville, KY: null
 800 Alberta Dr, Louisville, KY: null
 800 Arson5 and 800 block of Arson9, Louisville, KY: null
 800 Ash St near Mchenry St and S Shelby St, Louisville, KY:
@@ -52068,6 +52072,7 @@ Shelbyville Rd and Brown Ave, Louisville, KY: null
 Shelbyville Rd and Burnsdale Rd, Louisville, KY: null
 Shelbyville Rd and Dorset Rd, Louisville, KY: null
 Shelbyville Rd and Dorsey Ln, Louisville, KY: null
+Shelbyville Rd and English St, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
 Shelbyville Rd and Linden Ln, Louisville, KY: null
