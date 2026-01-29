@@ -14735,6 +14735,9 @@
   lng: -85.6350403
 200 Grassland Dr, Louisville, KY: null
 200 Greenhaven Dr, Louisville, KY: null
+200 Greenwood, Louisville, KY:
+  lat: 38.1472922
+  lng: -85.8960755
 200 Grey Ledge Cir, Louisville, KY:
   lat: 38.2404635
   lng: -85.4888803
@@ -15300,6 +15303,9 @@
   lat: 38.1581079
   lng: -85.646379
 200 Poplar Level, Louisville, KY:
+  lat: 38.1645538
+  lng: -85.6785688
+200 Poplar and Jefferson, Louisville, KY:
   lat: 38.1645538
   lng: -85.6785688
 200 Poplovo Road, Louisville, KY: null
@@ -29112,6 +29118,7 @@
 400 East River Senate Wayside, Louisville, KY: null
 400 East Shepherd Street, Louisville, KY: null
 400 East South, Louisville, KY: null
+400 East South16th Street, Louisville, KY: null
 400 East Valley in building C, Louisville, KY: null
 400 East Valley, Oscar Manor, Building D, Crop St, South Jackson, and South Preston, Louisville, KY: null
 400 East W Chestnut St, Louisville, KY: null
@@ -34452,6 +34459,7 @@
 4900 Poplar Level Rd. It was later determined, Louisville, KY:
   lat: 38.1712092
   lng: -85.6850961
+4900 Poplar River Road. No further details, Louisville, KY: null
 4900 Poplova Rd, Louisville, KY: null
 4900 Princeton Ave, Louisville, KY:
   lat: 38.148864
@@ -42472,6 +42480,9 @@
 700 Camden Ave, Louisville, KY:
   lat: 38.1927749
   lng: -85.7712615
+700 Camp Edwards Way, Louisville, KY:
+  lat: 38.242954
+  lng: -85.742845
 700 Carnation Dr, Louisville, KY:
   lat: 38.1393644
   lng: -85.8610486
