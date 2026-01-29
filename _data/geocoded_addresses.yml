@@ -6936,6 +6936,9 @@
   lat: 38.233888
   lng: -85.7496363
 1200 South Second Street, Louisville, KY: null
+1200 South Shelby, Louisville, KY:
+  lat: 38.2332794
+  lng: -85.7418048
 1200 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
@@ -15866,6 +15869,9 @@
 200 Virginia, Louisville, KY:
   lat: 38.2408965
   lng: -85.816811
+200 W Amherst Ave, Louisville, KY:
+  lat: 38.1742342
+  lng: -85.766485
 200 W Breckinridge St, Louisville, KY:
   lat: 38.241468
   lng: -85.755972
@@ -22296,6 +22302,7 @@
 2900 Harrison Ave, Louisville, KY:
   lat: 38.212227
   lng: -85.7266027
+2900 Heights Lane, Louisville, KY: null
 2900 I 64 West near Cross Meadows Cir, Louisville, KY: null
 2900 Klondike Ln, Crop St, Louisville, KY: null
 2900 Kozy Kreek Dr, Louisville, KY:
@@ -36414,6 +36421,9 @@
   lat: 38.1747464
   lng: -85.7108456
 5100 Crescent Highway, Louisville, KY: null
+5100 Cynthia Dr, Louisville, KY:
+  lat: 38.1730379
+  lng: -85.5747348
 5100 Delaware Dr, Louisville, KY:
   lat: 38.1882116
   lng: -85.6642732
