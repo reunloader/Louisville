@@ -3575,6 +3575,9 @@
 1000 South2nd Street, Baptist Towers, Louisville, KY: null
 1000 South2nd Street, Louisville, KY: null
 1000 South38 Street, Louisville, KY: null
+1000 South38th Street near Peachtree Ave and Bluegrass Ave, Louisville, KY:
+  lat: 38.243625
+  lng: -85.816295
 1000 South38th Street, Louisville, KY:
   lat: 38.243625
   lng: -85.816295
@@ -14154,6 +14157,7 @@
 200 E W Kentucky St near Reid Ave, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
+200 E W Kentucky St, Cornerstone Apartments, Louisville, KY: null
 200 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
@@ -18944,6 +18948,9 @@
   lng: -85.6699563
 2300 Brighton Dr, Cross Street Lane, Wainwright Ave, and Lucille Ave, Globe House Apartments, Louisville, KY: null
 2300 Brixton Rd, Louisville, KY: null
+2300 Brownsboro Rd near McDonald's, Louisville, KY:
+  lat: 38.2580757
+  lng: -85.7032683
 2300 Brownsboro Rd, Louisville, KY:
   lat: 38.2580757
   lng: -85.7032683
@@ -19995,6 +20002,9 @@
   lng: -85.7749371
 2500 Bang, Louisville, KY: null
 2500 Bank St near 25th and 26th Streets, Louisville, KY:
+  lat: 38.26839
+  lng: -85.788647
+2500 Bank St near North 25th and North 26th Streets, Louisville, KY:
   lat: 38.26839
   lng: -85.788647
 2500 Bank St, 60600 block of Parcel Pl, and Jefferson Blvd, Louisville, KY: null
@@ -33974,6 +33984,9 @@
 4800 Bardstown Rd, Louisville, KY:
   lat: 38.1779416
   lng: -85.6220904
+4800 Bellevue Ave near Peachtree Ave and Bluegrass Ave, Louisville, KY:
+  lat: 38.179243
+  lng: -85.775308
 4800 Bellevue Ave, Louisville, KY:
   lat: 38.179243
   lng: -85.775308
@@ -41599,6 +41612,9 @@
   lat: 38.059685
   lng: -85.8894115
 6700 Senski Lane, Louisville, KY: null
+6700 Strawberry Ln near Thalia Ave and Estele Ave, Louisville, KY:
+  lat: 38.1596246
+  lng: -85.763096
 6700 Strawberry Ln, Clark St, Thalia Ave, and Estele Ave, Louisville, KY: null
 6700 Strawberry Ln, Louisville, KY:
   lat: 38.1596246
@@ -46340,6 +46356,9 @@
 800 South33rd Street, Louisville, KY:
   lat: 38.2478147
   lng: -85.8076164
+800 South36th Street near Garland Ave and Doernalper Avenue, Louisville, KY:
+  lat: 38.2479228
+  lng: -85.8111376
 800 South36th Street, Louisville, KY:
   lat: 38.2479228
   lng: -85.8111376
@@ -51206,6 +51225,7 @@ Gardiner Ln and Bargetown Road, Louisville, KY: null
 Gardiner Ln and Bishop Ln, Louisville, KY: null
 Garland Ave and Cecil Ave, Louisville, KY: null
 Garland Ave and Doerhoefer Ave, Louisville, KY: null
+Garland Ave and Doernalper Avenue, Louisville, KY: null
 Garland Ave and Hound Street, Louisville, KY: null
 Garland Ave and Howard St, Louisville, KY: null
 Garrison Rd and Lee Ave, Louisville, KY: null
@@ -51732,6 +51752,7 @@ Peach Meadow Dr and Maple Ln, Louisville, KY: null
 Peach St and Cypress St, Louisville, KY: null
 Peach St and Southern Ave, Louisville, KY: null
 Peach St and Westwood Dr, Louisville, KY: null
+Peachtree Ave and Bluegrass Ave, Louisville, KY: null
 Peachtree Ave and Warren Ave, Louisville, KY: null
 Peachtree Ave and Westwood Ave, Louisville, KY: null
 Pee Wee Reese Rd and Cherokee Gardens Rd, Louisville, KY: null
@@ -52138,6 +52159,7 @@ Texas Ave and Charles St, Louisville, KY: null
 Texas Ave and Hickory St, Louisville, KY: null
 Texas Ave and Milton St, Louisville, KY: null
 Th St Rene Rd and Hawthorne Pointe Dr, Louisville, KY: null
+Thalia Ave and Estele Ave, Louisville, KY: null
 Thickston Lane and Independence School Rd, Louisville, KY: null
 Third Street and Central Ave, Louisville, KY: null
 Thomas Ave and Garland Ave, Louisville, KY: null
