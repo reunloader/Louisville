@@ -14929,6 +14929,9 @@
 200 National Turnpike near Gray City, Louisville, KY:
   lat: 38.1463758
   lng: -85.7585377
+200 National Turnpike, Louisville, KY:
+  lat: 38.1463758
+  lng: -85.7585377
 200 New Bourne Road, Louisville, KY: null
 200 New Cud, Louisville, KY: null
 200 New Cut near South, Louisville, KY:
@@ -22581,6 +22584,7 @@
 300 Axis Dr, Louisville, KY:
   lat: 38.251678
   lng: -85.722307
+300 Baker (possible same location), Louisville, KY: null
 300 Baker Aly ROAD, Louisville, KY: null
 ? 300 Baker Aly ROAD, noted to be in the "green acres" area. The specific circumstances
   prompting the check were not detailed. Police units responded to investigate., Louisville,
@@ -36378,6 +36382,9 @@
 5100 Keegan Way, Louisville, KY:
   lat: 38.1728993
   lng: -85.5739001
+5100 Kendall Rd, Louisville, KY:
+  lat: 38.115605
+  lng: -85.857893
 5100 King Run Road, Louisville, KY: null
 5100 Laughlin Ave, Louisville, KY:
   lat: 38.1637396
