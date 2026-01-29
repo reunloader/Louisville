@@ -13848,6 +13848,9 @@
 200 Alvina Way, Louisville, KY:
   lat: 38.1492286
   lng: -85.7675862
+200 Amy Ave near Robin Rd, Louisville, KY:
+  lat: 38.261491
+  lng: -85.813215
 200 Amy Ave, Louisville, KY:
   lat: 38.261491
   lng: -85.813215
@@ -15134,6 +15137,7 @@
 200 North I-65 ramp, Louisville, KY: null
 200 North I-70 near the 14 mile marker, Louisville, KY: null
 200 North NDA from a vehicle, Louisville, KY: null
+200 North Smyrna Parkway, Louisville, KY: null
 200 North Summer Parkway, Louisville, KY: null
 200 North Tadwick Road. Investigators are looking into whether this incident may be connected, Louisville, KY: null
 200 North Westport Road, Louisville, KY: null
@@ -33875,6 +33879,7 @@
   lng: -85.7679452
 4700 Carat Plain, Louisville, KY: null
 4700 Carat Plain., Louisville, KY: null
+4700 Carat, Louisville, KY: null
 4700 Carrack, Louisville, KY: null
 4700 Carrick Lane, Louisville, KY: null
 4700 Clare Ln, Louisville, KY:
