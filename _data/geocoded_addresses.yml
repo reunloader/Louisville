@@ -976,6 +976,9 @@
   lng: -85.7980734
 100 Graveyard, Louisville, KY: null
 100 Greatsville Manor and Parkway, Louisville, KY: null
+100 Green Oak, Louisville, KY:
+  lat: 38.1735405
+  lng: -85.8811241
 100 Grey Ledge Cir, Louisville, KY:
   lat: 38.2399508
   lng: -85.4881965
@@ -22238,6 +22241,7 @@
 2900 Del Park Terrace, Louisville, KY:
   lat: 38.2527847
   lng: -85.8045015
+2900 Delcourt, Louisville, KY: null
 2900 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -36875,6 +36879,7 @@
 5200 Stony Brook Dr, Louisville, KY:
   lat: 38.1724302
   lng: -85.6030143
+5200 Such Court, Louisville, KY: null
 5200 Tamerlane Rd, Louisville, KY:
   lat: 38.287555
   lng: -85.654016
