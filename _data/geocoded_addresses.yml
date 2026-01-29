@@ -205,6 +205,9 @@
   lng: -85.8545813
 08 Hanzas Drive, Louisville, KY: null
 08 Heel Side Drive, Louisville, KY: null
+08 Maravian Dr, Louisville, KY:
+  lat: 38.1629494
+  lng: -85.8731692
 08 Twin Hill Rd, Louisville, KY: null
 08 Whirl Avenue, Louisville, KY: null
 09 Freeport Dr, Louisville, KY:
@@ -10087,6 +10090,9 @@
   lat: 38.2118409
   lng: -85.7836025
 1500 I65 South at Veterans Dr and 3rd 3Rd Street Rd, Louisville, KY: null
+1500 Knight Rd, Louisville, KY:
+  lat: 38.1743464
+  lng: -85.7982059
 1500 Ladle3, Louisville, KY: null
 1500 Leamington Spa Dr, Louisville, KY:
   lat: 38.1691395
@@ -39018,6 +39024,7 @@
 600 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
+600 Evans St, W St Catherine St, Louisville, KY: null
 600 Fern Crest Rd, Louisville, KY:
   lat: 38.1543846
   lng: -85.6118433
@@ -43874,6 +43881,7 @@
 700 West Railway, Louisville, KY: null
 700 West Thornsby, Louisville, KY: null
 700 West Thornsee, no leak or fire was confirmed. Crews remained on scene, Louisville, KY: null
+700 West Wormsby, Louisville, KY: null
 700 West of Arms, Louisville, KY: null
 700 Westport Rd and Stonehurst Dr, Louisville, KY: null
 700 Westport Rd, Louisville, KY:
