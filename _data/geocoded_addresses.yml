@@ -10582,6 +10582,9 @@
 1520 South 4th Street, Louisville, KY:
   lat: 38.2250912
   lng: -85.7621722
+15200 Abington Ridge Pl, Louisville, KY:
+  lat: 38.271746
+  lng: -85.4838801
 15200 Beckley Springs Drop near N Beckley Station Rd, Louisville, KY:
   lat: 38.2609353
   lng: -85.4768886
@@ -12348,6 +12351,7 @@
 17500 Outer Loop, Louisville, KY:
   lat: 38.1356381
   lng: -85.7163358
+17500 Shakespeare Creek, Louisville, KY: null
 17500 Stallion Way, Louisville, KY:
   lat: 38.2721699
   lng: -85.4380326
@@ -15287,6 +15291,9 @@
   lng: -85.8113074
 200 Olde English Ct, suggesting that a domestic dispute might be escalating, Louisville, KY: null
 200 Or219, Louisville, KY: null
+200 Osage Ave near South 26th and South 25th Street, Louisville, KY:
+  lat: 38.2394252
+  lng: -85.791036
 200 Outer Loop, Louisville, KY:
   lat: 38.1272584
   lng: -85.7520033
@@ -50930,6 +50937,7 @@ Beckley Crossing Dr and Lake Forest Dr, Louisville, KY: null
 Beckley Station Rd and Aiken Rd, Louisville, KY: null
 Beckley Station Rd and Beckley Crossing Dr, Louisville, KY: null
 Beckley Woods Dr and Westport Rd, Louisville, KY: null
+Beechbrook Rd and Norbrook Dr, Louisville, KY: null
 Beelow Church Road and Barthes Town Road, Louisville, KY: null
 Beeston Blvd and Betsy Ross Dr, Louisville, KY: null
 Bella Road and Poplova Road, Louisville, KY: null
