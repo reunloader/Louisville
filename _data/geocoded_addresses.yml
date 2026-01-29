@@ -7214,6 +7214,9 @@
 1200 Westhill Cir, building 4,, Louisville, KY: null
 1200 Westmoorland Way, Louisville, KY: null
 1200 Westmoorland Way. Responders were dispatched, Louisville, KY: null
+1200 Whitehall Terrace, Louisville, KY:
+  lat: 38.214071
+  lng: -85.6309297
 1200 Willow Ave, Anderson St, Longest Ave, and Glenmary Ave, Louisville, KY: null
 1200 Willow Ave, Louisville, KY:
   lat: 38.239071
@@ -8317,6 +8320,9 @@
   lng: -85.7275818
 1300 Tafloid Street, Louisville, KY: null
 1300 Talbot Street, Louisville, KY: null
+1300 Tennessee Ave, Louisville, KY:
+  lat: 38.2162123
+  lng: -85.7788367
 1300 Thornberry Ave, Louisville, KY:
   lat: 38.204677
   lng: -85.779547
@@ -10715,6 +10721,9 @@
 1600 Algonquin Pky, Louisville, KY:
   lat: 38.2219374
   lng: -85.7830999
+1600 Allene Ave, Louisville, KY:
+  lat: 38.2175556
+  lng: -85.7472043
 1600 Arcade Ave, Louisville, KY:
   lat: 38.2078063
   lng: -85.7862058
@@ -10872,6 +10881,9 @@
 1600 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
+1600 Concord, Louisville, KY:
+  lat: 38.2098691
+  lng: -85.7490324
 1600 Congress St, Louisville, KY:
   lat: 38.256661
   lng: -85.776921
@@ -11323,6 +11335,9 @@
 1600 Tyler Parkway, Louisville, KY:
   lat: 38.231557
   lng: -85.715947
+1600 Valley Rd, Louisville, KY:
+  lat: 38.2287999
+  lng: -85.7212004
 1600 W Chestnut St due, Louisville, KY: null
 1600 W Chestnut St near 16th and 17th Streets, Louisville, KY:
   lat: 38.251069
@@ -14436,6 +14451,7 @@
 200 East Tasham Road, Louisville, KY: null
 200 East W Chestnut St, Louisville, KY: null
 200 East W Oak St, Louisville, KY: null
+200 East and 1700 block of [unspecified], Louisville, KY: null
 200 East and Breckenridge, Louisville, KY: null
 200 East and West Bels Ln, Louisville, KY: null
 200 East and surrounding areas, Louisville, KY: null
