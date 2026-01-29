@@ -4630,6 +4630,9 @@
 11 Logwood Ave, Louisville, KY:
   lat: 38.0804603
   lng: -85.8667825
+11 Murphy Ln, Louisville, KY:
+  lat: 38.3136029
+  lng: -85.5400129
 11 Onerspey Lane, Louisville, KY: null
 11 Overbrook Rd, Louisville, KY: null
 11 Rosedale Ave, Louisville, KY:
@@ -13739,6 +13742,7 @@
 20 Grand Ave, Louisville, KY:
   lat: 38.241457
   lng: -85.8090837
+20 Lions Arms Dr, Louisville, KY: null
 20 Narcissus Dr, Louisville, KY:
   lat: 38.1197851
   lng: -85.6862836
@@ -14245,6 +14249,9 @@
 200 East Bels Ln, Louisville, KY: null
 200 East Breckenridge, Louisville, KY: null
 200 East Broadway and 100 block of Adam, Louisville, KY: null
+200 East Broadway at Dollar General, Louisville, KY:
+  lat: 38.2452031
+  lng: -85.7513354
 200 East Broadway at a church, Louisville, KY:
   lat: 38.2452031
   lng: -85.7513354
@@ -42422,6 +42429,9 @@
 6900 Southside Dr, Louisville, KY:
   lat: 38.157992
   lng: -85.764776
+6900 Southwestern Pky at Repack Recycling, Louisville, KY:
+  lat: 38.2535943
+  lng: -85.8267406
 6900 Spokane, Louisville, KY: null
 6900 St Rene Rd, Louisville, KY: null
 6900 Stardust, Louisville, KY:
