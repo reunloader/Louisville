@@ -155,6 +155,9 @@
 04 Maldon Dr, Louisville, KY:
   lat: 38.1711031
   lng: -85.8622494
+04 Nigel Dr, Louisville, KY:
+  lat: 38.1645205
+  lng: -85.8524023
 04 Old Bates Rd, Louisville, KY:
   lat: 38.1198122
   lng: -85.6232798
@@ -23229,6 +23232,12 @@
   lat: 38.1595977
   lng: -85.7604292
 300 Kirkwood Glen Cir, Louisville, KY: null
+300 La Grange Rd at Barbour Manor Ct, Louisville, KY:
+  lat: 38.2786316
+  lng: -85.5174174
+300 La Grange Rd at Magnolia Springs East, Louisville, KY:
+  lat: 38.2786316
+  lng: -85.5174174
 300 Lanai Ct, Louisville, KY:
   lat: 38.2379173
   lng: -85.4949408
@@ -34824,6 +34833,7 @@
 5 W Manslick Rd, Louisville, KY:
   lat: 38.1646868
   lng: -85.7975829
+50 Bluegrass Pky at Embassy Square, Louisville, KY: null
 50 Mellwood Ave, Louisville, KY:
   lat: 38.2579018
   lng: -85.7192605
