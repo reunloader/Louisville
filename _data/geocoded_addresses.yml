@@ -4064,6 +4064,9 @@
 10200 Dixie Hwy, Louisville, KY:
   lat: 38.1077836
   lng: -85.8680558
+10200 Dorsey Pointe Cir, Louisville, KY:
+  lat: 38.2464298
+  lng: -85.5651108
 10200 Esom Road, Louisville, KY: null
 10200 Eve Adam Dr, Louisville, KY:
   lat: 38.1056407
@@ -9912,6 +9915,9 @@
   lng: -85.6589025
 1500 Building 3,, Louisville, KY: null
 1500 Burnham Pl, Louisville, KY: null
+1500 Camden, Louisville, KY:
+  lat: 38.192796
+  lng: -85.788624
 1500 Camp Walk, Louisville, KY: null
 1500 Carl Ct, Louisville, KY:
   lat: 38.1912497
@@ -31009,6 +31015,7 @@
 4000 Taylorsville Rd, Louisville, KY:
   lat: 38.2192953
   lng: -85.6249927
+4000 Taylorville, Louisville, KY: null
 4000 Taylor’s Road at Walgreens, Louisville, KY: null
 4000 Towne Center Dr, Louisville, KY:
   lat: 38.2974974
@@ -50342,6 +50349,9 @@
 9600 Hunting Ground Ct, Louisville, KY:
   lat: 38.1183636
   lng: -85.6075096
+9600 Independence School Rd, Louisville, KY:
+  lat: 38.1021554
+  lng: -85.5850264
 9600 Janna Dr, Louisville, KY:
   lat: 38.1025185
   lng: -85.8807159
@@ -51456,6 +51466,7 @@ Emerson Ave and Phillips Ln, Louisville, KY: null
 Englewood Ave and Richland Ave, Louisville, KY: null
 Enridge Dr and Brighton Springs Ln, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
+Eton Rd and Cedar Springs Blvd, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
 Evans St and Catharine St, Louisville, KY: null
 Evergreen Rd and Ridge Rd, Louisville, KY: null
