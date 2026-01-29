@@ -488,6 +488,7 @@
 100 Blue Sky Ct, Louisville, KY:
   lat: 38.1861828
   lng: -85.8306918
+100 Boletta Lane, Louisville, KY: null
 100 Boston Ct, Louisville, KY:
   lat: 38.2646317
   lng: -85.8169456
@@ -3645,6 +3646,9 @@
   lat: 38.210382
   lng: -85.774372
 1000 Tennessee Ave. The officer conducting the stop confirmed they were safe., Louisville, KY: null
+1000 Thornberry Ave, Louisville, KY:
+  lat: 38.202859
+  lng: -85.77624
 1000 Timberwood Cir, Louisville, KY: null
 1000 Timothy Faulkner, Louisville, KY: null
 1000 Tom Lindsay, Louisville, KY: null
@@ -15271,6 +15275,7 @@
 200 Paradise Ln, Louisville, KY:
   lat: 38.1374
   lng: -85.8723473
+200 Park Boundary Rd involved a man with a dislocated shoulder, Louisville, KY: null
 200 Parker Ave, Louisville, KY:
   lat: 38.2692599
   lng: -85.8151049
@@ -24145,6 +24150,9 @@
 3000 North35th Street near Alford Ave and Duncan St, Louisville, KY:
   lat: 38.2653296
   lng: -85.8078312
+3000 Northwestern Pky, Louisville, KY:
+  lat: 38.2744509
+  lng: -85.7960857
 3000 Oakwood Ave near Schneiter Ave, Louisville, KY:
   lat: 38.2033606
   lng: -85.7863759
@@ -40063,6 +40071,9 @@
 6000 Highliner Dr, Louisville, KY:
   lat: 38.162659
   lng: -85.609985
+6000 Holly Lake Dr, Louisville, KY:
+  lat: 38.1485509
+  lng: -85.5832711
 6000 Hunsinger Ln, Louisville, KY:
   lat: 38.2088582
   lng: -85.6192779
