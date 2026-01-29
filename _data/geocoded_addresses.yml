@@ -4823,6 +4823,9 @@
 1100 East Broadway. The vehicle was observed, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
+1100 East Market at the Home of the Innocents, Louisville, KY:
+  lat: 38.2518705
+  lng: -85.7309248
 1100 East Market near S Johnson St, Louisville, KY:
   lat: 38.2518705
   lng: -85.7309248
@@ -9671,6 +9674,7 @@
 14700 Madison Trace Cir, Louisville, KY:
   lat: 38.2772191
   lng: -85.4901266
+14700 Mendocent Trace Circle, Louisville, KY: null
 14700 Oxford Hill Ct, Louisville, KY:
   lat: 38.2303805
   lng: -85.4826698
@@ -43651,6 +43655,7 @@
   Louisville, KY
 : null
 700 Southbrook Street. The call was, Louisville, KY: null
+700 Southbrook, Louisville, KY: null
 700 Southbrook, Reeves Center Ministries, Louisville, KY: null
 700 Southwestern Pky, Louisville, KY:
   lat: 38.25057
