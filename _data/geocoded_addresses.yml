@@ -19623,6 +19623,9 @@
 24 Brownsboro Rd, Louisville, KY:
   lat: 38.2657861
   lng: -85.6566621
+24 Downes Ln, Louisville, KY:
+  lat: 38.1574244
+  lng: -85.7590501
 24 Greenwood Ave, Louisville, KY:
   lat: 38.2411234
   lng: -85.7886759
@@ -25947,6 +25950,7 @@
   lat: 38.1501507
   lng: -85.6598399
 3300 Stony Brook Dr, Louisville, KY: null
+3300 Street South Gate, Louisville, KY: null
 3300 T-Tulip Cir, Louisville, KY: null
 3300 Taylor Blvd, Louisville, KY:
   lat: 38.2022323
@@ -26106,6 +26110,7 @@
 3400 Collins Ln, Louisville, KY:
   lat: 38.2931018
   lng: -85.5196502
+3400 County Dice, Louisville, KY: null
 3400 Coventry Common Travel, Louisville, KY: null
 3400 Coventry Commons Dr, Department 103, Louisville, KY: null
 3400 Coventry Commons Dr, Louisville, KY: null
@@ -47148,6 +47153,7 @@
   lat: 38.134596
   lng: -85.659052
 8000 Sneath Ave, Louisville, KY: null
+8000 Street South, Louisville, KY: null
 8000 Summit Ave, Louisville, KY:
   lat: 38.2274537
   lng: -85.7229973
