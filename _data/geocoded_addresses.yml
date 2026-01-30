@@ -24089,6 +24089,9 @@
   lng: -85.6282985
 3000 Brooklong-campus Drive 7:00 p, Louisville, KY: null
 3000 Brooklong-campus Drive 7:00 p.m.AM, Louisville, KY: null
+3000 Brookridge Ln, Louisville, KY:
+  lat: 38.134009
+  lng: -85.6898133
 3000 Brookway Ct, Louisville, KY:
   lat: 38.1504679
   lng: -85.814425
@@ -42286,6 +42289,7 @@
 6900 Bardstown Rd near Brook Ridge Village, Louisville, KY:
   lat: 38.1461678
   lng: -85.5880381
+6900 Bardstown Rd, Kroger, Louisville, KY: null
 6900 Bardstown Rd, Louisville, KY:
   lat: 38.1461678
   lng: -85.5880381
