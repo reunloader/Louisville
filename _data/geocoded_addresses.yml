@@ -2099,6 +2099,7 @@
   lat: 38.250493
   lng: -85.752382
 100 West Alley Boulevard, Louisville, KY: null
+100 West Alley, Holiday Inn Express, Louisville, KY: null
 100 West Breckenridge, Louisville, KY:
   lat: 38.1988391
   lng: -85.6228053
@@ -9123,6 +9124,9 @@
 1400 McCoy Ave, Louisville, KY: null
 1400 McCoy Avenue, Louisville, KY: null
 1400 McKinley Avenue, Louisville, KY:
+  lat: 38.212968
+  lng: -85.725084
+1400 McKinley, Louisville, KY:
   lat: 38.212968
   lng: -85.725084
 1400 Meeting St, Louisville, KY:
@@ -24537,6 +24541,7 @@
 3000 Thomas Ln, Louisville, KY:
   lat: 38.2191751
   lng: -85.703267
+3000 Tumeric Ln and Dixon, Louisville, KY: null
 3000 University Rd near University Ave, Louisville, KY:
   lat: 38.265053
   lng: -85.694432
@@ -36429,6 +36434,9 @@
 5000 Stony Brook Dr, Louisville, KY:
   lat: 38.1752587
   lng: -85.5997909
+5000 Sunshine Drive near Mediterranean Ct North Blossom Road, Louisville, KY:
+  lat: 38.1495652
+  lng: -85.6668235
 5000 Tolkien Ct early this morning. The call was, Louisville, KY: null
 5000 Tolkien Ct, Louisville, KY:
   lat: 38.110382
@@ -37948,6 +37956,7 @@
   lat: 38.0942448
   lng: -85.6560955
 5500 Texas Roadhouse, Louisville, KY: null
+5500 Timber Ridge Dr, Louisville, KY: null
 5500 Undying Truck, Louisville, KY: null
 5500 VVF Place, Louisville, KY: null
 5500 Valley Station Rd, Louisville, KY:
@@ -45715,6 +45724,9 @@
 7800 Bridlewood Pl, Louisville, KY:
   lat: 38.1464221
   lng: -85.651743
+7800 Brownsboro Rd, Louisville, KY:
+  lat: 38.2588952
+  lng: -85.6971281
 7800 Cannon Arrow Way, Louisville, KY: null
 7800 Carnation Dr, Louisville, KY:
   lat: 38.140496
