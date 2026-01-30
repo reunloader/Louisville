@@ -9762,6 +9762,9 @@
 1481 Glengarry Dr, Louisville, KY:
   lat: 38.1221336
   lng: -85.7391599
+14900 Landmark Dr, Louisville, KY:
+  lat: 38.261341
+  lng: -85.482957
 15 Audubon Plaza Dr, Louisville, KY:
   lat: 38.2145905
   lng: -85.716453
@@ -11526,6 +11529,9 @@
 16400 Donnington Ct, Louisville, KY:
   lat: 38.238878
   lng: -85.448613
+16400 Landmark Dr, Louisville, KY:
+  lat: 38.2669255
+  lng: -85.4835491
 16500 Glen Lakes Dr near Malone Pl, Louisville, KY:
   lat: 38.2406241
   lng: -85.4508995
@@ -14634,6 +14640,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East near exit 19A, Louisville, KY: null
+200 East near grade800 block of Charlie, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near group8, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -29827,6 +29836,7 @@
 400 North21st Street, Louisville, KY:
   lat: 38.263955
   lng: -85.783775
+400 North22nd Street, Crop St, St, Louisville, KY: null
 400 North25th Street near Assumption High School, Louisville, KY:
   lat: 38.26617
   lng: -85.789902
@@ -45464,6 +45474,9 @@
 7600 Deer Meadow Dr, Louisville, KY:
   lat: 38.3166393
   lng: -85.6065727
+7600 Dixie at the public storage, Louisville, KY:
+  lat: 38.1407464
+  lng: -85.8411269
 7600 Downs Farm Pl, Louisville, KY: null
 7600 Dudley Garden Way, Louisville, KY: null
 7600 Eagle Landing Way, Louisville, KY:
