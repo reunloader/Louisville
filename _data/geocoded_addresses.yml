@@ -8115,6 +8115,9 @@
 1300 South 20th Street, Louisville, KY:
   lat: 38.234707
   lng: -85.789281
+1300 South 25th Street**, Louisville, KY:
+  lat: 38.236726
+  lng: -85.795176
 1300 South 26th Street, Louisville, KY:
   lat: 38.236286
   lng: -85.796515
@@ -15783,6 +15786,7 @@
 200 South near Brownsboro, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South near Gila Church**, Louisville, KY: null
 200 South near I-64, Louisville, KY:
   lat: 38.2781537
   lng: -85.8215796
@@ -15798,6 +15802,7 @@
 200 South near Stonestreet Rd, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South near the 23-mile marker**, Louisville, KY: null
 200 South near the six mile marker, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -15911,6 +15916,7 @@
   lng: -85.6662901
 200 Steedly Dr near Project Estelle Avenue and Southside Dr, Louisville, KY: null
 200 Steedly Dr, Louisville, KY: null
+200 Steeplecrest**, Louisville, KY: null
 200 Stone St near I-200, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
@@ -50537,6 +50543,7 @@
   lat: 38.1025185
   lng: -85.8807159
 9600 Kelly's Little Road, Louisville, KY: null
+9600 Lamborg**, Louisville, KY: null
 9600 Lamborne Blvd, Louisville, KY:
   lat: 38.1134765
   lng: -85.8144594
