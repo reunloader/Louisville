@@ -10751,6 +10751,9 @@
 16 Bartlett Rd, Louisville, KY:
   lat: 38.1955514
   lng: -85.6274095
+16 Broadleaf Dr, Louisville, KY:
+  lat: 38.1975868
+  lng: -85.841413
 16 Cedar Springs Dr, Louisville, KY:
   lat: 38.1469339
   lng: -85.5894314
@@ -11910,6 +11913,7 @@
 1700 Liberty Bell Way, Louisville, KY:
   lat: 38.194681
   lng: -85.793611
+1700 Libertyville, Louisville, KY: null
 1700 Lincoln Ave, Louisville, KY:
   lat: 38.197189
   lng: -85.707325
@@ -47290,6 +47294,7 @@
 800 West Main Street. Several fire units responded, Louisville, KY:
   lat: 38.2568585
   lng: -85.7637124
+800 West Main and 12th Street, Louisville, KY: null
 800 West Main, Louisville, KY:
   lat: 38.2568585
   lng: -85.7637124
@@ -48515,6 +48520,9 @@
 8800 Brown-Austin Road, Louisville, KY:
   lat: 38.1228894
   lng: -85.7735497
+8800 Brownsboro Rd, Louisville, KY:
+  lat: 38.3015193
+  lng: -85.5876596
 8800 Bueller Church Rd, Louisville, KY: null
 8800 Cane Run Rd, Louisville, KY:
   lat: 38.1278574
