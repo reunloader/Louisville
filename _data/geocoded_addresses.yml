@@ -5746,6 +5746,7 @@
   lng: -85.8680694
 11100 Vista Greens Dr, Louisville, KY: null
 11200 Bluegrass Pky at Commerce Ct and Cold Wall, Louisville, KY: null
+11200 DM Drive, Louisville, KY: null
 11200 Deham Dr, Louisville, KY:
   lat: 38.3231294
   lng: -85.5413907
@@ -37250,6 +37251,9 @@
 5200 Delaware Dr, Louisville, KY:
   lat: 38.188361
   lng: -85.66259
+5200 Dixie Hwy at Vision Works, Louisville, KY:
+  lat: 38.1645712
+  lng: -85.8311729
 5200 Dixie Hwy at the car wash, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
