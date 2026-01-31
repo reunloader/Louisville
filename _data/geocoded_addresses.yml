@@ -45494,6 +45494,9 @@
 7500 Garrison Rd, Louisville, KY:
   lat: 38.1370945
   lng: -85.757227
+7500 Garrison Rd. Deputies responded, Louisville, KY:
+  lat: 38.1370945
+  lng: -85.757227
 7500 Garrison, Louisville, KY:
   lat: 38.1370945
   lng: -85.757227
@@ -52192,6 +52195,7 @@ Lexington Rd and Altagate Rd, Louisville, KY:
   lat: 38.2461622
   lng: -85.686021
 Lexington Rd and Baxter Ave, Louisville, KY: null
+Lexington Rd and Dover Rd, Louisville, KY: null
 Lexington Rd and Frankfort Ave, Louisville, KY: null
 Lexington Rd and Grand St, Louisville, KY: null
 Lexington Rd and Payne St, Louisville, KY: null
