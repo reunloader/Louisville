@@ -8299,6 +8299,9 @@
 1300 South15th Street, Louisville, KY:
   lat: 38.230749
   lng: -85.779427
+1300 South1st Street, Louisville, KY:
+  lat: 38.23181
+  lng: -85.755929
 1300 South20th Street, Crop St of Woodland Ave in St, Louisville, KY: null
 1300 South26 near Woodlawn and Duhamel, Louisville, KY: null
 1300 South26th Street, Louisville, KY:
@@ -14687,6 +14690,9 @@
 200 East from I-64 West, Louisville, KY: null
 200 East from Poplar Level, Louisville, KY: null
 200 East highway at the 5 mile marker, Louisville, KY: null
+200 East near 5000 block of South3rd Street, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near Baker, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -31527,6 +31533,7 @@
   help to relight the pilot lights, Louisville, KY
 : null
 4100 Estate Dr, and areas near Trialton and Mason Rd, Louisville, KY: null
+4100 Faintham Creek Road, Louisville, KY: null
 4100 Fandrum Creek Road, Louisville, KY: null
 4100 Faneham Creek Road near Crusher, Louisville, KY: null
 4100 Fannam Creek, Louisville, KY: null
@@ -33357,6 +33364,7 @@
 45 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+4500 Adderloop, Louisville, KY: null
 4500 Algonquin Pky, Louisville, KY:
   lat: 38.2324336
   lng: -85.8298062
