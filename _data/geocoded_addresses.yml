@@ -7558,6 +7558,7 @@
 13 Hemlock St, Louisville, KY:
   lat: 38.2351976
   lng: -85.8031638
+13 Keeneland Blvd, Louisville, KY: null
 13 Mellwood Ave, Louisville, KY: null
 13 Narcissus Dr, Louisville, KY:
   lat: 38.1197851
@@ -16060,6 +16061,9 @@
 200 Waterstone Way, Louisville, KY:
   lat: 38.233504
   lng: -85.46195
+200 Way. EMS units responded promptly, Louisville, KY:
+  lat: 38.250348
+  lng: -85.7502112
 200 Webster St and W St Catherine St, Louisville, KY: null
 200 Webster St near Poplar Level Rd, Louisville, KY:
   lat: 38.2573422
@@ -50021,6 +50025,9 @@
 9200 Wesley Ave, Louisville, KY: null
 9200 Westmore Road, Louisville, KY: null
 9200 Westport Rd at Autozone Spray, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
+9200 Westport Rd at Goose Creek, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
 9200 Westport Rd in response, Louisville, KY: null
