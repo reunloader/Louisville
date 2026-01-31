@@ -16409,6 +16409,9 @@
 200 West near Dixie, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West near I-65 North, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near Kane Run and 1800 block of San Jose Ave, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -17223,6 +17226,7 @@
   lat: 38.1632913
   lng: -85.7758384
 2000 Fay Ave, with a tracker indicating it was last seen traveling, Louisville, KY: null
+2000 Fern Valley Rd (Ford plant), Louisville, KY: null
 2000 Fern Valley Rd, Louisville, KY:
   lat: 38.154705
   lng: -85.7254323
@@ -27275,6 +27279,7 @@
 3600 Fincastle Rd, Louisville, KY:
   lat: 38.2066385
   lng: -85.7174537
+3600 Finn Kessel Road, Louisville, KY: null
 3600 Fitzgerald Rd near Ralph Ave and DeBorg Ave, Louisville, KY: null
 3600 Fountain Dr, 8800 block of Ridge Ct, and others, Louisville, KY: null
 3600 Frankfort Ave, Louisville, KY:
@@ -27795,6 +27800,7 @@
 3700 Fincastle Rd, Louisville, KY:
   lat: 38.2058662
   lng: -85.7177066
+3700 Finn Kessel Road, Louisville, KY: null
 3700 Frankfort Ave, Louisville, KY:
   lat: 38.2531127
   lng: -85.6611533
@@ -28704,6 +28710,9 @@
 3900 Oaklawn Dr, Louisville, KY:
   lat: 38.1484892
   lng: -85.6893461
+3900 Oakleigh Meadow Pl, Louisville, KY:
+  lat: 38.2908556
+  lng: -85.4872706
 3900 Oklahoma Drive, Louisville, KY: null
 3900 Old Brownsboro Hills Rd near 2000 block of Columbia Freightliner, Louisville, KY: null
 3900 Old Brownsboro Rd near Westwind Rd and Indian Hills Green, Louisville, KY: null
@@ -30177,6 +30186,7 @@
 400 Sapling Spring Pl, Louisville, KY: null
 400 Savage Dr, Louisville, KY: null
 400 Seabaker, Louisville, KY: null
+400 Seattle in West Orange V Avenue, Louisville, KY: null
 400 Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
