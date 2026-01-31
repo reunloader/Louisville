@@ -3043,6 +3043,7 @@
 1000 Manslick Rd, Louisville, KY:
   lat: 38.1772112
   lng: -85.7983653
+1000 Maple Oak Park Road, Louisville, KY: null
 1000 Margetown Road, Louisville, KY: null
 1000 Mary St, Louisville, KY:
   lat: 38.2337014
@@ -16128,6 +16129,9 @@
   lat: 38.2453628
   lng: -85.7555236
 200 West Broadway near 2nd and Broadway, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
+200 West Broadway near McDonald's, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
 200 West Broadway near Poplar Level. Police units were involved in responding, Louisville, KY:
@@ -36745,6 +36749,9 @@
 5100 East Mojave Lee Boulevard, Louisville, KY: null
 5100 East W Jacob St, Louisville, KY: null
 5100 Emery Ave, Louisville, KY: null
+5100 Euclid Ave, Louisville, KY:
+  lat: 38.119211
+  lng: -85.8575
 5100 Fayhurst, Louisville, KY: null
 5100 First Floor Drive, Louisville, KY: null
 5100 Firwood Ln, Louisville, KY:
@@ -52037,6 +52044,7 @@ Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Hirsporn Lane and South Hirsporn Parkway, Louisville, KY: null
 Hitt Rd and Bowersville Rd, Louisville, KY: null
 Hobart Dr and Quest Dr, Louisville, KY: null
+Hodge St and Maple St, Louisville, KY: null
 Hodge Street and Date St, Louisville, KY: null
 Hoffman Ln and Avoca Rd, Louisville, KY: null
 Holly Park Dr and Melody Ln, Louisville, KY: null
@@ -52258,6 +52266,7 @@ Mellwood Ave and Riverwood Dr, Louisville, KY: null
 Melvin Dr and Dover Rd, Louisville, KY: null
 Mercer Ave and Belmar Dr, Louisville, KY: null
 Merchant Road and River Rd, Louisville, KY: null
+Merhoff St and Maple St, Louisville, KY: null
 Meridian Ave and Breckenridge Ln, Louisville, KY: null
 Meridian Ave and Breckmarch Lane, Louisville, KY: null
 Miami Ave and Bank St, Louisville, KY: null
