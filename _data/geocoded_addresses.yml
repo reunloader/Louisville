@@ -16359,6 +16359,9 @@
 200 West at Poplar Level Rd, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
+200 West at Poplar Level, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at River Park Dr, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
@@ -16392,6 +16395,9 @@
 200 West at Westport Rd. Responding units arrived, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West at exit 11, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at mile marker 18, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -21682,6 +21688,7 @@
 2700 South 6th Street, Louisville, KY:
   lat: 38.210579
   lng: -85.768087
+2700 South Arson Parkway at USCG Louisville, Louisville, KY: null
 2700 South Center Street, Louisville, KY: null
 2700 South Forth, Louisville, KY: null
 2700 South Harris Farm Parkway, Louisville, KY: null
@@ -52688,6 +52695,7 @@ Payne St and Barret Ave, Louisville, KY: null
 Payne St and Baxter Ave, Louisville, KY: null
 Peach Meadow Dr and Maple Ln, Louisville, KY: null
 Peach St and Cypress St, Louisville, KY: null
+Peach St and Dumesnil St, Louisville, KY: null
 Peach St and Southern Ave, Louisville, KY: null
 Peach St and Westwood Dr, Louisville, KY: null
 Peachtree Ave and Bluegrass Ave, Louisville, KY: null
