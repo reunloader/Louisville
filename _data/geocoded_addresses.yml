@@ -35237,6 +35237,9 @@
 500 Barrett at AP Thompson, Louisville, KY:
   lat: 38.1023548
   lng: -85.8678332
+500 Bauer Ave, Louisville, KY:
+  lat: 38.2523705
+  lng: -85.6614318
 500 Baxter Ave, Louisville, KY:
   lat: 38.24769
   lng: -85.730217
@@ -43026,6 +43029,9 @@
 700 Adams, Louisville, KY:
   lat: 38.2592106
   lng: -85.7264871
+700 Albert, Louisville, KY:
+  lat: 38.2273785
+  lng: -85.659039
 700 Alexandra Woods Ct, Louisville, KY: null
 700 Algonquin Pky, Louisville, KY:
   lat: 38.2113098
@@ -51884,6 +51890,7 @@ Dart Dr and Peabody Ln, Louisville, KY: null
 Davis Street and Adams St, Louisville, KY: null
 Dawson Hill Rd and Charlie Brush Run Rd, Louisville, KY: null
 Dawson Hill Rd and Wood Valley Ln, Louisville, KY: null
+Dayton Ave and Willis Ave, Louisville, KY: null
 Dean Dr and Flora Ave, Louisville, KY: null
 Deer Cross Road and Elks Bluff Dr, Louisville, KY: null
 Delor Ave and Kansas Boulevard, Louisville, KY: null
