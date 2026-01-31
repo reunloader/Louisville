@@ -18212,6 +18212,9 @@
 2100 Portland Ave at Circle K, Louisville, KY:
   lat: 38.2682365
   lng: -85.783177
+2100 Portland Ave near Carter and 22nd, Louisville, KY:
+  lat: 38.2682365
+  lng: -85.783177
 2100 Portland Ave, Louisville, KY:
   lat: 38.2682365
   lng: -85.783177
@@ -23777,6 +23780,9 @@
 300 South 43rd Street, Louisville, KY:
   lat: 38.2614562
   lng: -85.8208636
+300 South 4th Street near Duncan Donuts, Louisville, KY:
+  lat: 38.2536681
+  lng: -85.7572606
 300 South 4th Street, Louisville, KY:
   lat: 38.2536681
   lng: -85.7572606
@@ -30701,6 +30707,7 @@
   lat: 38.2549259
   lng: -85.7571981
 400 West Muhammad Ali alley, Louisville, KY: null
+400 West Muhammale Boulevard near 5th and Cathedral, Louisville, KY: null
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
 400 West Oak, Louisville, KY:
