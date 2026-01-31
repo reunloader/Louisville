@@ -33700,6 +33700,9 @@
 4500 W Market St, Louisville, KY:
   lat: 38.264245
   lng: -85.822621
+4500 W Wheatmore Dr, Louisville, KY:
+  lat: 38.1901621
+  lng: -85.7991619
 4500 Waco Ct, Louisville, KY:
   lat: 38.1875744
   lng: -85.8309235
@@ -51459,6 +51462,9 @@ Benson Parkway and Bluegrass Pky, Louisville, KY: null
 Benton Ave and Dresden Ave, Louisville, KY: null
 Bergamot Dr and Dolls Eyes St, Louisville, KY: null
 Berry Blvd and Powell Ave, Louisville, KY: null
+Berry Blvd and Taylor Blvd, Louisville, KY:
+  lat: 38.1961188
+  lng: -85.7829991
 Bethany Ln and Dixie Garden Dr, Louisville, KY: null
 Beulah Church Rd and Faganbisch Lane, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
