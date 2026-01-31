@@ -16644,6 +16644,7 @@
 200 a ramp, Louisville, KY:
   lat: 38.2621141
   lng: -85.7378387
+200 an unspecified street, Louisville, KY: null
 200 and Highway 64, Louisville, KY: null
 200 and Old Shelbyville Rd, Louisville, KY: null
 200 and Taylor Blvd, Louisville, KY:
@@ -17733,6 +17734,7 @@
   lat: 38.2274949
   lng: -85.6953702
 2000 [Street Name Unclear], specifically at a walkway, Louisville, KY: null
+2000 an unspecified street, Louisville, KY: null
 2000 black Chevy Malibu, Louisville, KY: null
 2000 black Honda CRV, Louisville, KY: null
 2000 block of Boulevard Napoleon, cross streets of Princeton Dr and Bardstown Rd, Louisville, KY: null
@@ -34048,6 +34050,9 @@
 4700 Burkley Ave, Louisville, KY:
   lat: 38.1804502
   lng: -85.7679452
+4700 Cane Run Rd near Melody Acres, Louisville, KY:
+  lat: 38.189149
+  lng: -85.850355
 4700 Carat Plain, Louisville, KY: null
 4700 Carat Plain., Louisville, KY: null
 4700 Carat, Louisville, KY: null
@@ -51346,6 +51351,7 @@ Breckenridge Ln and Hikes Ln, Louisville, KY: null
 Breckenridge Ln and Hillbrook Dr, Louisville, KY: null
 Breckenridge Ln and Landside Dr, Louisville, KY: null
 Breckenridge Road and Meadow Drive, Louisville, KY: null
+Breckinridge St and Baxter Ave, Louisville, KY: null
 Breckinridge St and Belvar Ave, Louisville, KY: null
 Breckinridge St and Southbrook Street, Louisville, KY: null
 Breckinridge St and Southfield Street, Louisville, KY: null
