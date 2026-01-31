@@ -22865,6 +22865,7 @@
 300 Adam and 300 block of Baker, Louisville, KY: null
 300 Adam and 300 block of Charlie were not fully detailed in the initial reports, Louisville, KY: null
 300 Adam and 300 block of Charlie, Louisville, KY: null
+300 Adam and River Terrace, Louisville, KY: null
 300 Adam and nearby areas, Louisville, KY: null
 ? 300 Adam in response to a medical situation. One unit was with a subject and appeared
   to be investigating the location of a prior incident. Additional assistance was
@@ -24670,6 +24671,9 @@
   lat: 38.1420698
   lng: -85.6043907
 3000 Springtime Ave near Mike Drive and Summer Cir, Louisville, KY:
+  lat: 38.070159
+  lng: -85.876047
+3000 Springtime Ave, Louisville, KY:
   lat: 38.070159
   lng: -85.876047
 3000 Springtown Avenue, Louisville, KY: null
