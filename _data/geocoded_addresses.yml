@@ -15270,6 +15270,10 @@
 200 North at Old Henry, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+? 200 North at Preston Hwy. The vehicle's license plate was noted as Mary 7 King 879.
+  Units attempted to locate the vehicle or issued a BOLO, Louisville, KY
+: lat: 38.2607234
+  lng: -85.7797189
 200 North at Shelbyville Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -23706,6 +23710,7 @@
 300 South 23rd Street, Louisville, KY:
   lat: 38.2437855
   lng: -85.7915823
+300 South 38th Street or fleeing downstairs, Louisville, KY: null
 300 South 39th Street near Clarkwood and Herman, Louisville, KY:
   lat: 38.2596432
   lng: -85.8148894
