@@ -25453,6 +25453,8 @@
   lng: -85.80606
 3200 Glenstone Ct, Louisville, KY: null
 3200 Glyndy Parkway, Louisville, KY: null
+3200 Goat internal circle, Crop St, Louisville, KY: null
+3200 Goat internal circle, Louisville, KY: null
 3200 Golden Turtle Cir near Wiltsmith Lane, Louisville, KY: null
 3200 Golden Turtle Cir, Louisville, KY: null
 ? 3200 Golden Turtle Circle early this morning. Upon arrival, they found a silver
@@ -30135,6 +30137,7 @@
 400 Ryan Way, Louisville, KY:
   lat: 38.1088853
   lng: -85.7714756
+400 S Charlton St, Crop St South Jackson, South Preston, Louisville, KY: null
 400 S Clay St, Louisville, KY:
   lat: 38.2505296
   lng: -85.7407799
@@ -49246,6 +49249,9 @@
   lat: 38.193672
   lng: -85.739235
 900 Phillips Ln near the Fairgrounds Expo Center South Wing A, Louisville, KY:
+  lat: 38.193672
+  lng: -85.739235
+900 Phillips Ln near the Fairgrounds, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
 900 Phillips Ln, Louisville, KY:
