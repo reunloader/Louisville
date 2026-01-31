@@ -15073,6 +15073,9 @@
 200 Magazine, Louisville, KY:
   lat: 38.2493289
   lng: -85.7734408
+200 Maple St, Louisville, KY:
+  lat: 38.246353
+  lng: -85.7799264
 200 Marengo Draft, Louisville, KY: null
 200 Marina Dr, Louisville, KY:
   lat: 38.3312116
@@ -39292,6 +39295,9 @@
 600 E W Hill St, Louisville, KY:
   lat: 38.2273582
   lng: -85.7745627
+600 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 600 E W Market St, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
