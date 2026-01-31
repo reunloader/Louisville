@@ -4417,6 +4417,9 @@
 10600 Wemberley Hill Blvd, Louisville, KY:
   lat: 38.2916541
   lng: -85.5548359
+10600 Westport Rd, Louisville, KY:
+  lat: 38.2951353
+  lng: -85.5547548
 ? 10600 block of Helmsdale Ln. The patient was reported to have possibly consumed
   too much alcohol prior to the fall. EMS units responded to the scene to assess the
   patient's condition. - **Traffic Incident (around 7:47 a.m. a.m. a.m.):** A vehicle
@@ -9680,6 +9683,9 @@
   lng: -85.4899944
 14100 Willow Grove Ct (Willow Grove Way), Louisville, KY: null
 142 vacant house area, Louisville, KY: null
+14200 Glendower Dr, Louisville, KY:
+  lat: 38.2282211
+  lng: -85.4856668
 14200 Pauli's Gap Road, Louisville, KY: null
 14200 Willow Grove Cir, Louisville, KY:
   lat: 38.2508168
@@ -10949,6 +10955,9 @@
 1600 Dixdale Ave, Louisville, KY:
   lat: 38.221442
   lng: -85.784432
+1600 Dixie Hwy at 7 Brew, Louisville, KY:
+  lat: 38.2273929
+  lng: -85.7913037
 1600 Dixie Hwy. Upon arrival, they confirmed the dumpster was on fire but were able, Louisville, KY:
   lat: 38.2273929
   lng: -85.7913037
@@ -20372,6 +20381,9 @@
 2500 Garland Ave, Louisville, KY:
   lat: 38.244253
   lng: -85.7937702
+2500 Granger Rd, Louisville, KY:
+  lat: 38.102832
+  lng: -85.7212185
 2500 Greenup Rd off French Ave and Thruston Ave, Louisville, KY: null
 2500 Greenup Rd, French Ave and Thruston Ave area, Louisville, KY: null
 2500 Griffiths Ave, Louisville, KY:
@@ -46293,6 +46305,7 @@
   lat: 38.2296897
   lng: -85.734991
 800 Charlie Ocean George, Louisville, KY: null
+800 Charlie Radio, Louisville, KY: null
 800 Charlie, 800 block of Adam, and 800 block of Baker, Louisville, KY: null
 800 Charlie, Adam, and Baker. Upon their arrival, officers found the building, Louisville, KY: null
 800 Charlie, Louisville, KY:
