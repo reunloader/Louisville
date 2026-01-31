@@ -13040,6 +13040,9 @@
   connection, Louisville, KY
 : lat: 38.2258261
   lng: -85.7985448
+1800 South 28th Street, Louisville, KY:
+  lat: 38.2408705
+  lng: -85.7998214
 1800 South 2nd Street, Evening, Louisville, KY: null
 1800 South 3rd Street, Louisville, KY:
   lat: 38.2217966
@@ -22677,6 +22680,9 @@
 2900 Ward Ave, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
+2900 West Broadway, Louisville, KY:
+  lat: 38.2493168
+  lng: -85.8006076
 2900 West Galbert, Louisville, KY: null
 2900 West Madison, Louisville, KY:
   lat: 38.254562
@@ -24907,6 +24913,13 @@
 3100 Maywood Pl, Louisville, KY:
   lat: 38.219384
   lng: -85.640857
+3100 Melody Acres, Louisville, KY:
+  lat: 38.184582
+  lng: -85.848436
+? 3100 Melody Acres. The vehicle is possibly involved in a welfare check, and officers
+  are monitoring the situation, Louisville, KY
+: lat: 38.184582
+  lng: -85.848436
 3100 Michael Dr near Michael Way, Louisville, KY:
   lat: 38.1396811
   lng: -85.6240706
@@ -44863,6 +44876,7 @@
   the report of gunfire and search, Louisville, KY
 : lat: 38.2597455
   lng: -85.8146313
+7200 South Larson Trail, Louisville, KY: null
 7200 Southside Dr, Crop St, Woodmore Ave and Meadowood Ct, Louisville, KY: null
 7200 Southside Dr, Louisville, KY:
   lat: 38.15067
