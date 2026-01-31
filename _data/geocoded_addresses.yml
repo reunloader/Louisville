@@ -25254,6 +25254,9 @@
 3100 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
+3100 South Park, Louisville, KY:
+  lat: 38.1125689
+  lng: -85.7477389
 3100 South Second St, Louisville, KY: null
 3100 South Second Street near Kroger, Louisville, KY:
   lat: 38.2886468
@@ -25902,6 +25905,9 @@
   lng: -85.7841205
 3259 David Street, Louisville, KY: null
 33 Autumn Hill Cross West Over Drive, Louisville, KY: null
+33 Bardstown Rd, Louisville, KY:
+  lat: 38.1568327
+  lng: -85.5905839
 33 Evanwood Dr, Louisville, KY:
   lat: 38.105421
   lng: -85.6103431
@@ -42163,6 +42169,9 @@
 6600 Maple Ct, Louisville, KY:
   lat: 38.2585425
   lng: -85.6883385
+6600 Molly Manor Ct, Louisville, KY:
+  lat: 38.1558088
+  lng: -85.6625183
 6600 Morning Star Way, Louisville, KY:
   lat: 38.1149498
   lng: -85.8820728
@@ -43215,6 +43224,7 @@
 700 Baker, Louisville, KY:
   lat: 38.240435
   lng: -85.740403
+700 Baker, Vandre Ave, Louisville, KY: null
 700 Baker., Louisville, KY:
   lat: 38.240435
   lng: -85.740403
