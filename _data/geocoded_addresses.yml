@@ -23889,6 +23889,9 @@
   lng: -85.7161717
 300 Station Railway, zone 11, Louisville, KY: null
 300 Steffan Road, Louisville, KY: null
+300 Stein Ct, Louisville, KY:
+  lat: 38.232911
+  lng: -85.750212
 300 Storming All Over Road, Frays Hill, Louisville, KY: null
 300 Stovall Pl, Louisville, KY:
   lat: 38.1445317
@@ -36726,6 +36729,7 @@
 5100 Airfreight Dr near Poplar Level Rd, Louisville, KY:
   lat: 38.1862764
   lng: -85.7463412
+5100 Ames Mayor, Louisville, KY: null
 5100 Antle Dr at Goodwill, Louisville, KY:
   lat: 38.0879159
   lng: -85.6702489
