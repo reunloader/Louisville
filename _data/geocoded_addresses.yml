@@ -26707,6 +26707,7 @@
   lng: -85.7829642
 3400 Tevestrov, Louisville, KY: null
 3400 Tevis Dr, Louisville, KY: null
+3400 Thomas Drive, Crosstree, Louisville, KY: null
 3400 Tile Factory Ln, Louisville, KY:
   lat: 38.1833591
   lng: -85.7032498
@@ -35634,6 +35635,9 @@
 500 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+500 E W Liberty St, near City of Boniface and South Jackson’s, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 500 E W Liberty St, unit 201, Louisville, KY: null
 500 E W Market St near Hancock and Jackson, Louisville, KY:
   lat: 38.2586626
@@ -44410,6 +44414,9 @@
 700 Tarrytowne Dr, Louisville, KY:
   lat: 38.1012113
   lng: -85.8493291
+700 Terrier Ln, Louisville, KY:
+  lat: 38.2063724
+  lng: -85.6621501
 700 Top Reston Street, Louisville, KY: null
 700 Trafalgar Square, Louisville, KY:
   lat: 38.2097081
