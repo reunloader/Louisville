@@ -12617,6 +12617,7 @@
 1800 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
+1800 Blood Grass, Louisville, KY: null
 1800 Bluegrass Ave at St, Louisville, KY:
   lat: 38.179474
   lng: -85.792768
@@ -30674,6 +30675,9 @@
 400 West Jefferson Wayside, Louisville, KY: null
 400 West Kenny Avenue, Louisville, KY: null
 400 West L.E., Louisville, KY: null
+400 West Madison, Louisville, KY:
+  lat: 38.251774
+  lng: -85.7733579
 400 West Manning. The report described the vehicle as a red car. Police units were dispatched, Louisville, KY: null
 ? 400 West Market Street. A person was reported to be experiencing a medical emergency.
   Paramedics arrived quickly and provided immediate care to the individual. The patient
@@ -39371,6 +39375,9 @@
   lat: 38.2458817
   lng: -85.4454988
 600 Flat Rock Rd, Louisville, KY:
+  lat: 38.2458817
+  lng: -85.4454988
+600 Flat Rock, Louisville, KY:
   lat: 38.2458817
   lng: -85.4454988
 600 Forest B, Louisville, KY: null
@@ -49452,6 +49459,9 @@
   lat: 38.2414201
   lng: -85.7577026
 900 South4, Louisville, KY: null
+900 South40th, Louisville, KY:
+  lat: 38.246544
+  lng: -85.818323
 900 South43rd Street, Louisville, KY:
   lat: 38.2470096
   lng: -85.8240974
