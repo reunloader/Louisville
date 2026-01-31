@@ -10566,6 +10566,7 @@
 1500 Tyler Park, Louisville, KY:
   lat: 38.230727
   lng: -85.71958
+1500 U block and arrived, Louisville, KY: null
 1500 Valley Station Rd, Purple Cave, Louisville, KY: null
 1500 W Chestnut St, Louisville, KY:
   lat: 38.2508017
@@ -10662,6 +10663,7 @@
 1500 and 1524, Louisville, KY: null
 1500 black over root for, Louisville, KY: null
 1500 home use, Louisville, KY: null
+1500 medical Bravo near Charity Way and Shallow Down Way, Louisville, KY: null
 1500 mile marker near South 6th Street and W Market St, Louisville, KY: null
 1500 pickup truck, Louisville, KY: null
 1500 responding, Louisville, KY: null
@@ -11633,6 +11635,9 @@
 16900 Matthews Rd, Louisville, KY:
   lat: 38.1265566
   lng: -85.8775854
+16900 Sprig Leaf Cir, Louisville, KY:
+  lat: 38.290253
+  lng: -85.61803
 17 Ashby Ln, Louisville, KY:
   lat: 38.1085658
   lng: -85.8826499
@@ -15286,6 +15291,9 @@
 200 North 37th Street, Louisville, KY:
   lat: 38.2653079
   lng: -85.8105746
+200 North 38th Street near Alford Ave and Duncan St, Louisville, KY:
+  lat: 38.2652829
+  lng: -85.8116457
 200 North 38th Street, Louisville, KY:
   lat: 38.2652828
   lng: -85.8116457
@@ -49446,6 +49454,9 @@
   investigation and communication, responders were able, Louisville, KY
 : null
 900 S Brook St at Salvation Army, Louisville, KY:
+  lat: 38.241061
+  lng: -85.752613
+900 S Brook St at South Asian Army, Louisville, KY:
   lat: 38.241061
   lng: -85.752613
 900 S Brook St near Brickenridge and S Brook St, Louisville, KY:
