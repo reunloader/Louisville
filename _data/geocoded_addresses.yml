@@ -25522,6 +25522,9 @@
   lat: 38.1065676
   lng: -85.5036462
 3200 Level Ln (B3 area), Louisville, KY: null
+3200 Lexington Rd, Louisville, KY:
+  lat: 38.2483759
+  lng: -85.6741904
 3200 Lincote Drive, Louisville, KY: null
 3200 Lynnview Dr, Louisville, KY:
   lat: 38.1866267
@@ -43278,6 +43281,7 @@
 700 East Broadway, Louisville, KY:
   lat: 38.244448
   lng: -85.7414498
+700 East Ellsworth, Louisville, KY: null
 700 East Great Street, Louisville, KY: null
 700 East Hill, Louisville, KY:
   lat: 38.2241
