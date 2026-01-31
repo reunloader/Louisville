@@ -10116,6 +10116,9 @@
 1500 Garland, Louisville, KY:
   lat: 38.242547
   lng: -85.778313
+1500 Glenrock Rd, Louisville, KY:
+  lat: 38.173215
+  lng: -85.798238
 1500 Goddard Ave, Louisville, KY:
   lat: 38.2326539
   lng: -85.7205807
@@ -34654,6 +34657,7 @@
 4900 Basking Dr, Louisville, KY:
   lat: 38.181037
   lng: -85.86351
+4900 Birchhead, Louisville, KY: null
 4900 Brownsboro Rd and 2900 block of Southhurst One Parkway, Louisville, KY: null
 4900 Brownsboro Rd near Thorntons, Louisville, KY:
   lat: 38.282331
