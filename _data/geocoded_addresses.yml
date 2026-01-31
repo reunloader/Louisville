@@ -5808,6 +5808,9 @@
 11300 Maple Brook Dr at Liquor Junction, Louisville, KY:
   lat: 38.3019095
   lng: -85.5465593
+11300 Mitchell Hill, Louisville, KY:
+  lat: 38.0871171
+  lng: -85.7681118
 11300 Oasis Ct, Louisville, KY: null
 11300 Old La Grange Rd, Louisville, KY: null
 11300 Patton Ct, Louisville, KY:
@@ -14118,6 +14121,9 @@
 200 Berkman Edge Lane, Louisville, KY: null
 200 Berkman Edge Lane. The outcome of this alert was not specified in the reports., Louisville, KY: null
 200 Berkside, Louisville, KY: null
+200 Beulah Church Rd, Louisville, KY:
+  lat: 38.1315529
+  lng: -85.6140436
 200 Beulah Church, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
@@ -16976,6 +16982,7 @@
   lat: 38.3140959
   lng: -85.5732474
 200 southbound at Gula Church, Louisville, KY: null
+200 southbound at mile 10 near exit 10, Louisville, KY: null
 200 southbound at the 11, Louisville, KY: null
 200 southbound at the 24, Louisville, KY: null
 200 southbound at the 24.1 mile marker, Louisville, KY: null
@@ -52123,6 +52130,7 @@ Faylbers Road and Yorkshire Blvd, Louisville, KY: null
 Featherbell Blvd and Dayflower St, Louisville, KY: null
 Featherbell Blvd and Jimson St, Louisville, KY: null
 Fegenbush Ln and Bardstown Rd, Louisville, KY: null
+Fegenbush Ln and Sunny Hill Rd, Louisville, KY: null
 Fern Creek Rd and Bardstown Rd, Louisville, KY:
   lat: 38.1594168
   lng: -85.5929549
