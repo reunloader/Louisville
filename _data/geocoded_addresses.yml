@@ -564,6 +564,9 @@
 100 Bullitt Ln, Louisville, KY:
   lat: 38.246826
   lng: -85.613749
+100 Cabel St, Louisville, KY:
+  lat: 38.256064
+  lng: -85.728116
 100 Caldwell St, Louisville, KY:
   lat: 38.239768
   lng: -85.7541553
@@ -4854,6 +4857,7 @@
 1100 E W Market St, across S Johnson St, Louisville, KY: null
 1100 E W Market St, specifically, Louisville, KY: null
 1100 E W W Market St, Louisville, KY: null
+1100 E W Washington St, Club Clay, Louisville, KY: null
 1100 E W Washington St, Derby City Prep Clinic, Louisville, KY: null
 1100 E W Washington St, Louisville, KY:
   lat: 38.2579616
