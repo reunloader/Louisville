@@ -25524,6 +25524,7 @@
 3200 Larkwood Ave, Louisville, KY:
   lat: 38.257556
   lng: -85.806106
+3200 Leaf Plane, Louisville, KY: null
 3200 Leith Ln, Louisville, KY:
   lat: 38.2029
   lng: -85.682338
@@ -28010,6 +28011,9 @@
 3700 Sweetmore, Louisville, KY: null
 3700 Talesville, Louisville, KY: null
 3700 Talking Crest, Louisville, KY: null
+3700 Taylor Ave, Louisville, KY:
+  lat: 38.2016802
+  lng: -85.7027508
 3700 Taylor Blvd, Louisville, KY:
   lat: 38.1910205
   lng: -85.7836633
