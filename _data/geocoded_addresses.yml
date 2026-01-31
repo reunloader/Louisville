@@ -5925,6 +5925,9 @@
 1150 Manneville, Louisville, KY: null
 11500 Bluegrass Pky, Louisville, KY: null
 11500 Braid, Louisville, KY: null
+11500 Expedition Trail, Louisville, KY:
+  lat: 38.093424
+  lng: -85.566099
 11500 Harry Plane near North Waterstone Trail, Louisville, KY: null
 11500 Herrick Ln, Christian Village Cir, Christian Community Care, Louisville, KY: null
 11500 Maple Brook Dr, Louisville, KY:
@@ -9060,6 +9063,9 @@
 1400 Glengarry Dr, Louisville, KY:
   lat: 38.123922
   lng: -85.740662
+1400 Grand Trevi Dr near Grand Neptune, Louisville, KY:
+  lat: 38.1336751
+  lng: -85.6163716
 1400 Greta Ave, Louisville, KY:
   lat: 38.1376681
   lng: -85.8502438
@@ -36421,6 +36427,7 @@
   lat: 38.2509279
   lng: -85.7578311
 5000 Academy Park Cir, Louisville, KY: null
+5000 Antonia Way and Antle Dr, Louisville, KY: null
 5000 Armory Pl, Louisville, KY:
   lat: 38.2512682
   lng: -85.7599173
@@ -40662,6 +40669,9 @@
 6000 Candlelight Ln, Louisville, KY:
   lat: 38.1317284
   lng: -85.7776825
+6000 Clinton179 near Kroger, Louisville, KY:
+  lat: 38.2886468
+  lng: -85.5099194
 6000 College Ct, Louisville, KY:
   lat: 38.2409272
   lng: -85.765219
