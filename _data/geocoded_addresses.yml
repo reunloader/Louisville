@@ -3905,6 +3905,7 @@
 1000 magazine, Louisville, KY:
   lat: 38.2484525
   lng: -85.7680848
+1000 neighborhood in Armstrong Center, Louisville, KY: null
 1000 neighborhood plays near Crosshore National Turnpike, Louisville, KY: null
 1000 on1, Louisville, KY: null
 1000 or 1086, Louisville, KY: null
@@ -10467,6 +10468,7 @@
 1500 South31st, Louisville, KY:
   lat: 38.231946
   lng: -85.807205
+1500 South32nd Street, Church of Jesus Christ, Louisville, KY: null
 1500 South36th Street, Louisville, KY:
   lat: 38.2324174
   lng: -85.8144769
@@ -32273,6 +32275,9 @@
 4300 Bell Red, Louisville, KY: null
 4300 Bishop Ln (Millie State Plaza), Louisville, KY: null
 4300 Bishop Ln at Willey C Plaza, Crossgate Ln, and Class 5 Place, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
+4300 Bishop Ln at Willy State Plaza, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
 4300 Bishop Ln near the Speedway, Louisville, KY:
