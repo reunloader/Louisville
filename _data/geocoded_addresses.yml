@@ -14394,6 +14394,7 @@
 200 Claremont Ave, Louisville, KY:
   lat: 38.2568138
   lng: -85.6770385
+200 Cleonade, Louisville, KY: null
 200 Clover Ln, Louisville, KY: null
 200 Clover Ln., EMS was called, Louisville, KY: null
 200 Cloverwood Ln, Louisville, KY:
@@ -47555,6 +47556,9 @@
 800 South 36th Street, Louisville, KY:
   lat: 38.2479228
   lng: -85.8111376
+800 South 37th Street, Louisville, KY:
+  lat: 38.248007
+  lng: -85.8130872
 800 South 3rd Street 1:30 p, Louisville, KY: null
 800 South 3rd Street 1:30 p.m.AM, Louisville, KY: null
 ? 800 South 3rd Street. The alarm indicated motion detected in a family room, prompting
