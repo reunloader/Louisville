@@ -13627,6 +13627,7 @@
 1900 Heather Ln, Louisville, KY:
   lat: 38.2076133
   lng: -85.6642191
+1900 Heaton Rd near Canoe Ln and Hillside Dr, Louisville, KY: null
 1900 Herr Ln near Lauder Elementary School, Louisville, KY:
   lat: 38.2773002
   lng: -85.6226985
@@ -27153,6 +27154,9 @@
 3500 Georgetown Cir. The report indicated a male and female were arguing, with one party wanting the other, Louisville, KY:
   lat: 38.1957374
   lng: -85.7950925
+3500 Georgetown Pl near Valley Forge Way and Conn St, Louisville, KY:
+  lat: 38.195798
+  lng: -85.793506
 3500 Georgetown Pl near Valley Forge and Conn St, Louisville, KY:
   lat: 38.195798
   lng: -85.793506
@@ -52265,6 +52269,7 @@ Cane Run Rd and Van Winkle Dr, Louisville, KY: null
 Cane Run Road and Ralph Avenue, Louisville, KY: null
 Canis Lane and Rock Creek Dr, Louisville, KY: null
 Cannons Ln and Old Cannons Ln, Louisville, KY: null
+Canoe Ln and Hillside Dr, Louisville, KY: null
 Canterbury Dr and Ravinia Ave, Louisville, KY: null
 Caple Ave and London Dr, Louisville, KY: null
 Caple Ave and Manslake Road, Louisville, KY: null
