@@ -1085,6 +1085,9 @@
 100 Iroquois Gardens Dr, Louisville, KY:
   lat: 38.1549719
   lng: -85.7778462
+100 Ivy Crest, Louisville, KY:
+  lat: 38.3099474
+  lng: -85.6128942
 100 James Rd, Louisville, KY:
   lat: 38.1920024
   lng: -85.7436865
@@ -1352,6 +1355,7 @@
 100 North 45th Street, Louisville, KY:
   lat: 38.2660064
   lng: -85.8210911
+100 North 46 Street, Louisville, KY: null
 100 North 46th Street, Louisville, KY:
   lat: 38.2662485
   lng: -85.8227499
@@ -12794,6 +12798,9 @@
 1800 Commerce Rd, Louisville, KY:
   lat: 38.222574
   lng: -85.773346
+1800 Crop St, Louisville, KY:
+  lat: 38.259814
+  lng: -85.779746
 1800 Date St near Dr, Louisville, KY:
   lat: 38.242606
   lng: -85.784814
@@ -30491,6 +30498,9 @@
   lat: 38.2593522
   lng: -85.8122752
 400 South 3rd Street and 1405 West Broadway, Louisville, KY: null
+400 South 3rd Street at Stark parking garage, Louisville, KY:
+  lat: 38.2527349
+  lng: -85.7557747
 400 South 3rd Street, Louisville, KY:
   lat: 38.2527349
   lng: -85.7557747
