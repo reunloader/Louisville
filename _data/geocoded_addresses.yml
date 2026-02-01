@@ -1834,6 +1834,9 @@
 100 South 46th Street, Louisville, KY:
   lat: 38.266176
   lng: -85.8227946
+100 South 46th Street, near North 46th Street and W Market St, Louisville, KY:
+  lat: 38.266176
+  lng: -85.8227946
 100 South 4th Street, Louisville, KY:
   lat: 38.2563822
   lng: -85.7570333
@@ -17175,6 +17178,7 @@
 2000 Auburn Dr, Louisville, KY:
   lat: 38.1396626
   lng: -85.7770771
+2000 Avenue, Louisville, KY: null
 2000 BMW four-door vehicle, Louisville, KY: null
 ? 2000 BMW four-door vehicle. The reporting party, who was on a landline, indicated
   the vehicle was associated with an individual named Robert. Further details, Louisville,
@@ -48352,6 +48356,9 @@
   lng: -85.6078912
 8300 across lane, Louisville, KY: null
 8300 an unspecified street, Louisville, KY: null
+84 Cherokee Rd, Louisville, KY:
+  lat: 38.2415114
+  lng: -85.6742255
 84 Tyeumet Drive, Louisville, KY: null
 84 Walker Rd, Louisville, KY:
   lat: 38.1316635
@@ -52499,6 +52506,7 @@ Garland Ave and Hound Street, Louisville, KY: null
 Garland Ave and Howard St, Louisville, KY: null
 Garrison Rd and Lee Ave, Louisville, KY: null
 Garrs Ln and Eden Ln, Louisville, KY: null
+Garza Lane and Crocus Ln, Louisville, KY: null
 Gatehouse Road and Burnsdale Rd, Louisville, KY: null
 Gathwright Dr and Shelton Ave, Louisville, KY: null
 Gayle Dr and Poplar Level Rd, Louisville, KY: null
