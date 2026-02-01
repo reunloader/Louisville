@@ -912,6 +912,7 @@
 100 Edgewood Way, Louisville, KY:
   lat: 38.249039
   lng: -85.553567
+100 Edward Mary Ocean, in a white Chevy Cruze, Louisville, KY: null
 100 Edward, Louisville, KY:
   lat: 38.172881
   lng: -85.5883185
@@ -4692,6 +4693,9 @@
 11 Grade Ln, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
+11 Gray Ln, Louisville, KY:
+  lat: 38.1482762
+  lng: -85.8889341
 11 Greten Ln, Louisville, KY: null
 11 Linwood Ave, Louisville, KY:
   lat: 38.222561
@@ -35324,6 +35328,7 @@
 4900 South First Street, Louisville, KY: null
 4900 South Hirsborne Parkway, Louisville, KY: null
 4900 South Hirsborne Pkwy, Louisville, KY: null
+4900 South Horsborne Parkway, Louisville, KY: null
 4900 South Second Street, Louisville, KY: null
 4900 South Watterson Trail, Louisville, KY:
   lat: 38.1579784
