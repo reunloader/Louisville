@@ -33111,6 +33111,9 @@
 4300 Whitmore Ave, Louisville, KY:
   lat: 38.17886
   lng: -85.78458
+4300 Winter Garden Ct, Louisville, KY:
+  lat: 38.1872112
+  lng: -85.6292391
 4300 Wisteria Ave, Louisville, KY: null
 4300 Wisteria Landing Cir, Louisville, KY: null
 4300 Wooded Way Ct, Louisville, KY: null
@@ -41001,6 +41004,10 @@
   lng: -85.5485755
 6000 Bowl near Hunter's Plain Circle, Louisville, KY: null
 6000 Breckenridge Ln and Berkshire Ave, Louisville, KY: null
+6000 Breckenridge and 9th and O Baptist, Louisville, KY: null
+6000 Breckenridge, Louisville, KY:
+  lat: 38.1988391
+  lng: -85.6228053
 6000 Bristol Block Circle, Louisville, KY: null
 6000 Bristol Blood Circle near Bristol Blood Slay, Louisville, KY: null
 6000 Bristol Bluff Circle, Louisville, KY: null
