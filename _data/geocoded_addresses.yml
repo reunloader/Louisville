@@ -987,6 +987,7 @@
 100 Gilmore. The specific reason, Louisville, KY:
   lat: 38.1789198
   lng: -85.7056127
+100 Ginkgo Trail, Louisville, KY: null
 100 Glen Drop, Louisville, KY: null
 100 Goddard Ave, Louisville, KY:
   lat: 38.2324719
@@ -5055,6 +5056,7 @@
 1100 Lavista Way at Elijah Christian Child Care, Louisville, KY:
   lat: 38.1456694
   lng: -85.6949603
+1100 Lehigh Ave across you of Henry Ave and Ethridge Ave, Louisville, KY: null
 1100 Lehigh Ave, Louisville, KY:
   lat: 38.1807044
   lng: -85.77924
@@ -22442,6 +22444,9 @@
 29 Fairground Rd, Louisville, KY:
   lat: 38.1740102
   lng: -85.5830729
+29 Woods Mill Dr, Louisville, KY:
+  lat: 38.0909056
+  lng: -85.8846246
 2900 Abigail Dr, Louisville, KY: null
 2900 Alford Ave, Louisville, KY:
   lat: 38.2653078
