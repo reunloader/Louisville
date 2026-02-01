@@ -12908,6 +12908,9 @@
   lat: 38.216758
   lng: -85.795876
 1800 Heaton Rd, Louisville, KY: null
+1800 Hill Park Way, Louisville, KY:
+  lat: 38.2148723
+  lng: -85.6237107
 1800 Hunnington Pl, Louisville, KY:
   lat: 38.2245085
   lng: -85.5865007
@@ -34716,6 +34719,9 @@
 4800 E Manslick Rd, Louisville, KY:
   lat: 38.1188896
   lng: -85.6714101
+4800 East Indian Trail, Louisville, KY:
+  lat: 38.180062
+  lng: -85.673402
 4800 East Mark Street, Louisville, KY: null
 4800 Exeter Ave, Louisville, KY:
   lat: 38.1813107
@@ -38196,6 +38202,9 @@
   lat: 38.1570219
   lng: -85.8577378
 5500 HR Boulevard, Louisville, KY: null
+5500 Hill Park Way, Louisville, KY:
+  lat: 38.2148723
+  lng: -85.6237107
 5500 Hunt Club Ln, Louisville, KY:
   lat: 38.143656
   lng: -85.777398
