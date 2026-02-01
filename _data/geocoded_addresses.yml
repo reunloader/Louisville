@@ -25,6 +25,9 @@
 0 Dixie Hwy. Authorities arrived, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+0 Donau Ln. Police responded promptly, Louisville, KY:
+  lat: 38.1089806
+  lng: -85.8751233
 0 FDSC fabricating, Louisville, KY: null
 0 Force Spin Circle, Louisville, KY: null
 0 Irowick, Louisville, KY: null
@@ -109,6 +112,9 @@
 01 Mackie Ln, Louisville, KY:
   lat: 38.1408403
   lng: -85.7646787
+01 Mud Ln, Louisville, KY:
+  lat: 38.090966
+  lng: -85.6695494
 01 Pigment Drive, Louisville, KY: null
 01 River Bend Dr, Louisville, KY:
   lat: 38.26863
@@ -4749,6 +4755,7 @@
 1100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+1100 Baker, with a person waiting outside. Police responded, Louisville, KY: null
 1100 Barch John Road, Louisville, KY: null
 1100 Barchetown Road, Louisville, KY: null
 1100 Bardstown Rd at Orton, Louisville, KY:
@@ -5254,6 +5261,9 @@
   no immediate signs of smoke or flames showing from the exterior. Firefighters were
   preparing, Louisville, KY
 : lat: 38.2366186
+  lng: -85.7535764
+1100 S Brook St. The incident was added to a BOLO (Be On Lookout) alert, Louisville, KY:
+  lat: 38.2366186
   lng: -85.7535764
 1100 S Floyd St at the Valero, Louisville, KY:
   lat: 38.234987
@@ -31871,6 +31881,9 @@
   lat: 38.183023
   lng: -85.787949
 4100 Herman St, Louisville, KY:
+  lat: 38.260451
+  lng: -85.817807
+4100 Herman St. Officers responded, Louisville, KY:
   lat: 38.260451
   lng: -85.817807
 4100 Herman, Louisville, KY:
