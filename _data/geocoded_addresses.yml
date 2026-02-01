@@ -8876,6 +8876,7 @@
 1400 Aiken Ridge Dr, Louisville, KY: null
 1400 Alliant Ave, Louisville, KY: null
 1400 Anchorage Hills Dr, Louisville, KY: null
+1400 Anna Ln crossing with Baylor Dr and Manslick Rd, Louisville, KY: null
 1400 Anna Ln where a male had left a motorcycle in his driveway. The motorcycle was noted, Louisville, KY: null
 1400 Anna Ln, Louisville, KY:
   lat: 38.1810181
@@ -8972,6 +8973,7 @@
 1400 Browns Ln,, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
+1400 Camden crossing with Carlisle, Louisville, KY: null
 1400 Cardinal Dr, Louisville, KY:
   lat: 38.1958509
   lng: -85.7218064
@@ -11008,6 +11010,7 @@
 1600 Bicknell Ave, Louisville, KY:
   lat: 38.1834948
   lng: -85.7901511
+1600 Bland St crossing with East Hill and East Burnet, Louisville, KY: null
 1600 Bluegrass Ave, Louisville, KY:
   lat: 38.179522
   lng: -85.791728
@@ -21995,6 +21998,9 @@
 2700 West Broadway at the Proger, near South 28th and South 27th Street, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
+2700 West Broadway crossing with South27 and South 28 near McDonald's, Louisville, KY:
+  lat: 38.267342
+  lng: -85.783509
 2700 West Broadway near 28th and 27th Streets, Louisville, KY: null
 2700 West Broadway near Kroger and Subway, Louisville, KY:
   lat: 38.249441
@@ -49723,6 +49729,7 @@
   lat: 38.1481773
   lng: -85.7770712
 900 Jones drop of E, Louisville, KY: null
+900 Keswick Blvd crossing with DeLore and Alexander, Louisville, KY: null
 900 Keswick Blvd, Louisville, KY:
   lat: 38.2184615
   lng: -85.7423356
@@ -52086,6 +52093,7 @@ Baxter Ave and Hepburn Ave, Louisville, KY: null
 Baxter Ave and Lexington Rd, Louisville, KY: null
 Baxter Ave and Morton Ave, Louisville, KY: null
 Baxter Ave and Payne St, Louisville, KY: null
+Baylor Dr and Manslick Rd, Louisville, KY: null
 Beahl Blvd and Brownsboro Rd, Louisville, KY: null
 Beargrass Ave and Shepherd Avenue, Louisville, KY: null
 Beaumont Rd and Hawthorne Ave, Louisville, KY: null
