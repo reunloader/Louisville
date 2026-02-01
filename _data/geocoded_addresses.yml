@@ -4901,6 +4901,9 @@
 1100 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
+1100 E W Kentucky St, Louisville, KY:
+  lat: 38.2414889
+  lng: -85.7789521
 1100 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
@@ -32011,6 +32014,9 @@
   lng: -85.8357309
 4100 Reservoir Ave in Belmar, Louisville, KY: null
 4100 Reservoir Ave, Crop St of Indiana Ave in Belmar, Louisville, KY: null
+4100 Reservoir Ave, Louisville, KY:
+  lat: 38.195138
+  lng: -85.721154
 4100 Riedley Ct, Louisville, KY:
   lat: 38.20242
   lng: -85.828712
@@ -32457,6 +32463,9 @@
 4200 N Church Way, Louisville, KY: null
 4200 Naishan Lane and Fast V Lane near Star Lake, Louisville, KY: null
 4200 Naomi Dr, Louisville, KY:
+  lat: 38.1641952
+  lng: -85.684006
+4200 Naomi, Louisville, KY:
   lat: 38.1641952
   lng: -85.684006
 4200 Narcissus Dr, Louisville, KY:
@@ -48328,6 +48337,9 @@
 8300 Laverne, Louisville, KY:
   lat: 38.1465483
   lng: -85.6642271
+8300 Linda Rd, Louisville, KY:
+  lat: 38.130903
+  lng: -85.6784302
 8300 Lindsay Ct, Louisville, KY:
   lat: 38.2605244
   lng: -85.7054888
