@@ -297,6 +297,7 @@
 10 Melody Acres Ln, Louisville, KY:
   lat: 38.1858054
   lng: -85.8504399
+10 Oregon, but the tracks were lost heading toward Dixdale and Beach, Louisville, KY: null
 10 Peoplecrest Drive, Louisville, KY: null
 10 Raylon Dr, Louisville, KY:
   lat: 38.121253
@@ -22978,6 +22979,9 @@
 30 Palatka Rd, Louisville, KY:
   lat: 38.1550559
   lng: -85.8008399
+30 Reed St, Louisville, KY:
+  lat: 38.209816
+  lng: -85.751742
 30 Russell Lee Dr, Louisville, KY:
   lat: 38.2288147
   lng: -85.81672
@@ -39010,6 +39014,9 @@
 5800 Mount Everest Dr, Louisville, KY:
   lat: 38.167745
   lng: -85.8521638
+5800 New Cut Rd. The fire was delayed by a train crossing but was eventually contained. No further details, Louisville, KY:
+  lat: 38.1334059
+  lng: -85.7730436
 5800 Poplar Level Rd, Louisville, KY:
   lat: 38.158208
   lng: -85.6534669
