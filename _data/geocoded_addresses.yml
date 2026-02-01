@@ -31049,6 +31049,9 @@
 400 W Ormsby Ave, Louisville, KY:
   lat: 38.232788
   lng: -85.760871
+400 W River Rd, Louisville, KY:
+  lat: 38.2588025
+  lng: -85.7569967
 400 W Southside Ct, Louisville, KY: null
 400 W W Kingston Ave, Louisville, KY: null
 ? 400 W W Kingston Ave. The person was described as a black male with braids, wearing
@@ -33923,6 +33926,9 @@
 4500 Murphy Ln, Louisville, KY:
   lat: 38.309954
   lng: -85.538459
+4500 Oak Pointe Dr, Louisville, KY:
+  lat: 38.3114713
+  lng: -85.5366661
 ? 4500 Old Dixie Hwy to address a medical call. Further details regarding the nature
   of the emergency were not immediately available., Louisville, KY
 : null
@@ -35927,6 +35933,7 @@
 500 East Jefferson, Louisville, KY:
   lat: 38.2305447
   lng: -85.7479613
+500 East Justin Street, Louisville, KY: null
 500 East Lawrence V Avenue, Louisville, KY: null
 500 East Liberty, Louisville, KY:
   lat: 38.251015
@@ -48517,6 +48524,9 @@
 8400 Candleworth Dr, Louisville, KY:
   lat: 38.1279286
   lng: -85.7863749
+8400 Cane Run Rd, Louisville, KY:
+  lat: 38.1344498
+  lng: -85.8979692
 8400 Color Report Dr, Louisville, KY: null
 8400 Dixie Hwy at Thorntons, Louisville, KY:
   lat: 38.1299043
