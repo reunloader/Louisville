@@ -1256,6 +1256,9 @@
 100 Morgan Ave (near Henderson and Franklin), Louisville, KY: null
 100 Mount Marker, Louisville, KY: null
 100 N Peterson Ct and 47 River Crest Ct, Louisville, KY: null
+100 N Peterson Ct, Louisville, KY:
+  lat: 38.2574869
+  lng: -85.6994427
 100 N S Birchwood Ave, Louisville, KY:
   lat: 38.2520387
   lng: -85.6894897
@@ -4349,6 +4352,9 @@
 10400 Vista Hills Blvd, Louisville, KY:
   lat: 38.093783
   lng: -85.5647893
+10400 W Manslick Rd, Louisville, KY:
+  lat: 38.1112387
+  lng: -85.7666894
 10400 Watermark Pl at Hearst Forest States, Louisville, KY: null
 10400 Watermark Pl, Louisville, KY: null
 10400 West Manslake Road near Mason Ln and Sharon Ln, Louisville, KY: null
@@ -12458,6 +12464,7 @@
 1700 W Oak St near Hopeful Way, Louisville, KY:
   lat: 38.2368649
   lng: -85.7830138
+1700 W Oak St, Dixie Chicken, Louisville, KY: null
 1700 W Oak St, Louisville, KY:
   lat: 38.2368649
   lng: -85.7830138
@@ -38779,6 +38786,7 @@
 5600 Jessamine, Louisville, KY:
   lat: 38.1389913
   lng: -85.8602314
+5600 Johnson town Rd, Louisville, KY: null
 5600 Lagoona Dr, Louisville, KY:
   lat: 38.1698947
   lng: -85.6771558
@@ -53331,6 +53339,7 @@ Shelbyville Rd and Dorsey Ln, Louisville, KY: null
 Shelbyville Rd and English St, Louisville, KY: null
 Shelbyville Rd and Flat Rock Rd, Louisville, KY: null
 Shelbyville Rd and Herb Ln, Louisville, KY: null
+Shelbyville Rd and Lake Forest Pky, Louisville, KY: null
 Shelbyville Rd and Linden Ln, Louisville, KY: null
 Shelbyville Rd and Lucas Creek Rd, Louisville, KY: null
 Shelbyville Rd and Lucas Creek Road, Louisville, KY: null
