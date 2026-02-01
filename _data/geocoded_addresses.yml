@@ -170,6 +170,9 @@
 04 Red Stone Hill Rd, Louisville, KY:
   lat: 38.1366772
   lng: -85.7986454
+05 Brown Austin Rd, Louisville, KY:
+  lat: 38.1211338
+  lng: -85.7677137
 05 Club Trace Place, Louisville, KY: null
 05 Rosewood Ave, Louisville, KY:
   lat: 38.2325761
@@ -13240,6 +13243,7 @@
   lng: -85.7947233
 1800 South3rd Street, Louisville, KY: null
 1800 Southbrook Street, Louisville, KY: null
+1800 Southhurst near Japanese steakhouse, Louisville, KY: null
 1800 Southwestern Pky, near the intersection with Herman St and W Market St, Louisville, KY:
   lat: 38.2477827
   lng: -85.829606
@@ -21411,6 +21415,9 @@
   lat: 38.2465837
   lng: -85.6947618
 2600 Utah Ave, Louisville, KY: null
+2600 Virginia Ave near 26th Street, Louisville, KY:
+  lat: 38.2374918
+  lng: -85.7968374
 2600 Virginia Ave, Louisville, KY:
   lat: 38.2374918
   lng: -85.7968374
@@ -30355,6 +30362,9 @@
 400 Park Ave, Louisville, KY:
   lat: 38.231342
   lng: -85.761131
+400 Parthenia Ave, Louisville, KY:
+  lat: 38.191647
+  lng: -85.7924364
 400 Pen Hollow Rd**, Louisville, KY:
   lat: 38.1101642
   lng: -85.7707318
@@ -32605,6 +32615,7 @@
   lng: -85.783849
 4200 Taylor Blvd, Treasury, Lynnhurst Ave, and Bluegrass Ave, Louisville, KY: null
 4200 Taylor Willivar, Louisville, KY: null
+4200 Tim Colleen, Louisville, KY: null
 4200 Town Center, Louisville, KY: null
 4200 Towne Center Dr, Louisville, KY:
   lat: 38.3007023
