@@ -17382,6 +17382,7 @@
 2000 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+2000 Dodge Avenue near Kentucky at Norah, Louisville, KY: null
 2000 Dodge Caravan. A BOLO alert has been issued, Louisville, KY: null
 2000 Dodge Challenger, Louisville, KY: null
 2000 Dodge Charger, Louisville, KY: null
@@ -32772,6 +32773,9 @@
 4300 Cane Run Rd, with evidence of entry or exit through a rear door, Louisville, KY: null
 4300 Cane Run Rd, with evidence of entry or exit through a rear door., Louisville, KY: null
 4300 Canoran Road, Louisville, KY: null
+4300 Carver Ct, Louisville, KY:
+  lat: 38.1795604
+  lng: -85.6660826
 4300 Catalpa Leaf Way, Louisville, KY: null
 4300 Cathay Ct near Linda, Louisville, KY:
   lat: 38.1323486
@@ -47365,6 +47369,9 @@
   lat: 38.1908906
   lng: -85.7431851
 800 Phillips Plain near Emberson and James Rd, Louisville, KY: null
+800 Phillips, Louisville, KY:
+  lat: 38.1908906
+  lng: -85.7431851
 800 Pigsley Highway in Rockford Ln, Louisville, KY: null
 800 Preston Hwy, Louisville, KY:
   lat: 38.1819023
