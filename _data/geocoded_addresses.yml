@@ -900,6 +900,9 @@
 100 East, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
+100 Eastern Parkway at Eastway Health and Rehab, Louisville, KY:
+  lat: 38.213645
+  lng: -85.762113
 100 Eastern Parkway, Crop St, Hahn St, and South 3rd Street, Louisville, KY: null
 100 Eastern Parkway, Louisville, KY:
   lat: 38.213645
@@ -8665,6 +8668,9 @@
 13500 Pinnacle Gardens Cir, Louisville, KY:
   lat: 38.2872093
   lng: -85.5057165
+13500 Pleasant Glen Ct, Louisville, KY:
+  lat: 38.1827303
+  lng: -85.5187477
 13500 Rock Bay Ct, Louisville, KY:
   lat: 38.2911604
   lng: -85.5060035
@@ -31770,6 +31776,7 @@
 : null
 4100 Estate Dr, and areas near Trialton and Mason Rd, Louisville, KY: null
 4100 Faintham Creek Road, Louisville, KY: null
+4100 Fainton Creek Road, Louisville, KY: null
 4100 Fandrum Creek Road, Louisville, KY: null
 4100 Faneham Creek Road near Crusher, Louisville, KY: null
 4100 Fannam Creek, Louisville, KY: null
@@ -34303,6 +34310,7 @@
 4600 South Air Sport Parkway, Louisville, KY: null
 4600 South Cross Drive, Louisville, KY: null
 4600 South First Street, Louisville, KY: null
+4600 South Hirschborn Parkway, Burger King, Louisville, KY: null
 4600 South Press Drive near Westwood Lawn, Louisville, KY: null
 4600 South Second Street, Louisville, KY: null
 4600 South Sir, helping officers recover the stolen car and prevent further incidents, Louisville, KY: null
@@ -42866,6 +42874,7 @@
 6800 South Fifth Street, Louisville, KY: null
 6800 South First Floor, Louisville, KY: null
 6800 South Harrisburg Parkway, Louisville, KY: null
+6800 South Hirschborn Burnett Avenue near South Hirschborn Parkway Baptist Church, Louisville, KY: null
 6800 South Watterson Trail, Louisville, KY:
   lat: 38.1579784
   lng: -85.6145379
