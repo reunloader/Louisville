@@ -3014,6 +3014,9 @@
 1000 Jeff, Louisville, KY:
   lat: 38.1537856
   lng: -85.671884
+1000 Jefferson Hill Rd, Louisville, KY:
+  lat: 38.0939475
+  lng: -85.7902493
 1000 Kaiser Ct, Louisville, KY:
   lat: 38.244535
   lng: -85.82644
@@ -44235,6 +44238,7 @@
 700 Oldbury Pl, Louisville, KY: null
 700 Orange Beach, possibly due, Louisville, KY: null
 700 Ornsby, Louisville, KY: null
+700 Oswell Street, Louisville, KY: null
 700 Outer Loop and 700 block of Grade, Louisville, KY: null
 700 Outer Loop near Target, Louisville, KY:
   lat: 38.126456
@@ -50780,6 +50784,7 @@
 9200 S Preston St, Louisville, KY:
   lat: 38.2296475
   lng: -85.7502292
+9200 South Hairsporn, Louisville, KY: null
 9200 South Preston, Louisville, KY:
   lat: 38.2144909
   lng: -85.7430152
