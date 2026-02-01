@@ -44757,6 +44757,7 @@
 : null
 700 both Eli Dr and an adjacent street, Louisville, KY: null
 700 both streets, Louisville, KY: null
+700 east of Market, Louisville, KY: null
 700 lane to3-H drive, Louisville, KY: null
 700 magazine, Louisville, KY:
   lat: 38.248125
@@ -46426,6 +46427,9 @@
 7800 Nottoway Cir, Louisville, KY:
   lat: 38.16109
   lng: -85.803318
+7800 Pleasure Walk Cir, Louisville, KY:
+  lat: 38.141671
+  lng: -85.8675259
 7800 Ridgehurst, Louisville, KY:
   lat: 38.1930672
   lng: -85.6130815
