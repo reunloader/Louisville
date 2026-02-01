@@ -838,6 +838,9 @@
 100 East Amherst, Louisville, KY:
   lat: 38.1747425
   lng: -85.7630651
+100 East Broadway at Chocobill, Louisville, KY:
+  lat: 38.24549
+  lng: -85.7532301
 100 East Broadway, Louisville, KY:
   lat: 38.24549
   lng: -85.7532301
@@ -9315,6 +9318,9 @@
   lat: 38.2580132
   lng: -85.7562005
 1400 North Harrisborne Parkway, Louisville, KY: null
+1400 Oakland Ave, Louisville, KY:
+  lat: 38.2292835
+  lng: -85.7697975
 1400 Oakwood Ave, Louisville, KY:
   lat: 38.1767881
   lng: -85.7854785
@@ -13398,6 +13404,9 @@
 19 Charles St, Louisville, KY:
   lat: 38.2296897
   lng: -85.734991
+19 Gheens Ave, Louisville, KY:
+  lat: 38.1688156
+  lng: -85.7730088
 19 Hewesville Lake Road, Louisville, KY: null
 19 Saturn Dr, Louisville, KY:
   lat: 38.1063816
@@ -24265,6 +24274,9 @@
 300 West Alley, Louisville, KY:
   lat: 38.2620848
   lng: -85.801873
+300 West Brandeis, Louisville, KY:
+  lat: 38.220486
+  lng: -85.7457168
 300 West Broadway near the State Farm building, Louisville, KY:
   lat: 38.2457716
   lng: -85.7569119
@@ -30481,6 +30493,7 @@
 400 Second Street, Louisville, KY:
   lat: 38.2627168
   lng: -85.7518467
+400 Segalcrest Court, Louisville, KY: null
 400 Sensor Street, Louisville, KY: null
 400 Shadow Ridge Ln, Louisville, KY:
   lat: 38.3181135
