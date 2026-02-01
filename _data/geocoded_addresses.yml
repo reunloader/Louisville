@@ -2023,6 +2023,9 @@
 100 Upper Hunters Trace, Louisville, KY:
   lat: 38.1671111
   lng: -85.8404346
+100 Vermont Ave, Louisville, KY:
+  lat: 38.2564101
+  lng: -85.8150421
 100 Vernon Ave, Louisville, KY:
   lat: 38.254343
   lng: -85.708564
@@ -33386,6 +33389,7 @@
   lat: 38.3113177
   lng: -85.5486489
 4400 Signal Hill Rd, Louisville, KY: null
+4400 Silverleaf Dr, Louisville, KY: null
 4400 South 20th Street, Louisville, KY:
   lat: 38.2574715
   lng: -85.7833779
