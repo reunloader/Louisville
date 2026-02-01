@@ -6856,6 +6856,9 @@
   lat: 38.2144909
   lng: -85.7430152
 1200 S Shelby St No, Louisville, KY: null
+1200 S Shelby St near Shelby Parkway, Louisville, KY:
+  lat: 38.2332794
+  lng: -85.7418048
 1200 S Shelby St, Louisville, KY:
   lat: 38.2332794
   lng: -85.7418048
@@ -26022,6 +26025,9 @@
   lat: 38.1426819
   lng: -85.8500632
 3300 Bardstown Rd (Brown Suburban Hotel), Louisville, KY: null
+3300 Bardstown Rd at the Grand Serbin Hotel, Louisville, KY:
+  lat: 38.2076242
+  lng: -85.6693366
 3300 Bardstown Rd behind a building, Louisville, KY: null
 3300 Bardstown Rd near the Brown Hotel, Louisville, KY:
   lat: 38.2076242
@@ -40397,6 +40403,7 @@
 600 South Crescent Street, Louisville, KY: null
 600 South Fifteenth Street, Louisville, KY: null
 600 South Fifth Street, Louisville, KY: null
+600 South Forks Street, Louisville, KY: null
 600 South Fourth Street, Louisville, KY: null
 600 South Hirschbaum Parkway, Louisville, KY: null
 600 South Hirshbaum Parkway near Corner Steakhouse and Stone Creek Pky, Louisville, KY: null
