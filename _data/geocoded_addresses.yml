@@ -13853,6 +13853,9 @@
   lat: 38.253808
   lng: -85.782488
 1900 Westbound264, Louisville, KY: null
+1900 Wildwood Dr near Wiltonwood Ct, Louisville, KY:
+  lat: 38.1279818
+  lng: -85.7073311
 1900 Winston Ave, Louisville, KY:
   lat: 38.2146924
   lng: -85.6866879
@@ -31656,6 +31659,7 @@
 : null
 4100 Craig Ave, between Crop St and Alma Ave,, Louisville, KY: null
 4100 Creighton, Louisville, KY: null
+4100 Crosswinds Dr near Creekvalley Rd and Marengo Dr, Louisville, KY: null
 4100 Cumberland Lake Cir, Louisville, KY: null
 4100 Dellafay Dr, Louisville, KY:
   lat: 38.1587447
@@ -33991,6 +33995,9 @@
 4600 Brownsboro Rd, Louisville, KY:
   lat: 38.3012117
   lng: -85.5911063
+4600 Brownsboro at Whitney Springs Way, Louisville, KY:
+  lat: 38.3084688
+  lng: -85.5669251
 4600 Camron Roll, Louisville, KY: null
 4600 Camron Roll. The vehicle, a blue Chevy Equinox, had reportedly been parked on the property, Louisville, KY: null
 4600 Cane Run Rd, Louisville, KY:
@@ -40792,6 +40799,9 @@
 6000 Clinton179 near Kroger, Louisville, KY:
   lat: 38.2886468
   lng: -85.5099194
+6000 Colebrooke Ln near Cecilia Way and Joyce Dr, Louisville, KY:
+  lat: 38.137424
+  lng: -85.651171
 6000 College Ct, Louisville, KY:
   lat: 38.2409272
   lng: -85.765219
@@ -52030,6 +52040,7 @@ Cox Ave and Rochester Dr, Louisville, KY: null
 Craig Ave and Conn St, Louisville, KY: null
 Crambrook Ave and Johnson Rd, Louisville, KY: null
 Cready Avenue and Wentworth Ave, Louisville, KY: null
+Creekvalley Rd and Marengo Dr, Louisville, KY: null
 Crescent Ave and Brownsboro Rd, Louisville, KY: null
 Crescent Garsh Lane and East Ln, Louisville, KY: null
 Crescent Spring Dr and Vickle Road, Louisville, KY: null
