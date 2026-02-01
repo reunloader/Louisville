@@ -2423,6 +2423,7 @@
   lng: -85.6778651
 100 involved road, Louisville, KY: null
 100 item, 400 block of North26th Street, Louisville, KY: null
+100 just north of the track, Louisville, KY: null
 100 mile marker 65 North near Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
@@ -49166,6 +49167,9 @@
 900 Avenue**, Louisville, KY: null
 900 B2, Louisville, KY: null
 900 Baker State Drive, Louisville, KY: null
+900 Baker near Pinsky Logistics, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 900 Bank St, Louisville, KY:
   lat: 38.2654471
   lng: -85.7821805
