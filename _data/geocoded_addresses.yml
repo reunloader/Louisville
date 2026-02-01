@@ -3507,6 +3507,9 @@
 1000 South 1st Street, Louisville, KY:
   lat: 38.23828
   lng: -85.754787
+1000 South 1st Street. The vehicle had been sitting, Louisville, KY:
+  lat: 38.23828
+  lng: -85.754787
 ? 1000 South 28th Street in response to a medical emergency. The call was classified
   as a "Charlie" level, indicating a significant medical situation, though further
   specifics about the patient's condition were not disclosed., Louisville, KY
@@ -5258,6 +5261,9 @@
   lat: 38.2016537
   lng: -85.7787413
 1100 Quinton Dr, with a suspect's son’s friend involved and a gun being pulled during the incident, Louisville, KY: null
+1100 Ree Dr, Louisville, KY:
+  lat: 38.1652705
+  lng: -85.8613783
 1100 River Rd, Louisville, KY:
   lat: 38.261542
   lng: -85.736495
@@ -24657,6 +24663,9 @@
   lat: 38.3161801
   lng: -85.6485728
 3000 Grand Avenue, [Date] Evening, Louisville, KY: null
+3000 Grant Ave. Emergency medical services responded promptly, Louisville, KY:
+  lat: 38.1683663
+  lng: -85.7788663
 ? 3000 Greenup Rd. Searches were performed in both county and Jefferson County databases,
   but no matches or relevant information were found regarding the vehicles., Louisville,
   KY
@@ -25312,6 +25321,9 @@
 3100 Montana, Louisville, KY:
   lat: 38.2083349
   lng: -85.7761468
+3100 North 23rd Street. Responders arrived, Louisville, KY:
+  lat: 38.2638706
+  lng: -85.7870962
 3100 North First Farm Parkway, Louisville, KY: null
 3100 North Firstborn Parkway, Louisville, KY: null
 3100 North Hurstborne Parkway at Willow's at Springhurst, Louisville, KY: null
@@ -52757,6 +52769,7 @@ Harrods Glen Dr and Harrods Ridge Dr, Louisville, KY: null
 Harshawn Road and Maryland Ave, Louisville, KY: null
 Harsher Island Avenue and Bell Harbor Avenue, Louisville, KY: null
 Hart Ave and Audubon Parkway, Louisville, KY: null
+Hartland Ave and Owen St, Louisville, KY: null
 Hartland Ave and Scanlon St, Louisville, KY: null
 Hawthorne Ave and Bardstown Rd, Louisville, KY: null
 Hayward Rd and Brownsboro Rd, Louisville, KY: null
