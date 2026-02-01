@@ -16139,6 +16139,7 @@
   lng: -85.7548989
 200 Southbound near the 10 mile marker, Louisville, KY: null
 200 Southbound, Louisville, KY: null
+200 Southbound, another, Louisville, KY: null
 200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
 200 Southern Ave, Louisville, KY:
   lat: 38.1886289
@@ -40260,6 +40261,9 @@
 600 One Year Reca Drive, Louisville, KY: null
 600 Osbury Drive, Louisville, KY: null
 600 Out of California. Additionally, police responded, Louisville, KY: null
+600 Outer Loop, Louisville, KY:
+  lat: 38.1258404
+  lng: -85.7540314
 600 Oxford Ct, Louisville, KY:
   lat: 38.1594611
   lng: -85.6028256
@@ -48935,6 +48939,7 @@
 8700 Glenfield Way, Louisville, KY:
   lat: 38.3003818
   lng: -85.589526
+8700 Hi View Ln, Louisville, KY: null
 8700 Hickory Ct, Louisville, KY:
   lat: 38.3100816
   lng: -85.5499707
