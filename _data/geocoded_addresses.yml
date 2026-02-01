@@ -14183,6 +14183,7 @@
   lat: 38.2251872
   lng: -85.6347733
 200 Breckenridge Square, Louisville, KY: null
+200 Brenda Williams, Louisville, KY: null
 200 Bridgemore Ln, Louisville, KY:
   lat: 38.2475729
   lng: -85.4132047
@@ -39925,6 +39926,9 @@
 600 Montana Ave, Louisville, KY:
   lat: 38.2118235
   lng: -85.7679616
+600 Mount Holly Ave near Lindsay Ave and Cleveland Blvd, Louisville, KY:
+  lat: 38.2600803
+  lng: -85.703198
 600 Mutual Bypass of the Tumbleweed, Louisville, KY: null
 600 New Town Woods Trail, Louisville, KY: null
 600 Newberg near a wood line and trail, Louisville, KY: null
@@ -45241,6 +45245,9 @@
   lat: 38.1428729
   lng: -85.7563021
 7200 National Turnpike, specifically at the Brady SPC,, Louisville, KY: null
+7200 Newbridge Rd, Louisville, KY:
+  lat: 38.1568099
+  lng: -85.5879098
 7200 Old Mill Rd, Louisville, KY: null
 ? 7200 Outer Loop due to symptoms including lightheadedness, shaking, and slurred
   speech, which were concerning, Louisville, KY
@@ -48419,6 +48426,9 @@
   lng: -85.6043255
 8500 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 8500 Shepherd'sville Road, Louisville, KY: null
+8500 Silver Fox Rd, Louisville, KY:
+  lat: 38.1494139
+  lng: -85.6023622
 8500 South 28th Street, Louisville, KY:
   lat: 38.2549234
   lng: -85.7973288
@@ -52559,6 +52569,7 @@ Lincoln Ave and Taylor Ave, Louisville, KY: null
 Lincoln Rd and Shelbyville Rd, Louisville, KY: null
 Lindbergh Dr and Colorado Ave, Louisville, KY: null
 Linden Ln and Warwick Ave, Louisville, KY: null
+Lindsay Ave and Cleveland Blvd, Louisville, KY: null
 Lindsay Ave and University Ave, Louisville, KY: null
 Lisa Ave and Flying Castle Avenue, Louisville, KY: null
 Little Road and Count Turf Dr, Louisville, KY: null
