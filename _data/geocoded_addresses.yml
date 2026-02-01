@@ -9527,6 +9527,9 @@
 1400 South4th Street, Louisville, KY:
   lat: 38.2289095
   lng: -85.7617931
+1400 South6th Street, Louisville, KY:
+  lat: 38.2293325
+  lng: -85.7650108
 1400 South7th Street gas station, Louisville, KY: null
 1400 South7th Street, Louisville, KY:
   lat: 38.228975
@@ -17984,6 +17987,9 @@
 2100 Bank St, Louisville, KY:
   lat: 38.2660094
   lng: -85.7832854
+2100 Bank St, near North 22nd and North 24th, Louisville, KY:
+  lat: 38.2660094
+  lng: -85.7832854
 2100 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 2100 Bardstown Rd, Louisville, KY:
   lat: 38.187628
@@ -20310,6 +20316,7 @@
 2400 W Jefferson St, Louisville, KY:
   lat: 38.2574083
   lng: -85.7912216
+2400 W Jefferson St, South Preston, Louisville, KY: null
 2400 W Main St, Louisville, KY:
   lat: 38.2601536
   lng: -85.78995
@@ -40804,6 +40811,7 @@
 6000 Clinton179 near Kroger, Louisville, KY:
   lat: 38.2886468
   lng: -85.5099194
+6000 Cobruk Lane, Louisville, KY: null
 6000 Colebrooke Ln near Cecilia Way and Joyce Dr, Louisville, KY:
   lat: 38.137424
   lng: -85.651171
