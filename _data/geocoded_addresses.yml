@@ -11812,6 +11812,9 @@
 17 Lambert Ave, Louisville, KY:
   lat: 38.1351988
   lng: -85.6821883
+17 Lamborne Blvd, Louisville, KY:
+  lat: 38.1142568
+  lng: -85.8101967
 17 Paradise Ln, Louisville, KY:
   lat: 38.1376816
   lng: -85.8711228
@@ -37887,6 +37890,7 @@
 : lat: 38.106142
   lng: -85.661911
 5300 Branning Rd near Sheffieldville, Louisville, KY: null
+5300 Brookwood, Louisville, KY: null
 5300 Buckner Ave south of Marshall Walk and W Southland Blvd, Louisville, KY: null
 5300 Buckner Ave, Louisville, KY:
   lat: 38.171418
@@ -45640,6 +45644,7 @@
 7200 Jefferson Blvd, Louisville, KY:
   lat: 38.1435266
   lng: -85.6747742
+7200 Kain Core, Louisville, KY: null
 7200 Lafayette Dr. Police units were en route, Louisville, KY:
   lat: 38.1940389
   lng: -85.7941733
@@ -46657,6 +46662,9 @@
 7700 Wictor Ct, Louisville, KY:
   lat: 38.209842
   lng: -85.6141349
+7700 Windgate Dr, Louisville, KY:
+  lat: 38.1416488
+  lng: -85.5646696
 77600 Bryce Quartz, Louisville, KY: null
 78 Popplevel Road, Louisville, KY: null
 7800 3rd Street Row, Louisville, KY: null
@@ -47144,6 +47152,7 @@
 800 Blue Lick Rd. Responders arrived, Louisville, KY:
   lat: 38.1335683
   lng: -85.6845835
+800 Boxford Ct, Louisville, KY: null
 800 Brentwood Ave, Louisville, KY:
   lat: 38.1946055
   lng: -85.7727962
