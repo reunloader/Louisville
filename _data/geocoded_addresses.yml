@@ -2455,6 +2455,7 @@
   lng: -85.6778651
 100 involved road, Louisville, KY: null
 100 item, 400 block of North26th Street, Louisville, KY: null
+100 items, Louisville, KY: null
 100 just north of the track, Louisville, KY: null
 100 mile marker 65 North near Billtown Rd, Louisville, KY:
   lat: 38.1647849
@@ -37286,6 +37287,7 @@
 5100 Airfreight Dr near Poplar Level Rd, Louisville, KY:
   lat: 38.1862764
   lng: -85.7463412
+5100 Albuway, Louisville, KY: null
 5100 Ames Mayor, Louisville, KY: null
 5100 Antle Dr at Goodwill, Louisville, KY:
   lat: 38.0879159
@@ -47800,6 +47802,9 @@
   lat: 38.2479228
   lng: -85.8111376
 800 South37th Street, Louisville, KY:
+  lat: 38.248007
+  lng: -85.8130872
+800 South37th Street. Police responded, Louisville, KY:
   lat: 38.248007
   lng: -85.8130872
 800 South3A3 and 800 block of South3H, Louisville, KY: null
