@@ -1583,6 +1583,9 @@
 100 Ollie's parking lot, Louisville, KY: null
 100 One Buttons Gap Road, Louisville, KY: null
 100 One Topper Street, Louisville, KY: null
+100 Orchard Manor Cir, Louisville, KY:
+  lat: 38.213474
+  lng: -85.6338058
 100 Oster, Louisville, KY: null
 100 Ottawa Ave, Louisville, KY:
   lat: 38.187883
@@ -2078,6 +2081,9 @@
 100 W Evelyn Ave, Louisville, KY:
   lat: 38.196729
   lng: -85.761718
+100 W Hill St, Louisville, KY:
+  lat: 38.225403
+  lng: -85.757111
 100 W Jefferson St, Louisville, KY:
   lat: 38.253226
   lng: -85.752219
@@ -7294,6 +7300,9 @@
   lat: 38.247499
   lng: -85.771798
 1200 West Broadway at Greyhound bus station, Louisville, KY:
+  lat: 38.247499
+  lng: -85.771798
+1200 West Broadway near McDonald's, Louisville, KY:
   lat: 38.247499
   lng: -85.771798
 1200 West Broadway, Louisville, KY:
@@ -19902,6 +19911,9 @@
 2300 W Gaulbert Ave, Louisville, KY:
   lat: 38.2284638
   lng: -85.7958077
+2300 W Hill St, Louisville, KY:
+  lat: 38.229352
+  lng: -85.7954352
 2300 W Jefferson St near 23rd and 24th, Louisville, KY:
   lat: 38.2574167
   lng: -85.7900164
@@ -31985,6 +31997,9 @@
 4100 Glen Hill Manor Dr, Louisville, KY:
   lat: 38.093486
   lng: -85.8578124
+4100 Glen Valley Rd, Louisville, KY:
+  lat: 38.1603365
+  lng: -85.6857007
 4100 Grand Ave, Louisville, KY:
   lat: 38.2428284
   lng: -85.8198306
@@ -37836,6 +37851,9 @@
 5300 Arden Rd, Louisville, KY:
   lat: 38.2224465
   lng: -85.6427756
+5300 Bardstown Rd at the Circle K, Louisville, KY:
+  lat: 38.1682726
+  lng: -85.6051729
 5300 Bardstown Rd, Circle K, Louisville, KY: null
 5300 Bardstown Rd, Louisville, KY:
   lat: 38.1682726
@@ -40074,6 +40092,7 @@
   lng: -85.7185867
 600 Holding, Louisville, KY: null
 600 Howard Place, Louisville, KY: null
+600 Huntington Park draw and 6-mile lane, Louisville, KY: null
 600 I-65 South, Louisville, KY: null
 600 Inverness Ave across Grand Ave, South Beach Street, Louisville, KY: null
 600 Inverness Ave, Louisville, KY:
