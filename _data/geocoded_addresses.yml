@@ -15630,6 +15630,7 @@
 200 North at the Lincoln Bridge, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North between La Grange Rd and Westport Rd, Louisville, KY: null
 200 North between Shelbyville and Old Henry, Louisville, KY: null
 200 North near 5 mile marker, Louisville, KY:
   lat: 38.2607234
@@ -25870,6 +25871,9 @@
 3200 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
+3200 East Indian Trail near Building a Better Future Academy, Louisville, KY:
+  lat: 38.1681994
+  lng: -85.700921
 ? 3200 East Indian Trail to address a call concerning a child custody matter. The
   individual involved was attempting to pick up their child. Due to traffic, the deputy
   anticipated a 35-minute arrival time, which was acceptable as the child pickup was
@@ -53223,6 +53227,9 @@ Klondike Ln and Poplar Level Rd, Louisville, KY: null
 La Boca Avenue and Parker Ave, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
 La Grange Rd and Spring St, Louisville, KY: null
+La Grange Rd and Westport Rd, Louisville, KY:
+  lat: 38.2972158
+  lng: -85.5067043
 Labor Ln and Level Street, Louisville, KY: null
 Ladd Ave and Laurel St, Louisville, KY: null
 Lake Ave and Osborne Dr, Louisville, KY: null
