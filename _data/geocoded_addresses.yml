@@ -35601,6 +35601,7 @@
 4900 Shasta Trail, Louisville, KY:
   lat: 38.178576
   lng: -85.672116
+4900 Shelbyville Rd, Crest Street, Sherburn Ln, and Bowling Blvd, Louisville, KY: null
 4900 Simpson Dr, Louisville, KY:
   lat: 38.184136
   lng: -85.6699756
@@ -48830,6 +48831,9 @@
 8400 Robin Hill Dr, Louisville, KY:
   lat: 38.136753
   lng: -85.605783
+8400 Rock Brook Cir, Louisville, KY:
+  lat: 38.2049846
+  lng: -85.6049016
 8400 Rodney Cir, Louisville, KY:
   lat: 38.1278952
   lng: -85.6486923
@@ -50141,6 +50145,9 @@
 900 Roadway Ave, Louisville, KY:
   lat: 38.2078038
   lng: -85.7748305
+900 Rock Brook Cir, Louisville, KY:
+  lat: 38.2031619
+  lng: -85.6050873
 900 Rocky Rd, Cane Run Rd, and Dixdale, Louisville, KY: null
 900 Rosemary Dr, Louisville, KY:
   lat: 38.2048725
