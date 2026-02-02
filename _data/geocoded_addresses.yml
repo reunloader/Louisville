@@ -8749,6 +8749,9 @@
   lng: -85.8679739
 13600 Elanna Ave in response, Louisville, KY: null
 13600 Elanna Ave, Louisville, KY: null
+13600 Helen Ave, Louisville, KY:
+  lat: 38.1695784
+  lng: -85.8369369
 13600 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
@@ -10406,6 +10409,9 @@
   lng: -85.7746817
 1500 N S English Station Rd near Berrytown Rd and Hiawatha, Louisville, KY: null
 1500 N S English Station Rd, at the intersection of Berrytown Rd and Hiawatha,, Louisville, KY: null
+1500 Norris Pl, Louisville, KY:
+  lat: 38.230307
+  lng: -85.711313
 1500 North44th St, Louisville, KY:
   lat: 38.2686158
   lng: -85.8184861
@@ -26024,6 +26030,9 @@
 ? 3200 Taylor Blvd to attend to a possible overdose. EMS personnel were on scene to
   provide necessary medical assistance., Louisville, KY
 : null
+? 3200 Taylor Blvd, 13600 block of Helen Ave, and 5300 block of Varsan Road, indicating
+  routine activity and scene stabilization, Louisville, KY
+: null
 3200 Taylor Blvd, Louisville, KY:
   lat: 38.2051349
   lng: -85.7786368
@@ -26112,6 +26121,9 @@
   lat: 38.19707
   lng: -85.6275703
 3200 the boulevard, near South 33rd Street and South 32nd Street, Louisville, KY: null
+3200, Louisville, KY:
+  lat: 38.2008853
+  lng: -85.6110397
 3201 East Indian Trail, Evening, Louisville, KY: null
 32100 McCloskey Avenue, Louisville, KY:
   lat: 38.2242622
@@ -38119,6 +38131,9 @@
 5300 Valkyrie Way, Louisville, KY:
   lat: 38.1070922
   lng: -85.8611243
+5300 Varsan Road at Circle K, Louisville, KY:
+  lat: 38.1920654
+  lng: -85.7643027
 5300 Vista John Dr, Louisville, KY:
   lat: 38.1590827
   lng: -85.8021987
