@@ -43940,6 +43940,7 @@
 700 Creel Ave, Louisville, KY:
   lat: 38.2128685
   lng: -85.769496
+700 Crest Lawn Road, Crop St, Carolyn Way, and Parkcrest Way, Louisville, KY: null
 700 Crop St near Garland and Baseball Alley, Louisville, KY:
   lat: 38.2599675
   lng: -85.7803993
@@ -43964,6 +43965,9 @@
   lat: 38.1956685
   lng: -85.7712003
 700 Dixie Hwy at Thorntons, Louisville, KY:
+  lat: 38.248908
+  lng: -85.782194
+700 Dixie Hwy at a bus stop, Louisville, KY:
   lat: 38.248908
   lng: -85.782194
 700 Dixie Hwy near Wilson Ave in West Ormsby, Louisville, KY:
@@ -44199,6 +44203,9 @@
 700 Fill a Sign Street, Louisville, KY: null
 700 Films, Louisville, KY: null
 700 Fox Skate Road, Louisville, KY: null
+700 Frank Ave near North Watterson Trail, Louisville, KY:
+  lat: 38.1733013
+  lng: -85.706716
 700 Franklin Farmer Way, Louisville, KY:
   lat: 38.0970064
   lng: -85.6452965
