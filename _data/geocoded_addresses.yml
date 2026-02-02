@@ -11555,6 +11555,7 @@
 1600 Valley Rd, Louisville, KY:
   lat: 38.2287999
   lng: -85.7212004
+1600 Vickers, Louisville, KY: null
 1600 W Chestnut St due, Louisville, KY: null
 1600 W Chestnut St near 16th and 17th Streets, Louisville, KY:
   lat: 38.251069
@@ -29394,6 +29395,7 @@
   lat: 38.1410492
   lng: -85.7716085
 400 Baker to manage the scene and gather information., Louisville, KY: null
+400 Baker's, Louisville, KY: null
 400 Baker, 400 block of Adams, and 500 block of Phillips Ln, Louisville, KY: null
 400 Baker, 400 block of David, and 400 block of Charlie, Louisville, KY: null
 400 Baker, 400 block of Montana Ave, and 4800 block of Southern Pky, Louisville, KY: null
@@ -46967,6 +46969,11 @@
   lng: -85.7614334
 800 10 Door, Louisville, KY: null
 800 17th and Esquire, Louisville, KY: null
+? 800 23rd Street. Crews confirmed the transformer was fused, and the outage was classified
+  as a priority three incident, meaning it was a significant but not immediate threat.
+  Power was being restored as crews worked, Louisville, KY
+: lat: 38.246744
+  lng: -85.790185
 800 Adam and 1300 block of Beckley Creek Pky, Louisville, KY: null
 800 Adam and 3-David, Louisville, KY: null
 800 Adam and 800 block of Baker, Louisville, KY: null
