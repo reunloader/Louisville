@@ -1876,6 +1876,7 @@
 100 South Floyd, Louisville, KY:
   lat: 38.255034
   lng: -85.748106
+100 South Fourth Street, Louisville, KY: null
 100 South Glaciere, Crop St East, Orange Street Avenue, Camp St, Louisville, KY: null
 100 South Hancock and East Madison, Louisville, KY: null
 100 South Harbor Park, Louisville, KY: null
@@ -23942,6 +23943,9 @@
 300 North30th Street, Louisville, KY:
   lat: 38.264304
   lng: -85.800239
+300 North32nd Street, Louisville, KY:
+  lat: 38.264831
+  lng: -85.8043778
 300 North33rd Street, Crop St, Alford Ave, and Duncan St, Louisville, KY: null
 300 North35th Street, Louisville, KY: null
 300 North36th Street, Louisville, KY: null
