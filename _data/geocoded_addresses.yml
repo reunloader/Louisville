@@ -12747,6 +12747,9 @@
   lng: -85.7666809
 1800 22nd and WJ Hodge. The fire was contained, Louisville, KY: null
 1800 Adam and 200 block of Baker, Louisville, KY: null
+1800 Adam, Louisville, KY:
+  lat: 38.2075051
+  lng: -85.6171438
 1800 Adam18, Louisville, KY: null
 1800 Adams, Louisville, KY:
   lat: 38.2592106
@@ -20095,6 +20098,7 @@
   lat: 38.2509386
   lng: -85.7897525
 2300 road on10-54, Louisville, KY: null
+23000 River Rd and Beaver Rd Shell Station, Louisville, KY: null
 2319 Brownsboro Road, Louisville, KY:
   lat: 38.2586268
   lng: -85.7023985
@@ -20786,6 +20790,7 @@
 2500 Filson Ave, Louisville, KY:
   lat: 38.215333
   lng: -85.730538
+2500 Fleming Street, Louisville, KY: null
 2500 Frankfort Ave, Louisville, KY:
   lat: 38.253922
   lng: -85.69789
@@ -35586,6 +35591,7 @@
 4900 Quail Hollow Rd, Louisville, KY:
   lat: 38.1777885
   lng: -85.6952587
+4900 Raleigh Road, Louisville, KY: null
 4900 Raven Rd, Louisville, KY: null
 ? 4900 Red Oak Lane. The individual involved was described as a white male, born in
   1999, who was reportedly armed and potentially barricading himself inside the residence.
@@ -53590,6 +53596,7 @@ Riva Ridge Rd and Gleeson Ln, Louisville, KY: null
 River Creek Street and Boyle St, Louisville, KY: null
 River Park Dr and Lewis Ln, Louisville, KY: null
 River Park Dr and Peale Ave, Louisville, KY: null
+River Rd and Beaver Rd Shell St, Louisville, KY: null
 River Rd and Brighton Dr, Louisville, KY: null
 River Rd and Clara Ave, Louisville, KY: null
 River Rd and Dockview Rd, Louisville, KY: null
