@@ -2669,6 +2669,7 @@
 1000 Cecil Ave, Louisville, KY:
   lat: 38.2454635
   lng: -85.8213121
+1000 Cedardale Rd, Louisville, KY: null
 1000 Charles St near Spratt St, Louisville, KY:
   lat: 38.2298435
   lng: -85.7355996
@@ -9274,6 +9275,7 @@
   lng: -85.7809949
 1400 Large Moor Avenue, Louisville, KY: null
 1400 Les Jefferson, Louisville, KY: null
+1400 Lewis Coleman Jr, Louisville, KY: null
 1400 Lexington Rd, Louisville, KY:
   lat: 38.25048
   lng: -85.720565
@@ -15075,6 +15077,7 @@
 200 East., Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 Eastbound 12 Mile Marker, Louisville, KY: null
 200 Eastbound Poplar Level Road, Louisville, KY: null
 200 Eastbound at 7 Parkway, Louisville, KY:
   lat: 38.2246434
@@ -34091,6 +34094,7 @@
 4500 Murphy Ln, Louisville, KY:
   lat: 38.309954
   lng: -85.538459
+4500 Noltenmeyer Y, Louisville, KY: null
 4500 Oak Pointe Dr, Louisville, KY:
   lat: 38.3114713
   lng: -85.5366661
@@ -39580,6 +39584,9 @@
   lng: -85.5591466
 5900 Yucca Road. Fire and EMS units arrived to assess the scene and prepare, Louisville, KY: null
 598 unspecified street, Louisville, KY: null
+6 Bicknell Ave, Louisville, KY:
+  lat: 38.183649
+  lng: -85.7894434
 6 Boxhill Ln, Louisville, KY: null
 6 Clay Ave, Louisville, KY:
   lat: 38.1418452
