@@ -11971,6 +11971,9 @@
 1700 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
+1700 E W Market St, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 1700 East Centennial Walk in U, Louisville, KY: null
 1700 East Derpsons, Louisville, KY: null
 1700 East Jefferson, Louisville, KY:
@@ -20207,6 +20210,9 @@
 2400 Dundee, Louisville, KY:
   lat: 38.2212216
   lng: -85.6920757
+2400 E, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 2400 Eagle-Aires Ct, Louisville, KY: null
 2400 Earthline Road, Louisville, KY: null
 2400 Earthling Road, Louisville, KY: null
@@ -37334,6 +37340,9 @@
   lat: 38.299954
   lng: -85.633148
 5100 East Bricker Ranch Street, Louisville, KY: null
+5100 East Indian Trail, Louisville, KY:
+  lat: 38.185034
+  lng: -85.663823
 ? 5100 East Jefferson. Initial reports indicated the alarm was a Berkeley alarm at
   a specific address, with updates, Louisville, KY
 : lat: 38.2516
@@ -41145,6 +41154,7 @@
 6000 Barley Ave, Louisville, KY:
   lat: 38.179062
   lng: -85.6477951
+6000 Beatty Rd, Louisville, KY: null
 6000 Bellevue Ave to look into the circumstances., Louisville, KY: null
 6000 Bellevue Ave, Louisville, KY:
   lat: 38.1964886
@@ -41306,6 +41316,9 @@
 6000 Preston Hwy, Louisville, KY:
   lat: 38.1636609
   lng: -85.7018578
+6000 Ralph Ave, Louisville, KY:
+  lat: 38.2107404
+  lng: -85.8323503
 6000 Ray Count Drive, Louisville, KY: null
 6000 Ridgecrest Rd, Louisville, KY:
   lat: 38.1691461
@@ -43485,6 +43498,7 @@
   lat: 38.1517049
   lng: -85.694765
 6900 Preston Hwy, prompting a pursuit BOLO. Authorities are actively searching, Louisville, KY: null
+6900 Quinn Dr, Louisville, KY: null
 6900 Ralston Ave, Louisville, KY:
   lat: 38.1426872
   lng: -85.8480559
