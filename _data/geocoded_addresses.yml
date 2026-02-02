@@ -1923,6 +1923,9 @@
 100 South31st, Louisville, KY:
   lat: 38.251628
   lng: -85.803248
+100 South37th Street, Louisville, KY:
+  lat: 38.2627627
+  lng: -85.8109002
 100 South38th Street, Louisville, KY:
   lat: 38.2631651
   lng: -85.8119073
@@ -37359,6 +37362,9 @@
   lat: 38.115605
   lng: -85.857893
 5100 King Run Road, Louisville, KY: null
+5100 Lammers Ln, Louisville, KY:
+  lat: 38.1572056
+  lng: -85.6685979
 5100 Laughlin Ave, Louisville, KY:
   lat: 38.1637396
   lng: -85.7750033
