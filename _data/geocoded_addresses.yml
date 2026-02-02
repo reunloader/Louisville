@@ -40753,6 +40753,9 @@
   lng: -85.6173933
 600 Stillit's Wayne, Louisville, KY: null
 600 Stivers Rd, Louisville, KY: null
+600 Strawberry Ln, Louisville, KY:
+  lat: 38.1608055
+  lng: -85.7609469
 600 Summit Crest Dr, Louisville, KY: null
 600 Sun Beam Ct, Louisville, KY: null
 600 Sunacrest Drive, Louisville, KY: null
@@ -53513,6 +53516,7 @@ Spring St and Mellwood Ave, Louisville, KY: null
 Springdale Rd and Brownsboro Rd, Louisville, KY:
   lat: 38.2933856
   lng: -85.6039019
+Springdale Rd and First One Parkway, Louisville, KY: null
 Springdale Rd and Wolf Creek Parkway, Louisville, KY: null
 Springford Ave and Kennedy Ave, Louisville, KY: null
 Springhurst Blvd and Champion Farms Dr, Louisville, KY: null
