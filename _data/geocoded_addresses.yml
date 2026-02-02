@@ -24181,6 +24181,10 @@
 300 South 4th Street, Louisville, KY:
   lat: 38.2536681
   lng: -85.7572606
+300 South 7th Street, 2800 block of South 7th Street, and 1600 block of Arthur St, Louisville, KY: null
+300 South 7th Street, Louisville, KY:
+  lat: 38.254268
+  lng: -85.762101
 300 South 8th Street, Louisville, KY:
   lat: 38.2540697
   lng: -85.7644025
@@ -24948,6 +24952,7 @@
 3000 Skylar Ridge Dr, Louisville, KY:
   lat: 38.1551384
   lng: -85.6620994
+3000 Songer Way, Louisville, KY: null
 3000 South 2nd Street, Louisville, KY:
   lat: 38.2517255
   lng: -85.7540197
@@ -49927,6 +49932,7 @@
   lat: 38.242236
   lng: -85.657594
 900 Jefferson Green Apartments, Louisville, KY: null
+900 Jekyll Avenue, Louisville, KY: null
 900 Jennymac Dr, Louisville, KY:
   lat: 38.1887446
   lng: -85.8419391
