@@ -4353,6 +4353,7 @@
   lng: -85.846312
 10400 Shall Leave The Road, Louisville, KY: null
 10400 Shelbyville Rd in Lake Forest, Louisville, KY: null
+10400 Shelbyville Rd, Crunch Fitness, Louisville, KY: null
 10400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -10441,6 +10442,7 @@
   lng: -85.7746817
 1500 N S English Station Rd near Berrytown Rd and Hiawatha, Louisville, KY: null
 1500 N S English Station Rd, at the intersection of Berrytown Rd and Hiawatha,, Louisville, KY: null
+1500 Newcomb Road, which was involved in the hazard, Louisville, KY: null
 1500 Norris Pl, Louisville, KY:
   lat: 38.230307
   lng: -85.711313
@@ -17939,6 +17941,7 @@
 2000 Speed Ave, Louisville, KY:
   lat: 38.228798
   lng: -85.700158
+2000 St Edwards Dr, Louisville, KY: null
 2000 St Rene Rd in front of Thorntons, Louisville, KY: null
 2000 St Rene Rd near Thorntons, Louisville, KY:
   lat: 38.1025361
@@ -20917,6 +20920,7 @@
 2500 Phoenix, Louisville, KY:
   lat: 38.289727
   lng: -85.650155
+2500 Pinnacle Grove, Louisville, KY: null
 2500 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -42512,6 +42516,9 @@
 6500 Moorhaven Dr, Louisville, KY:
   lat: 38.1483723
   lng: -85.6399036
+6500 Mount Washington Rd, Louisville, KY:
+  lat: 38.0876455
+  lng: -85.6425583
 6500 N N Preston Hwy, Louisville, KY: null
 6500 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
@@ -49282,6 +49289,7 @@
   lat: 38.1961175
   lng: -85.6012574
 8700 Sonora Trail, prompting a response from emergency units, Louisville, KY: null
+8700 St Edwards Dr, Louisville, KY: null
 8700 Timor-Londrava near Galway and Ponsolui, Louisville, KY: null
 8700 Turkey Run Pky, Louisville, KY:
   lat: 38.1277335
@@ -52781,6 +52789,7 @@ Dohn Rd and Lindley Rd, Louisville, KY: null
 Donna Rd and Dover Rd, Louisville, KY: null
 Donna Rd and Dulworth Dr, Louisville, KY: null
 Dorothy Ave and Bardstown Rd, Louisville, KY: null
+Dorothy Ave and Ward Ave, Louisville, KY: null
 Dorset Rd and Carlisle Ave, Louisville, KY: null
 Dorsey Ln and Foxboro Dr, Louisville, KY: null
 Dorsey Ln and Shelbyville Rd, Louisville, KY: null
