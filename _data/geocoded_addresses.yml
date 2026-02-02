@@ -9003,6 +9003,7 @@
 1400 Browns Ln,, Louisville, KY:
   lat: 38.2342628
   lng: -85.6295356
+1400 Cachalpa near train tracks, Louisville, KY: null
 1400 Camden crossing with Carlisle, Louisville, KY: null
 1400 Cardinal Dr, Louisville, KY:
   lat: 38.1958509
@@ -38768,6 +38769,9 @@
 5500 Woodcross Pl, Louisville, KY:
   lat: 38.0959737
   lng: -85.658929
+5500 Yucca Ln, Louisville, KY:
+  lat: 38.1459354
+  lng: -85.8584525
 5500 Yucca, Louisville, KY:
   lat: 38.1459354
   lng: -85.8584525
@@ -47364,6 +47368,9 @@
 800 Gagel Ave, Louisville, KY:
   lat: 38.1717355
   lng: -85.8017887
+800 Gleam Dr, Louisville, KY:
+  lat: 38.1315
+  lng: -85.780864
 800 Glen Hollow Dr, Louisville, KY:
   lat: 38.1496915
   lng: -85.7759209
