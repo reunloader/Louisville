@@ -117,6 +117,9 @@
   lat: 38.090966
   lng: -85.6695494
 01 Pigment Drive, Louisville, KY: null
+01 Poplar Level Rd, Louisville, KY:
+  lat: 38.1581079
+  lng: -85.646379
 01 River Bend Dr, Louisville, KY:
   lat: 38.26863
   lng: -85.6992415
@@ -7244,6 +7247,7 @@
 1200 Southbrook Street, Louisville, KY: null
 1200 Southbrook Street, number 11, Louisville, KY: null
 1200 Southbrook, Louisville, KY: null
+1200 Southbrook. Crews arrived and worked to secure the scene, notifying the cable company, Louisville, KY: null
 1200 Southwestern Pky, Louisville, KY:
   lat: 38.2429997
   lng: -85.8313057
@@ -25459,6 +25463,9 @@
 3000 Wickland Rd, Louisville, KY:
   lat: 38.210066
   lng: -85.686322
+3000 Wilson Ave near Parkview Ball Community Center, Louisville, KY:
+  lat: 38.226939
+  lng: -85.806772
 3000 Winterhaven Rd, Louisville, KY:
   lat: 38.2049497
   lng: -85.6138892
@@ -26907,6 +26914,9 @@
 : null
 3300 Vector Avenue, Louisville, KY: null
 3300 Vetter Ave near Olean and Queen, Louisville, KY:
+  lat: 38.201196
+  lng: -85.7812
+3300 Vetter Ave near Oleana and Queens, Louisville, KY:
   lat: 38.201196
   lng: -85.7812
 3300 Virginia Ave, Louisville, KY:
@@ -31254,6 +31264,7 @@
 400 South 8th Street. Medical assistance was provided, Louisville, KY:
   lat: 38.2525979
   lng: -85.7647916
+400 South A Street and River Oaks rehab, 900 block of South 4th Street, Louisville, KY: null
 400 South A Street, Louisville, KY: null
 400 South A Trent Ave Plaza, Louisville, KY: null
 400 South A building, Louisville, KY: null
@@ -44127,6 +44138,7 @@
 6900 South44th, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+6900 Southbrook near South A Street, Louisville, KY: null
 6900 Southside Dr near Kinnick Court, Louisville, KY:
   lat: 38.157992
   lng: -85.764776
