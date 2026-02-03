@@ -105535,4 +105535,20 @@ history:
   batch_success_rate: 60.0
   batch_new_addresses: 5
   batch_new_successes: 3
-last_updated: '2026-02-02T23:40:47.915635'
+- timestamp: '2026-02-03T00:04:16.791442'
+  total_addresses: 24298
+  successful: 12461
+  failed: 11837
+  success_rate: 51.28
+  failure_rate: 48.72
+  failure_patterns:
+    Intersection format: 2533
+    Contains location qualifiers (near/at): 2918
+    Incomplete/vague address: 3288
+    Other/Unknown: 2528
+    Contains extra sentences/context: 554
+    Police phonetic codes: 16
+  batch_success_rate: 25.0
+  batch_new_addresses: 4
+  batch_new_successes: 1
+last_updated: '2026-02-03T00:04:16.791609'

@@ -4204,6 +4204,9 @@
 10200 Ovo Court near Treetops Dr, Louisville, KY:
   lat: 38.1309739
   lng: -85.5719863
+10200 Park Lake Dr, Louisville, KY:
+  lat: 38.09836
+  lng: -85.639849
 10200 Radford Rd, Louisville, KY: null
 10200 Seatonville Rd, Louisville, KY:
   lat: 38.1473589
@@ -4510,6 +4513,7 @@
   lat: 38.1915998
   lng: -85.4783168
 10600 U, Louisville, KY: null
+10600 Urban Pines Drive, Louisville, KY: null
 10600 Waterson Trail, Louisville, KY: null
 10600 Waterston Trail, Louisville, KY: null
 10600 Waterston Trail, library, Louisville, KY: null
@@ -6066,6 +6070,7 @@
   lng: -85.5592053
 11500 Willow Pond Dr, Louisville, KY: null
 11500 Willow Street, Louisville, KY: null
+115810 Steier Ln, Louisville, KY: null
 116 Weiser Avenue, Louisville, KY: null
 11600 Antonia Way, Louisville, KY:
   lat: 38.0945628
@@ -41001,6 +41006,7 @@
   lng: -85.7996
 600 South29th Street and Greenwood Ave, Louisville, KY: null
 600 South29th Street, Crest Street 7 Magazine in West Chestnut, Louisville, KY: null
+600 South29th Street, Eclipsemplex, Louisville, KY: null
 600 South29th Street, Louisville, KY:
   lat: 38.252119
   lng: -85.7996
