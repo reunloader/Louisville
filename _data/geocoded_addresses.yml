@@ -12820,6 +12820,9 @@
 17600 Shake Street Drive near Artisan Park Pl, Louisville, KY:
   lat: 38.1968892
   lng: -85.4289469
+17700 Curry Branch Rd, Louisville, KY:
+  lat: 38.2689
+  lng: -85.439516
 17900 Wind Dance Dr, Louisville, KY: null
 18 Flicker Rd, Louisville, KY:
   lat: 38.1307941
@@ -20184,6 +20187,7 @@
 2300 West Broadway, Louisville, KY:
   lat: 38.2490267
   lng: -85.7900907
+2300 West Calvert Avenue, Louisville, KY: null
 2300 West Calvert, Louisville, KY: null
 2300 West Chestnut, Louisville, KY:
   lat: 38.2522498
@@ -24368,6 +24372,7 @@
 300 Shelbyville Rd, Louisville, KY:
   lat: 38.239185
   lng: -85.490334
+300 Shelbyville Rd, cross of Huntington Ridge and North English Station, Louisville, KY: null
 300 Sherbrooke Rd, Louisville, KY:
   lat: 38.211322
   lng: -85.6767979
@@ -27972,6 +27977,7 @@
 3600 Fern Valley Rd, Louisville, KY:
   lat: 38.1566234
   lng: -85.6954991
+3600 Fern Valley Rd, cross of Janine and Preston, Louisville, KY: null
 3600 Fern Valley Rd. Police units were dispatched, Louisville, KY:
   lat: 38.1566234
   lng: -85.6954991
@@ -36638,6 +36644,7 @@
   Louisville, KY
 : null
 500 Meridian Hills Dr, Louisville, KY: null
+500 Meridian Hills Dr, cross of Poplar Leaf, Louisville, KY: null
 500 Meridian Hills Dr, number 109, Louisville, KY: null
 500 Meter Ct, Midwest Meadow cross at Nelson Miller Pky, Louisville, KY:
   lat: 38.2747128
@@ -44126,6 +44133,9 @@
 7 Commerce Rd, Louisville, KY:
   lat: 38.2221211
   lng: -85.7728634
+7 Curry Branch Rd, Louisville, KY:
+  lat: 38.2669008
+  lng: -85.4427265
 7 Dena Dr, Louisville, KY:
   lat: 38.1920897
   lng: -85.8020112
@@ -49273,6 +49283,7 @@
 8400 Brownsboro Rd, Louisville, KY:
   lat: 38.2587521
   lng: -85.7044023
+8400 Burling Hines Road, cross of Santa Rosa and Bookerwood Grande, Louisville, KY: null
 8400 Candleworth Dr, Louisville, KY:
   lat: 38.1279286
   lng: -85.7863749
@@ -52773,6 +52784,7 @@
   lat: 38.1644894
   lng: -85.5720491
 9900 VUK Drive, Louisville, KY: null
+9900 Vega Ln, cross of Silverwood and Northbridge, Louisville, KY: null
 9900 Waterson Trail near Walnut Wood and Locust, Louisville, KY: null
 9900 West Ave, Louisville, KY: null
 9900 West Ave, with a large blaze visible behind the location. Responding units canceled their response, Louisville, KY: null
