@@ -11201,6 +11201,9 @@
 1600 Crop St, Louisville, KY:
   lat: 38.259438
   lng: -85.776433
+1600 Crosstimbers Dr, Louisville, KY:
+  lat: 38.2621191
+  lng: -85.4448018
 1600 Cypress St, Louisville, KY:
   lat: 38.229039
   lng: -85.7990648
@@ -40476,6 +40479,7 @@
 600 Lena Ln, Louisville, KY:
   lat: 38.1065676
   lng: -85.5036462
+600 Lewis Coleman Jr, Louisville, KY: null
 600 Lewis-Cole Jr, Louisville, KY: null
 600 Lewis-Coleman Junior Drive, Louisville, KY: null
 600 Lindale, Louisville, KY: null
