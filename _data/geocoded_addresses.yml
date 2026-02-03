@@ -2347,6 +2347,9 @@
 100 Wickfield Dr. with a lift, helping him, Louisville, KY:
   lat: 38.2380583
   lng: -85.4873461
+100 William St, Louisville, KY:
+  lat: 38.256225
+  lng: -85.71838
 100 Willow Dr, Louisville, KY:
   lat: 38.1832035
   lng: -85.700345
@@ -26182,6 +26185,9 @@
   lat: 38.1997067
   lng: -85.7299289
 3200 Rose Wedgeway near Euclidean Court, Louisville, KY: null
+3200 Rosewell Ave, Louisville, KY:
+  lat: 38.2363449
+  lng: -85.8118191
 3200 Sem Street Road, Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
 3200 South 4th St, Louisville, KY:
@@ -37748,6 +37754,7 @@
 5100 Rural, Louisville, KY:
   lat: 38.171541
   lng: -85.667732
+5100 S W Overbrook Dr, Louisville, KY: null
 5100 South 3rd Street, AMA Hair Salon, Louisville, KY: null
 5100 South 3rd Street, Louisville, KY:
   lat: 38.1729568
