@@ -739,6 +739,7 @@
 100 Declaration Dr, Louisville, KY:
   lat: 38.1448137
   lng: -85.7700673
+100 Degmas Lane, Louisville, KY: null
 100 Descent Road crossing Descent Hill Circle, Louisville, KY: null
 100 Dixie Hwy and the 100 block of Preston Hwy. Further details, Louisville, KY: null
 100 Dixie Hwy, Circle K, Louisville, KY: null
@@ -6290,6 +6291,9 @@
   lat: 38.0921635
   lng: -85.6679085
 11800 Weatherview Avenue, Louisville, KY: null
+11900 Anoka Ct, Louisville, KY:
+  lat: 38.3077965
+  lng: -85.5359039
 11900 Boydton Ct, Crop St of 200 block of Boydton Ct, Louisville, KY: null
 11900 Boydton Ct, Louisville, KY: null
 11900 Deer Park Ave, Louisville, KY:
@@ -27722,6 +27726,9 @@
 ? 3500 Rogue Way. The individual was experiencing diabetic issues, and responders
   faced a challenge gaining access, Louisville, KY
 : null
+3500 Sample Way, Louisville, KY:
+  lat: 38.2880155
+  lng: -85.5070449
 3500 Scarsdale Rd, Louisville, KY: null
 3500 Seneca Valley Rd (Four Winds Dr), Louisville, KY: null
 3500 Seton Hill Dr, Louisville, KY:
@@ -39452,6 +39459,9 @@
 ? 5600 Merriman Rd, involving a dark gray SUV. Fortunately, no injuries were reported
   as a result of this incident. Police units responded, Louisville, KY
 : null
+5600 National Turnpike, Louisville, KY:
+  lat: 38.1493195
+  lng: -85.7617814
 5600 New Cap Rd, Louisville, KY: null
 5600 New Cut Rd near Silver and Eastbound Road, Louisville, KY:
   lat: 38.142499
@@ -42902,6 +42912,9 @@
 6500 Gaskin Ct near Pyramid, Louisville, KY:
   lat: 38.0859979
   lng: -85.6631567
+6500 Glenbrook, Louisville, KY:
+  lat: 38.191833
+  lng: -85.872642
 6500 Greenwood Rd, Louisville, KY:
   lat: 38.1444051
   lng: -85.8730854
