@@ -23299,6 +23299,9 @@
   lat: 38.1881064
   lng: -85.5511519
 3 Augustan Plaza Drive, Louisville, KY: null
+3 Bank St, Louisville, KY:
+  lat: 38.2654471
+  lng: -85.7821805
 3 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -41881,6 +41884,7 @@
 6100 Guardian Ct, Louisville, KY:
   lat: 38.1618255
   lng: -85.7015895
+6100 Guardian Ctve, with no disturbances reported afterward, Louisville, KY: null
 ? 6100 I 64 West. Emergency units were dispatched to investigate the source of the
   alarm. The specific cause of the activation and the outcome of the response were
   not immediately available., Louisville, KY
