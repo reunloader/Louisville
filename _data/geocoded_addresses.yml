@@ -30754,6 +30754,7 @@
 400 Rosewood Ct, Louisville, KY:
   lat: 38.1412186
   lng: -85.610363
+400 Rowan St crossing North29th, Louisville, KY: null
 400 Roy Wilkins Ave near St, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
@@ -47291,6 +47292,9 @@
 7900 Shelby Rd near 16-02, Louisville, KY:
   lat: 38.2085025
   lng: -85.7126899
+7900 Shelby Rd near Macy's, Louisville, KY:
+  lat: 38.2085025
+  lng: -85.7126899
 7900 Shelbyville Rd and Moorman Rd, Louisville, KY: null
 7900 Shelbyville Rd at Oxford Mall, Louisville, KY:
   lat: 38.2472183
@@ -50986,6 +50990,12 @@
 9000 Brandywyne Dr, Louisville, KY:
   lat: 38.1636882
   lng: -85.5912962
+9000 Brown Austin Rd at a church, Louisville, KY:
+  lat: 38.1200828
+  lng: -85.7676797
+9000 Brown Austin Rd, Louisville, KY:
+  lat: 38.1200828
+  lng: -85.7676797
 9000 C-4th Way, Louisville, KY: null
 9000 Cardiff Rd, Louisville, KY: null
 9000 Chenault Rd, Louisville, KY:
