@@ -18203,6 +18203,9 @@
   lat: 38.2983417
   lng: -85.5413774
 206 Hi View Ln, Louisville, KY: null
+21 Appollo Ln, Louisville, KY:
+  lat: 38.1107882
+  lng: -85.8662253
 21 Ballard St, Louisville, KY:
   lat: 38.2507416
   lng: -85.7350586
@@ -18793,6 +18796,7 @@
 2100 W Market St, Louisville, KY:
   lat: 38.258287
   lng: -85.785077
+2100 W Market St, and 1000 block of Runell Rd, Louisville, KY: null
 2100 W Oak St at New Beginning, Louisville, KY:
   lat: 38.237065
   lng: -85.7888721
@@ -33504,6 +33508,9 @@
 4400 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
+4400 Arroyo Trail, Louisville, KY:
+  lat: 38.084808
+  lng: -85.6802296
 4400 Bardstown Rd, Louisville, KY:
   lat: 38.1849472
   lng: -85.6350741
@@ -47556,6 +47563,7 @@
   lat: 38.2543888
   lng: -85.7376467
 800 E W Chestnut St parking lot, Louisville, KY: null
+800 E W Chestnut St, 200 block of E W Breckinridge St, and a tunnel way, Louisville, KY: null
 800 E W Chestnut St, Louisville, KY:
   lat: 38.2489207
   lng: -85.7576467
