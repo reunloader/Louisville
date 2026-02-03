@@ -112,6 +112,7 @@
 01 Mackie Ln, Louisville, KY:
   lat: 38.1408403
   lng: -85.7646787
+01 Maplecreek Dr, Louisville, KY: null
 01 Mud Ln, Louisville, KY:
   lat: 38.090966
   lng: -85.6695494
@@ -45657,6 +45658,9 @@
   lat: 38.1474148
   lng: -85.5861497
 7000 Barney Ave, Louisville, KY: null
+7000 Barret Ave, Louisville, KY:
+  lat: 38.2397775
+  lng: -85.7308215
 7000 Bear Creek Dr, Louisville, KY: null
 7000 Billie Ln, Louisville, KY:
   lat: 38.1485385
