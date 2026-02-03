@@ -1233,6 +1233,7 @@
   lat: 38.2525456
   lng: -85.653424
 100 Metalwood, Louisville, KY: null
+100 Middletown Industrial Blvd, Louisville, KY: null
 100 Mills Dr, Louisville, KY:
   lat: 38.1561097
   lng: -85.8292757
@@ -1500,6 +1501,9 @@
 100 North28th, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
+100 North32nd Street, Louisville, KY:
+  lat: 38.262311
+  lng: -85.804576
 100 North34, Louisville, KY: null
 100 North34th Street, Louisville, KY:
   lat: 38.2623476
@@ -1701,6 +1705,9 @@
   lat: 38.2750509
   lng: -85.7028488
 100 River Rd, Austin Building, Louisville, KY: null
+100 River Rd, Crossridge at Waterfront Development, Louisville, KY:
+  lat: 38.2595011
+  lng: -85.7505892
 100 River Rd, Joe's Crab Shack, Louisville, KY: null
 100 River Rd, Louisville, KY:
   lat: 38.2750509
@@ -3725,6 +3732,9 @@
 1000 South40th Street, Louisville, KY:
   lat: 38.2452239
   lng: -85.8186424
+1000 South43rd Street, Louisville, KY:
+  lat: 38.2456844
+  lng: -85.8245153
 1000 South47th Street near Westchester Ave, Louisville, KY:
   lat: 38.2457302
   lng: -85.8325125
@@ -24553,6 +24563,7 @@
   lng: -85.7070097
 300 Victor King William, Louisville, KY: null
 300 Victor King William. No injuries or contact were reported in connection with this incident., Louisville, KY: null
+300 Victor Mary Roberts and 522, Louisville, KY: null
 300 Villanova Dr, Louisville, KY: null
 300 W Brandeis Ave at South 4th Street, Louisville, KY:
   lat: 38.219087
@@ -27028,6 +27039,7 @@
 3400 Gatecreek Rd near Hi View Ln and Holiday Dr, Louisville, KY:
   lat: 38.1191004
   lng: -85.8262158
+3400 Genel Road, Louisville, KY: null
 3400 Georgetown Cir, Louisville, KY:
   lat: 38.195841
   lng: -85.79498
@@ -37844,6 +37856,8 @@
 5100 Kendall Rd, Louisville, KY:
   lat: 38.115605
   lng: -85.857893
+5100 Kindle Rd, Louisville, KY: null
+5100 Kindle Road, Louisville, KY: null
 5100 King Run Road, Louisville, KY: null
 5100 Lammers Ln, Louisville, KY:
   lat: 38.1572056
@@ -38937,6 +38951,7 @@
 5500 Branston Dr near Axbridge Rd and Landcross Dr, Louisville, KY:
   lat: 38.1720002
   lng: -85.8573547
+5500 Brinson Dr, cross of Rome Rd, Louisville, KY: null
 5500 Brinson Dr, near Rome Rd, Louisville, KY:
   lat: 38.1720157
   lng: -85.8159658
@@ -38947,6 +38962,9 @@
   lat: 38.2084213
   lng: -85.6493445
 5500 Built On Road, Louisville, KY: null
+5500 Camp Ground Rd, Louisville, KY:
+  lat: 38.19885
+  lng: -85.859261
 5500 Carbondale Shopping Center and nearby areas, Louisville, KY: null
 5500 Charlie Vendor Park Drive, Louisville, KY: null
 5500 Count Fleet Dr, Louisville, KY:
@@ -39047,6 +39065,7 @@
 5500 Low DMA Way, Louisville, KY: null
 5500 Mariemont Rd, Pinnacle Delta, Louisville, KY: null
 5500 McBean Road, Louisville, KY: null
+5500 McDean Rd, Louisville, KY: null
 5500 Minor Ln, Louisville, KY:
   lat: 38.141698
   lng: -85.7012773
@@ -45408,6 +45427,7 @@
   lat: 38.2097081
   lng: -85.6725941
 700 Trasalga Square, Louisville, KY: null
+700 Trottingham Cir, cross of Beckingham Blvd, Louisville, KY: null
 700 V Street, Louisville, KY: null
 700 Valley College Dr, Louisville, KY: null
 700 Varble Ave near State Draft in Manslick Rd, Louisville, KY:
@@ -48291,6 +48311,9 @@
   lat: 38.24444
   lng: -85.762146
 800 South 7th Street, Crossroads, Louisville, KY: null
+800 South 7th Street, Louisville, KY:
+  lat: 38.2446
+  lng: -85.763805
 800 South 8th Street at Flavor Man, Louisville, KY:
   lat: 38.244002
   lng: -85.765597
@@ -49532,6 +49555,9 @@
 8600 Devonshire Dr, Louisville, KY:
   lat: 38.1284602
   lng: -85.8689259
+8600 Dixie Hwy, Louisville, KY:
+  lat: 38.1279714
+  lng: -85.8504595
 8600 Fenwick Creek Pl, Louisville, KY:
   lat: 38.2021078
   lng: -85.6018787
@@ -49868,6 +49894,7 @@
   lat: 38.1166371
   lng: -85.5725583
 8800 Perry Rd, Louisville, KY: null
+8800 Peterborough Ct in South Chadwick, Louisville, KY: null
 8800 Preston Hwy, Louisville, KY:
   lat: 38.1247971
   lng: -85.6795161
