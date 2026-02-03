@@ -4470,6 +4470,9 @@
 10500 Westport Rd, Louisville, KY:
   lat: 38.2938379
   lng: -85.5578527
+10500 Worthington Ln near unknown cross street, Louisville, KY:
+  lat: 38.329956
+  lng: -85.554561
 10600 Charlene Dr, Louisville, KY: null
 10600 Chubbable Road near Hilltall Row, Louisville, KY: null
 10600 Dixie Hwy at New Life Ministries, Louisville, KY:
@@ -18435,6 +18438,11 @@
 2100 Gladstone Ave, Louisville, KY:
   lat: 38.216527
   lng: -85.681746
+? 2100 Goldsmith Ln near Sumner Rd and David Graves Dr, a 67-year-old woman experiencing
+  abdominal pain and vomiting received medical aid from responders. Additionally,
+  at Prescinius Medical, Louisville, KY
+: lat: 38.2059543
+  lng: -85.6729834
 2100 Goldsmith Ln, Louisville, KY:
   lat: 38.2059543
   lng: -85.6729834
@@ -27666,6 +27674,7 @@
   lat: 38.195533
   lng: -85.784502
 3500 block of Dollar General, Louisville, KY: null
+3500 large lane, Louisville, KY: null
 3500 location, Louisville, KY: null
 ? 35000 Quahala Road following a report of an assault. A 29-year-old female stated
   she had been attacked by a neighbor approximately eight hours earlier and had sustained
@@ -42140,6 +42149,9 @@
   the initial report. After clearing this call, officers were then assigned, Louisville,
   KY
 : null
+6300 Commerce Park, Louisville, KY:
+  lat: 38.1159709
+  lng: -85.7202584
 6300 Cottage Field Cir, Louisville, KY: null
 6300 Cottage Field Cir. The driver was reportedly revving the engine and speeding, prompting a request, Louisville, KY: null
 6300 Cottagemeadow Dr, Louisville, KY:
@@ -42751,6 +42763,7 @@
 6500 Riverway, Louisville, KY:
   lat: 38.3486661
   lng: -85.6276255
+6500 Selenia, Louisville, KY: null
 6500 Sheffieldsville Road, Louisville, KY: null
 6500 Sheppardsville, Louisville, KY: null
 6500 Shirley Ave, Louisville, KY:
@@ -45529,6 +45542,9 @@
 7000 Montana Ave, Louisville, KY:
   lat: 38.2093892
   lng: -85.7741339
+7000 Monty Ln near Sonic Dr, Louisville, KY:
+  lat: 38.1442432
+  lng: -85.5723247
 7000 Nathan Haleway, Louisville, KY: null
 7000 No, Louisville, KY: null
 7000 Old Dixie Hwy, Louisville, KY:
@@ -54063,6 +54079,7 @@ Sugartree Ln and Top Hill Rd, Louisville, KY: null
 Summers Ave and Morrison Ave, Louisville, KY: null
 Summit Plaza Dr and Park Plaza Ave, Louisville, KY: null
 Summit Ridge Dr and Old Springdale Rd, Louisville, KY: null
+Sumner Rd and David Graves Dr, Louisville, KY: null
 Sun Ray Dr and Twilight Dr, Louisville, KY: null
 Sun Valley Dr and Indian Austin Town Rd, Louisville, KY: null
 Sunder Ave and Hikes Ln, Louisville, KY: null
