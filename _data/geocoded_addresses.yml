@@ -4446,6 +4446,7 @@
 10500 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
+10500 Meeting St suite 104, Louisville, KY: null
 10500 Monteray Place Cir, Louisville, KY:
   lat: 38.1014115
   lng: -85.8664155
@@ -14421,6 +14422,9 @@
 200 Beaver St. Responding police units were dispatched, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
+200 Becker, Louisville, KY:
+  lat: 38.1720002
+  lng: -85.708019
 200 Bellows No Road, Harrisburg, Kentucky, Louisville, KY: null
 200 Bells Light, Louisville, KY: null
 200 Berkman Edge Lane, Louisville, KY: null
