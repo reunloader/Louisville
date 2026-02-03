@@ -48001,6 +48001,9 @@
 800 South 37th Street, Louisville, KY:
   lat: 38.248007
   lng: -85.8130872
+800 South 39th Street, Louisville, KY:
+  lat: 38.2480982
+  lng: -85.816826
 800 South 3rd Street 1:30 p, Louisville, KY: null
 800 South 3rd Street 1:30 p.m.AM, Louisville, KY: null
 ? 800 South 3rd Street. The alarm indicated motion detected in a family room, prompting
@@ -52713,6 +52716,7 @@ Bridgeshell Road and Field Ave, Louisville, KY: null
 Brighton Dr and Boxley Ave, Louisville, KY: null
 Brighton Springs Ln and Spring Lawn Dr, Louisville, KY: null
 Brinson Dr and Highland Ave, Louisville, KY: null
+Broadleaf Dr and Boxelder Rd, Louisville, KY: null
 Brock Bay Drive and Remers Road, Louisville, KY: null
 Brody Ln and Moulton Ln, Louisville, KY: null
 Brokerage Lane and Westville Road, Louisville, KY: null
@@ -53142,6 +53146,9 @@ Frankfort Ave and North Bardstown Rd, Louisville, KY: null
 Frankfort Ave and Pope St, Louisville, KY: null
 Frankfort Ave and Prestwood Dr, Louisville, KY: null
 Frankfort Ave and Stevenson Ave, Louisville, KY: null
+Frankfort Ave and Story Ave, Louisville, KY:
+  lat: 38.2589642
+  lng: -85.7213926
 Franklin Ave and Fayette Ave, Louisville, KY: null
 Freeman Ave and Southern Ave, Louisville, KY: null
 French Ave and Thruston Ave, Louisville, KY: null
