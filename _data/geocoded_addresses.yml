@@ -6963,6 +6963,9 @@
 1200 Rammers Ave near unspecified cross streets, Louisville, KY:
   lat: 38.23249
   lng: -85.73171
+1200 Rammers Ave, Louisville, KY:
+  lat: 38.23249
+  lng: -85.73171
 ? 1200 Raven Rd. Upon arrival, it was determined that the incident was related to
   a past barbecue and no active fire suppression was needed. Fire services were cleared
   from the scene., Louisville, KY
@@ -17528,6 +17531,9 @@
 2000 Blue Lake, Louisville, KY: null
 2000 Bonnycastle Ave, Crest Street, Parsons Pl, Bardstown Rd, Louisville, KY: null
 2000 Boulevard Napoleon near Princeton Dr, Louisville, KY:
+  lat: 38.225669
+  lng: -85.696666
+2000 Boulevard Napoleon, Louisville, KY:
   lat: 38.225669
   lng: -85.696666
 2000 Boulevard Napoleon, with Princeton Dr and Barge Town Road nearby, Louisville, KY: null
@@ -35433,6 +35439,9 @@
 4700 Strawberry at Vestler's, Louisville, KY:
   lat: 38.1808994
   lng: -85.7550522
+4700 Taylor Blvd, Louisville, KY:
+  lat: 38.171469
+  lng: -85.7820584
 4700 Valla Rd, Louisville, KY:
   lat: 38.1754469
   lng: -85.6888031
