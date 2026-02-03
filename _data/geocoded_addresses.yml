@@ -715,6 +715,7 @@
 100 Crop St, near Croft Ct. The activation indicated that one round had been discharged., Louisville, KY: null
 100 Crown S, Louisville, KY: null
 100 D Street, Louisville, KY: null
+100 Dahlberg, Louisville, KY: null
 100 Dandor Rd, Louisville, KY:
   lat: 38.207696
   lng: -85.6253811
@@ -16291,6 +16292,9 @@
 200 South28th Street, Louisville, KY:
   lat: 38.259684
   lng: -85.796593
+200 South2nd Street, Louisville, KY:
+  lat: 38.16364
+  lng: -85.7672387
 200 South36th Street, Louisville, KY:
   lat: 38.2305239
   lng: -85.8144957
@@ -20938,6 +20942,9 @@
 2500 Garland Ave, Louisville, KY:
   lat: 38.244253
   lng: -85.7937702
+2500 Glenmary Ave, Louisville, KY:
+  lat: 38.24136
+  lng: -85.7096024
 2500 Goldsmith Ln, Louisville, KY:
   lat: 38.2103596
   lng: -85.6644939
@@ -42476,6 +42483,9 @@
 6300 Triplett Dr, Louisville, KY:
   lat: 38.1631696
   lng: -85.8639
+6300 W Pages Ln near Our Angels Daycare, Louisville, KY:
+  lat: 38.1305936
+  lng: -85.8724937
 6300 lower Hunter's Trace, Louisville, KY: null
 631 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
