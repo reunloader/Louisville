@@ -13301,6 +13301,7 @@
 1800 Poplar Road, Louisville, KY:
   lat: 38.2167683
   lng: -85.7259839
+1800 Portland Ave B1, Louisville, KY: null
 1800 Portland Ave, Louisville, KY:
   lat: 38.2643015
   lng: -85.777583
@@ -31062,6 +31063,9 @@
   lat: 38.2525979
   lng: -85.7647916
 400 South 8th Street near Holly Ave, Louisville, KY:
+  lat: 38.2525979
+  lng: -85.7647916
+400 South 8th Street near Ollie and West Liberty, Louisville, KY:
   lat: 38.2525979
   lng: -85.7647916
 400 South 8th Street near West Liberty Alley, Louisville, KY: null
