@@ -1944,6 +1944,9 @@
   lat: 38.259446
   lng: -85.783128
 100 South23, Louisville, KY: null
+100 South2nd Street, Louisville, KY:
+  lat: 38.2558105
+  lng: -85.7536001
 100 South31st, Louisville, KY:
   lat: 38.251628
   lng: -85.803248
@@ -1998,6 +2001,9 @@
   lng: -85.8255735
 100 Spring Creek Ct, Louisville, KY: null
 100 Spring Creek Ct., Louisville, KY: null
+100 Spring Garden, Louisville, KY:
+  lat: 38.1837738
+  lng: -85.6304429
 100 Spring Meadow Ln near Pressure, Louisville, KY:
   lat: 38.247384
   lng: -85.553056
@@ -16565,6 +16571,7 @@
 200 West (near South), Louisville, KY: null
 200 West Alley, Louisville, KY: null
 200 West Alley, while a gray Ford Fusion was observed moving through the 11100 block of Ornate Pl, Louisville, KY: null
+200 West Barbie Streetwalk, Louisville, KY: null
 200 West Breckenridge near Third Street, Louisville, KY:
   lat: 38.2512301
   lng: -85.75592
@@ -19806,6 +19813,9 @@
 2300 Carton Dr, Louisville, KY: null
 2300 Cedar Springs Blvd, marking a standard activity in the area, Louisville, KY: null
 2300 Cedar St, Louisville, KY:
+  lat: 38.2559502
+  lng: -85.7891852
+2300 Cedar, Louisville, KY:
   lat: 38.2559502
   lng: -85.7891852
 2300 Charlie, Louisville, KY:
@@ -27391,6 +27401,9 @@
 35 Hillpark Dr, Louisville, KY:
   lat: 38.0962967
   lng: -85.6948507
+35 River Park Dr, Louisville, KY:
+  lat: 38.2536492
+  lng: -85.8002952
 35 South Baylor Avenue, Louisville, KY: null
 35 West Bank Road, Louisville, KY: null
 350 Maker and 400 block of Marshall Walk, Louisville, KY: null
