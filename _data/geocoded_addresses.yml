@@ -2707,6 +2707,9 @@
 1000 Colonial Hill Rd, Louisville, KY:
   lat: 38.2026941
   lng: -85.6931278
+1000 Columbia St, Louisville, KY:
+  lat: 38.2634065
+  lng: -85.7993071
 1000 Creel Ave area, Louisville, KY: null
 1000 Cresthorn Road, Louisville, KY: null
 1000 Cristland Rd, Louisville, KY:
@@ -6034,6 +6037,7 @@
   lat: 38.2450485
   lng: -85.7534965
 11400 South Forrest Street, Louisville, KY: null
+11400 Tassel Drive, Louisville, KY: null
 11400 Tazwell Dr, Louisville, KY:
   lat: 38.304084
   lng: -85.538601
@@ -14111,6 +14115,7 @@
 1900 Winston Ave, Louisville, KY:
   lat: 38.2146924
   lng: -85.6866879
+1900 Yonge-Yeldon Avenue, Louisville, KY: null
 1900 Zachary Cir, Louisville, KY:
   lat: 38.1419446
   lng: -85.7725802
@@ -29451,6 +29456,9 @@
   lat: 38.200478
   lng: -85.765216
 3900 South5th Street, Dresden, Louisville, KY: null
+3900 South5th Street, Louisville, KY:
+  lat: 38.1984123
+  lng: -85.768721
 3900 South5th Street, Sissy's Liquors, Louisville, KY: null
 ? 3900 Southern Pky after a report of a person found unresponsive inside a vehicle.
   The individual, a 30-year-old male, was located inside a blue Jeep with a tinted
@@ -35892,6 +35900,9 @@
   lng: -85.86195
 4900 Turn with Run Road, Louisville, KY: null
 4900 U, Louisville, KY: null
+4900 US Highway42 at Goodwill, cross with Grand Eagle Drive and Holiday Intercenter, Louisville, KY:
+  lat: 38.2448442
+  lng: -85.736808
 4900 Unseld Blvd, Louisville, KY: null
 4900 Valley Station Rd, Louisville, KY:
   lat: 38.105853
