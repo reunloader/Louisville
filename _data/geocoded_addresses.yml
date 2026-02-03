@@ -24845,6 +24845,9 @@
   lng: -85.8482166
 3000 Dr, Louisville, KY: null
 3000 Duncan St near North 30th Street, Louisville, KY: null
+3000 Duncan St, Louisville, KY:
+  lat: 38.2639873
+  lng: -85.8003704
 3000 Dundee Rd, Louisville, KY:
   lat: 38.2124668
   lng: -85.6873164
@@ -44512,6 +44515,7 @@
 ? 700 Hardee Avenue where a two-year-old child had been accidentally locked inside
   a black Kia Rio. The child had been in the vehicle, Louisville, KY
 : null
+700 Harvest Dr and 200 block of North 32nd Street, Louisville, KY: null
 700 Haynes Trace, Louisville, KY: null
 700 Haywood, Louisville, KY: null
 700 Hazel St, Louisville, KY:
@@ -54032,6 +54036,7 @@ Southern Pky and Inforham Avenue, Louisville, KY: null
 Southern Pky and Oakdale Ave, Louisville, KY:
   lat: 38.1924908
   lng: -85.76701
+Southern Pky and Oaklawn Dr, Louisville, KY: null
 Southern Pky and West Edelman Avenue, Louisville, KY: null
 Southern Pky and Wetstein Ave, Louisville, KY: null
 Southland Blvd and Southside Dr, Louisville, KY: null
