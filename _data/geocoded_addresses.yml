@@ -12206,6 +12206,9 @@
 1700 Lafayette Dr, Louisville, KY:
   lat: 38.193979
   lng: -85.794805
+1700 Lana Dr near Rosa Terrace, Louisville, KY:
+  lat: 38.1045116
+  lng: -85.6949665
 1700 Lang Ct, Louisville, KY:
   lat: 38.2290972
   lng: -85.815357
@@ -31043,6 +31046,9 @@
 400 South 1st, Louisville, KY:
   lat: 38.2522941
   lng: -85.7525422
+400 South 20th Street near West Muhammad Ali and Paul Quinway, Louisville, KY:
+  lat: 38.256072
+  lng: -85.784483
 400 South 20th Street, Louisville, KY:
   lat: 38.256072
   lng: -85.784483
@@ -53158,6 +53164,7 @@ Cherokee Lane and Crums Ln, Louisville, KY: null
 Cherokee Pky and Longest Ave, Louisville, KY: null
 Cherokee Pky and Parkstone Road, Louisville, KY: null
 Cherokee Pky and Willow Ave, Louisville, KY: null
+Cherokee Rd and Baxter Ave, Louisville, KY: null
 Cherokee Rd and Cowling Ave, Louisville, KY: null
 Cherokee Rd and Grimsoe Drive, Louisville, KY: null
 Cherokee Rd and Longest Ave, Louisville, KY: null
