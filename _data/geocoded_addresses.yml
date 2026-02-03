@@ -15882,6 +15882,9 @@
 200 Portland Ave near 23rd and Carter, Louisville, KY:
   lat: 38.2721361
   lng: -85.7929587
+200 Portland, Louisville, KY:
+  lat: 38.2692365
+  lng: -85.8107973
 200 Preston Hwy and 1000 block of McDonald's, Louisville, KY: null
 200 Preston Hwy, Louisville, KY:
   lat: 38.1819023
@@ -20013,6 +20016,7 @@
 2300 South3rd, Louisville, KY:
   lat: 38.2190218
   lng: -85.7616353
+2300 St, Louisville, KY: null
 2300 Standard Ave, Louisville, KY:
   lat: 38.232014
   lng: -85.7943273
@@ -24209,6 +24213,7 @@
 300 Rolling Rock Ct, Louisville, KY:
   lat: 38.3212349
   lng: -85.5556022
+300 Roseville, Louisville, KY: null
 300 Rowland Ave, Louisville, KY:
   lat: 38.2514912
   lng: -85.6949532
@@ -40480,6 +40485,7 @@
   lat: 38.1065676
   lng: -85.5036462
 600 Lewis Coleman Jr, Louisville, KY: null
+600 Lewis Coleman Junior Drive, Louisville, KY: null
 600 Lewis-Cole Jr, Louisville, KY: null
 600 Lewis-Coleman Junior Drive, Louisville, KY: null
 600 Lindale, Louisville, KY: null
