@@ -1306,6 +1306,7 @@
 100 N S Peterson Ave, Louisville, KY:
   lat: 38.2491801
   lng: -85.6970953
+100 N W Spring St, Louisville, KY: null
 100 Nat and 1900 block of Roland St, Louisville, KY: null
 100 Nat, Louisville, KY:
   lat: 38.2015813
@@ -8576,6 +8577,9 @@
   lat: 38.2402937
   lng: -85.7309237
 1300 Story Ave near Whirling Tiger, Louisville, KY:
+  lat: 38.2558684
+  lng: -85.7275818
+1300 Story Ave, Louisville, KY:
   lat: 38.2558684
   lng: -85.7275818
 1300 Tafloid Street, Louisville, KY: null
@@ -49598,6 +49602,9 @@
 8500 Minor Ln, Louisville, KY:
   lat: 38.1256586
   lng: -85.7122206
+8500 Missionary Ct, Louisville, KY:
+  lat: 38.124766
+  lng: -85.5786185
 8500 Moody Rd, Louisville, KY:
   lat: 38.127453
   lng: -85.690902
