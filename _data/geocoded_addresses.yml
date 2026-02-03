@@ -2294,6 +2294,9 @@
 100 West W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+100 West W Ormsby Ave, Louisville, KY:
+  lat: 38.2327002
+  lng: -85.759041
 100 West W, Louisville, KY:
   lat: 38.2575113
   lng: -85.7629961
@@ -29133,6 +29136,9 @@
 3900 Bank St near 39th and 41st Streets, Louisville, KY:
   lat: 38.2717715
   lng: -85.8120889
+3900 Bardstown Rd, Louisville, KY:
+  lat: 38.1950369
+  lng: -85.6533252
 3900 Barks, Louisville, KY: null
 3900 Barn Rd, Louisville, KY:
   lat: 38.132939
@@ -31440,6 +31446,9 @@
   lat: 38.2549259
   lng: -85.7571981
 400 West Muhammad Ali alley, Louisville, KY: null
+400 West Muhammad Ali near 5th Street, Louisville, KY:
+  lat: 38.25115
+  lng: -85.758368
 400 West Muhammad Ali, Louisville, KY:
   lat: 38.25115
   lng: -85.758368
@@ -42488,6 +42497,7 @@
   lat: 38.330943
   lng: -85.6276684
 6400 McAnlis Circle, Louisville, KY: null
+6400 Molly Ridgeway, Louisville, KY: null
 6400 Montego Bay Rd, Louisville, KY:
   lat: 38.155313
   lng: -85.640974
