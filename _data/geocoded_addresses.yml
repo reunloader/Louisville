@@ -3708,6 +3708,9 @@
 1000 South3rd Street, Louisville, KY:
   lat: 38.2384976
   lng: -85.7585373
+1000 South40th Street, Louisville, KY:
+  lat: 38.2452239
+  lng: -85.8186424
 1000 South47th Street near Westchester Ave, Louisville, KY:
   lat: 38.2457302
   lng: -85.8325125
@@ -4790,6 +4793,7 @@
 11 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
+110 Salem-Mary-Paul, Louisville, KY: null
 1100 17th Street, but this was later corrected, Louisville, KY: null
 1100 Algonquin Pky near Sharp Ave in Lombard Drive, Louisville, KY:
   lat: 38.2138395
@@ -31142,6 +31146,9 @@
 400 South2nd Street at Connell Lodge, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South2nd Street at the Omni Hotel, Louisville, KY:
+  lat: 38.2521786
+  lng: -85.7548825
 400 South2nd Street near Pisa, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
@@ -33448,6 +33455,9 @@
 4300 Whitmore Ave, Louisville, KY:
   lat: 38.17886
   lng: -85.78458
+4300 Willowview Blvd, Louisville, KY:
+  lat: 38.1824094
+  lng: -85.5551954
 4300 Winter Garden Ct, Louisville, KY:
   lat: 38.1872112
   lng: -85.6292391
@@ -40182,6 +40192,9 @@
 600 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+600 E W Market St at MC Associates, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 600 E W Market St, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
@@ -41436,6 +41449,7 @@
 6000 Big Horn Pl, Louisville, KY:
   lat: 38.1902247
   lng: -85.5485755
+6000 Bonfire Dr near Indian Lynch Road, Louisville, KY: null
 6000 Bowl near Hunter's Plain Circle, Louisville, KY: null
 6000 Breckenridge Ln and Berkshire Ave, Louisville, KY: null
 6000 Breckenridge and 9th and O Baptist, Louisville, KY: null
