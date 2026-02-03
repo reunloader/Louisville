@@ -10160,6 +10160,7 @@
 1500 Bardstown Road, Louisville, KY:
   lat: 38.2316448
   lng: -85.7088797
+1500 Barge Town Road, Louisville, KY: null
 1500 Barry, Louisville, KY: null
 1500 Baxter Ave across Jaeger Ave and Eastern Parkway, Louisville, KY: null
 1500 Baxter Ave, Louisville, KY:
@@ -18986,6 +18987,9 @@
 22 Lisbon Ln, Louisville, KY:
   lat: 38.2065763
   lng: -85.6581736
+? 22 W Whitney Ave involving a JCPS bus and a parked vehicle. No injuries were reported,
+  and officers arrived, Louisville, KY
+: null
 22 Whispering Hills Blvd, Louisville, KY:
   lat: 38.1473573
   lng: -85.6491619
@@ -25681,6 +25685,9 @@
 3100 Pelham Ct, Louisville, KY: null
 3100 Pequod Circle, Louisville, KY: null
 3100 Pond Station Rd UPS, Louisville, KY: null
+3100 Pond Station Rd, Louisville, KY:
+  lat: 38.1120699
+  lng: -85.8191021
 3100 Pond Station Rota UPS, Louisville, KY: null
 ? 3100 Poplar Level Rd to attend to a 77-year-old male experiencing low blood sugar
   and low blood pressure. The patient's condition required immediate medical attention.,
@@ -25931,6 +25938,7 @@
   lng: -85.4247915
 31800 West Muhammad Alley, Louisville, KY: null
 32 Annie St, Louisville, KY: null
+32 Georgetown Cir, where children were possibly without food or water, and no one had been seen, Louisville, KY: null
 32 Imperator Ln, Louisville, KY:
   lat: 38.2848685
   lng: -85.5004779
@@ -28422,6 +28430,7 @@
 3700 Dixie Hwy near Speedway, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+3700 Dogoon Dr, Louisville, KY: null
 3700 Downing Way across Sunder Ave and Hikes Ln, Louisville, KY: null
 3700 Downing Way near Logan St, Louisville, KY:
   lat: 38.2021882
@@ -36837,6 +36846,9 @@
 500 S Campbell St, Louisville, KY:
   lat: 38.248768
   lng: -85.736857
+500 S Clay, Louisville, KY:
+  lat: 38.249208
+  lng: -85.740887
 500 S Floyd St at UofL office building, Louisville, KY:
   lat: 38.2500144
   lng: -85.749269
@@ -46510,6 +46522,9 @@
 7400 Candace Way, Louisville, KY:
   lat: 38.142768
   lng: -85.771953
+7400 Chant Ct, Louisville, KY:
+  lat: 38.148763
+  lng: -85.8047714
 ? 7400 Colson Dr, as well as near the intersection of Silver Springs Dr and Raintree
   Dr. Witnesses indicated that approximately twenty rounds were fired. Police units
   responded, Louisville, KY
@@ -46830,6 +46845,7 @@
 7500 Pony Haven Dr, Louisville, KY:
   lat: 38.1414558
   lng: -85.7800443
+7500 River Rd prompted officers, Louisville, KY: null
 7500 Run Road, Louisville, KY:
   lat: 38.1356964
   lng: -85.548125
@@ -52572,6 +52588,7 @@
 9815 Cedar Garden Drive, Louisville, KY:
   lat: 38.1273851
   lng: -85.5921037
+98200 Westport Rd, Louisville, KY: null
 98200 Woodhurst Ct, Louisville, KY: null
 99 Grassland Dr, Louisville, KY: null
 9900 Agena, Louisville, KY:
