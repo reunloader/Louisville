@@ -28197,6 +28197,9 @@
 3600 Oakdale Ave. A 20-year-old rider was reported, Louisville, KY:
   lat: 38.2029202
   lng: -85.7651796
+3600 Oakvista Pl, Louisville, KY:
+  lat: 38.2881112
+  lng: -85.4836592
 3600 Parchetown Road, Louisville, KY: null
 3600 Parker Ave, Louisville, KY:
   lat: 38.2689924
@@ -38278,6 +38281,9 @@
 5200 Oaklawn Park Dr, Louisville, KY:
   lat: 38.1723027
   lng: -85.5421268
+5200 Oakvista Pl, Louisville, KY:
+  lat: 38.2878699
+  lng: -85.4829294
 5200 Oldshire Rd, Louisville, KY:
   lat: 38.1079199
   lng: -85.6625608
@@ -45120,6 +45126,9 @@
   lng: -85.7681961
 700 Rooting Lane, zone 19, Louisville, KY: null
 700 S Brook St near Center Ministries, Louisville, KY:
+  lat: 38.244898
+  lng: -85.751927
+700 S Brook St near Renna Center, Louisville, KY:
   lat: 38.244898
   lng: -85.751927
 ? '700 S Brook St)** (around 1:45 p.m. a.m. p.m.): A black male, approximately 30
@@ -53893,6 +53902,7 @@ Lowe Rd and Spanish Street, Louisville, KY: null
 Lowell Ave and Bardstown Rd, Louisville, KY: null
 Lunar Dr and Twinkle Dr, Louisville, KY: null
 Lydia St and Brewster Ave, Louisville, KY: null
+Lydia St and Mulberry St, Louisville, KY: null
 Lyman Street and Reed Road, Louisville, KY: null
 Lyndale Ave and Bolling Ave, Louisville, KY: null
 Lynn St and Shelby St, Louisville, KY: null
