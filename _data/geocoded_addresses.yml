@@ -12214,6 +12214,9 @@
 ? 1700 Griffin Gate. Responding units investigated the activation. The specific nature
   of the alarm was not detailed in the initial report., Louisville, KY
 : null
+1700 Griffiths, Louisville, KY:
+  lat: 38.2634026
+  lng: -85.7813324
 1700 Hale Ave, Louisville, KY:
   lat: 38.2377007
   lng: -85.7839822
@@ -13768,6 +13771,9 @@
   lng: -85.781397
 1900 Crossgate, Louisville, KY: null
 1900 Crossroads 1st and Shorewood McDonald's, Louisville, KY: null
+1900 Daffodil, Louisville, KY:
+  lat: 38.1431555
+  lng: -85.8594761
 1900 Deer Park Ave, crossing Spartanwood, Louisville, KY: null
 1900 Deerwood Ave, Louisville, KY:
   lat: 38.2278705
@@ -29901,6 +29907,7 @@
   lat: 38.1964886
   lng: -85.7726792
 400 Bermuda Ct, Louisville, KY: null
+400 Bigger, Louisville, KY: null
 400 Birk Ln, Louisville, KY: null
 400 Blue Lick Rd and 700 block of Berry Blvd, Louisville, KY: null
 400 Blue's Coleman Junior Drive, Louisville, KY: null
