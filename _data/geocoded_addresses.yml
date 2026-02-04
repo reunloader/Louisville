@@ -20841,6 +20841,7 @@
 2400 South Floyd, Louisville, KY:
   lat: 38.213035
   lng: -85.755478
+2400 South Poplick Road, Louisville, KY: null
 2400 South16th Street, Louisville, KY:
   lat: 38.2240638
   lng: -85.7820693
@@ -22019,6 +22020,9 @@
   lat: 38.2604854
   lng: -85.7937799
 2600 West Kentucky in the South Alley, Louisville, KY: null
+2600 West Kentucky, Louisville, KY:
+  lat: 38.2604854
+  lng: -85.7937799
 2600 West Madison, Louisville, KY:
   lat: 38.2540077
   lng: -85.7945055
@@ -27143,6 +27147,9 @@
   lng: -85.8243903
 337 the Family Dollar, Louisville, KY: null
 34 Ackermack Drive, Louisville, KY: null
+34 Buckner Ave, Louisville, KY:
+  lat: 38.1700757
+  lng: -85.7727382
 34 Lincote Drive, Louisville, KY: null
 34 Mellwood Ave, Louisville, KY:
   lat: 38.2579018
@@ -30492,6 +30499,7 @@
 400 East Emerson Street, Louisville, KY: null
 400 East Ever, Louisville, KY: null
 400 East Everston near Jackson and Preston, Louisville, KY: null
+400 East German Senate Way, Louisville, KY: null
 400 East Grage Street at CrossFit Jackson and Preston, Louisville, KY: null
 400 East Great Lawn, Louisville, KY: null
 400 East Jeff near South Jackson and South Preston, Louisville, KY: null
@@ -43963,6 +43971,9 @@
   lat: 38.1537076
   lng: -85.7534523
 6800 Fayhurst, Louisville, KY: null
+6800 Fernview Rd, Louisville, KY:
+  lat: 38.1484695
+  lng: -85.6100535
 6800 Feyhurst Dr, Louisville, KY:
   lat: 38.1516109
   lng: -85.8649235
