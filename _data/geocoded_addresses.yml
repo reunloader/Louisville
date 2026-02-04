@@ -633,6 +633,7 @@
 100 Charlie and 100 block of Adam, Louisville, KY: null
 100 Charlie and 100 block of Baker, Louisville, KY: null
 100 Charlie and 100 block of Baker, were en route, Louisville, KY: null
+100 Charlie and 500 block of South Jackson, Louisville, KY: null
 100 Charlie near 30th and Northwestern, Louisville, KY:
   lat: 38.1686412
   lng: -85.5627268
@@ -19009,6 +19010,9 @@
   lat: 38.253087
   lng: -85.78599
 2100 W Magnolia Ave and confirmed a fire at a homeless camp near the 900 block of W Magnolia Ave, Louisville, KY: null
+2100 W Main St, Louisville, KY:
+  lat: 38.2595621
+  lng: -85.7848386
 2100 W Market St at the Commitment House, Louisville, KY:
   lat: 38.258287
   lng: -85.785077
@@ -37281,6 +37285,9 @@
   lat: 38.249645
   lng: -85.744921
 500 South Jackson, Louisville, KY:
+  lat: 38.249645
+  lng: -85.744921
+500 South Jackson. Responding units monitored the scenes and worked, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
 500 South Jaytown, Louisville, KY: null
