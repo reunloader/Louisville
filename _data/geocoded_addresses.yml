@@ -21853,6 +21853,9 @@
 2600 W Burnett Ave near Olive St and Cypress St, Louisville, KY:
   lat: 38.232277
   lng: -85.798492
+2600 W Chestnut St near South26th and South 27th, Louisville, KY:
+  lat: 38.252674
+  lng: -85.7947783
 ? 2600 W Jefferson St and South 28th Street, involving fire and rescue units. The
   incident remains under investigation as authorities continue to search, Louisville,
   KY
@@ -24038,6 +24041,7 @@
 300 Graves End Dr, Louisville, KY:
   lat: 38.255761
   lng: -85.775666
+300 Graves and Drive, Carters & Cedar St, Louisville, KY: null
 300 Greenhaven Dr, Louisville, KY: null
 300 Greentree Ln, Louisville, KY:
   lat: 38.1028056
