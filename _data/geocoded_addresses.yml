@@ -140,6 +140,7 @@
 02 Trout Creek Dr, Louisville, KY:
   lat: 38.2050839
   lng: -85.6795771
+02 unspecified street, Louisville, KY: null
 03 Arlington Ave, Louisville, KY:
   lat: 38.2545625
   lng: -85.7142596
@@ -4052,6 +4053,7 @@
 1000 and 10100 block of Grand Ave, Louisville, KY: null
 1000 back lane, Louisville, KY: null
 1000 building, Louisville, KY: null
+1000 ending in 314, Louisville, KY: null
 1000 expressway, Louisville, KY:
   lat: 38.189542
   lng: -85.775529
@@ -5962,6 +5964,7 @@
 11200 New Stone Ct, Louisville, KY:
   lat: 38.2491364
   lng: -85.549344
+11200 Palomar Corp, Louisville, KY: null
 11200 Preston Hwy at 500 block of storage, Louisville, KY:
   lat: 38.087364
   lng: -85.667759
@@ -11968,6 +11971,7 @@
   of block of Manslick Rd, Louisville, KY
 : null
 1600 responded, Louisville, KY: null
+1600 unspecified street and 1643, Louisville, KY: null
 1600 west west oak street, Louisville, KY: null
 1600, Louisville, KY:
   lat: 38.2243053
@@ -29133,6 +29137,9 @@
 3700 W Magnolia Ave, Louisville, KY:
   lat: 38.2338952
   lng: -85.816972
+3700 W Market St, Louisville, KY:
+  lat: 38.2611663
+  lng: -85.8110378
 3700 W Wheatmore Dr due, Louisville, KY: null
 ? 3700 W Wheatmore Dr for a 63-year-old male complaining of foot pain. The patient
   had recently experienced an incident that may have contributed to his discomfort.,
@@ -33038,6 +33045,7 @@
 4100 Springlake Dr, Louisville, KY: null
 4100 Spyglass Ct, Louisville, KY: null
 4100 St, Louisville, KY: null
+4100 Status, Louisville, KY: null
 4100 Stoneview Dr, Louisville, KY:
   lat: 38.2681499
   lng: -85.6556833
@@ -38754,6 +38762,9 @@
 53 Industrial Blvd, Louisville, KY:
   lat: 38.1527152
   lng: -85.7033916
+53 Sanctuary, Louisville, KY:
+  lat: 38.3075882
+  lng: -85.62509
 5300 Alba Way, Louisville, KY:
   lat: 38.1750429
   lng: -85.6731003
