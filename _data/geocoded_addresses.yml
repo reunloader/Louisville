@@ -707,6 +707,7 @@
   lat: 38.254922
   lng: -85.686895
 100 Crest Street, Louisville, KY: null
+100 Crimson Dr, Louisville, KY: null
 100 Croft Ct, Louisville, KY: null
 100 Crop Ct, Louisville, KY:
   lat: 38.26139
@@ -1628,6 +1629,9 @@
   lat: 38.12637
   lng: -85.7935486
 100 Outer Loop, involving a semi-truck and a dark-colored vehicle, Louisville, KY: null
+100 Oxmoor Ct, Louisville, KY:
+  lat: 38.2490514
+  lng: -85.615956
 100 Oxmor, Louisville, KY: null
 100 Painted Stone Pl, Louisville, KY: null
 ? 100 Painted Stone Pl. The location was initially reported and then updated to the
