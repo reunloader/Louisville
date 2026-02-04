@@ -14237,6 +14237,7 @@
 1900 West Madison, Louisville, KY:
   lat: 38.2526157
   lng: -85.7827234
+1900 West Madison, South 19th and South 20th, Louisville, KY: null
 1900 West Market, Louisville, KY: null
 1900 West Muhammad Ali, Louisville, KY:
   lat: 38.253808
@@ -17425,6 +17426,9 @@
   lat: 38.2607234
   lng: -85.7797189
 200 northbound I-200, Louisville, KY: null
+200 northbound South3rd Street near mile 5. Responders arrived, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 200 northbound around mile marker 841, Louisville, KY: null
 200 northbound at the 13, Louisville, KY: null
 200 northbound at the 30-mile marker, Louisville, KY: null
@@ -18793,6 +18797,7 @@
   Louisville, KY
 : null
 2100 Mutual Rank Road. The call was, Louisville, KY: null
+2100 Newburg Rd in front of Bellarmine, Allen Hall, Louisville, KY: null
 ? 2100 North 25th Street following a report of a disturbance. The complainant indicated
   hearing noises outside and discovered a broken window, with a brick found at the
   scene. The situation was investigated to determine if there were any ongoing threats
@@ -27034,6 +27039,7 @@
 3300 Shepherdsville Rd. Crews are currently assessing the situation, but no units have been dispatched, Louisville, KY:
   lat: 38.1501507
   lng: -85.6598399
+3300 South 3rd Street, a grocery store, Louisville, KY: null
 3300 Stony Brook Dr, Louisville, KY: null
 3300 Street South Gate, Louisville, KY: null
 3300 T-Tulip Cir, Louisville, KY: null
@@ -38900,6 +38906,9 @@
 5300 South Third Street near Iroquois Shoes and More, Louisville, KY: null
 5300 South Third Street, Louisville, KY: null
 5300 South33, Iroquois in W Southland Blvd, Louisville, KY: null
+5300 South3rd Street at Cook's Inn Grocery, Louisville, KY:
+  lat: 38.1712212
+  lng: -85.7686312
 5300 South3rd Street at Family Dollar, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
@@ -45234,6 +45243,7 @@
 ? 700 Marsha Eddes Road, with the nature of the incident unclear but potentially involving
   suspicious circumstances or a need, Louisville, KY
 : null
+700 Marshall Boulevard across from Anslick and West8th, Louisville, KY: null
 700 Marshall St near Shelby and Clay, Louisville, KY:
   lat: 38.2494928
   lng: -85.7360375
