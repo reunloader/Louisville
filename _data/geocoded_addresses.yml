@@ -2468,6 +2468,7 @@
   lat: 38.1485029
   lng: -85.6005299
 100 district guard, Louisville, KY: null
+100 east south from Boulevard, Louisville, KY: null
 100 exit of South 65 near Floyd Oak, Louisville, KY: null
 100 exit, Louisville, KY:
   lat: 38.1859027
@@ -23662,6 +23663,7 @@
 300 Blinkenbaker Parkway, Louisville, KY: null
 300 Blue Creek and Ripple Creek, Louisville, KY: null
 300 Blue Lake, Louisville, KY: null
+300 Bold Forbes Blvd, Department 205, Louisville, KY: null
 300 Boxley Ave near Harwell and Helm, Louisville, KY:
   lat: 38.20556
   lng: -85.756522
@@ -35575,6 +35577,9 @@
 4800 Cliff Ave near Croshings and Beech Street Avenue, Louisville, KY:
   lat: 38.179428
   lng: -85.776967
+4800 Cliff Ave, Louisville, KY:
+  lat: 38.179428
+  lng: -85.776967
 4800 Cofer Ave, Louisville, KY:
   lat: 38.1380877
   lng: -85.8455558
@@ -42505,6 +42510,9 @@
 6300 Cottagemeadow Dr, Louisville, KY:
   lat: 38.178505
   lng: -85.646968
+6300 Dixie Hwy, Louisville, KY:
+  lat: 38.1127713
+  lng: -85.8629441
 ? 6300 Doe Run Rd, 1200 block of South 16th Street, Powder Horn Dr, West Hornsby Ave,
   Wilson Ave, Longest Ave, and Cowling Ave, Louisville, KY
 : null
