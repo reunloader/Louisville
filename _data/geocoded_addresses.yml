@@ -4323,6 +4323,9 @@
 10300 Brookridge Village Blvd, Louisville, KY:
   lat: 38.1435922
   lng: -85.5811458
+10300 Coneflower Ln near Civic Lane and Deerfoot Trace, Louisville, KY:
+  lat: 38.3212193
+  lng: -85.5628307
 10300 Dixie Hwy, Louisville, KY:
   lat: 38.1060157
   lng: -85.8683925
@@ -24715,6 +24718,7 @@
 300 South38th Street, Louisville, KY:
   lat: 38.2603698
   lng: -85.8121667
+300 South41st Street across Barkwood and Herman, Louisville, KY: null
 300 South41st Street, Louisville, KY:
   lat: 38.2604204
   lng: -85.8178928
@@ -46657,6 +46661,9 @@
 7200 Global Dr, Louisville, KY:
   lat: 38.1378541
   lng: -85.8923291
+7200 Green Oak Dr near Green Acres Dr, Louisville, KY:
+  lat: 38.173509
+  lng: -85.881229
 7200 Green Oak Dr, Louisville, KY:
   lat: 38.173509
   lng: -85.881229
