@@ -14583,6 +14583,9 @@
 200 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+200 Booker, Louisville, KY:
+  lat: 38.2540817
+  lng: -85.5490351
 200 Bradford Dr. She had a ring stuck, Louisville, KY:
   lat: 38.1980189
   lng: -85.6490594
@@ -15456,6 +15459,9 @@
   lng: -85.6350403
 200 Grassland Dr, Louisville, KY: null
 200 Greenhaven Dr, Louisville, KY: null
+200 Greenwood Ave, Louisville, KY:
+  lat: 38.2411234
+  lng: -85.7886759
 200 Greenwood, Louisville, KY:
   lat: 38.1472922
   lng: -85.8960755
@@ -22156,6 +22162,7 @@
   lat: 38.261545
   lng: -85.795375
 2700 Cypress and Olive, Louisville, KY: null
+2700 Duma03, Louisville, KY: null
 2700 Duncan St near North28th and North 26th St, Louisville, KY:
   lat: 38.2635194
   lng: -85.795078
@@ -32350,6 +32357,7 @@
 4000 Taylor Boulevard. The call was related, Louisville, KY:
   lat: 38.1862421
   lng: -85.7841837
+4000 Taylor Road, Louisville, KY: null
 4000 Taylor Soul Road near Taylor Soul and Hikes, Louisville, KY: null
 4000 Taylor's Star Hill Dr, Louisville, KY: null
 4000 Taylorsville Rd near Goodwill Way and Hand Boulevard, Louisville, KY:
