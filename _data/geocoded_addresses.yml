@@ -1175,6 +1175,7 @@
 100 Lincoln Ave, near the German American Club,, Louisville, KY:
   lat: 38.2139917
   lng: -85.7756194
+100 Lincoln and Utah, Louisville, KY: null
 100 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
@@ -50770,6 +50771,9 @@
   lat: 38.1718424
   lng: -85.6852333
 900 Hangup, Louisville, KY: null
+900 Hazel St, Louisville, KY:
+  lat: 38.2333307
+  lng: -85.8062352
 900 Hess, Louisville, KY:
   lat: 38.20508
   lng: -85.735787
