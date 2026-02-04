@@ -15580,6 +15580,9 @@
 200 Louisville Ave across from Florence, Louisville, KY: null
 200 Lysander Dr, Louisville, KY: null
 200 Mackay Lane, Louisville, KY: null
+200 Mackie Ln near Lesane Dr and Sam Dr, Louisville, KY:
+  lat: 38.141674
+  lng: -85.7669071
 200 Mackie Ln, Louisville, KY:
   lat: 38.141674
   lng: -85.7669071
@@ -18200,6 +18203,7 @@
 2000 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
+2000 South Avery Court Walk near UofL Strickler Hall, Louisville, KY: null
 2000 South Hirshhorn Parkway, Louisville, KY: null
 2000 South Preston Street 10:30 a, Louisville, KY: null
 2000 South Preston Street 10:30 a.m.AM, Louisville, KY: null
@@ -23230,6 +23234,9 @@
 2900 Eve Dr, Louisville, KY:
   lat: 38.1049006
   lng: -85.8439482
+2900 Fern Valley Rd at the intersection of Fern Valley and Yorick, Louisville, KY:
+  lat: 38.1555547
+  lng: -85.7107102
 2900 Fern Valley Rd, Louisville, KY:
   lat: 38.1555547
   lng: -85.7107102
@@ -37778,6 +37785,9 @@
 5000 Reed Ave, Louisville, KY:
   lat: 38.163888
   lng: -85.777127
+5000 Roaming Plains Ct near Crop St of River Trail Dr, Louisville, KY:
+  lat: 38.1069721
+  lng: -85.6641886
 5000 Roaming Plains Ct, Louisville, KY:
   lat: 38.1069721
   lng: -85.6641886
@@ -40480,6 +40490,7 @@
 600 Beulah Church Rd, Louisville, KY:
   lat: 38.1315529
   lng: -85.6140436
+600 Big Green Gainesville at 700 block of, Louisville, KY: null
 600 Blanton, and officers engaged, Louisville, KY: null
 600 Bluegrass Ave, Louisville, KY:
   lat: 38.178855
@@ -48033,6 +48044,7 @@
 800 Baker near Norton Healthcare Blvd, Louisville, KY:
   lat: 38.3138353
   lng: -85.575028
+800 Baker's Marshall, Louisville, KY: null
 ? 800 Baker, 800 block of Adam, and 3 David were engaged in managing the stop and
   the resulting traffic disruption, Louisville, KY
 : null
@@ -48694,6 +48706,9 @@
 800 South20 near Norton West, Louisville, KY:
   lat: 38.2461699
   lng: -85.7996226
+800 South20th Street, Louisville, KY:
+  lat: 38.2486783
+  lng: -85.784939
 800 South21st Street, Louisville, KY: null
 800 South23rd Street, Louisville, KY:
   lat: 38.246744
@@ -54090,6 +54105,7 @@ Lena Ln and Newburg Rd, Louisville, KY: null
 Lencott Dr and Terry Rd, Louisville, KY: null
 Lentz Ave and Taylor Blvd, Louisville, KY: null
 Leroy Ave and Matheis Ln, Louisville, KY: null
+Lesane Dr and Sam Dr, Louisville, KY: null
 Lester Ave and Taylor Springs Dr, Louisville, KY: null
 Lewis Coleman Junior Drive and Grant Ave, Louisville, KY: null
 Lexham Rd and Eastside Dr, Louisville, KY: null
