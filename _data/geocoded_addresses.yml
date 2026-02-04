@@ -5254,6 +5254,9 @@
   lat: 38.2351031
   lng: -85.7398515
 1100 London Street, Louisville, KY: null
+1100 Lone Oak Ave near Outer Loop, Louisville, KY:
+  lat: 38.1370132
+  lng: -85.6939169
 1100 Lone Oak Ave, Louisville, KY:
   lat: 38.1370132
   lng: -85.6939169
@@ -11985,6 +11988,9 @@
 16900 Dry Ridge Rd, Louisville, KY:
   lat: 38.116669
   lng: -85.4457682
+16900 James R, Louisville, KY:
+  lat: 38.122477
+  lng: -85.7569915
 16900 Matthews Rd, Louisville, KY:
   lat: 38.1265566
   lng: -85.8775854
@@ -27920,6 +27926,9 @@
 3500 Pinecroft Dr, Louisville, KY:
   lat: 38.1345391
   lng: -85.6993569
+3500 Poplar Level Rd, Louisville, KY:
+  lat: 38.2082664
+  lng: -85.7159395
 3500 Powell Ave, Louisville, KY:
   lat: 38.195716
   lng: -85.790941
@@ -32962,6 +32971,9 @@
 4100 Sunrise Way, Louisville, KY:
   lat: 38.2139627
   lng: -85.6207901
+4100 Sunset Ave near Cecil and South 42nd, Louisville, KY:
+  lat: 38.2421922
+  lng: -85.8211201
 4100 Sunset Ave, Louisville, KY: null
 4100 Talon Ridge Dr, Louisville, KY:
   lat: 38.0878087
@@ -38262,6 +38274,9 @@
   lat: 38.160132
   lng: -85.6760225
 5100 Perry Rd, Louisville, KY: null
+5100 Preston Hwy, Louisville, KY:
+  lat: 38.1740083
+  lng: -85.7128873
 5100 Princewood Pl, Louisville, KY:
   lat: 38.163559
   lng: -85.818091
@@ -52818,6 +52833,9 @@
   lat: 38.115491
   lng: -85.860743
 9700 Evan Wood Quartz, Louisville, KY: null
+9700 Heavrin Ave, Louisville, KY:
+  lat: 38.1932529
+  lng: -85.6276094
 9700 Hudson Ln, Louisville, KY:
   lat: 38.1715314
   lng: -85.5766017
