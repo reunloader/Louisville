@@ -926,6 +926,7 @@
 100 East, Louisville, KY:
   lat: 38.1716047
   lng: -85.7633871
+100 East9, Louisville, KY: null
 100 Eastern Parkway at Eastway Health and Rehab, Louisville, KY:
   lat: 38.213645
   lng: -85.762113
@@ -1588,6 +1589,9 @@
 : null
 100 Norwood Dr, Louisville, KY: null
 100 Oak Bridge Cir, Louisville, KY: null
+100 Off from Lou Ct near Bullitt Ln, Louisville, KY:
+  lat: 38.2469926
+  lng: -85.6175478
 100 Old Cameron's Lane, Louisville, KY: null
 100 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
