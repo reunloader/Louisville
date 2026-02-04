@@ -14629,6 +14629,12 @@
 200 Capron Ln, Louisville, KY:
   lat: 38.3035111
   lng: -85.5637795
+200 Catalpa St, Louisville, KY:
+  lat: 38.2350659
+  lng: -85.8018737
+200 Catalpa St., Louisville, KY:
+  lat: 38.2350659
+  lng: -85.8018737
 200 Cecil Ave, Louisville, KY:
   lat: 38.262957
   lng: -85.81776
@@ -23747,6 +23753,9 @@
   lat: 38.2515564
   lng: -85.668767
 300 Castleview Dr, Louisville, KY: null
+300 Catalpa St, Louisville, KY:
+  lat: 38.2350659
+  lng: -85.8018737
 300 Cathy Baxter Way, Louisville, KY: null
 300 Caton Ave, Louisville, KY:
   lat: 38.1085511
