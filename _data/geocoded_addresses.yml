@@ -1345,6 +1345,9 @@
 100 North 21st, Louisville, KY:
   lat: 38.260924
   lng: -85.7844485
+100 North 26th Street, Louisville, KY:
+  lat: 38.2609211
+  lng: -85.7937807
 100 North 28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
@@ -15814,6 +15817,9 @@
   lng: -85.7670724
 200 North Bardstown Rd, Louisville, KY: null
 200 North Bardstown Rd., Louisville, KY: null
+200 North Clifton, Louisville, KY:
+  lat: 38.255743
+  lng: -85.70501
 200 North Delton Road, Louisville, KY: null
 200 North Depression Highway, Louisville, KY: null
 200 North First Street, Louisville, KY: null
@@ -25204,6 +25210,7 @@
 3000 Dundee Rd, Louisville, KY:
   lat: 38.2124668
   lng: -85.6873164
+3000 Dunraven Dr, Burlington, Louisville, KY: null
 3000 Eagle Pass, Louisville, KY:
   lat: 38.2126508
   lng: -85.7253292
