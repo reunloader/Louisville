@@ -23056,6 +23056,7 @@
 29 Fairground Rd, Louisville, KY:
   lat: 38.1740102
   lng: -85.5830729
+29 Tevis Dr, Louisville, KY: null
 29 Woods Mill Dr, Louisville, KY:
   lat: 38.0909056
   lng: -85.8846246
@@ -38902,6 +38903,7 @@
 5300 South 3rd Street near Corsica and Maria Ave, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
+5300 South 3rd Street, Armstrong Center, Louisville, KY: null
 5300 South 3rd Street, Louisville, KY:
   lat: 38.1712212
   lng: -85.7686312
@@ -49780,6 +49782,7 @@
 8400 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+8400 Warbler Branchway, Uber Homes, Louisville, KY: null
 8400 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
   lng: -85.5213912
@@ -52505,6 +52508,9 @@
 9500 Preston Hwy, near Meyer. Assistance was requested, Louisville, KY:
   lat: 38.1126543
   lng: -85.6797064
+9500 Ridgeside Dr, Louisville, KY:
+  lat: 38.145035
+  lng: -85.582958
 9500 South 1st Street, Louisville, KY:
   lat: 38.2450485
   lng: -85.7534965
