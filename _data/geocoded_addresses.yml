@@ -13002,6 +13002,9 @@
   lat: 38.263944
   lng: -85.777999
 1800 Baker Parkway, Louisville, KY: null
+1800 Baker, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 ? 1800 Bakes Street involving a white Dodge pickup truck. This stop was initiated
   following multiple calls from the public. The incident involved young children,
   and an arrest was ultimately made., Louisville, KY
@@ -23007,6 +23010,9 @@
   lat: 38.259563
   lng: -85.7966655
 2800 West Broadway at Goodwill Opportunity Center, Louisville, KY:
+  lat: 38.249486
+  lng: -85.798435
+2800 West Broadway near Bellertree, Louisville, KY:
   lat: 38.249486
   lng: -85.798435
 2800 West Broadway near Goodwill Opportunity Center, Louisville, KY:
@@ -42259,6 +42265,9 @@
 6100 Applegate Ln, Louisville, KY:
   lat: 38.133509
   lng: -85.6490481
+6100 Ashby Ln near Janna Dr and Rancho Dr, Louisville, KY:
+  lat: 38.1049253
+  lng: -85.8759577
 6100 Athens Dr, Louisville, KY:
   lat: 38.163245
   lng: -85.674781
@@ -42422,6 +42431,7 @@
 6100 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
+6100 Two Springs Ln near Grassy Fork, Louisville, KY: null
 6100 Two Springs Ln, Louisville, KY: null
 6100 West Highway 100 block of Crossreach Canyon Place and Crossreach Boulevard, Louisville, KY: null
 6100 West Pages and 13500 block of Arbor Ave, Louisville, KY: null
@@ -54075,6 +54085,7 @@ Jaeger Ave and Eastern Parkway, Louisville, KY: null
 James Lane and Champion Streets Lane, Louisville, KY: null
 Jane St and Frankfort Ave, Louisville, KY: null
 Jane St and Sycamore Ave, Louisville, KY: null
+Janna Dr and Rancho Dr, Louisville, KY: null
 Jean Ave and Van Hoose Rd, Louisville, KY: null
 Jefferson Blvd and Airport Hotels Blvd, Louisville, KY: null
 Jefferson Blvd and Bates Ave, Louisville, KY: null
