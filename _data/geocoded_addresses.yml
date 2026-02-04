@@ -28120,6 +28120,9 @@
 3600 Chamberlain Ln. The owner was attempting, Louisville, KY:
   lat: 38.2977039
   lng: -85.5437235
+3600 Chamberlain, Louisville, KY:
+  lat: 38.2977039
+  lng: -85.5437235
 3600 Christian Ridge Ct, Louisville, KY:
   lat: 38.1700831
   lng: -85.8735149
@@ -35235,6 +35238,9 @@
 4600 Valley Station Rd. Responders arrived on the scene shortly, Louisville, KY:
   lat: 38.1069091
   lng: -85.8414002
+4600 Varble Ave, Louisville, KY:
+  lat: 38.249445
+  lng: -85.829579
 4600 W Burr Ln, Louisville, KY: null
 4600 W Burr Ln. Responders arrived, Louisville, KY: null
 4600 W Southern Heights Ave, Louisville, KY:
@@ -45223,6 +45229,7 @@
 700 N S Beckley Station Rd, Louisville, KY:
   lat: 38.2203617
   lng: -85.4783836
+700 Namsan Street, Louisville, KY: null
 700 Nav Hill. The specific reasons, Louisville, KY: null
 700 Newbridge Pl, Louisville, KY:
   lat: 38.1574573
