@@ -13912,6 +13912,9 @@
 1900 Linden Ln, Louisville, KY:
   lat: 38.2560805
   lng: -85.6939124
+1900 Lower Hunters Trace, Louisville, KY:
+  lat: 38.156493
+  lng: -85.838854
 1900 Lytle St, Louisville, KY:
   lat: 38.264883
   lng: -85.780384
@@ -18288,6 +18291,9 @@
   lng: -85.8413922
 2000 White-Zorn Ave. Responders arrived, Louisville, KY: null
 2000 Willard and Bernheim, Louisville, KY: null
+2000 Willow Dr, Louisville, KY:
+  lat: 38.1832035
+  lng: -85.700345
 2000 Wilson Ave, waterfront area, Louisville, KY: null
 2000 Winding Bluff Trace, Louisville, KY:
   lat: 38.2813075
@@ -18507,6 +18513,7 @@
   lng: -85.785193
 2100 Conway Ct at Crest Street Gym, Louisville, KY: null
 2100 Council Avenue, Louisville, KY: null
+2100 Crop St and 2400 block of Point Port at Arbor Point, Louisville, KY: null
 2100 Cross Hill Ct, Louisville, KY:
   lat: 38.2694805
   lng: -85.7012174
@@ -19024,6 +19031,9 @@
 2100 West Muhammad Valley, Louisville, KY: null
 2100 West W Lee St, Louisville, KY: null
 2100 Wetstein Ave, Louisville, KY: null
+2100 Willow Dr, Louisville, KY:
+  lat: 38.1832035
+  lng: -85.700345
 2100 Wilson Ave, Louisville, KY:
   lat: 38.2347513
   lng: -85.7906078
@@ -19045,6 +19055,9 @@
 2100 hours from 300 block of Axis Dr, Louisville, KY: null
 2100 location, Louisville, KY: null
 2100 medical traffic, Louisville, KY: null
+2108 Willow Dr, Louisville, KY:
+  lat: 38.1832035
+  lng: -85.700345
 2112 Duncan St, Louisville, KY:
   lat: 38.26209
   lng: -85.7840605
@@ -40328,6 +40341,9 @@
 600 Bluegrass Ave, Louisville, KY:
   lat: 38.178855
   lng: -85.771456
+600 Boston Ct, Louisville, KY:
+  lat: 38.2641926
+  lng: -85.8173786
 600 Brandon, Louisville, KY:
   lat: 38.2678015
   lng: -85.6862892
