@@ -31917,6 +31917,9 @@
 400 [Unspecified Street], Louisville, KY:
   lat: 38.2551156
   lng: -85.7458112
+400 [unspecified street], Louisville, KY:
+  lat: 38.2551156
+  lng: -85.7458112
 400 an unspecified area, Louisville, KY: null
 400 an unspecified location., Louisville, KY: null
 400 and 100 block of Baker Radio, Louisville, KY: null
@@ -39738,6 +39741,9 @@
   lat: 38.1389913
   lng: -85.8602314
 5600 Johnson town Rd, Louisville, KY: null
+5600 Johnsontown Rd, Louisville, KY:
+  lat: 38.12146
+  lng: -85.8736312
 5600 Lagoona Dr, Louisville, KY:
   lat: 38.1698947
   lng: -85.6771558
