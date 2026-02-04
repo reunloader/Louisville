@@ -14339,6 +14339,9 @@
 20 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+20 St Anthony Church Rd, Louisville, KY:
+  lat: 38.1423226
+  lng: -85.8116048
 20 Welby Rd, Louisville, KY:
   lat: 38.1560283
   lng: -85.8308502
@@ -30214,6 +30217,9 @@
 400 E Jefferson St at Wayside, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
+400 E Jefferson St at White Side near Jackson and Preston, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
 400 E Jefferson St near Jackson and Preston, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
@@ -36143,6 +36149,9 @@
 4900 South 1st Street, Louisville, KY:
   lat: 38.176142
   lng: -85.7635837
+4900 South 3rd Street near Amherst and Linney Ave, Louisville, KY:
+  lat: 38.1768012
+  lng: -85.7674879
 4900 South First Run Parkway, Louisville, KY: null
 4900 South First Street, Louisville, KY: null
 4900 South Hirsborne Parkway, Louisville, KY: null
@@ -52223,6 +52232,9 @@
 9400 West Coast Road, 9400 block of Westport at 7 Brew, Louisville, KY: null
 9400 Westport Rd and 900 block of Willman Bear, Louisville, KY: null
 9400 Westport Rd at 7th and Brew, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
+9400 Westport Rd at Thornton's, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
 9400 Westport Rd near Westport and Goose Creek, Louisville, KY:
