@@ -18460,6 +18460,7 @@
   lat: 38.250585
   lng: -85.785493
 2000 model registered, Louisville, KY: null
+2000 model, Louisville, KY: null
 2000 scene 613, Louisville, KY: null
 2000 that street, Louisville, KY: null
 2000 the highway. Investigators are working, Louisville, KY: null
@@ -28928,6 +28929,9 @@
 3700 Mamaroneck Rd, Louisville, KY:
   lat: 38.207964
   lng: -85.643813
+3700 Marine St, Louisville, KY:
+  lat: 38.2762923
+  lng: -85.7892258
 3700 Marvin Ave, Louisville, KY: null
 3700 Marvin Ave, with a connection, Louisville, KY: null
 3700 Marvin Ave. A 75-year-old female was found, Louisville, KY: null
@@ -48897,6 +48901,9 @@
 800 South23rd Street. No injuries were reported, and officers are working, Louisville, KY:
   lat: 38.246744
   lng: -85.790185
+800 South24th Street, Louisville, KY:
+  lat: 38.246948
+  lng: -85.792275
 800 South26 Street and laundromat, Louisville, KY: null
 800 South26th Street, Louisville, KY:
   lat: 38.246164
@@ -50070,6 +50077,12 @@
 : null
 8500 South28th Street, Louisville, KY: null
 8500 Standing Oak Dr, Louisville, KY:
+  lat: 38.1323306
+  lng: -85.8449967
+8500 Standing Oak Dr. Authorities are investigating the situation further, Louisville, KY:
+  lat: 38.1323306
+  lng: -85.8449967
+8500 Standing Oak Dr. Officers attempted, Louisville, KY:
   lat: 38.1323306
   lng: -85.8449967
 8500 Tapestry Cir, Louisville, KY: null
