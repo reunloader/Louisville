@@ -217,6 +217,9 @@
 07 Garrison Rd, Louisville, KY:
   lat: 38.1375649
   lng: -85.7572713
+07 Newport Rd, Louisville, KY:
+  lat: 38.1783192
+  lng: -85.641542
 07 Portstown Road, Louisville, KY: null
 08 Air Smoudies Drive, Louisville, KY: null
 08 Gabriel Dr, Louisville, KY:
@@ -11656,6 +11659,7 @@
 1600 South First Form Parkway, Louisville, KY: null
 1600 South Firstport Parkway, Louisville, KY: null
 1600 South Floyd and Phyllis, Louisville, KY: null
+1600 South Forster, Louisville, KY: null
 1600 South Harris Ford Parkway, Louisville, KY: null
 1600 South Heist Parkway, Louisville, KY: null
 ? 1600 South Hirsborne Parkway for a patient experiencing wheezing and shortness of
@@ -24553,6 +24557,9 @@
 300 South by Street at the library green, Louisville, KY:
   lat: 38.3163771
   lng: -85.605423
+300 South, Louisville, KY:
+  lat: 38.2518093
+  lng: -85.7406964
 300 South10th Street, Louisville, KY:
   lat: 38.2547176
   lng: -85.7671993
@@ -36201,6 +36208,9 @@
 5 Fern Valley Rd, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+5 Rowan St, Louisville, KY:
+  lat: 38.2628325
+  lng: -85.8001248
 5 Sale Avenue, Louisville, KY:
   lat: 38.1976722
   lng: -85.7879718
