@@ -11516,6 +11516,9 @@
 1600 North, Louisville, KY:
   lat: 38.2587761
   lng: -85.4761844
+1600 Northwestern Pky, Louisville, KY:
+  lat: 38.2637627
+  lng: -85.7744582
 1600 Olive St, Crop St West Galvert Avenue, Louisville, KY: null
 1600 Osage Ave, Louisville, KY:
   lat: 38.2394252
@@ -15582,6 +15585,7 @@
 200 National Turnpike, Louisville, KY:
   lat: 38.1463758
   lng: -85.7585377
+200 Nauville Lane, Louisville, KY: null
 200 New Bourne Road, Louisville, KY: null
 200 New Cud, Louisville, KY: null
 200 New Cut near South, Louisville, KY:
