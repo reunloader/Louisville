@@ -5751,6 +5751,7 @@
 1100 West Oak, Louisville, KY:
   lat: 38.235984
   lng: -85.77188
+1100 Westbound Way, Louisville, KY: null
 1100 Westport Rd at Conrad Grove Rands, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
@@ -13319,6 +13320,9 @@
 1800 Melwood, Louisville, KY: null
 1800 Melwood. In conjunction with this, a welfare check was requested, Louisville, KY: null
 1800 Metalwood, Louisville, KY: null
+1800 Miami Ave, Louisville, KY:
+  lat: 38.2727122
+  lng: -85.8115126
 1800 Milburt Dr following a report of a truck fire. The blaze was contained, Louisville, KY: null
 1800 Millwood Ct to investigate and manage the situation., Louisville, KY: null
 1800 Millwood Ct, Louisville, KY:
@@ -28015,6 +28019,7 @@
   lat: 38.2329994
   lng: -85.7280197
 3600 Dale Park Terrace, Louisville, KY: null
+3600 Dutchman Plain, Louisville, KY: null
 3600 Dutchman's Lane near Cannons Ln, Louisville, KY:
   lat: 38.235109
   lng: -85.65801
@@ -31190,6 +31195,9 @@
   lat: 38.2528789
   lng: -85.7574044
 400 South 5th Street at Metro Development, Louisville, KY:
+  lat: 38.253135
+  lng: -85.758928
+400 South 5th Street at the Cathedral of Assumption, Louisville, KY:
   lat: 38.253135
   lng: -85.758928
 400 South 5th Street near Mephysave, West Liberty, and Cathedral school courts, Louisville, KY:
@@ -53836,6 +53844,7 @@ Langdon Dr and Ellsbury Road, Louisville, KY: null
 Lansbury Drive and Sutton Ln, Louisville, KY: null
 Larchmont Ave and Central Ave, Louisville, KY: null
 Larchmont Ave and Taylor Blvd, Louisville, KY: null
+Larkwood Ave and Herman St, Louisville, KY: null
 Larson Drive and River Park Dr, Louisville, KY: null
 Lauderdale Rd and Hill Rd, Louisville, KY: null
 Laughlin Ave and Kenwood Hill Rd, Louisville, KY: null
