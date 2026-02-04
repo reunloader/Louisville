@@ -11434,6 +11434,7 @@
 1600 Harold Ave, Louisville, KY:
   lat: 38.21787
   lng: -85.78834
+1600 Haskins, Louisville, KY: null
 1600 Hunnington Pl, Louisville, KY:
   lat: 38.2238897
   lng: -85.587231
@@ -15563,6 +15564,10 @@
   lat: 38.2517067
   lng: -85.6731172
 200 McMurray, Louisville, KY: null
+200 McRange, Louisville, KY: null
+200 McRange, with an open back door detected at the time, Louisville, KY:
+  lat: 38.1291737
+  lng: -85.57507
 200 Megan Thompson Way, Louisville, KY: null
 200 Megan Thompson Way. Officers were dispatched to address the noise complaint and assess the situation., Louisville, KY: null
 200 Megan Thompson Way. Officers were dispatched, Louisville, KY: null
@@ -52277,6 +52282,7 @@
   lat: 38.1173771
   lng: -85.6048029
 9500 Kalamazoo Road, Louisville, KY: null
+9500 Lambert and Boulevard, Louisville, KY: null
 9500 Lamborn, Louisville, KY: null
 9500 Lamborne Blvd, Louisville, KY:
   lat: 38.113241
