@@ -16001,6 +16001,13 @@
 200 North at I-64, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at I-65, Louisville, KY:
+  lat: 38.2607234
+  lng: -85.7797189
+? 200 North at I-65. Responding units checked the area but found no immediate hazard,
+  and the situation was canceled, Louisville, KY
+: lat: 38.2607234
+  lng: -85.7797189
 200 North at La Grange Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -25800,6 +25807,9 @@
 3000 Stegner Ave, Louisville, KY:
   lat: 38.1812365
   lng: -85.8511307
+3000 Summer Cir, Louisville, KY:
+  lat: 38.070565
+  lng: -85.876882
 3000 Taylor Blvd, Louisville, KY:
   lat: 38.2075565
   lng: -85.7751685
@@ -40638,6 +40648,9 @@
   lng: -85.8642862
 5800 Wave One Circle, Louisville, KY: null
 5800 Whispering Hills Blvd near Rock Hollow Dr and Rock Forest Dr, Louisville, KY:
+  lat: 38.1473866
+  lng: -85.6529514
+5800 Whispering Hills Blvd, Louisville, KY:
   lat: 38.1473866
   lng: -85.6529514
 5800 William Park Road, Louisville, KY: null
