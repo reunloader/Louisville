@@ -5878,6 +5878,10 @@
 11000 Main St, Louisville, KY:
   lat: 38.2561998
   lng: -85.752701
+11000 Meeting St park, Louisville, KY: null
+11000 Meeting St, Louisville, KY:
+  lat: 38.3251652
+  lng: -85.5667177
 11000 National Turnpike, Louisville, KY:
   lat: 38.0936619
   lng: -85.7283706
@@ -9375,6 +9379,7 @@
 1400 Frankfort Ave, Louisville, KY:
   lat: 38.261073
   lng: -85.723486
+1400 Gale St apartment 3, Louisville, KY: null
 1400 Gardiner Ln, Louisville, KY:
   lat: 38.2035036
   lng: -85.6889673
@@ -12230,6 +12235,9 @@
 1700 Doom Nell Street, Louisville, KY: null
 1700 Doomsdale Street, Louisville, KY: null
 1700 Dumesnil St near 17th and Dixie, Louisville, KY:
+  lat: 38.235944
+  lng: -85.783183
+1700 Dumesnil St, Louisville, KY:
   lat: 38.235944
   lng: -85.783183
 1700 Duncan St, Louisville, KY:
@@ -21823,6 +21831,7 @@
 2600 Kings Hwy, Louisville, KY:
   lat: 38.2219672
   lng: -85.672165
+2600 L patio place crossing Hikes Ln, Louisville, KY: null
 2600 Lamborne Blvd, Louisville, KY:
   lat: 38.1127025
   lng: -85.8112224
@@ -34984,6 +34993,7 @@
 4500 South 2nd, Louisville, KY:
   lat: 38.189113
   lng: -85.763864
+4500 South 3rd Street (Fortons), Louisville, KY: null
 4500 South 3rd Street at the Thortons, Louisville, KY:
   lat: 38.1889361
   lng: -85.7656325
@@ -49736,6 +49746,7 @@
   lat: 38.1901008
   lng: -85.7477013
 8200 Points at a Drop, Louisville, KY: null
+8200 Preston Hwy (McDonald's), Louisville, KY: null
 8200 Preston Hwy, Louisville, KY:
   lat: 38.1332639
   lng: -85.6846969
@@ -54236,6 +54247,7 @@ Greenwood Rd and Lucille Ave, Louisville, KY: null
 Greenwood Rd and Norwich Blvd, Louisville, KY: null
 Greenwood Rd and Railroad Ave, Louisville, KY: null
 Greenwood Rd and Ralston Ave, Louisville, KY: null
+Greenwood Rd and Russell Ave, Louisville, KY: null
 Greenwood Rd and South Park Rd, Louisville, KY: null
 Greenwood Rd and Terry Rd, Louisville, KY: null
 Greenwood Rd and Van Angle Drive, Louisville, KY: null
