@@ -4933,6 +4933,7 @@
 1100 Bardstown Rd near the nowhere bar, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
+1100 Bardstown Rd, Akiko's Bar, Louisville, KY: null
 1100 Bardstown Rd, Louisville, KY:
   lat: 38.238274
   lng: -85.720911
@@ -16905,6 +16906,7 @@
 ? 200 West [Unspecified Street] near River Park Dr. Police units were involved in
   this traffic enforcement action., Louisville, KY
 : null
+200 West and 65 South, Louisville, KY: null
 200 West and West Hill, Louisville, KY: null
 200 West and surrounding roads, Louisville, KY: null
 200 West approaching Taylor Blvd, Louisville, KY: null
@@ -17150,6 +17152,9 @@
 : null
 200 West, and efforts, Louisville, KY: null
 200 West, and ongoing traffic stops at different locations, Louisville, KY: null
+200 West, at the 65 split, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 ? 200 West, initially involving a black vehicle and a white Accord. The situation
   escalated into a larger collision involving a Tesla and a Nissan Murano. Emergency
   medical services transported one patient, Louisville, KY
