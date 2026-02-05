@@ -21754,6 +21754,9 @@
 2600 Dixdale Ave**, Louisville, KY:
   lat: 38.222604
   lng: -85.800516
+2600 Dixdale Ave, Louisville, KY:
+  lat: 38.222604
+  lng: -85.800516
 2600 Dixdale, Louisville, KY:
   lat: 38.222604
   lng: -85.800516
@@ -50991,6 +50994,9 @@
 900 Des Moines Avenue, near Alford Ave,, Louisville, KY:
   lat: 38.2661152
   lng: -85.8051111
+900 Dixie Hwy, Louisville, KY:
+  lat: 38.243168
+  lng: -85.78455
 900 Domino Street, Louisville, KY: null
 900 DuPont Rd, Louisville, KY: null
 900 E Gray St and Cedar, Louisville, KY: null
@@ -53367,6 +53373,9 @@
 9800 Victor Ida Edward Union X-Ray Charlie Adam Robert Robert Edward Drive, possibly connected, Louisville, KY: null
 9800 Vucre Drive, Louisville, KY: null
 9800 Vukra Drive, Louisville, KY: null
+9800 West Ave, Louisville, KY:
+  lat: 38.112038
+  lng: -85.853395
 9800 Westport Rd at Walk-Ins United, Louisville, KY:
   lat: 38.2874561
   lng: -85.5696908
