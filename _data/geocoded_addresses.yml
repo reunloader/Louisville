@@ -9436,6 +9436,9 @@
 1400 Glengarry Dr, Louisville, KY:
   lat: 38.123922
   lng: -85.740662
+1400 Goddard Ave, Louisville, KY:
+  lat: 38.231582
+  lng: -85.724301
 1400 Grand Trevi Dr near Grand Neptune, Louisville, KY:
   lat: 38.1336751
   lng: -85.6163716
@@ -31435,6 +31438,9 @@
   lng: -85.7702303
 400 Oak Colony Cove, Louisville, KY: null
 400 Oak and Marlis, Louisville, KY: null
+400 Oak, Louisville, KY:
+  lat: 38.2339463
+  lng: -85.7492852
 400 Ohio near South 45 at Cecil Ave, Louisville, KY:
   lat: 38.1063316
   lng: -85.8952345
@@ -52119,11 +52125,15 @@
 900 W Jefferson St, Louisville, KY:
   lat: 38.254757
   lng: -85.766155
+900 W Liberty St and I-71 North near 2, Louisville, KY: null
 ? 900 W Liberty St prompted a response from emergency services. The situation was
   being assessed by units on scene., Louisville, KY
 : null
 900 W Liberty St prompted a response from emergency services. The situation was being assessed by units, Louisville, KY: null
 900 W Liberty St, Louisville, KY:
+  lat: 38.253341
+  lng: -85.765696
+900 W Liberty St. Responding deputies coordinated efforts, Louisville, KY:
   lat: 38.253341
   lng: -85.765696
 900 W Magnolia Ave, Louisville, KY:
