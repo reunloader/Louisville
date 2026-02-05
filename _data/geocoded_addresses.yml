@@ -5809,6 +5809,13 @@
 1100 West LA, Louisville, KY:
   lat: 38.1312493
   lng: -85.8759227
+1100 West Liberty near South 11th Street, Louisville, KY:
+  lat: 38.253688
+  lng: -85.769004
+? 1100 West Liberty. The female involved in the welfare check is across the street
+  from this location, and officers are coordinating efforts, Louisville, KY
+: lat: 38.253688
+  lng: -85.769004
 1100 West Muhammad, Louisville, KY:
   lat: 38.2522795
   lng: -85.7696575
@@ -18835,6 +18842,9 @@
 2100 Greenwood Ave near South 22nd and Dr, Louisville, KY:
   lat: 38.240991
   lng: -85.788113
+2100 Greenwood Ave, Louisville, KY:
+  lat: 38.240991
+  lng: -85.788113
 2100 Greenwood and Osage Ave, Louisville, KY: null
 2100 Greenwood, Louisville, KY:
   lat: 38.240991
@@ -31499,6 +31509,11 @@
 : null
 400 South 11th Street, Louisville, KY:
   lat: 38.253642
+  lng: -85.76896
+? 400 South 11th Street. The woman, who is currently locked inside a residence, states
+  that the male suspect has been intoxicated with spice and making threats. The situation
+  is ongoing as officers assess her safety and try, Louisville, KY
+: lat: 38.253642
   lng: -85.76896
 400 South 12th Street, Louisville, KY:
   lat: 38.254398
