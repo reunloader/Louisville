@@ -4899,6 +4899,9 @@
   lng: -85.8064326
 110 Salem-Mary-Paul, Louisville, KY: null
 1100 17th Street, but this was later corrected, Louisville, KY: null
+1100 Adventure Rd, Louisville, KY:
+  lat: 38.2038116
+  lng: -85.8345888
 1100 Algonquin Pky near Sharp Ave in Lombard Drive, Louisville, KY:
   lat: 38.2138395
   lng: -85.7734051
