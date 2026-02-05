@@ -2376,6 +2376,9 @@
   KY
 : lat: 38.2575113
   lng: -85.7629961
+100 West Washington near Old Forrester, Louisville, KY:
+  lat: 38.2566222
+  lng: -85.7516934
 100 West Weather Spoon, Louisville, KY: null
 100 West Woodlawn, Louisville, KY:
   lat: 38.18123
@@ -14625,6 +14628,7 @@
 200 Baker and 2 Adam in response, Louisville, KY: null
 200 Baker and 2 Adam, Louisville, KY: null
 200 Baker and 200 block of Adam, Louisville, KY: null
+200 Baker and 400 block of Dixie Hwy, Louisville, KY: null
 200 Baker and W Kentucky St, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker area, 26th Street, Louisville, KY: null
@@ -30491,6 +30495,7 @@
 400 Charlie and 6 David., Louisville, KY: null
 400 Charlie and Baker Streets, Louisville, KY: null
 400 Charlie and Baker, Louisville, KY: null
+400 Charlie and Coral Ave, Louisville, KY: null
 400 Charlie and I-400 block of Charlie, Louisville, KY: null
 ? 400 Charlie and ended with the vehicle stopped at the mile marker. The vehicle was
   described as scar-colored, and multiple units were involved in the pursuit. The
@@ -37096,6 +37101,10 @@
   KY
 : lat: 38.2521349
   lng: -85.7441534
+500 E Main St and areas with short queue lengths. No injuries were reported, and officers responded, Louisville, KY: null
+500 E Main St, Louisville, KY:
+  lat: 38.2550268
+  lng: -85.7437181
 500 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
