@@ -20841,6 +20841,9 @@
 2400 Dundee, Louisville, KY:
   lat: 38.2212216
   lng: -85.6920757
+2400 E Jefferson St, Louisville, KY:
+  lat: 38.1591757
+  lng: -85.589892
 2400 E, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -35329,6 +35332,7 @@
 4500 Swaco Lane, Louisville, KY: null
 4500 Swing Dr, Louisville, KY: null
 4500 Tail Over the Road, Louisville, KY: null
+4500 Taylor Blvd and Zorn Ave entrance ramp, Louisville, KY: null
 4500 Taylorsville Rd, Louisville, KY:
   lat: 38.218652
   lng: -85.601355
@@ -45473,6 +45477,7 @@
   lat: 38.244448
   lng: -85.7414498
 700 East Ellsworth, Louisville, KY: null
+700 East Grade Street, Louisville, KY: null
 700 East Great Street, Louisville, KY: null
 700 East Hill, Louisville, KY:
   lat: 38.2241
@@ -55528,6 +55533,7 @@ Taylor Blvd and Showbox Avenue, Louisville, KY: null
 Taylor Blvd and Strader Ave, Louisville, KY: null
 Taylor Blvd and Walter Ave, Louisville, KY: null
 Taylor Blvd and Winkler Ave, Louisville, KY: null
+Taylor Blvd and Zorn Ave, Louisville, KY: null
 Taylor Flow Lake Road and Routt Rd, Louisville, KY: null
 Taylor Hill Road and Barkley Dr, Louisville, KY: null
 Taylor Springs Dr and Barr Ln, Louisville, KY: null
