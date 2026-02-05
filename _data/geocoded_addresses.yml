@@ -17532,6 +17532,12 @@
 200 near New South, Louisville, KY:
   lat: 38.2516962
   lng: -85.6240798
+200 near exit 4, Louisville, KY:
+  lat: 38.2516962
+  lng: -85.6240798
+200 near exit 4, but the pursuit was terminated, Louisville, KY:
+  lat: 38.2516962
+  lng: -85.6240798
 ? 200 near the I-15 interchange. Authorities were alerted to monitor the vehicle's
   behavior to prevent potential accidents., Louisville, KY
 : null
@@ -37104,6 +37110,7 @@
   area but found no one in need of assistance, confirming a welfare check was initiated.
   This was a routine effort, Louisville, KY
 : null
+500 Haywood, Louisville, KY: null
 500 Heywood Ave, Louisville, KY:
   lat: 38.20658
   lng: -85.767646
@@ -51975,6 +51982,7 @@
   lat: 38.240986
   lng: -85.661622
 900 William Ergoo King Road, Louisville, KY: null
+900 William Henry Frank, the 6400 block of Adderley, and the 5700 block of Ruby Falls Drop, Louisville, KY: null
 ? 900 Wimbledon, reporting that parents are deceased and requesting a cheese pizza.
   Authorities initiated a CAD search, Louisville, KY
 : null
