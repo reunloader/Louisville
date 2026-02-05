@@ -8655,9 +8655,12 @@
   lng: -85.7275818
 1300 Tafloid Street, Louisville, KY: null
 1300 Talbot Street, Louisville, KY: null
+1300 Tennessee Ave and 7th St Rene Rd, Louisville, KY: null
+1300 Tennessee Ave and 7th St Rene Rd,, Louisville, KY: null
 1300 Tennessee Ave, Louisville, KY:
   lat: 38.2162123
   lng: -85.7788367
+1300 Tennessee Ave, and 7th St Rene Rd, Louisville, KY: null
 1300 Thornberry Ave, Louisville, KY:
   lat: 38.204677
   lng: -85.779547
@@ -18751,6 +18754,9 @@
 2100 Garland, Louisville, KY:
   lat: 38.2437253
   lng: -85.7876351
+2100 Gerald Ct near Bardstown Rd, Louisville, KY:
+  lat: 38.2012982
+  lng: -85.6606035
 2100 Gladstone Ave, Louisville, KY:
   lat: 38.216527
   lng: -85.681746
@@ -26294,6 +26300,9 @@
   KY
 : null
 32 Mall Road in response, Louisville, KY: null
+32 Manslick Rd, Louisville, KY:
+  lat: 38.1423804
+  lng: -85.7928002
 32 Persimmon Ridge Drive, Louisville, KY: null
 32 Siwa Helen Drive, Louisville, KY: null
 32 Varks Road, Louisville, KY: null
