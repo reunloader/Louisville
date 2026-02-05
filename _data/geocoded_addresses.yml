@@ -16692,6 +16692,9 @@
 200 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
+200 Teakwood Cir, Louisville, KY:
+  lat: 38.1880577
+  lng: -85.8528011
 ? 200 Thompson Ave following a report of a 55-year-old male experiencing a possible
   full cardiac arrest. Responders arrived on scene, Louisville, KY
 : null
@@ -37485,7 +37488,11 @@
 500 S Clay, Louisville, KY:
   lat: 38.249208
   lng: -85.740887
+500 S Floyd St and E Gray St, Louisville, KY: null
 500 S Floyd St at UofL office building, Louisville, KY:
+  lat: 38.2500144
+  lng: -85.749269
+500 S Floyd St near E Gray St. No injuries were specified, and units responded, Louisville, KY:
   lat: 38.2500144
   lng: -85.749269
 500 S Floyd St, Louisville, KY:
