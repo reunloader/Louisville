@@ -2104,6 +2104,9 @@
   and outcome of this stop were not detailed in the initial report., Louisville, KY
 : null
 100 Trace and Soting Way due, Louisville, KY: null
+100 Trafalgar Square, Louisville, KY:
+  lat: 38.2086424
+  lng: -85.6725054
 100 Trafalgar Square. EMS was called, Louisville, KY:
   lat: 38.2086424
   lng: -85.6725054
@@ -10909,6 +10912,9 @@
 1500 South6th Street, Louisville, KY:
   lat: 38.2260412
   lng: -85.765733
+1500 South9th Street, Louisville, KY:
+  lat: 38.226779
+  lng: -85.770313
 1500 Southgate Ave near Lawrence and Wester, Louisville, KY:
   lat: 38.200766
   lng: -85.786713
