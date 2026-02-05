@@ -18274,6 +18274,7 @@
 2000 Pentel Ln, Louisville, KY:
   lat: 38.1664892
   lng: -85.5717648
+2000 Pondsboro Road, Louisville, KY: null
 2000 Portland Ave, Louisville, KY:
   lat: 38.2667191
   lng: -85.7806713
@@ -22631,6 +22632,9 @@
   lng: -85.7708483
 2700 Taylor's Road, Louisville, KY: null
 2700 Taylor's Road. Responding units worked, Louisville, KY: null
+2700 Taylor, Louisville, KY:
+  lat: 38.2108939
+  lng: -85.7708483
 2700 Taylorsville Rd, Louisville, KY:
   lat: 38.2227341
   lng: -85.6695319
@@ -23776,6 +23780,9 @@
 29900 Taylorsville Rd, Louisville, KY:
   lat: 38.1881064
   lng: -85.5511519
+3 Ash Hill Dr, Louisville, KY:
+  lat: 38.2356757
+  lng: -85.4411698
 3 Augustan Plaza Drive, Louisville, KY: null
 3 Bank St, Louisville, KY:
   lat: 38.2654471
@@ -35559,6 +35566,9 @@
 4600 South 1st Street, Louisville, KY:
   lat: 38.1834092
   lng: -85.7628228
+4600 South 3rd Street, Louisville, KY:
+  lat: 38.183797
+  lng: -85.765924
 4600 South 5th Street, Louisville, KY:
   lat: 38.184921
   lng: -85.769193
