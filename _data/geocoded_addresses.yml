@@ -18507,6 +18507,9 @@
 : null
 2000 Weiser Avenue due, Louisville, KY: null
 2000 West Broadway Passport. Fire units arrived quickly, Louisville, KY: null
+2000 West Broadway at Goodwill Center, Louisville, KY:
+  lat: 38.2487881
+  lng: -85.7851987
 ? 2000 West Broadway to attend to a male individual in a gray hoodie and dark pants.
   The patient was described as intoxicated and unresponsive, found in front of the
   subway. This was categorized as a medical Delta incident., Louisville, KY
@@ -19070,6 +19073,9 @@
 2100 Rockford Ln, Louisville, KY:
   lat: 38.1757082
   lng: -85.8313913
+2100 Roland St, Louisville, KY:
+  lat: 38.236924
+  lng: -85.750085
 2100 Roseway, Louisville, KY: null
 ? 2100 Rowan St following a report of a four-year-old female who had overdosed, possibly
   on heroin. The child had reportedly vomited and was exhibiting hostile behavior.
@@ -31820,6 +31826,7 @@
   lat: 38.251001
   lng: -85.744689
 400 South Liberty at Cathedral Commons, Louisville, KY: null
+400 South Plate, Louisville, KY: null
 400 South Roy Wilkins, Louisville, KY:
   lat: 38.2537249
   lng: -85.7657696
@@ -35569,6 +35576,7 @@
 4600 South Press Drive near Westwood Lawn, Louisville, KY: null
 4600 South Second Street, Louisville, KY: null
 4600 South Sir, helping officers recover the stolen car and prevent further incidents, Louisville, KY: null
+4600 South Third Street, Louisville, KY: null
 4600 South2nd Street, Louisville, KY:
   lat: 38.183564
   lng: -85.7647202
@@ -35624,6 +35632,9 @@
   lng: -85.4590633
 4600 Tell Boulevard, Louisville, KY: null
 4600 Tip C Circle, parking lot, Louisville, KY: null
+4600 Tipsy Cir, Louisville, KY:
+  lat: 38.1919489
+  lng: -85.8455935
 4600 Toll House Ln, Louisville, KY: null
 4600 Valley Station Rd, Louisville, KY:
   lat: 38.1069091
@@ -39646,6 +39657,9 @@
 5500 Bardstown Rd at St, Louisville, KY:
   lat: 38.166274
   lng: -85.601225
+5500 Bardstown Rd near St, Louisville, KY:
+  lat: 38.166274
+  lng: -85.601225
 5500 Bardstown Rd, Louisville, KY:
   lat: 38.166274
   lng: -85.601225
@@ -42760,6 +42774,9 @@
 6100 Middlerose Cir, Louisville, KY:
   lat: 38.1040501
   lng: -85.8764689
+6100 Miles Ln, Louisville, KY:
+  lat: 38.1245012
+  lng: -85.672519
 6100 Miss Flour Circle, Louisville, KY: null
 6100 Moorhaven Dr, Louisville, KY:
   lat: 38.150445
@@ -43397,6 +43414,9 @@
   lat: 38.1443085
   lng: -85.8713951
 6400 Greten Ln, Louisville, KY: null
+6400 Jefferson Blvd, Louisville, KY:
+  lat: 38.1435266
+  lng: -85.6747742
 6400 Johnsontown Rd, Louisville, KY:
   lat: 38.1158773
   lng: -85.8855122
