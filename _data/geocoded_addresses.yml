@@ -6539,6 +6539,9 @@
   KY
 : null
 1200 Barstown, Louisville, KY: null
+1200 Bartholomew Dr, Louisville, KY:
+  lat: 38.1839386
+  lng: -85.6454774
 1200 Baxter, Louisville, KY:
   lat: 38.233506
   lng: -85.719039
@@ -29791,6 +29794,7 @@
   lng: -85.5948852
 3900 Barside Roadway but found no signs of suspicious activity or individuals, ensuring the area was clear, Louisville, KY: null
 3900 Barstown, Louisville, KY: null
+3900 Bartstown across Action Ave, Louisville, KY: null
 3900 Baymeadow Dr near Barnum Wood Drive and Hyland Hills Ct, Louisville, KY:
   lat: 38.1512383
   lng: -85.829856
@@ -51455,6 +51459,7 @@
   lat: 38.249458
   lng: -85.736473
 900 Mazmeer Court, Louisville, KY: null
+900 McCray Lane, Louisville, KY: null
 900 Meadowview Cir, Louisville, KY:
   lat: 38.2220188
   lng: -85.636333
