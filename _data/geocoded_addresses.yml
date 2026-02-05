@@ -11284,6 +11284,7 @@
 1600 Arthur St near Lee and Galbert, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
+1600 Arthur St, Arthur St Hotel, Louisville, KY: null
 1600 Arthur St, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
@@ -12788,6 +12789,9 @@
   lng: -85.7110967
 1700 Stewart Ave, Louisville, KY: null
 1700 Street, Louisville, KY: null
+1700 Sulgrave Rd near Cherokee and Speed, Louisville, KY:
+  lat: 38.2345478
+  lng: -85.6926052
 1700 Sunset Ave, Louisville, KY:
   lat: 38.2424539
   lng: -85.8231078
@@ -18577,6 +18581,9 @@
 2000 Winnrose Way, Louisville, KY:
   lat: 38.2392133
   lng: -85.8264252
+2000 Winston Ave, Louisville, KY:
+  lat: 38.215726
+  lng: -85.6847633
 2000 Winterhaven Rd, Louisville, KY:
   lat: 38.2043172
   lng: -85.6145796
@@ -20280,6 +20287,7 @@
 2300 Glenmary Ave, Louisville, KY:
   lat: 38.2391887
   lng: -85.7136877
+2300 Goldsmith Ln, Boys Haven and Kelly Cottage, Louisville, KY: null
 2300 Goldsmith Ln, Louisville, KY:
   lat: 38.210198
   lng: -85.665576
@@ -21118,6 +21126,7 @@
   lat: 38.2574083
   lng: -85.7912216
 2400 W Jefferson St, South Preston, Louisville, KY: null
+2400 W Jefferson St, Wayside Men's Emergency Shelter, Louisville, KY: null
 2400 W Main St, Louisville, KY:
   lat: 38.2601536
   lng: -85.78995
@@ -54091,6 +54100,7 @@ Breckinridge St and Belvar Ave, Louisville, KY: null
 Breckinridge St and Southbrook Street, Louisville, KY: null
 Breckinridge St and Southfield Street, Louisville, KY: null
 Brent St and Vine St, Louisville, KY: null
+Brewer Branch Dr and Manor Park Dr, Louisville, KY: null
 Brewster Ave and Texas Ave, Louisville, KY: null
 Briarcliff Rd and Pine Crip Drive, Louisville, KY: null
 Bridge Hill Road and Field Ave, Louisville, KY: null
