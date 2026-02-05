@@ -48212,6 +48212,7 @@
 800 Adam and 1300 block of Beckley Creek Pky, Louisville, KY: null
 800 Adam and 3-David, Louisville, KY: null
 800 Adam and 800 block of Baker, Louisville, KY: null
+800 Adam and Baker involved, Louisville, KY: null
 800 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
@@ -48256,6 +48257,7 @@
 800 Baker at the request of a caller who was not, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+800 Baker attended, Louisville, KY: null
 800 Baker near Atomite Drive, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -52287,6 +52289,9 @@
   lat: 38.2909338
   lng: -85.5653666
 9200 Westport Rd, specifically at the Harbor Freight location. A unit was assigned, Louisville, KY: null
+9200 Westport, Louisville, KY:
+  lat: 38.2985921
+  lng: -85.5446721
 9200 Westport, [Date] 8:00 a, Louisville, KY: null
 9200 Westport, [Date] 8:00 a.m.AM, Louisville, KY: null
 9200 Winkler Ave, Louisville, KY:
@@ -54002,6 +54007,7 @@ Eastern Parkway and Popplevel Road, Louisville, KY: null
 Eastern Pky and Bardstown Rd, Louisville, KY: null
 Eastern Pky and Crittenden Dr, Louisville, KY: null
 Eastern Star Dr and Baxter Ave, Louisville, KY: null
+Eastpoint Centre Dr and East Point Parkway, Louisville, KY: null
 Easum Rd and Chinnewith Run Road, Louisville, KY: null
 Eden Dairy Lane and Pico Ln, Louisville, KY: null
 Edenside Ave and Quadrant Ave, Louisville, KY: null
