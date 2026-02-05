@@ -21815,6 +21815,9 @@
 2600 Lamborne Blvd, Louisville, KY:
   lat: 38.1127025
   lng: -85.8112224
+2600 Lamborne, Louisville, KY:
+  lat: 38.1127025
+  lng: -85.8112224
 2600 Langdon Dr, Louisville, KY:
   lat: 38.2844429
   lng: -85.5825047
@@ -49692,6 +49695,7 @@
   lng: -85.8523215
 8200 Nash Rd across Los Miser Ave, Louisville, KY: null
 8200 National Tarp, Louisville, KY: null
+8200 National Term Flight, Louisville, KY: null
 8200 National Term Pike, Louisville, KY: null
 8200 National Turn Pike, Louisville, KY: null
 8200 National Turnpike at KO Storage, Louisville, KY:
