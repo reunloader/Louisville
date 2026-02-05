@@ -20638,6 +20638,7 @@
 2400 Arnold Palmer Blvd, Louisville, KY:
   lat: 38.2743426
   lng: -85.4890815
+2400 Arnold Palmer Blvd, Village Crossing, Louisville, KY: null
 2400 Arnold Palmer Blvd, near the intersection with Sherry Rd, to provide assistance., Louisville, KY: null
 2400 Arnold Palmer Blvd, near the intersection with Sherry Rd,, Louisville, KY:
   lat: 38.2743426
@@ -36240,6 +36241,9 @@
 4800 Roxann Blvd, Louisville, KY:
   lat: 38.1794144
   lng: -85.6279999
+4800 Roxann Blvd. Additionally, a 56-year-old male was evaluated at the 5000 block of Runic Way, Louisville, KY:
+  lat: 38.1794144
+  lng: -85.6279999
 4800 Saddlebrook Ln near Saddlebrook Ct in Rockford Ln, Louisville, KY:
   lat: 38.1789913
   lng: -85.8498486
@@ -42370,6 +42374,9 @@
 6000 Candlelight Ln, Louisville, KY:
   lat: 38.1317284
   lng: -85.7776825
+6000 Charlie, Louisville, KY:
+  lat: 38.1686412
+  lng: -85.5627268
 6000 Clinton179 near Kroger, Louisville, KY:
   lat: 38.2886468
   lng: -85.5099194
@@ -53238,6 +53245,7 @@
 9700 Preston Crossing Blvd, Louisville, KY:
   lat: 38.1083343
   lng: -85.6717577
+9700 Preston Crossing Blvd, Wraith Cinema, Louisville, KY: null
 9700 Scarborough Ave, Louisville, KY:
   lat: 38.1099166
   lng: -85.8110064
