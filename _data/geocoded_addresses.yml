@@ -17997,6 +17997,9 @@
   lat: 38.220292
   lng: -85.687985
 2000 Lakeview Villas Pl, Louisville, KY: null
+2000 Lambert Ct near Lambert Ave, Louisville, KY:
+  lat: 38.18352
+  lng: -85.647147
 2000 Lambert Ct, Louisville, KY:
   lat: 38.18352
   lng: -85.647147
@@ -27279,6 +27282,9 @@
 3400 Boxelder Rd, Louisville, KY:
   lat: 38.197263
   lng: -85.842053
+3400 Breckenridge Ln, Louisville, KY:
+  lat: 38.200333
+  lng: -85.623711
 3400 Breckenridge, Louisville, KY:
   lat: 38.200333
   lng: -85.623711
@@ -27645,6 +27651,9 @@
   lng: -85.8947995
 3400 West Broadway PNC, Louisville, KY: null
 3400 West Broadway at C&C, Louisville, KY:
+  lat: 38.2496303
+  lng: -85.8087791
+3400 West Broadway at P&T Bank, Louisville, KY:
   lat: 38.2496303
   lng: -85.8087791
 3400 West Broadway at PNC Bank, Louisville, KY:
@@ -50783,6 +50792,9 @@
   lng: -85.7894781
 900 Blackstreet Avenue and 1500 block of Longfield Ave, Louisville, KY: null
 900 Blankenbaker Pky (near old Blankenbaker Rd and Maxon Dr), Louisville, KY: null
+900 Blankenbaker Pky near Old Blankenbaker Rd and Ransum Dr, Louisville, KY:
+  lat: 38.1917831
+  lng: -85.5481748
 900 Blankenbaker Pky, Louisville, KY:
   lat: 38.2435378
   lng: -85.547026
@@ -54645,6 +54657,7 @@ Oak St and Webster St, Louisville, KY: null
 Oakdale Ln and Poplar Level Rd, Louisville, KY: null
 Oboe Dr and Broadleaf Dr, Louisville, KY: null
 Off Road and Eastwood Fisherville Rd, Louisville, KY: null
+Old Blankenbaker Rd and Ransum Dr, Louisville, KY: null
 Old Briscoe Ln and Shepherdsville Rd, Louisville, KY: null
 Old Heady Rd and Taylorsville Rd, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
