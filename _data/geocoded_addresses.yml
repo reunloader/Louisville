@@ -12669,6 +12669,9 @@
 1700 South 13th, Louisville, KY:
   lat: 38.2244068
   lng: -85.7775916
+1700 South 24th Street near Crop St, Louisville, KY:
+  lat: 38.226998
+  lng: -85.797362
 1700 South 26th Street, Louisville, KY:
   lat: 38.241277
   lng: -85.7958157
@@ -19821,6 +19824,9 @@
   lng: -85.683795
 2200 Taylor's Road, Louisville, KY: null
 2200 Taylor's Road. Responding units were dispatched, Louisville, KY: null
+2200 Taylorsville Rd at Crop St of Wallace Ave and Bardstown Rd, Louisville, KY:
+  lat: 38.223009
+  lng: -85.684515
 2200 Telliersville Road, Louisville, KY: null
 2200 Tyler Ln, Louisville, KY:
   lat: 38.217792
@@ -21894,6 +21900,9 @@
   lat: 38.2389716
   lng: -85.7961981
 2600 Hampstead Dr, Louisville, KY: null
+2600 High 40 near the shoulder, Louisville, KY:
+  lat: 38.1362142
+  lng: -85.580762
 2600 Howard St, Louisville, KY:
   lat: 38.245806
   lng: -85.795471
@@ -26797,6 +26806,9 @@
   lat: 38.213999
   lng: -85.664383
 3200 Table Blvd, Louisville, KY: null
+3200 Tara Gale Dr, Louisville, KY:
+  lat: 38.186684
+  lng: -85.842222
 ? 3200 Taylor Blvd following a report of shoplifting. A male suspect, described as
   approximately 30 years old and wearing dark clothing, was allegedly refusing, Louisville,
   KY
@@ -35158,6 +35170,9 @@
 4500 South Side, Louisville, KY: null
 4500 South Third Street, Louisville, KY: null
 4500 South Thurston Parkway, Louisville, KY: null
+4500 South Westborne Parkway at Meyer, Louisville, KY:
+  lat: 38.2549117
+  lng: -85.5658561
 4500 South1st Street, Louisville, KY:
   lat: 38.18914
   lng: -85.761611
@@ -42264,6 +42279,9 @@
 600 Wolf Pen Branch Rd, Louisville, KY:
   lat: 38.3283098
   lng: -85.5883131
+600 Woodbine St, Louisville, KY:
+  lat: 38.2288024
+  lng: -85.7487786
 600 Woodbluff Trace, Crestridge Lake Forest Parkway, Louisville, KY: null
 600 Wooded Creek Dr, Louisville, KY:
   lat: 38.1666788
@@ -55410,6 +55428,7 @@ Vinedale Ave and Eastern Parkway, Louisville, KY: null
 Virginia Ave and Stegner Ave, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
 Wainwright Ave and Lee Ave, Louisville, KY: null
+Wallace Ave and Bardstown Rd, Louisville, KY: null
 Waller Ln and Columbia Dr, Louisville, KY: null
 Walnut Grove Ave and Brick Kiln Ln, Louisville, KY: null
 Walter Ave and Lonsdale Ave, Louisville, KY: null
