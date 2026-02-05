@@ -7738,6 +7738,9 @@
 12400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+12400 station, Louisville, KY:
+  lat: 38.2130044
+  lng: -85.5229419
 1245 Bardstown Road, Louisville, KY:
   lat: 38.236542
   lng: -85.7171011
@@ -20206,6 +20209,9 @@
 2300 Frankfort Ave, Louisville, KY:
   lat: 38.2531342
   lng: -85.7030766
+2300 Franklin Ave, Louisville, KY:
+  lat: 38.173554
+  lng: -85.835303
 2300 Friend and Business Corps Way, Louisville, KY: null
 2300 Galivista, Louisville, KY: null
 2300 Garland Ave, Louisville, KY:
@@ -27147,6 +27153,7 @@
 3300 Linwood Ave, Louisville, KY:
   lat: 38.222612
   lng: -85.811074
+3300 Mario Conner Drive, Louisville, KY: null
 3300 Marshwood Ct, Louisville, KY:
   lat: 38.1296441
   lng: -85.7000607
@@ -27874,6 +27881,9 @@
 3500 Burnley Rd, Louisville, KY: null
 3500 Callard Avenue, Louisville, KY: null
 3500 Cane Run Rd, Louisville, KY:
+  lat: 38.2225867
+  lng: -85.8114477
+3500 Cane Run near Hudson and Linwood, Louisville, KY:
   lat: 38.2225867
   lng: -85.8114477
 3500 Capri Dr, Louisville, KY:
@@ -42118,6 +42128,7 @@
 600 W Jefferson St**, Louisville, KY:
   lat: 38.2539185
   lng: -85.7612901
+600 W Jefferson St, Hall of Justice, Louisville, KY: null
 600 W Jefferson St, Louisville, KY:
   lat: 38.2539185
   lng: -85.7612901
@@ -48571,6 +48582,9 @@
 800 Cherry Way, Crop St near National Turnpike and Shaffer Rd, Louisville, KY: null
 800 Circus Avenue, Louisville, KY: null
 800 Clark Slane, Louisville, KY: null
+800 Cressington Pl, Louisville, KY:
+  lat: 38.2903548
+  lng: -85.4905124
 800 Cross your Sherry Lynn Ct, Louisville, KY: null
 800 Crushers or Oxy Rd at Devon Crick Chemicals, Louisville, KY: null
 800 Cut Road, Louisville, KY:
@@ -52080,6 +52094,7 @@
   lng: -85.8226256
 900 the area. Responders checked the location, Louisville, KY: null
 900 the railroad, Louisville, KY: null
+900 the same street. The situation was investigated, and officers remained on scene, Louisville, KY: null
 900 the street, Louisville, KY: null
 900 unspecified location, Louisville, KY: null
 ? 900 where the line was answered and then abruptly disconnected. Responding units
