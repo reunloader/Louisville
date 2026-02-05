@@ -42620,6 +42620,9 @@
 6000 Jeanine Dr, Louisville, KY:
   lat: 38.162622
   lng: -85.6884649
+6000 Kentucky at Clearwater Farms, Louisville, KY:
+  lat: 38.1666826
+  lng: -85.6081941
 6000 Lewis Way, Louisville, KY:
   lat: 38.0879864
   lng: -85.8742599
@@ -54478,6 +54481,7 @@ Fern Creek Rd and Bardstown Rd, Louisville, KY:
 Fern Creek Rd and Eldorado Ave, Louisville, KY: null
 Fern Valley Rd and Airport Boulevard, Louisville, KY: null
 Fern Valley Rd and Cherison Boulevard, Louisville, KY: null
+Fern Valley Rd and Clearwater Farm Blvd, Louisville, KY: null
 Fern Valley Rd and Fegenbush Ln, Louisville, KY: null
 Fern Valley Rd and Forest Dr, Louisville, KY: null
 Fern Valley Rd and Hanzoose Drive, Louisville, KY: null
