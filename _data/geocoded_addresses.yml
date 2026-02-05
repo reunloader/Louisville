@@ -5479,6 +5479,9 @@
 1100 Samuel St, Louisville, KY:
   lat: 38.2277043
   lng: -85.734546
+1100 Schiller Ave, Louisville, KY:
+  lat: 38.234134
+  lng: -85.731441
 1100 Security, Louisville, KY: null
 1100 Silvercrest Ln, Louisville, KY: null
 ? 1100 Silvercrest Ln. Further details on the nature of the alarm or any subsequent
@@ -18590,6 +18593,9 @@
 2000 Winnrose Way, Louisville, KY:
   lat: 38.2392133
   lng: -85.8264252
+2000 Winston Ave near Shelley Ave and Lakeside Dr, Louisville, KY:
+  lat: 38.215726
+  lng: -85.6847633
 2000 Winston Ave, Louisville, KY:
   lat: 38.215726
   lng: -85.6847633
@@ -32244,6 +32250,7 @@
   lat: 38.25115
   lng: -85.758368
 400 West Muhammale Boulevard near 5th and Cathedral, Louisville, KY: null
+400 West Norris V Avenue, Louisville, KY: null
 400 West Oak Street 5:15 p, Louisville, KY: null
 400 West Oak Street 5:15 p.m.PM, Louisville, KY: null
 400 West Oak, Louisville, KY:
@@ -39555,6 +39562,9 @@
   lng: -85.6629899
 5400 Comfort Lane, Louisville, KY: null
 5400 Crasherty, Louisville, KY: null
+5400 Dannyboy Ln, Louisville, KY:
+  lat: 38.1502104
+  lng: -85.7821556
 5400 Decker Rd, Louisville, KY:
   lat: 38.126653
   lng: -85.863607
@@ -55348,6 +55358,7 @@ Shelbyville Rd and South Linden Lane, Louisville, KY: null
 Shelbyville Rd and Valhalla View Dr, Louisville, KY: null
 Shelbyville Rd and Westport Rd, Louisville, KY: null
 Shelbyville Rd and Whittington Pky, Louisville, KY: null
+Shelley Ave and Lakeside Dr, Louisville, KY: null
 Shelly Parkway and Chester Ave, Louisville, KY: null
 Shep Road and Rangeland Rd, Louisville, KY: null
 Shepherdsville Rd and Briscoe Ln, Louisville, KY: null
