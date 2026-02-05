@@ -13584,6 +13584,10 @@
 1800 Ratcliffe Ave, Louisville, KY:
   lat: 38.219213
   lng: -85.794329
+1800 Resource Way near the Comfort Suites, Louisville, KY:
+  lat: 38.1556772
+  lng: -85.7120357
+1800 Resource Way, Louisville, KY: null
 1800 Rillert near Dixie Hwy and Wally Inn Ct, Louisville, KY: null
 1800 Rodman St, Louisville, KY:
   lat: 38.208268
@@ -37301,6 +37305,7 @@
 500 M Street, Louisville, KY:
   lat: 38.209194
   lng: -85.767205
+500 Maker, Louisville, KY: null
 500 Maple Brook Dr, Louisville, KY:
   lat: 38.3022833
   lng: -85.5439993
@@ -49047,6 +49052,9 @@
 800 River Crest Dr, Louisville, KY:
   lat: 38.268037
   lng: -85.7001384
+800 Riverdale, Louisville, KY:
+  lat: 38.094409
+  lng: -85.8826869
 800 Royal Oak Dr, Louisville, KY:
   lat: 38.122727
   lng: -85.8147468
