@@ -13240,6 +13240,9 @@
 1800 Bluegrass Ave at St, Louisville, KY:
   lat: 38.179474
   lng: -85.792768
+1800 Bluegrass Ave near Sallyport, Louisville, KY:
+  lat: 38.179474
+  lng: -85.792768
 1800 Bluegrass Ave, Louisville, KY:
   lat: 38.179474
   lng: -85.792768
@@ -14241,6 +14244,10 @@
 1900 Peabody Ln, Louisville, KY:
   lat: 38.204792
   lng: -85.678716
+1900 Plymouth was also checked, and the area was cleared, Louisville, KY: null
+1900 Plymouth, Louisville, KY:
+  lat: 38.251227
+  lng: -85.78538
 1900 Polaka, Louisville, KY: null
 1900 Polo View, Louisville, KY: null
 1900 Portland, Louisville, KY:
@@ -41072,6 +41079,9 @@
 600 Barret Ave at AG Enterprise, Louisville, KY:
   lat: 38.2465976
   lng: -85.731791
+600 Barret Ave near Downman's Hub in Billards, Louisville, KY:
+  lat: 38.2465976
+  lng: -85.731791
 600 Barret Ave, Crop St East, Broadway and Ruble, Louisville, KY: null
 600 Barret Ave, Louisville, KY:
   lat: 38.2465976
@@ -54740,6 +54750,7 @@ Green Meadows Dr and Bardstown Rd, Louisville, KY: null
 Green Spring Dr and Wolf Pen Branch Rd, Louisville, KY: null
 Greenup Rd and Poplar Level Rd, Louisville, KY: null
 Greenville Street and Third Street, Louisville, KY: null
+Greenwood Ave and Algonquin Pky, Louisville, KY: null
 Greenwood Ave and Osage Ave, Louisville, KY: null
 Greenwood Rd and Aron Rd, Louisville, KY: null
 Greenwood Rd and Columbine Dr, Louisville, KY: null
