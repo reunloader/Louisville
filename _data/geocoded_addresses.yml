@@ -14689,6 +14689,7 @@
 200 Baker and 200 block of Adam, Louisville, KY: null
 200 Baker and 400 block of Dixie Hwy, Louisville, KY: null
 200 Baker and W Kentucky St, Louisville, KY: null
+200 Baker and provided status updates from side stations, Louisville, KY: null
 200 Baker and the 100 block of Baker, Louisville, KY: null
 200 Baker area, 26th Street, Louisville, KY: null
 200 Baker near 4100 W Muhammad Ali Blvd, Louisville, KY:
@@ -18707,6 +18708,8 @@
 2000 the radio near Adamant, Louisville, KY: null
 2000 unspecified street, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
+2000 white Dodge truck, Louisville, KY: null
+2000 white Dodge truck. Law enforcement was actively searching, Louisville, KY: null
 2001 State St, Louisville, KY:
   lat: 38.2575999
   lng: -85.7146413
@@ -24923,6 +24926,9 @@
   lat: 38.2518809
   lng: -85.7406907
 300 S Dodge Ln, Crested Dodge Court, Louisville, KY: null
+300 S Hancock St near Ballard St and Jeffords Street, Louisville, KY:
+  lat: 38.252127
+  lng: -85.742432
 300 S Hancock St, Louisville, KY:
   lat: 38.252127
   lng: -85.742432
@@ -46610,6 +46616,9 @@
 700 West Alhomid Ali Boulevard, Louisville, KY: null
 700 West Bain, Louisville, KY: null
 700 West Broadway (outside Social Security office), Louisville, KY: null
+700 West Broadway at Davita, Louisville, KY:
+  lat: 38.246384
+  lng: -85.76354
 700 West Broadway at White Castle, cross of South 8th and South 7th, Louisville, KY:
   lat: 38.246384
   lng: -85.76354
@@ -49040,6 +49049,9 @@
 800 Ellison Ave near Moe's Funeral Home, Louisville, KY:
   lat: 38.2303667
   lng: -85.7338915
+800 Enterprise Dr at DTO Logistics, Louisville, KY:
+  lat: 38.1522722
+  lng: -85.7538243
 800 Faradow Road, Louisville, KY: null
 800 Farmdale Ave, Louisville, KY:
   lat: 38.1925742
@@ -54086,6 +54098,7 @@ Axbridge Rd and Landcross Dr, Louisville, KY: null
 Bagan Bush Lane and Belrad Dr, Louisville, KY: null
 Bakers Ln and Crums Ln, Louisville, KY: null
 Baldwin St and Wilson Ave, Louisville, KY: null
+Ballard St and Jeffords Street, Louisville, KY: null
 Ballardsville Rd and Livington Place Drive, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Balmoral Dr and Bramton Rd, Louisville, KY: null
