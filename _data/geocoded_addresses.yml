@@ -22064,6 +22064,8 @@
 2600 Franklin Ave, Louisville, KY:
   lat: 38.1736725
   lng: -85.8403585
+2600 Freeport Dr, NHK Spring Precision, Louisville, KY: null
+2600 Freeport Dr, water flow pump house, Louisville, KY: null
 ? 2600 Garland Ave following a 9-1-1 hang-up call. Records indicated the caller had
   a history of hanging up, and there was a concern, Louisville, KY
 : null
@@ -48788,6 +48790,9 @@
 7900 Shelbyville Rd at Oxford Mall, Louisville, KY:
   lat: 38.2472183
   lng: -85.6103014
+7900 Shelbyville Rd near Oxmore Mall, Louisville, KY:
+  lat: 38.2472183
+  lng: -85.6103014
 7900 Shelbyville Rd near Von Mar and Capitol Grill, Louisville, KY:
   lat: 38.2472183
   lng: -85.6103014
@@ -54578,6 +54583,7 @@ Clifton Ave and Vernon Ave, Louisville, KY:
   lat: 38.2552281
   lng: -85.7073697
 Closet Slide Drive and Benbow Dr, Louisville, KY: null
+Cloverleaf Dr and Anna Ln, Louisville, KY: null
 Club Ln and Kenhurst Dr, Louisville, KY: null
 Cofer Ave and Margo Ave, Louisville, KY: null
 Cofer Ave and Stewart Ave, Louisville, KY: null
