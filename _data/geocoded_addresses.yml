@@ -841,6 +841,7 @@
 100 E W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
+100 E W Southland Blvd No, Louisville, KY: null
 100 E W Southland Blvd, Louisville, KY:
   lat: 38.1715694
   lng: -85.7733598
@@ -7550,6 +7551,7 @@
 1200 West Muhammad Ali, Louisville, KY:
   lat: 38.2520932
   lng: -85.7662128
+1200 West Muhammad Ash Drive, Louisville, KY: null
 1200 West Oak, Louisville, KY:
   lat: 38.2359727
   lng: -85.7738197
@@ -15362,6 +15364,8 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East before Dixie Hwy, Louisville, KY: null
+200 East before Poplar, Louisville, KY: null
+200 East before Poplar. Police responded, Louisville, KY: null
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East driveway, 10th Dollar General, Louisville, KY: null
 200 East exit, Louisville, KY: null
@@ -17619,6 +17623,9 @@
   lat: 38.254211
   lng: -85.7500224
 200 model, Louisville, KY: null
+200 near Billtown Rd, Louisville, KY:
+  lat: 38.2516962
+  lng: -85.6240798
 200 near I-65 Northbound, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
@@ -49688,6 +49695,7 @@
 800 exit, Louisville, KY:
   lat: 38.1859027
   lng: -85.7429972
+800 off ramp, Louisville, KY: null
 800 south 4th street, Louisville, KY:
   lat: 38.2440401
   lng: -85.7592478
