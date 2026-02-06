@@ -26164,6 +26164,7 @@
   fire and noted only brief alarm activations., Louisville, KY
 : null
 3100 Brookline Campus, Louisville, KY: null
+3100 Brownsboro Rd (Crescent Hill Golf Course), Louisville, KY: null
 3100 Bushmill Park, Louisville, KY: null
 3100 Cartledge Ct, Louisville, KY:
   lat: 38.1379611
@@ -30416,6 +30417,7 @@
 4 Ralph Ave, Louisville, KY:
   lat: 38.2107404
   lng: -85.8323503
+4 Sweet Street, Louisville, KY: null
 4 Wilart Dr, Louisville, KY:
   lat: 38.2190386
   lng: -85.7918062
@@ -35288,6 +35290,7 @@
 4500 Lunenburg Dr, near Pulaski Ct and Northumberland Dr,, Louisville, KY: null
 4500 Mary Dale, Louisville, KY: null
 4500 Mason Diggs, Louisville, KY: null
+4500 Mason-Nathan Ct, Louisville, KY: null
 4500 Melton Ave, Louisville, KY:
   lat: 38.145721
   lng: -85.737417
@@ -40280,6 +40283,9 @@
 56 Baxter Ave, Louisville, KY:
   lat: 38.2495483
   lng: -85.7315323
+56 Cherokee Rd, Louisville, KY:
+  lat: 38.241799
+  lng: -85.6743105
 56 Maco Ln, Louisville, KY:
   lat: 38.1454158
   lng: -85.6577232
@@ -40800,6 +40806,9 @@
 5800 Larkgrove Dr, Louisville, KY:
   lat: 38.0879087
   lng: -85.654553
+5800 Lee Ct, Louisville, KY:
+  lat: 38.2235143
+  lng: -85.7470615
 5800 Lion's Paris Dr, Louisville, KY: null
 5800 Lions Arms Dr, Louisville, KY: null
 5800 Lisa Ct, Louisville, KY:
