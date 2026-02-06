@@ -1109,6 +1109,7 @@
   lng: -85.7911181
 100 Huntington Ridge Dr, Louisville, KY: null
 100 Huntoon Ave, Scott County, Louisville, KY: null
+100 Huntsville, Lancaster Ave, Louisville, KY: null
 100 Hurstbourne Ridge Blvd, Louisville, KY:
   lat: 38.1934195
   lng: -85.605755
@@ -1545,6 +1546,7 @@
 100 North35th Street, Louisville, KY:
   lat: 38.2624675
   lng: -85.808437
+100 North35th Street, West Main, Louisville, KY: null
 100 North36th Street and North 25th Street, Louisville, KY: null
 100 North36th Street, Louisville, KY:
   lat: 38.2625338
@@ -30085,6 +30087,9 @@
 3900 Dixie Hwy at Speedway, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+3900 Dixie Hwy near Park Rd and New Roy Avenue, Louisville, KY:
+  lat: 38.1127713
+  lng: -85.8629441
 3900 Dixie Hwy near Schmitts Ln and Park Rd, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
@@ -55415,6 +55420,7 @@ Park Blvd and Green Spring Dr, Louisville, KY: null
 Park Boundary Rd and Shack Park Road, Louisville, KY: null
 Park Rd and Blue Lick Rd, Louisville, KY: null
 Park Rd and Leroy Ave, Louisville, KY: null
+Park Rd and New Roy Avenue, Louisville, KY: null
 Park Row Dr and Hillview Ave, Louisville, KY: null
 Parkway Ave and Country Club Rd, Louisville, KY: null
 Parthenia Ave and Busath Ave, Louisville, KY: null
