@@ -16167,6 +16167,9 @@
 200 North near Australian Motors, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North near Bardstown Rd, Louisville, KY:
+  lat: 38.1568327
+  lng: -85.5905839
 200 North near Fern Valley Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -29390,6 +29393,7 @@
 3700 Locust Ave, Louisville, KY:
   lat: 38.1807555
   lng: -85.7936352
+3700 Longview Rd near Elmore Wood, Louisville, KY: null
 3700 Lotus Ave, Louisville, KY:
   lat: 38.1675928
   lng: -85.7172553
@@ -33459,6 +33463,9 @@
 4100 Preston, Louisville, KY:
   lat: 38.1925381
   lng: -85.728684
+4100 Progress Blvd at 84 Lumber, Louisville, KY:
+  lat: 38.1107729
+  lng: -85.8636539
 4100 Progress Blvd, Louisville, KY:
   lat: 38.1892659
   lng: -85.6541553
@@ -36195,6 +36202,7 @@
   lat: 38.0856484
   lng: -85.6676088
 4700 Old Brownsboro Ct, Louisville, KY: null
+4700 Old Royal Road Trail near Berkeley and Pierce Way, Louisville, KY: null
 4700 Outer Loop, Louisville, KY:
   lat: 38.137848
   lng: -85.673595
@@ -47394,6 +47402,7 @@
 7100 Shutesbury Cir, Louisville, KY:
   lat: 38.1290441
   lng: -85.8766955
+7100 Trade Port Dr near Zimbabwe and Freeport Ct, Louisville, KY: null
 7100 Train Station Way, Louisville, KY:
   lat: 38.0795787
   lng: -85.8955746
