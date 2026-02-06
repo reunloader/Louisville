@@ -16829,6 +16829,9 @@
 200 Taylor Blvd, Louisville, KY:
   lat: 38.1787414
   lng: -85.7830902
+200 Taylor Blvd. Additional calls involved pedestrians attempting, Louisville, KY:
+  lat: 38.2097956
+  lng: -85.7718278
 200 Taylorsville Rd, Louisville, KY:
   lat: 38.1857373
   lng: -85.5449693
@@ -29597,6 +29600,7 @@
 3700 West Broadway. Emergency units responded, Louisville, KY:
   lat: 38.2497939
   lng: -85.812841
+3700 West Lake Moran, Louisville, KY: null
 3700 West Leap, Louisville, KY: null
 3700 West Leaton Ward Drive, Louisville, KY: null
 3700 West Leitmore, Louisville, KY: null
