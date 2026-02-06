@@ -15737,6 +15737,9 @@
   lat: 38.185392
   lng: -85.757994
 200 Highway between Taylor and Dixie, Louisville, KY: null
+200 Highway near King's Fast Food, Louisville, KY:
+  lat: 37.5530433
+  lng: -87.2590127
 200 Highway, Louisville, KY:
   lat: 37.5530433
   lng: -87.2590127
@@ -26346,6 +26349,7 @@
 3100 North First Farm Parkway, Louisville, KY: null
 3100 North Firstborn Parkway, Louisville, KY: null
 3100 North Hurstborne Parkway at Willow's at Springhurst, Louisville, KY: null
+3100 North Hurstburn Parkway, Louisville, KY: null
 3100 North31st Street, Louisville, KY: null
 ? 3100 North31st Street, near Portland Ave and Banks. First responders were dispatched
   for a 53-year-old female who was found unresponsive. Engine 6 confirmed they were
@@ -40526,6 +40530,9 @@
 5600 Preston at McDonald's, Louisville, KY:
   lat: 38.1682113
   lng: -85.7066863
+5600 Riata Ct, Louisville, KY:
+  lat: 38.1675913
+  lng: -85.6659734
 5600 Ridgecrest Rd, Louisville, KY:
   lat: 38.1683958
   lng: -85.6679017
