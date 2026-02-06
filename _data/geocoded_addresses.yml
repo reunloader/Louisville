@@ -4790,6 +4790,7 @@
 10900 Fashion Way, Louisville, KY:
   lat: 38.0970254
   lng: -85.8749133
+10900 Glenbarr Ct, Louisville, KY: null
 10900 Hidden Trail Ct, Louisville, KY:
   lat: 38.0881208
   lng: -85.6489018
@@ -7841,6 +7842,7 @@
   assistance was provided, Louisville, KY
 : lat: 38.307964
   lng: -85.519984
+12700 Charles Bond Circle, Louisville, KY: null
 12700 Charles Bottom Circle, Louisville, KY: null
 12700 Charles Brown Circle, Louisville, KY: null
 12700 Charles Farm Cir across Cedar Thicket Ct, Louisville, KY: null
@@ -20337,6 +20339,9 @@
 2300 Greenwood Ave. Details, Louisville, KY:
   lat: 38.2412212
   lng: -85.7921946
+2300 Griffiths near Susan Dan attack, Louisville, KY:
+  lat: 38.2646596
+  lng: -85.7867925
 2300 Hale Ave, Louisville, KY:
   lat: 38.2384129
   lng: -85.7926812
@@ -46879,6 +46884,9 @@
 ? 70100 Johnsontown Rd. The incident involved a daughter's boyfriend allegedly assaulting
   her. Responding units were dispatched, Louisville, KY
 : null
+71 Fern Ridge Rd, Louisville, KY:
+  lat: 38.1635794
+  lng: -85.6318849
 71 Southern Ave, Louisville, KY:
   lat: 38.2322114
   lng: -85.8098959
@@ -49593,6 +49601,7 @@
 800 West Main, Louisville, KY:
   lat: 38.2568585
   lng: -85.7637124
+800 West Margetry, Louisville, KY: null
 800 West Market Glassworks near Wilkins and South 8th, Louisville, KY: null
 800 West Market, Louisville, KY:
   lat: 38.2557045
