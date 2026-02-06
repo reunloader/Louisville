@@ -30396,6 +30396,9 @@
 400 Adam, Louisville, KY:
   lat: 38.1049397
   lng: -85.8430902
+? 400 Adam, prompting a pursuit involving multiple police units. The vehicle was heading
+  westbound, and officers actively pursued it, Louisville, KY
+: null
 400 Adam, the 4900 block of Southside Dr, and the 500 block of Adam, Louisville, KY: null
 400 Adam. EMS was requested, Louisville, KY:
   lat: 38.1049397
@@ -30404,6 +30407,7 @@
   lat: 38.1049397
   lng: -85.8430902
 400 Adam9**, Louisville, KY: null
+400 Adams St heading toward 200 block of Westbound, Louisville, KY: null
 400 Adams St, Louisville, KY:
   lat: 38.26009
   lng: -85.734743
