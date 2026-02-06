@@ -26077,6 +26077,10 @@
 30300 Colonial Manor Cir, Louisville, KY:
   lat: 38.2018416
   lng: -85.679661
+30900 Court near Landing Dr, Louisville, KY:
+  lat: 38.1175728
+  lng: -85.6040853
+30900 Court, Louisville, KY: null
 31 Bank St, Louisville, KY:
   lat: 38.2654471
   lng: -85.7821805
@@ -46720,6 +46724,7 @@
   lat: 38.2667863
   lng: -85.6914418
 700 [Street Name] and 747 block of [Street Name], Louisville, KY: null
+700 [Street Name] and Electron Dr, Louisville, KY: null
 700 area, Louisville, KY: null
 700 back room, Louisville, KY: null
 700 bake Smirnoff connector and Cooper Chapel, Louisville, KY: null
@@ -53064,6 +53069,7 @@
 9300 Ponder Ln at Lilac Vista Dr and Hacienda Dr, Louisville, KY:
   lat: 38.1166945
   lng: -85.8631205
+9300 Santa Ana Road, Louisville, KY: null
 9300 Siesta, Louisville, KY:
   lat: 38.1330647
   lng: -85.6736077
