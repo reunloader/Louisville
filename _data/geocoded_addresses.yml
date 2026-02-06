@@ -12729,6 +12729,7 @@
   lat: 38.2232086
   lng: -85.7630886
 1700 South 9th Street between South St and South 7th Street, Louisville, KY: null
+1700 South Foley, Louisville, KY: null
 1700 South Forth, Louisville, KY: null
 ? 1700 South Forth. The incident occurred shortly before 11:02 a.m. Police units were
   involved in managing the situation and arranging for the vehicle's removal., Louisville,
@@ -13047,6 +13048,9 @@
   lng: -85.435846
 17400 Creek Run Dr, Louisville, KY: null
 17400 Kentucky King, Louisville, KY: null
+1750 Central, Louisville, KY:
+  lat: 38.2032262
+  lng: -85.7619643
 17500 Curry Branch Rd, Louisville, KY:
   lat: 38.2665741
   lng: -85.4472225
@@ -19618,6 +19622,9 @@
 2200 Glimmer Way, Louisville, KY:
   lat: 38.1326257
   lng: -85.7787905
+2200 Goldsmith Ln, Louisville, KY:
+  lat: 38.208481
+  lng: -85.66882
 2200 Grand Ave, Louisville, KY:
   lat: 38.2401018
   lng: -85.7899809
@@ -31601,6 +31608,9 @@
 400 S Jackson St, Louisville, KY:
   lat: 38.251001
   lng: -85.744689
+400 S Shelby St, Louisville, KY:
+  lat: 38.249665
+  lng: -85.738755
 400 S, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -53633,6 +53643,7 @@
 9800 Lowe's, Louisville, KY:
   lat: 38.1064109
   lng: -85.6721115
+9800 Marylee Ln and 1200 block of Oleanda Ave, Louisville, KY: null
 9800 McNeely Slate Dr, Louisville, KY: null
 9800 Merioneth Ct near Merioneth Dr, Louisville, KY: null
 9800 Merioneth Ct, Louisville, KY: null
