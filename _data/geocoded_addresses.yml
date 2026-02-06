@@ -19426,6 +19426,7 @@
 2100 hours from 300 block of Axis Dr, Louisville, KY: null
 2100 location, Louisville, KY: null
 2100 medical traffic, Louisville, KY: null
+2100 production drive, Louisville, KY: null
 2108 Willow Dr, Louisville, KY:
   lat: 38.1832035
   lng: -85.700345
@@ -53896,6 +53897,9 @@
 9900 Cedar Center Way. The collision involved a black Honda, and police units were dispatched, Louisville, KY:
   lat: 38.1450686
   lng: -85.5879341
+9900 Cedar Garden Dr, Louisville, KY:
+  lat: 38.127005
+  lng: -85.5912636
 9900 Chapel Hill Rd, Louisville, KY:
   lat: 38.1045495
   lng: -85.6671475
@@ -55335,6 +55339,7 @@ Project Estelle Avenue and Southside Dr, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
 Pueblo Rd and Quahala Rd, Louisville, KY: null
 Pulleygrass Ave and Lehigh Ave, Louisville, KY: null
+Queen Avenue and Wabasso Ave, Louisville, KY: null
 Radford Rd and Robinwood Rd, Louisville, KY: null
 Ralph Ave and Camp Ground Rd, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
