@@ -15872,6 +15872,9 @@
 200 Montgomery St near North 30th and North 29th, Louisville, KY:
   lat: 38.2747113
   lng: -85.7960281
+200 Montgomery St, Louisville, KY:
+  lat: 38.2747113
+  lng: -85.7960281
 200 Moore Ct building 11, Louisville, KY: null
 200 Mount Holly Ave, Louisville, KY:
   lat: 38.259206
@@ -16946,6 +16949,9 @@
 200 West Breckenridge near Third Street, Louisville, KY:
   lat: 38.2512301
   lng: -85.75592
+200 West Broadway at Genoa health care, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
 200 West Broadway at Poplar Level, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
@@ -26820,6 +26826,7 @@
 3200 Heather Ln, Louisville, KY:
   lat: 38.2076133
   lng: -85.6642191
+3200 Herbelly Road, Louisville, KY: null
 3200 Hoover Barton Rd, Louisville, KY: null
 3200 Illinois near Poplar Level, Louisville, KY:
   lat: 38.21145
@@ -54871,6 +54878,7 @@ Gretchen Hall Road and Golden Dr, Louisville, KY: null
 Grinstead Dr and Bardstown Rd, Louisville, KY: null
 Grinstead Dr and Baxter Ave, Louisville, KY: null
 Grinstead Dr and Cherokee Pky, Louisville, KY: null
+Grinstead Dr and Herbelly Road, Louisville, KY: null
 Grinstead Dr and Lexington Rd, Louisville, KY: null
 Grinstead Dr and Ray Ave, Louisville, KY: null
 Grounds Street and Tennessee Ave, Louisville, KY: null
