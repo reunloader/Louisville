@@ -17820,6 +17820,9 @@
 200 westbound bridge, Louisville, KY: null
 200 westbound from the fairgrounds, Louisville, KY: null
 200 westbound just east of Breck, Louisville, KY: null
+200 westbound near Taylor Blvd, Louisville, KY:
+  lat: 38.2097956
+  lng: -85.7718278
 200 westbound, Louisville, KY: null
 200 westbound, approximately one mile past the Dixie Hwy exit, Louisville, KY: null
 200 with Texas tag, Louisville, KY: null
@@ -47133,6 +47136,7 @@
 7100 M Street, Louisville, KY:
   lat: 38.2092052
   lng: -85.7665391
+7100 May Houseway, Louisville, KY: null
 7100 Mayhouse Way, cross Valley Fairway and Johnston Way, Louisville, KY: null
 7100 McKenna Court, Louisville, KY: null
 7100 Meadow Ridge Dr, Louisville, KY:
