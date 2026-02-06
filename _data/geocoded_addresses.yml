@@ -19497,6 +19497,9 @@
 22 Dogwood Dr, Louisville, KY:
   lat: 38.216971
   lng: -85.6400523
+22 Garland Ave, Louisville, KY:
+  lat: 38.2472111
+  lng: -85.8243903
 22 Griffiths Ave, Louisville, KY:
   lat: 38.2650846
   lng: -85.7872589
@@ -24914,6 +24917,9 @@
   lat: 38.2485685
   lng: -85.5452481
 300 Plaza Ave, where someone was tending, Louisville, KY: null
+300 Portland Ave, Louisville, KY:
+  lat: 38.2721361
+  lng: -85.7929587
 300 Powhatan Ct, Louisville, KY:
   lat: 38.3041994
   lng: -85.5401557
@@ -49100,6 +49106,9 @@
 800 E W Kentucky St, Louisville, KY:
   lat: 38.2414889
   lng: -85.7789521
+800 E W Liberty St, Louisville, KY:
+  lat: 38.2534676
+  lng: -85.7663705
 800 E W Market St at the Mayan Cafe, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
