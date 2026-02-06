@@ -10765,6 +10765,9 @@
 1500 Quadrant Ave, Louisville, KY:
   lat: 38.230063
   lng: -85.712604
+1500 Quincy St, Louisville, KY:
+  lat: 38.258699
+  lng: -85.725828
 1500 Rangeland Rd, Louisville, KY:
   lat: 38.167218
   lng: -85.681561
@@ -18324,6 +18327,7 @@
   lat: 38.2522388
   lng: -85.7098412
 2000 Payne St. Responding units assessed the scene and managed the situation., Louisville, KY: null
+2000 Peabody Ln, Croshick Peabody Court, Louisville, KY: null
 2000 Peabody Ln, Louisville, KY:
   lat: 38.2037505
   lng: -85.6768793
@@ -30748,6 +30752,7 @@
   lng: -85.744583
 400 E Jefferson St off Eastside, Louisville, KY: null
 400 E Jefferson St, Crop St South Jackson and S Preston St, Louisville, KY: null
+400 E Jefferson St, Croshick, Louisville, KY: null
 400 E Jefferson St, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
