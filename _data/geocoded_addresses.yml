@@ -1346,6 +1346,9 @@
   lng: -85.7582745
 100 Norberg Drive, Louisville, KY: null
 100 North 11th Street, Coffin Concrete, Louisville, KY: null
+100 North 11th Street, Louisville, KY:
+  lat: 38.258023
+  lng: -85.768189
 100 North 17th Street. Responders arrived, Louisville, KY:
   lat: 38.2593263
   lng: -85.7781882
@@ -41335,6 +41338,9 @@
 600 Dixie Beach Rd, Louisville, KY:
   lat: 38.0195229
   lng: -85.9212355
+600 Dixie Hwy near Varble Ave and San Jose Ave, Louisville, KY:
+  lat: 38.1127713
+  lng: -85.8629441
 600 Dixie Hwy, Kentucky, Louisville, KY:
   lat: 38.1127713
   lng: -85.8629441
