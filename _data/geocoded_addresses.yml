@@ -255,6 +255,7 @@
 09 Powell Ave, Louisville, KY:
   lat: 38.1929879
   lng: -85.7910523
+1 Ackermack Drive, Louisville, KY: null
 1 Audubon Plaza Dr, Louisville, KY:
   lat: 38.2155102
   lng: -85.7220735
@@ -5548,6 +5549,9 @@
 1100 South 44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+1100 South 4th St, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South 4th Street across W Oak St and Webster St, Louisville, KY: null
 1100 South 4th Street at 10 Catfork Road Apartments, Louisville, KY:
   lat: 38.237298
@@ -12297,6 +12301,7 @@
 1700 Deerwood Ave, Louisville, KY:
   lat: 38.2259873
   lng: -85.7104751
+1700 Demenel Street, Louisville, KY: null
 1700 Diminil, Louisville, KY: null
 ? 1700 Diminil. Responding officers spoke with a woman who was outside at the location
   and reported hearing nothing unusual. Police units investigated the area, Louisville,
@@ -39331,6 +39336,9 @@
 5300 Mitscher Ave, Louisville, KY:
   lat: 38.1713857
   lng: -85.7709066
+5300 Mix Ave, Louisville, KY:
+  lat: 38.2229485
+  lng: -85.7712445
 5300 Molly Manor Dr, Louisville, KY:
   lat: 38.1555954
   lng: -85.6631863
