@@ -31478,6 +31478,7 @@
 400 Fern Creek Rd, Louisville, KY:
   lat: 38.158292
   lng: -85.5898849
+400 Fern Lea Rd, Louisville, KY: null
 400 Fern Valley Rd. EMS responded with a Code 3 response, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
@@ -45085,6 +45086,9 @@
 6800 Dixie Hwy (Norton Healthcare), Louisville, KY: null
 6800 Dixie Hwy and 2C505 Bethany Ln, Louisville, KY: null
 6800 Dixie Hwy at Louisville Queenslake, Louisville, KY:
+  lat: 38.1519038
+  lng: -85.8370427
+6800 Dixie Hwy at T-Mobile, Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
 6800 Dixie Hwy near Hobby Lobby, Louisville, KY:
