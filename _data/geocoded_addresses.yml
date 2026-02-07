@@ -4166,6 +4166,7 @@
 ? 10000 Ashby Farm Dr. The individual sought was no longer at the location, and the
   service could not be completed., Louisville, KY
 : null
+10000 Bell Tucker Ln near Henning Way and Lillie Cressus Channel Lane, Louisville, KY: null
 10000 Deer Vista Dr, Louisville, KY:
   lat: 38.1060984
   lng: -85.5603163
@@ -4194,6 +4195,12 @@
 10000 Dorton Dr, Louisville, KY:
   lat: 38.0958414
   lng: -85.8534439
+10000 Manslick Rd near a court, Louisville, KY:
+  lat: 38.112407
+  lng: -85.780039
+10000 Manslick Rd, Louisville, KY:
+  lat: 38.112407
+  lng: -85.780039
 10000 National Turnpike, Louisville, KY:
   lat: 38.1056813
   lng: -85.742609
