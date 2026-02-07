@@ -7314,6 +7314,7 @@
 1200 South Firstree, Louisville, KY: null
 1200 South Ford Street, Louisville, KY: null
 1200 South Fork Street, Louisville, KY: null
+1200 South Forrest Street, Louisville, KY: null
 1200 South Forth Street, Louisville, KY: null
 ? 1200 South Forth Street. The scene was secured, and the incident was cleared shortly
   after, with no further details on injuries or suspects provided at this time. Multiple
@@ -7365,6 +7366,7 @@
 1200 South1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
+1200 South26th Street, West Jefferson, Louisville, KY: null
 1200 South2nd Street, Louisville, KY:
   lat: 38.2345868
   lng: -85.7573175
@@ -16265,6 +16267,9 @@
 200 North26th Street, Louisville, KY:
   lat: 38.262213
   lng: -85.793497
+200 North28th Street, Louisville, KY:
+  lat: 38.2626638
+  lng: -85.7972793
 200 North29th Street, Louisville, KY:
   lat: 38.26281
   lng: -85.798847
@@ -55095,6 +55100,7 @@ Goldsmith Ln and Peabody Ln, Louisville, KY: null
 Goose Creek Rd and Blossom Ln, Louisville, KY: null
 Goose Ln and Mason Rd, Louisville, KY: null
 Goss Ave and Eastern Parkway, Louisville, KY: null
+Goss Ave and Hickory St, Louisville, KY: null
 Goss Ave and Hoertz Ave, Louisville, KY: null
 Goss Ave and Logan St, Louisville, KY: null
 Goss Ave and Spratt St, Louisville, KY: null
