@@ -22574,6 +22574,7 @@
 2700 Autumn Lake Dr, Louisville, KY:
   lat: 38.0762112
   lng: -85.8774363
+2700 Autumn Light, Louisville, KY: null
 2700 Bagby Way near Mount Holyoke Dr and Dione Ave, Louisville, KY:
   lat: 38.1658197
   lng: -85.8607985
@@ -49181,6 +49182,9 @@
 800 Brownsboro Rd, Louisville, KY:
   lat: 38.2588952
   lng: -85.6971281
+800 Brownsboro, Louisville, KY:
+  lat: 38.3140959
+  lng: -85.5732474
 800 Camden Ave near Pete Tree, Louisville, KY:
   lat: 38.192851
   lng: -85.772801
