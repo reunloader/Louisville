@@ -34412,6 +34412,9 @@
 4300 Clarinet Dr. EMS was initially requested, Louisville, KY:
   lat: 38.1934042
   lng: -85.8490719
+4300 Cloverleaf Dr, Louisville, KY:
+  lat: 38.1822054
+  lng: -85.8063806
 4300 Cranet Way, [Date] 8:00 a, Louisville, KY: null
 4300 Cranet Way, [Date] 8:00 a.m.AM, Louisville, KY: null
 4300 Crittenden Dr, Louisville, KY:
@@ -36407,6 +36410,9 @@
   lat: 38.2064365
   lng: -85.8301169
 4700 Rawford Plaza, Louisville, KY: null
+4700 Rio, Louisville, KY:
+  lat: 38.2122004
+  lng: -85.6500249
 4700 Robards Ln, Louisville, KY:
   lat: 38.1897402
   lng: -85.6935185
@@ -41962,6 +41968,7 @@
   the male was reportedly detained by responding officers. The caller disconnected
   before further details could be obtained., Louisville, KY
 : null
+600 Ladima Way, Louisville, KY: null
 600 Lake Forest Pky, Louisville, KY:
   lat: 38.248414
   lng: -85.486472
@@ -52181,6 +52188,9 @@
 900 Link Way. The male was refusing, Louisville, KY:
   lat: 38.0648787
   lng: -85.8933989
+900 Livingston Ave, Louisville, KY:
+  lat: 38.1871106
+  lng: -85.775758
 900 Logan St, Louisville, KY:
   lat: 38.239647
   lng: -85.739149
