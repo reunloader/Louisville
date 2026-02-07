@@ -897,6 +897,9 @@
 100 East Esplanade, Louisville, KY:
   lat: 38.162254
   lng: -85.770797
+100 East Florence, Louisville, KY:
+  lat: 38.1912879
+  lng: -85.7611622
 100 East Garrett, Louisville, KY:
   lat: 38.199361
   lng: -85.761342
@@ -20123,6 +20126,9 @@
 2200 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
+2200 South 42nd, Louisville, KY:
+  lat: 38.261292
+  lng: -85.819622
 2200 South 9th Street, Louisville, KY:
   lat: 38.2159071
   lng: -85.7721941
@@ -32312,6 +32318,7 @@
 400 South Eighth Street, Louisville, KY: null
 400 South Fifth, Louisville, KY: null
 400 South First Barn Parkway, Agustado's Mexican Grill, Louisville, KY: null
+400 South First Street, Louisville, KY: null
 400 South First Street, Metro London Center, Louisville, KY: null
 400 South First, Louisville, KY: null
 400 South Forge Street, Louisville, KY: null
