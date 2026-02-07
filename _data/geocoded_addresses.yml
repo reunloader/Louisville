@@ -7899,6 +7899,10 @@
 12600 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+12600 Standards Dead Trace near Middlesex Dr, Louisville, KY:
+  lat: 38.3101965
+  lng: -85.5216291
+12600 Standards Dead Trace, Louisville, KY: null
 12600 Taylorsville Rd near Bittenberg Road, Louisville, KY:
   lat: 38.1871839
   lng: -85.5214147
@@ -27747,6 +27751,9 @@
 3300 Richard Ave, Louisville, KY:
   lat: 38.2508407
   lng: -85.6701338
+3300 Richelle Dr, Louisville, KY:
+  lat: 38.20482
+  lng: -85.830327
 ? 3300 Ridge Brook Cir after reports of a 92-year-old male who had not responded to
   calls or texts and had been unaccounted, Louisville, KY
 : null
@@ -36089,6 +36096,9 @@
 ? 4600 River Front Dr, involving allegations of harassing communications from an ex-partner.
   Police units were dispatched, Louisville, KY
 : null
+4600 River Rd, Louisville, KY:
+  lat: 38.3021565
+  lng: -85.6632539
 4600 Riverview Ave, Louisville, KY:
   lat: 38.2466
   lng: -85.829891
