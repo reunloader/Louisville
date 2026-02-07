@@ -15591,6 +15591,9 @@
 200 East near the 15, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East near the airport, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East near the crit, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -27410,6 +27413,7 @@
 3300 Barbara Ave, Louisville, KY:
   lat: 38.1426819
   lng: -85.8500632
+3300 Bardshound Road, Louisville, KY: null
 3300 Bardstown Rd (Brown Suburban Hotel), Louisville, KY: null
 3300 Bardstown Rd at the Grand Serbin Hotel, Louisville, KY:
   lat: 38.2076242
