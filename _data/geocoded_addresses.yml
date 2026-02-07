@@ -14696,6 +14696,9 @@
 200 Allentree Pl, Louisville, KY:
   lat: 38.0987519
   lng: -85.6542203
+200 Alpha Ave, Louisville, KY:
+  lat: 38.1908856
+  lng: -85.6387982
 200 Alvina Way near Southside Dr and Gerber Ave, Louisville, KY:
   lat: 38.1492286
   lng: -85.7675862
@@ -18433,6 +18436,7 @@
   lat: 38.192182
   lng: -85.609228
 2000 Pantry, Louisville, KY: null
+2000 Partisan Road, Louisville, KY: null
 2000 Patterson Ave, Louisville, KY:
   lat: 38.237377
   lng: -85.718906
@@ -50531,6 +50535,9 @@
   lat: 38.2514234
   lng: -85.4961662
 8200 Woodstock Rd (Magnolia Springs), Louisville, KY: null
+8200 Zelma Fields Ave, Louisville, KY:
+  lat: 38.130987
+  lng: -85.610492
 821 Winclair Avenue, Louisville, KY: null
 82100 unstated street, Louisville, KY: null
 822 Wolfpin Branch Road, Evening, Louisville, KY: null
