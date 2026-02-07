@@ -14954,6 +14954,9 @@
   lat: 38.1629212
   lng: -85.7679383
 200 Cambridge Station Rd, Louisville, KY: null
+200 Cane Run Rd, Louisville, KY:
+  lat: 38.222489
+  lng: -85.811113
 200 Cane Run, Louisville, KY:
   lat: 38.222489
   lng: -85.811113
@@ -15031,6 +15034,9 @@
 200 Collier, Louisville, KY:
   lat: 38.1193287
   lng: -85.5990283
+200 Colmar Dr, Louisville, KY:
+  lat: 38.2359337
+  lng: -85.8141613
 200 Colonial Dr, Louisville, KY: null
 200 Columbia, Louisville, KY:
   lat: 38.2621193
@@ -26878,6 +26884,9 @@
   EMS provided assistance, Louisville, KY
 : null
 3200 Callaway Drive, Louisville, KY: null
+3200 Cane Run Rd, Louisville, KY:
+  lat: 38.222489
+  lng: -85.811113
 3200 Chiller Boulevard, Louisville, KY: null
 3200 Christ Boiler Springs Drive, Louisville, KY: null
 3200 Commander Dr, Louisville, KY:
@@ -27563,6 +27572,9 @@
 3300 Mary Oconnor Dr, Louisville, KY:
   lat: 38.1896492
   lng: -85.851097
+3300 Mel, Louisville, KY:
+  lat: 38.1704839
+  lng: -85.8025679
 3300 Mid Dale Ln and 3700 block of St Michael Church Dr, Louisville, KY: null
 3300 Morning D Drive near Lamont Rd, Louisville, KY:
   lat: 38.2092022
@@ -29287,6 +29299,9 @@
   lng: -85.812841
 3700 Bruce St, Louisville, KY: null
 3700 Camera Road, Louisville, KY: null
+3700 Cane Run Rd near parking lot, Louisville, KY:
+  lat: 38.2177061
+  lng: -85.8168102
 3700 Cane Run Rd, Louisville, KY:
   lat: 38.2177061
   lng: -85.8168102
@@ -50140,6 +50155,7 @@
   lat: 38.210811
   lng: -85.770778
 800 Woodstock Rd, Louisville, KY: null
+800 Zebra Mary Charlie" was pulled over, Louisville, KY: null
 800 Zorn Ave near Mellwood Ave and Riverwood Dr, Louisville, KY:
   lat: 38.2708365
   lng: -85.6975316
