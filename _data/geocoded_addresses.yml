@@ -16404,6 +16404,7 @@
 200 Pennsylvania, Louisville, KY:
   lat: 38.2585087
   lng: -85.6836136
+200 Perma Dr, Crop St of Cutlass Drive and Buckson Drive, Louisville, KY: null
 200 Petersburg Rd, Louisville, KY:
   lat: 38.184782
   lng: -85.6668505
@@ -18451,6 +18452,9 @@
   lng: -85.5102464
 2000 Nessa Miller Parkway, Louisville, KY: null
 2000 Newberg, Louisville, KY: null
+2000 Newburg Rd at Nazareth nursing home, Louisville, KY:
+  lat: 38.2189833
+  lng: -85.7108271
 2000 Newburg Rd at Olump near Bellarmine Blvd, Louisville, KY:
   lat: 38.2189014
   lng: -85.7104099
@@ -55034,6 +55038,7 @@ Crums Ln and Schmitts Ln, Louisville, KY: null
 Crusher Leeds Lane and Teaneck Ln, Louisville, KY: null
 Cumberland Ave and Rochester Dr, Louisville, KY: null
 Cut Road and Candleworth Dr, Louisville, KY: null
+Cutlass Drive and Buckson Drive, Louisville, KY: null
 Cypress St and Austin Ave, Louisville, KY: null
 Cypress St and Austin Avenue, Louisville, KY: null
 Cypress St and Burwell Ave, Louisville, KY: null
