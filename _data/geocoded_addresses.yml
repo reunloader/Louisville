@@ -15090,6 +15090,9 @@
   lat: 38.226901
   lng: -85.7579424
 200 E W Chestnut St and Croft area, Louisville, KY: null
+200 E W Chestnut St near Jewish Hospital, Louisville, KY:
+  lat: 38.2520593
+  lng: -85.786022
 200 E W Chestnut St near Norton Children Hospital, Louisville, KY:
   lat: 38.2491911
   lng: -85.7601224
@@ -16266,6 +16269,12 @@
 200 North37th Street, Louisville, KY:
   lat: 38.2653079
   lng: -85.8105746
+200 North38th Street, Louisville, KY:
+  lat: 38.2652829
+  lng: -85.8116457
+200 North38th Street. Multiple units are checking various locations in an effort, Louisville, KY:
+  lat: 38.2652829
+  lng: -85.8116457
 200 North39th Street involving a subject acting aggressively, Louisville, KY: null
 200 North39th Street near Alford and Duncan, Louisville, KY:
   lat: 38.2657912
