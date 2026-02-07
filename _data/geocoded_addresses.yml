@@ -20221,6 +20221,9 @@
   lng: -85.7935852
 2200 West Holley, Louisville, KY: null
 2200 West Hollywood Boulevard near South 24th and South 22nd, Louisville, KY: null
+2200 West Jefferson at Ruskell Vision Development Center, Louisville, KY:
+  lat: 38.257076
+  lng: -85.786979
 2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
   and showing signs of facial drooping. This was classified as a medical Delta call,
@@ -24723,6 +24726,9 @@
 300 Grand, Louisville, KY:
   lat: 38.2406987
   lng: -85.7980734
+300 Grant Ave, Louisville, KY:
+  lat: 38.1683663
+  lng: -85.7788663
 300 Graves End Dr, Louisville, KY:
   lat: 38.255761
   lng: -85.775666
@@ -37156,6 +37162,10 @@
 4900 Stokes Ct, Louisville, KY:
   lat: 38.179162
   lng: -85.667186
+4900 Strawberry Ln behind Naval Ordinance, Louisville, KY: null
+4900 Strawberry Ln, Louisville, KY:
+  lat: 38.175956
+  lng: -85.753552
 4900 Swap Swain, cross Ternan Lane and Omaha Ln, Louisville, KY: null
 4900 Taylor Street Road, Spencer County, Louisville, KY: null
 4900 Terry Rd, Louisville, KY:
@@ -46815,6 +46825,7 @@
   lat: 38.249929
   lng: -85.812787
 700 South38 crossing of door hopper and West Broadway, Louisville, KY: null
+700 South38, Louisville, KY: null
 700 South38th Street near Doerhoefer Ave, Louisville, KY:
   lat: 38.250005
   lng: -85.815041
