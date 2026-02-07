@@ -15774,6 +15774,8 @@
 200 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
+200 Exchange Ave, Crested Richland Avenue, and Glover Ln, Louisville, KY: null
+200 Exchange Ave, Louisville, KY: null
 200 FLOC at Dr, Louisville, KY: null
 200 Fairlawn Rd near Beverly Ave and Richard Ave, Louisville, KY:
   lat: 38.252434
@@ -30750,6 +30752,9 @@
 4 Wilart Dr, Louisville, KY:
   lat: 38.2190386
   lng: -85.7918062
+40 E Jefferson St, Louisville, KY:
+  lat: 38.1591757
+  lng: -85.589892
 40 Kaufman Ln, Louisville, KY:
   lat: 38.180849
   lng: -85.8620818
@@ -48396,6 +48401,9 @@
 7400 Trade Port, Louisville, KY:
   lat: 38.1237735
   lng: -85.892577
+7400 Verona Way, Louisville, KY:
+  lat: 38.196612
+  lng: -85.619047
 7400 W Manslick Rd, Louisville, KY:
   lat: 38.1083742
   lng: -85.762655
