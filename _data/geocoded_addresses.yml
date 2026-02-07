@@ -17725,6 +17725,9 @@
 200 [location], Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 [unspecified street], Louisville, KY:
+  lat: 38.2516962
+  lng: -85.6240798
 200 a ramp, Louisville, KY:
   lat: 38.2621141
   lng: -85.7378387
@@ -28945,6 +28948,9 @@
 3600 Colmar Dr, Louisville, KY:
   lat: 38.2357524
   lng: -85.8144164
+3600 Colonial Oaks Ct, Louisville, KY:
+  lat: 38.1746863
+  lng: -85.7602178
 3600 Commercial Bypass, Louisville, KY: null
 3600 Craig Ave, Louisville, KY:
   lat: 38.1943008
@@ -44219,6 +44225,9 @@
 6400 McWyvern Rd near Bischoff Farm Dr, Louisville, KY:
   lat: 38.1739484
   lng: -85.6291885
+6400 Mistflower Cir, Louisville, KY:
+  lat: 38.332063
+  lng: -85.563994
 6400 Molly Ridgeway, Louisville, KY: null
 6400 Montego Bay Rd, Louisville, KY:
   lat: 38.155313
@@ -45453,6 +45462,9 @@
   lat: 38.1504767
   lng: -85.8377877
 6900 Dixie Hwy, close, Louisville, KY: null
+6900 Duvall St, Louisville, KY:
+  lat: 38.2079303
+  lng: -85.7447768
 6900 East Highway 62, Louisville, KY: null
 6900 East Highway 62. Responding units were dispatched, Louisville, KY: null
 6900 Eastern Parkway, Louisville, KY:
@@ -45548,6 +45560,9 @@
 6900 Lethbridge Road, Louisville, KY: null
 6900 Livington Spall Draft, Louisville, KY: null
 6900 Livington Spall Draft. Units were en route, Louisville, KY: null
+6900 Mae St, Louisville, KY:
+  lat: 38.2296677
+  lng: -85.8193981
 6900 Mariemont Dr, Louisville, KY:
   lat: 38.1486533
   lng: -85.6166497
@@ -53312,6 +53327,7 @@
 9100 Preston Hwy, Louisville, KY:
   lat: 38.11957
   lng: -85.677796
+9100 Rainbow Springs Ct No, Louisville, KY: null
 9100 S Brook St, Louisville, KY:
   lat: 38.2141519
   lng: -85.7572545
