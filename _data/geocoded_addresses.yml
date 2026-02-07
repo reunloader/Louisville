@@ -3967,6 +3967,9 @@
   lat: 38.1932051
   lng: -85.7772854
 1000 W Whitney Ave, with a subsequent update confirming the location within the same block. Information, Louisville, KY: null
+1000 Walnut Loop, Louisville, KY:
+  lat: 38.0931137
+  lng: -85.6452975
 1000 Ward Ave at 3rd Street, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
@@ -25339,6 +25342,9 @@
 300 W Whitney Ave, Louisville, KY:
   lat: 38.193805
   lng: -85.7653462
+300 Wallace Ave, Louisville, KY:
+  lat: 38.252241
+  lng: -85.657552
 300 West Alley, Louisville, KY:
   lat: 38.2620848
   lng: -85.801873
@@ -33479,6 +33485,7 @@
 4100 Phantom Creek Rd,, Louisville, KY: null
 4100 Phantom Creek Rd. Officers were requested, Louisville, KY: null
 4100 Phantom Creek, Louisville, KY: null
+4100 Pine Cross Drive, Louisville, KY: null
 4100 Pine Cross, Louisville, KY: null
 4100 Pinecroft Dr, Louisville, KY:
   lat: 38.1335452
@@ -34396,6 +34403,7 @@
   lat: 38.1290623
   lng: -85.8727765
 4300 Meridian Hills Dr, Louisville, KY: null
+4300 Mount Vernon Rd, Louisville, KY: null
 4300 Mud Ln near Cresta Elba and Smith Ln, Louisville, KY:
   lat: 38.0881993
   lng: -85.6844578
@@ -40303,6 +40311,9 @@
 5500 Reflection Dr, Louisville, KY:
   lat: 38.1703835
   lng: -85.6694238
+5500 Ridgecrest Rd, Louisville, KY:
+  lat: 38.1709163
+  lng: -85.6657527
 5500 Ridgecrest in relation, Louisville, KY: null
 5500 Ridgecrest, Louisville, KY:
   lat: 38.1709163
@@ -50157,6 +50168,7 @@
 8000 Heights Dr, Louisville, KY:
   lat: 38.1303796
   lng: -85.5939161
+8000 Herod Woodcourt, Louisville, KY: null
 8000 Huntsman Trail, Crop St of Old Boundary Rd, Louisville, KY: null
 8000 Ivy Springs Ct, Louisville, KY:
   lat: 38.2324277
