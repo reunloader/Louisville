@@ -465,6 +465,7 @@
   or vehicles. The tow was likely related, Louisville, KY
 : null
 100 Baker, close, Louisville, KY: null
+100 Baker, indicating a welfare check or non-emergency situation, Louisville, KY: null
 100 Baker, parked in front of a residence, Louisville, KY: null
 100 Baker, were dispatched, Louisville, KY: null
 100 Baker-Sulisane, Louisville, KY: null
@@ -12247,6 +12248,9 @@
 17 Beechbrook Rd, Louisville, KY:
   lat: 38.1823343
   lng: -85.6416968
+17 Bier Dr, Louisville, KY:
+  lat: 38.0889905
+  lng: -85.6867881
 17 Briden Ave, Louisville, KY:
   lat: 38.1926346
   lng: -85.7288573
@@ -19654,6 +19658,9 @@
 22 Lisbon Ln, Louisville, KY:
   lat: 38.2065763
   lng: -85.6581736
+22 Portland Ave, Louisville, KY:
+  lat: 38.2721361
+  lng: -85.7929587
 ? 22 W Whitney Ave involving a JCPS bus and a parked vehicle. No injuries were reported,
   and officers arrived, Louisville, KY
 : null
@@ -24032,6 +24039,9 @@
   lat: 38.1747458
   lng: -85.7745966
 2900 Southhurst One Parkway, Louisville, KY: null
+2900 Spring Villa Ct. A male was heard yelling in the background, and officers arrived, Louisville, KY:
+  lat: 38.2926558
+  lng: -85.5066481
 2900 Springdale Rd, Louisville, KY:
   lat: 38.2507362
   lng: -85.6865649
@@ -52956,6 +52966,7 @@
 900 the railroad, Louisville, KY: null
 900 the same street. The situation was investigated, and officers remained on scene, Louisville, KY: null
 900 the street, Louisville, KY: null
+900 unspecified area, Louisville, KY: null
 900 unspecified location, Louisville, KY: null
 ? 900 where the line was answered and then abruptly disconnected. Responding units
   were unable to determine the caller's location, as no further information was provided.,
