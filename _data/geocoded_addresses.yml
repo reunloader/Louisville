@@ -984,6 +984,7 @@
   lat: 38.2298984
   lng: -85.7515509
 100 Evans St, which was also noted, Louisville, KY: null
+100 F-150, Louisville, KY: null
 100 Fagan Bush Marine area, Louisville, KY: null
 100 Fairfax, Louisville, KY: null
 ? 100 Fairfax. Responding units determined that employees had accidentally triggered
@@ -7876,6 +7877,9 @@
 12500 Taylor'sville Road, Louisville, KY: null
 12500 W Road, Kroger gas station, Louisville, KY: null
 12600 Bay Arbor Pl, Louisville, KY: null
+12600 Castle Rd, Louisville, KY:
+  lat: 38.073505
+  lng: -85.890268
 12600 Charles Farm Cir, Louisville, KY: null
 12600 Charles Farm Servo, Louisville, KY: null
 12600 Goss Ave, Louisville, KY:
@@ -10297,6 +10301,9 @@
 14500 Springdale Rd, Louisville, KY:
   lat: 38.3083651
   lng: -85.5800902
+1459 Main St, Louisville, KY:
+  lat: 38.258647
+  lng: -85.7741401
 14600 Azalea Hill Ln, Louisville, KY: null
 ? 14600 Dominic Michael Drive following a report of an individual in distress. Multiple
   units were deployed to assist in the situation, with a drone being utilized to aid
@@ -14596,6 +14603,9 @@
   lat: 38.253808
   lng: -85.782488
 1900 Westbound264, Louisville, KY: null
+1900 White Oak Ln, Louisville, KY:
+  lat: 38.158041
+  lng: -85.839942
 1900 Wildwood Dr near Wiltonwood Ct, Louisville, KY:
   lat: 38.1279818
   lng: -85.7073311
@@ -37733,6 +37743,7 @@
 500 East Ali, Louisville, KY:
   lat: 38.249658
   lng: -85.744655
+500 East Breckham Ridge Street, Louisville, KY: null
 500 East Broadway, Louisville, KY:
   lat: 38.2446199
   lng: -85.7454474
