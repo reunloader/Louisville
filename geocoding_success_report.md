@@ -1,6 +1,6 @@
 # Geocoding Success Report
 
-**Generated:** 2026-02-07 04:38:35
+**Generated:** 2026-02-07 05:09:50
 
 ---
 
@@ -8,20 +8,21 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Addresses** | 25,289 |
-| **Successfully Geocoded** | 12,964 |
+| **Total Addresses** | 25,290 |
+| **Successfully Geocoded** | 12,965 |
 | **Failed to Geocode** | 12,325 |
-| **Success Rate** | 51.26% |
-| **Failure Rate** | 48.74% |
+| **Success Rate** | 51.27% |
+| **Failure Rate** | 48.73% |
 
 ---
 
 ## Recent Changes
 
-- **2** new addresses processed
+- **1** new addresses processed
 - **1** successfully geocoded
-- **1** failed to geocode
-- **This batch success rate: 50.00%** 🎯
+- **0** failed to geocode
+- **This batch success rate: 100.00%** 🎯
+- Overall rate changed by **+0.01%** 📈
 
 ---
 
@@ -42,7 +43,6 @@
 
 | Date | Batch Size | Batch Success | Batch Rate | Cumulative Total | Overall Rate |
 |------|-----------|--------------|------------|-----------------|-------------|
-| 2026-02-07 | 2 | 0 | 0.0% ⚠️ | 25,254 | 51.26% |
 | 2026-02-07 | 1 | 1 | 100.0% 🎯 | 25,255 | 51.26% |
 | 2026-02-07 | 6 | 3 | 50.0% 🎯 | 25,261 | 51.26% |
 | 2026-02-07 | 3 | 3 | 100.0% 🎯 | 25,264 | 51.27% |
@@ -52,6 +52,7 @@
 | 2026-02-07 | 7 | 5 | 71.4% 🎯 | 25,281 | 51.26% |
 | 2026-02-07 | 6 | 4 | 66.7% 🎯 | 25,287 | 51.26% |
 | 2026-02-07 | 2 | 1 | 50.0% 🎯 | 25,289 | 51.26% |
+| 2026-02-07 | 1 | 1 | 100.0% 🎯 | 25,290 | 51.27% |
 
 ---
 
