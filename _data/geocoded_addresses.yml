@@ -1716,6 +1716,9 @@
 100 Pennsylvania Ave, Louisville, KY:
   lat: 38.2548878
   lng: -85.6833703
+100 Penny, Louisville, KY:
+  lat: 38.1337307
+  lng: -85.6855355
 100 Pertle Terrace, Louisville, KY: null
 100 Phillips Main, Louisville, KY: null
 100 Pikeview Dr, Louisville, KY:
@@ -52756,6 +52759,9 @@
 : null
 900 South First Street near Cosmo Street and West Berkman Street, Louisville, KY: null
 900 South First Street, Louisville, KY: null
+900 South Forest near Memorial Auditorium, Louisville, KY:
+  lat: 38.2393754
+  lng: -85.7601156
 900 South Fork Street, Breckenridge, Louisville, KY: null
 900 South Fork Street, Louisville, KY: null
 900 South Forth Street in West Buckingridge, Louisville, KY: null
