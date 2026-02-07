@@ -1915,6 +1915,10 @@
 100 South 37th Street, Louisville, KY:
   lat: 38.2627627
   lng: -85.8109002
+100 South 37th, Louisville, KY:
+  lat: 38.2627627
+  lng: -85.8109002
+100 South 37th, and a drone was requested, Louisville, KY: null
 100 South 3rd Street near Webster St, Louisville, KY:
   lat: 38.256328
   lng: -85.754983
@@ -2265,6 +2269,9 @@
 100 Weist Pl, Louisville, KY:
   lat: 38.2542112
   lng: -85.7125633
+100 West 10th Street, Louisville, KY:
+  lat: 38.2461724
+  lng: -85.768487
 100 West Adairmber, Louisville, KY: null
 100 West Ali, Louisville, KY:
   lat: 38.250493
@@ -2345,6 +2352,7 @@
 100 West Jefferson, Louisville, KY:
   lat: 38.253226
   lng: -85.752219
+100 West Kenny Avenue, Louisville, KY: null
 100 West Kentucky, Louisville, KY:
   lat: 38.2575113
   lng: -85.7629961
@@ -2688,6 +2696,7 @@
 1000 Back Run Rd near Rockycreek Ln and Broad Run Rd, Louisville, KY:
   lat: 38.1067097
   lng: -85.5147495
+1000 Baker area, Louisville, KY: null
 1000 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -24817,6 +24826,9 @@
   lat: 38.2407286
   lng: -85.7112703
 300 Glenmary Ave, between Crossleaf Avenue and Willow Ave. Emergency medical personnel were sent, Louisville, KY: null
+300 Goldenrod, Louisville, KY:
+  lat: 38.1199361
+  lng: -85.873599
 300 Grand, Louisville, KY:
   lat: 38.2406987
   lng: -85.7980734
@@ -40454,6 +40466,9 @@
 5500 Georgia Ln, Louisville, KY:
   lat: 38.1462952
   lng: -85.6585987
+5500 Goldenrod, Louisville, KY:
+  lat: 38.119778
+  lng: -85.871274
 5500 Grandel Blvd, Louisville, KY:
   lat: 38.1570219
   lng: -85.8577378
