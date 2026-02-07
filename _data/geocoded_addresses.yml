@@ -10660,6 +10660,9 @@
 1500 Hemlock St, Louisville, KY:
   lat: 38.2318358
   lng: -85.8039888
+1500 Hemlock, Louisville, KY:
+  lat: 38.2318358
+  lng: -85.8039888
 1500 Hepburn Ave, Louisville, KY:
   lat: 38.2381766
   lng: -85.7247673
@@ -52482,6 +52485,9 @@
   lat: 38.241573
   lng: -85.7608634
 900 South63, Louisville, KY: null
+900 South6th Street, Louisville, KY:
+  lat: 38.242233
+  lng: -85.762535
 900 Southbrook Street, Louisville, KY: null
 900 Southbrook near Salvation Army, Louisville, KY: null
 900 Southern Pky, Louisville, KY:
