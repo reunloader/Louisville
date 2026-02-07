@@ -12670,6 +12670,12 @@
   lng: -85.711398
 1700 Nobel Pl, Louisville, KY: null
 1700 North Bardstown Rd, Louisville, KY: null
+1700 North Ln at Highland Middle School, near Richmond Dr and Roanoke Ave, Louisville, KY:
+  lat: 38.059521
+  lng: -85.8746765
+1700 North Ln, Louisville, KY:
+  lat: 38.059521
+  lng: -85.8746765
 1700 Northwestern Pky at Metro Park, Louisville, KY:
   lat: 38.264815
   lng: -85.775314
@@ -26951,6 +26957,9 @@
   lat: 38.151629
   lng: -85.8345273
 3200 Donald Dr near Cane Run Rd, Louisville, KY:
+  lat: 38.1901162
+  lng: -85.8451029
+3200 Donald Dr near Chamberlain Hill Rd, Louisville, KY:
   lat: 38.1901162
   lng: -85.8451029
 3200 Duma Drive, Louisville, KY: null
@@ -55963,6 +55972,7 @@ Renown Dr and Indian Pipe Ln, Louisville, KY: null
 Retreat Rd and Norene Ln, Louisville, KY: null
 Reutlinger Ave and Swan St, Louisville, KY: null
 Rica Rd and Candy Ln, Louisville, KY: null
+Richmond Dr and Roanoke Ave, Louisville, KY: null
 Ridgefield Road and Illinois Avenue, Louisville, KY: null
 Ridgewood Ave and Cherokee Rd, Louisville, KY: null
 Ripple Creek Dr and Blue Lick Rd, Louisville, KY: null
