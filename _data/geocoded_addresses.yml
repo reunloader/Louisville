@@ -1544,6 +1544,9 @@
 100 North20th, Louisville, KY:
   lat: 38.26038
   lng: -85.782963
+100 North21st, Louisville, KY:
+  lat: 38.260924
+  lng: -85.7844485
 100 North28th Street, Louisville, KY:
   lat: 38.261975
   lng: -85.79728
@@ -25308,6 +25311,9 @@
 300 South42nd St, Louisville, KY:
   lat: 38.2611397
   lng: -85.8198953
+300 South42nd, Louisville, KY:
+  lat: 38.2611397
+  lng: -85.8198953
 300 South43rd Street, Louisville, KY:
   lat: 38.2614562
   lng: -85.8208636
@@ -26944,6 +26950,9 @@
 3200 Dixie, Louisville, KY:
   lat: 38.151629
   lng: -85.8345273
+3200 Donald Dr near Cane Run Rd, Louisville, KY:
+  lat: 38.1901162
+  lng: -85.8451029
 3200 Duma Drive, Louisville, KY: null
 3200 Dumanell, Louisville, KY: null
 3200 Dumesnil St. Police units responded, Louisville, KY:
