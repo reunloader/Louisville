@@ -5055,6 +5055,9 @@
 1100 Cherokee Rd, Louisville, KY:
   lat: 38.2389519
   lng: -85.7196515
+1100 Chesley Dr, Louisville, KY:
+  lat: 38.1224376
+  lng: -85.6821463
 1100 Claremont Ave, Louisville, KY:
   lat: 38.2570903
   lng: -85.6769162
@@ -12506,6 +12509,7 @@
 1700 Herr Ln, Louisville, KY:
   lat: 38.2823509
   lng: -85.6267183
+1700 Highland, Stevens Ave, Louisville, KY: null
 1700 Holly Ave, Louisville, KY:
   lat: 38.1020814
   lng: -85.7422297
@@ -19119,6 +19123,7 @@
   lng: -85.646218
 2100 Heflane. Fire units were also dispatched, Louisville, KY: null
 2100 Helm St crossing Del Park Terrace and West Broadway, Louisville, KY: null
+2100 High Ridge Rd, Louisville, KY: null
 2100 Highland Ave, Louisville, KY:
   lat: 38.241041
   lng: -85.722704
@@ -37471,6 +37476,9 @@
 500 E Main St, Louisville, KY:
   lat: 38.2550268
   lng: -85.7437181
+500 E W Brandeis Ave, Louisville, KY:
+  lat: 38.2193858
+  lng: -85.7622692
 500 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
@@ -43229,6 +43237,9 @@
 6100 Enterprise, Louisville, KY:
   lat: 38.1522722
   lng: -85.7538243
+6100 Fern Valley Rd, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
 ? 6100 Fern Valley Road, near the L&P Wellness Center. Initial reports indicated a
   gray Infinity was involved in the collision. Responding units worked to gather information
   and assess the scene. Further details about the circumstances of the hit and run
@@ -45649,6 +45660,9 @@
   lat: 38.242954
   lng: -85.742845
 700 Carnation Dr, Louisville, KY:
+  lat: 38.1393644
+  lng: -85.8610486
+700 Carnation, Louisville, KY:
   lat: 38.1393644
   lng: -85.8610486
 700 Cedar Creek Rd, Louisville, KY:
@@ -54065,6 +54079,9 @@
 9800 Buckingham Dr, Louisville, KY:
   lat: 38.1267829
   lng: -85.7411149
+9800 Bunsen Parkway at Surviving Studio, Louisville, KY:
+  lat: 38.2421112
+  lng: -85.6153728
 9800 Bunsen Parkway, Louisville, KY:
   lat: 38.2421112
   lng: -85.6153728
