@@ -11055,6 +11055,9 @@
   lat: 38.2572148
   lng: -85.7245684
 1500 Story Ave, property 64 in Frankfort, Louisville, KY: null
+1500 Sylvan Way, Louisville, KY:
+  lat: 38.2080643
+  lng: -85.6984843
 1500 Talmadge Way, Louisville, KY:
   lat: 38.176211
   lng: -85.809941
@@ -20861,6 +20864,9 @@
 2300 West Ormsky Ave, Louisville, KY: null
 2300 West Ornstein near Crossroads South 25th and South 23rd, Louisville, KY: null
 2300 West W Hill St, Louisville, KY: null
+2300 Wilson Ave, Louisville, KY:
+  lat: 38.235045
+  lng: -85.793759
 2300 Woodbourne Ave, Louisville, KY:
   lat: 38.2269034
   lng: -85.6851901
@@ -34258,6 +34264,9 @@
 43 Willowview Blvd, Louisville, KY:
   lat: 38.1847369
   lng: -85.557027
+4300 Aron Rd at Speedway, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 4300 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
@@ -43888,6 +43897,9 @@
 631 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+6313 River Rd, Louisville, KY:
+  lat: 38.3282234
+  lng: -85.6348473
 633 Bland St, Louisville, KY:
   lat: 38.2260461
   lng: -85.7433136
@@ -48489,6 +48501,7 @@
 7600 Outer Loop, Louisville, KY:
   lat: 38.1369944
   lng: -85.6197042
+7600 Petty J Court, Louisville, KY: null
 7600 Pintail Dr, Louisville, KY:
   lat: 38.146316
   lng: -85.889677
