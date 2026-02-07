@@ -16469,6 +16469,7 @@
 200 River Park Dr, Louisville, KY:
   lat: 38.2536492
   lng: -85.8002952
+200 River Rd and Heritage Creek Tavern, Louisville, KY: null
 200 Road Run, Louisville, KY:
   lat: 38.2347946
   lng: -85.4410253
@@ -20975,6 +20976,10 @@
   lng: -85.786762
 2400 Bank St. Law enforcement continues to search, Louisville, KY:
   lat: 38.267712
+  lng: -85.786762
+? 2400 Bank St. Upon arrival, they confirmed the location was at the 1500 block of
+  W Jefferson St, where they checked on a subject, Louisville, KY
+: lat: 38.267712
   lng: -85.786762
 2400 Bardstown Rd near Kroger, Louisville, KY:
   lat: 38.223758
