@@ -12527,6 +12527,14 @@
   lat: 38.194681
   lng: -85.793611
 1700 Libertyville, Louisville, KY: null
+1700 Lilly Ave, Louisville, KY:
+  lat: 38.2136242
+  lng: -85.7495046
+? 1700 Lilly Ave. Additional calls indicated a woman sitting in a parking lot in a
+  black Kia Soul, with the suspect identified as the mother of her children. Police
+  units responded, Louisville, KY
+: lat: 38.2136242
+  lng: -85.7495046
 1700 Lincoln Ave, Louisville, KY:
   lat: 38.197189
   lng: -85.707325
@@ -25716,6 +25724,9 @@
 3000 Goose Creek, Louisville, KY:
   lat: 38.3161801
   lng: -85.6485728
+3000 Grand Ave, Louisville, KY:
+  lat: 38.241152
+  lng: -85.804129
 3000 Grand Avenue, [Date] Evening, Louisville, KY: null
 3000 Grant Ave. Emergency medical services responded promptly, Louisville, KY:
   lat: 38.1683663
