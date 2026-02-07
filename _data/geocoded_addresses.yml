@@ -7383,6 +7383,9 @@
 1200 South16th Street, Louisville, KY:
   lat: 38.236239
   lng: -85.781149
+1200 South19th, Louisville, KY:
+  lat: 38.2535186
+  lng: -85.7823901
 1200 South1st Street, Louisville, KY:
   lat: 38.2344706
   lng: -85.7556489
@@ -46084,6 +46087,7 @@
 : lat: 38.213507
   lng: -85.745319
 700 Edinburgh Avenue, Louisville, KY: null
+700 Edmonia Ave and Richland Ave, Louisville, KY: null
 700 Edwards and 400 block of South, Louisville, KY: null
 700 Eli Dr and a nearby street, Louisville, KY: null
 700 Elk Ridge Dr, Louisville, KY: null
@@ -55124,6 +55128,7 @@ Easum Rd and Chinnewith Run Road, Louisville, KY: null
 Eden Dairy Lane and Pico Ln, Louisville, KY: null
 Edenside Ave and Quadrant Ave, Louisville, KY: null
 Edgeland Ave and Cherokee Rd, Louisville, KY: null
+Edmonia Ave and Richland Ave, Louisville, KY: null
 Edward St and Barret Ave, Louisville, KY: null
 Egypt Ln and Meridian Ave, Louisville, KY: null
 El Pareto Street and Granada Dr, Louisville, KY: null
