@@ -1532,6 +1532,9 @@
 100 North James Street in Sycamore, Louisville, KY: null
 100 North James Street, Louisville, KY: null
 100 North Keith Avenue, Louisville, KY: null
+100 North Longworth, Louisville, KY:
+  lat: 38.2665861
+  lng: -85.8237845
 100 North Shawnee Terrace, Louisville, KY:
   lat: 38.2662037
   lng: -85.8218263
@@ -2714,6 +2717,9 @@
   lat: 38.240016
   lng: -85.724091
 1000 Barrenness, Louisville, KY: null
+1000 Barret Ave, Louisville, KY:
+  lat: 38.2363271
+  lng: -85.7283733
 1000 Barrett and East Oak, Louisville, KY: null
 1000 Bars Townove, Louisville, KY: null
 1000 Bartisan Road, Louisville, KY: null
@@ -23267,6 +23273,7 @@
 2800 Bardstown Rd near Assumption High School, Louisville, KY:
   lat: 38.216824
   lng: -85.676303
+2800 Began Hill Court, Louisville, KY: null
 2800 Big Inhale Lane, Louisville, KY: null
 2800 Biggin Hill Ct, Louisville, KY: null
 2800 Blake and Baker Parkway, Louisville, KY: null
@@ -30905,6 +30912,9 @@
 400 Amy Ave, Louisville, KY:
   lat: 38.2593959
   lng: -85.8135537
+400 Aron Rd, Louisville, KY:
+  lat: 38.1348403
+  lng: -85.8762697
 400 Ash St, Louisville, KY:
   lat: 38.2255898
   lng: -85.7351074
@@ -38738,6 +38748,7 @@
   lng: -85.5948852
 500 crossing of Olean and Dale, Louisville, KY: null
 500 department number, Louisville, KY: null
+500 in the parking lot of Platinum's, Louisville, KY: null
 500 or519, Louisville, KY: null
 500 radio, Louisville, KY: null
 500 responded to a three-story building, Louisville, KY: null
@@ -43542,6 +43553,9 @@
   lat: 38.1759724
   lng: -85.8134936
 6100 Commerce Park Ct, Louisville, KY: null
+6100 Count Turf Dr, Louisville, KY:
+  lat: 38.113989
+  lng: -85.873073
 6100 Count Turf Job, Louisville, KY: null
 6100 Crop St of Mayapple St and Monk's Ashmead Dr, Louisville, KY: null
 6100 Desmond Parkway, Louisville, KY: null
@@ -45585,6 +45599,9 @@
 6900 Green Manor Dr, near English Ave, Fernhaven Rd, Louisville, KY:
   lat: 38.147023
   lng: -85.631902
+6900 Greenbelt Hwy, Louisville, KY:
+  lat: 38.1635691
+  lng: -85.8795608
 6900 Greenwich Rd, Louisville, KY:
   lat: 38.2065974
   lng: -85.642936
