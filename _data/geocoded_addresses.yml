@@ -970,6 +970,7 @@
 100 Eastern Parkway, Louisville, KY:
   lat: 38.213645
   lng: -85.762113
+100 Easton Air Street, Louisville, KY: null
 100 Eastwood Long Avenue, Louisville, KY: null
 100 Echo Alpha Zulu, Louisville, KY: null
 100 Edgewood Way, Louisville, KY:
@@ -28021,6 +28022,9 @@
 3300 Stony Brook Dr, Louisville, KY: null
 3300 Street South Gate, Louisville, KY: null
 3300 T-Tulip Cir, Louisville, KY: null
+3300 Taylor Blvd near McDonald's, Louisville, KY:
+  lat: 38.2022323
+  lng: -85.7817945
 3300 Taylor Blvd, Louisville, KY:
   lat: 38.2022323
   lng: -85.7817945
