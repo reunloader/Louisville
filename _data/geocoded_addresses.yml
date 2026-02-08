@@ -4823,6 +4823,9 @@
   lat: 38.085569
   lng: -85.6702228
 10700 DC highway, Louisville, KY: null
+10700 Deering Rd, Louisville, KY:
+  lat: 38.098669
+  lng: -85.860588
 10700 Eagle Ridge Pl, Louisville, KY:
   lat: 38.255025
   lng: -85.5580103
@@ -56201,6 +56204,7 @@ Mayo Dr and Garvey Dr, Louisville, KY: null
 Mayshan Lane and Starlite Ln, Louisville, KY: null
 Meadow Dr and Terrier Ln, Louisville, KY: null
 Meadow Hill Rd and Pounds Ln, Louisville, KY: null
+Meadowview Dr and Ashby Ln, Louisville, KY: null
 Melford Ave and Thruston Ave, Louisville, KY: null
 Mellwood Ave and Frankfort Ave, Louisville, KY:
   lat: 38.2576668
