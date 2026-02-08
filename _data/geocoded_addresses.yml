@@ -12066,6 +12066,9 @@
   child was transported to a local facility, Louisville, KY
 : null
 1600 Shelby Station Dr, Louisville, KY: null
+1600 Sherrard Dr, Louisville, KY:
+  lat: 38.1323489
+  lng: -85.8968
 1600 South 11th Street, Louisville, KY:
   lat: 38.2257282
   lng: -85.7745261
@@ -12822,6 +12825,9 @@
 1700 Model Rd, between Tiny and Loney Lanes. Responders were on the scene and cleared the location shortly, Louisville, KY: null
 1700 Model Rd, cross of Tiny Ln and Loney Ln, Louisville, KY: null
 1700 Mofoski Ave, Louisville, KY: null
+1700 Moore Ct, Louisville, KY:
+  lat: 38.2263433
+  lng: -85.7748937
 1700 Morning Court, Louisville, KY: null
 ? 1700 Newberg to conduct a welfare check. A male individual had called for assistance
   but was unable to clearly state the reason for his distress, prompting officers
@@ -24768,6 +24774,7 @@
 300 Crescent Spring Dr, Louisville, KY:
   lat: 38.249504
   lng: -85.702383
+300 D Road, Louisville, KY: null
 300 Dancy, Louisville, KY: null
 300 David, Louisville, KY:
   lat: 38.2066421
@@ -37355,6 +37362,7 @@
 4900 Cherry Forest Cir, Louisville, KY:
   lat: 38.3046014
   lng: -85.5175142
+4900 D Road, Louisville, KY: null
 4900 Daleray Dr, Louisville, KY:
   lat: 38.166773
   lng: -85.67577
@@ -45747,6 +45755,9 @@
   lng: -85.6274014
 6900 Butler's Road, Louisville, KY: null
 6900 Cabel St and 1200 block of Story Ave, Louisville, KY: null
+6900 Carslaw Ct near US Highway 42 and River Rd, Louisville, KY:
+  lat: 38.3413488
+  lng: -85.6213737
 6900 Carslaw Ct, Louisville, KY:
   lat: 38.3413488
   lng: -85.6213737
