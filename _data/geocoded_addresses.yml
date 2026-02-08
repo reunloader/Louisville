@@ -88,6 +88,9 @@
   lat: 38.1818658
   lng: -85.7683443
 00 Wally and Court, Louisville, KY: null
+000 Preston, Louisville, KY:
+  lat: 38.1819023
+  lng: -85.7203622
 01 Bardstown Rd, Louisville, KY:
   lat: 38.1532061
   lng: -85.5888316
@@ -157,6 +160,9 @@
 03 Chapel Hill Rd, Louisville, KY:
   lat: 38.1047243
   lng: -85.6668792
+03 East Ave, Louisville, KY:
+  lat: 38.1087477
+  lng: -85.8495141
 03 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
@@ -14576,6 +14582,9 @@
 1900 S Floyd St, Louisville, KY:
   lat: 38.2197325
   lng: -85.754633
+1900 Safe Harbor Cir, Louisville, KY:
+  lat: 38.1590047
+  lng: -85.8354904
 1900 San Jose Ave, Louisville, KY: null
 1900 Shady Springs Dr, Louisville, KY:
   lat: 38.1948446
@@ -25694,6 +25703,7 @@
 300 W Chestnut St, Louisville, KY:
   lat: 38.2486683
   lng: -85.7563843
+300 W Florence Ave in the Parkside area, Louisville, KY: null
 300 W Florence Ave, Louisville, KY:
   lat: 38.191089
   lng: -85.765043
@@ -32554,6 +32564,7 @@
   lat: 38.2525979
   lng: -85.7647916
 400 South 8th Street, 14th floor of Trent Ave Plaza, Louisville, KY: null
+400 South 8th Street, Avenue Plaza, Louisville, KY: null
 400 South 8th Street, Louisville, KY:
   lat: 38.2525979
   lng: -85.7647916
@@ -42711,6 +42722,9 @@
   lat: 38.1819023
   lng: -85.7203622
 600 Preston Hwy, around 7:43 p, Louisville, KY: null
+600 Preston, Louisville, KY:
+  lat: 38.2474901
+  lng: -85.7476008
 600 Princess Way, Louisville, KY:
   lat: 38.1326038
   lng: -85.648856
@@ -50254,6 +50268,9 @@
   lat: 38.122727
   lng: -85.8147468
 800 Rubble Avenue, Louisville, KY: null
+800 Rubel Ave, Louisville, KY:
+  lat: 38.242966
+  lng: -85.7289836
 800 S Crescent St near Valero, Louisville, KY:
   lat: 38.255314
   lng: -85.7217401
