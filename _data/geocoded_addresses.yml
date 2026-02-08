@@ -35,6 +35,9 @@
 0 FDSC fabricating, Louisville, KY: null
 0 Force Spin Circle, Louisville, KY: null
 0 Irowick, Louisville, KY: null
+0 Judge Blvd, Louisville, KY:
+  lat: 38.1338505
+  lng: -85.6685331
 0 Kentucky near Valley Forge and Khan, Louisville, KY:
   lat: 38.2555375
   lng: -85.6644511
@@ -13859,6 +13862,9 @@
   lat: 38.222825
   lng: -85.7113475
 1800 Nobel Pl, Louisville, KY: null
+1800 Norris Pl, Louisville, KY:
+  lat: 38.2230335
+  lng: -85.705386
 1800 Northwestern Pky, Louisville, KY:
   lat: 38.2658758
   lng: -85.7767241
