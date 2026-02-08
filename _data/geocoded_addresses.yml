@@ -1515,6 +1515,9 @@
   Louisville, KY
 : null
 100 North Fourth Street, Louisville, KY: null
+100 North Heights Avenue, Louisville, KY:
+  lat: 38.1891563
+  lng: -85.7600753
 100 North Herstmore Parkway, Louisville, KY: null
 100 North Hirshborn Parkway, Louisville, KY: null
 100 North Hirshhorn Parkway, Louisville, KY: null
@@ -14494,6 +14497,9 @@
 1900 South 3rd Street, near the Patrick Henry Hughes Fields,, Louisville, KY:
   lat: 38.2203444
   lng: -85.7616989
+1900 South 42nd Street, Louisville, KY:
+  lat: 38.261292
+  lng: -85.819622
 1900 South 4th Street, Louisville, KY:
   lat: 38.219787
   lng: -85.7638407
@@ -17514,6 +17520,7 @@
 200 West toward Shelbyville Rd. Police units were alerted to monitor for the vehicle., Louisville, KY: null
 200 West toward Shelbyville Rd. Police units were alerted to monitor, Louisville, KY: null
 200 West, 7th Wessel Rd, Louisville, KY: null
+200 West, Brownsboro, Louisville, KY: null
 200 West, Louisville, KY:
   lat: 38.2000005
   lng: -85.7636078
@@ -25592,6 +25599,7 @@
 300 West Jefferson, Louisville, KY:
   lat: 38.1938057
   lng: -85.7653323
+300 West Kinton and Four Speed, Louisville, KY: null
 300 West Kinwoodway near W Woodlawn Ave and Burkley Ave, Louisville, KY: null
 300 West Main near Actors Theater, Louisville, KY:
   lat: 38.2562065
