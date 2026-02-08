@@ -23020,6 +23020,9 @@
 2700 Portland Ave, Louisville, KY:
   lat: 38.2717512
   lng: -85.7923909
+2700 Portland, Louisville, KY:
+  lat: 38.2717512
+  lng: -85.7923909
 2700 Razor Ridge Ct, Louisville, KY:
   lat: 38.1744711
   lng: -85.5361238
@@ -36153,6 +36156,7 @@
   lng: -85.676566
 4600 Fagan Bush Lane, Louisville, KY: null
 4600 Fagan Bush Lane, near Belrad Dr and Norbrook Dr. EMS was dispatched, Louisville, KY: null
+4600 Fagan Bush, Louisville, KY: null
 4600 Federal Boulevard, Louisville, KY: null
 4600 Frel Rd, Louisville, KY:
   lat: 38.1170869
@@ -38436,6 +38440,9 @@
   lat: 38.2509279
   lng: -85.7578311
 500 South 4th Street at Mi Costa, Louisville, KY:
+  lat: 38.2509279
+  lng: -85.7578311
+500 South 4th Street at the Embassy Hotel, Louisville, KY:
   lat: 38.2509279
   lng: -85.7578311
 500 South 4th Street near CrossFit Guthrie and West Hamalee, Louisville, KY:
