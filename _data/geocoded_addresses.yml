@@ -5129,6 +5129,9 @@
 1100 Cherokee Rd, Louisville, KY:
   lat: 38.2389519
   lng: -85.7196515
+1100 Cherokee near Baker, Louisville, KY:
+  lat: 38.2389519
+  lng: -85.7196515
 1100 Chesley Dr, Louisville, KY:
   lat: 38.1224376
   lng: -85.6821463
@@ -10747,6 +10750,9 @@
 1500 Flat Road, near Publix, Louisville, KY:
   lat: 38.262042
   lng: -85.42537
+1500 Forest Park Rd, Louisville, KY:
+  lat: 38.2487223
+  lng: -85.5617271
 1500 Fox Valley Dr near Commons Lake Ct, Louisville, KY:
   lat: 38.1666217
   lng: -85.5419068
@@ -17503,6 +17509,9 @@
 200 West near Taylor Blvd, visible from I-200. Firefighters responded quickly, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
+200 West near Taylor's Holley Rd at exit 17B, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near W Market St, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
@@ -21453,6 +21462,7 @@
   lat: 38.1933111
   lng: -85.7948596
 2400 North Patterson Court, Louisville, KY: null
+2400 Old Hickory Rd, Steeplechase Dr and Allegheny Dr, Louisville, KY: null
 2400 Omaha Ln, Louisville, KY:
   lat: 38.170229
   lng: -85.841426
@@ -56496,6 +56506,7 @@ Standiford Ln and Durant Lane, Louisville, KY: null
 Stanton Blvd and Euclid Ave, Louisville, KY: null
 Stanton Blvd and Ritz Blood Lane, Louisville, KY: null
 Star Rest Dr and Greyling Dr, Louisville, KY: null
+Steeplechase Dr and Allegheny Dr, Louisville, KY: null
 Steier Ln and Shanks Ln, Louisville, KY: null
 Stephan Ln and Manslick Rd, Louisville, KY: null
 Stillblock Avenue and Cliff Ave, Louisville, KY: null
