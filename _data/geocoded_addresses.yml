@@ -1857,6 +1857,9 @@
   lng: -85.765606
 100 Sam's Drive, Louisville, KY: null
 100 San Jose Ave, near the Hillside Dr-In on Dixie Hwy,, Louisville, KY: null
+100 Scottsdale Blvd, Louisville, KY:
+  lat: 38.140524
+  lng: -85.764456
 100 Sears Ave, Louisville, KY: null
 100 Second in Broadway, Louisville, KY: null
 100 Seebaker, Louisville, KY: null
@@ -14155,6 +14158,7 @@
   lng: -85.6938331
 19 South Arch Street, Louisville, KY: null
 19 South Fifth St, Louisville, KY: null
+19 Tevis Dr, Louisville, KY: null
 19 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
@@ -52448,6 +52452,9 @@
 900 Fern Creek Rd near Fern Creek High School, Louisville, KY:
   lat: 38.158292
   lng: -85.5898849
+900 Fern Valley, Louisville, KY:
+  lat: 38.1569645
+  lng: -85.7038308
 900 Feywood St, Louisville, KY:
   lat: 38.1673172
   lng: -85.8905186
