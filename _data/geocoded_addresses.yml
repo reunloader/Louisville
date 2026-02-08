@@ -26526,6 +26526,7 @@
 3100 Clinton Pl near Ralph Ave, Louisville, KY:
   lat: 38.2107404
   lng: -85.8323503
+3100 Clinton Pl, Louisville, KY: null
 3100 Commander Dr, Louisville, KY:
   lat: 38.2184514
   lng: -85.6561132
@@ -45602,6 +45603,9 @@
 6900 Greenbelt Hwy, Louisville, KY:
   lat: 38.1635691
   lng: -85.8795608
+6900 Greenbelt, Louisville, KY:
+  lat: 38.1615593
+  lng: -85.8812752
 6900 Greenwich Rd, Louisville, KY:
   lat: 38.2065974
   lng: -85.642936
