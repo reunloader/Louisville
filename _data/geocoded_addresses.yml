@@ -4176,6 +4176,9 @@
 1000 magazine, Louisville, KY:
   lat: 38.2484525
   lng: -85.7680848
+1000 near Woodmide, Louisville, KY:
+  lat: 38.1394402
+  lng: -85.7834796
 1000 neighborhood in Armstrong Center, Louisville, KY: null
 1000 neighborhood plays near Crosshore National Turnpike, Louisville, KY: null
 1000 on1 MSD, Louisville, KY: null
@@ -16489,6 +16492,7 @@
 200 Northbound at Mile Marker 5, Louisville, KY: null
 200 Northbound at Mile Marker 5.2, Louisville, KY: null
 200 Northbound near 12, Louisville, KY: null
+200 Northbound near Woodmide, Louisville, KY: null
 200 Northbound near the 30 mile marker, Louisville, KY: null
 200 Northbound, Louisville, KY: null
 200 Northwestern Pky, Louisville, KY:
@@ -55724,6 +55728,9 @@ Hikes Ln and Bashford Ave, Louisville, KY: null
 Hikes Ln and Breckenridge Ln, Louisville, KY:
   lat: 38.2186174
   lng: -85.6291173
+Hikes Ln and Hikes Ln, Louisville, KY:
+  lat: 38.2047575
+  lng: -85.6507652
 Hikes Ln and Newburg Rd, Louisville, KY: null
 Hikes Ln and Shepherdsville Rd, Louisville, KY: null
 Hikes Ln and Taylorsville Rd, Louisville, KY: null
