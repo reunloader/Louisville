@@ -6339,6 +6339,9 @@
   lng: -85.7534965
 11400 South Forrest Street, Louisville, KY: null
 11400 Tassel Drive, Louisville, KY: null
+11400 Tazwell Ct, Louisville, KY:
+  lat: 38.3066697
+  lng: -85.5324438
 11400 Tazwell Dr, Louisville, KY:
   lat: 38.304084
   lng: -85.538601
@@ -15597,6 +15600,7 @@
 200 East and Breckenridge, Louisville, KY: null
 200 East and West Bels Ln, Louisville, KY: null
 200 East and surrounding areas, Louisville, KY: null
+200 East area, Louisville, KY: null
 200 East at 65, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -23499,6 +23503,7 @@
 2800 Del Rio Pl, Louisville, KY:
   lat: 38.214152
   lng: -85.657089
+2800 Delbruck Avenue, Louisville, KY: null
 2800 Dimmel Avenue, Louisville, KY: null
 2800 Dixie Hwy, Louisville, KY:
   lat: 38.1127713
@@ -38721,6 +38726,9 @@
   lat: 38.25303
   lng: -85.775822
 500 South17, Louisville, KY: null
+500 South17th Street, Louisville, KY:
+  lat: 38.252301
+  lng: -85.779323
 500 South18th Street at a three-story building, Louisville, KY:
   lat: 38.2535374
   lng: -85.7808463
@@ -42163,6 +42171,7 @@
 600 E Gray St, Louisville, KY:
   lat: 38.245956
   lng: -85.743241
+600 E Jefferson St, Hancock House, Louisville, KY: null
 600 E Jefferson St, Louisville, KY:
   lat: 38.252139
   lng: -85.742166
