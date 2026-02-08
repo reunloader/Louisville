@@ -4455,6 +4455,9 @@
 1024 [Street Name], Louisville, KY:
   lat: 38.2410392
   lng: -85.7207412
+10300 Air Commerce Dr, Louisville, KY:
+  lat: 38.1344443
+  lng: -85.719115
 10300 Arbor Oak Dr, Louisville, KY:
   lat: 38.1107685
   lng: -85.6602102
@@ -15145,6 +15148,12 @@
   lng: -85.81776
 200 Cecil Street, Louisville, KY: null
 200 Chadwick Glen Pl and intersection of Blast On Road and Engine Drives, Louisville, KY: null
+200 Champion Farms Dr near Marriott, Louisville, KY:
+  lat: 38.2960989
+  lng: -85.5623389
+200 Champion Farms Dr, Louisville, KY:
+  lat: 38.2960989
+  lng: -85.5623389
 200 Champion Lakes Pl, Louisville, KY:
   lat: 38.2766832
   lng: -85.4806552
