@@ -380,6 +380,7 @@
 100 Adam, Louisville, KY:
   lat: 38.2075051
   lng: -85.6171438
+100 Adam, but no injuries or falls were reported, Louisville, KY: null
 ? 100 Adam, including a 10-54 response indicating a possible incident. Multiple officers
   from different divisions are on scene managing the situation. Additionally, a female
   child was transported, Louisville, KY
@@ -10772,6 +10773,9 @@
 1500 Farnsley Rd near General Road and Dixie Hwy, Louisville, KY:
   lat: 38.2034135
   lng: -85.8350908
+1500 Ferndale Rd near Iroquois Golf Course, Louisville, KY:
+  lat: 38.1556282
+  lng: -85.6023088
 1500 Final Street, Louisville, KY: null
 1500 Flat Road, near Publix, Louisville, KY:
   lat: 38.262042
@@ -54988,6 +54992,7 @@ Applegrove Ln and Callie Dr, Louisville, KY: null
 Arcade Ave and Taylor Blvd, Louisville, KY: null
 Arcade Ave and Utah Ave, Louisville, KY: null
 Archtown Road and Southhurstman Parkway, Louisville, KY: null
+Arden Rd and Fern Creek Rd, Louisville, KY: null
 Ardenia Ln and Basking Dr, Louisville, KY: null
 Argetown Road and Grinstead Dr, Louisville, KY: null
 Argonne Ave and Dubourg Ave, Louisville, KY: null
