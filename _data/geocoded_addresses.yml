@@ -8014,6 +8014,11 @@
 12800 Dixie Hwy, Louisville, KY:
   lat: 38.0702006
   lng: -85.8849791
+? 12800 Dixie. The woman, identified as Savannah Thompson, was seen kicking doors
+  and throwing rocks, possibly under the influence. Other individuals were present
+  at the scene. Officers responded, Louisville, KY
+: lat: 38.0702006
+  lng: -85.8849791
 12800 Lower River Rd, Louisville, KY:
   lat: 38.0679453
   lng: -85.9054493
@@ -10319,6 +10324,9 @@
   lng: -85.4856668
 14200 Pauli's Gap Road, Louisville, KY: null
 14200 Victory Ridge Dr, Louisville, KY:
+  lat: 38.2364642
+  lng: -85.5019322
+14200 Victory Ridge, Louisville, KY:
   lat: 38.2364642
   lng: -85.5019322
 14200 Willow Grove Cir, Louisville, KY:
@@ -43935,6 +43943,10 @@
 6200 Shepherdsville Rd, Louisville, KY:
   lat: 38.1590096
   lng: -85.6600304
+? 6200 Shooting Star Dr. Notes indicated open vehicles and doors, but there was no
+  confirmed break-in or fire. Responding units worked, Louisville, KY
+: null
+6200 Shooting Star Dr. Responding units included officers and possibly fire personnel, Louisville, KY: null
 6200 Smyrna Pl, Louisville, KY:
   lat: 38.1283644
   lng: -85.64876
@@ -51225,6 +51237,9 @@
 8400 Air Commerce Dr near the filter, Louisville, KY:
   lat: 38.1344443
   lng: -85.719115
+? 8400 Arnoldtown Rd reported loud music playing since 9:00 a.m. the previous day.
+  The disturbance prompted a response from officers, Louisville, KY
+: null
 8400 Aspen Glen Way, Louisville, KY:
   lat: 38.1269489
   lng: -85.6129346
