@@ -4848,6 +4848,7 @@
 10800 Harrison Ln, Louisville, KY:
   lat: 38.09336
   lng: -85.739046
+10800 Ring Rd across Linden Ln, Louisville, KY: null
 10800 Southgate Manor Dr, Louisville, KY:
   lat: 38.0910989
   lng: -85.6721841
@@ -6456,6 +6457,7 @@
 11700 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+11700 Sweet Black Circle in Olden County, Louisville, KY: null
 11700 Taylor Springs Dr, Louisville, KY:
   lat: 38.2184385
   lng: -85.6180141
@@ -7252,6 +7254,9 @@
   lat: 38.2332794
   lng: -85.7418048
 1200 SXA Court, Louisville, KY: null
+1200 Sale Ave, Louisville, KY:
+  lat: 38.1976065
+  lng: -85.7803081
 1200 San Jose Ave, Louisville, KY: null
 1200 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
