@@ -789,6 +789,7 @@
 100 Dixie, Louisville, KY:
   lat: 38.151629
   lng: -85.8345273
+100 Dorchester Rd, Louisville, KY: null
 100 Double K, Louisville, KY: null
 100 Douglas Park, Louisville, KY:
   lat: 38.1784089
@@ -11451,6 +11452,7 @@
   lng: -85.477124
 15300 different highway. The incident resulted in injuries, and responders provided necessary aid, Louisville, KY: null
 1531 Costa-Villero, Louisville, KY: null
+1535 unspecified street, Louisville, KY: null
 15400 Shelbyville Rd, Louisville, KY:
   lat: 38.2356193
   lng: -85.4755389
@@ -24763,6 +24765,7 @@
 300 Crescent Spring Dr, Louisville, KY:
   lat: 38.249504
   lng: -85.702383
+300 Dancy, Louisville, KY: null
 300 David, Louisville, KY:
   lat: 38.2066421
   lng: -85.6738206
@@ -49690,6 +49693,9 @@
 8 Haskin Ave, Louisville, KY:
   lat: 38.1728722
   lng: -85.7861501
+8 Jefferson St, Louisville, KY:
+  lat: 38.1591757
+  lng: -85.589892
 8 Lincoln Street, Louisville, KY: null
 8 Oak New Crete Road, Louisville, KY: null
 8 St Andrews Church Rd, Louisville, KY:
