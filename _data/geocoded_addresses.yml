@@ -25533,6 +25533,7 @@
 300 Strawberry Ln, Louisville, KY:
   lat: 38.1608055
   lng: -85.7609469
+300 Super8 motel, Louisville, KY: null
 300 Tallwood Ct, Louisville, KY: null
 300 Taylor Blvd, Louisville, KY:
   lat: 38.1857396
@@ -37059,6 +37060,9 @@
   lng: -85.6671909
 4800 Preston Spring Ct, across Preston Spring Dr, Louisville, KY: null
 4800 Preston**, Louisville, KY:
+  lat: 38.178026
+  lng: -85.7169632
+4800 Preston, Louisville, KY:
   lat: 38.178026
   lng: -85.7169632
 4800 Ranchland Dr, Louisville, KY:
