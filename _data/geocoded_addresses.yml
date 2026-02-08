@@ -47477,6 +47477,10 @@
   lng: -85.6914418
 700 [Street Name] and 747 block of [Street Name], Louisville, KY: null
 700 [Street Name] and Electron Dr, Louisville, KY: null
+700 a street, Louisville, KY: null
+? 700 a street. Fire units responded quickly to assist the individual. The patient
+  was assessed and likely transported, Louisville, KY
+: null
 700 area, Louisville, KY: null
 700 back room, Louisville, KY: null
 700 bake Smirnoff connector and Cooper Chapel, Louisville, KY: null
