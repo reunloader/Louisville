@@ -6256,6 +6256,9 @@
 11300 Powhatan Ct, Louisville, KY:
   lat: 38.3039378
   lng: -85.5415998
+11300 Preston Hwy near Nepal, Louisville, KY:
+  lat: 38.0860665
+  lng: -85.6688294
 11300 Preston Hwy, Louisville, KY:
   lat: 38.0860665
   lng: -85.6688294
@@ -11705,6 +11708,7 @@
 1600 Bulger Ct, Louisville, KY:
   lat: 38.225504
   lng: -85.777028
+1600 Bulger Ct, building 17, Louisville, KY: null
 1600 Bulger, Louisville, KY:
   lat: 38.225504
   lng: -85.777028
@@ -29210,6 +29214,7 @@
 3600 Brownsboro Rd, Louisville, KY:
   lat: 38.265114
   lng: -85.668234
+3600 Bunton Rd, Louisville, KY: null
 3600 Butyl Bypass, Louisville, KY: null
 ? 3600 Butyl Bypass. Responding officers investigated the situation. The incident
   was resolved and cleared shortly, Louisville, KY
@@ -37178,6 +37183,9 @@
 4800 Olympia Park Plaza, Louisville, KY:
   lat: 38.3109258
   lng: -85.5802943
+4800 Out of Loop near Olive Garden, Louisville, KY:
+  lat: 38.1393839
+  lng: -85.673178
 4800 Outer Loop (Longhorn Steakhouse), Louisville, KY: null
 4800 Outer Loop Mall, Louisville, KY: null
 4800 Outer Loop and U of L, Louisville, KY: null
@@ -42167,6 +42175,9 @@
   lat: 38.198204
   lng: -85.8349572
 600 Curry Ct, Louisville, KY: null
+600 Darnay Pl near Linda Dr, Louisville, KY:
+  lat: 38.228733
+  lng: -85.484801
 600 David or Baker, Louisville, KY: null
 600 David were involved in this stop, Louisville, KY: null
 600 David were involved in this stop., Louisville, KY: null
@@ -50799,6 +50810,9 @@
   medical assistance., Louisville, KY
 : null
 800 Winkler Avenue, Louisville, KY:
+  lat: 38.210811
+  lng: -85.770778
+800 Winkler, Louisville, KY:
   lat: 38.210811
   lng: -85.770778
 800 Woodstock Rd, Louisville, KY: null
