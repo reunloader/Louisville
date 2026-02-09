@@ -31127,6 +31127,10 @@
 3900 South 5th Street, Louisville, KY:
   lat: 38.1984123
   lng: -85.768721
+? 3900 South 5th Street, Putman St and Central Ave, S Brook St and East Broadway,
+  and the 5600 block of Fox Horn Cir. One patient involved in a physical altercation
+  was found, Louisville, KY
+: null
 3900 South 5th Street, Sissies Lookers, Louisville, KY: null
 3900 South 5th Street, near Evelyn and Dresden. Responders worked, Louisville, KY:
   lat: 38.1984123
@@ -39872,6 +39876,7 @@
 5100 Keegan Way, Louisville, KY:
   lat: 38.1728993
   lng: -85.5739001
+5100 Kendall Rd and Greenwood and Terry, Louisville, KY: null
 5100 Kendall Rd, Louisville, KY:
   lat: 38.115605
   lng: -85.857893
@@ -44355,6 +44360,9 @@
   lat: 38.2421112
   lng: -85.6153728
 6200 Camp Ground Rd at Bakelite Chemical Factory, Louisville, KY:
+  lat: 38.1936731
+  lng: -85.863904
+6200 Camp Ground Rd at Bakelite Synthetics, Crest Street of Wilmoth Ave, Louisville, KY:
   lat: 38.1936731
   lng: -85.863904
 6200 Camp Ground Rd, Louisville, KY:
@@ -56922,6 +56930,7 @@ Project Estelle Avenue and Southside Dr, Louisville, KY: null
 Providence Street and Algonquin Pky, Louisville, KY: null
 Pueblo Rd and Quahala Rd, Louisville, KY: null
 Pulleygrass Ave and Lehigh Ave, Louisville, KY: null
+Putman St and Central Ave, Louisville, KY: null
 Queen Avenue and Wabasso Ave, Louisville, KY: null
 Radford Rd and Robinwood Rd, Louisville, KY: null
 Ralph Ave and Camp Ground Rd, Louisville, KY: null
