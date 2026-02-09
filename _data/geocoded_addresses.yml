@@ -31123,6 +31123,9 @@
 4 Wilart Dr, Louisville, KY:
   lat: 38.2190386
   lng: -85.7918062
+40 Bishop Ln, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 40 E Jefferson St, Louisville, KY:
   lat: 38.1591757
   lng: -85.589892
@@ -55882,6 +55885,7 @@ East Ave and East Avenue Lane, Louisville, KY: null
 East Breckenridge Street and South Brook Street, Louisville, KY: null
 East Newburgh Road and Kentucky Ave, Louisville, KY: null
 East Pharrell Road and Flowervale Ln, Louisville, KY: null
+East Russell Fisher Avenue and Reutlinger Ave, Louisville, KY: null
 East South Forrest Street and Breckman Street, Louisville, KY: null
 East Washington Breckinridge Street and South Brooks Street, Louisville, KY: null
 Eastern Ave and Ash St, Louisville, KY: null
