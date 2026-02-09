@@ -7870,6 +7870,7 @@
 12000 Cedar Crest Ct, Louisville, KY:
   lat: 38.1265923
   lng: -85.5864139
+12000 Chevrolet Rd, Louisville, KY: null
 12000 East Joe Railroad, Louisville, KY: null
 12000 Faxme Park Circle, Louisville, KY: null
 12000 Gulf Lane, Louisville, KY: null
@@ -11679,6 +11680,7 @@
 1600 Arlington Ave, Louisville, KY:
   lat: 38.25511
   lng: -85.718685
+1600 Arthur St Hotel, Louisville, KY: null
 1600 Arthur St at the Arthur St Hotel, Louisville, KY:
   lat: 38.223421
   lng: -85.751404
@@ -11977,6 +11979,9 @@
 ? 1600 Garley, following a disturbance at the 1400 block of Garley. The situation
   was contained, and the individual was taken into custody, Louisville, KY
 : null
+1600 Genel Road near Dixie Hwy, Louisville, KY:
+  lat: 38.0952898
+  lng: -85.8741069
 1600 Girard Dr, Louisville, KY:
   lat: 38.1594757
   lng: -85.7112444
@@ -12607,6 +12612,9 @@
   lat: 38.261292
   lng: -85.819622
 1700 42nd Street, often referred, Louisville, KY: null
+1700 Alba Way, Louisville, KY:
+  lat: 38.1753722
+  lng: -85.6733484
 1700 Alfresco Pl at St, Louisville, KY:
   lat: 38.2244695
   lng: -85.7012552
