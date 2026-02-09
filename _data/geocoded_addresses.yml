@@ -5149,6 +5149,9 @@
   dispatched unit., Louisville, KY
 : null
 1100 Carabao Way. Paramedics responded to provide assistance, Louisville, KY: null
+1100 Cardinal Dr near Shake-A-Day Road, Louisville, KY:
+  lat: 38.2022093
+  lng: -85.7251615
 1100 Caribou, Louisville, KY: null
 1100 Carlisle Ave, Louisville, KY:
   lat: 38.1941004
@@ -6763,6 +6766,7 @@
   lat: 38.194685
   lng: -85.729476
 1200 Belmar Dr, cross of Cardinal Dr and Henderson Ave, Louisville, KY: null
+1200 Belvin Trail, Louisville, KY: null
 1200 Bicknell Ave, Louisville, KY:
   lat: 38.1831819
   lng: -85.781116
@@ -33318,6 +33322,10 @@
   lat: 38.243714
   lng: -85.8185832
 4000 Handley Ave, close, Louisville, KY: null
+4000 Heather View near Heather Ridge Trail, Louisville, KY:
+  lat: 38.189815
+  lng: -85.6210195
+4000 Heather View, Louisville, KY: null
 4000 Heatherview Rd, Louisville, KY:
   lat: 38.1893299
   lng: -85.6244709
