@@ -5088,6 +5088,9 @@
 11 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
+11 Woodland Dr, Louisville, KY:
+  lat: 38.1781177
+  lng: -85.8740379
 110 Salem-Mary-Paul, Louisville, KY: null
 1100 17th Street, but this was later corrected, Louisville, KY: null
 1100 Adventure Rd, Louisville, KY:
@@ -35592,6 +35595,9 @@
 4400 Dixie Hwy near Norton Immediate Care Center, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+4400 Dixie Hwy near Stadium Lane and P-64 ramp, Louisville, KY:
+  lat: 38.1130706
+  lng: -85.8626942
 ? 4400 Dixie Hwy to assist a person experiencing chest pain. Further details regarding
   the patient's condition or the outcome of the call were not immediately available.,
   Louisville, KY
@@ -36421,6 +36427,7 @@
 4500 Swing Dr, Louisville, KY: null
 4500 Tail Over the Road, Louisville, KY: null
 4500 Taylor Blvd and Zorn Ave entrance ramp, Louisville, KY: null
+4500 Taylor'sville Road, Louisville, KY: null
 4500 Taylorsville Rd, Louisville, KY:
   lat: 38.218652
   lng: -85.601355
@@ -36889,6 +36896,7 @@
   lat: 38.1857373
   lng: -85.5449693
 4700 Alarm-y Court near Sickle and Rock, Louisville, KY: null
+4700 Aledo Ct and 6400 block of Mercury Dr, Louisville, KY: null
 4700 Aledo Ct, Louisville, KY:
   lat: 38.0869967
   lng: -85.6772524
@@ -45670,6 +45678,9 @@
 ? 6700 Strawberry Ln. The patient, a 51-year-old female, was experiencing chest pain
   and shortness of breath., Louisville, KY
 : null
+6700 Sylvania, Louisville, KY:
+  lat: 38.1563198
+  lng: -85.8790908
 6700 Thalia Street, Louisville, KY: null
 6700 U-Court near Park Lake Dr, Louisville, KY:
   lat: 38.1000576
