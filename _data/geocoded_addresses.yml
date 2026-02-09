@@ -2486,6 +2486,10 @@
 100 West, near Langland Pl. The fire was reported, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
+100 Westbound at 12 mile marker, Louisville, KY: null
+? 100 Westbound near the 12 mile marker. A traffic stop was initiated on vehicle number
+  014752, and the responders cleared the scene, Louisville, KY
+: null
 100 Westbound, Louisville, KY: null
 100 Westdale at the Liquor Zone, Louisville, KY:
   lat: 38.2494836
@@ -10783,6 +10787,9 @@
   lat: 38.1765171
   lng: -85.7984715
 1500 Cold Spring Rd near Hazel River, Louisville, KY: null
+1500 Congress St, Louisville, KY:
+  lat: 38.256473
+  lng: -85.775265
 1500 Conquin Parkway, Louisville, KY: null
 1500 Crafty Dr near Crest and Gilmore, Louisville, KY:
   lat: 38.1748202
@@ -14867,6 +14874,9 @@
 : null
 1900 eastbound mile marker 64, Louisville, KY: null
 1900 hours, possibly related, Louisville, KY: null
+1900 outer loop at UPS, Louisville, KY:
+  lat: 38.1274634
+  lng: -85.7352889
 1900 tan Nissan Altima with expired registration and 2000 block of Chevy Malibu registered, Louisville, KY: null
 1900 the area, Louisville, KY: null
 1900 the area., Louisville, KY: null
@@ -24696,6 +24706,9 @@
 : null
 300 Baker, with additional units responding, Louisville, KY: null
 300 Baker, with follow-up actions reported. Responders are conducting routine checks and ensuring safety, Louisville, KY: null
+300 Baker. Responders moved the vehicle from the 200 block of West to Breckenridge, Louisville, KY:
+  lat: 38.1417259
+  lng: -85.7685179
 ? 300 Baker. The situation was routine, with no signs of forced entry or additional
   concerns. Responders remained on scene briefly before returning, Louisville, KY
 : lat: 38.1417259
