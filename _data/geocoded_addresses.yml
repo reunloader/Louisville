@@ -2321,6 +2321,9 @@
 100 West 10th Street, Louisville, KY:
   lat: 38.2461724
   lng: -85.768487
+100 West 8th Street, Louisville, KY:
+  lat: 38.2566488
+  lng: -85.7632711
 100 West Adairmber, Louisville, KY: null
 100 West Ali, Louisville, KY:
   lat: 38.250493
@@ -36428,6 +36431,7 @@
 4500 Swing Dr, Louisville, KY: null
 4500 Tail Over the Road, Louisville, KY: null
 4500 Taylor Blvd and Zorn Ave entrance ramp, Louisville, KY: null
+4500 Taylor Road, Louisville, KY: null
 4500 Taylor'sville Road, Louisville, KY: null
 4500 Taylorsville Rd, Louisville, KY:
   lat: 38.218652
@@ -37305,6 +37309,9 @@
 4800 Cliff Ave, Louisville, KY:
   lat: 38.179428
   lng: -85.776967
+4800 Cloverport Dr, Louisville, KY:
+  lat: 38.1259582
+  lng: -85.6367126
 4800 Cofer Ave, Louisville, KY:
   lat: 38.1380877
   lng: -85.8455558
@@ -55686,6 +55693,7 @@ Berry Blvd and Powell Ave, Louisville, KY: null
 Berry Blvd and Taylor Blvd, Louisville, KY:
   lat: 38.1961188
   lng: -85.7829991
+Berry Blvd and Wheeler Ave, Louisville, KY: null
 Bethany Ln and Dixie Garden Dr, Louisville, KY: null
 Beulah Church Rd and Faganbisch Lane, Louisville, KY: null
 Beulah Church Rd and Faganbush Road, Louisville, KY: null
