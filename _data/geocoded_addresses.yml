@@ -202,6 +202,9 @@
   lat: 38.1448137
   lng: -85.4739712
 05 South First Farm Parkway, Louisville, KY: null
+05 Taylor Blvd, Louisville, KY:
+  lat: 38.2097956
+  lng: -85.7718278
 06 Aspendale Rd, Louisville, KY: null
 06 Bruns Dr, Louisville, KY:
   lat: 38.171284
@@ -14526,6 +14529,8 @@
 1900 Lower Hunters Trace, Louisville, KY:
   lat: 38.156493
   lng: -85.838854
+1900 Lube at UPS, Louisville, KY: null
+1900 Lube at UPS, east employee entrance, Louisville, KY: null
 1900 Lytle St, Louisville, KY:
   lat: 38.264883
   lng: -85.780384
