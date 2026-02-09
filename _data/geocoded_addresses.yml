@@ -8941,6 +8941,9 @@
 1300 St. St Anthony Gardens Dr, specifically on the third floor of the building. They responded, Louisville, KY:
   lat: 38.2402937
   lng: -85.7309237
+1300 Stoll Ave, Louisville, KY:
+  lat: 38.2521185
+  lng: -85.7146615
 1300 Story Ave near Whirling Tiger, Louisville, KY:
   lat: 38.2558684
   lng: -85.7275818
@@ -41939,6 +41942,9 @@
 : null
 600 Baker and the 700 block of Baker, Louisville, KY: null
 600 Baker following a report of a suspicious person. One female was detained by officers at the scene., Louisville, KY: null
+600 Baker near Burrell Dr, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 600 Baker near Jefferson Mall, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -57062,6 +57068,7 @@ Westbrook Rd and Fox Ave, Louisville, KY: null
 Western Ave and Esther Blvd, Louisville, KY: null
 Western Ave and Woodbourne Ave, Louisville, KY: null
 Westlawn Ave and Southern Pky, Louisville, KY: null
+Westlawn Ave and Warren Ave, Louisville, KY: null
 Westport Rd and Accomack Dr, Louisville, KY: null
 Westport Rd and Ackermann Road, Louisville, KY: null
 Westport Rd and Chamberlain Ln, Louisville, KY: null
