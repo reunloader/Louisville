@@ -4228,6 +4228,9 @@
   service could not be completed., Louisville, KY
 : null
 10000 Bell Tucker Ln near Henning Way and Lillie Cressus Channel Lane, Louisville, KY: null
+10000 Caven Ave, Louisville, KY:
+  lat: 38.1035224
+  lng: -85.6898496
 10000 Deer Vista Dr, Louisville, KY:
   lat: 38.1060984
   lng: -85.5603163
@@ -6327,6 +6330,12 @@
 11400 Leman Dr. The patient is a 21-year-old female experiencing chest pain and was able, Louisville, KY:
   lat: 38.2055725
   lng: -85.632026
+11400 Preston Hwy at the RV park, Louisville, KY:
+  lat: 38.0834886
+  lng: -85.6703796
+11400 Preston Hwy, Louisville, KY:
+  lat: 38.0834886
+  lng: -85.6703796
 11400 Regal Lake Drop, Louisville, KY: null
 11400 Ridge Lake Dr, Louisville, KY:
   lat: 38.090525
