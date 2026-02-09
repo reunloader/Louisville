@@ -23852,6 +23852,7 @@
 2800 Outer Loop, Louisville, KY:
   lat: 38.1362901
   lng: -85.7120092
+2800 Packer, Louisville, KY: null
 2800 Packerland Way, Louisville, KY:
   lat: 38.1562395
   lng: -85.7137988
@@ -37295,6 +37296,9 @@
   Louisville, KY
 : null
 4800 COVID Drive following reports of a cardiac arrest. The individual, a 35-year-old male, was found, Louisville, KY: null
+4800 Charlotte Dr near Poplar Level Rd, Louisville, KY:
+  lat: 38.161354
+  lng: -85.664187
 4800 Cliff Ave near Croshings and Beech Street Avenue, Louisville, KY:
   lat: 38.179428
   lng: -85.776967
@@ -54425,6 +54429,7 @@
 9300 Fiesta Way, Louisville, KY:
   lat: 38.11629
   lng: -85.861528
+9300 Galeen Girav, Louisville, KY: null
 9300 Galene Dr, Louisville, KY: null
 9300 Green Glade Ln, Valencia Springsway, Louisville, KY: null
 9300 Hill Ridge, Louisville, KY:
