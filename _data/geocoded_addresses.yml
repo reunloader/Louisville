@@ -7213,6 +7213,9 @@
   lng: -85.770176
 1200 Marks Island Road, Louisville, KY: null
 1200 Markstown Road, Louisville, KY: null
+1200 Marshall St, Louisville, KY:
+  lat: 38.2494928
+  lng: -85.7360375
 1200 Marty Ln, Louisville, KY:
   lat: 38.1595879
   lng: -85.6727403
@@ -24105,6 +24108,9 @@
   lat: 38.0909056
   lng: -85.8846246
 2900 Abigail Dr, Louisville, KY: null
+2900 Albion Dr, Louisville, KY:
+  lat: 38.0948793
+  lng: -85.8664023
 2900 Alford Ave, Louisville, KY:
   lat: 38.2653078
   lng: -85.7987596
@@ -38530,6 +38536,9 @@
   lat: 38.198465
   lng: -85.768625
 500 Longfield Ave, Forsby, Louisville, KY: null
+500 Longfield Ave, Louisville, KY:
+  lat: 38.198465
+  lng: -85.768625
 500 Lymington Ct, Louisville, KY: null
 500 M Street, Louisville, KY:
   lat: 38.209194
@@ -53950,6 +53959,7 @@
   lat: 38.2761227
   lng: -85.5866771
 9000 Georgine, Louisville, KY: null
+9000 Grand Dome at Tanoak Ct, Louisville, KY: null
 ? 9000 Harris Studies Drive involving a 42-year-old female experiencing chest pain.
   Responders arrived on scene, Louisville, KY
 : null
