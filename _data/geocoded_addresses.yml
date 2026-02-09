@@ -6892,6 +6892,9 @@
   lng: -85.787342
 1200 Dorchester Rd, Louisville, KY: null
 1200 Dravilian, Louisville, KY: null
+1200 Dresden Ave, Louisville, KY:
+  lat: 38.1968179
+  lng: -85.7810437
 1200 Dresden near Airport High School, Louisville, KY:
   lat: 38.1968179
   lng: -85.7810437
@@ -14141,6 +14144,9 @@
   lng: -85.789583
 1800 Standard Ave, number 25, Louisville, KY: null
 1800 Standards, Louisville, KY: null
+1800 Stevens Ave, Louisville, KY:
+  lat: 38.2291137
+  lng: -85.7100711
 1800 Stone Gate Rd, Louisville, KY: null
 1800 Story Ave, Louisville, KY:
   lat: 38.2556205
@@ -17206,12 +17212,14 @@
   lat: 38.255244
   lng: -85.7586393
 200 Southbound I-265 near the 16, Louisville, KY: null
+200 Southbound I-65, Louisville, KY: null
 200 Southbound at the 2-over-9 ramp, Louisville, KY: null
 200 Southbound near a house, Louisville, KY:
   lat: 38.2408645
   lng: -85.7548989
 200 Southbound near the 10 mile marker, Louisville, KY: null
 200 Southbound, Louisville, KY: null
+200 Southbound, and law enforcement engaged, Louisville, KY: null
 200 Southbound, another, Louisville, KY: null
 200 Southbound, the 2-over-9 ramp, or the Stone St ramp, Louisville, KY: null
 200 Southern Ave, Louisville, KY:
@@ -34140,6 +34148,9 @@
 4100 Mint Spring Branch Rd, Louisville, KY:
   lat: 38.33273
   lng: -85.5793358
+4100 Monroe Ave, Louisville, KY:
+  lat: 38.199045
+  lng: -85.71777
 4100 Mud Ln, Louisville, KY:
   lat: 38.0868791
   lng: -85.6892276
@@ -46076,6 +46087,9 @@
 6900 Greenbelt, Louisville, KY:
   lat: 38.1615593
   lng: -85.8812752
+6900 Greenridge Ln, Louisville, KY:
+  lat: 38.2730374
+  lng: -85.6915975
 6900 Greenwich Rd, Louisville, KY:
   lat: 38.2065974
   lng: -85.642936
@@ -51560,6 +51574,9 @@
 8300 Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
+8300 Aspen Ave, Louisville, KY:
+  lat: 38.132257
+  lng: -85.86426
 8300 Billy Doom Road, Louisville, KY: null
 8300 C-4 Drive near Panax Ln and Morning Glory Ln, Louisville, KY: null
 8300 C-4th Drive, Louisville, KY: null
