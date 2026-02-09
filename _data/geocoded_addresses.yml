@@ -1494,6 +1494,9 @@
 100 North 4th Street at the Gold House, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
+100 North 4th Street near the courthouse, Louisville, KY:
+  lat: 38.256754
+  lng: -85.756584
 100 North 4th Street, Gold House, Louisville, KY: null
 100 North 4th Street, Louisville, KY:
   lat: 38.256754
@@ -23366,6 +23369,7 @@
 2700 South 3rd Street. Responding units were sent, Louisville, KY:
   lat: 38.2099173
   lng: -85.7635386
+2700 South 4th Street, Essex, Louisville, KY: null
 2700 South 4th Street, Louisville, KY:
   lat: 38.210219
   lng: -85.764784
