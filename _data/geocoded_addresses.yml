@@ -30947,6 +30947,7 @@
 3900 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+3900 Old Routt Rd, Louisville, KY: null
 3900 Payne St, Louisville, KY:
   lat: 38.2511106
   lng: -85.7197322
@@ -31337,6 +31338,9 @@
 400 Becker and Charlie streets. Officers conducted traffic stops and checks, Louisville, KY: null
 400 Becker, 400 block of Adam Becker, and 400 block of Charlie were involved in monitoring the situation, Louisville, KY: null
 400 Becker, 400 block of Adam Becker, and 400 block of Charlie were involved in monitoring the situation., Louisville, KY: null
+400 Becker, Louisville, KY:
+  lat: 38.1720002
+  lng: -85.708019
 400 Beggar and 400 block of Item, Louisville, KY: null
 400 Bellevue Ave, Louisville, KY:
   lat: 38.1964886
