@@ -15017,6 +15017,7 @@
 200 Abraham Flexner Way at Jewish Outpatient Care Center, Louisville, KY:
   lat: 38.2503299
   lng: -85.7502142
+200 Abraham Flexner Way, Jewish Hand Center, Louisville, KY: null
 200 Abraham Flexner Way, Louisville, KY:
   lat: 38.2503299
   lng: -85.7502142
@@ -36561,6 +36562,7 @@
   lat: 38.137966
   lng: -85.676653
 4600 Outer Loop, between TJ Maxx and other stores, Louisville, KY: null
+4600 Pinewood Rd, Bourbon City, Louisville, KY: null
 4600 Pinewood Rd, Louisville, KY:
   lat: 38.1879392
   lng: -85.6937537
@@ -52518,6 +52520,9 @@
 900 B2, Louisville, KY: null
 900 Baker State Drive, Louisville, KY: null
 900 Baker near Pinsky Logistics, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
+900 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
 900 Bank St, Louisville, KY:
