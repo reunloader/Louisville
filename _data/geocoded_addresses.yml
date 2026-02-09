@@ -10882,6 +10882,9 @@
 1500 Grovewood Ln near Abbey Ridge Lane, Louisville, KY:
   lat: 38.113726
   lng: -85.792505
+1500 Grovewood Ln, Louisville, KY:
+  lat: 38.113726
+  lng: -85.792505
 1500 Hale Ave, Louisville, KY:
   lat: 38.237372
   lng: -85.779062
@@ -13254,6 +13257,7 @@
 1700 West Copper Avenue, Louisville, KY: null
 1700 West Creek Way, Louisville, KY: null
 1700 West Galbert and other locations, Louisville, KY: null
+1700 West Galbert, Louisville, KY: null
 1700 West Galvert, Louisville, KY: null
 1700 West Gilbert Avenue, Louisville, KY: null
 1700 West Hill, Louisville, KY:
@@ -21652,6 +21656,9 @@
   lat: 38.261292
   lng: -85.819622
 2400 South 49th Street, Louisville, KY: null
+2400 South 4th Street at Marshall Apartments, Louisville, KY:
+  lat: 38.2134225
+  lng: -85.764862
 2400 South 4th Street near West Ormsby and W Oak St, Louisville, KY: null
 2400 South 5th Street, Louisville, KY:
   lat: 38.21431
@@ -45596,6 +45603,9 @@
 6800 Landstar Dr, Louisville, KY:
   lat: 38.0657814
   lng: -85.8860131
+6800 Madison, Louisville, KY:
+  lat: 38.0652434
+  lng: -85.8902249
 6800 Manslick Rd, Louisville, KY:
   lat: 38.1629831
   lng: -85.7980886
@@ -50016,6 +50026,9 @@
 800 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+800 E W Market St at LLC, Louisville, KY:
+  lat: 38.2627278
+  lng: -85.8163887
 800 E W Market St at the Mayan Cafe, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
