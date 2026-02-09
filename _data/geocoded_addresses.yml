@@ -13285,6 +13285,7 @@
 1700 West Chest, Louisville, KY: null
 1700 West Copper Avenue, Louisville, KY: null
 1700 West Creek Way, Louisville, KY: null
+1700 West Culvert Ave, Louisville, KY: null
 1700 West Galbert and other locations, Louisville, KY: null
 1700 West Galbert, Louisville, KY: null
 1700 West Galvert, Louisville, KY: null
@@ -34371,6 +34372,9 @@
   lat: 38.3129386
   lng: -85.6320854
 4100 [Street Name Missing], Louisville, KY: null
+4100 [unspecified], Louisville, KY:
+  lat: 38.2988228
+  lng: -85.562896
 4100 bubbling over, Louisville, KY:
   lat: 38.2039831
   lng: -85.8529276
