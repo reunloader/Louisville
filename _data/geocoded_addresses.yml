@@ -2613,6 +2613,9 @@
 : null
 100 ground plane due, Louisville, KY: null
 100 ground plane, Louisville, KY: null
+100 hillside way, Louisville, KY:
+  lat: 38.247316
+  lng: -85.554471
 100 holding a domestic report only, Louisville, KY: null
 100 holding, Louisville, KY: null
 100 hours, Louisville, KY: null
@@ -30330,6 +30333,9 @@
 3800 Benbow Dr, Louisville, KY:
   lat: 38.1059375
   lng: -85.6878605
+3800 Bonaventure Blvd, Louisville, KY:
+  lat: 38.1223421
+  lng: -85.6939583
 3800 Boynton Lane near Mills Dr, Louisville, KY: null
 3800 Breckenridge Ln, Louisville, KY:
   lat: 38.1935943
@@ -40690,6 +40696,7 @@
 5400 Ward, Louisville, KY:
   lat: 38.2556496
   lng: -85.5536202
+5400 Warwick Shower Drive, Louisville, KY: null
 5400 Warwickshire Dr, Louisville, KY:
   lat: 38.1693242
   lng: -85.7023841
