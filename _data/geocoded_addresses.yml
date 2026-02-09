@@ -2894,6 +2894,9 @@
 1000 Colonial Hill Rd, Louisville, KY:
   lat: 38.2026941
   lng: -85.6931278
+1000 Colonial Woods Way, Louisville, KY:
+  lat: 38.2510342
+  lng: -85.5584903
 1000 Columbia St, Louisville, KY:
   lat: 38.2634065
   lng: -85.7993071
@@ -14224,6 +14227,7 @@
 1800 West Chestnut, Louisville, KY:
   lat: 38.251429
   lng: -85.781222
+1800 West Colbert, Louisville, KY: null
 1800 West Jeff, Louisville, KY: null
 1800 West Jefferson at Joe's Palm Room, Louisville, KY:
   lat: 38.2561291
@@ -23492,6 +23496,9 @@
 2700 West Broadway near McDonald's, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
+2700 West Broadway near South 28th and South 27th Streets, Louisville, KY:
+  lat: 38.249441
+  lng: -85.796749
 2700 West Broadway near South28th and 27th, Louisville, KY:
   lat: 38.249441
   lng: -85.796749
@@ -24831,6 +24838,7 @@
   lat: 38.2390446
   lng: -85.4485653
 300 Buckland Truss Street, Louisville, KY: null
+300 Burton Ave, Welder Supply, Louisville, KY: null
 300 Cabin Hill Rd, Louisville, KY:
   lat: 38.1407599
   lng: -85.6045071
@@ -28269,6 +28277,7 @@
 3300 Young Ave, Louisville, KY:
   lat: 38.2299333
   lng: -85.8099166
+3300 Young Ave, across Lois Morris Dr and Lyman Johnson Dr, Louisville, KY: null
 3300 bars town, Louisville, KY: null
 ? '3300 block of Northwestern Pky. Upon arrival, the building was found to be secure,
   and no further action was required. - **Medical Emergency (Person Down)** (around
@@ -53615,6 +53624,7 @@
   lat: 38.2176271
   lng: -85.7417015
 900 Third Street, Louisville, KY: null
+900 Tom 5 Zebra, Louisville, KY: null
 900 U of L area, Louisville, KY: null
 900 Ulrich Ave, Louisville, KY:
   lat: 38.1580798
@@ -56444,6 +56454,7 @@ Locust St and Wilkin Street, Louisville, KY: null
 Locust St and Wilson Street, Louisville, KY: null
 Logan St and Lansing Street, Louisville, KY: null
 Logan St and Mary St, Louisville, KY: null
+Lois Morris Dr and Lyman Johnson Dr, Louisville, KY: null
 Lonesome Hollow Rd and Carter Ln, Louisville, KY: null
 Long Road and Medical Delta Industrial Boulevard, Louisville, KY: null
 Longest Ave and Beechwood Ave, Louisville, KY: null
