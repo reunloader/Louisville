@@ -5661,6 +5661,7 @@
 1100 South 15th Street, Louisville, KY:
   lat: 38.2392837
   lng: -85.7781523
+1100 South 17th Street and 500 block of South 8th Street, Louisville, KY: null
 ? 1100 South 17th Street following a report of a possible overdose. The incident involved
   a young child who was found unresponsive. Emergency medical services were able,
   Louisville, KY
@@ -5966,6 +5967,7 @@
 1100 West All E, Louisville, KY: null
 1100 West Alley, Louisville, KY: null
 1100 West Alley, number 103, Louisville, KY: null
+1100 West Bernard Avenue B1, Louisville, KY: null
 1100 West Broadway, Louisville, KY:
   lat: 38.247268
   lng: -85.770111
@@ -19781,6 +19783,9 @@
 2100 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
+2100 W Chestnut St, Louisville, KY:
+  lat: 38.2518042
+  lng: -85.786227
 2100 W Gaulbert Ave**, Louisville, KY:
   lat: 38.2278626
   lng: -85.793433
