@@ -3941,6 +3941,7 @@
   lat: 38.198171
   lng: -85.639367
 1000 Spring Creek Ct, Louisville, KY: null
+1000 Springside Way near Springside Pl, Louisville, KY: null
 1000 Springview Dr near Chelsea Drive and Final Dr, Louisville, KY: null
 1000 St Andrews Church Rd, Louisville, KY:
   lat: 38.1525309
@@ -30146,6 +30147,9 @@
   lng: -85.8038074
 3700 Quondike Lane in the Mohawk area, Louisville, KY: null
 3700 Quondite Lane, Louisville, KY: null
+3700 Ripple Creek, Louisville, KY:
+  lat: 38.1000125
+  lng: -85.6955318
 3700 River Park, Louisville, KY:
   lat: 38.255027
   lng: -85.813394
@@ -52470,6 +52474,9 @@
 8900 Fox Chase Pl, Louisville, KY:
   lat: 38.116156
   lng: -85.610862
+8900 Independence School Rd near Falkirk Rd and Cedar Creek Rd, Louisville, KY:
+  lat: 38.1008283
+  lng: -85.5989559
 8900 Independence School Rd, Louisville, KY:
   lat: 38.1008283
   lng: -85.5989559
@@ -56039,6 +56046,7 @@ Fairground Rd and St Moritz Dr, Louisville, KY: null
 Fairground Road and Plumwood Road, Louisville, KY: null
 Fairland Ave and Beech Ave, Louisville, KY: null
 Fairway Park Dr and Charlieville Road, Louisville, KY: null
+Falkirk Rd and Cedar Creek Rd, Louisville, KY: null
 Falmouth Dr and Oak Park Dr, Louisville, KY: null
 Farge Town Road and Cedar Lake Dr, Louisville, KY: null
 Farshtown Road and Eastern Parkway, Louisville, KY: null
