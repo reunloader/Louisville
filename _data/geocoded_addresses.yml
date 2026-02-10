@@ -2369,6 +2369,12 @@
 100 West Broadway, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
+? 100 West Broadway, prompting police response. Witnesses reported a white male in
+  his 30s, yelling and wearing a blue jacket with grey pants. Additionally, there
+  was a domestic disturbance at the 1700 block of Domenal Street involving a daughter
+  allegedly putting hands on her boyfriend. A loud music complaint was also reported
+  on Herman St. Multiple police units responded, Louisville, KY
+: null
 100 West Broadway. An attempt, Louisville, KY:
   lat: 38.2452409
   lng: -85.753739
@@ -10810,6 +10816,9 @@
 1500 Castlewood Ave, Louisville, KY:
   lat: 38.2302013
   lng: -85.7190696
+1500 Catalpa St near the railroad tracks, Louisville, KY:
+  lat: 38.2318135
+  lng: -85.8025698
 1500 Catalpa St, Louisville, KY:
   lat: 38.2318135
   lng: -85.8025698
@@ -15109,6 +15118,8 @@
 200 . Fortunately, no injuries were reported in this incident. Police units were dispatched, Louisville, KY:
   lat: 38.2505653
   lng: -85.722615
+200 27th and Lyt, Louisville, KY: null
+200 27th and Lyt. The vehicle was flagged as suspicious, prompting a check, Louisville, KY: null
 200 3 North 33rd Street. Multiple police units responded, Louisville, KY:
   lat: 38.2737912
   lng: -85.8008349
@@ -57747,6 +57758,7 @@ Willmar Ave and Tennessee Ave, Louisville, KY: null
 Willow Ave and Edgeland Ave, Louisville, KY: null
 Willow Ave and Glenmary Ave, Louisville, KY: null
 Wilmington Ave and Lexington Rd, Louisville, KY: null
+Wilson Ave and Catalpa St, Louisville, KY: null
 Wilson Ave and Parker Ave, Louisville, KY: null
 Wilson Ave and Southern Ave, Louisville, KY: null
 Wimbrough Drive and Colorado Ave, Louisville, KY: null
