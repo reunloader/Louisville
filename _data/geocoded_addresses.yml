@@ -4295,6 +4295,7 @@
 10000 Dorton Dr, Louisville, KY:
   lat: 38.0958414
   lng: -85.8534439
+10000 Luke Snow Road, Louisville, KY: null
 10000 Manslick Rd near a court, Louisville, KY:
   lat: 38.112407
   lng: -85.780039
@@ -15129,6 +15130,7 @@
 200 Abraham Flexner Way. Multiple fire trucks arrived, Louisville, KY:
   lat: 38.2503299
   lng: -85.7502142
+200 Abraham flexing away, Louisville, KY: null
 200 Abraham, Louisville, KY:
   lat: 38.250348
   lng: -85.7502112
@@ -32519,6 +32521,9 @@
 400 North 25th Street, Louisville, KY:
   lat: 38.26617
   lng: -85.789902
+400 North 26th, Louisville, KY:
+  lat: 38.2662297
+  lng: -85.7927634
 400 North 28th Street, Louisville, KY:
   lat: 38.267459
   lng: -85.795458
@@ -40851,6 +40856,7 @@
 5300 W Pages Ln, Louisville, KY:
   lat: 38.1301902
   lng: -85.8553669
+5300 Walker Eye Way, Louisville, KY: null
 5300 West Ave, Louisville, KY:
   lat: 38.1089403
   lng: -85.8525494
@@ -42047,6 +42053,7 @@
 5800 Preston Hwy, Louisville, KY:
   lat: 38.1660325
   lng: -85.7042968
+5800 Prince William St, Louisville, KY: null
 5800 River Creek Dr, Louisville, KY:
   lat: 38.3288709
   lng: -85.6383972
@@ -43435,6 +43442,9 @@
 ? 600 South 3rd Street. The initial request indicated a potential medical emergency.
   Responders assessed the situation, Louisville, KY
 : lat: 38.2486074
+  lng: -85.7563848
+600 South 3rd at Henry Clay Apartments, Louisville, KY:
+  lat: 38.2486074
   lng: -85.7563848
 600 South 3rd, Louisville, KY:
   lat: 38.2486074
