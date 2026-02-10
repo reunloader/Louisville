@@ -15362,6 +15362,9 @@
 ? 200 Bridgemore Ln. Responding units found no immediate signs of fire or other issues
   at the two-story home., Louisville, KY
 : null
+200 Broadway near YMCA, Louisville, KY:
+  lat: 38.2453628
+  lng: -85.7555236
 200 Broadway, Louisville, KY:
   lat: 38.2453628
   lng: -85.7555236
@@ -33100,6 +33103,9 @@
 400 South H Trent Ave Plaza near Ali and West Liberty, Louisville, KY: null
 400 South H3, Louisville, KY: null
 400 South H3. A 43-year-old male patient was found, Louisville, KY: null
+400 South Hancock, Louisville, KY:
+  lat: 38.250782
+  lng: -85.742669
 400 South Harris Point Parkway, Louisville, KY: null
 400 South Hubbard, Louisville, KY: null
 ? 400 South Hubbard. The specific circumstances leading to the check were not detailed
@@ -46849,6 +46855,9 @@
 700 Barret Ave, Louisville, KY:
   lat: 38.243858
   lng: -85.734079
+700 Baxter Ave near Cadeville Cemetery and Cherokee Rd, Louisville, KY:
+  lat: 38.243354
+  lng: -85.726821
 700 Baxter Ave, Louisville, KY:
   lat: 38.243354
   lng: -85.726821
@@ -56619,6 +56628,7 @@ Gladden Dr and Elba Dr, Louisville, KY: null
 Glaser Ln and Foundry Rd, Louisville, KY: null
 Glen Stone Rd and Spring Gate Dr, Louisville, KY: null
 Glendora Ave and Herman St, Louisville, KY: null
+Glenmary Springs Dr and Old Marshal Road, Louisville, KY: null
 Global Dr and Renate Rd, Louisville, KY: null
 Golden Dr and Keely Park Lane, Louisville, KY: null
 Goldsmith Ln and Bardstown Rd, Louisville, KY: null
