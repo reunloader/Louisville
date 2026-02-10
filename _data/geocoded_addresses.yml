@@ -19189,6 +19189,11 @@
   lng: -85.7621807
 2000 Vashra Green Alleyne, Louisville, KY: null
 2000 Volkswagen Atlas before officers could locate him. Authorities are actively searching, Louisville, KY: null
+? 2000 Volkswagen. The vehicle was found to have an expired registration, with the
+  expiration date listed as 2025. During the stop, officers also responded to a report
+  of a four-month-old husky needing pickup by animal control. The vehicle was processed,
+  and the animal was secured, Louisville, KY
+: null
 2000 W Burnett Ave, Louisville, KY:
   lat: 38.2301772
   lng: -85.791146
@@ -20157,6 +20162,9 @@
 2200 Appomattox Rd, near Atlanta Parkway, Louisville, KY:
   lat: 38.1279601
   lng: -85.7714249
+2200 Arthur Ford Ct, Louisville, KY:
+  lat: 38.216223
+  lng: -85.745428
 2200 Arthur St near University Blvd, Louisville, KY:
   lat: 38.2154945
   lng: -85.7528626
@@ -26224,6 +26232,9 @@
 300 unknown street, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
+300, Louisville, KY:
+  lat: 38.1814493
+  lng: -85.7665338
 3000 4th Street across Central and Haywood, Louisville, KY: null
 3000 Amy Ave, Louisville, KY:
   lat: 38.260603
@@ -44180,6 +44191,9 @@
   lat: 38.2371624
   lng: -85.7838705
 6000 Wellerson Trail, Louisville, KY: null
+6000 Whispering Hills Blvd, Louisville, KY:
+  lat: 38.1470566
+  lng: -85.6477603
 ? 6000 Whispering Hills for a medical assistance call. A 91-year-old female had fallen
   and reported pain in her neck and right side. Paramedics were on the scene to provide
   care and evaluate her injuries. The incident highlights the challenges faced by
@@ -53927,6 +53941,7 @@
   lat: 38.1909754
   lng: -85.7751678
 900 W Jefferson St alleyway, Louisville, KY: null
+900 W Jefferson St and 99 West Death, Louisville, KY: null
 900 W Jefferson St, Louisville, KY:
   lat: 38.254757
   lng: -85.766155
@@ -53987,6 +54002,7 @@
 900 West Chestnut, Louisville, KY:
   lat: 38.2496821
   lng: -85.7669069
+900 West Death, Louisville, KY: null
 900 West Evelyn, Louisville, KY:
   lat: 38.1964843
   lng: -85.7749692
