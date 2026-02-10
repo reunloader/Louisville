@@ -7546,6 +7546,7 @@
 1200 South First Street and near Thornton's, Louisville, KY:
   lat: 38.259782
   lng: -85.7070119
+1200 South First Street at West Oak Round, Louisville, KY: null
 1200 South Firstree, Louisville, KY: null
 1200 South Ford Street, Louisville, KY: null
 1200 South Fork Street, Louisville, KY: null
@@ -29340,6 +29341,9 @@
 3500 Taylor, Louisville, KY:
   lat: 38.1961144
   lng: -85.7833672
+3500 Taylorsville Rd, Louisville, KY:
+  lat: 38.2218195
+  lng: -85.653827
 3500 Templewood Dr, cross Robin Hood and Hillwood Dr, Louisville, KY: null
 3500 Terrace Springs Dr, Louisville, KY:
   lat: 38.287939
@@ -30433,6 +30437,7 @@
   or individuals acting suspiciously. Police units were assigned, Louisville, KY
 : lat: 38.1910205
   lng: -85.7836633
+3700 Taylorsville Rd (Thorntons), Louisville, KY: null
 3700 Taylorsville Rd, Louisville, KY:
   lat: 38.2207284
   lng: -85.6459478
@@ -45269,6 +45274,9 @@
   lat: 38.151048
   lng: -85.568773
 6500 Estele Ave, Louisville, KY: null
+6500 Firethorn Way, Louisville, KY:
+  lat: 38.111058
+  lng: -85.641777
 6500 Forced-wave Drab, Louisville, KY: null
 6500 Frankfort Ave, Louisville, KY:
   lat: 38.2611284
