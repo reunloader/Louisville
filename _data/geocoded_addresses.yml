@@ -384,6 +384,7 @@
 100 Adam Service. Authorities responded, Louisville, KY: null
 100 Adam and 100 block of Acre, Louisville, KY: null
 100 Adam and 100 block of Baker, Louisville, KY: null
+100 Adam and 100 block of David, Louisville, KY: null
 100 Adam and 200 block of Baker, Louisville, KY: null
 100 Adam and 600 block of North 29th Street, Louisville, KY: null
 100 Adam and Charlie, Louisville, KY: null
@@ -626,6 +627,7 @@
 100 Bullitt Ln, Louisville, KY:
   lat: 38.246826
   lng: -85.613749
+100 CIT, Louisville, KY: null
 100 Cabel St, Louisville, KY:
   lat: 38.256064
   lng: -85.728116
@@ -8984,6 +8986,7 @@
 1300 South2nd Street at McNally Avenue, Louisville, KY:
   lat: 38.232443
   lng: -85.757511
+1300 South2nd, Crop St, West Lawrence Bay and West Magnolia, Louisville, KY: null
 1300 South36th Street, Louisville, KY:
   lat: 38.237032
   lng: -85.814088
@@ -25556,6 +25559,9 @@
 300 Mount Everest Dr, Louisville, KY:
   lat: 38.1659656
   lng: -85.8527864
+300 N S Birchwood Ave near Dookon Court, Louisville, KY:
+  lat: 38.2520387
+  lng: -85.6894897
 300 New Cut Rd, Louisville, KY:
   lat: 38.1574318
   lng: -85.7779933
@@ -25731,6 +25737,7 @@
 300 Old Dixie Hwy, investigating the source of the CO alarms, Louisville, KY: null
 300 Old Dixie Hwy, investigating the source of the CO alarms., Louisville, KY: null
 300 Oread Rd, Louisville, KY: null
+300 Ormsby Park Pl near Ormsby Station Rd, Louisville, KY: null
 300 Outer Loop and Calumet, Louisville, KY: null
 300 Outer Loop, Louisville, KY:
   lat: 38.125884
@@ -30681,6 +30688,9 @@
   situation was resolved and all was okay., Louisville, KY
 : null
 3800 Brody Ln, with descriptions of three, Louisville, KY: null
+3800 Business Park Dr at Crown World, Louisville, KY:
+  lat: 38.177976
+  lng: -85.690105
 3800 Condi Queen, Louisville, KY: null
 3800 Corvair Court, near Foverbrook Drive, Louisville, KY:
   lat: 38.187962
@@ -37418,6 +37428,7 @@
 4700 South First, Louisville, KY: null
 4700 South Harris Point Parkway, Louisville, KY: null
 4700 South Hirsborne Parkway at Morning Point, Louisville, KY: null
+4700 South Hirshhorn, Louisville, KY: null
 4700 South Littland Avenue, Louisville, KY: null
 4700 South Rettlin Avenue, Louisville, KY: null
 4700 South Rutland, Louisville, KY: null
@@ -41340,6 +41351,9 @@
 5500 Indian Oaks Cir, Louisville, Louisville, KY:
   lat: 38.1695373
   lng: -85.6869482
+5500 Johnsontown Rd at Best Haven Christian School, Louisville, KY:
+  lat: 38.1212828
+  lng: -85.8702268
 5500 Johnsontown Rd, Louisville, KY:
   lat: 38.1212828
   lng: -85.8702268
@@ -42253,6 +42267,7 @@
   lat: 38.12707
   lng: -85.775928
 5900 New Pet Road, Louisville, KY: null
+5900 Newcote Rd at PNC APM Oasis Shopping Center, Louisville, KY: null
 5900 Norton Ave, Louisville, KY:
   lat: 38.167805
   lng: -85.7128311
@@ -48510,6 +48525,9 @@
 7000 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
+7000 Shepherd'sville Rd at Speedway, Louisville, KY:
+  lat: 38.1835893
+  lng: -85.6985826
 7000 Shepherd'sville Road area, Louisville, KY: null
 7000 Shepherdsville Rd near Speedway, Louisville, KY:
   lat: 38.1480158
@@ -56263,6 +56281,7 @@ Cedar Creek Rd and Cedar Garden Dr, Louisville, KY: null
 Cedar Creek Rd and Heights Dr, Louisville, KY: null
 Cedar Creek Rd and Johnson School Rd, Louisville, KY: null
 Cedar Creek Rd and Mayo Dr, Louisville, KY: null
+Cedarcrest Dr and Willow Forest Dr, Louisville, KY: null
 Cedarwood Dr and Elm Lake Dr, Louisville, KY: null
 Central Ave and Burton Ave, Louisville, KY: null
 Central Ave and Lindenburg Street, Louisville, KY: null
