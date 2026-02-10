@@ -26367,6 +26367,7 @@
 3000 Cedar Creek Rd, Louisville, KY:
   lat: 38.1225307
   lng: -85.5909606
+3000 Chairman Elaine Fortric Plant, Crossroads, North Winchester, Louisville, KY: null
 3000 Chamberlain Ln near Ford Truck Plant, Louisville, KY:
   lat: 38.3151257
   lng: -85.5684024
@@ -29538,6 +29539,7 @@
 3600 Brad Ct, Louisville, KY:
   lat: 38.209696
   lng: -85.623362
+3600 Breckman Edge Lane, Louisville, KY: null
 3600 Brendenwood Rd, Louisville, KY:
   lat: 38.1092452
   lng: -85.8288239
@@ -36681,6 +36683,9 @@
 4500 Willis Ave, Louisville, KY:
   lat: 38.2524346
   lng: -85.6526787
+4500 Winchester Rd, Louisville, KY:
+  lat: 38.2383828
+  lng: -85.658405
 4500 Winnrose Way, Louisville, KY: null
 4500 outer loop, Lambert and Nottemeyer Line, Louisville, KY: null
 4512 Tray Place, Louisville, KY: null
