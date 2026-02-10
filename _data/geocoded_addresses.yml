@@ -19776,6 +19776,9 @@
   lat: 38.2390037
   lng: -85.7885013
 2100 Osage Ave, with cross streets of 22nd and Dr, Louisville, KY: null
+2100 Palatka Rd, Louisville, KY:
+  lat: 38.1541103
+  lng: -85.7987884
 2100 Patterson Ave, Louisville, KY:
   lat: 38.238142
   lng: -85.717478
@@ -23076,6 +23079,9 @@
   lat: 38.2489909
   lng: -85.7951833
 2600 West Broadway near South 26 and South 27, Louisville, KY:
+  lat: 38.2489909
+  lng: -85.7951833
+2600 West Broadway near South 26/South 27, Louisville, KY:
   lat: 38.2489909
   lng: -85.7951833
 2600 West Broadway near South 27th and South 26th, Louisville, KY:
@@ -26915,6 +26921,9 @@
   lat: 38.210066
   lng: -85.686322
 3000 Wilson Ave near Parkview Ball Community Center, Louisville, KY:
+  lat: 38.226939
+  lng: -85.806772
+3000 Wilson, Louisville, KY:
   lat: 38.226939
   lng: -85.806772
 3000 Winterhaven Rd, Louisville, KY:
@@ -43653,6 +43662,7 @@
 600 South43rd Street, Louisville, KY:
   lat: 38.256075
   lng: -85.823114
+600 South44, Louisville, KY: null
 600 South44th Street, Louisville, KY:
   lat: 38.256241
   lng: -85.824617
