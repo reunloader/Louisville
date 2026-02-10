@@ -12984,6 +12984,9 @@
 1700 Meyers Ln, Louisville, KY:
   lat: 38.162729
   lng: -85.826053
+1700 Miller Ave, Louisville, KY:
+  lat: 38.2134665
+  lng: -85.7451005
 1700 Millgate Rd, Louisville, KY: null
 1700 Model Rd near Tiny Ln and Loney Ln, Louisville, KY: null
 1700 Model Rd, Louisville, KY: null
@@ -41906,6 +41909,7 @@
   lat: 38.1762335
   lng: -85.8621885
 5700 Unstrave, Louisville, KY: null
+5700 Valley Park Dr and a report of a person not answering at a residence, Louisville, KY: null
 5700 W Southern Heights Ave, Louisville, KY:
   lat: 38.1898343
   lng: -85.7883132
@@ -43619,6 +43623,9 @@
   lat: 38.2486074
   lng: -85.7563848
 600 South3rd Street, Louisville, KY:
+  lat: 38.2486074
+  lng: -85.7563848
+600 South3rd near West Broadway and West Chestnut, Louisville, KY:
   lat: 38.2486074
   lng: -85.7563848
 600 South40th Street, Louisville, KY:
@@ -46892,6 +46899,9 @@
   lat: 38.2929065
   lng: -85.482589
 700 Central Ave and Gate 17, Louisville, KY: null
+700 Central Ave at Churchill Downs, Louisville, KY:
+  lat: 38.2039043
+  lng: -85.7727677
 700 Central Ave at the Derby Museum, Crop St of South Pintin, Rodman, Louisville, KY:
   lat: 38.2039043
   lng: -85.7727677
@@ -49690,6 +49700,9 @@
 7600 Kendrick Crossing Ln, Louisville, KY:
   lat: 38.1306044
   lng: -85.5609565
+7600 Mary Sue near Bula Church, Louisville, KY:
+  lat: 38.137492
+  lng: -85.606921
 7600 Mayo Dr, Louisville, KY:
   lat: 38.2014671
   lng: -85.6715278
@@ -51617,6 +51630,7 @@
   lat: 38.131357
   lng: -85.578224
 8100 Bardstown Rd, Town Suites, Louisville, KY: null
+8100 Bula Church, Louisville, KY: null
 8100 Carey Road, Louisville, KY: null
 8100 Carnal Town Road, Louisville, KY: null
 8100 Carnes Dr, Louisville, KY:
@@ -56682,6 +56696,7 @@ Hurstport Parkway and Westport Rd, Louisville, KY: null
 Hutcherson Dr and Cove Dr, Louisville, KY: null
 Hypes Lane and Melbourne Ave, Louisville, KY: null
 Illinois Ave and Dorsey Hill Rd, Louisville, KY: null
+Illinois Ave and Lincoln Ave, Louisville, KY: null
 Illinois Ave and Poplar Level Rd, Louisville, KY: null
 Inca Dr and Johnsontown Rd, Louisville, KY: null
 Independence School Rd and Fairmount Rd, Louisville, KY: null
