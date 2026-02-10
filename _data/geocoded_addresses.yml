@@ -8277,6 +8277,7 @@
 1300 Berry Blvd near Lentz, Louisville, KY:
   lat: 38.196239
   lng: -85.783114
+1300 Berry Blvd, Crestree, Louisville, KY: null
 1300 Berry Blvd, Louisville, KY: null
 1300 Bessels Blvd, Louisville, KY:
   lat: 38.0637973
@@ -13758,6 +13759,9 @@
 1800 Buechel Bank Rd, Louisville, KY:
   lat: 38.1786229
   lng: -85.6589025
+1800 Burson Road near Kroger, Crestree Deliver Avenue, and Dorothy Ave, Louisville, KY:
+  lat: 38.2886468
+  lng: -85.5099194
 1800 Burwell Ave, Louisville, KY:
   lat: 38.225492
   lng: -85.791733
@@ -38146,6 +38150,7 @@
   lat: 38.1412684
   lng: -85.7716218
 500 Baker; 400 block of Adam; 10-2100 block of MVP, Louisville, KY: null
+500 Bancourt, Crestree, Louisville, KY: null
 500 Bank Ct, Louisville, KY:
   lat: 38.271606
   lng: -85.79691
