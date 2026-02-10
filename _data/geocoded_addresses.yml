@@ -14876,6 +14876,9 @@
 1900 South30th Street, Louisville, KY:
   lat: 38.223112
   lng: -85.806537
+1900 South40th Street, Louisville, KY:
+  lat: 38.2631723
+  lng: -85.8147094
 1900 South7th Street at White Castle, Louisville, KY:
   lat: 38.2222599
   lng: -85.7763795
@@ -14958,6 +14961,9 @@
   lat: 38.2490002
   lng: -85.7840179
 1900 West Broadway at KFC, Louisville, KY: null
+1900 West Broadway near G, Louisville, KY:
+  lat: 38.2490002
+  lng: -85.7840179
 1900 West Broadway, Louisville, KY:
   lat: 38.2490002
   lng: -85.7840179
@@ -17530,6 +17536,7 @@
 200 Webster St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
+200 Webster St, St, Louisville, KY: null
 200 Webster St. W St Catherine St, Louisville, KY:
   lat: 38.2573422
   lng: -85.7269577
@@ -28533,6 +28540,8 @@
 3400 Barbour Ln, Louisville, KY:
   lat: 38.3024535
   lng: -85.6065849
+3400 Barchetown Road at Crossco parking lot, Louisville, KY: null
+3400 Barchetown Road, first responders were called, Louisville, KY: null
 3400 Bardstown Rd, Louisville, KY:
   lat: 38.2057801
   lng: -85.6672717
@@ -45572,6 +45581,7 @@
 6600 Astral Dr, Louisville, KY:
   lat: 38.157114
   lng: -85.855945
+6600 Barchetown Road, Louisville, KY: null
 6600 Bardstown Rd, Louisville, KY:
   lat: 38.1517338
   lng: -85.5886035
@@ -56628,6 +56638,7 @@ Grange Road and Shelbyville Rd, Louisville, KY: null
 Granger Rd and Factory Ln, Louisville, KY: null
 Grant Ave and Crop St, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
+Great Bourbon Avenue and Wolfe Ave, Louisville, KY: null
 Green Meadows Dr and Bardstown Rd, Louisville, KY: null
 Green Spring Dr and Wolf Pen Branch Rd, Louisville, KY: null
 Greenup Rd and Poplar Level Rd, Louisville, KY: null
@@ -56818,6 +56829,7 @@ King Run Road and Camp Ground Rd, Louisville, KY: null
 Kinglan Rd and Poppy Ave, Louisville, KY: null
 Kingston Ave and Country Club Rd, Louisville, KY: null
 Kirby Ave and Doonville Street, Louisville, KY: null
+Klondike Ln and Jupiter Rd, Louisville, KY: null
 Klondike Ln and Poplar Level Rd, Louisville, KY: null
 La Boca Avenue and Parker Ave, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
