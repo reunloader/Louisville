@@ -26501,6 +26501,9 @@
 3000 Garland Ave, Louisville, KY:
   lat: 38.245153
   lng: -85.802715
+3000 Georgetown Cir. Responding fire and EMS units arrived, Louisville, KY:
+  lat: 38.1937314
+  lng: -85.7958062
 3000 Gerald Ave, Louisville, KY:
   lat: 38.1410492
   lng: -85.8499178
@@ -35905,6 +35908,10 @@
 : lat: 38.2443727
   lng: -85.8258626
 4400 Hale Ave, Louisville, KY:
+  lat: 38.2417157
+  lng: -85.8267675
+4400 Hale Ave, indicating possible smoke detector activation in the hallway. Fire units responded, Louisville, KY: null
+4400 Hale Ave. EMS responded, Louisville, KY:
   lat: 38.2417157
   lng: -85.8267675
 4400 Hazelwood Ave, Louisville, KY:
