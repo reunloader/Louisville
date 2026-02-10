@@ -28409,6 +28409,9 @@
 3300 Virginia Ave, Louisville, KY:
   lat: 38.2387608
   lng: -85.8086322
+3300 Wellingmoor Ave, Louisville, KY:
+  lat: 38.2119274
+  lng: -85.6617068
 3300 West Broadway, Louisville, KY:
   lat: 38.249793
   lng: -85.808
@@ -30721,6 +30724,7 @@
 3800 Outer Loop, Louisville, KY:
   lat: 38.1369235
   lng: -85.6921906
+3800 Ovo’s Drive, Louisville, KY: null
 3800 Parker Ave, Louisville, KY:
   lat: 38.2691566
   lng: -85.8111584
@@ -43033,6 +43037,7 @@
 600 McKendree Court, Louisville, KY:
   lat: 38.2484299
   lng: -85.7932797
+600 Meadowview Cir and 7100 block of Bronner Cir, Louisville, KY: null
 600 Meeting St, Louisville, KY:
   lat: 38.3251652
   lng: -85.5667177
@@ -52923,6 +52928,9 @@
 900 Benson, Louisville, KY:
   lat: 38.0945258
   lng: -85.8613908
+900 Bethany Ln, Louisville, KY:
+  lat: 38.098066
+  lng: -85.878721
 900 Black Powder Ln, Louisville, KY:
   lat: 38.1196636
   lng: -85.6049356
@@ -52983,6 +52991,9 @@
 900 Cecil Ave, Louisville, KY:
   lat: 38.246752
   lng: -85.8211995
+900 Central Ave near Taylor Blvd and South 9th Street, Louisville, KY:
+  lat: 38.205838
+  lng: -85.773706
 900 Charles St at the intersection with River Creek Street and Boyle St, Louisville, KY:
   lat: 38.2315713
   lng: -85.7384034
