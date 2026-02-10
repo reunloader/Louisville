@@ -22577,6 +22577,9 @@
 26 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
+26 North Dr, Louisville, KY:
+  lat: 38.0898193
+  lng: -85.8850704
 26 Royal Dr, Louisville, KY:
   lat: 38.1286028
   lng: -85.7597473
@@ -25596,6 +25599,7 @@
 300 North32nd Street, Louisville, KY:
   lat: 38.264831
   lng: -85.8043778
+300 North33, Louisville, KY: null
 300 North33rd Street, Crop St, Alford Ave, and Duncan St, Louisville, KY: null
 300 North35th Street, Louisville, KY: null
 300 North36th Street, Louisville, KY: null
@@ -33457,6 +33461,7 @@
 400 east direction street, Louisville, KY: null
 400 east jeverson, Louisville, KY: null
 400 involved area, Louisville, KY: null
+400 location, Louisville, KY: null
 400 or400 block of, Louisville, KY: null
 400 south 2nd, Louisville, KY:
   lat: 38.2521786
@@ -49615,6 +49620,7 @@
   lat: 38.1574351
   lng: -85.8105138
 7600 St, Louisville, KY: null
+7600 Star Point Ct, Louisville, KY: null
 7600 Tear Grass Ct near Greenwood Place Cir, Louisville, KY:
   lat: 38.1447513
   lng: -85.8561608
