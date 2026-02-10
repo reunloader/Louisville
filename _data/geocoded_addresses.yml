@@ -1310,6 +1310,7 @@
   lng: -85.653424
 100 Metalwood, Louisville, KY: null
 100 Middletown Industrial Blvd, Louisville, KY: null
+100 Mike X-ray Alpha, Louisville, KY: null
 100 Mills Dr, Louisville, KY:
   lat: 38.1561097
   lng: -85.8292757
@@ -24395,6 +24396,9 @@
 2900 Fern Valley Rd at the intersection of Fern Valley and Yorick, Louisville, KY:
   lat: 38.1555547
   lng: -85.7107102
+2900 Fern Valley Rd near Dade Inn, Louisville, KY:
+  lat: 38.1555547
+  lng: -85.7107102
 2900 Fern Valley Rd, Louisville, KY:
   lat: 38.1555547
   lng: -85.7107102
@@ -39556,6 +39560,7 @@
   lat: 38.1601786
   lng: -85.6794729
 5000 Hilary Green Dr, Louisville, KY: null
+5000 Hodel Rd, Texas Roadhouse, Louisville, KY: null
 5000 Hoffman Ln, Louisville, KY: null
 5000 Invicta Dr near Bonnyville Blvd, Louisville, KY:
   lat: 38.1680896
@@ -46905,6 +46910,9 @@
 700 Central Ave at the Derby Museum, Crop St of South Pintin, Rodman, Louisville, KY:
   lat: 38.2039043
   lng: -85.7727677
+700 Central Ave near Churchill Downs, Louisville, KY:
+  lat: 38.2039043
+  lng: -85.7727677
 700 Central Ave near Crop St of South Pines and Rodman, Louisville, KY:
   lat: 38.2039043
   lng: -85.7727677
@@ -53830,6 +53838,9 @@
   lng: -85.7774103
 900 South Third Street, Louisville, KY: null
 900 South of New Orleans**, Louisville, KY: null
+900 South22nd Street, Louisville, KY:
+  lat: 38.243974
+  lng: -85.789229
 900 South25th Street, Louisville, KY:
   lat: 38.243366
   lng: -85.793868
