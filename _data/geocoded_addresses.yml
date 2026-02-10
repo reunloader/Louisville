@@ -3685,6 +3685,9 @@
 1000 S Hancock St. Responders were dispatched, Louisville, KY:
   lat: 38.237243
   lng: -85.745008
+1000 S Jackson St at St, Louisville, KY:
+  lat: 38.2374663
+  lng: -85.747069
 ? 1000 S Jackson St following a report of a disturbance. A caller indicated that a
   female was heard screaming and struggling with a male, with indications she was
   trying, Louisville, KY
@@ -9922,6 +9925,7 @@
 1400 Morton Ave, Louisville, KY:
   lat: 38.23979
   lng: -85.72835
+1400 Morton Ave, in the parking lot, Louisville, KY: null
 1400 Morton Ave, preventing a resident from leaving, Louisville, KY: null
 ? 1400 Morton Ave, preventing a resident from leaving. The vehicle, a dark BMW with
   tinted windows, was described as being quite large., Louisville, KY
@@ -31535,6 +31539,9 @@
 400 Brownsboro Rd, Louisville, KY:
   lat: 38.2632527
   lng: -85.6770561
+400 Buckland Trace, Louisville, KY:
+  lat: 38.23868
+  lng: -85.445801
 400 Bucks Ln near Hampton Inn, Louisville, KY:
   lat: 38.163034
   lng: -85.5911601
@@ -45269,6 +45276,9 @@
 ? 6500 Mary F Mary F Hackley Aly DRIVE. Responding units assessed the situation and
   subsequently cleared the scene. Further details, Louisville, KY
 : null
+6500 Mary Layne Rd, Louisville, KY:
+  lat: 38.1368358
+  lng: -85.6571188
 6500 Miles Ave near Nelson Ave, Louisville, KY:
   lat: 38.163547
   lng: -85.762256
