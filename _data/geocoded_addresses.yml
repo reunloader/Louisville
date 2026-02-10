@@ -10446,6 +10446,9 @@
   lat: 38.1775963
   lng: -85.7847485
 1400 World's Woody Ave, Louisville, KY: null
+1400 Wurtele Ave, Louisville, KY:
+  lat: 38.2111963
+  lng: -85.7789749
 1400 [Street Name Not Provided], Louisville, KY:
   lat: 38.2347369
   lng: -85.825457
@@ -43908,6 +43911,9 @@
 600 West Liberty, Louisville, KY:
   lat: 38.253363
   lng: -85.760635
+600 West Main at Grady Boutique Hotel, Louisville, KY:
+  lat: 38.256721
+  lng: -85.7601786
 600 West Manslake at the library, Louisville, KY:
   lat: 38.2449281
   lng: -85.7577588
