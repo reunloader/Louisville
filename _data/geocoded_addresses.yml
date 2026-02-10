@@ -11556,6 +11556,9 @@
 1500 the 1000 block of Ash St, Louisville, KY: null
 1500 the apartments, Louisville, KY: null
 1500 west west oak street, Louisville, KY: null
+15000 Bardstown Rd, Louisville, KY:
+  lat: 38.1532061
+  lng: -85.5888316
 15000 Bircham Rd, Louisville, KY:
   lat: 38.2343827
   lng: -85.4741061
@@ -56645,6 +56648,7 @@ Frankfort Ave and Story Ave, Louisville, KY:
   lat: 38.2589642
   lng: -85.7213926
 Franklin Ave and Fayette Ave, Louisville, KY: null
+Fraser Dr and Sutherland Dr, Louisville, KY: null
 Freeman Ave and Southern Ave, Louisville, KY: null
 French Ave and Thruston Ave, Louisville, KY: null
 Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
