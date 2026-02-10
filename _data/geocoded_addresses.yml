@@ -18577,6 +18577,9 @@
 2000 Cherokee Pky, Louisville, KY:
   lat: 38.2345
   lng: -85.713684
+2000 Cherokee, Louisville, KY:
+  lat: 38.2345
+  lng: -85.713684
 2000 Chevy Apollo, Louisville, KY: null
 ? 2000 Chevy Camaro in the area of Christiana Woods Ct, passing lane. The vehicle
   was actively being chased, though the pursuit was ongoing at the time of the report.
@@ -44154,6 +44157,9 @@
 6000 W Madison St, Louisville, KY:
   lat: 38.251774
   lng: -85.7733579
+6000 W Oak St, Louisville, KY:
+  lat: 38.2371624
+  lng: -85.7838705
 6000 Wellerson Trail, Louisville, KY: null
 ? 6000 Whispering Hills for a medical assistance call. A 91-year-old female had fallen
   and reported pain in her neck and right side. Paramedics were on the scene to provide
@@ -57276,6 +57282,7 @@ Southern Pky and West Edelman Avenue, Louisville, KY: null
 Southern Pky and Wetstein Ave, Louisville, KY: null
 Southgate Ave and Weyler Ave, Louisville, KY: null
 Southland Blvd and Southside Dr, Louisville, KY: null
+Southside Dr and Bardstown Rd, Louisville, KY: null
 Southside Dr and Evangeline Ave, Louisville, KY: null
 Southside Dr and Gerber Ave, Louisville, KY: null
 Southside Dr and New Cut Rd, Louisville, KY: null
