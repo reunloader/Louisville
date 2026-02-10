@@ -13253,6 +13253,9 @@
   lat: 38.2295009
   lng: -85.818753
 1700 South 38th Street, in a storage area, Louisville, KY: null
+1700 South 39th Street near Hale and Grand, Louisville, KY:
+  lat: 38.2597455
+  lng: -85.8146313
 1700 South 43rd. Firefighters worked, Louisville, KY:
   lat: 38.2480947
   lng: -85.8236967
@@ -25642,6 +25645,9 @@
 300 North 27th Street, Louisville, KY:
   lat: 38.266224
   lng: -85.794465
+300 North 28th Street near Castle Castle Avenue and 11th Street, Louisville, KY:
+  lat: 38.264039
+  lng: -85.797849
 300 North 28th Street, Louisville, KY:
   lat: 38.264039
   lng: -85.797849
@@ -25664,9 +25670,16 @@
 300 North 42nd Street, Louisville, KY:
   lat: 38.2669449
   lng: -85.8171976
+300 North 42nd, Louisville, KY:
+  lat: 38.2669449
+  lng: -85.8171976
 300 North 43rd Street, Louisville, KY:
   lat: 38.2670782
   lng: -85.8181961
+300 North 43rd, Louisville, KY:
+  lat: 38.2670782
+  lng: -85.8181961
+300 North 43rd, indicating potential disturbance or suspicious activity, Louisville, KY: null
 300 North 44th Street at the crossroads of Jule and Duncan, Louisville, KY:
   lat: 38.2673521
   lng: -85.819296
@@ -42368,6 +42381,7 @@
   lat: 38.32875
   lng: -85.5591466
 5900 Yucca Road. Fire and EMS units arrived to assess the scene and prepare, Louisville, KY: null
+5900 the area. EMS was requested, Louisville, KY: null
 598 unspecified street, Louisville, KY: null
 6 Bicknell Ave, Louisville, KY:
   lat: 38.183649
@@ -50762,6 +50776,7 @@
 800 East Broadway. Responding units were dispatched, Louisville, KY:
   lat: 38.244586
   lng: -85.739364
+800 East Grade, Louisville, KY: null
 800 East Gray, Louisville, KY:
   lat: 38.245743
   lng: -85.739167
