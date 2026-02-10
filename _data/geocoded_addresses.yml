@@ -25483,6 +25483,9 @@
 300 Joe Conway Cir at Tom Larimore and Bob Davenport, Louisville, KY:
   lat: 38.2540355
   lng: -85.6657009
+300 Joe Conway Cir near Masonic Homes, Louisville, KY:
+  lat: 38.2540355
+  lng: -85.6657009
 300 Joe Conway Cir, Louisville, KY:
   lat: 38.2540355
   lng: -85.6657009
@@ -32635,6 +32638,7 @@
 400 North 25th Street, Louisville, KY:
   lat: 38.26617
   lng: -85.789902
+400 North 25th Street, across Bank St and Gilligan St, Louisville, KY: null
 400 North 26th, Louisville, KY:
   lat: 38.2662297
   lng: -85.7927634
@@ -38462,6 +38466,7 @@
   lat: 38.192895
   lng: -85.768479
 500 Camden Ave, also involved a domestic report. Crisis Intervention Team units were dispatched, Louisville, KY: null
+500 Camden Ave, cross of Bellevue and South 5th, Louisville, KY: null
 500 Camden Ave, with support from the 400 block of Baker, Louisville, KY: null
 500 Camden Ave, with support from the 400 block of Baker., Louisville, KY: null
 500 Camden across Bellevue Ave and South Fitz Street, Louisville, KY: null
@@ -56055,6 +56060,7 @@ Ballardsville Rd and Livington Place Drive, Louisville, KY: null
 Ballardsville Rd and Murphy Ln, Louisville, KY: null
 Balmoral Dr and Bramton Rd, Louisville, KY: null
 Bank St and Beaver St, Louisville, KY: null
+Bank St and Gilligan St, Louisville, KY: null
 Bank St and Griffiths Ave, Louisville, KY: null
 Bank St and River Shore Dr, Louisville, KY: null
 Barchetown Rd and Fairmount Rd, Louisville, KY: null
