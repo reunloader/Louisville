@@ -73,6 +73,7 @@
 0 Woodlily Trail, Louisville, KY:
   lat: 38.0854965
   lng: -85.6096683
+0 Zebra David Yankee" was stopped and checked by police units, Louisville, KY: null
 0 at Mary, Louisville, KY:
   lat: 38.2542376
   lng: -85.759407
@@ -25332,7 +25333,11 @@
   lat: 38.153733
   lng: -85.765394
 300 Haven Giraffe, Louisville, KY: null
+300 Hayes Landing Rd was received. Responding police units are on scene, Louisville, KY: null
 300 Hayes Landing Rd, Louisville, KY:
+  lat: 38.1830782
+  lng: -85.5466556
+300 Hayes Landing Rd. Security personnel were dispatched, Louisville, KY:
   lat: 38.1830782
   lng: -85.5466556
 300 Hazel Landing, Louisville, KY: null
@@ -36585,6 +36590,9 @@
   lat: 38.250453
   lng: -85.827127
 4500 West Broadway, Louisville, KY:
+  lat: 38.250453
+  lng: -85.827127
+4500 West Broadway. Officers responded, Louisville, KY:
   lat: 38.250453
   lng: -85.827127
 4500 West Fort Worth Lane, Louisville, KY: null
