@@ -987,6 +987,7 @@
   lat: 38.1716047
   lng: -85.7633871
 100 East9, Louisville, KY: null
+100 Eastbound on the ramp, Louisville, KY: null
 100 Eastern Parkway at Eastway Health and Rehab, Louisville, KY:
   lat: 38.213645
   lng: -85.762113
@@ -24813,6 +24814,9 @@
 2900 Wilson Ave, Louisville, KY:
   lat: 38.230577
   lng: -85.803316
+2900 Wilson at Red Dog Liquor Store, Louisville, KY:
+  lat: 38.230577
+  lng: -85.803316
 2900 Wimpole Ct, Louisville, KY:
   lat: 38.2011417
   lng: -85.6342477
@@ -29098,6 +29102,9 @@
   lat: 38.2386515
   lng: -85.8064326
 3400 Westhill Cir, Louisville, KY: null
+3400 Windman Drive near Briar Creek, Louisville, KY:
+  lat: 38.2922901
+  lng: -85.6147056
 3409 Box Elder Road, Louisville, KY: null
 341 Bardstown Rd, Louisville, KY:
   lat: 38.1291902
@@ -38011,6 +38018,7 @@
   lat: 38.181037
   lng: -85.86351
 4900 Birchhead, Louisville, KY: null
+4900 Bluebird Cir near 67-year-old female, Louisville, KY: null
 4900 Brownsboro Rd and 2900 block of Southhurst One Parkway, Louisville, KY: null
 4900 Brownsboro Rd near Thorntons, Louisville, KY:
   lat: 38.282331
