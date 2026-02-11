@@ -14827,6 +14827,9 @@
 1900 Roosevelt Ave, Louisville, KY:
   lat: 38.1934747
   lng: -85.7209074
+1900 Ross Blvd, Louisville, KY:
+  lat: 38.2149204
+  lng: -85.6353017
 1900 Rowan St to attend to a medical emergency., Louisville, KY: null
 1900 Rowan St, Louisville, KY:
   lat: 38.2605375
@@ -17344,6 +17347,9 @@
   lng: -85.6981124
 200 South, near Spurn., Louisville, KY: null
 200 South, then North, Brownsboro Rd, Louisville, KY: null
+200 South11th Street, Louisville, KY:
+  lat: 38.256393
+  lng: -85.768474
 200 South16th, Louisville, KY:
   lat: 38.257315
   lng: -85.776754
@@ -20946,6 +20952,9 @@
 23 Ralston Ave, Louisville, KY:
   lat: 38.1426872
   lng: -85.8480559
+23 Shanks Ln, Louisville, KY:
+  lat: 38.1972672
+  lng: -85.8467736
 23 Southern Pky, Louisville, KY:
   lat: 38.1747458
   lng: -85.7745966
@@ -34412,6 +34421,9 @@
   lat: 38.1598709
   lng: -85.8336846
 4100 Flintmont Drive, Louisville, KY: null
+4100 Fordson Way, Louisville, KY:
+  lat: 38.238118
+  lng: -85.822361
 4100 Foreman Ln, Louisville, KY:
   lat: 38.1286501
   lng: -85.6868183
@@ -44325,6 +44337,7 @@
 6000 Loretta St, Louisville, KY:
   lat: 38.1629754
   lng: -85.709896
+6000 Louis-Huay, Louisville, KY: null
 6000 Lover's Lane, Louisville, KY: null
 6000 Lynnview Dr, Louisville, KY:
   lat: 38.1908289
@@ -50654,6 +50667,9 @@
 800 Brentwood Ave, Louisville, KY:
   lat: 38.1946055
   lng: -85.7727962
+800 Broadhale Dr, Louisville, KY:
+  lat: 38.1494583
+  lng: -85.6137785
 800 Broadway, Louisville, KY:
   lat: 38.244586
   lng: -85.739364
