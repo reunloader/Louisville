@@ -17355,6 +17355,7 @@
 200 South near 36, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
+200 South near 600 block of, Louisville, KY: null
 200 South near 64 West, Louisville, KY:
   lat: 38.2526488
   lng: -85.6981124
@@ -26161,6 +26162,9 @@
 300 Tazwell Dr, Louisville, KY:
   lat: 38.3071019
   lng: -85.5326085
+300 Tennis Blvd, Louisville, KY:
+  lat: 38.061662
+  lng: -85.9020789
 300 Tita, Louisville, KY: null
 300 Tom Robert Yanke near Kirsten Market, Louisville, KY: null
 300 Torrington Rd, Louisville, KY:
@@ -42883,6 +42887,9 @@
 600 Childs11 Street, Louisville, KY: null
 600 Cinder Street at the intersection of Clay and Hancock, Louisville, KY: null
 600 Circle or Highway Line, Louisville, KY: null
+600 Clark Station Rd, Louisville, KY:
+  lat: 38.229962
+  lng: -85.422442
 600 Clinton Street, Louisville, KY: null
 600 Colonel Sanders Ln, Louisville, KY:
   lat: 38.1999187
@@ -43865,6 +43872,9 @@
 600 South. Further details, Louisville, KY:
   lat: 38.24749
   lng: -85.7476008
+600 South. The vehicle potentially posed a hazard, Louisville, KY:
+  lat: 38.2486074
+  lng: -85.7563848
 600 South10th Street, Louisville, KY:
   lat: 38.24992
   lng: -85.767932
@@ -50291,6 +50301,9 @@
   lat: 38.2443753
   lng: -85.6138961
 7700 Verna Rd, near Mallory Way and Vandre Ave, Louisville, KY: null
+7700 Westwood Farms Ct, Louisville, KY:
+  lat: 38.1983859
+  lng: -85.6128247
 7700 Wictor Ct, Louisville, KY:
   lat: 38.209842
   lng: -85.6141349
