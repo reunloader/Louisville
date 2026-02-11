@@ -8977,6 +8977,7 @@
   lat: 38.2313724
   lng: -85.7524629
 1300 South Foid Street, Louisville, KY: null
+1300 South Forest Street, Louisville, KY: null
 1300 South Forth Street, Louisville, KY: null
 1300 South Hearthborne Parkway at Thornton Sean, Louisville, KY: null
 1300 South Hirsborne Pkwy, Holiday Inn, Louisville, KY: null
@@ -12473,6 +12474,9 @@
 1600 W Chestnut St, near Sobriety Soldiers, Louisville, KY:
   lat: 38.251069
   lng: -85.77791
+1600 W Hill St, Louisville, KY:
+  lat: 38.2273572
+  lng: -85.7817353
 1600 W Kentucky St, Louisville, KY:
   lat: 38.2414959
   lng: -85.7803273
@@ -29576,6 +29580,9 @@
 ? 3500 Rogue Way. The individual was experiencing diabetic issues, and responders
   faced a challenge gaining access, Louisville, KY
 : null
+3500 Rudd Ave, Louisville, KY:
+  lat: 38.276048
+  lng: -85.804872
 3500 Sample Way, Louisville, KY:
   lat: 38.2880155
   lng: -85.5070449
