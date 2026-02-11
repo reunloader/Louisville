@@ -235,6 +235,9 @@
 07 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+07 Catheen Way, Louisville, KY:
+  lat: 38.1624306
+  lng: -85.7070326
 07 Cooper Chapel Rd, Louisville, KY:
   lat: 38.1092483
   lng: -85.6475798
@@ -4316,6 +4319,9 @@
 10000 Manslick Rd, Louisville, KY:
   lat: 38.112407
   lng: -85.780039
+10000 Marina Dr, Louisville, KY:
+  lat: 38.3312116
+  lng: -85.6256915
 10000 National Turnpike, Louisville, KY:
   lat: 38.1056813
   lng: -85.742609
@@ -31095,6 +31101,9 @@
 3900 Altair Ln, Louisville, KY:
   lat: 38.1271771
   lng: -85.6918601
+3900 Altawood Ct, Louisville, KY:
+  lat: 38.3017481
+  lng: -85.5078541
 3900 Bank St near 39th and 41st Streets, Louisville, KY:
   lat: 38.2717715
   lng: -85.8120889
@@ -36823,6 +36832,9 @@
 4500 Winnrose Way, Louisville, KY: null
 4500 outer loop, Lambert and Nottemeyer Line, Louisville, KY: null
 4512 Tray Place, Louisville, KY: null
+46 Beechbrook Rd, Louisville, KY:
+  lat: 38.1823343
+  lng: -85.6416968
 46 Poplar Level Rd, Louisville, KY:
   lat: 38.1581079
   lng: -85.646379
