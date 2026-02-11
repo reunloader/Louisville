@@ -4916,6 +4916,9 @@
 10700 Dixie Hwy near Arby’s, Louisville, KY:
   lat: 38.0989297
   lng: -85.8725181
+10700 Dixie Hwy, Louisville, KY:
+  lat: 38.0989297
+  lng: -85.8725181
 10700 Eagle Ridge Pl, Louisville, KY:
   lat: 38.255025
   lng: -85.5580103
@@ -10430,6 +10433,9 @@
 1400 W Chestnut St near South 22nd and South 24th, Louisville, KY:
   lat: 38.250709
   lng: -85.774611
+1400 W Evelyn Ave, Louisville, KY:
+  lat: 38.1967018
+  lng: -85.7692937
 1400 W Jefferson St at Community Transitional Services, Louisville, KY:
   lat: 38.2553466
   lng: -85.7740103
@@ -18431,6 +18437,7 @@
 200 magazine street near 23rd and 22nd Streets, Louisville, KY:
   lat: 38.248384
   lng: -85.7648627
+200 maintenance service involved responders searching the area, Louisville, KY: null
 200 market, Louisville, KY:
   lat: 38.254211
   lng: -85.7500224
@@ -23688,6 +23695,9 @@
 2700 South 4th Street, Louisville, KY:
   lat: 38.210219
   lng: -85.764784
+2700 South 4th near Dollar General, Louisville, KY:
+  lat: 38.2222395
+  lng: -85.7625678
 2700 South 6th Street, Louisville, KY:
   lat: 38.210579
   lng: -85.768087
@@ -48888,6 +48898,7 @@
   lat: 38.2184913
   lng: -85.7015596
 7000 Ridge Run, Sparkle, Louisville, KY: null
+7000 River Rd, Marina Village, Louisville, KY: null
 7000 Rogers Ln, Louisville, KY: null
 7000 S Jackson St, Louisville, KY:
   lat: 38.2345558
