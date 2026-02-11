@@ -1321,6 +1321,9 @@
 100 Metalwood, Louisville, KY: null
 100 Middletown Industrial Blvd, Louisville, KY: null
 100 Mike X-ray Alpha, Louisville, KY: null
+100 Mills Dr near Crossroads of Alberta Road and Sharon Dr, Louisville, KY:
+  lat: 38.1561097
+  lng: -85.8292757
 100 Mills Dr, Louisville, KY:
   lat: 38.1561097
   lng: -85.8292757
@@ -55122,6 +55125,9 @@
 9200 Stonestreet Rd at Eliza House, Louisville, KY:
   lat: 38.118958
   lng: -85.846091
+9200 Stonestreet Rd near Valley College Dr and Kennedy Place Cir, Louisville, KY:
+  lat: 38.118958
+  lng: -85.846091
 9200 Stonestreet Rd near Valley College and Kingly Place, Louisville, KY:
   lat: 38.118958
   lng: -85.846091
@@ -56351,6 +56357,7 @@ Adams St and Weller Ave, Louisville, KY: null
 Aiken Rd and Arnold Palmer Blvd, Louisville, KY: null
 Aiken Rd and Curry Farms Dr, Louisville, KY: null
 Alarby Avenue and Woodbourne Ave, Louisville, KY: null
+Alberta Road and Sharon Dr, Louisville, KY: null
 Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and Cross Street Pacific Avenue, Louisville, KY: null
