@@ -8125,6 +8125,7 @@
   lng: -85.890268
 12600 Charles Farm Cir, Louisville, KY: null
 12600 Charles Farm Servo, Louisville, KY: null
+12600 Eastern Railroads, Louisville, KY: null
 12600 Goss Ave, Louisville, KY:
   lat: 38.2240623
   lng: -85.7301563
@@ -12089,6 +12090,9 @@
 1600 Girard Dr, Louisville, KY:
   lat: 38.1594757
   lng: -85.7112444
+1600 Goldsmith Ln, Louisville, KY:
+  lat: 38.2060747
+  lng: -85.6732415
 1600 Grassland Drmber 1, Louisville, KY: null
 ? 1600 Grassland Drmber 1. The specific details surrounding the incident were not
   immediately clear from the initial report. Police units were dispatched, Louisville,
@@ -51479,6 +51483,9 @@
 800 South 46th Street, Louisville, KY:
   lat: 38.2638145
   lng: -85.8248113
+800 South 4th Street at Tower Apartments, Louisville, KY:
+  lat: 38.2440401
+  lng: -85.7592478
 800 South 4th Street at the tower apartments, Louisville, KY:
   lat: 38.2440401
   lng: -85.7592478
@@ -57013,6 +57020,7 @@ Gladden Dr and Elba Dr, Louisville, KY: null
 Glaser Ln and Foundry Rd, Louisville, KY: null
 Glen Stone Rd and Spring Gate Dr, Louisville, KY: null
 Glendora Ave and Herman St, Louisville, KY: null
+Glenmary Ave and Ray Ave, Louisville, KY: null
 Glenmary Springs Dr and Old Marshal Road, Louisville, KY: null
 Global Dr and Renate Rd, Louisville, KY: null
 Golden Dr and Keely Park Lane, Louisville, KY: null
