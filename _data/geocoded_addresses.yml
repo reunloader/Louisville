@@ -4739,6 +4739,7 @@
   lat: 38.2883418
   lng: -85.5138636
 10500 Meeting St suite 104, Louisville, KY: null
+10500 Monolith Circle, Louisville, KY: null
 10500 Monteray Place Cir, Louisville, KY:
   lat: 38.1014115
   lng: -85.8664155
@@ -42009,6 +42010,9 @@
   lng: -85.8186862
 5700 Bruns, city 703, Louisville, KY: null
 5700 Case Way, Crossroads, Huffridge Lane, Louisville, KY: null
+5700 Cynthia Dr, Louisville, KY:
+  lat: 38.166556
+  lng: -85.5744835
 5700 Fern Valley Rd, Louisville, KY:
   lat: 38.1560303
   lng: -85.6575433
