@@ -3294,6 +3294,9 @@
   lat: 38.1415118
   lng: -85.6606289
 1000 Leachie Highway, Louisville, KY: null
+1000 Leisure Ln, Louisville, KY:
+  lat: 38.1021709
+  lng: -85.6441984
 1000 Less Mansoor Crows, Louisville, KY: null
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
@@ -13921,6 +13924,9 @@
   lng: -85.7922937
 1800 E W Ashland Ave, Louisville, KY: null
 1800 E W Kentucky St, Louisville, KY: null
+1800 East Oak, Louisville, KY:
+  lat: 38.2349622
+  lng: -85.7292213
 1800 Eastern Parkway across Fernwood Ave in North Ln, Louisville, KY: null
 1800 Euclid Ave, Louisville, KY:
   lat: 38.2146706
@@ -26120,6 +26126,7 @@
 300 Tazwell Dr, Louisville, KY:
   lat: 38.3071019
   lng: -85.5326085
+300 Tita, Louisville, KY: null
 300 Tom Robert Yanke near Kirsten Market, Louisville, KY: null
 300 Torrington Rd, Louisville, KY:
   lat: 38.0966603
@@ -57639,6 +57646,7 @@ Shelby St and East Rectum Road, Louisville, KY: null
 Shelby St and Eastern Parkway, Louisville, KY: null
 Shelby St and Goss Ave, Louisville, KY: null
 Shelby St and Lydia St, Louisville, KY: null
+Shelby St and Shelby Parkway, Louisville, KY: null
 Shelby Station Dr and Fairway Park Dr, Louisville, KY: null
 Shelbyville Rd and Adams St, Louisville, KY: null
 Shelbyville Rd and Arterburn Dr, Louisville, KY: null
