@@ -5467,6 +5467,7 @@
 1100 Hess Ln, Louisville, KY:
   lat: 38.2091348
   lng: -85.7272949
+1100 Highway 16, Louisville, KY: null
 1100 Highway near McDonald's, Louisville, KY:
   lat: 38.2398168
   lng: -85.785976
@@ -19497,6 +19498,7 @@
 2000 that street, Louisville, KY: null
 2000 the highway. Investigators are working, Louisville, KY: null
 2000 the radio near Adamant, Louisville, KY: null
+2000 the same street. The vehicle was later found, Louisville, KY: null
 2000 unspecified street, Louisville, KY: null
 2000 west Chestnut View Ct, Louisville, KY: null
 2000 white Dodge truck, Louisville, KY: null
@@ -47862,6 +47864,9 @@
 700 Major, Louisville, KY:
   lat: 38.1317873
   lng: -85.576845
+700 Market, Louisville, KY:
+  lat: 38.2531216
+  lng: -85.739834
 700 Marlowe's Radford Rd, Louisville, KY: null
 700 Marlowe's Radford Rd. The ex-boyfriend was present at the location, reportedly refusing, Louisville, KY:
   lat: 38.2187858
@@ -53302,6 +53307,9 @@
   lat: 38.117627
   lng: -85.696878
 8900 Pine Lake Dr near Fanging and Romney, Louisville, KY: null
+8900 Preston Hwy, Louisville, KY:
+  lat: 38.124214
+  lng: -85.679273
 ? 8900 St. St Anthony Church Rd. Shortly after, a single-vehicle accident was reported
   in the 7700 block of St. St Anthony Church Rd, where a utility pole appeared to
   have been pulled down. EMS was dispatched to assess for injuries., Louisville, KY
@@ -58139,6 +58147,7 @@ Weddington Parkway and South Hurstborn Parkway, Louisville, KY: null
 Weigel Rd and Farnsley Rd, Louisville, KY: null
 Weikel Ave and Frankfort Ave, Louisville, KY: null
 Weissinger Rd and Langdon Dr, Louisville, KY: null
+Wesboro Rd and Lake Village Dr, Louisville, KY: null
 Wessel Rd and Burnley Rd, Louisville, KY: null
 West Bank Avenue and Webster St, Louisville, KY: null
 West Bennett Avenue and Oakland Ave, Louisville, KY: null
