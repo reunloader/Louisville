@@ -15140,6 +15140,9 @@
   assist. The patient was a caregiver, Louisville, KY
 : null
 1900 eastbound mile marker 64, Louisville, KY: null
+1900 highway, Louisville, KY:
+  lat: 38.223072
+  lng: -85.792655
 1900 hours, possibly related, Louisville, KY: null
 1900 outer loop at UPS, Louisville, KY:
   lat: 38.1274634
@@ -18395,6 +18398,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 eastbound 16 mile marker, Louisville, KY: null
+200 eastbound Dixie Hwy near Southern Pky, Louisville, KY:
+  lat: 38.1748115
+  lng: -85.7745087
 200 eastbound I-200 near Dumanil, Louisville, KY: null
 200 eastbound I-200 near Mine Worker2, Louisville, KY: null
 200 eastbound I-64 at the east end, Louisville, KY:
@@ -26513,6 +26519,7 @@
 300 the area, Louisville, KY: null
 300 the black Chrysler 300, Louisville, KY: null
 300 the street, confirming a response, Louisville, KY: null
+300 third blue area, Louisville, KY: null
 300 unknown street, Louisville, KY: null
 300 was dispatched to investigate the activation., Louisville, KY: null
 300 was dispatched, Louisville, KY: null
@@ -52984,6 +52991,9 @@
 8600 Old Bardstown Rd near Fairmount Rd and Lane's Cawood Dr, Louisville, KY:
   lat: 38.1227566
   lng: -85.5749172
+8600 Park Laureate Dr, Louisville, KY:
+  lat: 38.215125
+  lng: -85.603426
 8600 Peggy Dr, Louisville, KY:
   lat: 38.1255205
   lng: -85.6731779
