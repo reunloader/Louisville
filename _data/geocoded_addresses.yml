@@ -29183,6 +29183,9 @@
 3500 Capri Dr, between Gladden Dr and Elba Dr,, Louisville, KY: null
 3500 Caravan Way, Louisville, KY: null
 3500 Carrigan Road, Louisville, KY: null
+3500 Cedar Creek, Louisville, KY:
+  lat: 38.1225307
+  lng: -85.5909606
 3500 Cedar Springs Dr, Louisville, KY:
   lat: 38.1469339
   lng: -85.5894314
@@ -40911,6 +40914,7 @@
 5300 North 20th Street near Portland and Lytle, Louisville, KY:
   lat: 38.2624273
   lng: -85.7824944
+5300 O'Chire Road, Louisville, KY: null
 5300 Old Dixie Hwy, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
@@ -41240,6 +41244,7 @@
 5400 River Creek Ct, Louisville, KY:
   lat: 38.3291986
   lng: -85.6389379
+5400 Robinwood and Riverdale, Louisville, KY: null
 5400 Ronwood Dr, Louisville, KY:
   lat: 38.143259
   lng: -85.6606865
@@ -45706,6 +45711,9 @@
 6500 Signature Dr. The officers checked multiple locations, Louisville, KY:
   lat: 38.1566
   lng: -85.714532
+6500 Six Mile Ln, Louisville, KY:
+  lat: 38.197351
+  lng: -85.6340417
 6500 South 7th Street, Louisville, KY:
   lat: 38.2231367
   lng: -85.7727441
