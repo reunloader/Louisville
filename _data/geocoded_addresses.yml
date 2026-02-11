@@ -12893,6 +12893,7 @@
   lng: -85.788435
 1700 Dixdale apartment200 block of, Louisville, KY: null
 1700 Dixie Hwy and Taylor Ave, Louisville, KY: null
+1700 Dixville, Louisville, KY: null
 1700 Doom Nell Street, Louisville, KY: null
 1700 Doomsdale Street, Louisville, KY: null
 1700 Dumanell or Duvall St, Louisville, KY: null
@@ -25698,6 +25699,7 @@
 300 Meadowood Ct near Southside Dr, Louisville, KY:
   lat: 38.1508839
   lng: -85.7686919
+300 Meadowood Ct, Crop St of Southside Dr, Louisville, KY: null
 300 Meadowood Ct, Louisville, KY:
   lat: 38.1508839
   lng: -85.7686919
@@ -36891,6 +36893,9 @@
 4500 South1st Street, Louisville, KY:
   lat: 38.18914
   lng: -85.761611
+4500 South1st, Louisville, KY:
+  lat: 38.18914
+  lng: -85.761611
 4500 South2nd Street, Louisville, KY:
   lat: 38.189113
   lng: -85.763864
@@ -39604,6 +39609,9 @@
 500 South30th Street, Louisville, KY:
   lat: 38.254142
   lng: -85.800946
+500 South3rd Street, Louisville, KY:
+  lat: 38.249733
+  lng: -85.756157
 500 South3rd, Louisville, KY:
   lat: 38.249733
   lng: -85.756157
@@ -47553,6 +47561,7 @@
   lng: -85.7414498
 700 East Ellsworth, Louisville, KY: null
 700 East Grade Street, Louisville, KY: null
+700 East Gray, Crop St South Shelby and South Clay, Louisville, KY: null
 700 East Great Street, Louisville, KY: null
 700 East Hill, Louisville, KY:
   lat: 38.2241
