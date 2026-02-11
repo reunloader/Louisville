@@ -170,6 +170,9 @@
 03 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
+03 Undine Dr, Louisville, KY:
+  lat: 38.1861579
+  lng: -85.8569575
 04 Craycraft Ave, Louisville, KY:
   lat: 38.2008249
   lng: -85.6477863
@@ -57398,6 +57401,7 @@ Lee St and Arthur St, Louisville, KY: null
 Lee St and East Barbara Avenue, Louisville, KY: null
 Lee St and West Galbra Avenue, Louisville, KY: null
 Leemont Dr and Terry Rd, Louisville, KY: null
+Lees Ln and Camp Crown Road, Louisville, KY: null
 Leith Ln and Meadowcreek Dr, Louisville, KY: null
 Lena Ln and Newburg Rd, Louisville, KY: null
 Lencott Dr and Terry Rd, Louisville, KY: null
