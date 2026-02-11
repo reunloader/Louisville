@@ -15,6 +15,7 @@
   lng: -85.6347733
 0 Cedar Creek Rd and Brownlee Rd, Louisville, KY: null
 0 Champion Farms Drought, Louisville, KY: null
+0 Charlie Norant-Mary and 200 block of West, Louisville, KY: null
 0 Colonial Oaks Ct, Louisville, KY:
   lat: 38.1746863
   lng: -85.7602178
@@ -12809,6 +12810,7 @@
 1700 Bardstown Rd, Louisville, KY:
   lat: 38.230002
   lng: -85.7037117
+1700 Beat6, Louisville, KY: null
 1700 Beaver St, Louisville, KY:
   lat: 38.185675
   lng: -85.7821746
@@ -14240,6 +14242,10 @@
 1800 Outer Loop, Louisville, KY:
   lat: 38.1280358
   lng: -85.7393457
+? 1800 Outer Loop. The vehicle may have been stopped in traffic or was experiencing
+  GPS issues. Responders checked the area, Louisville, KY
+: lat: 38.1282451
+  lng: -85.7382971
 1800 Owen St, Louisville, KY:
   lat: 38.262421
   lng: -85.779286
@@ -17911,6 +17917,9 @@
 200 West at Poplar Level, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
+200 West at Poplar, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at River Park Dr, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
@@ -19120,6 +19129,7 @@
   lng: -85.5102464
 2000 Nessa Miller Parkway, Louisville, KY: null
 2000 Newberg, Louisville, KY: null
+2000 Newbrook Road near Olaf, crossing Bellarmine Blvd and Richmond Dr, Louisville, KY: null
 2000 Newburg Rd at Nazareth nursing home, Louisville, KY:
   lat: 38.2189833
   lng: -85.7108271
@@ -19973,6 +19983,12 @@
   lat: 38.2390037
   lng: -85.7885013
 2100 Osage Ave, with cross streets of 22nd and Dr, Louisville, KY: null
+2100 Outer Loop, Louisville, KY:
+  lat: 38.1313644
+  lng: -85.728229
+2100 Outer Loop. The area was checked, Louisville, KY:
+  lat: 38.1313644
+  lng: -85.728229
 2100 Palatka Rd, Louisville, KY:
   lat: 38.1541103
   lng: -85.7987884
@@ -38259,6 +38275,9 @@
 4900 E Manslick Rd, Louisville, KY:
   lat: 38.1169537
   lng: -85.6694382
+4900 Flicker Rd, Louisville, KY:
+  lat: 38.1307941
+  lng: -85.7816892
 4900 Forest Park Dr across Forest Dr and Templewood Dr, Louisville, KY: null
 4900 Forest Park Dr, Louisville, KY:
   lat: 38.1657
@@ -56415,6 +56434,7 @@ Alford Ave and Duncan St, Louisville, KY: null
 Algonquin Parkway and Pacific Avenue, Louisville, KY: null
 Algonquin Pky and Cross Street Pacific Avenue, Louisville, KY: null
 Algonquin Pky and King Run Road, Louisville, KY: null
+Algonquin Pky and Rodman St, Louisville, KY: null
 Algonquin Pky and Sharp Ave, Louisville, KY: null
 Algonquin Pky and Western Ave, Louisville, KY: null
 Algonquin Pky and Winkler Ave, Louisville, KY: null
