@@ -6415,6 +6415,9 @@
 11400 Garden Trace Dr, Louisville, KY:
   lat: 38.082761
   lng: -85.6574631
+11400 Interchange Dr, Louisville, KY:
+  lat: 38.0983101
+  lng: -85.6808359
 11400 Leman Dr between Windy Willow and Rockwater, Louisville, KY: null
 11400 Leman Dr. The patient is a 21-year-old female experiencing chest pain and was able, Louisville, KY:
   lat: 38.2055725
@@ -19589,6 +19592,7 @@
 2100 Buechel Bank Rd, Louisville, KY:
   lat: 38.1865584
   lng: -85.6469754
+2100 Buel Lana Dr, Louisville, KY: null
 2100 Cambridge Dr, Louisville, KY:
   lat: 38.1625193
   lng: -85.7671139
@@ -43458,6 +43462,7 @@
 600 North39th Street, Louisville, KY:
   lat: 38.2727871
   lng: -85.8118778
+600 Northbound I-265, Louisville, KY: null
 600 Northside Avenue, Louisville, KY: null
 600 Northwestern Pky, Louisville, KY:
   lat: 38.2705013
