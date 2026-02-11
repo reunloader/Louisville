@@ -10066,6 +10066,7 @@
   lat: 38.0762726
   lng: -85.8819062
 1400 One Rush Run Road, Louisville, KY: null
+1400 P3, Shawnee area, Louisville, KY: null
 1400 Park Ridge Parkway, Louisville, KY: null
 ? 1400 Parkridge Pky PARKWAY for a 66-year-old male experiencing abdominal pain and
   who was not alert. Fire Engine 100 was among the units on scene., Louisville, KY
@@ -16558,6 +16559,9 @@
   was also complaining of a medical issue., Louisville, KY
 : null
 200 Mervin Avenue, Louisville, KY: null
+200 Miami Ave, Louisville, KY:
+  lat: 38.2727122
+  lng: -85.8115126
 200 Militia Dr, Louisville, KY:
   lat: 38.1314263
   lng: -85.7603208
@@ -34006,6 +34010,9 @@
   lng: -85.8392227
 4000 Herman St, City Academy of Shawnee, Louisville, KY: null
 4000 Herman St, Louisville, KY:
+  lat: 38.260271
+  lng: -85.817216
+4000 Herman St. The vehicle was determined, Louisville, KY:
   lat: 38.260271
   lng: -85.817216
 4000 Herman near Academy of Shawnee, Louisville, KY:
