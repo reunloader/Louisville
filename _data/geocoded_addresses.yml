@@ -4290,6 +4290,9 @@
 1000 Zorn Ave, Louisville, KY:
   lat: 38.2769083
   lng: -85.6987274
+1000 Zorn, Louisville, KY:
+  lat: 38.2800223
+  lng: -85.7023596
 1000 [Street Name Missing], Louisville, KY:
   lat: 38.1394402
   lng: -85.7834796
@@ -19362,6 +19365,7 @@
   running over mailboxes and nearly hitting a phone pole, Louisville, KY
 : null
 2000 Radio, Louisville, KY: null
+2000 Ram pickup truck at Millridge and Farnsley Rd, Louisville, KY: null
 2000 Range Rover near Kentucky tags, Louisville, KY: null
 2000 Ray Nan Dr, Louisville, KY: null
 2000 Red Dodge Charger, Louisville, KY: null
