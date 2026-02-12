@@ -15768,6 +15768,10 @@
 200 Danzig, Louisville, KY: null
 200 David Four, Louisville, KY: null
 200 David and 100 block of David, Louisville, KY: null
+200 Delmont Ave around 12:18 p, Louisville, KY: null
+200 Delmont Ave at approximately 12:21 p, Louisville, KY:
+  lat: 38.26088
+  lng: -85.709935
 200 Derby Ave, Louisville, KY:
   lat: 38.1895405
   lng: -85.6367535
@@ -24740,6 +24744,7 @@
   following an argument related, Louisville, KY
 : lat: 38.266613
   lng: -85.6580484
+2900 Brownsboro Rd around 12:24 p, Louisville, KY: null
 2900 Brownsboro Rd at Super USA, Louisville, KY:
   lat: 38.2598544
   lng: -85.6878487
@@ -48179,6 +48184,9 @@
 700 Lakeheath Dr, Louisville, KY:
   lat: 38.1714069
   lng: -85.701805
+700 Lampton St at around 12:39 p, Louisville, KY:
+  lat: 38.241443
+  lng: -85.741966
 700 Lampton St near Bates Memorial Baptist Church, Louisville, KY:
   lat: 38.241443
   lng: -85.741966
