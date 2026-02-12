@@ -1224,6 +1224,9 @@
 100 King S-ray John, Louisville, KY: null
 100 LaFontaine Drive, Louisville, KY: null
 100 LaFontana Drive, Louisville, KY: null
+100 Ladbroke Grove Rd, Louisville, KY:
+  lat: 38.2326827
+  lng: -85.4117453
 100 Lafayette Dr, Louisville, KY:
   lat: 38.1940389
   lng: -85.7941733
@@ -12243,6 +12246,9 @@
 1600 Hazel St, Louisville, KY:
   lat: 38.2333307
   lng: -85.8062352
+1600 House, Louisville, KY:
+  lat: 38.2408645
+  lng: -85.7548989
 1600 Hunnington Pl, Louisville, KY:
   lat: 38.2238897
   lng: -85.587231
@@ -16625,6 +16631,9 @@
 200 Indian Lake Dr, Louisville, KY:
   lat: 38.2946775
   lng: -85.5524855
+200 Indian Woods Dr, Louisville, KY:
+  lat: 38.2676908
+  lng: -85.6545041
 200 Inverness Ave across South 3rd Street and Southside Dr, Louisville, KY: null
 200 Iroquois Ave, Louisville, KY:
   lat: 38.170287
@@ -20528,6 +20537,9 @@
 22 Griffiths Ave, Louisville, KY:
   lat: 38.2650846
   lng: -85.7872589
+22 Indian Woods Dr, Louisville, KY:
+  lat: 38.2676908
+  lng: -85.6545041
 22 La Saver Drive, Louisville, KY: null
 22 Lisbon Ln, Louisville, KY:
   lat: 38.2065763
@@ -51769,6 +51781,9 @@
   lat: 38.313437
   lng: -85.5612938
 800 North Polk Lake Road, Louisville, KY: null
+800 North34th Street, Louisville, KY:
+  lat: 38.2764212
+  lng: -85.8032977
 800 Northumberland Dr, Louisville, KY:
   lat: 38.3098663
   lng: -85.5238691
