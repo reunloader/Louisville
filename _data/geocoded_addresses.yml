@@ -16073,6 +16073,9 @@
 200 East at Taylor'sville Road, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at Taylorsville Rd, Louisville, KY:
+  lat: 38.1860805
+  lng: -85.7582171
 200 East at mile marker 12, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -25112,6 +25115,7 @@
 300 Anderson Ave, Louisville, KY:
   lat: 38.1892715
   lng: -85.6490939
+300 Archer Road, Louisville, KY: null
 300 Arles Town Road, Louisville, KY: null
 300 Arlington Meadows Dr, Louisville, KY:
   lat: 38.2322537
@@ -29101,6 +29105,9 @@
   lat: 38.1550569
   lng: -85.6685341
 3400 Poliski Drive, Louisville, KY: null
+3400 Portland Place near Bank St, Louisville, KY:
+  lat: 38.2654471
+  lng: -85.7821805
 3400 Portland Place, Louisville, KY: null
 3400 Portland Place, near North 33rd Street. Responders were sent, Louisville, KY:
   lat: 38.2737912
@@ -57656,6 +57663,7 @@ Naples Rd and Furman Blvd, Louisville, KY: null
 Near Ash Street and Reed Ave, Louisville, KY: null
 Near Blue Lick Rd and South Park Rd, Louisville, KY: null
 Near Crop St and Rutherford Ave, Louisville, KY: null
+Near Downlea Road and Thornhill Rd, Louisville, KY: null
 Near Fagan Bush Lane and Wilshire Blvd, Louisville, KY: null
 Near Ghostmouth Lane and Heights Lane, Louisville, KY: null
 Near Hurstborn Parkway and Blue Lick Rd, Louisville, KY: null
