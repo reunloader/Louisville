@@ -16976,6 +16976,9 @@
 200 North at Shelbyville Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
+200 North at Smyrna, Louisville, KY:
+  lat: 38.2607792
+  lng: -85.7797092
 200 North at Westport Rd, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -24919,6 +24922,7 @@
   lng: -85.7944508
 2900 Montgomery St. Responders encountered an aggressive adult male experiencing high blood pressure., Louisville, KY: null
 2900 More in Place, Louisville, KY: null
+2900 Murray Hill Pike, Louisville, KY: null
 2900 Narragansett Dr, Louisville, KY:
   lat: 38.2257706
   lng: -85.8035
@@ -31019,6 +31023,9 @@
 : lat: 38.1910205
   lng: -85.7836633
 3700 Taylorsville Rd (Thorntons), Louisville, KY: null
+3700 Taylorsville Rd at Paul's Food Mart, Louisville, KY:
+  lat: 38.2207284
+  lng: -85.6459478
 3700 Taylorsville Rd, Louisville, KY:
   lat: 38.2207284
   lng: -85.6459478
@@ -47741,6 +47748,9 @@
   lat: 38.0695318
   lng: -85.6255144
 700 Cedar Grove Ct, Louisville, KY:
+  lat: 38.274744
+  lng: -85.80561
+700 Cedar Grove, Louisville, KY:
   lat: 38.274744
   lng: -85.80561
 700 Cedar Ridge Ct, Hillock Dr, Louisville, KY: null
