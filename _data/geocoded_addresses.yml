@@ -4588,6 +4588,7 @@
 10200 W Market St, Louisville, KY:
   lat: 38.2555218
   lng: -85.7594798
+10200 West Vanslick Road, Louisville, KY: null
 10200 Westport Rd, Louisville, KY:
   lat: 38.292136
   lng: -85.56246
@@ -15608,6 +15609,9 @@
 200 Bishop Ln, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
+200 Blue Lick Rd, Louisville, KY:
+  lat: 38.1320223
+  lng: -85.6875599
 200 Booker, Louisville, KY:
   lat: 38.2540817
   lng: -85.5490351
@@ -40647,6 +40651,10 @@
   lat: 38.1681545
   lng: -85.8297235
 5100 Dixie Hwy, Wendy's, Louisville, KY: null
+? 5100 Dixie Hwy, with property damage noted by the vehicle's owner, who suspects
+  the mother or her boyfriend. The theft occurred shortly before the call, and authorities
+  are reviewing video footage, Louisville, KY
+: null
 ? 5100 Dixie Hwy. Evacuations of the affected area were underway as a precautionary
   measure. Responders were on scene and managed to bring the situation under control.,
   Louisville, KY
@@ -48884,6 +48892,9 @@
 700 Tarrytowne Dr, Louisville, KY:
   lat: 38.1012113
   lng: -85.8493291
+700 Teak Dr, Louisville, KY:
+  lat: 38.1094625
+  lng: -85.6101293
 700 Terrier Ln, Louisville, KY:
   lat: 38.2063724
   lng: -85.6621501
