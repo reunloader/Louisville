@@ -9423,6 +9423,7 @@
 13600 Helen Ave, Louisville, KY:
   lat: 38.1695784
   lng: -85.8369369
+13600 LaGrange Road in Magnolia Springs East, Louisville, KY: null
 13600 LaGrange Road, Louisville, KY:
   lat: 38.2883418
   lng: -85.5138636
@@ -21545,6 +21546,9 @@
 2300 Stanley Gault Pky, Louisville, KY:
   lat: 38.2728001
   lng: -85.5154479
+2300 Stephan Ln near the pipeline, Louisville, KY:
+  lat: 38.167403
+  lng: -85.8009243
 2300 Strathmoor Blvd near Taylor'sville Road and Tennyson Ave, Louisville, KY:
   lat: 38.2160917
   lng: -85.6890174
