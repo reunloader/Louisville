@@ -26828,6 +26828,9 @@
 3000 Duncan St, Louisville, KY:
   lat: 38.2639873
   lng: -85.8003704
+3000 Dundee Rd near Lakegate Dr and Emerson Ave, Louisville, KY:
+  lat: 38.2124668
+  lng: -85.6873164
 3000 Dundee Rd, Louisville, KY:
   lat: 38.2124668
   lng: -85.6873164
@@ -57658,6 +57661,7 @@ Lake Ave and Osborne Dr, Louisville, KY: null
 Lake Forest Dr and Helmwood Dr, Louisville, KY: null
 Lake Forest Ln and Lake Forest Pky, Louisville, KY: null
 Lake Road and Bluegrass Ave, Louisville, KY: null
+Lakegate Dr and Emerson Ave, Louisville, KY: null
 Lampton St and Roselane St, Louisville, KY: null
 Landis Villa Dr and English Villa Dr, Louisville, KY: null
 Landside Dr and Breckenridge Ln, Louisville, KY: null
