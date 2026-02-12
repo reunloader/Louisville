@@ -17588,6 +17588,7 @@
   lng: -85.7586393
 200 Southbound I-265 near the 16, Louisville, KY: null
 200 Southbound I-65, Louisville, KY: null
+200 Southbound New Cut Rd, Louisville, KY: null
 200 Southbound at the 2-over-9 ramp, Louisville, KY: null
 200 Southbound near a house, Louisville, KY:
   lat: 38.2408645
@@ -40740,6 +40741,9 @@
 5100 Telford Ln, Louisville, KY:
   lat: 38.3166738
   lng: -85.5681968
+5100 Terrace Green Cir, Louisville, KY:
+  lat: 38.17747
+  lng: -85.6648923
 5100 Terry Rd, Louisville, KY:
   lat: 38.172376
   lng: -85.866125
@@ -58235,6 +58239,7 @@ South Fifth Street and Cedar Road, Louisville, KY: null
 South First Form Parkway and Bunsen Parkway, Louisville, KY: null
 South First Street Parkway and Shane Dr, Louisville, KY: null
 South First Street and East Market Street, Louisville, KY: null
+South First Street and Park Ave, Louisville, KY: null
 South Fortieth Street and Algonquin Pky, Louisville, KY: null
 South Fourth Street and South Fifth Street, Louisville, KY: null
 South Harrisborne Parkway and Ambrosse Ln, Louisville, KY: null
@@ -58451,6 +58456,7 @@ Thornberry Ave and Homeview Dr, Louisville, KY: null
 Thoroughbred Express Blvd and Taylor Springs Dr, Louisville, KY: null
 Tierney Ave and Sealston Dr, Louisville, KY: null
 Tile Factory Road and Selinda Ave, Louisville, KY: null
+Tillsville Road and Taylorsville Lake Rd, Louisville, KY: null
 Timber Wood Dr and Tear It On Rd, Louisville, KY: null
 Tiny Ln and Loney Ln, Louisville, KY: null
 Titan Dr and Atlas Rd, Louisville, KY: null
