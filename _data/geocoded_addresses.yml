@@ -18123,6 +18123,9 @@
 200 West near the 14 mile marker, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West near the 15 mile marker, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West near the 21, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
@@ -44826,6 +44829,9 @@
 6000 Shanks Ln, Louisville, KY:
   lat: 38.1972672
   lng: -85.8467736
+6000 Shelby, Louisville, KY:
+  lat: 38.2319691
+  lng: -85.4531665
 6000 South 2nd Street, Louisville, KY:
   lat: 38.2517255
   lng: -85.7540197
@@ -47052,6 +47058,7 @@
   lng: -85.7447768
 6900 East Highway 62, Louisville, KY: null
 6900 East Highway 62. Responding units were dispatched, Louisville, KY: null
+6900 East Ormsby and South Shelby, Louisville, KY: null
 6900 Eastern Parkway, Louisville, KY:
   lat: 38.2251961
   lng: -85.7251854
