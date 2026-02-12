@@ -34221,9 +34221,17 @@
   lat: 38.2291981
   lng: -85.7187475
 4000 Cutlass Ct, Crest of Caven Ave, Louisville, KY: null
+4000 Dixie Hwy near the liquor depot, Louisville, KY:
+  lat: 38.0220362
+  lng: -85.9174812
 4000 Dixie Hwy, Louisville, KY:
   lat: 38.1130706
   lng: -85.8626942
+? 4000 Dixie Hwy. Responders quickly responded to the scene and located the patient
+  at the specified location. EMS provided necessary medical care, and the individual
+  was transported, Louisville, KY
+: lat: 38.0220362
+  lng: -85.9174812
 4000 Dixie, Louisville, KY:
   lat: 38.151629
   lng: -85.8345273
@@ -54292,6 +54300,9 @@
 900 Iola Rd. Residents were advised, Louisville, KY:
   lat: 38.242236
   lng: -85.657594
+900 Jacqueline Way, Louisville, KY:
+  lat: 38.0967918
+  lng: -85.8565397
 900 Jefferson Green Apartments, Louisville, KY: null
 900 Jekyll Avenue, Louisville, KY: null
 900 Jennymac Dr, Louisville, KY:
