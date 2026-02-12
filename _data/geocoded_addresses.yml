@@ -7821,6 +7821,9 @@
 1200 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2524203
   lng: -85.7709853
+1200 W Muhammad Ali Blvd, near West Dr and South 1st Street, Louisville, KY:
+  lat: 38.2524203
+  lng: -85.7709853
 1200 W Oak St, Dismas Charities, Louisville, KY: null
 1200 W Oak St, Louisville, KY:
   lat: 38.2359727
@@ -13471,6 +13474,7 @@
 1700 Valley College Dr, Louisville, KY:
   lat: 38.112058
   lng: -85.8438187
+1700 Valley Forge Way, across Georgetown Cir, Louisville, KY: null
 1700 Valley Forge, Louisville, KY:
   lat: 38.195417
   lng: -85.793579
@@ -16227,6 +16231,7 @@
 200 East, causing property damage. This dangerous activity posed a risk, Louisville, KY: null
 200 East, just before the Bardstown Rd exit, Louisville, KY: null
 200 East, last seen near marker 1, Louisville, KY: null
+200 East, mile markers 16.6, Louisville, KY: null
 200 East, near South 18th Street and Crop St, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -29115,6 +29120,7 @@
 3400 Portland Plaza, Louisville, KY:
   lat: 38.2735846
   lng: -85.8016828
+3400 Portland Plaza, across Bank St in North 33rd, Louisville, KY: null
 ? 3400 Portland Plaza, near the intersection of Banks and 33rd Street. A 59-year-old
   male had fallen and sustained a head injury, and was found, Louisville, KY
 : lat: 38.2735846
@@ -39720,6 +39726,8 @@
 500 South8th Street, Louisville, KY:
   lat: 38.250978
   lng: -85.764372
+500 South8th Street, apartments, Louisville, KY: null
+500 South8th Street, two-story building, Louisville, KY: null
 500 South8th, Louisville, KY:
   lat: 38.250978
   lng: -85.764372
@@ -44142,6 +44150,7 @@
 600 South43rd Street, Louisville, KY:
   lat: 38.256075
   lng: -85.823114
+600 South43rd Street, across West Broadway and Elliott Ave, Louisville, KY: null
 600 South44, Louisville, KY: null
 600 South44th Street, Louisville, KY:
   lat: 38.256241
