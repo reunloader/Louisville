@@ -3432,6 +3432,7 @@
 1000 Mary St, Louisville, KY:
   lat: 38.2337014
   lng: -85.7369541
+1000 McFerrin, Louisville, KY: null
 1000 Millers Ln following a report of a male found hanging from a tree. Police and EMS were en route, Louisville, KY: null
 1000 Millers Ln, Louisville, KY:
   lat: 38.215576
@@ -15563,6 +15564,7 @@
 200 Bardstown Road. Several gallons of oil were reported, Louisville, KY:
   lat: 38.2289024
   lng: -85.7017791
+200 Barker Cannon’s Lane, Louisville, KY: null
 200 Baroness Ave, Louisville, KY:
   lat: 38.2359585
   lng: -85.7423923
@@ -23743,6 +23745,9 @@
   lat: 38.1087477
   lng: -85.8495141
 2700 Fern Valley Rd near Thorntons, Louisville, KY:
+  lat: 38.1567565
+  lng: -85.7154579
+2700 Fern Valley Rd, Louisville, KY:
   lat: 38.1567565
   lng: -85.7154579
 2700 Fern Valley Rd, Thorntons, Louisville, KY: null
