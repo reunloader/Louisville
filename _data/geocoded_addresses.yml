@@ -2628,6 +2628,9 @@
 100 [Street], Louisville, KY:
   lat: 38.2397587
   lng: -85.7540071
+100 [location unclear], Louisville, KY:
+  lat: 38.1912832
+  lng: -85.7610764
 100 [location unspecified], Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
@@ -32548,6 +32551,9 @@
   lat: 38.2551156
   lng: -85.7458112
 400 East Market at McDonald's, Louisville, KY:
+  lat: 38.253966
+  lng: -85.745958
+400 East Market near McDonald's, Louisville, KY:
   lat: 38.253966
   lng: -85.745958
 400 East Market, Louisville, KY:
