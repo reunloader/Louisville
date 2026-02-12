@@ -2143,6 +2143,9 @@
 100 South5th Street near West Main and W Market St, Louisville, KY:
   lat: 38.256688
   lng: -85.758304
+100 South7th Street, Louisville, KY:
+  lat: 38.2567296
+  lng: -85.7617206
 100 Southgate Ave, Louisville, KY:
   lat: 38.2008013
   lng: -85.7853295
@@ -2637,6 +2640,13 @@
 100 [location unspecified], Louisville, KY:
   lat: 38.2397699
   lng: -85.7540073
+100 acre, Louisville, KY:
+  lat: 38.2970412
+  lng: -85.50779
+? 100 acre. Units arrived to check on the involved drivers and clear the scene, ensuring
+  the roadway was safe, Louisville, KY
+: lat: 38.2970412
+  lng: -85.50779
 ? 100 an exit. The vehicle, identified as a silver SUV, was observed making dangerous
   maneuvers, swerving across all lanes of traffic. Police units were alerted, Louisville,
   KY
@@ -30622,6 +30632,10 @@
 3700 Falcon Crest Dr, Louisville, KY:
   lat: 38.1195704
   lng: -85.6923529
+? 3700 Falcon Crest Dr. A gray car was seen pulling up nearby, and EMS staged in the
+  area amid concerns about weapons outside. Responders arrived, Louisville, KY
+: lat: 38.1195625
+  lng: -85.6922653
 3700 Falcon Crest, Louisville, KY:
   lat: 38.1195704
   lng: -85.6923529
@@ -51378,6 +51392,9 @@
 800 East Madison, Louisville, KY:
   lat: 38.2478594
   lng: -85.7387767
+800 East Main, Louisville, KY:
+  lat: 38.2543888
+  lng: -85.7376467
 800 East Market at Goldies, Louisville, KY:
   lat: 38.2529944
   lng: -85.7379033
