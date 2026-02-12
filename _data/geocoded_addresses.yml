@@ -1884,6 +1884,9 @@
 100 S Clay St, Louisville, KY:
   lat: 38.254678
   lng: -85.739931
+100 S Clifton Ave, Louisville, KY:
+  lat: 38.253483
+  lng: -85.70623
 100 S English Station Rd at Landis Lakes Building 2, Crop St, English Villa, and Shelbyville Rd, Louisville, KY:
   lat: 38.1982883
   lng: -85.4752848
@@ -17959,6 +17962,9 @@
 200 West at Brighton Dr exit, Louisville, KY:
   lat: 38.2369202
   lng: -85.7569546
+200 West at Brownsboro Rd ramp, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at Cane Run Rd, Louisville, KY: null
 200 West at Cane Run Rd, near the Clint, prompted a dispatch, Louisville, KY:
   lat: 38.2000005
@@ -54837,6 +54843,7 @@
 900 V1, around 7:43 p, Louisville, KY: null
 900 V5, Louisville, KY: null
 900 V5, possibly involving an emergency services dispatch. Responding units verified the situation, Louisville, KY: null
+900 Valley Vista, Douglas, Louisville, KY: null
 900 Varble Ave near Iroquois Park, Louisville, KY:
   lat: 38.24953
   lng: -85.8297252
