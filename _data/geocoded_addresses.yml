@@ -10426,6 +10426,9 @@
 1400 Texas Ave, Louisville, KY:
   lat: 38.223318
   lng: -85.736068
+1400 Thor Ave, Louisville, KY:
+  lat: 38.1088028
+  lng: -85.6941212
 1400 Thornberry Ave across Utah Ave and Montana Ave, Louisville, KY: null
 1400 Thornberry Ave, Louisville, KY:
   lat: 38.206006
@@ -16057,6 +16060,9 @@
   lat: 38.1861148
   lng: -85.7582215
 200 East at I-64, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
+200 East at I-65 South, North Mormon and Children, and the 300 block of North 23rd, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
 200 East at I-65, Louisville, KY:
@@ -57962,6 +57968,7 @@ Putman St and Central Ave, Louisville, KY: null
 Queen Avenue and Wabasso Ave, Louisville, KY: null
 Radford Rd and Robinwood Rd, Louisville, KY: null
 Ralph Ave and Camp Ground Rd, Louisville, KY: null
+Ralph Ave and Judy Ln, Louisville, KY: null
 Ralph Ave and Likens Ave, Louisville, KY: null
 Ramona Ln and Solona Dr, Louisville, KY: null
 Rangeland Rd and Lana Dr, Louisville, KY: null
