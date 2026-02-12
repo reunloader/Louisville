@@ -3539,6 +3539,9 @@
   lat: 38.2203617
   lng: -85.4783836
 1000 NW, Louisville, KY: null
+1000 Nanka Rd, Louisville, KY:
+  lat: 38.1035611
+  lng: -85.8361829
 1000 Narragansett Dr, Louisville, KY:
   lat: 38.2257798
   lng: -85.8024807
@@ -27336,6 +27339,7 @@
 3000 West Broadway, Louisville, KY:
   lat: 38.2487798
   lng: -85.8020322
+3000 West Elm, Louisville, KY: null
 3000 West Hollywood Alley Blvd, Louisville, KY: null
 3000 West Hornsby Avenue, Louisville, KY: null
 3000 West Silt Street, Louisville, KY: null
@@ -58250,6 +58254,7 @@ Shelbyville Rd and Lucas Creek Rd, Louisville, KY: null
 Shelbyville Rd and Lucas Creek Road, Louisville, KY: null
 Shelbyville Rd and Moorman Rd, Louisville, KY: null
 Shelbyville Rd and Moser Rd, Louisville, KY: null
+Shelbyville Rd and Nanka Rd, Louisville, KY: null
 Shelbyville Rd and North First Spring Parkway, Louisville, KY: null
 Shelbyville Rd and North Hersborn Parkway, Louisville, KY: null
 Shelbyville Rd and North Hurstborne Parkway, Louisville, KY: null
