@@ -7458,6 +7458,9 @@
   lng: -85.7270574
 1200 Peach St, Louisville, KY: null
 1200 Pet Road, Louisville, KY: null
+1200 Phyllis Ave, Louisville, KY:
+  lat: 38.204062
+  lng: -85.780317
 1200 Picknill Avenue 7:00 a, Louisville, KY: null
 1200 Picknill Avenue 7:00 a.m., Louisville, KY: null
 ? 1200 Picknill Avenue. Upon arrival, they found a 29-year-old female experiencing
@@ -11592,6 +11595,9 @@
 1500 South15th, Louisville, KY:
   lat: 38.227846
   lng: -85.780251
+1500 South1st Street, Louisville, KY:
+  lat: 38.225358
+  lng: -85.757067
 1500 South28th Street, Louisville, KY:
   lat: 38.2319235
   lng: -85.8012772
@@ -16083,6 +16089,7 @@
 200 East Chesaust Street near Norton's Hospital, Louisville, KY:
   lat: 38.3153464
   lng: -85.5701038
+200 East Chesna Jewish Hospital, Louisville, KY: null
 200 East Chesnut at Norton, Castle Floyd, and Brooke, Louisville, KY: null
 200 East Chess, Louisville, KY: null
 200 East Chestnut 7:00 p, Louisville, KY: null
@@ -58181,6 +58188,7 @@ Kirby Ave and Doonville Street, Louisville, KY: null
 Klondike Ln and Jupiter Rd, Louisville, KY: null
 Klondike Ln and Poplar Level Rd, Louisville, KY: null
 La Boca Avenue and Parker Ave, Louisville, KY: null
+La Grange Rd and Chamberlain Ln, Louisville, KY: null
 La Grange Rd and Oliver St, Louisville, KY: null
 La Grange Rd and Spring St, Louisville, KY: null
 La Grange Rd and Westport Rd, Louisville, KY:
