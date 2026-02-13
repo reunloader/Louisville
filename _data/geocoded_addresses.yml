@@ -1528,6 +1528,9 @@
 100 North 4th Street, Louisville, KY:
   lat: 38.256754
   lng: -85.756584
+100 North 6th Street at Hominyle Center, Louisville, KY:
+  lat: 38.2573689
+  lng: -85.7599314
 100 North 6th Street near West Washington and West Main, Louisville, KY:
   lat: 38.2573689
   lng: -85.7599314
@@ -19448,6 +19451,7 @@
 ? 2000 QSO vehicle was hit on a BOLO alert. The vehicle was involved in a hit-and-run,
   running over mailboxes and nearly hitting a phone pole, Louisville, KY
 : null
+2000 RAM1500 near South 26th and West Jefferson, Louisville, KY: null
 2000 Radio, Louisville, KY: null
 2000 Ram 1500, Louisville, KY: null
 2000 Ram pickup truck at Millridge and Farnsley Rd, Louisville, KY: null
@@ -32515,6 +32519,9 @@
 400 Downes Ln, Louisville, KY:
   lat: 38.155955
   lng: -85.757544
+400 Dr, Louisville, KY:
+  lat: 38.2450219
+  lng: -85.48878
 400 Duncan St, Louisville, KY:
   lat: 38.2623371
   lng: -85.7836576
