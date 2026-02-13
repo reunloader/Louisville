@@ -319,6 +319,9 @@
 10 Altagate Rd, Louisville, KY:
   lat: 38.2449493
   lng: -85.6850992
+10 Arcade Ave, Louisville, KY:
+  lat: 38.2058407
+  lng: -85.7842971
 10 Ashby Farm Dr, Louisville, KY:
   lat: 38.1123068
   lng: -85.895559
@@ -16756,6 +16759,9 @@
 200 Marina Dr, Louisville, KY:
   lat: 38.3312116
   lng: -85.6256915
+200 Market, Louisville, KY:
+  lat: 38.254211
+  lng: -85.7500224
 200 Marshall St, Louisville, KY:
   lat: 38.2494928
   lng: -85.7360375
@@ -22065,6 +22071,9 @@
 ? 2400 Blankenbaker Pky PARKWAY. Police units were involved in the stop. The incident
   was cleared without further issue., Louisville, KY
 : null
+2400 Blanton Ln near 3900 block of Blanton Ln, Louisville, KY:
+  lat: 38.1555517
+  lng: -85.8280205
 2400 Bonnie Ln, Louisville, KY:
   lat: 38.1906685
   lng: -85.6368625
@@ -25309,6 +25318,9 @@
 30 Industry Rd, Louisville, KY:
   lat: 38.2139783
   lng: -85.7642889
+30 Larchmont Ave, Louisville, KY:
+  lat: 38.2098556
+  lng: -85.7803919
 30 Marlin Rd, Louisville, KY: null
 30 Mason Ave, Louisville, KY:
   lat: 38.2421114
