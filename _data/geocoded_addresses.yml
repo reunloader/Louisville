@@ -30341,6 +30341,9 @@
 3600 Craig Ave, Louisville, KY:
   lat: 38.1943008
   lng: -85.7899262
+3600 Craig, Louisville, KY:
+  lat: 38.1943009
+  lng: -85.7899262
 3600 Creel Ave, Louisville, KY:
   lat: 38.2129883
   lng: -85.7687203
@@ -39651,6 +39654,7 @@
 500 Industry Rd, Louisville, KY:
   lat: 38.2190711
   lng: -85.7730393
+500 Infilt Drive, Louisville, KY: null
 500 Inverness Ave involving a 17-year-old female experiencing consecutive seizures, Louisville, KY: null
 500 Inverness Ave, Louisville, KY:
   lat: 38.1675139
