@@ -30322,6 +30322,7 @@
   lat: 38.2329994
   lng: -85.7280197
 3600 Dale Park Terrace, Louisville, KY: null
+3600 Desmond's Lane near Shalom Towers, Louisville, KY: null
 3600 Dixie Hwy near St, Louisville, KY:
   lat: 38.1127713
   lng: -85.8629441
@@ -32047,6 +32048,9 @@
 : null
 3900 South Sioux Point Square. The alarm was reported as silent, and responding units were dispatched, Louisville, KY: null
 3900 South Third Street, Louisville, KY: null
+3900 South, Louisville, KY:
+  lat: 38.1984123
+  lng: -85.768721
 3900 South3rd Street, Louisville, KY:
   lat: 38.200478
   lng: -85.765216
@@ -54417,6 +54421,7 @@
 900 Chenwood near 4400 block of Chenwood Ln, Louisville, KY:
   lat: 38.1774258
   lng: -85.5562084
+900 Cherokee Rd (Isaacs and Isaacs), Louisville, KY: null
 900 Cherokee Rd near Highland Ave and Eastern Star Dr, Louisville, KY:
   lat: 38.2431148
   lng: -85.7250509
