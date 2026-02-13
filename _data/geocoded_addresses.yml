@@ -8403,6 +8403,7 @@
 13 Yorkshire Blvd, Louisville, KY:
   lat: 38.2235258
   lng: -85.6301604
+1300 13th Street and West Oak, Louisville, KY: null
 1300 7th Street, Louisville, KY:
   lat: 38.233221
   lng: -85.765939
@@ -17888,6 +17889,9 @@
   lat: 38.171058
   lng: -85.764873
 200 W Tenny Ave toward Berkeley, Louisville, KY: null
+200 W Tenny Ave, Louisville, KY:
+  lat: 38.176598
+  lng: -85.764889
 200 W Woodlawn Ave, Louisville, KY:
   lat: 38.181322
   lng: -85.764737
@@ -26730,6 +26734,9 @@
 300 Westfoot Road at Jordan, Louisville, KY:
   lat: 38.224663
   lng: -85.7697371
+300 Westlawn Ave, Louisville, KY:
+  lat: 38.2505047
+  lng: -85.8061024
 300 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
@@ -47441,6 +47448,9 @@
   lat: 38.2285273
   lng: -85.7063633
 6900 Franklin Farmer Way involved a 25-year-old male named Emmanuel, Louisville, KY: null
+6900 Gladstone Ave, Louisville, KY:
+  lat: 38.2180806
+  lng: -85.6792195
 6900 Goldsmith Ln, Louisville, KY:
   lat: 38.2063146
   lng: -85.6509363
@@ -47505,6 +47515,7 @@
 6900 Keswick Blvd, Louisville, KY:
   lat: 38.2178795
   lng: -85.7377355
+6900 Kindle Lane, Louisville, KY: null
 6900 King's Highway, Louisville, KY: null
 6900 Kroger, Louisville, KY:
   lat: 38.1461678
