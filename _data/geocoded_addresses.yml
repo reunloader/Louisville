@@ -17179,6 +17179,7 @@
 200 Northbound 65, Louisville, KY: null
 200 Northbound I-200 near the 29-mile marker, Louisville, KY: null
 200 Northbound I-200, parked in the right lane. Responders monitored the vehicle, Louisville, KY: null
+200 Northbound I-64, Louisville, KY: null
 200 Northbound at Billtown Rd, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
@@ -36017,6 +36018,9 @@
   lat: 38.190666
   lng: -85.716284
 4300 Charlotte A, Louisville, KY: null
+4300 Charlotte Dr, Louisville, KY:
+  lat: 38.194219
+  lng: -85.840404
 4300 Charlotte Dr, near Raydale Dr and South Crump Lane, Louisville, KY:
   lat: 38.194219
   lng: -85.840404
@@ -57155,6 +57159,7 @@ Bardstown Rd and Fairground Rd, Louisville, KY: null
 Bardstown Rd and Fairmount Rd, Louisville, KY: null
 Bardstown Rd and Fern Creek Rd, Louisville, KY: null
 Bardstown Rd and Gladstone Ave, Louisville, KY: null
+Bardstown Rd and Glenmary Farm Dr, Louisville, KY: null
 Bardstown Rd and Goldsmith Ln, Louisville, KY: null
 Bardstown Rd and Grimstad Road, Louisville, KY: null
 Bardstown Rd and Grinstead Dr, Louisville, KY: null
