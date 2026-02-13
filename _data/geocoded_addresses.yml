@@ -7721,6 +7721,7 @@
 1200 South Fourth Street near Montana and Creel, Louisville, KY: null
 1200 South Freshness Street, Louisville, KY: null
 1200 South Hearthstone Parkway near Bacalli, Louisville, KY: null
+1200 South Hirshborn Parkway, Louisville, KY: null
 1200 South Jackson at a church, Louisville, KY:
   lat: 38.23365
   lng: -85.747679
@@ -8336,6 +8337,7 @@
 : null
 12900 Easter Railroad, Louisville, KY: null
 12900 Easter Railroad. A sergeant was requested, Louisville, KY: null
+12900 Jumperville Road, Louisville, KY: null
 12900 Observation Cir, Louisville, KY: null
 12900 Plantside Dr near Earl Jones Way, Louisville, KY:
   lat: 38.2088165
@@ -55216,6 +55218,9 @@
 900 Southside Dr, Louisville, KY:
   lat: 38.1536611
   lng: -85.7652516
+900 St, Louisville, KY:
+  lat: 38.2558311
+  lng: -85.7353648
 900 St. Clark St. EMS arrived promptly, Louisville, KY:
   lat: 38.2559441
   lng: -85.7353619
