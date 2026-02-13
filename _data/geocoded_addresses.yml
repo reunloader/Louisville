@@ -9444,6 +9444,9 @@
 13400 Kinross Blvd. The individual was reportedly beginning, Louisville, KY:
   lat: 38.0633409
   lng: -85.889869
+13400 Lidcomb Ave, Louisville, KY:
+  lat: 38.0628555
+  lng: -85.8984822
 13400 Old Henry Rd, Louisville, KY:
   lat: 38.2665178
   lng: -85.5039868
@@ -19065,6 +19068,7 @@
 2000 Edgeland Ave, Louisville, KY:
   lat: 38.233682
   lng: -85.711264
+2000 Emerald Aveea, Louisville, KY: null
 2000 Fay Ave and Bluegrass, Louisville, KY: null
 ? 2000 Fay Ave was being followed by a complainant in a grey Jeep Renegade. The stolen
   vehicle turned onto Bluegrass, prompting a pursuit as officers attempted, Louisville,
@@ -26818,6 +26822,7 @@
 3000 Bardstown Rd. The circumstances prompting the need, Louisville, KY:
   lat: 38.2150181
   lng: -85.6748027
+3000 Bars Town, Louisville, KY: null
 3000 Bates Rd shopping center, Louisville, KY: null
 3000 Beals Branch Dr, Crest Street, Sunnyside Dr, and Cherokee Gardens Rd, Louisville, KY: null
 3000 Belltower Ct, Crusher, Louisville, KY: null
@@ -35294,6 +35299,7 @@
 4100 Taylor Blvd, Louisville, KY:
   lat: 38.1827265
   lng: -85.7842243
+4100 Taylor Blvd, but it was unoccupied when checked, Louisville, KY: null
 4100 Taylor Boulevard Avenue, Louisville, KY: null
 4100 Taylor and Derrick Lynn parking lot, Louisville, KY: null
 4100 Taylor's Hill Rd, Louisville, KY: null
@@ -41378,6 +41384,9 @@
   lat: 38.171182
   lng: -85.77444
 5300 Devers Ave, with one individual sustaining a gunshot wound. Emergency services were dispatched, Louisville, KY: null
+5300 Dixie Hwy near Walmart, Louisville, KY:
+  lat: 38.1604699
+  lng: -85.832593
 5300 Dixie Hwy, Louisville, KY:
   lat: 38.1604699
   lng: -85.832593
@@ -57215,6 +57224,9 @@ Browns World Road and Montclair Ave, Louisville, KY: null
 Brownsboro Hill Rd and Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Barbers Ln, Louisville, KY: null
 Brownsboro Rd and Beahl Blvd, Louisville, KY: null
+Brownsboro Rd and Brownsboro Rd, Louisville, KY:
+  lat: 38.2585409
+  lng: -85.7030407
 Brownsboro Rd and Bruce Ave, Louisville, KY: null
 Brownsboro Rd and Frankfort Ave, Louisville, KY: null
 Brownsboro Rd and Haldeman Ave, Louisville, KY: null
