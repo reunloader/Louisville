@@ -494,6 +494,7 @@
 100 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+100 Baker, South Fork at Cake, and 22nd Street in Alibos, Louisville, KY: null
 ? 100 Baker, and officers checked the area but found no additional suspicious activity
   or vehicles. The tow was likely related, Louisville, KY
 : null
@@ -19094,6 +19095,9 @@
 2000 Dodge, Louisville, KY:
   lat: 38.1012346
   lng: -85.8460573
+2000 Douglass Blvd near the gated property, Louisville, KY:
+  lat: 38.2247267
+  lng: -85.6929625
 2000 Douglass Blvd, Louisville, KY:
   lat: 38.2247267
   lng: -85.6929625
