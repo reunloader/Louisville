@@ -51943,6 +51943,14 @@
 800 John Law Ct, Louisville, KY:
   lat: 38.0924641
   lng: -85.8528978
+800 Judge Blvd near Kentucky Mary, Louisville, KY:
+  lat: 38.1338505
+  lng: -85.6685331
+? 800 Judge Blvd, with authorities suspecting it may be involved in an escape attempt.
+  Multiple units responded to the area to assess the situation and locate the vehicle.
+  The vehicle was described as possibly fleeing from the scene, prompting a search
+  in the nearby area. Officers continue to monitor, Louisville, KY
+: null
 800 Kinross Pl, Louisville, KY: null
 800 Kinross Pl. Fire units were dispatched, Louisville, KY: null
 800 Klondike Ln, Louisville, KY:
@@ -53148,6 +53156,14 @@
 8200 Sedge Dr, Louisville, KY:
   lat: 38.1465953
   lng: -85.8563047
+8200 Shepherdsville Rd near Kentucky, Louisville, KY:
+  lat: 38.1305293
+  lng: -85.6608792
+? 8200 Shepherdsville Rd. Authorities are investigating whether this vehicle is connected
+  to the escape attempt. The driver and possible occupant are being checked, Louisville,
+  KY
+: lat: 38.1305293
+  lng: -85.6608792
 8200 South 36th Street, Louisville, KY:
   lat: 38.2305239
   lng: -85.8144957
