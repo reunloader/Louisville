@@ -12379,6 +12379,7 @@
 1600 Pembroke Rd. Police units were dispatched, Louisville, KY:
   lat: 38.2238961
   lng: -85.6240166
+1600 Plymouth Ct and 1500 block of W Chestnut St, Louisville, KY: null
 1600 Plymouth Ct near 16th and 17th Streets, Louisville, KY:
   lat: 38.250414
   lng: -85.778023
@@ -12614,6 +12615,9 @@
 1600 W Hill St, Louisville, KY:
   lat: 38.2273572
   lng: -85.7817353
+1600 W Jefferson St, Louisville, KY:
+  lat: 38.255958
+  lng: -85.777028
 1600 W Kentucky St, Louisville, KY:
   lat: 38.2414959
   lng: -85.7803273
@@ -41333,6 +41337,7 @@
   lat: 38.171418
   lng: -85.773438
 5300 Burgetown Road, Louisville, KY: null
+5300 Burnt Rock Rd, Hull St apps, and Mount High Yoke, Louisville, KY: null
 5300 Camden Ave, Louisville, KY:
   lat: 38.1928396
   lng: -85.7877594
@@ -56431,6 +56436,9 @@
 9700 Brownsboro Rd, Louisville, KY:
   lat: 38.3117425
   lng: -85.5686854
+9700 Brownsboro Rd. Traffic was not blocked, though vehicles appeared, Louisville, KY:
+  lat: 38.3117425
+  lng: -85.5686854
 9700 Bunsen Parkway, Louisville, KY:
   lat: 38.2421112
   lng: -85.6153728
@@ -57216,6 +57224,7 @@ Brownsboro Rd and New Chamberlain Ln, Louisville, KY: null
 Brownsboro Rd and Norton Healthcare Blvd, Louisville, KY: null
 Brownsboro Rd and Shefford Ln, Louisville, KY: null
 Brownsboro Rd and Simcoe Ln, Louisville, KY: null
+Brownsboro Rd and Sonoma Plaza Drive, Louisville, KY: null
 Brownsboro Rd and Springdale Rd, Louisville, KY: null
 Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
 Brunsburg Road and Brunsburg Glen Road, Louisville, KY: null
