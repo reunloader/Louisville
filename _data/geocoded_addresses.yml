@@ -17261,6 +17261,9 @@
   lng: -85.8113074
 200 Olde English Ct, suggesting that a domestic dispute might be escalating, Louisville, KY: null
 200 Or219, Louisville, KY: null
+200 Oregon, Louisville, KY:
+  lat: 38.2213156
+  lng: -85.7997597
 200 Osage Ave near South 26th and South 25th Street, Louisville, KY:
   lat: 38.2394252
   lng: -85.791036
@@ -35244,6 +35247,7 @@
   lat: 38.258937
   lng: -85.8185
 4100 Leave, Louisville, KY: null
+4100 Lee's Lane near Essex Ave and Dayton Ave, Louisville, KY: null
 4100 Lee’s Lane, Louisville, KY: null
 4100 Lilly Ave, Louisville, KY:
   lat: 38.2136242
@@ -41918,6 +41922,9 @@
   lng: -85.863165
 5400 Angus Ct, unit 4, Louisville, KY: null
 5400 Antle Dr Speedway, Louisville, KY: null
+5400 Antle Dr, Louisville, KY:
+  lat: 38.0871299
+  lng: -85.6665984
 5400 B3, Louisville, KY: null
 5400 Bannon Crossings Dr, Louisville, KY:
   lat: 38.1773412
@@ -43532,6 +43539,9 @@
   lng: -85.6140436
 600 Big Green Gainesville at 700 block of, Louisville, KY: null
 600 Blanton, and officers engaged, Louisville, KY: null
+600 Blevins Gap, Louisville, KY:
+  lat: 38.0687885
+  lng: -85.8434653
 600 Bluegrass Ave, Louisville, KY:
   lat: 38.178855
   lng: -85.771456
@@ -57921,6 +57931,7 @@ Emerald Dr and Capewood Dr, Louisville, KY: null
 Emerson Ave and Phillips Ln, Louisville, KY: null
 Englewood Ave and Richland Ave, Louisville, KY: null
 Enridge Dr and Brighton Springs Ln, Louisville, KY: null
+Essex Ave and Dayton Ave, Louisville, KY: null
 Estate Dr and Gagel Ave, Louisville, KY: null
 Eton Rd and Cedar Springs Blvd, Louisville, KY: null
 Eton Rd and Glenmary Farm Dr, Louisville, KY: null
