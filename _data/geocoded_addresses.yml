@@ -22530,6 +22530,7 @@
 25 Sonoma Ln, Louisville, KY:
   lat: 38.1217316
   lng: -85.6956996
+25 South First Street, Louisville, KY: null
 250 South38th Street, Louisville, KY:
   lat: 38.2606546
   lng: -85.811965
@@ -26841,6 +26842,9 @@
   lat: 38.1814493
   lng: -85.7665338
 3000 4th Street across Central and Haywood, Louisville, KY: null
+3000 Alford Ave, Louisville, KY:
+  lat: 38.2655062
+  lng: -85.8000825
 3000 Amy Ave, Louisville, KY:
   lat: 38.260603
   lng: -85.813209
@@ -51793,6 +51797,9 @@
 800 Gagel Ave, Louisville, KY:
   lat: 38.1717355
   lng: -85.8017887
+800 Garland Ave, Louisville, KY:
+  lat: 38.2431328
+  lng: -85.7831375
 800 Gleam Dr, Louisville, KY:
   lat: 38.1315
   lng: -85.780864
@@ -57343,6 +57350,7 @@ Brownsboro Rd and Simcoe Ln, Louisville, KY: null
 Brownsboro Rd and Sonoma Plaza Drive, Louisville, KY: null
 Brownsboro Rd and Springdale Rd, Louisville, KY: null
 Brownsboro Rd and Summit Plaza Dr, Louisville, KY: null
+Brownsboro Rd and Zorn Ave, Louisville, KY: null
 Bruce Ave and Vucho Bank Road, Louisville, KY: null
 Brunsburg Road and Brunsburg Glen Road, Louisville, KY: null
 Buckner Ave and Mitscher Ave, Louisville, KY: null
