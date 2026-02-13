@@ -15137,6 +15137,7 @@
 1900 South 1st Street, Louisville, KY:
   lat: 38.220106
   lng: -85.758032
+1900 South 1st Street, cross of East Brandeis and West Cardinal, Louisville, KY: null
 1900 South 28th Street, Louisville, KY:
   lat: 38.22278
   lng: -85.80436
@@ -15324,6 +15325,7 @@
 ? 1900 block of Palacko. EMS was dispatched to the scene, and Agent 40 arrived to
   assist. The patient was a caregiver, Louisville, KY
 : null
+1900 de Dubourg Ave, Louisville, KY: null
 1900 eastbound mile marker 64, Louisville, KY: null
 1900 highway, Louisville, KY:
   lat: 38.223072
@@ -23300,6 +23302,9 @@
   lng: -85.8403585
 2600 Freeport Dr, NHK Spring Precision, Louisville, KY: null
 2600 Freeport Dr, water flow pump house, Louisville, KY: null
+2600 Gardiner Ln, Louisville, KY:
+  lat: 38.216382
+  lng: -85.663216
 ? 2600 Garland Ave following a 9-1-1 hang-up call. Records indicated the caller had
   a history of hanging up, and there was a concern, Louisville, KY
 : null
@@ -38973,6 +38978,9 @@
 4900 Valley Station Rd, Louisville, KY:
   lat: 38.105853
   lng: -85.851149
+4900 W Pages Ln, Louisville, KY:
+  lat: 38.130098
+  lng: -85.848015
 4900 Wabash Pl, Louisville, KY:
   lat: 38.1764934
   lng: -85.759572
@@ -51870,6 +51878,9 @@
 800 Fountain Ave, Louisville, KY:
   lat: 38.2627739
   lng: -85.6177586
+800 Fox Bend Ct, Louisville, KY:
+  lat: 38.2874139
+  lng: -85.477916
 800 Foxgate Rd, Louisville, KY:
   lat: 38.252958
   lng: -85.552025
