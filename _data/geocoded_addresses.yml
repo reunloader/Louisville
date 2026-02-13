@@ -6349,6 +6349,9 @@
 1114 South 4th Street, Louisville, KY:
   lat: 38.2368951
   lng: -85.7605184
+11200 Blue Lick Rd, Louisville, KY:
+  lat: 38.088016
+  lng: -85.6999944
 11200 Bluegrass Pky at Commerce Ct and Cold Wall, Louisville, KY: null
 11200 DM Drive, Louisville, KY: null
 11200 Deham Dr, Louisville, KY:
@@ -38593,6 +38596,7 @@
 4800 Woodhill Ln, Louisville, KY:
   lat: 38.1445238
   lng: -85.6653727
+4800 out of loop near 200 block of northbound, Louisville, KY: null
 4800 the outer loop of the mall, Louisville, KY: null
 48100 Burrell Dr, Louisville, KY: null
 48100 Hazelwood Ave, Louisville, KY:
