@@ -5526,6 +5526,7 @@
 1100 Garvin Pl., Louisville, KY:
   lat: 38.2371411
   lng: -85.7618045
+1100 Goss Ave, trying, Louisville, KY: null
 1100 Greten Ln, Louisville, KY: null
 1100 Halfway Avenue, Louisville, KY: null
 1100 Hamstrace, Louisville, KY: null
@@ -34814,6 +34815,9 @@
   lat: 38.2663448
   lng: -85.6586242
 41 Candor Ave, Louisville, KY: null
+41 Cleveland Blvd, Louisville, KY:
+  lat: 38.2648421
+  lng: -85.6945723
 41 Hersfield Rd, Louisville, KY:
   lat: 38.2653928
   lng: -85.5250459
@@ -47746,6 +47750,7 @@
   lat: 38.1660083
   lng: -85.607583
 700 Alma Ave and 100 block of Alma Ave, Louisville, KY: null
+700 Atom, Louisville, KY: null
 700 Autumn Hill, they found a two-story home north of the area, Louisville, KY: null
 700 Autumn Trace Dr, Louisville, KY:
   lat: 38.1397095
@@ -52914,6 +52919,9 @@
   lat: 38.195098
   lng: -85.7934352
 8200 Glenway Ct, Louisville, KY: null
+8200 Glimmer Way, Louisville, KY:
+  lat: 38.1323563
+  lng: -85.7792166
 8200 Grand Wind Court, Louisville, KY: null
 8200 Grandstand Ct near Tucker Station Rd, Louisville, KY:
   lat: 38.1686575
