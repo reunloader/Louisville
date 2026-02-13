@@ -11492,6 +11492,7 @@
 1500 San Jose Ave, number 7, Louisville, KY: null
 1500 San Jose Aveur, Louisville, KY: null
 1500 Sharon Graph, Louisville, KY: null
+1500 Sheeran Drive, Louisville, KY: null
 1500 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -49415,6 +49416,9 @@
   lng: -85.6914418
 700 [Street Name] and 747 block of [Street Name], Louisville, KY: null
 700 [Street Name] and Electron Dr, Louisville, KY: null
+700 [Street Name], Louisville, KY:
+  lat: 38.2572236
+  lng: -85.5803244
 700 a street, Louisville, KY: null
 ? 700 a street. Fire units responded quickly to assist the individual. The patient
   was assessed and likely transported, Louisville, KY
