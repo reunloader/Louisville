@@ -6196,6 +6196,7 @@
 1100 West Oak, Louisville, KY:
   lat: 38.235984
   lng: -85.77188
+1100 West Sheraton St, Louisville, KY: null
 1100 Westbound Way, Louisville, KY: null
 1100 Westport Rd at Conrad Grove Rands, Louisville, KY:
   lat: 38.2985921
@@ -14513,6 +14514,9 @@
   lat: 38.2301382
   lng: -85.7108239
 1800 Sils Ave, Louisville, KY:
+  lat: 38.221474
+  lng: -85.690008
+1800 Sils Ave, near Wibben Ave and Page Ave, Louisville, KY:
   lat: 38.221474
   lng: -85.690008
 1800 South 18th Street and W Jefferson St, Louisville, KY: null
@@ -38442,6 +38446,9 @@
   lat: 38.180062
   lng: -85.673402
 4800 East Mark Street, Louisville, KY: null
+4800 Edge Ridge Rd, Louisville, KY:
+  lat: 38.1299899
+  lng: -85.8460549
 4800 Exeter Ave near Newburgh Community Center, Louisville, KY:
   lat: 38.1813107
   lng: -85.6706331
@@ -41304,6 +41311,9 @@
 5200 Green Cove Cir, Louisville, KY:
   lat: 38.178743
   lng: -85.664185
+5200 Greenwood Rd, Louisville, KY:
+  lat: 38.143957
+  lng: -85.852156
 5200 Greenwood at High Spirit Liquors, Louisville, KY: null
 5200 Interchange Way, Louisville, KY: null
 5200 Jenny June Dr near Nellie Bly Dr, Louisville, KY:
@@ -43410,6 +43420,7 @@
 600 Baker near Tamersville, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
+600 Baker responded, Louisville, KY: null
 600 Baker, Circle K, Louisville, KY: null
 600 Baker, Louisville, KY:
   lat: 38.1412684
@@ -45922,6 +45933,9 @@
 6300 Ferncliff Ln near Ferndale Rd, Louisville, KY:
   lat: 38.1556282
   lng: -85.6023088
+6300 Ferndale Rd, Louisville, KY:
+  lat: 38.1556063
+  lng: -85.6077396
 6300 Fernview Rd, Louisville, KY:
   lat: 38.154623
   lng: -85.609062
@@ -50706,6 +50720,9 @@
 7500 Herring Ct, Crest, Louisville, KY: null
 7500 Heyburn Ct, Louisville, KY: null
 7500 Jefferson Blvd, Hobby Lobby, Louisville, KY: null
+7500 Jefferson Blvd, Louisville, KY:
+  lat: 38.1408686
+  lng: -85.6773268
 7500 King Run Road, Louisville, KY: null
 7500 Linden Ln near Shippen and Field, Louisville, KY:
   lat: 38.2560805
@@ -56097,6 +56114,9 @@
 9300 Dayflower St, Louisville, KY:
   lat: 38.3214513
   lng: -85.567239
+9300 Fairground Rd, Louisville, KY:
+  lat: 38.1653419
+  lng: -85.5853108
 9300 Fern Creek Rd, Louisville, KY:
   lat: 38.1596033
   lng: -85.5878601
@@ -58619,6 +58639,7 @@ Poplar Level Rd and Sanita Rd, Louisville, KY: null
 Poplar Level Rd and Tamrath Parkway, Louisville, KY: null
 Poplar Level Rd and Taylor Ave, Louisville, KY: null
 Poplar Level Rd and Thruston Ave, Louisville, KY: null
+Poplar Level Rd and Willow Dr, Louisville, KY: null
 Poplar Road and Eastern Parkway, Louisville, KY: null
 Poplovo Road and Taylor Ave, Louisville, KY: null
 Portland Ave and Chicago Avenue, Louisville, KY: null
@@ -59171,6 +59192,7 @@ Whipps Mill Rd and Granger Rd, Louisville, KY: null
 Whispering Hills Blvd and Shepherdsville Rd, Louisville, KY: null
 Whiteheath Road and Gatehouse Ln, Louisville, KY: null
 Whitney Ave and Warren Ave, Louisville, KY: null
+Wibben Ave and Page Ave, Louisville, KY: null
 Wichita Lane and Beechbrook Rd, Louisville, KY: null
 Wilart Dr and Bernheim Ln, Louisville, KY: null
 Wilburlook Ln and Garden Lake Ln, Louisville, KY: null
