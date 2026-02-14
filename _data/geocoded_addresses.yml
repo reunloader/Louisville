@@ -15327,6 +15327,9 @@
   lat: 38.2222599
   lng: -85.7763795
 1900 South 7th Street, White Castle, Louisville, KY: null
+1900 South 7th street, Louisville, KY:
+  lat: 38.2222599
+  lng: -85.7763795
 1900 South First Street, Louisville, KY: null
 1900 South First near Brownsboro Rd, Louisville, KY:
   lat: 38.2606852
@@ -18821,6 +18824,7 @@
   lat: 38.1861148
   lng: -85.7582215
 200 east of Virginia, Louisville, KY: null
+200 east of our time road, Louisville, KY: null
 200 east of the 14, close, Louisville, KY: null
 200 east, Louisville, KY:
   lat: 38.1861148
@@ -42435,6 +42439,9 @@
   lat: 38.3291986
   lng: -85.6389379
 5400 Robinwood and Riverdale, Louisville, KY: null
+5400 Rolling Ridge Rd, Louisville, KY:
+  lat: 38.1741125
+  lng: -85.7967873
 5400 Ronwood Dr, Louisville, KY:
   lat: 38.143259
   lng: -85.6606865
@@ -56066,6 +56073,7 @@
 900 Zorn Ave, Louisville, KY:
   lat: 38.2788352
   lng: -85.7002974
+900 alpha vista road, Louisville, KY: null
 900 an unspecified street. A BOLO had been issued, Louisville, KY: null
 900 and900 block of blocks of W, Louisville, KY: null
 900 at5-9-1-1, Louisville, KY: null
@@ -56122,6 +56130,9 @@
 9000 Brandywyne Dr, Louisville, KY:
   lat: 38.1636882
   lng: -85.5912962
+9000 Brookley Dr, Louisville, KY:
+  lat: 38.0910295
+  lng: -85.6742718
 9000 Brown Austin Rd at a church, Louisville, KY:
   lat: 38.1200828
   lng: -85.7676797
