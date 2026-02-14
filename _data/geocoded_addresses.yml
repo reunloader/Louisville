@@ -1764,6 +1764,9 @@
   lat: 38.213474
   lng: -85.6338058
 100 Oster, Louisville, KY: null
+100 Ottawa Ave near Allmond Ave and South 1st Street, Louisville, KY:
+  lat: 38.187883
+  lng: -85.761557
 100 Ottawa Ave, Louisville, KY:
   lat: 38.187883
   lng: -85.761557
@@ -5664,6 +5667,7 @@
 1100 Lexington Rd, Louisville, KY:
   lat: 38.24854
   lng: -85.730515
+1100 Lincoln Ave across Sharp Ave in Lindbergh Dr, Louisville, KY: null
 1100 Lincoln Ave at the cross of Colorado and Utah, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
@@ -41406,6 +41410,9 @@
 52 Saratoga Dr, Louisville, KY:
   lat: 38.2179053
   lng: -85.6977323
+5200 Airfield Dr near the incoming flight, Louisville, KY:
+  lat: 38.188076
+  lng: -85.7361901
 5200 Airfield Dr, Louisville, KY:
   lat: 38.188076
   lng: -85.7361901
