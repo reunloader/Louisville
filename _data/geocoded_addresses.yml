@@ -8744,6 +8744,9 @@
 1300 Ellison Ave at Moe's Funeral Home, Louisville, KY:
   lat: 38.2310656
   lng: -85.7281587
+1300 Ellison Ave near Julia Ave and Schiller Ave, Louisville, KY:
+  lat: 38.2310656
+  lng: -85.7281587
 1300 Ellison Ave, Louisville, KY:
   lat: 38.2310656
   lng: -85.7281587
@@ -9919,6 +9922,9 @@
 1400 Catalpa St. Further details, Louisville, KY:
   lat: 38.2339946
   lng: -85.8022842
+1400 Cecil Ave near Greenland Laundromat, Louisville, KY:
+  lat: 38.2352003
+  lng: -85.82616
 1400 Central Ave, Louisville, KY:
   lat: 38.2107422
   lng: -85.7799385
@@ -20356,6 +20362,10 @@
 2100 Millvale Rd, Louisville, KY:
   lat: 38.2309189
   lng: -85.6867508
+? 2100 Monticello Ave, 3300 block of W Market St, 14 Monticello Ave, 1000 block of
+  Blue Ridge, 4300 block of Pruitt Ct, and 3400 block of Bardstown Rd, Louisville,
+  KY
+: null
 2100 Monticello Ave, Louisville, KY:
   lat: 38.189244
   lng: -85.6632257
@@ -22116,6 +22126,9 @@
 2300 Woodford Pl, Louisville, KY:
   lat: 38.2287202
   lng: -85.6891588
+2300 Woodland Ave near South 25th and South 23rd, Louisville, KY:
+  lat: 38.233421
+  lng: -85.79377
 2300 Woodland Ave, Louisville, KY:
   lat: 38.233421
   lng: -85.79377
@@ -25858,6 +25871,9 @@
   lng: -85.6738206
 300 Davis, Louisville, KY: null
 300 DeMille Avenue, Louisville, KY: null
+300 Dixie Beach Rd, Louisville, KY:
+  lat: 38.0195229
+  lng: -85.9212355
 300 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
@@ -29310,6 +29326,9 @@
 3300 Virginia Ave, Louisville, KY:
   lat: 38.2387608
   lng: -85.8086322
+3300 W Market St, Louisville, KY:
+  lat: 38.2605941
+  lng: -85.8058895
 3300 Wellingmoor Ave, Louisville, KY:
   lat: 38.2119274
   lng: -85.6617068
@@ -58666,6 +58685,7 @@ Johnsontown Rd and Terry Rd, Louisville, KY: null
 Joyce Dr and General Ln, Louisville, KY: null
 Juanita Ln and Marcitis Rd, Louisville, KY: null
 Jule Street and Duncan St, Louisville, KY: null
+Julia Ave and Schiller Ave, Louisville, KY: null
 Justan Ave and Clayborne Rd, Louisville, KY: null
 Justan Ave and Oneida Ave, Louisville, KY: null
 Kaleville Road and Lake Forest Dr, Louisville, KY: null
