@@ -8196,6 +8196,7 @@
 : null
 1225 South Fifth Street in response, Louisville, KY: null
 12300 Center Grove Ln, Louisville, KY: null
+12300 Charlie David, Louisville, KY: null
 12300 Dominion Way. EMS assisted with the situation, which appeared, Louisville, KY:
   lat: 38.1901948
   lng: -85.5308495
@@ -25262,6 +25263,7 @@
   lng: -85.7686938
 2900 South District Number Fivember Five One Six, Louisville, KY: null
 2900 South Firstborn Parkway, Louisville, KY: null
+2900 South Four Street, Louisville, KY: null
 2900 South Public Road, Louisville, KY: null
 2900 South South Street, Louisville, KY:
   lat: 38.2075282
@@ -45763,6 +45765,9 @@
 62 Carribean Ln, Louisville, KY:
   lat: 38.1522336
   lng: -85.66106
+62 Lincoln Ave, Louisville, KY:
+  lat: 38.2139917
+  lng: -85.7756194
 620 Valley College Drive, Louisville, KY:
   lat: 38.1200037
   lng: -85.8438535
