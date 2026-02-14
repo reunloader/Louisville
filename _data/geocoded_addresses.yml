@@ -12599,6 +12599,9 @@
 1600 Sherrard Dr, Louisville, KY:
   lat: 38.1323489
   lng: -85.8968
+1600 Snaffel Bit Ct at Rutland Club, Louisville, KY:
+  lat: 38.2602833
+  lng: -85.4500061
 1600 South 11th Street, Louisville, KY:
   lat: 38.2257282
   lng: -85.7745261
@@ -23775,6 +23778,9 @@
 2600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2550265
   lng: -85.794407
+2600 Wendell Ave at Caerlson Ln and Bon Air Ave, Louisville, KY:
+  lat: 38.217192
+  lng: -85.663861
 2600 Wendell Ave near Carson Way and Bon Air Ave, Louisville, KY:
   lat: 38.217192
   lng: -85.663861
@@ -51798,6 +51804,7 @@
 7900 Grand Cascade Dr, Louisville, KY:
   lat: 38.131647
   lng: -85.6153501
+7900 Grenoble Ln at Westover and Wilde Fox, Louisville, KY: null
 7900 Head Farm Rd, Louisville, KY:
   lat: 38.3134785
   lng: -85.563057
@@ -57964,6 +57971,7 @@ Bush Farm Rd and Old Henry Rd, Louisville, KY: null
 Buster Trio Avenue and Serenity Hope Dr, Louisville, KY: null
 Butler Rd and Dale Ln, Louisville, KY: null
 Butule Bank Road and Progress Blvd, Louisville, KY: null
+Caerlson Ln and Bon Air Ave, Louisville, KY: null
 Cain Ln and Tiny Ln, Louisville, KY: null
 Caldwell St and Birkenridge Street, Louisville, KY: null
 Caldwell St and East Brecker Ridge St, Louisville, KY: null
