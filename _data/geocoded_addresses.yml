@@ -4573,6 +4573,9 @@
 10100 Old Dixie Hwy. Further details, Louisville, KY:
   lat: 38.0762726
   lng: -85.8819062
+10100 Reeseman Dr near Chism Trail Way, Louisville, KY:
+  lat: 38.1377604
+  lng: -85.5756241
 10100 Rolling Stone Dr, Crop St, Louisville, KY: null
 10100 Rolling Stone Dr, Crop St, Rolling Stone Ct, at Blue Creek Dr, Louisville, KY:
   lat: 38.1011136
@@ -28411,6 +28414,7 @@
 3200 Cane Run Rd, Louisville, KY:
   lat: 38.222489
   lng: -85.811113
+3200 Catalpa Farms Dr near Tulip Hill Way and Shakes Creek, Louisville, KY: null
 3200 Chiller Boulevard, Louisville, KY: null
 3200 Christ Boiler Springs Drive, Louisville, KY: null
 3200 Commander Dr, Louisville, KY:
@@ -41111,6 +41115,9 @@
 5100 Airfreight Dr near Poplar Level Rd, Louisville, KY:
   lat: 38.1862764
   lng: -85.7463412
+5100 Alba Way near Ilex and Shasta, Louisville, KY:
+  lat: 38.176997
+  lng: -85.675006
 5100 Alba Way near Iowitz Avenue and Shasta Trail, Louisville, KY:
   lat: 38.176997
   lng: -85.675006
@@ -51359,6 +51366,9 @@
 7700 Ashton Park Cir near Happiness Way, Louisville, KY:
   lat: 38.1335034
   lng: -85.6149031
+7700 Bardstown Rd near Cedar Creek and South Point, Louisville, KY:
+  lat: 38.1354405
+  lng: -85.5803445
 7700 Bardstown Rd, Louisville, KY:
   lat: 38.1354405
   lng: -85.5803445
@@ -54869,6 +54879,9 @@
 900 Davies Ave, Louisville, KY:
   lat: 38.222952
   lng: -85.7695841
+900 Deering Rd near Cherry Run Valley Station, Louisville, KY:
+  lat: 38.0906355
+  lng: -85.8735836
 ? 900 Delray Rd involved yelling and sounds of someone running, indicating a possible
   distress situation. Responding units arrived, Louisville, KY
 : null
