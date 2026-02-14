@@ -6073,6 +6073,9 @@
   lng: -85.760025
 1100 South4th Street area, Louisville, KY: null
 1100 South4th Street cross of Oak and St, Louisville, KY: null
+1100 South4th Street near High-Rise, Louisville, KY:
+  lat: 38.237298
+  lng: -85.760025
 1100 South4th Street near Oak and St, Louisville, KY:
   lat: 38.237298
   lng: -85.760025
@@ -19132,6 +19135,7 @@
 2000 Columbia St, Louisville, KY:
   lat: 38.261487
   lng: -85.78282
+2000 Core Crossroad, Louisville, KY: null
 2000 Crane Valley Road, Louisville, KY: null
 2000 Creek Grove, Louisville, KY: null
 2000 Creston Dr and Park Blvd, Louisville, KY: null
@@ -22227,6 +22231,7 @@
   lat: 38.2542376
   lng: -85.759407
 2400 Eagle-Aires Ct, Louisville, KY: null
+2400 Eagles, Eric Ct, Louisville, KY: null
 2400 Earth's Wingate Rd, Louisville, KY: null
 2400 Earthline Road, Louisville, KY: null
 2400 Earthling Road, Louisville, KY: null
@@ -28751,6 +28756,9 @@
   lat: 38.105421
   lng: -85.6103431
 33 Hunter Bridgetown Road, Louisville, KY: null
+33 Larchmont Ave, Louisville, KY:
+  lat: 38.2098556
+  lng: -85.7803919
 330 Adam Southacre, Louisville, KY: null
 3300 7th St Rene Rd, Louisville, KY: null
 3300 Algonquin Pky, Louisville, KY:
@@ -53162,6 +53170,9 @@
 8200 Broccolo Court, Louisville, KY: null
 8200 Campbell Go Lane, Louisville, KY: null
 8200 Candelabra, Louisville, KY: null
+8200 Candleglow Ln, Louisville, KY:
+  lat: 38.1335615
+  lng: -85.7844211
 8200 Cane Run Rd, Louisville, KY:
   lat: 38.1371078
   lng: -85.8976921
@@ -59073,6 +59084,7 @@ Swan St and Lampton St, Louisville, KY: null
 Sweeney Ln and Carrington Greene Dr, Louisville, KY: null
 Sycamore Ave and Frankfort Ave, Louisville, KY: null
 Sydney Ave and Willow Ave, Louisville, KY: null
+Tableau Boulevard and Beecher St, Louisville, KY: null
 Tamerlane Rd and Roxbury Rd, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Tavisboro Road and Chinawas Run Road, Louisville, KY: null
