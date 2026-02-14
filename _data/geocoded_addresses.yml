@@ -19082,6 +19082,7 @@
 2000 Buick Enclave, Louisville, KY: null
 2000 Buick LaCrosse with expired registration was pulled over. The vehicle was stopped, Louisville, KY: null
 2000 Buick, Louisville, KY: null
+2000 CN8202, Louisville, KY: null
 2000 Cadillac XPS registered, Louisville, KY: null
 2000 Cadillac traveling eastbound, Louisville, KY: null
 2000 Caldwell St, Louisville, KY:
@@ -42490,6 +42491,9 @@
 5500 Reflection Dr, Louisville, KY:
   lat: 38.1703835
   lng: -85.6694238
+5500 Revere Dr, Louisville, KY:
+  lat: 38.1694193
+  lng: -85.6650439
 5500 Ridgecrest Rd, Louisville, KY:
   lat: 38.1709163
   lng: -85.6657527
@@ -53655,6 +53659,7 @@
 8400 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2563581
   lng: -85.8046069
+8400 Warbler Branchway, Louisville, KY: null
 8400 Warbler Branchway, Uber Homes, Louisville, KY: null
 8400 Westport Ridge Ct, Louisville, KY:
   lat: 38.3053449
