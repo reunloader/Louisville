@@ -2155,6 +2155,9 @@
 100 South3rd Street, Louisville, KY:
   lat: 38.256328
   lng: -85.754983
+100 South40th Street, Louisville, KY:
+  lat: 38.2640503
+  lng: -85.8148695
 100 South40th, Louisville, KY:
   lat: 38.2640503
   lng: -85.8148695
@@ -16836,6 +16839,7 @@
 200 Market, Louisville, KY:
   lat: 38.254211
   lng: -85.7500224
+200 Marlboro Cir, Louisville, KY: null
 200 Marshall St, Louisville, KY:
   lat: 38.2494928
   lng: -85.7360375
@@ -17930,6 +17934,9 @@
   lat: 38.253409
   lng: -85.753877
 200 W Kentucky St and the 100 block of South Shawnee, Louisville, KY: null
+200 W Kentucky St, Louisville, KY:
+  lat: 38.238503
+  lng: -85.756491
 200 W Kenwood Dr at Seminole and Kenwood, Louisville, KY:
   lat: 38.159427
   lng: -85.7704784
@@ -30839,6 +30846,9 @@
 37 Whitmore Ave, Louisville, KY:
   lat: 38.1722614
   lng: -85.7845609
+370 South Lane, Louisville, KY:
+  lat: 38.2433422
+  lng: -85.6019554
 3700 7th St Rene Rd, Louisville, KY: null
 3700 Alma Ave, Louisville, KY:
   lat: 38.1807378
