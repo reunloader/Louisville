@@ -12379,6 +12379,9 @@
 1600 I65 South, Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call for service., Louisville, KY: null
 1600 I65 South. This incident was believed to be connected to a previous call, Louisville, KY: null
+1600 Ireland Dr, Louisville, KY:
+  lat: 38.1437584
+  lng: -85.6940048
 1600 Keen Alarms, Louisville, KY: null
 1600 Kennedy Ave, Louisville, KY:
   lat: 38.2521008
@@ -44499,6 +44502,9 @@
   lng: -85.7460808
 600 Preston Hallway, Louisville, KY: null
 600 Preston Hwy and Income Suites, Louisville, KY: null
+600 Preston Hwy near the ramp, Louisville, KY:
+  lat: 38.1217191
+  lng: -85.6783359
 600 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
