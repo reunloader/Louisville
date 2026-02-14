@@ -190,6 +190,7 @@
 03 South Park Rd, Louisville, KY:
   lat: 38.1162065
   lng: -85.6832515
+03 Stober Rd, Louisville, KY: null
 03 Undine Dr, Louisville, KY:
   lat: 38.1861579
   lng: -85.8569575
@@ -509,6 +510,7 @@
   lat: 38.1412684
   lng: -85.7716218
 100 Baker responded, Louisville, KY: null
+100 Baker were unsuccessful, Louisville, KY: null
 100 Baker with no reported injuries or obstructions, Louisville, KY: null
 100 Baker, 200 block of Baker, and 200 block of Adam, Louisville, KY: null
 100 Baker, 3rd Street side, Louisville, KY: null
@@ -15232,6 +15234,9 @@
   lng: -85.6948778
 1900 Owen St & 1700 block of O'Odaniel Ave, Louisville, KY: null
 1900 P body lane, Louisville, KY: null
+1900 Park Rd, Louisville, KY:
+  lat: 38.1074779
+  lng: -85.6374745
 ? 1900 Payne St to address a medical emergency. The patient, a 68-year-old male who
   recently underwent open heart surgery, was experiencing difficulties maintaining
   stable blood pressure and oxygen levels when he stood up. EMS provided care at the
