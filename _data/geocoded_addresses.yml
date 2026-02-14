@@ -28296,6 +28296,9 @@
 3100 Virginia Ave, Louisville, KY:
   lat: 38.2384897
   lng: -85.8055617
+3100 Virginia, Louisville, KY:
+  lat: 38.2384897
+  lng: -85.8055617
 3100 W Jefferson St, Louisville, KY:
   lat: 38.259411
   lng: -85.803356
@@ -38688,6 +38691,9 @@
 4800 Bluebird Ave to provide assistance with a lift. The call was, Louisville, KY: null
 4800 Bluebird Ave, Louisville, KY: null
 4800 Break the Drive, Louisville, KY: null
+4800 Brenda Dr, Louisville, KY:
+  lat: 38.173927
+  lng: -85.672535
 4800 Bridal Den Way, Louisville, KY: null
 4800 Brownsboro Center, Louisville, KY: null
 4800 Brownsboro Center. Police units were sent, Louisville, KY: null
@@ -41642,6 +41648,9 @@
   lng: -85.852156
 5200 Greenwood Rd, Pickett's Barbershop, Louisville, KY: null
 5200 Greenwood at High Spirit Liquors, Louisville, KY: null
+5200 Ilex Ave, Louisville, KY:
+  lat: 38.174891
+  lng: -85.68097
 5200 Interchange Way, Louisville, KY: null
 5200 Jenny June Dr near Nellie Bly Dr, Louisville, KY:
   lat: 38.17453
@@ -55224,6 +55233,7 @@
   lat: 38.2622602
   lng: -85.7765678
 900 I64 East near I 64 East. E St Catherine St, Louisville, KY: null
+900 Ilex Ave, refusing, Louisville, KY: null
 900 Inch90, Louisville, KY: null
 900 Indian Oaks Cir, Louisville, KY:
   lat: 38.1685734
