@@ -20757,6 +20757,7 @@
 2200 Auburn Dr, Louisville, KY:
   lat: 38.1396626
   lng: -85.7770771
+2200 Automotive Grade Lane at the UPS World4 facility, Louisville, KY: null
 2200 Bank St at Baptist Church Auditorium, Louisville, KY:
   lat: 38.2669335
   lng: -85.7845855
@@ -26092,6 +26093,7 @@
 300 Joke, Homeway Circle, Louisville, KY: null
 300 Josephine Street, Louisville, KY: null
 300 Keaton Avenue, Louisville, KY: null
+300 Keen's Avenue, Louisville, KY: null
 300 Kenilworth Rd, Louisville, KY:
   lat: 38.259748
   lng: -85.709145
@@ -54830,6 +54832,9 @@
   lng: -85.740178
 900 Goth Avenue near Boyle St and Logan St, Louisville, KY: null
 900 Grade Ln (bus), Louisville, KY: null
+900 Grade Ln near Heinemann-Richardson Connector and Midfield Access Rd, Louisville, KY:
+  lat: 38.1575254
+  lng: -85.7317415
 900 Grade Ln near the guard shack at UPS parking lot, Louisville, KY:
   lat: 38.1592088
   lng: -85.7287136
