@@ -5224,6 +5224,7 @@
 11 Cherokee Rd, Louisville, KY:
   lat: 38.2424298
   lng: -85.6745465
+11 Corinthian Dr, Louisville, KY: null
 11 Doe Run Rd, Louisville, KY:
   lat: 38.1623849
   lng: -85.8382955
@@ -16637,6 +16638,7 @@
 200 Flanders Ct, Louisville, KY:
   lat: 38.208198
   lng: -85.647803
+200 Flock near East Indian and Pop Rollers, Louisville, KY: null
 200 Ford Escape, Louisville, KY: null
 200 Fort St near 32 mile marker, Louisville, KY:
   lat: 38.2161938
@@ -34750,6 +34752,9 @@
   lng: -85.779155
 4000 Mashapay Drive, Louisville, KY: null
 4000 Massie Ave, Louisville, KY: null
+4000 Mimosa View Dr, Louisville, KY:
+  lat: 38.1858102
+  lng: -85.5623315
 4000 Mutual Bank Road, Louisville, KY: null
 4000 My Two-Kay Dr, Louisville, KY: null
 4000 Naomi Dr, Louisville, KY:
@@ -44876,6 +44881,9 @@
   lng: -85.813352
 600 South38 Street, Louisville, KY: null
 600 South38, Louisville, KY: null
+600 South38th Street, Louisville, KY:
+  lat: 38.25464
+  lng: -85.814702
 600 South39th Street, Louisville, KY:
   lat: 38.255276
   lng: -85.815984
