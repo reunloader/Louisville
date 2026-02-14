@@ -7022,6 +7022,7 @@
   lng: -85.7184884
 1200 Barker, Sunrose, Louisville, KY: null
 1200 Barkshound Road, Louisville, KY: null
+1200 Barn Rd inside Mid City Mall, Louisville, KY: null
 1200 Barr Ln, Louisville, KY:
   lat: 38.2392151
   lng: -85.6840872
@@ -16894,6 +16895,7 @@
   lat: 38.1595879
   lng: -85.6727403
 200 Marywood Lane in New Albany, Indiana, Louisville, KY: null
+200 Masonic Home Dr in Johnson Hall Dr, Louisville, KY: null
 200 Masonic Home Dr, Louisville, KY:
   lat: 38.2574552
   lng: -85.6633936
@@ -23769,6 +23771,9 @@
 2600 W Muhammad Ali Blvd, Louisville, KY:
   lat: 38.2550265
   lng: -85.794407
+2600 Wendell Ave near Carson Way and Bon Air Ave, Louisville, KY:
+  lat: 38.217192
+  lng: -85.663861
 2600 Wendell Ave, Louisville, KY:
   lat: 38.217192
   lng: -85.663861
@@ -32840,6 +32845,9 @@
   lat: 38.2524
   lng: -85.744583
 400 E Jefferson St near Wayside, Croucher, South Jackson, South Preston, Louisville, KY:
+  lat: 38.2524
+  lng: -85.744583
+400 E Jefferson St near Wayside, Louisville, KY:
   lat: 38.2524
   lng: -85.744583
 400 E Jefferson St off Eastside, Louisville, KY: null
