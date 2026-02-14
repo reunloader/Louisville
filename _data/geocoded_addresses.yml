@@ -20796,6 +20796,9 @@
   lat: 38.2242801
   lng: -85.6937899
 2200 Beargrass Ave and Shepherd Avenue Court, Louisville, KY: null
+2200 Beargrass Ave near Bardstown Rd, Louisville, KY:
+  lat: 38.189301
+  lng: -85.641633
 2200 Bermuda, Louisville, KY: null
 2200 Bertram Road, Louisville, KY: null
 2200 Bolling Ave, Louisville, KY:
@@ -50099,6 +50102,7 @@
 7100 Preston Hwy, Louisville, KY:
   lat: 38.148306
   lng: -85.6939743
+7100 Preston, Illinois and Sheridan, and River Trail Dr, Louisville, KY: null
 7100 Preston, Louisville, KY:
   lat: 38.1487061
   lng: -85.6941868
@@ -57012,6 +57016,9 @@
   lat: 38.1083343
   lng: -85.6717577
 9700 Preston Crossing Blvd, Wraith Cinema, Louisville, KY: null
+9700 River Trail Dr, Louisville, KY:
+  lat: 38.1095409
+  lng: -85.6638561
 9700 Scarborough Ave, Louisville, KY:
   lat: 38.1099166
   lng: -85.8110064
