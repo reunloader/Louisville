@@ -880,6 +880,7 @@
 ? 100 E W Amherst Ave, heading east toward Amherst and Wabash. No description was
   provided, and officers checked the area, Louisville, KY
 : null
+100 E W Ashland Ave, Crop St of Alma Ave, South 1st Street, Louisville, KY: null
 100 E W Ashland Ave, Louisville, KY:
   lat: 38.1863661
   lng: -85.7805448
@@ -7903,6 +7904,9 @@
   lat: 38.2502174
   lng: -85.571059
 1200 Springdale Dr near Pantaleota Camry Park, Louisville, KY:
+  lat: 38.191809
+  lng: -85.726961
+1200 Springdale Dr, Louisville, KY:
   lat: 38.191809
   lng: -85.726961
 1200 Springdale, Louisville, KY:
@@ -34254,6 +34258,7 @@
 400 South2nd Street, Louisville, KY:
   lat: 38.2521786
   lng: -85.7548825
+400 South2nd Street, West Liberty, Louisville, KY: null
 400 South30, Louisville, KY: null
 400 South38 Street, Louisville, KY: null
 400 South38th Street, Louisville, KY:
@@ -37282,6 +37287,9 @@
 4400 South2nd Street, near West Lee and West Bloom, Louisville, KY:
   lat: 38.1914096
   lng: -85.7635371
+4400 South38th Street, Louisville, KY:
+  lat: 38.2450853
+  lng: -85.8159313
 4400 Southbridge Ct, Louisville, KY:
   lat: 38.1154744
   lng: -85.8440418
