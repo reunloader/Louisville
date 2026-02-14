@@ -2135,6 +2135,7 @@
   lat: 38.2563822
   lng: -85.7570333
 100 South10th Street and West Broadway, Louisville, KY: null
+100 South17th Street, but the line disconnected before details could be obtained. Efforts, Louisville, KY: null
 100 South20th Street, Louisville, KY:
   lat: 38.259446
   lng: -85.783128
@@ -33121,6 +33122,9 @@
 400 Farmington Ave, Louisville, KY:
   lat: 38.200317
   lng: -85.7533528
+400 Farmington, Louisville, KY:
+  lat: 38.200317
+  lng: -85.7533528
 400 Fern Creek Rd, Louisville, KY:
   lat: 38.158292
   lng: -85.5898849
@@ -34229,6 +34233,9 @@
   lat: 38.1988737
   lng: -85.7311805
 400 United Blvd, Louisville, KY: null
+400 University Ave, Louisville, KY:
+  lat: 38.26129
+  lng: -85.69105
 400 University Blvd at the Stop and Go, Louisville, KY:
   lat: 38.214119
   lng: -85.751109
@@ -55475,6 +55482,7 @@
   lng: -85.7774103
 900 South Third Street, Louisville, KY: null
 900 South of New Orleans**, Louisville, KY: null
+900 South17th Street area, Louisville, KY: null
 900 South22nd Street, Louisville, KY:
   lat: 38.243974
   lng: -85.789229
