@@ -4390,6 +4390,9 @@
 1000 unspecified street, Louisville, KY: null
 1000 vehicle call, Louisville, KY: null
 1000 vehicle, Louisville, KY: null
+1000, Louisville, KY:
+  lat: 38.1394704
+  lng: -85.783579
 10000 Ashby Farm Dr, Louisville, KY:
   lat: 38.1122843
   lng: -85.8958289
