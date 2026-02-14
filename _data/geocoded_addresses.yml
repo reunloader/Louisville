@@ -3212,6 +3212,9 @@
 1000 E Main St. The nature of the medical assist was not specified. This paragraph is NOT indented., Louisville, KY:
   lat: 38.253895
   lng: -85.7332168
+1000 E W Ashland Ave near Allmond Ave and South 1st Street, Louisville, KY:
+  lat: 38.1863661
+  lng: -85.7805448
 1000 E W Breckinridge St, Louisville, KY:
   lat: 38.2418164
   lng: -85.758428
@@ -55421,6 +55424,7 @@
 900 Paul Baker Exit, Louisville, KY: null
 900 Peaceful Avenue, Louisville, KY: null
 900 Philadelphia Street, Louisville, KY: null
+900 Phillips Lantz at Bear Grounds near Mission Dr and Standford Field, Louisville, KY: null
 900 Phillips Ln near Mission and Stanford, Louisville, KY:
   lat: 38.193672
   lng: -85.739235
