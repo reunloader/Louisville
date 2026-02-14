@@ -120639,4 +120639,20 @@ history:
   batch_success_rate: 33.33
   batch_new_addresses: 3
   batch_new_successes: 1
-last_updated: '2026-02-14T20:24:45.299194'
+- timestamp: '2026-02-14T20:47:56.655385'
+  total_addresses: 26935
+  successful: 13840
+  failed: 13095
+  success_rate: 51.38
+  failure_rate: 48.62
+  failure_patterns:
+    Intersection format: 2835
+    Contains location qualifiers (near/at): 3141
+    Incomplete/vague address: 3697
+    Other/Unknown: 2826
+    Contains extra sentences/context: 577
+    Police phonetic codes: 19
+  batch_success_rate: 66.67
+  batch_new_addresses: 3
+  batch_new_successes: 2
+last_updated: '2026-02-14T20:47:56.655580'
