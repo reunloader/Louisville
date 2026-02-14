@@ -8567,6 +8567,9 @@
 1300 Central Ave, Louisville, KY:
   lat: 38.2096295
   lng: -85.7791015
+1300 Central Ave. A caller was attempting, Louisville, KY:
+  lat: 38.2096295
+  lng: -85.7791015
 1300 Challis Cir, Louisville, KY:
   lat: 38.236413
   lng: -85.8166317
@@ -35324,6 +35327,9 @@
 4100 Mud Ln, Louisville, KY:
   lat: 38.0868791
   lng: -85.6892276
+4100 Murphy Ln,, Louisville, KY:
+  lat: 38.3035162
+  lng: -85.5339232
 4100 N Preston Hwy, Louisville, KY:
   lat: 38.0856484
   lng: -85.6676088
