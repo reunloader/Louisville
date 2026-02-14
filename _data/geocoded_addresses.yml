@@ -41,6 +41,7 @@
   lng: -85.8751233
 0 FDSC fabricating, Louisville, KY: null
 0 Force Spin Circle, Louisville, KY: null
+0 Grandel Pointe Ct, Louisville, KY: null
 0 Irowick, Louisville, KY: null
 0 Judge Blvd, Louisville, KY:
   lat: 38.1338505
@@ -19220,6 +19221,7 @@
 ? 2000 Chrysler and another from the 200 block of Chrysler occurred at the intersection
   of Von Mill and Outer Luke. Responding units arrived, Louisville, KY
 : null
+2000 Chrysler, Louisville, KY: null
 2000 Chrysler300, Louisville, KY: null
 2000 Clifton and Lindsay near the Dortons, Louisville, KY: null
 2000 Colonial Oaks Ct, Louisville, KY:
@@ -33482,6 +33484,9 @@
   but no reported injuries. Authorities are seeking information, Louisville, KY
 : lat: 38.1235971
   lng: -85.6360321
+400 Market, Louisville, KY:
+  lat: 38.2549259
+  lng: -85.7571981
 400 Markwell Ct, Louisville, KY:
   lat: 38.1396814
   lng: -85.6908164
