@@ -4396,6 +4396,9 @@
 1000 near Woodmide, Louisville, KY:
   lat: 38.1394402
   lng: -85.7834796
+1000 near the book, Louisville, KY:
+  lat: 38.1394704
+  lng: -85.783579
 1000 neighborhood in Armstrong Center, Louisville, KY: null
 1000 neighborhood plays near Crosshore National Turnpike, Louisville, KY: null
 1000 on1 MSD, Louisville, KY: null
@@ -5668,6 +5671,9 @@
   lat: 38.2117499
   lng: -85.7744423
 1100 Lincoln Ave near Lindbergh Dr and Colorado Ave, Louisville, KY:
+  lat: 38.2117499
+  lng: -85.7744423
+1100 Lincoln Ave near Sharp Ave and Lindbergh Dr, Louisville, KY:
   lat: 38.2117499
   lng: -85.7744423
 1100 Lincoln Ave, Crop St, Sharp Ave and Lindbergh Dr, Louisville, KY: null
@@ -34291,6 +34297,9 @@
 400 W Main St at the American Life Building, Louisville, KY:
   lat: 38.256588
   lng: -85.757011
+400 W Main St at the Dollhouse, Louisville, KY:
+  lat: 38.256588
+  lng: -85.757011
 400 W Main St, Louisville, KY:
   lat: 38.256588
   lng: -85.757011
@@ -54633,6 +54642,7 @@
   lat: 38.239507
   lng: -85.730723
 900 Barret Ave, suspected, Louisville, KY: null
+900 Baxter Ave and 700 block of South3rd Street, Louisville, KY: null
 900 Baxter Ave area, Louisville, KY: null
 900 Baxter Ave at Walgreens, Louisville, KY: null
 900 Baxter Ave near the Marriott hotel, Louisville, KY:
