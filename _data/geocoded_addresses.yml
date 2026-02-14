@@ -6681,6 +6681,9 @@
 11600 Creek Road, Louisville, KY:
   lat: 38.2282869
   lng: -85.4306933
+11600 Fairmount Rd, Louisville, KY:
+  lat: 38.1125951
+  lng: -85.5575935
 11600 Grange Row, Louisville, KY: null
 11600 LaGrange Road near Billie Ln and Berrytown, Louisville, KY:
   lat: 38.2883418
@@ -51688,6 +51691,7 @@
 7900 Emma Ct, Louisville, KY:
   lat: 38.1376739
   lng: -85.5662781
+7900 Facon Bush Lane, Louisville, KY: null
 7900 Fagan Bush Lane at Speedway, Louisville, KY:
   lat: 38.1835893
   lng: -85.6985826
