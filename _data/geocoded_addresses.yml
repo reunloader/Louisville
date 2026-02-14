@@ -55292,6 +55292,9 @@
 900 South 17th Street, Louisville, KY:
   lat: 38.243475
   lng: -85.781901
+? 900 South 17th Street, but the line was disconnected before further information
+  could be obtained. Responding units checked the area, Louisville, KY
+: null
 900 South 1st Street, Louisville, KY:
   lat: 38.2408661
   lng: -85.7544294
