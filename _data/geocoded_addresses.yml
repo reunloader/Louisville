@@ -1860,6 +1860,7 @@
 100 Poplar Level Ct, Louisville, KY:
   lat: 38.164827
   lng: -85.678529
+100 Preston Hwy and Morgan Ave, Louisville, KY: null
 100 Preston Hwy, Louisville, KY:
   lat: 38.1819023
   lng: -85.7203622
@@ -3295,6 +3296,9 @@
 1000 East Oak, Louisville, KY:
   lat: 38.2327741
   lng: -85.7371635
+1000 Eastern Parkway, Louisville, KY:
+  lat: 38.220777
+  lng: -85.733006
 1000 Eastern University of Louisville Hospital, Louisville, KY: null
 1000 Eigelbach Ave, Louisville, KY:
   lat: 38.2198375
@@ -6894,6 +6898,9 @@
 11900 Dixie Hwy, Louisville, KY:
   lat: 38.085305
   lng: -85.879994
+11900 Eastern Parkway, Louisville, KY:
+  lat: 38.2124872
+  lng: -85.7531275
 11900 Hanson and Circle, Louisville, KY: null
 11900 Lower River Rd, Louisville, KY:
   lat: 38.0829696
@@ -7530,6 +7537,9 @@
 1200 Old Harrods Creek Rd, Louisville, KY:
   lat: 38.2638191
   lng: -85.5521282
+1200 Oleanda Ave, Louisville, KY:
+  lat: 38.2004019
+  lng: -85.7800122
 1200 Outer Loop, Louisville, KY:
   lat: 38.1272203
   lng: -85.7444647
@@ -12915,6 +12925,9 @@
   lat: 38.231969
   lng: -85.717476
 1600 Woffen Lane, Louisville, KY: null
+1600 Woodbourne Ave, Louisville, KY:
+  lat: 38.2309672
+  lng: -85.677839
 1600 Yuma Way, Louisville, KY:
   lat: 38.1180919
   lng: -85.8873447
@@ -19969,6 +19982,9 @@
   lat: 38.2043172
   lng: -85.6145796
 2000 Woodbourne Ave near Dorothy, Louisville, KY:
+  lat: 38.224092
+  lng: -85.690973
+2000 Woodbourne Ave, Louisville, KY:
   lat: 38.224092
   lng: -85.690973
 2000 Wooded Springs Ct, Louisville, KY:
