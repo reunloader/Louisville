@@ -40163,6 +40163,9 @@
   lng: -85.744921
 500 S Jackson St in a hospital building, Louisville, KY: null
 500 S Jackson St in a hospital, Louisville, KY: null
+500 S Jackson St near E W Muhammad Ali Blvd, Louisville, KY:
+  lat: 38.249645
+  lng: -85.744921
 500 S Jackson St, Ambulatory Care Building, Louisville, KY: null
 500 S Jackson St, Ambulatory care building, Louisville, KY: null
 500 S Jackson St, Elmchilling, Louisville, KY: null
@@ -41874,6 +41877,9 @@
   lat: 38.1619458
   lng: -85.8354956
 5300 Mitscher Ave at Value Market, Louisville, KY:
+  lat: 38.1713857
+  lng: -85.7709066
+5300 Mitscher Ave at the Value Market, Louisville, KY:
   lat: 38.1713857
   lng: -85.7709066
 5300 Mitscher Ave near Value Market, Louisville, KY:
@@ -47524,6 +47530,10 @@
   lng: -85.8717481
 6800 Merge Circle, Louisville, KY: null
 6800 Mike, Yankee, Romeo, Romeo Hotel Circle, Louisville, KY: null
+? 6800 Mitscher Ave. They were directed to the back room where a patient was located,
+  with a meeting point established up front, Louisville, KY
+: lat: 38.1701137
+  lng: -85.7700548
 ? 6800 Myers Circle. The child, described as a 45-year-old black male wearing a green
   shirt and tan pants, was seen running around the location for about ten minutes
   without any adult supervision. Emergency services were dispatched to investigate
