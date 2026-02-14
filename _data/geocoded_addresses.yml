@@ -4548,6 +4548,7 @@
   number and received guidance, Louisville, KY
 : lat: 38.1075832
   lng: -85.8592116
+10100 Long Home Rd, Ash St, Sophia Ln, and Sanctuary Ln, Louisville, KY: null
 10100 Marquette Dr near Old Hickory Rd, Louisville, KY: null
 10100 Mitchell Hill, Louisville, KY:
   lat: 38.1043313
@@ -17914,6 +17915,9 @@
 200 Utah Avenue 3:00 a, Louisville, KY: null
 200 Utah Avenue 3:00 a.m., Louisville, KY: null
 200 Vangeline and Steedly Dr, Louisville, KY: null
+200 Virginia Ave near Cypress St and 26th Street, Louisville, KY:
+  lat: 38.2386515
+  lng: -85.8064326
 200 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
@@ -38199,6 +38203,13 @@
 4700 Dixie Hwy, Louisville, KY:
   lat: 38.1125665
   lng: -85.8631151
+4700 Dixie, Louisville, KY:
+  lat: 38.151629
+  lng: -85.8345273
+? 4700 Dixie. Officers attempted to verify the reports by checking on the individuals
+  involved and assessing the situation, Louisville, KY
+: lat: 38.151629
+  lng: -85.8345273
 4700 Dover, Louisville, KY:
   lat: 38.1842796
   lng: -85.8456971
@@ -52018,6 +52029,9 @@
 800 E W Liberty St, Louisville, KY:
   lat: 38.2534676
   lng: -85.7663705
+800 E W Madison St, Louisville, KY:
+  lat: 38.2518685
+  lng: -85.7742103
 800 E W Market St at LLC, Louisville, KY:
   lat: 38.2627278
   lng: -85.8163887
