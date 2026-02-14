@@ -2878,6 +2878,7 @@
 1000 Back Run Rd near Rockycreek Ln and Broad Run Rd, Louisville, KY:
   lat: 38.1067097
   lng: -85.5147495
+1000 Backstreet Ave, Louisville, KY: null
 1000 Baker area, Louisville, KY: null
 1000 Baker, Louisville, KY:
   lat: 38.1412684
@@ -6524,6 +6525,9 @@
 11300 Taylorsville Rd, Louisville, KY:
   lat: 38.1860602
   lng: -85.5475314
+11300 Westport Rd at the Hilton Hotel, Louisville, KY:
+  lat: 38.2988173
+  lng: -85.54059
 11300 Westport Rd, Louisville, KY:
   lat: 38.2988173
   lng: -85.54059
@@ -19254,6 +19258,9 @@
 2000 Four-door Drive and a woman overdosing at the 4200 block of Virginia Ave. EMS responded, Louisville, KY: null
 2000 Franciscan Cir, Louisville, KY: null
 2000 Frankfort Ave area, Louisville, KY: null
+2000 Frankfort Ave at Rita's Scoops, Louisville, KY:
+  lat: 38.2547046
+  lng: -85.7105457
 2000 Frankfort Ave, Louisville, KY:
   lat: 38.2547384
   lng: -85.7105457
@@ -36511,6 +36518,9 @@
 4300 Stoltz Ct, Louisville, KY:
   lat: 38.179299
   lng: -85.787693
+4300 Summit Plaza Dr at Malone's, Louisville, KY:
+  lat: 38.30976
+  lng: -85.5773702
 4300 Summit Plaza Dr near Malone's, Louisville, KY:
   lat: 38.30976
   lng: -85.5773702
