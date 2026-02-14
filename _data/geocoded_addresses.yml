@@ -9427,6 +9427,7 @@
 1300 [Street Name], Louisville, KY:
   lat: 38.2263414
   lng: -85.7200485
+1300 an unspecified street, Louisville, KY: null
 '1300 block of Joni Dr) (around 6:05 a.m. a.m. a.m.): responded to a medical emergency, Louisville, KY': null
 ? 1300 block of Shawnee Terrace, where a basement smoke detector was triggered. The
   alarm was determined to be false, caused by cooking, and was reset before the units
@@ -34839,6 +34840,9 @@
 4000 Mimosa View Dr, Louisville, KY:
   lat: 38.1858102
   lng: -85.5623315
+4000 Misty Woods Ln at Shady Grove and Ivywood, Louisville, KY:
+  lat: 38.1867387
+  lng: -85.6508813
 4000 Mutual Bank Road, Louisville, KY: null
 4000 My Two-Kay Dr, Louisville, KY: null
 4000 Naomi Dr, Louisville, KY:
@@ -41345,6 +41349,9 @@
 5100 Princewood Pl, Louisville, KY:
   lat: 38.163559
   lng: -85.818091
+5100 Quail Ct, Louisville, KY:
+  lat: 38.1760263
+  lng: -85.6948257
 5100 Quentin Place, Louisville, KY: null
 ? 5100 Red Oak Lane. The patient, a male weighing over 400 pounds, was experiencing
   leg swelling and was unable to walk. Emergency responders provided immediate care
@@ -41750,6 +41757,9 @@
   lng: -85.562505
 '5200 block of Marty Ln): Around 6:15 p, Louisville, KY': null
 5200 ramp and 10 Pin Lane, Louisville, KY: null
+52100 Quail Ct, Louisville, KY:
+  lat: 38.1767943
+  lng: -85.6945659
 52200 W Pages Ln, Louisville, KY:
   lat: 38.1308948
   lng: -85.8702609
@@ -56599,6 +56609,9 @@
   lng: -85.6736077
 9300 Walhampton Dr, Louisville, KY: null
 9300 Walhampton Dr. They were attending, Louisville, KY: null
+9300 Waltlee Rd, Louisville, KY:
+  lat: 38.169738
+  lng: -85.581547
 9300 Wingate Rd near Hyatt House, Louisville, KY: null
 9300 meadow valley lane, Louisville, KY:
   lat: 38.1058279
@@ -59283,6 +59296,7 @@ Short St and Belmar Dr, Louisville, KY: null
 Silver Springs Dr and Raintree Dr, Louisville, KY: null
 Sioux Ave and Chicopee Ave, Louisville, KY: null
 Six Mile Ln and Conn Lake Drive, Louisville, KY: null
+Six Mile Ln and Taylorsville Rd, Louisville, KY: null
 Six Mile Road and South Hirshborn Road, Louisville, KY: null
 Sky Blue Ave and Galaxie Dr, Louisville, KY: null
 Slack Ave and Peachtree Ave, Louisville, KY: null
