@@ -18917,6 +18917,9 @@
 200 east at exit 4, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 east at the 4-mile marker, Louisville, KY:
+  lat: 38.1860805
+  lng: -85.7582171
 200 east near 64 westbound underneath Freedom Way, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -58813,6 +58816,7 @@ Floyd Avenue and Olive St, Louisville, KY: null
 Floyd St and Bardstown Rd, Louisville, KY: null
 Floyd St and Caldwell St, Louisville, KY: null
 Floyd St and Central Ave, Louisville, KY: null
+Floyd St and Crop St, Louisville, KY: null
 Floyd St and Evans St, Louisville, KY: null
 Floyd St and Roland St, Louisville, KY: null
 Forest Dr and Prestwood Dr, Louisville, KY: null
