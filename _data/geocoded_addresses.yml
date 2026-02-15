@@ -14859,6 +14859,7 @@
 18000 Ritz Lane Place near Crop St, Settler's Court, and Muldoon's Way, Louisville, KY:
   lat: 38.2616479
   lng: -85.7955417
+18000 the bridge, Louisville, KY: null
 18200 Bridgemore Ln, Louisville, KY:
   lat: 38.2500333
   lng: -85.4167314
@@ -17725,6 +17726,7 @@
   lng: -85.6049197
 200 South Hurston Parkway at Kinney Castle, Louisville, KY: null
 200 South Hurston Parkway, Louisville, KY: null
+200 South I-18100 area, Louisville, KY: null
 200 South I-200 at Bardstown Rd, Louisville, KY:
   lat: 38.1506308
   lng: -85.587592
@@ -38467,6 +38469,9 @@
 4700 East Minslick Road, Louisville, KY: null
 4700 Echo Zulu, Louisville, KY: null
 4700 Eton Rd, Lowe's, Louisville, KY: null
+4700 Euclid Ave, Louisville, KY:
+  lat: 38.2146706
+  lng: -85.7748283
 4700 Faxon Ct, Louisville, KY:
   lat: 38.1434987
   lng: -85.8786865
@@ -51310,6 +51315,7 @@
 7500 Shelbyville Rd, Louisville, KY:
   lat: 38.249339
   lng: -85.613514
+7500 Shelter Road around 6:50 p.m.,, Louisville, KY: null
 7500 South 5th Street, Louisville, KY:
   lat: 38.2098564
   lng: -85.7664245
