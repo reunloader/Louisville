@@ -688,6 +688,9 @@
 100 Catawba Hillsway, Louisville, KY: null
 100 Cedar Meadows Ct, Louisville, KY: null
 100 Cedar Meadows Ct. Responders arrived, Louisville, KY: null
+100 Cedar St, Louisville, KY:
+  lat: 38.2545864
+  lng: -85.7762731
 100 Central Ave (Super 8), Louisville, KY: null
 100 Central Ave, Louisville, KY:
   lat: 38.202901
@@ -6256,6 +6259,9 @@
 1100 W Whitney Ave, Louisville, KY:
   lat: 38.1931788
   lng: -85.7796572
+1100 Walter Ave, Louisville, KY:
+  lat: 38.1760242
+  lng: -85.7794701
 1100 West All E, Louisville, KY: null
 1100 West Alley, Louisville, KY: null
 1100 West Alley, number 103, Louisville, KY: null
@@ -14404,6 +14410,7 @@
   KY
 : null
 1800 Farnsley Rd reported experiencing chest pain and generalized pain. Responders were en route, Louisville, KY: null
+1800 Farnsley Rd, Cable Missionary Baptist Church, Louisville, KY: null
 1800 Farnsley Rd, Louisville, KY:
   lat: 38.200783
   lng: -85.802433
@@ -20160,6 +20167,9 @@
 21 Camp St, Louisville, KY:
   lat: 38.2315119
   lng: -85.7458501
+21 Evans St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
 21 Griffiths Ave, Louisville, KY:
   lat: 38.2640089
   lng: -85.7842798
@@ -35206,6 +35216,7 @@
 4000 Poplar Level Rd at Wendy's, Louisville, KY:
   lat: 38.2011546
   lng: -85.7097969
+4000 Poplar Level Rd, Kroger Fuel Station, Louisville, KY: null
 4000 Poplar Level Rd, Lindy's, Louisville, KY: null
 4000 Poplar Level Rd, Louisville, KY:
   lat: 38.2011546
