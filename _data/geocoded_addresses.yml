@@ -10242,6 +10242,9 @@
 1400 Hemlock St, Louisville, KY:
   lat: 38.234176
   lng: -85.803411
+1400 Hemlock, Louisville, KY:
+  lat: 38.234176
+  lng: -85.803411
 1400 Hepburn Ave, Louisville, KY:
   lat: 38.237388
   lng: -85.7264818
@@ -13460,6 +13463,9 @@
   lat: 38.1020814
   lng: -85.7422297
 1700 I 64 West, Louisville, KY: null
+1700 Jackson, Louisville, KY:
+  lat: 38.2439062
+  lng: -85.7458076
 1700 Jefferson St near Wayside and South Jackson, Louisville, KY:
   lat: 38.2295455
   lng: -85.8187666
@@ -29552,6 +29558,9 @@
   lng: -85.6435204
 3300 Red Roof Inn, Louisville, KY: null
 3300 Red Roof Inn. The owner did not retrieve the weapon, prompting authorities to remove it, Louisville, KY: null
+3300 Ree Dr, Louisville, KY:
+  lat: 38.1652705
+  lng: -85.8613783
 3300 Renwood Blvd, Louisville, KY:
   lat: 38.1563588
   lng: -85.8166391
@@ -36575,6 +36584,9 @@
 4200 Towne Center Dr, Louisville, KY:
   lat: 38.3007023
   lng: -85.5559389
+4200 Trio Ave, Louisville, KY:
+  lat: 38.129187
+  lng: -85.68383
 4200 Troon Dr, Louisville, KY:
   lat: 38.23743
   lng: -85.497451
@@ -59172,6 +59184,7 @@ Hillview Ave and Delores Ave, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hillwood Dr and Crop St, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
+Hirshborn Parkway and Ambrosse Ln, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
 Hirsporn Lane and South Hirsporn Parkway, Louisville, KY: null
 Hitt Rd and Bowersville Rd, Louisville, KY: null
