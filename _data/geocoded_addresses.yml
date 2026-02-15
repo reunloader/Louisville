@@ -18934,6 +18934,7 @@
 200 eastbound I-64 at the east end, Louisville, KY:
   lat: 38.3405064
   lng: -85.6410214
+200 eastbound I-70 near the 17-mile marker, Louisville, KY: null
 200 eastbound Stony Brook Dr, Louisville, KY: null
 200 eastbound and South25 near Franklin, Louisville, KY:
   lat: 38.1737608
@@ -53183,6 +53184,9 @@
 800 South2nd Street, Louisville, KY:
   lat: 38.243198
   lng: -85.755616
+800 South31st Street, Louisville, KY:
+  lat: 38.2475166
+  lng: -85.8039944
 800 South31st, Louisville, KY:
   lat: 38.2475166
   lng: -85.8039944
