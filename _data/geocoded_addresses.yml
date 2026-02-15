@@ -1102,6 +1102,7 @@
 100 Fenley Ave, Louisville, KY:
   lat: 38.2546069
   lng: -85.6711865
+100 Fenley Ave, building W, Louisville, KY: null
 100 Fenley Ave-7, Louisville, KY: null
 100 Fenley Ave. Responding units arrived, Louisville, KY:
   lat: 38.2546069
@@ -4265,6 +4266,7 @@
 1000 W Market St near The Healing Place, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
+1000 W Market St, Healing Place, Louisville, KY: null
 1000 W Market St, Louisville, KY:
   lat: 38.2560618
   lng: -85.7671133
@@ -26699,6 +26701,7 @@
 300 North24th St, Louisville, KY:
   lat: 38.263073
   lng: -85.789242
+300 North26, Healing Place, Louisville, KY: null
 300 North27th Street, Louisville, KY:
   lat: 38.266224
   lng: -85.794465
@@ -30966,6 +30969,7 @@
 3600 Lees Ln, Louisville, KY:
   lat: 38.188891
   lng: -85.8660481
+3600 Lense, Louisville, KY: null
 ? 3600 Lentz Ave due to a lockout situation where a patient was reported down. The
   call also indicated a hoarding situation, necessitating assistance with entry. Several
   specialized units responded to gain access and address the medical and environmental
