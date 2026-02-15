@@ -5030,6 +5030,9 @@
   lng: -85.5658962
 10600 Miller's Lane, Louisville, KY: null
 10600 Moraine Cir, Louisville, KY: null
+10600 National Turnpike, Louisville, KY:
+  lat: 38.0965418
+  lng: -85.7384255
 10600 Newton Woods Trail, Louisville, KY: null
 10600 Newtown Woods Trail, Louisville, KY: null
 10600 Savoy Ct, Louisville, KY:
@@ -5492,6 +5495,7 @@
   lat: 38.1416327
   lng: -85.6949115
 1100 Clay Hall, Louisville, KY: null
+1100 Clayborne Rd, Louisville, KY: null
 1100 Clear Stream Ct, Louisville, KY:
   lat: 38.1432586
   lng: -85.5694186
@@ -12088,6 +12092,9 @@
 15500 Shelbyville Rd, Louisville, KY:
   lat: 38.2358921
   lng: -85.4716982
+1557 South4th Street, Louisville, KY:
+  lat: 38.22495
+  lng: -85.7619857
 15600 Scholar House Core, Louisville, KY: null
 15700 Beckley Hills Dr due, Louisville, KY: null
 15700 Beckley Hills Dr, Louisville, KY:
@@ -13814,6 +13821,9 @@
 1700 South38th Street, Louisville, KY:
   lat: 38.2295009
   lng: -85.818753
+1700 South4th Street, Louisville, KY:
+  lat: 38.2232086
+  lng: -85.7630886
 1700 Southcrest Dr, Louisville, KY:
   lat: 38.185411
   lng: -85.7724711
