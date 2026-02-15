@@ -406,6 +406,9 @@
 100 Acre at St, Louisville, KY:
   lat: 38.2970412
   lng: -85.50779
+100 Acre, Louisville, KY:
+  lat: 38.2970412
+  lng: -85.50779
 100 Acres, Louisville, KY:
   lat: 38.183402
   lng: -85.627892
@@ -13348,6 +13351,7 @@
 1700 Gagel Ave, Louisville, KY:
   lat: 38.1733587
   lng: -85.8184499
+1700 Galbert but was outside the residence at the time of the call, Louisville, KY: null
 1700 Gallagher St near Salem Ave and South17, Louisville, KY:
   lat: 38.238873
   lng: -85.783778
