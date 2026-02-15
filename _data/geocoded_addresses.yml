@@ -5509,6 +5509,9 @@
   lat: 38.257724
   lng: -85.7605474
 1100 East Broadway and 4000 block of South Fifth Street, Louisville, KY: null
+1100 East Broadway at Breckenridge Metropolitan High School, Louisville, KY:
+  lat: 38.2440101
+  lng: -85.7337642
 1100 East Broadway, Louisville, KY:
   lat: 38.2440101
   lng: -85.7337642
@@ -22331,6 +22334,9 @@
   W Jefferson St, where they checked on a subject, Louisville, KY
 : lat: 38.267712
   lng: -85.786762
+2400 Bardstown Rd at Norton Immediate Care Center, Louisville, KY:
+  lat: 38.223758
+  lng: -85.689073
 2400 Bardstown Rd near Kroger, Louisville, KY:
   lat: 38.223758
   lng: -85.689073
@@ -25509,6 +25515,11 @@
 : null
 2900 Thistlewood Dr. The vehicle, a red truck, was observed, Louisville, KY: null
 2900 Tom Will Pass, Louisville, KY: null
+2900 Treelane, Louisville, KY: null
+? 2900 Treelane. The responders assessed the patient and confirmed the medical emergency,
+  then went in service after providing necessary care. The situation was stabilized,
+  and the patient was likely transported, Louisville, KY
+: null
 2900 Valley Rd, Louisville, KY:
   lat: 38.2287999
   lng: -85.7212004
