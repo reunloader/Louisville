@@ -30532,6 +30532,7 @@
 3500 North 35th Street, Louisville, KY:
   lat: 38.2735722
   lng: -85.804438
+3500 One One Drive, Louisville, KY: null
 3500 Outer Loop at Cheddar's, Louisville, KY:
   lat: 38.1361718
   lng: -85.6985653
@@ -46117,6 +46118,9 @@
 6000 South 37th Street, Louisville, KY:
   lat: 38.2471327
   lng: -85.812901
+6000 South 3rd St, Louisville, KY:
+  lat: 38.1682419
+  lng: -85.7689596
 6000 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -50413,6 +50417,9 @@
 7000 Eastern Parkway near White Castle, Louisville, KY:
   lat: 38.2154837
   lng: -85.7414654
+7000 Evans St, Louisville, KY:
+  lat: 38.2298984
+  lng: -85.7515509
 7000 Farnham Dr, Louisville, KY:
   lat: 38.275076
   lng: -85.5778643
