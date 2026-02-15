@@ -25666,6 +25666,9 @@
 3 Old Station Rd, Louisville, KY:
   lat: 38.2464185
   lng: -85.4969733
+30 Arthur St, Louisville, KY:
+  lat: 38.2209861
+  lng: -85.7517448
 30 Charter Oaks Dr, Louisville, KY: null
 30 Elanna Ave, Louisville, KY: null
 30 Frankfort Ave, Louisville, KY:
@@ -45193,6 +45196,7 @@
 600 South Preston, Louisville, KY:
   lat: 38.2474901
   lng: -85.7476008
+600 South Pros10, Cursures, Springer Alley, and Chestnut, Louisville, KY: null
 600 South Richmond Parkway, Louisville, KY: null
 600 South Second Street, Louisville, KY: null
 600 South Shelby, Louisville, KY:
