@@ -5301,6 +5301,9 @@
 11 Logwood Ave, Louisville, KY:
   lat: 38.0804603
   lng: -85.8667825
+11 Mackie Ln, Louisville, KY:
+  lat: 38.1408403
+  lng: -85.7646787
 11 Murphy Ln, Louisville, KY:
   lat: 38.3136029
   lng: -85.5400129
@@ -29689,6 +29692,7 @@
   lat: 38.200333
   lng: -85.623711
 3400 Brecker and Mitchell Ln, Louisville, KY: null
+3400 Brick and Ridge land, Louisville, KY: null
 3400 Buckeye Rd, Louisville, KY:
   lat: 38.199456
   lng: -85.8397711
