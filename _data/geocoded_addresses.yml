@@ -22596,6 +22596,9 @@
 2400 Marymount Ct. This was described as a general alarm activation., Louisville, KY:
   lat: 38.2850585
   lng: -85.6178338
+2400 McGee Drive, Louisville, KY:
+  lat: 38.165201
+  lng: -85.854668
 2400 McKendree Court, Louisville, KY:
   lat: 38.2484299
   lng: -85.7932797
@@ -29060,6 +29063,9 @@
 3300 Barbara Ave, Louisville, KY:
   lat: 38.1426819
   lng: -85.8500632
+3300 Barbers Ln, Louisville, KY:
+  lat: 38.177192
+  lng: -85.870624
 3300 Bardshound Road, Louisville, KY: null
 3300 Bardstown Rd (Brown Suburban Hotel), Louisville, KY: null
 3300 Bardstown Rd at the Grand Serbin Hotel, Louisville, KY:
@@ -43217,6 +43223,9 @@
 5600 Old Heady Rd, Louisville, KY:
   lat: 38.165365
   lng: -85.5114638
+5600 Outer Loop near Rochelle Rd and Serna Parkway, Louisville, KY:
+  lat: 38.138872
+  lng: -85.657471
 5600 Oxford Ct, Louisville, KY:
   lat: 38.1602952
   lng: -85.6027169
@@ -59435,6 +59444,7 @@ Robbs Ln and Chippersville Road, Louisville, KY: null
 Robinwood Rd and Regal Dr, Louisville, KY: null
 Rochdale Road and Sonoma Parkway, Louisville, KY: null
 Rochelle Rd and Myrna Parkway, Louisville, KY: null
+Rochelle Rd and Serna Parkway, Louisville, KY: null
 Rochelle Rd and Sperna Parkway, Louisville, KY: null
 Rock Bluff Dr and Murphy Ln, Louisville, KY: null
 Rock Hollow Dr and Rock Forest Dr, Louisville, KY: null
