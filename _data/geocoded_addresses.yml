@@ -14121,6 +14121,7 @@
   lng: -85.6133765
 1800 Austin Avenue, Louisville, KY: null
 1800 Avenue, Louisville, KY: null
+1800 B3, Louisville, KY: null
 1800 Baird St, Louisville, KY:
   lat: 38.263944
   lng: -85.777999
@@ -14852,6 +14853,13 @@
 1800 an unspecified street, Louisville, KY: null
 1800 block of W Lee St, cross of 22nd and Dixie Hwy,, Louisville, KY: null
 1800 hours (UofL area), Louisville, KY: null
+? 1800 near 2000 block of Terril Ln, where units treated her on site. Both incidents
+  involved medical personnel providing immediate assistance, Louisville, KY
+: lat: 38.222005
+  lng: -85.7933199
+1800 near Rob Roy in New Albany, Louisville, KY:
+  lat: 38.222005
+  lng: -85.7933199
 1800 to8th Street, Louisville, KY: null
 18000 Arlington Meadows Dr, Louisville, KY:
   lat: 38.2316684
@@ -27535,6 +27543,9 @@
 3000 North35th Street near Alford Ave and Duncan St, Louisville, KY:
   lat: 38.2653296
   lng: -85.8078312
+3000 Northwestern Pky near Horse Street of 31st and 30th, Louisville, KY:
+  lat: 38.2744509
+  lng: -85.7960857
 3000 Northwestern Pky, Louisville, KY:
   lat: 38.2744509
   lng: -85.7960857
@@ -32098,6 +32109,9 @@
 3900 Cane Run Rd. Medical units were dispatched, Louisville, KY:
   lat: 38.2135306
   lng: -85.8210078
+3900 Central Ave, Louisville, KY:
+  lat: 38.191128
+  lng: -85.651736
 3900 Charter Oaks Dr, Louisville, KY: null
 3900 Chevy Low Road, Louisville, KY: null
 3900 Chlorine, Louisville, KY: null
