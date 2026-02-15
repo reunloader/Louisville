@@ -16555,6 +16555,7 @@
 200 East between Coppola and Newburgh, Louisville, KY: null
 200 East driveway, 10th Dollar General, Louisville, KY: null
 200 East exit, Louisville, KY: null
+200 East freeway near the 6, Louisville, KY: null
 200 East from 65 South, Louisville, KY: null
 200 East from I-64 West, Louisville, KY: null
 200 East from Poplar Level, Louisville, KY: null
@@ -33231,6 +33232,9 @@
 400 East Alley, Louisville, KY:
   lat: 38.245864
   lng: -85.74737
+400 East Brandeis near the Borgo Alarm, Louisville, KY:
+  lat: 38.218198
+  lng: -85.751371
 400 East Brindice Avenue, Louisville, KY: null
 400 East Broadway near South Jackson and South Preston, Louisville, KY:
   lat: 38.2449978
