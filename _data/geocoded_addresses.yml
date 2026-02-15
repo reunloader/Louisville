@@ -23205,6 +23205,7 @@
   lat: 38.289727
   lng: -85.650155
 2500 Pinnacle Grove, Louisville, KY: null
+2500 Pinnacle Road, Louisville, KY: null
 2500 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
@@ -23346,6 +23347,7 @@
   lat: 38.181441
   lng: -85.839505
 2500 Truvillion Way, Louisville, KY: null
+2500 UofL Hospital, Louisville, KY: null
 2500 Veronica Dr near Diamond Way and Dover Rd, Louisville, KY:
   lat: 38.185302
   lng: -85.833338
@@ -24538,6 +24540,9 @@
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2700 West Marcus Street, Louisville, KY: null
+2700 West Market, Louisville, KY:
+  lat: 38.2595662
+  lng: -85.7951273
 2700 West Muhammad Alley, Louisville, KY: null
 2700 Woodland Ave, Louisville, KY:
   lat: 38.2337884
