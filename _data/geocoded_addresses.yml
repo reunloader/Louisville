@@ -37181,6 +37181,10 @@
 4400 Huntington Ln, Louisville, KY:
   lat: 38.1419722
   lng: -85.6875526
+? 4400 Ivy Crest Cir after an 85-year-old male fell, weighing approximately 200 pounds.
+  EMS arrived on scene, confirmed the incident, and assisted the individual. The patient
+  was evaluated and likely transported, Louisville, KY
+: null
 4400 Jasmine Valley Ct, Louisville, KY: null
 4400 Jennymac Dr, Louisville, KY:
   lat: 38.1896845
@@ -55142,6 +55146,9 @@
 900 Civic Way, Louisville, KY:
   lat: 38.3212294
   lng: -85.5643437
+900 Collington Dr, Louisville, KY:
+  lat: 38.3206891
+  lng: -85.5491407
 900 Collins Ln, Louisville, KY:
   lat: 38.2892011
   lng: -85.5152696
