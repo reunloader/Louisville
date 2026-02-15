@@ -6745,6 +6745,9 @@
   lat: 38.1949363
   lng: -85.7825407
 11500 Redwood Way, Louisville, KY: null
+11500 Rock Bass Ct, Louisville, KY:
+  lat: 38.320168
+  lng: -85.537055
 11500 Tazewell, Louisville, KY: null
 11500 Tazwell Dr, Louisville, KY:
   lat: 38.305822
@@ -8322,6 +8325,7 @@
   investigated the incident., Louisville, KY
 : null
 1225 South Fifth Street in response, Louisville, KY: null
+12300 Bristol Bay Pl, Louisville, KY: null
 12300 Center Grove Ln, Louisville, KY: null
 12300 Charlie David, Louisville, KY: null
 12300 Dominion Way. EMS assisted with the situation, which appeared, Louisville, KY:
@@ -31059,6 +31063,9 @@
   lng: -85.8107537
 3600 Rochstown Road, Louisville, KY: null
 3600 Rockbridge Rd, Louisville, KY: null
+3600 Romania Dr, Louisville, KY:
+  lat: 38.15688
+  lng: -85.823186
 3600 Rosemont Ct, Louisville, KY:
   lat: 38.2070291
   lng: -85.6507623
@@ -32250,6 +32257,8 @@
 3900 Bank St near 39th and 41st Streets, Louisville, KY:
   lat: 38.2717715
   lng: -85.8120889
+3900 Barchown Rd, Louisville, KY: null
+3900 Barchown Road, Louisville, KY: null
 3900 Bardstown Rd at Moomoo House, Louisville, KY:
   lat: 38.1950369
   lng: -85.6533252
@@ -32650,6 +32659,7 @@
 3900 Valley Rd near Geneva Forest, Louisville, KY:
   lat: 38.2287999
   lng: -85.7212004
+3900 Varshawn Rd, Louisville, KY: null
 3900 Vermont Ave, Louisville, KY:
   lat: 38.2562961
   lng: -85.8156449
@@ -52467,6 +52477,7 @@
 800 Ava Brooks, Louisville, KY: null
 800 Backer, conducting a thorough search, Louisville, KY: null
 800 Baker Bullitt Ln. Responding units investigated the scene, Louisville, KY: null
+800 Baker also confirmed that William Bond had been seen recently and was safe, Louisville, KY: null
 800 Baker and 800 block of Adam near the Hilton Garden Inn, Louisville, KY:
   lat: 38.3105992
   lng: -85.5761842
