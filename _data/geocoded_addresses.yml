@@ -2261,6 +2261,9 @@
 100 Strand Ave, Louisville, KY:
   lat: 38.223169
   lng: -85.7092142
+100 Street and 12th Street, Louisville, KY:
+  lat: 38.258208
+  lng: -85.769845
 100 Strewberry / 3600 block of Cane Run Rd, Louisville, KY: null
 100 Strewberry, possibly connected, Louisville, KY: null
 100 Suspending Carol, Louisville, KY: null
@@ -12640,6 +12643,7 @@
 1600 Sale Ave. Information, Louisville, KY:
   lat: 38.19768
   lng: -85.790838
+1600 Seager Street, Louisville, KY: null
 1600 Shady Ln, Louisville, KY:
   lat: 38.225924
   lng: -85.712713
@@ -27024,6 +27028,10 @@
 300 West Brandeis, Louisville, KY:
   lat: 38.220486
   lng: -85.7457168
+300 West Broadway but was later clarified as taking place on Bardstown Rd. Responding units arrived, Louisville, KY: null
+300 West Broadway near Bardstown Rd, Louisville, KY:
+  lat: 38.2457716
+  lng: -85.7569119
 300 West Broadway near the State Farm building, Louisville, KY:
   lat: 38.2457716
   lng: -85.7569119
@@ -28982,6 +28990,7 @@
 3200 West Kentucky, Louisville, KY:
   lat: 38.244126
   lng: -85.806135
+3200 West Mill, Louisville, KY: null
 3200 Westport Green Pl, Louisville, KY:
   lat: 38.2908761
   lng: -85.562034
