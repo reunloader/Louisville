@@ -2399,6 +2399,7 @@
   lng: -85.751767
 100 W Main St, Oak Forest or Distillery, Louisville, KY: null
 100 W Main St, Old Forster Distillery, Crop St South 2nd and East Main, Louisville, KY: null
+100 W Main St, bourbon bar, Louisville, KY: null
 100 W Market St, Louisville, KY:
   lat: 38.2544972
   lng: -85.7522553
@@ -23453,6 +23454,9 @@
 2500 Windsor Forest Dr, Louisville, KY:
   lat: 38.1280093
   lng: -85.8173383
+2500 Windsor Forest, Louisville, KY:
+  lat: 38.1280093
+  lng: -85.8173383
 2500 Woodbourne Ave near Ingle Ave, Louisville, KY:
   lat: 38.229284
   lng: -85.680861
@@ -25195,6 +25199,7 @@
   lat: 38.2161315
   lng: -85.6764774
 2900 Bars Town, Louisville, KY: null
+2900 Berk Ranch, Louisville, KY: null
 2900 Berkin Ranch Lane at the Speedway, Louisville, KY:
   lat: 38.1576618
   lng: -85.8334451
@@ -28600,6 +28605,9 @@
   lat: 38.209554
   lng: -85.670014
 3200 Barge Shun Road, Louisville, KY: null
+3200 Barn Rd, Louisville, KY:
+  lat: 38.132939
+  lng: -85.5948852
 3200 Be Red Avenue, Louisville, KY: null
 ? 3200 Be Red Avenue, also known as Reid Ave. The investigation extended to the area
   of 31st and Northwestern, where a smell of smoke was detected., Louisville, KY
@@ -33798,6 +33806,9 @@
 400 North 28th, Louisville, KY:
   lat: 38.267459
   lng: -85.795458
+400 North 29th Street, Louisville, KY:
+  lat: 38.266583
+  lng: -85.797713
 400 North 30th Street, Louisville, KY:
   lat: 38.266789
   lng: -85.799312
