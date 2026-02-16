@@ -1008,6 +1008,9 @@
 100 East Kingstone, Louisville, KY: null
 100 East Lawlington Avenue, Louisville, KY: null
 100 East Longsby, Louisville, KY: null
+100 East Main, Louisville, KY:
+  lat: 38.2577199
+  lng: -85.7580289
 100 East Market, Louisville, KY:
   lat: 38.2544597
   lng: -85.7516001
@@ -13194,6 +13197,9 @@
 17 Wilkie Rd, Louisville, KY:
   lat: 38.1768077
   lng: -85.8569926
+1700 13th Street, Louisville, KY:
+  lat: 38.2245911
+  lng: -85.7776238
 1700 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -19236,6 +19242,7 @@
 200 westbound at exit 8A, Louisville, KY: null
 200 westbound bridge, Louisville, KY: null
 200 westbound from the fairgrounds, Louisville, KY: null
+200 westbound highway near the 18, Louisville, KY: null
 200 westbound just east of Breck, Louisville, KY: null
 200 westbound near Taylor Blvd, Louisville, KY:
   lat: 38.2097956
@@ -30364,6 +30371,9 @@
 3500 Dutchman's Lane. Responding units were dispatched, Louisville, KY: null
 3500 Dutchman's Leg, Louisville, KY: null
 3500 Dutchmans Ln, Seneca Place, Louisville, KY: null
+3500 East Main, Louisville, KY:
+  lat: 38.2534469
+  lng: -85.7267533
 3500 East Robson St, Louisville, KY: null
 3500 Edgewood Pl, Louisville, KY:
   lat: 38.2327965
