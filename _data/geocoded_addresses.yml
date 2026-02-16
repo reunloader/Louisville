@@ -8786,6 +8786,9 @@
 1300 Cecil, Louisville, KY:
   lat: 38.2389778
   lng: -85.8223802
+1300 Cedar Grove Ct, Louisville, KY:
+  lat: 38.2753506
+  lng: -85.8055786
 1300 Central Ave, Louisville, KY:
   lat: 38.2096295
   lng: -85.7791015
@@ -8836,6 +8839,9 @@
   lng: -85.7602178
 1300 Cromwell Caleb and 4700 block of Valla Rd, Louisville, KY: null
 1300 Cromwell Caleb, Louisville, KY: null
+1300 Crop St, Louisville, KY:
+  lat: 38.2616593
+  lng: -85.7956446
 1300 Cypress St, Louisville, KY:
   lat: 38.236412
   lng: -85.797861
@@ -9365,6 +9371,7 @@
 1300 South Brook near Magnolia and Woodbine, Louisville, KY:
   lat: 38.2315709
   lng: -85.7543959
+1300 South Brooks Street, Louisville, KY: null
 1300 South Crescent Street, Louisville, KY: null
 1300 South First St, Louisville, KY: null
 1300 South First Street, Louisville, KY: null
@@ -29009,6 +29016,9 @@
 3200 Frankfort Ave, Louisville, KY:
   lat: 38.254134
   lng: -85.675278
+3200 Furman Blvd, Louisville, KY:
+  lat: 38.2173034
+  lng: -85.6448638
 3200 Garland Ave, Louisville, KY:
   lat: 38.245488
   lng: -85.80606
@@ -34919,6 +34929,9 @@
 400 Varsha Road at the KSC, Louisville, KY: null
 400 Venom, Louisville, KY: null
 400 Vicker, Louisville, KY: null
+400 View Apartments, Louisville, KY:
+  lat: 38.1935295
+  lng: -85.7962489
 400 Virginia Ave, Louisville, KY:
   lat: 38.2386515
   lng: -85.8064326
