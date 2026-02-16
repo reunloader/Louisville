@@ -8093,6 +8093,9 @@
 1200 Terrace Creek, Louisville, KY:
   lat: 38.2885067
   lng: -85.5024049
+1200 Thor Ave, Louisville, KY:
+  lat: 38.1088028
+  lng: -85.6941212
 1200 Top Hill Rd, Louisville, KY:
   lat: 38.078833
   lng: -85.7946386
@@ -17937,6 +17940,7 @@
   lng: -85.6049197
 200 South Hurston Parkway at Kinney Castle, Louisville, KY: null
 200 South Hurston Parkway, Louisville, KY: null
+200 South Hurtsborne Parkway, Louisville, KY: null
 200 South I-18100 area, Louisville, KY: null
 200 South I-200 at Bardstown Rd, Louisville, KY:
   lat: 38.1506308
@@ -28215,6 +28219,7 @@
 3000 an unspecified street, Louisville, KY: null
 3000 call, Louisville, KY: null
 3000 call. Further details, Louisville, KY: null
+3000 unspecified street in zone 14, Louisville, KY: null
 3030 Breckenridge Lane, Louisville, KY:
   lat: 38.2162478
   lng: -85.6281027
@@ -55775,6 +55780,7 @@
 900 East Broadway, Louisville, KY:
   lat: 38.2442432
   lng: -85.7373692
+900 East Chess, Louisville, KY: null
 900 East Frogwood, Louisville, KY: null
 900 East Jefferson, Louisville, KY:
   lat: 38.2513639
