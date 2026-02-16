@@ -26196,6 +26196,9 @@
   was fleeing westbound. Authorities issued a warning about an armed suspect wanted,
   Louisville, KY
 : null
+300 Drive, Louisville, KY:
+  lat: 38.2460754
+  lng: -85.495423
 300 Dumesnil St, Louisville, KY:
   lat: 38.2357119
   lng: -85.7798286
@@ -35500,6 +35503,7 @@
   lng: -85.6249927
 4000 Taylorville, Louisville, KY: null
 4000 Taylor’s Road at Walgreens, Louisville, KY: null
+4000 Tennesville Road, Louisville, KY: null
 4000 Towne Center Dr, Louisville, KY:
   lat: 38.2974974
   lng: -85.5546862
@@ -44653,6 +44657,7 @@
   lat: 38.2532694
   lng: -85.7419011
 600 East Metal Court, Louisville, KY: null
+600 East Muhammad Alley, Louisville, KY: null
 600 East Oak, Louisville, KY:
   lat: 38.2335579
   lng: -85.7455533
@@ -52661,6 +52666,7 @@
 800 Beechview Way, Louisville, KY:
   lat: 38.1417
   lng: -85.6784759
+800 Bermuda Ln or 300 block of Bermuda Ln, Louisville, KY: null
 800 Bermuda Ln, Louisville, KY:
   lat: 38.1599559
   lng: -85.7179761
@@ -60233,6 +60239,7 @@ Tyler Ln and Varsantown Rd, Louisville, KY: null
 Tyler Park Dr and Baxter Ave, Louisville, KY: null
 Ulrich Rd and Johnson School Rd, Louisville, KY: null
 University Blvd and Arthur Avenue, Louisville, KY: null
+University Blvd and Arthur St, Louisville, KY: null
 University Blvd and Crittenden Dr, Louisville, KY: null
 University Rd and Cleveland Blvd, Louisville, KY: null
 Utah Ave and Euclid Ave, Louisville, KY: null
