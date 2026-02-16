@@ -1901,6 +1901,7 @@
   lng: -85.5600763
 100 Rensselaub-Russell-Jackson Ave W Oak St, Louisville, KY: null
 100 Retro Row, Louisville, KY: null
+100 Ripple Creek Dr and 1700 block of Old Henry Rd, Louisville, KY: null
 100 River Park Dr, Louisville, KY:
   lat: 38.2536492
   lng: -85.8002952
@@ -19385,6 +19386,9 @@
   lat: 38.2389138
   lng: -85.7449988
 2000 Canterworth Place near Harmon Ct and Bardstown Rd, Louisville, KY: null
+2000 Capron Ln, Louisville, KY:
+  lat: 38.3035111
+  lng: -85.5637795
 2000 Carrol Lane. Officers responded, Louisville, KY: null
 2000 Cedar St, Louisville, KY:
   lat: 38.255447
@@ -50910,6 +50914,12 @@
 7200 Bardstown Rd at Sappi Carpenter, Louisville, KY:
   lat: 38.2385615
   lng: -85.7212522
+7200 Bardstown Rd, Louisville, KY:
+  lat: 38.1532061
+  lng: -85.5888316
+? 7200 Bardstown Rd, in front of the 1900 block of Gearwood. Fire units responded
+  promptly and contacted utility services, Louisville, KY
+: null
 7200 Beechland Ave, Louisville, KY:
   lat: 38.146994
   lng: -85.846597
