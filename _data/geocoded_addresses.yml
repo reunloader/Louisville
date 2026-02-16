@@ -2568,6 +2568,7 @@
   lng: -85.7629961
 100 West Kentucky, mentioning prescription Xanax before hanging up. Attempts, Louisville, KY: null
 100 West Lumsby Avenue, Louisville, KY: null
+100 West Main or W Market St, Louisville, KY: null
 100 West Main, Louisville, KY:
   lat: 38.2575113
   lng: -85.7629961
@@ -21681,6 +21682,9 @@
   lng: -85.7875154
 2200 West Muhammad Alley, Louisville, KY: null
 2200 West Orange V, Louisville, KY: null
+2200 West Ormsby, Louisville, KY:
+  lat: 38.2355746
+  lng: -85.7915971
 ? 2200 West W Market St, near the Blue Store, following a report of an individual
   down on the side of the building, suspected of overdosing. The patient, a male,
   was reportedly confused and unresponsive., Louisville, KY
@@ -23477,6 +23481,9 @@
 2500 Veronica Dr, Louisville, KY:
   lat: 38.185302
   lng: -85.833338
+2500 W Burnett Ave, Louisville, KY:
+  lat: 38.2315405
+  lng: -85.7965856
 2500 W Chestnut St, Louisville, KY:
   lat: 38.2527733
   lng: -85.7932062
@@ -55579,6 +55586,7 @@
 900 E W Washington St, Louisville, KY:
   lat: 38.2579616
   lng: -85.7618141
+900 E W Woodlawn Ave and Allmond Ave, Louisville, KY: null
 900 East Ali, Louisville, KY:
   lat: 38.248781
   lng: -85.736592
@@ -60352,6 +60360,7 @@ Woodgate Lane and Manor Hill Drive, Louisville, KY: null
 Woodhill Ln and Sheila Rd, Louisville, KY: null
 Woodland Ave and Catalpa St, Louisville, KY: null
 Woodland Ave and Wilson Ave, Louisville, KY: null
+Woodlawn Ave and Allmond Ave, Louisville, KY: null
 Woodlawn Ave and Burkley Ave, Louisville, KY: null
 Woodlawn Ave and Francis Ave, Louisville, KY: null
 Woodruff Ave and Camden Ave, Louisville, KY: null
