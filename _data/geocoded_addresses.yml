@@ -7794,6 +7794,9 @@
   lat: 38.1976065
   lng: -85.7803081
 1200 San Jose Ave, Louisville, KY: null
+1200 Schiller Ave, Louisville, KY:
+  lat: 38.2328416
+  lng: -85.7308444
 1200 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -23077,6 +23080,9 @@
   lng: -85.7745087
 24700 golf, but the vehicle was not immediately found, Louisville, KY: null
 24900 Creek Point Terrace in the 2400 block, Louisville, KY: null
+25 Cedar St, Louisville, KY:
+  lat: 38.2545864
+  lng: -85.7762731
 25 Clune 7 near Service, Louisville, KY:
   lat: 38.0748568
   lng: -85.7608422
