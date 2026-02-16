@@ -9687,6 +9687,7 @@
 13400 Dixie Hwy, Louisville, KY:
   lat: 38.0622073
   lng: -85.8871834
+13400 Forest Springs Dr, La Grange Rd, Louisville, KY: null
 13400 Hope Jail Way near Wimstock and Lidcombe, Louisville, KY: null
 13400 Imperial Line, Louisville, KY: null
 13400 Kane Lane, Louisville, KY: null
@@ -52777,6 +52778,9 @@
 800 David, Louisville, KY:
   lat: 38.2155106
   lng: -85.7457745
+800 Dearborn Ave, Louisville, KY:
+  lat: 38.2480169
+  lng: -85.8141712
 800 Dearcy Ave, Louisville, KY:
   lat: 38.2002163
   lng: -85.7798573
@@ -55960,6 +55964,9 @@
   is near Old Henry Rd and Aiken Rd., Louisville, KY
 : null
 900 N S S English Station Rd, Louisville, KY: null
+900 Northwestern Pky, Louisville, KY:
+  lat: 38.2736946
+  lng: -85.8151539
 900 O'Rice Ave near Preston Hwy and Farm Valley, Louisville, KY: null
 900 Observation Cir, Louisville, KY: null
 900 Open Line**, Louisville, KY: null
