@@ -2563,6 +2563,7 @@
 : lat: 38.2000313
   lng: -85.7618272
 100 West Hamhurst Ave, Louisville, KY: null
+100 West Hamhurst Avenue, Louisville, KY: null
 100 West Hill, Crop St, Louisville, KY: null
 100 West Jeff, Louisville, KY:
   lat: 38.1537856
@@ -10287,6 +10288,7 @@
 1400 Homeview Dr, Louisville, KY:
   lat: 38.2097542
   lng: -85.7821284
+1400 Horace Avenue, Louisville, KY: null
 1400 Huntoon Ave, Louisville, KY:
   lat: 38.1716038
   lng: -85.7848536
@@ -33642,6 +33644,9 @@
 400 Fern Valley Rd. EMS responded with a Code 3 response, Louisville, KY:
   lat: 38.1569645
   lng: -85.7038308
+400 Finzer St, Louisville, KY:
+  lat: 38.244142
+  lng: -85.747576
 400 Finzer St, unit 1048, Louisville, KY: null
 400 Fire1, Louisville, KY: null
 400 FireFox early this morning. Firefighters worked, Louisville, KY: null
@@ -33850,6 +33855,7 @@
 400 Libby Ln, Louisville, KY:
   lat: 38.1123052
   lng: -85.8518082
+400 Lightfoot Rd, CrossFit Mayfair, Louisville, KY: null
 400 Lightfoot Rd, Louisville, KY:
   lat: 38.2670859
   lng: -85.6764854
@@ -37217,6 +37223,9 @@
 4308 Willowview Blvd, Louisville, KY:
   lat: 38.1817947
   lng: -85.5549808
+431 Lightfoot Rd, Louisville, KY:
+  lat: 38.2663787
+  lng: -85.6749553
 432 East Jefferson Street, Louisville, KY:
   lat: 38.2521474
   lng: -85.7449551
