@@ -43740,6 +43740,9 @@
 5600 Old Heady Rd, Louisville, KY:
   lat: 38.165365
   lng: -85.5114638
+5600 Outer Loop near Goodwill, Louisville, KY:
+  lat: 38.138872
+  lng: -85.657471
 5600 Outer Loop near Rochelle Rd and Serna Parkway, Louisville, KY:
   lat: 38.138872
   lng: -85.657471
@@ -47584,6 +47587,9 @@
   lat: 38.2611284
   lng: -85.7234073
 6500 Fremdale Road, Louisville, KY: null
+6500 Gabriel Dr near Galaxie Dr and Mercury Dr, Louisville, KY:
+  lat: 38.158398
+  lng: -85.853737
 ? 6500 Gabriel Dr to assist a 44-year-old female experiencing a medical emergency.
   The patient was reportedly yelling, Louisville, KY
 : null
@@ -59393,6 +59399,7 @@ Frohlich Rd and Cedar Creek Rd, Louisville, KY: null
 Gabriel Dr and Sky Blue Ave, Louisville, KY: null
 Gagel Ave and Manslick Rd, Louisville, KY: null
 Gainesville Avenue and San Jose Ave, Louisville, KY: null
+Galaxie Dr and Mercury Dr, Louisville, KY: null
 Gale St and Vincent Drive, Louisville, KY: null
 Galene Dr and Dale Ln, Louisville, KY: null
 Gallagher St and Grand Ave, Louisville, KY: null
