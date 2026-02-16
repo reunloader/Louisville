@@ -18140,6 +18140,9 @@
 200 Spring Meadow Ln, Louisville, KY:
   lat: 38.2473384
   lng: -85.5523029
+200 St Rene Rd at Thornton's, Louisville, KY:
+  lat: 38.259782
+  lng: -85.7070119
 200 St, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
@@ -20008,6 +20011,9 @@
   lat: 38.228798
   lng: -85.700158
 2000 St Edwards Dr, Louisville, KY: null
+2000 St Rene Rd at Thornton's, Louisville, KY:
+  lat: 38.259782
+  lng: -85.7070119
 2000 St Rene Rd in front of Thorntons, Louisville, KY: null
 2000 St Rene Rd near Thorntons, Louisville, KY:
   lat: 38.1025361
@@ -49206,6 +49212,9 @@
   lat: 38.1974565
   lng: -85.771628
 700 E Gray St crossing South Shelby and South Clay, Louisville, KY: null
+700 E Gray St near Norton Brownsboro Hospital, Louisville, KY:
+  lat: 38.245726
+  lng: -85.741227
 700 E Gray St near South Shelby and South Clay, Louisville, KY:
   lat: 38.245726
   lng: -85.741227
