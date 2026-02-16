@@ -5996,6 +5996,7 @@
 1100 Samuel St, Louisville, KY:
   lat: 38.2277043
   lng: -85.734546
+1100 San Jose Ave, Louisville, KY: null
 1100 Schiller Ave, Louisville, KY:
   lat: 38.234134
   lng: -85.731441
@@ -10257,6 +10258,9 @@
   lng: -85.7408536
 1400 Faradow Road, Louisville, KY: null
 1400 Forest Dr near Tarragon and Melda, Louisville, KY:
+  lat: 38.16543
+  lng: -85.690032
+1400 Forest Dr, Louisville, KY:
   lat: 38.16543
   lng: -85.690032
 1400 Fort St, Louisville, KY:
@@ -14633,6 +14637,9 @@
   lat: 38.22319
   lng: -85.592193
 1800 Integrity Way. Multiple units responded, Louisville, KY: null
+1800 Ivanhoe Ct, Louisville, KY:
+  lat: 38.226828
+  lng: -85.703367
 1800 Jalen Road, Louisville, KY: null
 1800 Kendall Ln, Louisville, KY: null
 1800 Kendall Lnmber, Louisville, KY: null
