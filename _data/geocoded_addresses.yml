@@ -4124,6 +4124,9 @@
 1000 South, Louisville, KY:
   lat: 38.2434557
   lng: -85.7996592
+1000 South. The area is being assessed, Louisville, KY:
+  lat: 38.2434873
+  lng: -85.799649
 1000 South12th Street, Louisville, KY:
   lat: 38.240753
   lng: -85.772919
@@ -11192,6 +11195,9 @@
 15 South Hersport Parkway, Louisville, KY: null
 15 South Hirshhorn Parkway, Louisville, KY: null
 15 South Horsham Parkway, Louisville, KY: null
+15 Wilson Ave, Louisville, KY:
+  lat: 38.2316049
+  lng: -85.8023495
 1500 19th Street, Louisville, KY:
   lat: 38.2535186
   lng: -85.7823901
@@ -19539,6 +19545,9 @@
   lng: -85.800482
 2000 DNC Sierra, Louisville, KY: null
 2000 DNC Sierra. Responding units were actively searching, Louisville, KY: null
+2000 De Mel Ave. The owner is waiting, Louisville, KY:
+  lat: 38.1704839
+  lng: -85.8025679
 2000 Deep Compass between Henry and Middletown, Louisville, KY: null
 2000 Deep Compass, Louisville, KY: null
 2000 Delmont Ave, Louisville, KY:
@@ -39689,6 +39698,10 @@
 4900 Flicker Rd, Louisville, KY:
   lat: 38.1307941
   lng: -85.7816892
+4900 Foil Hollow Road near apartment 24, Louisville, KY:
+  lat: 38.1125785
+  lng: -85.8960008
+4900 Foil Hollow Road, Louisville, KY: null
 4900 Forest Park Dr across Forest Dr and Templewood Dr, Louisville, KY: null
 4900 Forest Park Dr, Louisville, KY:
   lat: 38.1657
