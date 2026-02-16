@@ -9099,6 +9099,7 @@
   lat: 38.236524
   lng: -85.799155
 1300 Oxford Charlie Lane, Louisville, KY: null
+1300 Palo Verde Scholar Street, Louisville, KY: null
 1300 Pembroke Rd, Louisville, KY:
   lat: 38.2238961
   lng: -85.6240166
@@ -9192,6 +9193,9 @@
   lng: -85.7160677
 1300 Scholar St, Crop St of Zeta Ct and Carroll Ave, Louisville, KY: null
 1300 Scholar St, Louisville, KY:
+  lat: 38.1847696
+  lng: -85.7160677
+1300 Scholar St. The individual is wanted, Louisville, KY:
   lat: 38.1847696
   lng: -85.7160677
 1300 She Sang, Louisville, KY: null
@@ -17808,6 +17812,9 @@
 200 Saxony Park Cir, Louisville, KY:
   lat: 38.1846065
   lng: -85.5215064
+200 Scholar St, Louisville, KY:
+  lat: 38.1856545
+  lng: -85.7149768
 200 Scottsdale Blvd near Elmerland, Louisville, KY:
   lat: 38.1392264
   lng: -85.7672337
