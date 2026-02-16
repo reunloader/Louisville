@@ -2561,6 +2561,7 @@
   was able, Louisville, KY
 : lat: 38.2000313
   lng: -85.7618272
+100 West Hamhurst Ave, Louisville, KY: null
 100 West Hill, Crop St, Louisville, KY: null
 100 West Jeff, Louisville, KY:
   lat: 38.1537856
@@ -13868,6 +13869,9 @@
 1700 Spruce Ln near Apache Rd, Louisville, KY:
   lat: 38.2777406
   lng: -85.646897
+1700 St Xavier St, Louisville, KY:
+  lat: 38.2678217
+  lng: -85.7908515
 1700 St, Louisville, KY:
   lat: 38.2295455
   lng: -85.8187666
@@ -22551,6 +22555,9 @@
 2400 Brownsboro Rd. Responding units were dispatched, Louisville, KY:
   lat: 38.2579999
   lng: -85.7015076
+2400 Burwell Ave, Louisville, KY:
+  lat: 38.2269735
+  lng: -85.7974777
 2400 Bustown Road, Louisville, KY: null
 2400 Chamberlain Cross and Drive, Louisville, KY: null
 2400 Clark Station Rd and 25 Poplar Hill Rd, Louisville, KY: null
@@ -29815,6 +29822,9 @@
   lat: 38.199456
   lng: -85.8397711
 3400 Burrell Dr, Louisville, KY: null
+3400 Burwell Ave, Louisville, KY:
+  lat: 38.2261448
+  lng: -85.7939294
 3400 Calais Dr, Louisville, KY: null
 3400 Camp Ground Rd, River Meadows, Louisville, KY: null
 3400 Cathay-Dykstra Way, Louisville, KY: null
@@ -31482,6 +31492,7 @@
 3700 Dena Dr, Louisville, KY:
   lat: 38.1914237
   lng: -85.8021521
+3700 Dian Marie, Louisville, KY: null
 3700 Diane Marie at Walmart, Louisville, KY:
   lat: 38.0886678
   lng: -85.6638615
@@ -56707,6 +56718,7 @@
   lat: 38.1200828
   lng: -85.7676797
 9000 C-4th Way, Louisville, KY: null
+9000 Canoran Road, Louisville, KY: null
 9000 Cardiff Rd, Louisville, KY: null
 9000 Chenault Rd, Louisville, KY:
   lat: 38.123791
