@@ -674,6 +674,7 @@
 100 Bullitt Ln, Louisville, KY:
   lat: 38.246826
   lng: -85.613749
+100 Burnsdale Rd, Louisville, KY: null
 100 CIT, Louisville, KY: null
 100 Cabel St, Louisville, KY:
   lat: 38.256064
@@ -4949,6 +4950,7 @@
 10500 Dixie Hwy, Louisville, KY:
   lat: 38.1028185
   lng: -85.8702135
+10500 Fairview Ave across Interpol, Louisville, KY: null
 10500 Fairview Ave, Louisville, KY:
   lat: 38.2098788
   lng: -85.775154
@@ -38409,6 +38411,9 @@
 4600 Commerce, Louisville, KY:
   lat: 38.0956285
   lng: -85.6831882
+4600 Crawford Ave, Louisville, KY:
+  lat: 38.150661
+  lng: -85.8415778
 4600 Dixie Hwy near Varble Ave and San Jose Ave, Louisville, KY:
   lat: 38.1127713
   lng: -85.8629441
