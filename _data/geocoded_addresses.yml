@@ -26986,6 +26986,7 @@
 300 Outer Loop, Louisville, KY:
   lat: 38.125884
   lng: -85.769085
+300 Palacka, Louisville, KY: null
 300 Palazzo Cir near the lease gate, Louisville, KY: null
 300 Palazzo Cir, Louisville, KY: null
 300 Parchetown Road, Louisville, KY: null
@@ -35355,6 +35356,7 @@
   lat: 38.2291981
   lng: -85.7187475
 4000 Cutlass Ct, Crest of Caven Ave, Louisville, KY: null
+4000 Decoy Dr, Louisville, KY: null
 4000 Dixie Hwy near the liquor depot, Louisville, KY:
   lat: 38.0220362
   lng: -85.9174812
@@ -54598,6 +54600,9 @@
   lat: 38.2957056
   lng: -85.5975753
 8200 Standard Club Ln, St Andrews Village Dr, Louisville, KY: null
+8200 Summerview Dr, Louisville, KY:
+  lat: 38.074056
+  lng: -85.8748309
 8200 Sunlight Ln crossing Papercourt, Louisville, KY: null
 8200 Sutherland Farm Rd, Louisville, KY: null
 8200 Terra V-Trail, Louisville, KY: null
