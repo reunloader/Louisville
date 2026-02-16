@@ -123743,4 +123743,20 @@ history:
   batch_success_rate: 33.33
   batch_new_addresses: 3
   batch_new_successes: 1
-last_updated: '2026-02-16T19:43:10.993107'
+- timestamp: '2026-02-16T19:50:18.179706'
+  total_addresses: 27404
+  successful: 14084
+  failed: 13320
+  success_rate: 51.39
+  failure_rate: 48.61
+  failure_patterns:
+    Intersection format: 2883
+    Contains location qualifiers (near/at): 3184
+    Incomplete/vague address: 3761
+    Other/Unknown: 2891
+    Contains extra sentences/context: 582
+    Police phonetic codes: 19
+  batch_success_rate: 75.0
+  batch_new_addresses: 4
+  batch_new_successes: 3
+last_updated: '2026-02-16T19:50:18.179919'

@@ -5741,6 +5741,7 @@
   lat: 38.2091348
   lng: -85.7272949
 1100 Highway 16, Louisville, KY: null
+1100 Highway 44 East, Louisville, KY: null
 1100 Highway near McDonald's, Louisville, KY:
   lat: 38.2398168
   lng: -85.785976
@@ -8346,6 +8347,9 @@
 12000 South 3rd Street, Louisville, KY:
   lat: 38.2191858
   lng: -85.7614601
+12000 Wood Circle near Blackstone Way, Louisville, KY:
+  lat: 38.2922901
+  lng: -85.6147056
 ? 12000 block of Meadow Ln. Queen 31 responded and was on scene shortly after the
   call. Thes in service by around 10:02 p.m. a.m. p.m. - **Medical Emergency (around
   9:47 p.m. a.m. p.m.):** responded to assist EMS at the 7800 block of block of New
@@ -23420,6 +23424,9 @@
 2500 Magazine St, Louisville, KY:
   lat: 38.2512205
   lng: -85.7922936
+2500 Marguerite Dr near Mount Everest and Nigel Dr, Louisville, KY:
+  lat: 38.165779
+  lng: -85.851822
 2500 Marguerite Dr, Louisville, KY:
   lat: 38.165779
   lng: -85.851822
@@ -24620,6 +24627,9 @@
   lng: -85.769823
 2700 Sam Miller's Lane at Mobile Mini, Louisville, KY: null
 2700 Screet Boulevard, Louisville, KY: null
+2700 Slate Dr, Louisville, KY:
+  lat: 38.1049283
+  lng: -85.7204367
 2700 Slevin St, Louisville, KY:
   lat: 38.2659283
   lng: -85.7945377
