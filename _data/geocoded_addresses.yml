@@ -1514,6 +1514,7 @@
 100 North 34th Street, Louisville, KY:
   lat: 38.2623476
   lng: -85.806988
+100 North 35th Street and 100 block of South 36th Street, Louisville, KY: null
 100 North 35th Street, Louisville, KY:
   lat: 38.2624675
   lng: -85.808437
@@ -21843,6 +21844,7 @@
 2300 44th Street, Louisville, KY:
   lat: 38.2534329
   lng: -85.8250528
+2300 Adams in Shelby County, Louisville, KY: null
 2300 Alexander Ave, Louisville, KY:
   lat: 38.215159
   lng: -85.739839
@@ -27917,6 +27919,9 @@
 3000 Skylar Ridge Dr, Louisville, KY:
   lat: 38.1551384
   lng: -85.6620994
+3000 Slevin St, Louisville, KY:
+  lat: 38.2653727
+  lng: -85.7917677
 3000 Songer Way, Louisville, KY: null
 3000 South 2nd Street, Louisville, KY:
   lat: 38.2517255
@@ -29113,6 +29118,9 @@
 3200 South, Louisville, KY:
   lat: 38.1928874
   lng: -85.8375928
+3200 South11th Street, Louisville, KY:
+  lat: 38.2440029
+  lng: -85.7704431
 3200 Southern Ave near Wills Ct and South 32nd Street, Louisville, KY:
   lat: 38.232144
   lng: -85.81013
