@@ -14137,6 +14137,7 @@
 1700 West Culvert Ave, Louisville, KY: null
 1700 West Galbert and other locations, Louisville, KY: null
 1700 West Galbert, Louisville, KY: null
+1700 West Gallagher, Louisville, KY: null
 1700 West Galvert Avenue, near Dixie Hwy and McCloskey Avenue, Louisville, KY: null
 1700 West Galvert, Louisville, KY: null
 1700 West Gilbert Avenue, Louisville, KY: null
@@ -16124,6 +16125,7 @@
 200 Becker, Louisville, KY:
   lat: 38.1720002
   lng: -85.708019
+200 Bell Point, Louisville, KY: null
 200 Bellows No Road, Harrisburg, Kentucky, Louisville, KY: null
 200 Bells Light, Louisville, KY: null
 200 Berkman Edge Lane, Louisville, KY: null
@@ -17328,6 +17330,9 @@
   lat: 38.214087
   lng: -85.7572657
 200 N S Chadwick Rd, Louisville, KY: null
+200 Nanny, Louisville, KY:
+  lat: 38.2524908
+  lng: -85.7381586
 200 National Turnpike near Gray City, Louisville, KY:
   lat: 38.1463758
   lng: -85.7585377
@@ -21872,6 +21877,7 @@
 2200 West Market near Crop St South, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
+2200 West Market, K&M Food Mart, Louisville, KY: null
 2200 West Market, Louisville, KY:
   lat: 38.2581443
   lng: -85.7870316
@@ -51365,6 +51371,7 @@
   seen heading north, Louisville, KY
 : null
 7100 Sherryland Court, Louisville, KY: null
+7100 Shoots Very Circle, Louisville, KY: null
 7100 Shutesbury Cir, Louisville, KY:
   lat: 38.1290441
   lng: -85.8766955
