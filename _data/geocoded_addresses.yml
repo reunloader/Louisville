@@ -27824,6 +27824,7 @@
   lat: 38.2150181
   lng: -85.6748027
 3000 Bars Town, Louisville, KY: null
+3000 Barstown Texas, Louisville, KY: null
 3000 Bates Rd shopping center, Louisville, KY: null
 3000 Beals Branch Dr, Crest Street, Sunnyside Dr, and Cherokee Gardens Rd, Louisville, KY: null
 3000 Belltower Ct, Crusher, Louisville, KY: null
@@ -44485,6 +44486,9 @@
 5800 River Creek Dr, Louisville, KY:
   lat: 38.3288709
   lng: -85.6383972
+5800 River Rd, Louisville, KY:
+  lat: 38.3215937
+  lng: -85.6442154
 5800 Ruby Falls Drop, Louisville, KY: null
 5800 Santa Fe Trail, Louisville, KY:
   lat: 38.1685045
