@@ -12916,6 +12916,9 @@
   lng: -85.7745261
 1600 South 11th Street, building 35, Louisville, KY: null
 1600 South 11th, Dixie Hwy, and Oak. These patrols appeared, Louisville, KY: null
+1600 South 11th, Louisville, KY:
+  lat: 38.2257282
+  lng: -85.7745261
 1600 South 13th Street, Louisville, KY:
   lat: 38.225331
   lng: -85.777324
@@ -22367,6 +22370,9 @@
 2300 Montgomery St. The alarm was triggered by a smoke detector, Louisville, KY:
   lat: 38.27077
   lng: -85.785284
+2300 Nelson Miller Pky, Louisville, KY:
+  lat: 38.2770506
+  lng: -85.5096221
 2300 Newark Road, Louisville, KY: null
 2300 Nichols View Ct, Louisville, KY:
   lat: 38.1928255
@@ -27147,6 +27153,7 @@
   lat: 38.259099
   lng: -85.696636
 300 Ring Rd, Crushes or Fox Run Rd, Garrow Ct, Louisville, KY: null
+300 Ring camera footage, Louisville, KY: null
 300 Robert X-Ray Mary near Eastern Parkway, Louisville, KY:
   lat: 38.2296512
   lng: -85.7136668
@@ -30577,6 +30584,7 @@
 3500 Ali, Louisville, KY:
   lat: 38.256762
   lng: -85.808968
+3500 Argetown Road near Creepsodd, Louisville, KY: null
 3500 Autumn Way, Crop St, Lisbon Ln, Meadow Dr, Louisville, KY: null
 3500 Autumn Way, Louisville, KY:
   lat: 38.20726
