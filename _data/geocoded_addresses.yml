@@ -5310,6 +5310,9 @@
 10900 Sewell Dr, Louisville, KY:
   lat: 38.1412447
   lng: -85.5674062
+10900 Southgate Manor Dr, Louisville, KY:
+  lat: 38.089284
+  lng: -85.6725693
 10900 Stone St, Louisville, KY:
   lat: 38.2126649
   lng: -85.7298221
@@ -5329,6 +5332,9 @@
   a firearm. The individual reportedly left the area in a burgundy Chevrolet Trax,
   heading towards Braves Ln. Police units were alerted to search, Louisville, KY
 : null
+10910 Southgate Manor Dr, Louisville, KY:
+  lat: 38.0892388
+  lng: -85.6725951
 1099 Gandy Rd, Louisville, KY:
   lat: 38.1093964
   lng: -85.8538536
@@ -15172,6 +15178,7 @@
   lat: 38.1396626
   lng: -85.7770771
 1900 B5, Louisville, KY: null
+1900 Bachelor Manor Lane, Louisville, KY: null
 1900 Baird St near North 19th, Louisville, KY:
   lat: 38.2653168
   lng: -85.7799118
@@ -37114,6 +37121,9 @@
 4300 Crittenden Dr, Louisville, KY:
   lat: 38.1929302
   lng: -85.751498
+4300 Crowne Springs Dr, Louisville, KY:
+  lat: 38.3099613
+  lng: -85.5808205
 4300 Dohn Ave, Louisville, KY:
   lat: 38.187969
   lng: -85.834418
@@ -39928,6 +39938,9 @@
   lat: 38.1347006
   lng: -85.8476647
 4900 Phase Drive, Louisville, KY: null
+4900 Plover Rd, Louisville, KY:
+  lat: 38.2103501
+  lng: -85.7208088
 4900 Poblom Road (Cricket Retail), Louisville, KY: null
 4900 Pofner level, Louisville, KY: null
 ? 4900 Pofner level. Witnesses observed a red truck speeding away from the area, heading
@@ -48004,6 +48017,7 @@
 6600 Everton Dr, Louisville, KY:
   lat: 38.1598329
   lng: -85.8587888
+6600 Fagan Bush Lane, Louisville, KY: null
 6600 Fegenbush Ln near Woodrow Way, Louisville, KY:
   lat: 38.1542821
   lng: -85.6347532
@@ -48483,6 +48497,7 @@
   lat: 38.1519038
   lng: -85.8370427
 6800 Dixie Hwy, Dixie Manor Shopping Center, Louisville, KY: null
+6800 Dixie Hwy, Dixie Manor shopping center, Louisville, KY: null
 6800 Dixie Hwy, Louisville, KY:
   lat: 38.1519038
   lng: -85.8370427
