@@ -12999,6 +12999,7 @@
   lng: -85.7608918
 1600 South Eleven Street, 1600 block of East Market, and 1700 block of South Firstport Parkway, Louisville, KY: null
 1600 South First Form Parkway, Louisville, KY: null
+1600 South First Street, Louisville, KY: null
 1600 South Firstport Parkway, Louisville, KY: null
 1600 South Floyd and Phyllis, Louisville, KY: null
 1600 South Forster, Louisville, KY: null
@@ -19321,6 +19322,9 @@
   passed out against the median on the southbound 25. Officers arrived, Louisville,
   KY
 : null
+200 garage near East Broadway and S Jackson St, Louisville, KY:
+  lat: 38.1859191
+  lng: -85.742581
 200 interchange, Louisville, KY:
   lat: 38.0989549
   lng: -85.6793839
@@ -29480,6 +29484,9 @@
   lat: 38.2363449
   lng: -85.8118191
 3200 Rosewood Way, Crosstree Square, Louisville, KY: null
+3200 Rudd Ave, Louisville, KY:
+  lat: 38.27629
+  lng: -85.7994471
 3200 Sem Street Road, Louisville, KY: null
 3200 Shanks Bend Ln, Louisville, KY: null
 3200 Sheehan Landing Dr, Louisville, KY: null
