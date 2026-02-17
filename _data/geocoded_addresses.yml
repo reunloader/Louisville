@@ -21974,6 +21974,9 @@
 : lat: 38.234908
   lng: -85.791836
 2200 Wingville Court, Louisville, KY: null
+2200 Woodland Ave, Louisville, KY:
+  lat: 38.233124
+  lng: -85.792585
 2200 Wrocklage Ave near Wallace Ave and Illinois Ave, Louisville, KY:
   lat: 38.2250889
   lng: -85.6862125
@@ -38872,6 +38875,9 @@
 4600 Lena Ln, Louisville, KY:
   lat: 38.1065676
   lng: -85.5036462
+4600 Linger Ct, Louisville, KY:
+  lat: 38.098659
+  lng: -85.848288
 4600 Lowe Rd, Regis Woods, Louisville, KY: null
 4600 Lunenburg Dr, Louisville, KY: null
 4600 Lunenburg Dr, prompting a response from emergency services. Further details, Louisville, KY: null
@@ -40985,6 +40991,7 @@
 500 North 34th Street, Louisville, KY:
   lat: 38.267672
   lng: -85.806119
+500 North 35th Street (Kroger), Louisville, KY: null
 500 North 35th Street (inside Kroger), Louisville, KY: null
 500 North 35th Street, Louisville, KY:
   lat: 38.2691315
@@ -60786,6 +60793,7 @@ Tableau Boulevard and Beecher St, Louisville, KY: null
 Tamerlane Rd and Roxbury Rd, Louisville, KY: null
 Tamerlane Rd and Tamerlane Rd, Louisville, KY: null
 Tamsin Avenue and Carlisle Ave, Louisville, KY: null
+Tangerine Road and Ralph Ave, Louisville, KY: null
 Tavisboro Road and Chinawas Run Road, Louisville, KY: null
 Taylor Ave and Arcade Ave, Louisville, KY: null
 Taylor Ave and Barret Ave, Louisville, KY: null
