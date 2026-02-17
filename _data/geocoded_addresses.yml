@@ -11274,6 +11274,9 @@
 15 Egypt Ln, Louisville, KY:
   lat: 38.1457881
   lng: -85.6870815
+15 Gardiner Ln, Louisville, KY:
+  lat: 38.217396
+  lng: -85.6611883
 15 Heller St, Louisville, KY:
   lat: 38.1807123
   lng: -85.6574369
@@ -41298,6 +41301,7 @@
   lng: -85.8161858
 500 Sheehan Landing Dr, Louisville, KY: null
 500 Sheehan Landing, Louisville, KY: null
+500 Shepherd Square, Louisville, KY: null
 500 Slack Ave, Louisville, KY:
   lat: 38.1101382
   lng: -85.689338
