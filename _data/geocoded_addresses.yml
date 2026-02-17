@@ -7511,6 +7511,7 @@
 1200 Goss. Responding units cleared the scene, Louisville, KY:
   lat: 38.2256132
   lng: -85.7333897
+1200 Hail, Louisville, KY: null
 1200 Hardwick Rd, Louisville, KY: null
 1200 Hazelwood Elementary School, Louisville, KY: null
 1200 Heafer Rd and 12800 block of South Public Road, Louisville, KY: null
@@ -16206,6 +16207,7 @@
 200 Brownsboro Rd, Louisville, KY:
   lat: 38.2661941
   lng: -85.6585379
+200 Buckingham Broadway, Louisville, KY: null
 200 Bullitt Ln at Bravo's Italiana, Louisville, KY:
   lat: 38.2462609
   lng: -85.6155494
@@ -20234,6 +20236,9 @@
   lat: 38.2189265
   lng: -85.7621807
 2000 Vashra Green Alleyne, Louisville, KY: null
+2000 Village West Dr, Louisville, KY:
+  lat: 38.2484393
+  lng: -85.7666809
 2000 Virginia Ave, Louisville, KY:
   lat: 38.2408965
   lng: -85.816811
@@ -51696,6 +51701,7 @@
   lat: 38.2791822
   lng: -85.618336
 7300 Greten Ln at Harco, Louisville, KY: null
+7300 Hail, Louisville, KY: null
 7300 Home Park Dr, Louisville, KY:
   lat: 38.1681008
   lng: -85.890145
