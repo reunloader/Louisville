@@ -200,6 +200,9 @@
 04 Garrow Ave, Louisville, KY:
   lat: 38.1401735
   lng: -85.6952887
+04 Hyde Park Dr, Louisville, KY:
+  lat: 38.1706803
+  lng: -85.8317191
 04 Knoblet Drive, Louisville, KY: null
 04 Laughlin Ave, Louisville, KY:
   lat: 38.1634142
@@ -3709,6 +3712,9 @@
 1000 North 35th Street, Louisville, KY:
   lat: 38.2735722
   lng: -85.804438
+1000 North and Southbound 3rd Street near Iowa, Louisville, KY:
+  lat: 38.2080744
+  lng: -85.7683847
 1000 North33rd Street, Louisville, KY:
   lat: 38.2737912
   lng: -85.8008349
@@ -8760,6 +8766,9 @@
   lat: 38.179503
   lng: -85.783403
 1300 Bluegrass Ave. The individual was described as wearing a black jacket and tan pants., Louisville, KY:
+  lat: 38.179503
+  lng: -85.783403
+1300 Bluegrass, Louisville, KY:
   lat: 38.179503
   lng: -85.783403
 1300 Bridget Dr, Louisville, KY:
@@ -40391,6 +40400,9 @@
 : lat: 38.1686412
   lng: -85.5627268
 500 Cherokee Club Road, Louisville, KY: null
+500 Chestnut, Louisville, KY:
+  lat: 38.247476
+  lng: -85.745034
 500 Civic Way, Louisville, KY:
   lat: 38.3212294
   lng: -85.5643437
@@ -48872,6 +48884,9 @@
   lng: -85.7447768
 6900 East Highway 62, Louisville, KY: null
 6900 East Highway 62. Responding units were dispatched, Louisville, KY: null
+6900 East Kentucky, Louisville, KY:
+  lat: 38.2361113
+  lng: -85.7383171
 6900 East Ormsby and South Shelby, Louisville, KY: null
 6900 Eastern Parkway, Louisville, KY:
   lat: 38.2251961
