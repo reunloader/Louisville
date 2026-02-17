@@ -25594,6 +25594,9 @@
   lat: 38.207396
   lng: -85.76754
 2900 Anton Pkwy, Louisville, KY: null
+2900 Arlington, Louisville, KY:
+  lat: 38.2239026
+  lng: -85.640441
 2900 Aspendale Ct, Louisville, KY: null
 2900 Bank St and River Shore Dr, Louisville, KY: null
 2900 Bank St as part of the ongoing investigation, Louisville, KY: null
@@ -31284,6 +31287,7 @@
   lat: 38.2329994
   lng: -85.7280197
 3600 Dale Park Terrace, Louisville, KY: null
+3600 Deepway, Louisville, KY: null
 3600 Desmond's Lane near Shalom Towers, Louisville, KY: null
 3600 Dixie Hwy near St, Louisville, KY:
   lat: 38.1127713
@@ -41957,6 +41961,7 @@
 5000 South First near Parkway, Louisville, KY:
   lat: 38.2246434
   lng: -85.776873
+5000 South Hurstburn Parkway, Louisville, KY: null
 5000 South third, Louisville, KY: null
 5000 South3rd Street near McDonald's, Louisville, KY:
   lat: 38.174602
@@ -45964,6 +45969,7 @@
   lng: -85.7476008
 600 South Pros10, Cursures, Springer Alley, and Chestnut, Louisville, KY: null
 600 South Richmond Parkway, Louisville, KY: null
+600 South Second Street near the JCTCS parking garage, Louisville, KY: null
 600 South Second Street, Louisville, KY: null
 600 South Shelby, Louisville, KY:
   lat: 38.246802
