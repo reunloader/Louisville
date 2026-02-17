@@ -6329,6 +6329,9 @@
 1100 Travillion Way, Louisville, KY: null
 1100 Trevelyan Way near the zoo, Louisville, KY: null
 1100 Trivillion Way at the zoo, Louisville, KY: null
+1100 Trivillion near the zoo**, Louisville, KY:
+  lat: 38.2051766
+  lng: -85.7053359
 1100 Ulrich Ave, Louisville, KY:
   lat: 38.1578742
   lng: -85.7037451
@@ -46374,6 +46377,7 @@
 600 Woodsman Ct, Louisville, KY:
   lat: 38.1304645
   lng: -85.6995662
+600 Yankee John Frank, Louisville, KY: null
 600 [Street Name - not provided], Louisville, KY:
   lat: 38.2502401
   lng: -85.7231987
@@ -59819,6 +59823,7 @@ Grange Road and Nelson Miller Pky, Louisville, KY: null
 Grange Road and Shelbyville Rd, Louisville, KY: null
 Granger Rd and Factory Ln, Louisville, KY: null
 Grant Ave and Crop St, Louisville, KY: null
+Grant Ave and Harlan Ave, Louisville, KY: null
 Gray St and Crittenden Dr, Louisville, KY: null
 Great Bourbon Avenue and Wolfe Ave, Louisville, KY: null
 Green Meadows Dr and Bardstown Rd, Louisville, KY: null
