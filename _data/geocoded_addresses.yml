@@ -7677,6 +7677,7 @@
 1200 Marty Ln, Louisville, KY:
   lat: 38.1595879
   lng: -85.6727403
+1200 McBurt Street, Louisville, KY: null
 1200 Meadow Ln. The patient was helped with minimal assistance and evaluated, Louisville, KY:
   lat: 38.2472403
   lng: -85.5518839
@@ -8914,6 +8915,9 @@
 1300 Cypress St, Louisville, KY:
   lat: 38.236412
   lng: -85.797861
+1300 Danny Ct, Louisville, KY:
+  lat: 38.1395695
+  lng: -85.764659
 1300 Dean Dr, Louisville, KY:
   lat: 38.2111767
   lng: -85.6563578
@@ -24028,6 +24032,7 @@
   reached the location within minutes to provide medical attention., Louisville, KY
 : null
 2600 Conklin Parkway, Louisville, KY: null
+2600 Craig Raft Avenue, Louisville, KY: null
 2600 Craycraft Ave, Louisville, KY:
   lat: 38.2002903
   lng: -85.6481517
@@ -36027,6 +36032,7 @@
   lat: 38.1862227
   lng: -85.7855169
 4000 area around growth, Louisville, KY: null
+4000 street (exact street not specified), Louisville, KY: null
 401 Bullitt Ln, Louisville, KY:
   lat: 38.2457595
   lng: -85.6185347
@@ -49269,6 +49275,7 @@
   lat: 38.1517049
   lng: -85.694765
 6900 Preston Hwy, prompting a pursuit BOLO. Authorities are actively searching, Louisville, KY: null
+6900 Queen Street, Louisville, KY: null
 6900 Quinn Dr, Louisville, KY: null
 6900 Ralston Ave, Louisville, KY:
   lat: 38.1426872
