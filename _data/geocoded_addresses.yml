@@ -17036,6 +17036,9 @@
 200 Fairlawn Rd, Louisville, KY:
   lat: 38.252434
   lng: -85.667052
+200 Fairleigh, Louisville, KY:
+  lat: 38.2155106
+  lng: -85.7457745
 200 Fairline Road,, Louisville, KY: null
 200 Fawnridge Pl, Louisville, KY:
   lat: 38.1135712
@@ -27357,6 +27360,9 @@
 300 Strawberry Ln, Louisville, KY:
   lat: 38.1608055
   lng: -85.7609469
+300 Street, Louisville, KY:
+  lat: 38.2517377
+  lng: -85.7407059
 300 Super8 motel, Louisville, KY: null
 300 Tallwood Ct, Louisville, KY: null
 300 Taylor Blvd, Louisville, KY:
@@ -51701,6 +51707,7 @@
   lat: 38.2791822
   lng: -85.618336
 7300 Greten Ln at Harco, Louisville, KY: null
+7300 Hail, Henry Adams, Lincoln area, Louisville, KY: null
 7300 Hail, Louisville, KY: null
 7300 Home Park Dr, Louisville, KY:
   lat: 38.1681008
