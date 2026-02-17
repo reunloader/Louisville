@@ -2076,6 +2076,9 @@
 100 South 35th Street, Louisville, KY:
   lat: 38.262208
   lng: -85.808319
+100 South 36th Street near Christmas Market West Main, Louisville, KY:
+  lat: 38.2624285
+  lng: -85.8099251
 100 South 36th Street, Louisville, KY:
   lat: 38.2624285
   lng: -85.8099251
@@ -14086,6 +14089,9 @@
 1700 Wesley Street, Louisville, KY: null
 1700 West Auburn Avenue, Louisville, KY: null
 1700 West Broadway at YMCA, Louisville, KY:
+  lat: 38.248647
+  lng: -85.780022
+1700 West Broadway near South 17th and South 18th Street, Louisville, KY:
   lat: 38.248647
   lng: -85.780022
 1700 West Broadway, Louisville, KY:
@@ -32165,6 +32171,9 @@
 38 Bardstown Rd, Louisville, KY:
   lat: 38.1568327
   lng: -85.5905839
+38 Glen Hollow Dr, Louisville, KY:
+  lat: 38.1493337
+  lng: -85.775329
 38 Grand Ave, Louisville, KY:
   lat: 38.241364
   lng: -85.8090995
