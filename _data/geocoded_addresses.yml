@@ -12635,6 +12635,9 @@
 1600 Garland Ave, Louisville, KY:
   lat: 38.2425776
   lng: -85.780875
+1600 Garland, Louisville, KY:
+  lat: 38.2425569
+  lng: -85.7810687
 ? 1600 Garley, following a disturbance at the 1400 block of Garley. The situation
   was contained, and the individual was taken into custody, Louisville, KY
 : null
@@ -23162,6 +23165,9 @@
   lat: 38.2589016
   lng: -85.7903761
 2400 Wileys Ct, Louisville, KY: null
+2400 Wilson Ave, Louisville, KY:
+  lat: 38.234964
+  lng: -85.794319
 2400 Woodmont Dr, Louisville, KY:
   lat: 38.2335631
   lng: -85.6237891
@@ -58026,6 +58032,9 @@
   lng: -85.564417
 9500 Coach Eastway, Louisville, KY: null
 9500 Cooper Chase Ct across Cooper Chapel Rd, Louisville, KY: null
+9500 Cooper Chase Ct, Louisville, KY:
+  lat: 38.1096209
+  lng: -85.6416552
 9500 Crescent Highway, Louisville, KY: null
 9500 Dabney Car Drop, Louisville, KY: null
 9500 Farmer's Lane, Louisville, KY: null
