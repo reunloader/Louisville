@@ -14862,6 +14862,7 @@
 1800 Osage Ave near Dixie and Dr, Louisville, KY:
   lat: 38.238983
   lng: -85.786967
+1800 Osage Ave, Crop St, Louisville, KY: null
 1800 Osage Ave, Louisville, KY:
   lat: 38.238983
   lng: -85.786967
@@ -33949,6 +33950,9 @@
 400 Evans St, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
+400 Fairdale Rd, Louisville, KY:
+  lat: 38.1049163
+  lng: -85.7581148
 400 Fairway Park Dr, Louisville, KY: null
 400 Fairway Vista Dr, Louisville, KY:
   lat: 38.2663846
@@ -39426,6 +39430,9 @@
   lat: 38.2300585
   lng: -85.8061221
 4700 South3rd St, Louisville, KY:
+  lat: 38.1810652
+  lng: -85.766787
+4700 South3rd Street, Louisville, KY:
   lat: 38.1810652
   lng: -85.766787
 4700 South3rd Street, in front of Circle K, Louisville, KY: null
