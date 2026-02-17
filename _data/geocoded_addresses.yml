@@ -16393,6 +16393,7 @@
 200 Coralberry Rd, Louisville, KY:
   lat: 38.2594172
   lng: -85.6663443
+200 Country Acres Lane, Louisville, KY: null
 200 Country Acres, Louisville, KY: null
 200 Creekside Dr, Louisville, KY: null
 200 Crescent Ave, Louisville, KY:
@@ -19691,6 +19692,7 @@
 2000 Chevy Tahoe (possibly a black GMC Ugon), Louisville, KY: null
 2000 Chevy Tahoe near Westport Rd and Springhurst, Louisville, KY: null
 2000 Chevy Traverse, Louisville, KY: null
+2000 Chevy Trax was reported, Louisville, KY: null
 2000 Chevy tracks at First and Witherspoon, Louisville, KY: null
 2000 Chrysler and Fawn Mill, Nauterloop, Louisville, KY: null
 ? 2000 Chrysler and another from the 200 block of Chrysler occurred at the intersection
@@ -19775,6 +19777,9 @@
   lng: -85.7758384
 2000 Fay Ave, with a tracker indicating it was last seen traveling, Louisville, KY: null
 2000 Fern Valley Rd (Ford plant), Louisville, KY: null
+2000 Fern Valley Rd near Crest Street, Jeanine Dr, and Preston Hwy, Louisville, KY:
+  lat: 38.154705
+  lng: -85.7254323
 2000 Fern Valley Rd, Louisville, KY:
   lat: 38.154705
   lng: -85.7254323
@@ -59595,6 +59600,7 @@ Crescent Ave and Brownsboro Rd, Louisville, KY: null
 Crescent Garsh Lane and East Ln, Louisville, KY: null
 Crescent Spring Dr and Vickle Road, Louisville, KY: null
 Cresig Ram Road and Norbourne Blvd, Louisville, KY: null
+Crest Street and Blue Guard Avenue, Louisville, KY: null
 Crest Street and Heights Dr, Louisville, KY: null
 Crest Street and Park Ridge Parkway, Louisville, KY: null
 Crested Towsville Drive and Accomack Dr, Louisville, KY: null
