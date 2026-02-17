@@ -6386,6 +6386,9 @@
 1100 W Oak St. The alert was caused by a temperature sensor, and fire units responded, Louisville, KY:
   lat: 38.235984
   lng: -85.77188
+1100 W Oak St. Visual confirmation was made of the suspect, but she was not located, Louisville, KY:
+  lat: 38.235984
+  lng: -85.77188
 1100 W Whitney Ave, Louisville, KY:
   lat: 38.1931788
   lng: -85.7796572
@@ -26714,6 +26717,9 @@
   lng: -85.7607107
 300 East Weatherstone Street, Louisville, KY: null
 300 East parking registry, Louisville, KY: null
+300 East, Louisville, KY:
+  lat: 38.2542376
+  lng: -85.759407
 300 Eastbourne Ave, Louisville, KY:
   lat: 38.2557357
   lng: -85.6733234
@@ -46919,6 +46925,9 @@
   lng: -85.6395057
 6100 Dutchman's Lane, Louisville, KY: null
 6100 Dutchman's Lane, extended stay hotel, Louisville, KY: null
+6100 E Manslick Rd, Louisville, KY:
+  lat: 38.121722
+  lng: -85.647758
 6100 E W Kentucky St, Louisville, KY: null
 6100 Emrich Ct, Louisville, KY:
   lat: 38.1688697
