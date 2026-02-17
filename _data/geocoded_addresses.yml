@@ -2221,6 +2221,9 @@
   lat: 38.259446
   lng: -85.783128
 100 South23, Louisville, KY: null
+100 South29th St, Louisville, KY:
+  lat: 38.2611924
+  lng: -85.7992392
 100 South2nd Street, Louisville, KY:
   lat: 38.2558105
   lng: -85.7536001
@@ -12775,6 +12778,7 @@
 1600 Lyman Johnson, Louisville, KY:
   lat: 38.229971
   lng: -85.809811
+1600 Lyndon Farm Ct, Louisville, KY: null
 1600 Lytle St, Louisville, KY:
   lat: 38.2620585
   lng: -85.7761039
@@ -49167,6 +49171,9 @@
 6900 Greenwich Rd, Louisville, KY:
   lat: 38.2065974
   lng: -85.642936
+6900 Hepburn Ave, Louisville, KY:
+  lat: 38.2379137
+  lng: -85.7259193
 6900 Hersfield Rd, Louisville, KY:
   lat: 38.2653928
   lng: -85.5250459
@@ -51767,6 +51774,7 @@
 : lat: 38.139354
   lng: -85.756789
 7200 Quindaren Vaughan Mill Road, Louisville, KY: null
+7200 Quindaro Road, Louisville, KY: null
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
@@ -60044,6 +60052,7 @@ Hillside Dr and Rockford Ln, Louisville, KY: null
 Hillview Ave and Delores Ave, Louisville, KY: null
 Hillview Ave and San Jose Ave, Louisville, KY: null
 Hillwood Dr and Crop St, Louisville, KY: null
+Hillwood Dr and Prestwood Dr, Louisville, KY: null
 Hines Rd and Tucker St, Louisville, KY: null
 Hirshborn Parkway and Ambrosse Ln, Louisville, KY: null
 Hirshburn Parkway and Shelbyville Rd, Louisville, KY: null
