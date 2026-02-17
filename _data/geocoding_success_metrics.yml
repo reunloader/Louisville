@@ -124447,4 +124447,20 @@ history:
   batch_success_rate: 100.0
   batch_new_addresses: 3
   batch_new_successes: 3
-last_updated: '2026-02-17T06:11:33.925739'
+- timestamp: '2026-02-17T06:34:36.986276'
+  total_addresses: 27512
+  successful: 14136
+  failed: 13376
+  success_rate: 51.38
+  failure_rate: 48.62
+  failure_patterns:
+    Intersection format: 2903
+    Contains location qualifiers (near/at): 3188
+    Incomplete/vague address: 3781
+    Other/Unknown: 2901
+    Contains extra sentences/context: 583
+    Police phonetic codes: 20
+  batch_success_rate: 0.0
+  batch_new_addresses: 2
+  batch_new_successes: 0
+last_updated: '2026-02-17T06:34:36.986457'
