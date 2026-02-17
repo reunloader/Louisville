@@ -23310,6 +23310,10 @@
 2500 Artisan Way, Louisville, KY:
   lat: 38.154511
   lng: -85.653606
+? 2500 Artisan Way. The vehicle is described as a large, 50 3K model with broad shoulders.
+  Responding units arrived at the scene, Louisville, KY
+: lat: 38.154511
+  lng: -85.653606
 2500 Auburndale Ave near Southern Pky and W Southland Blvd, Louisville, KY:
   lat: 38.172581
   lng: -85.7749371
@@ -46695,6 +46699,9 @@
 6000 Stone Bluff Rd, Louisville, KY:
   lat: 38.16241
   lng: -85.622481
+6000 Strawberry Ln, Louisville, KY:
+  lat: 38.1608055
+  lng: -85.7609469
 6000 Street, Louisville, KY: null
 6000 Taylor'sville Road, Louisville, KY: null
 6000 Timber Ridge Dr, Louisville, KY: null
@@ -60071,6 +60078,7 @@ Lindsay Ave and University Ave, Louisville, KY: null
 Lindsey Dr and Shelbyville Rd, Louisville, KY: null
 Lisa Ave and Flying Castle Avenue, Louisville, KY: null
 Little Road and Count Turf Dr, Louisville, KY: null
+Little Spring Blvd and Vista Club Dr, Louisville, KY: null
 Lobs Lane and Wallingford Ln, Louisville, KY: null
 Locklea Drive and Westport Rd, Louisville, KY: null
 Locust Ave and Canterbury Dr, Louisville, KY: null
