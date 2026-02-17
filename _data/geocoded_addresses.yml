@@ -5023,6 +5023,9 @@
 10500 Providence Dr, Louisville, KY:
   lat: 38.124978
   lng: -85.5827217
+10500 Ranger Rd near Central State Hospital, Louisville, KY:
+  lat: 38.2718517
+  lng: -85.5565596
 10500 Rile Rd, Louisville, KY: null
 10500 Sawyer Pl, Louisville, KY:
   lat: 38.2903073
@@ -31181,6 +31184,7 @@
 3600 Canterbury Ct, Louisville, KY:
   lat: 38.1308366
   lng: -85.7593277
+3600 Canterbury Dr, Louisville, KY: null
 3600 Carolina Ave at the JCPS D-Trix bus compound, Louisville, KY:
   lat: 38.2269883
   lng: -85.6820042
