@@ -44962,6 +44962,7 @@
 600 Darnay Pl near Linda Dr, Louisville, KY:
   lat: 38.228733
   lng: -85.484801
+600 Darnay Pl, Crest Creek, Glendower Dr, Louisville, KY: null
 600 David or Baker, Louisville, KY: null
 600 David were involved in this stop, Louisville, KY: null
 600 David were involved in this stop., Louisville, KY: null
@@ -46168,6 +46169,9 @@
   lng: -85.767056
 600 W Jefferson St (Hall of Justice), Louisville, KY: null
 600 W Jefferson St and 1000 block of South 38th Street, Louisville, KY: null
+600 W Jefferson St near Lower Wilkins Street, Louisville, KY:
+  lat: 38.2539185
+  lng: -85.7612901
 600 W Jefferson St near the courthouse, Louisville, KY:
   lat: 38.2539185
   lng: -85.7612901
