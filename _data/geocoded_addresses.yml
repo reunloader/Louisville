@@ -631,6 +631,7 @@
   lng: -85.5983656
 100 Bravo Papa X-Ray Romeo, Louisville, KY: null
 100 Breaker, Louisville, KY: null
+100 Breck Marsh Lane (Pizza Jones), Louisville, KY: null
 100 Breckenridge Ln, Louisville, KY:
   lat: 38.252635
   lng: -85.655303
@@ -17618,6 +17619,9 @@
   lng: -85.7797189
 200 North between La Grange Rd and Westport Rd, Louisville, KY: null
 200 North between Shelbyville and Old Henry, Louisville, KY: null
+200 North near 31st Street, Louisville, KY:
+  lat: 38.2607792
+  lng: -85.7797092
 200 North near 5 mile marker, Louisville, KY:
   lat: 38.2607234
   lng: -85.7797189
