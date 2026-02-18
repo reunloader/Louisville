@@ -2849,6 +2849,7 @@
 100 block of Kenwood Ct, Louisville, KY: null
 100 block, Louisville, KY: null
 100 by65 south, Louisville, KY: null
+100 call, Louisville, KY: null
 100 cross court, Louisville, KY:
   lat: 38.1485029
   lng: -85.6005299
@@ -10797,6 +10798,9 @@
   lat: 38.23395
   lng: -85.800823
 1400 South 2nd Street, Louisville, KY:
+  lat: 38.228655
+  lng: -85.758176
+1400 South 2nd, Louisville, KY:
   lat: 38.228655
   lng: -85.758176
 1400 South 32nd Street, Louisville, KY:
@@ -55529,6 +55533,12 @@
 8400 Jan Way, Louisville, KY:
   lat: 38.128398
   lng: -85.6927654
+8400 LaGrange Road, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
+8400 LaGrange Road. Utility technicians from LG&E were en route, Louisville, KY:
+  lat: 38.2883418
+  lng: -85.5138636
 8400 Linda Rd, Louisville, KY:
   lat: 38.129726
   lng: -85.677446
@@ -60796,6 +60806,7 @@ Off Road and Eastwood Fisherville Rd, Louisville, KY: null
 Old Bardstown Rd and Long Home Rd, Louisville, KY: null
 Old Blankenbaker Rd and Ransum Dr, Louisville, KY: null
 Old Briscoe Ln and Shepherdsville Rd, Louisville, KY: null
+Old Harrods Creek Rd and Shelbyville Rd, Louisville, KY: null
 Old Heady Rd and Hopewell Rd, Louisville, KY: null
 Old Heady Rd and Taylorsville Rd, Louisville, KY: null
 Old Henry Rd and Aiken Rd, Louisville, KY: null
