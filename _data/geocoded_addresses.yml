@@ -514,6 +514,10 @@
 100 Baker and 301, Louisville, KY: null
 100 Baker and Charlie, Louisville, KY: null
 100 Baker and Charlie, responded, Louisville, KY: null
+? 100 Baker following reports of gunfire, but no evidence of shots was found. The
+  scene was cleared, and investigators are following up on the initial reports, Louisville,
+  KY
+: null
 100 Baker near Mid-Center One, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -13852,6 +13856,9 @@
 1700 Patton Ct, Louisville, KY:
   lat: 38.2237734
   lng: -85.778564
+? 1700 Patton Ct, about a block away from the scene. Despite the reports, shot spotters
+  did not detect any gunfire. Officers responded, Louisville, KY
+: null
 1700 Patton Ct, building 41, Louisville, KY: null
 1700 Patton Ct, building 51, Louisville, KY: null
 ? 1700 Patton Ct, specifically in building 45. The report mentioned a 17-year-old
@@ -25101,6 +25108,10 @@
 2700 West Madison Street 9:00 a, Louisville, KY: null
 2700 West Madison Street 9:00 a.m.AM, Louisville, KY: null
 2700 West Marcus Street, Louisville, KY: null
+? 2700 West Market before hanging up. Responding units arrived quickly and searched
+  the area, where a suspect dressed in black was seen fleeing northbound through an
+  alley. Officers continue, Louisville, KY
+: null
 2700 West Market, Louisville, KY:
   lat: 38.2595662
   lng: -85.7951273
