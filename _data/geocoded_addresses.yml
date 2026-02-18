@@ -20622,6 +20622,7 @@
 2100 Bank St. prompted units, Louisville, KY:
   lat: 38.2660094
   lng: -85.7832854
+2100 Banks, Louisville, KY: null
 2100 Bardstown Rd and North Bel Air Avenue, Louisville, KY: null
 2100 Bardstown Rd near Twig and Leaf, Louisville, KY:
   lat: 38.225044
@@ -26269,6 +26270,9 @@
 30 Walter Ave, Louisville, KY:
   lat: 38.115776
   lng: -85.6937453
+30 Welby Rd, Louisville, KY:
+  lat: 38.1559816
+  lng: -85.8333198
 300 (location unspecified), Louisville, KY: null
 300 A Catholic Way near the 100 and 201 apartment blocks, Louisville, KY: null
 300 A Craig Ave, Louisville, KY:
@@ -30269,6 +30273,7 @@
 3400 Boxelder Rd, Louisville, KY:
   lat: 38.197263
   lng: -85.842053
+3400 Breckenridge Ln (Docks Sports Bar and Grill), Louisville, KY: null
 3400 Breckenridge Ln near Chinese restaurant, Louisville, KY:
   lat: 38.200333
   lng: -85.623711
