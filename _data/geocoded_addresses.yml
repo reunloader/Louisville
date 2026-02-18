@@ -265,6 +265,9 @@
 07 Barn Rd, Louisville, KY:
   lat: 38.132939
   lng: -85.5948852
+07 Berea Dr, Louisville, KY:
+  lat: 38.1228956
+  lng: -85.607913
 07 Catheen Way, Louisville, KY:
   lat: 38.1624306
   lng: -85.7070326
@@ -42777,6 +42780,9 @@
 5200 Dixie Hwy near Cottingham Way and C4th Drive, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
+5200 Dixie Hwy near Trent Ave and Meyers Ln, Louisville, KY:
+  lat: 38.1645712
+  lng: -85.8311729
 5200 Dixie Hwy, Louisville, KY:
   lat: 38.1645712
   lng: -85.8311729
@@ -61271,6 +61277,7 @@ Tosler Road and Stonenberg Drive, Louisville, KY: null
 Towers Row Road and Bardstown Rd, Louisville, KY: null
 Trade Port Dr and Chadron Dr, Louisville, KY: null
 Travillion Lane and Bardstown Rd, Louisville, KY: null
+Trent Ave and Meyers Ln, Louisville, KY: null
 Trout Creek Dr and Twin Creek Dr, Louisville, KY: null
 Tucker Station Rd and Ellingsworth Ln, Louisville, KY: null
 Tuesday Eastern Parkway and Blue Lick Rd, Louisville, KY: null
