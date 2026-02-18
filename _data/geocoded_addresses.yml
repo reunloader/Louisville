@@ -5133,6 +5133,7 @@
   lng: -85.5658962
 10600 Miller's Lane, Louisville, KY: null
 10600 Moraine Cir, Louisville, KY: null
+10600 National Park, Louisville, KY: null
 10600 National Turnpike, Louisville, KY:
   lat: 38.0965418
   lng: -85.7384255
@@ -5853,6 +5854,7 @@
 1100 Johnsontown Rd, Louisville, KY:
   lat: 38.1164249
   lng: -85.8946089
+1100 Kentucky Mills Dr, Louisville, KY: null
 ? 1100 King Arthur Ln to evaluate an 80-year-old male suspected of having a stroke.
   The medical response was subsequently canceled., Louisville, KY
 : null
@@ -35981,6 +35983,9 @@
 ? 4000 Pop Level Road. Upon arrival, authorities investigated the alarm. It is possible
   this incident may be connected, Louisville, KY
 : null
+4000 Poplar Level Rd at MCA, Louisville, KY:
+  lat: 38.2011546
+  lng: -85.7097969
 4000 Poplar Level Rd at Wendy's, Louisville, KY:
   lat: 38.2011546
   lng: -85.7097969
@@ -44455,6 +44460,9 @@
 5700 Omega St, Louisville, KY:
   lat: 38.125496
   lng: -85.866836
+5700 Outer Loop, Louisville, KY:
+  lat: 38.1382756
+  lng: -85.6555964
 5700 Oxford Pl, Louisville, KY:
   lat: 38.1605773
   lng: -85.6018404
@@ -54320,6 +54328,7 @@
   lng: -85.746268
 800 South Riding 9th Street, Louisville, KY: null
 800 South Second Street, Louisville, KY: null
+800 South and Old Henry, Louisville, KY: null
 800 South, and 800 block of Tower, Louisville, KY: null
 800 South13th Street, Louisville, KY:
   lat: 38.245642
