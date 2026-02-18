@@ -9863,6 +9863,7 @@
   lat: 38.0622073
   lng: -85.8871834
 13400 Forest Springs Dr, La Grange Rd, Louisville, KY: null
+13400 Hollows Ln, Crop St, Chinnamouth, Louisville, KY: null
 13400 Hope Jail Way near Wimstock and Lidcombe, Louisville, KY: null
 13400 Imperial Line, Louisville, KY: null
 13400 Kane Lane, Louisville, KY: null
@@ -41231,6 +41232,9 @@
 500 North17th Street, Louisville, KY:
   lat: 38.2624403
   lng: -85.7778476
+500 North18th, Louisville, KY:
+  lat: 38.263645
+  lng: -85.778281
 500 North19th Street, Louisville, KY:
   lat: 38.2646455
   lng: -85.780857
@@ -45779,6 +45783,7 @@
 600 North Crittenden Dr, Louisville, KY: null
 600 North Crittenden Drive, Louisville, KY: null
 600 North Height Avenue, Louisville, KY: null
+600 North Heights, Louisville, KY: null
 600 North Hyde Avenue, Louisville, KY: null
 ? 600 North Hyde Avenue. A female was heard screaming for help, and a male at the
   door requested EMS. Responders were dispatched to assess the situation., Louisville,
@@ -55405,6 +55410,9 @@
 8400 Jan Way, Louisville, KY:
   lat: 38.128398
   lng: -85.6927654
+8400 Linda Rd, Louisville, KY:
+  lat: 38.129726
+  lng: -85.677446
 8400 Linda, Louisville, KY:
   lat: 38.129726
   lng: -85.677446
@@ -56308,6 +56316,9 @@
 900 Baxter, Louisville, KY:
   lat: 38.2424865
   lng: -85.7264428
+900 Beecher St, Louisville, KY:
+  lat: 38.1917626
+  lng: -85.7749245
 900 Beggin Bush Lane near the speedway, Louisville, KY:
   lat: 38.1835893
   lng: -85.6985826
@@ -57236,6 +57247,9 @@
   lat: 38.2414201
   lng: -85.7577026
 900 South3rd Street. Multiple police units were dispatched, Louisville, KY:
+  lat: 38.2414201
+  lng: -85.7577026
+900 South3rd near Kentucky and Breckenridge, Louisville, KY:
   lat: 38.2414201
   lng: -85.7577026
 900 South4, Louisville, KY: null
