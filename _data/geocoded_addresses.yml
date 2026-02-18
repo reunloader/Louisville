@@ -14196,6 +14196,7 @@
 1700 West Chesaunas, Louisville, KY: null
 1700 West Chesna, Louisville, KY: null
 1700 West Chest, Louisville, KY: null
+1700 West Colbert, Louisville, KY: null
 1700 West Copper Avenue, Louisville, KY: null
 1700 West Creek Way, Louisville, KY: null
 1700 West Culvert Ave, Louisville, KY: null
@@ -14795,6 +14796,9 @@
   lat: 38.0839432
   lng: -85.8683524
 1800 Leslie Street, Louisville, KY: null
+1800 Lincoln Ave, Louisville, KY:
+  lat: 38.198939
+  lng: -85.704321
 ? 1800 Lincoln Ave, adjacent to the German American Club, to attend to a 66-year-old
   male who had fallen. The individual was unresponsive upon their arrival. EMS provided
   necessary medical care., Louisville, KY
@@ -29587,6 +29591,9 @@
 3200 Vermont Ave, Louisville, KY:
   lat: 38.255356
   lng: -85.806355
+3200 Vermont, Louisville, KY:
+  lat: 38.255356
+  lng: -85.806355
 3200 Villanova Dr, Louisville, KY: null
 3200 Virginia Ave near Lewis Coleman Jr, Louisville, KY:
   lat: 38.2384543
@@ -32338,6 +32345,7 @@
 3700 West Lake Moran, Louisville, KY: null
 3700 West Leap, Louisville, KY: null
 3700 West Leaton Ward Drive, Louisville, KY: null
+3700 West Leitmore Dr, Louisville, KY: null
 3700 West Leitmore, Louisville, KY: null
 3700 West Leitmore. EMS responded, Louisville, KY: null
 3700 West Sweetmore Drive, Louisville, KY: null
@@ -36692,6 +36700,9 @@
 4100 West Broadway, involving a male individual who was reportedly threatening others and appeared, Louisville, KY: null
 4100 West Fork Road, Louisville, KY: null
 4100 West Mahoney Alley Boulevard, Louisville, KY: null
+4100 West Market near Cecil and Tate, Louisville, KY:
+  lat: 38.262871
+  lng: -85.817245
 4100 West Monvillier Boulevard, Gershwin South 43rd and South 41st Street, Louisville, KY: null
 4100 Western Ave, Louisville, KY:
   lat: 38.188749
@@ -45942,6 +45953,9 @@
 600 South 36th Street, Louisville, KY:
   lat: 38.253389
   lng: -85.811056
+600 South 38th St, Louisville, KY:
+  lat: 38.25464
+  lng: -85.814702
 600 South 39th Street and Twin Ridge, Louisville, KY: null
 600 South 39th Street, Louisville, KY:
   lat: 38.255276
