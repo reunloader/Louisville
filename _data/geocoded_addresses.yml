@@ -2613,6 +2613,7 @@
 100 West Jeff, Louisville, KY:
   lat: 38.1537856
   lng: -85.671884
+100 West Jefferson overdrive**, Louisville, KY: null
 100 West Jefferson, Louisville, KY:
   lat: 38.253226
   lng: -85.752219
@@ -20259,6 +20260,9 @@
   lng: -85.7820693
 2000 South 1st Street and W Hill St, Louisville, KY: null
 2000 South 2nd Street, Baptist Towers, Louisville, KY: null
+2000 South 39th**, Louisville, KY:
+  lat: 38.2266674
+  lng: -85.8212528
 2000 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -21986,6 +21990,12 @@
 2200 West Alley due, Louisville, KY: null
 2200 West Alley near 112, Louisville, KY: null
 2200 West Alley, Louisville, KY: null
+? 2200 West Broadway and a suicidal individual at 100 block of West Jefferson overdrive.
+  Authorities are actively monitoring these situations, Louisville, KY
+: null
+2200 West Broadway**, Louisville, KY:
+  lat: 38.2490337
+  lng: -85.7884977
 2200 West Broadway, Louisville, KY:
   lat: 38.2490337
   lng: -85.7884977
@@ -23302,6 +23312,9 @@
   lat: 38.2546408
   lng: -85.7917199
 2400 West Broadway at Walgreens, Louisville, KY:
+  lat: 38.249256
+  lng: -85.791726
+2400 West Broadway**, Louisville, KY:
   lat: 38.249256
   lng: -85.791726
 2400 West Broadway, Louisville, KY:
@@ -27386,6 +27399,9 @@
   lng: -85.768635
 300 South 11th Street, Number 202, Louisville, KY: null
 300 South 11th Street. The call was in response, Louisville, KY:
+  lat: 38.2554836
+  lng: -85.768635
+300 South 11th**, Louisville, KY:
   lat: 38.2554836
   lng: -85.768635
 300 South 11th, Louisville, KY:
