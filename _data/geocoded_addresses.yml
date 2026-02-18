@@ -5365,6 +5365,9 @@
 10900 Plantside Dr, Louisville, KY:
   lat: 38.2114937
   lng: -85.5241319
+10900 Preston Gardens Ct, Louisville, KY:
+  lat: 38.0901218
+  lng: -85.6735002
 10900 Sewell Dr, Louisville, KY:
   lat: 38.1412447
   lng: -85.5674062
@@ -6455,6 +6458,7 @@
 1100 West Indian Trail, Louisville, KY:
   lat: 38.1647205
   lng: -85.7080512
+1100 West Jeff, Louisville, KY: null
 1100 West LA, Louisville, KY:
   lat: 38.1312493
   lng: -85.8759227
