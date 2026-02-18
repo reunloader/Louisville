@@ -5368,6 +5368,9 @@
 10900 Preston Gardens Ct, Louisville, KY:
   lat: 38.0901218
   lng: -85.6735002
+10900 Preston, Louisville, KY:
+  lat: 38.092688
+  lng: -85.669232
 10900 Sewell Dr, Louisville, KY:
   lat: 38.1412447
   lng: -85.5674062
@@ -8557,6 +8560,9 @@
 12400 Hiawatha Ave, Louisville, KY:
   lat: 38.2661428
   lng: -85.5241549
+12400 La Grange Rd near Springs Station Rd and serviceway at Kroger, Louisville, KY:
+  lat: 38.289509
+  lng: -85.512131
 12400 La Grange Rd, Louisville, KY:
   lat: 38.289509
   lng: -85.512131
@@ -13365,6 +13371,9 @@
 1625 Dixie Hwy near the dumpster, Louisville, KY:
   lat: 38.2271703
   lng: -85.7908259
+1628 Beech St, Louisville, KY:
+  lat: 38.2288732
+  lng: -85.8057721
 1633 [Street Name], Louisville, KY:
   lat: 38.2234621
   lng: -85.7621017
@@ -41062,6 +41071,7 @@
   lat: 38.2115
   lng: -85.751085
 500 Edward Polenor, Louisville, KY: null
+500 Edward Yankee Edward, Louisville, KY: null
 500 Emery Rd, Louisville, KY:
   lat: 38.261902
   lng: -85.689463
@@ -58525,6 +58535,9 @@
   lat: 38.1649249
   lng: -85.5853929
 9400 Red Deer Cir, Louisville, KY: null
+9400 River Trail Dr near Indian Falls Dr, Louisville, KY:
+  lat: 38.1076726
+  lng: -85.6568059
 9400 Roswell Road, Louisville, KY: null
 9400 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
