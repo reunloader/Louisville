@@ -35162,6 +35162,7 @@
   lat: 38.2273201
   lng: -85.7034553
 400 Springbourne Way, Louisville, KY: null
+400 Springwood Ln, Louisville, KY: null
 400 Sprite Rd, Grassroots O'Reed and Druid Hills Rd, Louisville, KY: null
 400 Sprite Rd, Truett Hills Road, Louisville, KY: null
 400 St, Louisville, KY: null
@@ -40112,6 +40113,9 @@
   lng: -85.7981771
 4900 Marks Time Road, Louisville, KY: null
 4900 Martin Square, Louisville, KY: null
+4900 Merton Square, Louisville, KY:
+  lat: 38.3160307
+  lng: -85.5649489
 4900 Middlesex Dr, Louisville, KY:
   lat: 38.3097905
   lng: -85.5217872
