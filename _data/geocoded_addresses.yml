@@ -7189,6 +7189,9 @@
 12 Greenwood Ave, Louisville, KY:
   lat: 38.2411234
   lng: -85.7886759
+12 Hennepin Dr, Louisville, KY:
+  lat: 38.149338
+  lng: -85.78974
 12 Howard St, Louisville, KY:
   lat: 38.1875275
   lng: -85.7155388
@@ -13226,6 +13229,7 @@
   lng: -85.77791
 1600 West Chestnut, where water was filling the street. No units responded, Louisville, KY: null
 1600 West Elk Street, Louisville, KY: null
+1600 West Forms, Louisville, KY: null
 1600 West Hill, Louisville, KY:
   lat: 38.2273572
   lng: -85.7817353
@@ -30752,6 +30756,7 @@
   lat: 38.1995175
   lng: -85.7829642
 3400 Tevestrov, Louisville, KY: null
+3400 Tevis Dr and 3700 block of Taylor'sville Rd, Louisville, KY: null
 3400 Tevis Dr, Louisville, KY: null
 3400 Thomas Drive, Crosstree, Louisville, KY: null
 3400 Tile Factory Ln, Louisville, KY:
@@ -55343,6 +55348,9 @@
   lat: 38.128285
   lng: -85.654212
 8300 Dixie Hwy, Louisville, KY:
+  lat: 38.132686
+  lng: -85.846376
+8300 Dixie at Regency Tires, Louisville, KY:
   lat: 38.132686
   lng: -85.846376
 8300 Gloxinia Dr, Louisville, KY:
