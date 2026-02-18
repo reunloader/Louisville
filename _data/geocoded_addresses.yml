@@ -9172,6 +9172,11 @@
 1300 I 65 South, Louisville, KY: null
 1300 I-65 South, Louisville, KY: null
 1300 Kentucky Mills Dr, Louisville, KY: null
+1300 Ketalpa and 2900 block of Belmont Ave, Louisville, KY: null
+1300 Ketalpa, Louisville, KY: null
+? 1300 Ketalpa. Nearby, a disturbance was reported involving a male putting hands
+  on another individual at the same location. Officers responded, Louisville, KY
+: null
 1300 Kiefer Rd, Louisville, KY: null
 1300 Kiefer Rd. This situation was coded as a traffic incident, indicating a disruption, Louisville, KY: null
 1300 Kimmy's Drive, Louisville, KY: null
@@ -12577,6 +12582,9 @@
 1600 Chester Ave, Louisville, KY:
   lat: 38.2336849
   lng: -85.7406401
+1600 Chichester Ave, Louisville, KY:
+  lat: 38.231743
+  lng: -85.702539
 1600 Clarice Way, Louisville, KY:
   lat: 38.1764542
   lng: -85.812257
@@ -25814,6 +25822,12 @@
   lat: 38.2161315
   lng: -85.6764774
 2900 Bars Town, Louisville, KY: null
+? 2900 Belmont Ave, with the front door showing signs of entry. A commercial burglar
+  alarm was also reported at Christian's, located on the same block. Additionally,
+  motion was detected at a garage overhead door on the 18400 block of Westwood Dr,
+  prompting a response, Louisville, KY
+: lat: 38.1985969
+  lng: -85.7660877
 2900 Berk Ranch, Louisville, KY: null
 2900 Berkin Ranch Lane at the Speedway, Louisville, KY:
   lat: 38.1576618
@@ -27837,6 +27851,9 @@
 ? 300 Westport Rd, indicating a possible burglary. Responding officers arrived to
   investigate the scene, checking, Louisville, KY
 : null
+300 Westwood Dr, Louisville, KY:
+  lat: 38.1973024
+  lng: -85.613622
 300 Whiskey King John, and the owner was not local. Police attempted, Louisville, KY: null
 300 Williamson Parkway. The situation is being assessed, Louisville, KY: null
 300 Willow Pond Dr, Louisville, KY: null
@@ -59559,6 +59576,7 @@ Bells Ln and Gibson Ln, Louisville, KY: null
 Bellwortsville Road and Brownsboro Rd, Louisville, KY: null
 Belmont Ave and Barbara Ave, Louisville, KY: null
 Belmont Ave and Hawthorne Ave, Louisville, KY: null
+Belmont Ave and Westwood Dr, Louisville, KY: null
 Belmont Rd and Goldsmith Ln, Louisville, KY: null
 Belmont Rd and Gunston Ln, Louisville, KY: null
 Belmont Rd and Sumner Rd, Louisville, KY: null
