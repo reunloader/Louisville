@@ -6384,6 +6384,7 @@
 1100 Utah Ave, Louisville, KY:
   lat: 38.2101398
   lng: -85.777659
+1100 Varcheton Road Speedway, Louisville, KY: null
 1100 Vermont Ave, Louisville, KY:
   lat: 38.2564101
   lng: -85.8150421
@@ -10531,6 +10532,7 @@
   lng: -85.7379396
 1400 Kentucky Mills Dr, Louisville, KY: null
 1400 Knight and Gale, Louisville, KY: null
+1400 LaFontaine Court, Louisville, KY: null
 1400 Lamar Ave, Louisville, KY:
   lat: 38.1712258
   lng: -85.83684
@@ -13037,6 +13039,9 @@
 1600 South 11th, Louisville, KY:
   lat: 38.2257282
   lng: -85.7745261
+1600 South 13th Street near Patton and Bulger, Louisville, KY:
+  lat: 38.225331
+  lng: -85.777324
 1600 South 13th Street, Louisville, KY:
   lat: 38.225331
   lng: -85.777324
@@ -31785,6 +31790,9 @@
   lng: -85.7924737
 3600 Parthina Avenue, Louisville, KY: null
 3600 Parthina Avenue. Officers confirmed the vehicle was clear shortly after., Louisville, KY: null
+3600 Powell Ave near Camden and Carlisle, Louisville, KY:
+  lat: 38.1943697
+  lng: -85.7911856
 3600 Powell Ave, Louisville, KY:
   lat: 38.1943697
   lng: -85.7911856
@@ -59472,6 +59480,7 @@
 : lat: 38.2191858
   lng: -85.7614601
 9900 Taylor's Hill Rd, Louisville, KY: null
+9900 Tuscany Ridge Dr near Kaufman Farm and Tuscany Ridge Ct, Louisville, KY: null
 9900 VISTA Way, Louisville, KY:
   lat: 38.1644894
   lng: -85.5720491
