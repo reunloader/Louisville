@@ -21992,6 +21992,9 @@
 2200 West Jefferson, Louisville, KY:
   lat: 38.257076
   lng: -85.786979
+2200 West Kentucky, Louisville, KY:
+  lat: 38.242076
+  lng: -85.789609
 2200 West Lexington Road, Louisville, KY: null
 ? 2200 West Mahomali Boulevard to assist a 69-year-old male who was found unresponsive
   and showing signs of facial drooping. This was classified as a medical Delta call,
@@ -25218,6 +25221,9 @@
   lng: -85.657089
 2800 Delbruck Avenue, Louisville, KY: null
 2800 Dimmel Avenue, Louisville, KY: null
+2800 Divinity Ln, Louisville, KY:
+  lat: 38.242852
+  lng: -85.799614
 2800 Dixie Hwy, Louisville, KY:
   lat: 38.1127713
   lng: -85.8629441
@@ -45554,6 +45560,9 @@
   lat: 38.207093
   lng: -85.745201
 600 Locust Ln, Restaurant Depot, Louisville, KY: null
+600 Locust Ln., Louisville, KY:
+  lat: 38.207093
+  lng: -85.745201
 600 Logsdon Ct, Louisville, KY: null
 600 Louisville Ave, Louisville, KY:
   lat: 38.2112021
@@ -51117,6 +51126,9 @@
 700 [Street Name] and 747 block of [Street Name], Louisville, KY: null
 700 [Street Name] and Electron Dr, Louisville, KY: null
 700 [Street Name], Louisville, KY:
+  lat: 38.2572236
+  lng: -85.5803244
+700 [unspecified street], Louisville, KY:
   lat: 38.2572236
   lng: -85.5803244
 700 a street, Louisville, KY: null
