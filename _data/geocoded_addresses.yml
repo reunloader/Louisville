@@ -19851,6 +19851,7 @@
   lat: 38.154705
   lng: -85.7254323
 2000 First Chinese Drive, Louisville, KY: null
+2000 Flock, Louisville, KY: null
 2000 Ford Crown Victoria near Dixie Hwy, Louisville, KY:
   lat: 38.0952898
   lng: -85.8741069
@@ -22477,6 +22478,9 @@
   KY
 : null
 2300 Lamar Ave near Wellsworth Ave, Louisville, KY:
+  lat: 38.171078
+  lng: -85.835491
+2300 Lamar Ave, Louisville, KY:
   lat: 38.171078
   lng: -85.835491
 2300 Landrum Ave, Louisville, KY:
