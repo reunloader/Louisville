@@ -841,6 +841,9 @@
 100 Dandor Rd, Louisville, KY:
   lat: 38.207696
   lng: -85.6253811
+100 Danny Ct, Louisville, KY:
+  lat: 38.13974
+  lng: -85.764011
 100 Darrell Ct, Louisville, KY:
   lat: 38.1635967
   lng: -85.8478704
@@ -1891,6 +1894,9 @@
 100 Pikeview Dr, Louisville, KY:
   lat: 38.1940742
   lng: -85.7360097
+100 Pinecroft Dr, Louisville, KY:
+  lat: 38.1334226
+  lng: -85.6929061
 100 Pluto Dr, near Astro and Lenton Court, to provide assistance., Louisville, KY: null
 100 Pluto Dr, near Astro and Lenton Court,, Louisville, KY:
   lat: 38.1509872
@@ -20543,6 +20549,9 @@
 21 Bells Ln, Louisville, KY:
   lat: 38.2216443
   lng: -85.8164349
+21 Bishop Ln, Louisville, KY:
+  lat: 38.1883
+  lng: -85.693746
 21 Camp St, Louisville, KY:
   lat: 38.2315119
   lng: -85.7458501
@@ -32220,6 +32229,7 @@
 3700 South St, Louisville, KY:
   lat: 38.2182659
   lng: -85.7774103
+3700 South Wind Crest Drive near Woodpointe Blvd and Napa Valley Dr, Louisville, KY: null
 3700 Southen Crest, Crossview, Blue Point, and Napa Valley, Louisville, KY: null
 3700 Southern Pky due to an active investigation and a potential warrant, Louisville, KY: null
 3700 Southern Pky, Louisville, KY:
@@ -53732,6 +53742,7 @@
   lng: -85.7759209
 800 Glenwood Rd, Louisville, KY: null
 800 Granite Dr, Louisville, KY: null
+800 Grantham Ct, Louisville, KY: null
 800 Greenhurst Dr, Louisville, KY:
   lat: 38.1906292
   lng: -85.607742
@@ -55947,6 +55958,9 @@
 8800 Preston Hwy. The specific reason, Louisville, KY:
   lat: 38.1247971
   lng: -85.6795161
+8800 Randy Ct, Louisville, KY:
+  lat: 38.142181
+  lng: -85.890839
 8800 Sanctuary Ln, Louisville, KY:
   lat: 38.122357
   lng: -85.577885
@@ -61247,6 +61261,7 @@ Woodland Ave and Wilson Ave, Louisville, KY: null
 Woodlawn Ave and Allmond Ave, Louisville, KY: null
 Woodlawn Ave and Burkley Ave, Louisville, KY: null
 Woodlawn Ave and Francis Ave, Louisville, KY: null
+Woodpointe Blvd and Napa Valley Dr, Louisville, KY: null
 Woodruff Ave and Camden Ave, Louisville, KY: null
 Worthington Ln and Elder Ln, Louisville, KY: null
 Worthington Ln and Stone School Rd, Louisville, KY: null
