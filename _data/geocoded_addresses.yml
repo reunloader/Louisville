@@ -13418,6 +13418,9 @@
 17 Pinecroft Dr, Louisville, KY:
   lat: 38.1334226
   lng: -85.6929061
+17 Pleasant Glen Dr, Louisville, KY:
+  lat: 38.1790292
+  lng: -85.5167505
 17 Red Fern Rd, Louisville, KY:
   lat: 38.1733237
   lng: -85.6668487
@@ -23431,6 +23434,9 @@
   lng: -85.7745087
 24700 golf, but the vehicle was not immediately found, Louisville, KY: null
 24900 Creek Point Terrace in the 2400 block, Louisville, KY: null
+25 Bonnyville Blvd, Louisville, KY:
+  lat: 38.1660047
+  lng: -85.8266445
 25 Cedar St, Louisville, KY:
   lat: 38.2545864
   lng: -85.7762731
@@ -50472,6 +50478,9 @@
   lat: 38.1291811
   lng: -85.8512273
 700 Minutecircle apartment, Louisville, KY: null
+700 Monteray Place Cir, Louisville, KY:
+  lat: 38.0996034
+  lng: -85.8673999
 700 Moran Ave, Louisville, KY:
   lat: 38.2265433
   lng: -85.6601116
