@@ -14196,6 +14196,7 @@
 1700 W Chestnut St, Louisville, KY:
   lat: 38.2511195
   lng: -85.7796115
+1700 W Chestnut St, where a 16-year-old girl was refusing, Louisville, KY: null
 1700 W College St near South First Street, Louisville, KY:
   lat: 38.2432243
   lng: -85.7546559
@@ -18825,6 +18826,9 @@
   lng: -85.7636078
 200 West at Dumanil, Louisville, KY: null
 200 West at I-265, Louisville, KY: null
+200 West at I-64, Louisville, KY:
+  lat: 38.2322753
+  lng: -85.7575987
 200 West at I-65, Louisville, KY:
   lat: 38.2322753
   lng: -85.7575987
