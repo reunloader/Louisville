@@ -46243,6 +46243,7 @@
 600 South 41st Street, Louisville, KY:
   lat: 38.25563
   lng: -85.819148
+600 South 41st Street, backyard alley, Louisville, KY: null
 600 South 42nd Street, Louisville, KY:
   lat: 38.255932
   lng: -85.821847
@@ -47060,6 +47061,9 @@
 6000 South 37th Street, Louisville, KY:
   lat: 38.2471327
   lng: -85.812901
+6000 South 39th Street, Louisville, KY:
+  lat: 38.251573
+  lng: -85.8165105
 6000 South 3rd St, Louisville, KY:
   lat: 38.1682419
   lng: -85.7689596
