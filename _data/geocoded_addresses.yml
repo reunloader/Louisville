@@ -5300,6 +5300,9 @@
 10800 Sparrow Cir, Louisville, KY:
   lat: 38.1142896
   lng: -85.7611733
+10800 Stonestreet Rd, Louisville, KY:
+  lat: 38.0974899
+  lng: -85.8236353
 1085 [Street], Louisville, KY:
   lat: 37.0039958
   lng: -86.4292092
@@ -36340,6 +36343,7 @@
 4100 Durham Ridge Rd, Louisville, KY:
   lat: 38.1858347
   lng: -85.5187729
+4100 Dutchman's Lane, Louisville, KY: null
 4100 East Indian Trail, Louisville, KY:
   lat: 38.171563
   lng: -85.68474
