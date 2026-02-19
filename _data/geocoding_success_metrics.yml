@@ -126335,4 +126335,20 @@ history:
   batch_success_rate: 0.0
   batch_new_addresses: 1
   batch_new_successes: 0
-last_updated: '2026-02-18T23:54:04.842925'
+- timestamp: '2026-02-19T00:00:48.058882'
+  total_addresses: 27817
+  successful: 14291
+  failed: 13526
+  success_rate: 51.38
+  failure_rate: 48.62
+  failure_patterns:
+    Intersection format: 2933
+    Contains location qualifiers (near/at): 3207
+    Incomplete/vague address: 3841
+    Other/Unknown: 2938
+    Contains extra sentences/context: 587
+    Police phonetic codes: 20
+  batch_success_rate: 0.0
+  batch_new_addresses: 1
+  batch_new_successes: 0
+last_updated: '2026-02-19T00:00:48.059022'
