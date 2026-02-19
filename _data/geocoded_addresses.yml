@@ -42155,6 +42155,9 @@
 500 [Street Name Redacted], Louisville, KY:
   lat: 38.2504753
   lng: -85.7237738
+500 [Street Name], Louisville, KY:
+  lat: 38.2504897
+  lng: -85.7237741
 500 and 326, Louisville, KY: null
 500 barn road, Louisville, KY:
   lat: 38.132939
