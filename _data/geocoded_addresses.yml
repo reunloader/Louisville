@@ -4586,6 +4586,7 @@
 1000 police pursuit initiation, Louisville, KY: null
 1000 the previous night’s incident location, Louisville, KY: null
 1000 the scene, with ongoing efforts, Louisville, KY: null
+1000 unknown street, Louisville, KY: null
 1000 unspecified location, Louisville, KY: null
 1000 unspecified street, Louisville, KY: null
 1000 vehicle call, Louisville, KY: null
@@ -6064,6 +6065,9 @@
   lat: 38.2429276
   lng: -85.8290644
 1100 Poplar Level Plaza, Louisville, KY:
+  lat: 38.219525
+  lng: -85.728402
+1100 Poplar Level, Louisville, KY:
   lat: 38.219525
   lng: -85.728402
 1100 Queen Ave, Louisville, KY:
@@ -59459,6 +59463,9 @@
   Louisville, KY
 : lat: 38.1140967
   lng: -85.8526359
+9800 Silky Dogwood Ct, Louisville, KY:
+  lat: 38.2947745
+  lng: -85.5733318
 9800 Silo Ct, Louisville, KY:
   lat: 38.1298699
   lng: -85.5942302
