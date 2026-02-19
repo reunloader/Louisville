@@ -164,6 +164,7 @@
 01 Story Ave, Louisville, KY:
   lat: 38.2556205
   lng: -85.7288269
+019800 the location, Louisville, KY: null
 02 Apex Dr, Louisville, KY:
   lat: 38.1347772
   lng: -85.6464028
@@ -283,6 +284,9 @@
 07 Newport Rd, Louisville, KY:
   lat: 38.1783192
   lng: -85.641542
+07 Peggy Dr, Louisville, KY:
+  lat: 38.126344
+  lng: -85.6733449
 07 Portstown Road, Louisville, KY: null
 08 Air Smoudies Drive, Louisville, KY: null
 08 Gabriel Dr, Louisville, KY:
@@ -13931,6 +13935,7 @@
 1700 Outer Loop, Louisville, KY:
   lat: 38.1296218
   lng: -85.7379778
+1700 Pat and Cor, Louisville, KY: null
 ? 1700 Patent Court following a report of a suspicious person. The individual was
   described as a 49-year-old black female, reportedly intoxicated and carrying a taser.,
   Louisville, KY
