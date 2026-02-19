@@ -8000,6 +8000,9 @@
 1200 South 4th Street near Normandy and West Oak, Louisville, KY:
   lat: 38.234898
   lng: -85.7606273
+1200 South 4th Street near Orange and Oak, Louisville, KY:
+  lat: 38.234898
+  lng: -85.7606273
 1200 South 4th Street near W Ormsby Ave and W Oak St, Louisville, KY:
   lat: 38.234898
   lng: -85.7606273
@@ -23525,6 +23528,9 @@
   lat: 38.2440029
   lng: -85.7704431
 2500 25th Street and Bank St, Louisville, KY: null
+2500 6th Avenue, Louisville, KY:
+  lat: 38.2222071
+  lng: -85.7696033
 2500 Aiken Ridge Dr, Louisville, KY: null
 2500 Allen Need Drive, Louisville, KY: null
 2500 Almond Drive (March 10, 7:26 a, Louisville, KY: null
@@ -23618,6 +23624,9 @@
 2500 Chair Crossing at Mercedes, Louisville, KY: null
 2500 Chair Crossing, Louisville, KY: null
 2500 Chair Crossing. Responding units were sent, Louisville, KY: null
+2500 Christy Ave, Louisville, KY:
+  lat: 38.2408651
+  lng: -85.7282364
 2500 Colorado Ave, Louisville, KY:
   lat: 38.210613
   lng: -85.780052
@@ -41542,6 +41551,7 @@
 500 S Jackson St, Louisville, KY:
   lat: 38.249645
   lng: -85.744921
+500 S Jackson St, University Hospital, Louisville, KY: null
 500 S Jackson St, UofL Hospital, Louisville, KY: null
 500 S Preston St, Louisville, KY:
   lat: 38.2498099
