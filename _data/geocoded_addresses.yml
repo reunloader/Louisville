@@ -583,6 +583,9 @@
   Dr. These movements suggest routine patrols and clearance, Louisville, KY
 : null
 100 Banker, Louisville, KY: null
+100 Bardstown Rd, Louisville, KY:
+  lat: 38.1641315
+  lng: -85.59781
 100 Barkley Dr, Louisville, KY: null
 100 Beaver St near K-1 Road, Louisville, KY:
   lat: 38.185675
@@ -6167,6 +6170,9 @@
 1100 South 28th Street, Louisville, KY:
   lat: 38.239325
   lng: -85.800187
+1100 South 2nd Street, Louisville, KY:
+  lat: 38.2364933
+  lng: -85.7573844
 1100 South 32nd Street, Louisville, KY:
   lat: 38.2413227
   lng: -85.8067247
@@ -11818,6 +11824,7 @@
 1500 Lana Ct, Louisville, KY:
   lat: 38.1041464
   lng: -85.6949902
+1500 Largemont, Louisville, KY: null
 1500 Leamington Spa Dr, Louisville, KY:
   lat: 38.1691395
   lng: -85.7013052
