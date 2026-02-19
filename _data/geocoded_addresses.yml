@@ -22530,6 +22530,7 @@
 2300 Evans St near Catharine Street, Louisville, KY:
   lat: 38.2298984
   lng: -85.7515509
+2300 Fang Street, Louisville, KY: null
 2300 Farnsley Rd near Ridley and Burrell, Louisville, KY:
   lat: 38.2024899
   lng: -85.8223948
@@ -24265,6 +24266,9 @@
 2600 Allston Ave, Louisville, KY:
   lat: 38.2200297
   lng: -85.8004003
+2600 Alpha Ave, Louisville, KY:
+  lat: 38.1914031
+  lng: -85.6378769
 2600 Alps Rd, Louisville, KY:
   lat: 38.1670967
   lng: -85.8540987
@@ -40495,6 +40499,7 @@
   lat: 38.1690751
   lng: -85.8224772
 4900 K W Drive, Louisville, KY: null
+4900 K-Cawood Dr, Louisville, KY: null
 4900 Kermit's Run Road, Louisville, KY: null
 4900 Lagoona Dr near Ray and Clint, Louisville, KY:
   lat: 38.166935
