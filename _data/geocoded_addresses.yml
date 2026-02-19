@@ -3044,6 +3044,7 @@
 1000 Beecher St, Louisville, KY:
   lat: 38.1911202
   lng: -85.7779187
+1000 Bell Tower, Louisville, KY: null
 1000 Bell Tucker and Kroger parking lot, Louisville, KY: null
 1000 Bell Tucker was suspected of attempting assault or domestic violence. Multiple units responded, Louisville, KY: null
 1000 Bellamy Cir, Louisville, KY:
@@ -8746,6 +8747,9 @@
 12900 Plantside Dr near Earl Jones Way, Louisville, KY:
   lat: 38.2088165
   lng: -85.5197163
+12900 Shelbyville Rd at Peter Supply, Louisville, KY:
+  lat: 38.2346744
+  lng: -85.4583861
 12900 Shelbyville Rd, Louisville, KY:
   lat: 38.2346744
   lng: -85.4583861
@@ -48371,6 +48375,9 @@
 6500 Leisure Ln, Louisville, KY:
   lat: 38.101728
   lng: -85.64163
+6500 Longview Ln, Louisville, KY:
+  lat: 38.2390334
+  lng: -85.4250821
 6500 Lover's Lane, Louisville, KY: null
 6500 Lucerne Ave, Louisville, KY:
   lat: 38.192871
@@ -60120,6 +60127,7 @@ Dixie Avenue and Wheeler Ave, Louisville, KY: null
 Dockby Drive and Wenderspoon Street, Louisville, KY: null
 Dodge Ln and Imperator Ln, Louisville, KY: null
 Dodge Ln and Valley Station Rd, Louisville, KY: null
+Doe Run Rd and Milner Rd, Louisville, KY: null
 Dohn Ave and Veronica Dr, Louisville, KY: null
 Dohn Rd and Lindley Rd, Louisville, KY: null
 Donna Rd and Dover Rd, Louisville, KY: null
