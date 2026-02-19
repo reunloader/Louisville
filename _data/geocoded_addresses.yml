@@ -16346,6 +16346,9 @@
 200 Billtown, Louisville, KY:
   lat: 38.1647849
   lng: -85.5679104
+200 Binbrook Dr, Louisville, KY:
+  lat: 38.1713887
+  lng: -85.8597371
 200 Bishop Ln at Yummy Folio, Louisville, KY:
   lat: 38.1883
   lng: -85.693746
@@ -18563,6 +18566,9 @@
 200 Ulery Ave, Louisville, KY:
   lat: 38.1924359
   lng: -85.6555527
+200 Union St, Louisville, KY:
+  lat: 38.2045499
+  lng: -85.7160259
 200 Utah Avenue 3:00 a, Louisville, KY: null
 200 Utah Avenue 3:00 a.m., Louisville, KY: null
 200 Vangeline and Steedly Dr, Louisville, KY: null
@@ -25095,6 +25101,7 @@
 2700 Taylor Blvd, Louisville, KY:
   lat: 38.2108939
   lng: -85.7708483
+2700 Taylor's Mall Rd, Speedway at Taylor's Mill and Bon Air, Louisville, KY: null
 2700 Taylor's Road, Louisville, KY: null
 2700 Taylor's Road. Responding units worked, Louisville, KY: null
 2700 Taylor'sville Road near Bonaire, Louisville, KY: null
@@ -34562,6 +34569,7 @@
 400 Louisville Ave, Louisville, KY:
   lat: 38.1875265
   lng: -85.7565466
+400 Luce, Coleman, Jr, Louisville, KY: null
 400 Lyleck, Louisville, KY: null
 400 M St, Louisville, KY:
   lat: 38.208957
