@@ -2238,6 +2238,9 @@
   lat: 38.259446
   lng: -85.783128
 100 South23, Louisville, KY: null
+100 South28th St, Louisville, KY:
+  lat: 38.260399
+  lng: -85.797567
 100 South29th St, Louisville, KY:
   lat: 38.2611924
   lng: -85.7992392
@@ -9598,6 +9601,9 @@
 1300 South20th Street, Crop St of Woodland Ave in St, Louisville, KY: null
 1300 South26 near Woodlawn and Duhamel, Louisville, KY: null
 1300 South26th Street, Louisville, KY:
+  lat: 38.236286
+  lng: -85.796515
+1300 South26th Street. Responding units located the individual, who appeared, Louisville, KY:
   lat: 38.236286
   lng: -85.796515
 1300 South28th Street, Louisville, KY:
@@ -20391,6 +20397,9 @@
 2000 South23rd Street, Louisville, KY:
   lat: 38.222411
   lng: -85.79796
+2000 South26th Street, Louisville, KY:
+  lat: 38.2374559
+  lng: -85.7962891
 2000 South2nd Street and Guthrie St, Louisville, KY: null
 2000 South40th Street, Louisville, KY:
   lat: 38.22754
@@ -61586,6 +61595,7 @@ Westport Rd and Tattersall Ridge Ln, Louisville, KY: null
 Westport Rd and Thompson Ave, Louisville, KY: null
 Westport Rd and Towne Center Dr, Louisville, KY: null
 Westport Rd and Washburn Ave, Louisville, KY: null
+Westport Rd and Westbound Lane, Louisville, KY: null
 Westport Road Drive and Maple Brook Dr, Louisville, KY: null
 Wetherby Ave and Shelbyville Rd, Louisville, KY: null
 Wheeler Ave and Joe Block Avenue, Louisville, KY: null
