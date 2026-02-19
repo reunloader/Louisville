@@ -3086,6 +3086,9 @@
 1000 Brookline Ave, Louisville, KY:
   lat: 38.175395
   lng: -85.777096
+1000 Brookline, Louisville, KY:
+  lat: 38.175395
+  lng: -85.777096
 1000 Brown Lick, Louisville, KY: null
 1000 Brown Lick. Additional police units were requested, Louisville, KY: null
 1000 Brownsboro Rd, Louisville, KY:
@@ -13961,6 +13964,7 @@
 : null
 1700 Patton Ct, building 41, Louisville, KY: null
 1700 Patton Ct, building 51, Louisville, KY: null
+1700 Patton Ct, building 54, Iko, Frank, Louisville, KY: null
 ? 1700 Patton Ct, specifically in building 45. The report mentioned a 17-year-old
   male wearing specific clothing. Further details on the circumstances or any injuries
   were not immediately available., Louisville, KY
@@ -23874,6 +23878,9 @@
   lat: 38.1934133
   lng: -85.7960886
 2500 North Broadway, Louisville, KY: null
+2500 Oregon Ave, Louisville, KY:
+  lat: 38.2211742
+  lng: -85.7999512
 2500 Osage Ave, Louisville, KY:
   lat: 38.2395415
   lng: -85.7945964
@@ -46007,6 +46014,7 @@
   KY
 : null
 600 North Hyde Avenue. A female was heard screaming, Louisville, KY: null
+600 North Jackson, Louisville, KY: null
 600 North at Eastern Parkway, Louisville, KY:
   lat: 38.2722316
   lng: -85.7923243
