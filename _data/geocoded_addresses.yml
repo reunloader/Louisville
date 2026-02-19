@@ -3548,6 +3548,9 @@
 1000 Lincoln Ave, Louisville, KY:
   lat: 38.2110801
   lng: -85.7736033
+1000 Lincoln, Louisville, KY:
+  lat: 38.2110801
+  lng: -85.7736033
 1000 Linden Ln and Warwick Ave, Louisville, KY: null
 1000 Linhurst after receiving reports of shots fired and screaming. They were unable, Louisville, KY: null
 1000 Linhurst, Louisville, KY: null
@@ -11985,6 +11988,9 @@
 1500 San Jose Ave, Louisville, KY: null
 1500 San Jose Ave, number 7, Louisville, KY: null
 1500 San Jose Aveur, Louisville, KY: null
+1500 Sharon Dr, Louisville, KY:
+  lat: 38.1540219
+  lng: -85.8278863
 1500 Sharon Graph, Louisville, KY: null
 1500 Sheeran Drive, Louisville, KY: null
 1500 Shelbyville Rd, Louisville, KY:
@@ -20851,6 +20857,7 @@
   lat: 38.257593
   lng: -85.785193
 2100 Conway Ct at Crest Street Gym, Louisville, KY: null
+2100 Coolhouse Way, Louisville, KY: null
 2100 Council Avenue, Louisville, KY: null
 2100 Cousin11th Street, Louisville, KY: null
 2100 Crittenden Dr, Louisville, KY:
@@ -20929,6 +20936,9 @@
 2100 Emerson Ave, Louisville, KY:
   lat: 38.2177507
   lng: -85.6832782
+2100 English Station, Louisville, KY:
+  lat: 38.2071675
+  lng: -85.4834708
 2100 Fayhurst, Louisville, KY: null
 2100 Frankfort Ave near New Main, Louisville, KY:
   lat: 38.2535944
@@ -28554,6 +28564,7 @@
   lng: -85.768932
 3000 South Bar Sound Road, Louisville, KY: null
 3000 South Fifth Street, Louisville, KY: null
+3000 South First Street, Louisville, KY: null
 3000 South Forth Street, Louisville, KY: null
 3000 South Fourth, Louisville, KY: null
 3000 South Number 4, Louisville, KY: null
@@ -55625,6 +55636,9 @@
   lat: 38.2050019
   lng: -85.7109095
 8400 Granville Forest Way near Fay Hurston Greenfield, Louisville, KY: null
+8400 Happiness Way, Louisville, KY:
+  lat: 38.1340525
+  lng: -85.6081785
 8400 Hudson Ln, Louisville, KY:
   lat: 38.165017
   lng: -85.598828
