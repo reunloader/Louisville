@@ -8422,6 +8422,9 @@
   lat: 38.214071
   lng: -85.6309297
 1200 Wide Spring Ct, Louisville, KY: null
+1200 Willow Ave near Longest Ave and Glen Mary, Louisville, KY:
+  lat: 38.239071
+  lng: -85.714023
 1200 Willow Ave, Anderson St, Longest Ave, and Glenmary Ave, Louisville, KY: null
 1200 Willow Ave, Louisville, KY:
   lat: 38.239071
@@ -26345,6 +26348,12 @@
 2900 Virginia Ave, Louisville, KY:
   lat: 38.2379267
   lng: -85.8021306
+? 2900 Virginia Ave. Flames were visible from Hale Ave, and firefighters found a two-and-a-half-story
+  frame dwelling with active flames on the first floor in the rear. Crews confirmed
+  it was a working fire with heavy smoke and fire closure into the building. Primary
+  searches on both floors were conducted, Louisville, KY
+: lat: 38.2379267
+  lng: -85.8021306
 2900 W Gaulbert Ave, Louisville, KY:
   lat: 38.2294352
   lng: -85.8040033
@@ -36827,6 +36836,9 @@
 4100 Riedley Ct, Louisville, KY:
   lat: 38.20242
   lng: -85.828712
+4100 River Park Dr near 42nd Street, Louisville, KY:
+  lat: 38.255476
+  lng: -85.8193028
 4100 River Park Dr, Louisville, KY:
   lat: 38.255476
   lng: -85.8193028
@@ -61603,6 +61615,7 @@ Village Parkway and Clare Street Road, Louisville, KY: null
 Village West Dr and Roy Wilkins Ave, Louisville, KY: null
 Vine Crest Ave and Lyndon Lofts Ln, Louisville, KY: null
 Vinedale Ave and Eastern Parkway, Louisville, KY: null
+Virginia Ave and Catalpa St, Louisville, KY: null
 Virginia Ave and Hale Ave, Louisville, KY: null
 Virginia Ave and Stegner Ave, Louisville, KY: null
 Wabasso Ave and Towne Center Dr, Louisville, KY: null
