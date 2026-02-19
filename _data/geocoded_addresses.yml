@@ -4936,10 +4936,16 @@
 10300 Westport Rd at Thornton's, Louisville, KY:
   lat: 38.2928985
   lng: -85.5608348
+10300 Westport Rd near 7:27 a, Louisville, KY:
+  lat: 38.2928985
+  lng: -85.5608348
 10300 Westport Rd near Thorntons, Louisville, KY:
   lat: 38.2928985
   lng: -85.5608348
 10300 Westport Rd, Louisville, KY:
+  lat: 38.2928985
+  lng: -85.5608348
+10300 Westport near 7:27 a, Louisville, KY:
   lat: 38.2928985
   lng: -85.5608348
 10300 Worthington Ln, Louisville, KY:
@@ -9319,6 +9325,9 @@
 1300 Mount Everest Dr, Louisville, KY:
   lat: 38.1659656
   lng: -85.8527864
+1300 Mount Holly Rd near 7:27 a, Louisville, KY:
+  lat: 38.096586
+  lng: -85.742984
 1300 Muebelbrook, Fiesta Town Mexican restaurant, Louisville, KY: null
 1300 N S Peterson Ave south of Calvin in Lexington, Louisville, KY: null
 1300 N S Peterson Ave, Louisville, KY:
@@ -9714,6 +9723,7 @@
 1300 Story Ave, Louisville, KY:
   lat: 38.2558684
   lng: -85.7275818
+1300 TARC bus near 7:54 a, Louisville, KY: null
 1300 Tafloid Street, Louisville, KY: null
 1300 Talbot Street, Louisville, KY: null
 1300 Tennessee Ave and 7th St Rene Rd, Louisville, KY: null
@@ -14642,6 +14652,9 @@
   lat: 38.263944
   lng: -85.777999
 1800 Baker Parkway, Louisville, KY: null
+1800 Baker near 7:27 a, Louisville, KY:
+  lat: 38.1412684
+  lng: -85.7716218
 1800 Baker, Louisville, KY:
   lat: 38.1412684
   lng: -85.7716218
@@ -22499,6 +22512,9 @@
 2300 Deer Path Cir, Louisville, KY: null
 2300 Devon House Street, Louisville, KY: null
 2300 Dimmel Avenue, Louisville, KY: null
+2300 Dixdale Ave near 7:27 a, Louisville, KY:
+  lat: 38.222353
+  lng: -85.7980581
 2300 Dixdale Ave near Cypress St and South 23rd Street, Louisville, KY:
   lat: 38.222353
   lng: -85.7980581
@@ -26977,6 +26993,9 @@
 300 E W Oak St, Louisville, KY:
   lat: 38.2371624
   lng: -85.7838705
+300 E W Ormsby Ave near 7:27 a, Louisville, KY:
+  lat: 38.2327002
+  lng: -85.759041
 300 E W St Catherine St, Louisville, KY:
   lat: 38.2373873
   lng: -85.7614738
@@ -44460,6 +44479,9 @@
 5600 Genny Ct, Louisville, KY:
   lat: 38.13921
   lng: -85.77263
+5600 Goldenrod Rd near 7:27 a, Louisville, KY:
+  lat: 38.119858
+  lng: -85.873727
 5600 Green Acre, Louisville, KY: null
 5600 Green Acres Dr, Louisville, KY:
   lat: 38.1734501
@@ -48107,6 +48129,7 @@
   lng: -85.8768468
 6300 Sydney-René Way, Louisville, KY: null
 6300 Terry Rowland, Louisville, KY: null
+6300 Ticklemore Van Trace near 7:52 a, Louisville, KY: null
 6300 Triplett Dr, Louisville, KY:
   lat: 38.1631696
   lng: -85.8639
