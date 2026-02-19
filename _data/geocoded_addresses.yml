@@ -16999,6 +16999,9 @@
 200 East at the 8-mile marker, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
+200 East at the Algonquin exit, Louisville, KY:
+  lat: 38.1861148
+  lng: -85.7582215
 200 East at the off-ramp to I-64, Louisville, KY:
   lat: 38.1861148
   lng: -85.7582215
@@ -18650,6 +18653,9 @@
   lat: 38.2546697
   lng: -85.7537855
 200 W Market St near the commitment house, Louisville, KY:
+  lat: 38.2546697
+  lng: -85.7537855
+200 W Market St, Louisville, KY:
   lat: 38.2546697
   lng: -85.7537855
 200 W Muhammad Ali Blvd, Louisville, KY:
@@ -37669,6 +37675,7 @@
 4300 Fegenbush Ln, Louisville, KY:
   lat: 38.1844502
   lng: -85.6389261
+4300 G Seagrape Rd, Louisville, KY: null
 4300 Ginkgo Trail, Louisville, KY: null
 4300 Ginkgo Trail. The situation involved a teenager who was reportedly out of control, leading, Louisville, KY: null
 4300 Hale Ave near Kaiser Ct, Louisville, KY:
@@ -45764,6 +45771,12 @@
 600 Joni Dr, Louisville, KY:
   lat: 38.1815421
   lng: -85.8015578
+600 Jordan Ave, Louisville, KY:
+  lat: 38.224377
+  lng: -85.769569
+600 Jordan, Louisville, KY:
+  lat: 38.224377
+  lng: -85.769569
 600 Juliet x-ray kilo, Louisville, KY: null
 600 KMO near Green Haven and Gerson Viewway, Louisville, KY: null
 600 Kaiser Ct, Louisville, KY:
@@ -49459,6 +49472,9 @@
 6900 Cleveland Blvd, Louisville, KY:
   lat: 38.2635139
   lng: -85.6972118
+6900 Colonial Oaks, Louisville, KY:
+  lat: 38.1744506
+  lng: -85.7618487
 6900 Colrain Cir, Louisville, KY:
   lat: 38.1295542
   lng: -85.8776409
@@ -59593,6 +59609,7 @@ Allen Ave and Carolyn Rd, Louisville, KY: null
 Allmond Ave and South First Street, Louisville, KY: null
 Allmond Ave and South Grove St, Louisville, KY: null
 Alma Ave and Big Mill Avenue, Louisville, KY: null
+Alreva Rd and St Andrews Church Rd, Louisville, KY: null
 Alton Rd and Citation Rd, Louisville, KY: null
 Alton Rd and Shaffer Ln, Louisville, KY: null
 Alumsum Hollow Road and Carter Ln, Louisville, KY: null
