@@ -6713,6 +6713,9 @@
 11100 Harrison Ln, Hall, Louisville, KY: null
 11100 Phil Redding Court near Finchley Rd, Louisville, KY: null
 11100 South Fork Street, Louisville, KY: null
+11100 Thunder Dr, Louisville, KY:
+  lat: 38.0946421
+  lng: -85.8680694
 ? 11100 Thunder Dr. Emergency units responded swiftly to provide medical aid and stabilize
   the person. The individual was transported, Louisville, KY
 : lat: 38.0946421
@@ -11572,6 +11575,9 @@
 1500 Bellamy Pl. Concerns were raised, Louisville, KY: null
 1500 Bellamy's Place, Louisville, KY: null
 1500 Bellevue Place, Department 203, Louisville, KY: null
+1500 Belmar Dr, Louisville, KY:
+  lat: 38.198241
+  lng: -85.718498
 1500 Berksham Road, Louisville, KY: null
 1500 Bernstrahl, Louisville, KY: null
 1500 Berry Blvd near Powell, Louisville, KY:
@@ -13971,6 +13977,7 @@
 1700 North Ln, Louisville, KY:
   lat: 38.059521
   lng: -85.8746765
+1700 North Monroe, Louisville, KY: null
 1700 Northwestern Pky at Metro Park, Louisville, KY:
   lat: 38.264815
   lng: -85.775314
@@ -27115,6 +27122,9 @@
 300 Edgemont Ln, Louisville, KY:
   lat: 38.1093816
   lng: -85.7698645
+300 El Conquistador, Louisville, KY:
+  lat: 38.2169478
+  lng: -85.6287509
 300 Eric Ct, Louisville, KY:
   lat: 38.1466992
   lng: -85.6885448
