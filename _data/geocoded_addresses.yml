@@ -256,6 +256,7 @@
 06 Meadow Ln, Louisville, KY:
   lat: 38.3045135
   lng: -85.5321128
+06 Nottingham Pky, Louisville, KY: null
 06 Pinecroft Dr, Louisville, KY:
   lat: 38.1334226
   lng: -85.6929061
@@ -20471,6 +20472,9 @@
 2000 South 39th**, Louisville, KY:
   lat: 38.2266674
   lng: -85.8212528
+2000 South 3rd Street, Louisville, KY:
+  lat: 38.2191858
+  lng: -85.7614601
 2000 South 42nd Street, Louisville, KY:
   lat: 38.261292
   lng: -85.819622
@@ -26158,6 +26162,9 @@
 2900 Eve Dr, Louisville, KY:
   lat: 38.1049006
   lng: -85.8439482
+2900 Fennel Ct, Louisville, KY:
+  lat: 38.1417376
+  lng: -85.8568147
 2900 Fern Valley Rd at the intersection of Fern Valley and Yorick, Louisville, KY:
   lat: 38.1555547
   lng: -85.7107102
@@ -52346,6 +52353,9 @@
 7200 Rainbow Dr, Louisville, KY:
   lat: 38.0558618
   lng: -85.8989592
+7200 Rambo Way, Louisville, KY:
+  lat: 38.1315783
+  lng: -85.6284798
 7200 Round Tree, Louisville, KY: null
 7200 Rutledge Rd in response, Louisville, KY: null
 7200 Rutledge Rd, Louisville, KY:
