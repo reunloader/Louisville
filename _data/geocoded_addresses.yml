@@ -2077,6 +2077,7 @@
   lng: -85.8219618
 100 She and Landing Dr near Oppressive Highway, Louisville, KY: null
 100 Shelby Pointe Dr, Louisville, KY: null
+100 Shelby Station Dr at Cedarhurst of East Louisville, Louisville, KY: null
 100 Shelby Station Dr, Louisville, KY: null
 100 Shelby Station, Louisville, KY: null
 100 Silverwood Ln, Louisville, KY:
@@ -2758,6 +2759,9 @@
 100 Westland Street, Louisville, KY: null
 100 Westport Rd and Leroy's Lickers, Louisville, KY: null
 100 Westport Rd and reported the area clear, Louisville, KY: null
+100 Westport Rd at Michael's, Louisville, KY:
+  lat: 38.2973932
+  lng: -85.5487762
 100 Westport Rd, Louisville, KY:
   lat: 38.2985921
   lng: -85.5446721
@@ -19264,6 +19268,9 @@
 200 Westbound at Aron Rd, Louisville, KY:
   lat: 38.1348403
   lng: -85.8762697
+200 Westbound at Brownsboro Rd, Louisville, KY:
+  lat: 38.2596179
+  lng: -85.7132094
 200 Westbound at Cane Run Rd, Louisville, KY:
   lat: 38.222489
   lng: -85.811113
@@ -55131,6 +55138,9 @@
 8000 Current Drive, Louisville, KY: null
 8000 DeRonia Ave, Minnacle Delta, Louisville, KY: null
 8000 Dickinson Dr, Louisville, KY: null
+8000 Dixie Hwy at Paramount Dr, Louisville, KY:
+  lat: 38.1353679
+  lng: -85.8452257
 8000 Dixie Hwy, Louisville, KY:
   lat: 38.1353679
   lng: -85.8452257
