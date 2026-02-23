@@ -42,7 +42,7 @@ title: Live Feed
   }
 </style>
 
-## Near Real-Time Scanner Updates
+## Near Real-Time Scanner Updates - OFFLINE
 
 DCW IS OFFLINE! IF YOU MISS US SEND US A NOTE at [derbycitywatch@gmail.com](mailto:derbycitywatch@gmail.com)! Live updates from public Louisville Metro safety feeds. Check back often for the latest incidents and responses.
 
