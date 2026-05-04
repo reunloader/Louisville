@@ -6,6 +6,29 @@
       "id": 1,
       "geometry": null,
       "properties": {
+        "incident_number": "LMPD26051920",
+        "date_reported": "Fri, 01 May 2026 14:32:00 GMT",
+        "date_occurred": "Tue, 26 Aug 2025 11:25:00 GMT",
+        "badge_id": "5263",
+        "offense_classification": "13 BURGLARY",
+        "offense_code_name": "BURGLARY - 3RD DEGREE 511.040 22062 220",
+        "nibrs_code": "220",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "3RD DIVISION",
+        "lmpd_beat": "323",
+        "location_category": "RENTAL STORAGE FACILITY",
+        "block_address": "5600 BLOCK NEW CUT RD",
+        "city": "LOUISVILLE",
+        "zip_code": "40214",
+        "ObjectId": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": null,
+      "properties": {
         "incident_number": "LMPD26048892",
         "date_reported": "Fri, 24 Apr 2026 17:11:00 GMT",
         "date_occurred": "Mon, 20 Oct 2025 21:45:00 GMT",
@@ -21,12 +44,12 @@
         "block_address": "5300 BLOCK RONWOOD DR",
         "city": "LOUISVILLE",
         "zip_code": "40219",
-        "ObjectId": 1
+        "ObjectId": 11
       }
     },
     {
       "type": "Feature",
-      "id": 2,
+      "id": 15,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26048798",
@@ -44,12 +67,12 @@
         "block_address": "600 BLOCK BEECHER ST",
         "city": "LOUISVILLE",
         "zip_code": "40215",
-        "ObjectId": 2
+        "ObjectId": 15
       }
     },
     {
       "type": "Feature",
-      "id": 3,
+      "id": 20,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26048008",
@@ -67,12 +90,12 @@
         "block_address": "300 BLOCK MOCKINGBIRD HILL RD",
         "city": "LOUISVILLE",
         "zip_code": "40207",
-        "ObjectId": 3
+        "ObjectId": 20
       }
     },
     {
       "type": "Feature",
-      "id": 4,
+      "id": 24,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26047926",
@@ -90,12 +113,12 @@
         "block_address": "1800 BLOCK GRESHAM RD",
         "city": "LOUISVILLE",
         "zip_code": "40205",
-        "ObjectId": 4
+        "ObjectId": 24
       }
     },
     {
       "type": "Feature",
-      "id": 5,
+      "id": 25,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26047897",
@@ -113,12 +136,12 @@
         "block_address": "1800 BLOCK DATE ST",
         "city": "LOUISVILLE",
         "zip_code": "40210",
-        "ObjectId": 5
+        "ObjectId": 25
       }
     },
     {
       "type": "Feature",
-      "id": 6,
+      "id": 26,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26047599",
@@ -136,12 +159,12 @@
         "block_address": "600 BLOCK W OAK ST",
         "city": "LOUISVILLE",
         "zip_code": "40203",
-        "ObjectId": 6
+        "ObjectId": 26
       }
     },
     {
       "type": "Feature",
-      "id": 7,
+      "id": 27,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26047397",
@@ -159,145 +182,7 @@
         "block_address": "3500 BLOCK LODGE LN",
         "city": "LOUISVILLE",
         "zip_code": "40218",
-        "ObjectId": 7
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 8,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26046319",
-        "date_reported": "Sun, 19 Apr 2026 00:11:00 GMT",
-        "date_occurred": "Tue, 02 Dec 2025 01:55:00 GMT",
-        "badge_id": "8643",
-        "offense_classification": "56 ALL OTHER OFFENSES",
-        "offense_code_name": "HARASSING COMMUNICATIONS 525.080 02402 90Z",
-        "nibrs_code": "90Z",
-        "nibrs_group_name": "B",
-        "was_offense_completed": "NO",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "4700 BLOCK OAK BEND DR",
-        "city": "LOUISVILLE",
-        "zip_code": "40241",
-        "ObjectId": 8
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26044677",
-        "date_reported": "Wed, 15 Apr 2026 14:17:00 GMT",
-        "date_occurred": "Tue, 09 Sep 2025 04:00:00 GMT",
-        "badge_id": "8064",
-        "offense_classification": "23 THEFT OTHER",
-        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $1,000 < $10,000 514.040(8)(b) 71287 23H",
-        "nibrs_code": "23H",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "2ND DIVISION",
-        "lmpd_beat": "211",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "500 BLOCK N 42ND ST",
-        "city": "LOUISVILLE",
-        "zip_code": "40212",
-        "ObjectId": 9
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26043999",
-        "date_reported": "Mon, 13 Apr 2026 21:58:00 GMT",
-        "date_occurred": "Thu, 24 Jul 2025 04:00:00 GMT",
-        "badge_id": "8702",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "2ND DIVISION",
-        "lmpd_beat": "223",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "2600 BLOCK HALE AVE",
-        "city": "LOUISVILLE",
-        "zip_code": "40211",
-        "ObjectId": 10
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 11,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26043819",
-        "date_reported": "Mon, 13 Apr 2026 14:47:00 GMT",
-        "date_occurred": "Mon, 24 Nov 2025 05:00:00 GMT",
-        "badge_id": "8585",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "1ST DIVISION",
-        "lmpd_beat": "123",
-        "location_category": "COMMERCIAL/OFFICE BUILDING",
-        "block_address": "400 BLOCK W MAIN ST",
-        "city": "LOUISVILLE",
-        "zip_code": "40202",
-        "ObjectId": 11
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26043796",
-        "date_reported": "Mon, 13 Apr 2026 14:46:00 GMT",
-        "date_occurred": "Mon, 24 Nov 2025 05:00:00 GMT",
-        "badge_id": "8701",
-        "offense_classification": "23 THEFT OTHER",
-        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $1,000 < $10,000 514.040(8)(b) 71287 23H",
-        "nibrs_code": "23H",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "7TH DIVISION",
-        "lmpd_beat": "723",
-        "location_category": "BANK/SAVINGS AND LOAN",
-        "block_address": "7700 BLOCK OUTER LOOP",
-        "city": "LOUISVILLE",
-        "zip_code": "40228",
-        "ObjectId": 12
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26043794",
-        "date_reported": "Mon, 13 Apr 2026 14:24:00 GMT",
-        "date_occurred": "Mon, 01 Dec 2025 05:00:00 GMT",
-        "badge_id": "8701",
-        "offense_classification": "23 THEFT OTHER",
-        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $10,000 OR MORE 514.040(8)(c) 71289 23H",
-        "nibrs_code": "23H",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "1ST DIVISION",
-        "lmpd_beat": "123",
-        "location_category": "BANK/SAVINGS AND LOAN",
-        "block_address": "500 BLOCK S 6TH ST",
-        "city": "LOUISVILLE",
-        "zip_code": "40203",
-        "ObjectId": 13
+        "ObjectId": 27
       }
     }
   ],
@@ -305,12 +190,12 @@
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-04-27T08:02:56.445958",
-    "total_features": 70149,
+    "fetched_at": "2026-05-04T08:14:27.870164",
+    "total_features": 70155,
     "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
     "filtered": true,
     "days_included": 14,
-    "original_count": 70149,
-    "filtered_count": 13
+    "original_count": 70155,
+    "filtered_count": 8
   }
 }
