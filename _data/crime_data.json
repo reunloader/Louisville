@@ -1,23 +1,201 @@
 {
   "type": "FeatureCollection",
-  "name": "Louisville_Metro_KY_-_Crime_Data_2025",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  "features": [
+    {
+      "type": "Feature",
+      "id": 201,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26075898",
+        "date_reported": "Thu, 25 Jun 2026 17:09:00 GMT",
+        "date_occurred": "Fri, 07 Nov 2025 05:00:00 GMT",
+        "badge_id": "7143",
+        "offense_classification": "33 STOLEN PROPERTY",
+        "offense_code_name": "RECEIVING STOLEN PROPERTY (FIREARM) 514.110 28020 280",
+        "nibrs_code": "280",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "4TH DIVISION",
+        "lmpd_beat": "412",
+        "location_category": "LIQUOR STORE",
+        "block_address": "S PRESTON ST & E OAK ST",
+        "city": "LOUISVILLE",
+        "zip_code": "40203",
+        "ObjectId": 201
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26075755",
+        "date_reported": "Thu, 25 Jun 2026 13:20:00 GMT",
+        "date_occurred": "Sun, 01 Jun 2025 04:00:00 GMT",
+        "badge_id": "5107",
+        "offense_classification": "12 INTIMIDATION",
+        "offense_code_name": "STALKING-1ST DEGREE 508.140 13242 13C",
+        "nibrs_code": "13C",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "7TH DIVISION",
+        "lmpd_beat": "735",
+        "location_category": "SPECIALTY STORE",
+        "block_address": "7700 BLOCK SHEPHERDSVILLE RD",
+        "city": "LOUISVILLE",
+        "zip_code": "40219",
+        "ObjectId": 202
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26075459",
+        "date_reported": "Wed, 24 Jun 2026 20:16:00 GMT",
+        "date_occurred": "Mon, 03 Nov 2025 05:00:00 GMT",
+        "badge_id": "5410",
+        "offense_classification": "23 THEFT OTHER",
+        "offense_code_name": "THEFT OF SERVICES $10,000 OR MORE 514.060(4)(c) 23487 23H",
+        "nibrs_code": "23H",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "7TH DIVISION",
+        "lmpd_beat": "711",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "10400 BLOCK EASUM RD",
+        "city": "LOUISVILLE",
+        "zip_code": "40299",
+        "ObjectId": 203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD25110551",
+        "date_reported": "Wed, 24 Jun 2026 05:54:00 GMT",
+        "date_occurred": "Tue, 09 Sep 2025 17:10:00 GMT",
+        "badge_id": "7694",
+        "offense_classification": "56 ALL OTHER OFFENSES",
+        "offense_code_name": "CRUELTY TO ANIMALS - 2ND DEGREE 525.130 02625 720",
+        "nibrs_code": "720",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "5TH DIVISION",
+        "lmpd_beat": "525",
+        "location_category": "HIGHWAY/ ROAD/ ALLEY/ STREET/ SIDEWALK",
+        "block_address": null,
+        "city": "LOUISVILLE",
+        "zip_code": "40207",
+        "ObjectId": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26075009",
+        "date_reported": "Tue, 23 Jun 2026 21:29:00 GMT",
+        "date_occurred": "Sat, 25 Oct 2025 04:00:00 GMT",
+        "badge_id": "8585",
+        "offense_classification": "21 THEFT FR VEH",
+        "offense_code_name": "TBUT OR DISP CONTENTS FROM VEH $1,000 < $10,000 514.030 24142 23F",
+        "nibrs_code": "23F",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "5TH DIVISION",
+        "lmpd_beat": "512",
+        "location_category": "PARKING/ DROP LOT/ GARAGE",
+        "block_address": "1000 BLOCK BARDSTOWN RD",
+        "city": "LOUISVILLE",
+        "zip_code": "40204",
+        "ObjectId": 205
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26074917",
+        "date_reported": "Tue, 23 Jun 2026 18:03:00 GMT",
+        "date_occurred": "Mon, 08 Sep 2025 16:00:00 GMT",
+        "badge_id": "8631",
+        "offense_classification": "27 FRAUD",
+        "offense_code_name": "THEFT BY FAIL TO MAKE REQ DISP OF PROPERTY $10,000 OR MORE 514.070(4)(c) 23496 26A",
+        "nibrs_code": "26A",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "6TH DIVISION",
+        "lmpd_beat": "625",
+        "location_category": "COMMERCIAL/OFFICE BUILDING",
+        "block_address": "3000 BLOCK BRECKENRIDGE LN",
+        "city": "LOUISVILLE",
+        "zip_code": "40220",
+        "ObjectId": 206
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26074532",
+        "date_reported": "Mon, 22 Jun 2026 19:18:00 GMT",
+        "date_occurred": "Mon, 21 Jul 2025 19:30:00 GMT",
+        "badge_id": "5541",
+        "offense_classification": "23 THEFT OTHER",
+        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $10,000 OR MORE 514.040(8)(c) 71289 23H",
+        "nibrs_code": "23H",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "6TH DIVISION",
+        "lmpd_beat": "613",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "3500 BLOCK MAYO DR",
+        "city": "LOUISVILLE",
+        "zip_code": "40218",
+        "ObjectId": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26071796",
+        "date_reported": "Tue, 16 Jun 2026 14:02:00 GMT",
+        "date_occurred": "Tue, 30 Dec 2025 17:00:00 GMT",
+        "badge_id": "6532",
+        "offense_classification": "32 EMBEZZLEMENT",
+        "offense_code_name": "TBUT OR DISP ALL OTHERS $10,000 < $1,000,000 514.030 24098E 270",
+        "nibrs_code": "270",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "2ND DIVISION",
+        "lmpd_beat": "212",
+        "location_category": "OTHER/UNKNOWN",
+        "block_address": "1400 BLOCK SOUTHWESTERN PKWY",
+        "city": "LOUISVILLE",
+        "zip_code": "40211",
+        "ObjectId": 208
+      }
     }
-  },
-  "features": [],
+  ],
   "metadata": {
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-06-22T11:30:43.576712",
-    "total_features": 2606,
-    "download_url": "https://opendata.arcgis.com/api/v3/datasets/9de5b1d74b8140c5a99a40c613161fd4_0/downloads/data?format=geojson&spatialRefId=4326",
+    "fetched_at": "2026-06-29T10:18:30.394338",
+    "total_features": 70272,
+    "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
     "filtered": true,
     "days_included": 14,
-    "original_count": 2606,
-    "filtered_count": 0
+    "original_count": 70272,
+    "filtered_count": 8
   }
 }
