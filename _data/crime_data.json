@@ -3,30 +3,30 @@
   "features": [
     {
       "type": "Feature",
-      "id": 201,
+      "id": 46,
       "geometry": null,
       "properties": {
-        "incident_number": "LMPD26075898",
-        "date_reported": "Thu, 25 Jun 2026 17:09:00 GMT",
-        "date_occurred": "Fri, 07 Nov 2025 05:00:00 GMT",
-        "badge_id": "7143",
-        "offense_classification": "33 STOLEN PROPERTY",
-        "offense_code_name": "RECEIVING STOLEN PROPERTY (FIREARM) 514.110 28020 280",
-        "nibrs_code": "280",
+        "incident_number": "LMPD26078901",
+        "date_reported": "Thu, 02 Jul 2026 13:16:00 GMT",
+        "date_occurred": "Mon, 09 Jun 2025 04:00:00 GMT",
+        "badge_id": "8499",
+        "offense_classification": "29 FRAUD IMPERSONATION",
+        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
+        "nibrs_code": "26C",
         "nibrs_group_name": "A",
         "was_offense_completed": "YES",
-        "lmpd_division": "4TH DIVISION",
-        "lmpd_beat": "412",
-        "location_category": "LIQUOR STORE",
-        "block_address": "S PRESTON ST & E OAK ST",
+        "lmpd_division": "2ND DIVISION",
+        "lmpd_beat": "212",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "700 BLOCK S 44TH ST",
         "city": "LOUISVILLE",
-        "zip_code": "40203",
-        "ObjectId": 201
+        "zip_code": "40211",
+        "ObjectId": 46
       }
     },
     {
       "type": "Feature",
-      "id": 202,
+      "id": 72,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26075755",
@@ -34,7 +34,7 @@
         "date_occurred": "Sun, 01 Jun 2025 04:00:00 GMT",
         "badge_id": "5107",
         "offense_classification": "12 INTIMIDATION",
-        "offense_code_name": "STALKING-1ST DEGREE 508.140 13242 13C",
+        "offense_code_name": "STALKING-2ND DEGREE 508.150 13243 13C",
         "nibrs_code": "13C",
         "nibrs_group_name": "A",
         "was_offense_completed": "YES",
@@ -44,12 +44,12 @@
         "block_address": "7700 BLOCK SHEPHERDSVILLE RD",
         "city": "LOUISVILLE",
         "zip_code": "40219",
-        "ObjectId": 202
+        "ObjectId": 72
       }
     },
     {
       "type": "Feature",
-      "id": 203,
+      "id": 77,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26075459",
@@ -67,12 +67,12 @@
         "block_address": "10400 BLOCK EASUM RD",
         "city": "LOUISVILLE",
         "zip_code": "40299",
-        "ObjectId": 203
+        "ObjectId": 77
       }
     },
     {
       "type": "Feature",
-      "id": 204,
+      "id": 83,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD25110551",
@@ -90,12 +90,12 @@
         "block_address": null,
         "city": "LOUISVILLE",
         "zip_code": "40207",
-        "ObjectId": 204
+        "ObjectId": 83
       }
     },
     {
       "type": "Feature",
-      "id": 205,
+      "id": 90,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26075009",
@@ -113,12 +113,12 @@
         "block_address": "1000 BLOCK BARDSTOWN RD",
         "city": "LOUISVILLE",
         "zip_code": "40204",
-        "ObjectId": 205
+        "ObjectId": 90
       }
     },
     {
       "type": "Feature",
-      "id": 206,
+      "id": 94,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26074917",
@@ -136,12 +136,12 @@
         "block_address": "3000 BLOCK BRECKENRIDGE LN",
         "city": "LOUISVILLE",
         "zip_code": "40220",
-        "ObjectId": 206
+        "ObjectId": 94
       }
     },
     {
       "type": "Feature",
-      "id": 207,
+      "id": 99,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26074532",
@@ -159,30 +159,7 @@
         "block_address": "3500 BLOCK MAYO DR",
         "city": "LOUISVILLE",
         "zip_code": "40218",
-        "ObjectId": 207
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 208,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26071796",
-        "date_reported": "Tue, 16 Jun 2026 14:02:00 GMT",
-        "date_occurred": "Tue, 30 Dec 2025 17:00:00 GMT",
-        "badge_id": "6532",
-        "offense_classification": "32 EMBEZZLEMENT",
-        "offense_code_name": "TBUT OR DISP ALL OTHERS $10,000 < $1,000,000 514.030 24098E 270",
-        "nibrs_code": "270",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "2ND DIVISION",
-        "lmpd_beat": "212",
-        "location_category": "OTHER/UNKNOWN",
-        "block_address": "1400 BLOCK SOUTHWESTERN PKWY",
-        "city": "LOUISVILLE",
-        "zip_code": "40211",
-        "ObjectId": 208
+        "ObjectId": 99
       }
     }
   ],
@@ -190,12 +167,12 @@
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-06-29T10:18:30.394338",
-    "total_features": 70272,
+    "fetched_at": "2026-07-06T09:52:32.391779",
+    "total_features": 70279,
     "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
     "filtered": true,
     "days_included": 14,
-    "original_count": 70272,
-    "filtered_count": 8
+    "original_count": 70279,
+    "filtered_count": 7
   }
 }
