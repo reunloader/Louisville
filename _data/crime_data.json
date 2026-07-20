@@ -1,178 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26082472",
-        "date_reported": "Fri, 10 Jul 2026 19:46:00 GMT",
-        "date_occurred": "Mon, 01 Dec 2025 05:00:00 GMT",
-        "badge_id": "5563",
-        "offense_classification": "13 BURGLARY",
-        "offense_code_name": "BURGLARY - 3RD DEGREE 511.040 22062 220",
-        "nibrs_code": "220",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "6TH DIVISION",
-        "lmpd_beat": "613",
-        "location_category": "RENTAL STORAGE FACILITY",
-        "block_address": "1400 BLOCK BUNTON RD",
-        "city": "WATTERSON PARK",
-        "zip_code": "40213",
-        "ObjectId": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26082448",
-        "date_reported": "Fri, 10 Jul 2026 19:29:00 GMT",
-        "date_occurred": "Tue, 25 Nov 2025 05:00:00 GMT",
-        "badge_id": "8652",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "3RD DIVISION",
-        "lmpd_beat": "315",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "4900 BLOCK W PAGES LN",
-        "city": "LOUISVILLE",
-        "zip_code": "40258",
-        "ObjectId": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 3,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26082388",
-        "date_reported": "Fri, 10 Jul 2026 17:15:00 GMT",
-        "date_occurred": "Wed, 31 Dec 2025 05:00:00 GMT",
-        "badge_id": "8560",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "812",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "7400 BLOCK SPRINGVALE DR",
-        "city": "SPRING VALLEY",
-        "zip_code": "40241",
-        "ObjectId": 3
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 4,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26082030",
-        "date_reported": "Thu, 09 Jul 2026 20:24:00 GMT",
-        "date_occurred": "Wed, 05 Nov 2025 05:00:00 GMT",
-        "badge_id": "8652",
-        "offense_classification": "56 ALL OTHER OFFENSES",
-        "offense_code_name": "HARASSING COMMUNICATIONS 525.080 02402 90Z",
-        "nibrs_code": "90Z",
-        "nibrs_group_name": "B",
-        "was_offense_completed": "NO",
-        "lmpd_division": "2ND DIVISION",
-        "lmpd_beat": "236",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "0 BLOCK TRAILS END RD",
-        "city": "LOUISVILLE",
-        "zip_code": "40216",
-        "ObjectId": 4
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 5,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26081585",
-        "date_reported": "Wed, 08 Jul 2026 22:25:00 GMT",
-        "date_occurred": "Sat, 05 Jul 2025 16:00:00 GMT",
-        "badge_id": "5314",
-        "offense_classification": "38 PORNOGRAPHY",
-        "offense_code_name": "DIST OF SEXUALLY EXPLICIT IMAGES W/OUT CONSENT 1ST OFFENSE 531.020 01765 370",
-        "nibrs_code": "370",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "7TH DIVISION",
-        "lmpd_beat": "723",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "6400 BLOCK FERN CREST RD",
-        "city": "LOUISVILLE",
-        "zip_code": "40291",
-        "ObjectId": 5
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 6,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26081128",
-        "date_reported": "Tue, 07 Jul 2026 21:08:00 GMT",
-        "date_occurred": "Sun, 09 Mar 2025 05:00:00 GMT",
-        "badge_id": "8585",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "815",
-        "location_category": "PARKING/ DROP LOT/ GARAGE",
-        "block_address": "9800 BLOCK FARNHAM DR",
-        "city": "LOUISVILLE",
-        "zip_code": "40223",
-        "ObjectId": 6
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 7,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26078901",
-        "date_reported": "Thu, 02 Jul 2026 13:16:00 GMT",
-        "date_occurred": "Mon, 09 Jun 2025 04:00:00 GMT",
-        "badge_id": "8499",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "2ND DIVISION",
-        "lmpd_beat": "212",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "700 BLOCK S 44TH ST",
-        "city": "LOUISVILLE",
-        "zip_code": "40211",
-        "ObjectId": 7
-      }
+  "name": "Louisville_Metro_KY_-_Crime_Data_2025",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
-  ],
+  },
+  "features": [],
   "metadata": {
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-07-13T08:44:05.376830",
-    "total_features": 70296,
-    "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
+    "fetched_at": "2026-07-20T08:35:36.939124",
+    "total_features": 2606,
+    "download_url": "https://opendata.arcgis.com/api/v3/datasets/9de5b1d74b8140c5a99a40c613161fd4_0/downloads/data?format=geojson&spatialRefId=4326",
     "filtered": true,
     "days_included": 14,
-    "original_count": 70296,
-    "filtered_count": 7
+    "original_count": 2606,
+    "filtered_count": 0
   }
 }
