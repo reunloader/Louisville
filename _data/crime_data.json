@@ -3,7 +3,76 @@
   "features": [
     {
       "type": "Feature",
-      "id": 101,
+      "id": 1,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26093944",
+        "date_reported": "Thu, 06 Aug 2026 18:40:00 GMT",
+        "date_occurred": "Fri, 21 Feb 2025 05:00:00 GMT",
+        "badge_id": "8391",
+        "offense_classification": "56 ALL OTHER OFFENSES",
+        "offense_code_name": "FAILURE TO COMPLY W/SEX OFFENDER REGISTRATION - 1ST OFF 17.510(11) 01680 90Z",
+        "nibrs_code": "90Z",
+        "nibrs_group_name": "B",
+        "was_offense_completed": "NO",
+        "lmpd_division": "3RD DIVISION",
+        "lmpd_beat": "331",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "4900 BLOCK CHISMOOR CT",
+        "city": "LOUISVILLE",
+        "zip_code": "40258",
+        "ObjectId": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26093588",
+        "date_reported": "Wed, 05 Aug 2026 21:52:00 GMT",
+        "date_occurred": "Wed, 01 Oct 2025 04:00:00 GMT",
+        "badge_id": "8652",
+        "offense_classification": "29 FRAUD IMPERSONATION",
+        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
+        "nibrs_code": "26C",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "1ST DIVISION",
+        "lmpd_beat": "111",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "2700 BLOCK ALFORD AVE",
+        "city": "LOUISVILLE",
+        "zip_code": "40212",
+        "ObjectId": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26093563",
+        "date_reported": "Wed, 05 Aug 2026 19:34:00 GMT",
+        "date_occurred": "Thu, 07 Aug 2025 11:00:00 GMT",
+        "badge_id": "5848",
+        "offense_classification": "23 THEFT OTHER",
+        "offense_code_name": "TBUT OR DISP ALL OTHERS $10,000 < $1,000,000 514.030 24098 23H",
+        "nibrs_code": "23H",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "5TH DIVISION",
+        "lmpd_beat": "513",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "1900 BLOCK LAUDERDALE RD",
+        "city": "LOUISVILLE",
+        "zip_code": "40205",
+        "ObjectId": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26091919",
@@ -21,12 +90,12 @@
         "block_address": "8200 BLOCK PRESTON HWY",
         "city": "LOUISVILLE",
         "zip_code": "40219",
-        "ObjectId": 101
+        "ObjectId": 4
       }
     },
     {
       "type": "Feature",
-      "id": 102,
+      "id": 5,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26091485",
@@ -44,12 +113,12 @@
         "block_address": "4100 BLOCK HAZELWOOD AVE",
         "city": "LOUISVILLE",
         "zip_code": "40215",
-        "ObjectId": 102
+        "ObjectId": 5
       }
     },
     {
       "type": "Feature",
-      "id": 103,
+      "id": 6,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26091406",
@@ -67,12 +136,12 @@
         "block_address": "900 BLOCK STONEYKIRK DR",
         "city": "DOUGLASS HILLS",
         "zip_code": "40223",
-        "ObjectId": 103
+        "ObjectId": 6
       }
     },
     {
       "type": "Feature",
-      "id": 104,
+      "id": 7,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26090626",
@@ -90,12 +159,12 @@
         "block_address": "3500 BLOCK NEWBURG RD",
         "city": "WATTERSON PARK",
         "zip_code": "40218",
-        "ObjectId": 104
+        "ObjectId": 7
       }
     },
     {
       "type": "Feature",
-      "id": 105,
+      "id": 8,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26090572",
@@ -113,12 +182,12 @@
         "block_address": "3800 BLOCK GAYWOOD DR",
         "city": "LOUISVILLE",
         "zip_code": "40272",
-        "ObjectId": 105
+        "ObjectId": 8
       }
     },
     {
       "type": "Feature",
-      "id": 106,
+      "id": 9,
       "geometry": null,
       "properties": {
         "incident_number": "LMPD26089729",
@@ -126,7 +195,7 @@
         "date_occurred": "Tue, 01 Jul 2025 04:00:00 GMT",
         "badge_id": "8454",
         "offense_classification": "24 VANDALISM",
-        "offense_code_name": "CRIMINAL MISCHIEF - 1ST DEGREE 512.020 01401 290",
+        "offense_code_name": "CRIMINAL MISCHIEF-2ND DEGREE 512.030 01402 290",
         "nibrs_code": "290",
         "nibrs_group_name": "A",
         "was_offense_completed": "YES",
@@ -136,191 +205,7 @@
         "block_address": "1900 BLOCK BANK ST",
         "city": "LOUISVILLE",
         "zip_code": "40203",
-        "ObjectId": 106
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 107,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26087540",
-        "date_reported": "Wed, 22 Jul 2026 15:39:00 GMT",
-        "date_occurred": "Mon, 20 Oct 2025 04:00:00 GMT",
-        "badge_id": "4354",
-        "offense_classification": "23 THEFT OTHER",
-        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $1,000 < $10,000 514.040(8)(b) 71287 23H",
-        "nibrs_code": "23H",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "6TH DIVISION",
-        "lmpd_beat": "625",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "4100 BLOCK MANNER DALE DR",
-        "city": "LOUISVILLE",
-        "zip_code": "40220",
-        "ObjectId": 107
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 108,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086960",
-        "date_reported": "Tue, 21 Jul 2026 03:41:00 GMT",
-        "date_occurred": "Thu, 25 Dec 2025 05:00:00 GMT",
-        "badge_id": "7371",
-        "offense_classification": "43 PROSTITUTION",
-        "offense_code_name": "HUMAN TRAFFICKING - COMM SEX ACTIVITY (VICTIM< 18) 529.100 40063 64B",
-        "nibrs_code": "64B",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "OTHER RESIDENCE (APARTMENT/CONDO)",
-        "block_address": "11300 BLOCK POWHATAN CT",
-        "city": "LOUISVILLE",
-        "zip_code": "40241",
-        "ObjectId": 108
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 109,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086960",
-        "date_reported": "Tue, 21 Jul 2026 03:41:00 GMT",
-        "date_occurred": "Thu, 25 Dec 2025 05:00:00 GMT",
-        "badge_id": "7371",
-        "offense_classification": "44 PROMOTING PROSTITUTION",
-        "offense_code_name": "PROMOTING HUMAN TRAFFICKING (VICTIM U/18 YOA) 529.110 40077 40B",
-        "nibrs_code": "40B",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "OTHER RESIDENCE (APARTMENT/CONDO)",
-        "block_address": "11300 BLOCK POWHATAN CT",
-        "city": "LOUISVILLE",
-        "zip_code": "40241",
-        "ObjectId": 109
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 110,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086960",
-        "date_reported": "Tue, 21 Jul 2026 03:41:00 GMT",
-        "date_occurred": "Thu, 25 Dec 2025 05:00:00 GMT",
-        "badge_id": "7371",
-        "offense_classification": "4 FORCIBLE RAPE",
-        "offense_code_name": "RAPE - 1ST DEGREE 510.040 10990 11A",
-        "nibrs_code": "11A",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "OTHER RESIDENCE (APARTMENT/CONDO)",
-        "block_address": "11300 BLOCK POWHATAN CT",
-        "city": "LOUISVILLE",
-        "zip_code": "40241",
-        "ObjectId": 110
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 111,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086960",
-        "date_reported": "Tue, 21 Jul 2026 03:41:00 GMT",
-        "date_occurred": "Thu, 25 Dec 2025 05:00:00 GMT",
-        "badge_id": "7371",
-        "offense_classification": "5 SODOMY FORCE",
-        "offense_code_name": "SODOMY - 1ST DEGREE 510.070 11180 11B",
-        "nibrs_code": "999",
-        "nibrs_group_name": "B",
-        "was_offense_completed": "NO",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "OTHER RESIDENCE (APARTMENT/CONDO)",
-        "block_address": "11300 BLOCK POWHATAN CT",
-        "city": "LOUISVILLE",
-        "zip_code": "40241",
-        "ObjectId": 111
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 112,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086960",
-        "date_reported": "Tue, 21 Jul 2026 03:41:00 GMT",
-        "date_occurred": "Thu, 25 Dec 2025 05:00:00 GMT",
-        "badge_id": "7371",
-        "offense_classification": "7 FORCIBLE FONDLING",
-        "offense_code_name": "SEXUAL ABUSE - 1ST DEGREE 510.110 11220 11D",
-        "nibrs_code": "999",
-        "nibrs_group_name": "B",
-        "was_offense_completed": "NO",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "OTHER RESIDENCE (APARTMENT/CONDO)",
-        "block_address": "11300 BLOCK POWHATAN CT",
-        "city": "LOUISVILLE",
-        "zip_code": "40241",
-        "ObjectId": 112
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 113,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086710",
-        "date_reported": "Mon, 20 Jul 2026 17:09:00 GMT",
-        "date_occurred": "Wed, 01 Oct 2025 04:00:00 GMT",
-        "badge_id": "5478",
-        "offense_classification": "13 BURGLARY",
-        "offense_code_name": "BURGLARY - 1ST DEGREE 511.020 22060 220",
-        "nibrs_code": "220",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "4TH DIVISION",
-        "lmpd_beat": "450",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "4900 BLOCK MANSLICK RD",
-        "city": "LOUISVILLE",
-        "zip_code": "40216",
-        "ObjectId": 113
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 114,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26086646",
-        "date_reported": "Mon, 20 Jul 2026 14:56:00 GMT",
-        "date_occurred": "Wed, 01 Oct 2025 04:00:00 GMT",
-        "badge_id": "5128",
-        "offense_classification": "23 THEFT OTHER",
-        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $10,000 OR MORE 514.040(8)(c) 71289 23H",
-        "nibrs_code": "23H",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "823",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "2700 BLOCK FLAT ROCK RD",
-        "city": "LOUISVILLE",
-        "zip_code": "40245",
-        "ObjectId": 114
+        "ObjectId": 9
       }
     }
   ],
@@ -328,12 +213,12 @@
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-08-03T08:59:20.869685",
-    "total_features": 70335,
+    "fetched_at": "2026-08-10T07:06:13.266666",
+    "total_features": 70340,
     "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
     "filtered": true,
     "days_included": 14,
-    "original_count": 70335,
-    "filtered_count": 14
+    "original_count": 70340,
+    "filtered_count": 9
   }
 }
