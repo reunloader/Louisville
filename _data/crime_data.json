@@ -1,63 +1,16 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26111783",
-        "date_reported": "Fri, 18 Sep 2026 11:46:00 GMT",
-        "date_occurred": "Wed, 26 Nov 2025 05:01:00 GMT",
-        "badge_id": "8358",
-        "offense_classification": "23 THEFT OTHER",
-        "offense_code_name": "THEFT BY DECEPTION INCLUDING COLD CHECKS $10,000 OR MORE 514.040(8)(c) 71289 23H",
-        "nibrs_code": "23H",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "8TH DIVISION",
-        "lmpd_beat": "811",
-        "location_category": "OTHER RESIDENCE (APARTMENT/CONDO)",
-        "block_address": "6300 BLOCK BASS RD",
-        "city": "PROSPECT",
-        "zip_code": "40059",
-        "ObjectId": 1
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2,
-      "geometry": null,
-      "properties": {
-        "incident_number": "LMPD26110905",
-        "date_reported": "Mon, 14 Sep 2026 19:05:00 GMT",
-        "date_occurred": "Fri, 14 Nov 2025 05:00:00 GMT",
-        "badge_id": "8702",
-        "offense_classification": "29 FRAUD IMPERSONATION",
-        "offense_code_name": "THEFT OF IDENTITY OF ANOTHER WITHOUT CONSENT 514.160 23310 26C",
-        "nibrs_code": "26C",
-        "nibrs_group_name": "A",
-        "was_offense_completed": "YES",
-        "lmpd_division": "5TH DIVISION",
-        "lmpd_beat": "521",
-        "location_category": "RESIDENCE/HOME",
-        "block_address": "2700 BLOCK SEMINARY CT",
-        "city": "LOUISVILLE",
-        "zip_code": "40206",
-        "ObjectId": 2
-      }
-    }
-  ],
+  "features": [],
   "metadata": {
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-09-28T12:14:03.454445",
+    "fetched_at": "2026-10-05T12:54:01.037542",
     "total_features": 70385,
     "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
     "filtered": true,
     "days_included": 14,
     "original_count": 70385,
-    "filtered_count": 2
+    "filtered_count": 0
   }
 }
