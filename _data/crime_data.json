@@ -1,23 +1,109 @@
 {
   "type": "FeatureCollection",
-  "name": "Louisville_Metro_KY_-_Crime_Data_2025",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  "features": [
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26120503",
+        "date_reported": "Thu, 08 Oct 2026 16:48:00 GMT",
+        "date_occurred": "Wed, 08 Oct 2025 04:00:00 GMT",
+        "badge_id": "5233",
+        "offense_classification": "5 SODOMY FORCE",
+        "offense_code_name": "SODOMY - 1ST DEGREE 510.070 11180 11B",
+        "nibrs_code": "11B",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "1ST DIVISION",
+        "lmpd_beat": "135",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "900 BLOCK E CHESTNUT ST",
+        "city": "LOUISVILLE",
+        "zip_code": "40204",
+        "ObjectId": 151
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26120127",
+        "date_reported": "Wed, 07 Oct 2026 17:54:00 GMT",
+        "date_occurred": "Wed, 01 Oct 2025 04:00:00 GMT",
+        "badge_id": "8584",
+        "offense_classification": "19 THEFT FR BLDG",
+        "offense_code_name": "TBUT OR DISP FROM BUILDING $10,000 < $1,000,000 514.030 24163 23D",
+        "nibrs_code": "23D",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "4TH DIVISION",
+        "lmpd_beat": "412",
+        "location_category": "COMMERCIAL/OFFICE BUILDING",
+        "block_address": "500 BLOCK BERGMAN ST",
+        "city": "LOUISVILLE",
+        "zip_code": "40203",
+        "ObjectId": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26119635",
+        "date_reported": "Tue, 06 Oct 2026 16:10:00 GMT",
+        "date_occurred": "Tue, 18 Nov 2025 17:00:00 GMT",
+        "badge_id": "6532",
+        "offense_classification": "24 VANDALISM",
+        "offense_code_name": "CRIMINAL MISCHIEF - 1ST DEGREE 512.020 01401 290",
+        "nibrs_code": "290",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "2ND DIVISION",
+        "lmpd_beat": "236",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "3200 BLOCK KRISTIN WAY",
+        "city": "LOUISVILLE",
+        "zip_code": "40216",
+        "ObjectId": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": null,
+      "properties": {
+        "incident_number": "LMPD26119245",
+        "date_reported": "Mon, 05 Oct 2026 14:20:00 GMT",
+        "date_occurred": "Fri, 14 Nov 2025 05:00:00 GMT",
+        "badge_id": "7962",
+        "offense_classification": "23 THEFT OTHER",
+        "offense_code_name": "THEFT OF SERVICES $1,000 TO < $10,000 514.060(4)(b) 23485 23H",
+        "nibrs_code": "23H",
+        "nibrs_group_name": "A",
+        "was_offense_completed": "YES",
+        "lmpd_division": "7TH DIVISION",
+        "lmpd_beat": "735",
+        "location_category": "RESIDENCE/HOME",
+        "block_address": "5400 BLOCK TACOMA CT",
+        "city": "LOUISVILLE",
+        "zip_code": "40219",
+        "ObjectId": 154
+      }
     }
-  },
-  "features": [],
+  ],
   "metadata": {
     "source": "Louisville Metro KY - LOJIC",
     "year": 2025,
     "dataset_id": "9de5b1d74b8140c5a99a40c613161fd4",
-    "fetched_at": "2026-10-12T13:46:24.116499",
-    "total_features": 2606,
-    "download_url": "https://opendata.arcgis.com/api/v3/datasets/9de5b1d74b8140c5a99a40c613161fd4_0/downloads/data?format=geojson&spatialRefId=4326",
+    "fetched_at": "2026-10-19T11:27:13.777314",
+    "total_features": 70403,
+    "download_url": "https://opendata.arcgis.com/datasets/9de5b1d74b8140c5a99a40c613161fd4_0.geojson",
     "filtered": true,
     "days_included": 14,
-    "original_count": 2606,
-    "filtered_count": 0
+    "original_count": 70403,
+    "filtered_count": 4
   }
 }
